@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>439379</articleId>
+    <title>ලංකා බැංකුව ලොව හොඳම බැංකු දහස අතරට</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජූලි මස 21 11:47:42</date>
+    <body>ලොව ප්‍රධාන පෙළේ බැංකු දහස අතරට ලංකා බැංකුවද ඇතුළු වෙතියි ලන්ඩනයේ ‘ද බෑන්කර්‘ සඟරාව පසුගිය ජූලි කලාපයෙන් කියයි.
+ලංකා බැංකුව ශ්‍රී ලංකාවේ අංක එකේ බැංකුව ලෙසද එම සඟරාව හඳුන්වයි. 2015 ආසියාවේ ශක්තිමත්ම බැංකුව ලෙස ඒෂියන් බෑන්කර් සඟරාව ලංකා බැංකුව හැඳින්වීය. ජාතික ව්‍යාපාර විශිෂ්ටතා සම්මාන උළෙලේ දී පිටපිටම අට වතාවක් ලංකා බැංකුව රන් සම්මානයෙන් පුද ලැබීය.
+මේ වසරේදී ලංකා බැංකුව දෙවැනි ට්‍රිලියන තැන්පතුවද හිමිකර ගත්තේය. ට්‍රිලියනය යනු ලක්ෂ කෝටියකි. (10000000000000)</body>
+    <comments>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-07-22 10:42:10</date>
+            <index>0</index>
+            <phrase>මේ සඳහා කැපවී වැඩ කල සියලු දෙනාට සුබපැතුම් එක් කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවරඑළියේ වසන්ත</author>
+            <date>2016-07-22 10:37:47</date>
+            <index>1</index>
+            <phrase>අංක එකේ බැංකුව උනාට වැඩක් කරගන්න යන්න ඕනේ බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ</author>
+            <date>2016-07-22 23:45:10</date>
+            <index>2</index>
+            <phrase>මම නම් කියන්නේ මේ බැංකුව කාර්යක්ෂම කිරීමට නම් පුද්ගලීකරණය කළයුතුයි කියායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල්</author>
+            <date>2016-07-23 06:57:33</date>
+            <index>3</index>
+            <phrase>අපිට හරිම සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-07-23 07:31:33</date>
+            <index>4</index>
+            <phrase>මම නම් මේ බැංකුවට කැමති නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදර්ශන</author>
+            <date>2016-07-23 11:31:45</date>
+            <index>5</index>
+            <phrase>ගොඩක් සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදර්ශන</author>
+            <date>2016-07-23 11:32:26</date>
+            <index>6</index>
+            <phrase>අපිනේ ඒ ගැන දන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-07-23 11:27:53</date>
+            <index>7</index>
+            <phrase>මේ වගේ දෙයක් අහන්න ලැබීමත් සතුටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2016-07-23 11:36:18</date>
+            <index>8</index>
+            <phrase>ලංකා බැංකුවේ ඒටීඑම් යන්ත්‍ර වල මුදල් නෑනේ ගන්න ගියාම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-07-23 11:31:42</date>
+            <index>9</index>
+            <phrase>ලංකා බැංකුවෙන් ලෝන් එකක් ගන්න ගියාම විදින දුක දන්නේ අපිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-07-23 19:36:16</date>
+            <index>10</index>
+            <phrase>සුබ පැතුම් අපෙන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-07-24 02:23:15</date>
+            <index>11</index>
+            <phrase>අබේ කියනදේම තමයි මටත් හිතෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2016-07-24 02:38:48</date>
+            <index>12</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-07-24 03:38:04</date>
+            <index>13</index>
+            <phrase>අබේ ඔයා කිව්වා හරි මේ බැංකුවේ සමහරු වැඩ කරන්නේ රජයේ ඉස්පිරිතාලවල වගේ. නොකර බැරිකමට. කට්ටිය පුරවලා ඉන්නවා හැම පක්ෂයකම වගේ. වැඩ තමයි නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාපාල</author>
+            <date>2016-07-24 19:53:44</date>
+            <index>14</index>
+            <phrase>සමන්, ලංකා බැංකුවෙන් නෙ‍මෙයි මොන බැංකුවකින් හෝ ණයක් ගන්න ඔබ සුදුස්සෙක් වෙන්න ඕනෑ. මම මීට බොහෝ කලකට ඉහත ලංකා බැංකුවෙන් ඉතාම කෙටි කලකින් ණයක් ලබාගත් කෙනෙකු ලෙස ස්තුති කිරීමක් වශයෙනුයි මේ සටහන තබන්නේ. නමුත් ඉතාම පහළ පවුල් පසුබිම් ඇති අය බැංකුවල ඉහළ තනතුරු වලට පත්වී ඔලුව උදුම්මාගෙන ඉන්න අයත් ඔය අතර ඉන්න පුළුවන්. ලංකා බැංකුවට මාගේ ශුභ පැතුම්!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-07-25 12:14:15</date>
+            <index>15</index>
+            <phrase>ලංකා බැංකුව අකාර්යක්ෂමයි කියන එක වැරදියි. හැබැයි ණය පාස්කරලා දුන්නම සමහරු සන්තෝසම් ගන්න එක නම් හොඳ දෙයක් නොවෙයි. ඒවාට ඉතින් අපේ ගනුදෙනුකරුවොත් වගකියන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-07-27 04:19:33</date>
+            <index>16</index>
+            <phrase>අංක 1 වුනාට වැඩක් තියෙනවද, බැංකුවේ සේවකයෙකුට තමන්ගේ සේවක ලෝන් එක ගනිද්දි බැංකුව කටයුතු කරන හැටි අපි දන්නවනේ ඉතින් පොදු ගනුදෙනුකරුවන්ට කොහොමද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2016-07-30 05:10:55</date>
+            <index>17</index>
+            <phrase>ලංකා බැංකුවේ බියගම ශාඛාවේ කාර්ය මණ්ඩලය ඉතාම කඩිසරයි. සුහද ශීලියි. සැමට සුභ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිර</author>
+            <date>2016-07-30 05:06:24</date>
+            <index>18</index>
+            <phrase>ලංකා බැංකුවේ කාර්ය මණ්ඩලයේ සැමට සුභ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2016-07-30 05:14:14</date>
+            <index>19</index>
+            <phrase>වෙන ශාඛාවල කොහොමද මන්දා? බියගම ශාඛාවේ කාර්ය මණ්ඩලය නම් කාර්යක්ෂමයි. සුහද ශීලියි. ලංකා බැංකුවට සුභ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේව්</author>
+            <date>2016-07-30 10:28:00</date>
+            <index>20</index>
+            <phrase>ජගත් කුරුදුකුඹුර වගේ දක්ෂ නිලධාරීන් ඉන්නාතුරු ලංකා බැංකුව තවත් ජයග්‍රහණ ලබනවා. සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

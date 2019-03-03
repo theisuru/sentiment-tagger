@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>438910</articleId>
+    <title>යාපනය සරසවියේ පීඨ තුනක් විවෘත කරයි</title>
+    <author>රොමේෂ් මධුසංඛ</author>
+    <date>2016 ජූලි මස 20 10:26:49</date>
+    <body>සිසු ගැටුමක් නිසා වසා දැමුණු යාපනය සරසවියේ ඉංජිනේරු, කෘෂි හා වෛද්‍ය පීඨ අද යළි විවෘත කරන බව එහි උපකුලපති වසන්ති අරසරත්නම් මහත්මිය පැවසුවාය.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-07-20 05:40:39</date>
+            <index>0</index>
+            <phrase>ප්‍රශ්න ඇතිකරගන්න එපා කියලා ශිෂ්‍යයින් දැනුවත් කළොත් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසුන්දර</author>
+            <date>2016-07-20 06:27:56</date>
+            <index>1</index>
+            <phrase>මොනවද මේ දැන් ඇතිවෙන මෙච්චර කාලෙකට ඇතිනොවුණ ප්‍රශ්න?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉඳුනිල්</author>
+            <date>2016-07-20 06:59:16</date>
+            <index>2</index>
+            <phrase>වැරදිකාරයින්ට දඬුවම් දී නැවත මෙවැනි සිදුවීම් වීම වළක්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-07-20 07:14:56</date>
+            <index>3</index>
+            <phrase>හැමදාම සහජිවනේ උගන්නන්නේ ගුටිකන අයට. රටේ නායකයෝ කියන්නෙත් ගුටිකාපු, බැටකාපු අයට සහජිවනේ ඉගැන්විය යුතු බවයි. අනේ මන්දා මට පිස්සුද කියලා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-07-20 12:04:41</date>
+            <index>4</index>
+            <phrase>අද පටන් සහජීවනය සංහිදියාව උතුරට කියල දෙන්න කටයුතු කරන්න. මෙය දකුණේ සිදුවූ දෙයක නොවන නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

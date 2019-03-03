@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45959</articleId>
+    <title>දුෂ්කර පාසලටත් නව තාක්ෂණය</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 01 11:31:00</date>
+    <body>රජයේ ”පාසල් 1000” ව්‍යාපෘතියට සමගාමීව, තොරතුරු තාක්ෂණ විෂය සංවර්ධන සඳහා වන ගිවිසුමකට පසුගියදා අධ්‍යාපන අමාත්‍යංශයේදී අමාත්‍යංශ ලේකම් එච්.එම්. ගුණසේකර මහතා හා ඉන්ටෙල් සමාගමේ ශ්‍රී ලංකා කළමනාකරු ඉන්දික ද සොයිසා මහතා අත්සන් කළහ.
+විසි එක් වැනි සියවසට ඔබින ශ‍්‍රම බළකායක් ගොඩනැගීමේ පරමාර්ථයෙන් දුෂ්කර පාසල්වල දරුවන්ගේ තොරතුරු තාක්ෂණ කුසලතා නැංවීම මෙහි අරමුණ බව රජය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අහිංසක</author>
+            <date>2012-06-01 16:08:20</date>
+            <index>0</index>
+            <phrase>අපේ ඉකෝන් සර් ඕක කිව්වා. බොහොම හොඳ අදහසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිල්හාන්</author>
+            <date>2012-06-02 14:45:38</date>
+            <index>1</index>
+            <phrase>බොහොම හොඳයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-06-05 10:13:36</date>
+            <index>2</index>
+            <phrase>ඒ වුනාට දන්නවද තවමත් ලංකාවෙ විදුලිය නැති පාසල් කොයි තරම් නම් තියෙනවද කියල/</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-06-05 10:13:46</date>
+            <index>3</index>
+            <phrase>හැකි ඉක්මනින් ක්‍රියාවට නැංවිය යුතු යෝජනාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එමාර්</author>
+            <date>2012-06-05 18:22:53</date>
+            <index>4</index>
+            <phrase>අතිරික්තය?? මොන බොරැද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>avuin</author>
+            <date>2012-06-06 09:52:30</date>
+            <index>5</index>
+            <phrase>ගමේ දරුවන්ටත් හොඳ කාලයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාෂා</author>
+            <date>2012-06-16 20:41:24</date>
+            <index>6</index>
+            <phrase>මොන බෙරැද ඕව කියනවා විතරයි. මාසයකට පස්සේ වගේ වගක් නැතිව ඉදීවි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-01-12 12:19:12</date>
+            <index>7</index>
+            <phrase>බොහොම හොඳ වැඩක්. කොළඹට කිරි නම් ගමටත් කිරිම දෙමු කැකිරි නොදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

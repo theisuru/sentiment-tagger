@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53323</articleId>
+    <title>දුමින්දගෙ සම්බන්ධිරණ ලේකම් රිමාන්ඞ්</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2012 ජූලි මස 15 11:13:22</date>
+    <body>යෞවන කටයුතු හා නිපුණතා සංවර්ධන නියෝජ්‍ය ඇමැති දුමින්ද  දිසානායක මහතාගේ සම්බන්ධිරණ ලේකම් නන්දන ලොකුබරණ අනුරාධපුර මහේස්ත‍්‍රාත් රුවන්දිකා මාරපන මහත්මිය විසින් ලබන 22 වැනිද තෙක් රිමාන්ඞ් කරනු ලැබීය.
+පෞද්ගලික සමාගම් දෙකක අගරු චෙක්පත් දී රුපියල් දස ලක්‍ෂයකට  අසන්න  මුදලක් වංචා කළැයි චෝදනා ලබා සිටි ඔහු වසරක් පමණ අධිකරණය මඟහැර සිටි බවත් අනුරාධපුර පොලීසිය ඔහු අත්අඩංගුවට ගැනීම මඟහැර සිටි බවත් අධිරණයේදී කියැවිණි.</body>
+    <comments>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-15 12:09:44</date>
+            <index>0</index>
+            <phrase>ඕක මොකක්ද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2012-07-15 22:54:35</date>
+            <index>1</index>
+            <phrase>අනේ එතකොට අර මාධ්‍ය වේදී එතුමාගේ අගරු චෙච්ක්පත සිද්දිය ගෙන බලන්නේ ශ්‍රී ලංකා පොලිසිය නෙමෙයිද ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙළයා</author>
+            <date>2012-07-15 23:47:58</date>
+            <index>2</index>
+            <phrase>මෙච්චර ප්‍රසිද්ධ ලේකම් කෙනෙක් කොහොමද අවුරුද්දක්ම හැංගිලා ඉන්නේ? පුදුමම තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-16 01:32:03</date>
+            <index>3</index>
+            <phrase>මේ දුමින්ද නෙමෙයි අපිට වැදගත්, "අර" දුමින්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපුරේ අය</author>
+            <date>2012-07-16 02:53:03</date>
+            <index>4</index>
+            <phrase>අනේ එතකොට අර අනිත් සම්බන්ධිරණ ලේකම්තුමා අල්ලන්නේ කවදද පොලිසියේ මහත්තයෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-16 08:12:48</date>
+            <index>5</index>
+            <phrase>මෙන්න උතුරු මැද තවත් ඡන්ද ප්‍රතිපලයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-16 14:02:14</date>
+            <index>6</index>
+            <phrase>ලේකම්තුම කරන්න ඇත්තේ ඇමතිතුමාගේ වැඩනේ . ඔය චෙක් දෙකත් අමතිතුමගේම වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

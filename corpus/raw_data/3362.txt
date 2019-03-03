@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>3362</articleId>
+    <title>සිත් සේ කැලේ කපා අදියි</title>
+    <author>ලූණුගල ප‍්‍රසන්න පද්මසිරි</author>
+    <date>2011 සැප්තැම්බර් මස 12 11:45:42</date>
+    <body>බිබිල නිල්ගල රක්ෂිතයේ පුවක් පැලේ කෑරවෙල ඔය හිඳී යාමෙන් පසුව දැවැන්ත කුඹුක් ගස් 16ක් ද බුරුත හා ගම්මාළු ද කපා ඉරා හොරෙන් රැගෙන ගොස් ඇත. කිට්ටුම ජනාවාසය වන කනවේගල්ල පිහිටියේ මේ වනාන්තරයට කිලෝමීටර් හතරක් දුරිනි.</body>
+    <comments>
+        <comment>
+            <author>එම් ඒ වාස්</author>
+            <date>2011-09-12 12:29:04</date>
+            <index>0</index>
+            <phrase>අපේ රටේ හැමදාම ඇහෙන දෙයක් තමයි මේ ගස් කැපීම ..බලධාරීන්ගේ උදව් මේ වෙනුවෙන් ලැබෙන නිසාත් ඳඬුවම් නැති නිසාත් මේවා සුළභ ‍වී තිබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක අලහප්පෙරුම</author>
+            <date>2011-09-12 12:34:49</date>
+            <index>1</index>
+            <phrase>රටේ නීතිය නැතිව වගෙයි. වගකිවයුතු අය කටයුතු නොකරනවානම් රට කාන්තාරයක් වෙලා ආසියාවේ ආශ්චර්ර්‍ය ඉක්මනටම පනේවි දීඝවාපිය පැත්තෙත් මේ වගේ වැඩ වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමිල ආසිරි</author>
+            <date>2011-09-12 13:07:42</date>
+            <index>2</index>
+            <phrase>මේ හැම දෙයටම අදාළ නිලධාරීන් වග කිවයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්</author>
+            <date>2011-09-12 13:20:39</date>
+            <index>3</index>
+            <phrase>අපේ රටේ වටිනා ගස් ටික කපල විනාශ කරල දාන එක නවත්වන්න නම් හොඳම දේ දුටු තැන වෙඩි තැබීම හෝ රජ කාලෙ දඬුවම් දීම විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස් ගංගොඩ</author>
+            <date>2011-09-12 14:33:00</date>
+            <index>4</index>
+            <phrase>වැටත් නියරත් ගොයම් කානම් කාට කියන්නද මේ දුක .. ප්‍රථමයෙන් බලධාරීන්ට ඳඬුවම් දෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2011-09-12 14:55:40</date>
+            <index>5</index>
+            <phrase>අනේ දෙවියනේ අපේ රටට වෙලා තයෙන දේ මේවා කවදා ඉවර වේවිද අපේ ළමයි කාවුරුන් විශ්වාස කරන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

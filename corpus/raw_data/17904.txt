@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17904</articleId>
+    <title>එප්පාවල හතරත් එකම තැන මරා දාලා</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 18 09:52:57</date>
+    <body>එප්පාවල කටියාවේ එකම පවුලේ සිව් දෙනෙකු කපා කොටා මරා දමා ඇතැයි පොලිසිය කියයි.
+කාන්තාවන් තිදෙනෙකු  හා එක් පිරිමියෙකු මෙසේ මරා දමා ඇත.</body>
+    <comments>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2011-12-18 15:15:09</date>
+            <index>0</index>
+            <phrase>මරණ දඩුවම දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෛත්‍රී</author>
+            <date>2011-12-19 13:03:10</date>
+            <index>1</index>
+            <phrase>මේවගේ අපරාධ නවත්වන්න නම් එල්ලුම් ගස ක්‍රියාත්මක විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍යාමලී</author>
+            <date>2011-12-19 13:54:28</date>
+            <index>2</index>
+            <phrase>දිනෙන් දින අපරාද වැඩි වන නිසා නීතිය තදින් ක්‍රියාත්මක කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

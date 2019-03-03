@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>453161</articleId>
+    <title>අතුරුගිරියේ කර්නල්ගේ වැඩ තහනම්</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 සැප්තැම්බර් මස 01 13:08:17</date>
+    <body>අතුරුගිරියේ  සිය බිරිඳට  වෙඩි තබා  ඝාතනය කිරිමට  තැත් කළැයි රිමාන්ඩ්  කැර  සිටින ලුතිනන්  කර්නල්  ප්‍රදිප්  කුමාර  නෙත්තසිංහගේ වැඩ  තහනම්  කළ බව යුද හමුදා  මාධ්‍ය  ප්‍රකාශක බ්‍රිගේඩියර්  රොෂාන් සෙනවිරත්න මහතා පැවසිය.
+පරික්ෂණ පැවැත්විම සඳහා  යුද හමුදාපති  ක්‍රිෂාන්ත ද සිල්වා   මහතා  මුලික පරික්ෂණ උසාවියක් ද පත්කර  ඇති  බව ඔහු කීවේය.
+ලුතිනන් කර්නල් 14 වැනි  ගජබා  රෙජිමේන්තුවේ  නිලධරයකි.</body>
+    <comments>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-09-01 09:33:41</date>
+            <index>0</index>
+            <phrase>අපේ රණවිරුවන්ගෙන් යහපාලනය පළිගන්නවා කියල කවුරුත් මේකට කියන්නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-09-01 11:32:58</date>
+            <index>1</index>
+            <phrase>ඒකාබද්ධ විපක්ෂය මේකටත් කියාවි රණවිරු දඩයම් කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්මන</author>
+            <date>2016-09-01 13:52:43</date>
+            <index>2</index>
+            <phrase>මහින්ද මහත්තයා හිටියා නම් මේ විදිහට රණවිරුවන්ට කරදර වෙන්න දෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-09-01 15:18:07</date>
+            <index>3</index>
+            <phrase>සමහරු කියන විදිහට නම් හමුදාවේ නිලධාරීන් නීතියට යටත් කිරීම නරකයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2016-09-02 01:21:23</date>
+            <index>4</index>
+            <phrase>මෙවැනි නඩුවකට යුද්ධාධිකරණයක් තිබීම නීතියේ විවෘතභාවයට ප්‍රශ්නයක් නොවේද? මම මේ නොදන්නා නිසයි අහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-09-02 06:42:02</date>
+            <index>5</index>
+            <phrase>අවුරුදු ගණනක් යුද මානසිකත්වයකින් ඉඳලා මේ මිනිස්සුන්ට සාමාන්‍ය තත්වය තවම එන්න බැරි වෙලා. මේක හමුදාවේ 70% විතර තියෙන ප්‍රශ්නයක්. මේගොල්ලන්ගේ තියෙන න්‍යාය තමයි හැම ප්‍රශ්නෙකටම් උත්තරය ගිනිඅවිය. ගිනි අවියෙන් තොර ජීවිතයක් මෙගොල්ලොන්ට නැහැ. මේ අහඹු සිද්දියක් නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465533</articleId>
+    <title>වැසිකිළියට ගිය කත රිය අනතුරෙන් මරුට</title>
+    <author>නිලුක සදුන් බණ්ඩාරනායක</author>
+    <date>2016 ඔක්තෝබර් මස 07 11:05:12</date>
+    <body>ඕස්ට්‍රේලියාවේ ක්වීන්ස්ලන්ඩ් හි අවමගුල් උත්සවයක් තිබූ නිවසකට මෝටර් රථයක් කඩා වැදීමෙන් කාන්තාවක් මියගොස් 10 දෙනෙකු බරපතල තුවාල ලබා ඇති බව එරට මාධ්‍ය වාර්තා කළේය.කාන්තාව වැසිකිළියේ සිටියදී අනතුර සිදුව ඇත.
+රියදුරු අත්අඩංගුවට ගෙන ඇති නමුත් ඔහුට විරුද්ධව මෙතෙක් චෝදනා ගොනු කර නැත.මෙම අනතුරෙන් තුවාල ලැබුවන්ට ආපදා කළමණාකරන සැලසුම යටතේ වෛද්‍ය ප්‍රතිකාර සහ සහන සලසන බව බලධාරීහු පවසති.</body>
+    <comments>
+        <comment>
+            <author>නෙහාරා</author>
+            <date>2016-10-07 06:20:19</date>
+            <index>0</index>
+            <phrase>මේ තියෙන්නේ ෆ්ල්යින්ග් අැම්බුයුලන්ස් වෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2016-10-07 10:39:43</date>
+            <index>1</index>
+            <phrase>වෙලාව අවහම කොහෙහිටියත් මැරෙනවා. ලෝකේ හැටි එහෙම තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2016-10-07 15:15:39</date>
+            <index>2</index>
+            <phrase>නෙහාර, ඔබ හරි. 2010දි මාව හදිසි අනතුරක් වෙලා ඒ වගේම අරගෙන ගියා. මම හැම අවුරුද්දකම මට පුළුවන් විදියට උදවු කරනවා ඒ සේවයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-10-07 20:49:09</date>
+            <index>3</index>
+            <phrase>කර්මයෙන් ගැළවියහැකි තැනක් විශ්වයේ කොතැනකවත් නැත. බලවත් කර්ම පටිසන් නොදී අවසන් නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-10-07 21:00:56</date>
+            <index>4</index>
+            <phrase>නෙහාරා, මේක රෝයල් ෆ්ලයින්ග් ඩොක්ටර් සර්විස් ගුවන් යානයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2016-10-09 17:25:18</date>
+            <index>5</index>
+            <phrase>අවාසනාවන්ත පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

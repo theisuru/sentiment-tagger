@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77503</articleId>
+    <title>තිස් කෝටියක දියමන්ති බඩේ</title>
+    <author></author>
+    <date>2012 නොවැම්බර් මස 16 12:04:29</date>
+    <body>දකුණු අප‍්‍රිකාවේ ටැම්බෝ ගුවන්තොටෙන් ඩුබායි රාජ්‍යය බලා පිටත්ව යාමට සූදානමින් සිටි ලෙබනන ජාතිකයකුගේ කුසෙහි තිබී ඔප දැමූ දියමන්ති 220 ක් සොයා ගැනීමට හැකි වියැයි දකුණු අප‍්‍රිකා පොලිසිය කියයි.
+ලැබුණු ඔත්තුවකට අනුව ගුවන්තොටෙහි රැුදී සිටි ලෙබනන ජාතිකයා අත්අඩංගුවට ගෙන විශේෂ ‘‘ස්කෑන්’’ පරික්ෂාවකට ලක්කිරීමෙන් ඔහු  දියමන්ති තොගය සොයා ගෙන ඇත.
+දියමන්ති වල වටිනාකම ඩොලර් ලක්ෂ 23 ක් (රුපියල් ලක්ෂ 3036) පමණ වන බව කියැවේ.
+දකුණු අප‍්‍රිකාව දියමන්ති සදහා ලෝකයේ නමක් දිනාගත් රටකි.එහි සිට ලෝකයේ බොහෝ රටවලට දියමන්ති අපනයනය කිරීම සිදුවේ.ඉතා ලාභදායී ව්‍යාපාරයක් වන බැවින් ජාවාරම්කරුවන් කල්ලි ගැසී නීතියේ රාමුවෙන් බැහැරව සිට රටෙන් දියමන්ති පිට කරන බව එරට බළධාරීන්ට රහසක් නොවේ.එවැනි කල්ලියකට මේ ලෙබනන ජාතිකයාද අයත් බවට සැක කෙරේ.
+(කෝ. වි)</body>
+    <comments>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-11-16 16:41:21</date>
+            <index>0</index>
+            <phrase>මේ වගේ හොරු හින්දා දකුණු අප්‍රිකාව දියුණු කරනවා බොරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-11-16 17:35:04</date>
+            <index>1</index>
+            <phrase>බඩක්ද? බංගලාවක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-11-17 12:12:46</date>
+            <index>2</index>
+            <phrase>කොයි රට වලත් හොරකම තියෙනවා. මේවා ලෝකය පවතිනතුරාම සිදු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-11-17 14:49:39</date>
+            <index>3</index>
+            <phrase>වංචාව හොරකම නිසා තමයි රටක නීතියක් පවතින්නේ. නැත්නමි නීතියක් අවශ්‍යය නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-17 15:35:36</date>
+            <index>4</index>
+            <phrase>මාර බඩක් නේ . බඩට යටින් මොනවද තිබ්බේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-11-17 22:54:37</date>
+            <index>5</index>
+            <phrase>ඇයි හේරත්, හේරත්ටත් මොකක්හරි ගිලුණද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-11-18 10:09:40</date>
+            <index>6</index>
+            <phrase>අම්මෝ වටිනා බඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෙරීෆ්</author>
+            <date>2012-11-18 20:57:58</date>
+            <index>7</index>
+            <phrase>රුපියල් කෝටි 3036 වටිනා‍ ලෙබනන් මිනිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-11-18 21:29:31</date>
+            <index>8</index>
+            <phrase>මට මතක් වුණා චීනාව. අනේ පවු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

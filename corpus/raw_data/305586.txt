@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>305586</articleId>
+    <title>පොළොන්නරු ගරාජ් හිමියා රිමාන්ඩ්</title>
+    <author>ක ග කරුණාරත්න නිමල් දයාරත්න</author>
+    <date>2015 මාර්තු මස 27 17:37:09</date>
+    <body>ප්‍රියන්ත සිරිසේනට (වැලි රාජුට) පොරොවෙන් ගැසීයැයි සැකපිට පොළොන්නරුව හතරවැනි ඇල ගරාජ් හිමියකු වන ලක්මාල් සපුතන්ත්‍රි ලබන හතර වැනි දා තෙක් පොළොන්නරුව වැඩබලන මහේස්ත්‍රාත් සරසි ඉද්දවෙල මහත්මිය විසින් රිමාන්ඩ් කරනු ලැබීය.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-03-30 04:36:17</date>
+            <index>0</index>
+            <phrase>පාප මිත්‍ර සේවනය නිසා මෙවැනි දේ සිදු වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජයබාහු</author>
+            <date>2015-03-30 08:17:30</date>
+            <index>1</index>
+            <phrase>පාප මිත්‍ර සේවනය, පරදාර සේවනය ඔය කොයි එකත් ගැලපෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

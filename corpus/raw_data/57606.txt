@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57606</articleId>
+    <title>හොරු පරදිති</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අගෝස්තු මස 08 13:13:47</date>
+    <body>තඹලගමුව මොල්ලිපොතාන සමෘද්ධි බැංකුවට අද අලුයම කඩා වැදුනු සොරුන් එහි  සේප්පුව කඩාගත නොහැකිවියැයි කන්තලේ පොලිසිය කියයි</body>
+    <comments>
+        <comment>
+            <author>සෙලනිකා</author>
+            <date>2012-08-08 13:28:22</date>
+            <index>0</index>
+            <phrase>සේප්පුව ශක්තිමත් නිසාද? පවු වැඩේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-08 13:28:40</date>
+            <index>1</index>
+            <phrase>කටුගෙට පැනපු හොරුමද දන්නේ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල-වෙරෝනා</author>
+            <date>2012-08-08 14:16:58</date>
+            <index>2</index>
+            <phrase>හොඳ වැඩේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-08 14:25:38</date>
+            <index>3</index>
+            <phrase>තොරතුරු මදි නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-08-08 14:43:01</date>
+            <index>4</index>
+            <phrase>ඒකේ සල්ලි නැහැයිලුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-08 14:58:00</date>
+            <index>5</index>
+            <phrase>විවෘත කර ගත්තත් ගන්න තරම් සල්ලි මේකේ තිබිලා තියෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-08 15:06:28</date>
+            <index>6</index>
+            <phrase>මොන දේ කරන්නත් දක්ෂතාවයක් සහ නුවණ තිබිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-08 15:11:49</date>
+            <index>7</index>
+            <phrase>මේකත් මහ දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2012-08-08 15:41:27</date>
+            <index>8</index>
+            <phrase>පොලිසියේ අයත් ‍ඔතන ඉදලද? ‍නැත්නම් කොහොමද එයාලා කියන්නේ සේප්පුව කඩා ගන්න බැරිවෙලා කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-08 20:49:09</date>
+            <index>9</index>
+            <phrase>හොරුන්ට සමෘද්ධියක් වෙලා නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමන්</author>
+            <date>2012-08-09 14:57:16</date>
+            <index>10</index>
+            <phrase>පොලිසියේ අයත් ‍ඔතන ඉදලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

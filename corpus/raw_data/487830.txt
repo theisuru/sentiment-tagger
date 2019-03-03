@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>487830</articleId>
+    <title>නත්තල් මුද්දරය නිකුත් වෙයි</title>
+    <author>ළහිරු හර්ෂණ</author>
+    <date>2016 දෙසැම්බර් මස 06 15:28:39</date>
+    <body>නත්තල් මුද්දරය සහ මුල් දින කවරය ආසියා රදගුරු සමුළුවේ සභාපති ඔස්වල්ඩ් කාදිනල් ග්‍රාසියස් කාදිනල්තුමාට සහ මැල්කම් කාදිනල් රංජිත් කොළඹ අගරදගුරු වෙත ක්‍රිස්තියානි ආගමික කටයුතු අමාත්‍ය ජෝන් අමරතුංග විසින් පිරිනැමිණි.
+කොටහේන සාන්ත ලුසියා ආසන දෙව් මැදුරේදී මේ උත්සවය පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-12-06 13:02:09</date>
+            <index>0</index>
+            <phrase>දැන් සතුටුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවිෂ්</author>
+            <date>2016-12-06 23:35:30</date>
+            <index>1</index>
+            <phrase>හොඳයි නත්තලත් ලග ලගම එනවා. හැමෝටම සුභ නත්තලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

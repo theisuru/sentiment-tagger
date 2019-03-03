@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>367530</articleId>
+    <title>මහ දවල් කොළඹට රෑවෙයි</title>
+    <author>සුරංජිත් පෙරේරා ඡායාරූප ඉෂාන් සංජීව  සුරංජිත් පෙරේරා</author>
+    <date>2015 දෙසැම්බර් මස 08 15:39:40</date>
+    <body>සඳුදා සවස්වරුවේ පැය හතරක් එක දිගට ශ්‍රී ලංකාවේ බොහෝ ප්‍රදේශවලට වැසි පැවැති ආකාරයටම අද පස්වරු 3.30ට පමණ කොළඹ හා අවට පෙදෙස්හි  විදුලි කොටමින් මහ වැසි ආරම්භ විය.
+රාත්‍රී 7ටවත් නැති ආකාරයේ අඳුරක් අද පස්වරු 3.30ට තිබිණි.
+කොළඹ නගරයේ හා අහසේ වලාකුළුවල ගණත්වය වැඩිවීම නිසා අඳුර ඇති වූ බව කලගුණ විද්‍යාඥ දමිල් දර්ශන කරුණාතිලක මහතා කියයි. මාසයක් ඇතුළත දී එකකට පසු එකක් වශයෙන් බෙංගාල බොක්කේ ඇතිවූ කළඹිලි ස්වභාවය නිමා මේ තත්ත්වය ඇතිවී ඇතැයි ඔහු පවසයි.</body>
+    <comments>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2015-12-08 10:28:04</date>
+            <index>0</index>
+            <phrase>අනේ පව් කුරුල්ලෝ, ඒත් කොළඹ කාක්කන්ට නම් ගානක් නැතිව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2015-12-08 10:40:34</date>
+            <index>1</index>
+            <phrase>හොඳ වෙලවට අදනම් කුඩයක් ගෙනාවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ඛපද්ම</author>
+            <date>2015-12-08 10:52:55</date>
+            <index>2</index>
+            <phrase>මම කුඩයක් ගෙනාවොත් වහින්නේ නෑ. ඒක හින්ද කුඩයක් ගේන්නේ නෑ. මට උස්සන් යන්න අමාරු නිසා මිසක් නැත්නම් හැමදාම ගෙනවා. එතකොට අනික් අයට වැස්සේ නොතෙමී යන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආශික්</author>
+            <date>2015-12-08 11:16:22</date>
+            <index>3</index>
+            <phrase>තව දවස් කියක් ඔය වගේ වෙයිද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොඩ්ෆ්‍රී</author>
+            <date>2015-12-09 13:17:15</date>
+            <index>4</index>
+            <phrase>බලනු මැන අපේ සොභාදහම දෙස ලොව කවුරු කැමති උවද අකැමෙති උවද ඔහුගේ ගමන යන සැටි. බලනු මැන දියුණු අපි දෙස, ලොව අලංකාර මන්දිර සාදා, පාරවල් සදා දුකින් තැවෙන සැටි. දිනෙක කවුරුන් හෝ උපදීද මොහු මෙල්ල කරන්නට. එදිනට අපි .............?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

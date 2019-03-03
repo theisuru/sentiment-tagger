@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>111888</articleId>
+    <title>පුත්තලම ප්‍රා සභාපති රිය අනතුරකින් මරුට</title>
+    <author>ජූඩ් සමන්ත</author>
+    <date>2013 අපේ‍්‍රල් මස 25 04:06:25</date>
+    <body>පුත්තලම ප්‍රාදේශීය සභාපති දිලුක් තුෂාර පතිරගේ මහතා දැදුරුඔයදී අද අලුයම සිදුවූ අනතුරකින් මරුමුවට පත් විය.
+ඔහු තම කැබ්රියෙන් යද්දී ඔහුගේ කැබ්රිය ලොරියක ගැටීමෙන් මේ අනතුර සිදු විය.</body>
+    <comments>
+        <comment>
+            <author>මර්ෂියන්</author>
+            <date>2013-04-25 04:52:10</date>
+            <index>0</index>
+            <phrase>කොහේ ගිහින් එන ගමන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපොන්සු</author>
+            <date>2013-04-25 05:12:35</date>
+            <index>1</index>
+            <phrase>පළාත් බබ්බු අඩුවීම රටට හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙනුර</author>
+            <date>2013-04-25 06:48:14</date>
+            <index>2</index>
+            <phrase>ඒක තමයි හැමදාම කියන්නේ ඉක්මන් කොටයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපරමාදු</author>
+            <date>2013-04-25 06:49:51</date>
+            <index>3</index>
+            <phrase>මිනිහෙක් මරුනහම කනගටුවෙන්ඩ ඕනා. නමුත් මේ ආණ්ඩුවට මයිල් ගහකින් හරි සම්බන්ද අයෙක් මැරුණට කනගාටුවෙන්ඩ එපා. මුන්ට ඔකකොම රට කන එවුන්. මුන්ට දේව දඬුවම් තමයි ලැබෙන්නේ. පෙනවා නේද ආණ්ඩුවේ ලොකු එවුන් රටට කරන නස්පැත්තිය. මේ ඔක්කොටම සාප කරන්ඩ තමි අපිට තියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභේරත්න</author>
+            <date>2013-04-25 06:51:27</date>
+            <index>4</index>
+            <phrase>පවු! ජිවිතයක් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතානගේ</author>
+            <date>2013-04-25 07:07:48</date>
+            <index>5</index>
+            <phrase>මහා රෑ එතුමා කොහෙද ගියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසාද්</author>
+            <date>2013-04-25 07:19:37</date>
+            <index>6</index>
+            <phrase>සපරමාදු ඔබ හරි මේ ඔක්කොම රට කන අය සාවද්‍ය මිනිස් ඝාතනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-04-25 07:30:05</date>
+            <index>7</index>
+            <phrase>සපරමාදු, එතකොට 88-89 සිද්ධ වුණු ඒවාට මොකද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2013-04-25 07:32:52</date>
+            <index>8</index>
+            <phrase>මිනිසෙක් මැරුනහම සතුටුවෙන ජාතිකයන් ශ්‍රී ලංකික වෙන්න විදියක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමෙඩ් රිස්වාන් - සව්දි අරාබිය</author>
+            <date>2013-04-25 07:40:20</date>
+            <index>9</index>
+            <phrase>වෙනස හොඳට දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-04-25 07:41:12</date>
+            <index>10</index>
+            <phrase>සපරමාදු 71-83-89 කොහෙද හිටියේ. ඒ කාලේ ගෙදර නිකන් ඉන්න අයව මැරුවේ. ඉතින් ඒ අය කාගේ ජරාව කාලද මරුනේ. අවුරුදු 30 ක යුද්දයෙන් මැරුණු අපේ රණවිරුවෝ කාගේ ජරාවද කෑවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමෙඩ් රිස්වාන් - සව්දි අරාබිය.</author>
+            <date>2013-04-25 07:43:23</date>
+            <index>11</index>
+            <phrase>සපරමාදු, ඇත්තටම සියලුම දේශපාලකයන්ට සාප කරන්න ඕන. ඊයේ අර නිදහස් වුනු දේශපලකයව බලන්න. අර කැලණියේ ප්‍රාදේශීය සබාවේ කෙනෙක් මරපු කෙනාට ප්‍රශ්නයක් නැහැ, ලේකම් තවම ඇතුලේ. හෙට අනිද්දා නීතිපති උපදෙස් මත නිසහස් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසා</author>
+            <date>2013-04-25 07:48:11</date>
+            <index>12</index>
+            <phrase>නිලන්ත, ශ්‍රී ලාංකික ශ්‍රී ලාංකික කියා පාරම් බාන්න තරම් උතුම් ජාතියක් නම් අප, අද රටට මෙහෙම වෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-04-25 07:50:27</date>
+            <index>13</index>
+            <phrase>"සපරමාදු" හඃ හඃ භාඃ නමෙන්ම පේනවා හොඳ සුද්ධ සිංහළයෙක් කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2013-04-25 07:58:32</date>
+            <index>14</index>
+            <phrase>රට කන්නේ ආණ්ඩුවේ අය විතරද ? විපක්ෂයේ ඉන්න අයත් කරන්නේ එම ටිකම තමා. කොහොම හරි හදන්නේ ආණ්ඩු බලය ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරන්ත</author>
+            <date>2013-04-25 08:15:50</date>
+            <index>15</index>
+            <phrase>මෙතන ලියලා තියෙන දේවල් දැකලා පුදුම කලකිරීමකට පත්වෙනවා. මේ සියලු දෙනාම දිලුක් පතිරගේ කියන මනුෂ්‍යාව දන්නේ නැතුව ඔහුගේ මරණය ගැන සතුටුවෙන අය. ඔවුන් කරන වැඩ ප්‍රමාණය ගැන අල්ප මාත්‍රයක්වත් හිතන්නේ නැතුව කථා කරන අය. අඩුම වශ‍යෙන් මේ ප්‍රාදේශිය නායකයෝ නැත්නම් ගෙදර කුණු ටික අපිට කන්න තමයි වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-04-25 08:32:31</date>
+            <index>16</index>
+            <phrase>මහත්වරුනි, සමාවෙලා මේකත් පොඩ්ඩකට කියවන්න. මේ මැරිලා ඉන්නේ මගේ පරණ යාලුවෙක්. මෙයාගේ දෙමව්පියෝ වුණත් හොඳ මිනිස්සු. දේශපාලනයට ආවට පස්සේ වුණත් මම දන්නා තරමින් නරක මිනිහෙක් නෙමෙයි. ඒ වුණත් ඇත්තටම අපේ රටේ දේශපාලකයන් හොද වුණත් නරක වුණත් ගොඩාක් අය කරන පහත් වැඩ වලට එයත් බැනුම් අහන එකේ වරදකුත් නැහැ. නමුත් දයාබර මිතුර දිලුප්, ඔබට නිවන් සුව අත්වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුව්ට</author>
+            <date>2013-04-25 08:49:14</date>
+            <index>17</index>
+            <phrase>සපරමාදුද ? තෙම්පරාදුද? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-04-25 09:16:16</date>
+            <index>18</index>
+            <phrase>බල්ලෙක් පුසෙක් මැරුණත් අනේ කියන රටේ, පේනවා නේද මිනිස්සුන්ට තියෙන තැන? උඳු වපුරලා තල නෙලන්න බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-25 09:26:02</date>
+            <index>19</index>
+            <phrase>නූපන් කෙනයි - මළ කෙනයි ලෝකෙට කරදර කරන්නේ නැහැ. ඒ නිසා අකාලයේ මිය ගිය ඒ තරුණයට නිවන් සුව පතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2013-04-25 09:36:33</date>
+            <index>20</index>
+            <phrase>අද කාලේ බොහොමයක් දේශපාලකයෝ කරන දේවල් දැක්කම තිරිසන්නු ළඟ ඊට වඩා කොයිතරම් යහපත් ගතිගුණ තියනවද කියලා හිතෙනවා. දේශපාලකයා හොද වුණත් නරක වුණත් පොදුවේ එයාලා මැරුණම මිනිස්සු සතුටුවන්නේ ඔන්න ඔය හේතුව නිසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-04-25 09:40:39</date>
+            <index>21</index>
+            <phrase>සපරමාදු සේ ඔබේ ගැතියෙක් වුනොත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දා</author>
+            <date>2013-04-25 09:51:19</date>
+            <index>22</index>
+            <phrase>මෙතුමා යහපත් බෞද්ධයෙක්. මදුරන්කුලිය පන්සලේ දායක සභාවේ සභාපති. මෙම මරණය සංවේගජනකයි. මෙතුමාට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-04-25 10:21:25</date>
+            <index>23</index>
+            <phrase>සපරමාදු, ඔයාලගේ ආණ්ඩුවක් එන්නේ කවදද ? කොහොමද? කව්ද නායකයා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2013-04-25 10:22:00</date>
+            <index>24</index>
+            <phrase>හිරන්ත, අපි කුණු කන්න ඕනෑ නැහැ. ඒකට තමයි සභාවට බදු ගෙවන්නේ, ප්‍රතිපාදන ලැබෙන්නේ, පිරිසිදු දේශපාලකයෝ හිටියා නම් අපේ රට කොයිතරම් දියුණුද? අපිට කොච්චර ඇමතිවරු මන්ත්‍රීවරු ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල</author>
+            <date>2013-04-25 10:38:19</date>
+            <index>25</index>
+            <phrase>කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2013-04-25 10:49:55</date>
+            <index>26</index>
+            <phrase>දැන් ඔක්කෝම දේවල් වෙලා ඉවරයිනේ. ඉතින් අපි ඔහුට නිවන් සුව පතමු. එයයි දැන් අපට ඉතිරි වී ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2013-04-25 11:09:20</date>
+            <index>27</index>
+            <phrase>අපේ රටේ රිය අනතුරු ගොඩාක් වැඩිවෙලා වටිනා ජීවීත ගොඩක් අහිමි වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙ‍රේරා</author>
+            <date>2013-04-25 11:11:25</date>
+            <index>28</index>
+            <phrase>ඔය රැකියාව කරන අය කොහොමත් හරිම වේගයෙන් තමා රට වෙනුවෙන් දිවි පරදුවට තබා වැඩ කරන්නේ? හරිම කණගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-04-25 11:11:25</date>
+            <index>29</index>
+            <phrase>මෙතුමාට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2013-04-25 11:15:33</date>
+            <index>30</index>
+            <phrase>රාජකාරිය අකුරටම කරන්න ගිහින්ද එතුමා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිහාර</author>
+            <date>2013-04-25 11:36:41</date>
+            <index>31</index>
+            <phrase>කපිල 88-89 ට පස්සේ අපි ඊට වඩ භයානක යුද්දෙකට මුහුණ දුන්නා. අපි ඒක දිනුවා. ඒත් දැන් මොනවද මේ වෙන්නේ? අපේ කරුමේ ලැජ්ජයි ලැජ්ජයි ලැජ්ජයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-25 11:44:49</date>
+            <index>32</index>
+            <phrase>මොහමෙඩ් රිස්වාන් තොප්පි කතා කියන්නේ මොකද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්ලිකා</author>
+            <date>2013-04-25 11:53:29</date>
+            <index>33</index>
+            <phrase>අපොයි, රෑ දහවල් නොලබා ජාතික සේවයට ගිහින්නේද මේ ජීවිතේ නැතිකර ගත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එෆ්බී ලංකාවේ පෙරටුගාමියා</author>
+            <date>2013-04-25 12:04:22</date>
+            <index>34</index>
+            <phrase>ඇත්තටම රටේම ඉන්න ප්‍රාදේශීය සභා සභාපතිලගෙ කැරැට්ටුව රටේම මිනිස්සු දන්නවා. ඒ අය හිටයෙ කොහොමද? දැන් ඉන්නේ කොහොමද ? ෆුට් සයිකලයක්වත් නැතිව හිටපු අය න් සභාපතිවෙලා බැකෝ ගන්නවා-වාහන ගන්නවා- බාර් දානවා - ස්ත්‍රී දූෂණයේ යෙදෙනවා. නඩුත් නෑ - කිසිම දඩුවමකුත් නෑ. ඒ නිසා එයාලා ගැන කියන්න තියෙන්නේ දෙවියන්ට පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2013-04-25 12:13:57</date>
+            <index>35</index>
+            <phrase>සපරමාදු, ඔයාට පුළුවන්ද ලේඛන සාක්ෂි එක්ක ඔප්පු කරන්න? ඕවා දේශපාලන සටන් පාඨ විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් ඉතාලි</author>
+            <date>2013-04-25 12:14:46</date>
+            <index>36</index>
+            <phrase>අද රටේ දේශපාලන චරිත රටට සහ රටවැසියන්ට කරන අපරාධ නිසා මිනිස්සු පුරුදුවෙලා ඉන්නවා සමස්ථ දේශපාලකයන්ටම මරනයේදීත් ශාප කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2013-04-25 12:21:17</date>
+            <index>37</index>
+            <phrase>අද ලංකාවේ දේශපාලඥයා මොන තරම් ජන හද දිනාගෙනද කියතොත්, ඔවුන් මරණයට පත්වීමත් මහජනයාට අස්වැසිල්ලක් ගෙන දෙන කාරණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-04-25 12:24:37</date>
+            <index>38</index>
+            <phrase>සරත් ඔබ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2013-04-25 12:50:19</date>
+            <index>39</index>
+            <phrase>සියලු දේ අනිත්‍යයි. ඔබට නිවන් සුව !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පි</author>
+            <date>2013-04-25 12:54:21</date>
+            <index>40</index>
+            <phrase>සපරමාදු, ඔබ නම් මනුෂ්‍යෙයක් වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2013-04-25 13:37:13</date>
+            <index>41</index>
+            <phrase>හිරන්ත , මන්ත්‍රීවරු රටට කරන වැඩ ගැන හිතන්න කියලා ඔබ කියලා තියෙනවා. මන්ත්‍රීවරු වැඩ කරන්නේ රටේ මහජනතාවගෙන් අයකරන බදු වලින් හා වෙනත් රට වලින් ලැබෙන ණය ආධාර වලින්. අනික තමයි එයාල ජීවත් වෙන්නේ මහජනතාවගෙන් අයකරන බදු මුදල් වලින් බව එයාලා අමතක කරලා තියෙන්නේ. කණගාටු වෙනවා මම මේ හදිසි මරණය ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-04-25 13:42:59</date>
+            <index>42</index>
+            <phrase>දිලුක් කියන පුද්ගලයා මම ඉතා හොදින් දනිමි. ලංකාවේ දේශපාලකයන් අතර්න් මනුස්සකම අතින් මට හමුවූ හොද මිනිහෙක්.දුෂිත බව නිසා මිය යායුතු නම් ඔහුට පෙර මිය යායුතු අය බොහෝ වෙති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2013-04-25 14:46:51</date>
+            <index>43</index>
+            <phrase>අද රටේ දේශපාලන චරිත රටට සහ රටවැසියන්ට කරන අපරාධ නිසා මිනිස්සු පුරුදුවෙලා ඉන්නවා සමස්ථ දේශපාලකයන්ටම මරනයේදීත් ශාප කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රිස්වාන් සව්දි අරාබිය.</author>
+            <date>2013-04-25 14:48:41</date>
+            <index>44</index>
+            <phrase>උප සභාපතිතුමා සහ මනාප ලැයිස්තුවේ මීළඟ අපේක්ෂකයා ශෝකය ප්‍රකාශ කළාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2013-04-25 14:52:18</date>
+            <index>45</index>
+            <phrase>මේකේ ඉන්න අය බනින්නේ මොනවත් දැනගෙන නෙමෙයි. බොරුවට බුරනවා. හොද මිනිහෙක් නැති වුනාමත් ලංකාවේ මිනිස්සු සාප කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2013-04-25 14:53:31</date>
+            <index>46</index>
+            <phrase>මම වැද නමස්කාර කරන්නේ නැහැ. නමුත් දේශපාලනයට සම්බන්ධ යම් කෙනෙක් මැරුණම මිනිස්සු සතුටු වෙනවා. එහෙම බලද්දී සපරමාදුගේ කතාව සහතික ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-04-25 14:56:41</date>
+            <index>47</index>
+            <phrase>කණගාටු දායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2013-04-25 14:59:33</date>
+            <index>48</index>
+            <phrase>සපරමාදු, ඔබගේ කතා 100% ක් ඇත්ත. නීතියත් ඔවුන්ගේ නම්,පොලිසියත් ඔවුන්ගේ නම්, අයුක්තියට එරෙහි වෙන අසරණයන්ට වෙඩි තියලා මරනවා නම්,වෙඩි උන්ඩයෙන් සියලු ප්‍රශ්න විසදනවා නම් අපි මෙයාලා මැරෙනවට සතුටු වෙනවා හැරෙන්න වෙන මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම්</author>
+            <date>2013-04-25 15:11:50</date>
+            <index>49</index>
+            <phrase>සපරමාදුගේ වැරැද්දක් නෙවෙයි ඒ වගේ අදහසක් දාන එක. මේ රටේ පොදුවේ දේශපාලුවෝ කරන අපරාද, දූෂණ නිසා එහෙම හිතෙන එක හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුසිරු</author>
+            <date>2013-04-25 15:51:35</date>
+            <index>50</index>
+            <phrase>ජීවිතේට අහලවත් නැති, දැකලවත් නැති කෙනෙක් මැරුනහම එයාට මෙහෙම අපහාස කරන අදහස් දාන වීරයෝ ගැන ලැජ්ජයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2013-04-25 16:03:14</date>
+            <index>51</index>
+            <phrase>ඉගිල්ලෙන්න උඩින් යන්න ඇයි දඟලන්නේ මිනිස්සුන්ට කකුල් දෙකයි තටු නැහැ එන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-04-25 18:34:11</date>
+            <index>52</index>
+            <phrase>පාඨක මහත්වරුනි, දිලුක් පතිරගේ මහතා මම මෑතකදී මුනගැසී, පැයක් පමණ සාකච්ඡා කරමින් සිටියෙමි. එමගින්, ඔහු අන් සාමාන්‍ය දේශපාලකයින්ගෙන් වෙනස්, උසස් ගතිගුණ ඇති, වැදගත්, උගත් හා අවංකව වැඩ කරණ, රටට හා ජාතියට ආදරය කරන, ජව හා දිරිය සම්පන්න, ක්‍රමාණුකුලව වැඩ කරන පුද්ගලයෙකු බව වටහා ගතිමි. ඔහු ගැන මනාව දන්නා විරුද්ධ දේශපාලන පක්ෂවල අයද මම මුනගැසුනෙමි. දිලුක් ගැන ඔවුන්ගේ අදහස වූයේද එයමයි. ඔහුගෙන් සමුගෙන එන අවස්ථාවේදී, මම ඔහුට ඉත සිතින්ම ඔහුගේ අනාගත දේශපාලන ගමනට සුබ පැතුවේ, එවැනි ගතිගුණ සහිත දේශපාලකයින් ජාතික මට්ටමට පැමිණිය යුතුබව මා අවංකව විශ්වාස කල බැවිනි. දිලුක් මහතාණනි, ඔබට නිවන් සුව අත්වේවා! කිසිදු ආත්මයකදී ඔබ මෙවැනි අකල් මරණයකට ගොදුරු නොවේවා!. ඔබ එන ආත්ම වලදීත්, සිංහලයෙකු වශයෙන් ශ්‍රිලංකාවේම උපදී, රටට ජාතියට ඔබේ සේවාව අත්කර දෙත්වා! සපරමාදු, නොදන්නා පුද්ගලයෙකු ගැන ඔබ කරන පිළිකුල් සහගත අදහස් තදින්ම ප්‍රතික්ෂේප කරන බව පවසමි. ඔබගේ කුහක නිහීන අදහස් ප්‍රසිද්ධියේ ප්‍රකාශ කිරීමට වඩා නිශ්ශබ්දව සිටීම හොඳ බව සිතට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චනිද්‍රා - ඇමරිකාව</author>
+            <date>2013-04-25 19:53:07</date>
+            <index>53</index>
+            <phrase>ආයුෂ ඉවරවුනහම මිනිස්සු මැරෙනවා. කීයක වාහනයක්ද? එම අලාබය ගෙවන්න වෙන්නේ කාටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරංජන්</author>
+            <date>2013-04-25 22:22:24</date>
+            <index>54</index>
+            <phrase>සපරමාදු මහත්තයා වාචාල කමට දෙඩෙව්වාට මෙක හදිසි අනතුරක් අමතක කරන්න ඵපා මරණයට පත් වෙච්ච සතෙකුටවත් අපහාස කරන ජාතියක් නෙවෙයි නියම සිංහලයන් වසර 30 ක යුද්ධයකට පාර කපපු 60.000ක් අමු අමුවෙ ඝාතනය කරපු මෙ රට ජාත්‍යන්තරයෙ ඉදිරියෙ අන්ත අසරන කරපු පක්ෂයකටයි තමුන්ල අද කඩෙ යන්නෙ කවද හරි තමුන්ලට අත්වෙන ඉරණම මිට වඩා භයානක වෙන්න පුලුවන් තමන් දෙෂපාපාලනයෙන් අනාත උනහම මෙහි අපහාස කර තිබෙන සියලුම අය කවදා හරි මිය යන බව අමතකද? මිට වඩා සතා සිවුපාවුන් වැදගත් විදිහට හැසිරෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලානි</author>
+            <date>2013-04-25 23:24:32</date>
+            <index>55</index>
+            <phrase>නියම සිංහලයන් පොඩි දරුවන් දූෂණය කරන ප්‍රාදේශීය සභා සභාපතිලා මරුනහමත් අනේ පව්, හරි අහිංසක මිනිහා කියන්න. දිලුක් මහතාට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-04-26 00:44:16</date>
+            <index>56</index>
+            <phrase>දේශපාලකයින් කතාවට කොහොමත් දක්ෂයිනේ. ඉතින් හොඳ උගත් වැදගත් අය තමා එයාලා. දැන් ලංකාවේ ඉන්න දේශපාලකයන්ට ඉතින් වෙනම සහතික ඕනෑ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-26 08:20:13</date>
+            <index>57</index>
+            <phrase>තව රටට ශාපයක් වෙච්ච කට්ටියක් ඉන්නවා අනේ දෙවියනේ ඒ කට්ටියටත් හැකි ඉක්මනට මේ දඩුවම ලබා දෙන්න කියා ඉල්ලනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-04-26 08:39:21</date>
+            <index>58</index>
+            <phrase>මරණය දෙස මෙලෙස නොබලන් මිතුරනි. ඔබ ඔබ වෙතට හැරී බලන්න.ඔබ හැමවිටම නිවැරදි ද කියා. වැරදි අඩුපාඩු පිරුණු අපි කෙසේනම මෙසේ අනුන්ට ගරහමුද? මටත් ඔබටත් අයිති මරණයම ඔහුටද ලැබී ඇත. සසරින් මිදෙන්නට ඔහුටත් පින් දෙමු. ද්වේශය ඔබම සිදුකරගන්නා අකුසලයකි. මෙත් සිතුවිලි හැමදෙනා තුලම පහල වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2013-04-26 08:57:52</date>
+            <index>59</index>
+            <phrase>මිය ගිය අයකු වෙනුවෙන් මගේ ජිවිතයටම මා සතුටු වී ඇත්තේ එක් වතාවයි. ඒ 2009 මැයි මාසයේ 20 වන දින. හැබැයි, දැන් රටේ වෙන දේවල් දකින කොට තවත් කිහිප දෙනෙක් මිය ගිය බව ආරංචි වුනොත්, සතුටු නොවෙතත්, ඔවුන් වෙනුවෙන් කණගාටු වීමට නම් සිතක් පහල නොවන බව නිසැකයි. දිලුක් මහතාට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

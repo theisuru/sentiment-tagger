@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26328</articleId>
+    <title>රට ගියත් හොඳ සිරිත් අමතක නොවේ</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 පෙබරවාරි මස 12 17:56:20</date>
+    <body>ලන්ඩන්හි බර්මින්හැම් ජේතවන විහාරයේ කැප්පිටියාගොඩ ගුණවංශ හිමියන්ගේ අනුශාසනා පරිදි ‘මාපිය උපහාර පූජා වැඩ සටහනක්‘ පැවැත්විණි. මෙවැනි පින්කමක් ලන්ඩනයේ  පැවැති මුල්ම අවස්ථාව මෙයයි. බදුරලියේ තුසිත මහා විහාරයෙන් එහි වැඩම කළ පණ්ඩිත කහතුඩුවේ ශාන්තිදේව හිමියෝ වන්දනා වැඩසටහන මෙහෙය වූහ.
+විහාරස්ථාන දහම් පාසලේ දරුවෝ සාම ජාතික නාට්‍යයද රඟ දැක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>කටුවන විජිතවංශ හිමි</author>
+            <date>2012-02-12 18:30:18</date>
+            <index>0</index>
+            <phrase>ගුණවංශ නායක හිමියන්ට තෙරුවන් සරණින් මෙවැනි දේවල් සිදු කිරීමට තව තවත් ශක්තිය ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-02-12 19:09:24</date>
+            <index>1</index>
+            <phrase>මේවා හොද වැඩ. කොහෙ ගියත් කරන්න ඕන රට වැනසුනාට ඒවා අමතක කරන්න බැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-02-13 08:09:26</date>
+            <index>2</index>
+            <phrase>ඔබලා අපේ පුංචි රටටත්, අපේ ජනතාවටත් ආගමටත් විශාල ගෞරවයක්.. ඔබලාට ජය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිව්ටන් පෙරේරා</author>
+            <date>2012-02-13 11:17:17</date>
+            <index>3</index>
+            <phrase>ගුණවංශ හිමියන්ට මාගේ නමස්කාරය වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

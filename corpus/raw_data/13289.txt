@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>13289</articleId>
+    <title>එන්.ජී. ඕ කැරැට්ටුව බුදුපුත් ඇසින්</title>
+    <author>බිඟුන් මේනක ගමගේ</author>
+    <date>2011 නොවැම්බර් මස 16 14:30:05</date>
+    <body>මෙරට ක‍්‍රියාත්මක වන රජ්‍ය නොවන සංවිධාන රැසක් බුද්ධාගමටත් සම්ප‍්‍රදායික කතෝලික ආගමටත් එරෙහිව කටයුතු කරමින් විවිධ අන්තවාදී කණ්ඩායම්වලින් විශාල ධනස්කන්ධයක් උපයතියි කෝටටේ ශ්‍රී නාග විහාරාධිපති මාදුළුවාවේ සෝභිත නාහිමියෝ පවසති. ඒ නිසා ඒවා නියාමනයකට යටත් කොට විධිමත් කිරීමට රජය වහා කටයුතු කළ යුතුව ඇතැයි ද ඒ හිමියෝ කොළඹ, විද්වත් වෘත්තිකයන්ගේ කාර්යාලයයේ දී පැවැසුවේය.</body>
+    <comments>
+        <comment>
+            <author>Thushantha</author>
+            <date>2011-11-16 16:52:15</date>
+            <index>0</index>
+            <phrase>ඒ හිමියෝ කොළඹ, විද්වත් වෘත්තිකයන්ගේ කාර්යාලයයේ දී පැවැසුවාය. "පැවසුවේය ලෙස වෙනස් විය යුතුයි. "</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිසා</author>
+            <date>2011-11-16 17:58:53</date>
+            <index>1</index>
+            <phrase>... "කාර්යාලයයේ දී පැවැසුවාය"??? ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

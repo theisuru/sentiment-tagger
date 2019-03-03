@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58916</articleId>
+    <title>විදුලි සේවකයෝ කඳ සුරිඳු පිහිට ඉල්ලති</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 අගෝස්තු මස 15 13:32:21</date>
+    <body>තම ඉල්ලීම් දිනා ගැනීමට කතරගම දෙවියන්ගේ පිහිට පතමින් විදුලි බල මණ්ඩලය හම්බන්තොට, සූරියවැව, කතරගම, තිස්සමහාරාම හා අම්බන්තොට කාර්යාල සේවකයෝ රුහුණ කතරගම දෙවොලට පුද පඬුරු ඔප්පුකැර දෙවොල ඉදිරිපිට පොල් ගැසූහ.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-15 13:45:43</date>
+            <index>0</index>
+            <phrase>දෙවියොත් දැන් ඉල්ලීම් දෙනවද ??.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවිනි</author>
+            <date>2012-08-15 13:44:25</date>
+            <index>1</index>
+            <phrase>බාල තෙල් ගෙන්වන්නන්ටත් මොකක් හරි වෙන්න කියලා ප්‍රාර්ථනා කරන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරී</author>
+            <date>2012-08-15 13:49:15</date>
+            <index>2</index>
+            <phrase>එපමණයි ඉතුරුවෙලා තියෙන්නේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-08-15 13:53:44</date>
+            <index>3</index>
+            <phrase>මේ දුක දෙවියන්ටවත් පෙනේවා..!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-15 14:15:12</date>
+            <index>4</index>
+            <phrase>කාගේ පුරුද්දක්ද මේ??? මෙයාලට පිස්සුද ??.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-08-15 14:21:12</date>
+            <index>5</index>
+            <phrase>කතරගම දෙවියොම බලන්න ඕනි මෙගොල්ලොන්ගේ ඉල්ලීම අසාදාරන නම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>janaka,bahrain</author>
+            <date>2012-08-15 14:47:05</date>
+            <index>6</index>
+            <phrase>අයියෝ සල්ලී...ඔය පොල් ‍ගෙඩිය ‍ගෙදර ගෙනිච්චනම් වේලක් කනවනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-15 14:51:19</date>
+            <index>7</index>
+            <phrase>මේ රට වනසන අයට දඩුවම් දෙන්න කියලා කඳ සුරිඳුට කියන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-08-15 17:06:34</date>
+            <index>8</index>
+            <phrase>මේ දවස්වල A/L විභහගේ තියෙන වෙලේ විදුලිය විසන්දි කිරීම පහත් වැඩක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-08-15 19:39:53</date>
+            <index>9</index>
+            <phrase>පොඩි ගාණක විදුලි බිලක් ගෙවා ගන්න බැරි වුණොත් අහිංසක දුප්පත් මිනිස්සුන්ගේ ගෙවල් වල විදුලිය කපලා යන අය දිහා දෙවියන් වුණත් බලයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-15 20:24:31</date>
+            <index>10</index>
+            <phrase>"පාලිත 2012-08-15 14:15:12 කාගේ පුරුද්දක්ද මේ??? මෙයාලට පිස්සුද ??" පුරුද්දට විහාර දේවාල ගානේ යන අය පිස්සන් නම්, සතියකට වතාවක් වත් කතරගම, දළදා මැදුර හෝ ශ්‍රීමහා බෝධිය සොයා දුවන අය තවත් ඉන්නවා. කට ඇරලා 'පිස්සෙක් වත්ද..' කියලා කියන්නකෝ ඊළඟ වතාවේ මාධ්‍ය වලින් දකිනකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

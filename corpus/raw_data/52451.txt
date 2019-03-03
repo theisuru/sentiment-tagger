@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52451</articleId>
+    <title>උතුරයි දකුණයි යා වෙයි</title>
+    <author>යූ විජේසිංහ</author>
+    <date>2012 ජූලි මස 09 16:59:56</date>
+    <body>කතරගම ඇසළ උළෙළ අරැඹීමත් සමග උතුරැ නැගෙනහිර වන්දනා කරුවෝ ඔකඳ, පානම ඔස්සේ යාල වනෝද්‍යානය මැදින් කතරගම බලා යති. එදා සිට පැවැතෙන මේ  සිරිත අනුව දෙසියක් පමණ දෙනා සමන්විත  මුල්ම කණ්ඩායම අද ඔකඳ දෙවොල වැඳ පුදා ගමන් ඇරැඹූහ.</body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-07-09 18:27:51</date>
+            <index>0</index>
+            <phrase>සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2012-07-09 20:15:53</date>
+            <index>1</index>
+            <phrase>මෙහෙම තමයි සමගියෙන් ඉන්න ඕනි.නියමයි.ඔහොම යමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-10 13:35:04</date>
+            <index>2</index>
+            <phrase>කතරගම දෙවියන්ට පින්සිදු වේවා ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

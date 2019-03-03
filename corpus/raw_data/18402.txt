@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18402</articleId>
+    <title>රංගේ බණ්ඩාරට ගහයි</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 දෙසැම්බර් මස 19 19:37:30</date>
+    <body>ආරක්ෂක වැය ශිර්ෂ විවාදයෙන් පසුව පුත්තලම දිස්ත්‍රික්කයේ සංධාන මන්ත්‍රී අරුන්දික ප්‍රනාන්දු මහතා තමාට පහරදුන් බව එජාපයේ පුත්තලම දිසා මන්ත්‍රී පාලිත රංගේ බණ්ඩාර මහතා කියයි. පාර්ලිමේන්තු සබා ගැබේන් පිටදී පහරදීමෙන් ඔහුගේ මුහුණේ පැත්තක් ඉදිමී තිබිණි. ප්‍රනාන්දු මහතා පැවැසුයේ ඔහු තමාට නින්දිත ලෙස බැන වැදුණු බවයි. ඒ නිසා දෙදෙනා අතර පොර බැදීමක් සිදුවී යැයි ද ඔහු  පවසයි.</body>
+    <comments>
+        <comment>
+            <author>නිසාර් - කුවේට්</author>
+            <date>2011-12-19 23:37:41</date>
+            <index>0</index>
+            <phrase>පාසල් යන ළමයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනයා</author>
+            <date>2011-12-20 06:17:58</date>
+            <index>1</index>
+            <phrase>පාර්ලිමේන්තුවේ කතා කිරීමට අයිතියක් නැත්නම් විපක්ෂය තහනම් කරා නම් හරි.කථාකරන පුද්ගලයා ගැන බලන්න එපා. කථා කරපු කාරනය ගැන විමසිලිමත් වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂාන් - දෙල්ගොඩ</author>
+            <date>2011-12-20 08:25:47</date>
+            <index>2</index>
+            <phrase>මෙවැනි අයට ඡන්දය දුන් අපද වග කිව යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

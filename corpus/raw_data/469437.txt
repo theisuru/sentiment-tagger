@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>469437</articleId>
+    <title>පොලිසිය වෙල්ගමගේ වත්ත පීරයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ රත්නසිරි ප්‍රේමලාල්</author>
+    <date>2016 ඔක්තෝබර් මස 18 15:46:46</date>
+    <body>උසාවියෙන් ලබා ගත් සෝදිසි වරෙන්තුවක් අනුව පොලිස් විශේෂ විමර්ශන ඒකකයේ 50 ක පමණ පිරිසක් මතුගම ඩැනිස්ටර් වත්ත සොදිසි කළේය. අක්කර 400 කින් යුත් මේ වත්තේ හිමිකරු කුමාර වෙල්ගම මහතාය.
+ජනාධිපති ලේකම් කාර්යාලයට  අයත් බව කියන ඩිෆෙන්ඩර් දෙකක් සොයා පරික්ෂණ පැවැත්වු නමුත් කිසිවක් එහි නොවු බව වාර්තා වෙයි.</body>
+    <comments>
+        <comment>
+            <author>මාධව</author>
+            <date>2016-10-18 10:37:46</date>
+            <index>0</index>
+            <phrase>අක්කර 400 ? රටෙන් බාගයක් මෙයා ලගනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැටිපහන</author>
+            <date>2016-10-18 10:40:35</date>
+            <index>1</index>
+            <phrase>මේ මහත්තයට අක්කර 400ක් තියෙනවා.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ පෙරේරා</author>
+            <date>2016-10-18 10:42:49</date>
+            <index>2</index>
+            <phrase>අක්කර 400ක් ! මේක පරම්පරාවෙන් හිමිවුණ ඉඩමක්ද? එකත් හොයා බැලුවනම් නේද හොද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-10-18 10:54:50</date>
+            <index>3</index>
+            <phrase>වත්ත හාරලා බැලුවේ නැද්ද? ෂුවර් එකටම වලලා ඇති. එක පාරක් වලලා තිබුන රත්තරන් හොයාගත්තා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රා</author>
+            <date>2016-10-18 11:08:04</date>
+            <index>4</index>
+            <phrase>මහජන සේවකයෙක් සතු මේ තරම් ඉඩම් ප්‍රමාණයක් ? නරකද මෙයින් අඩක් මහජනතාව සතු කරොත් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-10-18 11:21:58</date>
+            <index>5</index>
+            <phrase>උපතින් වැවිලි කරුවෝ , මෙතුමා ඕන තරම් දාන දෙනවා ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-10-18 11:35:01</date>
+            <index>6</index>
+            <phrase>අන් සැපතට ඊර්ෂ්‍යා නොකරන් මිනිසුනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-10-18 11:35:42</date>
+            <index>7</index>
+            <phrase>අක්කර 400 ක් වුණත් 4000 ක් වුණත් වැරදි දේවල් කරලා ගත් ඉඩම් නෙමෙයි නම් අව්ලක් නැහැනේ. ඊර්ෂ්‍යාවෙන් පැලෙන්න එපා යාලු. ඔයාලත් උත්සාහයෙන් මුදල් උපයන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2016-10-18 11:36:17</date>
+            <index>8</index>
+            <phrase>පොලිසිය ලවා නොමිලේ වත්ත නම් පිරිසිදු වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-18 11:50:44</date>
+            <index>9</index>
+            <phrase>මෙතැන අදහස් දාන අයට කියන්න කැමතියි රිෂාර්ඩ් බදුර් දීන්ට අක්කර 3000 ක් තියනවා . මේ අක්කර 400 මොකක්ක් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-10-18 11:52:25</date>
+            <index>10</index>
+            <phrase>තමන්ගේ මට්ටේමෙන් පිටස්තරයන් මනින්න එපා. වෙල්ගමලා ගැන දන්නේ නැත්නම් කාගෙන් හරි අසා දෙන ගන්න. ඔවුන් පාරම්පරික ධානපතීන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-10-18 11:54:31</date>
+            <index>11</index>
+            <phrase>ඇමති තුමා, ලංකාවේ ඉන්න අහිංසක අසරණ පවුල් ටිකකට, ඔබගේ ඔය විශාල ඉඩමෙන් පර්චස් බැගින් සුළු ප්‍රමාණයක් පරිත්‍යාග කරන්න. එය ඔබගේ මතු ජීවිතයට උපකාරී වෙයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-18 11:55:03</date>
+            <index>12</index>
+            <phrase>මෙවට හුල්ලන්න එපා මෙයාල ඉස්සර ඉදලම වැවිලි කරුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2016-10-18 12:06:59</date>
+            <index>13</index>
+            <phrase>වෙල්ගම කියන්නේ උපතින්ම වැවිලි කරුවෝ දන්නේ නැති අයට දැනගන්න ගන්න කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2016-10-18 12:10:23</date>
+            <index>14</index>
+            <phrase>මෙවන් දානපතියන්ගෙන් අපට සෙතක් වෙනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ පෙරේරා</author>
+            <date>2016-10-18 12:11:31</date>
+            <index>15</index>
+            <phrase>දැන් නම් තේරෙනවා හේතුව මෙයාලා නැවත මහින්ද මහතා බලයට ගෙන ඒමට මේ තරම් දගලන එක ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-10-18 12:11:16</date>
+            <index>16</index>
+            <phrase>ඉස්සරකාලේ දේශපාලනයට ආවේ, පොදුවේ ගත කල යමක්-හමක් තිබෙන, දැන උගත්කම් තිබෙන, ඒ සියල්ලටම වඩා රටට, ජනතාවට ආදරය කළ වැදගත් පිරිස්. අපේ වෙල්ගම මන්ත්‍රී තුමා ත් හොඳ ධනවතෙක් බව පෙනෙනවා. ඉඩම් හිමියෙක්. දේශපාලනය පැත්තකට දාල ඔය අක්කර 400 හොඳට වගා කරනවා නම් එය අපේ ආර්ථිකයට හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-10-18 12:11:44</date>
+            <index>17</index>
+            <phrase>මොකද මේ හැමෝම බයවෙලා වෙල්ගම උපතින්ම සල්ලිකාරයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමෙඩ්</author>
+            <date>2016-10-18 12:14:06</date>
+            <index>18</index>
+            <phrase>වෙල්ගමල කව්ද කියලා රටම දන්නවා. පාරම්පරික ඉඩම් හිමියෝ ලංකාවේ ලොකුම ප්‍රවාහන සේවය වෙල්ගමලගේ තිබුනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2016-10-18 12:25:35</date>
+            <index>19</index>
+            <phrase>අනේ මාධව මහත්තයාගේ දැනුම ,,අක්කර 400 රටෙන් බාගයක් වෙන්න මාලදිවෛනේ දුපතක්ද ලංකාව කියන්නේ? වෙල්ගම කියන්නේ මොනතරම් සල්ලි කාරයෝද කියන්න මතුගම විතරක් නෙවේ ලංකාවේ බොහෝ දෙනෙක් දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-10-18 12:32:11</date>
+            <index>20</index>
+            <phrase>මේක පරම්පරාවෙන් කොහොමත් වෙන්න බැනේ .උපරිම අක්කර 50 ට බැස්සුවනේ මැතිනි.. එතකොට මෙයට මේ 400 ලැබුනේ 77 ක පස්සේ වෙන්න ඕන.. වහාම සොයා බෙලිය යුතු දෙයක් මේ අක්කර 400 ගත්ත විදිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රී ලාල්</author>
+            <date>2016-10-18 12:42:50</date>
+            <index>21</index>
+            <phrase>ඉස්සරනම් තිබුන අක්කර එක පුද්ගලයෙකුට අක්කර 50 ක සීමාවක්. දැන් ඒවා වෙනස් වෙලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-10-18 12:43:31</date>
+            <index>22</index>
+            <phrase>පොලිසියට කවුරු හෝ දිරච්ච ලණුවක් දීල වගෙයි අයෙමත් පොලිසිය එන්න ඉස්සරවෙලා ඩිෆෙන්ඩර් දෙක සුටුස්ගාල මාරු වෙලා වගෙයි, නේද ? ඔබට දැන් සතුටුද ?හිස පීරන පනා කීයක් මේ සඳහා යොදා ගත්තාද ? ඩිෆෙන්ඩර් දෙක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-10-18 12:48:20</date>
+            <index>23</index>
+            <phrase>මෙයාල අවුරුදු 5 හම හොය හොය ඉදයි වගේ රටේ ප්‍රශ්න හොයන්නේ නැතිව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-10-18 12:48:37</date>
+            <index>24</index>
+            <phrase>මේ ආණ්ඩුව කරන අමන මාරි මෝඩ වැඩ නිසා තවත් සුදනන් වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකි</author>
+            <date>2016-10-18 12:58:58</date>
+            <index>25</index>
+            <phrase>පාලිත මහත්තයෝ, මෙතුමා දාන දෙන හැටි අපිත් අහලා තියෙනවා ලංගමයට දුම්රිය දෙපාර්තමේන්තුවට එහෙම දිගට හරහට `ජොබ් දාන` එහෙමත් දුන්නලු නේද - තමන්ගේ සාක්කුවෙන් දෙනවා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2016-10-18 13:11:23</date>
+            <index>26</index>
+            <phrase>මේගොල්ල නැවත ඉල්ලගෙන කන්නයින්නේ . මෙහෙම මෝඩ පිරිසක් කවදාකවත් දැකල නැහැ. රාජපක්ෂගේ කට්ටිය ජනප්‍රිය කරනවා . මේවා නොතෙරේන එකනේ පුදුමයි . ඇත්තටම ම පොල්ගහපුඑව වැදිලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන</author>
+            <date>2016-10-18 13:26:29</date>
+            <index>27</index>
+            <phrase>අන්තිමට කියවී මේක මගේ නෙවයි කියල අර අපේ හිටපු ජනාධිපති තුමාගේ මල්ලි බැසිල් සහ පුතා රෝහිට කිව්වා වගේ. අන්තිමට මේවා අපේ වේවිද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-10-18 13:27:30</date>
+            <index>28</index>
+            <phrase>බලාගෙන ගියාම මෙයත් නරකම නැහැ නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක් ලොඇන්ජලිස්</author>
+            <date>2016-10-18 13:58:41</date>
+            <index>29</index>
+            <phrase>ලංකාවේ භාගයට භාගයක් ඉඩම් ගෙවල් මුදල් අනවසර ලෙසින් භුක්ති විඳින්නේ දේසපාලකයෝයි. දේසපාල කයාට ඉහළින් යන්න හා ඔහුට විරුද්ධව කටයුතු කිරීමට නොහැකිය කියන මානසික තත්ත්වයට රටේ ජනතාව එම දේසපාලකයන් විසින් ඇද දමා තිබෙනවා.... මේ තත්ත්වය වෙනස් වෙන ලකුණු පහළ වෙමින් පවතින බවක් පේනවා..ඒක නිසානේ මේ හොරු ට්ක එකතු වෙලා ඔවුන්ට එරෙහිව ගෙන යන පරීක්ෂණ නවත්වන්න කියා කළබල කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගන ප්‍රභාත්</author>
+            <date>2016-10-18 14:23:09</date>
+            <index>30</index>
+            <phrase>අක්කර 400ක් ? මහත්තයො 400 න් 200ක් දෙන්න අහින්සක මිනිස්සුන්ට. බිම් අගලක් නැතුව සොහොන් පිටි වල රැය පහන් කරන මිනිස්සු ඉන්න රටක් මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-18 14:27:02</date>
+            <index>31</index>
+            <phrase>මටනම් මේ ගැන කියන්න කිසි දෙයක් නැහැ "හූ " හැර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-10-18 14:38:26</date>
+            <index>32</index>
+            <phrase>දැන් පරක්කු වැඩියි. කලින් යන්න තිබුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-18 15:02:14</date>
+            <index>33</index>
+            <phrase>දැන් හොදම දේ වත්ත හැරීමයි. එවිට එහි මයියොක්කා හිටවන්න පුළුවන්. තවත් හොයන්න ඕන නම් වලවල් කපල බැලුවනම් හොදයි. මොකද පොල්පැල හිටවන්න පුළුවන් පස්සේ. මේවා ගැන මහජනතාව හිනාවෙන්නේ කොහෙන්ද මන්ද? ජනතාව මෝඩයෝ නොවන බව හිතා ගත්තොත් හොදයි. ඩිෆෙන්ඩර් හොයන්න වත්ත පූරා හොයන්න ඕන නැහැ. පාරේ දුවවනකොට අල්ල ගන්න පුළුවන්නේ. මේ මෝඩ තක තීරු නියෝග දෙන අයට විරුධව තමයි කටයුතු කරන්න ඕන. ඔය යෙදවූ 50 ට දවසට රු. 1000ක් ගෙවන්න වුණොත් වියදම කොච්චරද කියල බලන්න. මේ මහජනතාවගේ මුදල් ඇයි නාස්ති කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙන්සිල්</author>
+            <date>2016-10-18 15:57:12</date>
+            <index>34</index>
+            <phrase>අනේ හැබෑටම මොනවද මේ වැඩ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-18 16:04:22</date>
+            <index>35</index>
+            <phrase>මොකද වළවල් හාරා බලා නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-18 16:07:27</date>
+            <index>36</index>
+            <phrase>රංගන, එක එක්කෙනාගේ පෞද්ගලික දේපල එහෙම නිකන්ම බෙදලා දුන්නම රටක ව්‍යාපාර, වැවිලි, නිෂ්පාදනය දියුණු වෙන්නේ කොහොමද? එ්ක ඒ මිනිසාට පාරම්පරිකව උරුම වුණ දෙයක්නම්, එ්ක එයාගේ දේපල. හොරාකාලා උපයාගත්තා නම් තමයි වැරැද්ද. සමහරු නැවු 7,8 ගන්නවා වගේ, දේශපාලනේට හිස් අතින් ඇවිල්ලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරණපාල</author>
+            <date>2016-10-18 16:11:27</date>
+            <index>37</index>
+            <phrase>බලාගෙන ගියාම මෙතුමාට ලොකු ඉඩම් එහෙමත් තියෙනවානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2016-10-18 16:24:35</date>
+            <index>38</index>
+            <phrase>මේ වතු එතුමලාට තම පරම්පරාවෙන් උරුමවුණ දේපල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිලාන්</author>
+            <date>2016-10-18 16:28:25</date>
+            <index>39</index>
+            <phrase>ඇත්තටම මේ ආණ්ඩුවට කරන්න වෙන වැඩක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් -ඩුබායි</author>
+            <date>2016-10-18 16:33:14</date>
+            <index>40</index>
+            <phrase>රාජපක්ෂලා වටේ හිටියේ ඔක්කොම හොරු තමයි. ඒ විදිහට තව අවුරුදු 2 ක් තිබුනා නම් අපිට හිඟාකන්නම සිද්ධවෙනවා. ඒ නිසයි අපි ජනවාරි 8 වෙනිදා උපරිම ශක්තිය යොදවලා ඒකාධිපති යුගය පරාජය කළේ. එ්ත් දැන්නම් සැහීමකට පත්වෙන්න බැහැ. දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් -ඩුබායි</author>
+            <date>2016-10-18 16:51:30</date>
+            <index>41</index>
+            <phrase>සාගර වගේ වහල් මානසිකත්වය තියෙන මිනිස්සු ඉන්න රටකට දෙවියන්ගේම පිහිටයි කියනවා හැරෙන්න වෙන මොනවා කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත කටාර්</author>
+            <date>2016-10-18 17:03:04</date>
+            <index>42</index>
+            <phrase>වැටත් නියරත් ගොයම් කා නම් කාට පවසම් ඒ අමාරුව... එච්චරයි කියන්න තියෙන්නේ. මේවා බලලම එපාවෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-18 17:26:14</date>
+            <index>43</index>
+            <phrase>අපි කාගෙවත් වත්පොහොසත්කම් වලට ඊර්ෂ්‍යා කරලා තේරුමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ග්‍රීන්</author>
+            <date>2016-10-18 19:21:12</date>
+            <index>44</index>
+            <phrase>මෙතුමා උපතින්ම සල්ලිකාරයෙක්, මිනිසුන්ගේ සිත් දිනාගෙන සිටින</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වි</author>
+            <date>2016-10-18 19:58:41</date>
+            <index>45</index>
+            <phrase>දැන් මෙතුමාට අක්කර 400 ලැබුනේ කොහොමද කියලා හොයන ගමන් ඔය පාර්ලිමේන්තුවේ ඉන්න අනිත් පක්ෂ විපක්ෂ මැති ඇමතිලට තියන අක්කර ගණන්, යාන වාහන, නැව් ගුවන් යානා ගැන හොයලා බලලා ජනතාවට බලාගන්න ප්‍රසිද්ධ කළා නම් ඒක ලොකු සේවයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-10-18 20:31:09</date>
+            <index>46</index>
+            <phrase>තවත් විනෝද සමයක්. එ්ත් හිනහ යන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගංගා</author>
+            <date>2016-10-18 21:08:12</date>
+            <index>47</index>
+            <phrase>මෙතන අදහස් දාන සමහර අය මහා ඊර්ෂ්‍යාකාර මිනිස්සු. ගිහිල්ලා පර්චස් එක එක ඉල්ලාගන්න. මහා පුදුම ආණ්ඩුවක් මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-10-18 21:38:36</date>
+            <index>48</index>
+            <phrase>වෙල්ගමලා බොහොම ආදර්ශමත්ව ජීවත්වන මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-10-18 22:03:35</date>
+            <index>49</index>
+            <phrase>ඉන්ද්‍ර අයියෝ! ඕක ඔච්චර දෙයක්ද? හරියට හොයලා බැලුවොත් රටේ බාගයක්ම ඒගොල්ලන්ගේ තමයි. ඔහොම කියන ඔය මහත්තුරුම ගිහිල්ලා අනේ ඉතුරුටිකත් ගන්න කියලා ඡන්දෙ දෙනවනේ. ජනහිත, ඇත්තටම මේ නැතිවුණ වාහන හොයන්න එපා කියලද ඔයා කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-10-18 22:05:03</date>
+            <index>50</index>
+            <phrase>චානක, ඔබ හරියටම හරි. හැබැයි මානසිකත්වය වෙනස්වෙනවා කියන එක නම් බොරු. බලන්න ජනහිත දිහා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝනාර</author>
+            <date>2016-10-18 23:15:52</date>
+            <index>51</index>
+            <phrase>අනේ නුවන් ගැන මට දුකයි. නුවන්ලට සමහර විට බිම් අඟලක් නැතුව ඇති. එයා කියනවා අරයට මෙච්චරයි මෙයාට මෙච්චරයි මේක මොකක්ද කියලා. වෙන අය වෙනුවෙන් මොනතරම් කඩේ යනවද අසරණයින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-19 00:34:42</date>
+            <index>52</index>
+            <phrase>සමහරු මෝඩ විදියට අදහස් දානවා. මෙතනට අදාළ වන්නේ සාපේක්ෂවාදයක් නොවෙයි. පවුලකට ජීවත්වෙන්න අක්කර 400ක් ඕනෑමද කියන එක. ඇත්තටම පවුලේ යැපීමට මේ සා මුදලක් අවශ්‍ය නම්, බිම් අඟලක් නැතුව පාසල් යන්න හරි වස්ත්‍රයක් හෝ හරි ආහාරයක් නොලබන දරුවන් ඇති පවුල් වලට කාගේ පිහිටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2016-10-19 00:42:58</date>
+            <index>53</index>
+            <phrase>මෙතැන ගොඩක් අය මේ සෝදිසිය උපහාසයට ලක්කරනවා. කණගාටුයි. ඩිෆෙන්ඩර් දෙකක් අවභාවිතා කළා නම් ඒ මහජන දේපොළ. තමුන්ගේ දේශපාලන මතය නිසා ඕනෑම වරදක් සාධාරණීකරනය කරන්න එපා. එ්ක තමුන් විසින් තමුන්ගේ වළ කපාගැනීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-10-19 00:59:29</date>
+            <index>54</index>
+            <phrase>මේ අදහස් දාන බොහෝදෙනෙක් වෙල්ගමලා ගැන දන්නේ නැහැ. වෙල්ගමලා හොරු නොවෙයි. ඡන්දෙ නොකර බිස්නස්ම කළා නම් මීටවඩා ලොකු ධනස්කන්ධයක් එකතු කරන්න තිබුනා. වෙල්ගම මුදලාලි දරුවන්ට හොරකම් කරන්න දුන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2016-10-19 01:00:09</date>
+            <index>55</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-10-19 01:03:01</date>
+            <index>56</index>
+            <phrase>මේගොල්ලෝ හිතාගෙන ඉන්නවා ඇති ඉස්කෝලේ යනකාලේ බයිසිකලයකවත් නැතුව ඉඳලා පාර්ලිමේන්තුවට ආවට පස්සේ කාර්වල ගිය අය කියලා, වෙල්ගමලත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්‍</author>
+            <date>2016-10-19 01:11:42</date>
+            <index>57</index>
+            <phrase>අපේ පොලීසිය හරි මෝඩයි. කවුද ගෙවල් වල ඕවා හංගාගෙන ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-10-19 01:47:42</date>
+            <index>58</index>
+            <phrase>කවුද මේ පොලිස් නඩයට දවසේ වියදම ගෙවන්නේ මේ වගේ වැඩ කරන්න. කිසිම සාක්කියක් නැතුව මේ වගේ වැඩ නොකර අර අච්චර සාක්කි සහිත පැමිණිලි ගැන හොයන්න හිතෙන්නේ නැත්තේ මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-10-19 02:01:27</date>
+            <index>59</index>
+            <phrase>මේ ආණ්ඩුවේ ලොකුම දක්ෂකම් තමයි ඔය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-10-19 02:02:37</date>
+            <index>60</index>
+            <phrase>ඇත්තටම ලැජ්ජා නැද්ද? යහපාලනය මොනවා කළත් හොඳයි. වෙල්ගමලා පරම්පරාගත සල්ලිකාරයෝ. අනුන්ගේ ඉඩම් වලට කැදර වෙන්න එපා. යහපාලන අාණ්ඩුවේ අයගේ ඉඩම් වල තරම ඔයාලා දන්නවද? එ්වා දැනගත්තොත් පපුව පිච්චිලා යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්. උණම්බුව</author>
+            <date>2016-10-19 02:10:26</date>
+            <index>61</index>
+            <phrase>අපි දන්නා තරමින් නම් වෙල්ගමලා වතුකාරයෝ නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සවනත්</author>
+            <date>2016-10-19 02:14:28</date>
+            <index>62</index>
+            <phrase>මගේ සීයා අගලවත්තේ. වෙල්ගමලා පාරම්පරික ධනපතීන්. ඇත්තටම දේශපාලනේ නැත්නම් ඔවුන් මීටත්වඩා පෝසත් වේවි තමයි. හැබැයි පළාතේ මිනිසුන්ට නැදෑකම් නොබලා පක්ෂ භේද නොබලා උදවු කළා. අත දිග ඇරලා රැකියා දෙන්න ඇති. අපේ සීයලත් යුඑන්පී. එහෙත් අපි ඔක්කොම දන්නවා වෙල්ගම මුදලාලිගේ දරුවෝ දුප්පතුන්ව පාගන්නේ නැති බව. ඔය අක්කර සිය ගණන්වල ඒ මිනිසුන් දුක් නොවිඳ වැඩ කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-10-19 02:15:25</date>
+            <index>63</index>
+            <phrase>වෙල්ගමගේ අක්කර 400 හොයන ගමන් අර සමහරුන්ගේ ඕස්ට්‍රේලියාවේ තිබෙන ඇපල් වතු ගැනත් හොයන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2016-10-19 02:53:08</date>
+            <index>64</index>
+            <phrase>මිටවැඩිය ඉඩම් තියෙන අය ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-10-19 02:55:36</date>
+            <index>65</index>
+            <phrase>වෙල්ගම කියන්නේ දේශපාලනයෙන් සල්ලි හම්බ කරන්න ඕනෑ කෙනෙක් නෙමෙයි. එ්ක නිසා තමා එතුමා බය නැතුව ආණ්ඩුව විවේචනය කරන්නේ. ඔය ඕනෑතරම් ඉන්නේ තවත් අයුතු විදියට උපයපු අය. වැඩි කොටස ඉන්නේ මේ ආණ්ඩුව සමඟ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ් ප්‍රීනා</author>
+            <date>2016-10-19 03:06:42</date>
+            <index>66</index>
+            <phrase>පොඩි සෙල්ලම් කාර් දෙකක් වෙන්න ඇති වත්ත පීරාගෙන හොයන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-10-19 03:27:31</date>
+            <index>67</index>
+            <phrase>දැන් තමයි වැඩේ පටන් ගෙන තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන</author>
+            <date>2016-10-19 03:30:52</date>
+            <index>68</index>
+            <phrase>හොයපු දේවල් දැන් තිබ්බද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-10-19 03:36:04</date>
+            <index>69</index>
+            <phrase>මිනිසුන්ගේ අවදානය වෙනතකට හරවන්න කරන කුට වැඩ ලෙසයි මම නම් මේවා දකින්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසලාවති</author>
+            <date>2016-10-19 03:48:33</date>
+            <index>70</index>
+            <phrase>ප්‍රවාහන ඇමති කියන්නේ පොඩි පහේ තනතුරක් නොවේ. කෝච්චි, බස් මොනතරම් මෙයාගේ කාලේ ගෙන්නුවද, ඉතින් 0.1% කොමිසම් එකක් ගැහුවත් බිලියන් ගණනින් සාක්කුවේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිව</author>
+            <date>2016-10-19 04:16:22</date>
+            <index>71</index>
+            <phrase>දේශපාලනෙන් සල්ලි හම්බ කලත් නොකලත් පාර්ලිමේන්තුවේ ඉඳගෙන රටට කරන්න ඕන වැඩකොටස මේ අය කරලා නෑ.දුම්රිය බාරව කාලයක් හිටියා.දුම්රිය සේවයේ කුමක්ද වෙනස් වුයේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2016-10-19 04:32:59</date>
+            <index>72</index>
+            <phrase>නරකද අක්කර 400 සොයපු එකේ අක්කර 3000 සේවුවානම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-10-19 04:35:21</date>
+            <index>73</index>
+            <phrase>කොහේ හරි හංගලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-10-19 07:30:03</date>
+            <index>74</index>
+            <phrase>තිලක් ඩුබායි, ඔයා වෙල්ගමගේ අක්කර 400 ගැන අඬන අතරේ රොනී ද මෙල්ගේ ගීකියනකන්ද වතු යාය, දකුණු ඔස්ට්‍ර්ලියාවේ තිබෙන අපේ පැරණ ඇමතිවරුන්ගේ ඇපල් වතු එහෙම ගැනත් හොයන්නකෝ. ඒවා ගැන ඇයි අපි කතා නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්මිත්</author>
+            <date>2016-10-19 07:54:16</date>
+            <index>75</index>
+            <phrase>වත්ත කොච්චර පිරුවත් අන්තිමට මුකුත් නැතුව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2016-10-19 08:43:39</date>
+            <index>76</index>
+            <phrase>වෙල්ගමල පාරම්පරික දානපතියෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2016-10-20 20:28:33</date>
+            <index>77</index>
+            <phrase>වත්ත නොමිලේම පිරිසිදු වුණා නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-10-21 01:50:29</date>
+            <index>78</index>
+            <phrase>මේ වතු පාලු කරන්නේ මෙයාගේ ළඟ තිබෙන ජීප් හොයන්නද? නැත්නම් අර කෙනෙක් ගෙදර ගෙනිච්ච ජීප් එකේ කතාව යට ගහන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61134</articleId>
+    <title>පොළීකරු සහ දියණිය වෙඩි තබා මරා දමයි</title>
+    <author>විමල් ශ්‍යාමන් ජයසිංහ  රයිගම එම්පී ඩි ගුණවර්ධන</author>
+    <date>2012 අගෝස්තු මස 26 23:22:51</date>
+    <body>මොරගහහේන  පොල්ගහ හේනේ  අද රාත්‍රී 8. 30 පමණ සිදු වූ  වෙඩි තැබීමකින්  මුදල් පොළියට දෙන්නෙකු බව කියන එම්. ඩී. සුසන්ත ප්‍රේමකුමාර  සහ ඔහුගේ සිව් හැවිරිදි දියණිය මිය ගිය බව  මොරගහහේන පොලිසිය කියයි
+ප්‍රේමකුමාර මහතාගේ බිරිඳ මෙහිදි සුඵ තුවාල ලැබීය.
+මොවුන් තිදෙනා යතුරු පැදියෙන් සිය නිවස බලා එද්දී යතුරු පැදියකින් පැමිණි ඝාතකයා වෙඩි තබා පලා යන්නට ඇතැයි පොලිසිය සැක කරයි
+ </body>
+    <comments>
+        <comment>
+            <author>නාලිය</author>
+            <date>2012-08-26 23:48:02</date>
+            <index>0</index>
+            <phrase>රටකට ගිය කල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-26 23:53:15</date>
+            <index>1</index>
+            <phrase>මට නම් කියන්න දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2012-08-26 23:50:41</date>
+            <index>2</index>
+            <phrase>රටේ මිනිසුන්ගේ මානසිකත්වය සෑදීමට සුදුසු දැවැන්ත වැඩපිළිවෙළක් සකස් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-08-27 01:08:56</date>
+            <index>3</index>
+            <phrase>දැන් දැන් ලංකාවේ ජීවත් වීම ඉතා අනතුරුදායකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-27 01:14:26</date>
+            <index>4</index>
+            <phrase>අපරාධකරුට පොළියත් සමගම දඩුවම් කළ යුතුයි. පවු. අසරණ පවුලක් අනාත වුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුලස්ති</author>
+            <date>2012-08-27 01:29:25</date>
+            <index>5</index>
+            <phrase>අයියෝ! අපේ රටට මොකද මේ වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභා</author>
+            <date>2012-08-27 02:37:44</date>
+            <index>6</index>
+            <phrase>අනේ පවු! අහිංසක පවුලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-08-27 02:43:57</date>
+            <index>7</index>
+            <phrase>මිනීමරුවන්ට අසරණ ළමයා නැති වෙලාවකදි මේක කරන්න තිබුණේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-08-27 04:48:47</date>
+            <index>8</index>
+            <phrase>පොලියට සල්ලි ගත්ත කෙනෙක් පොලියත් එක්ක දීලා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>undefined</author>
+            <date>2012-08-27 07:07:13</date>
+            <index>9</index>
+            <phrase>මොනව වුණත් ළමයි මැරුව එක සම්පූර්ණ වැරදි. අම්මලා තාත්තලාගේ වැඩ වලට ළමයින් පලි නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-27 07:15:52</date>
+            <index>10</index>
+            <phrase>රටක නීතිය පක්ෂග්‍රාහීව ක්‍රියාත්මක වද්දී මෙවන් දේවල් සිදුවීම අරුමයක් නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-27 07:35:24</date>
+            <index>11</index>
+            <phrase>ණයට ගන්නට පැමිණෙන විට දෙකට තුනට නැමී පැමිණෙති. ඉන්පසු මුදල් ඉල්ලූ විට ගිනි පොළිය යැයි බැණ වදිති. අවසන මෙලෙස මහමග මරති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩියෝ</author>
+            <date>2012-08-27 07:37:05</date>
+            <index>12</index>
+            <phrase>අනේ මෙහෙමත් ජාතියක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-08-27 07:56:20</date>
+            <index>13</index>
+            <phrase>ලංකාව ලෝකයේ සාමකාමීම රටයි. සාමකාමීවම ජීවත් වීමට සුදුසුම රටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුලිප්</author>
+            <date>2012-08-27 08:09:18</date>
+            <index>14</index>
+            <phrase>ඇයි එල්ලුම් ගහ ගේන්නේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ</author>
+            <date>2012-08-27 08:14:12</date>
+            <index>15</index>
+            <phrase>වෙන මොකුත් නෙමෙයි. මේක පොළී ප්‍රශ්නයක් වෙන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2012-08-27 08:28:51</date>
+            <index>16</index>
+            <phrase>අර අවුරුදු හතරේ දරුවා මොන පවක් කරලද? ඔවා අහන්න තරම් අපි පව් කරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-27 08:25:44</date>
+            <index>17</index>
+            <phrase>මට කියන්න තියෙන්නෙත් වරුණ කීයූ කතාවමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ම‍හේන්</author>
+            <date>2012-08-27 08:32:04</date>
+            <index>18</index>
+            <phrase>හිමල් හරි . ලොකුම තැනින් පටන්ගත්තනම් හරි‍‍ ‍‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-08-27 08:40:19</date>
+            <index>19</index>
+            <phrase>රටක නීතිය කොයිබටද? ...... .රටකට ගිය කල ?.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-08-27 08:46:11</date>
+            <index>20</index>
+            <phrase>වගකියන්න ඕන පාලකයින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-08-27 08:55:03</date>
+            <index>21</index>
+            <phrase>කිසිම කෙනෙක් පොලිසයට දීම හෝ ගැනීම නොකළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-27 08:56:57</date>
+            <index>22</index>
+            <phrase>මට කියන්න තියෙන්නෙත් වරුණ කීයූ කතාවමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-27 08:57:31</date>
+            <index>23</index>
+            <phrase>අනේ මන්දා ලෝකෙන්ම සාමකාමී රට ලංකාවලු ????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-08-27 09:01:59</date>
+            <index>24</index>
+            <phrase>පව් අසරණ දරුවා . හැබැයි පොලී කාරයෝ කියන්නේ කිසිම හිතක් පපුවක් නැති ජාතියක්‍‍‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2012-08-27 09:07:43</date>
+            <index>25</index>
+            <phrase>අපරාධ රැල්ලක් නැහැල්ලුනේ. එතාකොට මොනවද අපරාධ කියන්නේ? අනේ මටනම් තේරෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාස් ඩයස්</author>
+            <date>2012-08-27 09:29:20</date>
+            <index>26</index>
+            <phrase>දැන් නම් බොරු විකාර කතා නොකර රටේ අපරාධ නැවැත්වීමට වැඩ පිළිවෙලක් පටන් ගන්න.. අධිවේගී මාර්ගවල යාමට මිනිසුන් ඉතිරි වෙන එකක් නැහැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාද් ප්‍රීනා</author>
+            <date>2012-08-27 09:35:54</date>
+            <index>27</index>
+            <phrase>මුදල් පොලියට දෙන එක ගම් පලාත්වල නගරවල සිදුවන දෙයක්.. මුදල් හදිසියට කවුරුත් පොලියට ගන්නවා.. ඒක මහ ලොකු වරදකුත් නෙමෙයි.. මෙය සැළසුම් සහගත මිනී මැරුමක්.. අපරාධකරුට නිසි දඩුවම් ලැබිය යුතුයි..!! මිය ගිය දෙන්නට නිවන් සුව පතමු..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-27 09:39:33</date>
+            <index>28</index>
+            <phrase>අද මිනිස්සු මුදල් වලින් අන්ධ වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත ඩුබායි</author>
+            <date>2012-08-27 09:47:07</date>
+            <index>29</index>
+            <phrase>අපේ රට ගැන පුදුම හිතෙනවා.. පිරිත් අහගෙන අවදි වෙන රටක වෙන දේවල්ද මේ.. හිමාල් කියන විදිහට රටේ මිනිසුන්ගේ මානසිකත්වය සැදීමට සුදුසු වැඩපිළිවෙලක් ආගම් සහභාගීත්වයෙන් අත්විය යුතුයි..!! මගේ රටට දළදා සමිදු පිහිටයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතාර</author>
+            <date>2012-08-27 09:43:56</date>
+            <index>30</index>
+            <phrase>දැන් එල්ලුම්ගහ ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-27 09:48:46</date>
+            <index>31</index>
+            <phrase>පෝරකය කෝ , ලෝකේ උතුම්ම රට ලංකාවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණබා</author>
+            <date>2012-08-27 09:53:23</date>
+            <index>32</index>
+            <phrase>ලංකාවේ අපචාර වැඩි වෙලා කියලා තේරුම් ගන්න ඕන. සිංගප්පූරුවේ රෑ ‍12 ටත් කාන්තාවන්‍ට මහ මග කිසිම කරදරයක් නැතුව යන්න එන්න පුළුවන් . ලංකාවට මොකක්ද වෙන්න යන්නේ. මේවා හදන්න වැඩපිළිවලක් තියෙනවද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානි</author>
+            <date>2012-08-27 09:57:05</date>
+            <index>33</index>
+            <phrase>පොලියට සල්ලි දෙන අයට වෙලාවට පොලී වාරිකය ගෙවනවා..ණයට අරන් හරි.. ඔයවගේ කරදර කරන්නෙත් නැහැ.. ඒ නිසා තව තවත් ඒඅය පොලියට සල්ලි දෙනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-08-27 10:07:43</date>
+            <index>34</index>
+            <phrase>වගකිවයුත්තන් උඩබලාගෙන ඉන්නවා.. රටේ අපරාධ වැඩිවෙනවා.. එල්ලුම්ගහ ගේන්නෙත් නැහැ.. වෙනත් විකල්පයක් ගන්නෙත් නැහැ.. මොකද්ද මේ රට.. මෙහෙමද රටක් පාලනය කරන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-27 10:26:00</date>
+            <index>35</index>
+            <phrase>අපි යන්නේ ආසියාවේ ආශ්චර්‍යයට .මේවා පොඩි දේවල් .මෙහෙමත් අවාසනාවන්ත තැනක්‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන</author>
+            <date>2012-08-27 10:27:43</date>
+            <index>36</index>
+            <phrase>පෝරකය හැමදාමත් හදනවා ,කවදාවත් ක්‍රියාත්මක කරන්නේ නෑනේ ?.පාලකයිනේ එක වතාවක්හරි ක්‍රියාත්මක කරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-08-27 10:34:41</date>
+            <index>37</index>
+            <phrase>මේ අපරාධ රැල්ල නවත්වන්න ප්‍රසිද්ධියේම දඩුවම් දීම අනිවාර්‍යයි‍‍‍‍... ආශ්චර්‍යයට කලින් මේවට තිත තියන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-08-27 10:36:26</date>
+            <index>38</index>
+            <phrase>බුදුන් තුන් වරක් වැඩි සිරි ලංකදීපය සදහම් සගුන් සෙවෙන දරුවෝ හැදුන දීපය තුට්ටු දෙකට මිනි මරණව නෑනේ කිසිබිය මොකක්ද සිරි ලංකාවට උන විනාසය ------------</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-08-27 10:41:43</date>
+            <index>39</index>
+            <phrase>ජීවත් වෙන්න අමාරු වුණහම මිනිසුන්ට පොළියට ගන්න සිදුවේ. ජීවන බර ඉහළ නිසා පොළී ගෙවාගන්න බැරි වේ. එවිට පොළී කාරයව මරන්න සිත්වේ. අනවසර ගිනි අවි සුලබව ඇති නිසා කිරි සප්පයන් නොබේරා මරති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-08-27 10:52:09</date>
+            <index>40</index>
+            <phrase>සල්ලි පොලියට දෙන වැඩිදෙනෙකුට හා පවුල්වල අයට ඔය වගේ ලෙඩදුක්, විපත් වලට මුහුණදෙන්න වෙනවා. ඔවුන් කන්නේ මහන්සියෙන් උපයාගත් මුදලින් නොවෙයි. මොවුන්ගේ වාර්ෂික පොලිය 120% කටත් වැඩියි. පොලියට ගත් මිනිහා ආපසු දෙන්නේ ශාප කරමින්. අනුන්ට ගිනි පොලියට දුන්නාමට තමන්ටත් ගිනි ලැබෙනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජා</author>
+            <date>2012-08-27 10:54:17</date>
+            <index>41</index>
+            <phrase>හැමදාම මිනිස්සු මරනවා. එල්ලුම්ගහ සුද්දකර කරනකම් අපි බලන් ඉන්නවා. එක්කෙනෙක් දෙන්නෙක් එල්ලුවානන් ඕවා නවතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-08-27 11:18:04</date>
+            <index>42</index>
+            <phrase>පොලිසියට දෙන වැඩ හරියට කෙරෙන්නේ නැහැ. පොඩි එකී පවු මොනවා වුණත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජි</author>
+            <date>2012-08-27 11:37:51</date>
+            <index>43</index>
+            <phrase>ජනපතිතුමනි, අනේ ඔබට මේවා නොපෙනේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-27 12:10:33</date>
+            <index>44</index>
+            <phrase>නොදන්නා දරුවාට වූයේ මහත් අපරාධයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-27 12:09:52</date>
+            <index>45</index>
+            <phrase>රටේ පවතින නීතියවත් හරියට ක්‍රියාත්මක වෙනවා නම් මේවා පාලනය වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීසර</author>
+            <date>2012-08-27 12:32:02</date>
+            <index>46</index>
+            <phrase>රංජිත්, මෝඩයෙක් වගේ කතාකරන්න එපා. පොළියට දෙන එක වැරදියි නම් ලෝකෙම තියන බැංකු වලට සම්බන්ධ අයට මේ වගේ විපත් වලට මුහුණ දෙන්න වෙයි. බිස්නස් කරන හැමෝම කරන්නෙ ලාබයක් තියාගෙන. පොළියට දෙන එකත් ඒ වගෙ තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෝනි</author>
+            <date>2012-08-27 12:41:15</date>
+            <index>47</index>
+            <phrase>අනේ අපේ රටට ගිය කලක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2012-08-27 12:50:06</date>
+            <index>48</index>
+            <phrase>ජිවිතේ හැටි ඔහොම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2012-08-27 14:01:52</date>
+            <index>49</index>
+            <phrase>රජකාලෙ දඞුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමින්ද</author>
+            <date>2012-08-27 14:07:08</date>
+            <index>50</index>
+            <phrase>ලංකාව ලෝකෙන්ම සාමකාමීම රටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-08-27 14:08:26</date>
+            <index>51</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නැසෙති. අනිසි ලෙස සාපරාධී ලෙස මුදල් උපයන්නන් සමාජයට අවි ගන්නෙකුට වඩා වින කටියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>න්‍රිෂාන්ත</author>
+            <date>2012-08-27 14:22:12</date>
+            <index>52</index>
+            <phrase>අහිංසක දරුවන් මරණ, ගැහැණුන් දූෂණය කරන මිනීමරුවන්ට එල්ලුම් ගහට යවන්න කියලයි මගේ මතය...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2012-08-27 14:46:57</date>
+            <index>53</index>
+            <phrase>මිනී මරුවනේ, තොපිලා හිතනවද මිනී මැරුවට පස්සේ තොපිලට සැනසීමක් තියෙයි කියලා ? තොපිලා ලබන ආත්මේ වන මෘගයෝ වෙලයි ඉපදෙන්නේ. මේ අපරාධ දැක දැක නිකන් බලන් ඉන්න අයටත් මේ ශාපය වදිනවා. අර දරුවට කරපු අපරාධයට තොපිට ආත්ම 100කටවත් තාත්තෙක් වෙන්න ලැබෙන්නේ නැතිවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-08-27 15:06:40</date>
+            <index>54</index>
+            <phrase>රංජිත්, කිසිම කෙනෙක් බලෙන් සල්ලි දෙන්නේ නැහැ.. කිසිම කරදයක් නැහැ එකගවූ දිනයට මුදල ගෙව්වානම්.. ණයට ගන්නා විට එය තමාට ගෙවීමට හැකිද? නැද්ද කියලා හිතලා බලන්න ඕන..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-08-27 15:10:04</date>
+            <index>55</index>
+            <phrase>ඉම්රාන් හරි මේවා අහන්න ලැබීමත් පවක්. සල්ලි වෙනුවෙන් කිරිදරුවෙක් බිලිගත්තා පව්කාරයෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-27 15:33:19</date>
+            <index>56</index>
+            <phrase>මේ අපරාද නවත්තන්න නම් කිසිම කෙනෙකුට කිසිම ආයුධයක් ලගතබා ගැනීම තහනම් කරන්න ඕනේ . ඒ වගේම පොලිසිය හමුදාව ලවා ගෙයින් ගෙට ගොස් සෝදිසි කරන්න ඕන . අඩුම ගානේ පිහියක් කැත්තක් චත් පාරකවත් ගෙනියන්ට තහනම් කරන්න ඕනෙ . ඒ වගේම වැරදි කරන අයට දැඩි දඩුවම් දෙන්න ඕනෙ. පක්‍ෂ භේධ නොබලා සැම කෙනාටම කරන එක වගේ සලකන්න ඕනේ . ත්‍රිවිද හමුදාවට හැර කිසිම ඇමති වරයෙකුටවවත් කිඝිම ආයුධයක් දෙන්න හොද නැහෑ . විශේෂයන්ම පාතාලය මඩින්න හමුදාවට පවරන්න ඕනෙ . මේ දේවල් හරි විදියට කලොත් මේ අපරාධවල් නවත්වන්න එච්චර අපහසු නැහැ .ඇත්තම කියනවානම් අපේ ත්‍රිවිද හමුදාවට නිසි බලය දෙනවානම් මේ දේවල් නවත්වන්න එක සතියක් ඇති . නමුත් කරන්නේ නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිශාන්ත</author>
+            <date>2012-08-27 16:07:28</date>
+            <index>57</index>
+            <phrase>රංජිත් මහත්තයෝ, ඔයා ඔය කියන දේ සත්‍යද? මොකද හැම කෙනෙක්ම පොලියට ගන්නේ නැහැ.. දෙනවා කිව්වට නොගෙන හිටියනම් හරිනෙ.. එතකොට පොලී දෙන්නෙත් නැහැ.. ඔයා තියන්නෙ මිනිස්සුන්ට නිකං සල්ලි දෙන්න කියලාද? ඔයා කීයක් හරි දීලා බලන්න හම්බවෙයිද කියලා.. දෙන සල්ලි ගන්න අමාරුයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2012-08-27 16:21:50</date>
+            <index>58</index>
+            <phrase>මේ වගේ ප්‍රවෘත්ති අසන්නට නොලැබෙන්නේ කවදාද එදිනට රටට කිරි උතුරනු ඇත. අපේ රටට සුනාමි එන්නේ මෙහෙම මිනිසුන් සිටින නිසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-08-27 16:47:15</date>
+            <index>59</index>
+            <phrase>අපේ රටේ නීති තියෙනවා. ඒත් ක්‍රියාත්මක නොවෙන එකනේ ප්‍රශ්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-27 17:11:47</date>
+            <index>60</index>
+            <phrase>මෙවන් දේවල් නැති කරන්න ඕනේ ලංකාවෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-08-27 17:26:27</date>
+            <index>61</index>
+            <phrase>"මට නං ඔය මොනවත් මතක නැහැ" කියලා කිවුවහම ඕනෙ කේස් එකක් නිකම්ම ෂේප්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇරිස්</author>
+            <date>2012-08-27 17:28:43</date>
+            <index>62</index>
+            <phrase>එල්ලුම් ගහ ගැන පෙරේරා දක්වපු අදහස ඉතාම හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2012-08-27 18:17:26</date>
+            <index>63</index>
+            <phrase>අළු ගෝසුවනේ, එල්ලාපන්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-08-27 18:40:03</date>
+            <index>64</index>
+            <phrase>මෙහෙමත් රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-08-27 19:09:08</date>
+            <index>65</index>
+            <phrase>හද කම්පාවන සිද්ධියක් මිනිස්සුන්ගේ හිතට මෙවැනි දෙයක් තමන්ට උනොත් දරාගන්නේ කොහෝමද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි</author>
+            <date>2012-08-27 20:15:15</date>
+            <index>66</index>
+            <phrase>එල්ලුම් ගහ නැවත ක්‍රියාත්මක කළ යුතුයි. ඒත් ඉතිං කාට කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2012-08-27 21:04:12</date>
+            <index>67</index>
+            <phrase>පොලිසිය හෝ උසාවිය අවශ්‍ය නැහැ. අදාළ පුද්ගලයාව මරා දැමිය යුතුමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-08-27 21:40:27</date>
+            <index>68</index>
+            <phrase>ලංකාවේ අපචාර, අපරාධ හොරකම් වැඩි වෙලා කියලා තේරුම් ගන්න ඕන.ඩුබායි රටේ රෑ ‍12 ටත් කාන්තාවන්‍ට මහ මග කිසිම කරදරයක් නැතුව යන්න එන්න පුළුවන් .ෙලංකාවට මොකක්ද වෙන්න යන්නේ. හරිම දුකයි අපේ රට ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-08-27 21:41:59</date>
+            <index>69</index>
+            <phrase>රටේ අපරාධ නවත්වන් පුළුවන් එකම කෙනා ජනරාල් පමණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසේකර</author>
+            <date>2012-08-27 22:15:41</date>
+            <index>70</index>
+            <phrase>ත්‍රස්තවාදය පරදවන්න පුලුවන් වුණත්.... අපි පරාදයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුනි</author>
+            <date>2012-08-27 23:04:37</date>
+            <index>71</index>
+            <phrase>සල්ලි පොලියට දෙන අය වැරදි නෑ. ගන්න අය දැනගන්න ඕනි වෙලාවට ගෙවන්න. එහෙම පොලියට හරි මුදලක් දෙන්න කෙනෙක් නොහිටිය නම් එල්ලිලා මැරෙන්න වෙන්නෙත් ගන්න මිනිහටම තමයි. එත් තමන්ට මුදල් අවශ්‍යම වෙලාවක ඒ මුදල් දීපු කෙනා අපහු ඇවිත් මුදල ඉල්ලුවාම කළගුණ සලකන හැටි තමයි ඔය. මේ වගේ පාපතාරයෝ බඩගින්නේ මැරුණත් තඹ සතයක් පොලියට තියා ණයටවත් දෙන්න හොඳ නෑ. මොකද එයාලා ණය දීපු එකට ස්තුති කරනවා නෙවෙයි. ගෙවන්න බැරිඋනාම ඇවිත් දීපු කෙනාගේ පවුලම නැති කරන්න හදනවා. අනේ අර අහිංසක කිරි දරුවා. ජීවිතේ තවම පටන්ගත්ත විතරයි. ඒ දරුවා ගැනවත් හිතන්න බැරි මිනීමරුවෝ තාමත් ආයුධ අරන් පාරේ යනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-08-27 23:19:06</date>
+            <index>72</index>
+            <phrase>මෙහෙම බැලුවහම ප්‍රභාකරන් කෙනෙක් ඉන්නම ඕනෑ නැහැ රටේ මිනිස්සු මැරෙන්න. ලංකාවේ දැනට ඉන්න මේ වගේ පොඩි පොඩි මිනීමරු කණ්ඩායම් ඔක්කොම එකතු කරලා බැලුවොත් හිටපු කොටි ත්‍රස්තවාදීන් පරාදයි. වත්මන් පාලනයේ අඩුපාඩුව මේකයි. එක ප්‍රශ්නයක් විසඳෙනකොට ඒ අඩුව පිරෙන්න තව එකක් ඉබේම මතුවෙනවා. හැබැයි ඒ අලුත් ප්‍රශ්නේ විසඳන්න කාටවත් උවමනාවක් නැහැ. ඒත් ඒ වෙනුවට පරණ ප්‍රශ්නේ විසඳපු හැටිම කියවනවා. මේ මැර කල්ලි එකතුවෙලා රටේ කලබලයක් ඇති කරන්න කලින් ආණ්ඩුව පියවරක් නොගත්තොත් 80 දශකයේ නාටකයේ දෙවැනි කොටස ළගදීම බලාගන්න පුළුවන් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමා</author>
+            <date>2012-08-28 10:01:37</date>
+            <index>73</index>
+            <phrase>මෙහෙමත් ජිවිත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2012-08-28 11:19:52</date>
+            <index>74</index>
+            <phrase>අපේ රටේ වගකියයුතු පුද්ගලයෝ ඔක්කොම වයසයි ඔක්කොටම 40 ඇදිරිය. ඒකයි මේවා පේන්නේ නැත්තේ .. තරුණ කීපදෙනෙක් උන්නත් උන් ඉන්නෙත් පොට්ටයෝ වගේ . අනේ මන්ද එක දෙයක් විතරක් කරලා මුළු ජීවිතේම එක විතරක් කියව කියව ඉන්න එක බාල වැඩක් .. යුද්දේ තියෙද්දී හැමෝම ලංකාවට අනේ අපොයි කියුව එත් දැන් යුද්දේ ඉවර වෙලා මේ වෙන දේවල් දැක්කම හැමෝම පිළිකුල් කරනවා .. ලංකාවේ තිබුන යුද්දය නතර කලානම් මේවගේ අපරාද නවත්වන්න බැරි තනියම දෙයක් කරගන්න බැරි නිසාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජු</author>
+            <date>2012-08-28 11:17:19</date>
+            <index>75</index>
+            <phrase>යුද්දේ තියෙද්දී හැමෝම ලංකාවට අනේ අපොයි කියුව එත් දැන් යුද්දේ ඉවර වෙලා මේ වෙන දේවල් දැක්කම හැමෝම පිළිකුල් කරනවා .. ලංකාවේ තිබුන යුද්දය නතර කලානම් මේවගේ අපරාද නවත්වන්න බැරි තනියම දෙයක් කරගන්න බැරි නිසාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් ‍ඩුබායි</author>
+            <date>2012-08-28 11:39:28</date>
+            <index>76</index>
+            <phrase>හරියට නීතිය ක්‍රියාත්මක වෙනවානම් මේවා සිද්ධවෙන්නෙ නැහැ.. වෙන රටක උනානම් වෙඩි තියලා මරල දානවා පහුවදාම.. එතකොට කොයි කවුරුත් බයයි මිනී මරන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-28 15:31:02</date>
+            <index>77</index>
+            <phrase>පහුවදා වෙනකොට මරලාත් ඉවරකරන්න තරම් , පැය විසිහතර පුරාම ක්‍රියාත්මක අධිකරණයක් තියෙන 'වෙන රට' කුමක්ද කියා කරුණාකර දන්වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්ත</author>
+            <date>2012-08-28 16:49:10</date>
+            <index>78</index>
+            <phrase>කොහොමද එහෙම උනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-08-28 17:11:52</date>
+            <index>79</index>
+            <phrase>ශ්‍රීසර, දන්නවාද? බැංකුවෙන් ණයක් ගත්තොත් වසරකටම උපරිම පොළිය 20% යි. හැබැයි ගිනි පොළිය මසකට 10%යි. 1000 ගත්තෝතින් වසර අග වන විට 2200ක් ගෙවන්න වෙනව. අහිංසක දුප්පත් මිනිසුගේ දහඩිය බොන එක හරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙන්ඩිස්</author>
+            <date>2012-08-29 02:47:33</date>
+            <index>80</index>
+            <phrase>ළමයා නම් අපරාදේ. නමුත් මේ අය සල්ලි දෙන්නේ ගිනි පොළියට. 20%ක් මාසයට. ඔහොම වෙලා මදි. මිනිස්සු අමාරුවෙන් දාඩිය මහන්සියෙන් උපයන සල්ලි ගෙවන්න පරක්කු වුණහම ඔය අය එන්නේ පුදුම පාර්ට් දාගෙන. ඔහොම වෙන්න ඕනේ. තව ඉන්න උන් ටිකත් මරන්නම තමයි තියන්නේ. මෙයාලට හෙණම ගහන්ට ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෂාන්</author>
+            <date>2012-08-29 07:54:58</date>
+            <index>81</index>
+            <phrase>මෙහෙමත් රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්ද</author>
+            <date>2012-08-30 11:45:37</date>
+            <index>82</index>
+            <phrase>නීතිය ශක්තිමත් නැති ඵක හින්දයි මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරතුංග</author>
+            <date>2012-08-31 00:50:04</date>
+            <index>83</index>
+            <phrase>පාලකයන් රටේ නීතිය අපරාධකරුවන්ට බාර දීලා. මහනාහිමිවරු හුග දෙනෙක් බෙන්ස් වලින් නිවන් යන්න දගලනවා. ඉතිං එහෙවු රටේ මේවා සාමාන්‍ය දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජී</author>
+            <date>2012-08-31 14:25:02</date>
+            <index>84</index>
+            <phrase>මම නම් පොලියට සල්ලි දෙන එක වැරදි දෙයක් විදියට දකින්නෙ නැහැ. ඒක ඒ මිනිස්සුන්ගේ රස්සාව​. පොලියක් අය කරන වග දැනගෙනනෙ ගන්න අය මුදල් ගන්නේ. වෙලාවට සල්ලි ටික බේරනවා නම් කිසි කරදරයක් නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලෙක්ස්</author>
+            <date>2012-08-31 16:16:26</date>
+            <index>85</index>
+            <phrase>අනේ මන්දා අපේ මිනිස්සු කියලා තියන දේවල් දැක්කහම මට හිතාගන්න බැහැ මොකක්ද මේ වෙන්නේ කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්</author>
+            <date>2012-09-01 08:02:59</date>
+            <index>86</index>
+            <phrase>අනේ අපොයි! දැන් මිනිස්සුන්ට මිනීමරන එක සාමාන්‍ය දෙයක් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන්ත</author>
+            <date>2012-09-01 14:22:33</date>
+            <index>87</index>
+            <phrase>බුදුන් තුන් වරක් වැඩි ශ්‍රී ලංකාද්වීපය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

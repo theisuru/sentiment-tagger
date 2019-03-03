@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458398</articleId>
+    <title>පරණ හබේකින් දෙන්නෙක් රෝහලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 15 18:26:23</date>
+    <body>පරණ කෝන්තරයක් මත කහතුඩුවේ දී මිනිසකුට කඩුවලින් පහරදුන් කණ්ඩායමක් අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+මෙම පුද්ගලයා කාරයක සිටියදී මැරයන් කාරයට ගැසූ බවත්, ඔහු අසල කඩයකට දිවූ බවත් මැරයන් ඔහු පසුපස පන්නා කඩුවලින් පහර දුන් බවත් ටයර් කඩයේ පුද්ගලයකුට ද කඩු පහර වැදී ඇති බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-09-16 08:55:41</date>
+            <index>0</index>
+            <phrase>පොඩි දේවල් ලොකුවට අරන් මිනී මරා ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

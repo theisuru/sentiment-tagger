@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460448</articleId>
+    <title>ස්ටුවර්ට් අතුරුදන් : සෙරෙප්පු දෙක බොල්ගොඩ වැව අයිනේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 22 16:27:46</date>
+    <body>මාවනැල්ලේ හිඟුලෙන් බොල්ගොඩ හෝටලයක ස්ටුවර්ට් රැකියාවට පැමිණි එස්.එම්.ජී. සමන් ශානක ගැමුණු කන්දෙමුල්ල (40) බදාදා (21) පස්වරු 5.30න් පසු ආගිය අතක් නැතැයි හෝටලය පොලිසියට දන්වා ඇත.
+ඔහු බොල්ගොඩ වැව අසල පිහිටි මෙම අවන්හලේ සේවය කළ ඔහුගේ සෙරෙප්පු දෙක ජංගම දුරකථනය හා රුපියල් 20ක් සහිත මුදල් පසුම්බිය ගඟ﻿ අයිනේ තිබී සොයාගෙන ඇති බවත් ඒ අසල සිගරට් පැකට් කිහිපයක් ද තිබූ බවත් පොලිසිය පවසයි.
+මාසයකට පමණ පෙර හෝටලයේ සේවයට ආ ඔහු ගමේ ගොස් යළි සේවයට පැමිණි ඇත්තේ දින දෙකකට පමණ පෙර බවද කියති.</body>
+    <comments>
+        <comment>
+            <author>අරුණ පෙරේරා</author>
+            <date>2016-09-22 11:53:02</date>
+            <index>0</index>
+            <phrase>මොකක්ද මේ තරුණයාට වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2016-09-22 13:15:21</date>
+            <index>1</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-09-23 05:26:10</date>
+            <index>2</index>
+            <phrase>හොඳින් පරීක්ෂා කර බැලුවොත් කොහෙන්හරි හොයාගන්න පුලුවන්වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

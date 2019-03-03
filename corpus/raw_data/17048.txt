@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17048</articleId>
+    <title>නත්තල් ‘එළුමස්‘ කරිය වරදී</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 12 12:07:25</date>
+    <body>නත්තල් සමයේ මරා එළු මසට විකිණීම සඳහා කහටගස්දිගිලියේ සිට වැලිසරට ලොරියකින් රැගෙන යමින් සිටි බව කියන වහුපැටවුන් තිස්දෙනකු සොයාගත් බව මිහින්තලේ පොලීසිය කියයි. දෙමාසයේ පැටවුන් ද එහි සිටි බව පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>කහවල</author>
+            <date>2011-12-12 13:18:49</date>
+            <index>0</index>
+            <phrase>(එළුමසට විකිනීම සදහා වසු පැටවු?) ඒ මොන කතාවක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2011-12-12 13:24:43</date>
+            <index>1</index>
+            <phrase>මේවගේ දේවල් අහන්න දකින්න අපිත් පවු කලානේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්කි</author>
+            <date>2011-12-12 15:02:24</date>
+            <index>2</index>
+            <phrase>ඇයි මේ මිනිස්සුන්ට කන්න දේවල් නැතිද? අහිංසක සත්තුන්ගේ මස් වලින් බඩ පුරෝගන්න හදන්නේ? කාන්තාරවල මිනිස්සුන්වත් ඔයවගේ වැඩ කරන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්න්ද</author>
+            <date>2011-12-12 14:46:52</date>
+            <index>3</index>
+            <phrase>ලෝක විනාශෙ කියන්නේ මේවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2011-12-12 15:13:30</date>
+            <index>4</index>
+            <phrase>2004-12-26 අමතක වෙලා වගෙයි. මතකනම් මෙහෙම ැවඩ කොහොමත් කරන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගාර</author>
+            <date>2011-12-12 16:57:26</date>
+            <index>5</index>
+            <phrase>මේවා හොද නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉංදික</author>
+            <date>2011-12-12 16:37:33</date>
+            <index>6</index>
+            <phrase>මල්කි, නොදන්නා කමට කියවන්න එපා ! කාන්තාරවල ඉන්න අය තමයි වැඩිපුරම මස් කන්නේ. පුලුවන්නම් සිංහල බෞද්ධයා වෙබ් සයිට් එකට ගිහින් බලන්න මොකක්ද ඇත්ත කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

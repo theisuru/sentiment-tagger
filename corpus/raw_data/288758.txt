@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>288758</articleId>
+    <title>ජනපති  නිදහස් මැදුරේදී දිවුරුම් දෙයි</title>
+    <author>තරිඳු ජයවර්ධන  සංජීව නිරෝෂණ ශාන්ත රත්නායකඉෂාන් සංජීව</author>
+    <date>2015 ජනවාරි මස 09 18:21:12</date>
+    <body>මෛත්‍රීපාල සිරිසේන මහතා කේ.ශ්‍රී.පවන් ශ්‍රේෂ්ඨාධිකරණ විිනිසුරු ඉදිරියේ දිවුරුම් දුන්නේය. එවිට වේලාව පස්වරු 6.21යි.
+හිටපු ජනපතිනි චන්ද්‍රිකා කුමාරතුංග, එජාප නායක සහ විපක්ෂ නායක රනිල් වික්‍රමසිංහ, මන්ත්‍රී රාජිත සේනාරත්න යන මහත්ම මහත්මීහු ද පැමිණ සිටිය අය අතර වූහ.</body>
+    <comments>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2015-01-09 14:23:43</date>
+            <index>0</index>
+            <phrase>ඔබට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2015-01-09 14:42:22</date>
+            <index>1</index>
+            <phrase>මේ ඡන්ද ප්‍රතිඵල වලින් පැහැදිලිවන්නේ නාගරික ප්‍රදේශ වල සහ බහුතරයක් ද්‍රවිඩ සහ මුස්ලිම් ප්‍රදේශවල ජනතාව මෛත්‍රිපාල ජනාධිපතිතුමාගේ ජයග්‍රහණයට දායක වී ඇති බවය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරවංශ</author>
+            <date>2015-01-14 15:07:38</date>
+            <index>2</index>
+            <phrase>අඩු වියදමක් කර දිව්රුම් දීමේ උත්සවය සංවිදානය කරපු ඔබ තුමා රටට ආදර්ශයක් ගෙනදුන්නා.ඒවගේම රටේ ජාතික ධනය ඉතිරි කරා ඔබට සදා ජය!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

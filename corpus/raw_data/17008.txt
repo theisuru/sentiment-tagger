@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17008</articleId>
+    <title>සැරයන්ගේ මල්ලෙන් දඩමස් පනී</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2011 දෙසැම්බර් මස 12 10:31:38</date>
+    <body>වල් ඌරු මස් හා ගෝන මස් කිලෝ හතර හමාරක් රැගෙනයමින් සිටි පොලිස් සැරයන්වරයකු කන්තලේදී සැකපිට අත්අඩංගුවට ගත් බව වනජීවි නිලධරයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>සුදත්</author>
+            <date>2011-12-12 11:51:40</date>
+            <index>0</index>
+            <phrase>එතුමන්ල ලඟ මේවා සුලබයි.. විශේශයෙන් දඩ වෙනුවට බෝතල් ඉල්ලන අයට ඉතින් බයිට් ඕන වෙනවා. කඩයක නමක් කියල ඒකට ගෙනත් තියල ඇවිත් අයි-ඩී එක අරන් යන්න කියනවා. එහෙමයි වැඩේ සිද්ධවෙන්නේ අයුබොවන්! මේක හුඟක් කරන්නේ පිට පලාත්වලින් ඩියුටි එන අය. මේකෙ අනික් පැත්ත තම්යි, ජීවන වියදම වැඩි කමට මිනිස්සු තහනම් දේට ඉල්ලුම වැඩි නිසා විකුණනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2011-12-12 13:45:39</date>
+            <index>1</index>
+            <phrase>බයිට් එකට වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීමාලි - ඩුබායි</author>
+            <date>2011-12-12 14:09:02</date>
+            <index>2</index>
+            <phrase>නීතිය හරියට ක්‍රියාත්මක කළ වනජීවී නිලධාරීන්ට ස්තුතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීමාලි - ඩුබායි</author>
+            <date>2011-12-12 14:12:10</date>
+            <index>3</index>
+            <phrase>පොලීසිය වැරදි කළාම කොහොමද මහජනතාව හසන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

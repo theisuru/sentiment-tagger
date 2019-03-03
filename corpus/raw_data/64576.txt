@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>64576</articleId>
+    <title>දකුණු අප්‍රිකාව ලංකාවේ ආයෝජනයට සැරසෙයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 සැප්තැම්බර් මස 14 10:41:44</date>
+    <body>දකුණු අප්‍රිකාවේ සමාගම් 6000ක සාමාජිකත්වය හිමි අප්‍රිකා ජාතික කොන්ග්‍රසයේ ප්‍රගතිශීලී ව්‍යාපාර සංසදයේ නියෝජිත පිරිසක් ශ්‍රී ලංකාවේ ව්‍යාපාර අවස්ථා සොයා බැලීමට සාර්ථක චාරිකාවක යෙදුණු බව විදේශ අමාත්‍යංශය කියයි.
+ඔවුහු දෙරට වළෙඳ හා ආර්ථික ප්‍රවර්ධනය සඳහා වන අවබෝධතා ගිවිසුමක්ද අත්සන් කළහ.
+යාපනයේ ද සංචාරය කළ නියෝජිතයෝ තිස් අවුරුදු යුධයෙන් පසු යාපනය යළි පිබිදෙන ආකාරය ගැන සතුට පළ කළහ. එහි ආයෝජනය සඳහා ඔවුහු උනන්දුවද පළ කළහ.</body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-09-15 00:21:27</date>
+            <index>0</index>
+            <phrase>කවුරු නමුත් ඇවිල්ලා අපේ රටට රැකියා ටිකක් ‍ලැබෙනවා නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පනාගොඩ</author>
+            <date>2012-09-18 18:04:57</date>
+            <index>1</index>
+            <phrase>රට අපයෝජනයට ගන්නේ නැතුව ඕනෑම ආයෝජනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-09-18 18:32:18</date>
+            <index>2</index>
+            <phrase>එන පොට නම් හොද නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් කල්පගේ</author>
+            <date>2012-09-20 16:47:54</date>
+            <index>3</index>
+            <phrase>එච්.අයි.වී නැතිව ඕනෑම ආයෝජනයක්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2012-09-21 00:30:47</date>
+            <index>4</index>
+            <phrase>දකුණු ඉන්දියාවට නොදී වෙන ඕනෑම කෙනෙකුට දුන්නට කමක් නැහැ.. අපේ රටට හොදක් වෙනවා නම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-09-23 15:49:59</date>
+            <index>5</index>
+            <phrase>දකුණු අප්‍රිකාව කොටින්ට හිතවත් රටක්. කොටින් අප්‍රිකානු රජය මාර්ගයෙන් ලංකාවේ ආයෝජන කරන්න හදනවද කියලා කවුද දන්නේ ? කීපසැරයක් හිතා බැලිය යුතු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම</author>
+            <date>2012-09-23 23:07:53</date>
+            <index>6</index>
+            <phrase>ෂුවර්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2012-09-24 19:10:27</date>
+            <index>7</index>
+            <phrase>ඔය වගේ ආයෝජනයක් අපේ රටේ කොටස් වෙළද පොළට කරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-09-28 16:06:18</date>
+            <index>8</index>
+            <phrase>පරෙස්සමින්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-10-01 13:16:19</date>
+            <index>9</index>
+            <phrase>ස්වාසිලන්තය ලංකාවේ ආයෝජනය කරන්නේ මොනවාද ? ඒ කවදාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත්</author>
+            <date>2012-10-05 10:03:20</date>
+            <index>10</index>
+            <phrase>දකුණු අප්‍රිකාව ගැන හොද අවධානයෙන් සිටිය යුතුයි. ඔවුන්ගේ අරමුණ කුමක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

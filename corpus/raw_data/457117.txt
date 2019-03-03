@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457117</articleId>
+    <title>උතුරේ 90 ක් යළි  එති</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 13 15:12:30</date>
+    <body>යුද සමයේ උතුරෙන් තමිල්නාඩුවට ගොස් සිටි 90 දෙනෙක්  ශ්‍රි ලංකාවට  ආහ. මොවුන් යාපනය , මුලතිව් පෙදෙස් වල පදිංචිකරුවෝ වෙති.
+දිවයිනට පැමිණෙන එක් පුද්ගලයකු සඳහා අමෙරිකා ඩොලර් 75ක් ලබාදීමට සැලසුම් කර ඇති අතර ප්‍රවාහන දීමනා ලෙස අමෙරිකා ඩොලර් 19ක් ලබාදෙන බව නැවත පදිංචි කිරීමේ අමාත්‍යාංශය සඳහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-13 10:49:45</date>
+            <index>0</index>
+            <phrase>එහෙනම් තව ඉඩම් ටිකක් නිදහස් කරන්න වෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-09-13 11:32:42</date>
+            <index>1</index>
+            <phrase>හිතාගන්න පුළුවන් කව්ද මේවට පස්සෙන් ඉන්නේ කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපවතී</author>
+            <date>2016-09-13 12:32:53</date>
+            <index>2</index>
+            <phrase>ඔය එන සියලුම දෙනා ෂුවර්ද ලංකාවෙන් ගියපු අයමද කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-13 16:27:34</date>
+            <index>3</index>
+            <phrase>ආපසු එන්න අකමැති අයට ගමන් ගාස්තු පමණක් දෙන්න. මොකද එහෙ යන්න එයාලානේ වියදම් කළේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

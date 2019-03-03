@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>276844</articleId>
+    <title>මහනුවර - හිඳගල රජමහා විහාරය සොයා ගියෙමු....</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 නොවැම්බර් මස 20 15:38:14</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2014-11-24 23:52:04</date>
+            <index>0</index>
+            <phrase>හිඳගල රාජ මහා විහාරය ගැන තොරතුරු ගෙන ආ ඔබට ස්තුති කරමි. වැදගත් කරුණු රැසක් ඉන් ලැබුණි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියෝන් ගුණවර්ධන</author>
+            <date>2014-12-11 02:52:26</date>
+            <index>1</index>
+            <phrase>මෙම විස්තරයෙන් පෙනෙන්නේ ඵෙතිහාසික අතිශයින් වැදගත්කමක් ඇති මෙම රජමහා විහාරය නුතන පුරා විද්‍යාඥයන්ගේ අවධානයට යොමුවී නැතිබවයි. ඕනෑම කෙනෙකුට මෙම පුරණ විහාරස්ථානය නැරඹීමට සිත් යොමුවෙනවා ඇති. මෙය සංරක්ෂණය කිරීම සදහා පුරාවිද්‍යා දෙපාර්තමේන්තුව ක්‍රියාකළ යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-12-15 03:27:42</date>
+            <index>2</index>
+            <phrase>විශ්ව විද්‍යාලයට එන ගොඩක් ළමයින්වත් දන්නේ නැහැ හිඳගල විහාරය ගැන. ඉතාම හොඳ ලිපියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2015-01-26 05:52:55</date>
+            <index>3</index>
+            <phrase>වැඩසටහන ඉතාම හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

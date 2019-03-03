@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30987</articleId>
+    <title>අලිබේබි බාරවෙයි</title>
+    <author>චාමින්ද දිසානායක</author>
+    <date>2012 මාර්තු මස 12 11:42:07</date>
+    <body>වැලිගෙපාළ හටන්ගල එම් ඩී අමිල ප්‍රදීප් එක්දරු පියාගේ මරණය සම්බන්ධයෙන් සැකපිට පොලීසියට අවශ්‍යව සිටි වැලිගෙපොළ ප්‍රාදේශීය සභා මන්ත්‍රී වසන්ත නොහොක් ‘අලිබේබි‘ රත්නපුර පොලීසියට අද බාරවිය.
+ඔහු බාරවූ පුවත සැළැවීමත් සමග වැලිගෙපොළ වැසියෝ රතිඤ්ඤා පත්තු කළහ. වැලිගෙපොළ පොලීස් ආරක්ෂාව තර කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-03-12 11:51:54</date>
+            <index>0</index>
+            <phrase>මෙයාට විරුද්ධව සාධාරණ තීන්දුවක් දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-03-12 13:11:57</date>
+            <index>1</index>
+            <phrase>තංගල්ලේ සිද්ධියෙ වගේ මෙයාටත් චෝදනාවක් නැති වෙයිත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

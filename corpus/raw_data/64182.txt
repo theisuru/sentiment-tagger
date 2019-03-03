@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>64182</articleId>
+    <title>තනියා ගමක් හොල්ලයි</title>
+    <author>වාමු වික‍්‍රමසිංහ</author>
+    <date>2012 සැප්තැම්බර් මස 12 13:11:47</date>
+    <body>කන්තලේ වෙන්ඩ‍්‍රාසපුරයට හිටි ගමන් කඩාවැදුණු කබරයා නම් තනි අලියා දවසක්ම ඒ පළාත හොල්ලාගෙන සිටියේය. වනජීවි නිලධරයකුටද පහර දුන්නේය. ඔහු රෝහල්ගත කරනු ලැබීය. සේරුවිල, වාන්ඇළ පැත්තේ සිට වතුර සොයා අලි ඇත්තු ගම්වදිති.</body>
+    <comments>
+        <comment>
+            <author>හසිත්</author>
+            <date>2012-09-12 13:27:29</date>
+            <index>0</index>
+            <phrase>අනේ පව් අහිංසක කිරිකැටියා....තනිවෙලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-09-12 13:39:03</date>
+            <index>1</index>
+            <phrase>මේ අය ඉන්නේ පාරෙද ??? අලි එලෙව්වනේ දැන් ආයේ කොයින්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-09-12 13:38:37</date>
+            <index>2</index>
+            <phrase>කන්න දෙයක් නැහැ බොන්න වතුර නැහැ මේ සතුනුත් ලොකු ප්‍රශ්නයකට මුහුණ පාල තියෙන්නේ වෙනද නම් මේ තරම් දිග පෑවිල්ලක් ඒන්නේ නැහැනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ් ප්‍රීනා</author>
+            <date>2012-09-12 13:38:58</date>
+            <index>3</index>
+            <phrase>අලියා නිරායුධයි. භයානකයි. මිනිසා ආයුධ සහිතයි. ඒත් භයානකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුනි</author>
+            <date>2012-09-12 13:39:57</date>
+            <index>4</index>
+            <phrase>පව් ඒ සතුන්ට වතුර නැතුව ඇති....හිංසා නොකර යන්න ඉඩ දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාලි</author>
+            <date>2012-09-12 13:52:57</date>
+            <index>5</index>
+            <phrase>අහිංසක අලියෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2012-09-12 14:37:41</date>
+            <index>6</index>
+            <phrase>පුදුමයි තාම කවුරුවත් ආණ්ඩුව පිට මේ දේ පටවපු නැති එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2012-09-12 16:10:51</date>
+            <index>7</index>
+            <phrase>නැගෙනහිර පලාතේ අලීන්ට ඔහොම වුණා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-09-12 18:06:47</date>
+            <index>8</index>
+            <phrase>කැළෑ සතුන්ටත් නියං කාලයට වතුර බොන්න ක්‍රමයක් හැදුවා නම් මෙහෙම දේවල් වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූෂ</author>
+            <date>2012-09-12 21:31:21</date>
+            <index>9</index>
+            <phrase>කරුණාකරලා අහිංසක අලියට හිංසා කරන්න එපා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරි</author>
+            <date>2012-09-13 13:19:47</date>
+            <index>10</index>
+            <phrase>ඔබ හරි විභූෂ, සතාට කරදරයක් කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2012-09-13 22:25:23</date>
+            <index>11</index>
+            <phrase>අලියට අත තිබ්බොත් බලාගෙනයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් පෙරේරා</author>
+            <date>2012-09-13 23:49:29</date>
+            <index>12</index>
+            <phrase>මේ කන්ටේනරයක් පෙරළිලා තියෙන්නෙත් අලියා ගහලද? ඒකනම් වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447438</articleId>
+    <title>යතුරුපැදි මස් කරන කල්ලියක් මත්තේගොඩ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 13 10:58:30</date>
+    <body>පාර අයිනේ නවතා යන යතුරුපැදි සොරකම් කර කොටස් ගලවා, චැසි දෙකක් මත්තේගොඩ පල්දෝරු පද්ධතියකට එක් කළැයි කියන තරුණයන් දෙදෙනෙකු සැකපිට අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+සැකකරුවන්ගේ නිවෙස් වල තිබී යතුරු පැදි දෙකක් හා යතුරුපැදි අමතර කොටස් සොයා ගත් බවත් යතුරුපැදි මස් කරන කල්ලියේ තවත් පිරිසක් අත්අඩංගුවට ගැනීමට ද නියමිත බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-08-13 07:05:17</date>
+            <index>0</index>
+            <phrase>මේ වගේ වැඩ කරන අයගේ අතපය කඩලා යතුරුපැදි වගේම මස් කරලා දාන්න ඕනෑ කියලයි මම නම් කියන්නේ. වෙන මොන දඬුවම දුන්නත් පාඩමක් ඉගෙනගන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මල්</author>
+            <date>2016-08-13 10:45:20</date>
+            <index>1</index>
+            <phrase>මුන් ටික දවසක් හිරේ ඉදන් එලියට එනවා මොකද රටේ නීති තද මදි. ඇවිත් නැවතත් ඔවම කරනවා ඒ නිසා සහන කියපුදේ තමයි කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-13 17:22:52</date>
+            <index>2</index>
+            <phrase>හිරේයාමත් මේ රැකියාවේ එක් අංගයක් වගේ තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂ්මන්ත</author>
+            <date>2016-08-13 23:15:54</date>
+            <index>3</index>
+            <phrase>මෙච්චර අමාරුවෙන් අල්ලා ගත්තාට පස්සේ දැන් ඉතින් ඇප දීලා නිදහස් කරයි. ආයෙත් පරණ වැඩේම කරයි. අවුරුදු ගණනකින් පස්සේ නඩුව අහනකොට යසට නිදහස් වෙයි, ඇයි අල්ලපු පොලිස් නිලධාරියොත් එතකොට නැති වෙන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-08-15 04:31:32</date>
+            <index>4</index>
+            <phrase>මේ වගේ අය නිසිලෙස පුනරුත්තාපනය කිරීමේ ක්‍රමවේදයක් අවශ්‍යයි. හිරේ ගියොත් ඉතින් තවදුරටත් රජ වැඩකාරයෝ වෙලා එළියට එයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

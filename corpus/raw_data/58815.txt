@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58815</articleId>
+    <title>දෙපා සතාටත් ආදර්ශයක්</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 අගෝස්තු මස 14 19:25:46</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කණිෂ්ක</author>
+            <date>2012-08-30 22:22:06</date>
+            <index>0</index>
+            <phrase>කියන්න වචන නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-09-09 08:15:35</date>
+            <index>1</index>
+            <phrase>ක්ෂීරපායීන් අතර මවු සෙනෙහස කැපී පෙනෙන ගුණාංගයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

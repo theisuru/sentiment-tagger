@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58096</articleId>
+    <title>අකුරැස්ස ප්‍රා සභාපති සංධාන ලේකම් උසාවි ගෙනෙයි</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අගෝස්තු මස 10 12:15:38</date>
+    <body>කොළඹ දිසා විනිසුරු ප්‍රදීප් ජයතිලක මහතා  එක්සත් ජනතා නිදහස් සංධාන ලේකම් සුසිල් ප්‍රේමජයන්ත ඇමැතිට අද අතුරු තහනම් නියෝග දැන්වීමක් නිකුත් කරමින් ලබන 28 වැනි දා අධිකරණයේ පෙනී සිටින ලෙස දැන්වීය. බාල වයස්කාර දැරියක කෙළෙසී යැයි රිමාන්ඩ් බාරයේ සිටින අකුරැස්ස ප්‍රාදේශීය සභාපති  සාරුව ලියනගේ සුනිල් තම සංධාන සාමාජිකත්වය තහනම් කළැයි ප්‍රේමජයන්ත මහතාට එරෙහිව අතුරු තහනම් නියෝගයක් ඉල්ලමින් ගොනු කළ පෙත්සමක් සලකා බැලූ විනිසුරු එම  නියෝගය කෙළේය. එහෙත් ඔහු පැතූ අතුරු තහනම ප්‍රතික්ෂේප විය.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-10 12:57:53</date>
+            <index>0</index>
+            <phrase>වැරදි කරලා තව නඩුත් කියනවා , ලැජ්ජනැති කමනේ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහීහර්</author>
+            <date>2012-08-10 15:22:25</date>
+            <index>1</index>
+            <phrase>විලි ලැජ්ජාවක් නැති මෙහෙමත් මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-08-10 16:37:23</date>
+            <index>2</index>
+            <phrase>තවමත් මට්ටු වෙලා නැහැ වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-10 18:09:30</date>
+            <index>3</index>
+            <phrase>තවත් සභාපති පතිකම දෙන්න තියෙන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-10 19:51:12</date>
+            <index>4</index>
+            <phrase>මෙවන් අය පක්ෂයෙන් නෙරපීම පක්ෂයේ අනාගතයට හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2012-08-10 21:52:57</date>
+            <index>5</index>
+            <phrase>මේ අයට චන්දෙ ඉල්ලන්න දුන්නේ කව්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-08-10 23:00:33</date>
+            <index>6</index>
+            <phrase>මේවා ඔක්කොම අපිව රවට්ටන්න කරන රගපෑම් වෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ සිරිවර්දන වීරසිංහ ආරච්චිගේ</author>
+            <date>2012-08-10 23:00:33</date>
+            <index>7</index>
+            <phrase>මේවා ඔක්කොම රගපෑම් අපිව රවට්ටන්න හදන කතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියසේන</author>
+            <date>2012-08-11 10:05:37</date>
+            <index>8</index>
+            <phrase>මට නම් තේරෙන්නේ නැහැ මොනවද මේ වෙන්නේ කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-12 10:33:46</date>
+            <index>9</index>
+            <phrase>එල්ලලා මරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2012-08-12 10:53:43</date>
+            <index>10</index>
+            <phrase>මතක හිටින දඩුවමක් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-08-12 10:50:50</date>
+            <index>11</index>
+            <phrase>බලන්නකෝ තව ටික දවසකින් මොකද වෙන්නේ කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

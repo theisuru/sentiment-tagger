@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>84770</articleId>
+    <title>ගවයෝ නිකවැරටිය නගරය බදු ගනිති</title>
+    <author>පි‍්‍රයානි මංගලිකා</author>
+    <date>2012 දෙසැම්බර් මස 14 11:33:42</date>
+    <body>නිකවැරටිය නගරය අයාලේ යන ගවයන්ගේ රජ දහනක් වී තිබේ. සියයකටත් වැඩි ගවයන් රාත්‍රියේත් දවාලෙත් ප්‍රධාන පාරවල සිටිති.
+මේ නිසා සිදුවන අනතුරු සංඛ්‍යාවද ඉහළ ගොස් ඇතැයි පොලීසිය කියයි. රාත්‍රී කාලයේ වාහන ගමණාගමනය මේ නිසා අවදානම් බව පොලීසිය පවසයි.
+ගවයන් නගරයෙන් ඉවත් කරන බව නිකවැරටිය ප්‍රාදේශීය සභාපති එස් ඒ ශ්‍රියානන්ද මහතා කියයි. එහෙත් ගයවන් නගරයේ නැති වෙලාවක් සොයා ගැනීම අපහසුය.</body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-14 11:58:57</date>
+            <index>0</index>
+            <phrase>ඕකත් එච්චර පුදුමයක්ද මේ රටේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2012-12-14 12:02:31</date>
+            <index>1</index>
+            <phrase>කෝ බොදුබල සේනා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-12-14 12:05:50</date>
+            <index>2</index>
+            <phrase>අයියෝ නගරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-12-14 12:12:59</date>
+            <index>3</index>
+            <phrase>මෙවන් වැඩවලින් නගරය විනාශ වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2012-12-14 12:12:12</date>
+            <index>4</index>
+            <phrase>නිකවැරටිය විතරක් නෙමෙයි, රටේ හැම පාරක්ම උන් බදු අරගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජුඩ් සමන්ත</author>
+            <date>2012-12-14 12:22:38</date>
+            <index>5</index>
+            <phrase>එන්නකෝ හලාවතට. නිකවැරටිය මොනවද කියලා හිතෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2012-12-14 12:21:03</date>
+            <index>6</index>
+            <phrase>ඔන්න මම නම් ඔතන නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-14 12:24:46</date>
+            <index>7</index>
+            <phrase>මේවාට තමයි කියන්නේ හරකුන්ගේ වැඩ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-12-14 12:33:07</date>
+            <index>8</index>
+            <phrase>ප්‍රාදේශීය සභාව අකමැතිද උන්ව පළවා හරින්න?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුල්</author>
+            <date>2012-12-14 12:37:28</date>
+            <index>9</index>
+            <phrase>අනේ මන්දා මෙහෙමත් හරක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-12-14 12:37:48</date>
+            <index>10</index>
+            <phrase>මේවා හරකුන්ගේ වැඩනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේරි</author>
+            <date>2012-12-14 13:07:27</date>
+            <index>11</index>
+            <phrase>අනේ ඉක්මණින් ඉවත් කරන්න. නැත්නම් උන්ගෙත් අවසානය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසිංහගේ</author>
+            <date>2012-12-14 13:21:18</date>
+            <index>12</index>
+            <phrase>ලංකාවේ බහුතරය ඉන්නේ මෙහෙම හරක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමසර</author>
+            <date>2012-12-14 13:22:12</date>
+            <index>13</index>
+            <phrase>බලධාරීනි, ගව අනාථාගාරයට ගවයින් ගෙනවිත් දමන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසිංහ</author>
+            <date>2012-12-14 13:33:03</date>
+            <index>14</index>
+            <phrase>ලංකාවේ භාගයක්ම ඉන්නේ ගවයොනේ. මමත් නිකවැරටියේ නම් තමයි. හැබැයි ගවයෙක් නම් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනුස්</author>
+            <date>2012-12-14 13:29:32</date>
+            <index>15</index>
+            <phrase>ගවයන් මැරීම තහනම් කළහොත් මෙවැනි විපාක වලට මුහුණ දෙන්න සිදු වේවි. මෙය ස්වභාව ධර්මයයි. අර කෑ ගහන්නේ එක්කෙනෙක්, එයාට කිව්වා නම් හරි මේ ගවයන් සියල්ල ගෙදර අරන් ගිහින් ගාල් කර ගන්න කියලා. මේකට රජය රුපියලක්වත් වියදම් කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-12-14 13:45:54</date>
+            <index>16</index>
+            <phrase>නිකවැරටිය විතරක් නෙමෙයි, ලංකාවම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-12-14 14:10:40</date>
+            <index>17</index>
+            <phrase>අපේ නගරයේ නේද මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2012-12-14 14:16:24</date>
+            <index>18</index>
+            <phrase>නැහැ අයියෝ, මේ තමා නිකවැරටියේ "නයිට් රේසින්". පර්සියන්, ජෙර්සි, කේප්ප ගොන්නු දුවනකොට ලෝකල් ගොන්නුන්ට මේවා බලන්න කියනවාලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2012-12-14 14:29:51</date>
+            <index>19</index>
+            <phrase>පිං ගොන්නුන්ව කිසිම කෙනෙකුට අයිතියක් නැත. උන්ට නිදැල්ලේ යන්න ඉඩහරින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2012-12-14 15:17:12</date>
+            <index>20</index>
+            <phrase>වහාම පිරිසිඳු කරන්න නගරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2012-12-14 15:17:44</date>
+            <index>21</index>
+            <phrase>ඔය හරක් ටික පැටෙවුවා නම් හරි අහවලා ළගට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-12-14 15:40:52</date>
+            <index>22</index>
+            <phrase>අපේ කට්ටිය මේ පැත්තේ සැරිසරනවා අඩු ඇති. නැත්නම් වෙන දේ දන්නවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවුෆල්</author>
+            <date>2012-12-14 15:59:02</date>
+            <index>23</index>
+            <phrase>ගව ඝාතනය නවත්වලා අයාලේ යන ගවයන්ට වෙන මොකක්හරි කරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-12-14 16:49:33</date>
+            <index>24</index>
+            <phrase>තම්බි අයට හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-14 17:09:36</date>
+            <index>25</index>
+            <phrase>මොකද යෝනුස්ට තරහා ගිහිල්ලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-12-14 17:22:38</date>
+            <index>26</index>
+            <phrase>බය සැක නැතුව ඉන්න හැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍යාමා</author>
+            <date>2012-12-14 17:55:12</date>
+            <index>27</index>
+            <phrase>කෝ අර හරක් මරන්න එපා කියපු කට්ටිය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-12-14 18:29:18</date>
+            <index>28</index>
+            <phrase>නිකවැරටියේ විතරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරුමාල්</author>
+            <date>2012-12-14 18:41:11</date>
+            <index>29</index>
+            <phrase>එයාලා නගරයෙන් පන්නන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-12-14 18:53:24</date>
+            <index>30</index>
+            <phrase>මොකද කරන්නේ මේ ප්‍රශ්නයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-14 19:14:29</date>
+            <index>31</index>
+            <phrase>ගව ඝාතනය තහනම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-12-14 19:59:20</date>
+            <index>32</index>
+            <phrase>පොලිස් ආරක්ෂාව තියෙන නිසා හොදයි. නැත්නම් ඔක්කොම ටික ඉවරයි මෙලහකට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-12-14 20:15:55</date>
+            <index>33</index>
+            <phrase>තව ටිකක් ළංකරලා දැම්මා නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-12-14 20:40:29</date>
+            <index>34</index>
+            <phrase>හරක් නිදාගන්න තැනක කවුද පාරවල් හැදුවේ? වහාම පාර ඉවත් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්මි</author>
+            <date>2012-12-14 21:48:59</date>
+            <index>35</index>
+            <phrase>මල්ලිලාට හොද නම් අයියලාට නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-12-14 23:47:18</date>
+            <index>36</index>
+            <phrase>නිකවැරටිය ආසනේ කාගෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-12-15 01:02:17</date>
+            <index>37</index>
+            <phrase>අනිල්, මොකද බොදු බල සේනා ගැන අහන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන් ලන්ඩන්</author>
+            <date>2012-12-15 02:04:16</date>
+            <index>38</index>
+            <phrase>මම මේ ගැටලුව ගැන හොයා බලන්නම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-12-15 07:19:59</date>
+            <index>39</index>
+            <phrase>මොකක්හරි විරෝධතාවයක්ද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසන් සලාම් - දෝහා</author>
+            <date>2012-12-15 09:17:38</date>
+            <index>40</index>
+            <phrase>තව ටික කල් යනකොට පෞද්ගලික සහ ලංගම බස් කාරයෝ කියයි බොදුබල සේනාවට බස් ටික ධාවනය කරන්න කියලා! එක්කෙනෙක් කියා තිබෙනවා මේවා තම්බින්ට හොදයි කියලා. ඇයි එතකොට මස් කන සිංහල තම්බින්ට හොද නැද්ද? මම නම් කියන්නේ මාසයක් මස් කඩ ටික වහලා ගවයන් මැරීම තහනම් කර බලන්න කියලා. එතකොට බලන්න පුළුවන් මේවාට වැඩියෙන් කෑගහන්නේ තම්බිද සිංහලද කියලා ? දැන් ගවයින් ටිකත් ජාතිවාදීන් කරන්න හදනවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2012-12-15 10:47:30</date>
+            <index>41</index>
+            <phrase>ඒ නගරය පාලනය කරන්න කවුරුත් නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝරාළ</author>
+            <date>2012-12-15 10:43:48</date>
+            <index>42</index>
+            <phrase>පානදුරේ විතරනේ මස් කඩ වැහුවේ. ඔහේ වැඩිවුණේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බටය</author>
+            <date>2012-12-15 10:45:06</date>
+            <index>43</index>
+            <phrase>හරක් දැකලා කෙලගිලින්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-12-15 10:45:38</date>
+            <index>44</index>
+            <phrase>හරක් මස් ගිලින යෝනුස් පනපිටින් ඉන්න හරක් දැකලා කෙලගිලිනවා තුහු...............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-12-15 10:51:09</date>
+            <index>45</index>
+            <phrase>දෝෂාභියෝගය වෙනුවෙන් පාරට බැහැලාවද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-12-15 11:06:18</date>
+            <index>46</index>
+            <phrase>මේක තමයි කියන්නේ ගව ඝාතනය සීමා නොකළ යුතුයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අෂ්ටබ්</author>
+            <date>2012-12-15 11:04:56</date>
+            <index>47</index>
+            <phrase>100%ක් ඇත්ත රිස්මි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වන්දෝ</author>
+            <date>2012-12-15 11:21:13</date>
+            <index>48</index>
+            <phrase>නගරයේ වාහන වේගය පාලනය කරන්න පොලිසියෙන් නව අදහසක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-12-15 11:26:27</date>
+            <index>49</index>
+            <phrase>කාර් රේස් එක එහෙ තියන්න තිබ්බේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-12-15 13:50:52</date>
+            <index>50</index>
+            <phrase>මේ අයට වෙනම භූමි බාගයක් වෙන්කරලා දුන්නා නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-12-15 14:11:38</date>
+            <index>51</index>
+            <phrase>අර පුදබිම පැත්තේ අපේ අරයට බාරදුන්නා නම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිම්</author>
+            <date>2012-12-18 00:36:18</date>
+            <index>52</index>
+            <phrase>සත්තු දන්නවයි මේක පාර කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසීම්</author>
+            <date>2012-12-18 00:31:12</date>
+            <index>53</index>
+            <phrase>හරකා කියන්නේ තිරිසන් සතෙක් බව දන්නේ නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිම්</author>
+            <date>2012-12-18 00:36:19</date>
+            <index>54</index>
+            <phrase>හරක් කියන්නේ තිරිසනෙක් කියල දන්නේ නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආසි</author>
+            <date>2012-12-18 00:36:20</date>
+            <index>55</index>
+            <phrase>බදු මුදල් නම් හරි වෙලාවට අය කර ගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අධි</author>
+            <date>2012-12-18 00:41:46</date>
+            <index>56</index>
+            <phrase>බලන්න ලස්සන. නිලධාරීන් කියල කට්ටියක් නැද්ද ඔය පැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රියාස්</author>
+            <date>2012-12-18 12:45:52</date>
+            <index>57</index>
+            <phrase>ගව ඝාතනය තහනම් කර මුලු ලංකාවේම මස් කඩ සියල්ල වහා වසා දැමිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රියාස්</author>
+            <date>2012-12-18 12:43:05</date>
+            <index>58</index>
+            <phrase>අපි හරක් මස් කඩ ටික වහලා දාමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-12-23 10:41:40</date>
+            <index>59</index>
+            <phrase>මේවට වගකියන්න ඕනේ අපි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

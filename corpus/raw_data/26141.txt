@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26141</articleId>
+    <title>තව කිඹුලෙක් ගොඩට එයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 පෙබරවාරි මස 11 14:55:57</date>
+    <body>අත්තනගලු ඔයේ අත්තක් ලෙස සැලකෙන ඌරුවල් ඔයෙන් එන්නට ඇතැයි සිතන ගැට කිඹුලකු (අඩි 6 අඟල් 7ක් දිග) අල්ලාගත් ගම්පහ ප්‍රදේශවාසීහු වනජිවි නිළධරයනට බාර දුන්හ. ඔවුහු එම කිඹුලා මුතුරාජවෙල වනජිවි කාර්යාලයයට ගෙන යනු ලැබූහ. මීට දින දෙකකට පෙර රාගම ඇළක  සිටි කිඹුලකු අල්ලා ගැනීමෙන් පසුව මියගිය අතර කිඹුලාගේ බඩේ මිනිස් අවයව තිබූ බව පශු වෛද්‍යවරු කියති.</body>
+    <comments>
+        <comment>
+            <author>Nafraz JIffry</author>
+            <date>2012-02-11 15:25:56</date>
+            <index>0</index>
+            <phrase>කිඹුලන්නට අපල කාලයක් උදා වෙලා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත අනුපමා</author>
+            <date>2012-02-11 19:40:59</date>
+            <index>1</index>
+            <phrase>ඇයි මෙච්චර කිඹුල්ලු ළගක ඉදල අහුවෙන්නේ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-02-11 21:21:59</date>
+            <index>2</index>
+            <phrase>අර දියවන්නාව අවට සැරි සරන අයටත් ප්‍රවේසම් වෙන්න වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්- කුවේට්</author>
+            <date>2012-02-11 22:51:08</date>
+            <index>3</index>
+            <phrase>අලුත් ත්‍රස්තවාදීන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-02-11 23:10:19</date>
+            <index>4</index>
+            <phrase>සමහරවිට මෙම කිඹුල්ලු අන්තර්ජාතික කුමන්ත්‍රණ කාරයො වෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුසන්න පෙරේරා</author>
+            <date>2012-02-12 04:28:10</date>
+            <index>5</index>
+            <phrase>දැක්කද අපේ සංවර්ධනය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසන් ලක්මාල් - නාපාන</author>
+            <date>2012-02-12 08:35:17</date>
+            <index>6</index>
+            <phrase>ඔව් ඉතින් එයාට ජීවත් වෙන්න ලංගාවල් ගොඩ කරපුවාම ඉන්න තැනක් නැති නිසා ඒ සත්තු ගොඩට එනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතපත්තු</author>
+            <date>2012-02-12 13:44:18</date>
+            <index>7</index>
+            <phrase>බයානක සතෙක් වුණත් සත්ව සම්පත රැකගන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍ය</author>
+            <date>2012-02-12 15:31:47</date>
+            <index>8</index>
+            <phrase>රටේ අය අරින කිඹුල්ලු තමයි ඔය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>suchithre</author>
+            <date>2012-02-12 16:27:58</date>
+            <index>9</index>
+            <phrase>කිඹුලත් මරු වැඩකාරයෙක් තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-02-13 06:01:08</date>
+            <index>10</index>
+            <phrase>කිඹුල කියන්නේ මස් කන සතෙක්. ඒ නිසා ඔය සතුන්ව ගංගාවල් වලින් අයින් කරල සත්තු වත්තටය ගිහින් දාන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-02-13 08:12:18</date>
+            <index>11</index>
+            <phrase>මිනිස්සු ඉවක් බවක් නැතිව කැලෑ එලි කරන නිසා සත්තුන්ට ඉන්න තැනක් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

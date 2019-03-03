@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>364641</articleId>
+    <title>වාහන ලීසිං වටිනාකම යළිත් ඉහළට</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 නොවැම්බර් මස 27 11:22:37</date>
+    <body>වාහන මිලදී ගැනීමේදී කල්බදු ලීසිං පහසුකම් ලබාගැනීමේදී වාහනයේ මුළු වටිනාකමින් 30% ක මුදලක් ගෙවිය යුතු වන බවට නීතිය දෙසැම්බර් 1 වැනිදා සිට ක්‍රියාත්මක බව මුදල් අමාත්‍යංශය කියයි.
+ඒ අනුව වාහන සඳහා කල්බදු ලීසිං ලබාදිය හැක්කේ එහි වටිනාකමින් 70% ක උපරිම සීමාවකට පමණි. මීට පෙරද නව රජය යටතේ මෙම නීතිය ක්‍රියාත්මක කෙරුණු අතර පසුගිය මාසයේදී නැවත වාහන කල්බදු ලීසිං ලබාදීමේ සීමාව වාහනයේ වටිනාකමින් 10% ක් දක්වා පහත දැමිණි.</body>
+    <comments>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2015-12-03 16:41:12</date>
+            <index>0</index>
+            <phrase>දැන් කට්ටියට සනීපද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2015-12-03 16:41:12</date>
+            <index>1</index>
+            <phrase>කොහොමද වෙනස?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-12-03 16:37:10</date>
+            <index>2</index>
+            <phrase>මදැයි කළා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2015-12-03 16:37:21</date>
+            <index>3</index>
+            <phrase>යහපාලනයෙන් වාහනත් එහෙනම් ගණන් ගියා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2015-12-04 01:37:13</date>
+            <index>4</index>
+            <phrase>දියුණු වෙන්න දෙන්නෙම නැහැ දුප්පතාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2015-12-05 02:31:06</date>
+            <index>5</index>
+            <phrase>අර රූපවාහිනී දැන්වීමේ හිටපු ජෝඩුව වගේ වැස්සට නොතෙමී ගමනක් යන්න යහපාලනයෙන් කාර් එකක් ගන්න මමත් සිහින මැවුවා. මදැයි කොළා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2015-12-06 16:13:39</date>
+            <index>6</index>
+            <phrase>දැන් යහපාලනයට උඩගෙඩි දිදී උඩපැනපු, වාහන ගන්න හීන දැකපු කට්ටියට සනීප ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2015-12-07 18:32:52</date>
+            <index>7</index>
+            <phrase>යහපාලනයෙන් ගුවන් යානා වල ගණන් වැඩිකර නැති නිසා දුප්පත් අපිට දී තිබෙන ඒ අවස්ථාවෙන් ප්‍රයෝජන අරගෙන එකක් ගන්නවා හෙටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2015-12-08 03:57:13</date>
+            <index>8</index>
+            <phrase>ආණ්ඩුවට දරදිය ඇද්ද කට්ට්ටියට චාන්ස් එකක් දුන්නේ. මොලේ පවිත්‍ර නොකළට ආණ්ඩුවට පිස්සුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2015-12-11 16:36:43</date>
+            <index>9</index>
+            <phrase>වෙනස මාරයි, රට හමාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

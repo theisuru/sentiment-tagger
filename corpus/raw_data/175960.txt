@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>175960</articleId>
+    <title>ජගත් ඇස් දිනේ කොළඹත් සමරයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2013 ඔක්තෝබර් මස 10 13:03:11</date>
+    <body>ලෝක දෘෂ්ඨි දිනය අදට යෙදී තිබෙන අතර එය සමරමින් විවිධ අක්ෂි රෝග පිළිබඳ ජනතාව දැනුම්වත් කිරීමේ පා ගමනක් කොළඹ ජාතික අක්ෂි රෝහල මගින් සංවිධානය කර තිබිණ.
+මීට සමගාමීව ජාතික අක්ෂි රෝහලේ ශල්‍ය වෛද්‍යවරුන් පුහුණු කිරීමේ නව පර්යේෂණාගාරයක් සහ හදිසි ප්‍රතිකාර රෝගීන් නව තාක්ෂණය යටතේ ලියාපදිංචි කිරීමේ මධ්‍යක්ෂාතනයක් විවෘත කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>ටිකිරි බණ්ඩා</author>
+            <date>2013-10-10 16:34:40</date>
+            <index>0</index>
+            <phrase>ඇස් දෙකක් දීල තියෙන්නේ නිවැරදිව දකින්න.මොළයක් කියල එකක් දීල තියෙන්නේ නිවැරදිව හිතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි අලුත්වල</author>
+            <date>2013-10-10 16:36:21</date>
+            <index>1</index>
+            <phrase>සියලුම දෙනාට දීර්ගායුෂ පතමි මම!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලාන්</author>
+            <date>2013-10-10 18:24:49</date>
+            <index>2</index>
+            <phrase>මේ මෝඩකම්වලට මොනවා ලියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාදර්</author>
+            <date>2013-10-10 21:20:22</date>
+            <index>3</index>
+            <phrase>තිලාන් වගේ මිනිස්සු මොකකට ඉන්නවද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලක</author>
+            <date>2013-10-11 06:10:54</date>
+            <index>4</index>
+            <phrase>මගේ පියාගේ ඇස් පෙනීම නැතිවෙලා තිබුණා ඔහුගේ අවසන් අවුරුදු 7 තුළ. ඒ කාලය තුළ ඔහු මානසිකව හොඳටම වැටුනා. ඇස් වල වටිනාකම තේරෙන්නේ පෙනීම නැති වූ විටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2013-10-11 07:24:39</date>
+            <index>5</index>
+            <phrase>ඔයාලට පුලුවන් නම් කරන්න දෙයක් තිබෙනවා. අපේ දේශපාලකයෝ 98% කට ඈත පෙනෙන්නේ නැතිලු.ආන්න එයාලට පෙනීම දෙන්න උදව් කරන්න. රටට ඔයාලා කරන ලොකුම පින එයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2013-10-11 09:25:07</date>
+            <index>6</index>
+            <phrase>කැනඩා දිසා ඇත්තම ඇත්තයි කියල තියෙන්නේ. අනේ පුළුවන් නම් එම උදවුවත් කරන්නකෝ. ඒගමන් මහා බැංකු වාර්තාව හදන කට්ටියගේත් ඇස් පරීක්ෂා කරවන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2013-10-11 10:22:22</date>
+            <index>7</index>
+            <phrase>මේචචරටම රෝගීන් ගැන දුක හිතෙනවා නම් ලෙඩුන් බිල්ලට ගෙන වැඩි පඩි ඉල්ලා වර්ජන කරන ක්‍රමය නවත්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2013-10-12 04:36:21</date>
+            <index>8</index>
+            <phrase>ඇස් හොදට පරික්ෂාකර බැලිය යුතු අපේ හිටපු ජනාධිපති කෙනෙක් සිටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

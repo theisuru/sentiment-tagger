@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>75974</articleId>
+    <title>බන්ධනාගාරයේ වෙඩි පත්තුවේ</title>
+    <author>ඉන්දිකා රාමනායක  රොමේෂ් ධනුෂ්ක සජීව විජේවීර</author>
+    <date>2012 නොවැම්බර් මස 09 18:34:56</date>
+    <body>අද පස්වරු 6.25 පමණ වන විට බන්ධනාගාර වහලයේ සිටින සිරකරුවන් ආරක්ෂක අංශ වෙත වෙඩි තබන්නට පටන් ගත් බව පොලිසිය කියයි. හිරකරුවන් බන්ධනාගාර අවි ගබඩාවද කඩා අවි රැගෙන වහලට නැග සිටින බව ද දෙපැත්තෙන් එල්ලවන වෙඩි  හඬ බොරැල්ලටත් ඇසෙන බව ද කියයි.</body>
+    <comments>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-11-09 18:52:45</date>
+            <index>0</index>
+            <phrase>ලංකාවට වෙලා තියෙන්නේ මොකද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2012-11-09 19:08:21</date>
+            <index>1</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2012-11-09 20:01:08</date>
+            <index>2</index>
+            <phrase>මේවා හොද වැඩ නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජධීර</author>
+            <date>2012-11-09 19:54:08</date>
+            <index>3</index>
+            <phrase>ස්නයිෆර්ස් පාවිච්චියට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-11-09 20:06:32</date>
+            <index>4</index>
+            <phrase>හිරකාරයෝ ටික පාලනය කරගන්නවත් බැරිනම් රටේ ආරක්ෂාව ගැන මොන කතාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2012-11-09 20:42:24</date>
+            <index>5</index>
+            <phrase>ස්නයිෆර් ගෙනල්ලා කාලය නාස්ති නොකර වැඩේ අවසන් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ</author>
+            <date>2012-11-09 20:43:37</date>
+            <index>6</index>
+            <phrase>අනේ අනේ! මෙහෙම ගියහම අපේ බන්ධනාගාර ආරක්ෂකයින්ව ආරක්ෂා කරන්න වෙන්නේ අපිට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංඛ</author>
+            <date>2012-11-09 21:02:14</date>
+            <index>7</index>
+            <phrase>වහළේ උඩ ඉන්න කට්ටියට පස්සේ හොදට පූජාව ලැබේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූති</author>
+            <date>2012-11-09 21:21:27</date>
+            <index>8</index>
+            <phrase>අර පොලිසියට අල්ලන්න බැරුව හැංගි හැංගි ඉන්න අයත් ඉන්නෙ ඇතුළෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරේෂ්</author>
+            <date>2012-11-09 21:13:38</date>
+            <index>9</index>
+            <phrase>ලංකාවේ සජීවී අත්දැකීම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රියාණි</author>
+            <date>2012-11-09 21:25:42</date>
+            <index>10</index>
+            <phrase>මිනීමරලා, දුෂණ කරලා, හිරේට ගිහින් එතනත් චණ්ඩිකම් කරනවා නම් නිසි දඩුවම් දිය යුතුයි. නියපොත්තෙන් කඩන්න තියෙන දේ පොරවෙන් කපන්න වෙනකල් බලා නොසිටින්න. අපරාධකාරයාට නිසි දඩුවම් නොලැබුණොත් ඔහු නැවත නැව.ත් එම අපරාධම සිදුකරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-11-09 21:28:04</date>
+            <index>11</index>
+            <phrase>සේරම මරලා දාන්න තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2012-11-09 21:43:34</date>
+            <index>12</index>
+            <phrase>ගොඩක් හොදයි. ඉදිරියටම යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සර්ධා</author>
+            <date>2012-11-09 21:43:54</date>
+            <index>13</index>
+            <phrase>යුද්ධය වෙලාවෙ මේ කට්ටිය හිටියෙ කොහේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-11-09 21:49:54</date>
+            <index>14</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නැසෙති. දෑන් ඉතින් මොකද කරන්නෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-11-09 21:53:36</date>
+            <index>15</index>
+            <phrase>නීතිය අතට ගන්න කිසිම කෙනෙකුට ඉඩදෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-11-09 21:54:07</date>
+            <index>16</index>
+            <phrase>වෙඩි තියපියවු එන එන එකාට. අපේ නියම කොල්ලෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2012-11-09 22:09:27</date>
+            <index>17</index>
+            <phrase>අනේ අනේ! රටකට ගිය කලක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගන්ධී</author>
+            <date>2012-11-09 22:10:56</date>
+            <index>18</index>
+            <phrase>මේවා දකිනකොට ඉතාම කණගාටුයි. අපේ රටෙත් පිටරටවල වගේම යුද්ධ වලට ලෑස්ති වෙනවද කියලත් හිතෙනවා. බුදුරජාණන් වහන්සේ දේශනා කරපු දහමට අනුව මේවා කරන අය ගැන අපිට තියෙන්නේ අනුකම්පා කරනවා හැර වෙන මොනවා කරන්නද? තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනෙත්ති</author>
+            <date>2012-11-09 22:02:48</date>
+            <index>19</index>
+            <phrase>අනේ මන්දා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනුස්</author>
+            <date>2012-11-09 22:23:10</date>
+            <index>20</index>
+            <phrase>මේ යකාගේ නීතියක්නේ. සිරකරුවන්ට කොහෙන්ද ටි 56? ආරක්ෂක වියදම් වැඩියෙන් වෙන්කළා නේද? දැන් ඉතින් කරන්න. මේ වගේ අයව ඉතුරු කරන්න එපා. මරලාම දාන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-11-09 22:32:35</date>
+            <index>21</index>
+            <phrase>නිසි ආරක්ෂාවක් නොතිබීමේ ප්‍රතිඵල නොවේද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2012-11-09 22:34:50</date>
+            <index>22</index>
+            <phrase>දරුණු තත්ත්වයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-11-09 22:38:30</date>
+            <index>23</index>
+            <phrase>එල්ලුම් ගහ නොමැතිවීමේ ප්‍රතිඵලය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2012-11-09 22:33:59</date>
+            <index>24</index>
+            <phrase>අවි ගබඩාව කඩනකල් නිලධාරීන් බලාගෙන හිටියද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිත්</author>
+            <date>2012-11-09 22:57:18</date>
+            <index>25</index>
+            <phrase>නියමයි. හොදට ගහන්න ඕනෑ ඔවුන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-11-09 22:53:17</date>
+            <index>26</index>
+            <phrase>මෙයාලව යවන්න තිබුණේ යුද්දෙට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-11-09 22:59:54</date>
+            <index>27</index>
+            <phrase>අතීතයේ වෙලා නැහැ මෙවන් දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-11-09 23:07:12</date>
+            <index>28</index>
+            <phrase>සැලැස්මක් නැතිව වැඩ කරපුහම මෙහෙම තමයි වෙන්නේ. එල්ටීටීයත් එක්ක යුද්ධ කරලා දිනුවේ සැලැස්මක් ඇතුව. එස් ටී එෆ් වුනත් මේ වගේ මෝඩ වැඩ කළහම මෙහෙම පචු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-11-09 23:35:12</date>
+            <index>29</index>
+            <phrase>මුන්ගෙ අසහනය වැඩිවෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-11-09 23:50:59</date>
+            <index>30</index>
+            <phrase>ලැබුණු අවස්ථාවෙන් ප්‍රයෝජන අරගෙන ඩෙවිතියලා දාන්නයි තිබුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-11-10 00:07:14</date>
+            <index>31</index>
+            <phrase>ඕවට නියම ක්‍රම තියෙනවා. අපෙන් අහන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2012-11-10 00:14:58</date>
+            <index>32</index>
+            <phrase>මම වැරදි නම්, පොලිසිය හෝ හමුදාව වහළය මත සිටිනා සියල්ලම මරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-11-10 00:23:40</date>
+            <index>33</index>
+            <phrase>මේ අය නිදහස් වුණත් සමාජයේ හොඳට හැසිරෙයි කියලා නම් කියන්න බැහැ. මැරුවත් කමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-11-10 00:26:51</date>
+            <index>34</index>
+            <phrase>සුළුවෙන් තකන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-11-10 00:59:06</date>
+            <index>35</index>
+            <phrase>වහාම විසදන්න ඒ ගැටලුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමෙන්</author>
+            <date>2012-11-10 01:46:51</date>
+            <index>36</index>
+            <phrase>ඔය වහලේ උඩ තුවක්කු තියාගෙන ඉන්න අයට හැබැටම වෙඩි තියල මරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-11-10 02:32:11</date>
+            <index>37</index>
+            <phrase>ජිවිත හානි වෙන්න දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසූල්</author>
+            <date>2012-11-10 02:20:38</date>
+            <index>38</index>
+            <phrase>කුඩු මුදලාලිගේ ගෝලයෝ ටික වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දික</author>
+            <date>2012-11-10 04:41:00</date>
+            <index>39</index>
+            <phrase>ආරක්ෂාව සලසන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-11-10 06:17:00</date>
+            <index>40</index>
+            <phrase>මේකද රටේ ආරක්ෂාව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-11-10 06:09:47</date>
+            <index>41</index>
+            <phrase>හිරකරුවන් අතට ටී56 ලැබුණේ ‍කෙසේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2012-11-10 07:30:19</date>
+            <index>42</index>
+            <phrase>කට්ටිය ඉල්ලන් කන්න දගලන තරමක් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රානි</author>
+            <date>2012-11-10 07:32:56</date>
+            <index>43</index>
+            <phrase>රජය මේවා පාලනය කළයුතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-11-10 09:17:47</date>
+            <index>44</index>
+            <phrase>ජේලර්ලා මේවට වගකිව යුතුයි.. සමහර ජේලර්ලා තමයි මේවා සපයන්නේ . හමුදා කොල්ලෝ තමයි ඒවටත් බිලිවුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-11-10 09:51:40</date>
+            <index>45</index>
+            <phrase>වීරවංශතුමෝ මේකත් විදේශ කුමන්ත්‍රණයක්ද දන්නෙ නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික(මාතලේ)</author>
+            <date>2012-11-10 09:49:55</date>
+            <index>46</index>
+            <phrase>මෙතන අදහස් දක්වපු අය අතරේ මිනී මරුවෝ කී දෙනෙක් ඉන්නවද බලන්න. වෙඩි තියල මරන්න කියන්නේ ඒ ඉන්නේ මිනිස්සු නෙවෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-11-10 09:53:26</date>
+            <index>47</index>
+            <phrase>ප්ලෑන් එකක්ද දන්නෙ නැහැ.. කට්ටයක්ව අයව එලියට ගන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2012-11-10 11:15:54</date>
+            <index>48</index>
+            <phrase>අපි මරණ්න කිව්වේ අපරාධ කාරයෝ මිසක් නිවැරදි මිනිස්සු නෙවෙයි. රටේ ආරක්ෂාව ගැන කවර කතාද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-11-10 11:09:53</date>
+            <index>49</index>
+            <phrase>මෙයාලට රජ කාලේ දඩුවම් දෙන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූෂ</author>
+            <date>2012-11-10 11:25:33</date>
+            <index>50</index>
+            <phrase>මෙහෙම වෙන්න ලොකු ප්‍රශ්නයක් ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2012-11-10 11:17:51</date>
+            <index>51</index>
+            <phrase>සිරකරුවන්ට ආයුධ කොහෙන්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-11-10 11:20:17</date>
+            <index>52</index>
+            <phrase>අපරාදේ කියන්න බෑ පොලීසියට හොඳට දුවන්න පුළුවන් නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරාන්</author>
+            <date>2012-11-10 11:22:36</date>
+            <index>53</index>
+            <phrase>දැනටමත් කිහිප දෙනෙක්ම මැරිලා නේද? අපරාධ කරුවන් නිසා කමක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිවන්ත</author>
+            <date>2012-11-10 11:38:58</date>
+            <index>54</index>
+            <phrase>මානව හිමිකම් නැතිව අපරාධ කරුවන් තුරන් කරන්න තිබු‍ණු හොඳ අවස්ථාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-11-10 11:43:43</date>
+            <index>55</index>
+            <phrase>අපේ ෆොන්සේකා මහත්තයාට මොකද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-11-10 12:02:25</date>
+            <index>56</index>
+            <phrase>මිනිස් ජිවිත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2012-11-10 12:10:38</date>
+            <index>57</index>
+            <phrase>අලුත්ම වාර්තාවකට අනුව මෙ සිද්දියට හෙතුව එස්.ටි.එෆ්.එකෙ අය හෙතුවක් නෑතුව සිර කුටි වලට පෑන ප්‍රථමයෙන් සිරකරුවන්ට පහරදිමලු...එහෙම බෑලුවම වෑරෑද්ද තියෙන්නෙ එස්.ටි.එෆ් එකේද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-11-10 12:48:22</date>
+            <index>58</index>
+            <phrase>මොකද්ද ඒ කතාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-10 12:59:18</date>
+            <index>59</index>
+            <phrase>සිරුරු හොදට හදනවා ඇති ඇතුලෙ කට්ටිය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-10 13:18:23</date>
+            <index>60</index>
+            <phrase>මේවා දැකලා අය වැයත් අමතක වුණා මට‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සචින්</author>
+            <date>2012-11-10 13:28:26</date>
+            <index>61</index>
+            <phrase>අහිංසක මිනිස්සුන්ට බොරුවට ගංජා , කුඩු නඩු දාලා හිරේ යවන පොලිසියේ කට්ටියට තමයි වෙඩි තියන්න ඕනෑ.මහ ලොකුවට කියන්නේ මහජන මිත්‍රශීලී සේවයක් සදහා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තමරා</author>
+            <date>2012-11-10 13:52:35</date>
+            <index>62</index>
+            <phrase>දඟලපු කට්ටිය ඔක්කොම ඉවරයි..හිටියත් බරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-11-10 15:55:45</date>
+            <index>63</index>
+            <phrase>වැරදි කරල දඩුවම් ලබලා තමන්ගේ වැරදි අවබෝද කරගෙන සමාජයේ යහපත් මිනිස්සු වෙන්න තිබුණ අවස්ථාව අඥාන හිස් මිනිස්සු ටික නැති කරගත්තා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-11-10 16:01:29</date>
+            <index>64</index>
+            <phrase>රැදවියන් වෙඩි තියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුද්ධර</author>
+            <date>2012-11-10 16:25:40</date>
+            <index>65</index>
+            <phrase>අපරාදේ මෙයාලට කන්නදිපු බත් , ඔක්කොටම ‍හොදට දේන්න තිබුනේ බිපු කිරි එනකම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2012-11-10 16:29:04</date>
+            <index>66</index>
+            <phrase>ධම්මික(මාතලේ), ඔබ ඉතාමත් නිවරැදියි. සමූල ඝාතණයක් ඉල්ලා සිටින අන්තවාදී ප්‍රතිචාර දැමූවෝ අප අතර ජීවත්වන මිනී මරුවන්ට සම කළහැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-11-10 18:13:09</date>
+            <index>67</index>
+            <phrase>අපේ රටට මොකද්ද මේ වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වත්සලා</author>
+            <date>2012-11-10 20:07:48</date>
+            <index>68</index>
+            <phrase>මේ මොන අපරාධයක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-11-10 21:57:07</date>
+            <index>69</index>
+            <phrase>ඇත්තටම මටත් අමතක වුණා අයවැයක් තිබුණද කියලත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිත</author>
+            <date>2012-11-10 22:07:11</date>
+            <index>70</index>
+            <phrase>අයවැය දැන් මිනිස්සුන්ට මතක නැහැ. ඔන්න බලන්නකෝ ඒකෙත් හැටි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-11-11 10:05:09</date>
+            <index>71</index>
+            <phrase>වරදිමකින්ද .... නැත්නම් ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-11-11 14:22:29</date>
+            <index>72</index>
+            <phrase>මේවා හොද පුර්වාදර්ශ නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහල කොල්ලෙක්</author>
+            <date>2012-11-11 15:30:52</date>
+            <index>73</index>
+            <phrase>ඔය අය වැරදි කරලා හිරේ ගිය අය. අපරාදේ මැරුවේ. කෑල්ල කෑල්ල වෙන්කරන්නයි තිබුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේදා</author>
+            <date>2012-11-11 19:01:50</date>
+            <index>74</index>
+            <phrase>මේකට අය වැයේ සම්බන්ධයක් තියෙනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-11-12 16:28:35</date>
+            <index>75</index>
+            <phrase>එල්ලුම් ගහ ගෙන ඒම අනිවාර්‍ය කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පික ඩයස්</author>
+            <date>2012-11-13 22:22:45</date>
+            <index>76</index>
+            <phrase>එල්ලුම් ගහ ක්‍රියාත්මක වෙනවා නම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂ්‍යන්ත</author>
+            <date>2012-11-14 09:35:51</date>
+            <index>77</index>
+            <phrase>බන්ධනාගාරයේ සිටින 3000ක් පමණ වූ සිරකරුවන් ජේලර්ලා 40කට විතර පාලනය කරන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2012-11-14 13:12:07</date>
+            <index>78</index>
+            <phrase>හමුදාවට ඇගේ හිරි ඇරගන්න ඔන්න කාලෙකට පස්සේ හොද අවස්ථෘවක් මානුෂික මෙහෙයුමක් කරමුනේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2012-11-15 05:34:36</date>
+            <index>79</index>
+            <phrase>මරලා දාන්න තියෙන්නේ ඔක්කොම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55150</articleId>
+    <title>සේවක අරමුදලේ විස්තර දෙන්න කල් ඉල්ලයි</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2012 ජූලි මස 24 15:07:48</date>
+    <body>සේවක අර්ථ සාධක අරමුදල කොටස් වෙළෙඳ පොළේ ආයෝජනය කිරීම පිළිබඳ කරුණු පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා මාස හයක් අවශ්‍ය බව මහ බැංකුව පවසයි.
+සේවක අර්ථ සාධක අරමුදලේ තැන්පතු කොටස් වෙළඳ පොළේ දූෂිත ලෙස ආයෝජනය කර ඇති බවට විපක්‍ෂය පසුගිය කාලය පුළුල්ලේම චෝදනා කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-24 15:12:15</date>
+            <index>0</index>
+            <phrase>ඇයි අනේ මාස හයක්? අවුරුදු දෙක්ක විතර අරන් හිමින් කියන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-24 17:43:34</date>
+            <index>1</index>
+            <phrase>අපේ සල්ලිවලින් හොද හොද වැඩ කරනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-07-25 13:32:07</date>
+            <index>2</index>
+            <phrase>එතකොට අමතක වෙයි නේ.......(ස).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-25 16:27:42</date>
+            <index>3</index>
+            <phrase>කුමක් යටතේද මේ මාස 06 ක් ඉල්ලන්නේ.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-07-25 18:20:10</date>
+            <index>4</index>
+            <phrase>අයියෝ පොඩි සල්ලි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-25 21:27:11</date>
+            <index>5</index>
+            <phrase>ඔවු ඉතිං, ප්‍රශ්නයක් ඇති නොවෙන්න ගණන් හිලවු ටික හරියට හදා ගන්නත් එපායැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්මලේගෙදර</author>
+            <date>2012-07-26 12:33:42</date>
+            <index>6</index>
+            <phrase>මාස හයකින් සියලුම හොරකම් වහගන්න පුළුවන් වෙයිද අව්රුදු හයක් ඉල්ලන්න තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-27 14:26:56</date>
+            <index>7</index>
+            <phrase>කොටස් වෙළඳ පොල චකබ්ලාස් උනොත් ගන්නේ කොහෙන්ද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-07-28 15:27:57</date>
+            <index>8</index>
+            <phrase>මාස හයක් ඉදිරියට කල් ලැබුණානේ.. ඒ කාලය වනවිට සෑම දෙනාටම මේක අමතක වෙනවා.. මේ ශ්‍රී ලංකාවනේ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න සේනානායක</author>
+            <date>2012-07-29 23:19:21</date>
+            <index>9</index>
+            <phrase>මස 6 කින් පස්සේ කියාවිද දන්නේ නැහැ, වාර්තාව අතුරුදහන් වෙලා කියල.. අර සේනක බිබිලේ මහත්මයාගේ බටහිර බෙහෙත් පිලිබඳ ජාතික ප්‍රතිපත්තියට උනා වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>274099</articleId>
+    <title>මැදවල ටැම්පිට රජමහ විහාරය...</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 නොවැම්බර් මස 07 12:51:38</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>යසපාල</author>
+            <date>2014-11-13 07:18:42</date>
+            <index>0</index>
+            <phrase>ඉතා හොඳ ලිපියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක රණවක</author>
+            <date>2014-11-15 02:16:16</date>
+            <index>1</index>
+            <phrase>මම ආඩම්බර වෙන්ව ගමේ කෙනෙක් හැටියට රජ මහා විහාරය ගැන. අපිට බොහෝ දේ කරන්ට තියනවා. අපි එකට කැපවෙමු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද බුද්ධික</author>
+            <date>2014-11-27 06:16:25</date>
+            <index>2</index>
+            <phrase>වටිනාකම කියල නිම කරන්න බැරි අපේ රජමහාවිහාරය ගැන මෙවන් පුවතක් අන්තර්ජාලයට එක්කලට ඔබ තුමාට ගොඩක් ස්තුතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2016-03-12 02:42:21</date>
+            <index>3</index>
+            <phrase>මෙතරම් වටිනා පුරාවිද්‍යාත්මක ස්ථානයක් වූ මැදවල විහාරයට සහ නගරයට අදාළ ආයතන වලින් නිසි වටිනාකමක් හිමි වී නැත. මැදවල නගරය දශක ගණනාවක් එකම තැන පල්වෙමින් පවතී. නායක හාමුදුරුවන්ගේ මුලිකත්වයෙන්වත් මිනිසුන් සංවිධානය වෙනවා නම් අගනේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

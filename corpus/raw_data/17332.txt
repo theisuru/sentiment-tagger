@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17332</articleId>
+    <title>පිරිසක් ඇසුරුම් නීතිය රකිති</title>
+    <author>ගුරුළුපොත බන්දුල ගොඩකුඹුර</author>
+    <date>2011 දෙසැම්බර් මස 13 15:39:00</date>
+    <body>උඩුදුම්බර ගොවීහු පිරිසක් එළවළු ඇසුරුම් නීතිය අනුව කූඩා වල එළවළු ගෙන ආහ. තවත් පිරිසක් ගෝනි වලින් ගෙන ආහ.</body>
+    <comments>
+        <comment>
+            <author>අප්පුවා</author>
+            <date>2011-12-13 17:00:45</date>
+            <index>0</index>
+            <phrase>හොද ගොවිමහත්වරු ටිකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්ත</author>
+            <date>2011-12-13 17:35:11</date>
+            <index>1</index>
+            <phrase>මේ වැඩේ කොච්චර හොදද බලන්න. එළවළු තියන ලස්සන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුරංග</author>
+            <date>2011-12-13 17:26:05</date>
+            <index>2</index>
+            <phrase>එක අතකට මේව මෙහෙම වෙන එක හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2011-12-13 18:30:45</date>
+            <index>3</index>
+            <phrase>ඔබේ ආදර්ශයට ප්‍රණාමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2011-12-13 17:56:58</date>
+            <index>4</index>
+            <phrase>මෙහි යහපත් ප්‍රතිඵල ඔබට අනිවාර්යෙන්ම ලැබෙනවා. ඔබේ ආදර්ශයට ප්‍රණාමය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙනත්</author>
+            <date>2011-12-14 02:58:21</date>
+            <index>5</index>
+            <phrase>දුර දක්නා නුවන ඇති , නීති ගරුක ආදර්ශමත් ගොවි මහතුනි, ඔබට ජාතියේ ප්‍රණාමය !!! මෙහි ඇති ආර්ථික වාසිය අනෙක් අයටත් පැහැදිලි කර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් ගමගේ</author>
+            <date>2011-12-14 02:26:29</date>
+            <index>6</index>
+            <phrase>මේක නීතියක් විදියට නෙමෙයි. ආදර්ශයක් විදියට හිතන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>LAKPUTA</author>
+            <date>2011-12-14 02:39:21</date>
+            <index>7</index>
+            <phrase>හොදයි.. ඔහොම දිගටම යන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා - වියට්නාම්</author>
+            <date>2011-12-14 07:26:47</date>
+            <index>8</index>
+            <phrase>සියයට සියයක් බැරි වුණත් ඔබගේ උත්සාහයට අපෙන් මල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පවිත්‍රා</author>
+            <date>2011-12-14 09:04:29</date>
+            <index>9</index>
+            <phrase>අන්න හොදයි. හොද ආරම්භයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2011-12-14 09:35:38</date>
+            <index>10</index>
+            <phrase>බලන්නකො කොච්චර පිළිවෙළද කියලා. දැක්කහමත් හිත සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජමන්ත්‍රී</author>
+            <date>2011-12-14 10:55:48</date>
+            <index>11</index>
+            <phrase>ගෝණිවල එළවළු ගේන අයට දඩුවම් දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

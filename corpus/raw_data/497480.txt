@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>497480</articleId>
+    <title>මොරගහකන්ද වැසියෝ උපවාසය අත්හරිති</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2017 ජනවාරි මස 10 10:51:48</date>
+    <body>මොරගහකන්ද ජලාශය ඉදිකිරීම් සදහා ඉඩම් දේපළ ලබාදුන් ගම්මාන ගණනාවක ජනතාව තමන්ට නිසි වන්දි මුදල් හෝ ගොවිතැන් කිරිමට බිමක් ඇතුළු පොදු පහසුකම් ලැබී නැති බව පවසමින් පසුගිය 08 වැනිදා ආරම්භ කළ උපවාසය සඳුදා (9) අවසන් කළහ. මහවැලි නිලධාරින් පැමිණ සියලු සහන ලබාදීමට ලිඛිත පොරොන්දුවක් ලබාදීමෙන් පසු උපවාසය අවසන් කැරිණි. මොරගහකන්ද ජන අයිතීන් සුරැකීමේ සංවිධානය කිවේ මේ පොරොන්දු ඉටු නොකළහොත් කොළඹ මහවැලි කාර්යාලය වටලන බවයි.</body>
+    <comments>
+        <comment>
+            <author>කසුන්</author>
+            <date>2017-01-10 06:22:11</date>
+            <index>0</index>
+            <phrase>යුරෝපීය ඇඳුම ඇඳීම නවත්වන්න කියල චක්‍රලේඛය තියෙද්දී මෙම නිලධාරී තවම අදිනවා. දඩුවම් කරන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම්</author>
+            <date>2017-01-10 07:06:47</date>
+            <index>1</index>
+            <phrase>ජනාධිපති කිව්වේ මොකක්ද කියලා කසුන්ට තේරිලා නැහැ මම හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-01-10 07:22:46</date>
+            <index>2</index>
+            <phrase>කසුන් මෝඩකම ප්‍රදර්ශනය කරනවා කියලයි මට නම් හිතෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2017-01-10 07:53:37</date>
+            <index>3</index>
+            <phrase>පවු මේ අහිංසක මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2017-01-10 08:38:53</date>
+            <index>4</index>
+            <phrase>බලන්න තියන වෙනස හම්බන්තොට සහ මොරගහකන්ද උද්ඝෝෂණ අතර. මෙතන තරමක විසඳුමකට ඇවිල්ලා තියන්නේ. හම්බන්තොට උද්ඝෝෂණය සම්පූර්ණයෙන්ම දේශපාලන උවමනාවට කළ දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් ඩුබායි</author>
+            <date>2017-01-10 08:42:12</date>
+            <index>5</index>
+            <phrase>කසුන්ට පිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

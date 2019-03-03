@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457293</articleId>
+    <title>මරදානෙන් අතුරුදන් මිනිහා හිරේ වැටිලා</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 13 17:41:04</date>
+    <body>මරදානේ ලැගුම්හලක දී අතුරුදන් වු බව කියන 41 හැවිරිදි පුද්ගලයකු ළමා අපචාරයක් සම්බන්ධයෙන් රිමාන්ඩ් කර  ඇතැයි මරදාන පොලිසිය කියයි. විදේශගත වීමට  ආ බව කියන ඔහු ආගිය අතක් නැතැයි ඔහුගේ සහෝදරයා පොලිසියට  පැමිණිලි කළේය.
+ලැගුම්හලේ දින දෙකක් ගත කළ එම පුද්ගලයා මරදාන පාසලක් අසලදී  අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-09-13 13:04:34</date>
+            <index>0</index>
+            <phrase>පිරිමි ළමයෙක්ට පාරේ බැහැලා යන්න බැරි රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවති</author>
+            <date>2016-09-13 13:22:36</date>
+            <index>1</index>
+            <phrase>පිටරට ගිහින් ලංකාවෙ නමත් කාල බෙල්ලත් කපාගෙන පෙට්ටියක සීල්තියල මෙහෙට ගේනවට වඩා.?ලංකාවේදී හිරේ වැටුන එක හොදයි.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

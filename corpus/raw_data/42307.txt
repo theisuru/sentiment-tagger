@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42307</articleId>
+    <title>විල්පත්තුවේ මහා ගංජා හේනක් අල්ලයි</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 මැයි මස 14 22:00:16</date>
+    <body>විල්පත්තුව වනෝද්‍යානයේ කලාඔය අසබඩ අක්කර 7ක ගංජා හේනක් වටලා පොලිස් විශේෂ කාර්ය බළකාය එහි අයිතිකරු රාජාංගනය ප්‍රාදේශිය දේශපාලනාඥයකු බව කියයි. සරුවට වැවී තිබූ මේ ගංජා වල වීදි වටිනා කම රුපියල් හාර කෝටියක් පමණ බවත් මෑතක දී ඔහු ගංජාවලින් රුපියල් කෝටි එකහමාරක් උපයා සුඛෝප භෝගී ජිප් රියක් ගැනීමට සූදානමින් සිටි බවත් තොරතුරු ලැබී තිබේ.  විශේෂ කාර්ය බළකායේ උළුක්කුලම කඳවුර මේ වැටලීම කෙළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>කැළුම්</author>
+            <date>2012-05-14 22:18:15</date>
+            <index>0</index>
+            <phrase>අපරාදේ ගංජා ටික.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2012-05-14 22:54:21</date>
+            <index>1</index>
+            <phrase>පේනවා නේද රට හදන කට්ටියගේ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතුපිටිය</author>
+            <date>2012-05-14 23:04:58</date>
+            <index>2</index>
+            <phrase>සංවර්ධනයට ඇයි භාදා කරන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-05-14 23:08:41</date>
+            <index>3</index>
+            <phrase>අපි වවමු!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දලු බණ්ඩා</author>
+            <date>2012-05-14 23:20:18</date>
+            <index>4</index>
+            <phrase>පේනවා නේද කරලා තියෙන වන විනාසේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්මි</author>
+            <date>2012-05-15 00:14:14</date>
+            <index>5</index>
+            <phrase>මේක පලවෙනි වතාවනම් වෙන්න බැහැ කොහොම උනත් මේවා විනාස කිරීම රජයේ වගකීමක්.......................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-05-15 00:39:21</date>
+            <index>6</index>
+            <phrase>හා ළමයි දැන් කියන්න බලන්න ලංකාවේ විශාලතම ගංජා හේන පිහිටා ඇත්තේ කොහේද? (නවතම ශිෂ්‍යත්ව ප්‍රශ්නයකි)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.එස්.පී.</author>
+            <date>2012-05-15 00:41:28</date>
+            <index>7</index>
+            <phrase>STF විරුවන්ට අපේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාංචන</author>
+            <date>2012-05-15 00:47:17</date>
+            <index>8</index>
+            <phrase>ගිය සතියෙත් සොරුන්ගෙන් නිධන් බේර ගන්න ගියා නේද ඔය ගොල්ලෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-05-15 00:51:53</date>
+            <index>9</index>
+            <phrase>අපි වවමු රට නගමු හරියටම වැඩකරල නේද?????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2012-05-15 01:29:43</date>
+            <index>10</index>
+            <phrase>අනේ මමත් හරි කැමතියි හේන් කොටන්න.ඒත් ඒකටවත් දෙන්නේ නෑනේ ඉඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2012-05-15 01:31:39</date>
+            <index>11</index>
+            <phrase>මේ ප්‍රාදේශීය දේශපාලකයෝ හෙට දවසේ වැඩිම මනාපයෙන් පාර්ලිමේන්තුවේ හිටී.රටේ අවසානයද එයමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-15 01:40:58</date>
+            <index>12</index>
+            <phrase>මෙතෙක් කාලයක් යුද්ධයත් සමග පොරබැදුව හමුදාවට, එවගේම පොලිසියට දැන් තවත් යුද්ධයක් කිරීමට සිදුවඇත. එනමි දේශපාලඥයන් ඇතුලු නොයෙකුත් තරාතිරමෙි පුද්ගලයන් සංවිධානාත්මකව සිදුකරන්නාවු දුරාචාරයන්, අපචාරයන්, මත්දුව්‍ය නමැති සමාජීය දුෂණයන්ට එරෙහිව කරන්නාවු යුද්ධයයි. මේ එවා මැඩපැවැත්වීමේ එක් ජයග්‍රාහී අවස්ථාවක් පමණි. මෙවැනි වැටලීමි ,සාරධර්මන්ගෙන් පිරි සමාජයක් ඇතිකිරීම නමැති මෙම යුද්ධයෙන් අපට ජයගුහණය ලබාගැනීමට පහසුවන්නේ නැත. මන්දයත් මෙවැනි වැටලීමි සිදුකර අවසන්වීමටත් පෙර ඒවා නිෂ්ප්‍රභාකිරීම සදහා බලගතුපිරිස්ද සෑදිපැහැදි සිටිනා බැවිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-05-15 02:21:04</date>
+            <index>13</index>
+            <phrase>මතට තිත වැඩසටහන නියෙමෙට කෙරීගෙන යනවලු නේද????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගා ශානි.</author>
+            <date>2012-05-15 02:53:34</date>
+            <index>14</index>
+            <phrase>ගංජ කියන්නෙත් සම්පතක්. විනාශ නොකර පාවිච්චියට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-05-15 03:10:12</date>
+            <index>15</index>
+            <phrase>අනවශ්‍ය වැඩක්නේ කරල තියෙන්නේ. දන්නෙ නැද්ද නඩුත් හාමුදුරුවන්ගෙ බඩුත් හාමුරුවන්ගෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-05-15 03:19:50</date>
+            <index>16</index>
+            <phrase>සාර්ථක අවසානයක ප්‍රතිඵල!!!!!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-05-15 06:02:35</date>
+            <index>17</index>
+            <phrase>දේශපාලන ව්‍යාපරය පිළිබඳ ජනතාව දැනුවත්විය යුතුයි............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-05-15 07:05:11</date>
+            <index>18</index>
+            <phrase>වෙච්ච දේ වුණා. මේවා ගිනිබත් නොකර ආයුර්වේද බෙහෙත් හදන්න ගත යුතුයි. කෝටි ගානක් පුච්චලා, බෙහෙත්වලට ඉන්දියාවෙන් ගේන එක ලෝක අපරාධයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාලිංග</author>
+            <date>2012-05-15 07:07:56</date>
+            <index>19</index>
+            <phrase>සුවද දැනි දැනී දැනෙනවා.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2012-05-15 07:54:56</date>
+            <index>20</index>
+            <phrase>වන විනාශයයි, ජාතිය විනාශයයිත වැටයි නියරයි නේද මේ ගොයම් කන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රශීඩ්</author>
+            <date>2012-05-15 08:01:39</date>
+            <index>21</index>
+            <phrase>දේශපාලනඥයකු මේ වගේ දේකට සම්බන්ධ වීම අලුත් දෙයක් නෙමේ. මෙයාගෙ සියලු දේපල රාජ සන්තක කරලා ප්‍රජා සේවය සදහා වියදම් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීවින්</author>
+            <date>2012-05-15 08:32:34</date>
+            <index>22</index>
+            <phrase>ගංජා නිශ්පාධනය ආධාර,අනුග්‍රහ මත වැඩි දියුණු කරානම් නරකද???????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුම දාන්නෙක්</author>
+            <date>2012-05-15 08:34:39</date>
+            <index>23</index>
+            <phrase>කොතරම් සුර සැප තිබුනත් මොකටද ............... නෑ ආතල් දන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-15 08:45:00</date>
+            <index>24</index>
+            <phrase>පබාන්නට ඉපා..කෑමට ගන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකෙට් මහතා</author>
+            <date>2012-05-15 08:46:20</date>
+            <index>25</index>
+            <phrase>වෙන විනාශයට විරුද්ධව නඩු දැමිය යුතුයි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල් මාමා</author>
+            <date>2012-05-15 09:02:42</date>
+            <index>26</index>
+            <phrase>පෞද්ගලික පාවිච්චියට පිළිකන්නේ මල් පෝච්චියක සරුවට පැළයක් වවා ගත්තට අවුලක් නෑ මගේ හිතේ..මේව දිව්‍ය ඖෂධ ළමයිනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-05-15 09:08:10</date>
+            <index>27</index>
+            <phrase>ඇයි මේවා පුච්චලා විනාශා කරලා දාන්නේ....අපනයනය කලොත් හොඳ ආදායමක් ගන්න පුළුවන් වේවි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-15 09:09:45</date>
+            <index>28</index>
+            <phrase>මල සුවඳ දන්නෙ ඹඹරු විතරයිනෙ මල්ලී....ආව්.....අප්පා......සිහින ලොවක් දුටුවා මතකයි.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2012-05-15 09:11:00</date>
+            <index>29</index>
+            <phrase>පව් අනේ ගංජා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-05-15 09:13:13</date>
+            <index>30</index>
+            <phrase>මේ සමාජ ක්‍රමය වෙනස් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චුටි මල්ලි</author>
+            <date>2012-05-15 09:31:57</date>
+            <index>31</index>
+            <phrase>පොලිසිය නෑ ආතල් දන්නේ .....................?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චුටි මල්ලි</author>
+            <date>2012-05-15 09:33:42</date>
+            <index>32</index>
+            <phrase>පොලිසිය නෑ ආතල් දන්නේ .....................?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-05-15 09:39:12</date>
+            <index>33</index>
+            <phrase>නිදන් හාරනවට වැඩිය මේක කොච්චර උතුම්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූග්</author>
+            <date>2012-05-15 09:44:11</date>
+            <index>34</index>
+            <phrase>වසද?..................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් රත්නායක</author>
+            <date>2012-05-15 09:46:42</date>
+            <index>35</index>
+            <phrase>ලංකාවේ දේශපාලනය මේ වගේ තමයි....ඕක පොඩිදෙයක්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් රත්නායක</author>
+            <date>2012-05-15 09:54:51</date>
+            <index>36</index>
+            <phrase>ගන්ජ කියන්නෙ හොඳ වගේම නරක වෙන්න පුලුවන්.අම්ම දරු කම අහොසි කලත් මම ගන්ජ අමතක කරන්නෙ නැහැයි කියන අයත් ඉන්නවනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරානි</author>
+            <date>2012-05-15 10:05:00</date>
+            <index>37</index>
+            <phrase>ඒ ගහ අටපෙති මල් ගහ වගේ.දන්නෙ නැති නිසයි අහන්නෙ.ඒ ගහේ මලක් පිපෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූටික්කා</author>
+            <date>2012-05-15 10:21:24</date>
+            <index>38</index>
+            <phrase>දැක්කම දුකේ බෑ... එත් මං නං ඕවට මුකුත් කියන්න යන්නෙ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල</author>
+            <date>2012-05-15 10:32:24</date>
+            <index>39</index>
+            <phrase>මලක් සිඹින්න දී යලි උදුරා ගන්නනම් එපා...ඔය මල් ටික පුච්චන්නනම් දෙන්න එපා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල කොලුවා</author>
+            <date>2012-05-15 10:35:51</date>
+            <index>40</index>
+            <phrase>මල් වැහි වස්සන මල් වැස්සේ මල් මදහාසය මන් දැක්කේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-05-15 10:40:34</date>
+            <index>41</index>
+            <phrase>හරි හම්බ කරපු දේවල් දුක් මහන්සියෙන්.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2012-05-15 10:59:56</date>
+            <index>42</index>
+            <phrase>අයියෝ සල්ලි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෆාන්</author>
+            <date>2012-05-15 11:09:31</date>
+            <index>43</index>
+            <phrase>මේව කාල හරි මිනිස්සු මැරෙන්න එපැයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-05-15 11:23:31</date>
+            <index>44</index>
+            <phrase>මේක අල්ලපු අයට දෙවියන්ගෙම පිහිටයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-05-15 11:23:33</date>
+            <index>45</index>
+            <phrase>අපි වවමු රට නගමු වැඩේ හොඳට කරල තියෙනවනේතතතත....ඔය හොඳට වැවිල තියෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වනිත</author>
+            <date>2012-05-15 11:41:31</date>
+            <index>46</index>
+            <phrase>අපරාදේ පුච්චන්න නම් එපා. අපිත් ගංජ දැක්කෙ මෙහෙම හරි වවපු නිසානේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-05-15 11:46:38</date>
+            <index>47</index>
+            <phrase>දුප්පත් අපිට බැරිද මේ වගේ දෙයක් කරල කෝටියක් හොහන්න..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-05-15 12:03:01</date>
+            <index>48</index>
+            <phrase>ගොඩක් ලෙඩ වලට හොඳ බෙහෙතක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ගී</author>
+            <date>2012-05-15 12:12:45</date>
+            <index>49</index>
+            <phrase>මේවගෙන් මෑල්ලුම් හදන්න බෑරිද? බඩු මිලත් හරි ඉහල හින්ද ඈහුවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-05-15 12:15:53</date>
+            <index>50</index>
+            <phrase>ටිකක් ගිනි තියල ඉතිරි ටික විකුණයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-15 12:20:06</date>
+            <index>51</index>
+            <phrase>වෙලාවට හමුදාවෙන් ඇල්ලුවේ නැත්නම් පොලීස ඇල්ලුවනම් කියයි බටු පාත්තියක් කියල,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.සංජීව</author>
+            <date>2012-05-15 13:31:00</date>
+            <index>52</index>
+            <phrase>රට හදන කට්ටියගෙ වැඩ නියමයි,,,,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා රාජාංගනය</author>
+            <date>2012-05-15 13:32:09</date>
+            <index>53</index>
+            <phrase>ලොකු පාඩුවක් වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා රාජාංගනය</author>
+            <date>2012-05-15 13:31:40</date>
+            <index>54</index>
+            <phrase>ලොකු පාඩුවක් වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බී33</author>
+            <date>2012-05-15 13:47:28</date>
+            <index>55</index>
+            <phrase>නිදන් හාරන්නෙත් .මත් කුඩු ගෙන්වන්නෙත්.මිනි මරන්නෙත් ,පැය 24 ම පන්සල්වල ඉන්න මේ මගේ බෞද්ධ රට කියන්න අයම තමා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-05-15 14:04:16</date>
+            <index>56</index>
+            <phrase>කැළේ කපන්නේ කවුද? මත්කුඩු ජාවාරම් වලට මූලික වෙන්නේ කවුද? නිධන් හාරන්නේ කවුද? බැංකු වලට කෝටි ගණන් වංචා කළේ කවුද? මේ කොයි එකටත් ලැබෙන්නේ එකම උත්තරේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක රාජාංගනය</author>
+            <date>2012-05-15 15:01:14</date>
+            <index>57</index>
+            <phrase>තනමල්විල පරදා රාජාංගනයේ අපි කප් එක ගත්තා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක රාජාංගනය</author>
+            <date>2012-05-15 15:02:21</date>
+            <index>58</index>
+            <phrase>තනමල්විල පරදා රාජාංගනයේ අපි කප් එක ගත්තා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>න යින මරික්කාර්</author>
+            <date>2012-05-15 16:17:19</date>
+            <index>59</index>
+            <phrase>මේ නොදන්නා හින්දයි අහන්නේ, ඔය ගංජා කොටලා ඔසු කැඳ කියල බොන්න බැරිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල් මාමා</author>
+            <date>2012-05-15 19:14:24</date>
+            <index>60</index>
+            <phrase>ගංජා ගැන දන්නෙ නැති අයට ගංජා පැලවෙන්නෙ ඇට වලින්.ගහ ලොකු වුනාම ඕකෙ එනවා කොල පාට මලක් වගේ එකක්,මලක් කිව්වට නිකන් පෙති තියෙන මලක් නෙමේ.නිකන් කොල වලින්ම වගේ හැදිච්ච පොකුරක් වගේ එකක්.බලන්න ඕන අය ගූගල් ඉමේජ් සර්ච් එකක් දාන්න.. ඉතින් ඔය මල හොඳට මෝරල අවාම බලන්න ආසයි.. ඉතින් ඕක පරිස්සමට නෙළලා වේලලා කැබලි කරනව නිකන් කෑලි මිරිස් ගානට කුඩුම නෙමේ.ඒක තමා පැකට් කරලා ගමේ රටේ දෙසියට වගේ විකිනෙන්නේ.. පිට රට වලනම් මලේ බූව ටික එකතු කරලා හදනවා "හෂිෂ්" ඒක ටිකක් සැරයි.ඇට ඕන අය ඉන්නවනම් කියන්න.නැත්නම් ඊ බේ එකෙන් ඔන්ලයින් ඕඩර් කරන්න.නගර බද අය පෝච්චියක වවා ගන්න.වැඩි සාත්තුවක් ඕනෙ නෑ.. ගමේ ගොඩේ අය ඉතින් වත්ත පිටියෙ කැලේට වෙන්න ගහක් දෙකක් වවා ගන්න.. වැඩි පාවිච්චිය හොඳ නෑ.හැමදේම මිම්මට. දෙයියන්ගේ පිහිටයි ඔයාලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූටික්කා</author>
+            <date>2012-05-16 12:40:39</date>
+            <index>61</index>
+            <phrase>ගංජා නැත්නම් කාංසා යනුවෙන් හඳුන්වන්නේ කැනබිස් cannabis නම් කුලයට අයත් ශාකයක්. එම කුලයේ ශාක වර්ග තුනක් හඳුනාගෙන තිබෙනවා. එතරම් උසට නොවැඩෙනා මේ ශාකය ලොව පුරා ප්‍රසිද්ධ වන්නේ මත ද්‍රව්‍ය මෙන්ම නොයෙකුත් ඖෂධ නිෂ්පාදනය සඳහා. 10 වන ශත වර්ෂයේදී පමණ සිට මෙම ශාකයා මානව වර්ගයා විසින් භාවිතා කරන බවට wikipedia කියනවා. පුරාණ හින්දුන් විසින් දෙවියන්ගේ ආහාරයක් බවට කැනබිස් ශාකය හැඳින් වූ අතර එය මුලින්ම සොයා ගත් බවටත් සැළකෙන්නේ දකුණු ආසියාවෙන්මයි. හශීස්, මරිජුවානා නමැති මත් ද්‍රව්‍ය නිපදවන්නටත් මෙම ශාකයේ අඩංගු රසායනික භාවිතා කරනු ලබනවා. වැඩිය ඕන නැහැ... ගංජා කොළ කීපයක් සොයා ගන්න පුළුවන් නම් තේ කෝප්පයකට දමා බීලා බලන්න..... මේ තරම් ගංජා ලොව ප්‍රකට අයි දැයි ඔබයම තේරුම් ගන්න පුළුවන්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-05-16 17:44:57</date>
+            <index>62</index>
+            <phrase>මහතුන් ඇ බොලේ ජනාධිපති තුමන් නිදිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-05-16 21:31:45</date>
+            <index>63</index>
+            <phrase>අපරාදෙ ඕකෙන් කී දෙනෙක් අසරණ වෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

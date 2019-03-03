@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>473531</articleId>
+    <title>ජොන්ස්ටන්ගේ නඩුවත් කල් යයි</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 27 11:56:48</date>
+    <body>2010 සිට 2014  දක්වා කාල සීමාවේ දී සතොස ආයතනයේ  මුදල් වංචා කළැයි චෝදනාව මත හිටපු වෙළඳ ඇමැති ජොන්ස්ටන් ප්‍රනාන්දු , සතොස හිටපු  සභාපති  ජෙයරාජ් ප්‍රනාන්දු හා  සතොස හිටපු  ක්‍රියාකාරි අධ්‍යක්ෂ  මොහොමඩ් ෆකීර්ට අල්ලස් කොමිසම පවරා තිබු නඩු තුන මාර්තු 24 වැනි දා  දක්වා කල් තැබීමට  කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ගිහාන් පිලපිටිය මහතා අද (27) නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2016-10-27 07:12:46</date>
+            <index>0</index>
+            <phrase>ඇයි සින්දුවක්වත් කියන්න ලෑස්ති වෙනවලුද මේදවස්වල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-10-27 08:27:59</date>
+            <index>1</index>
+            <phrase>ඔහොම ඔහොම කල් ගිහින් ඔය නඩුවටත් පස්සේ වෙන්නේ මොකක්ද කියල අපි දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-10-27 11:07:45</date>
+            <index>2</index>
+            <phrase>මෙතෙක් ලංකාවේ බිහිවෙලා තියෙන්නේ හොඳම කම්බ හොරුනේ බලනකොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

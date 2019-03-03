@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14220</articleId>
+    <title>මව් සෙනෙහස අහිමි වී</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2011 නොවැම්බර් මස 23 11:56:00</date>
+    <body>මව ඇතුළු රංචුව සමග කෑම සොයා යද්දී මේ පැටවා අම්පාර දිඝවාපියේ ඉරිඟු හේනක අතරමං විය. අවුරුදු දෙක හමාරක් වයසැති මේ පැටවා එක්කෝ අම්මාගෙන් මඟහැරෙන්නට ඇතැයි ද නැත්නම් මව මියයන්නට ඇතැයි ද වනජිවි නිලධරයෝ සිතති. අම්පාරේ සිට උඩවලවේ ඇත් අතුරු සෙවනට පැටවා රැගෙන යාමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>කමල්</author>
+            <date>2011-11-23 13:52:39</date>
+            <index>0</index>
+            <phrase>එයා අතරමංවෙලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරංග</author>
+            <date>2011-11-23 15:34:45</date>
+            <index>1</index>
+            <phrase>ඇයි මේ පැටියව ගැට ගහල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2011-11-23 17:01:07</date>
+            <index>2</index>
+            <phrase>පව් අහිංසක සතා. හොදින් බලා ගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Ruwan Perera</author>
+            <date>2011-11-23 18:15:36</date>
+            <index>3</index>
+            <phrase>අවූරුදු දෙකාමාරක්ද මාස දෙකාමාරක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත චන්ද්‍රපල</author>
+            <date>2011-11-23 22:02:48</date>
+            <index>4</index>
+            <phrase>මේ අලි පැටියට අවුරුදු දෙකහමාරක් වෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2011-11-24 08:12:44</date>
+            <index>5</index>
+            <phrase>මොවුන් රැක ගැනීම අපගේ යුතුකමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2011-11-24 09:02:42</date>
+            <index>6</index>
+            <phrase>පවු අහිංසකයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යුදීෂ්</author>
+            <date>2011-11-24 14:44:47</date>
+            <index>7</index>
+            <phrase>අනේ අහිංසක සතාව පින්නවල අලි අනාතාගාරයට දෙන්න. එහෙ ඉන්න අනිත් කට්ටියට එකතුවෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2011-11-24 14:29:39</date>
+            <index>8</index>
+            <phrase>පවු පොඩි එකා. මම හිතන්නෙ වයස මාස දෙකහමාරක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

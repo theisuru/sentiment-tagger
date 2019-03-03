@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>210300</articleId>
+    <title>‘උපන් දා සිට කරපු පව් නැත වරක් වැන්දොත් කැලණියේ‘</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2014 පෙබරවාරි මස 14 11:00:20</date>
+    <body>නවම් පෝදා කැලණිය ඇතුළු වෙහෙර විහාර උවසු උවැසියන්ගෙන් පිරී ගියේය.
+දම්, සිල්, බණ බාවනා වැඩසටහන් රට පුරාම සංවිධානය කර තිබිණි.
+කැලණි රජ මහා විහාර පිංකම සංවිධානය කැර තිබුණේ මහාචාර්ය කොල්ලුපිටියේ මහින්ද සංඝරක්ඛිත කැලණි විහාරාධිපති හා දායක සභාව විසිනි.
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2014-02-14 11:27:09</date>
+            <index>0</index>
+            <phrase>සාදු .... සාදු......සාදු.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-02-14 11:44:47</date>
+            <index>1</index>
+            <phrase>සසර පුරාවට ඇති කම්කටොලු දැක කලකිරී මේ සසර කතරින් එතෙර වීමට සියලු ලෝ වැසියන්ට හේතු වාසනා වෙන පින්බර පුන්පොහෝ දිනකම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්-සාජා</author>
+            <date>2014-02-14 12:11:02</date>
+            <index>2</index>
+            <phrase>සාදු... සාදු .. සාදු ..අපි මේ මැදපෙරදිග ඉදල ලංකාවේ සියලු තොරතුරු දැන ගන්නේ ලංකාදීප නිසා .ලංකාදීප කාර්ය මණ්ඩලයටත් රට වැසියන්ටත් සියලු ලෝක වාසින්ටත් තෙරුවන් සරණයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල් පෙරේරා</author>
+            <date>2014-02-14 12:39:16</date>
+            <index>3</index>
+            <phrase>පොහො දිනට පමණක් නෙවෙයි,අවමයෙන් දිනපතාම පන්සිල් පද පහවත් රකිනට අප උත්සහ කරමු.එවිට අරමුණ සපලවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2014-02-14 14:32:52</date>
+            <index>4</index>
+            <phrase>සාධු......සාධු......සාධු...... සම දෙනාටම තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2014-02-14 20:07:34</date>
+            <index>5</index>
+            <phrase>සාදු..,සාදු...,සාදු....!!! මනෝජ්-සාජා වගේ මමත් මේ උතුම් පොහෝදා කැලණිය පින්තුරයෙන් හෝ වැද ගැනීමට සැලැස් වූ ලංකාදීපයට තුති පුදමි ලංකාවාසි සියලු වැසියන්ටත්.. ලෝ වටා විසිරි සිටින ශ්‍රී ලාංකික සැමටත්.., සම්මා සම්බුදුන්ගේ සරණයි...!!! සියලු සත්වයෝ නිදුක් වෙත්වා..! නිරෝගී වෙත්වා..!!සුවපත් වෙත්වා....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2014-02-15 20:38:05</date>
+            <index>6</index>
+            <phrase>සාධු....සාධු....සාධු.... තෙරුවන් සරණයි සියලු දෙනාටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2014-02-16 03:28:41</date>
+            <index>7</index>
+            <phrase>“උපන් දා සිට කරපු පව් නැත වරක් වැන්දොත් කැලණියේ” මෙයින් කියවෙන්නේ තම තමන්ගේ වැරදි හරිගස්සා ගන්න එක තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

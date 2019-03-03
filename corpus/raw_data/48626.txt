@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48626</articleId>
+    <title>අලුත් ලේකම්වරු දෙන්නෙක්</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 ජූනි මස 17 11:22:22</date>
+    <body>අධ්‍යාපන අමාත්‍යාශංශයේ ලේකම්ධුරය දැරූ එච් එම් ගුණසේකර මහතා  විදුලි සංදේශ හා  තොරතුරු තාක්ෂණ අමාත්‍යාංශයේ ලේකම්වරයා ලෙස ද  කේ. ඩබ්ලිව් . දයාරත්න මහත්මිය  ඉදිකිරීම්  ඉංජිනේරු සේවා  නිවාස හා පොදු පහසුකම් අමාත්‍යාශයේ  වැඩබලන ලේකම්වරයා ලෙස ද  19 වැනි අඟහරුවාදා සිට පත්කරනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-17 13:13:14</date>
+            <index>0</index>
+            <phrase>මාරුවීමක් හා වැඩ බලන ලේකම්වරියක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-06-17 12:42:57</date>
+            <index>1</index>
+            <phrase>මගේ සුබ පැතුම් එච් එම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-17 13:27:14</date>
+            <index>2</index>
+            <phrase>සුභ අනාගතයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-06-17 13:16:20</date>
+            <index>3</index>
+            <phrase>කැහි ගෑනි දීල හොටු ගෑනි ගත්තවගේ වෙයිද දන්නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-06-17 19:24:56</date>
+            <index>4</index>
+            <phrase>වැඩ අවංකව කරන්න ...සුභ පැතුම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලේකම්</author>
+            <date>2012-06-17 20:28:06</date>
+            <index>5</index>
+            <phrase>ඇමතිවරු කරන පව් වලට අපිට වනදි ගෙවන්න සිද්දවෙලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-06-18 09:31:25</date>
+            <index>6</index>
+            <phrase>අධ්‍යාපන අමාත්‍යාංශය කියන්නේ කුණු ගොඩක්. කෙලින් වැඩ කරන අයට ඉඩ නැහැ වගේ පේන්නේ. මැති ඇමතිවරුන්ට ළමයි දාගන්න බැරිව දගලන්නේ මට පේන්නේ. හැම දෙයක්ම දේශපාලනයට ගිහිල්ලා. එතකොට රට අරාජික වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්කල්</author>
+            <date>2012-06-18 11:39:24</date>
+            <index>7</index>
+            <phrase>අධ්‍යාපනේට නම් කොහොමත් දෙතුන් දෙනෙක් පත් කරන්න වෙයි අවුල ලිහා ගන්න නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-18 18:33:37</date>
+            <index>8</index>
+            <phrase>"අලුත් ලේකම්වරු දෙන්නෙක්" ඒත් ඉතිං පරණ ඇමතිමනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

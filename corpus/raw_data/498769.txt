@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498769</articleId>
+    <title>26 වසරකට පසු යාපනයේ ධීවර වරායන් දෙකක් නිදහස්</title>
+    <author>රොමේෂ් මධුෂංඛ</author>
+    <date>2017 ජනවාරි මස 15 10:44:00</date>
+    <body>වසර විසි හයක් පුරා අධි ආරක්ෂිත කලාපයක් වශයෙන් පැවති යාපනය අර්ධ ද්වීපයේ මයිලිට්ටි හා ඌරණි ධීවර වරායන් එහි මුල් පදිංචි කරුවන්ට යළි බාර කැරිණි.
+එම උත්සවය සඳහා එක්වූ යාපනය දිසාපති නාගලිංගම් වේදනායගම් මහතා කියා සිටියේ රජය මගින් ජනවාරි 8 වෙනිදා සිට 15 වෙනිදා දක්වා කාලය ජාතික සංහිඳියා සතිය වශයෙන් ප්‍රකාශයට පත්කොට තිබීම අර්ථවත් කරමින් මේ ධීවර වරායන් ජනතා අයිතියට පත් කළ බවයි. මෙම ප්‍රදේශය අධි ආරක්ෂිත කලාපයෙන් නිදහස් කොට සාමාන්‍ය ජනතාවට මසුන් මැරීමේ කටයුතු සදහාත්, යළි පදිංචිවීම පිණිසත් ලබාදෙන බවට වූ නිල නිවේදනය යාපනය පළාත බාර ආරක්ෂක සේනාංක ආඥාපති මේජර් ජනරාල් මහේෂ් සේනානායක විසින් ජනතාවට ඉදිරිපත් කළේය.</body>
+    <comments>
+        <comment>
+            <author>ලංකා පෙරේරා</author>
+            <date>2017-01-15 06:49:48</date>
+            <index>0</index>
+            <phrase>මේවායෙන් මේගොල්ල ඉන්දියාවෙන් ආයුධ, මත්ද්‍රව්‍ය වගේ දේවල් ගෙනෙන නිසා තමයි අධි ආරක්‍ෂිත කලාප විදිහට තිබිය යුත්තේ...කෝ මේ අයට මේවා තේරෙන්නේ නැහැ නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2017-01-15 08:13:32</date>
+            <index>1</index>
+            <phrase>ඉන්දියාවෙන් ආයුධ, මත්ද්‍රව්‍ය වගේ දේවල් ගේනවා කියල මේ ධීවර වරායන් සසර වසනකම් වහගෙන ඉන්නද කියන්නේ? එ්කට ඉන්නව නේවි එක. නේවි එක දාල ඒවා නවතන එක තමයි රජයක කාර්ය භාරය. මොකද මේ සාමාන්‍ය ජනතාව ඔවුන්ගේ ජිවනෝපාය කරගන්න දෙන එක නේද රජයක වගකීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-01-15 09:34:48</date>
+            <index>2</index>
+            <phrase>උතුරේ දෙමළ ජනතාව රටේ හමුදාවට තුති පුදන්නා ඕනෑ ඔවුන්ගේ ජීවිත නිදහසේ ගෙවීමට රට නිදහස් කරදීම ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2017-01-15 09:41:18</date>
+            <index>3</index>
+            <phrase>ලංකා පෙරේරාගේ දැනුමේ තරම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2017-01-15 09:51:13</date>
+            <index>4</index>
+            <phrase>රෝහිත ඔබ හරියට හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2017-01-15 13:33:32</date>
+            <index>5</index>
+            <phrase>ඔව් දීල බලන්න ඕන .ආයුධ, මත්ද්‍රව්‍ය ගෙනැත් අහු වුනොත් එතනදීම වෙඩි තබා ඉවරයක් කර දැමිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝයි මයිකල්</author>
+            <date>2017-01-15 20:46:59</date>
+            <index>6</index>
+            <phrase>සෙනෙවිලා වගේ අයගේ උඩගෙඩිදීම් වලින් තමයි හමුදාවේ කොල්ලෝ දහස් ගානක් පොළොවට පස්වුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2017-01-15 22:34:35</date>
+            <index>7</index>
+            <phrase>සෙනෙවි, එහෙම නීතියක් ලංකාවේ නැති එකනේ ප්‍රශ්නය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

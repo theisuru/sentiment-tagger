@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>213420</articleId>
+    <title>බැංකුවේදී මිතුරු වූ තරුණයා තරුණියට සුද්දයක් දීලා</title>
+    <author>කළුතර - සුනිල් එස් තන්ත‍්‍රිආරච්චි</author>
+    <date>2014 පෙබරවාරි මස 27 09:27:10</date>
+    <body>බැංකුවේ ඇය ඔහු දුටුවේ ජනවරි 01 වනදාය. ඒ ඇය අලූත් අවුරුද්දට මුදල් ගනුදෙනු කිරීමට ගිය විටදීය. පෞද්ගලික ආයතනයක සේවිකාවක් වූ ඇය 33 හැවිරිදිය. බැංකුවේ හඳුනාගත් තරුණයා ඇයට කීවේ තමා ගුවන් සේවා සමාගමක ඉහළ නිලදාරියකු බවයි. හමු වූ පළමු දිනයේදීම දෙදෙනා කතාකර නගරයේ අවන්හලකට ගොස් තේ පානය කළහ. කාලය කෙමෙන් ගෙවී යද්දි දෙදෙනාට දෙදෙනා නැතිව බැරි විය. කළුතර නගරයේදී හමුවූ දෙදෙනා මුහුදු වෙරළක ඉන් නොනැවතී හෝටල් කාමරවලට ද ගියහ. එසේ ගිය ඇය තමා සතු වටිනාම දේද ඔහු වෙනුවෙන් පූජා කළාය. එක් දිනක් ඇය සොයා ආ ඔහු තමාට මුදල් අවශ්‍යතාවයක් බව පවසා රුපියල් 1,60,000/=ක මුදලක් ද ඇය සතු ස්වර්ණාභරණද ඉල්ලා ගත්තේය. ඉන් පසු ඔහුගෙන් ඇයට ඇමතුමක් නොවීය. දුරකතනය ද විසන්ධි කොට තිබුණි. බලා හිඳ ඉන්නට බැරිම තැන ඇය ආවේ කළුතර දකුණ පොලිසියටය එසේ පැමිණ ඇය සිද්දිය පොලිසියට පැමිණිලි කළාය. එහෙත් ඇය පෙම්වතාගේ ලිපිනයවත් නොදැන සිටීම පොලිස් පරීක්ෂනවලට බාධාවක් බව පොලිස් නිලධාරීන් කීහ.</body>
+    <comments>
+        <comment>
+            <author>ශෂිමල්</author>
+            <date>2014-02-27 12:01:00</date>
+            <index>0</index>
+            <phrase>ඉදිරියගැන නොසිතන අයට මේවා හොද පාඩම්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසාකායක ගාමිණී</author>
+            <date>2014-02-27 12:28:25</date>
+            <index>1</index>
+            <phrase>හොඳ වැඩේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2014-02-27 12:39:55</date>
+            <index>2</index>
+            <phrase>ඔය වැඩේ දැන් රට හැමතැනම වෙන දෙයක්, කාන්තාවන් රවට්ටලා සල්ලි ගන්න එක පිරිමි කමක්ද</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මදු</author>
+            <date>2014-02-27 12:48:46</date>
+            <index>3</index>
+            <phrase>මෙහෙමත් මෝඩ අයලංකාවේ ඉන්නවනේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-02-27 13:19:01</date>
+            <index>4</index>
+            <phrase>ජනමාධ්‍ය තුලින් කොච්චර දැනුවත් කලත් මේ වගේ කපටි අවස්ථාවාදී අයට කිදෙනෙක් නම් අහු වෙනවද. නුගත් කම කියන්නත් බෑ. අපි අපි විසින්ම විනාශ වෙන්නේ ඕනවට වැඩිය අවංක වීමෙන්. මෙතනත් ඒ වගේ දෙයක් මන් හිතන්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න දිසානායක</author>
+            <date>2014-02-27 15:26:05</date>
+            <index>5</index>
+            <phrase>නුඹ නාඩන් නුඹ නාඩන් නුඹට ඕවා හොඳ පාඩම්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2014-02-27 16:21:19</date>
+            <index>6</index>
+            <phrase>මේ ආත්මෙ නං අපිට කෙල්ලංව තේරුම් ගන්න ලැබෙන්නේ නෑ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>භානු</author>
+            <date>2014-02-27 16:21:34</date>
+            <index>7</index>
+            <phrase>මේකටත් ෆේස් බුක් වග කියන්න ඕන කියල කවුරුවත් කියපු නැති එක හරි පුදුමයක්. දුර දිග නොබලා වැඩ කරන ඕනෑම දෙකට නිදහස තියන අවිවාහක තරුණ ගෑනු උදවිය මොන අමාරුවේ වැටුනත් දැන් ෆේස් බුක් එකටනේ වග කියන්න වෙලා තියෙන්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2014-02-27 16:35:47</date>
+            <index>8</index>
+            <phrase>හරිහමන් සහෝදරයෙක් එහෙම හිටියොත් අර කාලකන්නි මිනිහව අවසන් ගමන් අරිනවා. ටෙලිපොන් නොම්මරේ තියනවා නම් ඇයි කවුද කියල හොයාගන්න බැරි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2014-02-27 16:58:44</date>
+            <index>9</index>
+            <phrase>මෝඩ කමක තරම.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2014-02-27 17:30:07</date>
+            <index>10</index>
+            <phrase>මේ අයගේ මොලේ තියෙන්නේ වෙන කොහේ වද්ද.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-02-27 20:24:26</date>
+            <index>11</index>
+            <phrase>අනේ අනිච්චං.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2014-02-28 08:20:42</date>
+            <index>12</index>
+            <phrase>ඔය ඉඊහල පෙලේ නිලදරයෙක් නිසා තමයි ඔය කාන්තාව අහුවෙලා තියෙන්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-02-28 10:00:15</date>
+            <index>13</index>
+            <phrase>මග හොදට තිබේනම්..... යන්ට දෑසත් පෙනේනම්.... කීම ලඳු කැලෑවලම යන්නේ.....?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2014-02-28 14:27:07</date>
+            <index>14</index>
+            <phrase>දැන් කාලේ මිතුරා කවුද සතුරා කවුද කියලා කියන්න බැහැ පරිස්සමෙන් වැඩ කරන එක තමයි හොද වැඩේ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සජීව</author>
+            <date>2014-02-28 17:36:38</date>
+            <index>15</index>
+            <phrase>හොදට මතක තියා ගන්න. කරන කලට පව් මිහිරිය මී සේ විදින කලට දුක් දැඩි වෙයි ගිනි සේ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මදුවන්ති</author>
+            <date>2014-02-28 20:55:33</date>
+            <index>16</index>
+            <phrase>කාන්තාවෝත් ඉන්නවා පිරිමින්ගේ බෙල්ල කපන්න දක්ෂ .පිරිමියෙක් කලා කියල පිරිමි සංහතියටම ගරහන ගැහැනුත් ඉන්නවා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2014-02-28 23:26:35</date>
+            <index>17</index>
+            <phrase>බදින වයසත් පහුවෙලා නිසා පෙර පිනකට හොද මහත්තයෙක් හමු උනා කියල රැවටෙන්න ඇති.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විතානගේ, සෞදි අරාබිය</author>
+            <date>2014-03-01 03:45:27</date>
+            <index>18</index>
+            <phrase>මේක කියවද්දී මට මගේ ප්‍රථම ප්‍රේමය මතක් උනා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-03-01 09:06:25</date>
+            <index>19</index>
+            <phrase>"මෙහෙමත් මෝඩ අය ලංකාවේ ඉන්නවනේ" දැන්ද දන්නේ ? දැනගත්ත්යි කියල මොනවා කරන්න්ද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනිතු</author>
+            <date>2014-03-01 10:25:43</date>
+            <index>20</index>
+            <phrase>නිතර පුවත් වලින් මේවැනි දේවල් මහජනයාට ලැබෙන්න සැලස්සුවත් එයින් පාඩම් ඉගෙන නොගැනිමෙන් මේ වගේ අය අද කීදෙනෙක් ප්‍රශ්නවලට මැදිවෙලා ඉන්නවද. දැන්වත් පුවත්පත්වල පලවෙන මෙවැනි දේවල් හිතට අරන් හැදෙනවා නම් හොදයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-03-01 21:00:15</date>
+            <index>21</index>
+            <phrase>හොද වැඩේ. ඔහොම කෙල්ලන්ට ඔහොම වෙලා මදි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2014-03-02 07:12:50</date>
+            <index>22</index>
+            <phrase>තරුණියට තියෙන්නේ බඩ සුද්ද වෙන්න මොනවා හරි බීල හිස කුඩිච්චියකුත් දා ගන්න. වෙන මොනවා කරන්නද දැන්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2014-03-02 08:48:57</date>
+            <index>23</index>
+            <phrase>පිස්සුද? </phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන් ජයවර්ධන</author>
+            <date>2014-03-02 16:20:58</date>
+            <index>24</index>
+            <phrase>හැමෝටම පොදු නැති වුනත් මටත් මෙහෙම ලියන්න හිතුනා.''ගැනුන්ගේ මොලේ හැඳි මිටෙලු''</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විතානගේ, සෞදි අරාබිය</author>
+            <date>2014-03-02 18:32:46</date>
+            <index>25</index>
+            <phrase>මගේ ප්‍රථම ප්‍රේමය මතක් උනා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-03-02 19:25:54</date>
+            <index>26</index>
+            <phrase>අපේ ගැනු හරිම මෝඩ වැඩ කරන්නේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-03-03 01:29:25</date>
+            <index>27</index>
+            <phrase>පව් අනේ (නිලූ විතානගේ) ඔය වගේ කපටි මනුස්සයකුට අහු උනාද...? අපි අවංක වෙන්න ඕනේ. ඒත් එක සීමාවක් ඇතුලත. නැතිනම් අපිට නොදැනිම ලොකු රැවටීමක වැටෙන නිසා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත් පෙරේරා</author>
+            <date>2014-03-03 04:39:55</date>
+            <index>28</index>
+            <phrase>ඔය කියන මිනිහ මහරගම පැත්තේද?  අපේ ගෙවල් ළඟ කෙල්ලෙකුටත් ඔය වගේ දෙයක් කරා. අපේ ළඟ මිනිහගේ පින්තුරයකුත් තියෙනවා. පොලිසියත් මිනිහ ගැන දන්නවා. ඉන්න තැනත් අපි දන්නවා. කරුණාකරලා මට ඊ මේල් එකක් එවන්න මම පින්තුරයක් එවන්නම්. ranjithperera511@yahoo.com</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2014-03-03 21:53:16</date>
+            <index>29</index>
+            <phrase>මෝඩ ගෑනු කෙනෙක්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2014-03-05 08:04:21</date>
+            <index>30</index>
+            <phrase>තරුණයා ඉන්න තැනක් වත් දන්නේ නැතුවද වටිනාම දේ පුජා කළේ? හරි අපුරුයිනේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන බස්නායක</author>
+            <date>2014-03-15 10:16:42</date>
+            <index>31</index>
+            <phrase>හැගීම් වලට වහල් උනාම ඔහොම දේවල් වෙනවා! නුබ නාඩන් නුබ නාඩන් නුබට ඕවා හොද පාඩම්!</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

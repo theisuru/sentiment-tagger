@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>392276</articleId>
+    <title>ත්‍රස්තයන් රොත්තකට උඩින් ගහයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2016 මාර්තු මස 08 11:30:19</date>
+    <body>ඇමෙරිකාව විසින් එල්ලකැරුණු ඩ්‍රෝනර් ප්‍රහාරයකින් සෝමාලියාවේ අල්-ෂබාබ් සංවිධානයේ 150ක් පමණ මියගොස් ඇතැයි පෙන්ටගන ආරංචි මාර්ග පවසන බව විදෙස් පුවත් වාර්තා කරයි. ඩ්‍රෝනර් යනු ඉලක්කය බලා පියාසර කර බෝම්බ සාදන නියමුවන් රහිත යානයකි.
+සෝමාලියාවේ අගනුවර වූ මොගදිෂු සිට උතුරු දෙසට සැතපුම් 120ක් ඈතින් පිහිටි කඳවුරකට මේ ප්‍රහාරය එල්ලකර තිබේ.
+අල්-ෂබාබ් යනු අල් කයිඩා සමග සම්බන්ධ සංවිධානයකි. 
+ </body>
+    <comments>
+        <comment>
+            <author>මහින්ද ආර් කිතුල්ගොඩ</author>
+            <date>2016-03-08 14:12:50</date>
+            <index>0</index>
+            <phrase>එතකොට මේවට මානව හිමිකම් උල්ලංඝනය වෙන්නේ නැතුව ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු පීරිස්</author>
+            <date>2016-03-08 15:26:55</date>
+            <index>1</index>
+            <phrase>ලෝක හොරා මැරුවොත් ත්‍රරස්තවාදියෝ !!!දියුණු වෙමින් සිටින රටවල් මැරුවොත් අහිංසකොයෝ !.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2016-03-09 05:41:08</date>
+            <index>2</index>
+            <phrase>මේ මියගියේ ත්‍රස්තවාදීන් නම්, ඒක යුධමය පියවරකදී වූ දෙයක් නම් මානව හිමිකම් චෝදනා එන එකක් නැහැ. ඒත් මියගියේ සිවිල් වැසියන් නම් චෝදනා එල්ල වෙනවා. ඒක ඇමරිකාවද වෙන රටක්ද කියලා නැහැ. මානව හිමිකම් කමි‍ටු ‍රැස්වීම් වලදී ලංකාව ගැන විතරක් නෙමෙයි ඇමරිකාව ගැනත් කතා වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාල</author>
+            <date>2016-03-09 08:48:18</date>
+            <index>3</index>
+            <phrase>හිමාල් ඕව ලංකාවේ අයට තේරෙන්නේ නැහැ. විදේශ සේවෙට ගොට්ටෝ ඇරලා වෙන රටවලින් කචල් වැටෙද්දී බනිනවා ඇමරිකාවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2016-03-09 12:55:17</date>
+            <index>4</index>
+            <phrase>"ඩ්‍රෝනර්" කියන්නේ මොනවද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

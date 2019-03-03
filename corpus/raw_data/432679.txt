@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>432679</articleId>
+    <title>ඉන්දියාවේ බෙහෙත් ගබඩාවක ගින්නකින් 8ක් අළුවෙති</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජූලි මස 01 09:29:10</date>
+    <body>ඉන්දියාවේ මුම්බායි අන්දේරි ප්‍රදේශයේ ජුහු හි බෙහෙත් ගබඩාවක් ගිනි ගැනීමෙන් අට දෙනකු මියගොස් ඇතැයි විදෙස් පුවත් සේවා පවසයි.
+බෙහෙත් ගබඩාවේ විදුලි කාන්දුවක් හේතුවෙන් ගින්න හටගෙන ඇතැයි කියති.
+ගින්නෙන් මිය ගිය අය අතර ගැබිණි කාන්තාවක හා ළමයකු ද සිටි බව වාර්තාවේ.
+එක් අයකු තුවාල ලබා රෝහල්ගත කර ඇත. </body>
+    <comments>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-07-01 05:57:48</date>
+            <index>0</index>
+            <phrase>හෙට අනිද්දා වෙනකොට, දුං වැදුන පැනඩෝල් , කළු ගැහිච්ච ඇස්පිරින්, බාගෙට පිළිස්සුනු ප්‍රතිජීවක කරල් අපේ ෆාමසි වල විකුනන්න නොතිබුනොත් තමයි පුදුමේ . .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-07-01 19:12:52</date>
+            <index>1</index>
+            <phrase>මියගිය අය ගැන දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-07-04 11:12:15</date>
+            <index>2</index>
+            <phrase>පරිස්සමෙන් කටයුතු කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

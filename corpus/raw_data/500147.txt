@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500147</articleId>
+    <title>ගමේ දරුපිරිසකට ජනපති මැදි වෙයි</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 21 19:47:38</date>
+    <body>තලවකැලේ තේ පර්යේෂණායතනයේ පැවැති උත්සවයකට සහභාගී වී ආපසු යමින් සිටියදී ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා  දුටු කොටගල ප්‍රදේශයේදී  පාසල් සිසුන් පිරිසක් ඔහු වට කර ගනිමින් සුහද කථා බහක නිරත වූහ. තම පාසල්වල පවතින අඩු පාඩු කිහිපයක් පිළිබදව ද එම දරු පිරිස  ජනාධිපතිවරයා දැනුම්වත් කළ අතර එම අඩු පාඩු කඩිනමින් සපුරාදීමට කටයුතු කරන බව ජනාධිපතිවරයා පොරොන්දු විණි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රදීප් ලියනගේ</author>
+            <date>2017-01-21 17:03:45</date>
+            <index>0</index>
+            <phrase>පත්තරෙන් දකින්න කලින් එහෙමහරි දැනගත්ත එක මොනතරම් දෙයක්ද. ඔයවගේ ඉස්කෝල ගණනාවක් මේ රටේ තියනවා මහත්තයෝ. සමහර ඒවා ගැන පත්තරවල යන්නෙත් නැහැ. උතුරු මද පළාතේම කොච්චර තියනවද. අකිල මහත්තයලා නම් දන්නේ නැතුවම ඇති. එ්කනේ ටැබ් දෙන්න යන්නේ. කරුණාකරලා එයාලගේ ඇස් අරවලා පියවි ලෝකෙට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2017-01-21 20:37:43</date>
+            <index>1</index>
+            <phrase>ඒ දරුවන්ගේ පැතුම් ඉටුවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් රාජපක්ෂ</author>
+            <date>2017-01-21 20:37:43</date>
+            <index>2</index>
+            <phrase>අනේ දරුවනේ, මේ නුඹලාගේ හෙට දිනය ගැන හිතන ජාතියේ පියාය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2017-01-21 21:23:03</date>
+            <index>3</index>
+            <phrase>මේත් ලංකාවේ පාසල් දරුවන්. හැමදාමත් නගරවල ජනප්‍රිය පාසල් වලට ආවඩන්නේ නැතුව, මේ පාසල් වලටත් හොඳ පහසුකම් ලබාදෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2017-01-21 21:57:51</date>
+            <index>4</index>
+            <phrase>කවුරු බලයට ආවත් පිළිසරණක් නැති මේ මිනිසුන්ගේ දුප්පත්කම නැතිකරන්න ජනපතිතුමනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2017-01-22 02:18:01</date>
+            <index>5</index>
+            <phrase>මුළු රටම දන්නා දේවල් අදද දැනගත්තේ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙන්න</author>
+            <date>2017-01-22 02:57:03</date>
+            <index>6</index>
+            <phrase>ඉස්සර නම් බෝම්බ පිපිරෙයි කියලා පාරට බහින්නේ බයෙන්. දැන් මේ වගේ බයක් නැතුව එළියට යන්න පුළුවන් එ්ක අපේ ජයග්‍රහණයක්. අායෙත් යුද්ධයක් නම් එපා. ජයම වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-22 04:38:41</date>
+            <index>7</index>
+            <phrase>ළමයි ටික ආපසු ගෙවල් වලට ගිහින් දැම්මද දන්නේ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-22 04:38:17</date>
+            <index>8</index>
+            <phrase>පොළවේ පයගහල ඉන්න මිනිස්සුන්ට නම් තේරෙනවා ටැබ් දෙන්න කලින් අපේ රටේ සිසුන් වෙනුවෙන් කරන්න තව ගොඩක් දේවල් තියනවා කියල. කරුමේ කියන්නේ අපේ දේශපාලකයන්ට මේක නොතේරෙන එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-22 04:42:28</date>
+            <index>9</index>
+            <phrase>ළමයි ටික ගේනවා වගේම ගෙවල් වලටත් ගිහින්ම බාර දුන්නනම් ගොඩක්ම පින් ඔබතුමාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-22 05:14:54</date>
+            <index>10</index>
+            <phrase>සංහිඳියාව මල්පලගැන්වෙන වගයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිතා</author>
+            <date>2017-01-22 05:55:58</date>
+            <index>11</index>
+            <phrase>දෙන්නගේ වෙනස මරු දැක්කම බඩ පිරෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2017-01-23 01:24:26</date>
+            <index>12</index>
+            <phrase>මේකත් පත්තරෙන් දැනගන්න හිටියා නම් තව සෑහෙන කල්යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2017-01-23 03:41:14</date>
+            <index>13</index>
+            <phrase>ටැබ් එකක් දීලා බලමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

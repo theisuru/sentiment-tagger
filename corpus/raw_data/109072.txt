@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>109072</articleId>
+    <title>ඇමෙරිකා හමුදා හෙලිකොප්ටරයක් කොරියානු දේශසීමාවේදී අනතුරේ</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  සෝල් නුවරදීය</author>
+    <date>2013 අපේ‍්‍රල් මස 17 09:59:36</date>
+    <body>දකුණු කොරියාවේ ආරක්ෂක කටයුතුවල නිරත වූ ඇමෙරිකානු ගුවන් හමුදාවට අයත් හෙලිකොප්ටරයක් ඊයේ (16) කොරියානු දේශසීමාවේදී අනතුරට පත්විය. යාන්ති‍්‍රක දෝෂයක් නිසා හෙලිකොප්ටර් යානය අනතුරට පත්විණැයි සැක කරන බව ඇමෙරිකා ගුවන් හමුදා මූලස්ථානය පවසයි. සිද්ධියෙන් යානයේ ගමන්ගත් 21 දෙනකු තුවාල ලබා රෝහල් ගත කළ බවත් ඉන් 15 දෙනෙකු ප‍්‍රතිකාර ලබා රෝහලෙන් පිටව ගොස් ඇති බවත් වාර්තා වේ. හෙලිකොප්ටර් යානය දකුණු කොරියාව හා එක්ව පැවැති යුද අභ්‍යාසයකට සහභාගී වීම සඳහා ගමන් කරමින් සිටියදී අනතුරට පත්ව ඇත.</body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-04-17 11:30:54</date>
+            <index>0</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නැසෙති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2013-04-17 15:38:00</date>
+            <index>1</index>
+            <phrase>ඇමරිකාව මේ ගමන පාඩමක් ඉගෙන ගන්නේ උතුරු කොරියාවෙන් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2013-04-17 16:33:57</date>
+            <index>2</index>
+            <phrase>ඔහොම වෙලා මදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2013-04-18 01:33:36</date>
+            <index>3</index>
+            <phrase>ෂුවර් එකටම උතුරු කොරියාවෙන් වෙඩි තියන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

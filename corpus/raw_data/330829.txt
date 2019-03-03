@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>330829</articleId>
+    <title>‘ලායා‘ ප්‍රධාන කාර්යාලය විවෘත කරයි</title>
+    <author>හර්ෂණ තුෂාර සිල්වා ඡායාරූප ලහිරු හර්ෂණ</author>
+    <date>2015 ජූලි මස 08 21:39:27</date>
+    <body>හමුදා සාමාජිකයන්ගේ සුබ සාධනය සඳහා අරමුදල් සෙවීමට ආරම්භ කළ ‘ලායා‘ හෝටල් ජාලයේ පරිපාලන කටයුතු   සඳහා වන ප්‍රධාන කාර්යාලය යුද හමුදාපති ලූතිනන් ජනරාල් ක්‍රිෂාන්ත ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් අද විවෘත විය.
+මෙම අවස්ථාවට ආරක්ෂක මණ්ඩලීක ප්‍රධානී මේජර් ජනරාල් ජගත් ඩයස්, ලායා හෝටල් ජාලයේ කර්යමණ්ඩල ප්‍රධානී හා කළමනාකරණ මණ්ඩලයේ සභාපති මේජර් ජනරාල් ඊ.එම්.එම් අඹන්පොළ, අණදෙන නිලධාරී  මහින්ද හතුරුසිංහ, ලායා හෝටල් ජාලයේ ප්‍රධාන විධායක නිලධාරී මේජර් ජනරාල් මහේෂ් සේනානායක ඇතුළු පිරිසක් ද ඊට සහභාගී වූහ.</body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2015-07-09 03:00:21</date>
+            <index>0</index>
+            <phrase>හෝටල් ජාල අයිති එකම හමුදාව ලංකාවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2015-07-09 03:00:25</date>
+            <index>1</index>
+            <phrase>හෝටල් ජාල අයිති එකම හමුදාව ලංකාවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2015-07-09 07:02:39</date>
+            <index>2</index>
+            <phrase>ලායා වේව්ස් , පාසිකුඩා, හරිම ලස්සනයි සේවය කරන කාර්ය මණ්ඩලයත් හොද තත්වයේ සේවයක් ලබා දෙනවා. මිල ගණන් හරිම සාධාරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල්</author>
+            <date>2015-07-10 08:22:22</date>
+            <index>3</index>
+            <phrase>රටටත්, ජනතාවටත් අවංක සේවයක් කරන්න පුළුවන් එකට හමුදාව උනත් අත හිත දෙන එක වැරද්දක් නොවෙයි නේද, [ලුම්බිණි 2015-07-09 ] "ලා යා" කියන එකේ තේරුම මොකද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් - ප්‍රංශය</author>
+            <date>2015-07-10 08:44:57</date>
+            <index>4</index>
+            <phrase>රටටත්, ජනතාවටත් අවංක සේවයක් කරන්න පුළුවන් එ්කට හමුදාව උනත් අත හිත දෙන එක වැරද්දක් නොවෙයි නේද, [ලුම්බිණි 2015-07-09 ] "ලා යා" කියන එකේ තේරුම මොකද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් පෙරේරා</author>
+            <date>2015-07-10 09:58:19</date>
+            <index>5</index>
+            <phrase>ලායා යනු යාල වචනය මුල සිට අගට ලියූ විට ලැබෙන ආකාරයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2015-07-10 10:37:19</date>
+            <index>6</index>
+            <phrase>විරාජ් ...... උම්බෑ කියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු හේවගේ</author>
+            <date>2015-07-12 18:05:09</date>
+            <index>7</index>
+            <phrase>ඒක කොහෙද තියෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

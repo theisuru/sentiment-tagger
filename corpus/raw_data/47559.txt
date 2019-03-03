@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47559</articleId>
+    <title>‘‘මහපොළ’’ මුදාහරියි.</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 ජූනි මස 10 17:40:47</date>
+    <body>දකුණු අප‍්‍රිකාවේ ඩර්බන් වරායේදී අන්තර්ජාතික ප‍්‍රවාහන සම්මේලනය භාරයට ගත් ලංකා මහපොළ නැව මුදාහැර ඇතැයි තානාපති ආරංචි මාර්ග කියයි.
+සේවකයන් 25 දෙනකුට නොගෙවූ වැටුප් බැංකුවේ තැන්පත් කිරීමට නෞකාව කුලියට ගත් සමාගම කටයුතු කිරීමත් සමග එම නැව මුදාහැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-10 19:16:06</date>
+            <index>0</index>
+            <phrase>සේවකයින්ට පඩි ගෙවන්නේ නැහැ කියලද නැව අන්තර්ජාතික ප්‍රවාහන සම්මේලනය භාරයට අරගෙන තියෙන්නේ?ඇයි මේ සේවය බංකොලොත් වෙන්න හේතුව?මෙහි කිසියම් අනිසි දෙයක් සිදුවී ඇත්ද?මේ සියළු කරුණු පිළිබඳ සවිස්තර තොරතුරු හැකිනම් ගෙන එන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-10 19:51:02</date>
+            <index>1</index>
+            <phrase>හප්පෝ ඇති යාන්තමි. දැන් ඉතින් බැංකුවට ගිහිල්ලා තැමිපත් කොරපු වැටුප අරගන්නයි තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-10 20:43:56</date>
+            <index>2</index>
+            <phrase>කුලියට ගත් හාදයන්වනේ අල්ල ගන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේ ගුරා</author>
+            <date>2012-06-10 20:44:25</date>
+            <index>3</index>
+            <phrase>අනේ වාසනාවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරන</author>
+            <date>2012-06-11 00:34:59</date>
+            <index>4</index>
+            <phrase>අපේ සීමන්ලට දෙයියන්ගෙම පිහිටයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරන</author>
+            <date>2012-06-10 23:57:13</date>
+            <index>5</index>
+            <phrase>පරණ සීමන් කෙනෙක් හැටියට මට හරිම සන්තෝශයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-12 16:10:27</date>
+            <index>6</index>
+            <phrase>පරණ සීමන් කෙනෙක් හැටියට මට හරිම සන්තෝශයි............... ඒ වචනේ තව තේරුමක් තියනවා........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

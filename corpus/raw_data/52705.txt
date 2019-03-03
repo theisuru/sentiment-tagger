@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52705</articleId>
+    <title>රෑ කෑමෙන් පසු හමුදාවේ 130 ක් ලෙඩවෙයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 ජූලි මස 11 09:11:27</date>
+    <body>සඳුදා රාත්‍රී ආහාරය ගැනීමෙන් පසු මත්තෙගොඩ හමුදා කඳවුරේ සෙබළුන් 133 දෙනකු නාරාහේන්පිට හා පනාගොඩ යුද හමුදා රෝහල්වලට ඇතුළු කළ බව යුද හමුදා මාධ්‍ය ප්‍රකාශක බ්‍රිගේඩියර් රුවන් වනිගසූරිය මහතා කියයි. ඔවුන්ගේ තත්ත්වය බරපතල නොවන බවත් මීට හේතුව සොයාගැනීමට වෛද්‍ය පරීක්ෂණ බවත් ඔහු කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නිෂාඩ්</author>
+            <date>2012-07-11 09:21:39</date>
+            <index>0</index>
+            <phrase>මොනවා හරි කල් ඉකුත් වූ මස් වගයක් උයන්න ඇති.මෙහෙම සිදුවීම් හරි භයානකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාලු ‍කොලුවා</author>
+            <date>2012-07-11 10:43:47</date>
+            <index>1</index>
+            <phrase>කෝකියන්ට දෙයියන්ගේම පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-07-11 11:32:54</date>
+            <index>2</index>
+            <phrase>මේකේ වගකීම කාටද දැන්? වෛද්‍ය ඒකකයෙන් කෑම පරීක්ෂා කරන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-11 12:38:13</date>
+            <index>3</index>
+            <phrase>කොහොමද කෑම ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-07-11 12:26:39</date>
+            <index>4</index>
+            <phrase>ඌරන්ට මොන සෞඛයද කියලා හිතන්න ඇති ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවිරුවා</author>
+            <date>2012-07-11 13:21:35</date>
+            <index>5</index>
+            <phrase>අති විශිෂ්ඨයි සර්................!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවා</author>
+            <date>2012-07-11 14:27:15</date>
+            <index>6</index>
+            <phrase>විශිෂ්ඨයි සර්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-07-11 15:27:59</date>
+            <index>7</index>
+            <phrase>මේකත් විදේශීය කුමන්ත්‍රණයක්ද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් පෙරේරා</author>
+            <date>2012-07-11 16:25:09</date>
+            <index>8</index>
+            <phrase>ඕවත් කෑමද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභීලාශිනී</author>
+            <date>2012-07-11 17:10:36</date>
+            <index>9</index>
+            <phrase>කොටි හිතවාදීන්ගේ වැඩක්ද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොනා</author>
+            <date>2012-07-11 20:32:49</date>
+            <index>10</index>
+            <phrase>හමුදාව පොලිසිය වගෙ ඡරාව කන්නෙ නැනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

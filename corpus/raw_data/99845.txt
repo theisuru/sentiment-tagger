@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>99845</articleId>
+    <title>පෙරහැරේ යන්න සැරැසෙති</title>
+    <author>ජයමාල් චන්ද්‍රසිරි</author>
+    <date>2013 පෙබරවාරි මස 25 18:28:58</date>
+    <body>කෙළඹ හුණුපිටිය ගංගාරාමයේ නවම් පෙරහැරේ අලි ඇතුන්  පනහකට පමණ ඇඳුම් ඇන්ද වීම ඉතා බැරෑරුම් හා සංකීර්ණ කාර්යකි. කොළඹ විහාරමහා දේවී උද්‍යානයේ තාවකාලි අලි ගාලේදී  පළපුරුදු ඇත් ගොව්වෝ එම ඇදුම් අන්දවති. අලි ඇඳුමක අඩුම මිල රුපියල් ලක්ෂ පහක් හයක් පමණ වේ.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-25 19:47:44</date>
+            <index>0</index>
+            <phrase>බොහෝම ස්තුතියි. විදේශ ගත වෙලා ඉන්න අපිට මේ වගේ පුවත් දෙනවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-02-25 22:44:34</date>
+            <index>1</index>
+            <phrase>ලංකාදීප බලපුවම තමයි සියත ටීවී එකේ පෙරහැර බලන්න මතක් වුණේ. ලංකාදීපයට ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-02-25 22:54:33</date>
+            <index>2</index>
+            <phrase>අලින්ට ඇදුම් ඇන්දවීමත් බලාගෙන යනකොට අලි වැඩක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2013-02-25 23:30:21</date>
+            <index>3</index>
+            <phrase>මේ අලින්ගේ ඇදුම් මහන්න මිමි ගන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2013-02-26 20:08:07</date>
+            <index>4</index>
+            <phrase>නිශ්ශංක, ටේප් එකකින් මැනලා තමයි මිම්ම ගන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>75827</articleId>
+    <title>ඔබාමා ජයට ඇමෙරිකා වීදි පුරා පී‍්‍රතිඝෝෂා - සැණකෙළි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි</author>
+    <date>2012 නොවැම්බර් මස 09 10:41:33</date>
+    <body>දෙවන වරට ඇමෙරිකා ජනපති ලෙස තේරී පත් වූ ජනපති බැරැුක් ඔබාමාගේ ජයග‍්‍රහනයට සුබපැතුම් එක්කරමින් දහස්ගණන් ඇමෙරිකානුවෝ පෙරේදා(7) නිව්යෝර්ක් නුවර ටයිම්ස් චතුරස‍්‍රයට රැස්ව පී‍්‍රතිඝෝෂා කළහ.
+නිව්යෝර්ක් නගරයට අමතරව ඔබාමාට බහුතර බලයක් හිමිකර දුන් කැලිෆෝනියා, පෙන්සිලිවේනියා, වර්ජිනියා, වොෂින්ටන් යන ප‍්‍රාන්තවල සහ ඉලිනොයිස්, මිචිගන් සහ විස්කොන්සින් යන ප‍්‍රාන්තවල බාල මහලූ සෑමදෙනාම සිය නායකයාගේ ජයග‍්‍රහනය උත්කර්ෂවත් අන්දමින් සැමරූ බව වාර්තා වේ.
+දෙවැනි ලෝක යුද්ධයෙන් අනතුරුව ඩිමොක‍්‍රටික් පාක්ෂික ජනපති අපේක්ෂකයකු දෙවැනි ධූරකාලය සඳහා තේරී පත් වූ මුල් අවස්ථාව ලෙස ඔබාමාගේ ජයග‍්‍රහනය ඉතිහාසයට එක් වෙයි.</body>
+    <comments>
+        <comment>
+            <author>ආශා</author>
+            <date>2012-11-09 12:50:44</date>
+            <index>0</index>
+            <phrase>සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-11-10 11:05:01</date>
+            <index>1</index>
+            <phrase>සුභපැතුම් ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-11-10 20:05:46</date>
+            <index>2</index>
+            <phrase>සුභපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-11-11 09:50:04</date>
+            <index>3</index>
+            <phrase>ජයවේවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික ]</author>
+            <date>2012-11-11 12:17:49</date>
+            <index>4</index>
+            <phrase>ඔබට සුභපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nalaka</author>
+            <date>2012-11-11 12:05:47</date>
+            <index>5</index>
+            <phrase>ඔබ නියම නායකයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-11-11 14:48:00</date>
+            <index>6</index>
+            <phrase>ඔබ නියම නායකයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ</author>
+            <date>2012-11-11 15:18:20</date>
+            <index>7</index>
+            <phrase>අපිත් කැමතියි ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයිවන්</author>
+            <date>2012-11-11 22:33:16</date>
+            <index>8</index>
+            <phrase>ඇයි බිල් ක්ලින්ටන් 2 වැනි පාරට තේරුණේ දිමොක්රෝටික් පක්ෂයෙන් දෙවන ලෝක යුද්ධයෙන් පස්සේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

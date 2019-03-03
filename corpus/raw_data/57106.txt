@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57106</articleId>
+    <title>තව හොර පාරකින් යන්න ගිහින්</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 අගෝස්තු මස 05 17:58:55</date>
+    <body>තමිල්නාඩුවේ සිට මුහුදු මාර්ග ඔස්සේ ගොරෙන්  ඕස්ටේ‍්‍රලියාවට පලා යාමට සූදානමින් සිටි ශ්‍රී ලාංකික සරණාගතයින් හය දෙනෙකු තමිල්නාඩු ප‍්‍රාන්ත පොලිසිය විසින් අත් අඩංගුවට ගත් නමුත් දෙදෙනකු පැන ගිය බව වාර්තාවෙයි.</body>
+    <comments>
+        <comment>
+            <author>චතුර</author>
+            <date>2012-08-05 19:06:28</date>
+            <index>0</index>
+            <phrase>කොහොමද අපේ වැඩ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-05 22:13:38</date>
+            <index>1</index>
+            <phrase>ඔය කියන පළාතෙන් ගියානම් ඉතිං ආයි අහන්න දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-06 06:15:37</date>
+            <index>2</index>
+            <phrase>ඕස්ට්‍රේලියාවේ ඔය තරම් මොනවාද තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-07 12:06:08</date>
+            <index>3</index>
+            <phrase>මට හිතෙන්නේ අර කඩුව තියෙන්නේ ඕස්ට්‍රේලියාවෙද කොහේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

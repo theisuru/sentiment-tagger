@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>438795</articleId>
+    <title>පැරදුන අය ජාතිවාදය දඩමීමා කරගෙන</title>
+    <author>දීපාල් ද සිල්වා</author>
+    <date>2016 ජූලි මස 19 13:30:57</date>
+    <body>පසුගිය කාලයේ පරාද වූ දේශපාලකයන් ජාතිවාදය පෙන්නලා බලය ගන්න හදන බවත් ඔවුන් රටට ලෝකයට යාපනය විශ්වවිද්‍යාල සිද්ධිය තුළින් රට ජාතිවාදී කැරැල්ලකට ගමන් කරනවා යැයි කියන බවත් ගාලු දිස්ත්‍රීක් පාර්ලිමේන්තු මන්ත්‍රී බන්දුලාල් බණ්ඩාරිගොඩ මහතා අබද්දේගම ජන හමුවක දී කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-07-19 14:46:03</date>
+            <index>0</index>
+            <phrase>අනේ මල විකාර. තමුන්ගේ ජාතිය ගැන කතා කරන්න දැන් මේ රටේ ඉඩක් නැද්ද? දෙමල ජාතිය විතරද දැන් මේ රටේ ඉන්න ඕනේ? නිවටයෝ වගේ ඉන්න හැමෝම කැමති නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ</author>
+            <date>2016-07-22 15:21:23</date>
+            <index>1</index>
+            <phrase>බලධාරින්ගේ විහිලු කතා ලෙසයි අපිට දැන් මේවා පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-07-23 01:34:23</date>
+            <index>2</index>
+            <phrase>නුසුදුස්සන් පාර්ලිමේන්තුවට යැවුවහම තමන්ගේ ජාතිය පවා අමතකවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

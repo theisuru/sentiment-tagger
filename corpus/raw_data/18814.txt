@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18814</articleId>
+    <title>මෙහෙමත් කම්බි කණු</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 දෙසැම්බර් මස 22 14:07:32</date>
+    <body>වව්නියාව ඕමන්තේ වෙප්පන්කුලමේ රජයේ සේවක නිවාස සඳහා වෙන් කළ අක්කර 330 වනාන්තරයේ වසර සිය ගණන් පැරැණි ගස් ‘කම්බ් කණු‘ ලෙස විකුණතියි කියති. කළුවර ගස් ද ඒ අතර වෙයි. මේ ‘කම්බි කණු‘ ඉරා දොර ජනෙල් තැනිය හැකි බව ප්‍රදේශවාසීහු පවසති.</body>
+    <comments>
+        <comment>
+            <author>චාරු</author>
+            <date>2011-12-22 14:16:48</date>
+            <index>0</index>
+            <phrase>මෙහෙමත් අපරාධ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංචනායක - දෝහාකටාර්</author>
+            <date>2011-12-22 14:24:47</date>
+            <index>1</index>
+            <phrase>බලධාරීන්ගේ ඇස් යොමු වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රමෝද්</author>
+            <date>2011-12-22 15:08:31</date>
+            <index>2</index>
+            <phrase>අපිම ගස් කපලා. අපිම කියමු අපේ රට ගොඩක් ලස්සනයි කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මාල්</author>
+            <date>2011-12-22 15:16:20</date>
+            <index>3</index>
+            <phrase>අයියෝ අපේ රට. මේවගේ අයට දඩුවම් දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2011-12-22 15:17:00</date>
+            <index>4</index>
+            <phrase>බලධාරීන්ගේ ඇස් යොමු වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැමී</author>
+            <date>2011-12-22 15:35:11</date>
+            <index>5</index>
+            <phrase>බොරු වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදිත</author>
+            <date>2011-12-22 15:38:54</date>
+            <index>6</index>
+            <phrase>වැටත් නියරත් ගොයම් කා නම් කාට පවසම් ඒ අමාරුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙලයා</author>
+            <date>2011-12-22 15:40:02</date>
+            <index>7</index>
+            <phrase>අයියෝ මෙහෙම අපරාධ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Helaya</author>
+            <date>2011-12-22 15:41:28</date>
+            <index>8</index>
+            <phrase>අයියෝ මෙහෙම අපරාධ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2011-12-22 15:56:49</date>
+            <index>9</index>
+            <phrase>අපි කපමු රට නගමු කියල එකක් තමයි මෙහෙම ගියොත් දාන්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2011-12-22 16:00:34</date>
+            <index>10</index>
+            <phrase>මෙයාලගේ ගුණ ගයන්න වචන නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2011-12-22 16:02:10</date>
+            <index>11</index>
+            <phrase>කියනකොට එහෙමයි. කරනකොට මෙහෙමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2011-12-22 16:02:56</date>
+            <index>12</index>
+            <phrase>මෙහෙම ගියොත් රට හොදඩ සංවර්ධනය වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දිමාල්</author>
+            <date>2011-12-22 16:36:19</date>
+            <index>13</index>
+            <phrase>මෙහෙම කළොත් රට පෙරටම යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයම්පති</author>
+            <date>2011-12-22 16:55:32</date>
+            <index>14</index>
+            <phrase>මේවා පාර්ලිමේන්තුවට ගෙනිහින් පෙන්වන්න කව්රුත් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

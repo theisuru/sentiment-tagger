@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40467</articleId>
+    <title>හිතුමතේ ගොනු කළ චෝදාන අස්කර ගනී</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මැයි මස 04 15:57:20</date>
+    <body>හිටපු යුද හමුදාපති සරත් ෆොන්සේකාගේ අධාරකරුවකු වන අබාධිත හමුදා කපිතාන් ගයාන් ප්‍රසාද් කුමාර විතානගේට එරෙහිව ඉදිරිපත් කළ චෝදනා කොළඹ අපරාධ කොට්ඨාසය විසින් ඉල්ලා අස්කැර ගැනිණි. නීතිපති විමසා යළි චෝදනා ගොනු කරන බව සහකාර පොලිස් අධිකාරී ධර්මදාස පතිරණ මහතා විනිසුරු කණිෂ්ක විජේරත්න මහතාට දැන්වීය. ෆොන්සේකා පසුගිය ජුලි 21 වැනි දා කොළඹ නව ලෝක රෝහලට රැගෙන එද්දී ඔහු බැලීමට පැමිණි පිරිස අතර සිටි මෙම විශ්‍රාමිකයා  කිහිලිකරුවෙන් බන්ධනාගාර නිලධරයට පහර දුන්නැයි බන්ධනාගාර නියාමකයකු කළ පැමිණිල්ලක් අනුව ඔහුට එරෙහිව නඩු පවරා තිබිණි. යළි නොතීසි ලද විට උසාවි එන්නැයි ඔහුට නියම විය.</body>
+    <comments>
+        <comment>
+            <author>ගාමිණී වීරරත්න</author>
+            <date>2012-05-05 05:58:32</date>
+            <index>0</index>
+            <phrase>මේ රටේ නීතියට මොනවද වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2012-05-05 11:16:44</date>
+            <index>1</index>
+            <phrase>නීතිය කොයිබට ‍ගොසින්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත මහාරාව</author>
+            <date>2012-05-05 13:06:26</date>
+            <index>2</index>
+            <phrase>අයුක්තියට එරෙහිව හඬ නගන්නන්ට තැනක් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-05-05 17:08:15</date>
+            <index>3</index>
+            <phrase>ලාංකිකයන්ට තවමත් මොලේ පෑදිලා නැති එකට දුකයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-05-06 09:21:16</date>
+            <index>4</index>
+            <phrase>අද රටෙ නිතියක් නෑහෑ. බලවතුන් සතුටු කරන්න නිතිය රකින අයයි, නිති උපදෙස් දෙන දේපාර්තමෙන්තුවයි විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-05-06 11:20:13</date>
+            <index>5</index>
+            <phrase>නියමයි...ගයාන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-05-07 10:12:09</date>
+            <index>6</index>
+            <phrase>අපේ නීතිය සාධාරණ විය යුතුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

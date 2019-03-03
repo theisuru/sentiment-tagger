@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26811</articleId>
+    <title>බර කරත්තෙන් පළාත් සභාවට</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 පෙබරවාරි මස 14 13:45:37</date>
+    <body>උතුරුමැද පළාත් සභා රැස්වීමට එක්සත් ජාතික පක්ෂ මන්ත්‍රීන් අද ගමන් කළේ බරබාගෙනි. තෙල් මිල ඉහළ දැමීමට විරෝධය පළකිරීම අරමුණයි.</body>
+    <comments>
+        <comment>
+            <author>නලීන්</author>
+            <date>2012-02-14 13:53:09</date>
+            <index>0</index>
+            <phrase>මෙයාලට කොහොමත් මේව තමයි දෙන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-02-14 14:09:07</date>
+            <index>1</index>
+            <phrase>ගොනාට නිවාඩු දීල අනිත් අයව කරත්තෙ බඳින්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>hanuka</author>
+            <date>2012-02-14 14:45:01</date>
+            <index>2</index>
+            <phrase>මෙයාලටනම් මොකද නොමිලයේම හැමදේම ආණ්ඩුවෙන්ම ලැබෙනවනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදිත ඉරේෂ්</author>
+            <date>2012-02-14 15:04:50</date>
+            <index>3</index>
+            <phrase>කරත්තෙ බඳින්න තිබුණෙ අර සතුන් දෙදෙනා නොවේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් - සෞදි අරාබි</author>
+            <date>2012-02-14 15:24:06</date>
+            <index>4</index>
+            <phrase>නියමයි.....නියමයි...නියමයි..නියමයි......................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙපානිස්</author>
+            <date>2012-02-14 15:24:41</date>
+            <index>5</index>
+            <phrase>කෝ අර දුන්නු වාහන බලපත්‍ර?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-02-14 15:34:13</date>
+            <index>6</index>
+            <phrase>මේවා විහිළු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-02-14 15:35:03</date>
+            <index>7</index>
+            <phrase>දැන් ඒ කාලය ඇවිත්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝදම අබේගුණසේකර</author>
+            <date>2012-02-14 15:53:27</date>
+            <index>8</index>
+            <phrase>හැමෝම කවටයො..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

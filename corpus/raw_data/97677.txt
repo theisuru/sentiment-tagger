@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>97677</articleId>
+    <title>අම්බලන්ගොඩ පිහිනුම් තරගය</title>
+    <author>දීපාල් ද සිල්වා</author>
+    <date>2013 පෙබරවාරි මස 11 12:16:48</date>
+    <body>අම්බලන්ගොඩ ක්‍රීඩා සමාජය 40 වැනි වරටත් සංවිධානය කළ සැතපුම් දෙකේ පිහිනුම් තරගය අද (11) උදෑසන අම්බලන්ගොඩ  තානායම අසල මුහුදු තීරයෙන් ආරම්භ විය.</body>
+    <comments>
+        <comment>
+            <author>ජයා</author>
+            <date>2013-02-11 15:10:25</date>
+            <index>0</index>
+            <phrase>කිසිම සැකයක් නැහැ අම්බලන්ගොඩ කොල්ලෙක් පළමු තැනට ඇවිත් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමකුමාර</author>
+            <date>2013-02-16 20:39:20</date>
+            <index>1</index>
+            <phrase>අයියෝ! පිරිමි විතරනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

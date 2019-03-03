@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77294</articleId>
+    <title>කලාවට නව නැම්මක්</title>
+    <author>වැලිගොඩගේ දීපාල්</author>
+    <date>2012 නොවැම්බර් මස 15 14:28:06</date>
+    <body>අම්බලන්ගොඩ සුසන්ත කාරියවසම් මහතා මූර්ති හා කැටයම් කලාවට උපන් හපනෙකි.අලූත් අලූත් දේ නිර්මාණය කරන්නෙකි.</body>
+    <comments>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-11-19 20:18:26</date>
+            <index>0</index>
+            <phrase>ඔබ කළ නිර්මාණ අතිවිශිෂ්ටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

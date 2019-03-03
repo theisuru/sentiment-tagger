@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60216</articleId>
+    <title>නෝර්වුඩ් ලැයින් කාමර පෙළක් ගින්නෙන් වැනසේ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 අගෝස්තු මස 21 22:02:57</date>
+    <body>නෝර්වුඞ්හි මානෙලූ වතුයායේ වතු නිවාස පේළියක අද රාත‍්‍රී හටගත් ගින්නකින් කම්කරු නිවෙස් 12ක් මුළුමනින්ම ගිනිගත් බව නෝර්වුඞ් පොලිසිය කියයි.
+ගින්නෙන් ජීවිත හානි වාර්තා වී නැත. පිලිස්සුනු නිවෙස්වල සාමාජිකයන්ට කෝවිලක තාවකාලික නවාතැන් සපයා ඇත.
+ගින්නට හේතුව මෙතෙක් සොයාගෙන නැතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-21 22:53:18</date>
+            <index>0</index>
+            <phrase>ආණ්ඩුව අපහසු කරන්න ඔය සංවිධානය වෙලා.. හොයලා බලන්න ඉක්මනින්ම..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-22 06:04:46</date>
+            <index>1</index>
+            <phrase>පවු අහිංසක මිනිස්සු. හිඟන්නාගේ පාත්තරයට හෙනහුරා වැටුණා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2012-08-22 09:18:48</date>
+            <index>2</index>
+            <phrase>අයියෝ සල්ලී..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා</author>
+            <date>2012-08-22 09:30:53</date>
+            <index>3</index>
+            <phrase>පව් අසරණ මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයශ්‍රී</author>
+            <date>2012-08-22 09:33:35</date>
+            <index>4</index>
+            <phrase>මෝඩ කතා කියන්න එපා අමිල. ඔයාල වගේ අය තමයි මේ රටේ කට කතා හදන්නේ. මේ මිනිස්සුන්නට යන එන මන් නැතිව ඉන්නේ. ඒ මිනිස්සු අනිත්අයට ඕන විදියට ඒ මිනිස්සුන්ගේ ගෙවල් ගිනි තියන්න දෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරූ</author>
+            <date>2012-08-22 09:41:26</date>
+            <index>5</index>
+            <phrase>පව්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-22 09:43:29</date>
+            <index>6</index>
+            <phrase>ලයින් කාමර වල කිසිම ආරක්ෂාවක් නැහැ නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයශ්‍රී</author>
+            <date>2012-08-22 09:48:31</date>
+            <index>7</index>
+            <phrase>සමාවෙන්න, අමිල නෙමෙයි. අනුර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-22 12:16:53</date>
+            <index>8</index>
+            <phrase>අන්න පොලිස් මහත්මයෙක් උදව් කරනවා මේ මිනිස්සුන්ට..අපි එය අගය කරන්නෙමු..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීනා</author>
+            <date>2012-08-22 15:04:38</date>
+            <index>9</index>
+            <phrase>මෙම කම්කරු ජනතාව රටේ ආර්ථිකය ගොඩනගන්න සෑහෙන ප්‍රමාණයකින් උරදෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

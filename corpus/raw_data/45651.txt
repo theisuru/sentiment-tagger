@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45651</articleId>
+    <title>ආර්ථික සමුළුව ජූලියේ</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 මැයි මස 30 17:03:09</date>
+    <body>ශ්‍රී ලංකා ආර්ථික සමුළුවක් ලබන ජූලි මාසයේදී පැවැත්වීමට නියමිතය. ලෝක ආර්ථිකයේ ශ්‍රී ලංකාවට හිමි තැන මෙම සමුළුවේ තේමාවයි. රජයේ ආර්ථික වැඩපිළිවෙල හා ආර්ථික වර්ධනය පිළිබඳව මේ සමුළුවේදී සාකච්ඡාවට ගැනේ.</body>
+    <comments>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-30 17:26:55</date>
+            <index>0</index>
+            <phrase>සාකච්ඡා කරලා ඇවිත් අපිව මරපියෝ...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-01-12 12:21:00</date>
+            <index>1</index>
+            <phrase>තේමාව හොඳයි. සාකච්ඡා කරන්න කරුණු තියෙනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

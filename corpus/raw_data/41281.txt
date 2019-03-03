@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41281</articleId>
+    <title>වෙසක් සඳ සිඩ්නි නුවරටත් පායයි</title>
+    <author>ප්‍රියංකා සමරසිංහ  ප්‍රියංකා සමරසිංහ</author>
+    <date>2012 මැයි මස 08 19:07:28</date>
+    <body>වෙසක් උළෙල නිමිත්තෙන් ඔස්ට්‍රේලියාවේ  සිඩ්නි නුවර ලංකාරාමයේ  සෑරදුන් ඇතුඵ විහාර මළුව වෙසක් දින රාත්‍රීයේ ශ්‍රී ලංකාවේ විහාරස්ථානයක අසිරිය කියා පැවේය</body>
+    <comments>
+        <comment>
+            <author>නාලක පුෂ්පකුමාර</author>
+            <date>2012-05-08 20:15:19</date>
+            <index>0</index>
+            <phrase>සාදූ...සාදූ...සාදූ....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර - ඉරාකය</author>
+            <date>2012-05-09 10:37:51</date>
+            <index>1</index>
+            <phrase>2013 මුළු ලෝකෙම සිදුවෙයි. සාධු.. සාධු.. සාධු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-05-09 12:50:45</date>
+            <index>2</index>
+            <phrase>මව්බිම අමතක නොකරන ඔබ සැම තෙරුවන් බෙලෙන් ආරක්ෂා වේවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

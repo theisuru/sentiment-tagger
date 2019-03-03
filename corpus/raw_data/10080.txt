@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>10080</articleId>
+    <title>නකල්ස් කන්දේ ගස් වවයි</title>
+    <author>මීමුරේ ගාමිණි අභය</author>
+    <date>2011 ඔක්තෝබර් මස 21 14:25:27</date>
+    <body>නකල්ස් කඳුවැටියේ මුදුන සංරක්ෂණය කිරීම සඳහා දේශීය ශාඛ සිටැවීමට හුන්නස්ගිරිය අඩවි වන නිලධාරී කාර්යාලයය සැරැසෙයි.
+උඩුදුම්බර කහටගොල්ල පතනේ මේ අනුව හෙක්ටෙයාර් 20ක කරඳ, බටදොඹ, සියඹලා, කුඩුදවුල, වල් ඇහැල, ඇටඹ, ආදිය රෝපණය කැරේ. දිය උල්පත් සංරක්ෂණ හා සොදා පාළුව වළක්වා ගැනීම අරමුණ බව අඩවි වන නිලධාරී ඊ.ඒ.ඊ  මහේන්ද්‍ර නන්දසේන මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ජයී</author>
+            <date>2011-10-22 13:59:43</date>
+            <index>0</index>
+            <phrase>ඉතාමත් ස්තූති කළයුතුයි. එයින් සෝදා පාඵව නැතිවනවා පමනක් නොව ස්වභාව සෟන්දාර්ය්‍ය මෙන්ම වන සතුන්ද ආරක්ෂා වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>danusha lakmal</author>
+            <date>2011-11-03 09:58:00</date>
+            <index>1</index>
+            <phrase>attatama honda wadak</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

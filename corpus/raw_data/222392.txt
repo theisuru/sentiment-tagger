@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>222392</articleId>
+    <title>අවුරුද්දට වළදක් ලිපේ තියන්න බැරිවේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2014 අපේ‍්‍රල් මස 02 10:14:05</date>
+    <body>සිංහල අලුත් අවුරුද්ද වෙනුවෙන් තැනු වළං ටික විකුණා ගැනීමට නොහැකි වී ඇතැයි ගලේවෙල ලෙනවල පාරම්පරික  වළං කර්මාන්තකරුවෝ කියති.
+නිෂ්පාදන වියදම වැඩි බවත් ණය වී සදා ගත්  වළං ටික මඩුවේ ගොඩ ගැසී ඇති බවත් ඔවුහු කියති
+
+ 
+ 
+.
+
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2014-04-02 10:28:13</date>
+            <index>0</index>
+            <phrase>මොනව කරන්නද? කාලය සමඟ දේවල් වෙනස් වෙනවා. මැටි වළං වල උයන කැම රසයි. අපි උයන්නෙ අඩිය පැතලි මැටි වළං වල. එකම දේ ගෑස් ටිකක් වැඩිපුර යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-04-02 10:34:02</date>
+            <index>1</index>
+            <phrase>වැඩිම වුණොත් කිරි ටික උතුරන්න මුට්ටියක් ගනියි. අපරාදේ වියදම් කරන්න කලින් මේ ගැන දැනුවත් වෙන්න තිබ්බා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිශාන් ප්‍රනාන්දු</author>
+            <date>2014-04-02 10:39:19</date>
+            <index>2</index>
+            <phrase>පව් අහිංසක දුප්පත් මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2014-04-02 11:00:42</date>
+            <index>3</index>
+            <phrase>ඇළුමිනියම් භාජන වල උයන අයව තමයි දැනුවත් කරන්න ඕනෑ. අද රටේ මොනතරම් නම් ලෙඩ රෝග තිබෙනවද? ඔය පොහොසත් කියන කට්ටියට සම්ප්‍රදායික ක්‍රම හුරුකරන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-04-02 11:03:30</date>
+            <index>4</index>
+            <phrase>මිනිස්සු අලුත් වළං ගන්නේ නෑ. දැන් පරණ වළං වලම උයනවා. ඒ තරම් මිනිස්සුන්ගේ ආර්ථිකය කඩා වැටිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2014-04-02 11:04:53</date>
+            <index>5</index>
+            <phrase>හරිම අව්‍යාජ යුවලක්. ආස හිතෙනවා දැක්කම. දෙදෙනාටම දීර්ඝා යුෂ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජයා</author>
+            <date>2014-04-02 11:09:07</date>
+            <index>6</index>
+            <phrase>පොල් පිත්තක් රු.5යි, මැටි ගුලියක් 100යි, පොල් ලෙල්ලක් 4යි, මේ සියළු වියදම් දරලත් මුට්ටියක් රු. 40යි. අඩුම තරමින් නිෂ්පාදන වියදම පියවා ගන්න රු.100 කටවත් දෙන්න ඕනෑ. ඇළුමිනියම් නිසා රටම ලෙඩ වෙනවා. මැටි වළං වලට ජනතාව යොමු කිරීමට රජයේ මැදිහත්වීමක් අවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණපාල</author>
+            <date>2014-04-02 11:18:41</date>
+            <index>7</index>
+            <phrase>ක්‍රමයෙන් මේ විනාශ වන්නේ අපේ උරුමයන් නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් ප්‍රදීප</author>
+            <date>2014-04-02 11:22:08</date>
+            <index>8</index>
+            <phrase>අද අපිට කිරි බතක් උයන්ඩවත් වත්කමක් නැහැ මහත්තයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2014-04-02 11:23:05</date>
+            <index>9</index>
+            <phrase>පොඩි වළං කඩේ හට්ටි මුට්ටි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-04-02 11:29:18</date>
+            <index>10</index>
+            <phrase>මේවා පිටරට යවන්න බැරිද? කේරල වලින් එන පොඩි මුට්ටියක් අරාබිකරයේ රුපියල් 750 - 1000 විතර වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2014-04-02 11:50:26</date>
+            <index>11</index>
+            <phrase>ඇයි මේ කලබල වෙලා? තවම අප්‍රේල් 2නේ. මිනිස්සු වළං ගන්නේ අප්‍රේල් 10න් පසුවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ මෙල්බර්න්</author>
+            <date>2014-04-02 11:55:15</date>
+            <index>12</index>
+            <phrase>ටයර් වෙනුවට වළං තියලා මුළු කොළඹම වහලා රේසින් කාර් තරඟයක්වත් තිබ්බා නම් මේ අහිංසක මිනිස්සු ගොඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝසා.</author>
+            <date>2014-04-02 12:38:52</date>
+            <index>13</index>
+            <phrase>මේවා ඔක්කොම පළාත් සභා දිනපු අය ගනීවි අවුරුදු උත්සවේ කණා මුට්ටි බිඳින්න...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2014-04-02 12:46:15</date>
+            <index>14</index>
+            <phrase>රටේ ආර්ථිකය නැගලලු. කාටද මේවා කියන්නෙ. ඔන්න නැගිල්ලෙ තරම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-04-02 12:56:29</date>
+            <index>15</index>
+            <phrase>හිඟන්නාගේ පාත්තරේටමයි කියනවනේ හෙනහුරා වැටෙන්නෙත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-04-02 13:01:49</date>
+            <index>16</index>
+            <phrase>අනේ මන්දා අපි නම් තාම ගන්නේ මැටි වළං ගෑස් අඩුවෙන් වැය වෙන තුනී වළං විශේෂයක් තියෙනවා ඉක්මනට රත් වෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2014-04-02 13:21:43</date>
+            <index>17</index>
+            <phrase>කුමාරි, ඔයා කියන ඔය දැනුවත් කිරීම කරන්න ඕනේ ඇලුමිනියම් භාජන පාවිච්චි කරන ඔයාලටද? එහෙම නැත්නම් පරම්පරා ගානක් තිස්සේ කුඹල් කර්මාන්තයේ නියැලී හෙට අනිද්දා ජිවිතයෙන් සමුගන්න මේ අයටද? පිටරට හිටියත් අපේ සිංහල විදියට උයනවා නම් අපි උයන්නේ ලංකාවේ මැටි වළං වල. ඒකේ තියෙන රස, නරක් නොවී, (ශීතකරණයේ නොදා) දවස් දෙකක් විතර තියා ගන්නත් පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2014-04-02 13:31:23</date>
+            <index>18</index>
+            <phrase>ලංකාදීපයේ මේ පුවත බලා ඔවුන්ට අනුකම්පාවෙන්වත් කවුරු කවුරුත් මේ වසරේ මැටි වළඳක් ගත්තොත් හොඳයි. සියරට දේ සිරිසැප දේ! ලංකාදීපයට ස්තුතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2014-04-02 13:40:10</date>
+            <index>19</index>
+            <phrase>මේවා පොඩ්ඩක් 'පොෂ්' කරලා ෆූඩ් සිටි එකක තිබ්බා නම් නියමයි . කොහොම වෙතත් මම නම් කැමති මැටි වළං වලට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-04-02 13:54:19</date>
+            <index>20</index>
+            <phrase>අසෝකා, මම ලිවුවේ තිත්ත වුණත් ඇත්ත. මොකද හැමෝම දැන් හැමදේම ඉක්මනින් කර ගන්න බලන්නේ. ඒ නිසා මැටි වළං ගමේ ගොඩේ අය පාවිච්චි කරන්නෙත් බොහොම අඩුවෙන්.මගේ ගෙදර ගෑස් ලිප වගේම දර ලිපත් තිබෙනවා.වළනුත් තිබෙනවා.නමුත් අවුරුද්දට කිරි උතුරන්න අනිවාර්යෙන් මුට්ටියක් අපේ ගමේ කවුරුත් ගන්නවා.රස ගුණ වගේම හැමදේම දන්නවා.වළං නිෂ්පාදනය කරන අයත් අපේ ගෙවල් ළඟම ඉන්නවා.මම හොඳ ගමක කෙනෙක් අසෝකා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2014-04-02 14:11:33</date>
+            <index>21</index>
+            <phrase>රටේ බොහෝ පිරිසකට වකුගඩු රෝග හා පිළිකා රෝග වැනි රෝගාබාධ වැළදීමට ප්‍රමිතියකින් තොර ඇලුමිනියම් බදුන්වල පිසින ආහාර අනුභවය එක්තරා හේතුවක්. මැටි බඳුන්වල උයන ලද ආහාර වර්ග ඉතා රසවත්, අඩු තරමින් ජනතාවට බොරු පම්පෝරි ගසන දේශපාලකයින් ඔවුන් ජනතාව අමතන අවස්ථාවලදී ජනතාවගෙන් ඉල්ලීමක්වත් කරනවා නම් මැටි බදුන්වල ආහාර පිසින්න කියලා. මිනිස්සු මැටි බදුන් ගන්න පෙළඹේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරියලතා කෙන්යා</author>
+            <date>2014-04-02 14:26:51</date>
+            <index>22</index>
+            <phrase>පව් අහිංසක මිනිසුන්, මම නම් ඉව්වේ නැති උනත් වලන් 1-2 ක් ගන්නවා උදව්වක් වශයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2014-04-02 14:30:08</date>
+            <index>23</index>
+            <phrase>අනුරාධගේ නියම කතාව. අනිවාර්යයි , මේ අහිංසක මිනිස්සු ගොඩ එනවා ඒ විතරක් නොවෙයි මැටි මුට්ටි මදිත් වෙනවා ලංකාවේ එලවන කාර් රේස් දැක්කහම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙවන්</author>
+            <date>2014-04-02 15:00:14</date>
+            <index>24</index>
+            <phrase>සරත්, ඇයි වලං ගන්න ෆුඩ් සිටි යන්නේ ? අහිංසක අම්ම කෙනෙකුගෙන් ගත්තහම දරු පවුලත් නඩත්තු කරනවානේ. ඔය සංකල්පය හින්දා මේ ගමේ ගොවි මහත්තුරුන්ගේ විතරක් නෙමේ පුංචි කඩවලටත් දැන් හෙනහුරා ලබලා. තායිලන්තයේ ලොකු සල්ලි කාරයෝ කෑම කන තර මක් කන්නේ පාරේ දෙපැත්තේ තියන පුංචි කෑම කඩවලින්. ඒ ඇත්තෝ කියන්නේ අපි පොඩි මිනිහටත් පුළුවන් තරම් උදව් කරන්න ඕනි කියලා. අන්න නියම දේශ හිතයිෂීන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සබීතා</author>
+            <date>2014-04-02 15:09:45</date>
+            <index>25</index>
+            <phrase>බැරියැ ඔය මන්ත්‍රීවරුන්ට වළං ටිකක් ඔය මිස්සුන්ගෙන් අරගෙන උදව්වක් වශයෙන් බෙදා දුන්නම. ජය සමරන්න පුළුවන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2014-04-02 15:17:53</date>
+            <index>26</index>
+            <phrase>මෙවන්, ඔයාගේ කතාව හරි. මම ලිව්වේ අපේ රටේ තියෙන තත්වය. අපි සුපර් මාකට්වල තියෙනවා නම් බෙහෙත් ගහපු පළතුරු වුණත් ගන්නවා.ගෙවල් ළඟ තියෙන කඩෙන් හොඳට ඉදුණු කෙසෙල් ගෙඩියක් වත් ගන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයානන්ද</author>
+            <date>2014-04-02 18:49:03</date>
+            <index>27</index>
+            <phrase>මේ අහිංසක අම්මාගෙන් මුට්ටියක් අරගෙන සහයෝගයක් දෙන්න අපේ අයට හැගීමක් නැහැ. නමුත් ඔතන මත්වෙන ජාති වගේ තිබුනා නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසී</author>
+            <date>2014-04-02 20:12:09</date>
+            <index>28</index>
+            <phrase>අරලිය ගහ මැදුරේ මැටි වලන් භාවිතයට ගන්නවනම් ඇයි. ජනතාවට හොඳනැද්ද. මම නම් ඇලුමීනියම් භාජන වලින් උයන්නේ නැත. මගේ උයන භාජන. ලෝකයේ ඉස්තරම් ලෝහයෙන් හදපු ටයි ටෙනියම් භාජන කිසිම විසක් උයද්දී කෑම වලට මුසු වන්නේ නැත. මැටි වලන් වලින් කිසිම විසක් අහර වලට ඇතුළු වන්නේ නැත.අලුමීනියම් භාජන වලින් කෑම පිසින විට නොයකුත් විස කෑමට එකතු වෙනවා.ඒ වගේම නං ස්ටික් භාජන වලිනුත් කෑමට විස එකතු වෙනවා. ප්‍රවේශමෙන් ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ති පෙරේරා</author>
+            <date>2014-04-02 20:28:04</date>
+            <index>29</index>
+            <phrase>පව් අහිංසක මිනිස්සු හැම දේම දුප්පත් මිනිහාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්-සාජා</author>
+            <date>2014-04-02 20:39:09</date>
+            <index>30</index>
+            <phrase>මැද පෙරදිග රටවලට එවන්න ක්‍රමයක් හදන්න . අපි ගන්නම්.කුමාර් ගේ කතාව හරි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක</author>
+            <date>2014-04-03 08:48:27</date>
+            <index>31</index>
+            <phrase>අනේ පවු අහිංසක මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47561</articleId>
+    <title>තමිල්නාඩු පොලිසිය හොරපාර අරී ?</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 ජූනි මස 10 17:41:20</date>
+    <body>ඉන්දියාවේ චෙන්නායි හා රාමේෂ්වරම් සරණාගත කඳවුරුවල සිටින ලාංකික සරණාගතයින්ට කේරළය හරහා නීති විරෝධී ලෙස  ඕස්ටේ‍්‍රලියාවට සංක‍්‍රමණය වීම සඳහා තමිල්නාඩු පොලිසිය ඉඩ දෙතියි ඉන්දීය මධ්‍යම බුද්ධි අංශ චෝදනා කර ඇතැයි ඉන්දියා තානාපති ආරංචි මාර්ග පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-10 18:32:46</date>
+            <index>0</index>
+            <phrase>මේ ගොල්ලොම තමයි ඕස්ට්‍රේලියාවට ගිහින් එහෙ සරණාගතයින්ට සලසන සියළු පහසුකම් භුක්ති විඳ අවසානයේ ශ්‍රී ලංකාවේ කීර්තාමය කෙළෙසන වැඩ කරන්නේ.අසත්‍ය ප්‍රචාර ශ්‍රී ලංකා රජයට විරුද්ධව සිදුකරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-10 21:26:55</date>
+            <index>1</index>
+            <phrase>ලංකාවේ එහෙම වෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-06-10 21:03:41</date>
+            <index>2</index>
+            <phrase>කන්න දෙන්න අමාරු නිසා හොර පාරෙන් යවනවා වෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාළ</author>
+            <date>2012-06-11 11:15:22</date>
+            <index>3</index>
+            <phrase>අපි මේ වැඩේ ගැන සතුටු වෙන්න ඕන .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-06-11 15:38:59</date>
+            <index>4</index>
+            <phrase>ඉන්දියාවේ එහෙම උනත් ලංකාවේ එහෙම වෙන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-12 16:07:40</date>
+            <index>5</index>
+            <phrase>ජොලිය තියෙන්නේ හොරපාරේ යනකොටනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506515</articleId>
+    <title>ඉංගිරිය පොලිස් භූමියේ පිපිරීමක්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 පෙබරවාරි මස 13 11:45:27</date>
+    <body>ඉංගිරිය පොලිස් භූමියේ සිදුවූ පිපිරීමකින් පසු දේපොළ රැසකට හානි සිදුවී ඇතැයි වාර්තාවේ.
+පොලිස් භූමියේ ගිනි ගොඩකට ගිනි තැබීමෙන් පසු මෙම පිපිරීම වූ බවත්, බැරලයක ගබඩා කළ වෙඩි බෙහෙත් පිපිරී යන්නට ඇති බවත් සැක කෙරේ.  </body>
+    <comments>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-13 07:51:03</date>
+            <index>0</index>
+            <phrase>"ගිනි ගොඩකට " ගිනි තියලා ඔයින් බේරුනා ඇති .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2017-02-13 08:29:51</date>
+            <index>1</index>
+            <phrase>ගිනි ගොඩකට මොකෝ ආයේ ගිනිතියන්නේ ඒකයි පිපිරුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කස්සප</author>
+            <date>2017-02-13 11:05:30</date>
+            <index>2</index>
+            <phrase>පොලිසිය ගැනනම් කතා කරලා වැඩක් නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

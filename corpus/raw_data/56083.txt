@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56083</articleId>
+    <title>කටු ගටු ගසා දෙවියන් පුදන බැතිමතුන්</title>
+    <author>හර්ෂ පද්මපානී</author>
+    <date>2012 ජූලි මස 29 17:47:50</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සිතිජ</author>
+            <date>2012-07-30 20:00:07</date>
+            <index>0</index>
+            <phrase>ඔවුන් තමන්ගේ ඇදහිල්ල, විශ්වාශය අනුව එම දෙය කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-08-02 19:48:53</date>
+            <index>1</index>
+            <phrase>බුදු දහමේ හරවත් සහ සෞම්‍ය බව මේවා දකිද්දි හොඳින් වැටහෙනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ එල් ටී දයන්ති</author>
+            <date>2012-08-03 12:54:22</date>
+            <index>2</index>
+            <phrase>ගොඩක් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවපතිරාජ</author>
+            <date>2012-08-03 13:26:59</date>
+            <index>3</index>
+            <phrase>මේවට මම නම් කියන්නේ මිත්‍යා දෘෂ්ටිය කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්ටෙෆාන්</author>
+            <date>2012-08-03 18:01:38</date>
+            <index>4</index>
+            <phrase>මේවා මා නම් දකින්නේ අනුවණ ක්‍රියා ලෙසටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු පුන්චා</author>
+            <date>2012-08-04 12:04:30</date>
+            <index>5</index>
+            <phrase>අනේ මට නම් හිතාගන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ</author>
+            <date>2012-08-09 12:54:17</date>
+            <index>6</index>
+            <phrase>මෙහෙම දේවල් වලට තැනක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>98563</articleId>
+    <title>රනිල් උතුරේදි ආගමික නායකයන් හමුවෙයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2013 පෙබරවාරි මස 17 11:10:06</date>
+    <body>පොදු විපක්ෂය සමග උතුරේ සංචාරය කළ විපක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා යාපනය නාග විහාරයේදී බෞද්ධ භික්ෂූන් ද, නල්ලූර් කෝවිලේදී හින්දු පූජකවරුන්ද, රදගුරු නිවසේදී තෝමස් සෞන්ද්‍රනායම්  රද ගුරු ද හමු විය.</body>
+    <comments>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2013-02-17 11:23:36</date>
+            <index>0</index>
+            <phrase>ජයවේවා............. ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2013-02-17 11:26:03</date>
+            <index>1</index>
+            <phrase>ජනතාවගේ මතය තමයි දේශපාලනය කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-17 12:04:49</date>
+            <index>2</index>
+            <phrase>ඔහොම බය නැතුව දැන් යන්නේ කවුරු නිසාද මහත්තයෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-02-17 12:33:33</date>
+            <index>3</index>
+            <phrase>මොකද මේ කොණ්ඩෙත් අවුල් කරගෙන?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසල්</author>
+            <date>2013-02-17 13:30:28</date>
+            <index>4</index>
+            <phrase>ඒ සියල්ලන්ගෙන් උපදෙස් ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනා</author>
+            <date>2013-02-17 14:32:28</date>
+            <index>5</index>
+            <phrase>කාලෝචිත වැඩක් මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2013-02-17 14:39:49</date>
+            <index>6</index>
+            <phrase>මේ මිනිස්සු හැමදාම අසරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-02-17 14:42:10</date>
+            <index>7</index>
+            <phrase>පොදු විපක්ෂයට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-02-17 14:45:24</date>
+            <index>8</index>
+            <phrase>ඔබ තුමාට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2013-02-17 14:47:29</date>
+            <index>9</index>
+            <phrase>ජනමතය විමසනවාට ඔබ තුමාට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2013-02-17 14:47:46</date>
+            <index>10</index>
+            <phrase>අපේ රට දැන් නිදහස් රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පා</author>
+            <date>2013-02-17 14:51:15</date>
+            <index>11</index>
+            <phrase>පොදු විපක්ෂය වෙනුවෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2013-02-17 15:16:12</date>
+            <index>12</index>
+            <phrase>ඔබ තුමාට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-02-17 15:24:59</date>
+            <index>13</index>
+            <phrase>චන්දයක්වත් ලග එනවද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහමඩ්</author>
+            <date>2013-02-17 19:12:58</date>
+            <index>14</index>
+            <phrase>අන්න හරි, රටක් කරන්න මිනිස්සුන්ගේ මතය ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-02-17 21:14:26</date>
+            <index>15</index>
+            <phrase>මම නම් දන්නෙ නැහැ ඕවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2013-02-17 23:49:16</date>
+            <index>16</index>
+            <phrase>අද මෙතුමා උතුරට යනවා. මෙතුමගෙ පාලන කාලයෙ මෙතුමා උතුරට ගියාද? වසර 30 කට පසුවයි මෙතුමා උතුර දැක්කෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුලාන්</author>
+            <date>2013-02-17 23:55:26</date>
+            <index>17</index>
+            <phrase>නායකයින්ගේ මතයට ගරු කිරීම වැදගත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-02-18 01:27:07</date>
+            <index>18</index>
+            <phrase>ඒ වැඩේ හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-18 04:02:37</date>
+            <index>19</index>
+            <phrase>ඔබ තුමාට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-02-18 07:46:42</date>
+            <index>20</index>
+            <phrase>ඔබතුමාට ලැබුණු නිදහස ගැන කළගුණ සලකන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-02-18 10:23:23</date>
+            <index>21</index>
+            <phrase>ලැබුන නිදහසින් දැන් ඔබ සැමට ක්‍රියා කළ හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

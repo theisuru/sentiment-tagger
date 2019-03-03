@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>62044</articleId>
+    <title>බස් ගින්නෙන් කාටවත් හානියක් නෑ</title>
+    <author>සමන් පාලිත නානායක්කාර</author>
+    <date>2012 අගෝස්තු මස 31 15:26:49</date>
+    <body>හෝමාගම ඩිපෝවේ ලංගම බසයක් හපුතලේ නගර සමීපයේ දී ගිනි ගනිද්දී එහි සිටි මගීන් ඉවතට පැන දිවි බේරාගත් බවත් හපුතලේ නගර සභාව හා පොලිසිය මහජනයා සමග එක්ව ගින්න නිවා දැමූ බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>Chanaka Madusanka</author>
+            <date>2012-08-31 20:11:11</date>
+            <index>0</index>
+            <phrase>හොද වෙලාවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-31 22:28:26</date>
+            <index>1</index>
+            <phrase>හපුතලේ කන්ද දැකලා ගිනි එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-09-01 18:20:04</date>
+            <index>2</index>
+            <phrase>රොකට් එන්ජිමක්ද දන්නේ නැහැ දාල තියෙන්න ඇත්තෙ? අපරාදේ නිවුවෙ. ඔහොම බස් තිබිලා මොකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

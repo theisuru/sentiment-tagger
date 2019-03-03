@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>138852</articleId>
+    <title>ලොව වයස්ගතම මාතාව උක්කු අම්මා-01</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2013 ජූනි මස 17 13:28:21</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>එම .ජි .එම .දමයන්ති</author>
+            <date>2013-06-18 16:02:54</date>
+            <index>0</index>
+            <phrase>අපිට ගොඩක් ආඩම්බරෛ අම්මේ ඔබ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දෙනි</author>
+            <date>2013-06-18 17:25:47</date>
+            <index>1</index>
+            <phrase>http://www.youtube.com/watch?v=UptpVD0S_QU</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා</author>
+            <date>2013-06-19 04:35:57</date>
+            <index>2</index>
+            <phrase>වයස කීයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-06-19 11:58:06</date>
+            <index>3</index>
+            <phrase>වජිරා, දැන්ද නැගිට්ටේ. මුහුණ කට හෝදලා තේ එකක් බිලා ඇවිත් ගිය සතියේ පත්තරේ බලන්න. වයස 116යිලු අනේ ඔයා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දී</author>
+            <date>2013-06-19 12:21:11</date>
+            <index>4</index>
+            <phrase>මගේ රත්තරන් අම්මටත් මේ වාගේම අපේ ලගට වෙලා ඉන්න වාසනා වේවා ! මේ අත්තම්මටත් තවත් දිගු කලක් නිරෝගිව ජිවත් වෙන්න සියලු දෙවියෝ පිහිට වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-06-21 11:21:38</date>
+            <index>5</index>
+            <phrase>අපේ ආච්චි අවුරුදු 103ක් හිටියා. ඒත් හොද සිහිකල්පනාවෙන් අන්තිම මොහොත වෙනකල් තමන්ගේ වැඩ කරගත්තා. කලින් දවසේ රෑ පිරිත් කටපාඩමෙන් කිව්වා.උදේ හාන්සි වුනා. ඊට පස්සේ මිය ගිහින්. මොනවත් දන්නේ නැහැ.අපේ රටේ පැරනි අය නිරෝගිව ආයුෂ වලදනවා. අපේ අය රෝගීව ටික කලක් ඉන්නවා. මොකක්ද හෙතුව? මේ අම්මටත් දීර්ඝායු ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝරත හිමි-සියභලාන්ඩුව</author>
+            <date>2013-07-05 13:54:26</date>
+            <index>6</index>
+            <phrase>දැනට ලෝකයේ ජීවතුන් අතර සිටින වයස්ගතම පුද්ගලයා ලෙස වාර්තාව හිමිකර ගැනීමේ අවස්ථාව ශ්‍රී ලංකාවට හිමිවී තිබේ. ඒ කෑගල්ල දිස්ත්‍රික්කයේ මාවනැල්ල බලත්ගමුව අංක 82/ඒ ලිපිනයේ පදිංචි වයස අවුරුදු 116ක් වූ අපුල්ලන්නලෑ උක්කු මහත්මියටය. ශ්‍රී ලංකාවට මේ අවස්ථාව ලැබී තිබෙන්නේ මෙතෙක් ලොව වයස්ගතම පුද්ගලයා ලෙස වාර්තාව හිමිකරගෙන සිටි ජපන් ජාතික ජිරෝමාන් කිමුරා (116) පෙරේදා (12දා) ජීවිතක්‍ෂයට පත්වීමත් සමඟය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

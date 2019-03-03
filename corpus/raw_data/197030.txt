@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>197030</articleId>
+    <title>මෙන්න ගරා යකා (හතර වැන්න)</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 දෙසැම්බර් මස 24 21:24:27</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>හංසි</author>
+            <date>2014-01-01 14:22:19</date>
+            <index>0</index>
+            <phrase>පාරම්පරික දේ රැක ගැ]නිම අපේ යුතු කමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

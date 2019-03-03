@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464362</articleId>
+    <title>නවරාත්‍රී පූජාව දියවන්නාවේ</title>
+    <author>රොමේෂ් ධනුශ්ක සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 04 13:50:48</date>
+    <body>ධනය.ඥානය සහ ධෛර්ය ලබා දෙන ලෙස ඉල්ලමින් සරස්වතී,ලක්ෂ්මි සහ දුර්ගා නවරාත්‍රී පුජාදින සැමරුමක් ශ්‍රී ජයවර්ධන කෝට්ටේ පාර්ලිමේන්තු පරිශ්‍රයේදී අද පැවැත්විණ.කතානායක කරූ ජයසුරිය මහතා ප්‍රධාන ආරාධිතයා විය.කොටහේන ශිවන් කෝවිලේ ප්‍රධාන පුජක ජෙයෂන්කර් තුරුක්කල්තුමන් විසින් පූජාව පවත්වන ලදී.</body>
+    <comments>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-10-04 10:14:06</date>
+            <index>0</index>
+            <phrase>අපේ ඇමතිලා වෙනුවෙන් මේ වගේ දේවල් ඉල්ලන එක හොඳයි නොලැබෙන රජ කමට වැඩිය ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-10-04 10:31:39</date>
+            <index>1</index>
+            <phrase>හරි පුදුමයි පින්වතුනි,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-10-04 12:05:01</date>
+            <index>2</index>
+            <phrase>දෙවියනි නෙත් හෙලා මේ අපේ හෙලයන්ට​ දෙනු මැන ධනය ජෙට් යානා වල යන්ට​. ඥානය දෙනු මැනවි හරි දේ වැටහෙන්ට​ බලයත් ලබා දෙනු මැන ගෙදරම ඉන්ට​!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජි නන්දන</author>
+            <date>2016-10-04 13:59:08</date>
+            <index>3</index>
+            <phrase>ධනය, ධෛර්ය, බලය, තියන නිසා ඥානය ලබා දෙන්න දෙවියනී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

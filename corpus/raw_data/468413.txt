@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468413</articleId>
+    <title>මහ වංචා තුනක ලිපිගොනු ජනපතිට</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 ඔක්තෝබර් මස 14 16:57:11</date>
+    <body>මහා පරිමාණ වංචා දුෂණ  පිළිබඳ සිදුකළ විමර්ශන තුනක ලිපිගොනු  ඉදිරි  දිනවල දී  ජනාධිපති වෙත  බාරදිමට  කටයුතු කරන බව බරපතල වංචා දුෂණ පිළිබඳ ජනපති  විමර්ශන කොමිසම පවසයි.
+රක්නා  ලංකා  සහ ඇවන්ට්ගාඩ්  සමාගමේහි   සිදුව ඇතැයි කියන වංචා  දුෂණ පිළිබඳ සිදුකළ විමර්ශනය, හලාවත සහ කුරුණෑගල  වැවිලි  සමාගම්වල සිදුව ඇතැයි කියන දුෂණ පිළිබඳව සිදුකළ විර්මශනය හා ඉකුත්  රජය සමයේ  ආරක්ෂක අමාත්‍යාංශය විසින්  ඩයිනමයිට් තොගයක්  කල් ඉකුත්  වන තෙක්  අලෙවි  නොකර  රජයට  රුපියල්   මිලියන ගණනක පාඩු කිරිම සම්බන්ධයෙන් සිදුකළ විමර්ශන මෙලෙස අවසන්  වී  ඇති  බවද කොමිසමේ  උසස් නිලධාරියෙක්  පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>සරණපාල</author>
+            <date>2016-10-14 12:14:26</date>
+            <index>0</index>
+            <phrase>දැන් ඉතින් ලොක්කන්ව, ලොක්කන්ගේ පුතුන්ව අත්අඩංගුවට ගන්න එක නවතමු. කවුරුත් වැරදි කරනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-10-14 13:43:27</date>
+            <index>1</index>
+            <phrase>වාර්තා පමණද? නඩු අකැපද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-10-14 14:17:38</date>
+            <index>2</index>
+            <phrase>දැන් ඉතින් දෙන්නකො උත්තර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2016-10-14 15:56:15</date>
+            <index>3</index>
+            <phrase>මේ වාර්තාත් පරණ කඩදාසි වලට විකුණන්න වෙයි වගේ, දැන් දැන් වෙන දේවල් බලනකොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2016-10-14 16:02:26</date>
+            <index>4</index>
+            <phrase>වාර්තා මොනවා කරන්නද? ප්‍රභූන් උසාවි ගෙනෙන්න එපා කියලද කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-10-14 22:53:31</date>
+            <index>5</index>
+            <phrase>ඇත්තමයි. කෝ මහබැංකු වංචාව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිස්සක</author>
+            <date>2016-10-15 01:32:01</date>
+            <index>6</index>
+            <phrase>එතකොට බැඳුම්කර වංචාව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

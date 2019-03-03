@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464511</articleId>
+    <title>රයිගම පංසලේ පිං කැටේ කඩයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 04 16:35:32</date>
+    <body>හොරණ රත්නපුර ප්‍රධාන මාර්ගයේ රයිගම රජමහා විහාරයේ පිංකැටය කඩා මුදල් ගෙන ගිය බව කියන පුද්ගලයකු අත්අඩංගුවට ගැනීමට පොලිසිය සැරසෙයි.
+මුලින්ම විහාරගෙයි බුදුමැදුරට ඇතුළු වී එහි ලයිට් නිවූ පුද්ගලයා පිංකැටය කැඩීමෙන් අනතුරුව යළි විදුලි පහන් දල්වා යන ආකාරය සීසීටීයී කැමරාවල සටහන්වී ඇත.</body>
+    <comments>
+        <comment>
+            <author>මහේෂ් ඩුබායි</author>
+            <date>2016-10-04 11:36:00</date>
+            <index>0</index>
+            <phrase>උල තියන්න ඕන මේ හෝරාව නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-10-04 11:49:47</date>
+            <index>1</index>
+            <phrase>කොහොමත් ඕවා පිනට දීපු මුදලනේ. නැතිබැරි මිනිහෙක් ගන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

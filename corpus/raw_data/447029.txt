@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447029</articleId>
+    <title>පුත්තලම පොලිසියේ ගණකාධිකාරී /සැරයන් රිමාන්ඩ්</title>
+    <author>එච්චන්දන</author>
+    <date>2016 අගෝස්තු මස 11 23:05:18</date>
+    <body>පුත්තලම හලාවත පොලිස් අධිකාරී කාර්යාලයයේ ගණකාධිකාරී හා පොලිස් සැරයන්වරයෙක්  පුත්තලම මහේස්ත්‍රාත් බන්දුල ගුණරත්න මහතා විසින් රිමාන්ඩ් කරනු ලැබුහ.  
+පුත්තලම පොලිස් අධිකාරි කාර්යාලය අලුත්වැඩියා කිරීමේදී කූඨ ලේඛන සැකසීම හා රජයේ දේපළ  වංචා කළැයි කියන චෝදනා යටතේ ඔවුන්ට නඩු පැවරීමට නියමිතය.
+පොලිස් විශේෂ විමර්ශන ඒකකය පරීක්ෂණ මෙහෙයවයි.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-11 21:49:42</date>
+            <index>0</index>
+            <phrase>ගණකාධිකාරවරයෙක් වෙන්න කොච්චර උත්සාහ කරන්න ඕනෑද? අවාසනාවක තරම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-08-11 22:34:41</date>
+            <index>1</index>
+            <phrase>මදැයි මුදලට ගිජු වී කරගත් දෙයක හැටි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-08-12 05:54:14</date>
+            <index>2</index>
+            <phrase>තව කිහිප දෙනෙක් මේ සිද්ධියට අත්අඩංගුවට ගන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

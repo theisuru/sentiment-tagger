@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>121202</articleId>
+    <title>දකුණෙන් මුහුදු ගිය ධීවර බෝට්ටු නැගෙනහිරට ඇදිලා</title>
+    <author>වසන්ත චන්ද්‍රපාල චන්දන ලියනාරච්චි</author>
+    <date>2013 මැයි මස 13 12:08:08</date>
+    <body>ගාල්ල මාතර ප්‍රදේශවලින් මුහුදු ගිය බෝට්ටු 60 ක් පමණ ඔළුවිල් පෙදෙසට ගසාගෙන ගොස් ඇතැයි අට්ටාලචේන ධීවරයෝ කියති. සැඩ සුළං පවතින නමුත් වෙරළබඩ පෙදෙස් හී අනතුරක් වාර්තා වී නැත. ඔරුවක් පෙරළි ධීවරයකුට සුළු තුවාල සිදුව ඇතැයි වාර්තාවේ.</body>
+    <comments>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2013-05-13 12:38:29</date>
+            <index>0</index>
+            <phrase>මේ අය කාලගුණය ගැන ටිකක් විමසිලිමත් වෙලා නොවේද රැකියාවට යන්නේ. මේ දිනවල නිරන්තර ප්‍රවෘති නිවේදන කරනවානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල</author>
+            <date>2013-05-13 12:42:59</date>
+            <index>1</index>
+            <phrase>සැඩ සුළඟට දිශාව මාරු කරන්න කියන්න බැරි වේද ඒ අය ආපහු දකුණට අද්දවා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-05-13 12:58:38</date>
+            <index>2</index>
+            <phrase>මීලඟ ජනාපති පත්වෙන්නෙත් නැගෙනහිර පළාතෙන් කියල මතයක් තියනව නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-05-13 13:41:13</date>
+            <index>3</index>
+            <phrase>දින ගණනක පටන් කාලගුණ වාර්තාවෙන් කියන්නේ, හම්බන්තොට සිට නැගෙනහිර දෙසට මුහුදු ගමන් යන්න එපා කියලනේ. මොකටද එපා කියද්දී ගියේ.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-05-13 13:58:57</date>
+            <index>4</index>
+            <phrase>21 වෙනිදා, රට පුරා විදුලි කුණාටුවක් හමන්න යනවලු. ප්‍රවේශමෙන් හොදේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විහග</author>
+            <date>2013-05-13 14:19:08</date>
+            <index>5</index>
+            <phrase>මේ දවස් වල කාලගුනේ නම් හොද නැහැ. මුහුදු යන අය පරිස්සමින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රිස්වාන් - සව්දි අරාබිය</author>
+            <date>2013-05-13 14:25:26</date>
+            <index>6</index>
+            <phrase>රේඩියෝ එකේ කාලගුණය අහලා මුහුදු යන්න බැහැනේ. කියන දෙයට විරුද්ධවනේ සිදුවෙන්නේ.ඒක අහලා ගෙදර ඉන්නත් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2013-05-13 14:38:31</date>
+            <index>7</index>
+            <phrase>2009 ට කලින් වුණා නම්... ධිවරයෝ ටික ඉවරයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උමේෂ්</author>
+            <date>2013-05-13 16:54:29</date>
+            <index>8</index>
+            <phrase>ලෝක විනාශය පැමිණෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2013-05-13 17:11:45</date>
+            <index>9</index>
+            <phrase>මේ බෝට්ටු ඖෂ්ට්‍රලියාවලට පාවෙයිද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-05-13 17:33:01</date>
+            <index>10</index>
+            <phrase>චමිල, ඔයාගේ මොලේ තියෙන්නේ කොහෙද? හැමදේම මෝඩ විදියට හිතන්න එපා. ඒ මිනිස්සු ගිහින් තියෙන්නේ තමන්ගේ දරුමල්ලන් වෙනුවෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණපාල</author>
+            <date>2013-05-13 20:08:35</date>
+            <index>11</index>
+            <phrase>දුක සැප බෙදාගන්න වෙනවා. සොබාව ධර්මය බලවත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-05-13 20:10:00</date>
+            <index>12</index>
+            <phrase>ධීවර ජනතාවට දුකම තමයි. කවදා ඒ අය සැපවත් වෙයිද? අපි වෙනුවෙන් මුදු යන අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම් පැරිස්</author>
+            <date>2013-05-13 22:02:06</date>
+            <index>13</index>
+            <phrase>වම දකුණ මාරු වෙච්ච ලංකාවේ ඉන්න අපිට ඔය මුහුදේ ගිය බෝට්ටු දකුණින් නැගෙනහිරට, උතුරින් දකුණට එන එකත් කජ්ජක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-13 22:40:41</date>
+            <index>14</index>
+            <phrase>මාසික පඩිය, අතිකාල, බටා,අර්ථ සාධක ,බෝනස්,නොලැබෙන ධීවරයා කාලගුනේ නැකැත් බලාගෙන හිටියොත් දරුපව්ලක් රකින්නේ කොහොමද? ඔවුන්ට ලැබෙන විශ්‍රාමය මොකක්ද පණ කෙන්ද ගිය දිනට. ඒකයි ඔය රැකියාවේ ස්වභාවය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තබුක් සිල්වා</author>
+            <date>2013-05-14 00:05:46</date>
+            <index>15</index>
+            <phrase>අඹු දරු රැක ගන්න, අපට මාළු ලබා දෙන්න දෙවියනි, අප රැක ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජ.හේරත්</author>
+            <date>2013-05-14 04:22:38</date>
+            <index>16</index>
+            <phrase>මොනවා වුණත් කාලගුණ අවවාද වලට ඇහුන්කම් දෙන්න තිබුනා , ප්‍රශ්නේ තියෙන්නේ මෙයාලා එනකොට හලාල් වෙලා තිබුනොත් කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙලුම්</author>
+            <date>2013-05-14 05:28:17</date>
+            <index>17</index>
+            <phrase>මේකට මහසෙන් කියන්නේ නැතුව වෙන කෙනෙක්ගේ නමක් දැම්මා නම් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-05-14 07:13:59</date>
+            <index>18</index>
+            <phrase>ඇයි ඉතින් මේකට විතරක් රජකෙනෙක් ගේ නමක්. හැම තැනටම දාන විදියේ නමක් දැම්මා නම් ඉවරයි නේ.හැබැයි එහෙම වුණා නම් කවුරුවත් ඕකට විරුද්ධ වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමන්</author>
+            <date>2013-05-14 09:46:55</date>
+            <index>19</index>
+            <phrase>අදත් එහෙමද දන්නෙ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2013-05-14 09:48:17</date>
+            <index>20</index>
+            <phrase>හුලන් කියල බෑ මේ මිනිස්සු ජිවත් වෙන්නත් එපැයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2013-05-14 09:48:49</date>
+            <index>21</index>
+            <phrase>නම නම් සවුත්තුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2013-05-14 10:05:18</date>
+            <index>22</index>
+            <phrase>සමහරු අදහස් දාන්නේ කුණුහරුප. මොහොමඩ් රිළවා බුද්ධිමත් අදහස් නිතර දමනවා. ඔබ වගේ අය ජාති ආගම පසෙක දා ලාංකිකයන් හැටියට ඉන්න එක රටට ආඩම්බරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිහාන්</author>
+            <date>2013-05-14 10:14:29</date>
+            <index>23</index>
+            <phrase>දකුණෙන් නැගෙනහිරට නැගම් ගිහිල්ල වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

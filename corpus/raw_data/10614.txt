@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>10614</articleId>
+    <title>ඉන්දියාවෙන් ගෙනා කෝටියක කුඩු අල්ලයි</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2011 ඔක්තෝබර් මස 26 10:02:25</date>
+    <body>ඉන්දියාවේ සිට මුහුදු මගින් ගෙනා හෙරොයින් මත් කුඩු තොගයක් තලේමන්නාරම ඌරුමලේ නිවසකින් සොයාගත් පේසාලේ පොලිසිය රුපියල් කෝටියක පමණ වීදි වටිනාකමක් ඇතැයි කියන එම කුඩු මන්නාරමට ගෙන යෑමට තුබූ ත‍්‍රිරෝද රියක් ද සොයාගෙන ඇත. දෙදරු මවක් හා පිරිමි තිදෙනෙක් ද අත්අඩංගුවට ගනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>උපුල්</author>
+            <date>2011-10-26 13:50:45</date>
+            <index>0</index>
+            <phrase>දිගටම කුඩු ඇල්ලුවොත් ලංකාවේ කොටි තුරන් කරන්න පුඵවන් ඒවාගේම පාතාලයත් නැති කරන්න පුඵවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2011-10-26 15:05:51</date>
+            <index>1</index>
+            <phrase>ලොක්කා රටේ හිටියනම් ඕවා අල්ලනවා බොරු තමඊ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

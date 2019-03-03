@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43872</articleId>
+    <title>ඉදිරියට ආ සැමට ෆොන්සේකා තුති පුදයි</title>
+    <author></author>
+    <date>2012 මැයි මස 21 16:59:45</date>
+    <body>‘මා වෙනුවෙන් ඉදිරියට ආ හැම දෙනාම වෙනුවෙන් මගේ මුළු ජීවිතයම කැප කරනවා. මම ඔබ අතරට එන්නම්. එතකම් රැඳී ඉන්න.‘ බන්ධනාගාරයෙන් එළියට ආ සැටියේම හිටපු යුධ හමුදාපති සරත් ෆොන්සේකා දෑත් ඉහළට ඔසවා බන්ධනාගාරය ඉදිරිපිට රැස්ව සිටි මහජනයාට ප්‍රකාශ කළේය. සිංහ කොඩි හා කොළ කොඩි රැගත් දහස් ගණනක් එහි සිටියහ.
+ </body>
+    <comments>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-05-21 17:07:49</date>
+            <index>0</index>
+            <phrase>ඔබ අපේ ජාතික වීරයෙක්, හදවතින්ම සතුටුයි....ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.රෙජිනෝල්</author>
+            <date>2012-05-21 17:12:11</date>
+            <index>1</index>
+            <phrase>S.F. ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ්</author>
+            <date>2012-05-21 17:17:07</date>
+            <index>2</index>
+            <phrase>රටම නිදහස ලැබුව වගෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙල්බන් වැසියා</author>
+            <date>2012-05-21 17:20:10</date>
+            <index>3</index>
+            <phrase>අපිට මතකයි වාසියට කියපු කතා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-21 21:01:19</date>
+            <index>4</index>
+            <phrase>ඔබ වෙනුවෙන් සිටි අපට කළ ගෞරවයට අපේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-21 23:56:30</date>
+            <index>5</index>
+            <phrase>ඔන්න අමතක කරන්න එපා හොදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

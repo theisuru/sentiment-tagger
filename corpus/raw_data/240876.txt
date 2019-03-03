@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>240876</articleId>
+    <title>විල්පත්තුවේ වන මැද ආලෝකය තන්තිරිමලය ගැන ....</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ජූනි මස 10 15:32:08</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අසේල</author>
+            <date>2014-06-22 09:40:28</date>
+            <index>0</index>
+            <phrase>ලංකාදීපයට ස්තුතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

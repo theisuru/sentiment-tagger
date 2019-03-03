@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484392</articleId>
+    <title>සංචාරක / ආයෝජන වර්ෂ තුනක් නම් කරයි</title>
+    <author></author>
+    <date>2016 නොවැම්බර් මස 28 07:00:03</date>
+    <body>සමෘද්ධිමත් ශ්‍රී ලංකාවක් නිර්මාණය කිරීම වෙනුවෙන් 2017, 2018 සහ 2019 වර්ෂ ශ්‍රී ලංකාවේ සංචාරක, ආයෝජන වර්ෂ ලෙස නම් ප්‍රථම ආසියා හෝටල් සහ සංචාරක ආයෝජන සමුළුවේ දී මෛත්‍රීපාල සිරිසේන ජනපති සිදු විය.
+ඇමැති ජෝන් අමරතුංග, අර්ජුන රණතුංග, රාජ්‍ය අමාත්‍ය ඒ.එච්.එම්. ෆවුසි, ලෝක සංචාරක සංගමයේ ලේකම් ජෙරල්ඩ් ලෝලස්  යන මහත්වරු  ඇතුළු පිරිසක්  එක්ව සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-11-30 13:02:34</date>
+            <index>0</index>
+            <phrase>ඕව නම් කරලා විතරක් හරියනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-11-30 13:03:28</date>
+            <index>1</index>
+            <phrase>ඕව නම් කරලා විතරක් හරියනවද ? සුළුපරිමාණ සංචරක් කර්මාන්තෙ යෙදිලා ඉන්න ව්‍යාපාරිකයට මොනවද දීලා තිබෙන සහන ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

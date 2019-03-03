@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41138</articleId>
+    <title>චණ්ඩ මාරුතය හලෝ කුළුන දෙකට කඩයි</title>
+    <author>නවරත්න සමරතුංග  නිමල් ජයරත්න</author>
+    <date>2012 මැයි මස 08 09:48:17</date>
+    <body>මනම්පිටියේ ඉඟිනියාගල හා දඹානේ පෙර දින ඇති වූ සැඩ සුළඟකින් ගෙවල් රැසකට අලාභහානි වී ඇත. ගස් ඉදිරී ගෙවල් මතට වැටීමෙන් සිදුවූ හානිය ද බොහෝය. මනම්පිටියේ ජංගම දුරකථන කුළුනක් දෙකට තුනට කැඞී ඇත.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-08 12:25:39</date>
+            <index>0</index>
+            <phrase>මේ නිසා ඇති වූ අලාභය පියවීමට ටෙලිෆෝන් බිල් වැඩි නොකෙරේවායි පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.එම්.එස්.</author>
+            <date>2012-05-08 12:41:40</date>
+            <index>1</index>
+            <phrase>චන්ඩ මාරුතයට මේ ගේ විනාශ වෙලා තියෙන විදිය ගැන මට ඇත්තටම දුකයි. දැන් කවුද මේ අයට පිහිටක් වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-08 23:19:05</date>
+            <index>2</index>
+            <phrase>චන්ඩ මාරුතයේ තරම. මෙ මනුෂ්‍යයාටනමි ඇත්තෙන්ම ගෙයක් හදලා දියයුතුයි. ලංකාව වැනි සංවර්ධනය වන ර‍ටක් තුළ මෙවැනි ගෙවල් තියෙනවාය කියල ලෝකයට පෙන්වන්න එපා. ඒ මිනිස්සු හිනා වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

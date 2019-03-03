@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451154</articleId>
+    <title>ආනන්දේ මුල් පුටුව කීර්තිරත්නට</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 අගෝස්තු මස 26 10:43:30</date>
+    <body>කොළඹ ආනන්ද විදුහලේ නව විදුහල්පති ලෙස සරත් කීර්තිරත්න මහතා අද (26) වැඩ ඇරඹීය.
+ඔහු මහනුවර ධර්මරාජ විදුහලේ හිටපු විදුහල්පතිවරයාය.
+ආනන්ද විදුහලේ හිටපු විදුහල්පති ගාල්ල අධ්‍යාපන කාර්යාලයට මාරු කිරීමත් සමග ඇතිවූ පුරප්පාඩුව සඳහා ඔහු පත්කරනු ලැබීය.
+හිටපු විදුහල්පති කිත්සිරි ලියනගමගේ, ආදි ශිෂ්‍ය සංගමයේ සාමාජික පිරිසක්ද, විදුහලේ ගුරුවරු පිරිසක්ද තවත් ආරාධිතයෝ රැසක්ද කීර්තිරත්න මහතා වැඩ භාරගැනීමේ අවස්ථාවට එක්ව සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-08-26 10:19:32</date>
+            <index>0</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-27 03:34:40</date>
+            <index>1</index>
+            <phrase>අතිදක්ෂ නිලධාරියකුගේ සේවය නැවත ලැබීම ගැන අධ්‍යාපන සේවකයන් දැඩි සතුටකින් ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-08-27 06:40:25</date>
+            <index>2</index>
+            <phrase>ජයග්‍රාහී තුන්වැනියා.. ඉස්සෙල්ල දෙන්නටම යන්න වුනේ මාටියා ගහපු නිසා නේද .. ඔබට සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

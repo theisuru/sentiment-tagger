@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45989</articleId>
+    <title>ලංකාදීප පොසොන් සදහම් සිතුවිලි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 01 23:59:51</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ගයාන් චාමර</author>
+            <date>2012-06-05 15:17:30</date>
+            <index>0</index>
+            <phrase>සුභ පැතුම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

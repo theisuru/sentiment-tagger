@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456931</articleId>
+    <title>කොකේන් කිලෝ තුනක් සමග බොලිවියා කතක් දැලේ</title>
+    <author>දීපාල් ද සිල්වා ටීකේජීකපිල</author>
+    <date>2016 සැප්තැම්බර් මස 12 20:42:13</date>
+    <body>කොකේන් කිලෝ ග්‍රෑම් 3කට ආසන්න ප්‍රමාණයක් සමග ඉන්දියාවේ සිට පැමිණි බොලිවියා ජාතික කාන්තාවක්  කටුනායක ගුවන්තොටුපළේදි අත්අඩංගුවට ගත් බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2016-09-12 16:54:56</date>
+            <index>0</index>
+            <phrase>දැන් ආයේ කුඩු ලංකාවට එනවා වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාමා</author>
+            <date>2016-09-12 22:43:46</date>
+            <index>1</index>
+            <phrase>ඉස්සර වගේ ලොකු ලොක්කෝ කුඩු ගෙනෙන්නේ නැති නිසා මේ වගේ ක්‍රම වලින් තමා දැන් එන්නේ. ඉස්සර කුඩු අාවේ වී.අයි.පී. මාර්ග හරහානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-09-13 02:41:35</date>
+            <index>2</index>
+            <phrase>හැම දහජරාවක්ම එන්නේ මේ ඉන්දියාවෙන්නේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-09-13 03:04:44</date>
+            <index>3</index>
+            <phrase>සාමා හරියට දැක්කා වගෙයිනේ කතාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-09-13 03:15:07</date>
+            <index>4</index>
+            <phrase>දැනුත් කුඩු ගෙනෙන්නේ ලොක්කන්ගේ අනුග්‍රහය ඇතුව නෙමෙයි කියලා කාටහරි ඔප්පුකරන්න පුලුවන්ද? නැත්නම් බය නැතුව ඔය විදියට ගෙනෙන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-13 03:50:54</date>
+            <index>5</index>
+            <phrase>ලොක්කො ගෙනාවත් පොඩ්ඩො ගෙනාවත් කුඩු කුඩුමයි. ඇයි මේවා නවත්වන්න බැරි. මේක මැතිවරණ පොරොන්දුවක් නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>106031</articleId>
+    <title>බසයේ ගිය කතට අතවර</title>
+    <author>අශේන් සේනාරත්න</author>
+    <date>2013 අපේ‍්‍රල් මස 01 11:58:46</date>
+    <body>විදේශික යුවළකට බ්‍රසීලයේ රියෝ ද ජනෙයිරෝ නුවර දී බිහිසුණු අත්දැකීමකට මුහුණ පෑමට සිදු විය.
+එම යුවළ බසයක ගමන් කරමින් සිටියදී බසයට කඩා වැදුන දෙදෙනෙක් එහි සිටි විදේශික කාන්තාව කෙළෙසූහ. ඇගේ සැමියාට ද දරුණු ලෙස පහර දුන්නේය.
+ඔවුන් රෝහල් ගත කළ අතර සැකපිට දෙදෙනෙක් අත්අඩංගුවට ගනු ලැබූහ.
+තුන්වැනි  පාර්ශවයක් මීට හවුල්දැයි රියෝ ද ජනෙයිරෝ පොලීසිය පරීක්ෂණ පවත්වයි.
+ලබන වසරේ පාපන්දු ලෝක කුසලානයත් , 2016 ඔලිම්පික් තරගාවලියත් පැවැත්වීමට සියලු කටයුතු සැකසෙමින් තිබෙන සමයක මෙවැනි සිදුවීම් සංචාරක කර්මාන්තයට රතු ඉරක් බව විද්වත්හූ කියති.</body>
+    <comments>
+        <comment>
+            <author>ජානක</author>
+            <date>2013-04-01 12:09:07</date>
+            <index>0</index>
+            <phrase>එහෙ පරික්ෂන කරනවළු. මෙහෙ පරික්ෂන කරලා නිදහසුත් කරලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2013-04-01 14:50:51</date>
+            <index>1</index>
+            <phrase>මේක සංචාරක කර්මාන්තය නැති කරන්න කල සැලසුම් සහගත වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලීල් ගුණවර්ධන</author>
+            <date>2013-04-01 19:08:53</date>
+            <index>2</index>
+            <phrase>මේ වගේ සිද්ධීන් දිනපතා වගේ ලංකාවේ සිදුවෙනවා. අන්න ඒවට දැඩි ක්‍රියාමාර්ගයක් ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-02 00:32:50</date>
+            <index>3</index>
+            <phrase>මොන පිස්සුද? අපේ ලංකාවෙ මෙහෙම දේවල් වෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

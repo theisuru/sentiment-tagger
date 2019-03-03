@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>477206</articleId>
+    <title>තෙල් දුම්රියක් බලපිටියේදී පීලි පනියි</title>
+    <author>දීපාල්ද සිල්වාසුසිල් ප්‍රියන්තකමල් ශ්‍රි ලියනගේ</author>
+    <date>2016 නොවැම්බර් මස 08 06:15:54</date>
+    <body>බලපිටිය ආඳාදොළ සහ පාතමුල්ල දුම්රිය ස්ථාන අතර දී තෙල් දුම්රියක් අද(8) අලුයම 2:30ට පමණ පීලි පැන ඇතැයි දුම්රිය දෙපාර්තමේන්තුව කියයි.
+මේ වනවිට දුම්රිය ගමනාගමනය බලපිටියට පමණක් සීමා වී ඇත.
+  
+ජායාරූප - දිපාල් ද සිල්වා</body>
+    <comments>
+        <comment>
+            <author>අශිකා</author>
+            <date>2016-11-08 09:47:18</date>
+            <index>0</index>
+            <phrase>අපි නම් අහලා තියෙන්නේ පොඩි ත්‍රීවිල් එකක් පෙරලුනත් බලපිටියේ අය පිහි මන්නා උස්සගෙනයි එන්නේ කියලා. කෝ මෙතන එහෙම එකක් පේන්නවත් නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-11-10 00:28:30</date>
+            <index>1</index>
+            <phrase>මාත් එහෙම කතාවක් අහලා තියෙනවා අශිකා. ඒත් දැන් මිනිස්සු දියුණුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>88862</articleId>
+    <title>අග විනිසුරුට කැලණියේ බෝධි පූජාවක්</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2012 දෙසැම්බර් මස 28 21:14:51</date>
+    <body>අග විනිසුරු ශිරාණි බණ්ඩාරනායක මහත්මිය අද (28) පස්වරුවේ කැලණිය රජමහා විහාරයට ගොස් බෝධි පූජාවකට සහභාගී වූවාය.
+මහනුවර දිස්ත්‍රික් ශාසනා රක්ෂක බලමණ්ඩලයේ සභාපති බලගොල්ල බෞද්ධ මධ්‍යස්ථානාධිපති තල්පොත ධම්ම ජෝති හිමියන් මෙහෙය වූ මෙම බෝධි පූජා පිංකම නීතිඥ එකමුතුව සංවිධානය කළේය.</body>
+    <comments>
+        <comment>
+            <author>මාලක</author>
+            <date>2012-12-28 21:39:27</date>
+            <index>0</index>
+            <phrase>මෙතන පළාත් ඇමති නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-12-28 22:09:07</date>
+            <index>1</index>
+            <phrase>ඔබතුමියට ජය වේවා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-12-28 22:13:26</date>
+            <index>2</index>
+            <phrase>බුදුසරණයි.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-12-28 22:24:26</date>
+            <index>3</index>
+            <phrase>ඔබතුමියට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-12-28 22:32:43</date>
+            <index>4</index>
+            <phrase>මැතිණියනි, රටේ තත්ත්වය දැන් එතරම් යහපත් නැත. ප්‍රවේශම් වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුල්</author>
+            <date>2012-12-28 22:28:56</date>
+            <index>5</index>
+            <phrase>ගෝල්ඩන් කී සල්ලි දාපු අයට බෝධිපූජා තියන්න ඉන්නෙ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජස්මිං ඩැනියෙල්</author>
+            <date>2012-12-28 22:33:46</date>
+            <index>6</index>
+            <phrase>මෙයත් දැං රට වටේ යන්න පටන් අරං වගේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-28 22:37:18</date>
+            <index>7</index>
+            <phrase>මෙතුමියට අපේ රට බේරාගැනීමට හැකියාව ලැබේවා, දෙවියනි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-28 22:36:32</date>
+            <index>8</index>
+            <phrase>මට හොරෙන් කවුද බෝධිපූජා තියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2012-12-28 23:10:03</date>
+            <index>9</index>
+            <phrase>ඔබ අවංක නම් ‍බය වීමට දෙයක් නැත.. දැන මාන දීම ඉතා හොද දෙයක්.. මේ වගේ දෙයක් උනාම තමයි හැමෝටම පන්සල් පල්ලි යන්න මතක් වෙන්නෙ.. පන්සිල් පද පහේ තේරුම දන්නවානම් එය මනුෂ්‍ය ජීවිතය රුක ගැනීමට රුකුලක් වෙනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එච්.සී.පී පෙරේරා</author>
+            <date>2012-12-28 23:37:29</date>
+            <index>10</index>
+            <phrase>ඔබ තුමියටත් රටේ ජනතාවටත් දෙවි පිහිටයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර ‍රෝමය</author>
+            <date>2012-12-28 23:43:18</date>
+            <index>11</index>
+            <phrase>ඔබට ජය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් සෞදි</author>
+            <date>2012-12-29 00:07:12</date>
+            <index>12</index>
+            <phrase>ඔබතුමිය ප්‍රවේශම් වන්න.. ත්‍රිවිධ රත්නයේ ආශිර්වාදය ඔබට ලැබේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි එම්.</author>
+            <date>2012-12-29 00:21:16</date>
+            <index>13</index>
+            <phrase>මේකෙ මට දෙපැත්තක් පේනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් කුමාර</author>
+            <date>2012-12-29 00:40:32</date>
+            <index>14</index>
+            <phrase>රටේ අනාගතය ගැන දුක හිතෙනවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දික</author>
+            <date>2012-12-29 00:51:44</date>
+            <index>15</index>
+            <phrase>ඔබ වැනි කාන්තාවක් අපිට ආඩම්බරයක් ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-12-29 00:59:11</date>
+            <index>16</index>
+            <phrase>ඔබට ජය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසල්</author>
+            <date>2012-12-29 01:05:26</date>
+            <index>17</index>
+            <phrase>2012 වසරේ හොදම රංගනයට නිර්දේශිත නාමයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-29 02:16:22</date>
+            <index>18</index>
+            <phrase>ත්‍රිවිධ රත්නයේ පිහිටයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2012-12-29 02:38:18</date>
+            <index>19</index>
+            <phrase>බුදුන් වැන්දට මදි තමන් නිවැරදි කියලා ඔප්පු කරන්න ඕන.. මොකද මේකත් ඉඩම් නඩුවක් කියලා හිතන්න එපා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-12-29 03:08:52</date>
+            <index>20</index>
+            <phrase>ඔවු ඔවු බණ්ඩාර, දැන් නම් තත්ත්වය හොදම නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා-සිඩ්නි</author>
+            <date>2012-12-29 05:24:07</date>
+            <index>21</index>
+            <phrase>දෙවියන් බුදුන්ටම පෙනිච්චාවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.එස්.කැටවල</author>
+            <date>2012-12-29 05:48:12</date>
+            <index>22</index>
+            <phrase>ජය ලබා ගැනීමට හැකි වේවායි අපිත් පතන්නෙමු...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-12-29 06:31:05</date>
+            <index>23</index>
+            <phrase>කලියුගයේ බෝ ගස්වලට වඩා අරලියගස් බලවත්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-12-29 06:42:11</date>
+            <index>24</index>
+            <phrase>මේ සියල්ල ඉතාම වැදගත් දේවල්.. ඒත් කණගාටුවට කරුණ නම් අපේ බොහොමක් බෞද්ධ ඇත්තෙ සම්මා සම්බුදු රජාණන්වහන්සේට වන්දනා කරන ආකාරය (දොහොත් මුදුන් දී) දන්නෙ නැති කමයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයානන්ද</author>
+            <date>2012-12-29 07:16:35</date>
+            <index>25</index>
+            <phrase>ඔබ තුමිය අපට නම් වීරයෙකි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-29 07:38:34</date>
+            <index>26</index>
+            <phrase>ඔබතුමියට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.ප්‍රනාන්දු</author>
+            <date>2012-12-29 07:56:35</date>
+            <index>27</index>
+            <phrase>විහාරමහා දේවියනි, ඔබට ත්‍රිවිධ රත්නයේ පිහිටයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2012-12-29 07:52:55</date>
+            <index>28</index>
+            <phrase>බුදු දහමට ගරු කරන එක උතුම් දෙයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ධ්‍යා</author>
+            <date>2012-12-29 08:42:14</date>
+            <index>29</index>
+            <phrase>ඔබතුමියට කැළණි විහාරයේ විභීෂණ දෙවි පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-12-29 08:54:01</date>
+            <index>30</index>
+            <phrase>තමන්ගේ රටේ නීතියේ ආධිපත්‍යය විනාශ වෙමින් යද්දී සතුටු වෙන මිනිසුන් ඇත්තේ ලංකාවේ පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-12-29 08:57:41</date>
+            <index>31</index>
+            <phrase>නොබියව රට වෙනුවෙන් නැගීසිටින ඔබ අපට ශක්තියකි. ඔබට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-12-29 09:02:21</date>
+            <index>32</index>
+            <phrase>විහාරමහා දේවියනි, ඔබට ත්‍රිවිධ රත්නයේ පිහිටයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2012-12-29 09:03:51</date>
+            <index>33</index>
+            <phrase>හැම සාක්ෂියකටම වඩා බලවත් වන්නේ තමන්ගේ හෑද සාක්ෂියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්‍රම</author>
+            <date>2012-12-29 09:13:45</date>
+            <index>34</index>
+            <phrase>බුදුන් වැදීමට කිසිවෙකුටවත් සීමාවන් නැත.බුද්ධ දර්ශනය යනු නිර්මල නිදහස් දර්ශනයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මරක්න</author>
+            <date>2012-12-29 09:51:34</date>
+            <index>35</index>
+            <phrase>තමන් ගැන පොඩි හෝ අවිස්වාසයක් රටට තියෙනවානම් ඉවත්ව යෑම වැදගත්. මෙන්ම නම්බුකාරකම.. නැත්නම් කරදර වෙන්න වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසීන්</author>
+            <date>2012-12-29 10:08:58</date>
+            <index>36</index>
+            <phrase>ඔබට සියලු දෙවිදේවතාවුන්ගේ පිහිට ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2012-12-29 10:25:32</date>
+            <index>37</index>
+            <phrase>ඕනෑම කෙනෙකුට තමන් අදහන ආගම හෝ දෙචියන් මතකයට එන්නේ තමන්ට විපතක් උන විටයි.. නැත්නම් ඔය කිසිම කෙනෙක් ඕන වෙන්නෙ නැති විදයටයි ඉන්නෙ... මේක හැම කෙනාම කරන දෙයක්. ඒ විතරක් නෙමෙයි සමහර අයට දෙමව්පියනුත් අමතක වෙනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2012-12-29 10:23:31</date>
+            <index>38</index>
+            <phrase>අපි කරන හොද හෝ නරක වල ප්‍රතිඵල අපි පසු පස එනවා. ඒකයි බුද්ධ ධර්මයේ සදහන් වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-12-29 10:44:15</date>
+            <index>39</index>
+            <phrase>ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2012-12-29 10:48:41</date>
+            <index>40</index>
+            <phrase>මීට පෙර අපී මේවා නොදුටුවෙමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-12-29 11:09:53</date>
+            <index>41</index>
+            <phrase>ප්‍රශ්ණ ඇතිවුන හැම කෙනෙක්ම යනවා පන්සල්.. ලොකු හාමුදුරුවරු බැහැ දකින්න. එතකොට පන්සල් මතක් වෙනවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සියාතු</author>
+            <date>2012-12-29 11:22:18</date>
+            <index>42</index>
+            <phrase>කාගෙවත් කියන දේවල් අහන්න එපා මැතිණියනි.. ඔබ ඔබේ ගමන යන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් මීගමුව</author>
+            <date>2012-12-29 11:38:41</date>
+            <index>43</index>
+            <phrase>ඉල්ලා අස්වෙන්න කියපු අය කෝ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-12-29 12:25:13</date>
+            <index>44</index>
+            <phrase>මීළග දර්ශණය 2013.01.03 පෙ.ව. 10.30ට..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-12-29 12:35:02</date>
+            <index>45</index>
+            <phrase>ඔබ තුමියට "බුදු සරණයි ".</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-12-29 12:37:29</date>
+            <index>46</index>
+            <phrase>නොදන්නා දෙවියන්ට වඩා ආත්මවිස්වාශය ඔබට ආශීර්වාදයක් වෙනු ඇති කියා මම හිතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෝධිපාල</author>
+            <date>2012-12-29 12:52:08</date>
+            <index>47</index>
+            <phrase>ලංකාවෙ ඕනෑම කෙනෙකුට පන්සල් මතක්වෙන්න මොකක් හරි කරදරයක් වෙන්නම ඕන.. නැත්නම් ඡන්දයක්වත් ලග එන්න ඕන..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-12-29 13:02:06</date>
+            <index>48</index>
+            <phrase>බලන්න කීයෙන් කීදෙනයිද කියලා නියම විදියට දොහොත් මුදුන් දීලා වැදගෙන ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-12-29 13:13:55</date>
+            <index>49</index>
+            <phrase>පරක්කු වී හෝ කල දේ හොඳයි. ජය වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලාල්</author>
+            <date>2012-12-29 13:14:48</date>
+            <index>50</index>
+            <phrase>මහත්වරුන් රජයපු අගවිනිසුරු ධුරයට ගිය කලක්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්.ඒ.ප්‍රභාත්</author>
+            <date>2012-12-29 13:25:15</date>
+            <index>51</index>
+            <phrase>හරියට වැඩ කරලා තියෙනවානම් මොකටද බෝධි පූජා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා</author>
+            <date>2012-12-29 13:27:26</date>
+            <index>52</index>
+            <phrase>මැතිණියනි.. ඔබ සටන් කර නිවැරදි බව පෙන්වන්න.. ඔබට සියළු දෙවි පිහිටයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-12-29 13:46:03</date>
+            <index>53</index>
+            <phrase>දේශපාලනයේ ඇති නොයෙකුත් ආකාරයේ ගැට වලට නම් හසුනොවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-12-29 14:13:52</date>
+            <index>54</index>
+            <phrase>ඔබතුමියට ත්‍රිවිධ රත්නයේ පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-12-29 14:11:17</date>
+            <index>55</index>
+            <phrase>ආත්ම විශ්වාසය තියෙනවානම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-12-29 14:18:11</date>
+            <index>56</index>
+            <phrase>හරියට නීතිය ක්‍රියාවට නොනැගුණු නිසා මේ ක්‍රමෙන්වත් ජයගුහණයක් ලබන්නට බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා සිඩ්නි</author>
+            <date>2012-12-29 14:40:10</date>
+            <index>57</index>
+            <phrase>බුදුපිළිම වහන්සේට ඉස්සරහට ගිහිං වදින්නෙ නැත්තේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2012-12-29 14:39:56</date>
+            <index>58</index>
+            <phrase>මට සියලු දේ අහිමි කළත් අවසානයේදී ජනතාවට යමක්‌ ඉතුරු වේවි.-අගවිනිසුරු ශිරාණි බණ්‌ඩාරනායක මහත්මිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා-සිඩ්නි</author>
+            <date>2012-12-29 19:04:31</date>
+            <index>59</index>
+            <phrase>හරිම උදාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වි</author>
+            <date>2012-12-29 20:55:03</date>
+            <index>60</index>
+            <phrase>ඔබතුමියට අල්ලා දෙවි පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල්</author>
+            <date>2012-12-29 21:37:41</date>
+            <index>61</index>
+            <phrase>ප්‍රථමයෙන්ම කළ යුත්තේ තමන්ගේ නිර්දෝෂීභාවය ඔප්පු කිරීම නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා</author>
+            <date>2012-12-30 00:34:31</date>
+            <index>62</index>
+            <phrase>නීතියේ ඉහළම තැනත් සාධාරණය ඉල්ලන්නෙ බෝධියෙන් නම් අපි ගැන කවර කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-12-30 01:35:48</date>
+            <index>63</index>
+            <phrase>වටිනා වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-12-30 03:42:16</date>
+            <index>64</index>
+            <phrase>වැරදි කළ අයට ස්වභාව ධර්මයෙන් හෝ දඩුවම් ලැබේවි. ඔබගේ ගමන ඔබ ඉදිරියටම යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනාධීර</author>
+            <date>2012-12-30 11:17:50</date>
+            <index>65</index>
+            <phrase>මේ අදහස් දමන චන්ද්‍රා-සිඩ්නිට පිස්සුද? නැත්නම් බලන අපට පිස්සුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-12-31 06:38:10</date>
+            <index>66</index>
+            <phrase>උපන්දා සිට කරපු පවු නැත වරක් වැන්දොත් කැළණියේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

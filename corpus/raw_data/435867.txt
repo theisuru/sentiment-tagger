@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>435867</articleId>
+    <title>‘අසපුවට හිමිවරුන්ට හානියක් නෑ‘</title>
+    <author>සමන් පාලිත නානායක්කාර පාලිත ආරියවංශ</author>
+    <date>2016 ජූලි මස 11 09:10:29</date>
+    <body>බණ්ඩාරවෙල කුඹල්වෙල මහමෙව්නාව භාවනා අසපුව අසල කැලයට ඇවිලුණු ගින්න හේතුවෙන් භාවනා අසපුවේ කුටිවලට හානියක් සිදුව නැතැයි පොලිසිය කියයි.
+එම ගින්නෙන් අක්කර 300ක් පමණ විනාශවී ගිය බව ඇල්ල පොලිසිය පවසයි.
+පැය 12ක් පමණ පැවැති ගින්න අද (11) උදෑසන වනවිට මැඩ පවැත්වූ බව කියති.
+
+ඡායාරූප - පාලිත ආරියවංශ
+ </body>
+    <comments>
+        <comment>
+            <author>දයානි</author>
+            <date>2016-07-11 04:10:43</date>
+            <index>0</index>
+            <phrase>සාධු සාධු සාධු!!! සියලු දෙවියෝ ආරක්ෂා කරත්වා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැටිපහන</author>
+            <date>2016-07-11 04:41:58</date>
+            <index>1</index>
+            <phrase>ඒ කුටි වලට හානියක් නැත්නම් අපිට ඒ හොඳටම ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2016-07-11 04:50:55</date>
+            <index>2</index>
+            <phrase>සාධු! සාධු! සාධු! ඇසීමත් බොහෝ සතුටක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-07-11 06:08:10</date>
+            <index>3</index>
+            <phrase>මේ විනාශයන් කරන අයව පොලිසිය ඉක්මනටම අල්ලාගත්තොත් හොඳයි. මේ සිදුවීම් මේ පළාත් වල කාලයක් තිස්සේ ඉඳලා වෙනවා නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-07-11 06:10:48</date>
+            <index>4</index>
+            <phrase>කිසිවෙකුට කරදරයක් නොවීම ගැන සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-07-11 06:39:26</date>
+            <index>5</index>
+            <phrase>බුදු බණ සැමදා සත්‍යයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුපුල්</author>
+            <date>2016-07-11 06:54:25</date>
+            <index>6</index>
+            <phrase>නමෝ බුද්ධාය .සියලු සත්වයෝ සුවපත් වෙත්වා............... තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-07-11 08:50:49</date>
+            <index>7</index>
+            <phrase>නමෝ බුද්ධාය, දහම රකින තැන සොබා දහම රකිනු ඇත.. සියලු සත්වයෝ සුවපත් වෙත්ව...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-07-11 16:19:10</date>
+            <index>8</index>
+            <phrase>අනාගතේ තවත් නාය යන පරිසරයකට මුල පිරීමක් මේක එ්නිසා කවුරුත් සුදානමෙන් හිටියොත් හොඳයි වැසි කාලයේදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

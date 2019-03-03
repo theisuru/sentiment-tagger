@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450199</articleId>
+    <title>අපේක්ෂිත ඇප අයැදුම්පත විභාගයට : රහස් පොලිසියට නොතීසි</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 අගෝස්තු මස 23 11:11:10</date>
+    <body>රගර් ක්‍රීඩක වසීම් තාජුදීන්ගේ   සිරුරේ කොටස් අස්ථාන ගතවීම සම්බන්ධයෙන් තමා අත්අඩංගුවට ගැනීමේ සූදානමක් ඇති බැවින් එය වළක්වන්නැයි මුල් පශ්චාත් මරණ පරීක්ෂණය පැවැත්වූ මාහාචාර්ය ආනන්ද සමරසේකරගේ පෙත්සම ලබන 30 වැනි දා විභාගයට ගැනීමට නියමිතය.
+මාලබේ පෞද්ගලික වෛද්‍ය විද්‍යාලයයේ උපකුලපති ද වන සමරසේකරගේ අපේක්ෂිත ඇප ඇයදුම් පෙත්සමේ වගඋත්තරකරුවන් වන    රහස් පොලිසියේ මිනීමරුම් අංශයේ ස්ථානාධිපති ඇතුළු පිරිසකට නොතීසි නිකුත් කරන ලෙස ද අතිරේක මහේස්ත්‍රාත් අරුණි ආටිගල මහත්මිය නියෝග කළාය.
+ </body>
+    <comments>
+        <comment>
+            <author>මංගල වේලාරත්න</author>
+            <date>2016-08-23 06:19:17</date>
+            <index>0</index>
+            <phrase>වරදක් නැතුව ප්‍රශ්න කරන්නේ නැහැ නේද? සමහර අය බය මොකද දන්නේ නැහැ. හොරාට කලින් කෙසෙල් කැන වැට පනිනවා කියනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2016-08-23 07:51:02</date>
+            <index>1</index>
+            <phrase>සයිටම් සබැඳියාව හැඳුනුම්කමේ දිග පළල පෙන්වනවනේ! අස්ථානගත වූවා නම් එයටත් කරුණු ඇතිනේ. ඒ ටික ආයේ වෙන කාගෙන් අහන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකී</author>
+            <date>2016-08-23 11:02:04</date>
+            <index>2</index>
+            <phrase>අනේ මන්දා මේවට මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-08-23 11:07:31</date>
+            <index>3</index>
+            <phrase>රටේ වෙනසක් කවදා ඇතිවේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-23 11:14:31</date>
+            <index>4</index>
+            <phrase>තමන් වැරැද්දක් කලේ නැත්නං, මොනවට බයවෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-08-23 20:07:50</date>
+            <index>5</index>
+            <phrase>කවුරු වුණත් වරදක් කළා නම් දඬුවම් විඳින්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-08-24 07:17:22</date>
+            <index>6</index>
+            <phrase>දැන්වත් රටට වැඩක් කළානම් මොකද වෙනනෙ? රට එතනමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

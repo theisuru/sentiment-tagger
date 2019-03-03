@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17123</articleId>
+    <title>රට රැකියා ඒජන්සියට තරු ලකුණු</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 12 14:09:53</date>
+    <body>හෝටල්වලට තරු ලකුණ දෙන ආකාරයෙන් විදේශ රැකියා ඒජන්සිවලට ද තරු ලකුණු අනුව වර්ග කරන බව ඇමැති ඩිලාන් පෙරේරා මහතා පාර්ලිමේන්තුවේදී පැවැසීය.
+වැරදි කරන පාපන්දු ක්‍රීඩකයනට කහ සහ රතු කාඩ් නිකුත් කරන අයුරින් විදේශ රැකියා ඒජන්සිවලටද එවැනි කාඩ් හඳුන්වා දී චෝදනා දෙකක් දක්වා කහ කාඩ්පත් දෙකක් පෙන්වා තුන්වැනි වරදට රතු කාඩ්පත දී ලියාපදිංචිය අවලංගු කරන බව ද ඇමැති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>චමින්ද - සෞදි අරාබියේ සිට</author>
+            <date>2011-12-12 14:55:14</date>
+            <index>0</index>
+            <phrase>මොන තරු දුන්නත් පිට රට එන අහංසක මිනිස්සු මූන දෙන කරදර ගැන එජන්සී කතා කරන්නේ නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ඒ. සංජීව</author>
+            <date>2011-12-12 16:19:42</date>
+            <index>1</index>
+            <phrase>වැඩේ ගොඩාක් හොදයි. නමුත් අපේ රටේ තියෙන ඒජන්සි තනිකර කරන්නේ බොරුනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි (kuwait)</author>
+            <date>2011-12-12 15:57:42</date>
+            <index>2</index>
+            <phrase>රට රැකියාවලට එන අහිංසක මිනිසුන්ට තරු පෙනිලා ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සවුදි</author>
+            <date>2011-12-12 16:47:59</date>
+            <index>3</index>
+            <phrase>කෙලින්ම රෙඩ් කාඩ් දුන්න නම් ගොඩාක් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක (sharjah)</author>
+            <date>2011-12-12 17:16:04</date>
+            <index>4</index>
+            <phrase>ඒජන්සි කරන්නෙ අපිව විකුණන එක. අපි මෙහෙ ඇවිත් වහලු වගේ වැඩ. වැඩකරන මිනිසුන්ටයි තරු දෙන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2011-12-12 17:45:08</date>
+            <index>5</index>
+            <phrase>රට ඉදලා සල්ලි එවන අයටත් කාඩ් එකක් දෙන්න හදන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් maldives</author>
+            <date>2011-12-12 18:02:34</date>
+            <index>6</index>
+            <phrase>මොන තරු දුන්නත් ඒජන්සී අහිංසක මිනිසුන්ට තරු පෙන්වනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දිකා</author>
+            <date>2011-12-12 18:51:12</date>
+            <index>7</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක(Saudi)</author>
+            <date>2011-12-12 19:46:20</date>
+            <index>8</index>
+            <phrase>ඔය දෙගොල්ලොම එකයි. මෙහෙ ඉන්න මිනිස්සු විදින දුක දන්නෙ අපියි උඩ ඉන්න දෙවියොයි විතරයි. රට ඉදලා රන අපේ අයට ඩියුටි ෆ්‍රී එකෙත් කරන්නෙ බොරුව. ඩියුටි ෆ්‍රී එකට වඩා එලිය ගාන අඩුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

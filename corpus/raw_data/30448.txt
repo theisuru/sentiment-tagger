@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30448</articleId>
+    <title>සාමය බාල්දු කරයි</title>
+    <author>විජිත කුමාරසිරි  සජීව විජේවීර</author>
+    <date>2012 මාර්තු මස 09 09:01:57</date>
+    <body>යාපනය  චාවකච්චේරියේ  මුරුගන් කෝවිලේ රාජකාරී යෙදි සිටි  හමුදා සෙබළුන් තිදෙනකු අද අලුයම වෙඩි වැදී මිය ගොස් සිටි බව  යුද හමුදා මාධය ප්‍රකාශක බ්‍රිෙග්ඩියර් නිහාල් හපුආරච්චි කියයි
+සෙබළකු අනෙක් දෙදෙනාට වෙඩි තබා ඔහු ද වෙඩි තබා ගත්තේදැයි සැක පහළ වි තිබේ</body>
+    <comments>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-03-09 09:13:34</date>
+            <index>0</index>
+            <phrase>මේ සිදුවීම හොද දෙයක් නෙමෙයි. හොද කල්පනාවෙන් බලන්න ඕන මේක දිහා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ඩාර</author>
+            <date>2012-03-09 09:39:34</date>
+            <index>1</index>
+            <phrase>මට හිතෙන විදියට අතීතයේ සිදුවීම් ගැන සලකා බැලීමේදී අනාගත ත්‍රස්තවාදයක පෙරනිමිතිද දන්නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-03-09 09:46:57</date>
+            <index>2</index>
+            <phrase>රට ඉදන් අපු අය තමයි ඔහොම කරන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාරියවසම්</author>
+            <date>2012-03-09 14:58:26</date>
+            <index>3</index>
+            <phrase>කෝ සාමය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටශ්නි</author>
+            <date>2012-03-09 15:09:29</date>
+            <index>4</index>
+            <phrase>සමහර විට මේක හිතන තරම් ලොකු සිදු වීමක් නොවෙන්න පුලුවන් එත් අපි විමසිලිමත් වීම ඇගට ගුණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

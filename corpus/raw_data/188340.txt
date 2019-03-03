@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>188340</articleId>
+    <title>හෙලිකොප්ටරය කැඩේ : මින්නේරි යන්න බැරිවේ</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2013 නොවැම්බර් මස 24 19:00:30</date>
+    <body>ගුවන් හමුදාවේ හෙලිකොප්ටරයක් අනුරාධපුර ථූපාරාමය අසළ ක්‍රීඩා පිටියේ දී දැන් අලුත්වැඩියා කරගෙන යයි.
+පොළොන්නරුව බලා පිටත් වීමට නියමිත වූ මෙම හෙලිකොප්ටරය කාර්මික දෝෂයක් නිසා ගුවන් ගත කළ නොහැකි වූ බව ගුවන් හමුදා ආරංචි කියයි.
+මහින්ද රාජපක්ෂ ජනපති අද සවස එම ක්‍රීඩා පිටියේ සිට පොළොන්නරුව බලා ගුවනින් පිටත්ව ගියේය.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>මිගිද</author>
+            <date>2013-11-24 19:31:51</date>
+            <index>0</index>
+            <phrase>කවුද මේකේ ගියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙදමහත්තයා</author>
+            <date>2013-11-24 20:33:28</date>
+            <index>1</index>
+            <phrase>මේවා වලින්ද චෝගම් ආපු වී අයි පි කට්ටිය ගමන් කලේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-11-24 21:41:38</date>
+            <index>2</index>
+            <phrase>දැන්නම් මේවායේ කාලේ හරි. දක්ෂ නියමුවෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්තිල්</author>
+            <date>2013-11-24 22:30:12</date>
+            <index>3</index>
+            <phrase>වෙලාව තමයි ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්තිනාතන්</author>
+            <date>2013-11-24 22:30:13</date>
+            <index>4</index>
+            <phrase>යන්න ඕන එකා මිස්වූනානේ,අපරාදේ,ඔක්කොම වෙලාව තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝසල</author>
+            <date>2013-11-24 22:37:11</date>
+            <index>5</index>
+            <phrase>අපරාදේ කඩන් නොවටුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මායා</author>
+            <date>2013-11-25 01:01:29</date>
+            <index>6</index>
+            <phrase>දෙවි පිහිටයි. කාටවත් මොකුත් වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-11-25 03:27:07</date>
+            <index>7</index>
+            <phrase>කෝසලලා ගැන නම් කතාකරලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2013-11-25 04:29:58</date>
+            <index>8</index>
+            <phrase>මේ සෑම එන්ජිමක්ම වැඩ කරන්නේ "නට් ඇන්ඩ් බෝල්ට්" වලින්. අමතක කරන්ට එපා යකඩ ගැන විශ්වාස කරන්ට එපා කියන එක. වරදින එක වෙන්නේ අපි නොහිතපු වෙලාවක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිබිරිස්</author>
+            <date>2013-11-25 07:29:16</date>
+            <index>9</index>
+            <phrase>සෙන්තිල්,අනේ මගේ කට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-11-25 08:33:57</date>
+            <index>10</index>
+            <phrase>අපේ ගුවන් නියමු සොහොයුරන්ගේ වටිනා ජීවිත බේරා දීම ගැන දෙවියන්ට පින්සිදු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2013-11-25 09:04:16</date>
+            <index>11</index>
+            <phrase>මේවා යන්ත්‍ර. ඉතින් පෙර දැනුම්දීමක් නැතුව කැඩෙනවා. ඉතින් මොනවා කරන්නද? කෙනෙකුට අනතුරක් නොවුවා නම් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2013-11-25 09:10:23</date>
+            <index>12</index>
+            <phrase>කඩා වැටුණා නම් කාටවත් පාඩුවක් නැහැ, එහි ගිය අයගේ අහිංසක අඹු දරුවන්ට හැරෙන්නට. එයාලා අනාථ වෙනවා. එහෙම වෙනවට කැමති මිනිස්සුත් අප අතර ඉන්නවා. හක්කේ බුදුරැස් බොක්කේ දඩමස් කියන්නේ ඕකට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2013-11-25 09:13:05</date>
+            <index>13</index>
+            <phrase>යන්න ඕනෑ අය ගියා. දැන් ඉන්නේ ඉන්න ඕනෑ අය. ඔවුන් නැත්නම් අපි ගිහින් ගොඩක් කල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-11-25 09:38:40</date>
+            <index>14</index>
+            <phrase>කෝසල, ඔබ ලංකාවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2013-11-25 10:22:53</date>
+            <index>15</index>
+            <phrase>කාටවත් අනතුරක් නොවී බේරුණු එක හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර</author>
+            <date>2013-11-25 10:52:22</date>
+            <index>16</index>
+            <phrase>කෝසල ,ඔබ බොහෝ දෙනෙකුගේ කෝපයට පාත්‍ර වුණා. ඔබ සිංහලයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක්</author>
+            <date>2013-11-25 11:04:10</date>
+            <index>17</index>
+            <phrase>කෝසල යනු ලස්සන බෞද්ධ නමක්. නමුත් ඔබගේ අදහස්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2013-11-25 11:05:27</date>
+            <index>18</index>
+            <phrase>අපේ දක්ෂ ගුවන් නියමුවන්ගේ අතිදක්ෂ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරසිරි</author>
+            <date>2013-11-25 11:07:33</date>
+            <index>19</index>
+            <phrase>මම දන්නා විදිහට ගුවන් හමුදාවේ තිබෙන බෙල් යානා ඇමරිකන් අය වියට්නාම් යුද්ධයට පවිච්චි කළ පරණ ඒවා. දැන් රටේ ආරක්ෂාවට හා අභ්‍යන්තර ගුවන් කටයුතු සදහා අලුත් ඒවා මිළදී ගතයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුලෝචන</author>
+            <date>2013-11-25 12:14:10</date>
+            <index>20</index>
+            <phrase>දෙවි පිහිටෙන් අපේ කොල්ලෝ බේරුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සචී</author>
+            <date>2013-11-25 12:19:48</date>
+            <index>21</index>
+            <phrase>සියල්ලන‍්ගේම ජීවිත ගැළවුණානේ. ඒ ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2013-11-25 12:59:33</date>
+            <index>22</index>
+            <phrase>අනේ කාටවත් කරදරයක් නොවුණා නම් ලොකු දෙයක්. බුදු සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල හිමි</author>
+            <date>2013-11-25 15:02:23</date>
+            <index>23</index>
+            <phrase>කෝසල ජීවත් වන්නේ මිනිස් වර්ගයා සමග ඉතා වෛරයකින් වාගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2013-11-25 18:30:07</date>
+            <index>24</index>
+            <phrase>මොකද මේ සමහර අය කියන්නේ මේක කඩා වැටුණා නම් හොදයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලි</author>
+            <date>2013-11-25 18:37:23</date>
+            <index>25</index>
+            <phrase>දැන් ඕවා ගොඩක් පරණ වෙලා ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2013-11-29 16:58:25</date>
+            <index>26</index>
+            <phrase>කෝසල නම් පුදුමාකාර මනුස්සයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමත්</author>
+            <date>2013-11-30 20:45:01</date>
+            <index>27</index>
+            <phrase>අම්මප කෝසලය ගැන මට හිතෙන දේවල් මේක ලියන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

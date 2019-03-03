@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17549</articleId>
+    <title>බුදු පිළිම විකුණන් කන්න බැරිවේ</title>
+    <author>පුෂ්පකුමාර ජයරත්න</author>
+    <date>2011 දෙසැම්බර් මස 15 10:06:25</date>
+    <body>﻿﻿පොල්ගහවෙල බමරගල රජමහා විහාරයේ රන් අලේප කළ බුද්ධ ප්‍රතිමාවක් හා ඝන්ඨාරයක් රුපියල් ලක්ෂ හැටකට විකිණීමට තැත් කළ බව වරද පිළිගත් විහාරාධිපති බලල්ලේ ශීලරංශි, පොල්ගහවෙල ඊ.ඒ. සුමිත් චම්පික හා දෙහිඅත්තකණ්ඩියේ බී.ජී. ඩිංගිරි බණ්ඩාට පොල්ගහවෙල මහේස්ත්‍රාත් අරුණ අලුත්ගේ මහතා රුපියල් ලකෂ හතර බැගින් දඩ නියම කෙළේය. එම භාණ්ඩ පුරාවස්තු ලෙස සැලැකේ.</body>
+    <comments>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2011-12-15 12:31:16</date>
+            <index>0</index>
+            <phrase>අනේ මේ කරන දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2011-12-15 12:39:52</date>
+            <index>1</index>
+            <phrase>අනේ හාමුදුරුවනේ එළොවක් තියේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2011-12-15 13:48:43</date>
+            <index>2</index>
+            <phrase>නිවන් යන්න ලේසිම ක්‍රමයක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2011-12-15 13:52:45</date>
+            <index>3</index>
+            <phrase>සසුන රකින්න ඉන්න අයත් මෙහෙම කරනවානම් , තවත් කුමන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-12-15 14:03:55</date>
+            <index>4</index>
+            <phrase>බුදුදහමට අපහස කරනව සිවුරු ඇදගන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2011-12-15 14:27:00</date>
+            <index>5</index>
+            <phrase>ඇතැම් ධනවත් වෙළෙන්ඳුන් ඔවැනි වටිනා පුරාවස්තු සොච්චමකට මිලදී ‍ගෙන රටින් පිටකර විදේශීය වෙන්දේසි වලදී අසීමිත මුදල් උපයන බව ඉතා ප්‍රකටය. වටිනා බුද්ධ ප්‍රතිමාව, ඝාන්ඨාරය සහ විහාරාධිපති මෙවැනි ප්‍රයෝගවලින් බේරාගත් මහේස්ත්‍රාත්තුමාට ඉතාමත් ස්තූතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2011-12-15 14:57:41</date>
+            <index>6</index>
+            <phrase>ලංකාවේ බුද්ධ ශාසනය පිරිහීමට හේතුව ලංකාවේ සමහර අයගේ භික්ෂු විනය නොමැති කමයි. ඒ නිසා භික්ෂුන් සදහා වෙනම පනතක් සම්මත කර මෙවැනි වරැදි කරන අයව නීතිය ඉදිරියට පැමිණවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>k.a.sanjeewa</author>
+            <date>2011-12-15 16:19:21</date>
+            <index>7</index>
+            <phrase>ො සිවුරක් ඇඳගෙන කරන දේවල් බලන්නොකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධීර</author>
+            <date>2011-12-16 09:43:37</date>
+            <index>8</index>
+            <phrase>මෙහෙම හාමුදුරුවො කරන වැඩ නිසා අපිට අපේ ගම පොල්ගහවෙල කියල කියන්නෙ කොහොමද? මෙවැනි හාමුදුරුවො අපේ ශාසනයට ඕනයි කියල මම හිතන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

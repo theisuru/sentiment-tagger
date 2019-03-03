@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>64159</articleId>
+    <title>ලකේගල රාම රාවණා වත</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 සැප්තැම්බර් මස 12 11:05:42</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-09-17 19:35:24</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්. සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂණ</author>
+            <date>2012-09-19 07:45:44</date>
+            <index>1</index>
+            <phrase>විශිෂ්ට නිර්මාණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද ප්‍රදීප්</author>
+            <date>2012-10-06 08:53:22</date>
+            <index>2</index>
+            <phrase>ඇත්තටම ගොඩක් කාලෙකින් දැක්කේ හොද වැඩක්.. සුභ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-10-09 08:27:50</date>
+            <index>3</index>
+            <phrase>අද කා‍ලයේ විය යුතු වැඩක් , සංවිධානය කර අයට ස්තූතිවන්ත විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

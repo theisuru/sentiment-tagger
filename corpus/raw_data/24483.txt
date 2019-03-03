@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24483</articleId>
+    <title>ඉරාක සබඳතා යළි එයි</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2012 ජනවාරි මස 31 18:43:30</date>
+    <body> 
+ඉරාකයේ ශ්‍රී ලංකා තානාපති කාර්යලයය යළි විවෘත කරන්නැයි  මහින්ද රාජපකෂ ජනපති විදේශ අමාත්‍යංශයට අද දැනුම් දුන්නේය. සදාම් හුසේන් බලයෙන් පහ කිරීමට ඇමෙරිකාව මුල්වී කළ යුද්ධයත් සමග දෙරට තානාපති සබඳතා ඇන හිටියේය.</body>
+    <comments>
+        <comment>
+            <author>නජිත්</author>
+            <date>2012-02-01 01:22:48</date>
+            <index>0</index>
+            <phrase>නියමයි.. සාධාරනව හිතන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-02-01 09:49:00</date>
+            <index>1</index>
+            <phrase>ඒක හොදයි. මමත් ළඟදි යන්න ඉන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆීල්</author>
+            <date>2012-02-01 13:46:49</date>
+            <index>2</index>
+            <phrase>සතුටුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

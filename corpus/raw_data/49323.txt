@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49323</articleId>
+    <title>නීතිඥ හබය සමථ මණ්ඩලයට</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජූනි මස 21 16:33:54</date>
+    <body>ලක්බිම ඉංග්‍රිසි පුවත්පතේ කර්තෘට සිනමන් ග්‍රෑන්ඩ් හෝටලයේ නීතිඥ සාදයකදී නීතිඥ අශෝක සමරරත්න පහර දෙන ලදැයි කියන  සිද්ධිය කොළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා කොළඹ සමථ මණ්ඩලයට යොමු කෙළේය. දෙපාර්ශවයටම ලබන සෙනසුරාදා එහි පෙනී සිටින ලෙස ද නියෝග කෙරිණි. නීතිඥ රාජ්පාල් අබේනායක මහතා ඇරියුමක් නොමැතිව එම සාදයට ගොස් සිටි බවට තවත් පැමිණිල්ලක් ඉදිරිපත් වී ඇතැයි නඩුවේ දී කියැවිණි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-21 16:48:59</date>
+            <index>0</index>
+            <phrase>ඒ අද්වගත් උන්නැහෙත් දැන් සමාජයේ වගේ ආරාධනා රහිතව සාදවලට ගිහිං හොදට කාල බීල‍ ජොලියක් දාල ගුටි කාල එන කණ්ඩායමේ කෙනෙක් වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-21 17:32:47</date>
+            <index>1</index>
+            <phrase>ඇරයුමක් නැතිව ඇවිල්ල කාල තියෙන්නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මංජුල</author>
+            <date>2012-06-21 17:41:54</date>
+            <index>2</index>
+            <phrase>කෙස් පැලෙන තර්ක කරනවා අනුන්ගෙ ප්‍රශ්න විසදන්න.. තමන්ගෙ ප්‍රශ්ණයක් දුර දිග නො‍ගොස් විසදගන්න බැහැ.. ඒ උනාට උගත්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-21 17:04:49</date>
+            <index>3</index>
+            <phrase>සදාදර නයෝ ඔබේ මංගල දිනේ ඇරයුම් නැතත් මා ආවා ප්‍රියේ ඇවිත් මා හොදටම කෑවා ප්‍රියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

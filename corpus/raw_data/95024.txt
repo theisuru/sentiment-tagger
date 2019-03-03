@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>95024</articleId>
+    <title>කතරගමට මහ සෙනඟ</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2013 ජනවාරි මස 27 13:33:58</date>
+    <body>සති අන්තයේ තුන් දින නිවාඩුවත් සමග කතරගමට දුරුතු පෝදා මහ පිරිස් පැමිණි බව බස්නායක නිලමේ ශෂීන්ද්‍ර රාජපක්ෂ මහතා කියයි.
+මහ දෙවොල දිවා රාත්‍රී පූජාව සඳහා විවෘතව තැබිණි.
+පලතුරු හිඟයක්ද පැවති බව වන්දනාකරුවෝ කියති.
+කතරගම සියලු රථගාල් ද, දෙසිය අසූවකට වැඩි විශ්‍රාම ශාලා හා නවාතැන් පොළ ද පිරී ගොස් ඉතිරී ගියේය. තිස්සමාහාරාමයේ ද නවාතැන් සොයා ගැනීම අසීරු විය.  </body>
+    <comments>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-01-27 13:43:59</date>
+            <index>0</index>
+            <phrase>දෙවි පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2013-01-27 13:55:44</date>
+            <index>1</index>
+            <phrase>ඒක හොද පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2013-01-27 14:01:55</date>
+            <index>2</index>
+            <phrase>දිග නිවාඩුවක් ආපු එක මිනිස්සුන්ට මහත් අස් වැසිල්ලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-27 14:04:40</date>
+            <index>3</index>
+            <phrase>සියල්ලන්ටම කතරගම දෙවියන්ගේ පිහිට ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දැහැමි</author>
+            <date>2013-01-27 14:18:44</date>
+            <index>4</index>
+            <phrase>ලංකා වාසි සැමට කන්ද කුමරු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-01-27 21:46:20</date>
+            <index>5</index>
+            <phrase>කොටුවේ ස්ටේෂම වගෙයි නේද? කඩකරුවන්ට තමයි මල්ල සරු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්</author>
+            <date>2013-01-28 19:38:26</date>
+            <index>6</index>
+            <phrase>අපිත් ගියා. වෙනදා වගේමයි සෙනග.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

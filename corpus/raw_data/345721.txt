@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>345721</articleId>
+    <title>‘අපි සන්තෝසෙන් ඉන්නේ අයියා මල්ලී වාගේ‘</title>
+    <author>ඡායාරූප - ලහිරු හර්ෂණ</author>
+    <date>2015 සැප්තැම්බර් මස 06 11:19:50</date>
+    <body>ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රිපාල සිරිසේන ජනපති එක්සත් ජාතික පක්ෂ 69 වැනි සංවත්සරයට පක්ෂයේ සුබ පැතුම්ද රැගෙන සහභාගී විය.
+ශ්‍රී ලංකා නිදහස් පක්ෂ සභාපතිවරයකු එජාප රැස්වීමකට සහභාගි වීම ඵෙතිහාසික සිද්ධියක් බවත් මහ දෙපක්ෂයේ දේශපාලන සංහිඳියාවට ප්‍රායෝගික ආදර්ශයක් බවත් දේශපාලන විචාරකයෝ කියති.
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>නිවන්තක</author>
+            <date>2015-09-06 07:06:29</date>
+            <index>0</index>
+            <phrase>නියමයි. ඔහොම තමයි ඉන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2015-09-06 10:36:26</date>
+            <index>1</index>
+            <phrase>රට දියුණුකරන්න පක්ෂ, පාටවලට බෙදිලා බැහැ. ඔහොම යමු. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

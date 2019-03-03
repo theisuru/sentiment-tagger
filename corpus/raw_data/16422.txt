@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16422</articleId>
+    <title>හරිත උයනේ දුම්කොළ බැනර්</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2011 දෙසැම්බර් මස 08 14:59:29</date>
+    <body>ගලේවෙල කුඩාවැව හරිත උයනක කුඹුක් පැල අතර දුම්කොළ ප්‍රචාරක බැනර් හා පෝස්ටර් ප්‍රදර්ශනය කළැයි කියන සිද්ධියක් ගැන දුම්කොළ හා මද්‍යසාර අධිකාරියේ සභාපති මහාචාර්ය කාලෝ පොන්සේකා කියයි. මෙය වක්‍රාකාරයේ දුම්කොළ ප්‍රචාරක කිරීමක් බවත් එය නීති විරෝධි බවත් ඔහු පවසයි.</body>
+    <comments>
+        <comment>
+            <author>රමිල</author>
+            <date>2011-12-08 16:55:11</date>
+            <index>0</index>
+            <phrase>මේ බැනර් එක මුද්‍රණය කර ගැනීමට කෙනෙක් නැති නිසා ලාබෙට ගන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>497360</articleId>
+    <title>උසාවි නියෝග නොතැකු 32 ක් යළි රිමාන්ඩ්</title>
+    <author>සනත් ගමගේ</author>
+    <date>2017 ජනවාරි මස 09 13:32:39</date>
+    <body>උසාවි නියෝග නොතකමින් උද්ඝෝෂණය කරමින් පොදු දේපොළවලට හානි කළැයි සැකපිට අධිකරණයට ඉදිරිපත් කළ 32 දෙනෙක් ජනවාරි 16 වැනි දා දක්වා යළි රිමාන්ඩ් කිරිමට  හම්බන්තොට මහේස්ත්‍රාත් මංජුල කරුණාරත්න මහතා  අද (9) නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2017-01-09 09:27:50</date>
+            <index>0</index>
+            <phrase>මෙවැනි කඩාකප්පල් කරීන්ට බයවී ආණ්ඩුවක් වැඩකරන්න ගියොත් කිසිම රජයකට කිසිම සංවර්ධන ව්‍යාපාරයක් කරන්න බැරි වේවි. අද නිදහස් වෙළඳ කලාප නිසා රටේ කීදෙනෙක් යැපෙනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2017-01-09 09:39:43</date>
+            <index>1</index>
+            <phrase>මේවා තමයි නියමම යහපාලනය. එතකොට කොළඹින් ගිහින් කලබල කරපු අය‍ට මොකුත්ම කරන්නේ නැත්ද.අනේ ඉතින් යහපාලනෙට ඡන්දය දීපු අපිටම බැන ගන්නවා මිසක් වෙන මොනවා කරන්නද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2017-01-09 09:44:48</date>
+            <index>2</index>
+            <phrase>මෙතන එක්තරා මූල්‍ය සමාගමක සල්ලි එකතු කරන්න ගිය අහිංසක කොල්ලෝ දෙන්නෙක් ඉන්නවා. උන් දෙන්න සමාගමේ ටී ශර්ට් ඇඳගෙන ඉඳල තියෙන්නේ. පාරේ යනකොට කඳුළු ගෑස් වැදිලා දුවනකොට කිසිදු හෙවිල්ලක් නැතුව ඇරෙස්ට් කරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2017-01-09 09:51:44</date>
+            <index>3</index>
+            <phrase>මේවට මුලිකත්වය දුන්න පාර්ලිමේන්තු මන්ත්‍රීලත් අත්අඩංගුවට ගතයුතුයි ගරු අධිකරණයට අපේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2017-01-09 10:32:26</date>
+            <index>4</index>
+            <phrase>රටේ නිතිය උල්ලංගනය කෙරුවට නිසි දඩුවම් ලබාදෙන්න. මොවූන් එරෙහි උනේ රටේ අනාගතයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලාලිත</author>
+            <date>2017-01-09 11:34:22</date>
+            <index>5</index>
+            <phrase>කව්රු කළත් වරද වරදමය. මේ අයට දඬුවම් කිරීමට පියවර ගැන උදම් අනන යහපාලනවාදියෙනි. , අර විල්පත්තුව වනසන ,වාර්ගික ජනපද හදන ,ඇමති තුමාටත් නීතිමය පියවර ගන්න ලෙසට, මහා බැංකු මගෝඩිස්ට නීතිමය පියවර ගන්න ලෙසට ඉල්ලමින් මේ සටහනක් කරන්නකෝ. නැතිනම් විරෝධය පල කරන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2017-01-09 11:55:51</date>
+            <index>6</index>
+            <phrase>උසාවි නියෝගයක් කඩ කරානම් දඬුවම් ලැබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

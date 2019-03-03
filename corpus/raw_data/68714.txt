@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>68714</articleId>
+    <title>“දහම් ගගට ගලා යන්න තෙත හිත දෙන්න“</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 ඔක්තෝබර් මස 04 17:28:27</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ඩබ්.එම්. සුගන්දි</author>
+            <date>2012-10-13 17:45:41</date>
+            <index>0</index>
+            <phrase>මේවැනි වැඩසටහන් අපේ දරුපරපුරට ඉතාම වටිනවා දරුවන් යහමගට යැවිමට බොහෝමත්ම උපකාරවෙනවා ඔබසැමට තෙරුවන්සරණයි .............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජාත ජයසේකර</author>
+            <date>2012-10-14 13:13:06</date>
+            <index>1</index>
+            <phrase>දරුවන් දහම් පාසල් යැවීමේ අවශ්‍යතාවය අගය පෙන්වන්න. ඉතාම හොඳ වැඩ සටහනක්. ඔබ සැමට තෙරුවන් සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2012-10-14 13:49:01</date>
+            <index>2</index>
+            <phrase>දරුවන් යහමගට ගත හැකි ඉතාමත්ම හොද වැඩසටහනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2012-10-14 13:56:21</date>
+            <index>3</index>
+            <phrase>දරුවන් යහපතට ගෙනයා හැකි ඉතාමත් හොඳ වැඩසටහනක් . ඔබ සැමට සමන් දෙවි පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-10-15 07:55:14</date>
+            <index>4</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනෙත්</author>
+            <date>2012-10-15 08:00:39</date>
+            <index>5</index>
+            <phrase>ඔබගේ සියලු ඉදිරි වැඩකටයුතු සාර්ථක වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-10-15 09:54:22</date>
+            <index>6</index>
+            <phrase>අප සැමගේ එකම පැතුම ඔය දහම් පාසල දිගුකල් පවත්වාගෙන යාමට ලැබේවා යනුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනෙත්</author>
+            <date>2012-10-15 14:24:28</date>
+            <index>7</index>
+            <phrase>අපි සැම එක සිතින් ඔබගේ දියුණුව ප්‍රාර්තනා කරන්නෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික</author>
+            <date>2012-10-26 19:06:34</date>
+            <index>8</index>
+            <phrase>යහපත් චේතනාවෙන් කරන සියලු දේ සාර්ථක වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

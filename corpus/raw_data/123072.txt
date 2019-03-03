@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>123072</articleId>
+    <title>තුන්දහසකට සිල් රෙදි</title>
+    <author>හේමලතා ඩී හේවගේ</author>
+    <date>2013 මැයි මස 17 10:21:58</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-05-21 06:08:34</date>
+            <index>0</index>
+            <phrase>මේක මහ පින්කමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් පෙරේරා</author>
+            <date>2013-05-22 02:25:31</date>
+            <index>1</index>
+            <phrase>සිල් සුවදට සුදු වත පින් සිතුවිල්ලක් වාගෙ දම් අසුමද සසරේ කළුනික සොයනවා වගේ පින් සිතුවිලි මවනා දන්දෙන උවසියෝවගේ සිත දිලිසෙනවා මේ පින දුටුවිට අද මගේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-05-22 16:02:27</date>
+            <index>2</index>
+            <phrase>අප පන්සල, ආගමික සිද්ධස්ථාන වෙත යොමුවී ඇත්තේ සංසාරික බැදීමක් ලෙසිනි. වැඩිහිටි සෑම කෙනෙකුගේම සිහිනය වෙසක් පුන් පොහෝ දිනයේදී සිල් සමාදන් වීමය. තාන් සිල් රෙද්දක් හැද පොහෝ දිනයේ ශිල් සමාදන්වීම සඳහා අවසථාව සළසා දීම පිළිබඳ ඇසීම අපරිමිත සතුටකි. මෙවනු වූ සද් කාර්යයන් කිරීම සඳහා ගරු අමාත්‍යතුමාට තවදුරටත් ශක්තිය ධෛර්ය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

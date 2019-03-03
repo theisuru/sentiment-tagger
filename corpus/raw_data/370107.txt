@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>370107</articleId>
+    <title>මිසයිල රැගත් රුසියන් නැව සිරියාවට</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 දෙසැම්බර් මස 18 11:39:18</date>
+    <body>අන්තර් මහද්වීපික දිගු දුර මිසයිල් රැගත් රුසියානු යුද නැවක් සිරියානු වෙරළ ආසන්නයට ම ගමන්කර ඇතැයි විදෙස් මාධ්‍ය පවසයි. සිරියාවේ අයි.එස්.අයි.එස්. ත්‍ර‍ස්තවාදීන් ඉලක්ක කරගනිමින් රුසියාව මේ වනවිටත් ප්‍ර‍හාර එල්ල කරමින් සිටියි.
+ගුවන් ප්‍ර‍හාරවලට අමතරව නාවුක ප්‍ර‍හාර එල්ල කිරීමේ අරමුණින් මේ යුද නැව සිරියාව අසළ ස්ථානගත කිරීමට රුසියාව කටයුතු කරන්නට ඇතැයි යුද විශේෂඥයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>සිරි</author>
+            <date>2015-12-18 06:25:07</date>
+            <index>0</index>
+            <phrase>ඔන්න කසකාරයෝ ! පෙරහැර ඊළඟට !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-12-18 06:31:06</date>
+            <index>1</index>
+            <phrase>දැන්නම් ගහන්නේ තුර්කියට උණ ගැනෙන්න වගේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිචි බාලසුරිය</author>
+            <date>2015-12-18 10:25:47</date>
+            <index>2</index>
+            <phrase>ගහන්න ගත් බෙරයේ පළුවක් යනතුරු හෝ රුසියාව ගහන්නයි යන්නේ , බාගෙට දමල ගියොත් වැඩක් නැති නිසා , ජයවේවා රුසියාවට , බංගවේවා අයි එස් ත්‍රස්තයන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

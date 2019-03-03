@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54055</articleId>
+    <title>මුස්ලිම් කොන්ග‍්‍රසය නැ’හිරට ගහෙන් එයි.</title>
+    <author></author>
+    <date>2012 ජූලි මස 18 12:27:20</date>
+    <body>ගහ ලකුණ යටතේ නැගෙනහිර පළාත් සභාවට තනිවම අපේක්‍ෂකයන් ඉදිරිපත් කිරීමට ශ්‍රී ලංකා මුස්ලිම් කොන්ග‍්‍රසය තීරණය කළේය.</body>
+    <comments>
+        <comment>
+            <author>සිංහලය</author>
+            <date>2012-07-18 13:13:35</date>
+            <index>0</index>
+            <phrase>හොඳ තීරණයක් . මහා පක්ෂ වලට එයාලගේ තරම බලගතහක්යි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත්</author>
+            <date>2012-07-18 12:39:12</date>
+            <index>1</index>
+            <phrase>බුලත් කොළ තියෙන ගහක්ද .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-07-18 12:46:53</date>
+            <index>2</index>
+            <phrase>දැන් වෙන එකකකින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-07-18 13:25:55</date>
+            <index>3</index>
+            <phrase>බුරුව ලකුණ හොදද දැන්නේ නැහැ ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් අල්ගේවත්ත</author>
+            <date>2012-07-18 12:56:10</date>
+            <index>4</index>
+            <phrase>බූරුවන් මෙය දැන ගතහොත් අධිකරණමය ක‍්‍රියාමර්ගයකට යාහැකියි. බූරු භාෂාවෙන් එය සදහන් නොකරන්න ඔබට ස්තුතිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2012-07-18 13:13:39</date>
+            <index>5</index>
+            <phrase>ජාතික හෙල උරුමයටත් තනිවම එන්න කියන්න​...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-18 13:54:34</date>
+            <index>6</index>
+            <phrase>මම චන්ඩි ඒ මම හරි වසයි ඒ ,කොළ නැති ගහ උනත් කමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.ඩී.එම්.එස්</author>
+            <date>2012-07-18 13:19:02</date>
+            <index>7</index>
+            <phrase>මෝල් ගහෙන්ද දන්නේ නැහැ ඉල්ලන්නේ ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.ඩී.එම්.එස්</author>
+            <date>2012-07-18 13:19:04</date>
+            <index>8</index>
+            <phrase>මෝල් ගහෙන්ද දන්නේ නැහැ ඉල්ලන්නේ ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-07-18 13:50:44</date>
+            <index>9</index>
+            <phrase>අන්තවාදියෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලි</author>
+            <date>2012-07-18 13:55:02</date>
+            <index>10</index>
+            <phrase>මෝල් ගහේ එල්ලන්න......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2012-07-19 07:10:14</date>
+            <index>11</index>
+            <phrase>විමල් ඔයා සිංහලයෙක්ද ? ඔයාල වගේ අය මේ රටේ ඉපදුනානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-19 14:54:43</date>
+            <index>12</index>
+            <phrase>එයාලා ඡන්දෙ ඉල්ලන්නේ නැත්තේ ඒ ගොල්ලන්ට එහෙ ඡන්ද පදනමක් නැති නිසා ..........ඒක ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

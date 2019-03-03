@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40387</articleId>
+    <title>ජපාන යතුරු පැදිය වසරකට පසු කැනඩාවෙන්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 මැයි මස 04 11:45:11</date>
+    <body>ජපානයේ මියාගි දිස්ති‍්‍රක්කයට අයත් යමමෝටෝ නගරයේ පදිංචි කරුවකු වන ලිතු ඕ සොකොගාමාට (29) ඔහුගේ පවුලේ තිදෙනකු සමගින් ඔහුගේ සියලූ සේසත 20011 සුනාමියෙන් අහිමි විය. නිවස ආසන්නයේ කන්ටේනර් පෙට්ටියක් තුළ සුරක්‍ෂිතව නවතා තිබූ හාර්ලි ඬේවිඩිසන් වර්ගයේ යතුරු පැදියද සුනාමි දිය රළට හසුව මුහුදට ගසාගෙන ගියේය. වසරක් ඉක්ම වූ පසු කන්ටේනර පෙට්ටිය කැනඩාවට අයත් මුහුදු සීමාවෙන් හමුවිය. කැනඩා ජාතිකයා එය දැක වෙරළාරක්‍ෂක භටයනට දැන්වීය. යතුරු පැදියේ අංක තහඩුවෙන් අයිතිකරු හඳුනාගැනීමට හැකිවිය. පසුගිය වසරේ මාර්තු 11 වැනිදා ජපානයෙන් මුහුදට ගසාගෙන ගිය විශාල ධීවර නැවක් කැනඩාවෙනුත් පාපන්දුවක් ඇලෙක්කාවෙනුත් හමුවිය.</body>
+    <comments>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-05-04 12:09:56</date>
+            <index>0</index>
+            <phrase>2004 නෙවෙයි 2011 දි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන් ජයතිලක</author>
+            <date>2012-05-04 12:27:45</date>
+            <index>1</index>
+            <phrase>මේක අවුරුදු 7 ක් පරණ නෑ, ගිය අවුරුද්දේ ජපන් සුනාමි එකෙන් පාවෙලා ගිය එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-04 12:29:05</date>
+            <index>2</index>
+            <phrase>2004 සුනාමිය ජපානෙට ආවෙ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-05-04 12:35:10</date>
+            <index>3</index>
+            <phrase>මෙතන මොකක් හරි වරදක් තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-04 12:36:56</date>
+            <index>4</index>
+            <phrase>මේ 2004 සුනාමිය නෙමෙයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2012-05-04 13:00:39</date>
+            <index>5</index>
+            <phrase>මොකද්ද ඇලේකාව කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-04 13:58:38</date>
+            <index>6</index>
+            <phrase>ජපානයට පුලුවන් දැන් ඒ රටවල් සමග වෙළද ගනුදෙනු සමිබන්ධතා පවත්වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොසෙල්</author>
+            <date>2012-05-05 01:27:20</date>
+            <index>7</index>
+            <phrase>සාධාරණව හම්බකර ඒවා වෙන්න ඇති නැවත ලැබුණේ "හිමිවිය යුත්තක් තිබෙනම් එය සුදුස්සාට හිමිවිය යුතුයි ."</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-05-05 17:11:40</date>
+            <index>8</index>
+            <phrase>විකුණන්නේ නැද්ද දන්නෑ මේක..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

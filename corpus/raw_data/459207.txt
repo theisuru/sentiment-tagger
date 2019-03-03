@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>459207</articleId>
+    <title>කුඩාගම උණුසුම් වෙයි</title>
+    <author>බුද්ධික කුමාරසිරි</author>
+    <date>2016 සැප්තැම්බර් මස 19 17:26:59</date>
+    <body>අවිස්සාවේල්ල, කුඩාගම අනවසර පතල් කැනීමක් සිදුකළ බව කියන පිරිසක් වැටලීමට ගිය පොලිස් විශේෂ කාර්ය බළකා කණ්ඩායමක් සහ ගම්වාසීන් අතර උණුසුම් තත්ත්වයක් හටගෙන ඇතැයි පොලිසිය කියයි.
+විශේෂ කාර්ය බළකාය එහි යනවිට පතලේ සිටි පිරිසක් පැන ගොස් ඇති බවත් එසේ පැන ගිය බව කියන එක් තරුණයකු ජලාශයකට වැටී ගිලෙන්නට ගොස් ඇති බවත් පසුව ඔහු බේරාගෙන රෝහල්ගත කරනු ලැබ ඇති බවත් කියති. </body>
+    <comments>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2016-09-19 12:30:58</date>
+            <index>0</index>
+            <phrase>නීතිය සහ ප්‍රජාතන්ත්‍රවාදය වල්වැදී තිබී නැවත ස්ථාපනය වන විට මෙවැනි දේවල් බහුලව දක්නට ලැබෙනවා. පොලිසියට මේ තත්ත්ව ගැන මනා පුහුණුවක් සහ සංයමයක් ලබා දිය යුතුයි. මානව සහ මානසික විද්‍යා උපාධි සහ පශ්චාත් උපාධිධාරීන් ඉහල නිල වලට වැඩි වැඩියෙන් බඳවා ගත යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2016-09-19 14:13:51</date>
+            <index>1</index>
+            <phrase>පිටිගල කියන විදිහටම කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-09-19 15:56:54</date>
+            <index>2</index>
+            <phrase>මිනිසුන් නීතිගරුක විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-09-20 03:20:22</date>
+            <index>3</index>
+            <phrase>දැන් නිදහස වැඩියි. එ්ක හොඳ තත්වයක් නෙමෙයි. අයුතු ප්‍රයෝජන ගන්න තැත්කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

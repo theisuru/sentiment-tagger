@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446773</articleId>
+    <title>සුව අමාත්‍යංශයට තවත් ඩී.ජී. කෙනෙක්</title>
+    <author>කෞශල්‍ය සමින්ද</author>
+    <date>2016 අගෝස්තු මස 11 15:45:16</date>
+    <body>සෞඛ්‍ය අමාත්‍යංශයට තවත් අධ්‍යක්ෂ ජනරාල්වරයෙකු පත් කිරීමට එරෙහිව අමාත්‍යංශයේ අධ්‍යක්ෂ ජනරාල් පාලිත මහීපාල,  නියෝජ්‍ය අධ්‍යක්ෂවරු හා රෝහල් අධ්‍යක්ෂවරු සෞඛ්‍ය ලේකම් අනුර ජයවික්‍රම මහතාට ලිපියක් මගින් කරුණු දැක්වූහ.
+අමාත්‍යංශයේ මුදල් කටයුතු බාරව තවත් අධ්‍යක්ෂ ජනරාල්වරයෙකු පත් කිරීමට මුදල් අමාත්‍යංශවයේ අනුමැතිය දී ඇතැයි දැනගන්නට තිබේ. රජයේ වෛද්‍ය නිලධරයන්ගේ සංගමය ද මෙම පත් වීමට එරෙහිව විරෝධය පළ කරයි.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-11 10:33:57</date>
+            <index>0</index>
+            <phrase>මෙහම ගියානං, අර උසස් අධ්‍යාපන අමාත්‍යංශයට උපදේශකවරුන් බර ගාණන් පත්කළ වගේ වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-08-11 16:14:15</date>
+            <index>1</index>
+            <phrase>තව කොච්චර පත් කර ගත්තත් හොදක් නම් පේන්න නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-08-12 01:26:56</date>
+            <index>2</index>
+            <phrase>දැනට සිටින සමහරුන්ගේ ඒකාධිපති බලය අඩුකරන්න වගේ හදන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙක්ස්</author>
+            <date>2016-08-12 02:02:38</date>
+            <index>3</index>
+            <phrase>කොච්චර පත්කර ගත්තත් කමක් නැහැ, හැබැයි අපේ මහජන මුදලින් වැටුප් ගෙවන්න එපා කියන්න. මොකක්ද මේ විහිලුව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-12 02:20:57</date>
+            <index>4</index>
+            <phrase>දේශපාලනේදී උදවු කළ අයටත් ප්‍රතිඋපකාර කළයුතුයිනේ. උපදේශකකමක්වත් දෙමුද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොෂාන්</author>
+            <date>2016-08-12 02:43:09</date>
+            <index>5</index>
+            <phrase>කොහොමහරි කමක් නැහැ රටට වැඩක් වෙනවා නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත් දර්ශක</author>
+            <date>2016-08-12 07:29:20</date>
+            <index>6</index>
+            <phrase>අපිට මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද ලක්මාල්</author>
+            <date>2016-08-13 10:43:01</date>
+            <index>7</index>
+            <phrase>එක හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

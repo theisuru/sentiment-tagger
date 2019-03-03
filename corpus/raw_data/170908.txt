@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>170908</articleId>
+    <title>මෝදර පෙරහැර</title>
+    <author>දීපාල් සිල්වා</author>
+    <date>2013 සැප්තැම්බර් මස 21 18:18:23</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කෝල්බ්</author>
+            <date>2013-09-27 17:45:38</date>
+            <index>0</index>
+            <phrase>බොහොම ලස්සනයි. හොද දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

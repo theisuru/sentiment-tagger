@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45024</articleId>
+    <title>මිනිහෙක් ඉඩමක අයිතිය ගිලියි</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 මැයි මස 27 16:55:08</date>
+    <body>මහනුවර ඉඩම් ලේකම් කාර්යාලයේදී ඔප්පුවක මුල් පත්ඉරුවක් හපා කා ගිල දැමූබව කියන මහරගම නාවින්නේ ජේමිස් මාරසිංහ (73) මහනුවර ප‍්‍රධාන මහේස්ත‍්‍රාත් රවීන්‍ද්‍ර පේ‍්‍රමරත්න මහතා විසින් රිමාන්ඞ් කරණු ලැබීය. නීතිඥයකු බව කියාගත් ඔහු නීතිඥයකුදැයි විමසා වාර්තා කරන ලෙස නියම කළ මහේස්ත‍්‍රාත් කටෙන් එළියට ගත් පත්ඉරුකෑලි රජයේ රස පරීක්ෂක වෙත යැවීමටද නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-27 17:08:30</date>
+            <index>0</index>
+            <phrase>කටේ දමා රස පරීක්ෂණය කරල තියෙන්නේ ජේමිස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-05-27 18:32:03</date>
+            <index>1</index>
+            <phrase>මෙහෙමත් කෙනෙක්. හිස නිකට මොකට කෙස් පැහුනද දෙයියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-05-27 18:31:17</date>
+            <index>2</index>
+            <phrase>අනිත් පැත්තෙන් එන ඒවා රස පරීක්ෂකට යවන්නෙ නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-27 18:31:39</date>
+            <index>3</index>
+            <phrase>මෙයා අලි ජේමිස්වගේ පොරක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-05-27 22:14:35</date>
+            <index>4</index>
+            <phrase>මානසික රෝගියෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-28 00:38:58</date>
+            <index>5</index>
+            <phrase>වළ පයයි ගොඩ පයයි තියාගෙනත් පෙනේද තියෙන තණ්හාව.පිනක් දහමක් කරගෙන ඉන්නේ නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වැඩ මාමා</author>
+            <date>2012-05-28 07:00:43</date>
+            <index>6</index>
+            <phrase>හැබෑටම රට කන ගම කන උන් ඉන්දෙද්දි පත් ඉරුවක් කන එක මොන කජ්ජක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-05-28 09:00:03</date>
+            <index>7</index>
+            <phrase>මෙවැනි කටයුතු සල්ලි වලට ඉඩම් කච්චේරි වල කරනවා. ඒහෙම කලාම ඉඩම් හිමියා අමාරුවේ. කෙනෙකුට තරහින් එහෙම කලාට එම කොළයේ අනිත් පැත්තේ අයිතිය ලියා තිෙයන කෙනාටත් පත් ඉරුව නැති ෙවනවා. ඒකෙන් වෙන්නේ කිසිවක් නොදන්න අහිංසකෙයකුටත් අයිතිය ප්‍රකාශ කරන්න බැරි වීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීතිඥයා</author>
+            <date>2012-05-28 09:37:03</date>
+            <index>8</index>
+            <phrase>මේක ගිලින්න හේතුව නොදැන මෙයා වීරයෙක්ද , මානසික රෝගියෙක්ද කියලා කියන්න අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලුවල්ගොඩ</author>
+            <date>2012-05-28 11:22:15</date>
+            <index>9</index>
+            <phrase>නීතිය ගැන නිතර කතාකරන අයටත් ක්‍රියාත්ම කරන්න හොද අවස්ථාවක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන් සීමන්</author>
+            <date>2012-05-28 11:28:04</date>
+            <index>10</index>
+            <phrase>නියමයි ජේමිස් බන්ඩා.......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්.ඒ.සිසිල් රාජපක්ෂ, බහරේන් සිට</author>
+            <date>2012-05-28 11:48:23</date>
+            <index>11</index>
+            <phrase>අනේ මේ...වයසේ හැටියට නෙමෙයි වැඩ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 11:59:59</date>
+            <index>12</index>
+            <phrase>අනේ අපොයි මේ මිනිහා ඉඳලා තියෙන්නේ බඩගින්නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 12:43:21</date>
+            <index>13</index>
+            <phrase>තීතියටම අනුව එයා වැඩ කටයුතු කරලා තියෙන පාටයි.ඇයි වෙන සමහර නීතිඥවරු කාලා ගිලින්නේ මිනිස්සු අමාරුවෙන් හරි හම්බ කරන දේවල් නේ.ඒ අනුව මෙයා තව හොදයි. මෙයා නීතිඥයෙක් නම් මෙයා මිනිස්සු අමාරුවෙන් හරි හම්බ කරන මුදල් වෙනුවට කාලා තියෙන්නේ ඉඩම් පත් ඉරු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදුන්</author>
+            <date>2012-05-28 13:24:07</date>
+            <index>14</index>
+            <phrase>මාර සිංහ මාර පොරක් නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරෝලිස්</author>
+            <date>2012-05-29 10:53:47</date>
+            <index>15</index>
+            <phrase>මේ මනුස්සයට දොස්තර කියල හොදට කොළ ජාති කන්න කියලා... ඉතිං අහුවෙන හැම ‍කොලේම කනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-05-29 11:10:15</date>
+            <index>16</index>
+            <phrase>පත්තිරැ කන්න තහනම් කියල නීතියක් තියෙනවාද අපේ රටේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

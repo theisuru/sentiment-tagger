@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458517</articleId>
+    <title>පතල් බහින්න යන්ත්‍ර සුත්‍ර බැහැ</title>
+    <author>විනීතා එම් ගමගේ</author>
+    <date>2016 සැප්තැම්බර් මස 16 15:55:33</date>
+    <body>යන්ත්‍ර යොදා මැණික්  පතල්  හැරීමට  අවසර   ගිය 11 වැනි දා සිට  නොදෙන බව ජාතික මැණික් සහ ස්වර්ණාභරණ අධිකාරිය පියවර  ගෙන ඇත.
+බලපත්‍ර ලබාගත්  අයගේ අකටයුතු නිසා  සිදු වු  පරිසර ගැටලු  හේතුවෙන් මෙම තීරණය ගත් බව ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරියේ  සභාපති  අසංක වෙලගෙදර  මහතා  පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-17 04:28:52</date>
+            <index>0</index>
+            <phrase>කවුද ඉතින් ඕවා අහුවෙන්න කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමණි</author>
+            <date>2016-09-17 05:18:43</date>
+            <index>1</index>
+            <phrase>පතල් බහින්න යන්ත්‍ර සුත්‍ර බැහැ වගේම මෝටර් රථ වලින් ගමන්බිමන් යාමත් තහනම් කළා නම් ඉතුරු ටිකත් දියුණු කරගන්න පුළුවන් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

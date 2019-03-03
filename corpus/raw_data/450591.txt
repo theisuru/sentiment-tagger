@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450591</articleId>
+    <title>ඉතාලි නගරයක භාගයක් ඉවරයි</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 අගෝස්තු මස 24 10:55:17</date>
+    <body>මධ්‍යම ඉතාලියේ  රිචිටර් මාපාංක 6.2ක ප්‍රබලත්වයෙන් යුතු භූ කම්පනයකින් 240 දෙනකු පමණ මියගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+ඇමට්‍රිස්, අකියුමොලි හා පෙස්කරා ඩෙල් ට්‍රොන්ටෝ යන නගර වල සුන්බුන් වලට යටවී සිටිතැයි සැකකරන පිරිස් සොයා තවදුරටත් මෙහෙයුම් සිදු කරන බව ඉතාලි රජය පවසයි. 
+ඉකාලියේ පෙරුජියා නගරයෙන් භාගයක් ම ඉවර බව එහි නගරාධිපති කියයි.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-08-24 07:13:56</date>
+            <index>0</index>
+            <phrase>මේ ප්‍රදේශය නිතර භූමිකම්පා සිදුවන නගරයක්. දැනට අවුරුදු හතරකට කලින් සිදුවූ විශාල භුමිකම්පාවේදී ස්වේච්ඡාවෙන් උදව් කිරීමට මිලානෝ සිට එහි ගිය මා ඇතුළු කණ්ඩායමට එහි නගරාධිපතිගෙන් ලිඛිත ප්‍රශංසාවක්ද ලැබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලක</author>
+            <date>2016-08-24 13:32:42</date>
+            <index>1</index>
+            <phrase>කණගාටුදායක ආරංචියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-08-24 14:52:33</date>
+            <index>2</index>
+            <phrase>පසුගිය වතාවෙත් ඔය පළාතේ ඇති උන භුමිකම්පාවෙන් පසුව ඒ පලාතට පිට පළාත්වලින් පැමිණි හොරුන්ගෙන් එම ප්‍රදේශයේ නිවාස හා දේපොළ රැකගැනීමට පොලිසිය මහත් වෙහෙසක් දරන්න සිදු උනා නේද පිටිගල මිලානෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන පනාගොඩ මිලානෝ</author>
+            <date>2016-08-24 19:28:56</date>
+            <index>3</index>
+            <phrase>පිටිගල අයියා ඕස්ට්‍රේලියාවේ ඉඳලා මිලානෝ ඇවිල්ලා ඉන්නේ ඒකයි භූමිකම්පාවත් ඇතිවුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාදේව</author>
+            <date>2016-08-26 14:23:07</date>
+            <index>4</index>
+            <phrase>මෙහි ප්‍රබලතාවය රික්ටර් මාපක 6.2ක් වුණාට හානිය ගොඩක් වැඩි 'අපිකේන්ද්‍රය' නගරයට ආසන්නයේ පිහිටීම නිසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රතාප්</author>
+            <date>2016-08-26 19:46:44</date>
+            <index>5</index>
+            <phrase>ලෝකයේ හැමතැනින්ම විපත් ගැනමයි අහන්න ලැබෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

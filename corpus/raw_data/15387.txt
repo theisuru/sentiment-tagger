@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15387</articleId>
+    <title>ග්‍රේරු ආණ්ඩුවට එක්වෙයි</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 නොවැම්බර් මස 30 17:44:46</date>
+    <body>එක්සත් ජාතික පක්ෂ මන්ත්‍රී මොහාන් ලාල් ග්‍රේරු මහතා අය වැයට පක්ෂව ඡන්දය දී පාර්ලිමේන්තු සභා ගැබ හරහා ගමන් කර ආණ්ඩු පක්ෂයේ අසුන් ගත්තේය.  අද සවස පහට ඡන්දය විමැසිණි. වැඩි ඡන්ද 91කින් අය වැය සම්මත විය. පක්ෂව ඡන්ද 151ද විපක්ෂව 60ක් ද ලැබිණි. මන්ත්‍රීවරු 13 දෙනෙක් ඡන්දය විමසන අවස්ථාවේ සභා ගැබේ නොසිටියහ. එක්සත් ජාතික පක්ෂය, දෙමළ ජාතික සන්ධානය හා ප්‍රජාතන්ත්‍රවාදී ජාතික පෙරමුණ අයවැයට විරුද්ධව ඡන්දය දුන්නේය.</body>
+    <comments>
+        <comment>
+            <author>gamaeti</author>
+            <date>2011-11-30 20:22:53</date>
+            <index>0</index>
+            <phrase>රත්මලානේ එක්සත් ජාතික පාක්ෂිකයින් පිළිගැනීමේ උත්සවයක් ඔහුවෙනුවෙන් පැවත්වීය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Dalu Banda</author>
+            <date>2011-11-30 21:36:04</date>
+            <index>1</index>
+            <phrase>මිනිස්සු ඡන්දෙ දෙන්නේ රටට වැඩක් කරයි කියල ඒ ඒ ගොල්ලො කාට ද වැඩ කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2011-11-30 21:37:09</date>
+            <index>2</index>
+            <phrase>මොහාන් ලාල් මහතාණෙනි ස්තුතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ratne de silva</author>
+            <date>2011-11-30 21:22:51</date>
+            <index>3</index>
+            <phrase>ඔබ වගේ ඇත්ත තේරුම් ගන්න පුළුවන් අනෙත් අයත් යායුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mama</author>
+            <date>2011-12-01 14:06:43</date>
+            <index>4</index>
+            <phrase>තව අවුරුදු 5 කින් විතර කියාවි ලංකාවේ අධ්‍යාපනය හදන්න බැහැ කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාල්</author>
+            <date>2011-12-02 09:01:10</date>
+            <index>5</index>
+            <phrase>ඔයා නියම මනුස්සයෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හවනම්බුගේ</author>
+            <date>2011-12-02 10:16:42</date>
+            <index>6</index>
+            <phrase>කවුද මෙයාට ඡන්දෙ දුන්නේ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

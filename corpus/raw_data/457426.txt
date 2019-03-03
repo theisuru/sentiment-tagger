@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457426</articleId>
+    <title>වෙනසේ ප්‍රතිඵල අත්කරගන්න වෙහෙස විය යුතුයි</title>
+    <author>හර්ෂණ තුෂාර සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 13 21:47:06</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-09-13 17:55:58</date>
+            <index>0</index>
+            <phrase>ඔය කියන වෙනස කොහොමද උනේ? රහසිගතව කටයුතු කරල සිදුවූ වෙනස පිළිගන්න පුලුවන්ද? චෝදනා කරන්නේ සිදුවන ක්‍රියාදාමයේ පිළිවෙල හොඳ නැති නිසයි. අමාරුවෙන් ජිවිත පුජාකරලා බේරාගත් රට අප රැක ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-13 18:07:43</date>
+            <index>1</index>
+            <phrase>ඔය වෙනසට දායක උන දෙමළ සන්ධානය, ඩයස්පෝරාව, ඇමෙරිකාව ඇතුළු බටහිර රටවල් නම් වෙහෙස මහන්සියක් නැතුවම දැන් වෙනස බොහොම සතුටින් භුක්ති විඳින බව අපට පේනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-09-13 18:09:26</date>
+            <index>2</index>
+            <phrase>ඔබ ලඟත් බොහොමයක් චෝදනාවලට තියන විසඳුම මහින්දට බැනීම (තමනුත් ඒ ආණ්ඩුවේ ප්‍රබල ඇමතිවරයෙක් බව අමතක කරලා) විතරනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්‍රම</author>
+            <date>2016-09-14 01:37:12</date>
+            <index>3</index>
+            <phrase>ඡන්දෙ දුන්න අයට ඔන්න තවත් වැඩක් තියනවා කරන්න!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-09-14 05:32:44</date>
+            <index>4</index>
+            <phrase>පොතේ නම මෙහෙම වුණා නම් හොන්දායි.'මා කඩේ යන හැටි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2016-09-14 05:27:03</date>
+            <index>5</index>
+            <phrase>වෙනසේ ප්‍රතිපල 2020 වන විට සම්පූර්ණව ලැබේවි. සිංහල බෞද්දයා පහතට හෙලු .උ /නැ දෙමල අයට ස්වයං පාලනය ලැබී .ඇමරිකාවට ත්‍රිකුණාමලේ කඳවුර ලැබී . සංහින්දියාවෙන් ආලෝකමත් වූ බෙදුණු රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-09-14 09:29:18</date>
+            <index>6</index>
+            <phrase>පත්තරේ බැලුවනම් සමහරවිට විසදුම් ටිකක් හොයා ගන්න බැරි වෙන එකක් නැහැ කියලය් මට හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-14 11:05:53</date>
+            <index>7</index>
+            <phrase>අපි නොදන්න වෙනස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

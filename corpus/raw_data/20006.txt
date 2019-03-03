@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20006</articleId>
+    <title>බස් අනතුරින්  ලංගම විසි එකක් රෝහලේ</title>
+    <author>නයනජිව බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 31 19:46:59</date>
+    <body>බදුල්ල ඩිපෝවේ සේවකයන් පිරිසක් රැගෙන කතරගම බලා ගමන් ගත්  බසයක් බුත්තල - බඩල්කුඹුර මාර්ගයේ 1 කණුව  අසල දී අනතුරකට ලක්වීමෙන්  21 දෙනෙක් තුවාල ලදහ. ලොරියක ගැටීමෙන් මෙම අනතුර සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>sanmayu</author>
+            <date>2011-12-31 20:23:00</date>
+            <index>0</index>
+            <phrase>ලංගම මෙහෙම නම් පෞද්ගලික කොහොම වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

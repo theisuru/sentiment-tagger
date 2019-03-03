@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43187</articleId>
+    <title>බල්ලා බයිසිකලුත් පදී</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 මැයි මස 20 11:29:21</date>
+    <body>කුඩා ළමයෙක් මෙන් කුඩා බයිසිකලයක් පැද යන අපූරු බල්ලෙක් ඇමෙරිකාවේ දකුණු කැරෝලිනාවේ සිටියි. තම සුරතල් බල්ලා නොර්මන් මෙම විශ්මිත ක්‍රියාකාරකම් පුරුදු පුහුණු කළේ කරීස් කොඩ් නැමැති කාන්තාවයි. විටෙක රෝද සවිකළ ලෑල්ලක් පැද යන නොර්මන් තවත් විටෙක තම ස්වාමි දුව කරත්තයක් මත හිඳුවා ඇදගෙන යයි. මාස පහළොවේ සිට මෙවැනි විශ්මිත දේ කරමින් ලෝකය පුරා ප්‍රසිද්ධ වූ නොර්මන්ගේ දැන් වයස අවුරුදු තුනකි.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>ගමරාල</author>
+            <date>2012-05-20 11:42:29</date>
+            <index>0</index>
+            <phrase>ඔය මගුල පුදුම වෙන්ඩ දෙයක් නෙමේ. ලන්කාවෙ බල්ලො කාරුත් එලවන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-20 11:47:33</date>
+            <index>1</index>
+            <phrase>බලු වැඩ නම් ඕන තරම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී</author>
+            <date>2012-05-20 15:24:04</date>
+            <index>2</index>
+            <phrase>ඕව මොනවද අපේ උන් පාර්ලිමේන්තුත් යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-20 18:57:41</date>
+            <index>3</index>
+            <phrase>ආව්...ආව්... ඇමරිකන් බල්ලෝ හරි දියුණුයි නෙව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

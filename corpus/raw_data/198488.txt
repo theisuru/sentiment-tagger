@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>198488</articleId>
+    <title>දුම්රිය වෑන් රියක් ඇඳගෙන යයි</title>
+    <author>හේමන්ත ද සිල්වා දීපාල්ද සිල්වාදයාල්සිරි ධම්මික</author>
+    <date>2013 දෙසැම්බර් මස 30 15:01:51</date>
+    <body>හික්කඩුවේදී දුම්රියක හැපුණු වෑන් රියක්  මීටර් 200 ක් පමණ රේල් පාරේ ඇඳී ගිය බවත් රියදුරු රෝහල් ගත කළ බවත් පොලීසිය කියයි.
+වෑන් රියේ  රියදුරු පමණක්  සිටි බව පොලීසිය සදහන් කරයි.
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2013-12-30 16:03:33</date>
+            <index>0</index>
+            <phrase>නොසැලකිල්ලේ තරමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා</author>
+            <date>2013-12-30 16:20:11</date>
+            <index>1</index>
+            <phrase>පුදුම වැඩක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2013-12-30 17:00:12</date>
+            <index>2</index>
+            <phrase>මොනවටද පුදුමවෙන්නේ ?වාහන පදවන රියදුරන් සිහි බුද්ධියෙන් කටයුතු කරනවානම් මෙවැනි අනතුරු සිද්ධ වෙන්නේ නැහැ(දිල්).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2013-12-30 18:25:40</date>
+            <index>3</index>
+            <phrase>හොද වෙලාවට මිනිස්සු නොහිටියේ රියදුරානම් ආයේ මලාට රේල් පාර ලගකටවත් යන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ග්‍රාම්‍යා</author>
+            <date>2013-12-31 07:32:45</date>
+            <index>4</index>
+            <phrase>මේක කාගේ වැරැද්ද ද දන්නේ නැ. නමුත් ආයෙත් ලොකු දුම්රිය අනතුරක් අලව්ව රේල් ගේට්ටුව ළඟ සිද්ද වෙන්න තියන ඉඩ වැඩියි. පරණ විදියටම ඒ ගේට්ටුවේ සංඥා පද්දතිය ආයෙමත් අබලන් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

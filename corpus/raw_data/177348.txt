@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>177348</articleId>
+    <title>රණවීරයකු වෙත සෙනෙහස පෑ සොඳුරු ගුරුවරිය....හෙට යැයි තවත් දිනක් මට ඇත ඔබ නිසා...</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 ඔක්තෝබර් මස 15 22:04:12</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජ. තිසර</author>
+            <date>2013-10-15 23:54:20</date>
+            <index>0</index>
+            <phrase>නියමයි. අනර්ඝයි. සත්‍ය ආදරය ලෝකය ජය ගනී. වීඩියෝව සකස් කර ඉදිරිපත් කළ සැමට ඉතාමත් ස්තූතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-10-16 01:58:39</date>
+            <index>1</index>
+            <phrase>මා පළමුව ගරු කතෘතුමාට ස්තුතිවන්ත වෙනවා, මෙවන් දර්ශනයක් පළ කර පිටරට සිටින අපිට දැක ගැනීමට සළස්වා දුන්නාට.මෙම දෙපලට සුබ මංගලම් කියා පතන්නේ මුළු හදවතින්මයි.මගේ එකම පැතුම මේ වීර විරුවාට පෙනීම ලැබේවා කියායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-10-16 09:16:54</date>
+            <index>2</index>
+            <phrase>මංගල ඇඳුමින් සැරසි ඇය ඉන්නේ ., මනාලයා හට නැහැ එය පෙනෙන්නේ. එනමුදු මුවේ සතුටු සිනා දිලෙන්නේ. දකිනා අපේ හදවත ගිනි දවන්නේ .., මේ ලෙස ලොවේ කිසිවෙකු හට නොවේවා.., නුඹලගේ ජිවිතේ සතුටින් පිරේවා .., සාමය සතුට සම්පත නීති ඇති වේවා .., තිලිනි නුඹෙ ලොවට මිනි පහනක් වේවා ...!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් සංජිව</author>
+            <date>2013-10-17 16:53:23</date>
+            <index>3</index>
+            <phrase>ගොඩක් ලස්සනයි. ඔබ දෙපලට සතුටින් ඉන්න පින් ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙත්තා</author>
+            <date>2013-10-17 22:56:23</date>
+            <index>4</index>
+            <phrase>ඔබ දුටුවේ මේ අත් බවයේ විතරක් නොවෙයි මං... පිදුවේ මල් පහන් එක සිතින් හද පහන්... ඔබ විරුවෙක්ය දැයේ මිණි පහන්... නොපෙනුනත් ඇස් දෙකෙන් මම වෙමිය ඔබේ පහන්... එලිය ඇත බුදු රුවින්... ජය සතුට පොදි බැදන්.... යන්න දැන් සුබ ගමන්.... පතමු අපි එක සිතින්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධවී</author>
+            <date>2013-10-18 09:22:53</date>
+            <index>5</index>
+            <phrase>ඇත්තටම මේ රණවිරුවා ගොඩක් වාසනාවන්තයෙක්.ඔබ දෙපලට සුභ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද සුරිආරච්චි මංගලම්</author>
+            <date>2013-10-20 22:20:54</date>
+            <index>6</index>
+            <phrase>ඔබ දෙපලට සුබ මංගලම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

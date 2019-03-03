@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51333</articleId>
+    <title>ඉතාලි වීසා සමඟ ඉන්දියානුවෙක් අසුවේ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූලි මස 03 10:42:44</date>
+    <body>ඉතාලි විසා 16 ක්,  ඕස්ටේ‍්‍රලියා වීසාවක් හා ඉන්දියා ගමන් බලපත‍්‍ර තුනක් සමඟ තමිල්නාඩු වැසියෙක් කටුනායක දී ගුවන් තොටුපොළේ පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>සුභාෂිනි</author>
+            <date>2012-07-03 13:44:16</date>
+            <index>0</index>
+            <phrase>ඔයා අහුවෙන්නේ කට්ටිය ටික ටික .මෙයලටනේ යුද්දේ ඕනේ .නැතුව අපේ අහිංසක දෙමල ජනතාවට නෙවෙයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-03 13:52:25</date>
+            <index>1</index>
+            <phrase>නියමයි.. අපේ කට්ටිය දැන් දිගටම අල්ලනවා නේද එක එක විදියෙ ඒවා ඔහොම යං ඔහොම යං...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-07-03 14:20:42</date>
+            <index>2</index>
+            <phrase>ඕක සුලු ගාණක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48565</articleId>
+    <title>රන්ටැඹේ රක්ෂිතයේ ගින්නක්</title>
+    <author>බන්දුල ගොඩකුඹුර</author>
+    <date>2012 ජූනි මස 16 19:59:30</date>
+    <body>රන්දෙණිගල හා රන්ටැඹේ ජලාශවල පෝෂක කලාපයක් වූ මිනිපේ කොස්ගොල්ල කන්ද රක්ෂිතයේ ගින්නක් පැතිර යන බව හසලක පොලිසිය කියයි. දැඩි පෑවුම ගින්න පැතිර යාමට හේතුව බව ප්‍රදේශවාසීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-16 22:18:07</date>
+            <index>0</index>
+            <phrase>දැන් හැමදාම කොහේ හරි ගින්නක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය කටුනායක</author>
+            <date>2012-06-16 22:30:35</date>
+            <index>1</index>
+            <phrase>ගින්නක් ඇති වෙයි යැයි සැක හිතෙන රක්ෂිතවල ගස් ටික කලින් කපල ආරක්ෂා කර ගත්තොත් නේද හොද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මංජුල</author>
+            <date>2012-06-16 23:42:49</date>
+            <index>2</index>
+            <phrase>වනස්පතිට ආදරය කරන හනුමන්තලද මේ වැඩේ කරන්නෙ..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලමිබරේ</author>
+            <date>2012-06-17 00:31:24</date>
+            <index>3</index>
+            <phrase>අමිල කටුනායක අනේ රෑටනේ ඔයා කමෙන්ට්ස් දාන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-06-17 10:22:23</date>
+            <index>4</index>
+            <phrase>වහින්න ඕන කාලෙනේ මේ. ඡල හිගයක්වත් ඒවිද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-06-17 09:59:44</date>
+            <index>5</index>
+            <phrase>අමිල දවල් කාලයේ නිදා ගන්නවා ඇති නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-17 10:54:33</date>
+            <index>6</index>
+            <phrase>ලැව් ගිනි අධික උෂ්ණ කාලවල පැතිරයාම සාමාන්‍ය ස්වභාවික සංසිද්ධියක්. එත් මේ පිළිබඳව කල්තබා අවධානයෙන් පසුවීම නිසා එයින් වියහැකි පශ්චාත් උපදුරු අවම කරගැනීමට හා හානි අවම කරගැනීමට හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-17 13:16:34</date>
+            <index>7</index>
+            <phrase>නිලම්බරේ කැලුම් දිදී සරා සඳ වගේ ....ඔයත් එහෙම නේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-06-18 05:29:10</date>
+            <index>8</index>
+            <phrase>කැළෑ ගිනි තියලා විනාශ කරන එවුවො මුලු රටම කාන්තාරයක් කරන්නයි හදන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

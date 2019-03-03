@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26554</articleId>
+    <title>අලුත්කඩේදී සිරකරු පැහැර ගනී</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 පෙබරවාරි මස 13 13:46:03</date>
+    <body>මත් කුඩු කිලෝ 13ක් ලඟ තබාගත්තැයි සැකපිට අලුත්කඩේ මහාධිකරණයට රැගෙන ආ සිරකරුවෙකු මාංචු පිටින් ආපසු බන්ධනාගාරයට ගෙන යාමට සූදානම් වෙද්දී සුදු වෑන් රියකින් ආ අවි ගත් පිරිසක් බන්ධනාගාර නිලධාරියාගේ හිසට පිස්තෝලයක් එල්ල කර ඔහු පැහැරගෙන ගිය බව පොලීසියට පැමිණිලි කර ඇත.
+‘පස්වරු එකට පමණ සුදු වෑන් රියක් ආවා. ඔවුන් ළග තුවක්කු තිබුණා. ඉන් බැසගත් මිනිසකු බන්ධනාගාර රැකවලාගේ හිසට පිස්තෝලයක් තිබ්බා. මාංචු පිටින්ම සිරකරු වෑන් රියට දමා ගත්තා. වෑන් රිය වේගයෙන් ගියා‘ යැයි සිස්ධිය දුටු අයෙක් කීවේය.</body>
+    <comments>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-02-13 13:50:36</date>
+            <index>0</index>
+            <phrase>කාගේ ගෝලයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-02-13 14:38:25</date>
+            <index>1</index>
+            <phrase>ඇමැති කෙනෙක්ගේ කවුරු හරිද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-02-13 14:40:14</date>
+            <index>2</index>
+            <phrase>මෙවැනි දේවල් සිදුවීමෙන් සමාජයේ මිනිසුන්ට නිදහසේ ජීවත් වීමට ඇති නොහැකියාව පෙන්වයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

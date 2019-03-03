@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14240</articleId>
+    <title>බලවත්ම අරාබි කත ලංකාවට එයි</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2011 නොවැම්බර් මස 23 15:14:30</date>
+    <body>ලොව බලවත්ම අරාබි කත සේ සැලැකෙන එක්සත් අරාබි එමීර් රාජ්‍යයේ විදේශ වෙළෙඳ අමැතිනි වන ෂික් ලුබිනා බින්ට් කලිඩ් ඛාන් සුල්තාන් අලි කස්මි මහත්මිය  අද දහවල් දිවයිනට පැමිණියාය. ආයෝජන අවස්ථා සොයාබැලීම සඳහා තවත් 17 දෙනකුගෙන් යුත් දූත පිරිසක් ද සමග  ආ ඇය හරසරීන් පිළිගනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>ටෙරෝස්</author>
+            <date>2011-11-24 10:46:51</date>
+            <index>0</index>
+            <phrase>ඇයව සාදරයෙන් පිළිගනිමු. ඇය පැමිණ හොද ආයෝජනයක් ලංකාවට හදුන්වාදෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>abo</author>
+            <date>2011-11-24 12:41:34</date>
+            <index>1</index>
+            <phrase>හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

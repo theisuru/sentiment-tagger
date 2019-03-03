@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52469</articleId>
+    <title>කළු සල්ලි සුදු කරන්න ගිහින් උසාවියේ</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 ජූලි මස 09 17:23:20</date>
+    <body>කොළඹ මහාධිකරණය ඉදිරිපිට දී පසුගිය දා පැහැරගත් සිරකරු වේලායුදන් නෝනිස් චන්ද්‍රපාලන් හෙවත් මර්වින්ගේ බිරියට කළු සල්ලි නඩු දෙකක් කොළඹ මහාධිකරණයේ  පවරා ඇත. ඇගේ සැමියා හෙරොයින් කුඩු විකිණිමෙන් ලත් කළු සල්ලිවලින් ඉඩම් දෙකක් හා මිට්සුබිෂි ජිප්රියක් මිලට ගත්තැයි නීතිපති විසින් සුබ්‍රමනියම් රමණීට එරෙහිව මේ නඩු ගොනු කෙළේය. කැලණිය ඩබ්ලිව්.ජී. එමලින්ගේ අනුදැනුම මත රුපියල් පනස් ලක්ෂයක් වටිනා දේපොළ මිලට ගෙන ඇති බවත් ටෙනීසස් ජයපාලන් චාමින්ගේ අනුදැනුම මත ජිප් රිය මිලට ගත් බවත් පැමිණිල්ලේ දැක්වේ. රුපියල් පන් ලක්ෂයක මුදල් ඇපයක් හා රුපියල් පන් ලක්ෂයක ශරීර ඇප මත ඇය මුදාහළ මහාධිකරණ විනිසුරු පද්මන් සූරසේන මහතා විභාගය අගෝස්තු දෙවැනිදාට කල් තැබීය.</body>
+    <comments>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-09 17:45:06</date>
+            <index>0</index>
+            <phrase>මක්කැයි මෙයා කලු සල්ලි? අපි නම් දන්නේ දෙයියන්ගේ මල්ලි සල්ලි කියලා. අපේ පැත්තේ දැන් කොල්ලෝ දොඩන්නේ මොණර කොළ මහරාජා කොළ කියලා. හැබැයි මේ කොළ මාරුකරන්න කළින් මාරු වෙනවාලු. එවුවා මෙයා හැම කොලයක්ම නිකම් මෙයා මෙවුවා වෙනවා වෙනවා මෙයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-07-09 21:14:02</date>
+            <index>1</index>
+            <phrase>මේක මේ පොඩි කළු සල්ලි ගණුදෙණූවක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-07-10 01:51:09</date>
+            <index>2</index>
+            <phrase>හොද වැඩක්නේ ඉතිං කරලා තියෙන්නේ.කොහොමත් ලොන්ඩරියෙත් කරන්නේ ඔය වැඩේමනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-10 08:59:07</date>
+            <index>3</index>
+            <phrase>හරි හරි දැං දන්නවා.. කොහෙදි හරි කලු පාට සල්ලි දැක්කෝත් ඒ කියන්නෙ ඒ කලු සල්ලි නියමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන් කොඩිකාර</author>
+            <date>2012-07-10 09:57:32</date>
+            <index>4</index>
+            <phrase>මෙයා කොයි ප්‍රාන්තයේ කෙනෙක්ද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2012-07-10 10:58:25</date>
+            <index>5</index>
+            <phrase>එතකොට අවුරුදු 3,4ක් නාවික හමුදාවේ වැඩ කරපු කෙනෙකුට අලුතින් t.v. චැනල්, සමාගම් (ඇස්කොට් සමාගම) මිලියන 10 කට වැඩි කොටස් වත්කම් ආවේ කොහොමද ? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාද් ප්‍රීනා</author>
+            <date>2012-07-10 12:14:51</date>
+            <index>6</index>
+            <phrase>කැළණියට සම්බන්ධයි.. හැමඑකේම කේන්ද්‍රස්ථානය කැළණියද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිනා</author>
+            <date>2012-07-10 14:16:56</date>
+            <index>7</index>
+            <phrase>මෙහේ කොහොමත් කළු සල්ලි වැඩියිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

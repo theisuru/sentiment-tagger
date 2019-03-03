@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>385026</articleId>
+    <title>සෞදි අරාබියේ වෙඩි තැබීමක්</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 පෙබරවාරි මස 11 23:04:02</date>
+    <body>සවුදි අරාබියේ දකුණු දිග ජාසන් පළාතේ අධ්‍යාපන කාර්යාලයක් ඉදිරිපිට වෙඩි තැබීමකින් එහි සේවකයන් හය දෙනකු මිය ගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්ථා කරයි. සිද්ධියෙන් දෙදෙනකු තුවාල ලබා ඇත.
+වෙඩි තැබීමට හේතුව පැහැදිලි නැති බවත් වෙඩි තැබූ පුද්ගලයා අත් අඩංගුවට ගත් බව බලධාරීන් ප්‍රකාශ කරයි.
+සෞදි අරාබියේ මෙවැනි අපරාධ ගණයේ වෙඩි තැබීම් සිදු වන්නේ ඉතා කලාතුරකින් බව විචාරකයින්ගේ මතයයි.
+ </body>
+    <comments>
+        <comment>
+            <author>නිමල් රාජපක්ෂ</author>
+            <date>2016-02-12 01:27:29</date>
+            <index>0</index>
+            <phrase>දැන්නම් තත්ත්වය හොඳ නැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-02-12 02:40:21</date>
+            <index>1</index>
+            <phrase>මොකක්ද දන්නෙ නැහැ ඒ ගමන මේ වෙනස?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

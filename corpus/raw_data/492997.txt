@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>492997</articleId>
+    <title>‘‘කොටියා‘‘ නැති තැන වලහා රජ වෙයි</title>
+    <author>සරත් මනුල සහ සිතුම් චතුරංග</author>
+    <date>2016 දෙසැම්බර් මස 25 16:46:38</date>
+    <body>වව්නියාවේ ඇටබගස්කඩ කැලෑවට දර කැඩීමට ගිය සිරියලතා (53) සීලවතී (60) වලස් ප්‍රහාරයකට ලක්ව රෝහල් ගත කළ බව මාමඩුව පොලිසිය කියයි.
+අතහැර දැමූ ගල් වලක් ආසන්නයේ දර කඩද්දී වලසුන් දෙදෙනෙකු සපා කෑ බව ඔවුන් කියති.
+හිස අත් හා පා සපා කෑමට ලක්ව ඇතැයිද වවුනියාව රෝහල කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-12-26 03:01:09</date>
+            <index>0</index>
+            <phrase>දැන් ඉන්න අය වලසුන් ගැන නොතකා කොටින්වම නළවන්න හදන එකේ ප්‍රතිඵලයක්ද කියලා කවුද දන්නේ? හ්ම්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-12-26 08:16:20</date>
+            <index>1</index>
+            <phrase>මේ කියන්නේ එල්ටීටීඊ නැති තැන ටීඑන්ඒ රජවෙයි කියන කතාව නොවෙයි කියලා පස්සෙනේ මට තේරුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>31712</articleId>
+    <title>මොන හිත කින්ද මේ අලි දෙන්නා මැරුවේ</title>
+    <author>සංජීව රත්නායක  නිහාල් ජයවීර</author>
+    <date>2012 මාර්තු මස 16 10:18:47</date>
+    <body>ගල්ගමුව නාත්නේරියේ පොලිස් කොස්තාපල්වරයකුගේ නිවසක් අසල විදුලි සැර වැදී ඇතින්න හා අලියකු මැරී සිටි බව වනජීවී නිලධරයෝ කියති. හොඬවැළේ පිළිස්සුම් තුවාල දක්නට ලැබේ.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>nilu</author>
+            <date>2012-03-16 13:38:32</date>
+            <index>0</index>
+            <phrase>අනේ පව් අහිංසක සතුන්ට ජිවත් වෙන්න තියෙන තැන නැති කරලා ඒ සතුන්ව මරල දාන එක කොය්තරම් නරකද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>jrw</author>
+            <date>2012-03-16 13:38:04</date>
+            <index>1</index>
+            <phrase>හිතක් නැති අය මෙවැනි වැඩ කරති.ප්‍රතිකර්මයක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-03-16 15:43:08</date>
+            <index>2</index>
+            <phrase>අපරාධකාරයෝ සෙයා දඬුවම් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයෝමි</author>
+            <date>2012-03-16 15:48:39</date>
+            <index>3</index>
+            <phrase>මේ වගේ දේවල් වෙන්න ඉඩ තියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

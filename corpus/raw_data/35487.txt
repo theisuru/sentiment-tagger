@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35487</articleId>
+    <title>අනවසර විදුලි කම්බියෙන් මරුවා එයි.</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 අපේ‍්‍රල් මස 08 16:02:23</date>
+    <body>ඇබොස්වත්තේ එළවළු කොටුවක ආරක්ෂාවට ඇද තිබූ අනවසර විදුලි කම්බියක ගැටුණු ගැමියකු මියගොස් ඇතැයි හැටන් පොලීසිය පවසයි. විදුලිය අදින ලදැයි සැකපිට එළවළු කොටුවේ හිමිකරු අත්අඩංගුවට ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-08 22:18:01</date>
+            <index>0</index>
+            <phrase>එළවළළු වගාකොරාට කමක්නෑ. මිනිස්සු මරන්නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලීප</author>
+            <date>2012-04-09 00:45:25</date>
+            <index>1</index>
+            <phrase>ගැමියා මරුට ? හිමිකරු පොලීසියට ? කොටුවෙන් වැඩක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

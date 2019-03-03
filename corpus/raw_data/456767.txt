@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456767</articleId>
+    <title>ටෙනිස් බෝලේ පොලිස් කටට වැටේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 12 14:46:50</date>
+    <body>කළුතර බන්ධනාගාරයට හෙරොයින් සහ කේරළ ගංජා ටෙනිස් බෝලයක් ඇතුලේ දමා විසි කරන්නට තැත් කළැයි කියන පුද්ගලයකු පොලිසියෙන් අත්අඩංගුවට ගනු ලැබීය.
+කුඩු ජාවාරමට සම්බන්ධව බන්ධනාගාර ගතව සිටින කොණ්ඩ චමින්දගේ ගෝලයකු බව කියන මේ පුද්ගලයා ළඟ කුඩු ග්‍රෑම් තුනක් තිබූ බවද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-09-12 13:47:32</date>
+            <index>0</index>
+            <phrase>මේක කාලයක සිට කරන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-09-13 07:18:08</date>
+            <index>1</index>
+            <phrase>දැන් පාරේ ඉඳලා ටෙනිස් ගහන්න ඕනෑ නැහැ. හිරගෙදර පිට්ටනියේම ඉඳලා ජීවිත කාලේටම ටෙනිස් ගහන්න පුලුවන්. ඉල්ලගෙන කනවා කියන්නේ මේවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

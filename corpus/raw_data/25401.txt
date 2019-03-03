@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25401</articleId>
+    <title>මිරිස් කුඩු අස්සේ අත්බෝම්බ</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 පෙබරවාරි මස 07 11:35:24</date>
+    <body>කොළඹ අලූත්කඬේ සමීපයේ පාරක තුබු මිරිස් කුඩු පාර්සලයකින් අත්බෝම්බ හයක් සොයාගත් බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>නෙල්සන්</author>
+            <date>2012-02-07 14:04:04</date>
+            <index>0</index>
+            <phrase>ඔය බෝම්බ පොලීසියේම වැඩක්ද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-02-07 14:12:38</date>
+            <index>1</index>
+            <phrase>උයන්න වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18987</articleId>
+    <title>200ක් රට යවන්න කෝටි දෙකහමාරක් අරන්</title>
+    <author>ඇම්ඇස් පෙරේරා</author>
+    <date>2011 දෙසැම්බර් මස 23 19:47:26</date>
+    <body>එතෙර රැකියා දෙන බව කියමින් විදේශ රැකියා ආයතනයක් පවත්වාගෙන යමින් රුපියල් කෝටි දෙක හමාරක් වංචා කළැයි කියන සුරූපී කතක හා ඇගේ සැමියා කොළඹ වංචා විමර්ශන කාර්යංශයේ බුද්ධි හා විශේෂ මෙහෙයුම් එකකය විසින් අග්ගොන වල්පොළදී සැකපිට අත්අඩංගුවට ගනු ලැබූහ. මේ දෙන්නා තරුණ තරුණියන් 200 දෙනකුගෙන් පමණ මුදල් වංචා කර ඇතැයි පොලිසියට පැමිණිලි ලැබී ඇත.</body>
+    <comments>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2011-12-24 01:30:52</date>
+            <index>0</index>
+            <phrase>මේවට අහුවෙන මිනිස්සුත් තාම එනවනේ අම්මපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>KGR</author>
+            <date>2011-12-24 04:41:25</date>
+            <index>1</index>
+            <phrase>සුරූපී කත නිසා අහුවෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ගා</author>
+            <date>2011-12-24 08:15:11</date>
+            <index>2</index>
+            <phrase>සුරූපි නම් දැන් පොලිසියට ගෙනියන එකත් භයානක වැඩක් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

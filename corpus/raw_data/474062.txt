@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>474062</articleId>
+    <title>බඹර පහරින් තරුණයා මරුට</title>
+    <author>සමන් පාලිත නානායක්කාර</author>
+    <date>2016 ඔක්තෝබර් මස 28 16:33:45</date>
+    <body>හපුතලේ තොටලාගල දී ගහකට නැඟුණු තරුණයකු  (22) බඹර ප්‍රහාරයකට ලක්වී රෝහල් ගත කිරීමෙන් පසු මිය ගිය බව රෝහල් ආංචි කියයි.
+තවත් සිව් දෙනෙක් බඹරුන් ඇනීමෙන් රොහලේ ප්‍රතිකාර ලබති.
+ </body>
+    <comments>
+        <comment>
+            <author>පින්කි</author>
+            <date>2016-10-28 11:42:32</date>
+            <index>0</index>
+            <phrase>ශෝකජනක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-10-28 16:12:45</date>
+            <index>1</index>
+            <phrase>අනේ දෙයියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය එඩ්වර්ඩ් පෙරේරා ජර්මනිය</author>
+            <date>2016-10-29 02:13:16</date>
+            <index>2</index>
+            <phrase>බොහෝ තරුණයින් අනතුරුවලට ලක්වන්නේ දිවි නසාගන්න කරන උත්සාහයක් වැනි මෝඩ ක්‍රියා නිසා. ජනතාවට පාසැල් අධ්‍යාපනයට එහා ගිය ජීවත්වීම පිළිබඳ ප්‍රායෝගික දැනුමක් ලබාදෙන වැඩපිළිවෙලක් කවුරුන් විසින් හෝ ආරම්භ කළයුතුව ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

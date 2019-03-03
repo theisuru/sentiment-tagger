@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>163116</articleId>
+    <title>‘බිව්වොත් කළු තේ- ලෙඩ නැතිවෙයි ඔබේ ගතේ‘</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2013 අගෝස්තු මස 22 19:14:03</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-08-27 10:18:06</date>
+            <index>0</index>
+            <phrase>කළු තේ කියල බොන්නේ වස්නේ. එකතු කරලා පට කරලා අපිට පොවනවා කහට වැඩි තේ කියල. . තේ කර්මාන්ත ශාලාවකට ගිහින් බලන්න මොනවද කරන්නේ කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

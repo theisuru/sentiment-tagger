@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>114470</articleId>
+    <title>නෑදෑකම් අලුත් කළ අපේ අවුරුදු ගම</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 අපේ‍්‍රල් මස 29 15:37:27</date>
+    <body>​</body>
+    <comments>
+        <comment>
+            <author>තීක්ෂණ</author>
+            <date>2013-04-29 18:14:39</date>
+            <index>0</index>
+            <phrase>අලුත් වෙනසක් දකින්න ලැබීමක්.. දිවයිනේ ප්‍රමුඛ ආයතනයක් මගින් සේවක ස්විකාවන් හට සහ ඔවුන්ගේ පවුලේ සාමාජිකයන් වෙනුවෙන් මෙවැනි අතීතයේ පවතී සිරිත් විරිත් නැවතත් අලංකාරව ඉස්මතු කිරීමින් මෙවැනි අලංකාර උත්සවයක් සංවිධානය කිරීම ගැන එම ආයතනයේ සියලු කලමනකාරීත්වට මාගේ ස්තුතිය. ඔවුන් හට තව තවත් මෙවැනි දේ කිරීමට ශක්තිය ධෛර්ය ලැබේවායි ප්‍රාර්ථනා කරමි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාංචනා</author>
+            <date>2013-04-29 18:54:23</date>
+            <index>1</index>
+            <phrase>ජිවිතයට අලුත් අත්දැකීමක් ලබා දුන් ඔබලාට ස්තුතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අස්සජි හිමි</author>
+            <date>2013-05-03 20:51:36</date>
+            <index>2</index>
+            <phrase>බොදවී වන සිරිත් විරිත් නැවත ඉස්මතු කිරීමට උත්සාහ කළ සැමට පින්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

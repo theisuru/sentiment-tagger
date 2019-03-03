@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23447</articleId>
+    <title>මැගසින්  මහා ගින්නක්</title>
+    <author>ඇම්ඇස් පෙරේරා</author>
+    <date>2012 ජනවාරි මස 24 12:16:52</date>
+    <body>බොරැල්ල මැගසින් බන්ධනාගාරය ඇතුළේ ලොකු ගින්නක් හට ගෙන ඇතැයි පොලිසිය කියයි. පොලිසිය හා ගිනි නිවන හමුදාව එහි යමින් සිටී. මාර්ගයේ අධික තදබදයක් ද පවතී.</body>
+    <comments>
+        <comment>
+            <author>යකා</author>
+            <date>2012-01-24 12:28:35</date>
+            <index>0</index>
+            <phrase>මාර වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-01-24 15:13:38</date>
+            <index>1</index>
+            <phrase>ජනරාල්තුමාත් ඉන්නෙ මෙහෙ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

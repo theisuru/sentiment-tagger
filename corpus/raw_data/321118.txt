@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>321118</articleId>
+    <title>ඉතාලියේ වරේසෙ අවුරුදු උළෙල අද</title>
+    <author>සජීක ජයසිංහ</author>
+    <date>2015 මැයි මස 31 10:30:48</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-05-31 09:46:44</date>
+            <index>0</index>
+            <phrase>අපිට නම් දැන් වෙසකුත් පහුවෙලා පොසොනුත් ලැබුවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

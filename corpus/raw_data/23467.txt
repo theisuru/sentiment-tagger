@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23467</articleId>
+    <title>කන්න නොදී යන්න බෑ මේ පාරෙන්</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 ජනවාරි මස 24 14:18:52</date>
+    <body>කතරගම බුත්තල පාරේ වල් අලියෙක් කෑමබීම සොයා පාරේ යන එන වාහන අසළට එයි. බොහෝ දෙනෙක් මේ අලියාට පලතුරු දීමට පුරුදු වී සිටිති. අලියාගෙන් කිසිම කරදරයක් නැතැයි පළපුරුදු රියැදුරන් කියතත් නොපුරුදු අය අලියා ඉවත්වන තුරු පැය ගණන් වාහන නවතාගෙන සිටිති.</body>
+    <comments>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-01-24 14:44:46</date>
+            <index>0</index>
+            <phrase>මිනිසුන්ම පුරුදු කරපුවා මිනිසුන්ටම වදයක් වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-01-24 15:12:24</date>
+            <index>1</index>
+            <phrase>ලංකාවම පාගා ගන්න කාලෙ අලියා කෑම අරන් පාර අරින එක සුලු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවා</author>
+            <date>2012-01-24 15:35:45</date>
+            <index>2</index>
+            <phrase>අපිත් දැක්කා මේ අලියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2012-01-24 15:48:35</date>
+            <index>3</index>
+            <phrase>යූ.ඇන්.පී. එක සමගියෙන් හිටියානම් මේ අලියා කවදාවත් කන්න හොයාගෙන පාරට එන්නෙ නැහැ. දැන් අලිත් මනුස්සයෝ වගේ කන්න හොයාගෙන පාරට බහිනවා. රනිල් මහත්තයාට මේක තේරුණොත් හොදටම ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-01-24 15:51:10</date>
+            <index>4</index>
+            <phrase>එරංගගේ කතාව මසුරන් වටී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-01-24 16:16:57</date>
+            <index>5</index>
+            <phrase>මේ අලිය නම් කන්න දුන්න අත හපා කන එකක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2012-01-24 20:23:50</date>
+            <index>6</index>
+            <phrase>මේ අලියා ලෙහෙසියෙන් කෑම ටිකක් සොයා ගන්නා අයුරු ඉගෙන ගෙන ඇතිවා පමණක් නොව ලංකාවේ රථවාහන පාරේ වමෙන් පදවන බවද දන්නා බව අලියා සිටින අයුරින් පිංතූර වලින් පෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-25 20:11:48</date>
+            <index>7</index>
+            <phrase>යූ.ඇන්.පී. අලියෙක් නම් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>akalanka</author>
+            <date>2012-02-11 07:53:53</date>
+            <index>8</index>
+            <phrase>මේ අලිය නම් කන්න දුන්න අත හපා කන එකක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

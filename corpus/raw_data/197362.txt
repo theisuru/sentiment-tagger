@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>197362</articleId>
+    <title>ගාල්ල සුනාමිය සිහිකරයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2013 දෙසැම්බර් මස 26 07:56:48</date>
+    <body>සුනාමියෙන් මියගිය අය සිහිකරමින් අද උදෑසන ගාල්ල බස් නැවතුම ඉදිරිපිට මහා සංඝරත්නය වෙනුවෙන් සාංඝික පැවැත්විණි. බෝධි රාජ විහාර සංවර්ධන කමිටුව, ගාලුපුර බොදු සවිය හා ගාල්ල දිස්ත්‍රික් වාණිජ හා කර්මාන්ත මණ්ඩලය මෙය සංවිධානය කළේය. 2004 සුනාමියේ දී ගාල්ල බස්නැවතුම් පොළ ද නගරය ද මහා විනාශයකට ලක්විය. ගාලු දිස්ත්‍රික්කයේ පමණක් 4770ක් ද දිවයිනේ 40,000ක් පමණ ද සුනාමියට බිලි වූහ.</body>
+    <comments>
+        <comment>
+            <author>සුමංගල - ඇල්පිටිය</author>
+            <date>2013-12-26 08:08:51</date>
+            <index>0</index>
+            <phrase>මේ පින් බලයෙන් සැවොම සුවපත් වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2013-12-26 08:21:15</date>
+            <index>1</index>
+            <phrase>ඒ මිය ගිය අසරණ ජනතාව සිහිකරමු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමාලංකාර හිමි</author>
+            <date>2013-12-26 08:32:28</date>
+            <index>2</index>
+            <phrase>සාදු සාදු වටිනා පින්කමක්.සැමටම නිවන් සුව ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-12-26 09:27:40</date>
+            <index>3</index>
+            <phrase>තව විනාඩි කිහිපයකින් උදාවෙන එම මොහොත මතක් වන විට පුදුම දුකක් ඇති වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි අලුත්වල</author>
+            <date>2013-12-26 11:16:44</date>
+            <index>4</index>
+            <phrase>මෙපින් බලෙන් සසර වසනතුරු මෙවන් රුදුරු ඉරණමකට ගොදුරු නොවේවා. සාදු සාදු සාදු! සියලුම ආත්මයන් සතුටට පත්වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

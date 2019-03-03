@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33956</articleId>
+    <title>ඉහළ කොත්මලේ විදුලියත් එයි</title>
+    <author>අංජුල මහික වීරරත්න</author>
+    <date>2012 මාර්තු මස 29 14:30:33</date>
+    <body>ශාන්ත ක්ලෙයාර් ඇල්ල ආශ්‍රීත ඉහළ කොත්මලේ ජල විදුලි බලාගාරයේ මෙගවොට් 75ක ජල විදුලිය ජාතික විදුලිබල පද්ධතියට එක් කළ බව විදුලි බල මණ්ඩලය කියයි. පරීක්ෂණ මට්ටමින් විදුලිය ජනනය කැරේ. තවත් මෙගෙවොට් 75ක විදුලිය මැයි මාසයේ දී ජාතික විදුලිබල පද්ධතියට එක් කිරීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-03-29 15:01:22</date>
+            <index>0</index>
+            <phrase>අහන්නත් සතුටුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-03-29 15:43:58</date>
+            <index>1</index>
+            <phrase>දියේ සතුට .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමින්ද</author>
+            <date>2012-03-30 10:04:34</date>
+            <index>2</index>
+            <phrase>දැන්වත් විදුලි බිල අඩුවෙයිද දන්නෑ...එතකොට නොරොච්චෝලේ තාම ලෙඩ වෙලාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-03-31 11:45:16</date>
+            <index>3</index>
+            <phrase>නියමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-05-25 16:54:35</date>
+            <index>4</index>
+            <phrase>හොද වැඩ සටහනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

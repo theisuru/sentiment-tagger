@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>317055</articleId>
+    <title>පර්ත් නුවර ඩිජිටල් තොරණක්</title>
+    <author>ඡායාරූප තිලක් සෙනවිරත්න</author>
+    <date>2015 මැයි මස 14 18:17:22</date>
+    <body>ඕස්ට්‍රේලියාවේ පර්ත් බෞද්ධ විහාරයේ බේරුවල සෝභිත හිමියන්ගේ අනුශාසකත්වයෙන් වෙසක් තොරණක් ප්‍රදර්ශනය කැරිණි.
+පර්ත් නුවර ශ්‍රී ලාංකිකයෝ ද ඕස්ට්‍රේලියානුවෝ ද මේ තොරණ බැලීමට ආහ.
+ඩිජිටල් තාක්ෂණයෙන් මේ තොරණ හැඩ වැඩ විය.</body>
+    <comments>
+        <comment>
+            <author>ජගත්</author>
+            <date>2015-05-14 14:21:28</date>
+            <index>0</index>
+            <phrase>මේ තොරණේ ඩිජිටල් වැඩ දාන්නේ අපේ මොරටුව සරසවියේ බිහිවුන දක්ෂ ඉංජිනේරු මහත්මයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

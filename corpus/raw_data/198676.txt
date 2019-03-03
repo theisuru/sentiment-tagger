@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>198676</articleId>
+    <title>අස්වැන්න (ශාලපර්ණි ඔසු ගුණ එලෙසම ඇති ප්‍රතිනිධිය)</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 දෙසැම්බර් මස 31 09:03:58</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>තරිදු</author>
+            <date>2014-01-13 18:53:38</date>
+            <index>0</index>
+            <phrase>හොද දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24317</articleId>
+    <title>ගුරුළු රජා නිල්ගල ගස් උඩ</title>
+    <author>ලූණුගල ප‍්‍රසන්න පද්මසිරි</author>
+    <date>2012 ජනවාරි මස 30 13:57:46</date>
+    <body>දුර්ලභ ගුරුළු රාජ මල මේ දිනවල නිල්ගල ඔසු උයනෙහි පිපී තිබේ. මේ උඩවැඩියා මල ඌව පළාතේ පුෂ්පයයි. රතුගල ආදි වාසි නායක සුදා වන්නියලා ඇත්තන් කියනුයේ දෙසැම්බර් පෙබරවාරි සමයේ මල් පිපෙන බවයි. සර්ප විෂ හිසේ හා බඩේ අමාරු සෙම හා ඇදුමට ගුරුළුරාජ මල ගනිතියි රතුගල ආදිවාසී නායකයා කියයි. පොක්ස් ටේල් ඔර්කිඩ් හා මඩකළපු ඕකීඩ් යන නම්වලින් ද මේ පුෂ්පය හැඳින්වේ.
+ </body>
+    <comments>
+        <comment>
+            <author>අමිල ක්‍රිෂාන්ත</author>
+            <date>2012-01-30 17:09:08</date>
+            <index>0</index>
+            <phrase>ඌවේ මල අපි දැක්කෙත් ලංකාදීපය නිසා මෙවැනි සුන්දර අලංකාර මලක් අපේ පළාතේ වනාන්තර වල තිබීම අපි අගය කල යුතුයි. අපිත් මල බලන්න නිල්ගල යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-30 21:34:25</date>
+            <index>1</index>
+            <phrase>මේව පෙන්නන්න ඕන දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>riccardo</author>
+            <date>2012-01-31 01:08:23</date>
+            <index>2</index>
+            <phrase>රතුගල වන්නිල ඇත්තන්ට අපේ උපහාරය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ජී. කීර්තිරත්න</author>
+            <date>2012-07-28 20:25:24</date>
+            <index>3</index>
+            <phrase>ඔය මල බලන්න නිල්ගලම යන්න ඔනේ නෑ මම ඉන්නේ කිරිබත්ගොඩ මෙහේ ආවත් බලන්න පුලුවන් ...දැන්නමි මල් පරවෙලා පොකුරැ හයක් පිපිල තිබුණා ගිය මාසේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

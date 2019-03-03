@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>354601</articleId>
+    <title>උපාලි කොඩිකාර කලබල කරයි</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2015 ඔක්තෝබර් මස 16 10:23:51</date>
+    <body>මහින්ද රාජපක්ෂ මහතාගේ ප්‍රධාන ආධාරකරුවකු වන බස්නාහිර පළාත් මන්ත්‍රී උපාලි කොඩිකාර ජනාධිපති කොමිසමට ඇතුළු වීමට යද්දී කලබල කළ බව එහි ආරංචි මාර්ග කියයි.
+ඒ අතර කොමිසම නිවේදනයක් නිකුත් කරමින් පවසනුයේ ශාලාවේ ඉඩ කඩ නොමැති හෙයින් පැමිණෙන සියලු දෙනාටම පහසුකම් සැලසීමට අපහසු බවයි.
+කොමිසමේ නියෝග මත කැඳවන්නන් නීතිඥවරුන් හා මාධ්‍යවේදීන් පළමුව ඇතුළු කරන බවත් ඒ සම්බන්ධයෙන් යම් අපහසුවක් වේ නම් කොමිසම බලවත් කනගාටුව පළ කරන බවත් එහි ලේකම් ලැසිල් ද සිල්වා මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>උපුල්</author>
+            <date>2015-10-16 06:01:53</date>
+            <index>0</index>
+            <phrase>මෙයා කලිනුත් තනිකරම කළේ පිස්සු වැඩ තමයි. දවසක් මහරගමදී සය සමාජික මැඩ් එකක තෑගි දෙන්න ගිහින් කථාවක් පවත්වද්දී කිව්වා අපි ක්‍රීඩකයෝ 11න් ගහන ක්‍රිකට් 6ට අඩු කළා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්සා</author>
+            <date>2015-10-16 06:04:40</date>
+            <index>1</index>
+            <phrase>මොනවට මෙචිචර දගලනවද දන්නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-10-16 08:08:40</date>
+            <index>2</index>
+            <phrase>පව් අනේ! කොහොම හිටපු මනුස්සයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2015-10-16 11:14:40</date>
+            <index>3</index>
+            <phrase>පොලිසිය කරන්නේ ඒ අයගේ රාජකාරිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

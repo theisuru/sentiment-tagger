@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>240290</articleId>
+    <title>සෞදි ජංගම සේවාවට මහ පිරිස්</title>
+    <author>ලලිත් ප්‍රේමලාල් සෞදි අරාබියේ සිට</author>
+    <date>2014 ජූනි මස 08 14:16:32</date>
+    <body>කොරෝන වයිරස් භීතිකාවෙන් පසු ප්‍රථම වරට පසුගිය 6 වැනි සිකුරාදා සෞදි නැගෙනහිර කලාපීය ජංගම සේවාවට විවිධ කාර්යයන් ඉටුකර ගැනීමට ශ්‍රී ලාංකිකයෝ රැසක් ආහ.
+රියාද් තානාපති කාර්යාලයේ 10 දෙනෙකුට අධික පිරිසක් ඊට එක් වුහ.
+
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සුනිල් රියාද් සිට</author>
+            <date>2014-06-08 19:52:31</date>
+            <index>0</index>
+            <phrase>ඇති යාන්තම්. දැන් වත් ඔය මලකඩ කලතිබුන ඒවා හරියට වැඩකරයිද කියල බලමුකෝ. අඩු තරමින් ශ්‍රී ලංකා තානාපති කාර්යාලයක් තියෙනවා කියල හරි දැනෙන්න සලස්වන්න, අපිට මොනවත් නොකෙරුනත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජමෑන්</author>
+            <date>2014-06-08 20:19:26</date>
+            <index>1</index>
+            <phrase>හැබැටම සුනිල් ළමයෝ, මෙච්චර කලක් මේ වටිනා සේවය ගැන ඔය ලමයට ආරංචි උනේවත් නැද්ද? දැන් කොච්චර කල් ඉඳලා මේ වැඩ පිළිවෙල ක්‍රියාත්මක වෙනවද? හැම මාසෙකම පලවෙනි සිකුරාදාට. බොහොම වටිනා වැඩක් අයිබෝවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් රියාධ් සිට</author>
+            <date>2014-06-09 00:45:59</date>
+            <index>2</index>
+            <phrase>ගජ මෑන්, ඇඩෙනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2014-06-09 08:10:01</date>
+            <index>3</index>
+            <phrase>අඬන්න එපා සුනිල්! වටපිටාව ගැන ටිකක් විපරමින් ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

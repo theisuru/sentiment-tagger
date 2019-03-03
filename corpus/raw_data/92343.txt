@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>92343</articleId>
+    <title>අධික සීතලෙන් බංග්ලාදේශයේ  80 ක් මරුට</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  ඩකා නුවරදීය</author>
+    <date>2013 ජනවාරි මස 11 08:52:46</date>
+    <body>අධික සීතල කාලගුණය හේතුවෙන් බංග්ලාදේශයේ 80 දෙනකු ජීවිතක්ෂයට පත්ව ඇතැයි වාර්තා වේ. බංග්ලාදේශ බලධාරීන් ඊයේ (10) පැවැසුයේ බංග්ලාදේශයේ උතුරුදිග ප‍්‍රදේශ කිහිපයක උෂ්ණත්වය සෙල්ලියස් අංශක 3 කට වඩා පහළ ගොස් ඇති බවය.</body>
+    <comments>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-01-11 17:39:40</date>
+            <index>0</index>
+            <phrase>පුදුම ප්‍රවෘත්තියක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-01-14 11:36:48</date>
+            <index>1</index>
+            <phrase>අපේ රටට මේ කරදර නැති එක අපට කොපමණ සහනයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

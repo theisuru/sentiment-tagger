@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>379758</articleId>
+    <title>කූරක් ඇනී තරුණයා රෝහලේ</title>
+    <author>අමිල මධුෂංක</author>
+    <date>2016 ජනවාරි මස 25 19:22:55</date>
+    <body>තීන්ත කම්හලක සේවය කරමින් සිටි බද්දේගම ප්‍රදේශයේ තරුණයකුගේ (35) අතේ කූරක් ඇනී කරාපිටිය රෝහලට ඇතුළත් කර ඇතැයි රෝහල් ආරංචි කියයි.
+කම්ප්‍රෙෂරය ක්‍රියාකරවීමට යාමේදී මෙම කූර ඔහුගේ අතේ ඇනී අත පසාරු කරගෙන ගොස් ඇතැයි කියති.
+කරාපිටිය රෝහලේ දී කළ විනාඩි 20ක පමණ සැත්කමකින් පසු තරුණයාගේ අතේ ඇනී තිබූ කූර ඉවත් කළ බව රෝහල් ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>ටානි</author>
+            <date>2016-01-25 21:43:23</date>
+            <index>0</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-01-26 02:04:22</date>
+            <index>1</index>
+            <phrase>දැන් මේ වගේ අනතුරු බොහොම වැඩියි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාලනී</author>
+            <date>2016-01-26 02:53:27</date>
+            <index>2</index>
+            <phrase>එඩ්වඩ්, දැන් කැමරා එහෙමත් වැඩියිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

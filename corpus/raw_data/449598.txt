@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449598</articleId>
+    <title>ඇෆ්ගනිස්ථානයේ ප්‍රධාන නගරයක් තලේබාන් යටතට</title>
+    <author>අරුණ ශාන්ත කුමාර</author>
+    <date>2016 අගෝස්තු මස 20 22:36:00</date>
+    <body>ඇෆ්ගනිස්ථානයේ උතුරු ප්‍රදේශයේ පිහිටි කුන්දුස් හි කානාබාද් දිස්ත්‍රික්කයේ බලය තලේබාන් ත්‍රස්තකණ්ඩායම් විසින් සිය අණසකට පත් කරගෙන ඇතැයි එරට රජයේ පුවත් සේවා පවසයි.  දිස්ත්‍රික්කයේ හතරවටින් ම ආරක්ෂක අංශ වෙත ප්‍රහාර එල්ල කර ඇත. එම ප්‍රදේශය ප්‍රධාන සැපයුම් දිස්ත්‍රික්කයක් ද වේ.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-21 14:23:40</date>
+            <index>0</index>
+            <phrase>තලේබාන්වරු ත්‍රස්තවාදීන් නොවේ. රට ආක්‍රමණය කිරීමට පැමිණි පරදේසක්කාරයින් ත්‍රස්තවාදියෝය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-08-22 03:47:05</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා අපේ රට ගැනත් මට නම් බයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-08-22 23:39:19</date>
+            <index>2</index>
+            <phrase>ධම්ම මොඩ කතා කියන්න එපා තලේබාන්වරු කියන්නේ අන්තවාදි ඉස්ලිම් නිකායන් අදහද අය දරුවන් පාසල් යනකොට වෙඩි තියපු තිරිසන්නු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

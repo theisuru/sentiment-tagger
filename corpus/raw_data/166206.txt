@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>166206</articleId>
+    <title>චන්ද්‍රකාන්ත පාෂාණ</title>
+    <author>දීපාල් සිල්වා</author>
+    <date>2013 සැප්තැම්බර් මස 04 10:38:15</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>දාවිත්</author>
+            <date>2013-09-04 22:42:19</date>
+            <index>0</index>
+            <phrase>නැතිවූ වාසනාව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-09-06 15:53:40</date>
+            <index>1</index>
+            <phrase>මූන්ස්ටෝන් කියන්නෙත් මේ ගල් වර්ගයටම නේද?මා ළගත් එකක් තියෙනවා. වටිනාකම කොච්චරද දන්නේ නැහැ?දන්නා කෙනෙක් ඉන්නවා නම් කියන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-09-10 17:23:00</date>
+            <index>2</index>
+            <phrase>මටත් ගල් කෑල්ලක් හම්බ වුණා. මම ඒක හොඳට කැපුවා. හරිම ලස්සනයි. මම ඒක වෙන කෙනෙකුට හෙමින් සීරුවේ දීලා දැම්මා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2013-09-13 18:32:39</date>
+            <index>3</index>
+            <phrase>මේ ගල් වර්ගය පැළදීම නිසා අවාසනාව, කරදර ,ලෙඩදුක් වැඩිවෙනවා කියලා අහලා තිබෙනවා. කොයිතරම් දුරට නිවැරදිද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

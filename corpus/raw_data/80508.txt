@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>80508</articleId>
+    <title>අඹන්පොළ අනතුරෙන් පවුලක්ම ඉවරයි</title>
+    <author>සංජීව රත්නායක  ඡායාරුප : ජනිත් විමුක්ති වාසල</author>
+    <date>2012 නොවැම්බර් මස 28 14:22:42</date>
+    <body>අඹන්පොළ දෑතව හන්දියේ දුම්රිය ත්‍රිරෝද ගැටුමෙන් එතැනම සිවු දෙනකු මියගිය බවත් රෝහලේදී දෙදෙනකු මියගිය බවත් පොලිසිය කියයි. ත්‍රිරෝද රියේ හත් දෙනකු ගමන් කළ බව ද කියති. අඹකොළ වැව ඩබ්ලිව් උදය ආසිරි විජේකොන් (38) ඔහුගේ බිරිය අයි.බී. ඇම්. තමරා රෝහිනි, දියණිය  උපේක්ෂා  (16) හා පුතා නිසල් (5) එතැන මියගිය අය වෙති.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-11-28 11:55:54</date>
+            <index>0</index>
+            <phrase>අයියෝ සංසාරේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-11-28 12:00:38</date>
+            <index>1</index>
+            <phrase>බලන්න ජිවිත කියක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිම්සර</author>
+            <date>2012-11-28 12:01:16</date>
+            <index>2</index>
+            <phrase>හැකි සෑමවිටම සිහියෙන් යුක්තව කටයුතු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2012-11-28 12:05:03</date>
+            <index>3</index>
+            <phrase>දරාගන්න බැරි දුකයි, ඉවසීම නැතිකමයි නිසා අපරාදේ ජීවිත කීයක් අකාලයේ නැතිවුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2012-11-28 12:07:58</date>
+            <index>4</index>
+            <phrase>ත්‍රී විල්එකේ යන්න පුලුවන් තුන්දෙනාටයි නේද? මම මේ දන්නේ නැති නිසයි අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-11-28 12:10:10</date>
+            <index>5</index>
+            <phrase>ත්‍රී රෝද රථයක හත් දෙනෙක්? තුනයි නේද යන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විලේගොඩ</author>
+            <date>2012-11-28 12:24:04</date>
+            <index>6</index>
+            <phrase>දුකයි තමයි , හේතුව නොසැලකිල්ල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2012-11-28 12:21:45</date>
+            <index>7</index>
+            <phrase>සෑම විටම සැලකිල්ලෙන් ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-11-28 12:22:15</date>
+            <index>8</index>
+            <phrase>ඇයි මේ මිනිස්සු මදුරුවෝ මැරෙන ගාණට මෙහෙම පාරවල් වල මැරෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුක්මල්</author>
+            <date>2012-11-28 12:38:42</date>
+            <index>9</index>
+            <phrase>මේ ත්‍රීවීලර් වල 6 දෙනෙකුට යන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-11-28 12:47:16</date>
+            <index>10</index>
+            <phrase>හැම දේම දැන් අනාරක්ෂිත වෙලා , සාමාන්‍ය ජන ජීවිතයට තමයි වන්දි ගෙවන්න වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-11-28 12:47:30</date>
+            <index>11</index>
+            <phrase>නොසැලකිල්ල. පව් අසරණ දරු පවුල..දැන් කියයි ආසියාවේ ආශ්චර්‍යය කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-11-28 12:55:09</date>
+            <index>12</index>
+            <phrase>දුමිරිය මග දෙපස , ඒ අවට ගස් කපා ඒ අවට පැහැදිලි කරන්න..ත්‍රී රෝද රථයක් ගන්නේත් දුප්පත් කෙනෙක්නේ.වගකිව යුත්තන්ගේ අවධානය යොමු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-11-28 12:59:14</date>
+            <index>13</index>
+            <phrase>දැන්වත් වගකිවයුත්තන්ගේ ඇස් ඇරෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-11-28 13:09:30</date>
+            <index>14</index>
+            <phrase>මොකද්ද හේතුව නොසලකිල්ලද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවින්</author>
+            <date>2012-11-28 13:21:42</date>
+            <index>15</index>
+            <phrase>පෙර ආත්මයක කල ලොකු කරුමයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-11-28 13:26:37</date>
+            <index>16</index>
+            <phrase>මිනිස්සු මිට වඩා සැලකිලිමත් වෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලා</author>
+            <date>2012-11-28 14:04:54</date>
+            <index>17</index>
+            <phrase>දෙයියනේ .. රොකට් අරින‍ වෙලේ සවි කරන්නකෝ බමුබු ගේට්ටුවත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චුලන්ත</author>
+            <date>2012-11-28 14:06:46</date>
+            <index>18</index>
+            <phrase>මොන අපරාධයක්ද මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-11-28 14:12:59</date>
+            <index>19</index>
+            <phrase>අනේ දෙවියනේ ත්‍රීවීලර් එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-11-28 14:18:51</date>
+            <index>20</index>
+            <phrase>අපෝ ඔය ත්‍රිවිල් එකේ සද්දෙට කෝච්චියක් කියා ලගින් කෆීර් එකක් ගියත් ඇහෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-28 14:21:51</date>
+            <index>21</index>
+            <phrase>දිවංගල ජනපති රණසිංහ ප්‍රේමදාස මහතාගේ උණබම්බු ගේට්ටුවල වටිනාකම දැන් තේරෙනවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-11-28 14:31:24</date>
+            <index>22</index>
+            <phrase>චීනෙට කියලා දුම්රිය ගේට්ටු ටිකක් ගන්න බළමුද? පවු අසරණ පුවල. බලධාරීන්ගේ අඩුපාඩු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-28 14:45:57</date>
+            <index>23</index>
+            <phrase>ත්‍රීරෝද රියදුරාගේ නොසැලකිල්ල නිසා නැතිවුණු අහිංසක ජීවිත. අද ලංකාවේ සංවේදී මිනිස්සු කීදෙනෙක් මේක බලල වැළපෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-11-28 15:16:35</date>
+            <index>24</index>
+            <phrase>කොච්චර කිවත් මේ පාලකයන්ට ඇහෙන්නේ නෑ. කෝටි ගානක් වියදම් කරලා රොකට් යවන්න පුලුවන්. මේ මැරෙන මිනිස්සු මේරගන්න ගේට්ටු ටික හදාගන්න මුදල් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2012-11-28 16:00:03</date>
+            <index>25</index>
+            <phrase>කියා ගන්න බැරි තරම් කනගාටු පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත - ඉතාලිය</author>
+            <date>2012-11-28 17:04:31</date>
+            <index>26</index>
+            <phrase>ත්‍රිවීල් එකේ යන්න පුළුවන් සීමාවකුත් තියෙනවා. මේ ඩීසල් ත්‍රිවීල් එකේ නම් ටිකක් වැඩිපුර දාගෙන ගියාට කමක් නෑ කියමුකෝ.නමුත් රියදුරු මහතා මලා සිහි කල්පනාවෙන් රිය පැදෙවුවනම් මෙම අනතුර වළක්වා ගන්න තිබ්බා.මට නම් කෝච්චි පාරක් දකිනකොටම පොඩි තිගැස්මක් ඇතිවෙලා..බොහොම පරෙස්සමෙන් තමා පාර මාරු වෙන්නෙ. ඇයි මේ අයට එහෙම බැරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-11-28 18:50:36</date>
+            <index>27</index>
+            <phrase>පවු අනේ ළමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනුස්</author>
+            <date>2012-11-28 18:51:30</date>
+            <index>28</index>
+            <phrase>හරි අගේට තාර නම් දාලා තියෙන්නේ. ඔච්චර කරලා බැරි වුණානේ උණ බම්බු ගේට්ටුවක්වත් දාන්න. මේ අය ඔක්කොම කරන්නේ යමක් සිදු වුණාට පස්සෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණා</author>
+            <date>2012-11-28 19:02:54</date>
+            <index>29</index>
+            <phrase>රියදුරා මැරුනේ නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත ජයසේකර</author>
+            <date>2012-11-28 19:28:37</date>
+            <index>30</index>
+            <phrase>නියම ආකාරයට ආරක්‍ෂක දොරටු යොදා තිබුණා නම් අද අහිංසක ජීවිත බේරිලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂන්</author>
+            <date>2012-11-28 19:58:09</date>
+            <index>31</index>
+            <phrase>නොසැළකිල්ලේ ප්‍රතිවිපාක...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂන්</author>
+            <date>2012-11-28 20:11:53</date>
+            <index>32</index>
+            <phrase>අද ලංකාවේ තිබෙන භයානකම වාහනය තමයි ත්‍රී රෝද රිය. මේකේ යන්න පුලුවන් උපරිම ගණන ගැන නීති අකුරටම ක්‍රියාත්මක කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-11-28 20:26:47</date>
+            <index>33</index>
+            <phrase>අවාසනාවන්ත සිදුවීමක්. බලධාරීන්ගේ අවධානය යොමුවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-28 20:47:06</date>
+            <index>34</index>
+            <phrase>නොසැලකිලිමත්කම මෙන්ම ප්‍රාදේශීය සභාවේ දුර්වලම අඩුපාඩු නිසා සිදුවූ කණගාටු දායක අනතුරක් රැකියා අවස්ථාවක් ලබාදී අයෙක් කොඩියක් සමග තැබුවත් මෙවැනි අනතුරු වලක්වන්න තිබුන , ඒ වගේම අනතුරට අතවනන මෙවැනි ස්ථානයක අඩුම වශයෙන් ගැටි සමානය උසට වඩා වැඩි උසකින් දමතිබුනනම් මෙවැනි කණගාටුදායක පුවතක් නොඇසීමට ඉඩ තිබුන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතූ</author>
+            <date>2012-11-28 20:55:15</date>
+            <index>35</index>
+            <phrase>පාරවල් හැදුවත් වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනංජය</author>
+            <date>2012-11-28 20:57:33</date>
+            <index>36</index>
+            <phrase>බොහොම කනගාටු දායක පවුතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනංජය</author>
+            <date>2012-11-28 20:59:19</date>
+            <index>37</index>
+            <phrase>බොහොම කනගාටුයි පුවතක් ගොඩක් අපල කාලයක් හැම දෙනාටම සලකිල්මත්ව වැඩ කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රයන්</author>
+            <date>2012-11-28 21:13:09</date>
+            <index>38</index>
+            <phrase>මෙතරම් දියුනු ලෝකයේ 2.50 වැඩක් රඡය වගකියන්න ඕනා. (යොහාන් - සනත් හරි - නිරාන් 100% -දැන්වත් වගකිවයුත්තන්ගේ ඇස් ඇරෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-11-28 21:16:51</date>
+            <index>39</index>
+            <phrase>ත්‍රීරෝද රථය එලවපු කෙනා මේ මරන වලට වගකියන්න ඹිනේ. මම නම් රේල් ගේට්ටුව ඇරල තිබ්බත් හරහා මාරැවෙන්නේ දෙපැත්ත බලලා. මොකද ඔය ගේට්ටු වෙලාවට වැහෙයිද කියලා කියන්න බැහැ. තමන්ගේ සැලකිලිමත් කම තමයි වැදගත් වෙන්නේ. මේවගේ දේවල් වලට කාටවත් බැනලා වැඩක් නැහැ. කොහොමත් ත්‍රීරෝද රථ එලවන අයට පුදුම තදියමක් තියෙන්නේ. මාර්ග නීති තුට්ටුවකට මායිම් කරන්නේනෑ. අහිංසක ජීවිත පහක් නොහික්මුන රියදුරා නිසා අහිමි උනා. ඒ අයට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-11-28 21:28:57</date>
+            <index>40</index>
+            <phrase>මොනවා කියන්නද? අපි හැමදාම මේවා බලලා ලියනවා විතරයි. වගකිවයුත්තෝ හැමදාම ලෝකෙට පරකාසේ විතරයි. ඇත්තටම අපි චන්ද්‍රිකා තාක්ෂණයට ගි‍යාට දුම් රිය හරස් පාරට ගේට්ටුවක් දමා ගන්න බැරි අසමත් රටක්. ඒ උනාට නිකන් බැලුවොත් නායක කාරකාදීන්ගෙ කතාවක්.... පුදුම සමෘද්ධිමත් රටක අපි ඉන්නෙ.අපි මැරිලා ඉපදුන අන්ධයෝ වෙලා ඉවරයි.දෙසැම්බර් 21 වෙනදා ලෝක විනාශය වෙනවා නම් මුලින්ම නැති වෙන්න ඕන තරමට මේ රටේ අපචාර සිදුවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-11-28 21:33:25</date>
+            <index>41</index>
+            <phrase>රේල්පාරක් හරහා යද්දී සෑම රියදුරෙක්ම සැළකිළිමත් වියයුතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-11-28 22:27:15</date>
+            <index>42</index>
+            <phrase>දුක්ගිනි මදිවට ලැම්බොගිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-11-28 22:27:34</date>
+            <index>43</index>
+            <phrase>මොන තරම් අපරාධයක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-11-28 22:33:46</date>
+            <index>44</index>
+            <phrase>අපේ රටේ දුප්පත් මිනිහගේ වාහනේ ත්‍රී විල් එක. වෑන් එකක් ගන්න බැරි නිසානේ ඒක ගන්නේ. මෙතන නම් වැරැද්ද රියදුරාගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-28 23:56:33</date>
+            <index>45</index>
+            <phrase>සනත් සහතික ඇත්ත. ඔයාගේ වචන ටික මුතුවාගේ වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2012-11-29 00:10:38</date>
+            <index>46</index>
+            <phrase>මෝඩ කතා කියන්න එපා සරත් . කට වහගෙන ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-11-29 00:29:22</date>
+            <index>47</index>
+            <phrase>හන්දිවල නවතා තිබෙන ත්‍රී වීල් නැවතුම් වලදී ගැහැණු ළමුන්ගේ ගැන ඇහැගහගෙන ඉදලා හදුනාගෙන ,එයාලා යනෙන වෙන වෙන තැන් බලලා කොල්ලෝ කුරුට්ටෝ චේන් කඩා ගන්නවා. හන්දිවල පාරවල් අයිනේ සිටීම ඉතා භයානක කරුණක්. මේක තේරුම් ගන්න කල් යාවි. මම දන්න හින්දා ලියන්නේ. හොදයි මේක නෙමෙයිද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-11-29 00:47:55</date>
+            <index>48</index>
+            <phrase>ආසිරි (රියදුරා) ගුණ යහපත් කොල්ලෙකි, බයිසිකල් ධාවන ශූරයෙකි. මගෙත් හොඳ යහළුවෙකි. පවුලේ ප්‍රයෝජනයට ගත් ත්‍රීරෝද රියකි. කුලියට ගමන් නොගිය අයෙකි.මේ පාරවල් ගැන හොඳට දන්නා කොල්ලෙකි. මාරයාගේ වෙලාව කිසිවෙකුට වැළකිය නොහැකිය.මට හරි දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-11-29 00:50:02</date>
+            <index>49</index>
+            <phrase>බලන්න මිනිස්සු අපරික්ශාකාරිව වැඩ කලාම වන දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ</author>
+            <date>2012-11-29 01:07:28</date>
+            <index>50</index>
+            <phrase>කිසි ආත්මයක මෙවන් අකල් මරණ සිද්ද නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුස්කි</author>
+            <date>2012-11-29 01:22:07</date>
+            <index>51</index>
+            <phrase>ඔබලාට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-11-29 02:12:29</date>
+            <index>52</index>
+            <phrase>කෝච්චියක් එනවා දැක්කේ නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-29 02:13:27</date>
+            <index>53</index>
+            <phrase>ගේට්ටූ එපා. අපි මැරුණාට කමක් නැත​. ඔයාලා කාර් රේස් යන්න​. ලබන සැරෙත් අපි ඡන්දෙ දෙන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-11-29 05:11:19</date>
+            <index>54</index>
+            <phrase>මේවාට කවුරුවත් වගකියන්න ඕනෑ නැහැ. වහලා තියෙන ගේට්ටු වලින් රිංගන අයත් ඉන්නවා ඕනෑතරම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-11-29 05:08:36</date>
+            <index>55</index>
+            <phrase>දැන් ආරක්ෂිත ගේට්ටු තියෙන තැන්වල අනතුරු වලින් කිසිකෙනෙක් මැරිලා නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-11-29 05:45:11</date>
+            <index>56</index>
+            <phrase>ලංකාවේ රිය අනතුරුවලින් මිය යන ප්‍රමාණය ගොඩක් වැඩියි. රියදුරන්ගේ විනයක් නැතිකම මීට ප්‍රධානම හේතුවයි. ලයිසන් එක ගන්නේ පගා දීලා, ඕනෑ වරදක් කරලා ට්‍රැෆික් පොලිසියට ගාන දුන්නහම වැඩේ ගොඩින් බේරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුභීන්</author>
+            <date>2012-11-29 05:56:58</date>
+            <index>57</index>
+            <phrase>‍ගේට්ටුවක් දාලා දෙන්න බැරි රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-29 06:44:07</date>
+            <index>58</index>
+            <phrase>පාලකයන් මේ දේවල්වලට වග කියන්න ඕනේ. මිලියන ගණන් වියදම් කරනවා බෝරුවැඩ වලට. ජනතාවගේ ආරක්ෂාව ගැන හිතුවනම් මේ වගේ දේවල් වෙන්නේ නෑ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී ශිරානි</author>
+            <date>2012-11-29 06:56:29</date>
+            <index>59</index>
+            <phrase>මෙතන ද හැපුනේ. ඉතින් හොදට පේන තැනක්නේ. කරුමේ තමයි. පවුලේ අය ගියනිසා රියදුරා සැලකිල්ලෙන් යන්න ඇති ඒත් ඉතින් මොකද කරන්නේ. ත්‍රීවීල් එක පාර මැද නතර වේන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මාන්</author>
+            <date>2012-11-29 07:20:02</date>
+            <index>60</index>
+            <phrase>දැක්කාද ඒ වාහනය ඇදුරා ගන්න පවා බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවි</author>
+            <date>2012-11-29 07:14:06</date>
+            <index>61</index>
+            <phrase>රියදුරන්ගේ විනයක් නැතිකම අනතුරු වලට හේතුවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-11-29 07:53:18</date>
+            <index>62</index>
+            <phrase>අහිංසකයෙක් හැප්පුනා කියලා ගේට්ටු හදන්නේ නෑ. ලොක්කෙක් මැරුණනම් තමයි බලන්නේ. එහෙම වුණොත් කෝච්චි ඩ්‍රයිවරුත් රිමාන්ඩ් කරාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුලරත්න විමලගේ</author>
+            <date>2012-11-29 08:29:46</date>
+            <index>63</index>
+            <phrase>ප්‍රේමදාස ජනාධිපතිතුමා හිටියා නම් ඔතන උණ බම්බුවක් හරි තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-11-29 08:36:48</date>
+            <index>64</index>
+            <phrase>රේල් ගේට්ටුවක් තිබුණානම් මෙහෙම වෙන්නේ නෑ‍...කොහොමත් වැරැද්ද ත්‍රීවිලර්කරුගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-11-29 08:30:10</date>
+            <index>65</index>
+            <phrase>ආරක්ෂක ගේට්ටුවක් තිබුණා නම් මෙහෙම වෙන්නෙ නැහැ වගේම වැරැද්ද තියෙන්නෙත් රියදුරාගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිලන්ස්</author>
+            <date>2012-11-29 09:05:01</date>
+            <index>66</index>
+            <phrase>පේන හැටියට නම් මෙතන මහා පාර හොඳට තියෙනව. සමහර ගේට්ටු රහිත තැන්වල දුම්රිය පාර තියෙන්නේ තරමක් උසට ගැට්ටක් වගේ. එක පාරට වාහනයක යන්න අමරුයි . මෙතන ඒ කිසි ප්‍රශ්නයක් නැහැ, හොඳ කාර්පට් පාරක් වගෙයි. ත්‍රිරෝද රියදුරා කල්පනාවෙන් ගියානම් මේ අනතුර වලක්වා ගන්න තිබුණා. පුද්ගලයාගේ හොඳ ගතිගුණ, දක්ෂකම් වැඩක් නැහැ, වහයනයක් එලවනවිට නිවැරදි තීරණ ගැනීමේ හැකියාව තමා රියදුරෙක් ළඟ තිබියයුතු දෙය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-11-29 09:10:29</date>
+            <index>67</index>
+            <phrase>සනත් කියන දේ 100%ක්ම ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-11-29 09:13:25</date>
+            <index>68</index>
+            <phrase>ඒ පින්තුර දැක්කාම දුක හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලාන්</author>
+            <date>2012-11-29 09:14:21</date>
+            <index>69</index>
+            <phrase>හැමදාම උදේට අනතුරක් ගැන අහන්න ලැබෙනවා.‍ මේවාට විසදුමක් දෙන්න බුද්ධිමත් කෙනෙක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් සෞදි</author>
+            <date>2012-11-29 09:27:28</date>
+            <index>70</index>
+            <phrase>මම කිව්වනේ මීට කලිනුත් මේ කෝච්චි රියදුරන්ට විනයක් නෑ...ගාල්ලේත් බුල්ඩෝසරයක් හැපුනා මතකනේ...?මං එදාත් කිව්ව මේ කෝච්චි රියදුරන්ට දුම්රිය පදින්න බලපත්‍ර නැහැ කියල...ඒක අහල ඔවුන්ට පුහුණුවක් ලබාදීල බලපත්‍ර ලබා දුන්න නම් මෙහෙම වෙන් නෑ අද..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-11-29 09:33:55</date>
+            <index>71</index>
+            <phrase>හැමතැනකම දක්නට ලැබෙන්නේ ආශ්චර්යය ආශ්චර්යය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-11-29 10:01:19</date>
+            <index>72</index>
+            <phrase>මේ ත්‍රීවීලර් වල 12 දෙනෙකුට උනත් යන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-11-29 10:22:14</date>
+            <index>73</index>
+            <phrase>මිය ගිය සැමටම නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-11-29 10:24:28</date>
+            <index>74</index>
+            <phrase>මේවා නැවත අසන්නට නොලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-11-29 10:33:56</date>
+            <index>75</index>
+            <phrase>මෙවන් දේ නැවත අපිට අසන්නට නොලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2012-11-29 10:39:19</date>
+            <index>76</index>
+            <phrase>විනාඩි 5 ඉන්න බැරි තරමට හදිස්සිය .ත්‍රීවීලර් කරුවෝ ඔහොම්මමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-11-29 11:10:07</date>
+            <index>77</index>
+            <phrase>මේවා අපි කාටද කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩොන්</author>
+            <date>2012-11-29 11:16:45</date>
+            <index>78</index>
+            <phrase>ත්‍රී විල් එකේ යන ගණන නෙමෙයි ප්‍රශ්නේ. එක්කෙනෙක් මැරුණත් ඒත් ජීවිතයක්. වැදගත් වෙන්නේ රියදුරා‍ගේ අවධානයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-11-29 11:17:08</date>
+            <index>79</index>
+            <phrase>වාහන වෙනුවට කෝච්චිය නවත්වා වාහන වලට පාර ඉඩදී පසුව කෝච්චිය ගමන් කළොත් මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වනිතා</author>
+            <date>2012-11-29 12:12:19</date>
+            <index>80</index>
+            <phrase>ඔන්න ඕක තමයි රජයෙන් නීතියක් දැම්මේ ත්‍රී රෝද රථයක තුන් දෙනෙකුට වැඩියෙන් යන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුලසේන</author>
+            <date>2012-11-29 12:22:27</date>
+            <index>81</index>
+            <phrase>කණගාටුයි..... අතිශය කණගාටු පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-29 13:05:29</date>
+            <index>82</index>
+            <phrase>කමල්, පවුලේ කට්ටිය යන්නෙත් මීටරේට ගෙවලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක</author>
+            <date>2012-11-29 13:17:30</date>
+            <index>83</index>
+            <phrase>මගේ නම් අදහස වන්නේ රියදුරු පාසලේදී පළමුවෙන්ම ඉවසීම පුරුදු කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-11-29 14:01:43</date>
+            <index>84</index>
+            <phrase>අසරණයෝ පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-11-29 14:46:14</date>
+            <index>85</index>
+            <phrase>කනගාටුයි මට හදවතින්ම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2012-11-29 20:49:49</date>
+            <index>86</index>
+            <phrase>මට දුකයි මේ පුවත ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-11-30 10:25:00</date>
+            <index>87</index>
+            <phrase>කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-11-30 17:44:53</date>
+            <index>88</index>
+            <phrase>ඉතා මත් කනගාටු දායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිර්ති</author>
+            <date>2012-11-30 18:11:30</date>
+            <index>89</index>
+            <phrase>නිවන් සුව අත් වෙන්න ඔබ සැමටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්ම</author>
+            <date>2012-12-01 14:39:39</date>
+            <index>90</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-01 19:54:20</date>
+            <index>91</index>
+            <phrase>මෙවැන් විපත් හතුරෙකුටවත් නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

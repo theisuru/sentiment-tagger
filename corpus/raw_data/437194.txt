@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>437194</articleId>
+    <title>ජපන් අධිරාජ්‍යයා ධූරය හැරයාමේ සූදානමක්</title>
+    <author>අකිල බද්දෙවිතාන  අශෝක පිරිස්</author>
+    <date>2016 ජූලි මස 14 10:07:29</date>
+    <body>ජපන් අධිරාජ්‍යයා වන අකිහිතෝ සිය බලය අතහැරීමට සූදානම් බව ප්‍රකාශ කර ඇතැයි ජපාන මාධ්‍ය වාර්තා පවසයි.
+එළැඹෙන වසර කිහිපය ඇතුළත තමා ඉවත්වන බවත් ඔහු කියා ඇත.
+82 වැනි වියේ පසුවන අකිහිතෝ අධිරාජ්‍යයා පසුගිය වසර කිහිපයේ දී අසනීප තත්ත්වයෙන් පසුවිය. 
+ඔටුන්න හිමි නරුහිටෝ කුමරු (56) මීළඟ අධිරාජ්‍යයා ලෙස පත්වීමට නියමිතය. ජපන් අධිරාජ්‍යයාට ඉල්ලා අස්විය හැකි පරිදි ජපාන අධිරාජ්‍ය නිවසේ නීති වෙනස් කිරීමට බලාපොරොත්තු වන බවද එරට මාධ්‍ය වාර්තා කියයි.</body>
+    <comments>
+        <comment>
+            <author>රවීන්</author>
+            <date>2016-07-14 05:40:04</date>
+            <index>0</index>
+            <phrase>ජපානෙට ලංකාව ගැන හොඳ දැනුමක් තියනවා. මොකද දන්නවද අපේ රටේ අය තව තව බලය බදාගන්න හදනකොට එහෙ අය බලය බෙදන හැටි ලෝකයටම කියලා දෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවරඑළියේ වසන්ත</author>
+            <date>2016-07-14 07:27:35</date>
+            <index>1</index>
+            <phrase>ලංකාවේ වෙන දේවල් දැකලා අකිහිතෝ අධිරාජ්‍යා කලකිරිලා කියලා ආරංචි. ඒකයි බලය ඇත හැරලා යන්න තීරණය කරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2016-07-14 07:28:56</date>
+            <index>2</index>
+            <phrase>සක්විති රජකමුත් දිනක අත හරින්න වෙනවා, අධිරජකම් ගැන කුමන කතාවක්ද .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2016-07-14 09:50:32</date>
+            <index>3</index>
+            <phrase>ජපානයේ එහෙම වුණත් ලංකාවේ එහෙම වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-07-14 10:41:38</date>
+            <index>4</index>
+            <phrase>අධිරාජ්‍යයා ගැනවත් ඔහු තම රටට කළ දේවල් ගැනවත් නොදන්නා පිරිසක් ජපානෙත් තවම ඉන්නවා. එනිසා මේ අදහස් ගැන වඩා හිතන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2016-07-14 22:47:08</date>
+            <index>5</index>
+            <phrase>හිටපු ජනාධිපතිතුමා ජපානයට ඇවිල්ලා ගියාට පස්සේ නේද ඕක වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-07-15 12:17:49</date>
+            <index>6</index>
+            <phrase>දැන් මේ ප්‍රවෘත්තිය අපේ අය එහෙම දැක්කොත් මොනවා කරයිද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-07-16 17:34:45</date>
+            <index>7</index>
+            <phrase>බලන්න එහෙයි මෙහෙයි වැඩි වෙනසක් නැති හැටි. අපේ අධිරාජයාත් කලින් ගියා. එහෙ අධිරාජයාත් කලින් යන්න හදනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

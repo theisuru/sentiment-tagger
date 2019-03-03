@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465185</articleId>
+    <title>අභය වැවේ මාළුන්ට අභය දානය</title>
+    <author>රෝහණ චන්ද්‍රදාස</author>
+    <date>2016 ඔක්තෝබර් මස 06 11:31:56</date>
+    <body>අනුරාධපුර  අභය වැව හෙවත් බසවක්කුලම වැවේ මාළු ඇල්ලීම වහාම තහනම්  කිරිමට  අනුරාධපුර  පුජා  බාර කමිටුව තීරණය කළ බව අනුරාධපුර  වැඩබලන දිසාපති  හා මාතලේ මහ දිසාපති ඩී.පී.ජී.කුමාරසිරි මහතා  පැවසීය.
+දිස්ත්‍රිත් ලේකම් කාර්යාලයේ  පැවති  රැස්වීමක දී මෙම තීරණය ගැන පැහැදිලි  කළ දිසාපති රුවන්වැලිසෑය, මිරිසවැටිය, ථුපාරාමය, ශ්‍රී මහ බෝධිය ආසන්නයේ පිහිටි මෙම වැව මාළු අල්ලීමට  සුදුසු කටයුත්තක්  නොවන බව අටමස්ථානාධිපති පල්ලේගම සිරිනිවාස හිමි ඇතුළු මහා සංඝරත්නය පැවසුහ.
+අභය වැව ආශ්‍රිතව ධීවර කටයුතු ජිවනෝපාය කරගත්  පිරිසට ධීවර කර්මාන්තයේ යෙදීමට  විකල්ප ස්ථාන සොයා දෙන ලෙස අදාල ආයතන වලට  දැන්වු බව කුමාරසිරි මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-06 06:19:06</date>
+            <index>0</index>
+            <phrase>මාළු විතරද? අනුරාධපුරේ ගවඝාතනය නවත්තන්න බල කරන්න අදහසක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-10-06 07:00:45</date>
+            <index>1</index>
+            <phrase>මාළු විතරද? අනුරාධපුරේ ගවඝාතනය නවත්වන්න බල කරන්න අදහසක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2016-10-06 08:06:32</date>
+            <index>2</index>
+            <phrase>එහෙනම් අතීතයේ මජිබක (මාළු බද්ද) කියල බද්දකින් ලැබෙන අදායම විහාරස්ටනයේ නඩත්තුවට පුජා කල බව කියන සෙල්ලිපි කීයක් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූරසේන</author>
+            <date>2016-10-06 08:35:41</date>
+            <index>3</index>
+            <phrase>බාර් වහල දාන්න ඕනේ, මේ පැත්ත නාස්ති ක‍රන්නේ බීල අාපු සංචාරකයෝ තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-10-06 11:13:39</date>
+            <index>4</index>
+            <phrase>හා..හා.. මිලානෝ අව කැපෙන කතා නෙකියනු.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

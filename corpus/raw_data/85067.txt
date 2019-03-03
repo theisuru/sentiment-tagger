@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>85067</articleId>
+    <title>වලස්මුල්ලේ ගින්න අභිරහසක්</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්  සනත් ගමගේ</author>
+    <date>2012 දෙසැම්බර් මස 15 12:08:52</date>
+    <body>වලස්මුල්ල දකුණු කනුමුල්දෙණිය කහටැල්ලගෙඩ කොස් ගසක මුදුනේ සිකුරාදා රාත්‍රී 9ට පමණ හට ගත් ගින්නක් සමග ගැමියන ආරක්ෂක ස්ථාන කරා දිව ගිය බවත් ගින්නට හේතුව අහසින් වැටුණු යමක් විය හැකි බවත් ගැමියෝ කියති.  අඩි 25ක් පමණ උස මේ ගසේ ගින්න මිනිස් ක්‍රියාකාරකමකින් වු දෙයක් නොවන බව ගැමියෝ පවසති.
+ </body>
+    <comments>
+        <comment>
+            <author>නාලක</author>
+            <date>2012-12-15 12:16:18</date>
+            <index>0</index>
+            <phrase>උල්කාපාතයක් වැටෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝරාළ</author>
+            <date>2012-12-15 12:53:37</date>
+            <index>1</index>
+            <phrase>මේක දේව කෝපයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-15 13:03:25</date>
+            <index>2</index>
+            <phrase>මට නම් හිතෙන්නේ මේක රාවණා රජුගේ අග්නි සැරයක් නිසා වූ දෙයක් කියායි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-12-15 13:22:25</date>
+            <index>3</index>
+            <phrase>කවුද කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2012-12-15 13:23:18</date>
+            <index>4</index>
+            <phrase>දෙසැම්බර් 21 ෂුවර් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියුමි</author>
+            <date>2012-12-15 13:51:30</date>
+            <index>5</index>
+            <phrase>සමහරවිට උල්කාවක් වෙන්නත් පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත - ඉතාලිය</author>
+            <date>2012-12-15 14:06:47</date>
+            <index>6</index>
+            <phrase>පේන විදිහටනම් මිනිස් ක්‍රියාකාරකමක් නම් වෙන්න බැහැ. මොකක් හරි ස්වභාවික දේක බලපෑමක් වෙන්න පුළුවන්. බොහෝවිට උල්කාපාතයක ක්‍රියාකාරකමක් වෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-12-15 14:42:16</date>
+            <index>7</index>
+            <phrase>ඉබේ ගිනි ගත්ත නෙවෙයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-12-15 14:56:59</date>
+            <index>8</index>
+            <phrase>අන්න ඒ පාර දකුණේ ගිනි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-12-15 15:08:48</date>
+            <index>9</index>
+            <phrase>උල්කාවක් වැටුනට දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-15 15:11:26</date>
+            <index>10</index>
+            <phrase>අනේ ඔන්න මාව නම් ගාව ගන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-12-15 15:45:18</date>
+            <index>11</index>
+            <phrase>තවමත් මේ වෙන දේවල් ගැන මිනිසුන්ට වැටහෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-12-15 15:49:20</date>
+            <index>12</index>
+            <phrase>ඡායාරූප පළකළාට ලංකාදීපයට ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-12-15 16:19:18</date>
+            <index>13</index>
+            <phrase>පොලිසිය ඉන්නේ ඒව හොයන්න තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමහින්</author>
+            <date>2012-12-15 16:38:10</date>
+            <index>14</index>
+            <phrase>ලෝක විනාසයේ පෙර නිමිති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-12-15 17:12:20</date>
+            <index>15</index>
+            <phrase>ඉබේ ගිනි ගන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසින්ත</author>
+            <date>2012-12-15 20:01:58</date>
+            <index>16</index>
+            <phrase>උල්කාපාත වර්ෂාවෙන් එකක් වැටෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-12-15 21:53:13</date>
+            <index>17</index>
+            <phrase>බොරු කතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-12-16 11:32:28</date>
+            <index>18</index>
+            <phrase>දැන් පුලුවන් ලෙහෙසියෙන්ම ගහ කපාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙහාන්</author>
+            <date>2012-12-16 18:34:29</date>
+            <index>19</index>
+            <phrase>බුදු අම්මෝ! මේක මාහ විනාශයක ළකුණූ වෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-12-17 09:09:21</date>
+            <index>20</index>
+            <phrase>පිස්සු තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-12-18 17:30:56</date>
+            <index>21</index>
+            <phrase>අනේ! ගමටම කන්න දීපු කොස්ගහ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-12-20 10:44:30</date>
+            <index>22</index>
+            <phrase>මේක කාගේ හරි වැඩක්. මිනිස්සු රවට්ටන්න කරන වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

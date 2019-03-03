@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460219</articleId>
+    <title>මැති සබෙන් 'සිවුපාවුන්' පන්නයි</title>
+    <author>ඩයනා උදයංගනී  සුජිත් හේවාජුලිගේ</author>
+    <date>2016 සැප්තැම්බර් මස 22 13:28:38</date>
+    <body>ඇතැම් මන්ත්‍රීවරුන් පාර්ලිමේන්තුවේ දී සිවුපාවුන් මෙන් හැසිරෙන බවත් මින් ඉදිරියට එසේ හැසිරෙන මන්ත්‍රීවරුන් සම්බන්ධයෙන් ස්ථාවර නියෝග යටතේ දැඩි ක්‍රියාමාර්ග ගන්නා බවත් කතානායක කරු ජයසූරිය මහතා පැවසීය.
+කතානායකවරයා මේ බව පැවසුවේ අද (22) පාර්ලිමේන්තු රැස්වීම් ආරම්භයේ දී විශේෂ ප්‍රකාශයක් කරමිනි.
+ඒකාබද්ධ විපක්ෂයේ මන්ත්‍රීවරුන් සතුන් මෙන් පහත් ලෙස හැසිරුණු බව කී කතානායකවරයා එවැනි හැසිරීම් සභාවට නුසුදුසු බවද කීවේය.</body>
+    <comments>
+        <comment>
+            <author>විජේසුන්දර</author>
+            <date>2016-09-22 08:20:14</date>
+            <index>0</index>
+            <phrase>ආණ්ඩු පක්ෂය, විපක්ෂය සියල්ලන්ටම මේ නීතිය පොදු වියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි ජයවර්ධන</author>
+            <date>2016-09-22 08:27:27</date>
+            <index>1</index>
+            <phrase>මාංචු කුට්ටම හීනෙන් පේනවා ඇති. ඒකයි ඔ‍හොම කලබල කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාර්ඩ්</author>
+            <date>2016-09-22 10:10:05</date>
+            <index>2</index>
+            <phrase>සිරිමාවෝ බණ්ඩාරනායක මැතිනිය හිටියනම් මුන්ව මෙලහකට පන්නලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-09-22 10:15:46</date>
+            <index>3</index>
+            <phrase>වෙල්විදානේ තුමාත් ඊයේ පෙරේදා පාර්ලිමේන්තුවේ ලස්සන වචන ටිකක් කතා කළා කතානායක තුමා එතකොට නිදිද මන්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවති</author>
+            <date>2016-09-22 10:51:48</date>
+            <index>4</index>
+            <phrase>හැදෙන්න නම් ඉතින් ඇමති , මන්ත්‍රීකම අහෝසි කර දමන්න හැකි නීතිපනත් ඇති කළ යුතුය ...? නැතිව ඔය මිනිසුන් කිසිදෙයකින් හදන්න පුළුවන් මිනිසු නොවේ ..රුපියල් ..ශත වලින් හැම දේම ගණනය කරන මිනිසුන් ? බයත් කෑදරෙත් සල්ලි වලටම පමණයි ..?ඒහෙනම් රැකියාව අහෝසි කරනවා කීවාම තමයි බය වෙලා හරි හැදෙන්නේ ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-09-22 10:59:43</date>
+            <index>5</index>
+            <phrase>ඔය සිව්පාවුන් මෙන් කිව්වේ බල්ලෝ ,හරක් ,මීහරක්, වගේ සත්තු නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-09-22 12:11:07</date>
+            <index>6</index>
+            <phrase>බුද්ධිමත් උගත් යූ එන් පී මහත්වරුන්ටත් ඒ කෝලම් දැකලා දැන් තරහා ගිහිල්ලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-09-23 06:36:50</date>
+            <index>7</index>
+            <phrase>අපොයි.. එතකොට කව්ද ඉතුරු වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත අමරසිංහ</author>
+            <date>2016-09-23 08:01:01</date>
+            <index>8</index>
+            <phrase>කිරිඇල්ල, රවී සහ වෙල්විදානගෙන් පටන් ගමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

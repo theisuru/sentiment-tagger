@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>496760</articleId>
+    <title>නයිජීරියානුවා රිමාන්ඩ් : ෆේස්බුක් අනියම් පෙම හරහට හිටියි</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2017 ජනවාරි මස 06 14:08:40</date>
+    <body>ෆේස්බුක් හරහා මිතුරු වී ගම්පහ විවාහක කාන්තාවකගෙන් රුපියල් 865 000ක් වංචා කළ නයිජීරියා ජාතිකයකු ලබන 20 වැනි දා දක්වා රිමාන්ඩ් කිරීමට ගම්පහ ප්‍රධාන මහේස්ත්‍රාත් ඩී.ඒ රුවන් පතිරණ මහතා නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>පෙරෙයිරා</author>
+            <date>2017-01-07 05:07:47</date>
+            <index>0</index>
+            <phrase>නයිජීරියන් කාරයෝ ලෝක හොරු! අපේ ගෑනු ,පිටරටනම් ඕනේ හාල්පාරුවෙකුට අහුවෙනවා, පිටරට ගිහින් ජොලියේ ජීවත් වෙන්න සිහින මවල..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාරා</author>
+            <date>2017-01-07 14:04:42</date>
+            <index>1</index>
+            <phrase>ලංකාවේ කාන්තාවන් ගැන ලැජ්ජයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2017-01-08 02:10:48</date>
+            <index>2</index>
+            <phrase>අනේ මන්දා මෙහෙමත් කපටි මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

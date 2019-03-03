@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>330115</articleId>
+    <title>හිරුණිකා යුග දිවියට</title>
+    <author>තිලිණි ද සිල්වා</author>
+    <date>2015 ජූලි මස 06 13:11:56</date>
+    <body>බස්නාහිර පළාත් සභා මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මෙනවිය අද (06)  හිරාන් යටෝරවිට සමඟ යුග දිවියට ඇතුළු වූවාය.
+ඔහු නිවේදකයෙකි. නළුවෙකි. මෝස්තර ශිල්පියෙකි.
+රූපලාවන්‍ය ශිල්පි චන්දිමාල් ජයසිංහ  හිරුණිකා හැඩ ගැන්වීය.
+
+
+(හිරුණිකා රූපලාවන්‍ය ශිල්පි චන්දිමාල් ජයසිංහ සමඟ)
+
+(ඡායාරූප ෆේස්බුක් වෙබ් අඩවියෙනි)</body>
+    <comments>
+        <comment>
+            <author>හසිත</author>
+            <date>2015-07-06 09:38:41</date>
+            <index>0</index>
+            <phrase>ඔබ දෙපලට සුබ අනාගයක් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2015-07-07 05:42:29</date>
+            <index>1</index>
+            <phrase>අනාගත ජිවිතයට මගෙන් උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මානි</author>
+            <date>2015-07-08 17:30:37</date>
+            <index>2</index>
+            <phrase>දියණියනි, ඔබට සුබ පැතුම්,වාසනාවන්න්ත යුග දිවියක් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

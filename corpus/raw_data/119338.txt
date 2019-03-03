@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>119338</articleId>
+    <title>දෙහිවලට සිංහ පෝතකයෙක්</title>
+    <author>සුරංජිත් පෙරේරා</author>
+    <date>2013 මැයි මස 09 12:57:39</date>
+    <body>දෙහිවල සත්වෝද්‍යානයට දකුණු කොරියාවේ සෝල් සත්වෝද්‍යානයෙන් පරිත්‍යාග කැරුණු සිංහ පැටියෙක් අද අළුයම ගුවන් මගින් රැගෙන එනු ලැබීය. මෙම අප්‍රිකානු සිංහ පැටියාගේ වයස අවුරුද්දකි. ලංකාවට සිංහයකු තෑගි ලැබුණේ වසර 20 ට පසුවය. දැනට සත්වෝද්‍යානයේ සිටින සිංහයන් වැඩි දෙනා වයසක සත්තුය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-05-09 11:14:11</date>
+            <index>0</index>
+            <phrase>සත්වෝද්‍යානයේ විතරක් නෙමෙයි අනේ. රටේම ඉන්න සිංහයන් වැඩි දෙනා වයසක සත්තු. සමහරු වෙනත් සත්තු බවටත් හැරිලා. මෙහෙම පිටින් හරි ගේන එක ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසාම්</author>
+            <date>2013-05-09 11:41:52</date>
+            <index>1</index>
+            <phrase>දවස් දාහතරක් යන විට සියල්ල අමතක වන සිංහලයන්ට අවුරුදු 20ක් ගිහින් හරි නම රැකගන්න සිංහයෙක් ලැබුන අක ගැන සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසා</author>
+            <date>2013-05-09 11:43:57</date>
+            <index>2</index>
+            <phrase>අර අහවල් බේබිලා තුන් දෙනාගෙන් බේරාගන්න පුළුවන් වෙයිද? ඒ තුන් දෙනාගෙන් ාකානක්ට ඕකව ඕනෑ කියයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරාන්</author>
+            <date>2013-05-09 11:43:59</date>
+            <index>3</index>
+            <phrase>අර සේනාවේ රැස්වීමකට ගියොත් ඕනෑ තරම් අල්ලගන්න තිබුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2013-05-09 11:50:45</date>
+            <index>4</index>
+            <phrase>ඔහම ගියොත් කවදාහරි අපිට සිංහල පෝතකයෙක්වත් ගෙන්නන්න වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2013-05-09 12:12:54</date>
+            <index>5</index>
+            <phrase>ඇයි රටින් ගෙන්නුවේ? අපේ රටේ ඉන්නවනේ හොද හොද සිංහයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසිංහ</author>
+            <date>2013-05-09 12:19:00</date>
+            <index>6</index>
+            <phrase>ඇයි අනේ අපේ සිංහයෝ පැටටු බිහිකරන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමින්ද</author>
+            <date>2013-05-09 13:06:05</date>
+            <index>7</index>
+            <phrase>හරිම හුරුබුහුටියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශීලා</author>
+            <date>2013-05-09 13:06:58</date>
+            <index>8</index>
+            <phrase>අපේ සිංහයෝ බලු වෙලා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිලා</author>
+            <date>2013-05-09 13:08:36</date>
+            <index>9</index>
+            <phrase>සිංහයෝ කොහොම වෙතත් සිගාලයෝ නම් වැහිවැහැලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2013-05-09 13:21:08</date>
+            <index>10</index>
+            <phrase>වයස අවු.එකක් කීවට මේ ලොකු එකෙක් වගෙයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල</author>
+            <date>2013-05-09 13:23:39</date>
+            <index>11</index>
+            <phrase>අපිට ඉන්න සිංහයෝ දැන් ගොඩක් වයස බව නම් ඇත්ත කථාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-05-09 13:31:09</date>
+            <index>12</index>
+            <phrase>සිංහයෝ වගයක් හදිසියෙම ඇමරිකාවෙ ඉඳලාත් ආව කියන්නෙ ඇත්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2013-05-09 13:40:53</date>
+            <index>13</index>
+            <phrase>අසරණ සතා. ඉතුරු ජීවිත කාලයම උගේ මුළු ලෝකෙම ඔය කූඩුවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-09 13:41:46</date>
+            <index>14</index>
+            <phrase>ඉසාම්, ඔය කට්ටිය ඉතින් ඌරොනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදාර</author>
+            <date>2013-05-09 13:59:46</date>
+            <index>15</index>
+            <phrase>සිංහයා බලු වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-05-09 14:07:12</date>
+            <index>16</index>
+            <phrase>මෙහේ ඉන්න මී හරක් ටික තෑගි දෙන්න තියෙන්නේ වෙන රටවල් වලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාෆීක්</author>
+            <date>2013-05-09 14:18:38</date>
+            <index>17</index>
+            <phrase>ඇත්තටම අපේ රටේ වනාන්තරවල සිංහයෝ නැද්ද? මම අහලා තියෙන විදිහට නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-05-09 14:32:06</date>
+            <index>18</index>
+            <phrase>අන්න අන්න චතුල වැසිකිලි චතුල වෙන්න යනවා. පොඩ්ඩක් බුරන්නේ නැතිව ඉන්නම බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙල් විශේර්</author>
+            <date>2013-05-09 14:32:22</date>
+            <index>19</index>
+            <phrase>ලංකාවේ ඉන්න නරියෝ ටික තෑගි දෙන්න රටක් නැද්ද? ආසියාවේ ආශ්චර්ය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-05-09 14:33:16</date>
+            <index>20</index>
+            <phrase>ලන්කාවෙ සිංහයො වඳ වෙලා.සිංහයො සෙට් එකම මුහුණු පොතෙ අන්‍යාගමිකයන්ට ගොරවනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිසර්</author>
+            <date>2013-05-09 14:39:03</date>
+            <index>21</index>
+            <phrase>මෙයත් දන්නවද දන්නේ නැහැ ලංකාවේ බඩුමිල..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2013-05-09 14:54:13</date>
+            <index>22</index>
+            <phrase>අපේ සත්තු වත්ත ඇවිල්ල අන්තිමයි. සත්තු ඉන්නේ නිකන් හිර කාරයෝ වගේ. උන්ට හැරෙන්ඩවත් ඉඩ නැහැ. මුගේ මොක්කක් හරි පුරුවේ කරුමයක් පඩිසන් දීල සුවර් එකට. පව් වැඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-09 14:56:36</date>
+            <index>23</index>
+            <phrase>මම සිංහයාට බයයි නංගියේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-05-09 15:04:02</date>
+            <index>24</index>
+            <phrase>සිංහයෝ කොහොමත් ගාම්බීරයි. සාදරයෙන් පිළිගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදුරංග</author>
+            <date>2013-05-09 15:04:11</date>
+            <index>25</index>
+            <phrase>තව සිංහයො වගයක් ඉන්දියාවෙ අයි.පී.එල් ගහනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටෝ</author>
+            <date>2013-05-09 17:41:00</date>
+            <index>26</index>
+            <phrase>මට පොඩි ප්‍රශ්නයක් තියෙනවා. ලංකාවේ සිංහයෝ නැහැ. එහෙනම් කොහොමද ජාතික කොඩියට සිංහයා ආවේ? බුදු හාමුදුරුවෝ ලංකාවේ ඉපදුනේ නැහැ. එහෙනම් කොහොමද ලංකාව බෞද්ධ වෙන්නේ? ලංකාවේ සිංහලයා කොහොමද සිංහයා වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද ආර්</author>
+            <date>2013-05-09 20:24:24</date>
+            <index>27</index>
+            <phrase>දැන් ඉම්පෝර්ට් කරන්න වෙලා තියෙන්නේ මෙහෙ වඳ වෙලා නිසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීව්</author>
+            <date>2013-05-09 21:04:00</date>
+            <index>28</index>
+            <phrase>ඉසාම් සිංහලයන්ට බැන බැන ලජ්ජා නැතුව සිංහල පත්‍ර බලනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලොවීන්</author>
+            <date>2013-05-09 21:47:31</date>
+            <index>29</index>
+            <phrase>වරුණ, අමෙරිකාවෙන් හදිසියෙන් ඇවිත් තියෙන්නේ බලු සිංහයෝලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂර්ෆාස්</author>
+            <date>2013-05-09 22:36:19</date>
+            <index>30</index>
+            <phrase>සිංහ දේශයට පිටින් සිංහයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2013-05-10 06:05:39</date>
+            <index>31</index>
+            <phrase>සිංහ පැටව්නම් සාදරයෙන් පිලිගන්නවා. හැබැයි, කොටි පැටවුන්ට නම් ඉඩ නැහැ මේ පැත්ත පළාතේ. ඒ නිසා පිට රට ඉන්න කොටි පැටවුන්ගෙනුත් මා ඉල්ලා සිටිනවා මෙහෙට එනවනම් සිංහයන් බවට පරිවර්තනය වී එන්න කියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-05-10 08:33:54</date>
+            <index>32</index>
+            <phrase>දියවන්නාවේ කිට්ටුව ඉන්න සිංහයෝ මදිවටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-10 09:55:41</date>
+            <index>33</index>
+            <phrase>ලොවීන්, කියන්නේ මොකක්ද කියල තේරෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිනුග</author>
+            <date>2013-05-10 11:47:39</date>
+            <index>34</index>
+            <phrase>ඇන්ටෝ, කුහක වෙන එපා. තමන් ඉපදුන රටට ජාතික කොඩියට ගරහන්න එපා. ඔය පිට රටකට ගියාම ගරු කරන්නේ ඒ රටේ කොඩියට නේද. ලංකාව පාවලා දෙන්නේ ඔය වගේ ද්‍රෝහියෝ තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත...</author>
+            <date>2013-05-10 11:50:05</date>
+            <index>35</index>
+            <phrase>ලංකාවේ සිංහයෝ මදි. ඒ නිසා පිටරටෙන්වත් ගෙන්නන්න එපැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාල්</author>
+            <date>2013-05-10 11:50:37</date>
+            <index>36</index>
+            <phrase>හඳ තරු ජාතික කොඩි වල ගෙන තියන රටවල් වල බිම ඒවා වැටිලා ඇති නේද ඇන්ටෝ .කුහකකම්, ඉරිසියාව ප්‍රසිද්ධියේ පෙන්නන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2013-05-10 11:53:27</date>
+            <index>37</index>
+            <phrase>ඇන්ටෝ කියන්නේ කොටියෙක්ද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනිලා</author>
+            <date>2013-05-10 12:12:21</date>
+            <index>38</index>
+            <phrase>ඇන්ටෝලගේ මුතුන් මිත්තෝ තමයි නම්බු නාම තනතුරු වලට සුද්දන්ට රට පාවාදීලා කිතු දහම වැලද ගත්තේ. මම හරි නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2013-05-10 13:37:45</date>
+            <index>39</index>
+            <phrase>පහුගිය ටිකේ කෑගහපු කකුල් දෙකේ සිංහයන්ගේ හැටියට මම හිතුවේ ලෝකෙටම බෙදලා දෙන්න තරම් සිංහයෝ ලංකාවේ ඉන්නවා කියලා. අයියෝ බලාගෙන යද්දී සත්තු වත්තටත් සිංහයෝ තෑගි දීලා තියෙන්නේ සිංහයෝ නැති කොරියාවෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුස්තාක්</author>
+            <date>2013-05-13 17:15:15</date>
+            <index>40</index>
+            <phrase>මම නම් දකින්නේ දෙහිවල සතුන් වත්තේ මේ සතුන්ට ජිවත් වෙන්න තරම් සුදුසු පහසුකම් නැති බවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37837</articleId>
+    <title>අනවසර ඉදිකිරීමෙන් දඹුල්ල රත්වේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අපේ‍්‍රල් මස 20 11:53:02</date>
+    <body>දඹුල්ල පූජා භූමියේ අනවසර ඉදිකිරීම්වලට විරෝධය පළකරමින් සංඝරත්නය ද, මහජනයා ද දහස් ගණනින් රැස්වූහ. ඉනාමළුවේ සුමංගල රන්ගිරි දඹුලූ පාර්ශ්වයේ මහානායක හිමියන් ඇතුළු මහා සංඝරත්නය පැවසූයේ, බුදු දහමට හානිකර අයුරින් කැර ඇති ඉදිකිරීම් ඉවත් කළ යුතු බවයි. එවැනි ඉදිකිරීමක් දෙසට යන්නට වූ මහා සංඝරත්නය හා මහජනයා ඉන් වළක්වා ගැනීමට පොලිසිය හා හමුදාව ලොකු වෑයමක් දැරීය.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>එම්.ස්මිත්</author>
+            <date>2012-04-25 15:58:18</date>
+            <index>0</index>
+            <phrase>මේ ලෝකේ හැම කෙනෙක්ටම අන්තිමේදී අයිති වෙන්නේ අඩි හයක් ප්‍රමාණයක් විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-04-26 09:41:25</date>
+            <index>1</index>
+            <phrase>අපිට අපේ බෞද්ධකම අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනූෂ</author>
+            <date>2012-04-26 09:42:52</date>
+            <index>2</index>
+            <phrase>පිල් බෙදී සිටින තාක්කල් යුද්දය ද පවතින්නේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-04-26 14:47:33</date>
+            <index>3</index>
+            <phrase>අපට මතක් කර ගන්න තියෙන්නෙ මාලදිවයින ඉන්දුනීසියාව ඇෆ්ගනිස්ථානය ආදී රටවල ආදි කාලෙ තත්ත්වයයි අද තත්ත්වයයි. අසාධාරණයට විරුද්ධ නොවන්නා අසාධාරණයට නිහඩ ව උදවි කරන්ෙනකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

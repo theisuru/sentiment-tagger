@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451296</articleId>
+    <title>රෝද තුනේ මහ හොරෙක් කූඩුවේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 26 15:44:58</date>
+    <body>රුපියල් ලක්ෂ 150 ක් පමණ වටිනා ත්‍රීරෝද රිය 31 ක් සොරකම් කර කෑලි වලට විකිණූ බව කියන තරුණයෙක් අත්අඩංගුවට ගනු ලැබ සිටී. ජංගම දුරකතන කිහිපයක් සොරකම් කළැයි අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමේදී මෙම තොරතුරු සොයාගත් බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අශාන්-ජපන්</author>
+            <date>2016-08-26 12:46:35</date>
+            <index>0</index>
+            <phrase>තියන්න වටින්නෙ නැහැ මේ වගේ අය. ත්‍රීවීල් පාවිච්චි කරන්නෙ ගොඩක් දුප්පත් අය. සමහර අය අවුරුදු ගානක් පෙරුම් පුරලා ගන්නෙ. ඉතින් ඒවා හොරකම් කරලා සැප විඳිනවා කියන්නෙ කොච්චර කැත වැඩක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙහාන්</author>
+            <date>2016-08-26 16:56:42</date>
+            <index>1</index>
+            <phrase>මේක නම් එසේ මෙසේ හොරකමක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-08-27 07:14:54</date>
+            <index>2</index>
+            <phrase>අහිංසක මිනිසුන්ගේ වාහනේ ත්‍රීවීල් එක. එ්ක හොරකම් කරගෙන කන මේ වගේ තිරිසන්නුන්ගේ අත, පය කඩන්න් ඕනේ පාරේ හිඟා කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

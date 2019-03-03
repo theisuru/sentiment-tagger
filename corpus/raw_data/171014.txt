@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>171014</articleId>
+    <title>මෙන්න කූඩැල්ලා</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 සැප්තැම්බර් මස 21 23:08:23</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>උදේනි</author>
+            <date>2013-09-29 23:21:17</date>
+            <index>0</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් නෙසන්ත</author>
+            <date>2013-10-07 14:16:16</date>
+            <index>1</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>95678</articleId>
+    <title>වීරකැටියේ සිසුන්ට පාසලෙන් හරසර</title>
+    <author>පත්මසිරි ද සිල්වා</author>
+    <date>2013 ජනවාරි මස 31 11:20:33</date>
+    <body>උසස් පෙළ විභාගයෙන් ගණිත අංශයෙන් දිවයිනේ මුල් තැන දිනූ වීරකැටිය රාජපක්ෂ මධ්‍ය මහා විද්‍යාලයේ රුසිරු ගම්භීරආරච්චි සහ ජීව විද්‍යා අංශයෙන් දිවයිනේ මුල් තැන දිනූ කසුන් ලක්මාල් අද හරසරින් පිළිගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-01-31 11:27:09</date>
+            <index>0</index>
+            <phrase>මගේ ප්‍රණාමය , දෙදෙනාටම සුබ අනාගතයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2013-01-31 11:31:01</date>
+            <index>1</index>
+            <phrase>පුතුනි ඔබට ජය ! දළදා සමිදු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-01-31 11:34:57</date>
+            <index>2</index>
+            <phrase>සුබ පැතුම් දෙන්නටම ..මිනිසුන් මඩ ගහන්න එපා දක්ෂ දරුවන්ට,දකුණේ කොල්ලන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2013-01-31 11:43:45</date>
+            <index>3</index>
+            <phrase>රෝයල්, තෝමස්, ආනන්ද, නාලන්ද පරාදා වීරකැටියට මුල් තැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිනි</author>
+            <date>2013-01-31 11:43:16</date>
+            <index>4</index>
+            <phrase>සුබ පැතුම් .... ඒත් 2 දෙවනි වතාවෙත් මගේ සිහින බොඳ වුණා ප්‍රතිඵල ගැන සැකයි මට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එසෑම්</author>
+            <date>2013-01-31 11:47:31</date>
+            <index>5</index>
+            <phrase>රාජපක්ෂලා ලංකාවෙ පළමු තැන තමයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂිරාස්</author>
+            <date>2013-01-31 11:53:06</date>
+            <index>6</index>
+            <phrase>පාඩම් කරලා පඩම් කරලා මේ දරුවගේ මූණත් ඉදිමිලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා තබුක්</author>
+            <date>2013-01-31 11:58:32</date>
+            <index>7</index>
+            <phrase>පාසල නොවෙයි වටින්නේ.. රටේ උගත් පරපුර බිහිවීමයි අවශ්‍ය..උගත මනා ශිල්පයමයි මතු රැකෙනා.. සුභ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-01-31 12:10:40</date>
+            <index>8</index>
+            <phrase>රෝහණ දේශයේ අභිමානය ලෝකෙට ගෙන යන්නේ ඔබයි. ඔබ දෙදෙනාට හෘදයාංගම සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුෂාන්</author>
+            <date>2013-01-31 12:13:01</date>
+            <index>9</index>
+            <phrase>රට වෙනුවෙන් විශිෂ්ඨ මෙහෙයක් කරන්න ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-01-31 12:14:24</date>
+            <index>10</index>
+            <phrase>පුදුමයි....එක පාරම හම්බන්තොටින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩොනල්</author>
+            <date>2013-01-31 12:20:05</date>
+            <index>11</index>
+            <phrase>රටටම ඔබේ දස්කම් පෑ දිනය අදයි කසුන් , රුසිරු රන් දිවි මග ජයෙන් ජයයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුශාන්</author>
+            <date>2013-01-31 12:28:15</date>
+            <index>12</index>
+            <phrase>ප්‍රශ්නෙකට නෙවෙයි අහන්නෙ ..විද්‍යා, ගණිත දෙකම අයිලන්ඩ් ෆස්ට් වීරකැටිය රාජපක්ෂ විද්‍යාලයට ගියේ කෝමද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-31 12:33:09</date>
+            <index>13</index>
+            <phrase>මේක කොහොමත් වෙන්න බැරි වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කළුපාත</author>
+            <date>2013-01-31 12:37:41</date>
+            <index>14</index>
+            <phrase>ගමන් බිහිවෙච්ච එකනම් හොදයි. ඒත පොඩ්ඩක් සැකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු ගමගේ</author>
+            <date>2013-01-31 12:40:28</date>
+            <index>15</index>
+            <phrase>මෙතන මොකක් හරි ගැටළුවක් තියෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2013-01-31 12:45:25</date>
+            <index>16</index>
+            <phrase>මේක සැකසහිතයි මේ දෙන්නගේ මුහුණුවල සතුටක් නැති පාටයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-01-31 12:44:07</date>
+            <index>17</index>
+            <phrase>සුභ පැතුම් මල්ලිලා දෙන්නට..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-01-31 12:49:29</date>
+            <index>18</index>
+            <phrase>මේ තරම් ප්‍රීතිමත් මොහොතක ඡායාරූපවල බයෙන් සැකෙන් ඉන්නේ මොකද ? කවුරු හරි දන්න කෙනෙක් පහදා දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සද්දා</author>
+            <date>2013-01-31 12:52:16</date>
+            <index>19</index>
+            <phrase>අනාගත බුද්ධි අංකුරවලට හද පිරි උණුසුම් සුභ පැතුම්.. කොහොමත් දක්ෂයින් දේශය උගතුන් බුද්ධිමතුන් බිහිකළ බිහිකරන තක්ෂලාවක්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2013-01-31 12:54:16</date>
+            <index>20</index>
+            <phrase>කොළඹ පාසල් වලට වඩා වීරකැටියේ පාසල හොඳයිනේ බැලුවම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-01-31 13:04:48</date>
+            <index>21</index>
+            <phrase>අපොස විභාගයෙන් වැඩිම ලකුණුත් රාජපක්ෂපක්ෂ විද්‍යාලයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-31 13:14:28</date>
+            <index>22</index>
+            <phrase>අපගේ සමහරු  හරියට  ඇමෙරිකාව, යුරෝපය හැර අන් රටවලට මොකුත් බහැ යන මානසිකත්වයේ ඉන්නවනේ, මේකත් ඊට සමානයි. දරුවනි ඔබ දෙපලට සුභ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපුමල්</author>
+            <date>2013-01-31 13:18:26</date>
+            <index>23</index>
+            <phrase>යථාර්තය තේරුම් ගන්න බැරි කොළඹ අය බොරුවට මේවට කෑ ගහනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝරාල</author>
+            <date>2013-01-31 13:17:32</date>
+            <index>24</index>
+            <phrase>ඔබ දෙදෙනාට ජය .. අපි දන්නවා උසස්පෙළ කොතරම් අමාරුද කියලා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2013-01-31 13:21:08</date>
+            <index>25</index>
+            <phrase>ඇයි අහන්නේ නැත්තේ කලා වානිජ, IT වල පලවෙනි තැන් තුනම දේවී එකට ගියේ ඇයි කියලා...කුහක කම නේද ?. වීරකැටිය සෙන්ට්‍රල් එක මීට කලිනුත්, ලංකාවේ ඉහලම ප්‍රතිඵල පෙන්නපු පාසැලක්. මෙතන කට්ටියට ප්‍රශ්නේ, ඒක හම්බන්තොට වීමයි.. අනේ මේ වගේ ලාංකිකයො. රටක් දියුනු වෙයිද? ඒ ළමයි පස් දේනාට එක වගේ සුබ පතන්න පුරුදු වෙන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-01-31 13:22:31</date>
+            <index>26</index>
+            <phrase>වීරකැටියේ ආශ්චර්යය.. ජය වේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-31 13:38:13</date>
+            <index>27</index>
+            <phrase>විවේචන ගනන් ගන්න එපා.. ඔබලාගේ මහන්සියට ලැබුණ ප්‍රතිඵල ගැන ගොඩක් සන්තෝෂයි.. ඔබලාට ජය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල් ඩුබායි</author>
+            <date>2013-01-31 13:43:43</date>
+            <index>28</index>
+            <phrase>මෙවැනි හොද පුවත් දැක්කාම පහත් මානසික ප්‍රතිචාර නොදැක්වීම හොදයි.. මේ මල්ලිලා දෙන්න අපේ ලංකාවටම ආඩම්බරයක්.. වීරකැටියේ ඉන්න ළමයින් ලංකාවෙ පළමු තැනට ආවොත් ඒක සැක සහිත වෙන්නේ ඇයි.. ඒ ළමයි ඉගෙන ගන්නේ අපේ මව්බිමේ නෙමෙයිද? එයාලගේ මේ මල්ලිලා දෙන්නගේ මේ මහුණුවලින් මට නම් පේන එකම දේ තමයි ලංකාවේ මේ වයසේ ඉන්න අනිත් හුගක් ළමයන්ට වඩා ඉගෙනීමට පමණක් ඔළුවෙ තියෙන දෙන්නෙක් හැටියටයි. ආනන්දෙ නාලන්දෙ ළමයින්ට කරන්න බැරි උනදේ ශය දෙන්න කරපු එකට මම ඔය දෙන්න කරපු දේට ගොඩක් ආඩම්බර වෙනවා.. මලයෝ ඔයාලා අනාගතයේදී ලංකාවට හොද පුරවැසියන් වෙන්න මං සුභ පතනවා.. බුදුසරණයි දෙන්නටම..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-31 13:46:08</date>
+            <index>29</index>
+            <phrase>හසිනි, ඔයාගේ සැක දුරු කරගත්තානම් හොදයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමලා</author>
+            <date>2013-01-31 13:47:57</date>
+            <index>30</index>
+            <phrase>සුභ පැතුම් මල්ලිලා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2013-01-31 13:55:38</date>
+            <index>31</index>
+            <phrase>සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-01-31 13:55:32</date>
+            <index>32</index>
+            <phrase>අපෙන් සුභ පැතුම්..පාසලටත් ළමයින්ටත්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-31 14:04:59</date>
+            <index>33</index>
+            <phrase>අනේ මේ වගේ මන්ද මානසික කුහක විවේචන. දරුවනේ, ඔබලාගේ මහන්සියට ලැබුණ අභිමානය විශිෂ්ඨයි .ඒ ළමයි දෙදෙනාට සුභ පැතුම්.ජය වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොඩිකාර මලිත්</author>
+            <date>2013-01-31 14:20:28</date>
+            <index>34</index>
+            <phrase>වීරකැටිය පාසලේ ගිය වසරේ උසස්පෙළ පන්තිවල උගන්වපු දවස් ගනන ළමයින්ගෙන්ම අහලා බලන්න.. ලැජ්ජා නැතිව ඡායාරෑපවලටත් පෙනී ඉන්නවා.. අද උනත් ගිහිං බලන්න 2013 උසස් පෙළ පන්තියෙ ළමයි කීදෙනෙක් ඉන්නවාද කියලා.. උදෙත් අතිරේක පන්තිවලට යනවා ළමයි.. ළමයි දෙන්නට උණුසුම් සුභ පැතුම්.. පෞදිගලික පන්තිවල ගුරුවරුන්ට ස්තුතියි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේශාන්</author>
+            <date>2013-01-31 14:23:50</date>
+            <index>35</index>
+            <phrase>වහාම පරීක්ෂණයක් පවත්වන්න. මේ පාසලේ අනිත් ළමයින්ගෙත් ප්‍රතිඵල හෙලිකර යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත යූ</author>
+            <date>2013-01-31 14:27:14</date>
+            <index>36</index>
+            <phrase>ඉතාම හොද ළමයි.. ඔබ දෙපලගේ ඉතිහාසයත් මාධ්‍යයට කියන්න. පාසලේ විභාගවලදී පෙන්නවන ලද සමත්කම්..සහ සාමාන්‍යෙපළ ප්‍රතිඵල ශිෂ්‍යත්ව ලකුණු.. සහ අනෙකුත් ක්‍රියාකාරකම්.. මොකද ගොඩක් අයට පොඩි ගැටලුවක් තියෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2013-01-31 14:29:33</date>
+            <index>37</index>
+            <phrase>බලන්න මේ ළමයින්ගේ ඇස් දෙස. ඒවා බුද්ධිමත් සහ මොලේ තියෙන බව කියනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2013-01-31 14:34:24</date>
+            <index>38</index>
+            <phrase>පහත් මානසික ප්‍රතිචාර නොදැක්වූවානම් හොදයි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්.සී.සී. ආදි සිසු</author>
+            <date>2013-01-31 14:34:47</date>
+            <index>39</index>
+            <phrase>වීරකැටිය මධ්‍යමහා විද්‍යාලය කියන්නේ හම්බන්තොට දිස්ත්තික්කේ අංක එකේ පාසලක්.. කන්නන්ගර මැතිතුමාගේ ප්‍රථම මාධ්‍ය මහා විද්‍යාල 16 න් එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-01-31 14:42:05</date>
+            <index>40</index>
+            <phrase>හැමදාම කොළඹ 1 වෙන්න ඕන නැහැනේ.. ගමේ අය වැඩ පෙන්නන්න පටන්ගත්තා විතරයි.. හම්බන්තොට ගුවන්තොටුපොළවල් වරායවල් අධිවේගී මාර්ගවලට අමතරව ලංකාවෙ අග නගරය කරන්න.. ඔයාලට ඊරිසියයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-01-31 14:55:56</date>
+            <index>41</index>
+            <phrase>සුබ පැතුම් මල්ලියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසන් සලාම් - දෝහා</author>
+            <date>2013-01-31 14:58:48</date>
+            <index>42</index>
+            <phrase>අනේ අපේ රටේ මිනිස්සු තවමත් පහත් මානසිකත්වයෙන් කල්ගෙවනවා වගේ. නීති විද්‍යාලයේ එකම ජාතික සිසුන් පළවෙනි තැනට ආවාම ඔතන ජාතිවාදය ! එකම පාසලේ සිසුන් ‍දෙදෙනෙකු පළවෙනි තැනට ආවාම එතැන දේශපාලනය.....තවමත් අපේ අය දූපත් මානසිකත්වයෙන් මිදෙන්න කැමැති බව විටින් විට ඔප්පු කරති. දක්ෂ සිසුන් තමන්ගේ ස්ථානය ලබාගෙන තිබෙනවා. අපි ඔවුන්ගේ අනාගතය සාර්ථකවේවායි ප්‍රාර්ථනා කරමු. එකම පාසලක දක්ෂයින් කිහිප දෙනෙකු බිහිවිය නොහැකිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-01-31 15:05:05</date>
+            <index>43</index>
+            <phrase>බයෙන් බයෙන් වගේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලාම්</author>
+            <date>2013-01-31 15:08:47</date>
+            <index>44</index>
+            <phrase>නියමයි !!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුෂ නිලංක</author>
+            <date>2013-01-31 15:12:48</date>
+            <index>45</index>
+            <phrase>මේ මල්ලිලා දෙන්නටත්, එයාලාගේ දෙමව්පියන්ටත්, වීරකැටිය මධ්‍යමහා විද්‍යාලයේමේ දෙන්නට උගන්වපු ගුරුවරුන්ටත්, මෙයාලා පුද්ගලික පංතිවලට සහභාගී වුනානම් ඒ ගුරුවරුන්ටත්, මෙයාලාගේ ජයග්‍රහණය වෙනුවෙන් හද පත්ලෙන් සංතෝෂ වෙන සියලු දෙනාටමත් අපේ සුභ පැතුම්.! අ‍පේ රටේ සමහර උගත්යැයි සම්මත මිනිස්සු හිතන් ඉන්නේ. තමන්ගේ ළමයි යන පාසල් වලින් මෙවැනි ප්‍රතිඵල නිතරම ලැබෙන්න ඕනේ කියලා. පහුගිය අවුරුදු කිහිපයේම මේ වගේ දෙවල් වුණා. ඒනිසා මම දකින විදිහට අතිගරු ජනාධිපතිතුමාගේ සිහිනය වුණේ මේකයි.මොකද එතුමා ලබාපොරොත්තු වුණේ නාගරික ප්‍රෙද්ශ කිහිපයකට පමණක් සීමා වී තිබු වරප්‍රසාද ගමේ ජනතාවටත් ලබා දෙන අලුත් ශ්‍රී ලංකාවක් ගොඩනගන්නයි. ඒ වගේම, අපේ රටේ නිදහස් අධ්යාතනය වෙනුවෙන් කැප වී ක්රිටයා කළ සී. ඩබ්. ඩබ්. කන්නංගර මහත්තයාගෙත් පරමාර්ථය වුනෙත් ඒකයි. අමතක කරන්න කරන්න එපා මේ හැමෝම අපේ රටේ දරුවෝ. අපේම දරුවෝ. ඉතින් ඕනෑම දෙයක වැරැදි දකින අයට නම් මේක වැරැද්දක් වෙන්න පු‍ලුවන් ඒ වුණත් මේ හැමෝගේම කැප කිරීම කොයිතරම්ද කියලා පොඩ්ඩක් හිතලා බලන්න. ඒක මේ විදිහට හෑල්ලු කරන, ඒකට ඊර්සියා කරන අයට කවදාක්වත් හොඳක් වෙන්නේ නැහැ. ‍අනික මෙයාලාගේ නමේ අගට රජපක්ෂ කියලා නැහැනේ. එදා අපේ රටේ සමහර නායකයෝ බටලන්ද වගේ වධ කඳවුරැ දාලා මේ වගේ දරුවෝ කොච්චර විනාශ කළා ද? අනික ‍අපේ සනත්, මුරලි, කොළඹ අය නෙවෙයිනේ. තව කොච්චර උදාහරණ ඕනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීතිකා</author>
+            <date>2013-01-31 15:20:30</date>
+            <index>46</index>
+            <phrase>සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2013-01-31 15:30:53</date>
+            <index>47</index>
+            <phrase>මෙන්න දකුණේ කොල්ලෝ. රණබිමෙත් , වැඩබිමෙත් මේ ලෝකෙම අපේ රටට තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවර්ධන</author>
+            <date>2013-01-31 15:38:57</date>
+            <index>48</index>
+            <phrase>සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2013-01-31 15:43:03</date>
+            <index>49</index>
+            <phrase>හද පිරි සුබ පැතුම් .....සුබ අනාගතයක් වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරකැටිය ජනතාව</author>
+            <date>2013-01-31 15:47:16</date>
+            <index>50</index>
+            <phrase>අමතක කරන්න එපා.. වීරකැටිය මධ්‍යමහා විද්‍යාලය කියන්නේ පළමු මධ්‍යමහා විද්‍යාලයවලින් එකක්.. දහස්ගණන් වීරකැටිය විද්‍යාලයෙන් බුද්ධිමතුන් බිහිවී ඇත. ජයවේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2013-01-31 15:47:26</date>
+            <index>51</index>
+            <phrase>පහත් මානසිකත්වය කියන එක ජාතියකට පමණක් උරුම දෙයක්ද දන්නේ නැහැ.. ඉහළින් සමත්වූ ඔබ දෙපලටම උණුසුම් සුභ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-31 16:03:40</date>
+            <index>52</index>
+            <phrase>කණගාටුයි දේශාන්, ඔබගේ නමටත්  එක්ක ලැජ්ජයි,මේ ප්‍රථිඵල පිලිබඳ ඔබේ අදහස.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-01-31 16:01:59</date>
+            <index>53</index>
+            <phrase>ඔබ රටට ගෞරවයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුනි</author>
+            <date>2013-01-31 16:07:00</date>
+            <index>54</index>
+            <phrase>ඔබ දැක්වූ දක්ෂතාවයට මුළු ලෝකයේම හරසර ලැබෙනවා දුවේ පුතේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2013-01-31 16:09:34</date>
+            <index>55</index>
+            <phrase>දරුවන්ටත් පාසලටත් අපගේ ප්‍රණාමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-31 16:10:48</date>
+            <index>56</index>
+            <phrase>පුදුම අහඹුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-31 16:10:36</date>
+            <index>57</index>
+            <phrase>ඒ විභහහගෙත් නැවත තියන්න වෙයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කණිෂ්ක</author>
+            <date>2013-01-31 16:16:51</date>
+            <index>58</index>
+            <phrase>ඔසන් සලාම් - දෝහා, හොද කොමෙන්ට් එකක්. අපේ අය එක්කෝ ජාති වාදේ නැත්නම් දේශපාලනේ. ඔය දුපත් මානසිකත්වයෙන් මිදිලා රට ගැන, අනාගතේ ගැන හිතල වැඩ කරන්න. මල්ලිලා දෙන්නටම මගෙන් සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-01-31 16:22:34</date>
+            <index>59</index>
+            <phrase>මේක ගැන සැක හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෝහා</author>
+            <date>2013-01-31 16:47:02</date>
+            <index>60</index>
+            <phrase>අපේ අයට සැක හිතෙන්නේ නැත්තේ මොනවාටද? ඔක්කොම වපර ඇහෙන්නෙ බලන්නේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෑන්</author>
+            <date>2013-01-31 16:48:37</date>
+            <index>61</index>
+            <phrase>විවේඡකයන්ට දොස් කියන්නත් බැහැ. කෙසේනමුත් මෙම දරුවන්ට සුභ අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2013-01-31 16:49:58</date>
+            <index>62</index>
+            <phrase>මේක තමයි එයාලගේ දක්ෂතාවය . එයිලට සුබ පතනවා මිසක් වපර ඇසින් බලන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2013-01-31 17:05:44</date>
+            <index>63</index>
+            <phrase>ඔබ සියලු දෙනාටම ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත</author>
+            <date>2013-01-31 17:23:08</date>
+            <index>64</index>
+            <phrase>මේ පාර ප්‍රතිඵල හරි ඇති නේද ගියපාර වගේ වැරදිලාද දන්නෙත් නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යුක්ති</author>
+            <date>2013-01-31 17:34:15</date>
+            <index>65</index>
+            <phrase>උණුසුම් සුභ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේන්ද්‍ර</author>
+            <date>2013-01-31 18:05:27</date>
+            <index>66</index>
+            <phrase>දරුවන්ට මෙන්ම ගුරුවරුන්ටද අපගේ ප්‍රණාමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේන්ද්‍ර</author>
+            <date>2013-01-31 18:05:28</date>
+            <index>67</index>
+            <phrase>වසර කිහිපයක කැප කිරීමෙන් මුළු ජීවිත කාලයම සතුටුවෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලින්ද</author>
+            <date>2013-01-31 18:19:43</date>
+            <index>68</index>
+            <phrase>දේවි බාලිකා නම් කවුරුත් දන්නවා ඒත් මේ කවුරුවත් නොදන්න ඉස්කෝලයකින් දෙන්නෙක් එකපාර ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2013-01-31 18:42:57</date>
+            <index>69</index>
+            <phrase>හොද දෙයක් දෙස හොද ඇහින් බැලීම තමයි වැදගත් වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්</author>
+            <date>2013-01-31 18:47:15</date>
+            <index>70</index>
+            <phrase>පාසල කුමක් වුවත්, කොහේ තිබුණත් ළමයින්ගේ බුද්ධිමත්භාවය අපි අගය කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-01-31 19:02:30</date>
+            <index>71</index>
+            <phrase>මිනිස්සුන් කියනවා දැන් නගරයේ පමණයි අධ්‍යාපනය දියුණු කියල. මෙයින් එය බොරු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-01-31 19:06:48</date>
+            <index>72</index>
+            <phrase>දකුණෙන් බිහිවූ තවත් වීරවරුන් පිරිසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-31 19:09:48</date>
+            <index>73</index>
+            <phrase>ඔබටත් ඔබ පාසලේ සියලු ගුරු උතුමන්ලාටත් ජාතියේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-31 19:09:49</date>
+            <index>74</index>
+            <phrase>ඔබ සැම දෙනාටම ඉදිරි කටයුතු කරගෙන යාමට ශක්තිය ලැබේවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2013-01-31 19:09:57</date>
+            <index>75</index>
+            <phrase>මේ ළමයිව පාඩමකට අරගෙන අනිත් ළමයිනුත් සමත් වෙන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2013-01-31 19:12:14</date>
+            <index>76</index>
+            <phrase>බුද්ධියට ජය වේවා ! ලංකාවටම ආඩම්බරයක්. අපි ඔබට සුබපතනවා. මෝඩ කතා ගණන්ගන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2013-01-31 20:11:04</date>
+            <index>77</index>
+            <phrase>රෝයල්, ආනන්ද, නාලන්ද වල වුණත් විභාග පාස් වෙන්නේ දකුණෙන් පහ ශිෂ්‍යත්වය පාස් වෙලා ගිය කොල්ලෝම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-01-31 20:36:02</date>
+            <index>78</index>
+            <phrase>ඔබේ මහන්සියට සරිලන ප්‍රතිඵලයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-31 20:54:55</date>
+            <index>79</index>
+            <phrase>මිනිස්සුන්ට ඕනෑම දෙයක් හිතන්න නිදහස තිබෙනමුත් උසස් පෙළ ප්‍රතිඵල ගැන මෙවන් තත්ත්වයකින් සිතන්න පෙළඹීම ගැන දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2013-01-31 21:15:46</date>
+            <index>80</index>
+            <phrase>සියලු සිසුන්ට සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-01-31 21:24:56</date>
+            <index>81</index>
+            <phrase>එදත් අපේ රට එක,අදත් අපේ රට එක,හෙටත් අපේ රට එක. ඔහොම යං පුතා.. ඉතිං මොකෝ බයෙං වගේ... ආෂ්චර්යයේ කොටස් කාරයන් වීමගැන සතු‍ටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2013-01-31 21:32:47</date>
+            <index>82</index>
+            <phrase>ඔබේ කැපවීම මත ලැබුණු ප්‍රතිපලය ගැන අපට ආඩම්බරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2013-01-31 21:35:14</date>
+            <index>83</index>
+            <phrase>අපේ රටට ඔබ ආඩම්බරයක්. ගෞරවයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-01-31 21:49:07</date>
+            <index>84</index>
+            <phrase>මමනම් හිතන්නේ මේක සම්පූර්ණයෙන්ම වංචාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2013-01-31 22:08:22</date>
+            <index>85</index>
+            <phrase>ඔබ රටට සම්පතක්. ජය වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර සෙනෙවිරත්න බෝවලවත්ත</author>
+            <date>2013-01-31 22:14:35</date>
+            <index>86</index>
+            <phrase>මගේ හෘදයාංගම සුබපැතුම් මල්ලිලා දෙන්නට. අතිගරු ජනාධිපති තුමාගේ දැවැන්ත සංවර්ධන ව්‍යාපාරයේ අති ප්‍රබල සනිටුහනක් , සුබ අනාගතයක් මල්ලිලා අපගේ බැංකුවේ සියලුම අයියලගේ අක්කලාගේ සුබපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-01-31 22:18:39</date>
+            <index>87</index>
+            <phrase>කොළඹ පැත්තෙ පාසල් වල වුණත් දක්ෂකම් පෙන්වන්නේ ගම්වලින් ආපු දක්ෂයෝයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-31 23:18:42</date>
+            <index>88</index>
+            <phrase>කුහක ප්‍රතිචාර දැක් වූ අයගේ ජීවිතත් එහෙමම ඇති. ඒ වගේ අය සමාජයට පිලිලයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2013-01-31 23:47:25</date>
+            <index>89</index>
+            <phrase>සැකයෙන් බලන්න කලින් ඇස් දෙක ඇරලා බලන්න, අවුරුද්දකට කී දෙනෙක් මේ පාසලෙන් වෛද්‍ය පීඨයට, ඉන්ජිනේරු පීඨයට යනවද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-02-01 00:50:28</date>
+            <index>90</index>
+            <phrase>කොල්ලෝ කවදත් හැමදේම කරන්නේ නිශ්ශබ්දව තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-02-01 00:51:33</date>
+            <index>91</index>
+            <phrase>මේ දෙන්නටම අපට ඉත සිතින් සුබ අනාගතයකට සුබ පතමු . මේ තුල දේශපාලනයක් හෝ වෙනත් දෙයක් නොදැක අවංකව ආඩම්බර වෙමු . අපේ රටේ අධ්‍යාපන ගැන අපි සතුටු වෙමු. යාපනයත්- හම්බන්තොටත්- නුවරත්- කොළඹත් - ලංකාවම බව මතක තිය ගමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2013-02-01 02:18:57</date>
+            <index>92</index>
+            <phrase>කොළඹ පාසල් වලට ගිහිල්ලත් පාස් වෙන්නෙ ඉතින් දකුණෙන් ශිෂ්‍යත්වේ කරලා ගිය නංගිලා මල්ලිලාම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇතීනා,</author>
+            <date>2013-02-01 03:39:55</date>
+            <index>93</index>
+            <phrase>දක්ෂයින් හැමදෙනාටම සුබපැතුම්.සමහර අයගේ අදහස් ගැන හරිම කණගාටුයි.දේවිබාලිකාවේ ප්‍රතිඵල ගැන සද්දයක් නැහැ.එකම පාසලක දක්ෂ දරුවෝ.එකම පළාතක දක්ෂ දරුවෝ.......වීරකැටිය,මාතර,ගාල්ල.පුදුම වෙන්නේ හැමදාම දකුණ හෑල්ලු කරන කුහක ඊර්ශියාකර මෝඩයින්.දරුවනේ ඔබලාගේ ඉදිරි ගමනට ශක්තිය, ධෛර්‍යය නොඅඩුවම ලැබේවා!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2013-02-01 04:12:56</date>
+            <index>94</index>
+            <phrase>පසුගිය අවුරුද්දේ ලංකාවේ පාසල් ශ්‍රේණි ගත කලා, එතකොට වීරකැටිය මධ්‍ය මහ විද්‍යාලය ලංකාවෙන්ම 50 වැනි පාසැල දැන් ලංකාවෙන්ම එක ,ඒතකොට මොකද හේතුව ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2013-02-01 04:22:26</date>
+            <index>95</index>
+            <phrase>ලංකාවේ මුස්ලිම් ළමයි හරිම දක්ෂයි , එකනේ නීති විද්‍යාලයෙන් මේඅවුරුද්දේ මුස්ලිම් ළමයි වැඩි ගානක් පාස් උනේ , ඒ වගේ තමයි හම්බන්තොට ළමයිත්. දක්ෂ ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පා</author>
+            <date>2013-02-01 04:52:43</date>
+            <index>96</index>
+            <phrase>වරක් මගේ මිතුරෙක් මෙහෙම කිව්වා “ලංකාවෙ මිනිසුන්ට ඕනෑ විභාගයකින් තමන්ගෙ ළමය පාස් වෙන්න විතරක් නෙවෙයි, අනිත් අයගෙ (විශේෂයෙන්ම දන්න කියන අයගෙ) ළමයි ෆේල් වෙන්නත් ඕනි“. මේක විකාර, ආත්මාර්ථකාමි ප්‍රකාශයක් ලෙසයි මට ඒ වෙලාවෙ පෙනුනෙ. නමුත් මෙම තීරයේ පළවුණ සමහර අදහස් දැක්කම හිතෙනවා මේකෙ යම් සත්‍යයකුත් තියෙනව කියල. උසස් පෙළ විභාගයෙන් සමත් වූ සියළු දෙනාටම මගේ සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-02-01 06:17:54</date>
+            <index>97</index>
+            <phrase>අපෙනුත් උණුසුම් සුභපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආශා</author>
+            <date>2013-02-01 06:34:01</date>
+            <index>98</index>
+            <phrase>මේ මල්ලිලා දෙදෙනාටම මගේ උණුසුම් සුබ පැතුම්.. මේ ප්‍රතිඵල මුස්ලිම් පාසලක ළමුන් ලබාගත්තොත් දැන් අපේ ජාතිවාදී මාමලා වහා පරික්ෂණයක් කරන්ඩ ඕන කියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-02-01 07:42:08</date>
+            <index>99</index>
+            <phrase>උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-02-01 07:54:12</date>
+            <index>100</index>
+            <phrase>ඔබ දෙදෙනා දකුණට ආඩම්බරයක්. සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-02-01 08:22:00</date>
+            <index>101</index>
+            <phrase>වසර ගණනාවක් මහන්සි වීමෙන් සිහිනය සැබෑ කරගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල කේ. මදනායක</author>
+            <date>2013-02-01 08:57:37</date>
+            <index>102</index>
+            <phrase>කව්රුමොනවා කිව්වත් ඔයාල දක්ෂයි.ඔයාලට සුභ පැතුම්..මේ රටට අවංක සේවයක් දෙන්න..අළුත් දෙයක් ලෝකෙට දෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ</author>
+            <date>2013-02-01 09:31:05</date>
+            <index>103</index>
+            <phrase>අහිංසක මල්ලිලා දෙන්නා ලබපු ජයග්‍රහණය අවතක්සේරු කරන්න එපා. ඔබට සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්චනා</author>
+            <date>2013-02-01 11:57:44</date>
+            <index>104</index>
+            <phrase>අපගේ සමහරු හරියට ඇමෙරිකාව, යුරෝපය හැර අන් රටවලට මොකුත් බහැ යන මානසිකත්වයේ ඉන්නවනේ, මේකත් ඊට සමානයි. දරුවනි ඔබ දෙපලට සුභ පැතුම්කව්රුමොනවා කිව්වත් ඔයාල දක්ෂයි ඔබ දෙදෙනා දකුණට ආඩම්බරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2013-02-01 13:29:24</date>
+            <index>105</index>
+            <phrase>සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2013-02-01 13:34:03</date>
+            <index>106</index>
+            <phrase>උත්සාහයේ උපරිම ප්‍රතිඵල ලද්දී..... සතුටුයි අසන්නට මේ වගෙ හොඳ සිද්ධී..... හමුවේ බොහෝ බාධක ජීවන මගදී..... මෙලෙසම ජයෙන් ජයවේවා ඉදිරියෙදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2013-02-01 19:28:58</date>
+            <index>107</index>
+            <phrase>මොකක්දෝ පටලැවිල්ලක් ම‍ගේ හිත තුළත් උපන්නා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වත්සලා</author>
+            <date>2013-02-02 10:59:02</date>
+            <index>108</index>
+            <phrase>සුබ පතනවා මල්ලිලා දෙන්නටම .රටට වැඩක් කරන්න මේ ර‍ට යන අත හොයාගන්න බැරුවයි අපි මේ ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2013-02-02 17:02:52</date>
+            <index>109</index>
+            <phrase>මෙය ගම්වල දරුවන්ගේ පිබිදීමක්. හමිබන්තොට පාසැලක් වුන නිසා නේද මෙහෙම මඩ ගහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-02-02 20:08:31</date>
+            <index>110</index>
+            <phrase>හැමදේම සැකෙන් බලන්න එපා. ඒ දරුවන්ට සුභපතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2013-02-03 16:21:05</date>
+            <index>111</index>
+            <phrase>ලෝකෙම බබළවන්න ශක්තිය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩේවිඩි</author>
+            <date>2013-02-04 15:16:00</date>
+            <index>112</index>
+            <phrase>මේකටත් කී දෙනෙක් ආණ්ඩුවට බැන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2013-02-05 16:03:42</date>
+            <index>113</index>
+            <phrase>පාසැල නෙමෙයි වැදගත්. ළමයින්ගේ දක්ෂකමි අගයන්න. අපේ විශ්ව විද්‍යාලයේ නමි ඔය පැත්තෙන් ආපු ළමයි ඕනතරම් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරු</author>
+            <date>2013-02-05 20:05:11</date>
+            <index>114</index>
+            <phrase>දකුණේ අය කවදත් දක්ෂයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22772</articleId>
+    <title>”කොටි පුල්ලි තාමත් තියෙනවා”</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 ජනවාරි මස 20 13:03:49</date>
+    <body>උතුරු නැගෙනහිර යුද්ධය අවසන් වුවත් ත‍්‍රස්තවාදීන් දේශපාලන පක්ෂවලට මුවාවී අවුල් ඇතිකිරීමට කැස කවතියි ආරක්ෂක ලේකම් ගෝඨාභය රාජපක්ෂ මහතා මාතලේ කොහොන්වලදී පැවැසීය. යුද්ධයේදී මාතලේ දිසාවෙන් දිවිපිදූ රණවිරුවන් 2217 දෙනකු වෙනුවෙන් උත්තම පූජා පදක්කම් පිරිනැමීම සඳහා උත්සවය පැවැත්වීය.
+ත‍්‍රස්තවාදී කටයුතු වලදී අතුරුදන් වන අය ගැන රජය හෝ යුද හමුදාව වග නොකියන බවද ඇතැම් විදේශ සංවිධාන ත‍්‍රස්තවාදීනට උඩගෙඩි දෙන බවද ආරක්ෂක ලේකම් කීවේය.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-01-20 13:15:54</date>
+            <index>0</index>
+            <phrase>ඒ පුල්ලිත් මකන්න ඔබතුමාගේ නායකත්වය ආදර්ශයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2012-01-20 13:38:06</date>
+            <index>1</index>
+            <phrase>ඔබතුමා රටට ආදරය කරන අයෙක්. ඔබතුමා නිසා අපේ අග නගරය හරිම පිලිවෙලයි , ලස්සනයි . ඔබතුමගේ කෑපව්මට අපේ උත්තමාචාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-01-20 15:01:14</date>
+            <index>2</index>
+            <phrase>ඔබතුමා අපිට වටින සම්පතක්. ඒත් කවදාවත් දේශපාලනයට එන්න එපා. ඔබට බුදු සරණයි මැතිතුමනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදූපා</author>
+            <date>2012-01-20 15:46:46</date>
+            <index>3</index>
+            <phrase>ඔය පුල්ලි ටිකත් සෝදලා දාන්න ගෝ‍ඨාභය මහත්තයෝ අපි ඔබේ සහායට ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

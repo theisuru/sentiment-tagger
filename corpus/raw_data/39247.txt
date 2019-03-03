@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39247</articleId>
+    <title>සුළු දිය දාලා - පනහක් ගෙවලා</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අපේ‍්‍රල් මස 27 15:59:30</date>
+    <body>කොළඹ කොටුවේ පැරැණි ලන්දේසි රෝහල ඉදිරිපිට අවන්හලක් අසල සුළුදිය පිට කළැයි පී. වික්‍රමසිංහ නම් පුද්ගලයකුට කොළඹ කොටුව මහේස්ත්‍රාත් කණ්ෂික විජේරත්න මහතා රුපියල් පනහක දඩ ගැසීය. බීමතින් සිටි ඔහු පොලිස් ආඥාපනතේ හැට දෙවැනි වගන්තිය කඩ කළැයි වැරැදිකරු විය.</body>
+    <comments>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-04-27 16:19:27</date>
+            <index>0</index>
+            <phrase>පොලිස් ආඥාපනතේ හැට දෙවැනි වගන්තිය මොකක්ද? අපිත් දන්නේ නැ හරියටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්‍රමසිංහ</author>
+            <date>2012-04-27 16:37:34</date>
+            <index>1</index>
+            <phrase>මං හෙටත් දානවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-04-27 17:02:25</date>
+            <index>2</index>
+            <phrase>වැසිකිලියට ගියත් කොළඹ රුපියල් 20 ගන්නවනේ. ගදක් නැතිව දාලා 50 ක් ගෙව්වට පාඩු නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-04-27 17:21:21</date>
+            <index>3</index>
+            <phrase>වික්‍රමසිංහ, ඔබ ආවේ බලු පවුලකින්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-04-27 17:22:43</date>
+            <index>4</index>
+            <phrase>ලංකාවේ අයට නීති කඩන්න හරිම ආසාවක් තමයි තියෙන්නේ. ඒක වීරකමක් කියලා හිතනවද මන්දා ...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.සෝදක</author>
+            <date>2012-04-27 17:26:31</date>
+            <index>5</index>
+            <phrase>සීයක්ම එකපාර ගෙවල ආවනම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුවත් විපරමා</author>
+            <date>2012-04-27 18:25:45</date>
+            <index>6</index>
+            <phrase>පොලීසිය ලොකු හපන්කමක්නෙ කරලා තියෙන්නේ. අපේ රටේ මීට වඩා වැරදි කරන අය ඇත්තෙම නෑ. සැකකරු අත්අඩංගුවට ගත් ඒ පොලිස් නිලධාරීන්ට උසස්වීමක් දෙන්න වටිනවා කරපු හපන්කමට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-04-27 18:55:50</date>
+            <index>7</index>
+            <phrase>හෙටටත් එක්ක 100ක් ගෙවන්න තිබුනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-04-27 19:34:17</date>
+            <index>8</index>
+            <phrase>කොළඹ ගද ගහන වැසිකිලිවලට ගියත් රුපියල් 20 ගන්නවනේ. ගදක් නැතිව දාලා 50 ක් ගෙව්වට පාඩු නැහැ. නිලන්ත කියන්නේ සම්පූර්ණ ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-04-27 19:36:24</date>
+            <index>9</index>
+            <phrase>ආතල් එකේ හුලග වැදි වැදි සුලු දිය දාලා 50/ ගෙව්වහම මොකද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-04-27 19:45:28</date>
+            <index>10</index>
+            <phrase>අනේ මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී. වික්‍රමසිංහ</author>
+            <date>2012-04-27 19:47:04</date>
+            <index>11</index>
+            <phrase>ලංකා වේ කොහෙද සල්ලි නොගෙවා මුත්‍රා කරන්න තැනක් තියෙන්නේ...සල්ලි ගෙව්වත් එතන අපායක් නිකමට හිතල බලන්න කොළඹ කොටුවේ පැරැණි ලන්දේසි රෝහල ගාව එක ප්‍රසිද්ධ වැසිකිලියක් තියෙනවද හදිසියකට යන්න... අඩු ගානේ ජංගම වැසිකිලියක් වත් තියෙනවා ද ප්‍රසිද්ධ ස්ථාන වල ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-04-27 20:14:07</date>
+            <index>12</index>
+            <phrase>කොළඹට පිටින් එන අය දන්නේනෑ වැසිකිලි කොතනද තියෙන්නේ කියලා. එමනිසා නිවැරිදි සංඥා යොදා මිනිසුන්ට ඒවා තියෙන ස්ථාන පිලිබඳව දැනුවත් කරන්න ඕන දියුණු රටවල වගේ. ජනාකීර්ණ කොළඹට මීටවඩා වැසිකිලි අවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිනා</author>
+            <date>2012-04-27 20:53:37</date>
+            <index>13</index>
+            <phrase>පොඩි මිනිහගේ සුලු දිය දාන එක් තමයි පොලීසියටත් පේන්නේ. ලොකු මිනිසුන්ගේ වැරදි කාටවත් පෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් යාපා</author>
+            <date>2012-04-27 21:05:50</date>
+            <index>14</index>
+            <phrase>සුළු දිය කියන්නේ මොනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-04-27 21:30:24</date>
+            <index>15</index>
+            <phrase>මේ වගේ දේවල් වලට අපි අඩන්න ඕනේ. මනුස්සයෙකුට ඒ වගේ අවශ්‍යතාවක් දැනුනම එයට නියමිත තැනක් නැත්නම් කොහේහරි තැනකට මුවාවෙලා හරි ඒක කළාට කමක් නැහැ. ලංකාවේ මොන තරම් අපරාද වැරදි කරන අය ඉන්නවදා. කෝ ‍ඒ අයට නීතිය නැද්ද. කෞතුකාගාරයේ තිබුණු පුරාණ වටිනා දේවල් අරංගියා. කෝට්ටේ හාමුදුරුවරු දෙන්නෙක් ඝාතනය කළා. කෝ ඒවට නතිය. පොලිස් පොත් වල මේවට වගන්ති වෙන් කරල නැද්ද ? මේවා කාට කියන්නද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-04-27 21:56:03</date>
+            <index>16</index>
+            <phrase>පොලිස්‌ පනතේ 62 වගන්තිය යනු මගෙ හිතේ,පිටරටක හැංගිලා කරන දේ ලංකාවේ එලිපිට කිරීමේ වරද විය යුතුයි.කාලය කා දමන් නැතුව එවෙලේම දඩ ගහන ක්‍රමයක්‌ ඇති කල යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-04-27 22:24:47</date>
+            <index>17</index>
+            <phrase>හොඳ වෙලාවට රු. 50 ක් ගත්තේ 5000 ක් වගේ ගත්තනම් තව පාරක් සුලු දිය පිට වෙන්න තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද් මි</author>
+            <date>2012-04-27 22:31:23</date>
+            <index>18</index>
+            <phrase>පොලිස් ආඥාපනතේ හැට දෙවැනි වගන්තිය යනු ප්‍රසිද්ද ස්ථාන වල චූ දාන්න එපා කියන එක වෙන්ටැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂීහාම්</author>
+            <date>2012-04-30 14:34:54</date>
+            <index>19</index>
+            <phrase>හොද ළමයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

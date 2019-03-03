@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468069</articleId>
+    <title>මල්වාන ඉඩම වෙන්දේසියේ විකුණයි:ඒ ඉඩමත් බැසිල්ගේ නොවේලු</title>
+    <author>ටෝනි කරුණානායක උපාලි රණවීර බුද්ධික කුමාරසිරිජායාරූප සුදත් පුබුදු කිර්තී</author>
+    <date>2016 ඔක්තෝබර් මස 14 15:11:55</date>
+    <body>මල්වානේ මාපිටිගම ඉඩමක් සම්බන්ධයෙන් හිටපු ආර්ථික සංවර්ධන ඇමැති බැසිල් රාජපක්ෂට එරෙහිව පවරා තිබූ නඩුවේ තීන්දුව ලබාදෙමින් පූගොඩ මහේස්ත්‍රාත් ඩී.ඒ.රුවන්පතිරණ මහතා නියෝග කළේ එම ඉඩම ප්‍රසිද්ධ වෙන්දේසියේ විකුණා ලැබෙන මුදල් නඩුවට බැර කරන ලෙසයි.
+බැසිල් රාජපක්ෂ උසාවියට කියා තිබුණේ අක්කර 16කින් යුත් එම ඉඩම තමාට අයත් නොවන බවයි.
+මාතර බ්‍රව්න්ස්හිල් හී ඔහුට අයත් බව කියන ඉඩමක් සම්බන්ධ නඩු විභාගයකදී පැවසුයේ එය තමාට අයිති නැති බවයි</body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර කුවෙට්</author>
+            <date>2016-10-14 05:00:46</date>
+            <index>0</index>
+            <phrase>බයියන්ට දුක දැනේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2016-10-14 05:35:19</date>
+            <index>1</index>
+            <phrase>අපිටත් මෙහෙම ඉඩමක් ලැබුණානම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරු</author>
+            <date>2016-10-14 07:00:43</date>
+            <index>2</index>
+            <phrase>මගෙත් නෙවෙයි ඔය ඉඩම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-10-14 07:21:03</date>
+            <index>3</index>
+            <phrase>මේ විදියට බලපුවහම හොරෙක් බඩුත් එක්ක අහු වුණොත් හොරබඩුටික පොලිසියට බාර දුන්නහම නිදහස් වෙලා ගෙදර යන්න පුළුවන් වෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධිකා</author>
+            <date>2016-10-14 07:22:45</date>
+            <index>4</index>
+            <phrase>කොහොමත් මේ ඉඩම් බැසිල්ට අයිති නැ. ඒ මිනිස්සු ගත්තත් ඒවා මැදමූලනින් ගෙනාව සල්ලි නෙවෙයි ජනතාවගේ මුදල්.රටේ ආර්ථිකය විනාශ කරලා තවත් කල්පනාව බලයට එන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-10-14 07:37:27</date>
+            <index>5</index>
+            <phrase>බහිරවයාට සතු ඉඩමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-10-14 07:51:46</date>
+            <index>6</index>
+            <phrase>තමන්ට අයිති කිවුවොත් ලෙඩක් නිසා අයිති නෑ කියල බේරෙන්න තව මේ අප්පල හිටියනම් රට ඉවරයි නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2016-10-14 08:12:13</date>
+            <index>7</index>
+            <phrase>එහෙමනම් තමන්ට අයිති නැති ඉඩමකට බොරු නඩුවක් පැටලුවට බැසිල් මහත්මය වන්දි ඉල්ලලා නඩුවක් දාන්න එපැයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-10-14 08:25:28</date>
+            <index>8</index>
+            <phrase>මල්වානේ ඉඩම විතරක් නෙමෙයි හොදට හොයල බලන්න ලංකාවේ හැමතැනම රාජපක්ෂලාට ඓති ඉඩම්, නිවාස, හෝටල්, මර්මස්ථාන තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-10-14 08:26:45</date>
+            <index>9</index>
+            <phrase>අයිති කරුවන් නොමැති අධි සුකොපබෝගී මන්දිරත් 7-8ක් ඇමරිකාවේ තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-10-14 08:27:21</date>
+            <index>10</index>
+            <phrase>එතකොට කම්බා හොරුන්ට කිසිම දඩුවමක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-10-14 08:32:42</date>
+            <index>11</index>
+            <phrase>ලංකාසිරි "එහෙමනම් තමන්ට අයිති නැති ඉඩමකට බොරු නඩුවක් පැටලුවට බැසිල් මහත්මය වන්දි ඉල්ලලා නඩුවක්" ......ඉවසල ඉන්නකෝ ඒකත් ලගදීම එනවා.අපි නොදන්නා රාජපක්ෂලා.. (අ).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-10-14 08:34:34</date>
+            <index>12</index>
+            <phrase>රාජපක්ෂලා පොඩි කාලෙදිම ලජ්ජා නහරය කපලයි රටට දායාද කරලා තියෙන්නේ.ඒ නිසා අපිට ලජ්ජා දේවල් එයාලට ගෞරවයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-10-14 08:38:45</date>
+            <index>13</index>
+            <phrase>ඔප්පුවක් නැති ඉඩමක් නම්, රජයේ ඉඩමක් වෙන්න ඕන මම හිතන්නේ. ඉතිහාසයේ පළමු වතාවට රජයේ ඉඩමක් රාජසන්තකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙදගේ</author>
+            <date>2016-10-14 08:47:13</date>
+            <index>14</index>
+            <phrase>බැසිල්ගේ කියූ කිසිවක් බැසිල් ගේ නොවේ බැසිල් ගේ කියනා දේවල් මහජනයාගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2016-10-14 08:52:26</date>
+            <index>15</index>
+            <phrase>ඒ කියන්නේ පික් පොකට් ගහලා අහු වුනත් කියන්න පුළුවන් මේ පොකට් එක මගේ නොවෙයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවර්ධන</author>
+            <date>2016-10-14 09:03:57</date>
+            <index>16</index>
+            <phrase>කවුරු මේ ඉඩම ගනීද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2016-10-14 09:04:09</date>
+            <index>17</index>
+            <phrase>දුක තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන</author>
+            <date>2016-10-14 09:16:21</date>
+            <index>18</index>
+            <phrase>අනේ අපෙත් නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් කුමාර</author>
+            <date>2016-10-14 09:43:46</date>
+            <index>19</index>
+            <phrase>ඉඩම් විකුණා මුදල් නඩුවට බැර කිරීම පමණක් ප්‍රමාණවත් නොවේ. මෙම දේශ ද්‍රෝහීන්ට නිසි දඬුවම් කිරීම ද අවශ්‍ය වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-10-14 09:58:33</date>
+            <index>20</index>
+            <phrase>මේ ඉඩම අරගෙන තියෙන්නේ අනුන්ගේ සල්ලි වලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-14 10:36:15</date>
+            <index>21</index>
+            <phrase>මේකත් හරියට අර \' මගේ නොවන මගේම ඉඩමක්\' වගෙයි පෙනෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2016-10-14 12:22:31</date>
+            <index>22</index>
+            <phrase>මේ නඩුවේ නීතිමය පදනම ගැන දන්නා නීතිවේදියෙක් අපිටත් කියලා දෙන්නකෝ. නඩු භාණ්ඩයක් තියෙනවා. අයිතිකරුවෙක් නැතිලු. මට නිකන් පිස්සු වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2016-10-14 13:04:39</date>
+            <index>23</index>
+            <phrase>අන්තිමට අපිට බය තියෙන්නේ, මොහුගේ පවුලේ අයත් ඔහුගේ නෙමෙයි කියයිද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2016-10-14 13:06:29</date>
+            <index>24</index>
+            <phrase>ඕනෑම දුරචාරයක් කරලා මගේ නෙමේ, මම දන්නේ නැහැ, මට මතක නැහැ කියන එක දැන් දේශපාලුවන්ගේ අලුත්ම කලාවක් වෙලා. අර ඇමරිකා වල තියෙනවා කිවුව ගේත් මෙයාගේ නෙමෙමයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-10-14 13:08:18</date>
+            <index>25</index>
+            <phrase>මෙයාගේ මේ අක්කර 16 නිදහස් කර පවරා දෙමු. මොකද ඔහු මුළු ලංකාවේම ඉඩම් ටික කොටියාගෙන් අපට බේරා දුන්න කෙනානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-10-14 13:12:16</date>
+            <index>26</index>
+            <phrase>මට මගේ නොවන මගේම ගෙදරක් තිබුණා..........!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-14 13:31:00</date>
+            <index>27</index>
+            <phrase>මට මගේ නොවන මගේම ඉඩමක් තිබුනා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලීන්</author>
+            <date>2016-10-14 13:50:11</date>
+            <index>28</index>
+            <phrase>හොරකමක් කරලා අහුවුණාම මගේ නෙමෙයි කියල බේරෙන්න පුළුවන් එහෙනම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-10-14 14:06:13</date>
+            <index>29</index>
+            <phrase>ඕවා ජනසතු කළාට බැසිල්ලට පාඩු නැහැ. මොකද හොරකම් කළ සල්ලිනෙ. බැරිද ඇමෙරිකාවෙ තියෙන ඒවා ගත්තෙ කොහොමද කියලා බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-10-14 14:18:39</date>
+            <index>30</index>
+            <phrase>මේ නඩු නම් හොඳයි කැකිල්ලේ රජ්ජුරුවන්ගේ කාලෙට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මලී පෙරේරා</author>
+            <date>2016-10-14 14:20:49</date>
+            <index>31</index>
+            <phrase>ජනතාවට අයිති මුදල් වලින් ගත් ඉඩම නැවත ජනතාවට ලැබීම සතුටක්. නමුත් ජනතාව දන්නවා හොරා කවුද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2016-10-14 14:32:53</date>
+            <index>32</index>
+            <phrase>මේක ඉඩමක්.ලස්සන කෙල්ලක් නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-10-14 14:54:49</date>
+            <index>33</index>
+            <phrase>අයිතිකරු කාවද කියල සොයන්න ඔච්චර මහන්සි වෙන්නේ මොකටද ? ඉඩම් කච්චේරියෙන් පුලුවනිනේ . මේවා නිකම්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙමාඩ්</author>
+            <date>2016-10-14 14:55:43</date>
+            <index>34</index>
+            <phrase>මේ අය පට්ට හොරු ඕවා ලබාගන්න තමයි යළි මේ අය මෙච්චර දඟලන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-10-14 15:17:31</date>
+            <index>35</index>
+            <phrase>බලනකොට මාමලා, පුතාලා ඇමතිකම් අරන් තියෙන්නේ රජයේ දේපල අයිති කරගන්න. හැමටම කරදරයක් වෙලා තියෙන කුණු කන්ද විතරයි රජයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-10-14 15:18:25</date>
+            <index>36</index>
+            <phrase>අනේ මන්දා මෙහෙමත් දේවල්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහරුෆ්</author>
+            <date>2016-10-14 15:18:27</date>
+            <index>37</index>
+            <phrase>ඔප්පුවේ නමක් සඳහන් වෙන්නෙ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිපෙ</author>
+            <date>2016-10-14 15:28:04</date>
+            <index>38</index>
+            <phrase>කෝ අනේ මල්වාන වුණාට රඹුටන් ගස්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-10-14 15:45:57</date>
+            <index>39</index>
+            <phrase>බැසිල් මහත්තයා ඉඩමක් රජයට පරිත්‍යාග කළා කියලා රාජපක්ෂ පරම්පරාවම, පරම්බාවි වසර ගණනාවක් යනතුරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-10-14 15:53:05</date>
+            <index>40</index>
+            <phrase>ලංකාවේ අයිතිකරුවන් නොමැති ඉඩම් සියල්ලටම බැසිල් වගකිවයුතුද? ඔය ඉඩම බැසිල්ගේ කිව්වේ කවුද? කටකතා වලට නඩු දාන්න පුලුවන්ද? සමාවෙන්න මම නොදන්නා හින්දයි ඇහුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2016-10-14 15:58:34</date>
+            <index>41</index>
+            <phrase>තනි මිනිසෙකුට කොහොමද මෙච්චර දේපොලක් අයිතිවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරන්ත</author>
+            <date>2016-10-14 16:19:24</date>
+            <index>42</index>
+            <phrase>ඉතින් මේ ඉඩමේ ඔප්පුව තියෙන්නේ කාගෙ නමටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවුෂාඩ්</author>
+            <date>2016-10-14 16:20:21</date>
+            <index>43</index>
+            <phrase>තමන්වත් තමන්ට අයිති නැතිකොට තව මොන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-14 16:39:35</date>
+            <index>44</index>
+            <phrase>රාජපක්ෂලා නැත්නම් ඔය බනින සමහරුත් අද පස් යට. මේවා සේරම මඩ. කොහොමහරි රාජපක්ෂලාව ඇතුළට දාන්න බලන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-14 16:53:59</date>
+            <index>45</index>
+            <phrase>බනින්න එපා. මමත් ඔබ සමඟයි ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීම්</author>
+            <date>2016-10-14 16:56:01</date>
+            <index>46</index>
+            <phrase>අපි පර්චස් 2ක් නීත්‍යානුකුලව මිලදී ගත්තත් හොයාබලනවා. මේ රටේ අක්කර 10-15 නීතිවිරෝධීව ගන්න අයට දෙන දඬුවම් වලට පුදුම හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණි - වැලිවේරිය</author>
+            <date>2016-10-14 17:16:26</date>
+            <index>47</index>
+            <phrase>දුප්පත් මිනිහෙක් හොරකමකට සැක කරලා පොලිසියට අල්ලාගෙන ගියාම දෙන වද ටික මෙයාටත් දුන්නා නම් ඔක්කොම වමාරයි. ගම්පහ මිනිස්සු බලාගෙන ඉන්නේ අල්ලාගන්න. අපිට මතකයි කොහේදෝ ඉඳලා ඇවිල්ලා ගම්පහ පැත්තේ රජ කළා. ගම්පහ එයාගේ කවුරුවත් නැහැ. ආයේ මෙහෙ එන්නත් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-10-14 17:18:15</date>
+            <index>48</index>
+            <phrase>හැමෝම හිතන විදියට වංචාවෙන් හෝ බැසිල් මේ ඉඩම් ගත්තා නම්, එම ඉඩම් ඔහුගේ නොවෙයි කියන්නේ තවත් වංචා හිතකින්. හැමෝම ගොනාට අන්දන්න වෙන්න පුළුවන්. ජැක්පොට් එක ඇදුනේ රජයට. බැසිල්ට ඉස්සර මෙම ඉඩම් හිමිකරුව සිටි අයට මොනවද ලැබුනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-14 17:25:12</date>
+            <index>49</index>
+            <phrase>ඉඩම බැසිල්ගේ කියලා ඔප්පු කරන්න සාධක නැත්නම් ඇයි බොරුවට නඩු දැම්මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2016-10-14 17:43:22</date>
+            <index>50</index>
+            <phrase>අයිති නැති ඉඩමකට නඩු දාලා කට්ටිය නිකන් සවුත්තු වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-10-14 18:05:03</date>
+            <index>51</index>
+            <phrase>අනේ මන්දා අපේ මිනිසුන්ට කොහොම තේරුම් කරන්නද කියලා. දැන් මේ හදන්නේ රජයේ ඉඩමක් වෙන්දේසි කරන්නනේ. මේක කාගේහරි ලොකු සැළැස්මක්. ඉඩම වටිනා නිසා, කාගේහරි නමට අමුණලා නඩුවක් දාලා, එ්ක වෙන්දේසි කරවනවා වෙන්න බැරිද. මහා මොළකාරයා ඕක වෙන්දේසියෙන් ගනීවි. අපි රාජපක්ෂලාට ගොරව ගොරවා ඉමු ඉතින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2016-10-14 19:45:56</date>
+            <index>52</index>
+            <phrase>ටිකිරි බණ්ඩා, ඔය දේශපාලන පිටියට බහින්න පෙර කවුරුත් ලැජ්ජා කපාගන්නම ඕනෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් -ඩුබායි</author>
+            <date>2016-10-14 20:07:24</date>
+            <index>53</index>
+            <phrase>අපි දැක්කා ඔය මාළිගාවේ ෆොටෝ. මේ වගේ පොල් ගස්/වත්ත දැක්කහම හිතන්නේ නම් නිකන්ම පොල් ඉඩමක් කියලා. සත්‍ය දකින්න බදු ගෙවන අපිට අයිතිය තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-10-14 20:12:33</date>
+            <index>54</index>
+            <phrase>අර සාමාන්‍ය මිනිසුන්ට ඇත්ත කියවාගන්න පොලිසියේදී කරන විදියට එකපාරක් කළා නම් ඇත්ත කියවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-10-14 20:59:09</date>
+            <index>55</index>
+            <phrase>හැබැයි රණවිරුවෝ තමා මේ නිවාස හදන්න වැඩිපුර මහන්සි වුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-10-14 21:05:13</date>
+            <index>56</index>
+            <phrase>කීයක් වටිනවද? මම ගන්න කැමතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-10-14 21:34:42</date>
+            <index>57</index>
+            <phrase>ජයවර්ධන, ගත්ත කෙනා පස්සෙ දවසක මේ වගේ උසාවියකදී කියාවි මට මේක ගන්න සල්ලි දුන්නේ අහවලා කියලා. එතොකට අහවලා කියාවි මේක මගේ නොවේ කියලා. ආයෙත් වෙන්දේසි කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2016-10-14 22:13:51</date>
+            <index>58</index>
+            <phrase>මම හිතන්නේ මේ ඔක්කොම ඉඩම් අපේ ආච්චිලා ආතලාගේද කොහෙද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-14 22:21:23</date>
+            <index>59</index>
+            <phrase>බැසිල්ට උදව් කරන කණ්ඩායමක් දැනුත් ඉන්නවා. විශේෂයෙන් දේශපාලන බලවතෙක්. රටේ ජනතාව දැනගන්න ඕනෑ ඔවැනි සැලසුම් සුන්නද්දූලි කරලා දාන්න. ඔය කට්ටියේ ගෑවුන කෙනෙකුට ඡන්දය දෙන්න නරකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-14 22:30:32</date>
+            <index>60</index>
+            <phrase>මාගේ යයි කියූ කිසිවක් මාගේ නම් නොවේ. මාතරින් ඇසෙන ඉඩමත් මාගේ නම් නොවේ. මාතරයි මල්වානයි දෙකම මගේ නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ</author>
+            <date>2016-10-14 23:28:30</date>
+            <index>61</index>
+            <phrase>දැන් බලාගෙන ගියාම අපේ රටේ මිලියන ගණන් වටිනා දේවල් වලට නීතිය ක්‍රියාත්මක වෙනකොට ඒවාට අයිතිකාරයෝ නැහැ. මේවා හදන්න ඇත්තේ මගේ හිතේ රජයේ සේවකයෝ වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-10-14 23:52:52</date>
+            <index>62</index>
+            <phrase>කළු සල්ලි සුදු කිරීමේ ලේසිම ක්‍රමයක් තමයි ඉඩම් ගෙන තැබීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-10-15 01:24:59</date>
+            <index>63</index>
+            <phrase>මට මගේ නොවන, මගේම ඉඩම් ගොඩක් තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්</author>
+            <date>2016-10-15 01:46:02</date>
+            <index>64</index>
+            <phrase>මුලින්ම කිවුවා අපි මේක. මෙගා ඩීල් හොරකම් එකක්වත් අල්ලගන්න බැරිවුණාහම දැන්, සමහර පුද්ගලයන්ට අයිති දේපොළ බැසිල්ගේ කියා ප්‍රචාරය කරන බවකුයි අපිට නම් පෙනෙන්නේ. ඔහුගේ නොවෙයි කිවුවහම ඒවා ජනසතු කරන්න කියලා හරි වෙන්දේසි කරන්න කියලා හරි මඩගහනවා. එ්ක තමයි මේ ආණ්ඩුවේ අලුත්ම සෙල්ලම කියලා අපි නම් දකින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-10-15 01:51:22</date>
+            <index>65</index>
+            <phrase>මේක අධිරාජ්‍යවාදී කුමන්ත්‍රණයක්. නේද? යන්න ගිහින් නිදායන්න ඇමෙරිකන් තානාපති කාර්යාලය ඉස්සරහා. අන්ත අසරණ මිනිසුන්ගෙන් හොරාකාපු සල්ලි වලින් හදපු ඔය මන්දිරය විකුණා ඒ මුදල් රෝහල් වල යටිතල පහසුකම් සඳහා යොදවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-15 02:02:23</date>
+            <index>66</index>
+            <phrase>මට මගේ නොවන මගේම ඉඩමක් තිබුනා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-10-15 02:39:13</date>
+            <index>67</index>
+            <phrase>මේවාට කූට අයිතිකාරයෝ ඇති. මේ රටේ නීතියක් නැද්ද? මේ ඉඩම මීට කලින් කාටද අයිති කියලා කිසිම තොරතුරක් නැද්ද? එයා කාටද විකුණුවේ කියලා වාර්තා නැද්ද? කටවචනෙට රැවටිලා මේක අරයට අයිතියි, මෙයාට අයිතියි කියලා කියනවා. නමුත් නියම හොරු සූක්ෂමව වැඩ ටිකත් කරගෙන ඔහේ ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර කුවේට්</author>
+            <date>2016-10-15 03:18:08</date>
+            <index>68</index>
+            <phrase>මට මගේ නොවෙන මගේම ආදරයක් තිබුනා..... ඇයි දුකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර කුවේට්</author>
+            <date>2016-10-15 03:24:23</date>
+            <index>69</index>
+            <phrase>ඩඩ්ලිලා, ඩී. එස්. ලා තමන්ගේ පුද්ගලික දේපල දුප්පතාට, පන්සල් වලට පුජාකළා. ඊටපසු රට පාලනය කළ අය අපේ සුරපුරය අපායක් කරා ගෙනගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාෂා</author>
+            <date>2016-10-15 04:34:54</date>
+            <index>70</index>
+            <phrase>මේක පුදුන රටක් . අයිතිකාරයන් නැති ඉඩම් ගෙවල් ඉබේටම හැදෙන රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-10-15 04:45:23</date>
+            <index>71</index>
+            <phrase>දැන ඕවා සේරම "මගේ නෙමෙයි" කියල, කාට හරි වෙන්දේසියෙන් ගන්න ඇරලා , බැරිවෙලාවත් ආපහු ආණ්ඩු පෙරලිලා ආවොත් නම් , ගත්ත එකාට, ආපහු බැසිල්ටම පිනට දෙන්න තමයි වෙන්නේ ත පිහදාගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-10-15 05:18:42</date>
+            <index>72</index>
+            <phrase>පොඩ්ඩක් හොයල බැලුවනං, මේ ඉඩමේ අයිති කෙනා අඟහරු ලෝකේ කෙනෙක් ද කියල. කම්බා හොරු එනවා තව රටවල් පාලනය ඉල්ලගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-10-15 06:00:24</date>
+            <index>73</index>
+            <phrase>බැසිල් කියන්නේ ඇත්ත ඔය කිසිම දේපොලක් එකාට අයිති නැහැ , ඔය මුළු පවුලේම දේපොළ අයිති ජනතාවට ඕව ඔක්කොම බලය තියෙන කාලේ මහජන මුදල් වලින් කොල්ලකාපුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-10-15 06:21:40</date>
+            <index>74</index>
+            <phrase>එතකොට මේ ඉඩමේ අයිතිකාරයා කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-10-15 07:00:54</date>
+            <index>75</index>
+            <phrase>මේ ඉඩම කීයක් විතර වෙයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-10-15 08:05:25</date>
+            <index>76</index>
+            <phrase>මේ වගේ විහිළු තියෙන්නේ අපේ රටේ විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-10-15 08:09:46</date>
+            <index>77</index>
+            <phrase>මෙවැනි නීති තියන රටකට කවදාකවත් දියුණු වෙන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-10-15 09:08:01</date>
+            <index>78</index>
+            <phrase>අන්තිමට කවුරු වුනත් ඒ මනුස්සයට තමන්ගේ ඉඩම නැති වුන - හැබැයි ඒකට හරියන්න දෙතුන් ගුණයක් ලැබෙන්න ඇතිනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රිලාල්</author>
+            <date>2016-10-15 10:19:11</date>
+            <index>79</index>
+            <phrase>මා නොවන මට අයිති නැති විශාල දේපලක් තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-10-15 10:41:57</date>
+            <index>80</index>
+            <phrase>එතකොට ඉඩමේ ඔප්පුව බලන්නෙත් නැතුවද මේ නඩු දාන්නේ. ලංකාවේ ඉඩම් ලිය පදිංචි කිරීමේ ස්ථානය දැන් එංගලන්තෙට අරගෙන ගිහිල්ලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රා</author>
+            <date>2016-10-15 10:43:59</date>
+            <index>81</index>
+            <phrase>නීතිය කෝ ? මේවා රටට හෙළි කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-10-15 11:28:04</date>
+            <index>82</index>
+            <phrase>මේ ඉඩම ගන්න මිනිහා ගැන සොයා බැලිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගන</author>
+            <date>2016-10-15 11:47:25</date>
+            <index>83</index>
+            <phrase>මට මගේ නොවන මගේම ඉඩමක් මල්වානේ තිබුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදිනි</author>
+            <date>2016-10-15 12:55:57</date>
+            <index>84</index>
+            <phrase>මේච්චර කල් මේ ඉඩමට කව්ද බලා කියා ගත්තේ. ගේ හදලා තියෙන්නේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2016-10-15 13:27:11</date>
+            <index>85</index>
+            <phrase>මගේ නමට ලංකාවේ බිම් අඟලක් වත් නැහැ , ඔය අයිතිකාරයෝ නැති ඉඩමකින් කොටසක් මටත් දෙන්නකෝ , සාධාරණ මුදලක් ගෙවන්නම් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ගල</author>
+            <date>2016-10-15 13:29:59</date>
+            <index>86</index>
+            <phrase>මගේ නෙමෙයි කී පමණින් නිදහස් විය හැකිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-10-15 15:01:27</date>
+            <index>87</index>
+            <phrase>ඒ දවස්වල සුමනදාස කිව්වෙ එයා නැකත් දුන්නාය, මෙයාගෙ බිරිඳ මුල්ගල තිබ්බාය කියල, එහෙනම් අනුන්ගෙ ගෙයකටද ඒවා කලේ, අනේද කියන්නෙ අපි නොදන්න බැසිල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකරත්න</author>
+            <date>2016-10-15 16:54:01</date>
+            <index>88</index>
+            <phrase>මේ ඉඩම ගන්න මිනිසා ගැන සොයාබැලිය යුතුයි. සාධාරණ මිලකට වෙන්දේසියේ විකුණනවද කියලත් සොයාබැලිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකසිරි</author>
+            <date>2016-10-15 16:55:26</date>
+            <index>89</index>
+            <phrase>කෝටි ප්‍රකෝටි ගණනක වංචාවක් ඇස්පනාපිටම සිද්ධවෙලත් නීතියෙන් හරි අපූරුවට නිදහස් වෙනවා. ලැජ්ජයි. දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-10-15 16:56:04</date>
+            <index>90</index>
+            <phrase>නිමල්, ඔබ හරි. මෙවැනි නීතියක් තිබෙන ලෝකයේ එකම රට ලංකාව වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2016-10-15 16:58:46</date>
+            <index>91</index>
+            <phrase>බැසිල් රාජපක්ෂට එරෙහිව මෙම නඩුව පවරා ඇත්තේ මූල්‍ය විශුද්ධිකරණය හා පොදු දේපළ අවභාවිතය යන චෝදනා මතය. එහිදී මල්වානේ මාළිගාව යනු නඩු භාණ්ඩයක් පමණි. බැසිල් එහි භුක්තිය අත්හළ පමණින් ඔහුට එරෙහිව ඇති චෝදනා ඉවත් වන්නේ නැත. තමන්ට අයත් නැතැයි කීමෙන් සිදුවන්නේ බැසිල් තම භුක්තිය අතහැරීම පමණි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍ය</author>
+            <date>2016-10-15 16:59:13</date>
+            <index>92</index>
+            <phrase>මේ ආකාරයටම බැසිල්ට අයත් නමුත් වෙනත් අයගේ නමට ලබාගෙන ඇති මාතර බ්‍රවුන්ස් හිල්හි මාළිගාවද බැසිල් තමන්ට අයත් නැතැයි පැවසුවද ඔහු විසින් සිදුකරන ලද මූල්‍ය විශුද්ධිකරණය සහ පොදු දේපොල අවභාවිතාව යන චෝදනා වලින් නිදොස් වන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාවණ</author>
+            <date>2016-10-15 19:28:22</date>
+            <index>93</index>
+            <phrase>මේකේ නියම අයිතිකාරයා කවුද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක් Los ඇන්ජලිස්</author>
+            <date>2016-10-15 20:27:29</date>
+            <index>94</index>
+            <phrase>ජනවාරි 8 වෙනිදා බෝට්ටුව පෙරලුනේ නැතිනම් මේ දේපොලෙහි අයිතිකරුවා එහෙනම් බැසිල්ම තමයි. ආත්ම වංචාවෙන් ජීවතය ගෙවන පුද්ගලයන්ගේ ජීවිත වල කිසි සාර්ථකත්වයක් නොමැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-15 20:41:24</date>
+            <index>95</index>
+            <phrase>"ඒ මැදුරත් මගේ නොවෙයි- මේ මැදුරත් මගේ නොවෙයි..අර වාහිනියත් මගේ නොවෙයි අපේ රාජ්ජේ.." හ්ම්ම් "මා නොවන මා" වැඩසටහනට ඔය සිංදුව කියන්න බැසිල්ව ඉක්මනටම යවන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-10-15 22:24:05</date>
+            <index>96</index>
+            <phrase>ඔටුන්න බිම තියල වැසිකිලියටවත් ගියොත් අයෙත් මලාටවත් රජකම නොලැබෙන බව දන්නා නිසා තමයි හත්මුතු පරම්පරාවටම ඇතිවෙන්න කලදුටුකල වල ඉහගත්තේ. නමුත් අවාසනාවට ආනන්තරිය පාපකර්මේ වහේ මේ ආත්මෙදිම එව්වා විනාශවෙලා නැතිබන්ගස්ථාන වෙන එකනේ ඉවසන්න බැරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-10-16 00:19:49</date>
+            <index>97</index>
+            <phrase>කවුද අයිතිකාරයා කියලා හරියටම දැනගන්න අපිට අයිතියක් තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝනාර</author>
+            <date>2016-10-16 00:47:49</date>
+            <index>98</index>
+            <phrase>තමා විසින් තමාවම ගස් බැඳගත් කතාව මතක් වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2016-10-16 00:48:43</date>
+            <index>99</index>
+            <phrase>මෙවැනි හිටපු තව ඇමතිලා වටේ හිටිය නිලධාරින්ටත් මේ වගේම ඉඩම් රටපුරාම ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්නු</author>
+            <date>2016-10-16 00:50:03</date>
+            <index>100</index>
+            <phrase>මේ වගේ හොරවැඩ අල්ලන්න එපා කියලද ළඟදි කිව්වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2016-10-16 01:35:23</date>
+            <index>101</index>
+            <phrase>රටේම සල්ලි කැරකැවිලා තිබුනේ දේශපාලඥයොයි ඒ අයගෙ හෙන්චයියොයි අතේ. මේවා හොයලා අඩුගානේ දේපොල රාජසන්තක කිරීමවත් කළයුතුයි. ඉක්මනින් කළයුතුයි. තව හොරු ඉන්නවා. ඇමතිලා විතරක්ම නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසල්</author>
+            <date>2016-10-16 01:38:02</date>
+            <index>102</index>
+            <phrase>හොරුන්ගෙත් හොරුන්ට කියන්නේ කම්බා හොරු කියලයි. ඇයි ලැජ්ජානැතිකම මහමුදලිකමටත් වඩා වැඩියි. තව පිරුළු තියෙනවා. ඒවායෙ සැර මදි මේවා විස්තර කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශාඛා</author>
+            <date>2016-10-16 02:08:41</date>
+            <index>103</index>
+            <phrase>රාජපක්ෂ නම තියෙන අය විතරක් නෙමෙයි, විදෙස්ගත අසරණයින්ගෙ සල්ලි කාබාසිනියා කළ ඇමතිලා සහ නිලධාරින් ගැනත් ඉක්මනින් සොයන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2016-10-16 02:14:33</date>
+            <index>104</index>
+            <phrase>උපදින්නේ මැරෙන්නේ තනිවම වුණාට, ඇමතිලාට තනිවම සොරකම් කළනොහැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2016-10-16 02:23:13</date>
+            <index>105</index>
+            <phrase>කෝටි ගණන වල ඉඩම් ඉතාම අඩු ගණන් දාලා තමන්ගෙ මාසික පඩි 3-4 ක් එකතු කරලා ඉඩම් ගත්තා කියලා පෙන්නයි කට්ටිය. ඒවගෙ දේවල් සොයාබැලිමත් කළයුතු වෙනවා ඉඩම් ගනුදෙනු ගැන සොයද්දි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල් ක්‍රිස්ටි</author>
+            <date>2016-10-16 02:53:10</date>
+            <index>106</index>
+            <phrase>මේ ඉඩමට ඔප්පුවක් නැතිද ..අයතීකාරයෙක් නැති කොහොමද... .වෙන්දේසියේදී මේ ඉඩම අයෙත් ගන්නේ බැසිල්ගේ සල්ලිවලින් බසිල්ගේම කෙනෙක් නේද ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාරියවසම්</author>
+            <date>2016-10-16 03:26:27</date>
+            <index>107</index>
+            <phrase>මේවගේ අය තමයි අලුත් පක්ෂ හදන්න යන්නේ. ලැජ්ජයි. මේවගේ අය දේශ ද්‍රෝහීන්(අ).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2016-10-16 03:53:40</date>
+            <index>108</index>
+            <phrase>අක්කර 16 ක් වටා කම්බි ගහන්නත් කීයක් යන්න අැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-10-16 03:55:08</date>
+            <index>109</index>
+            <phrase>අල්ලස් හා දූෂණ කොමිසමට, එෆ්සිඅයිඩියට, පොලිසියට, ගරු අධිකරණයට මහජනතාගේ ප්‍රණාමය....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජස්ටින්</author>
+            <date>2016-10-16 05:44:35</date>
+            <index>110</index>
+            <phrase>නීතිය නවන්න පුළුවන් කියා කියපු කතාව සියයට සීයක්ම ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

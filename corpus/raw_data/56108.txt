@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56108</articleId>
+    <title>නාන්න ගියා ගියාමයි</title>
+    <author>ඡායාරූප රත්නසිරි ප්‍රේමලාල්</author>
+    <date>2012 ජූලි මස 29 20:55:22</date>
+    <body>මෝල්කාවිල කුකුලේ ගඟේ දිය නෑමට ගිය දෙදෙනකු අතුරුදන් වී ඇතැයි ප‍්‍රදේශවාසීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>දයා</author>
+            <date>2012-07-30 01:14:32</date>
+            <index>0</index>
+            <phrase>අනතුරුදායක ගංඟා ඇල දොළ වල හිතුවක්කාරකමට නාන්න යන්නේ ඉලන්දාරිකම පෙන්නන්නද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගංගාසිරි</author>
+            <date>2012-07-30 01:23:19</date>
+            <index>1</index>
+            <phrase>ඡායාරූපයක් ගන්න බව තේරිලා තියෙන්නේ බල්ලට විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-30 08:51:49</date>
+            <index>2</index>
+            <phrase>කිඹුලගේන් අහන්න ..සමහරවිට එයා දන්නව ඇති ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිසාර්</author>
+            <date>2012-07-30 09:47:43</date>
+            <index>3</index>
+            <phrase>කිඹුලගෙන් අහන්නේ සිංහලෙන්ද ඉංග්‍රීසියෙන්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-07-30 09:49:45</date>
+            <index>4</index>
+            <phrase>මෙච්චර මේ ගිලිලා මැරෙනවා කියලා කියද්දිත් වතුරට පනිනවානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-30 10:11:41</date>
+            <index>5</index>
+            <phrase>ගැඹුර බලන්න හිතෙන්න ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-07-30 10:32:13</date>
+            <index>6</index>
+            <phrase>වතුරට බෑහෑලා වීරයො වෙන්න ගියාම මේක තමයි වෙන්නේ අපි හෑමොටම.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>aaa</author>
+            <date>2012-07-30 11:56:14</date>
+            <index>7</index>
+            <phrase>පව් අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-30 15:11:45</date>
+            <index>8</index>
+            <phrase>විහිළු කරන්න එපා ‍ගෙදර අයට මොනතරම් ගින්නක්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂී</author>
+            <date>2012-07-30 15:38:33</date>
+            <index>9</index>
+            <phrase>හොද ළමයෙක් පව් අපරාදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-07-30 19:46:36</date>
+            <index>10</index>
+            <phrase>ඉතාම කණගාටුයි . එක්කෙනෙක් මගේ අසල්වැසියෙක් .තමන්ගේ පාඩුවේ ජීවිතේ ගෙවපු දරුවෝ දෙන්නෙක්ගේ තාත්තා කෙනෙක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

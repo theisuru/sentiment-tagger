@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39811</articleId>
+    <title>ලන්ඩන් ඔලිම්පික් ආරක්ෂාවට මිසයිල ආරක්ෂක පද්ධතියක්</title>
+    <author>ඬේලිමේල් ඇසුරිනි</author>
+    <date>2012 මැයි මස 01 09:57:32</date>
+    <body>ලබන අගෝස්තු මාසයේදී බි‍්‍රතාන්‍යයේ ලන්ඩන් නුවර පැවැත්වෙන ඔලිම්පික් කී‍්‍රඩා උළෙල වෙනුවෙන් විශේෂ ආරක්ෂක වැඩ පිළිවෙළක් කි‍්‍රයාත්මක කෙරේ.
+නැගෙනහිර ලන්ඩනයේ ස්ටැෆර්ඞ්හි පිහිටි ඔලිම්පික් කී‍්‍රඩාංගනයට ගුවනින් ත‍්‍රස්ත ප‍්‍රහාරයක් එල්ල වුවහොත් ඊට ප‍්‍රතිප‍්‍රහාර එල්ල කිරීමට දිගු දුර සහ කෙටි දුර මිසයිල ආරක්ෂක පද්ධති කිහිපයක් කී‍්‍රඩාංගනය වටා ස්ථානගත කර තිබේ.</body>
+    <comments>
+        <comment>
+            <author>විජිත</author>
+            <date>2012-05-02 05:47:07</date>
+            <index>0</index>
+            <phrase>ඔලිම්පික් කී‍්‍රඩාවටත් මිසයිල???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-05-02 08:21:53</date>
+            <index>1</index>
+            <phrase>බටහිර රටවල් බයෙන් තමා හැමදාම ජීවත් වෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිදු</author>
+            <date>2012-05-02 19:19:38</date>
+            <index>2</index>
+            <phrase>හොඳ ආදර්ශ පාඨයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-05-02 23:50:26</date>
+            <index>3</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නසී..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාන්-saudi arabia</author>
+            <date>2012-05-03 15:03:51</date>
+            <index>4</index>
+            <phrase>බටහිර රටවල් බයෙන් තමා හැමදාම ජීවත් වෙන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නේ</author>
+            <date>2012-05-04 01:27:43</date>
+            <index>5</index>
+            <phrase>වඩා හොද ආරක්ෂක වැඩ පිළිවෙළක් ඕනි නම් ලංකාවෙන් උපදෙස් ගන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

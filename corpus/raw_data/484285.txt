@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484285</articleId>
+    <title>ආදි සිසුන් දෙදෙනා රෝහලේදී ගහ ගනී</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 නොවැම්බර් මස 27 14:12:57</date>
+    <body>තඹුත්තේගම පාසලක ආදි සිසුන් දෙදෙනෙකු ගුටි ඇන ගැනීමෙන් තුවාල ලබා තඹුත්තේගම රෝහලට ඇතුලත් කළ බවත් වාට්ටුවේදී දෙදෙනා අතර දෙවැනි වරටත් ගුටි ඇන ගනිද්දී එය බේරීමට ගිය සාත්තු සේවිකාවකද තුවාල ලැබූ බව රෝහල් ආරංචි මාර්ග කියයි.
+සාත්තු සේවිකාවද එම රෝහලේම රෝහල් ගත කර සිටි. එක් ආදි සිසුවෙක් අනුරාධපුර රෝහලට මාරු කර යවා ඇත.
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-11-27 09:09:48</date>
+            <index>0</index>
+            <phrase>ඇති ඔයින් ගියා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකුම්</author>
+            <date>2016-11-27 09:10:26</date>
+            <index>1</index>
+            <phrase>මොකද දෙන්නම එකම රෝහලට ඇතුළුකළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-11-27 09:37:45</date>
+            <index>2</index>
+            <phrase>ඉස්පිරිතාලේ කට්ටිය වටවෙලා දෙන්නාටම මදියි නොකියන්න නෙළන්නයි තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-11-27 10:03:16</date>
+            <index>3</index>
+            <phrase>දෙන්නවම අල්ලලා පොලිස් කූඩුවේ දවසක් තිබ්බා නම් ලෙඩ සුවවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්ත</author>
+            <date>2016-11-27 10:33:53</date>
+            <index>4</index>
+            <phrase>මෙන්න නියම අද කාලේ වීරයෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එන්සිනා</author>
+            <date>2016-11-27 10:52:42</date>
+            <index>5</index>
+            <phrase>උදේ ඉඳන් රෑ නිදාගන්නකම් පිරිත් අහන ශ්‍රී ලාංකිකයන් වැඩි දෙනෙක් ගහ මරාගන්න තමයි වැඩිය කැමති. අපි වැද්දන්ගෙන් පැවතෙන කට්ටියනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-11-27 11:49:15</date>
+            <index>6</index>
+            <phrase>දෙන්නගේ පක්ෂ දෙක මොනවද දන්නේ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-27 17:37:49</date>
+            <index>7</index>
+            <phrase>ඕවා තමා ඉගෙනගෙන තියෙන්නේ. දැන් විශ්ව විද්‍යාල වලත් ඕක උපාධියට තියන එකක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානු</author>
+            <date>2016-11-28 00:16:43</date>
+            <index>8</index>
+            <phrase>මඩු වලිගයෙන් වැඩක් ගන්න පුළුවන් හොඳ අවස්ථාවක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2016-11-28 01:05:22</date>
+            <index>9</index>
+            <phrase>බෙහෙත් දාන්න කලින් සෝදිසි කරලා බලන්න තිබුනේ මේගොල්ලෝ ආදි ශිෂ්‍යයෝද නැත්නම් ආදි යක්ෂයෝද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-28 02:15:12</date>
+            <index>10</index>
+            <phrase>එක් අයෙක් මාරුකර යැව්වේ නැත්නම් දෙන්නම මෝචරියේ තමයි නතරවෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

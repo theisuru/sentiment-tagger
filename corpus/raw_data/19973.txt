@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19973</articleId>
+    <title>ජවිපේ මහ සමුළුවට අතුරු තහනමක් නෑ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 30 21:28:40</date>
+    <body>ජනතා විමුක්ති පෙරමුණ දෙබරවැව මහා සමුළුව කැඳවීම එරෙහිව කැරැලිකාර පර්ශවය උසාවියෙන් පැතූ වාරණය අද ප්‍රතික්ෂේප කෙළේය. ජනතා විමුක්ති පෙරමුණේ මධ්‍යම කාරක සභිකයින් වන ගාලු දිසා පාර්ලිමේන්තු මන්ත්‍රි අජිත් කුමාර හා ජී. කුලරත්න මහත්වරු ගොනු කළ මේ පෙත්සම ලබන 6 වැනි දා විභාග කිරීම නියම කළ කොළඹ දිසා විනිසුරු රංජිත් එන් වතුපොළ මහතා අතුරු තහනම නිකුත් නොකෙළේය.</body>
+    <comments>
+        <comment>
+            <author>raveena</author>
+            <date>2011-12-31 08:23:35</date>
+            <index>0</index>
+            <phrase>අවස්තාවාදීන් පැරැද්දූ ජවිපේට සුබ පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් දර්ශන</author>
+            <date>2012-01-01 06:26:01</date>
+            <index>1</index>
+            <phrase>ජ.වි.පෙ. දෙකඩ කිරීමට කුමන්ත්‍රණ කළ අවස්ථාවාන් පන්නා දැමීමට අවස්ථාව ලැබීම, නිර්ධන පන්ති ජයග්‍රහනයේ සුභ පෙරනිමිත්තක්...ජ.වි.පෙ.ට ජයම වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-01 13:24:35</date>
+            <index>2</index>
+            <phrase>ජ.වි.පෙ.ට සුබ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

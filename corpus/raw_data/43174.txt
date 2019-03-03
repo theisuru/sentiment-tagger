@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43174</articleId>
+    <title>ඉතාලි භූමිකම්පාවෙන් මරණ තුනයි</title>
+    <author>චමින්ද මඩවල  ඉතාලියේ සිට</author>
+    <date>2012 මැයි මස 20 11:04:22</date>
+    <body>ඉතාලියේ අද අලුයම ඇතිවූ භූමි කම්පාවෙන් ඉතාලියේ එමිළියා රොමාඤ්ඤා මෝදනා දිස්ත්‍රික්කයේ කම්කරුවන් තිදෙනෙක් මරුමුවට පත් වූහ. ඔවුහු කම්හල් සේවකයෝ ය. රිච්ටර් මාපකයේ 5.9ක අගයක් මේ භූමි කම්පාවේ ප්‍රභලත්වය අනුව ගොඩනැගිලිවලට හානි සිදුවිය හැකි බව භූ විද්‍යාඥයෝ කියති.
+භූමිකම්පා අනතුරු ඇඟවීමත් සමග බොහෝ දෙනා අද අළුයම් කාලයේ ගත කර ඇත්තේ මහ පාරේය.</body>
+    <comments>
+        <comment>
+            <author>හසී</author>
+            <date>2012-05-20 14:30:02</date>
+            <index>0</index>
+            <phrase>මේ වන විට මරණ 3, හතරක් වෙලා.මම දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-20 14:56:50</date>
+            <index>1</index>
+            <phrase>අපිත් ටිකක් කල්පනාවෙන් හිටියොත් හොඳයි කෝකටත්.ඇයි අපේ කට්ටියගේ කෙරුවාවත් හොඳ නෑනේ.ඉතිං කොයි වෙලාවේ හරි ස්වභාව ධර්මය කුපිත වෙලා මෙහෙටත් ඔය වගේ භූමිකම්පාවක් ඒවි කියලා හිතෙනවා අද මෙරට සමාජය දිහා බැලුවම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යුනිවර්සිටි</author>
+            <date>2012-05-20 19:11:28</date>
+            <index>2</index>
+            <phrase>මේක බොහොම භයානක පැත්තක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-05-20 20:29:38</date>
+            <index>3</index>
+            <phrase>ඔය කිවුවේ ආචාරියා කතාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

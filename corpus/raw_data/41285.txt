@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41285</articleId>
+    <title>රවිනාථ ජිනීවා නුවරට -තමාරා කියුබාවට</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 මැයි මස 08 19:12:31</date>
+    <body>එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ ජිනීවා නුවර ශ්‍රී ලංකා තානාපති ලෙස යුරෝපා කොමිසමේ ශ්‍රී ලංකා තානාපති රවිනාථ ආර්යසිංහ මහතා පත්කර ඇත. ඔහු ජූලි පළමුවැනිදා වැඩ බාරගැනීමට නියමිතය.
+ලන්ඩනයේ නියෝජ්‍ය මහා කොමසාරිස් පදවියේ  විශ‍්‍රාම ගිය පී.එම්. අම්සා මහතා යුරෝපා කොමිසමේ තානාපතිවරයා ලෙස පත් කැරෙයි.
+ජිනීවා නුවර සිටි තමාරා කුනනායගම් මහත්මිය කියුබා තානාපති ලෙස මාරු කර ඇත. එම පදවිය බාර නොගන්නා බව ඇය මීට පෙර කියා ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජොන්‍යා</author>
+            <date>2012-05-08 20:22:11</date>
+            <index>0</index>
+            <phrase>අහිංසක මිනිස්සු පලි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් -ඉතාලි</author>
+            <date>2012-05-08 22:14:21</date>
+            <index>1</index>
+            <phrase>මේ අවස්ථාවෙ රට ගැන පුළුල්ව සිතා වැඩ කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-05-09 09:07:39</date>
+            <index>2</index>
+            <phrase>තමාරා මහත්මියනි , ඔබ රට වෙනුවෙන් ජිනීවා සමුලුවේදී කළ මෙහෙය අපට කිසිදින අමතක නොවේ.ඔබේ රාජ්‍ය තාන්ත්‍රික භාවය අගයමු . ඔබට මෙන්ම දයාන් ජයතිලක මහතාටද අත්වී අත්තේද මෙම ඉරණමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරි මාටින්</author>
+            <date>2012-05-09 09:26:40</date>
+            <index>3</index>
+            <phrase>ඕනෙම කෙනෙක්ට ඕන තැනක වැඩ කරන්න පුළුවන් වෙන්න එපායැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ - ඉතාලියේ සිට</author>
+            <date>2012-05-09 10:43:03</date>
+            <index>4</index>
+            <phrase>රටක්‌ දියුණු කිරීමට නම් විශ්‍රාම ගිය අයම ඉහළ තනතුරු සදහා පත් කළ යුතුයි.කවුරු හෝ දියුණු වෙයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තන්තිලගේ</author>
+            <date>2012-05-09 11:11:04</date>
+            <index>5</index>
+            <phrase>සජින් වාස් මහත්තයා දැම්මනම් ඇමෙරිකාව පරද්දන්න තිබ්බා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර</author>
+            <date>2012-05-09 12:39:30</date>
+            <index>6</index>
+            <phrase>කළගුණ සැලකීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

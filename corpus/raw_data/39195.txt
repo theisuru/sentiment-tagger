@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39195</articleId>
+    <title>උසස් පෙළ සිසුවා අලූත් විෂයයක් හදාරයි.</title>
+    <author>ප‍්‍රසාද් රුක්මල්</author>
+    <date>2012 අපේ‍්‍රල් මස 27 11:13:13</date>
+    <body>බණ්ඩාරවෙල මලිත්තේ 17 හැවිරිදි සිසුවකු රුපියල් දහසේ හොර නෝට්ටු මූද්‍රණය කළැයි සැකපිට අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+උසස් පෙළට ඉගෙන ගන්නා ඔහු පරිගණක ඇතුළු සියලූ ආම්පන්න  ද සමග අත්අඩංගුවට  ගත් පොලිසිය දැන් ඔහු ඊට යොමු කළ මහා මොළකාරයා සොයයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසා</author>
+            <date>2012-04-27 12:08:19</date>
+            <index>0</index>
+            <phrase>මෙ කොල්ලට බනින්න එපා මනුස්සයිනේ.....සත්‍යය තේරුම් ගන්න.... මෙයා දක්ශයෙක් නෙවෙයිද? ඩිග්‍රි කාරයො කීදෙනෙකුට පුලුවන්ද ඔය වෑඩේ ගෑන අඩුම තරමෙන් හිතන්න වත්.....හෑම බම්බුවකටම අත්අඩංගුවට අරන් හිරේ දාන්න ගියොත් එලියෙ ඉතුරුවෙන්නෙ ආණ්ඩුවට කඩේ යන එහෙයියො ටික විතරයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-04-27 12:36:11</date>
+            <index>1</index>
+            <phrase>කොල්ලා හොදින් ඉගෙන ගන්න බව පේනවා. දැන්මම මග කියා නොදුන්නොත් අනාගතේ පාතාල නායකයෙක් විය හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-04-27 15:17:42</date>
+            <index>2</index>
+            <phrase>ළමයෝ ‍ඔය මොළේ හොද වැදගත් දේකට යොමුකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරේෂා</author>
+            <date>2012-04-27 15:29:38</date>
+            <index>3</index>
+            <phrase>ඔහු වරදක් කළත් ප්‍රයෝජනයක් ගත හැකි කෙනෙක් නේ.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බී.පී.</author>
+            <date>2012-04-27 17:29:28</date>
+            <index>4</index>
+            <phrase>හොර සල්ලි ගහන්න මහ ලෙකු මොලයක් ඕන නැහැ. ඇත්තටමනම් මෝඩ කම නිසයි ඕක කෙරෙන්නේ. ඉතා සුළු දේවල් ටිකක් විතරයි ඉගෙන ගන්න තියෙන්නේ. ඒකම තමා මේ හොර සල්ලි ජාවාරම නැගල යන්නෙත්. කවුරු කළත් මේ වැඩේට වැඩි ආයුෂනම් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2012-04-27 17:33:53</date>
+            <index>5</index>
+            <phrase>ඒ පාතාල වැඩවලට යොදවන අයට දැඩි දඩුවම් දෙන්න ඕනේ ළමයාගේ ඉගනීම නම් කඩා කප්පල් කරන්න එපා වරද කොතනද හරියටම හොයන්න පාසල් දරුවන් මේ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

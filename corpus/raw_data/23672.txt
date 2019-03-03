@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23672</articleId>
+    <title>නි ඇමැති රිය අනතුරින් රෝහලේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 ජනවාරි මස 26 09:59:48</date>
+    <body>සමාජසේවා නියෝජ්‍ය ඇමැති චන්ද්‍රසිරි සූරිආරච්චි මහතා ගමන්කළ පැජරෝ ජීප් රිය හබරණ හිරිවඩුන්නේ බෝක්කුවක හැපී පෙරැළී නියෝජ්‍ය ඇමැතිද තවත් අයෙක්ද රෝහල් ගත කරනු ලැබූහ. සූරිආරච්චි මහතා සුළු තුවාල ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-01-26 10:03:41</date>
+            <index>0</index>
+            <phrase>මේ ගොල්ලෝ හරිම හෙමින්නෙ යන්නේ, කොහොම වෙනවද දන්නේ නැහැ මේ අනතුරු !. පාරේ යන අහිංසක අපිටයි මාරකේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-01-26 11:39:53</date>
+            <index>1</index>
+            <phrase>අපරාදෙ පැජරෝ එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-01-26 13:07:46</date>
+            <index>2</index>
+            <phrase>අහල පහල හිටපු අසරණ මිනිස්සුන්ට කරදරයක් නැත්තම් එච්චරයි, අපරාදෙ පැජරෝ එක...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2012-01-26 14:20:31</date>
+            <index>3</index>
+            <phrase>රියදුරු මහත්තයා හරියට ධාවනය කරන්න ඇති. බෝක්කුව තමයි ඇවිත් හැප්පෙන්න ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප</author>
+            <date>2012-01-27 17:41:40</date>
+            <index>4</index>
+            <phrase>සංජු හරි. මමත් දැකල තියනව හරිම හයියෙන් පාරෙ යන බෝක්කු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

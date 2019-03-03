@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17179</articleId>
+    <title>පොන්සේකාගේ නඩුවක් ලබන වසරට කල්යයි</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2011 දෙසැම්බර් මස 12 17:11:43</date>
+    <body>හිටපු යුද හමුදාපති සරත් පොන්සේකාට දෙවැනි යුද්ධාධිකරණයේ දී දඬුවම් කළ වරදට මහාධිකරණයේ යළි චෝදනා නැඟිය නොහැකි බවට විත්තිය මතුකළ මූලික විරෝධතා පිළිබඳ තීන්දුව ප්‍රකාශයට පත් කිරීම කොළඹ මහාධිකරණය විනිසුරු සුනිල් රාජපක්ෂ මහතා විසින් ලබන ජනවාරි 20 වැනි දාට කල් තැබිණි. පැමිණිල්ල කියා සිටියේ චෝදනා සමාන නොවන බවයි. හයිකෝප් නම් සමාගමක් මගින් හමුදාවට අවි ගැනීමේ දී මහජන මුදල් වංචා කළැයි පොන්සේකාගේ බෑනා වන දනුන තිලකරත්න වෙලින්ටන් ඩිහොට් හා පොන්සේකාට එරෙහිව මේ නඩුව පවරා ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජේ. හේරත්</author>
+            <date>2011-12-12 18:15:57</date>
+            <index>0</index>
+            <phrase>ජනරාල් තුමනි ඔබ එඩිතරයි. ඔබ නියම දුටුගැමුණු පරපුරේ දරුවෙක්. ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2011-12-12 18:34:36</date>
+            <index>1</index>
+            <phrase>ජනරාල් තුමනි ඔබ එඩිතරයි. ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදා</author>
+            <date>2011-12-12 19:16:15</date>
+            <index>2</index>
+            <phrase>දුටුගැමුණුත් හොරකම් කළාද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලන්ත</author>
+            <date>2011-12-12 20:21:40</date>
+            <index>3</index>
+            <phrase>ඔබේ අනාගතය ඉදිරියෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

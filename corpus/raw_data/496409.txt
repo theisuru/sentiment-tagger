@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>496409</articleId>
+    <title>‘නව ලොවට ගැලපෙන්න අධ්‍යාපනය වෙනස් කරනවා‘</title>
+    <author>ශාන්ත කුලරත්න</author>
+    <date>2017 ජනවාරි මස 05 16:25:43</date>
+    <body>පවතින විෂය නිර්දේශ හා පෙළපොත් ක්‍රමය වෙනස්කර අනාගත ලෝකයේ රැකියා වෙළඳපොළට ගැලපෙන අධ්‍යාපන ප්‍රතිසංස්කරණ සිදුකරමින් නවීන තාක්ෂණයෙන් යුත් අධ්‍යාපනයක් ලබාදීමට මේ වසරේ සිට ක්‍රියාකරන බව අධ්‍යාපන ඇමැති අකිල විරාජ් කාරියවසම් මහතා අද (5) කෝට්ටේ ආනන්ද ශාස්ත්‍රාලයේ පැවැති පෙළ පොත් බෙදාදීමේ ජාතික උත්සවය අමතමින් පැවසීය.
+‘මේ අධ්‍යාපන රටාව නව ලොවට ගැලපෙන පරිදි ගෙන යෑමේදී දැනට පවතින විෂය නිර්දේශ වෙනස් කළ යුතුයි. රටේ මූලික නීතිය, ලිංගික අධ්‍යාපනය, දූෂණය පිළිබඳ විෂය කරුණු පෙළපොත්වලට ඇතුළු කළ යුතුයි‘ යැයි ද අධ්‍යාපන ඇමැති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2017-01-05 11:24:06</date>
+            <index>0</index>
+            <phrase>අර එක්කෙනෙක් බැලුම් යවල පෙන්නුවේ ඒ වගේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2017-01-05 12:35:51</date>
+            <index>1</index>
+            <phrase>නව ලොවට ගැලපෙන විදියට වෙනස්විය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2017-01-05 13:00:44</date>
+            <index>2</index>
+            <phrase>සත්තකින්ම වෙනස්විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරසිංහ</author>
+            <date>2017-01-05 13:04:00</date>
+            <index>3</index>
+            <phrase>නවලොවට ගැලපෙන විදියේ හරිම ලස්සන උත්සවයක් කියලා ඡායාරූප වලින් පෙනෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාරත්න</author>
+            <date>2017-01-05 16:40:09</date>
+            <index>4</index>
+            <phrase>මේ මොනවා කළත් වැඩක් නැහැ ගුරු මාරු සහ දූෂණ සම්බන්ධයෙන් අදාළ පරික්ෂණ කරන්නේ නැතුව. මේවා කරන්න මේ අය බයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2017-01-05 18:59:43</date>
+            <index>5</index>
+            <phrase>පිස්සුද, ලංකාවේ ඔය දෙය සිදුවුණොත් ඉර අනික් පැත්තෙන් පායාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-05 23:25:25</date>
+            <index>6</index>
+            <phrase>ඔය වෙනස්කිරීම් වලට ගිහින් අර ඉස්සර කාලේ සිටි එක්කෙනා වගේ අධ්‍යාපනය කන්න නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2017-01-06 02:31:27</date>
+            <index>7</index>
+            <phrase>වෙනස් විය යුතුයි නම් තමයි. එ්ත් ඔය වැඩේ මේ ඇමතිතුමා කරන්න ගියොත් පාසල් දරුවන්ට නිල ඇඳුම් වවුචර් දුන්නා වගේ හිටීද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>469740</articleId>
+    <title>‘උසාවිය නිහඬයි’ චිත්‍රපටයේ වාරණ නියෝගය කල් යයි</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 19 10:22:33</date>
+    <body>ප්‍රසන්න විතානගේ අධ්‍යක්ෂණය කළ උසාවිය නිහඩයි  චිත්‍රපටය තිරගත කිරිමට  තිබු  වාරණ නියෝගය හෙට (20) දක්වා දිර්ඝ කිරිමට කොළඹ දිසා විනිසුරු එම්.එම්.යු. ගුණවර්ධන මහතා අද(19) නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>සෙන්දෙ</author>
+            <date>2016-10-19 08:45:00</date>
+            <index>0</index>
+            <phrase>ඇත්තටම 'උසාවිය නිහඩයි' කියල තමයි මේකෙන් පෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-10-19 11:42:48</date>
+            <index>1</index>
+            <phrase>උසාවිය නිහඬයි.. රසික ජනතාවම හඬයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

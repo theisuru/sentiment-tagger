@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45682</articleId>
+    <title>වාරු නැතත් නිර්මාණ ලස්සනයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 මැයි මස 30 18:27:03</date>
+    <body>සමාජ සේවා දෙපාර්තමේන්තුවේ ලියාපදිංචි ආබාධ සහිත අභ්‍යාස ලාභීන්ගේ කලා කුසලතා හා අත්තම් නිර්මාණ ඇගයීමේ ප්‍රදර්ශනයක් හා අලෙවිසලක් ජාතික කලා භවනේදී අද විවෘත විය.
+ආබාධිතයන් පුහුණු කරන වෘත්තීය පුහුණු ආයතන පහක සාමාජිකයන්ගේ කලා නිර්මාණ මෙහිදී ප්‍රදර්ශනය වෙයි.
+සමාජසේවා ඇමැති ෆීලික්ස් පෙරේරා මහතා එහි ප්‍රධාන ආරාධිතයා විය.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-30 18:59:09</date>
+            <index>0</index>
+            <phrase>සමාජ ‍සේවා දෙපාර්තමේන්තුවෙන් මේ කරපු ක්‍රියාව ගොඩක් වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-30 19:09:06</date>
+            <index>1</index>
+            <phrase>මේ අය ඉතා ඉහළයි ,අපි නොහිතන පැති මේ අය හිතතවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-30 19:12:55</date>
+            <index>2</index>
+            <phrase>අපි නොහිතන පැති ගැනයි මේ අය හිතල නිර්මාණ කරන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-05-30 19:26:16</date>
+            <index>3</index>
+            <phrase>බලන්න මේ අය මොනතරම් දක්ෂධ කියලා .ඔහේ නිකම්ම ඉන්න අංගසම්පූර්ණ අයට හොඳ ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-05-30 19:59:18</date>
+            <index>4</index>
+            <phrase>ඇවිදගන්න බැරි තරමටම බඩ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-05-30 20:00:49</date>
+            <index>5</index>
+            <phrase>ඇමති තුමන්ලාවත් ඕකට බඳව ගන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.එම්.කේ</author>
+            <date>2012-05-30 20:58:30</date>
+            <index>6</index>
+            <phrase>හරිම සන්තෝෂයි. ඔබලාගේ හැකියාව තවත් වර්ධනය කර ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ෂන</author>
+            <date>2012-05-31 09:31:55</date>
+            <index>7</index>
+            <phrase>හොඳ වැඩ ,ධන පතියනුත් මේවට උදවු කරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සෑම් අයියා</author>
+            <date>2012-05-31 09:40:35</date>
+            <index>8</index>
+            <phrase>අර පොල්ගහේ ඉන්න කම්මැලියාගේ කකුලක් කඩලා මෙතනට දැම්මනම්, මිනිහගේ කම්මැලිකම නැතිවෙලා යාවි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-05-31 10:45:10</date>
+            <index>9</index>
+            <phrase>මේත් අපේම සහෝදර සහෝදරියෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-05-31 11:42:29</date>
+            <index>10</index>
+            <phrase>මතු භවයේදී ඔයාල කිසි අඩුපාඩුවක් නැතිව අංගසම්පූර්ණව උපදින්න ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

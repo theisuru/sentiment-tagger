@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25827</articleId>
+    <title>මාධ්‍ය විධායක අත්අඩංගුවට ගන්නැයි නියෝග</title>
+    <author>ගුණවතී ඉලංකෝන් මැණිකේ</author>
+    <date>2012 පෙබරවාරි මස 09 19:38:53</date>
+    <body>ගලවා ඉවත් කළ දුම්රිය පීලි තොගයක් ව්‍යාජ ලියැවිලි මත විකිණීම සඳහා දෙදෙනකුගෙන් රුපියල් ලක්ෂ 15ක් වංචා කළැයි ස්වාධීන රූපවාහිනියේ විධායකයකු වන සුදර්මන් රදලියගොඩ වහා අත්අඩංගුවට ගෙන ඉදිරිපත් කරන්නැයි කඩුවෙල මහේස්ත්‍රාත් ලංකා ජයරත්න මෙනෙවිය මිරිහාන වංචා විමර්ශන අංශයට නියෝග කළාය. පැමිණිලිකරුවන් වන අනිල් තිලක් බණ්ඩාර හා අශෝක කුමාර ජයතිලක වෙනුවෙන් කැරණු දැක්වූ නීතිඥ ජී.පී. කරුණාරත්න මහතා කියා සිටියේ සැකකරු බලවත් පුද්ගලයකු නිසා පොලිස් හා අධිකරණ නියෝග නොසලකා හැර ඇති බවයි. නීතිය හමුවේ කිසිවකු බලවත් නැතැ යි කී මහේස්ත්‍රාත්වරිය තරාතිරම නොබලා ඔහු අත්අඩංගුවට ගන්නැයි පොලිසියට නියෝග කළාය.</body>
+    <comments>
+        <comment>
+            <author>gajan99</author>
+            <date>2012-02-09 20:11:49</date>
+            <index>0</index>
+            <phrase>රට බේරා දුන්නු අහිංසකයෙක්ව ඇයි අල්ලන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-02-09 23:08:38</date>
+            <index>1</index>
+            <phrase>මෙහෙම අය හිටියොත් ලංකාවම ඉවරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-02-09 23:26:05</date>
+            <index>2</index>
+            <phrase>රට බේරපු අහංසකයො කූඩුවේ. මේවගේ හොරකම් කරපු අය එලියේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙල්සන්</author>
+            <date>2012-02-10 00:07:38</date>
+            <index>3</index>
+            <phrase>හොරුන්ගේ කොහෙද අහිංසක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය ප්‍රභාත්</author>
+            <date>2012-02-10 00:21:10</date>
+            <index>4</index>
+            <phrase>මෙහෙම අයව ගස් බදින්න එකුරුත් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kolla</author>
+            <date>2012-02-10 10:00:16</date>
+            <index>5</index>
+            <phrase>මේ කීවෙනි සැරේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-02-10 11:18:29</date>
+            <index>6</index>
+            <phrase>නීතියට අනුව දඩුවම් කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

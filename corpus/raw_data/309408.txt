@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>309408</articleId>
+    <title>හිටපු ජනපති නැකතට නානු ගායි</title>
+    <author>සනත් ගමගේ</author>
+    <date>2015 අපේ‍්‍රල් මස 15 13:56:39</date>
+    <body>හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා  තංගල්ල ජයසුමණාරාම විහාරස්ථානයෙේදී හිස තෙල් ගැල්වීය.
+විහාරාධිපති විතාරන්දෙණියේ ඤාණරතන හිමියන්ගේ අනුශාසකත්වයෙන් එය සිදුකෙරිණි.
+ධීවර ඇමැති මහින්ද අමරවීර, පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ යන මහත්වරුද මෙම අවස්ථාවට එක්විය.
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සුමුදු හේවා</author>
+            <date>2015-04-15 22:11:45</date>
+            <index>0</index>
+            <phrase>ඔබතුමාට එකසිය විස්සට දෙසිය විස්සක් ආයුබෝ වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති දේශප්‍රිය</author>
+            <date>2015-04-16 03:19:36</date>
+            <index>1</index>
+            <phrase>ඔබ වැනි කොන්දක් ඇති නායකයෙක් අප රටට ඔනමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2015-04-16 03:44:05</date>
+            <index>2</index>
+            <phrase>ඔබ වැනි කොන්ද කෙලින් ඇති නායකයෙක් අප රටට අවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස් ෆෙර්ණන්දෝ</author>
+            <date>2015-04-16 06:06:38</date>
+            <index>3</index>
+            <phrase>ඔබ කෙළින් සිටියා නම් අද ඔහොම වෙන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත් ජයසිංහ</author>
+            <date>2015-04-16 07:58:50</date>
+            <index>4</index>
+            <phrase>ආයු බෝ වේවා අපේ ජනාධිපතිතුමනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත් ලියනගේ</author>
+            <date>2015-04-16 08:01:58</date>
+            <index>5</index>
+            <phrase>නැවතත් අපේම ජනාධිපති වෙන්න වාසනාව ශක්තිය ‍ධෛර්යය ලැබේවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-04-17 08:34:21</date>
+            <index>6</index>
+            <phrase>බලය නැති කල ලැබෙන නුවණ -තිබේවා කල බල ලබන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

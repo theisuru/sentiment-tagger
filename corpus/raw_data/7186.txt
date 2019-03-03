@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7186</articleId>
+    <title>ලක්‍ෂ 85 රන් සොරකමක්</title>
+    <author>ජනත් ද සිල්වා  සුමංගල පුෂ්පකුමාර</author>
+    <date>2011 ඔක්තෝබර් මස 04 13:47:53</date>
+    <body>මීටියාගොඩ පොලිසිය සමීපයේ රන් අබරණ හලකින් රුපියල් අසූපන් ලක්‍ෂයක් පමණ වටිනා රන් අබරණ සොරාගෙන ඇතැයි මීටියාගොඩ පොලිසියට පැමිණිලි කර ඇත.
+විදේශිකයන් සඳහා වැඩි වශයෙන්ම පවත්වාගෙන යන මේ අබරණ හලෙන් මුදු 180ක් මාල 20ක් ඇතුළු අබරණ සොරාගත් දිනයේදී නගරයේ තවත් කඩ සාප්පු කීපයක් බිඳ ඇත.
+සොරුන් මෙම තෙමහල් ගොඩනැගිල්ලේ පිහිටි සාප්පුවට කඹයක ආධාරයෙන් බසින්නට ඇතැයි සැක කැරේ.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-10-04 16:02:23</date>
+            <index>0</index>
+            <phrase>,දැන් දැන් හොරකම් වැඩිවෙලා හැම තැනම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2011-10-04 17:53:47</date>
+            <index>1</index>
+            <phrase>පොලිසියේ වැඩක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

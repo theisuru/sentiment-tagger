@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>226052</articleId>
+    <title>වෑන් රිය වහළේ නවතී</title>
+    <author>එම් බණ්ඩාර ඒකනායක</author>
+    <date>2014 අපේ‍්‍රල් මස 17 11:45:32</date>
+    <body>මහියංගනයේ සිට මහ නුවර බලා ධාවනය වෙතිමින් තිබූ වෑන් රියක රෝදයක් මැද මහනුවර මහා විද්‍යාලයය ඉදිරිපිට වංගුවේ දී පිපිරීම නිසා වෑන් රිය ලිස්සා ගොස් නිවෙසක වහළයක් මතට වැටුණු බව පොලිසිය කියයි.
+නිවසේ සිටි කිසිවකුටත් හානියක් නොවූ අතර වෑන් රියේ සිටි හත් දෙනෙක් තුවාල ලබා මැදමහනුවර රෝහලට ඇතුළත් කරනු ලැබූහ.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-04-17 11:52:52</date>
+            <index>0</index>
+            <phrase>කොහාම වේගයකින් එන්න ඇද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>bhanu</author>
+            <date>2014-04-17 13:20:54</date>
+            <index>1</index>
+            <phrase>නිවැසියන් ගෙදර ඉන්න නැතිව ඇති. පුදුම බේරිල්ලක්නේ (මුදී).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Indika Pathmasiri</author>
+            <date>2014-04-17 13:23:12</date>
+            <index>2</index>
+            <phrase>තුවාලකරුවන් ගැන දෙවියෝ බලගනිත්වා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-04-17 13:03:17</date>
+            <index>3</index>
+            <phrase>කොහොමත් මේ කබල් වෑන් කාරයෝ යන්නේ BMW යන වේගයෙන්නේ - පුදුමේ මෙකයි, ටයර් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමනයාක</author>
+            <date>2014-04-17 16:09:19</date>
+            <index>4</index>
+            <phrase>එකෙන් පාඩු උනේ කොහේ වත් ඉන්න අසරණ දරු පව්ලක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-04-17 15:44:56</date>
+            <index>5</index>
+            <phrase>දැන් කවුද ගේ හදල දෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප.ර.</author>
+            <date>2014-04-17 18:54:54</date>
+            <index>6</index>
+            <phrase>වැන් එකක් ගන්න හිතාගෙන ඉන්න කොට ගෙදරටම උඩින් වාහනයක් එන්න කොච්චර වාසනාවන්තද. වහල හදාගන්න බැරියැ, හයි එස් වැන් එකක් ලක්ස 38/=යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමීර</author>
+            <date>2014-04-18 17:51:50</date>
+            <index>7</index>
+            <phrase>දෙන දෙයියෝ ගෙදරටම ගෙනත් දෙනවා කියන්නේ මේකට තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

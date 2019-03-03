@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42863</articleId>
+    <title>ෂාරුක් ඛාන්ට තහංචියක්</title>
+    <author>ඡායාරූපය  ඒඑෆ්පී</author>
+    <date>2012 මැයි මස 18 11:06:38</date>
+    <body>ඉන්දියාවේ මුම්බායි නුවර වැන්කඬේ කි‍්‍රකට් කී‍්‍රඩංගනයේ පෙරේදා (16) පැවැති අයි.පී.එල් කි‍්‍රකට් තරගයයේදී, කොල්කටා නයිට් රයිඩර්ස් පිළේ සම අයිතිකරුවකු ද වන සුපිරි නළු ෂාරුක් ඛාන් සහ කී‍්‍රඩංගනයේ ආරක්ෂක නිලධාරීන් අතර බහින් බස්වීමක් ඇතිවිය. ඊට හේතු වූයේ ෂාරුක් සමඟ පැමිණ සිටි ළමයින් කී‍්‍රඩා පිටියෙන් ඉවත් කරන්නැයි ආරක්ෂක නිලධාරීන් නියෝග කිරීම නිසාය. ආරක්ෂක නිලධාරීන් සමඟ බහින් බස් වීමේ හේතුවෙන් මින් ඉදිරියට වැන්කඬේ කි‍්‍රකට් පිටියට පිවිසීමට ෂාරුක්ට තහංචි පැනැවීමට මුම්බායි කි‍්‍රකට් සන්සදයේ බලධාරීහු තීරණය කළහ.</body>
+    <comments>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-18 11:16:12</date>
+            <index>0</index>
+            <phrase>මෙයාව වැඩිය ඔලුවට ගන්න එපා............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්</author>
+            <date>2012-05-18 13:30:17</date>
+            <index>1</index>
+            <phrase>නියමයි........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-18 15:23:05</date>
+            <index>2</index>
+            <phrase>එපා හොඳේ... නැතින නොවෙයි ලංකාවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-18 15:48:58</date>
+            <index>3</index>
+            <phrase>නියම වැඩේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-18 21:06:59</date>
+            <index>4</index>
+            <phrase>නැග එන පරපුරේ බැසයන නළු .................ඔබ කැමති නමක් මෙතෙන්ට දාගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-05-18 22:56:11</date>
+            <index>5</index>
+            <phrase>හොඳ වැඩේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමින්</author>
+            <date>2012-05-19 12:18:29</date>
+            <index>6</index>
+            <phrase>පව් නේද එයා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2012-05-19 12:19:19</date>
+            <index>7</index>
+            <phrase>වෙන දෙයක් කතාකරමුද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳමාලි</author>
+            <date>2012-05-19 15:11:05</date>
+            <index>8</index>
+            <phrase>ශාරුක් කොහොමත් ගානට වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උඩුවෙල</author>
+            <date>2012-05-19 17:31:03</date>
+            <index>9</index>
+            <phrase>පව් අහිංසකයා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2012-05-22 06:00:22</date>
+            <index>10</index>
+            <phrase>මෙයා හිතන් ඉන්නේ සල්ලි තිබුණා කියලා මුළු ලෝකෙම අල්ලේ නටවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුලි වීරප්පෙරුම</author>
+            <date>2012-05-23 13:13:21</date>
+            <index>11</index>
+            <phrase>සිනමාවේ බුද්ධිමත් වීරයා වුණාට සැබෑ ජීවිතයෙදි මෝඩ වැඩත් කරනව නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-05-24 12:28:57</date>
+            <index>12</index>
+            <phrase>අන්න හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

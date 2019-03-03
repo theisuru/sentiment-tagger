@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60405</articleId>
+    <title>විමල් හදිසියේ ලෙඩ වේ</title>
+    <author>පුෂ්පකුමාර ජයරත්න</author>
+    <date>2012 අගෝස්තු මස 23 11:20:50</date>
+    <body>ත‍්‍රිකුණාමලයේ ඡන්ද රැස්වීමට යන ගමන් හදිසියේ අසනීප වූ ඇමැති විමල් වීරවංශ මහතා කුරුණෑගල රෝහලට ඇතුළු කළ බව රෝහල් ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-08-23 11:32:28</date>
+            <index>0</index>
+            <phrase>පව් බඩේ අමාරුවක් වෙන්න ඇති .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්-</author>
+            <date>2012-08-23 11:36:52</date>
+            <index>1</index>
+            <phrase>එහෙනම් දැන් කාලෙ හරි මාමෙ ව්ශ්‍රාම යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2012-08-23 11:32:38</date>
+            <index>2</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කන්නන්ගර</author>
+            <date>2012-08-23 11:37:48</date>
+            <index>3</index>
+            <phrase>මේකට මුකුත් කියලත් බෑ ...මුකුත් නොකියත් බෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිත</author>
+            <date>2012-08-23 11:46:49</date>
+            <index>4</index>
+            <phrase>ඔය එන්නේ. මෙයාලා මොකුත් කළේ නෑ වගේ ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-23 11:44:41</date>
+            <index>5</index>
+            <phrase>කොහොමත් ලෙඩ්ඩුතමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-08-23 11:49:44</date>
+            <index>6</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-23 11:57:35</date>
+            <index>7</index>
+            <phrase>ගොඩක්ම අමාරුනම් විශ්‍රාම ගන්න මහත්තයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-23 11:56:18</date>
+            <index>8</index>
+            <phrase>අනේ කවුරුවත් නැද්ද ත්‍රිකුණාමලේ දොස්තර කෙනෙක්ට ගහන්න? එතකොට ස්ට්‍රයික් පටන් ගනීනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2012-08-23 12:06:47</date>
+            <index>9</index>
+            <phrase>විදුලි කප්පාදුව තියෙන වෙලාවක රෝහලට ගියා නම් ලෙඩ්ඩුන්ගේ දුක තේරේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-23 12:02:50</date>
+            <index>10</index>
+            <phrase>පවු අනේ! දැන් කතා කරන්නත් අමාරු ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දදාස</author>
+            <date>2012-08-23 12:08:13</date>
+            <index>11</index>
+            <phrase>ඉක්මන් සුවය ප්‍රර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිත්</author>
+            <date>2012-08-23 12:06:02</date>
+            <index>12</index>
+            <phrase>මොනවා වුණත් රටේ ඉන්න හොද මනුස්සයෙක් මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිත</author>
+            <date>2012-08-23 12:18:47</date>
+            <index>13</index>
+            <phrase>හාට් ප්‍රොබ්ලම් වලට හොද රෝහල් හුගක් තියෙන්නේ ඇමෙරිකාවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-23 12:22:11</date>
+            <index>14</index>
+            <phrase>අද උදේට මොනවත් කෑවේ නැද්ද මාමේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා</author>
+            <date>2012-08-23 12:22:41</date>
+            <index>15</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2012-08-23 12:23:46</date>
+            <index>16</index>
+            <phrase>සිංගප්පූරුවේ රෝහලකට යැවුවා නම් හොදයි කියලයි මට නම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-23 12:21:48</date>
+            <index>17</index>
+            <phrase>සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-08-23 12:27:57</date>
+            <index>18</index>
+            <phrase>මට නම් මේක සතුටුදායක පුවතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂ්</author>
+            <date>2012-08-23 12:32:06</date>
+            <index>19</index>
+            <phrase>මොනවා හරි අගුණ දෙයක්වත් කැවුණද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණබා</author>
+            <date>2012-08-23 12:56:23</date>
+            <index>20</index>
+            <phrase>ඔහුගේ ‍දේශපාලන ප්‍රතිපත්තීන් වලට මම විරුද්ධ වුවද ඉක්මන් සුවය පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-23 13:35:40</date>
+            <index>21</index>
+            <phrase>ඕවා ඔහොම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-23 14:00:44</date>
+            <index>22</index>
+            <phrase>හැමවිටම සත්‍යය ප්‍රකාශ කරන්න. ඔබට කිසිවක් සිදුනොවනු ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-08-23 14:41:44</date>
+            <index>23</index>
+            <phrase>උපවාස කලේ නැහැ නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ටි</author>
+            <date>2012-08-23 15:08:15</date>
+            <index>24</index>
+            <phrase>කෙනෙකුට අසනීප වුණහම විහිළු කරන එක වැරදියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-08-23 15:22:49</date>
+            <index>25</index>
+            <phrase>තමන් වැපිරූ දේ අනුව තමයි අස්වැන්න ලබාගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-23 15:57:09</date>
+            <index>26</index>
+            <phrase>රටක් වටින කෙනෙක්. එහෙත්....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදු</author>
+            <date>2012-08-23 17:16:59</date>
+            <index>27</index>
+            <phrase>කට පරිස්සම් වෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලන්ත</author>
+            <date>2012-08-23 17:28:04</date>
+            <index>28</index>
+            <phrase>ලෙඩ නොවී තිබුණොත් තමයි පුදුම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-08-23 17:34:54</date>
+            <index>29</index>
+            <phrase>තරහා වෙන්න එපා මෙහෙම කිවුවට. මට නම් මේක ගොඩක් සතුටුදායක පුවතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-23 17:43:26</date>
+            <index>30</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-23 18:05:03</date>
+            <index>31</index>
+            <phrase>ඉක්මන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-08-23 18:45:08</date>
+            <index>32</index>
+            <phrase>වේදිකාවල කෑගහලම වෙන්න ඇති..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-23 19:14:12</date>
+            <index>33</index>
+            <phrase>හැමෝම කොහොමත් ලෙඩ වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-23 19:41:32</date>
+            <index>34</index>
+            <phrase>මේක විදෙස් කුමන්ත්‍රණයකින් සිදුවූවක්දැයි කියාත් සැකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-23 20:06:12</date>
+            <index>35</index>
+            <phrase>නිරෝගී සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතාන</author>
+            <date>2012-08-23 20:10:02</date>
+            <index>36</index>
+            <phrase>කුරුණෑගල ඉදලා දඹුල්ල හරහා සීගිරියට යැවුවානම් නේ හොද. සීගිරියේ තියෙනවා හොද රෝහල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිකා</author>
+            <date>2012-08-23 20:18:32</date>
+            <index>37</index>
+            <phrase>ඔබට සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-08-23 20:45:11</date>
+            <index>38</index>
+            <phrase>මොනවා හරි අගුණ දෙයක් එහෙම කෑවද? නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරානි</author>
+            <date>2012-08-23 20:52:56</date>
+            <index>39</index>
+            <phrase>පිටරකට යවන්න වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-08-23 20:56:54</date>
+            <index>40</index>
+            <phrase>අපි නම් ඒක දැනගෙන හිටියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>anurani</author>
+            <date>2012-08-23 21:05:51</date>
+            <index>41</index>
+            <phrase>සිංගප්පුරුවේ තියෙනවා නවතින්න තැනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නතාෂා</author>
+            <date>2012-08-23 22:23:36</date>
+            <index>42</index>
+            <phrase>අශෝක රෝහලට ගිහිල්ලම නැද්ද? කුරුණෑගල රෝහලේ විදුලි ජනක යන්ත්‍ර තියෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-23 22:47:44</date>
+            <index>43</index>
+            <phrase>මෙතුමා විදේශීය බලවේග වලට එරෙහිව නැගී සිටින නිසා හදිසියේ ලෙඩ වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත - ඉබ්බාගමුව</author>
+            <date>2012-08-23 23:37:36</date>
+            <index>44</index>
+            <phrase>අද ත්‍රිකුණාමලේ රැස්වීම අවලංගුයි. මුස්ලිම් කොන්ග්‍රසයේ මහත්තෙයක් අද ඇමතිකමෙන් ඉල්ලා අස්වීමේ ලිපියත් බාර දුන්නාලු නේද? මේ සියල්ල අපිට පෙනෙන්නේ දේශපාලන උපක්‍රම ලෙසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහසෙන්</author>
+            <date>2012-08-23 23:35:28</date>
+            <index>45</index>
+            <phrase>ඉක්මන් සුව පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමි</author>
+            <date>2012-08-23 23:44:24</date>
+            <index>46</index>
+            <phrase>කෑ ගැහුවේ නැත්නම් මෙහෙම ලෙඩ වෙන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුජීෆ්</author>
+            <date>2012-08-23 23:59:05</date>
+            <index>47</index>
+            <phrase>ඉක්මන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2012-08-24 09:35:37</date>
+            <index>48</index>
+            <phrase>මම මොනවා කියන්නද මේකට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයමානි</author>
+            <date>2012-08-24 11:10:37</date>
+            <index>49</index>
+            <phrase>මේකත් නාට්‍යයක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික නිශ්ශංක</author>
+            <date>2012-08-24 18:06:23</date>
+            <index>50</index>
+            <phrase>මේකේ තියන ප්‍රතිචාර දැක්කම කුහකයෝ කීදෙනෙක් ඉන්නවාද ජාතියේ ඉරණම ඒකෙන්ම පේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

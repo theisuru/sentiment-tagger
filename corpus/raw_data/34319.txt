@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34319</articleId>
+    <title>කොරල් කඩා පොලිසි යති</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 අපේ‍්‍රල් මස 01 12:30:14</date>
+    <body>හැටන් පාසලක සිසුන් සිවුදෙනකු ගාල්ලේ කොටුපවුර අසල මුහුදේ කොරල් කඩමින් සිටියදී සැකපිට අත්අඩංගුවට ගත් බව ගාල්ල පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අර්නස්ට්</author>
+            <date>2012-04-01 15:03:21</date>
+            <index>0</index>
+            <phrase>පිළිම හොරකම් කරනවා, කඩුගෙදර දේවල් හොකරම් කරනවා. ඒව ‍ගැන නෝ කතා. බොරුවට පොඩි කොල්ලෝ අල්ලනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-04-01 15:33:43</date>
+            <index>1</index>
+            <phrase>නොදන්න කමට පොඩි අය ඔහොම දෙයක් කලා අල්ලන්නේ ඇයි. පොලීසියට වෙන වැඩක් නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බී.පී.</author>
+            <date>2012-04-01 15:35:41</date>
+            <index>2</index>
+            <phrase>අනේ අපේ පොලීසියට අකුරට වැඩ නේද ? මේ වෙලාවට තමා මට මතක් වෙන්නේ හොද වචන සෙට් එකක්ම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

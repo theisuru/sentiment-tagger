@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>469870</articleId>
+    <title>සුදු කැස්බෑවන් සොරාගත් සිව් දෙනා රිමාන්ඩ්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 19 15:38:31</date>
+    <body>කොස්ගොඩ කැස්බෑ මධ්‍යස්ථානයෙන් වර්ෂ 2014 දෙසැම්බර් 16 වැනි දා    සුදු කැස්බෑවන් සොරා ගැනීමේ සිද්ධියට  අදාල නාවික හමුදා  විශ්‍රාමික කොමදෝරු, අජිත්  කුමාර බෝයගොඩ, ආම් සම්පත් හා තවත් පුද්ගලයකු  නොවැම්බර් 4 වැනි දා දක්වා රිමාන්ඩ් කිරිමට  බලපිටිය මහේස්ත්‍රාත් රජින්ද්‍ර ජයසේන මෙනවිය අද (19) නියෝග කළාය.
+කොස්ගොඩ කැස්බෑ මධ්‍යස්ථානයකින් සුදු කැස්බෑ සොරා ගත් සිව් දෙනක් අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+මේ අතර  නමගිය පතාල නායකයකු සිටින බව වාර්තා වෙයි.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-19 14:18:06</date>
+            <index>0</index>
+            <phrase>සමහර අයගෙන් රටවැසියාට හරිම කරදරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත කටාර්</author>
+            <date>2016-10-19 16:51:42</date>
+            <index>1</index>
+            <phrase>මේ ගමන ගායකයෙක් ගෑවිලා නැහැ හොඳ වෙලාවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකි</author>
+            <date>2016-10-22 14:11:19</date>
+            <index>2</index>
+            <phrase>බුදු අම්මෝ .. මේකටත් රණවිරුවෙක් පටලවගන නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

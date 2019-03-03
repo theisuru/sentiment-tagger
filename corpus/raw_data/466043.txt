@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466043</articleId>
+    <title>අනවසරයෙන් අාරක්ෂාව දීලා.</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 ඔක්තෝබර් මස 09 13:03:29</date>
+    <body>හිටපු පොලිස්පති හා තානාපතිවරයෙකු වු මහින්ද බාලසූරිය බරපතල මුල්‍ය වංචා පිළිඹඳ කොමිසමට කැඳවනු ලැබ සිටී.
+සඳුදා (10) කොමිසම හමුවේ පෙනී සිටින ලෙස ඔහුට දන්වා ඇත. මහින්ද රාජපක්ෂ රජය සමයේ විමල් වීරවංශගේ ජාතික නිදහස් පෙරමුණේ සාමාජිකයන්  පස්දෙනෙකුට නීති විරෝධී ලෙස පොලිස් ආරක්ෂාව සැලසීමෙන් රජයේ රුපියල් තුන් කෝටියක් අවභාවිත කලැයි කොමිසම ඔහුගෙන් ප්‍රශ්න කිරීමට යයි. 
+එම පෙරමුණේ මොහොමඩ් මුසම්මිල් ,සිසිර කුමාර දිසානායක,ඇතුලු සිව්දෙනෙකුට 2010වසරේ සිට 2015 වසර ජනවාරි දක්වා සන්නද්ධ පොලිස් ආරක්ෂාව ලබා දී ඇතැයි කොමිසමේ ආරංචි කියයි</body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-09 08:01:54</date>
+            <index>0</index>
+            <phrase>අනවසරයෙන් ආරක්ෂාව දීල කියන්නේ, එතකොට තව කාගෙන්හරි අවසර ගන්න ඕනෑද ආරක්ෂාව දෙන්න කාටහරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-10-09 08:37:43</date>
+            <index>1</index>
+            <phrase>මම අහලා තියෙන විදියට නම් ඕනෑම පුරවැසියෙකුට ජීවිත තර්ජන තියෙනවා නම් පොලිස් ආරක්ෂාව දෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂා</author>
+            <date>2016-10-09 09:45:24</date>
+            <index>2</index>
+            <phrase>තවත් මහජනයා දැවෙන ප්‍රශ්නයකට පිළිතුරු සොයනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-09 09:49:52</date>
+            <index>3</index>
+            <phrase>මම ඒත් බැලුවා මෙතුමා මොකද මේතරම් ප්‍රමාද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-09 19:38:07</date>
+            <index>4</index>
+            <phrase>හොඳටම කඩේ ගිහින් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-09 21:38:40</date>
+            <index>5</index>
+            <phrase>බලමුකෝ ඒ අය කරලා තියන වැරදි වල තරම. අතඅරින්න නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-10-10 03:19:06</date>
+            <index>6</index>
+            <phrase>මේ අයව අත්අඩංගුවට ගන්න හේතු හදනවා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

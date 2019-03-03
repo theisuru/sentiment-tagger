@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46273</articleId>
+    <title>පිරෙන්සි පන්සල ආධාර පතයි</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 ජූනි මස 03 14:08:25</date>
+    <body>උතුරු ඉතාලියේ භූමි කම්පාවෙන් අවතැන් වූවනට වියළි ආහාර පාන එකතුකැර සැපැයීමට පිරෙන්සි සමාධි විහාරාධිපති දොඩංදෙණියේ නන්දසිරි හිමියෝ සැරැසෙති. දුරකතන අංක 055-4377833 හා 3279274126</body>
+    <comments>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-06-03 16:20:45</date>
+            <index>0</index>
+            <phrase>සුනාමි ආධාර වලට වුණු දේම වෙයිද දන්නෑ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-03 19:44:54</date>
+            <index>1</index>
+            <phrase>විදේශයක ඇති මේ වගේ විපතකදී ඊට පෙරමුණ ගෙන ක්‍රියාකරන මේ වගේ පන්සලකට තමන්ට හැකි ප්‍රමාණයකින් වියළි ආහාර, ඇඳුම්,බේත් හේත්, පිරිසිදු පානීය ජලය වගේ ද්‍රව්‍යමය හා ආධාර හා මුල්‍යමය ආධාර ලබාදෙන එක සෑම බෞද්ධයෙකුගේම යුතුකම හා වගකීම් යැයි සිතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2012-06-04 01:52:44</date>
+            <index>2</index>
+            <phrase>අනේ සාධු! තානාපති නොකරපු දේවල් කරන්න අපේ හාමුදුරුවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නතාෂා සෙව්වන්දි</author>
+            <date>2012-06-04 10:14:17</date>
+            <index>3</index>
+            <phrase>නිම්මි සහෝදරියගේ හා ආචාර්ය සුජිත් නිශාන්ත හේවගේ මහාචාර්යතුමාගේ අදහස මමත් එකහෙලාම අනුමත කරමි.මෙබඳු පින්කම් පැවැත්වීම සඳහා අපිත් අපට හැකි අයුරින් ආධාර උපකාර ලබාදෙමු.ඉහත දක්වා ඇති දුරකථන අංකවලට මමත් කථා කරලා මට හැකි අයුරින් මූල්‍ය දායකත්වය ලබාදීමට එකඟවුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55604</articleId>
+    <title>කතරගමට මහ සෙනඟ</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 ජූලි මස 27 12:38:11</date>
+    <body>රුහුණු කතරගම දේවාලයේ දස වැනි පෙරහර අද (28) රාති‍්‍ර 7.30ට වීදි සංචාරය කරන බව කතරගම දේවාලයේ බස්නායක නිලමේ ශෂීන්ද්‍ර රාජපක්ෂ මහතා කීය.
+අද වනවිට පෙරහර නැරඹීමට ලක්ෂ තුනක් පමණ එන්නට ඇතැයි අනුමාන කැරේ. කතරගම පෙරහර තව දින 4ක් පැවැත්වේ.
+අවසන් මහා පෙරහර අගෝස්තු පළමුවැනිදා පවත්වා පසුදා මැණික් ගෙඟ් දිය කපයි.</body>
+    <comments>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-07-27 12:51:41</date>
+            <index>0</index>
+            <phrase>කෝ කට්ටිය අදහස් දක්වන්නකෝ ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-27 13:52:43</date>
+            <index>1</index>
+            <phrase>දර්ශන, නුවරත් පෙරහැරනේ...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-27 14:27:54</date>
+            <index>2</index>
+            <phrase>මම ආසම කාවඩි සහ කොහොඹ කළේ නැටුම් බලන්නයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියලත්</author>
+            <date>2012-07-27 15:07:33</date>
+            <index>3</index>
+            <phrase>සියළුම ජාතීන් නියෝජනය කරන පෙරහැර තමයි කතරගම පෙරහැර .සැමට කඳ සුරිඳු පිහිටයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-07-27 16:12:13</date>
+            <index>4</index>
+            <phrase>ශ්‍රී ලංකාවේ සැමට කඳ සුරිඳු පිහිටයි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-27 17:05:06</date>
+            <index>5</index>
+            <phrase>සියළුම ලාංකිකයන්ට කතරගම දෙවිදුගේම පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-27 17:04:09</date>
+            <index>6</index>
+            <phrase>සියළුම රට වැසියන්ට කතරගම දෙවිදු පිහිටයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-07-28 13:11:02</date>
+            <index>7</index>
+            <phrase>නිර්මාන්ශීව කතරගම දෙවියන් යදින ඕනෑම කෙනෙක්ට ඒ පිහිට ලැබෙනවලු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56417</articleId>
+    <title>බෝ දුර ඇවිද ආයෙමි සසර මහ වනේ</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 ජූලි මස 31 17:44:51</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>මාවන්</author>
+            <date>2012-07-31 18:05:57</date>
+            <index>0</index>
+            <phrase>සාදු.. සාදු. සකල ‍ලෝවැසි සැමට තෙරුවන් සරණයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමීර චන්දිමාල්</author>
+            <date>2012-07-31 18:32:06</date>
+            <index>1</index>
+            <phrase>නියමයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනකා නිරෝෂණී</author>
+            <date>2012-07-31 18:45:37</date>
+            <index>2</index>
+            <phrase>කොහෙද මේ ගොඩක් ලස්සනයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-31 18:53:29</date>
+            <index>3</index>
+            <phrase>ඉතාම ලස්සනයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට- සුනිල්</author>
+            <date>2012-07-31 19:04:02</date>
+            <index>4</index>
+            <phrase>මේ කොහෙද ගොඩක් ලස්සනයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් හේරත්</author>
+            <date>2012-07-31 19:02:43</date>
+            <index>5</index>
+            <phrase>අපි අසරණ වෙලා වගේ හිතට දැනෙනවා.. බුදු හාමුදුරුවනේ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-31 19:22:44</date>
+            <index>6</index>
+            <phrase>අනේ මගෙ අම්ම වගේ.. මම හිතුවෙ අම්ම කියලා.. බුදු සරණයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-07-31 19:34:12</date>
+            <index>7</index>
+            <phrase>සැමට සදහමි සිතිවිලි පහල වෙවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-07-31 19:49:46</date>
+            <index>8</index>
+            <phrase>සාදු සාදු...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-07-31 20:07:01</date>
+            <index>9</index>
+            <phrase>මේ ගංගාරාම විහාරය නේද?නු)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-31 20:24:55</date>
+            <index>10</index>
+            <phrase>කොහේද මේ ? විස්තරය නෑ නේ ලස්සන නිසා ඇහුවෙ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2012-07-31 21:00:57</date>
+            <index>11</index>
+            <phrase>කවුරුහරි දන්න කෙනෙක් කියනවාද මේ කොහෙද කියලා... හරිම ලස්සනයි. අනේ මටත් යන්න තියෙනවානම්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-07-31 21:01:28</date>
+            <index>12</index>
+            <phrase>සිතට පුදුම සැනසීමක් දැනෙනවා.. මේක පළකලාට ලංකාදීපයට තෙරුවන් සරණයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-07-31 21:06:44</date>
+            <index>13</index>
+            <phrase>මම හිතන්නෙ කොළඹ ගංගාරාම පන්සල, ඉතාම ලස්සනයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල් අබුඩාබි</author>
+            <date>2012-07-31 21:16:37</date>
+            <index>14</index>
+            <phrase>ඔයාලා දන්නවාද මේ හුණුපිටියෙ ගංගාරාමය..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවිනි</author>
+            <date>2012-07-31 21:36:07</date>
+            <index>15</index>
+            <phrase>මේක කොළඹ ගංගාරාම විහාරයනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2012-07-31 21:52:44</date>
+            <index>16</index>
+            <phrase>කොළඹ හුණුපිටිය ගංගාරාමය විහාරය සාදු සාදු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක සේනාරත්න - රත්නපුර</author>
+            <date>2012-07-31 22:42:02</date>
+            <index>17</index>
+            <phrase>මගේ අම්මා බුදු වේවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-01 00:00:29</date>
+            <index>18</index>
+            <phrase>සාදු සාදු බුදු සරණයි ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-08-01 00:26:16</date>
+            <index>19</index>
+            <phrase>සදු සදු සදු තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත</author>
+            <date>2012-08-01 00:50:56</date>
+            <index>20</index>
+            <phrase>සාධු...සාධු...සාධු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-08-01 00:50:56</date>
+            <index>21</index>
+            <phrase>බුදුනේ ....බුදු පියාණනේ ...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-08-01 04:44:48</date>
+            <index>22</index>
+            <phrase>වැඩි ගෞරවය භක්තිය විනාශයට මුලයි. මනුෂ්‍යයන් වන අප බුදුදහම අනුව ජිවත් වෙලා, අපේ ආරක්ෂාව අප විසින්ම සොයාගන්න ඕනේ. නැත්නම් අප බුදුදහම ආරක්ෂා කරන්න ගියහොත් එතන මහා විනාශයක් සිදුවේවි. ඒ නිසා අපි, අපිම ආරක්ෂා වෙමු, එවිට සොබාවදහමත් , බුදුදහමත් ආරක්ෂා වෙනවා. බුදුදහම කියන්නේ සොබාව ධර්මය. සොබාවධර්මය කියන්නේ බුද්ධධර්මය. මේ දෙකම එකට සම්බන්ධ වී යන්නේ. හරියට ගසයි මුලයි, මුලයි ගසයි වගේ. පළමුවෙන් අපි ආරක්ෂා වුණොත් විතරයි, අපට තව කෙනකුට ආරක්ෂාව දෙන්නට හැකි වන්නෙ. ඒ නිසා තම තමන්ගේ ආරක්ෂාව සොබාවිකව තම තමන්ම සළසා ගතහොත් , ඒක තමයි මේ ලෝකේ සියලු සත්වයන්ට නැතහොත් කෙටියෙන් කියනවනම් සැමට තිබෙන ආරක්ෂාව. එහෙම වුණහොත් පමණයි සොබාවධර්මය රැකෙන්නේ.ලෙඩා මැරුණට පස්සේ දොස්තර මහතා බෙහෙත් ලියලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිරු කරුණාරත්න</author>
+            <date>2012-08-01 08:29:11</date>
+            <index>23</index>
+            <phrase>ආ මග තරම් යා යුතු මග දුර නැතිය ඒ මග යන්න හිත ඇති මුත් සවි නැතිය ගමනට වඩා බර ගෙන ආ ජීවිතය බර බිම තබා සැනසෙන්නට ආවාය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන-කටාර්</author>
+            <date>2012-08-01 09:13:28</date>
+            <index>24</index>
+            <phrase>ධර්මයේ හැසිරෙන්නා ධර්මය විසින්ම රකිනු ලැබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්දිකා</author>
+            <date>2012-08-01 10:01:10</date>
+            <index>25</index>
+            <phrase>සාධු....සාධු....සාධු.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-08-01 10:23:43</date>
+            <index>26</index>
+            <phrase>සොයා පිළිසරණක්, ලොවෙන් මා නොලැබ හවුහරණක්........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-01 13:49:07</date>
+            <index>27</index>
+            <phrase>පින් පුරවමු අපි සංසාරේ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-01 14:00:38</date>
+            <index>28</index>
+            <phrase>මනුෂ්‍යයන් වන අපට නිදහසේ තමන්ගෙ කැමැත්තට අනුව, ආගමක් හෝ ධර්මයක් ඇදහීමට සම්පුර්ණ නිදහස තිබිය යුතුයි.එහෙත්, ඒ ආගම අදහන මනුෂ්‍යයාගේ කැමැත්තට අනුව එය සොභාවිකව විය යුතුයි. එය තම තමන්ගේ දැනුම අනුව තමයි සිදුවන්නේ. එහෙත් සමහරු කිසිම ආගමක් නොඅදහයි. එයට හේතුව නම් ඒ ඒ පුද්ගලයන්ට මේ සමාජය තේරුම් යන හැටියට, කොටින්ම කියනවා නම් ඒ ඒ පුද්ගලයා ලබා උපන් හැටියට තමයි සියල්ල සිදුවන්නේ. ඒක ඒ ඒ පුද්ගලයාගේ කැමැත්තට සිදුවන දෙයක්. බුදුදහම කියන්නේ මනුෂ්‍යයාගේ අතින් පිනුත් කෙරෙනවා, පවුත් කෙරෙනවා කියලයි. ඒක තමයි අප මහ ගෞතම බුදුරජාණන් අප සියලු සත්වයට බුදුදහම දීල පිරිනිවන් පෑවේ. වැඩි ගෞරවය භක්තිය විනාසෙට මුලයි. මනුෂ්‍යයන් වන අප බුදුදහම අනුව ජිවත් වෙලා, අපේ ආරක්ෂාව අපිම සොයාගන්න ඕනේ. නැතිනම් අපි බුදුදහම ආරක්ෂා කරන්න ගියහොත් එතන මහා විනාශයක් වේවි. ඒ නිසා අපි, අපිම ආරක්ෂා වෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-08-01 23:55:52</date>
+            <index>29</index>
+            <phrase>මනුෂ්‍යයා තමයි දේවත්වයට යන්නෙත්, බුද්ධත්වයට යන්නේත්, තිරිසන් වන්නෙත්. මේ ලෝකයේ තියෙනවා ලෝක තුනක්. ඒවා තමයි මනුෂ්‍ය ලෝක, දිව්‍ය ලෝක සහ තිරිසන් ලෝක ( දිව්‍ය ලෝක යටතට වැටෙනවා බ්‍රහ්ම ලෝකත්) මනුෂ්‍යයා මැරුණට පස්සෙ ස්වභාව ධර්මය ආරක්ෂා වුණොත් පමණයි මනුෂ්‍යයා කළ පිං , පව් අනුව ස‍්වභාවිකව මේ ලෝක තුනෙන් එකකට ගිහින් ආත්ම භවයක් ලබන්නෙ. මෙලෙස ස්වභාව ධර්මය ආරක්ෂා වෙලා තිබෙන කම් පමණයි මනුෂ්‍යයන්ට ඕනම පවක් ස්වභාවිකව බේරා ගන්න පුළුවන් වන්නේත්, සංසාරයේ ස්වභාවිකව ගමන් කරන්නට සහ ජීවත් වෙන්නට පුළුවන් වන්නෙත්. මේ සෑම දේකටම මනුෂ්‍යයා ස්වභාවිකව ජීවත් වෙලා ස්වභාව ධර්මය රැකගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-08-02 10:27:45</date>
+            <index>30</index>
+            <phrase>බොරෝබූර් හි පිහිටි බෞද්ධ ශ්‍රී විභූතිය බැලීමට ඔබද යා යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

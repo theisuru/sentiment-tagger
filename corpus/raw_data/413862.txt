@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>413862</articleId>
+    <title>වැව් හැර ගිය කුරුල්ලෝ යළි  එති</title>
+    <author>කේ ඩි දේවපි‍්‍රය</author>
+    <date>2016 මැයි මස 10 11:12:25</date>
+    <body>නියඟය හමාර වී රුහුණට ඌවට මහා වැසි ලැබෙමින් පවති.  වෙනත් වසර වල දී මැයි මාසයේ සිට සැප්තැම්බර් මාසය දක්වා  මෙම පළාත් වලට වැසි නොලැබී නියං සමයක් පවතින බවත් මේ දිනවල අවාරේ වැසි ලැබෙන බව ගොවියෝ කියති.
+කතරගම තිස්සමහාරම හා බුත්තල වැව් අමුණු ජලයෙන් පිරි පවතී. වැව් සීඳි ගිය පසු වැව්  හැර ගිය කුරුල්ලෝ යළි  ආහාර සොයා  වැව් දෙසට පියඹා එති.
+තිස්සමහරාම වැවෙත් කතරගම දෙටගමුව වැවත් මේ වන විට අමුත්තන් නිසා සුන්දර වී ඇත.
+මෙම පක්‍ෂින් දැක ගැනීමට විදේශිය හා දේශිය සංචාරකයෝ ද එති.
+ </body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2016-05-10 06:26:04</date>
+            <index>0</index>
+            <phrase>ඉතාම අලංකාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-05-10 06:44:59</date>
+            <index>1</index>
+            <phrase>ලස්සන දසුනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂිකා</author>
+            <date>2016-05-10 08:00:44</date>
+            <index>2</index>
+            <phrase>අපේ මව්බිමේ ජෛව විවිධත්වය ඉතා ඉහලයි. ඒක ලොකු වාසනාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැගී</author>
+            <date>2016-05-10 19:47:50</date>
+            <index>3</index>
+            <phrase>අපේ මව්බිමේ මොනතරම් සුන්දර දසුන් දකින්න තියනවද? එ්ත් ඒ සොබා සුන්දරත්වය විනාශ කරන්නෙත් අපේම අය නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාර්ඩ් ප්‍රීනා</author>
+            <date>2016-05-11 03:05:15</date>
+            <index>4</index>
+            <phrase>අපේ තුවක්කුකරුවන්ගෙන් මේ පක්ෂීන් බේරාගන්නට ලැබුනොත් ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-05-11 04:52:08</date>
+            <index>5</index>
+            <phrase>අලංකාර දසුනක් කැමරා කාචයේ සටහන් වු හරිම ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

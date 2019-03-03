@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>448532</articleId>
+    <title>‘අලි පවුලක් දුම්රියට බිලි‘</title>
+    <author>අතුල බණ්ඩාර  සිතුම් චතුරංගරොමේෂ් මධුෂංක</author>
+    <date>2016 අගෝස්තු මස 17 08:50:15</date>
+    <body>මැදවච්චිය මන්නාරම දුම්රිය මාර්ගයේ සෙට්ටිකුලමේ කිලෝ මීටර් 247 වැනි කණුව අසලදී  අද අලුයම (17) දුම්රියේ ගැටුණු වල් අලි සිවු දෙනකු මියගොස් ඇතැයි පොලිසිය කියයි. රාත්‍රී තැපැල් දුම්රියේ ගැටුණු අලි තිදෙනකු දුම්රිය  මාර්ගය අසලම මියගොස් ඇති අතර තවත් අලියකුගේ සිරුර දුම්රිය මාර්ගයට මදක් දුරින්  සොයාගෙන ඇත.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-08-17 04:06:29</date>
+            <index>0</index>
+            <phrase>වනජීවී එක කරන්නේ මොකක්ද? මේවා ගැන බලන්නේ නැද්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාමා</author>
+            <date>2016-08-17 04:31:58</date>
+            <index>1</index>
+            <phrase>දුම්රියේ වේගය පාලනය කරන්න බැලුවොත් හොඳ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-08-17 04:40:10</date>
+            <index>2</index>
+            <phrase>මම දැක්කා ලංකාවේ මනුස්සයෙක් උපකරණයක් හදලා තිබුනා අලි ගැටෙන එක නවත්තන්න පුළුවන් වෙන. කෝ? ආණ්ඩුව කරන්නේ බොරු වැඩ. ඒ වගේ දේවල් ප්‍රයෝජනයට ගන්නේ නැතුව රටේ සම්පත් විනාශ කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රියානි</author>
+            <date>2016-08-17 10:11:11</date>
+            <index>3</index>
+            <phrase>පව් අහිංසක සත්තු හැම තැනින්ම බැට කනවා.ඒ සත්තුන්ට දැන් නිදහසේ ජීවත්වෙන්න වාතාවරණයක් නැහැ.වනාන්තර විනාශ කරනකොට යන එන මන් නැතිව යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිෂාන්ත</author>
+            <date>2016-08-17 12:43:59</date>
+            <index>4</index>
+            <phrase>මේ විදියට නැතිවෙන ජීවිත ගණන කොයිතරම්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-08-17 14:33:58</date>
+            <index>5</index>
+            <phrase>සංජිව දන්නේ නැද්ද, මේ ශ්‍රී ලංකාව කියලා. ඒ උපකරණයෙන් කොමිස් එකක් ලැබෙන්නේ නැහැනේ. ඉතින් වැඩක් වෙයිද. අලි නෙමෙයි මිනිස්සු හප්පගෙන ගියත් උපකරණය එහෙම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත්</author>
+            <date>2016-08-17 14:51:18</date>
+            <index>6</index>
+            <phrase>නොසැළකිලිමත් ලෙස වනජීවී සංවේදී කලාපයන්හි අධිවේගයෙන් ධාවනය කළ දුම්රිය රියදුරාට බලවත් අප්‍රසාදය! ඔහුට සැළකිල්ලෙන් විමසිලිමත්ව යා යුතුව තිබුනා. වනජීවී නිලදරුවෙක් යනවා නේද මෙවන් පෙදෙස්වල දුම්රියේ...? කෝ ඔහු..? කිසිවෙක් හරියට රාජකාරිය කරන්නේ නැති හැඩයි. තම නිදහසට නම් කරුණු කියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>439602</articleId>
+    <title>මන්න මංජු වෙඩි කා නසී</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ජූලි මස 21 23:06:51</date>
+    <body>හෙරෝයින් විකුණන්නෙකු බව කියන මන්න මංජු යතුරු පැදියකියන් ගමන් කරමින් සිටියදී නාඳුණන තුවක්කුකරුවෙකු විසින් තැබු වෙඩි ප්‍රහාරයකින් මියගොස් ඇතැයි පොලිසිය කියයි.
+ හිසට වෙඩි වැදී මියගිය ඔහුගේ මළසිරුර දකුණු කොළඹ ශික්ෂණ රෝහලේ බවද පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2016-07-21 19:21:43</date>
+            <index>0</index>
+            <phrase>අවිගත්තෝ අවියෙන්ම නසී!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-07-21 20:32:55</date>
+            <index>1</index>
+            <phrase>යහපාලනය සඳහා නාඳුනන තුවක්කුකරුවනුත් අවශ්‍ය බවද මේ සිද්ධියෙන් අපිට පෙනීයන්නේ. කලින් හිටපු ආණ්ඩුව නම් දඩයම් කළේ කුඩුකාරයින්වනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැගී</author>
+            <date>2016-07-22 00:13:43</date>
+            <index>2</index>
+            <phrase>කුඩු බිස්නස් කරන අය පාතාල කල්ලි වල අයගේ ජීවිත කෙළවර වෙන්නේ ඔය වගේ අවාසනාවන්ත විදියට තමා. ඒත් මේවට යොමුවුණ කිසිම කෙනෙක් මේවායින් පාඩමක් ඉගෙනගන්නේ නැහැ. නහි වේරෙන වේරානි කියලා කිසිම කෙනෙක් හිතන්නෙත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-07-22 01:59:33</date>
+            <index>3</index>
+            <phrase>ඉස්සර වගේමයි. වෙනසක් නැහැ. ඔබට සතුටුයිද දැන් කියලා අහන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2016-07-22 03:00:23</date>
+            <index>4</index>
+            <phrase>දැන් සුදු වෑන් වෙනුවට නාඳුනන තුවක්කුකරුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-07-22 05:31:29</date>
+            <index>5</index>
+            <phrase>ඇති යන්තම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

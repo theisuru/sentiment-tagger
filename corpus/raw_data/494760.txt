@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494760</articleId>
+    <title>පීසීලාට කොකා ගැස්සූ දෙදෙනෙක් අත්අඩංගුවේ</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 දෙසැම්බර් මස 31 18:59:30</date>
+    <body>කටානේදී නත්තල්දා පොලිස් කොස්තාපල්වරුන් දෙදෙනෙකුගේ ගිනිඅවි උදුරාගෙන ඔවුනට වෙඩිතබා පලාගිය බව කියන දෙදෙනෙක් සැකපිට අත්අඩංංගුවට ගනු ලැබ සිටිති.
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2017-01-01 07:17:41</date>
+            <index>0</index>
+            <phrase>පොලිස් කොස්තාපල්වරුන්?ගිනිඅවි උදුරාගෙන?හිහ්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකුම්</author>
+            <date>2017-01-01 09:32:53</date>
+            <index>1</index>
+            <phrase>රාළහාමිලා ගිනිඅවි පාවිච්චි කරන දන්නෙම නැද්ද? ලැජ්ජා නැද්ද මේ වෙන වැඩ වලට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

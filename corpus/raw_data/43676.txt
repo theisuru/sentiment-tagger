@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43676</articleId>
+    <title>ෆොන්සේකා පරණ නවාතැනට යයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 මැයි මස 21 14:54:43</date>
+    <body>පැය එකහමාරකට ආසන්න කාලයක් අලුත්කඩේ අධිකරණයේ ගත කළ සරත් ෆොන්සේකා බන්ධනාගාර රියෙන් බොරැල්ලේ බන්ධනාගාරය වෙත ගෙන යනු ලැබීය.
+අලුත්කඩේද සිරගෙදර ඉදිරිපිට ද මහ පිරිස් රැස්ව සිටියහ.
+ </body>
+    <comments>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-21 15:16:00</date>
+            <index>0</index>
+            <phrase>ආන්ඩුව පන්නන්න සටන අරඹමු මැතිතුමනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතූ</author>
+            <date>2012-05-21 15:15:12</date>
+            <index>1</index>
+            <phrase>අදවත් ගෙදර යන්න බැරි වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-05-21 15:26:25</date>
+            <index>2</index>
+            <phrase>අම්මෝ හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-21 16:09:02</date>
+            <index>3</index>
+            <phrase>දැන් මෙහෙම වෙනකොට පාර්ලිමෙින්තුවෙ අනිකුත් මැතිඇමතිවරුත් හිතයිද දන්නෑ? අනේ අපි දිහාකවුරුත් බලන්නෑ. අපි නිකමි අවලංගුකාසි වගේ. අපි කොචිචර කෑගැහුවත් වැඩක්නෑ. හිරගෙදරට ගිහින් ටිකකාලයක් විවෙකීව ඉදලා එලියට ආවොත් හොදයි වගේ එතකොට මෙ ජනතාව අපිවත් ඒ විදිහට පිළිගනිවිනේ කියල. ඇත්තෙන්ම සමහරක්වෙලාවට මනුෂ්‍යයෝ වුනහම මෙහෙම සිතුවිලි පහලවෙන්න පුලුවන්. හා නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-21 16:18:25</date>
+            <index>4</index>
+            <phrase>අනේ මගේ කට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

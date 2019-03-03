@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>12221</articleId>
+    <title>දැරිය වල් අලියාට ලියුමක් ලියයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 නොවැම්බර් මස 08 16:21:32</date>
+    <body>දකුණු මොරවැව සිංහල විදුහලේ දෙවැනි වසරේ ඩර්මිලා කාවින්දි පණ්ඩිතරත්න දැරිය වල් අලියකුට ලියුමක් ලියුවාය. ගමටත් ගෙදරටත්  එල්ල වන ප‍්‍රහාර වලින් ඇති වූ වේදනාව එම ලියුමෙන් කියැවේ.</body>
+    <comments>
+        <comment>
+            <author>සිංහයා</author>
+            <date>2011-11-11 19:46:56</date>
+            <index>0</index>
+            <phrase>පුංචි දුවේ, ඔයාගේ අහිංසක පුංචි හිතට රිදාල තියෙන බව පෙ‍නෙනකොට අපිටත් වාවාන්නේ නෑ. මොනවා කරන්නද දුවේ, අපි අලින්ගේ අඩවියේ ඉන්න එක වැරැදී. ‍රටේ වගකිව යුත්තෝ දූලගැන බල්න ඕනැ. ඒක ඒගොල්ලන්ගො වගකීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2011-12-02 23:22:08</date>
+            <index>1</index>
+            <phrase>දුවේ.. අපේ රටේ මේක තවත් ප්‍රවෘත්තියක් විතරයි කියල මම එදාම අදහස් තීරෑවට ඇතුළත් කළා. ඒත් දැන් ඒක ඇත්ත වෙලා නේද...??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

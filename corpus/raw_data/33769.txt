@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33769</articleId>
+    <title>මේ දරුවා ගල්පරයෙන් ඇහින්දෝ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 මාර්තු මස 27 21:00:31</date>
+    <body>මාතර බ‍්‍රවුන්ස් හිල්හි හෝටලයක් පිටුපස ළඳු කැලැවක ගල් දෙබොක්කාවක දින තුනක පමණ බිළදකු සොයාගත් පොලිසිය දරුවා මාතර රෝහලට ඇතුළු කළේය.
+දරුවාගේ ඇඟපුරාම කෘමීහු පිරී සිටියහ. ජනනේන්ද්‍රිය පෙදෙස කූඹින් කෑමෙන් තුවාලවී තිබිණි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ශානි</author>
+            <date>2012-03-27 21:16:47</date>
+            <index>0</index>
+            <phrase>ඇතැම් දෙමාපියන් තමන්ගේ දරුවන්ට මෙවැනි දේ කරන්නේ ඇයි. මේ වගේ අයට රජය දැඩි දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනූෂ</author>
+            <date>2012-03-27 21:26:58</date>
+            <index>1</index>
+            <phrase>මට දුන්නනම් මම හදාගන්නවා. පව් දෙයියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-03-27 21:28:05</date>
+            <index>2</index>
+            <phrase>ආසියාවේ ආශ්චර්යය ශ්‍රී ලංකාවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝයි.</author>
+            <date>2012-03-27 21:30:47</date>
+            <index>3</index>
+            <phrase>ගෙදර බුදුන් අම්මා ! ලෝක විනාශේ........... !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්</author>
+            <date>2012-03-27 21:42:22</date>
+            <index>4</index>
+            <phrase>දින තුනකින් හරි පනපිටින් සොයා ගත්තු එක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිත්තැටියෙන ලතා</author>
+            <date>2012-03-27 21:49:06</date>
+            <index>5</index>
+            <phrase>කොයි මන්තිරිගෙදෝ ............... ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-03-27 21:58:54</date>
+            <index>6</index>
+            <phrase>මෙවැනි දරුවන් බලාගැනීම තමා ප්‍රේම් ළමා නිවාසේ කළේ. පිස්සෝ ටිකක් එයටත් අකුල් හෙලලා බොරු ෂෝ එකක් දැම්මා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාතිමා සෆ්නා</author>
+            <date>2012-03-27 22:05:47</date>
+            <index>7</index>
+            <phrase>ජාති ජාතිත් මෙවැනි ගැහැණුන්ට දරුවන් නොලැබේවා. !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරංගනී</author>
+            <date>2012-03-27 22:12:36</date>
+            <index>8</index>
+            <phrase>වාසනාවන්ත පුතෙක් අපරාදය කලවුන්ට නියම දඩුවම් ලැබේවා. !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-03-27 22:18:26</date>
+            <index>9</index>
+            <phrase>රාගයේ ප්‍රතිඵල විදින්න අමාරු ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂානාස්</author>
+            <date>2012-03-27 22:29:23</date>
+            <index>10</index>
+            <phrase>මෙහෙම කළ එවුන්ව පණපිටින් පුච්චන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විධුර</author>
+            <date>2012-03-27 22:38:26</date>
+            <index>11</index>
+            <phrase>මේක ඔපපාතික උපතක් වෙන්න පුලුවන් සමහර විට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2012-03-27 22:43:28</date>
+            <index>12</index>
+            <phrase>මේවා කරන අයට මිරිස් අඹරන්න ඕනෑ. කිරිසප්පයන්ට කරන අපරාධ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනේෂ්</author>
+            <date>2012-03-27 23:04:33</date>
+            <index>13</index>
+            <phrase>හදන්න බැරිනම් අපිට දීපල්ලකෝ තැන් තැන් වල දන්නේ පව්කාරයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසීර්</author>
+            <date>2012-03-27 23:08:40</date>
+            <index>14</index>
+            <phrase>මාතර හෝටල් වල කාමර හැමදාම පිරිලා. පාසල් යන ළමයි ඕන තරම් ඉන්නවා. හොයන්න බලන්න කවුරුත් නැහැ. ඒවයේ ප්‍රතිඵල තමයි මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැමියෙක් සහ බිරිදක්</author>
+            <date>2012-03-27 23:18:10</date>
+            <index>15</index>
+            <phrase>අපි ලක්ෂ ගාණක් වියදම් කළා දරුවෙක් හදාගන්න. ඒත් තවම දෙවියන් අපේ මූණ බැලුවේ නැහැ. දරුවන්ට මෙහෙම කරන්න එපා අම්මේ. ඔයාටත් අපිට වුණු දේ වුණානම් තේරේවි දරුවන් නැති දුක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-03-27 23:48:39</date>
+            <index>16</index>
+            <phrase>උපත් පාලනය ගැන උගන්නවන්න යනකොට සංස්කෘතිකයේ සදාචාරයේ අයිතිකාරයෝ විරුද්ධ වීමේ ප්‍රතිඵල තමයි මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත් බණ්ඩාර ගොතටුව</author>
+            <date>2012-03-27 23:48:20</date>
+            <index>17</index>
+            <phrase>අනේ කියන්න බෑ වාසනාවන්ත දරු පැටියා. මෙහෙම කරන එවුන්ට දෙන්න දඩුවම් ශ්‍රී ලංකාවේ තාම නෑ. මොක ද දරුවගේ අප්පා දේශපාලකයෙක් වෙන්න ඇති. අප්පා නැති කල අම්මා කවර කල කියල තමයි දැන් කියන්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් යාපා</author>
+            <date>2012-03-28 00:06:46</date>
+            <index>18</index>
+            <phrase>අවජාතක දෙමාපියෝ !!!!!!!!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-03-28 00:23:38</date>
+            <index>19</index>
+            <phrase>හැමදේටම රජයට බණින මෝඩයෝ ඉන්නෙ ලංකාවේ විතරයි. ඇයි මේ දේ කළේ රජයෙන්ද නැතිනම් වෙන කෙනෙක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2012-03-28 00:34:18</date>
+            <index>20</index>
+            <phrase>මොකක්ද වෙන්නේ අපේ සංස්කෘතියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් ධර්මප්‍රිය</author>
+            <date>2012-03-28 01:22:09</date>
+            <index>21</index>
+            <phrase>පවක පිනක වෙනස දන්නේ නැති මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි සෙනෙවිරත්න</author>
+            <date>2012-03-28 01:58:27</date>
+            <index>22</index>
+            <phrase>පුතේ, නුඹේ අනාගතය සැපවත් එකක් වේවා !!!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-03-28 02:02:41</date>
+            <index>23</index>
+            <phrase>මට තව කියන්න තියෙන්නේ ජනාධිපති නිදි අනේ. අපි පත් කරපු ආඩම්භරකාර තාත්තා අපිට වැරදුනා. අපි අතරමං වුනා. එයාට හොදටම නින්ද ගිහින්. අපි මොනවා හරි කරමු මේකට. නැත්නම් අපේ ජාතිය ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානුක, ඉතාලියේ සිට</author>
+            <date>2012-03-28 02:16:40</date>
+            <index>24</index>
+            <phrase>ලංකාවේ මිනිස්සුන්ට මේ වගේ දේවල් කරන්න පුලුවන්ද දෙයියනේ. තිරිසන් සතෙක් උනත් තමන්ගේ පැටියට ආදරෙයි. මේ ආත්මෙදිම මේ කරපු පව පල දෙන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදලි</author>
+            <date>2012-03-28 02:37:53</date>
+            <index>25</index>
+            <phrase>අනේ දෙයියනේ, මෙහෙම අපරාධ කරන්න එපා. මෝඩ ගෑනුන්ගෙ වැරදිවලට අසරණ ළමයි පලි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමයන්ති</author>
+            <date>2012-03-28 02:43:34</date>
+            <index>26</index>
+            <phrase>මතු ආත්මයක දරුවන් නොලැබේවා. ගල් ගහන්න ඔය අම්මට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2012-03-28 08:17:33</date>
+            <index>27</index>
+            <phrase>බුදු සරණයි පුතේ නුඹට .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2012-03-28 08:45:32</date>
+            <index>28</index>
+            <phrase>මට මෙය පිළිකුලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවර්ධන</author>
+            <date>2012-03-28 08:48:43</date>
+            <index>29</index>
+            <phrase>මේ සිදුවීමේ ආසන්නම අවස්ථාව සැලකිල්ලට අරන් අපි දරුවා විසිකළ අම්මාට දෙස් දෙවොල් තියනවා.. ඒක වැරදියි කියලා මම කියන්නේ නෑ.. ඒත් සමාජ‍යයේ අපි බහුතරයක් යුතුකම් ඉටු නොකිරීමක ප්‍රතිඵල තමයි මේ කියලා මට හි‍තෙනවා..තව හිතලා බලන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>GIHAN KODAGODA</author>
+            <date>2012-03-30 09:49:53</date>
+            <index>30</index>
+            <phrase>ආදර‍යේ උල්පත වූ අමිමා.............ගී‍යෙහි අරැත ‍බොද වී යන වගයි.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

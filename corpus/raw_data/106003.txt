@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>106003</articleId>
+    <title>මේ ළමයා කොයින්දෝ - බෝක්කුවෙන් ඇහින්දෝ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2013 අපේ‍්‍රල් මස 01 10:44:09</date>
+    <body>හැටන් කොළඹ මාර්ගයේ වටවල බෝක්කුවක් යටින් දිනක් වයසැති ගැහැණු දරුවකු සොයාගෙන වටවල රෝහලට බාරදුන් බව වටවල පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුජිත්‍රා</author>
+            <date>2013-04-01 10:57:51</date>
+            <index>0</index>
+            <phrase>නියම අම්මා කෙනෙක්.. හොඳ ආදර්ශයක් අම්මලාට දීලා තියෙන්නේ.. උපරිම දඬුවම් දෙන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-01 10:54:55</date>
+            <index>1</index>
+            <phrase>හොදට හොයලා බලලා ආදරෙන් සලකන අම්මා කෙනෙක්ට භාර දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-04-01 11:01:29</date>
+            <index>2</index>
+            <phrase>රෝස මලක්නේ අකමැත්තෙන් කරන්න ඇත්තේ. ඒකනේ දරුවට පොඩි හරි ආරක්ෂාවක් ඇති තැනක තියලා තියෙන්නේ. කොහේ හෝ වැරදුනු අම්මා කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2013-04-01 11:02:23</date>
+            <index>3</index>
+            <phrase>පොලිස් මහත්වරුනි, ඔබලාටත් ජාතියටත් පින්. නෙතට කදුලු උනන දර්ශනයක්. මේ දරුවට හොද රැකවරණයක් ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2013-04-01 11:28:12</date>
+            <index>4</index>
+            <phrase>නීතියෙන් මේ දරුවව අප හට භාර දෙන්නේ නම් අපගේම දියනියක් ලෙස පෝෂණය කිරීමට කැමැත්තෙමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2013-04-01 11:29:37</date>
+            <index>5</index>
+            <phrase>කරුණාකර ඇයගේ දෙමාපියන්ටත් උපරිම දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙලනිකස්</author>
+            <date>2013-04-01 11:38:58</date>
+            <index>6</index>
+            <phrase>රට අස්ථාවර කරන්න ඩයස්පෝරාව හෝ බටහිර බලවේග කල දෙයක් විය හැකිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2013-04-01 11:39:31</date>
+            <index>7</index>
+            <phrase>හරි ලස්සන ළමයෙක් , මොන හිතකින් දාල ගියාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2013-04-01 11:37:11</date>
+            <index>8</index>
+            <phrase>අනේ මට දෙන්නකෝ !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාන්</author>
+            <date>2013-04-01 12:03:01</date>
+            <index>9</index>
+            <phrase>තව 4 ක් හොයාගෙන අවුරුද්දට ලක්ෂයක් අරගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීපා</author>
+            <date>2013-04-01 12:04:49</date>
+            <index>10</index>
+            <phrase>මොනවා උනත් ජීවත්වීමට වාසනාව තියෙන වාසනාවන්ත දරු පැටියෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-04-01 12:11:14</date>
+            <index>11</index>
+            <phrase>කොහොමද මෙහෙම අපරාද කරන්නේ. මේ වගේ නොවෙන් ලංකාවේ නීති පුතිපත්ති වෙනස් වෙන්න ඕනේ. තමන්ට දරුවෝ එපා නම් කැමති කෙනෙකුට දෙන්න පුළුවන් විදියට නීති සැකසිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2013-04-01 12:26:18</date>
+            <index>12</index>
+            <phrase>කැමැත්තෙන් හෝ අකමැත්තෙන් කරලා තියෙන්නේ තිරිසන් වැඩක්. දරුවෝ නැතිව දුක්විදින අය තොච්චර ඉන්නවද මේ රටේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-04-01 12:26:24</date>
+            <index>13</index>
+            <phrase>කරුණාකරලා ඔය ළමයා කැමත්තෙන් බාරගන්න අයට දෙන්න. එයාලා හොදට හදාගනියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-04-01 12:47:50</date>
+            <index>14</index>
+            <phrase>ඉස්සරනම් බෝක්කුවල බෝම්බ තිබුනා දැන් ළමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලනී</author>
+            <date>2013-04-01 12:47:57</date>
+            <index>15</index>
+            <phrase>මෙවන් අය අම්මා කියන උත්තරීතර වචනයටත් අපහාසයක්......'.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-01 12:52:25</date>
+            <index>16</index>
+            <phrase>කියවලා සුසුමක් හෙලනවා හැර වෙන කරන්න දෙයක් නෑ. ඒකයි ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මානවි</author>
+            <date>2013-04-01 13:31:44</date>
+            <index>17</index>
+            <phrase>ඒ අම්මා මේ වගේ වැඩක් කළේ තව එක පිරිමියෙක් නිසා නේද? දරුවගේ තාත්තා සම්පූර්ණයෙන් වගකීම භාර ගත යුතුයි. එයාව සොයා දඬුවම් දෙන්න. හඅම වෙලාවෙම ගැහැණු අය‍ට වරද පටවන්න එපා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-04-01 14:21:46</date>
+            <index>18</index>
+            <phrase>ඉතාලියේ පුන්‍ය ආයතන වලට හොඳ අවස්ථාවක් මේ ළමයගේ වගකීම භාර ගැනීමට හැකි වේ නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමාලි</author>
+            <date>2013-04-01 15:09:03</date>
+            <index>19</index>
+            <phrase>අනේ අසරණ ලස්සන දරු පැටියෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-04-01 15:21:32</date>
+            <index>20</index>
+            <phrase>අමිලගේ කතාව සහතික ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංජිත්</author>
+            <date>2013-04-01 15:16:50</date>
+            <index>21</index>
+            <phrase>ඒ දරු පැටියා ගැනීමට කුමන හෝ පිළිවෙලක් තියෙනවද. දරුවන් නැති මා අරන් හදාගන්නයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරක</author>
+            <date>2013-04-01 15:25:17</date>
+            <index>22</index>
+            <phrase>මා හට දරුවා ලබා ගන්න ක්‍රමයක් දැනුවත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප කුමාර</author>
+            <date>2013-04-01 17:24:03</date>
+            <index>23</index>
+            <phrase>මේ ළමයව මගේ දරුවා වගේ හදාගන්න මට ගන්න පුළුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2013-04-01 17:39:55</date>
+            <index>24</index>
+            <phrase>මේවා පොළොව නුහුල්ලන අපරාධ. මේ දෙන්න අල්ලලා දැඩි දඩුවම් දෙන්නම ඕනේ. දැනට තියෙන නීති පන මදි කියලා මට හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2013-04-01 19:38:12</date>
+            <index>25</index>
+            <phrase>අද ඒක්කෙනෙක් බැදලත් පුශ්ණ. අර හාමුදුරුවරු කියනවා වගේ පහක් බැන්දොත් මොනවයින් මොනවා වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>.සමන්තා පෙරමුණ</author>
+            <date>2013-04-01 20:03:12</date>
+            <index>26</index>
+            <phrase>දුවේ නුබ පින් කරල තියනවා මේ ලෝකය දකින්න.හොද අම්මෙක්,තාත්තෙක් ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුලනි</author>
+            <date>2013-04-02 00:56:19</date>
+            <index>27</index>
+            <phrase>මේ දරු පැටියා බාරගන්න අපි කැමතියි. ඒ ගැන අපිව දැනුවත් කරන්න පුළුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2013-04-02 02:05:48</date>
+            <index>28</index>
+            <phrase>මට මේ දරු පැටියගේ මුහුණ දැක්ක ගමන් මතක් වුණේ මගෙ දරුවා ඉපදුණු ගමන් මම දැකපු මුහුණ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසීනා</author>
+            <date>2013-04-02 10:16:42</date>
+            <index>29</index>
+            <phrase>මට මේ ළමයව හදාගන්න ගන්න පුළුවන්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2013-04-02 12:07:16</date>
+            <index>30</index>
+            <phrase>පව් අනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2013-04-02 13:41:40</date>
+            <index>31</index>
+            <phrase>ළමයි නැතුව ඉන්න කාට හරි හදා ගන්න දෙන්න මේ ලමයව, ආදරෙන් සලකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2013-04-03 23:46:53</date>
+            <index>32</index>
+            <phrase>ගිය අත්මයේදී ගොඩක් පින් කරපු දුවෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-04-05 14:42:26</date>
+            <index>33</index>
+            <phrase>වරද කාගේද? දරුවාගේද? මවගේද? පියාගේද? නැත්තම් අපේද? ඇයි මේවා දකින්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පනී</author>
+            <date>2013-04-07 19:32:40</date>
+            <index>34</index>
+            <phrase>ඔබට මේ ළමයා ලබා ගැනීමට අවශ්‍ය නම් රුපියල් ලක්ෂ දහයක් (මුදලින් පමණි) විශ්වාසවන්ත ලෙස මගේ නැන්දම්මාට බාර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2013-04-13 10:07:50</date>
+            <index>35</index>
+            <phrase>මුළු සමාජයම මේවට වග කියන්න ඕනෑ. අම්මට අපහාස කරන පුරුද්ද සමාජයෙන් නැති වෙනකල් මේවා වෙනවා. මෙහෙම අපරාධ වලට අම්මලා යොමුකරන තාත්තලා වගකියන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

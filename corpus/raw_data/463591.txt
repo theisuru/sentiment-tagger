@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463591</articleId>
+    <title>කසල තේ ගබඩාවක් වටලයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 02 15:02:01</date>
+    <body>එතෙර යැවීමට සියල්ල සුදානම් කර තිබියදී කසල තේ කිලෝ 40000 ක් පමණ වැල්ලම්පිටිය කොහිලවත්තේ ගබඩාවක තිබි අත්අඩංගුවට ගත් බව පොලිස් වි‍ශේෂ කාර්යය බලකාය පවසයි.
+රට යැවුවේනම් ජාවරම්කරුවන් සාක්කුවට දමාගන්නා මුදල රුපියල් ලක්ෂ 50ක් පමණ වෙතියී කියති</body>
+    <comments>
+        <comment>
+            <author>නාලක</author>
+            <date>2016-10-02 10:54:48</date>
+            <index>0</index>
+            <phrase>කසල තේ යනුවෙන් මොනවද? ප්‍රමිතියෙන් බාල මේ කසල තේ අපනයනය කිරීමෙන් අපේ ශ්‍රී ලංකාවට සම්පතක් වන "සිලෝන් ටී" යන සන්නමයට සිදුවන හානියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-02 11:06:28</date>
+            <index>1</index>
+            <phrase>ලංකාවේ නිපැයුම් වලට සහ සේවාවන්ට ප්‍රමිතියක් නැහැ කියන එක නතර කරන්න නීතිරිති තද කරන්න අවශ්ෂයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීලාල්</author>
+            <date>2016-10-02 12:56:58</date>
+            <index>2</index>
+            <phrase>ඔය කසල තේ යනු කුමක්ද? එයින් මිනිසාය වෙන හානි කුමක්ද? දේශීය සහ විදේශීය තත්ව පාලනයට මේවා යටත් වෙන්නේ කෙසේද? ලංකාවේ මේවා දඬුවම් ලැබිය හැකි වරදක් නම් මේවා මිලදී ගන්නා විදේශීය සමාගම් දැනුවත් කලයුතුයි නේද? තේරුම් ගැනීමට අමාරුයි. පැහැදිලි කිරීමක් කලොත් ඉතාමත් අගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුනශාන්ත කුමාර</author>
+            <date>2016-10-02 13:59:53</date>
+            <index>3</index>
+            <phrase>කසළ තේ යනු තේ කොළ සාදා ඒවායින් ඉවත් කරන තේ දළු වල නාරටිය. ඒවා දුබුරු පැහැයක් ගනී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2016-10-02 16:00:21</date>
+            <index>4</index>
+            <phrase>මෙවැනි වංචාකරුවන් නිසා විනාශ වෙන්නේ ලංකාවේ විශාලම ආදායමයි. මෙවැනි වංචාකරුවන් තමයි ඔය ලොකු ලොකු ගෙවල් වල ඉන්නේ. යාන වාහන වල යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීලාල්</author>
+            <date>2016-10-02 16:11:57</date>
+            <index>5</index>
+            <phrase>පැහැදිලි කිරීමට ස්තුතියි. මේවා පිටරට යවන්නේ ගුවනින් හෝ මුහුදින්. ඒ පිළිබඳව වගකිවයුතු නිලධාරීන් කටයුතු කිරීම උචිත යැයි සිතේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප් වික්‍රමරත්න</author>
+            <date>2016-10-03 05:46:01</date>
+            <index>6</index>
+            <phrase>මම ජාතිවාදයක් ගැන කියල හිතන්න එපා කාලයක් මම පිටකොටුවේ පිටරටින් බදු ගෙන්වන ආයතනයක වැඩ කළා මේ වගේ ජරා වැඩ කරන්නේ, කුඩු කන්ටේනර් ගෙන්වන්නේ 90% කම එකම ජාතියකට අයත් අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

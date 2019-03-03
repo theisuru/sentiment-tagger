@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>390895</articleId>
+    <title>ලක් කතට ව්‍යාපාර සම්මානයක්</title>
+    <author>සජීක ජයසිංහ</author>
+    <date>2016 මාර්තු මස 02 18:50:47</date>
+    <body>ලෝක කාන්තා නායකත්ව සම්මේලනය සංවිධානය කළ ලෝක කාන්තා නායකත්ව සම්මාන උත්සවයේදී (2016) ශ‍්‍රී ලංකාව නියෝජනය කළ ඩිලිජන්ට් සමුහ ව්‍යාපාරයේ කළමනාකාර අධ්‍යක්ෂිකා නිශානි රණවීර මහත්මියට සම්මානයක් හිමිවිය. ඇයට එම සම්මානය හිමි වුයේ ව්‍යාපාර අංශයෙන් දක්වා තිබෙන දස්කම් සලකා බැලීමෙනි.
+ඉන්දියාවේ මුම්බායි නගරයේ ටාජ් ලෑන්ඞ්ස් එන්ඞ්ස් හෝටලයේ පැවැති මෙම සම්මාන ප‍්‍රදානෝත්සවයට රටවල් 20 කින් පමණ විවිධ ක්ෂේත‍්‍රයන්ගේ ඉහළ තනතුරු දරන කාන්තාවෝ රැසක් සහභාගිවුහ.
+ ඕස්ටේ‍්‍රලියාවේ සිඞ්නි සරසවියේ ව්‍යාපාර පරිපාලනය පිළිබ`ද උපාධිධාරිණියක වන නිශානි ශ‍්‍රී ලංකා වරලත් ගණකාධිකරණ ආයතනයේද, වෘත්තීය මුල්‍ය කළමනාකරුවන්ගේ සංගමයේද, ශ‍්‍රී ලංකා සහතිකලත් කළමනාකරණ ගණකාධිකාරවරුන්ගේ සංගමයේද ක‍්‍රියාකාරී සාමාජිකාවකි.</body>
+    <comments>
+        <comment>
+            <author>ලියොන් ගුනවර්දන</author>
+            <date>2016-03-02 17:14:16</date>
+            <index>0</index>
+            <phrase>මෙවැනි දක්ෂ දියණියන් ලක්මවට කොතරම් ආඩම්බරයක්ද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාර්ඩ් ප්‍රීනා</author>
+            <date>2016-03-03 10:50:35</date>
+            <index>1</index>
+            <phrase>ඔබතුමියට මගේ සුභ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2016-03-03 21:18:54</date>
+            <index>2</index>
+            <phrase>උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිසාබ්</author>
+            <date>2016-03-04 18:31:57</date>
+            <index>3</index>
+            <phrase>ඔබ වැනි උතුම් දියණියන් අපේ මව්බිමට වාසනාවක්. ඔබතුමියට ඉතසිතින්ම මගේ සුබ පැතුම් සමඟ ජයෙන් ජයම පතමි. ඔබතුමියට සදා ජය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලින්ද</author>
+            <date>2016-03-04 18:32:00</date>
+            <index>4</index>
+            <phrase>ඔබ වැනි උතුම් දියණියන් අපේ මව්බිමට වාසනාවක් ඔබතුමියට අපගේ සුබ පැතුම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලින්ද</author>
+            <date>2016-03-04 18:24:12</date>
+            <index>5</index>
+            <phrase>අපට ගොඩක් සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිත</author>
+            <date>2016-03-04 18:24:13</date>
+            <index>6</index>
+            <phrase>ඔබ වැනි උතුම් දියණියන් අපේ මව්බිමට වාසනාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලිෂා</author>
+            <date>2016-03-04 18:32:16</date>
+            <index>7</index>
+            <phrase>ඔබ වැනි උතුම් දියණියන් අපේ මව්බිමට වාසනාවක් ඔබතුමියට එක සිතින්ම මගේ සුබපතුම් සමග ජයෙන් ජයම පතමි ඔබතුමියට සද ජය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත ජයසිංහ</author>
+            <date>2016-03-05 12:33:51</date>
+            <index>8</index>
+            <phrase>නියමයි මගේ වීරයා. දිගටම යමු. මම ඔබ ගැන ආඩම්බරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

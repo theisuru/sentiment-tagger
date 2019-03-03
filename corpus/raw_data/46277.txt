@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46277</articleId>
+    <title>වාහන ගෙන්වන්නෝ සතුටු වෙති</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 03 14:10:28</date>
+    <body>ගාල් කිරීමේ පහසුව, වරාය නිදහස් ගාස්තු සඳහා වැයකළ යුතු පිරිවැය අඩුවීම වැනි කරුණු සළකා බැලීමේදී වාහන බහාලූම් සහිත නැව් හම්බන්තොට වරායට යොමු කිරීම හොඳ පියවරක් බව වාහන  ආනයකරුවෝ පවසති.
+ලබන හය වැනිදා සිට මෙම වාහන හම්බන්තොට වරායට ගොඩ බාන බව රජය කියයි.
+හම්බන්තොට වරාය කලාපයේ වාහන ප‍්‍රවාහනය කරන නැව් හැසිරවීමේ මධ්‍යස්ථානයක් බවට පතකිරීම රජයේ අරමුණයි.</body>
+    <comments>
+        <comment>
+            <author>මෙල්බන් වැසියා</author>
+            <date>2012-06-03 14:40:31</date>
+            <index>0</index>
+            <phrase>නරකද ලංකාවේම වාහන හදන කම්හලක්‌ පටන් ගත්තොත්. ලංකාව සුපිරි ගණයේ රටක්‌ බවට පත් කිරීමට එය ඉතා වැදගත්වේ. නැත්නම් අප සැමදා සුපිරි රටවලට එම තත්වය ඔවුනට පවත්වා ගෙන යාමට උරදෙන රටක්‌ බවට පත්වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙල්බන් වැසියා</author>
+            <date>2012-06-03 15:22:03</date>
+            <index>1</index>
+            <phrase>වරායක වැදගත්කම අපනයන මිස ආනයනය නොවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හපනා - කටාර්</author>
+            <date>2012-06-03 16:15:42</date>
+            <index>2</index>
+            <phrase>ඒකනම් ඇත්ත ලංකාවට කෙසේ වෙතත් කලාපයෙ රට වලට හොඳයි. මේ Tax ගහන විදියට ලංකාවෙ මිනිසුන්ට පුලුවන්යැ වාහන ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකල බුජන්</author>
+            <date>2012-06-03 20:26:29</date>
+            <index>3</index>
+            <phrase>අනේ සාධු! එයාලා හැමදාමත් සතුටින් නොවැ ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුණ</author>
+            <date>2012-06-04 06:02:11</date>
+            <index>4</index>
+            <phrase>මේක පට්ටපල් බොරුවක්. ආනයන බදු 120% ඉඳල 200% ට වැඩිකරල. මොන ආනයන කාරයටද සතුටෙන් ඉන්න පුලුවන් වෙච්ච පාඩුවෙ හැටියට. සමහර ආනයන කාරයො වරායෙ තියෙන වාහන ටික ක්ලියර් කරගන්න සල්ලි නැතුව දුක් වෙවී ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්,</author>
+            <date>2012-06-04 10:12:50</date>
+            <index>5</index>
+            <phrase>දවසේ විහිලුව..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-06-04 21:07:00</date>
+            <index>6</index>
+            <phrase>හම්බන්තොට ඉදන් ගොඩබිමින් කොළඹට ප්‍රවාහන ගාස්තු ගැන මතක් වෙද්දි හරිම සතුටින් තමයි ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසී</author>
+            <date>2012-06-04 22:04:14</date>
+            <index>7</index>
+            <phrase>දැන් අර ගල කඩලා ඉවර ඇති.අනික මක් කරලා හරි මේකට නැවු ගෙන්න ගන්නත් එපායැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-05 11:39:00</date>
+            <index>8</index>
+            <phrase>මේක හොදයි.නමුත් අනික් වරායවලුත් සංවර්ධනය කළානම් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-06-05 13:36:02</date>
+            <index>9</index>
+            <phrase>මෙය විය නොහැක, වාහන ගෙන්වන්නන් මේ හේතුවෙන් දුක් වෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජොලි බෝයි</author>
+            <date>2012-06-05 15:56:09</date>
+            <index>10</index>
+            <phrase>මේව නියම විහිලු . කමක් නෑ ලංකාවේ අයට හොඳයි මේ කතා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-06-05 16:41:47</date>
+            <index>11</index>
+            <phrase>කවුද මේකට කැමතියි කියපු ආනයන කරුවෝ? මේ ලිපියට ඔවුන්ගේ නම් ඇතුලත් විය යුතුයි. අඩුගනනේ කීදෙනෙක් අදහස් දැක්වූවාද කියාවත් නොකියන මේ ප්‍රවෘත්තිය මුසාවක් බව මටනම් සිතේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එමාර්</author>
+            <date>2012-06-05 18:14:49</date>
+            <index>12</index>
+            <phrase>පට්ටපල් බොරැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.ආර්</author>
+            <date>2012-06-05 18:55:14</date>
+            <index>13</index>
+            <phrase>පට්ටපල් බොරැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Sakala Bujan</author>
+            <date>2012-06-05 21:55:09</date>
+            <index>14</index>
+            <phrase>වමාරනවා වගේ සද්ධයක් ඇහෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සර්ෆාස්</author>
+            <date>2012-06-06 00:15:47</date>
+            <index>15</index>
+            <phrase>ලොකු අයගෙ වාහනවලට බදු ගැහුවම කවුරැත් කතා කරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-06-06 09:16:31</date>
+            <index>16</index>
+            <phrase>කාර් 1 ජැපෑන් වලින් අරන් හෝම් 1 හම්බන්තොට තමයි හදන්න වෙන්නේ ??????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීනා</author>
+            <date>2012-06-06 09:56:01</date>
+            <index>17</index>
+            <phrase>අනේ සාධු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කළණ ජේ.</author>
+            <date>2012-06-06 15:58:59</date>
+            <index>18</index>
+            <phrase>දැන් ඉතින් මෙතන මහ ගලක් තියෙනවා, මේකට නැව් එන්නෙ නෑ කියපු පණ්ඩිතයො ටික ඇටි කෙහෙල් කාපු උගුඩුවෝ වගේ දඟලනවා. වෙලාවකට කොළඹට කිරි ගමට කැකිරි කියලා කෑගහනවා. ඒ කටින්ම කෑලෑ වල වරායවල් හදනවා කියනවා. ඇට නැති දිවනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-06-06 17:57:41</date>
+            <index>19</index>
+            <phrase>හොඳ පියවරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.කේ.</author>
+            <date>2012-06-07 09:55:18</date>
+            <index>20</index>
+            <phrase>ඇත්තටම බැලුවොත් මේ වරාය නටපු තොයිලෙකුත් නෑ බෙරේ පලුවකුත් නෑ වගේ දෙයක්.. මෙලෝ රහක් නෑ.. ඒකාලෙ කට්ටිය කිව්ව නැව් කොහෙද දන්නෙ නැ නේද?? ආචාර්යතුමෝ නැද්ද හොද අදහසක් එහෙම??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

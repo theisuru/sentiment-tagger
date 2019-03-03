@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>292207</articleId>
+    <title>හෙල්මට් ඇත. අංකය නැත</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 ජනවාරි මස 24 12:51:31</date>
+    <body>ගාල්ල වක්වැල්ල පාරේ අංක තහඩු නැති යතුරුපැදියක පොලිස් නිලධාරියකු ගමන් කරණ ආකාරය මෙලෙස ලංකාදීප කැමරා කාචයේ සටහන් විය. අංක තහඩුවක් නැතිව යතුරුපැදි ඇතුළු කිසිදු වාහනයක් මාර්ගයේ ධාවනය කිරීම නීතිය හමුවේ වරදකි. යතුරුපැදියක් හෝ වාහනයක් මිලදීගත් විට එය ලියාපදිංචි අංකය නොමැතිව තම නිවසට රැගෙන යාමට පමණක් අවසරය ඇත. නිවසට නව රථයක් රැගෙන යන්නේ නම් වාහනයේ ගැරජ් අංකය ප්‍රදර්ශනය කළ යුතුය. එමෙන්ම වාහනය මිලදීගත් ලදු පත ද එය රැගෙන යන්නා සතුව තිබිය යුතුය. මේ නීතිය ක්‍රියාත්මක කිරීමට සිටින පොලිස් නිලධාරීන් නීතිය අමු අමුවේ උල්ලංඝනය කරණ බවට මේ තවත් එක් සාක්කියකි.</body>
+    <comments>
+        <comment>
+            <author>බමුණු</author>
+            <date>2015-01-24 08:43:32</date>
+            <index>0</index>
+            <phrase>හෙල්මට් ඇත. අංකය නැත පොලිස් නේ කමක් නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2015-01-24 13:23:07</date>
+            <index>1</index>
+            <phrase>ගෙදර යන ගමන්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්.</author>
+            <date>2015-01-26 11:39:34</date>
+            <index>2</index>
+            <phrase>නොමිලේ.දීපු.යතුරුපැදි.වෙන්න.ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2015-01-27 07:57:21</date>
+            <index>3</index>
+            <phrase>අනිවාර්යයෙන් රජයේ අයට දුන්න එකක්. ඒවාට අංක නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාළහාමි</author>
+            <date>2015-02-04 09:11:17</date>
+            <index>4</index>
+            <phrase>කවුද දන්නේ අංක තහඩුව නැති නිසා බයිසිකලය පොලීසියට ගෙනියනවද කියලා? නැතිනම් අයිතිකාරයට කරේ තියන් ගේන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

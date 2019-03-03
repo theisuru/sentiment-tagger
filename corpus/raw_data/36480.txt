@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36480</articleId>
+    <title>අවුරුද්දට 330 ක් ජාතික රෝහලට</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 අපේ‍්‍රල් මස 14 15:38:56</date>
+    <body>අද උදෑසන 7.00 ට අවසන් වූ විසිහතර පැයේදී අනතුරුවලට ලක්වූ 106 ක් කොළඹ ජාතික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබති. අනතුරට ලක්ව රෝහලට පැමිණි සංඛ්‍යාව 330දෙනෙකි.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-14 18:45:45</date>
+            <index>0</index>
+            <phrase>අවුරැද්දක් එනකොට නත්තලක් එනකොට ඕක ඉතින් අමුතුදෙයක් නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

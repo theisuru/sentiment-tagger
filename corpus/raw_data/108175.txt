@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>108175</articleId>
+    <title>‘තුටු රැව් මඟුල් ගී නගමින් රැඟුම් ගත‘</title>
+    <author>කේ ඩී දේවප්‍රිය</author>
+    <date>2013 අපේ‍්‍රල් මස 11 10:25:40</date>
+    <body>පිල් විදහාගත් මොණරකු දැකිය හැකි වනුයේ කලාතුරකිනි. කතරගම දෙවියන්ගේ වාහනය සේ සැලකෙන මොණරා ආගමික වශයෙන් ද පුද සත්කාර ලබයි. වියලි කලාපයේ වාසය කළ මොණරා මෑතක සිට පහතරට තෙත් කලාපයටද පිවිසී සිටී. දේශගුණ විපර්යාසයත් සමග මොණරාගේ පැවැත්ම වෙනස් වී ඇතැයි පරිසර වේදීහු කියති.
+ </body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2013-04-11 11:03:49</date>
+            <index>0</index>
+            <phrase>බලන්න ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2013-04-11 11:13:38</date>
+            <index>1</index>
+            <phrase>ඉතාම අලංකාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිනි</author>
+            <date>2013-04-11 11:20:42</date>
+            <index>2</index>
+            <phrase>අනේ-! මයුර ඔබ කිනම් කලාපයට පියාසර කලත් කමක් නැහැ හිත් පිත් නැති අපේම අයගෙන් ටිකක් ප්‍රවේසම් වෙන්න!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෑන්</author>
+            <date>2013-04-11 11:25:09</date>
+            <index>3</index>
+            <phrase>පිල් විදහාගත් මොණරකු මට නම් මෝඩ පාට් දමන්නෙකුට සමානය.... බලන්න ලස්සනයි නමුත් උගේ පක්ෂාත්භාගය එළියේය......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-04-11 11:54:30</date>
+            <index>4</index>
+            <phrase>අන්තිම ෆොටෝ එකේ මොනරාගේ ඔළුව කෝ....???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-11 11:49:48</date>
+            <index>5</index>
+            <phrase>මහේෂ් මල්ලි මොනරාගේ ඔලුව බලන්න ඉස්සරහට යන්න ඕන , මේ තියෙන්නේ පිටිපස්සනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඟංග්</author>
+            <date>2013-04-11 12:01:40</date>
+            <index>6</index>
+            <phrase>ඔළුව තියන අයට විතරයි පේන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසර්</author>
+            <date>2013-04-11 12:01:55</date>
+            <index>7</index>
+            <phrase>මොණරා‍ගේ ඔළුව පිටිපස්සේ තියෙන්න පුළුවන්ද මහේෂ්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-04-11 11:56:56</date>
+            <index>8</index>
+            <phrase>අන්තිමට මොණරත් අපිට ‍පස්ස පෙන්වනවා. මොනවා කරන්නද කමක් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරදියල්</author>
+            <date>2013-04-11 12:35:00</date>
+            <index>9</index>
+            <phrase>අලංකාරයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-11 12:43:09</date>
+            <index>10</index>
+            <phrase>මත්තල දේශයේ ගුණය වෙනස්වීම නිසා මොනරුන් තෙත් කලාපයට සෙන්දුවී ඇත. එහෙත් එය මොනරාගේ අවසානය ලගාවීමක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-04-11 13:08:55</date>
+            <index>11</index>
+            <phrase>හරිම ලස්සනයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-04-11 13:37:09</date>
+            <index>12</index>
+            <phrase>හරිම ලස්සනයි. ස්තූතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-04-11 14:18:09</date>
+            <index>13</index>
+            <phrase>මහේෂ්, ඉස්සරහ පස්ස හදුනන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්තිල්</author>
+            <date>2013-04-11 14:29:37</date>
+            <index>14</index>
+            <phrase>ඇත්තද වරුණ? එහෙනම් දැන් කරන්න තියෙන්නේ එක දෙයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2013-04-11 14:49:30</date>
+            <index>15</index>
+            <phrase>මොනරා රගන්නේ මොනරිට පේන්න මිසක් අපිට පේන්න නෙමේ. මොනරිට ඔය කොයි පැත්ත දැක්කත් ගානක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශීමාල්</author>
+            <date>2013-04-11 15:08:38</date>
+            <index>16</index>
+            <phrase>ලස්සනයි. ඒත් පොඩි අවුලක් තියෙනවනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-04-11 15:13:03</date>
+            <index>17</index>
+            <phrase>වරුණ අයිය, මම පොඩි විහිළුවක් කළේ. හැබැයි ඉතින් ඔයා කිව්වා වාගේ මේ වාගේ ලස්සන දර්ශණ දකින්න පුළුවන් වෙන්නේ තව බොහොම ටික කාලයයි. මොකද උන්ගෙ අඩවියත් මිනිස්සු අල්ල ගන්න නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-04-11 15:15:32</date>
+            <index>18</index>
+            <phrase>ලංකාසිරි, දැන් එතකොට ෆොටෝ අරන් තියෙන්නේ මොනරිද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්තා පෙරමුණ</author>
+            <date>2013-04-11 16:11:17</date>
+            <index>19</index>
+            <phrase>ලස්සනයි.මේ ඉන්නේ මොණරා. මොණරිට[සෙබඩ] ලස්සන පිල් කලඹක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීතාංජලී</author>
+            <date>2013-04-11 16:43:33</date>
+            <index>20</index>
+            <phrase>හරිම ලස්සනයි. ඔබට ස්තූතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද ආර්</author>
+            <date>2013-04-11 17:48:30</date>
+            <index>21</index>
+            <phrase>මොනරි කියන්නේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංක</author>
+            <date>2013-04-13 16:33:31</date>
+            <index>22</index>
+            <phrase>මොනර දෙන ගාල්ලේ ,නෙළුව,ටවලම හිනිදුම, බද්දේගම, කුරුදුගහ, ඇල්පිටිය, පිටිගල වගේ පැති වලත් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2013-04-19 21:28:08</date>
+            <index>23</index>
+            <phrase>අයියෝ මේකේ අදහස් දාන කට්ටිය 2 පන්තියට ගිහින් නැහැ වගේ. මොනරගේ ගැහැණු සතා සෙබඩ මිසක් මොනර දෙන , මොනරි කියන්නේ මොකාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

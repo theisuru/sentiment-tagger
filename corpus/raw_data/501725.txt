@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501725</articleId>
+    <title>ප්‍රමිතියෙන් තොර ඩීසල් බෙදාහැරීම නවතයි</title>
+    <author>ජයන්ත සමරකෝන්</author>
+    <date>2017 ජනවාරි මස 27 13:12:23</date>
+    <body>මෙරටට ඉන්ධන තොගයක් රැගෙන ආ නැවක තිබු  ඩීසල්  බැරල්  ලක්ෂ 3ක් (ඩීසල් ටොන් 40500)  ප්‍රමිතියකින් තොර ඒවා  බවට හෙළිවීම නිසා එම ඉන්ධන බෙදා හැරීම වහාම අත්හිටවු බව ඛණිජ තෙල් සම්පත් හා සංවර්ධන ඇමැති චන්දම වීරක්කොඩි මහතා  අද (27) පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>ගුණසේකර</author>
+            <date>2017-01-27 08:42:35</date>
+            <index>0</index>
+            <phrase>රටින් ගෙන්වන හාලුත් බෙදාහැරීම තහනම් කරන්න වේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2017-01-27 09:14:08</date>
+            <index>1</index>
+            <phrase>කවුද මේ වතාවේ හොරා කාල තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2017-01-27 09:20:46</date>
+            <index>2</index>
+            <phrase>ලැබෙන කොමිස් අනුව මේ ඉන්ධන ප්‍රමිතිය අඩු වැඩි වෙනවා , අධිකව කොමිස් ගහන විට ඉන්ධන ප්‍රමිතිය අඩු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

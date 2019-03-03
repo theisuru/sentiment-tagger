@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25095</articleId>
+    <title>බලූ වලිගය ඇදනෑරෙයි</title>
+    <author>ලක්ෂ්මන් හෙට්ටි තන්ත‍්‍රි</author>
+    <date>2012 පෙබරවාරි මස 05 14:11:47</date>
+    <body>නිදහස් දා සිරෙන් නිදහස් වූ සිරකරුවකු ගෙයක් බිඳ පැය විසිහතරක් යන්නටත් පෙර යළි පොලිස් අත්අඩංගුවට පත්විය.
+ඔහු මාදම්පේ පට්ටියගම ගෙයක් බිඳ සිවිලිමේ නැග සිටියදී පොලාිසිය එහි පැන්නේය.</body>
+    <comments>
+        <comment>
+            <author>w.w.s.</author>
+            <date>2012-02-05 15:37:07</date>
+            <index>0</index>
+            <phrase>දැං ඉතිං දැඩි දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>salisan</author>
+            <date>2012-02-05 17:23:27</date>
+            <index>1</index>
+            <phrase>නිදහස් කළ යුතු අය නිදහස් නොකර ඔයවගේ මිනිසුන් නිදහස් කළාම ඔහොම වෙනවා තමයි. හරිම කණගාටුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන මානඩුව</author>
+            <date>2012-02-06 10:25:51</date>
+            <index>2</index>
+            <phrase>ඔයවගේ අයව ජීවිතාන්තය දක්වා සිරදඩුවම් ලබා දිය යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

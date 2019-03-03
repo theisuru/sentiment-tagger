@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60176</articleId>
+    <title>ලංකා බැංකු සංගමයට වාරණයක්</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අගෝස්තු මස 21 18:52:51</date>
+    <body>නව නිලධාරි මණ්ඩලයක් පත් කැර ගැනීම සඳහා වන රැුස්වීමක් පැවැත්වීම වළක්වාලමින් ලංකා බැංකු සේවක සංගමයට අතුරු තහනම් නියෝගයක් නිකුත් කළ කොළඹ දිසා අධිකරණය මධ්‍යම කාරක සභාවක් කැඳවා සංගමයට ලේකම්වරයකු පත් කැර ගන්නැයි නියෝග කෙළේය.
+මහජන බැංකු ශාඛාව, මධ්‍යම කාරක සභාවේ සාමාජිකයන් 257 දෙනකු සමග ගොනු කළ පෙත්සම විභාග වූයේ ජී.ඒ. ධම්මික ගනේපොල දිසාවිනිසුරු ඉදිරියේය.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-21 22:19:17</date>
+            <index>0</index>
+            <phrase>සල්ලි ගන්න බැරිවෙන්න වාරද දාන්න එපා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2012-08-22 09:21:29</date>
+            <index>1</index>
+            <phrase>අයියෝ සල්ලී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-22 12:15:14</date>
+            <index>2</index>
+            <phrase>රජයේ බැංකු පිස්සු නටන්න ගත්තහම මිනිස්සු කලබලවෙලා ලොකු ලොකු කරදර වෙන්න පුළුවන්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන්</author>
+            <date>2012-08-22 13:28:39</date>
+            <index>3</index>
+            <phrase>දැන් බැංකු වල අය තමන්ගේ පඩිය වැඩි කරගන්නවත් එකතු වෙන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19197</articleId>
+    <title>තංගල්ල ඝාතනයට දේශපාලන බලවතෙක් හවුල්?</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2011 දෙසැම්බර් මස 25 14:53:20</date>
+    <body>තංගල්ල මැඩිල්ලේ අවන්හලකදී බ්‍රිතාන්‍ය පුරවැසියකු මරා ඔහුගේ පෙම්වතියට බරපතල තුවාල කළයි සැකපිට ප්‍රාදේශීය දේශපාලනඥයකු ඇතුළු දස දෙනෙකු ගැන විශේෂ පොලිස් කන්ඩායම් තුනක් පරීක්ෂණ ආරම්භ කර ඇත. එම දේශපාලනඥයා ඇතුළු පිරිස එහි මත්පැන් බොමින් සිටි බවත්, ඔහු අත කුඩා අවියක් තුබූ බවත් කියති. තංගල්ල සංචාරකයන් මග පෙන්වන්නන්ගේ සංසදය මේ ඝාතනය හා ප්‍රහාරය හෙළා දකී.</body>
+    <comments>
+        <comment>
+            <author>නිපුන</author>
+            <date>2011-12-25 15:10:25</date>
+            <index>0</index>
+            <phrase>සම්බන්ධ සියලු දෙනාටම කිසිම බුරුලක් දෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් පෙරේරා</author>
+            <date>2011-12-25 15:14:23</date>
+            <index>1</index>
+            <phrase>කවුරු කළත් වැඩේනම් හරිම කැතයි. මේවා පිටරැටියන් දැන ගත්තම අපේ රට ගැන කළකිරෙයි. ඔය අපරාදෙ කරපු අයට ඉහළම දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2011-12-25 15:21:01</date>
+            <index>2</index>
+            <phrase>රටේ නමත් කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ ඒ සංජීව</author>
+            <date>2011-12-25 15:27:14</date>
+            <index>3</index>
+            <phrase>මේවට තමයි කියන්නේ අමනුස්ස වැඩ කියලා. තත්ත්වය නොබලා නීතිය ක්‍රියාත්මක කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙගා</author>
+            <date>2011-12-25 15:46:47</date>
+            <index>4</index>
+            <phrase>සුරා සූදුව හින්ද මිනිසුන්ගේ ගන්න දෙයක් නැහැ. රට ගොඩ දාන්න සෑහෙන කාලයක් යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල විජේසිංහ</author>
+            <date>2011-12-25 15:52:24</date>
+            <index>5</index>
+            <phrase>ගරු ජනාධිපති තුමනි, 2012 වසර. "නීති වසර" ලෙස නම්කර වහාම මරණ දඩුවම බලාත්මක කරන්න. නැතිනම් අප ජාතිය අන් රටවල් ඉදිරියේ මිලේජ්ච් ජාතියක්‌ වනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරික් වර්ණකුල</author>
+            <date>2011-12-25 15:59:56</date>
+            <index>6</index>
+            <phrase>මේ අපරාධකරුවන්ට උපරිම දඩුවම් දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2011-12-26 09:46:58</date>
+            <index>7</index>
+            <phrase>තංගල්ලේ දී මේවගේ දේවල් වෙනව කියල පිළිගන්න බෑ. කරුණාකර නීතිය හරියට ක්‍රියාත්මක කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

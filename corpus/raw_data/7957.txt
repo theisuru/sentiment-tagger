@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7957</articleId>
+    <title>දුමින්දගේ තත්ත්වය යහපත් අතට</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2011 ඔක්තෝබර් මස 08 21:28:51</date>
+    <body>පාර්ලිමේන්තු මන්ත‍්‍රී දුමින්ද සිල්වා මහතාගේ හිසේ තිබූ උණ්ඩ දෙකක් ජයවර්ධනපුර රෝහලේ දී පැය දෙකක පමණ සැත්කමකින් පසු ඉවත් කළ බවත් ඔහුගේ තත්ත්වය යහපත් බවත් ඔහු දැනට දැඩි සත්කාර ඒකකයේ පසු වන බවත් රෝහල් ආරංචි මාර්ග කියයි. දුමින්ද සිල්වා මහතාගේ පැලවත්තේ නිවෙසට පොලිස් ආරක්ෂාව සපයා ඇත.</body>
+    <comments>
+        <comment>
+            <author>අනර්කෙලී</author>
+            <date>2011-10-08 22:07:20</date>
+            <index>0</index>
+            <phrase>කළ කළ දේ පල පල දේ... මදැයි තමුසෙ ඔයින් ගියා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>c.w.k මණ්ඩලවත්ත</author>
+            <date>2011-10-08 22:45:23</date>
+            <index>1</index>
+            <phrase>ජනතාව පීඩාවට පත් කරමින් හැසිරෙන්නට පොලිසියට ඉඩ දිය නොහැකි බැවින් නව වැඩපිළිවෙළක් සඳහා රජයේ අවධානය යොමු වී ඇතැයි ජනමාධ්‍ය හා තොරතුරු ඇමැති කෙහෙලිය රඹුක්වැල්ල මහතා පවසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2011-10-09 08:46:36</date>
+            <index>2</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නහිනවා බුදු දහමට පිටින් කිසිම දෙයක් කරන්න බෑ නරක වැඩ වල ප්‍රතිඵල මේ භවයේදීම ලැබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2011-10-11 12:15:37</date>
+            <index>3</index>
+            <phrase>ඒ කියන්නේ අපේ තත්වේ අයහපත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශක</author>
+            <date>2011-10-11 15:07:07</date>
+            <index>4</index>
+            <phrase>ඔබට නරකක් සිදු නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>The Aza</author>
+            <date>2011-10-11 16:14:06</date>
+            <index>5</index>
+            <phrase>කරපු පව් තෙරුම් ගන්න වෙලව හරි -the aza-</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

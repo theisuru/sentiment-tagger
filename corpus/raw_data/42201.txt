@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42201</articleId>
+    <title>වඳ වී යන ඔසුවක් වන කසඹිලියා</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 14 12:37:03</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-05-21 13:29:15</date>
+            <index>0</index>
+            <phrase>හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනාචාර්ය සජීව හාවගේ</author>
+            <date>2012-05-30 10:06:35</date>
+            <index>1</index>
+            <phrase>කහබිලියා ඔසුව ගෑවුනම කැසිල්ල නවත්තන්න තව ඔසුවක් ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

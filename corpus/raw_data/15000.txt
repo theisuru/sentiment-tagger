@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15000</articleId>
+    <title>කප්පරතොට වැල්ලේ අදත් මහා සෙනඟ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2011 නොවැම්බර් මස 28 19:00:24</date>
+    <body>වැලිගම කප්පරතොටින් මුහුදු ගොස් සැඩසුළඟට අසුවූ ධීවරයන් තිදෙනකුගේ සිරැරැ සිවු දිනකට පසු අද සොයාගැනීමට සහන සේවකයෝ සමත්වූහ. තවත් 37 දෙනකු පමණ ආගිය අතක් නැත. සිරුරු සෙවීමට වැල්ලට ආ ඇතැමෙක් ක්ලාන්ත වූහ.</body>
+    <comments>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2011-11-28 20:47:37</date>
+            <index>0</index>
+            <phrase>පොඩි මිනිහටමයි හැමදාම දුක් කරදර එන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග dubai</author>
+            <date>2011-11-28 20:54:14</date>
+            <index>1</index>
+            <phrase>අනේ දෙවියනේ අනෙත් අයව බේරල දෙන්න අසරණ දරු පවුල් රැක දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2011-11-28 21:06:57</date>
+            <index>2</index>
+            <phrase>අයියෝ.... ලස්සන වෙරළක් අද එකම මළ ගෙයක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2011-11-29 02:09:35</date>
+            <index>3</index>
+            <phrase>දුප්පත් අපි දිහා දෙවියො ඇයි නොබලන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kalu</author>
+            <date>2011-11-29 04:41:02</date>
+            <index>4</index>
+            <phrase>ධීවරයන් ජීවිතආරක්ෂක ඇදුම්පැලද සටියානම් ජිවිතයට අනතුරුක් වන්නෙ නැත,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් රත්නායක</author>
+            <date>2011-11-29 07:38:39</date>
+            <index>5</index>
+            <phrase>අනතුරු ඇගවීම් කළේ නැහැ. කාලගුණ බලධාරීන් ගෙදර යැවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>leele</author>
+            <date>2011-11-29 11:51:50</date>
+            <index>6</index>
+            <phrase>කාළගුණ දෙපාර්තමේන්තුවෙ වැරැද්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

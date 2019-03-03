@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>489179</articleId>
+    <title>උණු වතුර ප්‍රහාරයෙන් ආබාධිත සෙබළා මරුට</title>
+    <author>මොහොමඩ් ආශික්</author>
+    <date>2016 දෙසැම්බර් මස 11 12:04:30</date>
+    <body> සිය ත්‍රීරෝද රථය තුල රාත්‍රී කාලයේ නිදා ගෙන සිටියදී උණු වතුර ප්‍රහාරයකට ලක්වූ විශ්‍රාමික ආබාධිත සෙබළෙකු පේරාදෙණිය ශික්ෂණ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ගනිමින් සිටියදී  මිය ගිය බව පොලිසිය කියයි</body>
+    <comments>
+        <comment>
+            <author>අබය</author>
+            <date>2016-12-11 08:40:45</date>
+            <index>0</index>
+            <phrase>අහෝ ඛේදයකි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-12-11 08:39:37</date>
+            <index>1</index>
+            <phrase>මේ තමා ධර්මද්වීපය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-12-11 16:07:57</date>
+            <index>2</index>
+            <phrase>ඔවුන් මොන විදියට හරි අල්ලන්න ඕනෑ. නැත්නම් අපේ පොලිසිය වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-12-11 23:23:43</date>
+            <index>3</index>
+            <phrase>අන්තිම කැත වැඩක්. අාබාධිත සෙබළෙකුට සමාජය ණයගැතිය. එවැනි අයට වෙනත් ප්‍රශ්න ඇතොත් අමතකකර ජීවිකාව කරගෙන යාමට ඉඩ සැළසිය යුතු නොවේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

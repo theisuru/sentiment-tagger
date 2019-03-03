@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>291145</articleId>
+    <title>එජාප මන්ත්‍රී ප්‍රා මන්ත්‍රීට පාරේ දමාගෙන ගහයි</title>
+    <author></author>
+    <date>2015 ජනවාරි මස 19 15:23:00</date>
+    <body>එක්සත් ජාතික පක්ෂය මඟින් අගලවත්ත නගරයේ දමන ලද කොඩි වැල් කපා නිල් කොඩි දැමීයැයි පවසා එක්සත් ජාතික පක්ෂ පාර්ලිමේන්තු මන්ත්‍රී පාලිත තෙවරප්පෙරුම එක්සත් ජනතා නිදහස් සන්ධාන පාලින්ද නුවර ප්‍රාදේශීය සභා මන්ත්‍රී ආරුමුගම් පුෂ්පකුමාරට අගලවත්ත නගරයේදී පහර දුන්නේය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2015-01-19 10:13:35</date>
+            <index>0</index>
+            <phrase>කෝ නීතිය ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2015-01-19 11:11:41</date>
+            <index>1</index>
+            <phrase>යහපාලනය පටන් අරගෙන තියෙන්නේ. මේකනේ ඕන උනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2015-01-19 11:37:27</date>
+            <index>2</index>
+            <phrase>තෙවරප්පෙරුම මහත්තයා යහ පාලනයට ඕවා ඕනේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2015-01-19 15:08:41</date>
+            <index>3</index>
+            <phrase>වසන්ත ලසන්ත වික්‍රමතුංගට වෙච්ච දේ එක්ක මේක මොකක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2015-01-19 16:44:12</date>
+            <index>4</index>
+            <phrase>පරිස්සමින් හො‍ඳේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුනි</author>
+            <date>2015-01-20 03:58:23</date>
+            <index>5</index>
+            <phrase>කවුරු වුණත් මේ වගේ වැඩ කරන එක වැරැදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙල්ගම</author>
+            <date>2015-01-20 04:01:08</date>
+            <index>6</index>
+            <phrase>කවුරු ආවත් අන්තිමට වෙන්නේ මේක තමයි. බලය ලැබුනම මිනිස්සු නොමිනුස්සු වෙනවා ඒක වෙනස් වෙන්නේ නෑ කවුරු ආවත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම්</author>
+            <date>2015-01-20 04:18:21</date>
+            <index>7</index>
+            <phrase>අනේ දෙවියනේ යහපාලනය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාටින්</author>
+            <date>2015-01-20 04:19:22</date>
+            <index>8</index>
+            <phrase>ඉල්ලාගෙනම කාලා වගේ මට නම් හිතෙන්නේ. මොකටද කොළ පාට ඉවත්කරලා නිල පාට දාන්න ගියේ? කොළපාට තියෙද්දීම නිල් පාට දාන්න තිබුනනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර් ලංකාතිලක</author>
+            <date>2015-01-24 21:16:25</date>
+            <index>9</index>
+            <phrase>දේශපාලනයේ නියැළී සිටින අයට කව්බෝයි චිත්‍රපටි වල වගේ පිස්තෝල දෙක බැගින් ඉණේ සවිකර ගැනීමට ඉඩදීමෙන් ටික කලකට පසු ශ්‍රී ලංකාවට සාමකාමී රටක් බවට පත්විය හැක!! අත්දුටු මෙන්ම ප්‍රත්‍යක්ෂ බෙහෙතකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

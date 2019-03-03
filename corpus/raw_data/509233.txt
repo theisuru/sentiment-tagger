@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>509233</articleId>
+    <title>දහම් පාසල් ගුරු දීමනාව රුපියල් 3000කින් වැඩිවෙයි</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2017 පෙබරවාරි මස 22 18:24:05</date>
+    <body>දහම් පාසල් ගුරුවරුන්ට දැනට ගෙවන රුපියල් 2000 දීමනාව රුපියල් 5000 දක්වා වැඩි කිරීමට පියවර ගන්නා බව බුද්ධ ශාසන හා අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+ඒ අනුව එම දීමනාවන් මේ වසරේ සිට සියලුම දහම්පාසල් ගුරුවරුන්ට හිමි වේ.</body>
+    <comments>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-02-22 20:50:42</date>
+            <index>0</index>
+            <phrase>එ්ක හොඳයි. පන්සල් වල හාමුදුරුවරුන්ට ඡන්ද මිටින් වලට යන්න, උද්ඝෝෂණ වලට යන්න, පර්ලිමේන්තු යන්න, විරෝධතා පෙළපාලි වලට යන්න එහෙම තියෙන නිසා මේ ගුරුවරුන්ටවත් කියක්හරි වැඩිපුර දීලා දරුවන්ට අාගම ධර්මේ උගන්වන එක හොඳ වැඩක්. තවත් කීයක්හරි වැඩිපුර දීලා කඨින පූජා වලටයි, පාංශකූල වලටයි වඩින්න කිවුවත් වරදක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2017-02-23 00:55:04</date>
+            <index>1</index>
+            <phrase>ඡන්ද ගුණ්ඩුවක්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2017-02-23 03:01:41</date>
+            <index>2</index>
+            <phrase>ලලිත්, සිංහලයන්ට හැම පැත්තෙන්ම ගහනකොට එදත් පෙරට ආවේ අපේ හාමුදුරුවරු තමා. ඒක අමතක කරන්න එපා මිතුර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනුෂා</author>
+            <date>2017-02-23 03:25:12</date>
+            <index>3</index>
+            <phrase>මම වෘත්තීය ගණකාධිකාරිනියක්. දහම් පාසලේ උගන්වන්නේ මුදල් බලාගෙන නෙමෙය. අප දන්නා දහම් දරුවන්ට කරුණාවෙන් උගන්වන්නයි අපේ අරමුණ. ගුරුවරුන් සඳහා දීමනාවක් ගෙවීම ඉතා අගය කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2017-02-23 07:55:34</date>
+            <index>4</index>
+            <phrase>මේ මුළු අවුරුද්දටම දෙන ගාන හොඳේ. පටළවාගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2017-02-23 14:18:35</date>
+            <index>5</index>
+            <phrase>ලලිත්, ඔබ වැරදියි. මේක හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

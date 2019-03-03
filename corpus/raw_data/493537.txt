@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493537</articleId>
+    <title>භික්ෂුණීන් 3000කට මහ දන්</title>
+    <author>ලාල් එස්කුමාර</author>
+    <date>2016 දෙසැම්බර් මස 27 15:30:17</date>
+    <body>කැලණිය බොල්ලෑගල මානෙල්වත්ත මහා විහාරයේ දී අද (27) භික්ෂුණීන් 3000ක් ඇතුළුව මහා සංඝරත්නය උදෙසා දහවල් දානමය පිංකමක් පැවැත්විණි.
+තායිවානයේ ප්‍රධාන සංඝනායක මානෙල්වත්ත විහාරාධිපති බෝදාගම චන්දිම නාහිමියන්ගේ අනුශාසකත්වයෙන් තායිවානයේ ෆූ හුවෙයි මෙහෙණින් වහන්සේ ගේ දායකත්වයෙන් පිංකම සිදුකැරිණි.</body>
+    <comments>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-12-27 11:46:40</date>
+            <index>0</index>
+            <phrase>සාදු සාදු සාදු, මම කවදාද මෙහෙම දනක් දෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුජ්‍ය ඉලුක්පිටියේ පඤ්ඤාශේඛර හිමි</author>
+            <date>2016-12-27 14:26:34</date>
+            <index>1</index>
+            <phrase>ඔබ වහන්සේට දිර්ඝායුෂ ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-12-27 21:44:32</date>
+            <index>2</index>
+            <phrase>සාදු සාදු සාදු!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-12-28 05:50:36</date>
+            <index>3</index>
+            <phrase>ලොව්තුරු සම්මා සම්බුදුරජාණන් වහන්සේ ඇතුලු අාර්ය මහා සංඝරත්නය ඛේමා, උත්පලවන්නා, සංඝමිත්තා රහත් උතුමන් අරමුණු කරගනිමින් දුන්නා වූ මේ මහා කුසලය මටද අනුමෝදන් වේවා! උතුම් වූ අාර්ය සත්‍ය සුවසේ අවබෝධයට හේතු වාසනා වේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

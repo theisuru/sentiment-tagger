@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>216678</articleId>
+    <title>වල් අලියා කතක ඔසවා වීසි කරයි</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2014 මාර්තු මස 13 09:57:28</date>
+    <body>අද අලුයම ගල්ගමුවේ වල් අලි ප්‍රහාරයකට ලක් වු මවක ගල්ගමුව රෝහලට  ඇතුළු කරනු ලැබීය.
+වැසිකිළියට යද්දී අලියා මේ කත ඔසවා ඈතට විසි කැර ඇතැයි නිවැසියෝ කියති.
+
+
+
+
+
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ටිරල්</author>
+            <date>2014-03-13 10:16:05</date>
+            <index>0</index>
+            <phrase>අලීයට කැත හිතෙන්න ඈති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර</author>
+            <date>2014-03-13 12:11:27</date>
+            <index>1</index>
+            <phrase>මේ රටේ දුප්පත් මිනිස්සු තවමත් කැලය වැසිකිලි හැටියට පාවිච්චි කරනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරික්කාර්</author>
+            <date>2014-03-13 12:14:11</date>
+            <index>2</index>
+            <phrase>මේ ගොල්ලෝවල් අලියන්වත් කුලප්පු කරලාවගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-03-22 11:55:46</date>
+            <index>3</index>
+            <phrase>රටේ අශ්චර්යය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

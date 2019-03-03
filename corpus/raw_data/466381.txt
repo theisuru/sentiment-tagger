@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466381</articleId>
+    <title>රිය අනතුරට සැකපිට හිමිනම රිමාන්ඩ්</title>
+    <author>පුෂ්පකුමාර ජයරත්න</author>
+    <date>2016 ඔක්තෝබර් මස 10 13:33:45</date>
+    <body>කුරුණෑගල - කොළඹ මාර්ගයේ වඳුරාගල රෙස්ලන්ඩ්වත්තේ දී රිය අනතුරකින් පුද්ගලයකු මිය යාම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගනු ලැබූ මාලියද්දේ නන්දරතන (36) හිමි 12 වැනිදා තෙක් රිමාන්ඩ් කරන ලෙස පොල්ගහවෙල මසේත්‍රාත් පද්මසිරි හේරත් මහතා අද (10) නියෝග කළේය.
+නන්දරතන හිමි පැදවූ බව කියන ඒ හිමියන්ගේ විහාරයට අයත් වාහනයට යටවී සෙනසුරාදා (8) දම්බොක්ක මඩිතියවල පදිංචි මාපාමුදියන්සේලාගේ පුංචි බණ්ඩා (66) මහතා මිය ගියේය.  </body>
+    <comments>
+        <comment>
+            <author>ෂානිල් ලුසේනා</author>
+            <date>2016-10-10 08:45:56</date>
+            <index>0</index>
+            <phrase>හාමුදුරුවන්ට වාහන පදවන්න අවසරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2016-10-10 09:36:03</date>
+            <index>1</index>
+            <phrase>අපේ හාමුදුරුවනේ වාහනේ කොහේ යන ගමන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-10-10 12:52:34</date>
+            <index>2</index>
+            <phrase>මේ වහන්සේලා කරන වැඩ නිසා අහිංසක හිමිවරුනුත් උපහාසයට, අපහාසයට ලක් වෙනවා. වාහනයක් ගන්න පුළුවන් නම් ඇයි රියදුරෙක් තියාගන්න බැරි? අලියෙක් ගන්න පුළුවන් හෙණ්ඩුවක් ගන්න බැරි ඇයි ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-10-11 00:34:29</date>
+            <index>3</index>
+            <phrase>ලස්සනම වැඩේ මේ වැඩ සාධාරණීකරනය කරන්න දායකයොත් ඉන්නවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-10-12 07:31:48</date>
+            <index>4</index>
+            <phrase>මේ අනතුරට වගකිව යුත්තේ මේ වාහනය පන්සලට පුජා කරපු එම පන්සලේ බැතිබර දායකයන් පමණයි වාහනයකට වඩා පන්සලකට අවශ්‍ය බඩු භාණ්ඩ මේ දායකයන්ගේ ලැයිස්තුවේ තිබුනේම නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

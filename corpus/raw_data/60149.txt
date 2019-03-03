@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60149</articleId>
+    <title>සව්නේ දා පැයක් කැලණියේ</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2012 අගෝස්තු මස 21 16:56:13</date>
+    <body>කපිලවස්තුපුර සර්වඥ ධාතුන් වහන්සේලා හෙට (බදාදා‍) උදේ අටේ සිට පැයක් බුදුන් වැඩි කැලණිය රජමහා විහාරයේ වන්දනා මාන කිරීම තැබීමට රජය තීරණය කරයි.
+මහජන සබඳතා ඇමැති මර්වින් සිල්වා මහතාගේ ඉල්ලීමක් අනුව ජනපති ඊට අනුමැතිය දක්වා ඇත. බදාදා උදේ 7 දක්වා සර්වඥ ධාතුන් කැලණිය මානෙල් වත්ත විහාරයේ ප‍්‍රදර්ශනය කැරේ.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-21 19:14:27</date>
+            <index>0</index>
+            <phrase>කැළණි පන්සල තමයි හොද..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-08-21 22:39:02</date>
+            <index>1</index>
+            <phrase>බුදුන්ට ගෞරව කිරීමකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-21 22:44:42</date>
+            <index>2</index>
+            <phrase>අපේ නිර්මල බුදු දහම සදාකල් බැබළේවා! සාධු... සාධු... සාධු...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2012-08-22 03:49:03</date>
+            <index>3</index>
+            <phrase>මර්වින් කියනවානම් ඕන දෙයක්.. පුදුම සද්ධාවක්නෙ තියෙන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරසිංහ</author>
+            <date>2012-08-22 03:57:04</date>
+            <index>4</index>
+            <phrase>බුදුරජාණන්වහන්සේ කැළණියට වැඩමකළාමිස මානෙල්වත්ත පන්සලට වැඩම කර නැත.. මේ සුළු දෙයවත් අපේ අයට අවබෝධවෙලා නැතිද? ඒක නිසාද කපිලවස්තු සර්වඥධාතුන් වහන්සේලා මානෙල්වත්ත පන්සලට වැඩමකළේ.. ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංක</author>
+            <date>2012-08-22 03:53:00</date>
+            <index>5</index>
+            <phrase>බුදුන් වැඩමකළ ස්ථානයටයි මේක වැඩමකරවන්න තිබුණේ.. කැළණිය පන්සලයි සුදුසු හැම අතින්ම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2012-08-22 03:53:11</date>
+            <index>6</index>
+            <phrase>ඇයි මේ කැළණිය පන්සල තියෙද්දි මානල්වත්තකට වැඩමකළේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-22 05:26:32</date>
+            <index>7</index>
+            <phrase>විශ්ව, සුමනා, මොනවද මේ කියන්නේ? එයාව තරහා කරගෙන කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-08-22 11:56:04</date>
+            <index>8</index>
+            <phrase>ලංකාව පුරාම ගෙනියන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

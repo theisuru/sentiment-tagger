@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54841</articleId>
+    <title>ශූරයන් දෙන්නාට කාරය දර සෑයක් වේ</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 ජූලි මස 22 16:49:09</date>
+    <body>ඉතාලි ජාතික මෝටර් රථ ධාවන ශූරයින් දෙදෙනකු වූ වලේරියෝ කතෙලානි (37) හා දනියෙලා බෙර්තොනෙරි අද උදෑසන සිදු වූ රිය අනතුරකින් මියගියහ. ලූකා දිස්ත‍්‍රික්කයට අයත් බ්‍රෙන්කෝලි නගරයේදී පැවැත්වෙන මීළඟ තරගාවලිය සඳහා පුහුණුවීමක නිරත වෙමින් සිටින අතරතුරදී ඔවුන් පදවමින් සිටි ඇන්ජින් ධාරිතාව 2000ක් වූ පර්ජෝ මෝටර් රථය ධාවන පථයෙන් ඉවතට පැන ගිනිගෙන මෙම අනතුර සිදුවිය. ඉදිරි තරගාවලියේදී කෙසේ හෝ තමන් ජයග‍්‍රහණය කරන බව ඔවුහු පසුගියදා ඉතාලි මාධ්‍ය හමුවේ කීහ.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-22 17:09:50</date>
+            <index>0</index>
+            <phrase>අවාසනාව...වේගයෙන් මරුවා වෙත....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-22 17:11:00</date>
+            <index>1</index>
+            <phrase>ඒ කියන්නේ කාර් එකේ දර තිබුණද?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>amila katunayaka</author>
+            <date>2012-07-22 18:57:08</date>
+            <index>2</index>
+            <phrase>පවු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-07-22 20:46:44</date>
+            <index>3</index>
+            <phrase>කරුමෙක හැටි..... හරිම දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-07-22 21:38:58</date>
+            <index>4</index>
+            <phrase>කවුද බොලේ කාර් එකට දර පැටෙවුවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-07-23 01:50:28</date>
+            <index>5</index>
+            <phrase>මට ඈතිවෙන්නෙත් දුකක්. කාගෙ උනත් ජීවිත නේ ... ඒත් කාර් එකේ දර පටවගෙන ගිහිල්ලද ඒක දර සෑයක් වෙලා තියෙන්නේ ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-07-23 09:17:50</date>
+            <index>6</index>
+            <phrase>අනේ ඔව් අමිල කාර් එකේ දර තමයි තිබිල තියෙන්නේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-07-23 09:54:36</date>
+            <index>7</index>
+            <phrase>සිංහල තේරුම් ගන්න බැරි අයනේ ඉන්නේ.. මොනවා උනත් අවසනාවන්ත මරණයක් .ඔබ දෙපලට නිවන් සුව..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆ්</author>
+            <date>2012-07-23 13:29:41</date>
+            <index>8</index>
+            <phrase>කාර් එක දර සෑයක් කරෙ කවුද ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රබාත් ඉන්දික</author>
+            <date>2012-07-23 14:33:00</date>
+            <index>9</index>
+            <phrase>ඔවුන් ඇත්තම නොනයි මහත්තයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාෂා</author>
+            <date>2012-07-23 15:50:21</date>
+            <index>10</index>
+            <phrase>ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

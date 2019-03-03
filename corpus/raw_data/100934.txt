@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>100934</articleId>
+    <title>කැස්බෑවෝ නිදහස ලබති</title>
+    <author>දීපාල් ද සිල්වා</author>
+    <date>2013 මාර්තු මස 02 12:40:41</date>
+    <body>​</body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රා වීරසිංහ</author>
+            <date>2013-03-14 10:17:48</date>
+            <index>0</index>
+            <phrase>කෝ කතාව..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

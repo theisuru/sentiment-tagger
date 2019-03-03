@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>274218</articleId>
+    <title>කවි බණ</title>
+    <author>දීපාල් ද සිල්වා</author>
+    <date>2014 නොවැම්බර් මස 07 19:01:11</date>
+    <body>අම්බලන්ගොඩ වේනමුල්ල  සුමනාරාම විහාරස්ථානයේ කඨින පිංකම දා  කවි බණක් පැවැත්විණි.
+වේනමුල්ල සුමනාරාම විහාරාධිපති දෙයියන්දර ගුණානන්ද හිමියන්ගේ අනුශාසනා පරිදි ඹබරැන්දේ වජිරනන්ද හිමියෝ ධර්ම දේශනාව පැවැත්වුහ.
+ </body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-11-08 18:03:13</date>
+            <index>0</index>
+            <phrase>ගොඩක් ලස්සනයි. මම හැමදාම මේක බලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

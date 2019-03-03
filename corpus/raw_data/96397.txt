@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>96397</articleId>
+    <title>වගාවට බෝතලයක්</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 පෙබරවාරි මස 04 12:27:58</date>
+    <body>වසර 53 ක් පුරා බෝතලයක සිදුකෙරෙන ‘‘වගාවක්‘‘ගැන වාර්තා වන්නේ බ්‍රිතාන්‍යයෙනි.
+විදුලි ඉංජිනේරුවකු වූ ඩේවිඩ් 1960 වසරේදී බෝතලයකට බීජ කිහිපයක් දමා තිබෙන්නේ නිකමටය. දින කිහිපයක් ගතවූ පසු බීජ රෝපණය වීමට පටන් ගෙන ඇත්තේ ඔහු පුදුමයට පත් කරවමිනි.
+දැන් ඩේවිඩ්ගේ වයස අවුරුදු 80 ක් වන අතර ‘‘වගාවට‘‘වයස අවුරුදු 53 ක් පමණ වේ. එදා මෙදා තුර තමා පැළයට ජලය යෙදුයේ දෙවතාවක් පමණක් බව ඩේවිඩ් කියයි. තමන්ට මුලදී කිසිදු උනන්දුවක් නොතිබුණත් දැන් සම්පූර්ණයෙන් බාහිර ලෝකයෙන් වෙන්කරන ලද පරිසරවල පවා ශාඛ වලට වැඩීමට ඇති හැකියාව ගැන තමන් මහත්සේ විමසිලිමත් වී ඇති බව ඩේවිඩ් පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-02-04 23:31:33</date>
+            <index>0</index>
+            <phrase>ගොළු බෙල්ලට වීදුරු බෝතලේට ඇතුළුවෙන්න බැරි වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-02-05 02:28:09</date>
+            <index>1</index>
+            <phrase>මේ බෝතලය එයාගෙන් ඉල්ලගෙන තව හොදට මූඩියක් ගහලා හදට හරි, අගහරු ලෝකෙට හරි යැවුවා නම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2013-02-05 15:32:36</date>
+            <index>2</index>
+            <phrase>ඕකත් අරගෙන අඟහරු ලෝකෙට යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2013-02-05 16:03:09</date>
+            <index>3</index>
+            <phrase>හිතාගන්නත් අමාරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චිත්‍රා</author>
+            <date>2013-02-06 10:45:06</date>
+            <index>4</index>
+            <phrase>හොද සොයාගැනිමක් අපිත් ට්‍රයි කරල බලමු. තට්ටු ගෙවල් වල ගෙවතු ව‍ගා සාර්ථක වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චිත්‍රා</author>
+            <date>2013-02-06 10:45:12</date>
+            <index>5</index>
+            <phrase>හොද සොයාගැනිමක් අපිත් ට්‍රයි කරල බලමු. තට්ටු ගෙවල් වල ගෙවතු ව‍ගා සාර්ථක වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙතු</author>
+            <date>2013-02-06 11:55:35</date>
+            <index>6</index>
+            <phrase>මේ බෝතලේ මූඩිය වහලමද තිබුණේ අවුරුදු 53 ම ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

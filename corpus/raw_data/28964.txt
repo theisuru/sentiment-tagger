@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28964</articleId>
+    <title>ඩග්ලස් වික්‍රමරත්න මෙවරත් ජිනීවා යයි</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 පෙබරවාරි මස 27 11:53:29</date>
+    <body>ස්විට්සර්ලන්තයේ මානව හිමිකම් සැසිවාරයට මෙවරත් ලන්ඩන් නුවරින් එක්සත් රාජධානියේ සිංහල සංගමයේ සභාපති ඩග්ලස් වික්‍රමරත්න මහතා සහභාගී වෙයි. දෙමළ ත්‍රස්තවාදයේ ආරම්භයේ සිටම අසාධාරණ ප්‍රචාර බිඳ හෙළීම සඳහා පෙනී සිටියේ වික්‍රමරත්න මහතාය. ‘‘ඔය කියන මානව හිමිකම් උල්ලංඝනය කිරීමක් ශ්‍රී ලංකාවේ සිදු නොවන බව“ සාක්කි සහිතව කියා පෑමට ඔහු බලාපොරොත්තු වෙයි. ඔහු ජිනීවා සම්මේලනයට සහභාගී වන්නේ බාහිර විචාරකයකු ලෙසිනි. මේ අතර බ්‍රිතන්‍ය පාර්ලිමේන්තු මන්ත්‍රින් කිහිපදෙනෙකුගේ සහයෝගය ඇතිව එහි පාර්ලිමේන්තු නව ගොඩනැගිල්ලේ දී කොටි හිතවාදීහු රැස්වීමක් ද පැවැත්වූහ.</body>
+    <comments>
+        <comment>
+            <author>ධම්මිකා</author>
+            <date>2012-02-27 12:06:38</date>
+            <index>0</index>
+            <phrase>ලන්කාවට ආදරේ කරන අය හෑමතනම ඉන්නව...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-02-27 14:24:59</date>
+            <index>1</index>
+            <phrase>ඔහු නියම ලාංකිකයෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද් - කුවේට්</author>
+            <date>2012-02-27 14:27:05</date>
+            <index>2</index>
+            <phrase>ඔබ හොද මහත්මයෙක්.. අපිට ආඩම්බරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දළු බණ්ඩා</author>
+            <date>2012-02-27 15:07:40</date>
+            <index>3</index>
+            <phrase>ගොඩක් අය පිට රට ගිහින් ලංකාව අමතක කරනවා. මෙය හොද ආදර්ශයක් ලංකාවේ අනිත් අයට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2012-02-27 15:31:07</date>
+            <index>4</index>
+            <phrase>මෙවැනි දේශ හිතයිශී පුච්ගලයන් රටට ආඩම්බරයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

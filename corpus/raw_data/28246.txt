@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28246</articleId>
+    <title>උසාවියේදී දිසාපාමොක් වඳිති</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2012 පෙබරවාරි මස 22 17:31:31</date>
+    <body>රජරට සරසවියේ ශිෂ්‍ය සංගම් ක්‍රියාකාරිහු හය දෙනෙක් උපකුලපති මහාචාර්ය කේ.ඒ නන්දසේනගේ දෙපා මුල දණ ගසා වැඳ සමාව ගත්හ.
+අනුරාධපුර ප්‍රධාන මහේස්ත්‍රාත් රුවන්තිකා මාරපන මහත්මිය ඉදිරිපිට එසේ සමාව ගත්තෝ මොවූහුය.
+චතුර දිලාන් දර්ශන, ධනුෂ්ක කුමාරසිංහ, අසේල සම්පත්, ප්‍රියංක විජේකුලසූරිය, ඒ.පී දුල්ලෑව සහ චමිත් මුදිත් කුමාර
+නඩුව අප්‍රියල් 25ට කල් තැබීය.</body>
+    <comments>
+        <comment>
+            <author>kk</author>
+            <date>2012-02-22 20:20:49</date>
+            <index>0</index>
+            <phrase>දැන්වත් හැදිලා වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2012-02-23 05:40:50</date>
+            <index>1</index>
+            <phrase>මීට පස්සේ මෙවැනි දේවල් කරන්න එපා. ඔබගේ දෙමාපියන්ගේ ගෞරවය ආරක්ෂා කරන්න. සුභපැතුම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

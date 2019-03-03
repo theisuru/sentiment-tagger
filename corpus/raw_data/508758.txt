@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508758</articleId>
+    <title>සයිටම් විරෝධි උද්ඝෝෂණයක් ගාල්ලේ</title>
+    <author>අමල් වික්‍රමරත්න</author>
+    <date>2017 පෙබරවාරි මස 21 21:31:39</date>
+    <body> සයිටම් පෞද්ගලික විශ්ව විද්‍යාලයට එරෙහිව අද(21) විරෝධතාවයක් හා රැළියක් ගාල්ලේදී පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>අරුණ</author>
+            <date>2017-02-21 17:03:26</date>
+            <index>0</index>
+            <phrase>මිනි පෙට්ටියෙන් සංකේතවත් කරන්නේ ආණ්ඩුවේ රෝහල් වලට පැමිණෙන රෝගීන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2017-02-21 17:32:36</date>
+            <index>1</index>
+            <phrase>වෛද්‍යවරු මෙසේ පාරට බැස්සට වැඩක් නැහැ. රටේ සෞඛ්‍ය ප්‍රතිපත්ති ගැන තීරණ ගන්නේ බස් අයිතිකාරයන් සහ මුදලාලිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2017-02-21 19:14:04</date>
+            <index>2</index>
+            <phrase>ජනතාව සයිටම් සමඟයි. අවස්ථාවාදී කුහකයන්ට නොරැවටෙන්න. සයිටම් එපා නම් ලංකාවේ සියලුම පුද්ගලික සේවා හා අධ්‍යාපනය නවත්වනු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2017-02-21 19:27:45</date>
+            <index>3</index>
+            <phrase>මොවුන්ද දොස්තරලා වෙන්න හදන්නේ? ගොඩ හදාගැනීම විතරයි වගේ කල්පනාව. ලෙඩුන්ට හොඳ කාලයක් එයි දොස්තරලා වැඩිවුණා නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකුම් රංගන</author>
+            <date>2017-02-21 20:29:32</date>
+            <index>4</index>
+            <phrase>ඔය මිනී පෙට්ටිය වෙනුවට පොඩි හරක් පැටියෙක් උස්සගෙන ගියා නම් තමයි ගැළපෙන්නේ. මොකද ඒ වසු පැටියත් නුඹලගෙම රැලේ එකෙක් නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2017-02-21 21:09:29</date>
+            <index>5</index>
+            <phrase>සයිටම් විරෝධී ජන පවුර! අහිංසක රෝගීන්ගේ අවමඟුල් පෙරහැරේ ගමන් කරන අාකාරය ඉහත 1 සහ 2 ඡායාරූප වලින් පෙන්නුම් කෙරේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-02-22 00:52:23</date>
+            <index>6</index>
+            <phrase>අනේ හැබෑට මෙහෙමත් විකාර!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2017-02-22 01:17:03</date>
+            <index>7</index>
+            <phrase>උදේ ස්ට්‍රයික් කළාට හවස ප්‍රයිවට් හොස්පිටල් වල චැනලින් වලට යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2017-02-22 01:27:22</date>
+            <index>8</index>
+            <phrase>අනේ හැබෑට මෙහෙමත් මෝඩ මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් - නිව්යෝර්ක්</author>
+            <date>2017-02-22 01:43:33</date>
+            <index>9</index>
+            <phrase>මේ විදිහට අධ්‍යාපන ආයතනයක් වහන්න කියලා පෙළපාලි යනකොට රටක් හැදේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2017-02-22 02:03:55</date>
+            <index>10</index>
+            <phrase>ඊර්ෂ්‍යාවෙන් පෙළෙන මානසික රෝගී වෛද්‍යවරු සිටින එකම රට අපේ ශ්‍රී ලංකාව විතරයි. ශ්‍රී ලංකාව දිනේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2017-02-22 02:24:40</date>
+            <index>11</index>
+            <phrase>ඇත්තටම ලංකාවෙ දොස්තරලා වගේ ආත්මාර්ථකාමී කුහක ජනකොටසක් ලොකෙ තවත් ඉන්නවද කියන්න බැහැ. මොකද මොවුන් ජනතා මුදලින් ඉගෙනගෙන එම අහිංකයන් බිල්ලට දීලා ඔවුන්ගේ ඉල්ලීම් දිනාගන්නා ජනකොටස් නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2017-02-22 03:23:52</date>
+            <index>12</index>
+            <phrase>වාහන වල ඩොක්ටර් කියලා ගහන බැජ් එකත් තහනම් කරන්න ඕනෑ. මොවුන් හිතාගෙන ඉන්නේ මොවුන්ට මිනිස්සු වැදුම් පිදුම් කරන්න ඕනෑ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2017-02-22 03:24:04</date>
+            <index>13</index>
+            <phrase>රුපියල් ලක්ෂ 120 වියදම් කරන්න පුළුවන් රටේ ජීවත්වෙන සමස්ත ජනතාවගෙන් 10000 කින් එක්කෙනෙකුට පමණයි. දුප්පත් උගත් දරුවන් 9999 දෙනෙකුට වෙන අසාධාරණය මොනතරම්ද? එස් තුනක් අරගෙන දොස්තරලා වෙලා අසරණ මිනිසුන් මරන්න පටන්ගන්න කලින්ම ජනතාව දැනුවත් කරන එක හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2017-02-22 03:28:56</date>
+            <index>14</index>
+            <phrase>රන්ජිත්, ලංකාවේ ජනතා මුදලින් ඉගෙනගන්නේ දොස්තරලා විතරක් නෙමෙයි. ලංකාවේ සියලුම විශ්ව විද්‍යාලවල විවිධ පාඨමාලාවන් හදාරන ඔක්කොම ඉගෙනගන්නේ ජනතා මුදල් වලින්. (නි).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2017-02-22 03:26:53</date>
+            <index>15</index>
+            <phrase>ඉන්දියාවේ දොස්තර කෙනෙක් වෙන්න ඉංජිනේරු කෙනෙක් වෙන්න මුදල් පමණක් තිබුනම හොඳටම ප්‍රමාණවත්. ඒ ඔවුන් ඉලක්ක කරන්නේ මැදපෙරදිග රැකියාවන් නිසයි. ඒ නිසා මැරෙන ප්‍රමාණයක් මැරෙන්නේ දුප්පත්කමට වහල් සේවයට යන අසරණ ලෙඩ්ඩු මිසක් අරාබි ජාතිකයන් නෙමෙයි. මැදපෙරදිග රැකියාවක් කරපු කෙනෙක් ඉන්දියාවේ දොස්තරලා ගැන හොඳින්ම දන්නවා. ලංකාවේ දොස්තර වෘත්තියත් ඒ තැනට ගෙනෙන්න එපා. ඉඩ දෙන්නත් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2017-02-22 03:34:55</date>
+            <index>16</index>
+            <phrase>ඩිල්ෂාන්, ඔබගේ අදහස සත්‍යයි. මම ලංකාවට නිවාඩුවට ගියාම මම දැකල තියෙනවා අවුරුදු ගණනක් තිස්සේ (හිටපු ඒකාධිපතියාගේ කාලේදී නොවේ)කූඩාරමක් ගහගෙන සත්‍යග්‍රහ දින එකසිය ගණන ලොකු අකුරෙන් ලියාගෙන සත්‍යග්‍රහ කරන අසරණ වෛද්‍ය සිසු/සිසුවියන්.එ්ත් වැඩක් වුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනිත</author>
+            <date>2017-02-22 03:48:35</date>
+            <index>17</index>
+            <phrase>තිලක් ඩුබායි, ඔබගේ අදහස නිවැරදියි. නමුත් බහුතරයකට එය තේරුම් ගන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාල</author>
+            <date>2017-02-22 04:27:38</date>
+            <index>18</index>
+            <phrase>මේගොල්ලන්ගේ සටන් පාඨ දැක්කම තේරෙනවා කුහකකම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2017-02-22 04:28:59</date>
+            <index>19</index>
+            <phrase>මේනක, වාහන වල ඩොක්ටර් කියලා ගහන බැජ් එක තහනම් කරන්න කියලා ඔය කියන්නේ මොන පදනමෙන්ද? සමහරවිට ඔය බැජ් එක ගහගෙන වම් පසින් හෝ වාහනය පදවන්න ඩොක්ටර් කෙනෙකුට හැකිවන්නේ ඔයාගෙම බිරිද, දරුවා බේරගන්න වෙන්න පුළුවන්. එහෙම වුණොත් ඔයාම කියයි අැයි දොස්තර් ඉක්මනට ඇවිල්ලා එයාලව බේරාගත්තේ නැත්තෙ මොකද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2017-02-22 04:29:38</date>
+            <index>20</index>
+            <phrase>ඔය ජීඑම්ඕඒ එකේ කතා පවත්වන අය පුද්ගලික රෝහලේ චැනල් බලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2017-02-22 04:36:19</date>
+            <index>21</index>
+            <phrase>මේවා කරලා කවදාවත් සයිටම් වහන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්වින්</author>
+            <date>2017-02-22 04:32:07</date>
+            <index>22</index>
+            <phrase>හිස් මිනී පෙට්ටියක් ගෙනියන්නේ තාම මිනියක් හම්බ වුණේ නැති හින්දා. කොහොම හරි එකෙක් මරාගෙන මිනියක් ගෙනියන්න තමයි ට්‍රයි කරන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලතා</author>
+            <date>2017-02-22 05:17:06</date>
+            <index>23</index>
+            <phrase>මට ඕකට යන්න කව්රුහරි ලක්ෂ 130 ක් පිනට දෙන්න පුලුවන්ද? මගේ පියා මැරිලා. අම්මා කජු තලලා අපිට ඉගැන්නුවා. මට උසස් පෙලට බී 3 ක් තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2017-02-22 05:16:20</date>
+            <index>24</index>
+            <phrase>ටිකිරි බණ්ඩා මහතාගේ අදහස අනුමත කරමි. ලංකාවේ ඔය පෞද්ගලික අධ්‍යාපනය හරියට නියාමනය කළයුතුයි. නැත්නම් බෙහෙත් වැරදිලා කී දෙනෙක් මරයිද? නමුත් ලංකාවේ දොස්තරලා ප්‍රමාණය වැඩි වියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2017-02-22 05:21:20</date>
+            <index>25</index>
+            <phrase>පුද්ගලික රෝහල් වලිනුත් මිනිස්සුන්ව හුරාගෙන කනවා. මේ නිදහස් අධ්‍යාපනය ලැබුව දොස්තරලා හවසට ඒවායේ සල්ලි වලට වැඩ කරනවා. ඒවා වහන්න කියනවද? මොවුන් මහජනතාවගෙන් ගුටිකන දිනය ඉතාම ළඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2017-02-22 05:17:52</date>
+            <index>26</index>
+            <phrase>ලංකාව හැමදාම එකතැන පලවෙන්නේ මේ වගේ අාත්මාර්තකාමී මානසිකත්වය නිසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙදගේ</author>
+            <date>2017-02-22 05:28:04</date>
+            <index>27</index>
+            <phrase>ටිකිරි බණ්ඩා මහතා කියන දේට මම එකඟයි. සයිටම් වහාම නැති කරනු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2017-02-22 05:37:04</date>
+            <index>28</index>
+            <phrase>කවදාද මේකේ කෙළවරක් දකින්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2017-02-22 05:51:27</date>
+            <index>29</index>
+            <phrase>සම්පත්, ඔව් ලංකාවෙ බහුතරයක් ජනතා මුදලින් තමයි ඉගෙනගන්නෙ. නමුත් ඔව්න් දොස්තරල වගේ මිනිස් ජීවිත බිල්ලට දීල ඉල්ලීම් දිනාගන්න පහත් මානසික ලෙඩ්ඩු ⁣නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-02-22 05:54:44</date>
+            <index>30</index>
+            <phrase>රට කන ගව රැලක්, එක එකාගේ ඕනෑකම් වලට මෙයාලා විකාර කරනකොට රටක් ලෙස අපි පස්සට තමා යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-02-22 06:00:17</date>
+            <index>31</index>
+            <phrase>ටිකිරි බණ්ඩා-නුගේගොඩ, මෝඩයෙක් වගේ කතා කරන්න එපා, මම ලංකාවේ දොස්තරලා නිසා හොඳ වද විඳලා තියෙනවා, ඉන්දියාවේ දොස්තරලගේ දක්ෂකම නිහතමානී කම නිසා මගේ පවුලේ අයගේ ජීවිත බේරිලා තියෙනවා, කරුණු සාධක ඇතිව ඔප්පුකරන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2017-02-22 06:12:12</date>
+            <index>32</index>
+            <phrase>මුන් එකෙක් වත් ප්‍රයිවට් ප්‍රැක්ටිස් කරන වෙලාවට උද්ගෝෂණය කරනවද ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වත්සලා</author>
+            <date>2017-02-22 06:34:31</date>
+            <index>33</index>
+            <phrase>දැන්මම බය වෙලා. හුළං බහින්නනේ යන්නේ දොස්තරලගේ. ඉස්පිරිතාලවල බෙහෙත් ගෙනිහින් විකුණන ගොඩට, ෆාමසි කොම්පැනි වලින් අල්ලස් ගන්න ගොඩට තව කට්ටිය එන්න හදන්නේ. පොකට් එකට වදින්න යන්නේ. එකයි මේ උද්ඝෝෂණ. මිනිසුන්ට ආදරේට නෙමෙයි. ඉස්පිරිතාලෙට ගියාම ලෙඩ්ඩුන්ට සලකන විදියෙන් පේනවා කොච්චර ආදරේද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-22 06:41:34</date>
+            <index>34</index>
+            <phrase>තමන්ගේ පුද්ගලික පරමාර්ථ මුදුන්පත් කර ගැනීම වෙනුවෙන් ජනතා ප්‍රේමී වෙස් පොරවාගත් මෙම ආත්මාර්තකාමීන්ගේ උප්පරවැට්ටි වලට අසුවෙන අය ඉන්නවනම් අන්න ඒ අයයි නියම මෝඩයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහිලාල්</author>
+            <date>2017-02-22 06:50:46</date>
+            <index>35</index>
+            <phrase>වෛද්‍යවරුන්න්ට ප්‍රයිවට් කරන එකත් නතර කරන්න ඕනේ, මොකද රුපීයල් 1500.00 විතර දීල ප්‍රයිවට් ගියාට පස්සේ හොස්පිටල් එකේම නතරවෙන්න කියනවා. මොකද බැරී මේ වගේම කැපවෙලා හොස්පිටල් වලත් බෙහෙත් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2017-02-22 06:58:40</date>
+            <index>36</index>
+            <phrase>මෙතන රජයේ දොස්තරලට බනින අයගෙන් අහන්නෙ සයිටම් එකෙන් දොස්තරලා නිෂ්පාදනය කළොත්. එයාලා පිනට බෙහෙත් දෙයිද? චැනල් නොකරයිද? රට නොයයිද,? පඩි වැඩි කරන්ඩ කියලා වර්ජනය නොකරයිද.? මට හිතෙන්නෙනම් එයාලත් සල්ලි දීලා දොස්තර වෙන්න හදන්නේ මෙයලා කරන දේ කරන්නම තමා. සයිටම් දොස්තරලා සයිටම් එකට දුන්නු ලක්ෂ 120ත් අමතරව ලෙඩ්ඩුන්ගෙන් සූරා කන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භද්‍රානි</author>
+            <date>2017-02-22 07:17:07</date>
+            <index>37</index>
+            <phrase>දුමින්ද ඔබ නිවැරදියි. මෙතන ඉන්න මේ අයට සෞඛ්‍ය සේවය පෞද්ගලීකරණය වී ඇති බව නොපෙනීම විහිළුවක්. පුලුවන්නම්, සෞඛ්‍ය සේවයට ආදරේ නම් අන්න එහෙම කරලා පෙන්වන්න එතකොට අපිත් ඉන්නේ ඔතන තමයි. එහෙම උනා නම්, ඉතින් පෞද්ගලික වෛද්‍ය විද්‍යාල අවශ්‍යම නැහැ කියලා අපිත් කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාම්පුස් අපතය</author>
+            <date>2017-02-22 07:34:29</date>
+            <index>38</index>
+            <phrase>අනුන්ගේ අඩුපාඩු පෙනුනට ඉගෙනගන්න කාලය සියයට දහයක් වත් නැහැනේ. පැමිණීම සියයට සියයක් නැත්තන් විභාග තහනම් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-02-22 07:47:03</date>
+            <index>39</index>
+            <phrase>විකුම් රංගන, කුමාර් ගල්ෆ්, මිනි පෙට්ටිය වෙනුවට හරකෙක් ඔලුව උඩ තියන්න ලේසි නෑ. තරඟයක් තියෙනවා. අපේ තිලක් ඩුබායි, ටිකිරි බණ්ඩා නුගේගොඩ එහෙම පොර කනවා ඒ තැන ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-22 07:59:00</date>
+            <index>40</index>
+            <phrase>ටිකිරි බණ්ඩා-නුගේගොඩ, නොදන්නා දේවල් කියන්න එපා. මම ඉන්න මැදපෙරදිග රටේ ලංකාවෙ සහ ඉන්දියාවෙ දොස්තරල ඕනේ තරම් ඉන්නවා . ඔවුන් වෙදකම් කරන්නෙ වහල්ලුන්ට නෙමෙයි. ඕනෙ කෙනෙකුට සේවය සපයනවා. මෙරට අය ඔවුන් ලඟට යන්නෙ බොහොම කැමැත්තෙන්. අපේ පවුලෙ අයනම් යන්නෙම ඉන්දියානු දොස්තරලා ලඟට. ඔවුන් බොහොම කාරුණිකයි. දක්ෂයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2017-02-22 08:09:42</date>
+            <index>41</index>
+            <phrase>රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය හැසිරෙන්නේ ඔවුන්ගේ වාසියට තමයි. සයිටම් එකට විරුද්ධ වෙන්නේ ප්‍රමිතියක් නැහැ කියලා. එහමනං රටතුල ප්‍රමිති නැති පුද්ගලික රෝහල්වල් කොපමණ තියන්නේ. මේවා ගැන කතාකරන්නේ නැත්තේ ඇයි? සවස 4න් පස්සේ එතන්ට ගිහින් සල්ලි පොම්ප කරන්න නිසාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2017-02-22 08:13:43</date>
+            <index>42</index>
+            <phrase>මෙයාලා උදේ ස්ට්‍රුයික් කරලා සාමාන්‍ය මිනිසුන්ට බෙහෙත් නැතුව ගෙදර යැව්වට ස්ට්‍රුයික් එක ඉවර වෙලා කෙලින්ම ගියේ චැනලින් සෙන්ටර් වලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යමුනා</author>
+            <date>2017-02-22 08:22:12</date>
+            <index>43</index>
+            <phrase>සහන්ගේ කතාව හරියටම හරි.... උදේට ස්ට්‍රයික් හවසට චැනලින් එතකොට ඒවා මතක් වෙන්නේ නැනේ... සල්ලි විතරයි... රජයේ රෝහලේ වැඩකරනකොට විතරයි ස්ට්‍රයික් කරන්න මතක් වෙන්නේ... අනේ මෙහෙමත් දොස්තරලා.... හොදමදේ තමයි සයිටම් එකට ගන්න ක්‍රමවේදය නිවැරදිව සකස් කරන එක...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2017-02-22 10:01:01</date>
+            <index>44</index>
+            <phrase>කුමාර් (ගල්ෆ්), ඉන්දියාවේ සුපිරි දොස්තරලා මැදපෙරදිග එන්නේ නැහැ. හරියට අපේ රටේ සුපිරි දොස්තරලා වගේ. ඔවුන්ට තමන්ගේම රටේ ඉදලා ඒ මුදලට වඩා ලොකු මුදලක් හොයා ගන්න පුළුවන්. ඒ තමන්ගේ දැනුම් සම්බාරයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසේන</author>
+            <date>2017-02-22 10:11:50</date>
+            <index>45</index>
+            <phrase>තිලක්-ඩුබායි, 10000 එක්කෙනෙක් සයිටම් දොස්තර වුණාම 9999 වෙන අසාධාරණය මොකක්ද? මොකක්ද ඒ තර්කය? තිලක්-ඩුබායිට මොනවද කියා ගන්න ඕනෑ. නමුත් එ්ක කියාගන්න දන්නෙ නැතිකමක් තිබෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2017-02-22 10:17:27</date>
+            <index>46</index>
+            <phrase>තිලක්-ඩුබායි ගැන කතාකරලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2017-02-22 12:15:02</date>
+            <index>47</index>
+            <phrase>රටේ සමස්ත මහජනයාගේ අවශ්‍යතාවය සයිටම් කියන හොර වේද කඩේ වහල අසරණ දුප්පත් ජනතාව ඒ "මර බියෙන්" නිදහස් කර දෙන්න කියන එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2017-02-22 12:30:56</date>
+            <index>48</index>
+            <phrase>මේක වෛද්‍යවරු පඩි වැඩිකරන්න කියලා හෝ තමන්ගේ දරුවට හොඳම පාසල ඕන කියලා හෝ කරන අසාධාරණ වර්ජනයක් නෙමෙයි. සැබෑ ජනතා අරගලයක්. ඒ නිසා කවුරු කව්රුත් ආණ්ඩුවට පීඩනය එල්ලකල යුතුයි. වෛද්‍යවරු වර්ජනය කෙරුවම කාටත් දැනෙනවා මොකද ඒ රැකියාව මිනිස් ජීවිතහා බද්ධ වුන රැකියාවක්. එහෙව් රැකියාවකට සයිටම් වගේ හොර ආයතනවලින් එන පුස් වෛද්‍යවරු අවොත් ජනතාවට දවසගානෙම මීටත්වඩා කරදර විඳින්න සිදුවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2017-02-22 15:36:37</date>
+            <index>49</index>
+            <phrase>රන්ජිත්, බැංකු සේවකයන් විරෝධතාව දක්වන්නේ බැංකු සේවා නවතමින් නම් පෞද්ගලික බස්රථ හිමියන් වර්ජනය කරන්නේ බස්රථ සේවා නවතමින් නම් වෛද්‍යවරු කොහොමද එයට වෙනස් විදිහට විරෝධතාව දක්වන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2017-02-22 15:50:59</date>
+            <index>50</index>
+            <phrase>විකුම් රංගන, දොස්තරලා හරක් නම් ඒ දොස්තරලා ටිකට් එකේ ලියන එක බලලා ඒක පිළිගෙන ඒ විදිහට ලෙඩ්ඩුන්ට බෙහෙත් දෙන හෙද හෙදියන්ට මොකක්ද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2017-02-26 08:57:23</date>
+            <index>51</index>
+            <phrase>මහී මහත්තයෝ කෙනෙක් තමන් හරිය කියලා හිතන දෙයක් වෙනුවෙන් පෙනී සිටින කොට, ඒ සදහා යම් කරුණු දැක්වීමක් කරන කොට ඒ පුද්ගලයාට විවිධ නම් භාවිතා කරමින් අපහාස කරනවයි කියන්නේ එතනින් පෙන්නුම් කරන්නේ ඔබගේ කෙල පැමිණි බුද්ධි මහිමය නෙමෙයි ඔබගේ දුර්වලතාවය සහ කටවාචාලකම විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

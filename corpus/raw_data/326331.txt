@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>326331</articleId>
+    <title>හිපෝ මවගේ දරු සෙනෙහසින් කිඹුලාට තරු පෙනෙයි</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2015 ජූනි මස 21 17:24:54</date>
+    <body>දියෙහි සිටි තම පැටවාට පහරදෙනු ඇතැයි බියෙන්දෝ හිපපොටේමස් මවක ගං ඉවුරේ රැඳී සිටි කිඹුලකුට හොඳ හැටි පහර දෙනු පසුගියදා දකුණු අපි‍්‍රකාවේ කෲගර් වනෝද්‍යානයේදී දැකගත හැකිවිය.
+කිඹුලාව තම ශක්තිමක් දත් වලින් අල්ලාගත් ඇය හිස දෙපසට වැනූයේ කිඹුලාගේ සිරුර කැඞී යන තරම් වේගයකිනි.
+එක්වනම හිස එසවූ ඇය කිඹුලාව ඈතකට විසිකර දැමුවාය. ඇය හා ඔට්ටු වීමට නොහැකි බව තේරුම්ගෙන මෙන් කිඹුලා දියෙහි ගිලී නොපෙනී ගියේය.
+මේ සිදුවීම ආධුනික කැමරාකරුවෙකු වන කෙන් හීලී ගේ කැමරාවේ සටහන් විය. මෙවන් සිදුවීමක් තමන් කිසිදිනෙක දැක නැතැයි ඔහු පවසයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සරත් ලාල්සිරි</author>
+            <date>2015-06-21 17:19:44</date>
+            <index>0</index>
+            <phrase>දාරක ස්නේහය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමාෂා</author>
+            <date>2015-06-22 01:06:36</date>
+            <index>1</index>
+            <phrase>තම පරපුර රැක ගැනීමට පවතින උවමනාව සහ කැපවීම ජානගත අයිතියක්. ජාතියක් ජන්මයක් අගේ නොකරන අපේ මිනිස්සුන්ටත් පාඩමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල් පත්ම සිරි</author>
+            <date>2015-06-22 07:53:56</date>
+            <index>2</index>
+            <phrase>නිමාෂා ඔබේ අදහස නිවැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීවා</author>
+            <date>2015-06-22 08:59:13</date>
+            <index>3</index>
+            <phrase>නිමාෂා මේ ලිපිය කිවන්න. ජාතියක් ජන්මයක් නෙවේ තම දරුසෙනහස ගැන මේ ලියල තියෙන්නේ. අයිතියක් කියන්නේ එක්කෙනෙක් නෙවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අදී</author>
+            <date>2015-06-22 09:48:53</date>
+            <index>4</index>
+            <phrase>සාමාන්‍යයෙන් හිපෝවන්ට කිඹුල්ලුන්ගෙන් හානියක් නෑ. කොතරම් කුඩා වුවත් කිඹුලන් හිපෝට පහර නොදීමේ අන්‍යෝන්‍ය අවබෝධයක්, වසර ලක්ෂ ගනනක් එකට ජීවත්වීම තුලින් ගොඩනගාගෙන් තියෙනවා. ඉබ්බන් සහ කිඹුලන් අතරත් මෙහෙමම එකඟත්වයක් තියෙනවා මම දන්න තරමින්. හැබැයි හිපෝලා ඇතැම්විට කිඹුලන්ව නොසලකා හරිනවා. ඒ නිසා මෙතන වරද හිපෝ මවගෙ. අනතුරක් නැතිවම කිඹුලාට පහරදීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2015-06-22 11:15:34</date>
+            <index>5</index>
+            <phrase>අපි සත්ව හිමිකම් කොමිසමට පැමිණිල්ලක් කරමු අහේතුකව පහර දුන්නා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2015-06-22 19:41:59</date>
+            <index>6</index>
+            <phrase>ඔබ හරි නිමාෂා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එල්. රෝමියෝ</author>
+            <date>2015-06-23 11:52:43</date>
+            <index>7</index>
+            <phrase>අදි, ඔබ හරි නමුත් කිබුලන් හා ඇලිගේටරයන් ඉබ්බන් කන වීඩියෝ මම දැක තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

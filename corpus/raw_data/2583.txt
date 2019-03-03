@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>2583</articleId>
+    <title>ලොව ලොකුම කිඹුලා පිලිපීනයෙන්</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 සැප්තැම්බර් මස 07 12:19:14</date>
+    <body>දකුණු දිග පිලිපීනයේ අගුසාන් දෙල් සූර් ගම්මානයේ ගැමියන් බියට පත් කළ මීටර් 6.4 ක් දිග, කරදිය කිඹුල් රජු පණ පිටින් අල්ලා ගැනීමට පිලිපීන වනජීවී නිලධාරීන්, පශු වෛද්‍යවරුන් සහ ප‍්‍රදේශවාසීහු පෙරේදා (5) සමත් වූහ. මෙම දැවැන්ත කිඹුලාගේ බර  කිලෝ ග‍්‍රෑම් 600 කි.දැනට පණ පිටින් අල්ලා ගැනීමට හැකිවී ඇති විශාලතම කිඹුලාත් පිලිපීනයේ ජීවත් වන විශාලතම කිඹුලාත් දෙල් සූර් ගම්මානයෙන් අල්ලා ගැනුණු මෙම කිඹුලා යැයි පිලිපීන පලවාන් වනජීවී දෙපාර්තමේන්තුව පවසයි.</body>
+    <comments>
+        <comment>
+            <author>කේ.ඒ.පී. ප්‍රියදර්ශන</author>
+            <date>2011-09-09 08:42:57</date>
+            <index>0</index>
+            <phrase>හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2011-09-09 10:35:12</date>
+            <index>1</index>
+            <phrase>මෙව‍ගේ වෙන පින්තූර නැද්ද හොද දැන්වීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් චන්ද්‍රසිරි</author>
+            <date>2011-09-09 13:25:42</date>
+            <index>2</index>
+            <phrase>මේ තොරතුරු ඵල කිරිම ගැන ස්තූතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලු</author>
+            <date>2011-09-09 16:13:31</date>
+            <index>3</index>
+            <phrase>අම්මෝ මුගේ වලිගේ දිග........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2011-09-12 09:37:46</date>
+            <index>4</index>
+            <phrase>පුදුම හිතෙන හොද පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2013-09-23 10:27:07</date>
+            <index>5</index>
+            <phrase>මාතර නිල්වලා ගඟේ ඉන්නන උන් දැකලා නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

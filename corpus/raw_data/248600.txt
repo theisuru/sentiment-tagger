@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>248600</articleId>
+    <title>ගන්න මහත්තයා... ඇදුනොත් ඔක්කොම හරි...</title>
+    <author>සිරි මහබෙල්ලන</author>
+    <date>2014 ජූලි මස 08 12:52:17</date>
+    <body>පානදුර අධිකරණයට සැකකරුවන් රැගෙන ආ බන්ධනාගාර නිලධාරීන් දෙදෙනකු අධිකරණ සංකීර්ණය ඉදිරිපිට දී වාසනාව උරගා බැලීමට ලොතරැයියක් මිල දී ගත් අයුරු කැමරාවේ සටහන් විය.</body>
+    <comments>
+        <comment>
+            <author>හැරිසන්</author>
+            <date>2014-07-08 10:30:21</date>
+            <index>0</index>
+            <phrase>දක්ෂ ඡායාරූපකරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-07-08 12:00:07</date>
+            <index>1</index>
+            <phrase>ටිකට් ගන්න අතරේ හිර කාරයෙක් එහෙම පැනල ගියොත් මල ජුලිය තමා වෙන්නේ ජේලර් මහත්තයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසල්</author>
+            <date>2014-07-08 13:11:35</date>
+            <index>2</index>
+            <phrase>පඩි හොඳ ඇති එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුක</author>
+            <date>2014-07-08 13:49:18</date>
+            <index>3</index>
+            <phrase>අපිට වාසනාව උරාගන්න තහනම් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2014-07-09 01:21:10</date>
+            <index>4</index>
+            <phrase>ඒත් ඉතින් අපි වගේම මිනිස්සුනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලා</author>
+            <date>2014-07-09 03:13:55</date>
+            <index>5</index>
+            <phrase>රටේ වෙන දේවල් නේද ? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

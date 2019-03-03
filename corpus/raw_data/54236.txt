@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54236</articleId>
+    <title>මළ දරුවා කරතියා පීනයි..</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූලි මස 19 12:34:31</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ඩැනියෙල්</author>
+            <date>2012-07-20 08:54:50</date>
+            <index>0</index>
+            <phrase>ජලයෙන් කොහොමද අම්මේ ගොඩට ආවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉශාන්</author>
+            <date>2012-07-27 12:16:26</date>
+            <index>1</index>
+            <phrase>ඇත්තටම මට මේක බලන්න විදියක් නෑ නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුලස්ති තෙන්නකෝන්</author>
+            <date>2012-07-30 03:09:13</date>
+            <index>2</index>
+            <phrase>ඇත්තටම මේකෙන් අපට ලොකු පාඩමක් කියා දෙනවා. ඒ දරු සෙනෙහස ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විධානපතිරණ</author>
+            <date>2012-08-09 12:40:29</date>
+            <index>3</index>
+            <phrase>පව් පැටියා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2012-09-20 13:35:08</date>
+            <index>4</index>
+            <phrase>කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්</author>
+            <date>2012-10-23 08:00:14</date>
+            <index>5</index>
+            <phrase>මාලුවෙකුටවත් බැහැ ඕචචර වේගයෙන් පීනන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

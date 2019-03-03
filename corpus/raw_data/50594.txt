@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50594</articleId>
+    <title>හාල් රට යැවීම නවතී</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 28 10:53:27</date>
+    <body>මහ කන්නයේ වී අස්වැන්න නෙළාගන්නා තුරු සහල් රට යැවීම ජනපති නියමයෙන් තහනම් කරන බව වෙළඳ අමාත්‍යංශය කියයි.
+ගොවීන්ගෙන් වී මිලට ගැනීමට රජය රුපියල් කෝටි 410ක් ද ගබඩා වැඩිදියුණු කිරීමට රුපියල් කෝටි 470ක් ද වැයකර ඇති බව රජය කියයි.
+සහල් අපනයනය නැවැත්වීමෙන් අවශ්‍ය ප‍්‍රමාණයට සහල් රටෙහි රැඳීමත් සමග, සහල් මිල පහත බසිතියි වෙළඳ අමාත්‍යංශය අදහස් කරයි.</body>
+    <comments>
+        <comment>
+            <author>ෆාරැ</author>
+            <date>2012-06-28 11:34:03</date>
+            <index>0</index>
+            <phrase>ඔව් ඉතිං ඔය පැත්තෙ චන්ඩිනෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශහිවල්</author>
+            <date>2012-06-28 12:31:27</date>
+            <index>1</index>
+            <phrase>මේක හරියන වැඩක් නෙමෙයිනේ... රට යවන එක නවත්තුවාම රට ඇතුලෙ අතිරික්තයක් ඇති වෙලා හාල් මිල අඩුඋනාම ගොවියටමයි ඒකෙ පාඩුව... වැඩිපුර නිශ්පාදනය රට ඇරියම මොකද වෙන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-06-28 12:36:42</date>
+            <index>2</index>
+            <phrase>ඕකට ඉතින් වැල්වටාරම් ඕන නෑනේ....නියඟය නිසා යල කන්නයේ අස්වැන්නක් නෑ..ඒ නිසා රටේ පාරිබෝජනයට සහල් ඕන.මිල නම් ඉතින් කවදද අඩු කරේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-06-28 12:11:29</date>
+            <index>3</index>
+            <phrase>සුභාෂිනී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-06-28 13:00:35</date>
+            <index>4</index>
+            <phrase>හැම තීරණයක්ම ගන්නේ ජනාධිපති තුමානේ ඉතින් මොකටද මෙච්චර කැබිනට් මණ්ඩලයක් ?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.එල්.ටී.කේ.2004</author>
+            <date>2012-06-28 12:25:26</date>
+            <index>5</index>
+            <phrase>අනේ පව්, අපේ හාල් ගන්න බලාගෙන හිටිය පිටරට මිනිස්සුන්ට මොකද වෙන්නේ ? ඒගොල්ල බඩගින්නේ මැරුනොත් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේම්</author>
+            <date>2012-06-28 13:10:30</date>
+            <index>6</index>
+            <phrase>ඕව කරල වැඩක් නැහැ.. කරන්න ඕන රට හදන තැන ඉදල නාස්තිය අවම කරවීමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-06-28 12:37:27</date>
+            <index>7</index>
+            <phrase>මොනවත් නවත්වන්න එපා...යවන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2012-06-28 13:21:54</date>
+            <index>8</index>
+            <phrase>රටින් හාල් ගෙන්වන්න වෙන්න ඉස්සර වෙලා ඕක තේරුන ඒක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-06-28 13:44:47</date>
+            <index>9</index>
+            <phrase>හොඳ තීරණයක්...නමුත් ඉදිරියේදී ගොවියෝ ගැනත් බලා ගන්න වෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-06-28 13:46:07</date>
+            <index>10</index>
+            <phrase>මට දැනෙන විදියට සුභාෂිනී හරි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-06-28 13:51:24</date>
+            <index>11</index>
+            <phrase>ඉතිං කොහොමද බය නැතිව පිටරටකට ඇණවුමක් දෙන්නෙ?? වියට්නාමය, පකිස්ථානය, ඉන්දියාව,තායිලන්තය බය නැතිව හාල් පිටරටට යවලා රටට ආදායම් ගන්නවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභීලාශිනී</author>
+            <date>2012-06-28 13:52:25</date>
+            <index>12</index>
+            <phrase>කුඹුරු වැඩ කරත් නොකරත් අද ගොවි මහත්වරුන්ට වෙලා තියෙන්නේ හිඟාකන්නයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජසිංහ</author>
+            <date>2012-06-28 14:40:13</date>
+            <index>13</index>
+            <phrase>නවත්වන්න හාල් රට යවන්න එපායැ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලු අය්ය - ඩුබායි</author>
+            <date>2012-06-28 14:34:21</date>
+            <index>14</index>
+            <phrase>මාරම සීන් එක ... අදම ගිහිල්ල "ලාල්" ඒකෙන් රතු හාල් මුට්ට දෙකක් උස්සන් එන්න ඕන ඇත්තටම මෙයාලා හාල් එව්වෙ නෑත්තම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-06-28 16:00:52</date>
+            <index>15</index>
+            <phrase>රටේ හාල් අතිරික්තයක් නැ මිනිස්සුන්ට සල්ලි නැ ඒ හින්ද මිනිස්සු කන්නේ තුන් වෙළෙන් එක වේලයි. තුන් වෙලක් කන මිනිස්සු එක වේලක් කනකොට හාල් ඉතුරු වෙනවා ඒක තම ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිසීර්</author>
+            <date>2012-06-28 16:37:13</date>
+            <index>16</index>
+            <phrase>දැන් ලංකාවත් කන්න හාල් නැතිවෙනවා රට ඇදල ලංකාවටත් හාල් ගෙන්න වෙනවා..... කට්ටියට වතුර නැනේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොවියා</author>
+            <date>2012-06-28 16:36:25</date>
+            <index>17</index>
+            <phrase>කුඹුරු ටික එක්කොම වේලිලානේ ආයිබෝවන්ඩ.මොනවයි කියලා නෙලන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-06-28 17:18:46</date>
+            <index>18</index>
+            <phrase>සුභාෂිණි හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-06-28 17:39:48</date>
+            <index>19</index>
+            <phrase>අනේ අමරේ අමරේ මම ආවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඕෂධ</author>
+            <date>2012-06-28 18:25:19</date>
+            <index>20</index>
+            <phrase>අපි නොකාහරි හාල් ටික රට ඇරියොත් තමයි හොද.. ගොවියටත් ඩොලර් ලැබෙයි..අද 137 හෙට 140. ඉක්මනට 200 වෙයි. ජය වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවි</author>
+            <date>2012-06-28 18:32:56</date>
+            <index>21</index>
+            <phrase>ලංකාවට ප්‍රත්පත්තියක් ඕන. මොන ආණ්ඩුව ආවත් වෙනස් වෙන්නෙ නැති. මේ වගේ වැඩ වලින් මිනිස්සුන්ව රවටන්න බැහැ. ගොවියව රැක ගත යුතුයි.. ඉදිරි පරම්පරාවට ගොවියෝ නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනුසලවී</author>
+            <date>2012-06-28 18:17:40</date>
+            <index>22</index>
+            <phrase>හි...හි..හි....මට හරි හිනා හාල් රට යවනවා කයපු කථාවට.යවන්න එපා යැ නවත්වන්න ....මේ අපිට කන්න හාල් නැති එකේ පිට රට යවන්න.....මේ කථා හොදයි කොණ්ඩේ බැදපු චීන්නුන්ට......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජලී</author>
+            <date>2012-06-28 18:50:42</date>
+            <index>23</index>
+            <phrase>රුපියලට මෙහෙම වෙනකොට කොහොමද ජය වේවා කියන්නේ මේ අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-06-28 20:32:20</date>
+            <index>24</index>
+            <phrase>මමනම් කියන්නේ අපි බඩගින්නේ මැරුණත් සහල් පිටරට යවන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-28 20:47:25</date>
+            <index>25</index>
+            <phrase>සුභාෂීනී හා අභිලාෂිණී යන දෙදෙනාගේ අදහස් අනුමත කරමි.ගැහැණු නම් වලින් කමෙන්ට් ඉදිරිපත් කර ඇතත් අදහස් පිරිමියෙකුගේ ස්වරූපය දරන බව සිතෙන්නේ සෘජු හා අවංක බව නිසාය.කෙසේ වුවද අන්වර්ථ නමකින් වුවද තමන්ගේ හෘද ශාක්ෂියට එකඟව කතාබහ කිරීම පිලිබඳ අගය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ බී සී</author>
+            <date>2012-06-29 08:46:00</date>
+            <index>26</index>
+            <phrase>@ සුජිත් . එයි ගෑනු රුජු හා අවංක නැ කියලද හිතාගෙන ඉන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-29 10:13:48</date>
+            <index>27</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ 2012-06-28 20:47:25 "සුභාෂීනී හා අභිලාෂිණී යන දෙදෙනාගේ අදහස් අනුමත කරමි.ගැහැණු නම් වලින් කමෙන්ට් ඉදිරිපත් කර ඇතත් අදහස් පිරිමියෙකුගේ ස්වරූපය දරන බව සිතෙන්නේ සෘජු හා අවංක බව නිසාය.කෙසේ වුවද අන්වර්ථ නමකින් වුවද තමන්ගේ හෘද ශාක්ෂියට එකඟව කතාබහ කිරීම පිලිබඳ අගය කරමි." මෙයාව රට යවන්න ක්‍රමයක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-29 10:35:50</date>
+            <index>28</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ ‍ගේ අදහසට මාත් එකඟයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

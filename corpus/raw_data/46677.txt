@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46677</articleId>
+    <title>කුරුවිට දම්දිය දහර පොසොන් කලාපය</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 05 19:05:22</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-06-09 22:21:56</date>
+            <index>0</index>
+            <phrase>ගොඩක් හොද වැඩක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

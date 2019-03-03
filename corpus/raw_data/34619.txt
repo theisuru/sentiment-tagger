@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34619</articleId>
+    <title>මලයාසියාවට හොරෙන් පැනලා</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 අපේ‍්‍රල් මස 02 17:14:16</date>
+    <body>නීති විරෝධී ලෙස මලයාසියාවේ රැදී සිටි ලාංකික සංක‍්‍රමණිකයෝ පස් දෙනෙක් එරට පොලිසියෙන් අත්අඩංගුවට ගනු ලැබූහ
+වෙනත් රටකට හොරෙන් යෑම සඳහා මොවුන් මලයාසියාවට එන්නට ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>කුමාර, මැලේෂියා.</author>
+            <date>2012-04-02 20:40:46</date>
+            <index>0</index>
+            <phrase>ඔයාලා හිතන්නේ මේ එකක් කියලද ? නැහැ පුළුවන්නම් ලංකාවේ ඉන්න හොර ඒජන්සි කාරයන්ව විනාශ කරලා දමන්න. මේ වගේ මිනිස්සු අමාරුවේ දාන හොරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-04-03 15:35:50</date>
+            <index>1</index>
+            <phrase>ලංකාවෙ තියන තත්ත්වයට තවත් කීයක් හොරෙන් ගියත් ප්‍රශ්නයක් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

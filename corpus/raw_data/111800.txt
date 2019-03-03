@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>111800</articleId>
+    <title>බංග්ලාදේශයේ ඇඟලූම් කම්හලක් කඩා වැටෙයි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  සවාර් නුවරදීය</author>
+    <date>2013 අපේ‍්‍රල් මස 25 00:03:21</date>
+    <body>බංග්ලාදේශයේ ඇඟලූම් කම්හල් ගොඩනැගිල්ලක් ඊයේ (24* හදිසියේම බිමට සමතලා වීමෙන් 70 දෙනෙක් ජීවිතක්ෂයට පත්වූහ. 30 දෙනෙක් තුවාල ලැබූහ. බිමට සමතලා වී ඇත්තේ මහල් අටකින් සමන්විත ගොඩනැගිල්ලකි. එහි ඉහළ මහලවල වෙළෙඳ සැල් තිබුණු බව ද පැවැසෙයි. අනතුරට පත්වූ ගොඩනැගිල්ල පිහිටා ඇත්තේ සවාර් දිස්ති‍්‍රක්කයේය. රානා ප්ලාසා නමින් හැඳින්වෙන එම ගොඩනැගිල්ල කඩා වැටීමට හේතුව මෙතෙක් අනාවරණය වී නැත. සුන්බුන් අතර සිරවූවන් සෙවීමේ කටයුතු ඊයේ දිනය පුරා සිදුවිය. සහන සේවකයන් පැවැසුවේ මරණ සංඛ්‍යාව තවත් ඉහළ යා හැකි බවය.        
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2013-04-25 10:06:43</date>
+            <index>0</index>
+            <phrase>කල කම් පල දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2013-04-25 10:12:04</date>
+            <index>1</index>
+            <phrase>නියම ප්‍රමිතියකට හදලා තියන බව නම් පේනවා. ලඟදි කොළඹත් බිල්ඩිමක් ඇල වුනා නේද? අහල පහල අය ටිකක් කල්පනාවෙන් ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2013-04-25 10:19:35</date>
+            <index>2</index>
+            <phrase>අනේ දෙවියනේ ! පව් අසරණයින්ගේ ජිවිත ... අපේ හදවත් කම්පා වෙන සිදුවීම් හැමදාම දකින්නේ. කවදාද හිතට සතුටක් දැනෙන ප්‍රවෘත්තියක් දැකලා , සිතේ මහන්සිය දුරු කර ගන්නේ ...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මා</author>
+            <date>2013-04-25 10:24:57</date>
+            <index>3</index>
+            <phrase>දැන් ඊනියා සුචරිතවාදියෝ කියන්න එපා මේක දිට්ට ධම්ම වේදේ කියලා හොදේ. මොකෝ එහෙම වුණොත් අපේ අවුරුදු 30 යුද්ධය,සුනාමිය එහෙම මොන ගනේටද වැටෙන්නේ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2013-04-25 13:08:50</date>
+            <index>4</index>
+            <phrase>බුදු දහමට කරන විනාශයට ලැබුණු දඩුවමක්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2013-04-25 17:35:46</date>
+            <index>5</index>
+            <phrase>ළගදි අපේ රටේ බස් 1ක් හැප්පිලා 30 දෙනෙක් අමාරුවේ වැටුනේ දිට්ඨ ධම්ම වේදෙටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියසිරි</author>
+            <date>2013-04-25 18:03:13</date>
+            <index>6</index>
+            <phrase>70 ක් නෙවෙයි දැන් 200 කටත් වඩා මිය ගිහින්ලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමත්</author>
+            <date>2013-05-03 05:00:30</date>
+            <index>7</index>
+            <phrase>ලංකාවෙත් කොහොමද දන්නේ නැහැ ඕවායේ ප්‍රමිතිය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

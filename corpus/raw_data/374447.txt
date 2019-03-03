@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>374447</articleId>
+    <title>චාල්ස් කුමරුගේ උයන  යටවෙයි</title>
+    <author>නිලූක සදුන් බණ්ඩාරනායක</author>
+    <date>2016 ජනවාරි මස 05 21:46:47</date>
+    <body>බ්‍රිතාන්‍යයේ ඔටුන්න හිමි චාල්ස් කුමරු වසර ගණනාවක් තිස්සේ ආදරයෙන් රැක බලා ගත් මල් උයන  පසුගිය දා ජලයෙන් යටවිය.
+තම මිත්තනිය සිහිවීම පිණිස ඔහු එම මල් උයන නඩත්තු කළේය. විශේෂඥ දැක්මක් සමග එය පුළුල් කළේය.
+වසර ගණනාවක් තිස්සේ ආදරයෙන් රැක බලා ගත් මල් උයනේ කොටසක් මෑතක දී කුණාටුවකට ද හසු වී විනාශයට පත් විය.
+රැජිනගේ අසූ වැනි උපන් දිනය නිමිත්තෙන් ගඟ අද්දර ඉදි කරන ලද ‘ද ඕල්ඩ් බුල් ඇන් බුෂ්‘ කුඩා මැදිරියට ද ඉන් හානි සිදු විය. උයනේ තිබූ පළතුරු ගස්, පැලෑටි, එළවළු ආසී සියල්ල විනාශ විය.
+අඩි 60ක භූමියක් සෝදාගෙන යෑමෙන් පසු මාලිගාව ඇත්තේ ද අඩමානයටය. 
+(ඩේලිමේල් ඇසුරෙනි)</body>
+    <comments>
+        <comment>
+            <author>විදාන</author>
+            <date>2016-01-05 20:03:58</date>
+            <index>0</index>
+            <phrase>අපරාදේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්දි</author>
+            <date>2016-01-06 07:00:18</date>
+            <index>1</index>
+            <phrase>සොබා දහමට නොවන අවනත ලොවේ කිසිවක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනීෂා</author>
+            <date>2016-01-06 07:59:02</date>
+            <index>2</index>
+            <phrase>දහමින් ඉපයූ දෙය වඩාත් සුරක්ෂිතයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-01-06 17:54:14</date>
+            <index>3</index>
+            <phrase>මට මේ වෙලාවේ ඩයනා කුමරියව මතක්වුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

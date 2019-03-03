@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38892</articleId>
+    <title>මහේස්ත්‍රාත් නිවසටත් හොරු පනිති</title>
+    <author>එම්ඩීපී ගුණවර්ධන</author>
+    <date>2012 අපේ‍්‍රල් මස 25 13:26:56</date>
+    <body>හොරණ මහේස්ත්‍රාත්වරයකුගේ, වෛද්‍යවරයකුගේ, බස්නාහිර පළාත් සභා එක්සත් ජාතික පක්ෂ දේශපලනාඥයකුගේ නිවෙස් ඇතුළු නිවාස හතරක් එකම දිනයේ කොල්ල කා ඇතැයි හොරණ පොලිසිය කියයි. එජාප දේශපාලනාඥයාගේ නිවසෙන් පවුම් දහයක් සොරාගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>වී.පෙරුභාහරන්</author>
+            <date>2012-04-25 13:38:06</date>
+            <index>0</index>
+            <phrase>‍මදි...මදි... මේ ගත්තා හොදටම මදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබුඩාබි කොල්ලා</author>
+            <date>2012-04-25 19:54:43</date>
+            <index>1</index>
+            <phrase>මේ හොරු සෙට් එක හොදට සමාජ විද්‍යාව කරලා තියෙනවා. හොරාට මගේ සුභ පැතුම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල් ඉන්දික</author>
+            <date>2012-04-26 02:55:25</date>
+            <index>2</index>
+            <phrase>ඔවුන් සැවොම මහජන සේවකයින්. ඔවුන්ගේ නිවෙස් වල වටිනා දේවල් තියෙන්න බැහැ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රා</author>
+            <date>2012-04-26 08:12:02</date>
+            <index>3</index>
+            <phrase>සාදාරන හොරුන් ඉන්න බව දැනගනීම සතුටක්. හොර මහතාට ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-04-26 09:04:45</date>
+            <index>4</index>
+            <phrase>මහේස්ත්‍රාත්වරයා, වෛද්‍යවරයාට මගේ ශෝකය.හොරාට මගේ සුභ පැතුම්.. දේශපාලනාඥයාට දේවසරනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

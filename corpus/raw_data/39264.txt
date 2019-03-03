@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39264</articleId>
+    <title>ෆොන්සේකා රෝහල්ගත කරයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 අපේ‍්‍රල් මස 27 18:59:56</date>
+    <body>හිටපු හමුදාපති සරත් ෆොන්සේකා කොළඹ නවලෝක රෝහලට අද සවස ඇතුලත් කරනු ලැබීය.  බන්ධනාගාර නිලධාරින් ඔහු අද රෝහලට ගෙන ආවේ ‍කොළඹ මහාධිකරණය පසුගිය 25 දා දුන් නියෝගයක් අනුවය. බන්ධනාගාර ආරක්ෂාව යටතේ ඔහු ප්‍රතිකාර ලබයි. ඇදුම හා බ්‍රොන්කයිටිස් තත්ත්වයෙන් පෙලෙන ඔහුට ප්‍රතිකාර කරනුයේ විශේෂඥ වෛද්‍ය වජිර තෙන්නකෝන් මහතාය.</body>
+    <comments>
+        <comment>
+            <author>සසික</author>
+            <date>2012-04-27 19:24:23</date>
+            <index>0</index>
+            <phrase>ඔබට ඉක්මන් සුවය. ත්‍රිවිධ රත්නයේ පිහිටයි. ඔබයි අපේ වීරයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරිපිටිය</author>
+            <date>2012-04-27 19:30:43</date>
+            <index>1</index>
+            <phrase>මා හිතවත් මහින්ද රාජපක්ෂ මැතිතුමනි. සරත් ෆොන්සේකා නමැති යුද භටයාට සමාව දුන මැනවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-04-27 19:38:10</date>
+            <index>2</index>
+            <phrase>දස වද දෙනවා රට ‍බේරගත්ත වීරයාට. පව් අසරණයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-04-27 20:49:27</date>
+            <index>3</index>
+            <phrase>ඉක්මන් සුවය පතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-04-27 23:05:27</date>
+            <index>4</index>
+            <phrase>රටට නිදහස ගෙනදුන් ජාතියේ පියාණනි, ඔබට ඉක්මන් සුවය හා ත්‍රිවිධ රත්නයේ පිහිට ප්‍රාර්ථනා කරන්නෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-04-27 23:09:55</date>
+            <index>5</index>
+            <phrase>ඔබට සුවය සහ දීර්ඝායුෂ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් රණතුංග</author>
+            <date>2012-04-27 23:16:16</date>
+            <index>6</index>
+            <phrase>සිංහල අපි කලගුණ සලකන හැටි තමයි ඔය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dhammika udayakuma¾</author>
+            <date>2012-04-28 10:55:08</date>
+            <index>7</index>
+            <phrase>රටට නිදහස ගෙනදුන් ජාතියේ පියාණනි, ඔබට ඉක්මන් සුවය හා ත්‍රිවිධ රත්නයේ පිහිට ප්‍රාර්ථනා කරන්නෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක වීරසිංහ(ෆියොරෙන්සෝලා-ඉතාලිය)</author>
+            <date>2012-04-28 10:55:12</date>
+            <index>8</index>
+            <phrase>ජාතියේ විරුවණි ඔබට ඉක්මන් සුව ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>a.f.ramanayaka</author>
+            <date>2012-04-28 18:34:44</date>
+            <index>9</index>
+            <phrase>ඔබට බුදුසරණයි ඉක්මන් සුවය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-04-28 18:56:03</date>
+            <index>10</index>
+            <phrase>එදත් අදත් හෙටත් ඔබයි අපගේ නායකයා. ඉක්මන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්</author>
+            <date>2012-04-28 23:33:30</date>
+            <index>11</index>
+            <phrase>ජාතික වීරයාණෙනි ඔබතුමාට සුවය පතමි. ශ්‍රී ලාංකිකයො ඔබට ආදරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-04-28 23:50:57</date>
+            <index>12</index>
+            <phrase>කුඩු කාරයොන්ට විදේශ ප්‍රතිකාර ජාතික වීරයෙක්ට බෙහෙතුත් නෑ ලැජ්ජයි  අපි ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බ්‍රේන්</author>
+            <date>2012-04-29 00:49:25</date>
+            <index>13</index>
+            <phrase>ලංකාව තුළ වෙනසක් කළ හැකි මිනිසෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්ට - ඇමෙරිකා</author>
+            <date>2012-04-29 06:51:57</date>
+            <index>14</index>
+            <phrase>සත්‍ය ඔබ සුව කරනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-04-29 07:29:06</date>
+            <index>15</index>
+            <phrase>ඔහුට කැමති තැනක ප්‍රතිකාර ගන්න ඉඩ දෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තනුජා</author>
+            <date>2012-04-29 10:43:56</date>
+            <index>16</index>
+            <phrase>රටට නිදහස දුන් රණවිරුවානනි, කිිසවකුගෙන් සමාව ගන්න එපා. ඒ අයට උඩ ඉන්න දෙවියන් දඩුවම් දෙයි. ඉක්මන් සුවය පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිඳු</author>
+            <date>2012-04-29 13:07:10</date>
+            <index>17</index>
+            <phrase>අප අසහාය යුධ වීරයාණෙනි ඔබට ඉක්මන් සුවය ප්‍රාර්ථනා කරන්නෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පි.ඒ.සෝමතිලක</author>
+            <date>2012-04-29 14:28:54</date>
+            <index>18</index>
+            <phrase>ජාතියක් වශයෙන් ඔබට ණයගැතියි.නමුත් ඔබ කළ මෙහෙය අනාගතය කථා කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-04-30 04:58:39</date>
+            <index>19</index>
+            <phrase>ඔබට දෙවි පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනන්ජය</author>
+            <date>2012-04-30 09:08:14</date>
+            <index>20</index>
+            <phrase>ඉක්මන් සුවය පතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලී</author>
+            <date>2012-04-30 09:42:50</date>
+            <index>21</index>
+            <phrase>ඉක්මන් සුව ලැබෙන තෙක් අප බලා සිටිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-04-30 09:45:31</date>
+            <index>22</index>
+            <phrase>ඔබට ඉක්මන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-04-30 10:43:14</date>
+            <index>23</index>
+            <phrase>දැයේ විරුවාණනි, ලොව්තුරා බුදුන්ගේ ශ්‍රී සද්ධර්මයේ රැකවරණින් ඔබට වැලදී ඇත්තාවූ සියළු රෝග දුරු වී චිරාත් කාලයක් යෙහෙන් වැජඹේවා.නිදුක් වේවා , නිරෝගී වේවා, සුවපත් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-04-30 11:33:02</date>
+            <index>24</index>
+            <phrase>යුධ විරුවාණෙනි, ඔබට ජේසු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විහංග</author>
+            <date>2012-04-30 13:26:27</date>
+            <index>25</index>
+            <phrase>ඔබට ඉක්මන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුසම්මිල්</author>
+            <date>2012-04-30 14:05:36</date>
+            <index>26</index>
+            <phrase>ඔබට ඉක්මන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිකාස්</author>
+            <date>2012-04-30 14:25:22</date>
+            <index>27</index>
+            <phrase>ඔබට අල්ලා තුමන්ගේ ආශිර්වාදය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

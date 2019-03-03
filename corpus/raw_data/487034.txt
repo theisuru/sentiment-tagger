@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>487034</articleId>
+    <title>වල් අලියා මවයි පුතයි රෝහලට යවයි</title>
+    <author>නිමල් ජයරත්න</author>
+    <date>2016 දෙසැම්බර් මස 04 17:06:12</date>
+    <body>පොළොන්නරුව මනම්පිටිය විලේ නාමින් සිටි මවක (30) පුතා (04) වල් අලියකු හොඩ වැලෙන් තල්ලු කිරීම නිසා තුවාල ලබා දෙදෙනා රෝහල් ගත කර ඇතැයි පොලිසිය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>සමීර</author>
+            <date>2016-12-04 15:40:34</date>
+            <index>0</index>
+            <phrase>මේ දෙදෙනාට ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්දනී</author>
+            <date>2016-12-05 01:48:05</date>
+            <index>1</index>
+            <phrase>ඇති ඔයින් ගියා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

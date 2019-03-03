@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>73694</articleId>
+    <title>ත්‍රිමලේ වැවක් වාන් දමයි</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ඔක්තෝබර් මස 30 11:40:11</date>
+    <body>ගෝමරංකඩවල, පුලිකණ්ඩිකුලම වැවට තවත් වතුර ලැබුනහොත් ගෝමරංගඩවල ත්‍රිකුණාමල පාර යටවීමේ අවධානමක් ඇතැයි ප්‍රාදේශීය ලේකම් රුවන් ජයසුන්දර මහතා කියයි.
+එසේ වුවහොත් ගම් දහයක වැසියන් කොටුවීමට ඉඩ ඇත.
+වැව දැනට වාන් දමයි.</body>
+    <comments>
+        <comment>
+            <author>චතූ</author>
+            <date>2012-10-30 12:07:50</date>
+            <index>0</index>
+            <phrase>වහාම ආරක්‍ෂිත ස්ථාන කරා අනාරක්‍ෂිත ප‍්‍රදේශවල ජනතාව යොමුකරන්න නැත්නම් ජීවිත අනතුරේ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-10-30 13:21:11</date>
+            <index>1</index>
+            <phrase>වැස්සේ නැහැ කියලා කට්ටිය අඩ අඩා හිටියේ. දැන් වහිනවයි කියලා අඩනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-10-30 14:56:02</date>
+            <index>2</index>
+            <phrase>වර්ජනය කරන්න ගං වතුර කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-10-31 21:22:56</date>
+            <index>3</index>
+            <phrase>වටිනා ජීවිත බේරාගන්න උත්සාහ කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

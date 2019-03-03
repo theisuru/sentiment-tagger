@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>353067</articleId>
+    <title>නියපොත්තෙන් ලෝක වාර්තාවක්</title>
+    <author>ලලිත් ප්‍රේමලාල්</author>
+    <date>2015 ඔක්තෝබර් මස 08 11:36:05</date>
+    <body>තම වම් අතෙහි ඇඟිලි පහේම නියපොතු වෙනුවෙන් ලෝක වාර්තාවක් තබා ගීනස් පොතටද නම ඇතුළත් කළ පුද්ගලයකු ඉන්දියාවෙන් වාර්තාවේ. ඉන්දියාවේ ශ්‍රී ධාර් චිලාල් (78) වයස අවුරුදු 16 සිට තම වම් අතෙහි නියපොතු වැවීම අරඹා ඇති අතර වසර 2015 වනවිට තම අතෙහි ඇඟිලි පිළිවෙළින් සුලන්ගිල්ල සෙන්ටි මීටර් 179 ක්ද වෙදැගිල්ලේ සෙන්ටි මීටර් 140 ක් ද මැදඟිල්ල සෙන්ටි මීටර් 186 ක් ද දබරගිල්ල සෙන්ටි මීටර් 164.5 ක් ද මාපට ඇඟිල්ල 197.8 ක් ලෙස වවා ඇත.
+පාසල, රැකියාව , විවාහය ඇතුළු විවිධ සන්ධිස්ථාන වලදී තම දිගු නියපොතු බාධකයක් වූ බව  පවසන ශ්‍රී ධාර් චිලාල් හට විවාහ යෝජනා කිහිපයක්ම නියපොතු නිසා බිඳ වැටුණද තම සහෝදරයකුගේ බිරිදගේ පවුලේ සාමාජිකාවක් තමා සමඟ විවාහ වීමට ඉදිරිපත්වූ බවද පවසයි. මේ වනවිට වසර 62 ක් නියපොතු වවා ඇති 78 හැවිරිදි චිලාල් ඉදිරි කාලයේදී තම නියපොතු කෞතුකාගාරයකට භාරදීමට කටයුතු කරන බවද පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සංජය</author>
+            <date>2015-10-08 06:39:38</date>
+            <index>0</index>
+            <phrase>ඉන්දියාවෙන් එන්නේ ඕවා තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2015-10-08 06:38:34</date>
+            <index>1</index>
+            <phrase>මේකනම් ලෝක වාර්තාවක්ම තමයි. ඒ තරම් අපහසු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2015-10-08 06:40:11</date>
+            <index>2</index>
+            <phrase>කොහොමද මේක වැව්වේ. හිතාගන්නත් බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදන්ත</author>
+            <date>2015-10-08 07:02:01</date>
+            <index>3</index>
+            <phrase>මේ විදිහට අවුරුදු 62 හිටියට වෙවම සම්මානයක් දෙන්න ඕනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමේෂ්</author>
+            <date>2015-10-08 07:02:52</date>
+            <index>4</index>
+            <phrase>මෝඩ මිනිහෙක්. හදිසියකට කහ ගන්නවත් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදන්ත</author>
+            <date>2015-10-08 07:14:01</date>
+            <index>5</index>
+            <phrase>හිතාගන්න අපහසුයි .මෙයා කොහමද මේ විදිහට අවුරුදු 62ක් හිටියේ කියලා ,මාර අපහසු වැඩක්නේ මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2015-10-08 08:46:38</date>
+            <index>6</index>
+            <phrase>මට නම් හිතෙන්නේ අපරාදේ මෙයාගේ මේ ලෝකේ ජීවත් වෙච්ච අවුරුදු 78 කියලා. ඔය අතින් කිසිම වැඩක් කරලා නැතිව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන්</author>
+            <date>2015-10-08 09:59:26</date>
+            <index>7</index>
+            <phrase>මෙවැනි වැඩක් වෙන කාටවත් කරන්න බැරිවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-10-08 11:32:36</date>
+            <index>8</index>
+            <phrase>මේ මනුස්ස්යටනම් කාටවත් චෝදනා කරන්න බැහැ කසන්න නියපොත්ත නැහැ කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2015-10-08 11:58:52</date>
+            <index>9</index>
+            <phrase>දිමේෂ්, ජයා ඔය දෙන්නගේ අදහස් මට සතුටු සිනහවක් ගෙන දුන්නා. මගේ පොඩි පුතත් වම් අතේ සුලැගිල්ලේ නියපොත්ත වවනවා. කපන්න කිවම කියන්නේ අනේ බැහැ අම්මේ නැත්නම් හැමෝම කියාවි කහගන්න නියපොත්තවත් නැහැයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2015-10-08 13:21:18</date>
+            <index>10</index>
+            <phrase>අවුරුදු 62 කින් පස්ස හෝදලා නැතුව ඇති !‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටොම්</author>
+            <date>2015-10-08 15:14:36</date>
+            <index>11</index>
+            <phrase>ඒ කියන්නේ වසර 62 වැසිකිලි ගිහිල්ල නැහැ.තවත් වාර්තාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2015-10-08 20:07:55</date>
+            <index>12</index>
+            <phrase>නියපොත්තෙන් කඩන්න පුළුවන් දේ පොරවෙන් කපනතුරු ඉඳලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆර්සාන්</author>
+            <date>2015-10-08 20:57:14</date>
+            <index>13</index>
+            <phrase>නිකන් වැවෙන නියපොත්ත! මේ මොන වාර්තාවක්ද? අපේ කොමාන්ඩෝ නිලධාරී මහතා තියපු එකයි වාර්තාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2015-10-09 03:07:04</date>
+            <index>14</index>
+            <phrase>එක එක්කෙනාට නොයෙකුත් පිස්සු තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියසේන</author>
+            <date>2015-10-09 03:18:54</date>
+            <index>15</index>
+            <phrase>ජීවිතයම මේවටම විඳවන මිනිසෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාවුලු</author>
+            <date>2015-10-09 03:22:35</date>
+            <index>16</index>
+            <phrase>නරක ආදර්ශ දෙන වාර්තා වලින් සමාජයට සිදුවන සෙතක් නැහැ කියලයි මම නම් හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගස්පේ</author>
+            <date>2015-10-09 05:33:54</date>
+            <index>17</index>
+            <phrase>හදිසියට කසන්නවත් නියපොත්තක් නැති මිනිහෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2015-10-09 08:42:13</date>
+            <index>18</index>
+            <phrase>ඉකේයියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුසිරු</author>
+            <date>2015-10-09 11:43:14</date>
+            <index>19</index>
+            <phrase>අත් දෙකක් එක්ක ඉපදිලත් අත් දෙකම පාවිච්චි කරන්න පින නැති මිනිහෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-10-09 16:21:38</date>
+            <index>20</index>
+            <phrase>මේවා වළක්වන්න බැරි අවාසනාවල්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිලක</author>
+            <date>2015-10-09 18:53:47</date>
+            <index>21</index>
+            <phrase>මුළු ජීවිතයට දුක්විඳින මෝඩ මනුස්සයෙක්. පවු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2015-10-09 21:26:58</date>
+            <index>22</index>
+            <phrase>විනාඩි 2ක් ඇතුළත මේවා කපා ඉවත්කර අත පිරිසිදු කරගෙන දැන්වත්, වැඩක් පලක් කරලා මිනිහෙක් විදිහට ජීවත්වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2015-10-10 05:35:21</date>
+            <index>23</index>
+            <phrase>රටටත් තමන්ටත් වැඩක් නැති මේ වගේ බහුබූත වලට වාර්තා කියන්නේ ඒ වගේම මෝඩයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාශ්‍යප</author>
+            <date>2015-10-10 06:43:38</date>
+            <index>24</index>
+            <phrase>ප්‍රසාද් ගේ කතාව විතරයි මෙතනින් ගතයුතු, අර්ථවත් කොමෙන්ට් එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2015-10-11 06:34:11</date>
+            <index>25</index>
+            <phrase>කසන්න නියපොතු තිබුනට සමහර වැඩ කරන්න බෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මඩුල්ල</author>
+            <date>2015-10-11 07:08:57</date>
+            <index>26</index>
+            <phrase>විසබීජ ගොඩයි ඉන්දියාවෙන් අහන්න ලැබෙන්නේ මේ වගේ දුර්ලබ දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිනිමල්</author>
+            <date>2015-10-11 11:10:54</date>
+            <index>27</index>
+            <phrase>කොහොම හරි ගිනස් පොතටත් ගිය එහෙනම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-10-11 18:05:49</date>
+            <index>28</index>
+            <phrase>මේ ජීවිතයෙන් කිසි වැඩක් නැහැ. හරිම අප්‍රසන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-10-11 18:05:37</date>
+            <index>29</index>
+            <phrase>මේ මනුස්සයා ජීවිත කාලයම එක තැන වෙන්න ඇති ඉන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2015-10-12 02:16:56</date>
+            <index>30</index>
+            <phrase>මේක එක්තරා විධියක පවුකාර කමක් තමයි. එක අතක් අහිමි කෙනෙකුටත් වඩා අසරණයකු වගේ ජීවත් වෙන්න වෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්මානේ රාල</author>
+            <date>2015-10-12 03:55:10</date>
+            <index>31</index>
+            <phrase>මොහුගේ කමිසයේ වම් අත දා ගන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දික</author>
+            <date>2015-10-12 11:30:42</date>
+            <index>32</index>
+            <phrase>ඇදුම් ඇදීමේදී ලොකු ප්‍රස්නයක් ඇති. ඒ වගේම මගේ අදහස නම් මේවගේ දේවල් කරන්නේ මානසික ලෙඩ්ඩු කියලයි. විදින්න තියෙනේ ජීවිතය විදවන එක හොද නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2015-10-13 02:40:23</date>
+            <index>33</index>
+            <phrase>මිනිස් ජීවිතයක් ලැබුනත් පෙර ආත්මේ කළ පවක් නිසා මුලු ජීවිත කාලෙම විඳවපු මනුස්සයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2015-10-13 04:11:14</date>
+            <index>34</index>
+            <phrase>පවු අනේ ඒ අන්කල්... ජීවිතේ නාස්ති කරගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2015-10-13 04:38:26</date>
+            <index>35</index>
+            <phrase>මේ බහුබූත ගිනස් පොත් වල මොකට දානවද ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

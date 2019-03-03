@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25295</articleId>
+    <title>ටෝගෝ ගිහින් කහ උණත් අරන් එති</title>
+    <author>ගුවන්තොටුපොළ දීපා අදිකාරි</author>
+    <date>2012 පෙබරවාරි මස 06 12:00:17</date>
+    <body>මිනිස් ජාවාරම්කරුවනට අසුවී කැනඩාවට හොරෙන් යන්නට ගොස් බටහිර අප‍්‍රිකාවේ ටෝගෝ නුවර දී අත්අඩංගුවට ගත් ශ්‍රී ලාංකිකයන් 203 දෙනාගෙන් 28 දෙනෙක් එරටින් පිටුවහල් කරනු ලැබ අද ශ්‍රී ලංකාවට යළි ආහ. ඔවුහු යාපනය, මඩකලපුව, කොළඹ සහ මීගමුවේ පදිංචිකරුවෝය. කහ උණ හැදී සිටි අය ද ඒ අතර වූහ. ඉන්දියාව හා ඉතියෝපියාව ඔස්සේ ටෝගෝ නුවරට ඔවුන් රැගෙන ගිය ජාවාරම්කරු ඔවුන් එහි අතරමංකැර අතුරුදහන්වී ඇත.
+අන්තර් ජාතික සංක‍්‍රමණික සංවිධානය, කැනඩාව හා ශ්‍රී ලංකා රජය ඔවුන් ගෙන්වා ගැනීමට පියවර ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-02-06 12:23:00</date>
+            <index>0</index>
+            <phrase>මෙපමණ ලස්සන රටක් තියෙද්දි මොන එහෙකට අප්‍රිකාවට යනවද..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-02-06 12:31:09</date>
+            <index>1</index>
+            <phrase>මේවා තමයි හොඳ පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-02-06 12:50:53</date>
+            <index>2</index>
+            <phrase>@සමන් රටේ ලස්සන තිබ්බට මිනිස්සුන්ගේ ප්‍රශ්න විසදෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේශා</author>
+            <date>2012-02-06 13:03:58</date>
+            <index>3</index>
+            <phrase>මිනිස්සුන්ගේ ප්‍රශ්න තේරුම් ගන්ඩ බැරි අයත් ඉන්නවනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් - italy</author>
+            <date>2012-02-06 19:57:48</date>
+            <index>4</index>
+            <phrase>පව් අහිංසකයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

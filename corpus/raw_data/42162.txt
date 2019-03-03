@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42162</articleId>
+    <title>ඊශ‍්‍රායලය මට්ටු කරන්න  යුද්ධයක්  ඕනෑ වෙන්නේ නෑ</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි  තෙහෙරාන් නුවරදීය</author>
+    <date>2012 මැයි මස 14 09:28:03</date>
+    <body>තමන්ට හතුරුකම් කරන ඇමෙරිකාවේ රූකඩය ලෙස සැලකෙන ඊශ‍්‍රායලය මට්ටු කිරීමට යුද්ධයක් කරන්න අවශ්‍ය නොවන බව ඉරාන ජනාධිපති මොහොමඞ් අහමදිනෙජාද් පවසයි.
+ඉරාන ජනපතිවරයා මේ බව කියා සිටියේ ඉරානයේ ‘ඉර්නා’ පුවත් සේවය සමඟ ඊයේ (13) පැවැති සම්මුඛ සාකච්ඡුාවකට එක් වෙමින්ය.
+”ඊශ‍්‍රායලය ඇමෙරිකාවේ රූකඩ පාලනයක් බව මැද පෙරදිග කලාපීය රටවල් කවුරුත් දන්නවා. ඔවුන් එක්වී දැඩි තීරණයක් ගෙන ඊශ‍්‍රායලය සමඟ සම්බන්ධකම් නවතා දැම්මොත් ඊශ‍්‍රායලය නිකම්ම විනාශ වේවි. යුද්ධයක් කරන්න අවශ්‍ය වෙන්නේ නැහැ” යැයි ජනපති අහමදිනෙජාද් පවසයි.
+ඉරානය ඔවුන්ගේ න්‍යෂ්ටික වැඩසටහනට මුවා වී පරමාණු බෝම්බ නිපදවන බවත් ඉරානය මට්ටු කිරීමට නම් හමුදාමය මැදිහත් වීමක් සිදු කළ යුතු බවත් ඊශ‍්‍රායලය තරයේ විශ්වාස කරයි. ලෝකයට ත‍්‍රස්තවාදය පතුරුවන්නේ ඉරානය යැයි ඊශ‍්‍රායලය චෝදනා කරයි.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-14 16:08:53</date>
+            <index>0</index>
+            <phrase>ඉරාන ජනාධිපති මොහොමඩි අහමදිනෙජාද් පවසන්නේ සියයට සීයක්ම සත්‍යයකි. ඒය ලෝකයම දන්නා රහසකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චූටි කොල්ලා</author>
+            <date>2012-05-14 22:09:40</date>
+            <index>1</index>
+            <phrase>යුදෙව්වන්ට ඇයි ගහන්නෙ නැත්තේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2012-05-14 22:20:31</date>
+            <index>2</index>
+            <phrase>නිවැරදි කෙලින් කතාවක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාවණා රජතුමා</author>
+            <date>2012-05-14 22:23:23</date>
+            <index>3</index>
+            <phrase>ලෝකයට ත‍්‍රස්තවාදය පතුරුවන්නේ ඊශ‍්‍රායලයයි.එක ඇස්පනාපිටම පේනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලක</author>
+            <date>2012-05-15 06:14:51</date>
+            <index>4</index>
+            <phrase>ඊශ්‍රායලය100% හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂාන්</author>
+            <date>2012-05-15 08:15:28</date>
+            <index>5</index>
+            <phrase>ඉරාණ ජනාධිපතිගෙ කතාව ඇත්ත. මුස්ලිම් රටවල් වලට එකතුවුණොත් හිරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-15 13:18:03</date>
+            <index>6</index>
+            <phrase>මේ ගොල්ලන්ගෙ කයිවාරුව තරමට වැඩ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-05-15 13:56:24</date>
+            <index>7</index>
+            <phrase>වෙලාව ආවහම ඉරානය වැඩ පෙන්නයි ඊශ‍්‍රායලයට ඇට්ටි හැලෙන්න................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

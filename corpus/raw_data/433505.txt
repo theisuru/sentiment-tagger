@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>433505</articleId>
+    <title>මේජර් ජනරාල් උභය මැදවලට ලොකු තැනක්</title>
+    <author>ජනක පිටිගල නිව්යෝක් නුවර සිට</author>
+    <date>2016 ජූලි මස 04 14:56:13</date>
+    <body>එක්සත් ජාතීන්ගේ නිත්‍ය නියෝජිතයන්ගේ ආරක්ෂක උපදේශක සමූහයේ ජූනි සැසිවාරය පසුගිය ජූනි 29 වැනිදා එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත කාර්යාලයේ ආරක්ෂක උපදේශක මේජර් ජනරාල් උභය මැදවල මහතාගේ ප්‍රධානත්වයෙන් නිව්යෝක් නුවරදී පැවැත්විණි.
+ආරක්ෂක උපදේශකයන් 75 දෙනකු රැස්වීමට එක්ව සිටි අතර එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත ආචාර්ය රොහාන් පෙරේරා පිළිගැනීමේ කථාව සිදු කළේය.
+එහි දී බංගලිදේශය, භූතානය, කාම්බෝජය, චීනය, ඉන්දියාව, ඉන්දුනීසියාව, ජපානය, ජෝර්දානය, කසකස්තානය, දකුණු කොරියාව, මලයාසියාව, මොන්ගෝලියාව, නේපාලය, පකිස්තානය, පිලිපීනය, සිංගප්පූරුව, තායිලන්තය, වියට්නාමය හා යේමනය ඇතුළත් එක්සත් ජාතීන්ගේ ආසියා කණ්ඩායමේ ප්‍රධානියා ලෙස මේජර් ජනරාල් උභය මැදවල මහතා නිතරගයෙන් පත්විය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත රණසිංහ</author>
+            <date>2016-07-04 11:34:37</date>
+            <index>0</index>
+            <phrase>උණුසුම් සුබ පැතුම් සර් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-07-05 04:51:54</date>
+            <index>1</index>
+            <phrase>ඔබ නියම සුදුස්සෙක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක බණ්ඩාර</author>
+            <date>2016-07-05 10:51:44</date>
+            <index>2</index>
+            <phrase>සුබ පැතුම් සර්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක විජේසිංහ</author>
+            <date>2016-07-05 12:52:29</date>
+            <index>3</index>
+            <phrase>ගොඩක් සතුටුයි සුබ පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක විජේසිංහ</author>
+            <date>2016-07-05 12:56:22</date>
+            <index>4</index>
+            <phrase>ගොඩක් ස්තුතියි උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2016-07-05 20:04:30</date>
+            <index>5</index>
+            <phrase>ඔබට සුබ පැතුම් සර්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2016-07-06 04:16:38</date>
+            <index>6</index>
+            <phrase>තමාට පෙර රට යන්න නැවත සිතට ගන්න ඔබට දළදා සමිදු පිහිටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-07-06 15:18:26</date>
+            <index>7</index>
+            <phrase>අපෙන් සුබපැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලින්ද අමරබන්දු</author>
+            <date>2016-07-07 01:54:11</date>
+            <index>8</index>
+            <phrase>සුබ පැතුම්! අපිට ආඩම්බරයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

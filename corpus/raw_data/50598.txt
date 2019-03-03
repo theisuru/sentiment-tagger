@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50598</articleId>
+    <title>විදු උයනක් එයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 28 10:59:54</date>
+    <body>විද්‍යාව හා තාක්ෂණය වෙනුවෙන් වූ පහසුකම් සහිත ”විද්‍යා උද්‍යානයක්” ආරම්භ කිරීමට විද්‍යා හා උසස් තාක්ෂණ අමාත්‍යංශය සැළසුම් කර ඇත.
+හෝමාගම, පිටිපන අක්කර පනහක භූමියක් පුරා මෙම උද්‍යානය අදියර හතරකින් අවසාන කිරීමට නියමිතය.
+පළමු අදියරයේදී ”නැනෝ” තාක්ෂණ මධ්‍යස්ථානයක් පිහිටැවේ. පුස්තකාල හා විද්‍යාගාර පහසුකම් ඇති මෙහි ඉදිකිරීම් සඳහා රුපියල් කෝටි 83ක් පමණ රජයෙන් වෙන්කැරෙයි.
+දෙවැනි, තෙවැනි හා සිව්වැනි අදියරවලදී පිළිවෙළින් ඉහළ තලයේ පර්යේෂණ සඳහා වන පහසුකම් උසස් තාක්ෂණ කර්මාන්ත සඳහා පහසුකම් ඇති කිරීමටත් විද්‍යාඥයන් හා පර්යේෂකයන්ට වෙන් වූ නිවාස සංකීර්ණයක් ඉදිකිරීමටත් සැලසුම් කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ටී.එන්</author>
+            <date>2012-07-02 12:01:33</date>
+            <index>0</index>
+            <phrase>හොද දෙයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-07-04 18:18:54</date>
+            <index>1</index>
+            <phrase>මමනම් ඉන්නේ ඔතෙන්ට පයින් යන්න තරම් දුරින්.අපේ ගමේ ඉන්න අයටත් රස්සාවක්වත් ලැබුනොත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-05 13:53:22</date>
+            <index>2</index>
+            <phrase>කොහෙන්ද සල්ලි..ණයක්ද ??තෑග්ගක්ද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිල්බු</author>
+            <date>2012-07-09 19:49:40</date>
+            <index>3</index>
+            <phrase>මේක රටේ හොදට කරන දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-07-10 12:57:43</date>
+            <index>4</index>
+            <phrase>පාසල් විද්‍යාගාරවල ගොඩක් අඩුපාඩු තියෙනවා . ඉස්සෙල්ලම ඒවා විසඳගෙන හිටියොත් තමයි හොඳ !!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-07-11 09:30:11</date>
+            <index>5</index>
+            <phrase>හොඳ දෙයක් .පාසල්වල විද්‍යාගාර දියුණු කල යුතුයි ,දානපතියන්ගෙන් උදව්ගනිමු ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

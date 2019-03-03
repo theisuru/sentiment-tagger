@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58508</articleId>
+    <title>පළාත් ඇමති බැනරයෙන් හොර හරක් අදි</title>
+    <author>රවි ලියනගේ  ඡායාරූප ඩීජී සුගතපාල</author>
+    <date>2012 අගෝස්තු මස 13 09:22:18</date>
+    <body>පළාත් සභා ඇමතිවරයකුගේ   බැනරයක් සහිත ලොරියකින් හොර හරකුන් 11 දෙනකු රැගෙන ගිය  පිරිසක් ගාල්ලේ දී සැකපිට අත් අඩංගුවයට ගත් බව පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2012-08-13 09:27:35</date>
+            <index>0</index>
+            <phrase>ඔය කිව්වට ඇමති නොදන්නවමයි කියල කියන්නත් බැ. දකුණු පලාතේ මන්ත්‍රිල , සබාපතිල කරන වැඩ දීහා බැලුවම ඇමති කෙනෙකුට ඔකත් කජ්ජක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි මහේසිකා අමරසිංහ</author>
+            <date>2012-08-13 09:32:42</date>
+            <index>1</index>
+            <phrase>බස්නාහිර ඇමැති බැනරයෙන් හොර හරක්..... හරි අපුරු කියමන ලංකාදිපයේ පුවත් වලට මුල් පද නම් අපූරුයි අපට කියවන්න අවශ්‍ය කුතෘහලය ඒ තුළින් ඇති වෙනවා .. මේ මාධ්‍ය කලාව ඒ කාලේ තිබුණු වැදගත් කම තාම තිබෙන බව අපට දැනෙනවා ස්තූතියි ලංකාදිප එසැණ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-08-13 09:47:48</date>
+            <index>2</index>
+            <phrase>පළාත් සභා ඇමතිත් හොර හරකුන් අතරද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිමා</author>
+            <date>2012-08-13 10:01:36</date>
+            <index>3</index>
+            <phrase>හරියටම හරක් ද හිටියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-08-13 10:02:51</date>
+            <index>4</index>
+            <phrase>රජතුමනි ඔබතුමා මහජනතාවගෙන් ඉල්ලුවෙ රටේ දුෂනය වලක්වන්න උදව්වෙන්න කියලනේ... දෑන් මේ වැඩේට අතගහල ඔක්කොමල ගෙදර යවන්න... අයෙත් මෙ වගෙ වෑඩ කාටවත් කරන්න නොහිතෙන විදියෙ දඩුවමක් දෙන්න මේව තමයි ලොකු අපරාද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීර</author>
+            <date>2012-08-13 10:25:28</date>
+            <index>5</index>
+            <phrase>ලජ්ජා නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-13 10:37:14</date>
+            <index>6</index>
+            <phrase>චන්දයේදී ඔක්කොම අමතකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමයන්ති</author>
+            <date>2012-08-13 10:44:07</date>
+            <index>7</index>
+            <phrase>ජිවන බර දැනිලා ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-13 10:41:36</date>
+            <index>8</index>
+            <phrase>ඒ කියන්නේ මේකට ඒ ඇමති සම්බන්ධද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-08-13 10:45:21</date>
+            <index>9</index>
+            <phrase>මේ දවස් වල කොහොමත් මිනිස්සුන්ගෙයි සත්තුන්ගෙයි එච්චර වෙනසක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-08-13 11:04:11</date>
+            <index>10</index>
+            <phrase>ඔන්න මම දූෂණ මඩින්න උදවු කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2012-08-13 11:17:32</date>
+            <index>11</index>
+            <phrase>පිටින් ඇමතිගේ රූපේ. ඇතුළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-08-13 11:50:07</date>
+            <index>12</index>
+            <phrase>ඉතින් මොකද වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-08-13 12:32:35</date>
+            <index>13</index>
+            <phrase>අනේ ‍ඒ හරක් නෙමේ. ඡන්ද වැඩට පෙරහුරු වක් දෙන්න එක්ක ගියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-13 12:38:08</date>
+            <index>14</index>
+            <phrase>පුරුද්ද ලොකුයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඈන්</author>
+            <date>2012-08-13 12:42:59</date>
+            <index>15</index>
+            <phrase>කෝ හරක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-13 12:54:11</date>
+            <index>16</index>
+            <phrase>අන්න හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2012-08-13 13:02:04</date>
+            <index>17</index>
+            <phrase>ඇමතිතුමාගේ ලොරි අල්ලන්න පොලිසියේ අයට පිස්සු හැදිලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවීස</author>
+            <date>2012-08-13 14:46:05</date>
+            <index>18</index>
+            <phrase>පුරුද්ද නැති කරන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ඉන්දික</author>
+            <date>2012-08-13 15:01:52</date>
+            <index>19</index>
+            <phrase>කට්ටිය කලබල වෙන්නේ නැතුව ඉන්න නුදුරු දිනක ප්‍රාදේශීය සභා පළාත්සභා, ඇමතිලා, මහා ඇමතිලා පටවන් ගිය ලොරියක් පොලිසියෙන් අත්අඩංගුවට ගනී කියල පත්තරේ වැටෙයි .එදාට කට්ටියම හොඳ කොමෙන්ට් දාන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස් එල්</author>
+            <date>2012-08-13 15:25:57</date>
+            <index>20</index>
+            <phrase>පිටින් ඇමතිගේ රූපේ තිබුනට කොහොමත් ඇතුලේ ඉන්නේ වෙන කට්ටියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-13 15:24:06</date>
+            <index>21</index>
+            <phrase>පිටින් ඇමති. ඇතුලේ කවුද ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොඩිකාර</author>
+            <date>2012-08-13 15:35:03</date>
+            <index>22</index>
+            <phrase>ජනපති තුමනි ඔබටයි හොද නැත්තේ මේ වගේ වඩා වලින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-13 15:38:24</date>
+            <index>23</index>
+            <phrase>පොලිසියේත් උදව් ඇති ඔය කියුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-08-13 15:57:54</date>
+            <index>24</index>
+            <phrase>මොකද්ද අනේ මේ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-13 16:04:12</date>
+            <index>25</index>
+            <phrase>පක්ෂයේ වහනයක්නේ එතකොට ඇතුලේ ඉන්නේ කවුද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කති</author>
+            <date>2012-08-13 16:10:18</date>
+            <index>26</index>
+            <phrase>පුදුම වෙන්න දෙයක් නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2012-08-13 16:11:59</date>
+            <index>27</index>
+            <phrase>අපි තමයි වැරැද්ද කලේ. අපිමනේ පත් කළේ මේ කට්ටිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-13 16:16:42</date>
+            <index>28</index>
+            <phrase>මම හිතන්නේ අපි ලාංකීය උගත් ජනතාව හැටියට අපේ ජන්දය හොදට කල්පනා කරලා හොදම කෙනා තෝරාගන්න ඕන.එත් දෙවියනේ එහම අය හොයාගන්න නැනේ අපේ රටේ හැටියට සුදුසු කෙනාට සල්ලි නැ, බලය නැ, මේ ජන්ද ක්‍රමය වෙනස් වෙන්න ඕන.ඇති ගරු ජනාධිපති තුමනි දැන් පුළුවන් මේ ජන්දෙට හොදම අය තෝරලා දාන්න.නැතිනම් අපේ රට ලගදීම හොරුන්ගෙන් දුශිතයන්ගෙන් පිරෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-08-13 16:29:22</date>
+            <index>29</index>
+            <phrase>මෙවන් අපරාධ කරන්නන් හට මෙළොවදීත්, එළොවදීත් පටිසන් දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-08-13 16:55:28</date>
+            <index>30</index>
+            <phrase>මේ මිනිස්සුන්ව කවුද පත් කලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-08-13 16:58:57</date>
+            <index>31</index>
+            <phrase>ලැජ්ජයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-08-13 17:06:18</date>
+            <index>32</index>
+            <phrase>මිනිස්සුන්ට ලජ්ජා නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2012-08-13 17:04:42</date>
+            <index>33</index>
+            <phrase>පව් හරක් ටික මැරිලද? අහිංසක සත්තු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-13 17:11:01</date>
+            <index>34</index>
+            <phrase>වැවත් නියරත් ගොයම් කා නම් කාට පවසම් මේ අවනඩුව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-08-13 17:18:11</date>
+            <index>35</index>
+            <phrase>අමතර ආදයාම් මාර්ගයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-08-13 17:44:19</date>
+            <index>36</index>
+            <phrase>මීළග වතාවෙත් වැඩිම මනාපෙන් පත්කර ගන්න. නැත්නම් අපි ලංකාව ආසියාවෙ ආශ්චර්ය කරා ගෙනි යන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-13 17:44:30</date>
+            <index>37</index>
+            <phrase>හිනාත් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික නිශ්ශංක</author>
+            <date>2012-08-13 18:17:44</date>
+            <index>38</index>
+            <phrase>ඡන්දේ දීලා මෙයාලව පත් කරපු අපට ගහන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2012-08-13 18:26:55</date>
+            <index>39</index>
+            <phrase>ඡන්දෙ වැඩ වල ට උදව් කරන්න යනකොට වෙන්න ඇති අල්ලන්න ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-08-13 18:46:26</date>
+            <index>40</index>
+            <phrase>දැක්කත් නොදැක්කවගේ ඉන්න නැත්නම් මොනවා වෙදිය දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිස්</author>
+            <date>2012-08-13 19:12:09</date>
+            <index>41</index>
+            <phrase>ඡන්දය දුන්න අය තමයි නියම හරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-13 19:57:19</date>
+            <index>42</index>
+            <phrase>ඉතින් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-13 20:31:43</date>
+            <index>43</index>
+            <phrase>මෙක විපක්ෂයේ වැඩක් කියලා කියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-08-13 20:31:57</date>
+            <index>44</index>
+            <phrase>අපිට මොකද අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුහම්මද්</author>
+            <date>2012-08-13 20:53:06</date>
+            <index>45</index>
+            <phrase>තවත් තැනක ඕක සිද්ධ වෙනවා. පොලිසියත් දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්ලිව් මංගල</author>
+            <date>2012-08-13 21:05:28</date>
+            <index>46</index>
+            <phrase>මේ අයට ඡන්දය දුන්න අපට මඩු වලිගයෙන් ගහන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-08-13 22:46:00</date>
+            <index>47</index>
+            <phrase>‍කෝ මේ තම්බිලට බැනපු සිංහලයෝ,, කෝ අදහස් ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-08-13 23:01:10</date>
+            <index>48</index>
+            <phrase>අන්න නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-14 00:38:08</date>
+            <index>49</index>
+            <phrase>මුන්ට හෙන ගහන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසුරිය</author>
+            <date>2012-08-14 01:29:06</date>
+            <index>50</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-08-14 02:44:11</date>
+            <index>51</index>
+            <phrase>යාලුවනේ, අනෙක් පාර මනාප දෙනකොටවත් පොඩ්ඩක් මොළේ කල්පනා කරලා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-14 04:34:13</date>
+            <index>52</index>
+            <phrase>මේකට ඇමතිතුමා සම්බන්ධ නැහැ කියලද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-14 10:34:58</date>
+            <index>53</index>
+            <phrase>ජනාධිපතිතුමනි, ඒ වාහනයේ ඔබේ රූපයත් තිබෙනවා. දැඩි දඩුවම් දෙන්න මොවුන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන</author>
+            <date>2012-08-14 11:19:47</date>
+            <index>54</index>
+            <phrase>ඒ පිටිපස්සේ ඉන්නේ පක්ෂ කට්ටියද අධාරකරුවොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-08-14 12:01:05</date>
+            <index>55</index>
+            <phrase>යාළුවොත් එක්ක කොහෙද ගියේ ඔබ තුමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

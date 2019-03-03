@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508184</articleId>
+    <title>පිටකොටුවේ ගින්නක්</title>
+    <author>තරිඳු ජයවර්ධන  ඡායා ගයාන් අමරසේකර</author>
+    <date>2017 පෙබරවාරි මස 18 20:11:13</date>
+    <body>පිටකොටුවේ වෙළෙඳසැලක ඇතිවූ ගින්නක් නිවීම සඳහා ගිනි නිවන භටයන් කැඳවූ බව පොලිසිය කියයි. මෙි වනවිට ගිනි නිවන රථ 4 ක් පැමිණ ඇති බවත් ප්‍රදේශය දුමෙන් වැසී ඇති බවත් වාර්තා වේ.
+  </body>
+    <comments>
+        <comment>
+            <author>ෆාමි</author>
+            <date>2017-02-19 10:59:02</date>
+            <index>0</index>
+            <phrase>යහපාලනයේ සිදුවෙන දේවල් වල හැටියට ගිනි නොගෙන තිබුනොත් තමා පුදුමේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

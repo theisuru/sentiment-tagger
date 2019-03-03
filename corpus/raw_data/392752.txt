@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>392752</articleId>
+    <title>ඉන්දුනීසියාව අඳුරේ ගිලෙයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 මාර්තු මස 09 10:01:52</date>
+    <body>ඉන්දුනීසියාවට අද (9) පූර්ණ සූර්යග්‍රහණයක් දැකගැනීමට හැකිවූ බව විදෙස් පුවත් සේවා පවසයි.
+ඉන්දුනීසියාවේ ප්‍රාන්ත 12 කට මෙම සූර්යග්‍රහණය ඉතා හොඳින් දිස්වූ බව කියති. මෙය දැකගැනීම සඳහා අති විශාල සංචාරකයින් පිරිසක් ද එරටට පැමිණ සිටි බව වාර්තාවේ.
+ඉන්දුනීසියාවේ ඇතැම් ප්‍රදේශ එරට වේලාවෙන් පෙරවරු 6.20ට පමණ සම්පූර්ණයෙන් අඳුරු වී ගිය බව කියති.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-03-09 05:51:29</date>
+            <index>0</index>
+            <phrase>අපිටත් දැක ගන්න තිබුනම් කොච්චාර හොදද? අර 1950 ගණන්වල් තිබුන වෙලාව සමහරු වදකහ සුදිය බිව්වලුනේ . ප්‍රතිඵල ගැන ඉදිරියේදී බලමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-03-09 08:35:44</date>
+            <index>1</index>
+            <phrase>අපි මෙහෙ ඉඳන් ඕක දැක්ක නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ</author>
+            <date>2016-03-10 00:54:22</date>
+            <index>2</index>
+            <phrase>ඉමේෂ්, ආත්මාර්ථකාමී වෙන්න එපා. සූර්යග්‍රහණයක් ලෝකයටම පොදු ස්වභාවික දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපි</author>
+            <date>2016-03-10 10:59:35</date>
+            <index>3</index>
+            <phrase>'බාලි'වලටත් පෙනුණා නම් බණ්ඩාර ඕක කට ඇරගෙන හොඳින්ම බලන්න ඇති ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-03-11 02:19:35</date>
+            <index>4</index>
+            <phrase>කුරේ, මෝඩ කතා කියන්න එපා. මම කිව්වද අනිත් අයට බලන්න එපා කියලා? මම කිව්වේ ඉන්දුනීසියාවට විතරක් නෙමෙයි ඕක අපිටත් පෙනුනා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

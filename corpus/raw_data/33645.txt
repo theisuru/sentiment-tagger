@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33645</articleId>
+    <title>ගොවියෝ කඳසුරිඳු පිහිට පතති</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 මාර්තු මස 27 11:22:03</date>
+    <body>කතරගම දෙටගමුව වැවේ මැණික් ඉල්ලම් පස් සේදීමට එරෙහිව දෙටගමුව ගොවි සංවිධානය අද උද්ඝෝෂණයක් පැවැත්වීය.
+ඉල්ලම් සේදීම නිසා අක්කර දෙසීයක කුඹුරු යායට දියවර සපයන ඇළ මාර්ග ගොඩවෙතියි ගොවි සංවිධාන ලේකම් ජයසේන ගාල්ලවත්ත මහතා කියයි. තම්මැන්නාවෙන් ගෙනා ඉල්ලම් මෙහි සෝදතියි කියති.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-03-27 11:27:42</date>
+            <index>0</index>
+            <phrase>දෙවියන්ටත් මේ දිනවල හරි ප්‍රශ්න,බැසිල් මහත්තයාගෙන් අහල කියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-03-27 11:39:10</date>
+            <index>1</index>
+            <phrase>මේවා කළාට වැඩක් නැහැ. දෙවියෝ ඉන්නෙ සල්ලි තියෙන මිනිස්සුන්ගෙ පැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-03-27 12:38:12</date>
+            <index>2</index>
+            <phrase>ඕවයින් වැඩක් නැහැ. බොරුවට පාරේ රස්තියාදු වෙන්න එපා. ඔතන ඉන්නේ දේශපාලකයින්ගේ පොරවල්. දෙවියොත් කිට්ටුවෙන්න බයයි. ඒ අය මඩහෝදන තැන් වලට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලසන්ත පෙරේරා</author>
+            <date>2012-03-27 14:08:36</date>
+            <index>3</index>
+            <phrase>මෙන්න මේවා තමයි මානව හිමිකම් කඩ කිරීම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෝහා සිට, සුනිල්</author>
+            <date>2012-03-27 15:05:34</date>
+            <index>4</index>
+            <phrase>ඇත්තටම ඔයාලා නොකා නොබී ඉන්නේ ජේ.වී.පී. කට්ටිය කිව්ව නිසාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

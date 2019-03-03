@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61177</articleId>
+    <title>විකිලීක්ස්  සහ ජුලියන් ඇසෙන්ජ්</title>
+    <author></author>
+    <date>2012 අගෝස්තු මස 27 10:11:08</date>
+    <body>විකිලීක්ස්  සහ ජුලියන් ඇසෙන්ජ්.....
+2006 විකිලීක්ස්  වෙබ් අඩවිය ආරම්භ කෙරුණි......</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-27 19:04:21</date>
+            <index>0</index>
+            <phrase>මේ මනුස්සය වීරයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2012-08-28 09:17:27</date>
+            <index>1</index>
+            <phrase>මේ ශතවර්ෂයේ පහලවුන කොන්ද කෙලින් ඇති මිනිහෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-08-28 19:57:53</date>
+            <index>2</index>
+            <phrase>ඔබ වටිනා පුද්ගලයෙක්. ඔබට දීර්ඝායුෂ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28988</articleId>
+    <title>අස්ගිරි මහා නාහිමිත් විරෝධයට එති</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 පෙබරවාරි මස 27 12:55:48</date>
+    <body>ශ්‍රි ලංකාවට එරෙහිව ක්‍රියාත්මක කිරීමට යෝජිත මානව හිමිකම් කඩ කිරීමේ චෝදනා නිශ්ප්‍රභවේවා‘යි උඩුගම බුද්ධ රක්ඛිත අස්ගිරි මහා නාහිමි ප්‍රමුඛ මහා සංඝරත්නය  ද මැති අමැතිවරු ද මහනුවර දළදා මාලිය ඉදිරිපිට සත්‍යාග්‍රාහක් පැවැත්වූහ.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-02-27 13:38:32</date>
+            <index>0</index>
+            <phrase>ජෙනරාල් ෆොන්සේකාත් මේ තැන්වල වාඩි වෙලා හිටිය නම් තමයි වටින්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජී</author>
+            <date>2012-02-27 13:52:39</date>
+            <index>1</index>
+            <phrase>ප්‍රභාත් ඔයා හරි. හැබැයි ජෙනරාල්ව බිලි දුන්නු යූ එන් පී එකවත් ජේ වී පී එකවත් අද මෙතන නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>SA .KI.</author>
+            <date>2012-02-27 14:01:55</date>
+            <index>2</index>
+            <phrase>අස්ගිරි හාමුදුරුවන්ට සරත් ෆොන්සේකා අමතක වෙලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

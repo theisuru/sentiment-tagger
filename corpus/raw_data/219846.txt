@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>219846</articleId>
+    <title>නියඟය දරුණුයි</title>
+    <author>සුජීව ජයවික්‍රම</author>
+    <date>2014 මාර්තු මස 25 10:35:54</date>
+    <body>මොණරාගල දිස්ත්‍රික්කයේ නියඟයත් සමඟ තනමල්විල පානීය ජල හිඟයක් පවතී.
+ගැහැණු මිනිස්සු වතුර සොයා කිලෝමීටර ගණන් යති.
+තණමල්විල නගරය ආසන්නයේ පිහිටි වැව ළඟ ළිඳට බොහෝ දෙනකු පානීය ජලය සොයා එති.
+
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>නන්ද</author>
+            <date>2014-03-25 10:53:29</date>
+            <index>0</index>
+            <phrase>වතුර නැති උනත් මිනිස්සු හිනාවෙලා ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලු</author>
+            <date>2014-03-25 11:02:01</date>
+            <index>1</index>
+            <phrase>වැස්ස වැස්සත් බනිනවා, නොවැස්සත් බනිනවා. දැන් තේරෙනවනේ වැස්සේ අගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2014-03-25 11:22:48</date>
+            <index>2</index>
+            <phrase>තමිල් නාඩුවේ අන්තිමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-03-25 13:23:23</date>
+            <index>3</index>
+            <phrase>මෙහේ වතුර ඉල්ලන කොට ගහනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2014-03-25 13:34:46</date>
+            <index>4</index>
+            <phrase>පව්, වතුර නැති උනාම, කොහොමද ජිවත් වෙන්නේ. ඉක්මනින් වැස්ස වලාහක දෙවියනි වඩිනු මැන...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2014-03-25 18:57:09</date>
+            <index>5</index>
+            <phrase>මිනිස්සුන්ගේම වැරදි ක්‍රියාකලාප නිසා තමයි අද මෙහෙම දේවල් වෙලා තිබෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන</author>
+            <date>2014-03-26 14:01:52</date>
+            <index>6</index>
+            <phrase>වියලි කාලයට වතුර ටිකක් දෙන්න ක්‍රමයක් නැත. අත්‍යාවශ නැති දේවල් වලට කොටි ගණන් මුදල්. පරිසරයෙනුත් හානි කරන්නේ මොකවත් නැති අයටමයි. මෙහෙන් නියගය එහෙන් වකුගඩු රෝග රෝග.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

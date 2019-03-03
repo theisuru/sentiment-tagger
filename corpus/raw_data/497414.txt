@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>497414</articleId>
+    <title>අල්ලස් ගනිද්දී විදුහල්පති දැළේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 ජනවාරි මස 09 15:58:05</date>
+    <body>ගාල්ල ප්‍රදේශයේ විදුහලක විදුහල්පති වරයා රුපියල් 20,000 ක අල්ලසක් ගනිද්දී විදුහල් භූමියේදීම අත්අඩංගුවට ගත් බව අල්ලස් සහ දූෂණ විමර්ශන කොමිසමේ අධ්‍යක්ෂක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රියන්ත චන්ද්‍රසිරි මහතා පවසයි. පළමු ශ්‍රේණියට සිසුවකු ඇතුළත් කිරීමට ඔහු මෙම අල්ලස් මුදල් ලබාගැනීමට තැත් කර ඇතැයි ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රියන්ත චන්ද්‍රසිරි මහතා වැඩිදුරටත් පැවසීය. </body>
+    <comments>
+        <comment>
+            <author>සසිඳු</author>
+            <date>2017-01-09 11:18:48</date>
+            <index>0</index>
+            <phrase>මොකද්ද මේ 20000. අපේ දේශපාලුවෝ හොරා කන ගණන් බැලුවම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2017-01-09 11:37:29</date>
+            <index>1</index>
+            <phrase>20000ක් ගත්තු ප්‍රින්සිපල් අහු වුනාට ලක්ෂ ගණන් ගත්තු ප්‍රින්සිපල් මහත්තුරු එලියෙනේ ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2017-01-09 11:46:00</date>
+            <index>2</index>
+            <phrase>සමහරු ගෙවන හැටියට, විසිදාහ කියන්නේ 30න් පංගුවක් විතරයි... මොකටද ඔච්චර පොඩි ගානක් ඉල්ලුවේ විදුහල්පති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ් -රියාද්</author>
+            <date>2017-01-09 12:53:51</date>
+            <index>3</index>
+            <phrase>කම්මල්කාරයා වගේමයි මේ ඇත්තොත්. තැලෙන යකඩමයි පස්ස උස්සගෙන තලන්නේ. බවලත් අය, යමරෙට නිදැල්ලේ. තෝරු මෝරු බැරිනම්, හාල් මැස්සෙක් හරි අල්ලලා ජාමේ බේරගන්න එපාය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිකී</author>
+            <date>2017-01-09 13:53:17</date>
+            <index>4</index>
+            <phrase>පගාව හැටියට ගන්න ගණන මොකක් වුනත් පගාව කියන්නේ පගාවමයි වරද තියෙන්නේ දේශපාලුවන්ට එරෙහිව නීතිය ක්‍රියාත්මක නොවීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලාම්</author>
+            <date>2017-01-09 14:09:37</date>
+            <index>5</index>
+            <phrase>වරදට දඩුවම දිය යුතුයි .අල්ලසට සම්බන්ධ සියලුම රාජ්‍ය සේවකයන්ව සොයා උපරිම දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමපාල</author>
+            <date>2017-01-09 15:46:24</date>
+            <index>6</index>
+            <phrase>මේ පාසලේ නම කියන්න බයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2017-01-10 06:35:45</date>
+            <index>7</index>
+            <phrase>මේ ගුරුවරුන්ගේ සහ විදුහල්පති වරුන්ගේ වේතන හරිම කනගාටුදායක තත්වයක තියෙන්නේ ..හරිම අඩු පඩි මේගොල්ලන්ට ලැබෙන්නේ... ඉතින් කොහෙන් හරි සන්තෝසමක් දෙනවනම් ගන්නවා සමහර අසරණ අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2017-01-10 06:48:14</date>
+            <index>8</index>
+            <phrase>බොහොම හොඳ දෙයක්. මේවා දිගටම කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

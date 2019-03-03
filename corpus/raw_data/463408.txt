@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463408</articleId>
+    <title>උතුරු සභාපති යතුරු පැදියෙන් අවසන් ගමන් යයි</title>
+    <author>රොමේෂ් මධුෂංඛ</author>
+    <date>2016 ඔක්තෝබර් මස 01 19:43:05</date>
+    <body>උතුරු පළාත් සභා නියෝජ්‍ය සභාපති  ඇන්ටනි ජෙගනාදන් මහතා අද (01) උදෑසන මුලතිව්හි යතුරු පැදියකින් ගමන්කරමින් සිටියදී ඇති වූ හෘදයාබාධයකින් මියගිය බව මුලතිව් පොලීසිය කියයි.ඔහු යතුරු පැදියෙන් ඇද වැටුණු බවද සිද්ධිය ඇසින් දුටුවෝ පැවසුහ.
+  2013 පලාත් සභා මැතිවරණයෙන් දෙමළ ජාතික සන්ධානයෙන් මනාප 9,309 ක් ලබාගනිමින් ඔහු පළාත් සභාවට පත් විය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2016-10-01 17:13:48</date>
+            <index>0</index>
+            <phrase>මනාප 9000ක් ගත් කෙනා යන්නේ යතුරුපැදියේ. එතකොට අර මනාප 5000ක් ගත් කෙනා??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේශ්</author>
+            <date>2016-10-02 01:32:12</date>
+            <index>1</index>
+            <phrase>අපරාදේ! කවුරු වුණත් මනුස්ස ජීවිතයක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-10-02 02:00:13</date>
+            <index>2</index>
+            <phrase>අපි දන්නේ නැහැ මේ කවුද කියලා. හැබැයි ජනතාවාදී දේශපාලකයෙක් කියලා පේනවා යතුරුපැදියකින් ගමන් බිමන් ගිය නිසා. කොහොම වුණත් මෙන්න මේ වගේ දේශපාලකයෝ ඉන්නනම් රටක් ගොඩදාගන්න එක මහා දෙයක් නොවෙයි. ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න ගම්පොල.</author>
+            <date>2016-10-02 02:58:50</date>
+            <index>3</index>
+            <phrase>දේශපාලකයෙකු වශයෙන් මහඟු ආදර්ශයක් සමාජයට පෙන්වා දී මෙලොවින් බැහැරවීම කනගාටුදායකයි. නමුත් ලෝක ධර්මතාවය එයයි. ඔබතුමාට අජරාමර නිවන්සුවය ලබාගැනීමට හැකිවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2016-10-02 03:27:54</date>
+            <index>4</index>
+            <phrase>මේ මනුස්සය මනාප 9309 ක් අරගෙන යන්නේ යතුරු පැදියෙන්. ඒ වුනාට පිනට මහා ඇමැතිවෙලා බොරුවට කහිණ "වට්ටක්කා" විග්නේෂ්වරන් යන්නේ උඩින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2016-10-02 04:36:31</date>
+            <index>5</index>
+            <phrase>අඩුවෙන් මනාප ගත් එක්කෙනා ප්‍රාඩෝ මොන්ටෙරෝ එකකින් යනවා දැක්කද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-02 04:56:41</date>
+            <index>6</index>
+            <phrase>ඔබතුමාට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-10-02 05:26:01</date>
+            <index>7</index>
+            <phrase>අපේ ලංකාවේ දේශපාලකයන්ගේ දීමනා සියල්ල 25000 කට සීමා කළොත් පමණයි රට ගොඩදමන්න දියුණු කරගන්න හැකි වෙන්නේ ..? හැම දේශපාලකයෙකුටම දෙන්න ඕනේ දේශනාවක් ..ජනතා සේවයට ආවානම් තම වියදමෙන් රැකියාවට ජනතාසේවයට පැමිණෙන්න කියලා..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

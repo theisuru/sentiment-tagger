@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21007</articleId>
+    <title>අධිවේගී මගේ දී සමිත හිමි රියටත් ගල්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජනවාරි මස 08 13:30:51</date>
+    <body>දකුණු පළාත් සභා මන්ත‍්‍රී බද්දේගම සමිත හිමියන් ගමන් කළ රියට සිකුරාදා රාත‍්‍රි 11 ට පමණ දක්‍ෂිණ අධිවේගී මාර්ගයේ 36.6 කණුව අසලදී ගල් ප‍්‍රහාරයක් එල්ල වී ඇතැයි අධිවේගී මාර්ග පොලිසිය කීයයි. සමිි හිමියන් තුවාල නොලැබූ නමුත් රියේ ඉදිරිපස වීදුරුව කැඞී ගියේය. එම මාර්ගයේදී ගල් ප‍්‍රහාර එඅල්ල වූ දෙවැනි අවස්ථාව මෙයයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-08 16:38:25</date>
+            <index>0</index>
+            <phrase>මානසික ලෙඩ්ඩු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝසප්</author>
+            <date>2012-01-08 17:32:51</date>
+            <index>1</index>
+            <phrase>මේ අයට හැකි උපරිම දඩුවම් දෙන්න ඕන......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-01-08 21:17:47</date>
+            <index>2</index>
+            <phrase>හාමුදුරු නමකට ගල් ගැසීම කවුරු කලත් වැරදි වැඩක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-01-09 06:28:37</date>
+            <index>3</index>
+            <phrase>සිරිකොතේ බුදු පිලිමයටත් ගල් ගහන කාලෙක මෙය අරුමයක් නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28176</articleId>
+    <title>සගයාට පිහිපාර</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 පෙබරවාරි මස 21 19:55:30</date>
+    <body>ඉතාලියේ ජිනෝවා නුවර ශ්‍රී ලාංකිකයකු තවත් ශ්‍රී ලාංකිකයකුට පිහියෙන් ඇන තුවාල කළැයි ජිනෝවා කැරිබිනේරි පොලිසිය පවසයි. පිහි පහරින් බරපතල තත්ත්වයේ පසුවන ශ්‍රී ලාංකිකයා (35) ජිනෝවා සන්මර්තිනෝ රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළත් කරනු ලැබීය. කාලයක සිට ඔහුට රැකියාවක් නැත. සැකකාර ශ්‍රී ලාංකිකයා (28) ආපන ශාලාවක් පිරිසිදු කරන්නෙකි. ජිනෝවා පොලිසිය ඔහු අත්අඩංගුවට ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>එන්සිනා</author>
+            <date>2012-02-21 22:28:04</date>
+            <index>0</index>
+            <phrase>ඉතාලියෙත් හොද හොද වැඩ තමයි සිද්ධ වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරංගනී</author>
+            <date>2012-02-22 00:04:54</date>
+            <index>1</index>
+            <phrase>අපේ රටේ නම කන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2012-02-22 00:59:49</date>
+            <index>2</index>
+            <phrase>කැලේ මාරු උනාට පුල්ලි වෙනස් වෙන්නේ නෑ කියන කියමන ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-02-22 09:27:24</date>
+            <index>3</index>
+            <phrase>ලන්කාවෙ චන්ඩි ඉතාලියේ එමට ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-02-22 10:05:18</date>
+            <index>4</index>
+            <phrase>ලංකාවේ දැන් ඉන්නේ චන්ඩි නෙමේ අහංසකයො. චන්ඩි ඔක්කොට වෙන රටවල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

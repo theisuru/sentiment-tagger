@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>459470</articleId>
+    <title>හිටපු ගුවන් හමුදාපති එෆ්සීඅයිඩීයට</title>
+    <author></author>
+    <date>2016 සැප්තැම්බර් මස 20 13:22:44</date>
+    <body>මිග් යානා ගනුදෙනු ගැන ප්‍රකාශයක් ලබාදීමට හිටපු ගුවන් හමුදාපති එයාර් චීෆ් මාෂල් රොෂාන් ගුණතිලක අද (20) මුල්‍ය අපරාධ විමර්ශන අංශයට  පැමිණියේය.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-09-20 10:39:06</date>
+            <index>0</index>
+            <phrase>මේ මිග් ගනුදෙනුව හේතු කොටගෙන එක්තරා තරුණ මාධ්‍යවේදියෙක් ඝාතනය වුනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-20 19:55:18</date>
+            <index>1</index>
+            <phrase>මෙයට කැඳවන හැමෝම හිටපු අයනේ. ඔවු ඉතින්, ඉන්න අය සුදනොනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-09-20 23:14:07</date>
+            <index>2</index>
+            <phrase>“හොරකම් කරලා හරි යුද්ධය දිනුවනේ“ ඔන්න ඔහොමයි අපි හිතන්නේ. එ්කනේ අපි හරි දියුණු ජාතියක් කියලා කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-09-21 03:53:32</date>
+            <index>3</index>
+            <phrase>අනේ මන්දා මොනවා සිද්ධවෙනවද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

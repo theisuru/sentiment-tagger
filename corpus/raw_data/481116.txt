@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>481116</articleId>
+    <title>හස්ත කර්මාන්තය ලෝකයට : ඩිජිටල් තාක්ෂණය ගමට</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 17 14:08:41</date>
+    <body>හස්ත කර්මාන්ත නිර්මාණ ශිල්පියා  ඇතුළු රටේ දේශීය කර්මාන්ත ශිල්පියා ලෝකයට ගෙන යාමටත්  ඩිජිටල් තාක්ෂණය ගමට ගෙන යාමටත් රජය බලාපොරොත්තු වන බව අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ මහතා සාර්ක් හස්ත කර්මාන්ත ප්‍රදර්ශනයේ දී පැවසීය.
+ඉන්දියාව, නේපාලය සහ භූතානය යන රටවල් නියෝජනය කරමින් හස්ත කර්මාන්ත ශීල්පී හු ද ඔවුන්ගේ දේශීය නිර්මාණ ප්‍රදර්ශනය කළහ.
+කර්මාන්ත ඇමැති රිෂාඩ් බදියුදීන්, ජාතික ශිල්ප සභාවේ සභාපතීනි හේෂානි බෝගොල්ලාගම මෙම අවස්ථාවට එක් වුහ.</body>
+    <comments>
+        <comment>
+            <author>මාලක</author>
+            <date>2016-11-17 14:10:22</date>
+            <index>0</index>
+            <phrase>අනේ අම්මපා, මගේ හිතට එන සිතුවිලි මෙතන සඳහන් කරන්න අසීරුවීම ගැන දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-11-17 14:16:46</date>
+            <index>1</index>
+            <phrase>හස්ත කර්මාන්තය ලෝකයට : ඩිජිටල් තාක්ෂණය ගමට : බඩේ හම පිට පොත්තට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2016-11-17 16:29:07</date>
+            <index>2</index>
+            <phrase>ඩිජිටල් තාක්ෂණය ගමට ගෙනියන්න වෙන්නෙ කරත්තයෙන් තමා. එ්කත් ඉතින් ඊළග අයවැයෙන් ඒකට බදු නොගැහුවොත් තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2016-11-18 03:10:02</date>
+            <index>3</index>
+            <phrase>ලෝකයේ ඕනෑම රටක වයර් මාරුකරගෙන කතාකරන දේශපාලකයෝ හිටියත් ඩිජිටල් තාක්ෂණ යුගයේදීවත් මාරුවූ වයර් ටික හදාගන්න බැරිවුණ දේශපාලකයෝ ඉන්න එකම රට සිරි ලංකාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-18 07:23:25</date>
+            <index>4</index>
+            <phrase>දෙනවා කියපු වයි-ෆයි කෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

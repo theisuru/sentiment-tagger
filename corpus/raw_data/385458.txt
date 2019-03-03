@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>385458</articleId>
+    <title>සබරගමු සිසුන් ගිය බසය මහ අනතුරක</title>
+    <author>සමන් පාලිත නානායක්කාර ජයන්ත වික‍්‍රමාරච්චි ප්‍රසන්න පද්මසිරි</author>
+    <date>2016 පෙබරවාරි මස 14 09:17:55</date>
+    <body>බණ්ඩාරවෙල කොළතැන්නේදී කන්ටේනර රථයක් හා පෞද්ගලික බස් රථයක් ගැටීමෙන් සබරගමු සරසවි සිසුන් ඇතුලූ 22 දෙනෙක් තුවාළ ලබා බණ්ඩාරවෙල සහ දියතලාව රෝහල් වලට ඇතුළත් කරනු ලැබ සිටිති.
+කන්ටේනරයේ ගැටුණු බස් රිය මිීටර 300 ක් පමණ දුරට ඇදී ගොස් ඇතැයි කියති.
+මේ අතර කරුවලගස්වැව මාර්ග අනතුරකින්ද තිදෙනෙක් තුවාළ ලැබූහ.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-02-14 07:15:33</date>
+            <index>0</index>
+            <phrase>කලබලේ ප්‍රතිපල තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසල</author>
+            <date>2016-02-14 08:33:19</date>
+            <index>1</index>
+            <phrase>මොකද මේ වෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-02-14 08:57:38</date>
+            <index>2</index>
+            <phrase>මාර්ග නීති පිලි නොපැදීම තමයි මේ අනතුරුවලට ප්‍රදාන හේතුව. ලංකාවේ රිය අනතුරු අනෙක් රටවලට සාපේක්ෂව හරිම වැඩියි. මේවා වලක්වා ගන්න රටේ කව්රුවත් උනන්දු වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-02-14 11:29:50</date>
+            <index>3</index>
+            <phrase>රියදුරන් සිහිකල්පනාවෙන් යනවා නම් මේ මොන ප්‍රශ්නයක්වත් ඇතිවෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද ආර්</author>
+            <date>2016-02-14 14:32:37</date>
+            <index>4</index>
+            <phrase>අපේ රටේ පුද්ගල විනය ගැන කතා කරලා වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25540</articleId>
+    <title>ඇමැති දකුණු කකුලට සැත්කමක්</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2012 පෙබරවාරි මස 07 21:24:58</date>
+    <body>ඕස්ට්‍රේලියාවේ මෙල්බර්න් නුවර හෝටලයක තෙවන මහලේ සඳළුතලයෙන් බිමට වැටී තුවාල ලැබූ ජනමාධ්‍ය හා තොරතුරු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ දකුණු පාදයට ශල්‍යකර්මයක් කළ බව එහි රෝහල් ආරංචි මාර්ග කියයි.
+කොළඹ රාජකීය විදුහලේ ක්‍රිකට් කණ්ඩායමේ සාමාජිකයකු වන රමිත් රඹුක්වැල්ලගේ දණහිස්වල සැක්කමක් සඳහා ඇමැති ඕස්ට්‍රේලියාවට ගියේය. ඇමැති බිරිය ද අද ඕස්ට්‍රේලියාවට පැමිණියේය.රඹුක්වැල්ල මහතා ඉක්මණින් ශ්‍රී ලංකාවට ගෙන එනු ඇතැයි ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ නිලධයෙක් කීය.</body>
+    <comments>
+        <comment>
+            <author>ෆාසිල් මොහොමඩ්</author>
+            <date>2012-02-07 21:33:12</date>
+            <index>0</index>
+            <phrase>වැඩියෙ සෙල්ලම් දාද්දි ඔහොම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහ</author>
+            <date>2012-02-07 21:50:48</date>
+            <index>1</index>
+            <phrase>දිට්ඨ ධම්ම වේදනීය කර්ම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-02-07 22:11:52</date>
+            <index>2</index>
+            <phrase>ඔබට ඉක්මන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>illanka</author>
+            <date>2012-02-08 00:13:24</date>
+            <index>3</index>
+            <phrase>කළකම් පළ දෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-02-08 07:03:04</date>
+            <index>4</index>
+            <phrase>ඉහළට යන තරමට අස්ථාවරත්වය වැඩී..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

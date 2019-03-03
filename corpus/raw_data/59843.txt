@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59843</articleId>
+    <title>ඉන්දුනීසියාවේ සුලවේසී දුපත  භූමිකම්පාවකින් කැළැඹෙයි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  පාලූ නුවරදීය</author>
+    <date>2012 අගෝස්තු මස 20 10:03:20</date>
+    <body>ඉන්දුනීසියාවට අයත් සුලවේසී දුපත ඊයේ (19) ප‍්‍රබල භූමි කම්පාවකින් කැළැඹී ගිය අතර පුද්ගලයෝ තිදෙනෙක් ජීවිතක්ෂයට පත් වූහ. තුවාල ලැබූ ගණන 25 කි.
+භූමි කම්පාවේ ප‍්‍රබලත්වය රික්ටර් මාපකයේ ඒකක 6.3 ක් ලෙස සටහන් වී ඇතැයි ඇමෙරිකානු භූ විද්‍යා සමීක්ෂණ ආයතනය පවසයි.
+තුවාලකරුවන්ට සහ උන්හිටිතැන් අහිමි වූවන්ට කඩිනමින් ආධාර කිරීමට ඉන්දුනීසියානු රජය කටයුතු කළේය.
+භූමි කම්පාව හටගෙන ඇත්තේ සුලවේසී දුපතේ මැද කඳුකර ප‍්‍රදේශයේය. පරිජි මොවුටොන් සහ සිගී යන පළාත්වල ගම්මාන කීපයක් භූමිකම්පාවෙන් මුළුමනින්ම විනාශ වූ බව ඉන්දුනීසියානු බලධාරීහු පවසති.</body>
+    <comments>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-08-20 12:29:04</date>
+            <index>0</index>
+            <phrase>හැම මුස්ලිම් රටක්ම මොන විදියෙන් හරි කළඹනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-08-20 21:38:37</date>
+            <index>1</index>
+            <phrase>මධු, ඒක ඇත්ත තමයි. එයාලා මරන සතුන් ගණන සිතනකොට මේවා මදි වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2012-08-20 22:48:54</date>
+            <index>2</index>
+            <phrase>ඇයි දෙවියන් වහන්සේ මේ විදියට මිනිස්සුන්ට වධ දෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-20 22:59:12</date>
+            <index>3</index>
+            <phrase>මධු, ඔයා හරි බොලදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

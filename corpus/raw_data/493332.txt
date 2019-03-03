@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493332</articleId>
+    <title>කොත්තු බාස් දෙන්නා ත්‍රීරෝද රියෙන් අවසන් ගමන් යති</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 දෙසැම්බර් මස 27 10:20:44</date>
+    <body>හයිලෙවල් පාරේ මහරගමදී ත්‍රී රෝද රියක් පෙරළී පිටුපසින් ආ කාරයක හැපී ත්‍රීරෝද රියේ ගමන් ගත් කොත්තු බාස්වරුන් දෙදෙනකු මිය ගිය බවත් ඔවුන් මොණරාගල හා බදුල්ලේ පදිංචිකරුවන් බවත් පොලිසිය කියයි.
+කාරය පැදවූ බව කියන ජාත්‍යන්තර පාසල් ගුරුවරයකු සැකපිට අත්අඩංගුවට ගත් බව ද කියයි.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-12-27 05:18:53</date>
+            <index>0</index>
+            <phrase>මරුවාට තැනක් නොතැනක් නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-12-27 05:31:15</date>
+            <index>1</index>
+            <phrase>අද උදේ ඉඳන්ම අහන්න ලැබෙන්නේ මේ වගේ අනතුරු ගැනමනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-12-27 05:40:45</date>
+            <index>2</index>
+            <phrase>අපේ සමහර විදේශවල ජීවත්වෙන අය හදිසියේ මෙහෙ ඇවිල්ලා ත්‍රීවීල් වල ගිහින් ඒවා වර්ණනා කරලා ලිපිත් ලියනවා. නමුත් මේ කොළඹ වාහනයක් එළවන ඕනෑ කෙනෙකුගෙන් අහලා බලන්න මුන්නැහැලගේ කෙරුවාවල් ගැන. මෙතනත් එහෙම මොනවාහරි වෙන්න ඇති. එක්කෝ අංශක 360 ට හරවන්න ඇති. නැත්නම් කොහෙන්හරි රිංගන්න හදන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-27 08:19:00</date>
+            <index>3</index>
+            <phrase>හරිම කණගාටුදායක සිදුවීමක්. ඔබ දෙදෙනාට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්‍</author>
+            <date>2016-12-27 08:36:03</date>
+            <index>4</index>
+            <phrase>ජයාන් හරියටම හරි. ත්‍රීරෝද රියදුරන් පාරේ යන හැටි කියලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් ලියනගේ</author>
+            <date>2016-12-27 08:51:54</date>
+            <index>5</index>
+            <phrase>මේ වාහන ක්‍රමයෙන් ඉවත් කළ යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී. ජයදේව</author>
+            <date>2016-12-27 09:21:02</date>
+            <index>6</index>
+            <phrase>පාලනය කරගන්න බැරි විදිහට පාරේ ගිහිල්ලා පෙරළිලා මැරුනහම පිටිපස්සෙන් ගිය අහිංසක රියදුරෙක් තමා බොහෝවිට වැරදිකරු වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-12-27 17:16:35</date>
+            <index>7</index>
+            <phrase>දඩ මුදල නම් වැඩි කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

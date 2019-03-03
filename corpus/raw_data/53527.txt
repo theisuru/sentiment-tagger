@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53527</articleId>
+    <title>පොන්සේකාට රාගම බැසිලිකාවෙන් ආසිරි</title>
+    <author>දේවප‍්‍රිය චන්ද්‍රසිරි</author>
+    <date>2012 ජූලි මස 15 17:03:03</date>
+    <body>හිටපු යුද හමුදාපති සරත් පොන්සේකා රාගම තේ වත්තේ බැසිලිකා දේවස්ථානයට පැමිණ මීසම පාලක ප‍්‍රියා ජයමාන්න පියතුමාගෙන් ආසිරි ලබා ගත්තේය.
+තමා හිරගෙදර සිටියදී මේ දේවස්ථානයෙන් පිහිට ලැබුණු බව පොන්සේකා කීවේය. අනෝමා පොන්සේකා මහත්මියද ඔහු සමග පැමිණියාය.</body>
+    <comments>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-15 17:55:19</date>
+            <index>0</index>
+            <phrase>බුදු සරණයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-16 01:28:07</date>
+            <index>1</index>
+            <phrase>දැනට විශ්වාශයක් තියන්න පුලුවන් එකම දේශපාලඥයා ඔබයි මැතිදුනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2012-07-16 01:39:36</date>
+            <index>2</index>
+            <phrase>"අරාබි වසන්තයක්" ඇති වෙන්න ඕනි කියන්නේ අපරාධ කාරයින්ට බටහිර රටවල් ලවා ආයුධ දීලා අපේ රට විනාශ කරවනවා කියන එකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංගදාස</author>
+            <date>2012-07-16 03:49:37</date>
+            <index>3</index>
+            <phrase>ඔය අර ඉතිහාසේ විකෘති කරන බැසිලිකාවද ? අනේ, මම මේ දන්නේ නැති නිසයි අහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජුල</author>
+            <date>2012-07-16 08:37:22</date>
+            <index>4</index>
+            <phrase>ඤාණදාස මහත්තයෝ, ඔයාට මොළේ ප්‍රශ්නයක් තිබුණට ඒකට කතෝලික ආගම පළි නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරා</author>
+            <date>2012-07-16 08:04:38</date>
+            <index>5</index>
+            <phrase>මොකක්ද අනේ ඔබතුමාට හමුවුණු පිහිට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-07-16 09:08:17</date>
+            <index>6</index>
+            <phrase>කතෝලික ආගම මේ රටේ කිසිම ප්‍රශ්නයකට පලි නැහැ. අනේ ඒ ගොල්ලෝ හරිම ඩීසන් කට්ටියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාවිත</author>
+            <date>2012-07-16 09:19:17</date>
+            <index>7</index>
+            <phrase>ඔව් අපේ පල්ලිය තමයි. අංජුල මහත්තයෝ ඉතිහාසය ටිකක් කියල දෙන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2012-07-16 10:05:57</date>
+            <index>8</index>
+            <phrase>නිරෝගී සුවය ලැබී මේ උතුම් රටට සේවය කිරීමට වාසනාව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමී</author>
+            <date>2012-07-16 09:39:59</date>
+            <index>9</index>
+            <phrase>ඇයි කට්ටිය මේ ඉතිහාසය නොදන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-16 10:51:49</date>
+            <index>10</index>
+            <phrase>ඔබට සුභ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-07-16 13:00:40</date>
+            <index>11</index>
+            <phrase>මධූ, දැන් අපි විශ්වාශ කරන්න ඕනි මෙතුමා කොයි කාලේ කියාපුවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෑස්</author>
+            <date>2012-07-16 14:37:10</date>
+            <index>12</index>
+            <phrase>අනේ මන් දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-16 15:44:58</date>
+            <index>13</index>
+            <phrase>අපෙනුත් ආසිරි පිළි ගන්න‍කෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිම්හානි</author>
+            <date>2012-07-16 18:22:15</date>
+            <index>14</index>
+            <phrase>සංඝදාසට මොළේ අමාරුව වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-16 18:52:19</date>
+            <index>15</index>
+            <phrase>රෝහණ මෙතුමාට බලයට අවම වෙනසක් කරලා පෙන්නයි . ඒ නිසා ටිකක් ඉවසල ඉන්න අවස්ථාව එන කල් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-16 23:29:12</date>
+            <index>16</index>
+            <phrase>රෝහිත, අපේ ආමි කොල්ලෝ එක්ක ඔය අරාබි වසන්ත හරියන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

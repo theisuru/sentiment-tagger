@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56262</articleId>
+    <title>ඕස්ට්‍රේලියා ගමන ත්‍රි‘මලෙන් නවතී</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ජූලි මස 30 18:11:16</date>
+    <body>හොරෙන් ඕස්ට්‍රේලියා බලා යෑමට ආ 37 දෙනකු මුහුද මැදදී අත්අඩංගුවට ගෙන ත්‍රිකුණාමල නාවික ජැටියට රැගෙන අවුත් පොලිසියට බාර දුන් බව නාවික හමුදාව කියයි. පිරිමින්ගෙන් සමන්විත මෙම පිරිසේ දෙමළ ජාතිකයෝ 28 දෙනෙක් වෙති. සෙස්සෝ සිංහලයෝය. ඔවුහු ත්‍රිකුණාමලය, කුරුණෑගල, මුතුර් හා යාපනයේ පදිංචිකරුවෝය .බෝට්ටු රියැදුරාද සිංහලයෙකි.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-30 21:47:19</date>
+            <index>0</index>
+            <phrase>මම නම් කියන්නේ අල්ලන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසංග</author>
+            <date>2012-07-30 22:32:44</date>
+            <index>1</index>
+            <phrase>'බෝට්ටු රියැදුරාද සිංහලයෙකි.' බෝට්ටුවල රියදුරු ගොල්ලන් කොහෙද ඉන්නෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2012-07-30 22:55:41</date>
+            <index>2</index>
+            <phrase>ලංකාවේ ඉන්න මිනිස්සුන්ට රජයෙන් කිසිම සහනයක් නැහැ. ඵ්ක නිසා මිනිසුන් රට අත ඇරලා යනවා. එයාලට යන්න දුන්නානම් ඉවරයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-07-31 09:06:28</date>
+            <index>3</index>
+            <phrase>අපරාදේ අල්ලගත්තේ. මුහුද මෑදදි ගිල්ලුවනම් ඉවරයිනේ. ඔය වසන්ගතය විනාශ කරන්න තියෙන එකම ක්‍රමය ඒකයි (වි).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-31 09:45:49</date>
+            <index>4</index>
+            <phrase>දැන් දබදිව ලංකවෙලුනේ. ඔස්ට්‍රලියාවත් ලංකාවේ (ත්‍රීකුණාමලයේ)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිරු</author>
+            <date>2012-07-31 11:55:07</date>
+            <index>5</index>
+            <phrase>ලන්කාවට අකමැති මිනිස්සුන්ට යන්න දෙන්න ඔනෙ. රටට කැමති මිනිස්සු විතරක් ඉතුරු වෙන එක රටට යහපතක්. බොට්ටු ටික මුහුදෙ ගිල්ලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-07-31 14:52:20</date>
+            <index>6</index>
+            <phrase>ඔය කට්ටියත් පුළුවන් නම් නොඇවිත් ඉදි... රටක් දියුණු වෙන්න මේ වගේ මිනිස්සුන්ගෙන් පුලුවන්ද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-31 20:39:07</date>
+            <index>7</index>
+            <phrase>එයාලා යන්නේ ලංකාව හොද නැති නිසානම්, යන්න අරින්නනේ තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

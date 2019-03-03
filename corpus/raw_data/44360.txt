@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44360</articleId>
+    <title>ප්‍රා සභා ලේකම් අල්ලේ රතු ගා ගනී</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 මැයි මස 23 15:50:31</date>
+    <body>නාවුල බස්නැවතුම් පොළ අසල මනිබඩු වෙළෙඳ හලක් අනවසරයෙන් පවත්වාගෙන ගිය  අයකුගෙන් රුපියල් 3000ක අල්ලසක් ගත් බව කියන ප්‍රාදේශීය සභා ලේකම් ජිනේන්ද්‍ර වික්‍රමසිංහ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් රශ්මි සිංගප්පුලි මහතා ලබන හයවැනි දා තෙක් රිමාන්ඩ් කරනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-23 16:38:37</date>
+            <index>0</index>
+            <phrase>හාල් මැස්සෙක් අහුවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-05-23 17:08:39</date>
+            <index>1</index>
+            <phrase>මේ කෙනා ඉතින් වැඩේට අඵත් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් මංජුල,</author>
+            <date>2012-05-23 19:20:23</date>
+            <index>2</index>
+            <phrase>රෙද්දක් ඇදඟෙනද හිගන්නගේ පාත්තරේට බැස්සේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්‍ය හරමානිස්</author>
+            <date>2012-05-23 22:42:04</date>
+            <index>3</index>
+            <phrase>හාල්මැස්සන්ගේ වැඩ මෙහෙමනම් මෝරුන්ගේ වැඩ කොහොම ඇත්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මක</author>
+            <date>2012-05-24 12:35:03</date>
+            <index>4</index>
+            <phrase>මෙයානම් කොහොම හරි බේරෙයි.ඒකෙනුත් අන්තිමට කෙළ වෙන්නේ අර අහිංසක මනි බඩු කාරයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-05-24 12:36:21</date>
+            <index>5</index>
+            <phrase>සභාපතිලත් කරන වැඩේ ලේකම් කලාම මොකද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-05-24 12:38:16</date>
+            <index>6</index>
+            <phrase>රජිත් මහත්තයා, ඔයා ඔය ප්‍රශ්නේ ඇහුවේ ඔය වැඩේ අල්ලපු අල්ලස් නිලධාරියාගෙන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-24 13:28:16</date>
+            <index>7</index>
+            <phrase>රම්සි, ඒ ඔයා‍ගේ තේරුම් ගැනීමේ දුර්වලකම. මම හිගන්නා කිවුවේ මනි බඩු කාරයාට.අල්ලස් නිලධාරියාගෙන් ඔය ප්‍රශ්නේ අහන්න තරම් මම මෝඩයෙක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-05-24 14:58:16</date>
+            <index>8</index>
+            <phrase>ඒ හෙනහුරාම තමයි හිඟන්නගේ පාත්තරේට වැටුනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-05-24 20:08:41</date>
+            <index>9</index>
+            <phrase>රජිත්, හිත රිදුනා නම් සමා වෙන්න.ඔයාට ව්‍යංගාර්ථ තේරෙන්නේ නෑ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවි</author>
+            <date>2012-05-25 06:46:30</date>
+            <index>10</index>
+            <phrase>ලේකම්තුමාට ඉහළ පුටුවලට යන්න සුදුසුකම තියෙනවා දැන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

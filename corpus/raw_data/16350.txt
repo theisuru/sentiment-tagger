@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16350</articleId>
+    <title>පෙම් පලහිලව්ව හතරකට මරු කැඳවයි</title>
+    <author>නයනජිව බණ්ඩාර  ප‍්‍රසන්න පද්මසිරි</author>
+    <date>2011 දෙසැම්බර් මස 08 10:16:31</date>
+    <body>හම්බෙගමුව කොටවෙහෙර මංකඩ පියා මව හා දියණිය වෙඩි තබා එකතැනක මරා ඇතැයි ද, පොලිස් නිලධරයකු ද තව තැනෙක වෙඩි වැදී මැරී සිටි බව ද පොලිසිය කියයි. ඔහු වෙඩි තබාගත්තේ දැයි පොලිසිය සැකකරයි.
+පෙම් පලහිලව්වක් මේ මරණ හතරටම මුල් වී යැයි ද කියති.</body>
+    <comments>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2011-12-08 13:05:30</date>
+            <index>0</index>
+            <phrase>පව් නේද ඉතින් මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2011-12-08 14:56:34</date>
+            <index>1</index>
+            <phrase>අද වෙනකොට රටට මොකක් වෙලාද කියන දේ හිතාගන්නවත් බෑ... බුදුරජාණන් වහන්සේ වැඩි පින් බිමක දැන් මේ සිද්ද වෙන්නේ මොකක්ද.... හැමදවසකම අපිට අහන්න වෙලා තියෙන්නේ මේ වගේ දේවල් විතරක්මද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීවා</author>
+            <date>2011-12-08 14:46:13</date>
+            <index>2</index>
+            <phrase>පිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූජ්‍ය ගම්මැදගම චන්දාජා්ති හිමි</author>
+            <date>2011-12-08 16:01:54</date>
+            <index>3</index>
+            <phrase>"ප්‍රේමතෝ ජායතී ශෝකෝ" ප්‍රේමය ශෝකය උපදවයි (බුදුරජාණන්වහන්සේ)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිත</author>
+            <date>2011-12-08 17:24:33</date>
+            <index>4</index>
+            <phrase>මේවා ද්ක්කහම ආදරේ කරන්නත් බයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

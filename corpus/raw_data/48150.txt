@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48150</articleId>
+    <title>නෑ අපි ඔබ අමතක කෙළේ</title>
+    <author>සමන්ත විජේසිරි ඉතාලියේ සිට</author>
+    <date>2012 ජූනි මස 14 15:27:32</date>
+    <body>ොඋතුරු ඉතාලියේ භූමිකම්පාවෙන් අවතැන්ව කඳවුරු වල ජීවත්වන ශ්‍රී ලාංකිකයනට ආධාර ද රැගෙන පිරෙන්සි සමාධි විහාරයේ දෙඩම්දෙණියේ නන්දසිරි හිමියෝ ද, මෝදනා මෛත්‍රි  විහාරයේ මෙදේරිපිටියේ විමලරත්න හිමියෝ ද එහි ගියහ. ගැබිනි මවුවරු දෙදෙනෙක් ද එහි සිටිති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-14 16:36:50</date>
+            <index>0</index>
+            <phrase>එකතුවෙච්ච ඒවයින් සීයට කීයද දුන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-14 17:21:19</date>
+            <index>1</index>
+            <phrase>ස්තූතියි හාමුදුරුවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශා</author>
+            <date>2012-06-14 17:48:56</date>
+            <index>2</index>
+            <phrase>කෝ ලෝගුව දාන කට්ටිය? හැම දේටම හැංගෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉතාලි සුමිත්</author>
+            <date>2012-06-14 19:30:59</date>
+            <index>3</index>
+            <phrase>ගන්න ගන්න නංගිලා ඔයාලට තමයි ගෙනාවෙ, අපේ හාමුදුරුවෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

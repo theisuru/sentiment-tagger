@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486759</articleId>
+    <title>ක්ෂුද්‍ර මුල්‍ය ආයතන නියාමනය ඇරඹෙයි</title>
+    <author></author>
+    <date>2016 දෙසැම්බර් මස 02 16:04:06</date>
+    <body>මෙතෙක් නියාමනයකට භාජනය නොවු ක්ෂුද්‍ර මුල්‍ය ආයතන මේ වනවිට 2016 අංක හය දරණ ක්ෂුද්‍ර මුල්‍ය පනත මගින් නිසි නියාමනයකට යටත් කර ඇතැයි මහ බැංකුව පවසයි.
+අදාල ආයතනවල ස්ථායිතාවය  සහ පද්ධතීන් ශක්තිමත් කිරිම, අඩු ආදායම්ලාභීන්ට මුල්‍ය පහසුකම් සැලසීම වැඩි දියුණු කිරිම ඇතුළු අරමුණු රැසක් වෙනුවෙන් කටයුතු සිදු කරන බව මහ බැංකුව කියයි.</body>
+    <comments>
+        <comment>
+            <author>වික්‍රම</author>
+            <date>2016-12-04 06:44:54</date>
+            <index>0</index>
+            <phrase>අනුන්ගේ ඒවා හොයන්න කලින් තමුන්ගේ ඒවා හොයා බැලුවොත් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-12-05 01:48:50</date>
+            <index>1</index>
+            <phrase>ඉතාම වටිනා ක්‍රියාවක්. ගම් වල සිටින බොහෝ අය මෙවැනි මූල්‍ය අායතන සමඟ සම්බන්ධව සිටින බැවින් ඒවා නියාමනය කිරීම ඉතාම කාලෝචිත ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-12-05 04:28:36</date>
+            <index>2</index>
+            <phrase>ඉතාම වටින ක්‍රියාවක්. ගම්වල සිටින බොහෝ අය මෙවැනි මූල්‍ය අායතන සමඟ සම්බන්ධව සිටින බැවින් ඒවා නියාමනය කිරීම ඉතාම කාලෝචිත ක්‍රියාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

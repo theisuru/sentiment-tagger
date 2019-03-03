@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48046</articleId>
+    <title>දමන නෙල්ලිකැලේ දැවෙයි</title>
+    <author>නවරත්න සමරතුංග</author>
+    <date>2012 ජූනි මස 13 18:50:36</date>
+    <body>අම්පාරේ දමන නෙල්ලිකැලේ ගින්නකින් අක්කර 40ක් පමණ වැනැසී ඇතැයි පොලිසිය කියයි. ගින්න නිමා දැමීමට පොලිසිය ද උත්සාහ කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-06-13 19:29:01</date>
+            <index>0</index>
+            <phrase>කවුද දන්නෑ ගිනි තියල තියෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-13 22:49:29</date>
+            <index>1</index>
+            <phrase>වියළි දේශගුණික තත්වය හා කාලගුණික ස්වභාවයඅනුව මෙවැනි ස්වභාවික උපද්‍රව අධික කාලසීමක් අපි පසුකරමින් සිටිමු.ඉවසීමෙන් ක්‍රියා කරන්න අනෙකාගේ අදහස් වලට ගරු කරන්න.තෙරුවන් සරණයි ..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-06-13 22:39:13</date>
+            <index>2</index>
+            <phrase>මායා රන්ජන්ගෙ පොතක් තිබුන දිගාමඩුල්ලේ ආස්චර්යය කියල.ඕකෙ තිබුන ඔය පලාත පිලිබද විස්තර කරල. හරිම ලස්සන නවකතාව. එහි නෙල්ලි කෑලේ කියන කොටස තිබුන 6 සින්හල පොතේ.(1970 මුල් බාගයේ.)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-14 02:31:37</date>
+            <index>3</index>
+            <phrase>ප්‍රනාන්දු මහත්තයා අපිව අතීතයට ගෙනගියා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාචාර්ය සුජිත්</author>
+            <date>2012-06-14 07:21:38</date>
+            <index>4</index>
+            <phrase>ආචාර්ය කොල්ලෝ, මට ඉගුරු දාපු ප්ලේන්ටියක් හදන් වරෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-06-14 07:42:36</date>
+            <index>5</index>
+            <phrase>ප්‍රනාන්දු,ඔයා හරි.සුන්දර කතාවක්.වල් අලි,වලස්සු මැවිලා පේනවා.මේ වනය පිච්චුනු එක අපරාධයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාළ</author>
+            <date>2012-06-14 10:37:40</date>
+            <index>6</index>
+            <phrase>මේ ආචාර්යවරයාගෙන් මම එක ඉල්ලීමක් ඉතා අහිංසකව කරන්න කැමතියි. මේ ලංකාවේ ඉන්න අනෙකුත් ආචාර්ය වරුන්ට මහජනතාවගේ දැනට තියන බිඳක් තරම් වන හෝ ගරුත්වයේ ඉතිරිය කෙලෙසන්නේ නැතිව තමන්ගේ වැඩක් බලාගෙන ඉන්න. ඔබතුමාට නිවන් දකින්නම ඒ පින ඇති. කමෙන්ට් නොදා ඉන්නම බැරිනම් ... ඔය ආචාර්ය නාමය කිච නොකර වෙන බොරු බේගල් නමක් දාගන්න. මෙන්න වැන්දා.තේරුනානම් මහා පිනක්. සාධු .... සාධු ... සාධු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-06-14 11:59:13</date>
+            <index>7</index>
+            <phrase>මේ විදියට කැලේ විනාශ වුනොත් අපිට වතුර නැතිව තමයි මැරෙන්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

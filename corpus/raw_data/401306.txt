@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>401306</articleId>
+    <title>පැරිසියේ මහා පිපිරීමක්</title>
+    <author>කෞශල්‍ය සමින්ද</author>
+    <date>2016 අපේ‍්‍රල් මස 01 17:08:13</date>
+    <body>මධ්‍යම පැරිසියේ ගෑස් පිපිරුමකින් පසු වීදි කිහිපයක වැසියන් ඉවත් කළ බව පැරිස් පොලිසිය කියයි.
+මෙම පිපිරීමෙන් අඩුම තරමින් පස් දෙනෙකුවත් තුවාල වන්නට ඇතැයි පොලිසිය කියයි.
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-04-01 14:07:48</date>
+            <index>0</index>
+            <phrase>මෙය යම් මැද මහලක ගෑස් කාන්දුවීමකින් සිදුව ඇති බව දෘෂ්‍යමාන වේ. ලක්ෂම්බර්ග් උද්‍යානය, පැරිසියේ කලාව පිළිබඳ ප්‍රධානතම විශ්ව විද්‍යාලය, ප්‍රංශ ඇකඩමිය සහ සෙනෙට් සභිකයන්ගේ රැස්වීම් ශාලාව මෙයට ආසන්නව පිහිටා ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂිත පැරිසිය</author>
+            <date>2016-04-02 08:37:30</date>
+            <index>1</index>
+            <phrase>අනේ පිටිගල දන්න පැරිසිය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

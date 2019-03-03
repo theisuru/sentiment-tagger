@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50620</articleId>
+    <title>රුපියල තවත් පල්ලම් බහී</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 28 13:33:36</date>
+    <body>ශ්‍රී ලංකා මහ බැංකුවේ රට සල්ලි අනුපාතය අනුව ඇමෙරිකා ඩොලරය හා සාපේක්ෂව රුපියලේ අගය රුපියල් 136.56ක් විය.</body>
+    <comments>
+        <comment>
+            <author>ක්‍රිශාන්ත</author>
+            <date>2012-06-28 13:35:03</date>
+            <index>0</index>
+            <phrase>ආයු බෝ වේවා !!....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිශාන්ත</author>
+            <date>2012-06-28 14:15:00</date>
+            <index>1</index>
+            <phrase>හරිම දුකයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෂාන්</author>
+            <date>2012-06-28 14:15:01</date>
+            <index>2</index>
+            <phrase>සිරිලංකාව ඉවරායි...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-06-28 13:40:30</date>
+            <index>3</index>
+            <phrase>තව පාරක් දිනේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-06-28 13:41:41</date>
+            <index>4</index>
+            <phrase>රටටම වැඩ වරදී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාශිනී</author>
+            <date>2012-06-28 14:23:28</date>
+            <index>5</index>
+            <phrase>ඒ කියන්නේ ආයෙත් බඩු මිල නගීවි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාශිනී</author>
+            <date>2012-06-28 13:45:51</date>
+            <index>6</index>
+            <phrase>ඒ කියන්නේ තව ටික දවසකින් බඩු මිලත් නගිනවා කියන එකද....????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසල</author>
+            <date>2012-06-28 14:25:52</date>
+            <index>7</index>
+            <phrase>" ඈවරයි ... දෑවරයි.........තුන්........"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුවාන්</author>
+            <date>2012-06-28 13:47:38</date>
+            <index>8</index>
+            <phrase>ලෝකයේ හොදම පාර්ලිමේන්තුව අපේ ලංකාවෙ පාර්ලිමේන්තුවයි.. අපගේ ජාතියට දෙවි පිහිටයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරා</author>
+            <date>2012-06-28 13:48:18</date>
+            <index>9</index>
+            <phrase>අපිනම් ඉගෙන ගෙන තියේන හැටියට දේශීය මුදල් ඒකකවල අගය ඉහල යන්නේ රටේ ආර්ථිකය වල පල්ලට යනකොට. එහෙම වෙද්දිත් මෙයාල කියන්නෙම අපේ ආර්ථිකය මාර දියුණුයි කියලනේ. අපේ ආර්ථික වර්ධනය දැකල සිංගප්පූරුව හොල්මන් වෙලාලු. කාට කියන්නද ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-06-28 13:48:47</date>
+            <index>10</index>
+            <phrase>ඕක තමයි කියන්නේ කොළඹ මිනිස්සුන්ට බුද්ධිය නෑ කියලා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-06-28 14:31:18</date>
+            <index>11</index>
+            <phrase>ඕක තමයි හසන්ත ළමයෝ ආශ්චර්‍ය කියන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-06-28 13:52:18</date>
+            <index>12</index>
+            <phrase>අපි ආයෙත් ඡන්ද දීල මෙයාලව පත් කර ගනිමු.. ඩොලර් එක ඉහළ යනවා.. අපිට හොදයි. අපි ඉන්නෙ පිට රට.. ඔයාල මෙයාලටම ඡන්දෙ දෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලුමාටින්</author>
+            <date>2012-06-28 13:53:40</date>
+            <index>13</index>
+            <phrase>මේ රුපියලනම් ඉහල නගින එකක් නෙමෙයි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.එම්</author>
+            <date>2012-06-28 13:58:26</date>
+            <index>14</index>
+            <phrase>මෙන්න , කට්ටිය ගිහින් බලන්න 1973 සිට මේ දක්ව රුපියලට උනදේ , දුක හිතෙනව නෙද? ( http://www.federalreserve.gov/releases/h10/hist/default.htm )</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-06-28 14:40:52</date>
+            <index>15</index>
+            <phrase>ආයෙත් පත් කරමු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-06-28 14:03:18</date>
+            <index>16</index>
+            <phrase>මුළු ලෝකෙම ආශ්චර්‍ය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේම්</author>
+            <date>2012-06-28 14:45:59</date>
+            <index>17</index>
+            <phrase>රට බන්කොලොත්‍‍‍‍......ඒත් තාම පම්පෝරියනම් ඉවර නෑ‍‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-06-28 14:53:57</date>
+            <index>18</index>
+            <phrase>තව ලෝන් එකක් අරන් බලමුද ගොඩ එන්න ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් පෙරේරා</author>
+            <date>2012-06-28 14:54:29</date>
+            <index>19</index>
+            <phrase>ඇයි මෙහෙම වෙන්නේ . මේවාට වගකිවයුතු අය කවුරුද ? කෝ මේ ඇමති වරු ? මහ බැංකුවේ ලොක්කා දැන් මොකද කියන්නේ අහිංසක දුප්පත් මිනිස්සුන්ට කන්න නැතිව මැරෙන්න තමයි වෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.රෙජිනෝල්</author>
+            <date>2012-06-28 15:02:11</date>
+            <index>20</index>
+            <phrase>ආශ්චර්‍යයේ ප්‍රතිඵල‍‍‍‍.......අපට දෙවි පිහිටයි!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-06-28 14:35:54</date>
+            <index>21</index>
+            <phrase>පලාත් සභා තුනේ ඡන්දේ ඉවර වෙනකොට 150 පනී..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝහමෙඩ් රිස්වාන් සෞදි අරාබිය</author>
+            <date>2012-06-28 15:16:00</date>
+            <index>22</index>
+            <phrase>පළාත් සභා තුනේ ඡන්ද ඉවරවෙනකොට 150 පනී .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-06-28 14:37:37</date>
+            <index>23</index>
+            <phrase>අපිත් රුපියල වෙනුවට ‍ඩොලර් පාවිච්චි කරමු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-06-28 15:18:36</date>
+            <index>24</index>
+            <phrase>අපිටත් ‍ඩොලර් වලින් පඩි ගෙවන්නකෝ. දැන් ජනතාවගේ ස්ව්‍යං රැකියා මොනවද දන්නවද ??? සොරකම් කිරිම, කොල්ලකෑම....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලා</author>
+            <date>2012-06-28 14:47:02</date>
+            <index>25</index>
+            <phrase>සදාකල් දිනේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2012-06-28 15:26:48</date>
+            <index>26</index>
+            <phrase>කවදත් රුපියල තිබුණේ පහලම තමයි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිරි</author>
+            <date>2012-06-28 14:54:33</date>
+            <index>27</index>
+            <phrase>මෙන්න ඡන්දෙට පෙර ඡන්ද ප්‍රතිපලයක් ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවි</author>
+            <date>2012-06-28 15:37:25</date>
+            <index>28</index>
+            <phrase>ඕනෑම කෙනෙකුට තේරෙනවා කිසිම යුද්ධයකට වියදම් කරන්නෙ නැතිව රැපියල බාල්දුවෙන්නෙ ඇයි කියලා.. ආණ්ඩුව සුදු අලි නඩත්තු කරන්න ‍ලෝකෙට ණය වෙනවා.. මිහින් ලංකා/හම්බන්තොට වරාය/ මිරිජ්ජවිල උද්‍යානය/ සූරිය වැව ක්‍රීඩාංගනය වගේ.. තෙල් සංස්ථාවට රජයේ ආයතනවලින් ගෙවන්න තියන ණය/ විදුලිබල මණ්ඩලයට රජයේ ආයතන ගෙවන්න තියෙන ණය..සදහා භාණ්ඩාගාරයේ මුදල් යෙදවීම. රන් සංචිත විකිණීම/ මුදල් අච්චු ගැසීම අවසානයට රැපියල බාල්දු වීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-06-28 15:02:48</date>
+            <index>29</index>
+            <phrase>පිළිගනු මැන අපේ භාක්ක්ති පූජා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන් කොඩිකාර</author>
+            <date>2012-06-28 15:46:27</date>
+            <index>30</index>
+            <phrase>හුරේ..........ආශ්චර්‍යයට තව ටික දුරයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-06-28 15:47:08</date>
+            <index>31</index>
+            <phrase>මල් අයියා මාව දන්නෙ නැතිව ඇති.. මට මතකයි අයියට තරහ ගිහිං එක සැරයක් මහ හයියෙන් කෑ ගැහුවා 115 වෙනවා කියලා.. ැදන් මොනවා ද කියන්නෙ දන්නෙ නැහ කියන්නෙ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-28 15:48:33</date>
+            <index>32</index>
+            <phrase>මෙන්න තවත් පලාත්සභා ඡන්ද ප්‍රථීඵලයක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුශාන්</author>
+            <date>2012-06-28 15:12:22</date>
+            <index>33</index>
+            <phrase>හරිම හොඳයි. තවත් වැඩි වේවා. මම ඉන්ටර්නෙට් එකෙන් පිටරට ප්‍රොජෙක්ට් අරන් කරන නිසා එන්න එන්නම මට වාසියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී ඩී\ එම් එස්</author>
+            <date>2012-06-28 16:07:09</date>
+            <index>34</index>
+            <phrase>ඇයි කලින් මහ බැංකුවේ ලොක්කෝ ටිකක් කියල තිබුනේ ඩොලරය, රුපියල් 125 ට ඉදිරියේදී ස්ථාවර වෙනවා කියල, කෝ දන් නැහැ එහෙම කියපු කේවට්ටයෝ ටික..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-28 15:32:10</date>
+            <index>35</index>
+            <phrase>පල්ලම් බැහැගෙන බැහැගෙන යනවිදියට ගියොත් රටත් පල්ලමටම වැටෙනවා.. අයියෝ සල්ලි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-28 15:37:53</date>
+            <index>36</index>
+            <phrase>ආ දුශාන් ඔයා ඉන්ටර්නෙට් එකෙන් පිටරට ප්‍රොජෙක්ට් ගන්නවද ?....යන්ටනෙට් එකෙත් ලොකු ලොකු ප්‍රොජෙක්ට්ස් තියනවා ..අරගෙන බලන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසන් සලාම් - දෝහා</author>
+            <date>2012-06-28 16:28:43</date>
+            <index>37</index>
+            <phrase>අපට පුතේ මගක් නැතේ.....හිත තිබුණත් සතුට නැතේ.....දින්නෝතින් හෙට ඡන්දේ.....වදිනු ඇතේ හතේ හතේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිසාර්</author>
+            <date>2012-06-28 16:28:45</date>
+            <index>38</index>
+            <phrase>අද මධ්‍යම රාත්‍රියට පෙර බඩු මිල වැඩි වේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්කල්</author>
+            <date>2012-06-28 16:37:55</date>
+            <index>39</index>
+            <phrase>ලෝක වෙළද පොලේ තෙල් මිල බැහැලා ? ඒ නිසා ආණ්ඩුවට බනින්න එපා ? ඒකයි රුපියල අඩු කියල අමත්වරු ටික කියවාවි දැන් ?????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබූතහිර් ඩුබායි සිට</author>
+            <date>2012-06-28 16:43:04</date>
+            <index>40</index>
+            <phrase>ඒක ඇත්ත ලංකාව දැන් යන්නේ පස්සට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩි පුතා</author>
+            <date>2012-06-28 16:51:45</date>
+            <index>41</index>
+            <phrase>ආසියාවේ ආශ්චර්‍ය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2012-06-28 16:51:46</date>
+            <index>42</index>
+            <phrase>ෂා නියමයි !අපි පිට රට වැඩකරන නිසා අපිට වාසියි‍‍ . හරියට අපිට පඩි වැඩිවීමක් වුණා වගේ .ජය වේවා ! 250 විතර වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-06-28 16:24:27</date>
+            <index>43</index>
+            <phrase>ආයෙත් ඡන්දය දීල මේයාලවම පත් කර ගනිමු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ මීගහපොල</author>
+            <date>2012-06-28 17:07:36</date>
+            <index>44</index>
+            <phrase>වැඩේනම් රටට අහිතනරයි තමයි. ඒත් අපි පිටරට ඉන්න නිසා අපිට හොදයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවි</author>
+            <date>2012-06-28 17:10:17</date>
+            <index>45</index>
+            <phrase>ලොක්කෝ ටිකනම් ඔය ඉන්නේ ෂෝක් එකට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-06-28 17:11:49</date>
+            <index>46</index>
+            <phrase>හරි ෂෝක් අනේ.තව රුපියල යට යන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාර් පුතා</author>
+            <date>2012-06-28 17:15:11</date>
+            <index>47</index>
+            <phrase>කෝ අර 125 ඉස්තාවර වෙනව කිව්ව කෙනා..මහ බැන්කුවෙ ‍ලොක්කල කෝ. අපිට දෙවි පිහිට තමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-06-28 16:37:15</date>
+            <index>48</index>
+            <phrase>ආර්ථිකය සංවර්ධනය කරන්න. ආසියාවේ ආශ්චර්යට යන්න....... කර්මාන්ත නැතිව කොහොමද රටක් දියුණු වෙන්නේ. ... ලෝකේට ණය වෙලා ආශ්චර්ය ට යන්න පුලුවන්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-06-28 17:19:18</date>
+            <index>49</index>
+            <phrase>පිටරට ඉන්න අය රුපියල බාල්දු වෙද්දි හොදයි කිවුවට කවදාහරි ලංකාවට ගිය දාක තමයි තේරෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජොලි කොල්ලා</author>
+            <date>2012-06-28 16:46:45</date>
+            <index>50</index>
+            <phrase>තව දුරටත් පාවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එටකිච්ච</author>
+            <date>2012-06-28 16:47:39</date>
+            <index>51</index>
+            <phrase>'රුපියල තවත් පල්ලම් බහී' රුපියලට එදත් සත සීයයයි , අදත් සත සීයයයි. මී ප්‍රචාර ජාතියන්තර කුමන්ත්‍රණ . අපි අහුවෙයි ඕවට .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෝනි</author>
+            <date>2012-06-28 16:48:49</date>
+            <index>52</index>
+            <phrase>රට දියුණු වෙනවද? ආපස්සට යනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-06-28 16:57:11</date>
+            <index>53</index>
+            <phrase>ඡන්දේ දීපු අයට හොදම වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලී</author>
+            <date>2012-06-28 17:00:01</date>
+            <index>54</index>
+            <phrase>රට ඉන්න හැමෝටම මේක හොද වෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-28 17:02:07</date>
+            <index>55</index>
+            <phrase>රටේ මිනිස්සුන්ගේ ජීවිතත් හරියට රුපියල වගේ.කවදාවත් ඉහළ නගින්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-06-28 17:04:11</date>
+            <index>56</index>
+            <phrase>ඩොලරය වැඩි උණාට කමක් නෑ.අපි මේක ලෝකෙටම කියමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුණ</author>
+            <date>2012-06-28 17:08:02</date>
+            <index>57</index>
+            <phrase>මම වැඩ කරන්නෙ ලංකාවෙ වුනාට පඩි ගෙවන්නෙ ඩොලර් වලින්. ඒ අතින් නම් සතුටුයි. නමුත් මෙහෙම පල්ලම් බහිනව කියන්නෙ රටේ ආර්ථිකව වලපල්ලට යනවයි කියන එක නේද? මම දන්න හැටියට රුපියල අවප්‍රමාණ වීම ඔය කියන තරම් භාණ්ඩ අපනයන වලට වාසියක් වෙන්නෑ. හැබැයි සේවා අංශයෙන් නම් වෙනදාට වඩා වැඩි මුදලක් හොයාගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයන බණ්ඩාර</author>
+            <date>2012-06-28 17:47:34</date>
+            <index>58</index>
+            <phrase>හූ... මම ඉතාලි ජොබ් කරන එක හොදයි.. ණය ගෙවන්න පහසුයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-06-28 17:50:32</date>
+            <index>59</index>
+            <phrase>ලෝකයේ ලොකුම ඇමති මඩුල්ල නඩත්තු කරනකොට ඔහොම තමයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-06-28 17:14:33</date>
+            <index>60</index>
+            <phrase>අනාගතේ හුගක් භයානක වෙන පාටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>aaa</author>
+            <date>2012-06-28 17:15:00</date>
+            <index>61</index>
+            <phrase>රුපියල පාලනය කරන්න ඕනි තැනදි ඒක පා කෙරුවොත් මෙහෙම තමයි වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෙයියන්ගේ මල්ලි</author>
+            <date>2012-06-28 17:23:17</date>
+            <index>62</index>
+            <phrase>රුපියල මෙච්චරටම බාල්දු එකක්නම් ඇයි දෙයියනේ අපි සල්ලි හොයන්න මෙච්චර උදේ ඉදන් රෑ වෙනකල් දුක් විදින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික ෆනැන්ඩෝ</author>
+            <date>2012-06-28 18:05:33</date>
+            <index>63</index>
+            <phrase>කෝ මේ අපේ මහා බැංකුවේ ලොක්කා . අපේ රටට දෙවි පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-06-28 17:32:01</date>
+            <index>64</index>
+            <phrase>මෙහෙම පල්ලම් බැහැල , බහින්න තැනක් තියෙනවද ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසද</author>
+            <date>2012-06-28 18:17:34</date>
+            <index>65</index>
+            <phrase>රුපියල ස්ථාවරව පවත්වා ගැනීමට ඉදිරි ක්‍රියාමාර්ග තිබේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම් .සිරා</author>
+            <date>2012-06-28 18:18:42</date>
+            <index>66</index>
+            <phrase>ශ්‍රී ලංකාව තවත් සොමලියාවක් කරන්න තමා ඔය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපියල</author>
+            <date>2012-06-28 18:28:33</date>
+            <index>67</index>
+            <phrase>වැඩිපුර ම කලබල ෙවලා තිෙයන්ෙන පිටරට ඉන්න අය නෙ!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් පෙරේරා - ෆ්‍රාන්ස්</author>
+            <date>2012-06-28 18:01:28</date>
+            <index>68</index>
+            <phrase>පිටරට ඉන්න සමහර අය කියනවා අනේ අපිට නන් හොදයි කියල නමුත් ඔය කියන අය නිවාඩුවට ලංකාවට ගියහම තේරෙයි බඩු වල ගනන් මිමි එකට එකක් බඩු ගනන් අපිත් රැකියාව කරන් නේ පිටරට සෑම අවුරුදු දෙකකට අපි නවාඩුවට ලංකාවට එනවා ගිය අවුරුදේ ලක්‍ෂ 5 ක් ගෙනාවනන් තව අවුරුදු 2න් ලක්‍ෂ 10 කුත් මදි නේද ? ඉතිං මේ අය කියන වාසිය මොකක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිත</author>
+            <date>2012-06-28 18:58:20</date>
+            <index>69</index>
+            <phrase>දෙස පාලුවෝ රට කනවා .................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෆ්නස්</author>
+            <date>2012-06-28 19:08:48</date>
+            <index>70</index>
+            <phrase>ජය වේවා .............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-06-28 19:16:01</date>
+            <index>71</index>
+            <phrase>ජයවේවා!! කබ්රාල් අපට අපි කබ්රාල්ට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජලී</author>
+            <date>2012-06-28 18:41:41</date>
+            <index>72</index>
+            <phrase>පිටරට ඉන්න අයට නම් හොදයි.ඒත අපේ රටේ අය පවු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-06-28 19:09:36</date>
+            <index>73</index>
+            <phrase>පිටරට ඉන්න අපිටනම් භොදයි. ගත්ත ණය ගෙවන්න. ඒත් යු.එන්.පි සභ විරුද්ධ පාක්ෂිකයෝ ගැන තමයි දුක...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-28 19:54:18</date>
+            <index>74</index>
+            <phrase>මට පක්ෂ පාටක් නැත.කිසිදු දේශපාලන පක්ෂයකට අයත් නැත.දැනට යුද්ධයක් නොමැති නිසා අඩුම තරමින් ටිකක් හරි මිනිස්සු ගැන හිතලා බඩු මිල අඩු කරන්න බැරි ඇයි.බඩු මිල අඩු කරන්න බැරි නම් මිල ස්ථාවරව හරි පවත්වා ගෙන යන්න කටයුතු කරන්න බැරි ඇයි.මෙරට සෑම භාණ්ඩයකටම හා සේවාවකටම අධික වශයෙන් බදු අය කරනවා.ඒ නිසා එහි මිළ තීරණය කිරීමේදී සෘජු හා වක්‍ර බදු වශයෙන් රජයට අතිවිශාල මහජන මුදල් කන්දරාවක් ලැබෙනවා.දිනෙන් දින සාමාන්‍ය මිනිස් ජීවිතය පහළට යනවා.රජය බදු වශයෙන් ලබාගන්න මේ විශාල ධනස්කන්ධයට මොකද වෙන්නේ.සෑම වසරකම සුභ සාධනය සඳහා මෙන්ම අධ්‍යාපනය සඳහා රජය දරණ වියදම අඩු කරන විදිහට තමයි අයවැයි සැලසුම් පිලියෙල කරලා තියෙන්නේ.රජය මහජනතාවට සුභ සාධක වැඩපිලියෙලවල් යොදා නැතිනම් රජයේ මුදල් වියදම්වන හේතුවක් ඇතිනේ.එය මහජනතාවට හෙළී කරන්න.හැමදාම වගේ ජනතාව අයවැයක් එනතුරු බලාඉදලා පසුව හූල්ල හූල්ල ඉදලා පහුවෙනිදා ඡන්දයක් තිබ්බොත් ආයමත් රජයටම කතිරේ ගහන්න පුරුදු වෙලා ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-06-28 19:58:07</date>
+            <index>75</index>
+            <phrase>සුභම සුභ අනාගතයක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-06-28 19:19:11</date>
+            <index>76</index>
+            <phrase>ජේ ආර් ගේ වැඩ තම යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-06-28 20:09:23</date>
+            <index>77</index>
+            <phrase>මිනිසුන්ට තව ඉස්සරහට යන එන මන් නැතිවෙනවා මෙහම ගියොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසේකර</author>
+            <date>2012-06-28 19:33:00</date>
+            <index>78</index>
+            <phrase>බය වෙන්න එපා.ජනතාව කවදාවත් බඩගින්නේ තියන්නේ නෑ.අපි ඔබට නොමිළයේ පුන්නක්කු, රට තණකොළ නොමිලයේ ලබා දෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති-Dubai</author>
+            <date>2012-06-28 20:01:17</date>
+            <index>79</index>
+            <phrase>අපේ ගෙදර ආරක්ෂාවට සිටි බල්ලෝ ගණන මම දෙකේ සිට හතර දක්වා වැඩි කළා.මොකද දැන් රට සීඝ්‍රයෙන් දියුණු වේගෙනයි යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-06-28 21:25:01</date>
+            <index>80</index>
+            <phrase>සිංහලයා මෝඩයා කවුන් කන්න දක්ෂය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2012-06-28 21:42:42</date>
+            <index>81</index>
+            <phrase>මේකත් එක්තරා ආශ්චර්යයක් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-06-28 21:42:53</date>
+            <index>82</index>
+            <phrase>රට පෙරට ........... ආසියාවේ නෙවෙයි ලෝකයේ ආශ්චර්ය ...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩුබායි මල්ලී</author>
+            <date>2012-06-28 22:00:27</date>
+            <index>83</index>
+            <phrase>අපිට හොඳයි මෙහේ ඉන්නකම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්</author>
+            <date>2012-06-28 22:32:47</date>
+            <index>84</index>
+            <phrase>මම ඉන්නේ රට.ඒ නිසා රටට මොනවා උනත් මට කමක් නෑ.මම එහෙම හිතුවම මොකෝ, ඇයි ඉතිං රටේ ලොකු ලොක්කොත් රට ගැන හිතන්නේ එහෙමමනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ් තිලකරත්න</author>
+            <date>2012-06-28 22:02:41</date>
+            <index>85</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-06-28 22:02:42</date>
+            <index>86</index>
+            <phrase>සුපර්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-28 22:17:37</date>
+            <index>87</index>
+            <phrase>අපේ ජනාධිපතිතුමා ඒකට මොනවා හරි කරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩොලරය</author>
+            <date>2012-06-28 22:28:48</date>
+            <index>88</index>
+            <phrase>රුපියල අහන්නේ මම කියන දේ විතරයි.මමත් වැටිලා හිටියා කාලයක්.ඒත් දැන්නම් ගොඩම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙලනේරිස් ගොයියා</author>
+            <date>2012-06-28 23:13:39</date>
+            <index>89</index>
+            <phrase>මේ රුපියල අයෙත් පහල එන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-06-28 22:52:30</date>
+            <index>90</index>
+            <phrase>තවත් බඩු මිළ ඉහළ ගියොත් අපි මොනවද කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී .රත්නායක</author>
+            <date>2012-06-28 23:30:13</date>
+            <index>91</index>
+            <phrase>තෙල් ගන්නකම් 150 දක්වා නගිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-06-28 23:36:21</date>
+            <index>92</index>
+            <phrase>ඩොලරය වැඩිවීම සමානුපාතිකයි රැපියල අඩුවීම‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත</author>
+            <date>2012-06-28 23:36:43</date>
+            <index>93</index>
+            <phrase>ජයසුන්ද මහත්තයෝ දැන් ඩොලර් එක 136 කෝ 125 පහුවෙලා මාස ගානක් ගිහිල්ලනෙ... ඔයාලගෙ සංකල්ප හොදයි. ඔයාලටම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් මධුසංක</author>
+            <date>2012-06-29 00:16:29</date>
+            <index>94</index>
+            <phrase>මහ බැංකු වාර්තා අනුව ඩොලරයේ අගය උපරිමය 125 කියල කිව්වා. අපි කො‍හොමද මහ බැංකුව විශ්වාස කරන්නෙ.. ආචාර්ය ජයසුන්දර කිව්වා මාසයක් ඇතුළත 125 ට අඩුවෙනා කියලා නමුත් දැන් 136 වෙලා මොන විහිළුවක්ද මේක..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-06-28 23:37:36</date>
+            <index>95</index>
+            <phrase>125 ස්ථාවර වෙනවා කිව්ව රැපියල දැන් 136 අපි කොහොමද මහ බැංකුව විශ්වාස කරන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-29 03:11:04</date>
+            <index>96</index>
+            <phrase>කට්ටියට ස්වේතාම්බර පට සළු අන්දවලයි තියෙන්නේ‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හූනා</author>
+            <date>2012-06-29 03:36:06</date>
+            <index>97</index>
+            <phrase>දැන් හැමෝටම තේරෙනවා අර රැපියල 125ට ස්ථිර වෙනවා කියපු කෙනා තමන් දරණ තනතුරට සුදුසු කෙනෙක් නොවන බව.. එතුමා ගෙදර හිගිං තමන්ගෙ වැඩක් බලාගත්ත නම් හොදයි‍‍‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-06-29 08:02:23</date>
+            <index>98</index>
+            <phrase>සුජිත් නිශාන්ත, බදු මිල අඩු කරන්නේ කොහොමද රුපියල් අගය පහල බහින කොට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-06-29 08:37:50</date>
+            <index>99</index>
+            <phrase>විදෙස් අධයාපනේ නිරත වෙන අපිට දෙමාපියන් ගැන දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්මල්</author>
+            <date>2012-06-29 09:18:00</date>
+            <index>100</index>
+            <phrase>125ට වඩා වැඩිවෙන්නේ නෑ කිව්ව නේද ??? කෝ ඒ කිව් කෙනා දැන් හැන්ගිලාද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වී . ජේ</author>
+            <date>2012-06-29 09:27:44</date>
+            <index>101</index>
+            <phrase>අවංකවම ඇඩෙනවා.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්සි</author>
+            <date>2012-06-29 10:01:17</date>
+            <index>102</index>
+            <phrase>අනේ අපිත් යමුකෝ අනේ පාර්ලිමේන්තුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-29 10:22:39</date>
+            <index>103</index>
+            <phrase>උපයන ප්‍රමාණයට වඩා රජයේ වියදම වැඩයි.. ‍දේශපාලකයින් නඩත්තුවටම කොපමණ මුදලක් යනවාද? මේ ක්‍රමය රටට ඔරොත්තු දෙන්නෙ නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-29 11:06:09</date>
+            <index>104</index>
+            <phrase>මේකට ස්ථිර විසදුමක් වශයෙන් අපි රුපියලේ නම වෙනස් කරමුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වේලුසුමන</author>
+            <date>2012-06-29 10:35:08</date>
+            <index>105</index>
+            <phrase>එක පාරටම 200කට විතර බැස්සුවනම් ටිකක් විතර ඉස්සරහට පාලනය කරන්න පුලුවන් වෙයි.සුභ අනාගතයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක පෙරේරා</author>
+            <date>2012-06-29 11:18:50</date>
+            <index>106</index>
+            <phrase>ආසියාවේ ආශ්චර්‍ය.....ආයු‍බෝ වේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බඹරා</author>
+            <date>2012-06-29 14:43:11</date>
+            <index>107</index>
+            <phrase>ඩොලර් එකට රු.135 ක් කියන්නේ අපි 135 ක් අපි ඩොලර් එකට වඩා වැඩියි නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-06-30 12:32:40</date>
+            <index>108</index>
+            <phrase>ඉවරා.....යි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

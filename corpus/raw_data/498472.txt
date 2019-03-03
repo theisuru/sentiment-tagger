@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498472</articleId>
+    <title>සරත් කුමාර ගුණරත්න යළි රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2017 ජනවාරි මස 13 10:56:17</date>
+    <body>මීගමුව කලපු සංවර්ධනයට යෙදවු මුදල් අවභාවිතා කළැයි සැකපිට රිමාන්ඩ් භාරයේ සිටින හිටපු ධීවර නියෝජ්‍ය ඇමැති සරත් කුමාර ගුණරත්න මහතා ලබන 20 වැනිදා තෙක් යළි රිමාන්ඩ් කරන ලෙස කොළඹ අතිරේක මහේස්ත්‍රාත් බුද්ධික ශ්‍රී රාගල මහතා අද නියෝග කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාර පමුණුව</author>
+            <date>2017-01-13 10:09:53</date>
+            <index>0</index>
+            <phrase>මේ සරත් ගුණවර්දන පසුගිය රජය කළේ තමන්ගේ මඩිය තරකර ගෙනිමත් , පවුලේ සහ යහළුවන්ගේ මඩිය තරකරපු එක පමණයි , පරම්පරා ගණනකවට හම්බ කර ගත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-01-13 12:32:55</date>
+            <index>1</index>
+            <phrase>හැමදාම එකම දෙයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙහාරා</author>
+            <date>2017-01-14 01:00:13</date>
+            <index>2</index>
+            <phrase>කුමාර කියන කතාව ඇත්ත නම් මහජන මුදල් ගසාකාපු ඔවුන්ට ස්වභාව ධර්මයෙන් දඬුවම් ලැබෙන්නම ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

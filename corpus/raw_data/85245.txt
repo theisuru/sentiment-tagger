@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>85245</articleId>
+    <title>මීගහකිවුලටත් උඩින් කෑල්ලක් වැටිලා</title>
+    <author>නිෂාන්ත කුමාර</author>
+    <date>2012 දෙසැම්බර් මස 16 10:04:50</date>
+    <body>මීගහවුල ඇතුරු ඇළ ගෙවත්තකට කිලෝවක් පමණ බරැති දිලිසෙන ආකාශ වස්තුවක් වැටී ඇතැයි ගෙහිමියා කියයි.
+සෙනසුරාදා ඔහු මෙම පාෂානය වැනි වස්තුව දැක ඇත.
+කලු සහ දුඹුරු පැහැයට හුරු එම වස්තුව ඉබ්බකුගේ පිට වැනි යැයි ගෙහිමියා පවසයි.
+එම නිවසට පොලිස් ආරක්ෂාව යෙදූ කණ්ද කැටිය පොලිස් ස්ථානාධිපති ඩී එම් ජයතිලක මහතා ආකෂ වස්තුව ගැන මොරටුවේ ආතර් සී ක්ලාක් මධ්‍යස්ථානයට ද දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>නිපුණ</author>
+            <date>2012-12-16 10:16:21</date>
+            <index>0</index>
+            <phrase>මෙහෙම ගියොත් කාගෙහරි ඔළුවකට ඔයින් ආකාෂ වස්තුවක් වැටේවිද දන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීතා</author>
+            <date>2012-12-16 10:37:23</date>
+            <index>1</index>
+            <phrase>මෝඩ මිනිස්සු ඕක අල්ලන්න එපා. පත්තරේ මුණ දාගන්න ඕන වැඩක් කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-12-16 10:46:12</date>
+            <index>2</index>
+            <phrase>සෞඛ්‍ය අංශ වලින් හැම මාධ්‍යයකින්ම කට කැඩෙනකල් කිවුවා මෙහෙම දෙයක් දැක්කොත් අල්ලන්න එපා කියලා. සිංහලයාගේ වඳුරු ගතිය කොච්චර කිවුවත් අරින්න බෑනේ . පේනවද අල්ලන් ඉන්න උජාරුව. යුරේනියම් තෝරියම් වැනි දෙයක් අන්තර්ගත උල්කාෂ්මයක් වුනොත් මේ වෙනකොට වෙන්න ඕන දේ වෙලා ඉවරයි. ඊළඟට දොස්තරලට බනින්න පටන් ගනීවි හොඳ කලේ නැහැ කියලා. අනෙක අපේ දහදිය වත් ගැවුනාට පසු ඔකේ ඩී එන් ඒ පරීක්ෂණ වත් මොනවත් කරන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2012-12-16 10:51:14</date>
+            <index>3</index>
+            <phrase>මේවා අල්ලන්න එපා කියල නේද කිව්වේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-12-16 10:56:30</date>
+            <index>4</index>
+            <phrase>අල්ලන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලිනි</author>
+            <date>2012-12-16 11:11:12</date>
+            <index>5</index>
+            <phrase>ඔව් හරිම මොඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-12-16 11:15:03</date>
+            <index>6</index>
+            <phrase>මාධ්‍ය කොච්චර කෑගැහුවද? අපේ මිනිස්සුන්ට නැහැනේ වගේ වගක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-16 11:20:44</date>
+            <index>7</index>
+            <phrase>සුප්රීම් සැට් එක යවපු නිසා ඒලියන්ස්ලා කලබල වෙලා හැඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-12-16 11:56:49</date>
+            <index>8</index>
+            <phrase>ඉන්ද්‍රජිත් හරියටම හරි. පිළිකා හදා ගන්න ඕනේ නම් අල්ලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-12-16 12:02:39</date>
+            <index>9</index>
+            <phrase>මම මේ මාතෘකාවට හරිම ආසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව වාසිත</author>
+            <date>2012-12-16 12:14:00</date>
+            <index>10</index>
+            <phrase>අල්ලන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-12-16 12:29:59</date>
+            <index>11</index>
+            <phrase>පිටසක්වල යානයකින් වැටිලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-12-16 12:31:08</date>
+            <index>12</index>
+            <phrase>හැබෑට මොකද්ද මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-12-16 12:42:18</date>
+            <index>13</index>
+            <phrase>හරියට මේ අය උල්කා කෑල්ල කඩාගෙන ඇවිත් වගේ පෙන්නන්නේ. ටීවී එකේ පණ යනකල් කිවුවා ඒ වගේ දේවල් දැක්කොත් අල්ලන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්-ඉතාලිය</author>
+            <date>2012-12-16 13:18:02</date>
+            <index>14</index>
+            <phrase>මාහට ඉස්සරින් අදහස් දක්වා ඇති සියළු දෙනා වැදගත් අදහස් දක්වා තියනවා. ජනමාධ්‍ය වලින් දැනුවත් කළාට මේ අයට ඒ බව ඇහිලා දැකලා නැතිව ඇති. අර පැය දෙකක් පුරාවට ඉහළ අහසේ යානයක එළියක් දැක්ක වෙලේ පොලීසියෙන් ඇවිත් මිනිසුන් හැසඅරුවත් ජනතාව උඩ බලබලා ඉදලා තියෙනවා. එතකොට එහෙම දෙයක් දැක්කොත් මොකද කරන්න ඕනෑ කියලා මහජනතාව දැනුවත් කරලාද තිබුනේ. දැන් රට පුරා එළි දකිනව දකින වෙලවට කියන්න කෙනක් ඉන්නවද? දැන්වත් ජනතාව දැනුවත් කරල ද තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරසිංහ</author>
+            <date>2012-12-16 13:20:25</date>
+            <index>15</index>
+            <phrase>මිනිසුනේ, ඕවා අල්ලන්න එපා කියලා මොන භාෂාවෙන් කිවුවොද්ද තේරෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපොන්සු</author>
+            <date>2012-12-16 13:24:46</date>
+            <index>16</index>
+            <phrase>"මේක පොඩ්ඩක් අල්ලගන්න" කියලා කවුරුහරි කිවුවද දන්නෙ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-12-16 13:44:08</date>
+            <index>17</index>
+            <phrase>සමහරවිට අනිත් ග්‍රහ ලෝකවල ඉන්න ජීවීන්ගේ මළපහ ගල්වෙලා පෘතුවියට වැටෙනවාද දන්නෙ නැහැ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉර්ෆාන් ධර්මා</author>
+            <date>2012-12-16 14:07:22</date>
+            <index>18</index>
+            <phrase>මේක ෆොටෝ ගන්න ගිය අයට හරි මේ මිනිසුන්ව දැනුවත් කරන්න තිබුණනේ අල්ලන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-12-16 14:25:54</date>
+            <index>19</index>
+            <phrase>පේනවා නේද මෝඩකමක තරම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-12-16 14:40:19</date>
+            <index>20</index>
+            <phrase>ඕක සමහරවිට අගහරු ලෝකේ කුරුමිට්ටන්ගේ අසුචි කෑල්ලක්ද දන්නෙ නැහැ. කොයිකටත් ගද සුවද බැලුවා නම් දැනගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-12-16 14:53:08</date>
+            <index>21</index>
+            <phrase>දැන් කාලේ නම් හෙල්මට් දාගෙනම ඉන්න ඕනෑ. මෙයින් කෑල්ලක් වැටුණොත් ඔලුවට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2012-12-16 16:39:39</date>
+            <index>22</index>
+            <phrase>මෝඩකම තමයි. ප්‍රවෘත්තිවත් අහන්නෙ නැතුව ඇති. මේ අයට තේරෙන්න ටෙලිනාට්‍යයකින්ම කියන්න වෙයි. බලන්නෙ ඒවා විතරනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-16 17:14:42</date>
+            <index>23</index>
+            <phrase>මීගහකිවුලේ ඉන්නේ අහිංසක දුප්පත් අවංක මිනිස්සු. ඕක අතින් ඇල්ලුවා කියලා ඒ මිනිස්සුන්ට මොකවත් වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-12-16 18:14:34</date>
+            <index>24</index>
+            <phrase>සමහරවිට ඔවුන් මාධ්‍ය භාවිතයෙන් ඈත්වූවන් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්නි</author>
+            <date>2012-12-16 19:14:27</date>
+            <index>25</index>
+            <phrase>ඇත්තටම ඔයවගේ පොඩි කැල්ලක් ඔලුවකට වැටුනොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-12-16 20:52:46</date>
+            <index>26</index>
+            <phrase>සෞඛ්‍ය අංශ වලින් සහ හැම මාධ්‍යයකින්ම කට කැඩෙනකල් කිවුවා මෙහෙම දෙයක් දැක්කොත් අල්ලන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2012-12-16 21:05:13</date>
+            <index>27</index>
+            <phrase>ඕක අල්ලන්නම ඕනෑ නම් මොකක්හරි අඩුවකින් අල්ලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහසෙන්</author>
+            <date>2012-12-16 21:45:15</date>
+            <index>28</index>
+            <phrase>අල්ලනකොට හරි සතුටු ඇති. ඒකනේ එපා කියද්දිත් අල්ලන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-12-16 22:05:11</date>
+            <index>29</index>
+            <phrase>නන්දේ, ඕක ලුණූ රසද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-12-16 22:37:03</date>
+            <index>30</index>
+            <phrase>ඇල්ලුවට හපන්න බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩොන්</author>
+            <date>2012-12-16 22:38:11</date>
+            <index>31</index>
+            <phrase>මේක යානාවක කොටසක් වෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රැජි</author>
+            <date>2012-12-16 22:46:09</date>
+            <index>32</index>
+            <phrase>මේවා දැක්කහම බයත් හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පා</author>
+            <date>2012-12-16 22:46:13</date>
+            <index>33</index>
+            <phrase>බැලුවට කමක් නැහැ ඕව අල්ලන්න යන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකද</author>
+            <date>2012-12-16 23:53:11</date>
+            <index>34</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුලස්ති</author>
+            <date>2012-12-17 03:39:42</date>
+            <index>35</index>
+            <phrase>සොයා බලන්න මොකද්ද මේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුලි</author>
+            <date>2012-12-17 08:20:45</date>
+            <index>36</index>
+            <phrase>ඇල්ලුවට කමක් නැහැ. ඕක කන්න යන්නවත් නැත්නම් ඕකෙන් ‍හොද්දක් හදන්නවත් යන්න එහෙම එපා ඔන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂිෆ්රාන්</author>
+            <date>2012-12-17 08:56:19</date>
+            <index>37</index>
+            <phrase>ගල් බනිස් කෑල්ලක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-12-17 09:30:55</date>
+            <index>38</index>
+            <phrase>අල්ලන් එපා කිවුවට හරියන්නේ නැහැ. එහෙම කියන්න හේතුවත් පැහැදිලි කරලා කිවුවා නම් නොඅල්ලා හිටීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-12-17 09:57:46</date>
+            <index>39</index>
+            <phrase>අල්ලන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-12-17 11:42:05</date>
+            <index>40</index>
+            <phrase>අනේ දෙවියනේ! ජීවත් වෙන්නෙත් බොහොම අමාරුවෙන් මේ රටේ.....ඒ මදිවට ගලුත් උඩින් පාත් වෙනවා පොඩි මිනිස්සුන්ගේ ඉහට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-12-17 14:01:56</date>
+            <index>41</index>
+            <phrase>බලනවා පමණයි. අල්ලන්නේ නැහැ. හා හා හා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-12-17 15:04:12</date>
+            <index>42</index>
+            <phrase>පිස්සු හැදෙනවානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-12-17 15:30:42</date>
+            <index>43</index>
+            <phrase>මේවා අල්ලන්නේ සිංහල තේරෙන්නේ නැති අයද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2012-12-17 16:42:42</date>
+            <index>44</index>
+            <phrase>පිටසක්වල ජීවියෙක් මළපහ එකක් දාලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-12-17 17:00:35</date>
+            <index>45</index>
+            <phrase>නැන්දේ, ඔයා තාම ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-12-17 19:42:43</date>
+            <index>46</index>
+            <phrase>අල්ලන්න එපා. ඕවා විෂ සහිත වියහැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-12-17 20:37:55</date>
+            <index>47</index>
+            <phrase>අල්ලන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-12-21 09:36:44</date>
+            <index>48</index>
+            <phrase>සිංහලයාගේ පුරුද්ද ඕකමනේ. දැක්කගමන් අල්ලන්න හදනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

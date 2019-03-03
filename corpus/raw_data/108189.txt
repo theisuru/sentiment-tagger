@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>108189</articleId>
+    <title>ඩුබායි පොලීසියටත් ලැම්බෝගිනියක්</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 අපේ‍්‍රල් මස 11 11:16:02</date>
+    <body>ඩුබායි පොලිසිය තම පොලිස් රථ බළඇණියට ලැම්බෝර්ගිනි මෝටර් රථයක්ද ඇතුළත් කරගෙන ඇත.
+ලැම්බෝර්ගිනි සමාගමේ නවතම එළිදැක්වීමක් වන මේ ‘ඇවැන්ටඩෝර්‘ වර්ගයේ මෝටර් රථය පවුම් 300,000 ක්  (රුපියල් 57900000) පමණ මිල වේ. තත්පර 3 කදී පැයට සැතැපුම් 0 සිට පැයට සැතැපුම් 60 දක්වා වන වේගයක් අත්කර ගත හැකි මේ මෝටර් රථයේ උපරිම වේගය ලෙස සදහන් වනුයේ පැයට සැතැපුම් 217 කි.
+මේ වර්ගයට අයත් තවත් මෝටර් රථ පොලිස් සේවයට එක්කර ගැනීමට සැළැසුම් කර ඇතැයි ඩුබායි පොලිසිය කියයි.මේ මෝටර් රථ අධිවේගී මාර්ගයන්හි සේවයේ යෙදවීමට බලාපොරොත්තු වන බව ඔවුන් පවසයි.</body>
+    <comments>
+        <comment>
+            <author>රූමි</author>
+            <date>2013-04-11 12:52:49</date>
+            <index>0</index>
+            <phrase>මම නම් තාම එහෙම එකක් දැක්කේ නැහැ. නමුත් ඩුබායි පොලිසිය පාවිච්චි කරන්නේ ඔක්කොම බී.එම්. ඩබ්. වාහන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනා</author>
+            <date>2013-04-11 13:51:23</date>
+            <index>1</index>
+            <phrase>අපිටත් තියනවා බඩේගිනි.. ඇඩෙනවා හලෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-04-11 15:22:40</date>
+            <index>2</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික- බහරේන්</author>
+            <date>2013-04-11 16:21:12</date>
+            <index>3</index>
+            <phrase>අපේ රටේ හැමදේම වෙන්නේ කොමිස් වලට. අපි කවදද ඔලුව උස්සන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-04-11 22:48:01</date>
+            <index>4</index>
+            <phrase>ලංකාවට ලැම්බෝගිනි ගෙන්නන්න සල්ලි කොහෙන්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-04-11 23:56:49</date>
+            <index>5</index>
+            <phrase>රූමි, ඔයා ප්‍රවෘත්ති බලන්නේ නැද්ද ? https://www.facebook.com/media/set/?set=a.579763852042671.1073741865.136509933034734</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-04-12 03:45:11</date>
+            <index>6</index>
+            <phrase>ඩුබායි පොලිසි වලට ලැම්බෝගිනි... අපේ පොලිසි වල ජීප් එකක්වත් හරියට නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2013-04-13 02:55:59</date>
+            <index>7</index>
+            <phrase>තෙලේ බලේ තමයි. ලංකාවේ අපට නම් ෆූට් බයික් එකක් වුණත් වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

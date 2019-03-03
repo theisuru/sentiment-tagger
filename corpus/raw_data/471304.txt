@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>471304</articleId>
+    <title>‘එදාට වඩා අද විනය පිරිහිලා‘</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 ඔක්තෝබර් මස 23 12:17:27</date>
+    <body>විනය පිරිහිම රටේ පවතින බරපතල ගැටලුවක් බව  ආරක්ෂක ලේකම් කරුණාසේන හෙට්ටිආරච්චි මහතා පැවසිය.
+‘එදාට වඩා අද විනය පිරිහිලා. මිනිස්කම නැති මිනිසුන්ගෙන් වැඩක් නෑ‘ යැයි ඔහු කීවේ සිවිල් ආරක්ෂක දෙපාර්තමේන්තු 2016 අන්තර් බළකා මලල ක්‍රීඩා උළෙලේදීය.
+තරගාවලියේ සමස්ත ශූරතාවය විල්පත්තු බළකාය මගින් හිමි කර ගත් අතර එහි අනු ශූරතාවය වැලිඔය බළකාය විසින් දිනා ගනු ලැබිය.
+සිවිල් ආරක්ෂක බළකා විසි දෙකක ක්‍රිඩකයෝ හාරසිය දෙනෙක් පමණ තරග කළහ.</body>
+    <comments>
+        <comment>
+            <author>වික්ටර්</author>
+            <date>2016-10-23 08:42:52</date>
+            <index>0</index>
+            <phrase>අනේ සෑර්! ලංකාවේ ඕක කොහෙද තියෙන්නේ ?තිබුනේ කවදද ? ජාතියක් හැටියට මහා එකාගේ සිට කුඩා එකා දක්වාම කරන්නේ අමන වැඩ .ක්‍රිකට් ,බිග් මැච් , සෝෂල් ,දේසපාලන පෙළපාලි ,රැස්වීම්,පිකටින් ,මෝඩ කතා සහ මේ කි නොකී දේවල් කොච්චරද ? ගෝල්පේස් පිට්ටනියට ගිහින් පරණ පාර්ලිමේන්තුවයි , පෝට් සිටි එකයි දිහා බලාගෙන අඩන එක තමයි කරන්න තියන එකම විකල්පය මහත්තයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-10-23 10:24:20</date>
+            <index>1</index>
+            <phrase>ඔබ මේ ලෙස කියන්නේ කෙසේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-10-23 14:25:27</date>
+            <index>2</index>
+            <phrase>විනය ආරක්ෂා කරන්න දියවන්නාවෙන්ම පටන්ගන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-23 17:46:38</date>
+            <index>3</index>
+            <phrase>එදා නම් කිවුවේ 2015ට කලින් එහෙමවෙලා කියලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2016-10-24 01:42:49</date>
+            <index>4</index>
+            <phrase>එදා, කියලා කිවුවේ 2015 ට කලින් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-10-24 03:27:59</date>
+            <index>5</index>
+            <phrase>මිනිස්කම නැති මිනිසුන්ගෙන් වැඩක් නෑලු එ්නිසානේ ප්‍රබාකරන් මිය පරලොව ගියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-10-24 03:44:16</date>
+            <index>6</index>
+            <phrase>ජනහිත,ජයරත්න දෙන්න එක්කෙනෙක් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-10-24 03:51:45</date>
+            <index>7</index>
+            <phrase>ඉස්සෙල්ලම පාර්ලිමෙන්ට් එකෙන් පටන්ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-10-24 06:16:53</date>
+            <index>8</index>
+            <phrase>ඔය හඩ මදි , උස් හඩින් කියන්න , විසදුමකුත් තිබෙනවා ඇසු පමණින් ජාතියම ඔච්චමට සිනා සෙන .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

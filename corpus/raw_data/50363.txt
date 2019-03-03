@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50363</articleId>
+    <title>පමා නොවී යමු අකුරට විල්ගමුවේ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 26 18:24:17</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2012-07-02 12:36:03</date>
+            <index>0</index>
+            <phrase>පාසලට මගේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

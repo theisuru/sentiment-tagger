@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>110291</articleId>
+    <title>චීන ගොවියා  මඩ වලෙන් ගොඩ ගනී</title>
+    <author>අශේන් සේනාරත්න</author>
+    <date>2013 අපේ‍්‍රල් මස 21 14:48:33</date>
+    <body>චීන ගොවියෙක් ට අපුරු  අත්දැකීමකට මුහුණ  පෑමට සිදුවිය. වයස අවුරුදු  62 වු චන් ලායි කුඹුරට ගොස් නැවත නිවස බලා එන අතරතුර මීටර් නවයක් (අඩි30) ගැඹුරු  මඩ වළකට වැටුණේය.
+ඔහුගේ තරබාරුකම නිසා  ඉක්මනින් මඩ වලින් වැසී ගියේය.පැය හතරක් මඩත් සමඟ සටන් කළ ලායි කෑගසමින් ගම්මුන්ගේ සහය පැතීය. අවසානයේ ගම්මු පැමිණ ලායි බේරා ගත්තේය.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-21 19:20:45</date>
+            <index>0</index>
+            <phrase>මඩ සෝදා ගත් ගොවියා රජකමට සුදුසුයිලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-04-21 20:53:55</date>
+            <index>1</index>
+            <phrase>පවු ඉතින්. කාපු මඩක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-04-21 22:05:21</date>
+            <index>2</index>
+            <phrase>ලංකාවේ තෙත් කලාපයේ ඔය වගේ මඩ වලවල් කුඹුරුවල ඕනා තරම් තිබුනා. හැබැයි ඔය තරම් ගැඹුරු නැහැ. අපේ ගොවියා ඒ වට කීවේ එරුම් කියලයි. අද ඒ එරුම් ගොඩවෙලා .එරුමුත් නැහැ. ගොවිතැනුත් නැහැ. පුරන්වෙලා!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2013-04-21 23:01:11</date>
+            <index>3</index>
+            <phrase>කදයන්ට ඔහොමවෙලා මදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

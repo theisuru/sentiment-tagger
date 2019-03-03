@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506276</articleId>
+    <title>පැරණි මස්කෙළිය යළිත් මතුවෙයි</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2017 පෙබරවාරි මස 11 15:35:49</date>
+    <body>මාවුස්සාකැලේ ජලාශයේ ජල මටිටම පිටාර මටිටෙමි සිට අඩි 40 දක්වා පහත වැටිමත් සමගම එම ජලාශයට යටවු පැරණි මස්කෙළිය නගරයේ පන්සල කෝවිල සහ මුස්ලිමි පල්ලිය නැවත වරක් සමිපුර්ණයෙන්ම මතුවි තිබේ.   මේ  දිනවල ශ්‍රීපාද වන්දනාවේ යන වන්දනාකරුවන් මෙන්ම ප‍්‍රදේශවාසින් මතුවි ඇති ආගමික ස්ථාන වැදපුදා ගැනිමට පැමිණෙන අතර මස්කෙළිය අවට වතුකමිකරුවෝ වැසි ප‍්‍රාර්ථනා කරමින් එම හින්දු කෝවිලේ පුජාවක් ද  පැවැත්වූහ.
+  </body>
+    <comments>
+        <comment>
+            <author>රාමන්</author>
+            <date>2017-02-11 14:02:12</date>
+            <index>0</index>
+            <phrase>මේ පන්සල් වල පිළිමත් ගලවලනේ යටවෙන්නත් කලින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-12 02:11:35</date>
+            <index>1</index>
+            <phrase>වසර ගණනාවක් වතුරෙන් යටවී තිබීමෙන් මේ ගොඩනැගිලි කඩාවැටීමට ඉඩ තියන නිසා මේවා ඇතුළට ගොස් වන්දනාමාන කරනවාට වැඩ පිටත සිට එම කටයුතු කිරීම සෞඛ්‍යයට හිතකරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2017-02-14 16:30:32</date>
+            <index>2</index>
+            <phrase>සෑම් ඔබගේ අදහසට සම්පූර්ණයෙන් එකඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

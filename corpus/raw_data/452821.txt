@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452821</articleId>
+    <title>ටීවී සොරා අල්ලන්න ගම්වැසියෝ මෙහෙයුමක</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 31 18:57:10</date>
+    <body>බණ්ඩාරගම නිවසකින් අඟල් 48 රූපවාහිනියක් සොරකම් කළැයි කියන පුද්ගලයකු අවස්ථා දෙකකදී ඔහු අල්ලන්නට ගිය අයට පහරදී පැන ගිය නමුත් අවසන ගැමියෝ වෙල් යායකදී ඔහු වටකර අල්ලා පොලිසියට බාර දුන්හ.</body>
+    <comments>
+        <comment>
+            <author>කෝනාර</author>
+            <date>2016-08-31 16:32:59</date>
+            <index>0</index>
+            <phrase>ගම්වැසියන්ට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-08-31 20:20:54</date>
+            <index>1</index>
+            <phrase>බලන්න අපේ පොලිසියේ දක්ෂකම. අල්ලලා දුන්නම අරගෙන යන හැටි. මොනතරම් දක්ෂද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-09-01 03:08:35</date>
+            <index>2</index>
+            <phrase>කඩවත නිවාස 49 මැයි මස පමණක් බිඳ ලක්ෂ 95ක පමණ බඩු සොරාගෙන තිබුනා. තවම එක් සොරෙක්වක් අත්අඩංගුවට ගැනීමට නොහැකිවී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-09-01 05:50:54</date>
+            <index>3</index>
+            <phrase>අර හොරාවද නැත්නම් ටීවී එකද සරමකින් ඔතාගෙන උස්සගෙන යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2016-09-01 12:55:23</date>
+            <index>4</index>
+            <phrase>අපොයි ඉතින් බලන්නකෝ අපේ ඉසුරන්දි. හොරාගේ කොහෙද හලෝ වයර්? ඔය වහගෙන යන්නේ ටීවී එකනේ. අර හැඳි මිටේ කතාවක් මතක් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

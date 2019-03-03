@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>367362</articleId>
+    <title>මග මරුවා සුපිරි මඟෙන් එයි</title>
+    <author>ජනත් ද සිල්වා  ජනත් ද සිල්වා අමිල මධුෂංක දීපාල් ද සිල්වා</author>
+    <date>2015 දෙසැම්බර් මස 08 08:09:58</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ ඇත්කඳුර දිවිතුර ප්‍රදේශයේ දී අද උදේ වෑන්රියක් පෙරැළී රත්නපුරයේ කාන්තාවක (28) මියගොස් එහි ගමන් කළ නම දෙනාගෙන් හත් දෙනෙක් තුවාල ලබා රෝහල්ගත කරනු ලැබ සිටිති.
+
+ජායාරූප අමිල මධුෂංක
+
+ජායාරූප - ජනත් ද සිල්වා</body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2015-12-08 07:57:42</date>
+            <index>0</index>
+            <phrase>අම්මෝ! ඇඟ හිරිවැටුණා මගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියෝන් ගුන්වර්දන</author>
+            <date>2015-12-08 11:26:36</date>
+            <index>1</index>
+            <phrase>කැනඩාවේ අධිවේග මාර්ගවල පැයට කිලෝමීටර් 150 වැඩි වේගයකින් රිය පැදෙව්වත් මෙවැනි රිය අනතුරු විරලයි මෙයට හේතුව සමහර විට අපරික්ෂාකාරීව රිය පැදවීම නිසා වන්නට පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරුක</author>
+            <date>2015-12-09 02:49:08</date>
+            <index>2</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-12-10 04:31:57</date>
+            <index>3</index>
+            <phrase>කිව්වත් වගේ මරුවට උස්මිටි කුලමල දුප්පත් පොහොසත් භේදයක් නැහැ.නමුත් මරුවට අභියෝග කරන්න අපි දැනගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

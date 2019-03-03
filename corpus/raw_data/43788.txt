@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43788</articleId>
+    <title>පුංචි පුතා රෙදි සෝදනයේ රෝල් වේ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 21 15:40:57</date>
+    <body>ලන්ඩනයේ පදිංචි අප්‍රිකා ජාතික යුවලක් කාසි දමා රෙදි සෝදා ගන්නා මධ්‍යස්ථානයටක ගියහ. මාස දහ අටක් වයසැති ඔවුන්ගේ පුතා ද ඔවුන් සමග ගියේය. යන්ත්‍රය ක්‍රියාත්මක කිරීමේ මූලික පියවර වශයෙන් කාසියක් දැමූ මව කිලිටි රෙදි මල්ලේ යමක් සොයන්නට වූවාය. ඒ අතර පියා දරුවා ඔසවා යන්ත්‍රයට දැමුවේය. එසේ කළේ විහිළුවටය. යන්ත්‍රය ක්‍රියාත්මක වී කැරකෙන්නට විය. ළමයාද කැරකෙන්නට විය. වම්පියෝ අන්දුන්කුන්දුන් වූහ. යන්ත්‍රය නවත්වන්නට උත්සාහ කළහ. බැරි වූ තැන ආධාර ඉල්ලා කෑ ගැසූහ. ලොන්ඩරි හිමියා සොයා ගියහ. ඔහු අවුත් යන්ත්‍රය නතර කළේය. ළමයා එළියට ගත්තේය. ඒ දරුවාගේ ජීවිතය යන්තම් බේරුනේය.</body>
+    <comments>
+        <comment>
+            <author>සේයා</author>
+            <date>2012-05-21 23:30:39</date>
+            <index>0</index>
+            <phrase>මෝඩයා.....භයානක විහිඵ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝශා</author>
+            <date>2012-05-22 01:51:24</date>
+            <index>1</index>
+            <phrase>මාර දෙමව්පායො තමයි. විහිඵවට මේවත් කරනවද.....මෝඩයෝ.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමලී</author>
+            <date>2012-05-22 03:07:28</date>
+            <index>2</index>
+            <phrase>පිස්සෙක්ද කොහෙද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-05-22 09:24:24</date>
+            <index>3</index>
+            <phrase>ආදර්ශමත් දෙමාපිය යුවලකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-05-22 09:46:55</date>
+            <index>4</index>
+            <phrase>මොන දේශෙක හිටියත් තවමත් වදුරු ගති නම් දුරුවෙලා නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරෝලිස්</author>
+            <date>2012-05-22 10:07:54</date>
+            <index>5</index>
+            <phrase>අම්මපා ගොයියෝ, මේ වගේ දෙමවුපියෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් දවුලගල</author>
+            <date>2012-05-23 05:40:40</date>
+            <index>6</index>
+            <phrase>ඒ වගේ මැෂින් එකකට මේ තාත්තත් දාන්න ඕනෑ හොදට මොලේ හේදෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍මහේෂ්</author>
+            <date>2012-05-24 17:09:33</date>
+            <index>7</index>
+            <phrase>සීය හරි මෝඩයෙක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීකී</author>
+            <date>2014-01-21 16:37:44</date>
+            <index>8</index>
+            <phrase>දෙමව්පියන් මීට වඩා සැළකිලිමත් විය යුතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

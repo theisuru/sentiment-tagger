@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55257</articleId>
+    <title>ඕස්ටේ‍්‍රලියා යවන පිරිසගේ කෑම බීම බෝට්ටුවක් අල්ලයි</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ජූලි මස 25 10:50:07</date>
+    <body>ඕස්ටේ‍්‍රලියාවට රැගෙන යෑමට සිටි පිරිසක් සඳහා වන මාසයක පමණ වියළි ආහාර ද්‍රව්‍ය පුරවා තුබූ ධීවර යාත‍්‍රාවක් සැකකරුවන් දෙදෙනකු සමග සාම්බල්තිවු වෙරළ තීරයෙන් අත්අඩංගුවට ගත් බව උප්පුවේලි පොලිසිය කියයි. සැකකාරිය ළඟ රුපියල් ලක්‍ෂ තුනක්ද විය.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-25 12:37:13</date>
+            <index>0</index>
+            <phrase>සැකකාරිය ළඟ මුදල් තිබුණේ අඩු පාඩුවක් උනොත් මගදි බඩු ගන්නද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2012-07-25 12:50:45</date>
+            <index>1</index>
+            <phrase>ඉතින් මොකද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2012-07-25 13:03:07</date>
+            <index>2</index>
+            <phrase>විහිළුවක් නොවේ, මේක අල්ලපු එක ලොකු ප්‍රශ්නයක් වෙන්න පුළුවන්, මොකද මුහුද මැද බෝට්ටුවක දැනටම පිටත්වී ඉන්න සෙනගකට දැන් කෑම නැතුව ඇති. කරුණාකර නාවික හමුදාව එම අයත් බේරගන්න උත්සහකරන්න. .(ස).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ්</author>
+            <date>2012-07-25 13:12:57</date>
+            <index>3</index>
+            <phrase>ගුවන් ගමන් සේවා වලදී කෑම බීම දෙන්න හොද නම් බෝට්ටු සේවා වලදී දුන්නහම මොකද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩි.සිල්වා</author>
+            <date>2012-07-25 13:48:02</date>
+            <index>4</index>
+            <phrase>හරිනම් උතුරේ මිනිස්සු නෙමෙයි දකුණේ අපියි ඕස්ට්‍රේලියාවේ රැකවරණය පතන්න ඕනි....උතුර දැන් සාමකාමී...ඒක‍ට දැන් දකුණ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-07-25 14:19:12</date>
+            <index>5</index>
+            <phrase>නාවික හමුදාවට ඔස්ට්‍රේලියා මුහුදු තීරයේ හිටියනම් මේ අයව අල්ල ගන්න තිබුණා.......(ස).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිසිල්වා</author>
+            <date>2012-07-25 14:24:36</date>
+            <index>6</index>
+            <phrase>මුහුදේ ඉන්න මාළුන්ට දානයක් දෙන්න හිතිලා වෙන්න ඇති , පිනක් දහමක්වත් කර ගන්න ඉඩක් නැති රටක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-07-25 14:41:41</date>
+            <index>7</index>
+            <phrase>එක්කෙනෙක්වත් ගොඩට ගේන්න එපා. යන අයට යන්න දීල මගදි ගිල්වලා දාමු බෝට්ටු ටික, ඔය කියන කෑම තිබ්බ එකත් යන්න දීලා ගිල්වලා දෑම්මනම් ඉවරයි. එහෙම කරලවත් ඔය හොද නොවෙන තුවාලය හොද කරගන්න බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-26 08:43:07</date>
+            <index>8</index>
+            <phrase>දහ දුක් විදින්නේ ජීවත් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

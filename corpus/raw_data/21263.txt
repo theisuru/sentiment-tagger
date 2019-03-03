@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21263</articleId>
+    <title>මේ නුවරඑළියයි</title>
+    <author></author>
+    <date>2012 ජනවාරි මස 09 18:15:56</date>
+    <body>නුවරඑළියට වැසි සමග දින කිහිපයක්ම මල්තුහින පතිත වී මෙසේ ගහකොළ හා තණබිමි ද සුදු පාටවී තිබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>විජයන්ති ගෙමන්දර්</author>
+            <date>2012-01-09 18:30:20</date>
+            <index>0</index>
+            <phrase>පුදුමයි, විශ්වාස කරන්නත් අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-01-09 19:54:08</date>
+            <index>1</index>
+            <phrase>ලස්සන රටක්, වටින රටක් ඒත් මේ රටේ ලස්සන බලන්න හැමකෙනෙකුටම බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරිය</author>
+            <date>2012-01-09 22:58:27</date>
+            <index>2</index>
+            <phrase>ලස්සන නම් ඇත්ත, ඒත් මෙහෙම හිම නොවෙන අයිස් හැදීම, එතරම් පැල වලට හොඳ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2012-01-10 01:35:46</date>
+            <index>3</index>
+            <phrase>හරිම ලස්සනයි.. මේ දවස්වල ගොඩක් රටවලට හිම වැටෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-01-10 04:07:05</date>
+            <index>4</index>
+            <phrase>ආසියාවේ ආශ්චර්යය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනන්ද රැවන්</author>
+            <date>2012-01-10 09:34:08</date>
+            <index>5</index>
+            <phrase>අපේ පුංචි රටේ ලස්සන කොහොමද යාලුවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-01-10 09:59:36</date>
+            <index>6</index>
+            <phrase>නියමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-01-10 14:06:37</date>
+            <index>7</index>
+            <phrase>මේ ඇත්තටම නුවරඑළියද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාංචන</author>
+            <date>2012-01-11 13:05:05</date>
+            <index>8</index>
+            <phrase>ඇත්තටම ලස්සනයි. මම කැමතිම නගරය. මම ඉක්මනට එනන බලාපොරේත්තුවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-01-12 07:27:40</date>
+            <index>9</index>
+            <phrase>පුංචි එංගලන්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>jeff</author>
+            <date>2012-01-14 12:23:43</date>
+            <index>10</index>
+            <phrase>මගේ සුන්දර රටට මම හැමදාමත් ආදරෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලනි</author>
+            <date>2012-01-16 06:31:40</date>
+            <index>11</index>
+            <phrase>හරිම ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුලෝ</author>
+            <date>2012-01-16 10:13:16</date>
+            <index>12</index>
+            <phrase>අපේ රට කොච්චර ලස්සනද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමෝදි</author>
+            <date>2012-01-16 14:15:27</date>
+            <index>13</index>
+            <phrase>හරිම ලස්සනයි. මම ආදරෙයි මගේ රටට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Ushantha Nanayakkara</author>
+            <date>2012-01-16 16:47:40</date>
+            <index>14</index>
+            <phrase>ජනපති තුමනි ඔබේ පිනෙන් අපේ රටත් ලස්සනයි, හොඳ රටක් වෙනව එක් විශ්වාසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයෝමි</author>
+            <date>2012-01-17 03:22:41</date>
+            <index>15</index>
+            <phrase>ලස්සන ශ්‍රී ලංකාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික සංජය</author>
+            <date>2012-01-20 12:19:56</date>
+            <index>16</index>
+            <phrase>ගොඩාක් ආස හිතෙනවා මෙහෙම දැක්කම. මගේ රටට තියෙන ආදරය තවත් වැඩිවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යමුනා</author>
+            <date>2012-02-03 11:48:50</date>
+            <index>17</index>
+            <phrase>අපේ රට කොයිතරම් ලස්සනද කියලා හිතෙනවා. මගේ රටට මම ගොඩාක් ආදරෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

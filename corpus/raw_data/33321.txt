@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33321</articleId>
+    <title>අස්ගිරි සඳුන් ගහක් හොරෙන් කපයි</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 මාර්තු මස 26 10:49:03</date>
+    <body>මහනුවර අස්ගිරි පන්සල් ඉඩමකින් අඩි 30ක් උසැති සඳුන් ගසක් කපා ඇතැයි අස්ගිරි පාර්ශ්වයේ ලේඛකාධිකාරී නාරම්පනාවේ ආනන්ද හිමියෝ පොලිසියට පැමිණිලි කළහ.</body>
+    <comments>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-03-26 13:06:19</date>
+            <index>0</index>
+            <phrase>හාමුදුරුවරු ඝාතනය කරනවා මදිවට පන්සලේ ගසුත් කපනවා. අනේ මෙහෙමත් බෞද්ධයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාරත්න</author>
+            <date>2012-03-27 10:49:45</date>
+            <index>1</index>
+            <phrase>මේ රටේ වෙන දේවල්වල හැටියට මේක අරුමයක් නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

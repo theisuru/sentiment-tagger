@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475065</articleId>
+    <title>පොලිස් පොතෙන්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 01 14:14:58</date>
+    <body>මුහුදු බඩ දුම්රිය පාරේ ඇවිද යමින් සිටි විදේශ අමාත්‍යංශයේ රියදුරකු දුම්රියට යට වී මිය ගොස් ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>විජේසුන්දර</author>
+            <date>2016-11-01 09:56:21</date>
+            <index>0</index>
+            <phrase>මොකක්හරි ලොකු කල්පනාවක ගිහිල්ලාවද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

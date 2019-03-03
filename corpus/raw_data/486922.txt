@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486922</articleId>
+    <title>මීගමුවේ දහනවයක් රිමාන්ඩ්</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 දෙසැම්බර් මස 03 18:35:00</date>
+    <body>සිකුරාදා පැවැත් වූ  පෞද්ගලික බස් හා ත්‍රිරෝද වර්ජනයේදී අයුතු ජන රාශියක යෙදෙමින් මහජනයා පීඩාවට පත් කලැයි කියන ත්‍රිරෝද රියදුරන් ඇතුලු දහනවදෙනෙකු මීගමුව වැඩ බලන මහේස්ත්‍රාත් ශාන්ත නිරිඇල්ල මහතා ලබන (9) දක්වා රිමාන්ඩ් කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ලුසේනා</author>
+            <date>2016-12-03 16:46:33</date>
+            <index>0</index>
+            <phrase>රිමාන්ඩ් කලාට වැඩක් නැහැ පාඩුව ඔවුන්ගෙන් අයකළ යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංජලා</author>
+            <date>2016-12-03 18:48:29</date>
+            <index>1</index>
+            <phrase>මේ අයව නිදහස් කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-12-03 18:52:53</date>
+            <index>2</index>
+            <phrase>හිරේ දාලා මදි .. දඩත් ගහන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-04 01:00:49</date>
+            <index>3</index>
+            <phrase>නියමයි නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-12-04 01:39:57</date>
+            <index>4</index>
+            <phrase>දැන් තියෙන්නේ ඒ අය එළියට දාන්න කියලා ආපහු වර්ජනයක් කරන එක . ඊට පස්සෙ ආපහු පාරරක් මිනිස්සු න් ටත් හිරිහැර කරලා කීප දෙනෙක් ට ගල් ගහලා තුවාල කරන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2016-12-04 02:48:50</date>
+            <index>5</index>
+            <phrase>මේ යන වේගයට මිනිසුන් රිමාන්ඩ් කළොත් මේ ගොල්ලන්ව රඳවන්නේ කොහෙද? කන්න දෙන්නේ කව්ද. ඒ අයව රකින්නේ කව්ද? සියලුම බර ජනතාවට. පාලකයෝ ප්‍රශ්න විසඳන්න බැරි වුනහම මර්දනයෙන් තමයි ඉතිරි පාලන කටයුතු කරගෙන යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-12-04 05:57:23</date>
+            <index>6</index>
+            <phrase>තමන්ගේ විරෝදය දක්වන්න මහජනයා පීඩාවට පත්කරන එක දැන් කලාවක් වෙලා දෙන්න හොදනැහැ මේ අයට ඇප තියන්න ඕනේ ඇතුලේ කරපු වැරැද්ද තේරුම් යනතුරු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමාල් විජේසිංහ</author>
+            <date>2016-12-05 04:57:20</date>
+            <index>7</index>
+            <phrase>දුම්රිය, ශ්‍රීලංගම සහ රාජ්‍ය දේපල හානි කල සියලු දෙනා හැකි ඉක්මනින් අත්අඩංගුවට ගෙන නැවත සිහිනෙන්වත් රාජ්‍ය දේපල හානි නොකරන ලෙස කටයුතු කිරීමට රජය ඉක්මනින් ක්‍රියාත්මක විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

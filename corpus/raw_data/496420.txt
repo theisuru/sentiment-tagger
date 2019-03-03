@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>496420</articleId>
+    <title>ත්‍රිකුණාමල වරාය විකිණීමට විරෝධය</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2017 ජනවාරි මස 05 16:30:44</date>
+    <body>ත්‍රිකුණාමල වරාය විකිණිමට  එරෙහිව විරෝධය පළ කරමින්  සමස්ත ලංකා  වරාය සේවක සංගමය අද (5) වරාය අධිකාරියේ කළු කොඩි එසැවීය.
+මීට  අමතරව හම්බන්තොට  වරායේ ඉඩම්  විකිණිම හා  කොළඹ වරායේ නැගෙනහිර  පර්යන්තය විකිණිමට එරෙහිව ඔවුහු විරෝධය පළ කරති.</body>
+    <comments>
+        <comment>
+            <author>මහකන්දේ විජිතසිරි හිමි</author>
+            <date>2017-01-05 12:46:16</date>
+            <index>0</index>
+            <phrase>අනාගත පරපුරට රට ඔනේ නෑ. දැන් ඉන්න අය කාලා විකුණලා මැරිලා යමු. දැන් දේශපාලන දර්ශනය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2017-01-05 13:04:41</date>
+            <index>1</index>
+            <phrase>මේවා විකුනනවා කියලා කියන්නේ ඒකාබද්ධ කට්ටිය පමණයි . ත්‍රිකුණාමල වරාය විකුනනවා කියලා තීරණය කරලා තියෙන්නේ මොන කැබිනේට්ටුවේද ? මෙසේ මිනිසුන් මුල කිරීම වහා නතර කල යුතුයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-01-05 13:18:00</date>
+            <index>2</index>
+            <phrase>දේශපාලන අබලන් දේශ පාලකයන්ගේ පඩි ගෙවන්න පහසුකම් දෙන්න සල්ලි එපැය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-05 20:56:22</date>
+            <index>3</index>
+            <phrase>සමහර මිනිස්සු අම්මා තාත්තා වුණත් විකුණගෙන කයි පුලුවන් නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.තිස්ස</author>
+            <date>2017-01-06 00:54:52</date>
+            <index>4</index>
+            <phrase>ලංකාවේ ජනයා සෑමවිටකම ඉන්නේ මංමුලාවීය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කස්තුරිආරච්චි</author>
+            <date>2017-01-06 02:41:26</date>
+            <index>5</index>
+            <phrase>අපේ රටේ ජනතාව හරිම දීන ජන කොටසක්. අභිමානයක් නැහැ. අනෙකාට හෙණ ගැහුවත් කමක් නැහැ තමන් බේරිලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුලතිලක</author>
+            <date>2017-01-06 03:43:08</date>
+            <index>6</index>
+            <phrase>බොරුව වහාම නවත්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත් දර්ශක</author>
+            <date>2017-01-06 05:32:29</date>
+            <index>7</index>
+            <phrase>ඔබට සතුටුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

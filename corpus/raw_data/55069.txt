@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55069</articleId>
+    <title>හිටපු ඉන්දියා ජනපතිනිය සමුගනී...</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූලි මස 24 10:09:33</date>
+    <body>අද ධුරයෙන් සමු ගැනීමට නියමිත ඉන්දීය ජනපතිනී ප‍්‍රතිභා පාටෙල් වෙනුවෙන් විශේෂ සමු ගැනීමේ උත්සවයක් ඉන්දීය ජනපති මැදුරේ එනම් රාශ්ඨපති භවන්හිදී පෙරේදා (22) පැවැත් වුණු අතර එහිදී ප‍්‍රතිභා පාටෙල් සමඟ ඇගේ සැමියා දේව්සිං ෂෙකාවාත් (වමේ) පැමිණ සිටි මැති ඇමැතිවරුන්ට ආචාර කළ අයුරු. ඉන්දියාවේ ජනපති ධුරයට පත් ප‍්‍රථම කාන්තාව ඇයයි. ඇය ජනපති ධුරයට පත් වූයේ 2007 වසරේ ජූලි 25 වැනිදායි.</body>
+    <comments>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-24 12:35:58</date>
+            <index>0</index>
+            <phrase>එතකොට ඊට අල්ලපු රටේ මොකක් වෙයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-07-24 13:01:17</date>
+            <index>1</index>
+            <phrase>බලන්න ඒ මිනිස්සු දිහා.කොච්චර වැදගත්ද? බොරු සෝබන මුකුත් නැහැ.අපිටත් මේවාලින් පාඩම් ඉගෙන ගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-07-24 16:11:27</date>
+            <index>2</index>
+            <phrase>බොරු සෝබන නම් ඇත්තේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nike312</author>
+            <date>2012-07-25 04:09:12</date>
+            <index>3</index>
+            <phrase>කෑව ඇති වගේ දැනෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nike312</author>
+            <date>2012-07-25 04:10:01</date>
+            <index>4</index>
+            <phrase>අල්ලපු රට හරහට කෙට්ටු වේවි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

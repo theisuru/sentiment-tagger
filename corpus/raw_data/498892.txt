@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498892</articleId>
+    <title>ගුවන් තැපෑල පරීක්ෂා කිරීමට ස්කෑන් යන්ත්‍ර 2 ක්</title>
+    <author>ජයන්ත සමරකෝන්</author>
+    <date>2017 ජනවාරි මස 16 12:22:22</date>
+    <body>මධ්‍යම තැපැල් හුවමාරුවට ගුවන් තැපෑලෙන් ලැබෙන පාර්සල් හා ලිපි පරීක්ෂා කිරීමට ස්කෑන් යන්ත්‍ර දෙකක් ලබාදීමට තැපැල් සේවා අමාත්‍යංශය පියවර ගෙන ඇත. රුපියල් කෝටියකට අධික වටිනාකමකින් යුත් මේ යන්ත්‍ර කඩිනමින් ලබාදීමට කටයුතු කරන බව තැපැල්පති රෝහණ අභයරත්න මහතා පැවසීය.  </body>
+    <comments>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2017-01-16 07:27:58</date>
+            <index>0</index>
+            <phrase>ආරක්ෂාව පැත්තෙන් ගොඩක් හොඳ දෙයක්. ඔය වගේම ආරක්ෂාව තරකරන්න පුළුවන් මේ වගේ දේවලට පුහුණු කරපු නිල සුනඛ කණ්ඩායමක් ඉන්නවා නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්</author>
+            <date>2017-01-16 07:40:10</date>
+            <index>1</index>
+            <phrase>ස්කෑනර් වැඩක් නැතිවෙයි. කෝ මෙච්චරකල් අල්ලපු කුඩු??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔෂාන්</author>
+            <date>2017-01-16 12:04:12</date>
+            <index>2</index>
+            <phrase>මේවා කවුරු කළත් අගය කළයුතු වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-01-16 14:27:03</date>
+            <index>3</index>
+            <phrase>කුඩු අල්ලන්නම නොවෙයිනේ මේ ස්කෑනර් ගෙනෙන්නේ. ගුවන් තැපෑල පරික්ෂා කිරීමට. වෙනත් දෙයක් සිතින් මවාගෙන සමහරු එ්කට උත්තර දෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

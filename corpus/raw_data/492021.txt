@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>492021</articleId>
+    <title>අම්බලන්ගොඩ රෝහලේ ගින්නක්</title>
+    <author>දිපාල් ද සිල්වා</author>
+    <date>2016 දෙසැම්බර් මස 22 11:44:09</date>
+    <body>අම්ලන්ගොඩ  පොල්වත්ත  දිසා රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ අද (22) අලුයම ගින්නක් හටගෙන ඇතැයි  රෝහල් ආරංචි කියයි.
+ගින්නට හේතුව විදුලි කාන්දු වීමකි.
+ගින්නෙන් එහි  උපකරණ හා ඖෂධ වර්ගවලට  හානි සිදුවී ඇති බව වෛද්‍යවරු කියති.
+දැනට  හදිසි ප්‍රතිකාර  ඒකකය වෙනත් ස්ථානයක රඳවා  රෝගීන්ට ප්‍රතිකාර කරන බව වෛද්‍යවරු පවසති.</body>
+    <comments>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-12-22 06:55:23</date>
+            <index>0</index>
+            <phrase>විශාල හානියක් වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-12-22 06:56:35</date>
+            <index>1</index>
+            <phrase>නැතිබැරි අසරණ රෝගීන්ටමයි ඒකෙනුත් පාඩුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්</author>
+            <date>2016-12-22 09:08:48</date>
+            <index>2</index>
+            <phrase>හැමෝම පෞද්ගලීකරණයට විරුද්ධයි. රාජ්‍ය දේපොළ ගැනත් තැකීමක් නැහැ.මොකද තමන්ගේ සාක්කුවට නොදැනෙන නිසා.නමුත් ජනතාවය් අන්තිමට ගෙවිය යුතු වන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-12-22 13:59:06</date>
+            <index>3</index>
+            <phrase>ගින්නට අසුවෙලා තිබෙන්නේ එක ඇඳක් පමණයි අනික් ඒවා පොළොවේ ගහල වගේ පෙනේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-12-22 14:30:26</date>
+            <index>4</index>
+            <phrase>නොසැළකිලිමත්කම නිසා වූවක් බවයි පෙනේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

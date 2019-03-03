@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>65045</articleId>
+    <title>කොටි සැකකරුවෝ වහළට නඟිති</title>
+    <author>ජවුෆර් ඛාන්/අම්පාර වාර්තාකරු</author>
+    <date>2012 සැප්තැම්බර් මස 17 10:08:24</date>
+    <body>මඩකළපු බන්ධනාගාරයට දෙමළ කතාකරන නිලධරයන් පත් කරන්නැයි ඉල්ලමින් කොටි සැකකරුවෝ හය දෙනෙක් අද උදේ සිට වහළට නැඟ විරෝධය පාති.</body>
+    <comments>
+        <comment>
+            <author>සුමන</author>
+            <date>2012-09-17 10:31:33</date>
+            <index>0</index>
+            <phrase>වහල උඩම ඉන්න දුන්නානම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-09-17 11:00:22</date>
+            <index>1</index>
+            <phrase>කරන්න දෙයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්මල්</author>
+            <date>2012-09-17 11:02:50</date>
+            <index>2</index>
+            <phrase>එයාලට ඕවා පුරුදුයි.ගණන් ගන්න එපා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බඳු</author>
+            <date>2012-09-17 11:45:58</date>
+            <index>3</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-17 12:04:32</date>
+            <index>4</index>
+            <phrase>ඔහොම කරලා නම් අපිව නටවන්න හිතුවා මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ෂාන්</author>
+            <date>2012-09-17 12:46:31</date>
+            <index>5</index>
+            <phrase>සැප වැඩි‍ වෙලා .දවසට එක වේලක් කන්න දුන්නානම් හරි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-09-17 13:04:02</date>
+            <index>6</index>
+            <phrase>හිටපිය දෙන්නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-09-17 13:11:18</date>
+            <index>7</index>
+            <phrase>මට දුකයි අප්පා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-09-17 13:31:04</date>
+            <index>8</index>
+            <phrase>කුඹුරු වැඩ ට යවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2012-09-17 13:39:05</date>
+            <index>9</index>
+            <phrase>කොටි කාලේ කල දේවල් මතක නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-09-17 13:47:11</date>
+            <index>10</index>
+            <phrase>අම්බානෙකට කන්නයි දගලන්නේ මේ සෙට් එකත්..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියම සිංහලයා</author>
+            <date>2012-09-17 14:00:26</date>
+            <index>11</index>
+            <phrase>හිරේට යන්නේ ආතල් වැඩ කරලා වෙන්න ඇති..... ඉල්ලීම් ඉල්ලන්නත් එනවා....අහල පහල ඉන්න අය දෙන්නකෝ ගල් ප්‍රහාරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහන</author>
+            <date>2012-09-17 14:02:40</date>
+            <index>12</index>
+            <phrase>බිලි පූජාවට යැව්වනම් හරි (ස).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-09-17 14:03:31</date>
+            <index>13</index>
+            <phrase>එකතු වෙලා සිංදු කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වන්නි</author>
+            <date>2012-09-17 14:03:38</date>
+            <index>14</index>
+            <phrase>ඉල්ලීම දිනා ගැනීම සඳහා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණා</author>
+            <date>2012-09-17 14:10:55</date>
+            <index>15</index>
+            <phrase>ගුටි දෙකක් දීලා ඕන දෙයක් කරගන්න කියන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-09-17 14:11:30</date>
+            <index>16</index>
+            <phrase>ලුණු ටිකක් ගැහුවනම් හරි කරවල වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-09-17 14:12:27</date>
+            <index>17</index>
+            <phrase>අනේ මන්දා මොකාක් හරි කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෝපගේ</author>
+            <date>2012-09-17 14:19:00</date>
+            <index>18</index>
+            <phrase>කව්ද මේක මේ විගහට වීඩියෝ කලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විනෝද්</author>
+            <date>2012-09-17 14:49:44</date>
+            <index>19</index>
+            <phrase>දෙමළ නිලධාරීන් පත් කරනකල් ඉන්නේ නැතුව සිංහල ඉගෙන ගන්නකෝ. අනික හිරේ ඉන්නේ වැරදි කරපු අයනේ. ඉතින් එතනට සිංහල හෝ දෙමළ නිලධාරියෙක් දාපු පමණින් ඒගොල්ලන් කරපු වැරදි නිවැරදි වෙනවද. වැරැද්දට දඩුවම ඉවර වෙනකල් දෙන දෙයක් කාලා ඉන්න එකයි ඇත්තේ.වැඩිය දගලන්න අවොත් එස් ටී එෆ් එකේ මහත්වරු බලාගනීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-09-17 15:07:11</date>
+            <index>20</index>
+            <phrase>ළඟපාත විදුලි කම්බියක් නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිළ කටුනායක</author>
+            <date>2012-09-17 21:25:14</date>
+            <index>21</index>
+            <phrase>වවුලගේ ගෙදර ඉන්නවා නම් එල්ලිලා ඉන්න හොදේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-09-17 23:07:50</date>
+            <index>22</index>
+            <phrase>එක්කෝ ඒ මිනිස්සුන්ව නිදහස් කරන්න නැතිනම් දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූෂ</author>
+            <date>2012-09-17 23:51:54</date>
+            <index>23</index>
+            <phrase>ඔය එන පොට හොද නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-09-18 11:03:15</date>
+            <index>24</index>
+            <phrase>මෙයාටත් අර වවිනියාවේ අයට දුන්න බෙහෙත් දුන්නනම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

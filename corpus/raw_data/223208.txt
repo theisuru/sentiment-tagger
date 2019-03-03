@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>223208</articleId>
+    <title>බසය අනතුරේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 අපේ‍්‍රල් මස 05 08:12:54</date>
+    <body>බුලත්සිංහල ඈගල්ඔය බඹරකන්ද පාලම අසළ දී බසයක් අනතුරකට ලක්වීනේ මගීහු 14 දෙනෙක් තුවාල ලදහ. එම පිරිස අවමගුල් ගෙදරක ගොස් එමින් සිටිය දී මෙම අනතුර සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2014-04-05 08:29:15</date>
+            <index>0</index>
+            <phrase>අවමගුල් ගෙවල් වල ,මගුල් ගෙවල් වල ගිහිල්ලා එන වාහනයක් අනතුරකට පත් වුනොත් පොලිසිය කල යුතු ප්‍රථම කාරිය වන්නේ රියදුරාට බැලුම පුම්බන්නට දීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2014-04-05 10:50:03</date>
+            <index>1</index>
+            <phrase>බඹර කන්ද නෙමෙයි...බඹරඅකුල පාලම ලෙස නිවැරදි වෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2014-04-05 13:38:30</date>
+            <index>2</index>
+            <phrase>අනතුරට පත්වූ මගීන් සියලුදෙනාට ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත</author>
+            <date>2014-04-05 14:23:57</date>
+            <index>3</index>
+            <phrase>රථවාහන අනතුරුවලට ප්‍රධානතම හේතුව අපරික්ෂාකාරිබවයි. එය රියදුරන්ට, පදිකයන්ට මෙන්ම මගීන්ටත් වැදගත්. මේ අපරික්ෂාකාරිබවට විශේෂයෙන් මුල්වන්නෙ, නොදැනුවත්වීම සහ නොහික්මීමයි. නීති රීති දැඩිකිරීම මෙන්ම මේ ගුණාන්ග පුද්ගලයින් තුල වර්ධනය කිරීමෙන් අනතුරු අවම කලහැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර පුෂ්පකුමාර</author>
+            <date>2014-04-05 15:40:52</date>
+            <index>4</index>
+            <phrase>තුවාලවූ සියලු දෙනාටම ඉක්මන් සුවය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

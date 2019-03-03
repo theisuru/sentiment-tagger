@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30689</articleId>
+    <title>බවුසරය පාර මැද පෙරළේ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 මාර්තු මස 10 14:59:01</date>
+    <body>කොළොන්නාවේ සිට කොටගලට තෙල් ප්‍රවාහනය කළ බවුසරයක් කොටගල මහ පාර මැද පෙරැළී තෙල් ගලා යන්නට විය. සිකුරාදා රාත්‍රියේ සිට පාර අවහිර වී තිබේ.
+තෙල් ලීටර 33000න් විශාල ප්‍රමාණයක් පාර අසල කාණුවක් දිගේ ගලා ගිය බව ප්‍රදේශවාසීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-03-10 16:02:51</date>
+            <index>0</index>
+            <phrase>අයියෝ සල්ලි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-03-10 18:42:45</date>
+            <index>1</index>
+            <phrase>ඒ පැත්තේ අයට අවුරුදු වගේ ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-03-10 18:53:44</date>
+            <index>2</index>
+            <phrase>මේකත් සංස්ථාවට පාඩු නෑ කියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

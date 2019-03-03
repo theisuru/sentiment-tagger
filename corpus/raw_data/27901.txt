@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>27901</articleId>
+    <title>කට පුංචා හැදෙන්නේ මෙහෙමයි</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 පෙබරවාරි මස 20 16:49:02</date>
+    <body>තුවක්කු හැදීම පාකිස්ථානයේ ගෘහ කර්මාන්තයකි....</body>
+    <comments>
+        <comment>
+            <author>omal</author>
+            <date>2012-02-21 12:29:26</date>
+            <index>0</index>
+            <phrase>ඡීවිත ගන්න උපකරණ වලට වඩා.. ඡීවිතය දෙන උපකරණ හැදුවනම් කොච්චර වටිනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-05-15 17:15:26</date>
+            <index>1</index>
+            <phrase>අයියෝ සල්ලි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-05-17 11:26:04</date>
+            <index>2</index>
+            <phrase>ලෝකය විනාශ කරන වැඩ ඕවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

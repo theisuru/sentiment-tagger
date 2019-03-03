@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33156</articleId>
+    <title>අමුක්කරා</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මාර්තු මස 25 13:03:54</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කහටපිටිය</author>
+            <date>2012-05-15 20:01:12</date>
+            <index>0</index>
+            <phrase>මේ නියම අමුක්කරාමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>322363</articleId>
+    <title>සුපිරි මඟේ කාරය පල්ලමේ : දොස්තර රෝහලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2015 ජූනි මස 04 17:38:43</date>
+    <body>වෛද්‍යවරයකු ගමන් ගත් මෝටර් රථයක් දක්ෂිණ අධිවේගී මාර්ගයේ දොඩම්ගොඩ 27. 28 කිලෝමීටර් කණුව අසලදී යකඩ වැටද කඩාගෙන පල්ලමකට පෙරලී ඇතැයි ද, වෛද්‍යවරයා බරපතල තත්ත්වයෙන් නාගොඩ රෝහලට ඇතුළු කළැයි ද අධිවේගි මාර්ග පොලිසිය කියයි.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-06-04 12:20:24</date>
+            <index>0</index>
+            <phrase>අදිවේගේ ආදීනව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2015-06-04 12:22:06</date>
+            <index>1</index>
+            <phrase>කාර් එකක් අනතුරකට ලක්වුනොත් වෛද්‍යවරයෙක් ඒ කියන්නේ ලංකාවේ කාර් පාවිච්චි කරන්න පුළුවන් වෛද්‍යවරුන්ට විතරයි. අනිත් අයට සල්ලි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක හේමන්ත</author>
+            <date>2015-06-04 12:38:07</date>
+            <index>2</index>
+            <phrase>මේ මහත්වරුන්ට හරියට නින්දක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2015-06-04 12:43:39</date>
+            <index>3</index>
+            <phrase>දුමින්දගේ අදහසට අනුව පලිබෝද නාශක බීල මලහමත් වරද පලිබෝධ නාශකේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූර්ණ</author>
+            <date>2015-06-05 04:47:39</date>
+            <index>4</index>
+            <phrase>හේමන්තගේ කතාව නම් මරු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2015-06-06 05:31:51</date>
+            <index>5</index>
+            <phrase>මිනිහෙක් කරදරයක වැටුනහම විකාර නොකියා හැකි පමණින් උදවු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

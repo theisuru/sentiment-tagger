@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46657</articleId>
+    <title>කඳවුරෙන් අවසන් ගමන් යයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 ජූනි මස 05 18:27:08</date>
+    <body>දකුණු ඉන්දියාවේ රාමේෂ්වරමේ රිය අනතුරකින් එහි සරණාගත කඳවුරක විසූ ලාංකිකයකු මියගොස් තවත් ලාංකිකයින් දෙදෙනකු තුවාල ලබා ඇතැයි තානාපති ආරංචි මාර්ගවලින් පැවසේ.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-05 20:46:07</date>
+            <index>0</index>
+            <phrase>අනේ පව්..අසරණයා..වහාම තානාපති කාර්යාල හරහා ඒ අසරණයින්ට පිහිටක් සැලසිය හැකිදැයි සොයා බලන මෙන් කාරුණිකව ඉල්ලා සිටිමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2012-06-06 00:39:18</date>
+            <index>1</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ යන නමින් නිතරම කොමෙන්ටු පළ කරන මහතා වෙත. ඔබට ආචාර්ය උපාධියක් නැත , ඔබ වැනිම පුද්ගලයෙක් මේ වගේ වංචනිකව විද්වත් නම භාවිතා කළා. ඔහුගේ නම ප්‍රවීන් ජයමහ. දැන් ඔහු ඉන්නේ රිමාන්ඩ් භාරයේ. ලංකාවේ මෝඩ මිනිසුන් සිටියත් තවමත් විචාර බුද්ධිය ඇති මිනිසුන් සිටිති. මේ නිසා ජනමාධ්‍ය භාවිතා කරමින් නැති උගත්කම් බොරුවට පෙන්වන ලාමක වැඩ නොකරන්න. ඔබ දැනට පාඨකයන් අතර විහිළුවක් වෙලා. මෙය ඔබට කරුණාව පෙරදැරි කරගෙන දෙන ඔවදනකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-06-06 00:09:39</date>
+            <index>2</index>
+            <phrase>කණගාටුයි අපිට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>abc</author>
+            <date>2012-06-06 08:50:28</date>
+            <index>3</index>
+            <phrase>අචාර්ය උපාධියක් තිබෙන කෙනෙක් යැයි කීවද එම තැනැත්තා මට නම් ඉතාම විශාල විහිළුවකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීනා</author>
+            <date>2012-06-06 09:05:00</date>
+            <index>4</index>
+            <phrase>පවු එහේ ඉන්න අසරණයෝ ජීවිතේ ගැට ගහ ගන්න යුද්ද කරනවා.අපි මෙහේ සතුටින් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බංගලියා</author>
+            <date>2012-06-06 12:19:32</date>
+            <index>5</index>
+            <phrase>නැති උගත්කම උලුප්පා පුන පුනා කීම තරම් අනුවන කමක් තවත් තිබේද .??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2012-06-06 18:15:23</date>
+            <index>6</index>
+            <phrase>සිරාවටම....මහත්තයො තමන්ට තියෙන උපාදි පට්ටම් වලින් අපිට වෑඩක් නෑ,,විහිලුවක් වෙන්න එපා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

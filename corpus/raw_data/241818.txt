@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>241818</articleId>
+    <title>සඳුන් ගමගේගේ ඡායාරූප දැක්ම</title>
+    <author></author>
+    <date>2014 ජූනි මස 13 15:42:51</date>
+    <body>ඡායාරූප ශිල්පී සඳුන් ගමගේ ගේ දෙවැනි ඡායාරූප ප්‍රදර්ශනය ලබන ජූනී 27,28,29  යන දිනයන්හි උදේ 8.30 සිට රාත්‍රී 8.30 දක්වා කොළඹ ලයනල් වෙන්ඩ්ට් කලා ගාරයේ දී පැවැත්වීමට නියමිතය.
+මනාලියන්ගේ ඡායාරූප ඇතුළත් මෙම ප්‍රදර්ශනය සෙන්ඩල් මයි බ්‍රයිට්ස් ලෙස නම් කැර ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අකිල</author>
+            <date>2014-06-13 18:18:08</date>
+            <index>0</index>
+            <phrase>ඇඳුම නම් හරිම ලස්සනයි. මනමාලියෙක් වුණහම මේ වගේ ලස්සනට තමයි ඉන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොඩිප්පිලි</author>
+            <date>2014-06-16 13:00:33</date>
+            <index>1</index>
+            <phrase>සුභපතනවා ඔබේ අනාගතයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2014-06-17 10:06:06</date>
+            <index>2</index>
+            <phrase>නොවරදවාම බලන්න එනවා. සුභපතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2014-06-19 21:03:12</date>
+            <index>3</index>
+            <phrase>ඔබට සුබ පැතුම්. සියලුදේ සාර්ථක වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීප්ත විජයසේකර</author>
+            <date>2014-06-21 17:10:20</date>
+            <index>4</index>
+            <phrase>ඔබේ ඡායාරූප ප්‍රදර්ශනයට හදවතින්ම සුභපතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

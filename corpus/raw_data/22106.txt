@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22106</articleId>
+    <title>ලක්ෂ 31 රේගුවේ හිරවේ</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 ජනවාරි මස 15 19:28:03</date>
+    <body>රුපියල් තිස් එක්ලක්ෂයක පමණ ඇමෙරිකා ඩොලර් සිංගප්පූරුව බලා හොරෙන් ගෙන යාමට ආ කුරුණෑගල ව්‍යාපාරිකයෙක් (31) සැකපිට අත්අඩංගුව ගත් බව සහකාර රේගු අධිකාරි ඩබ්ලිව්. පේ‍්‍රමජයන්ත හා එච්.පී. ලියනගම මහත්වරු මින් මද වේලාවකට කලින් පැවසූහ.</body>
+    <comments>
+        <comment>
+            <author>ශ්‍රියානි</author>
+            <date>2012-01-15 20:47:33</date>
+            <index>0</index>
+            <phrase>මේවගේ හොර වැඩ කරන අය නමත් එක්ක ප්‍රසිද්ධ කරන්න ඕන.. නැත්නම් වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Dayaratne lellopitiya</author>
+            <date>2012-01-16 16:40:36</date>
+            <index>1</index>
+            <phrase>ජයසිරි ස්තුතියි ප්‍රේමජයන්ත් මහත්තයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

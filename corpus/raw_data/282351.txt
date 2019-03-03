@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>282351</articleId>
+    <title>දොඹකර අනතුරින් බර හානි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 දෙසැම්බර් මස 14 14:05:08</date>
+    <body>දොඹකරයක් වැදීමෙන්බෝකුන්දර කටුවාවලදී තට්ටු නිවාසයකටද නවතා තිබූ කාරයකටද හානි සිදුවී විදුලි කණුවක් දෙකට කැඩී ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2014-12-14 05:15:05</date>
+            <index>0</index>
+            <phrase>වසරක් ගෙවී වසරක් උදාවෙන් මේ සමය ටිකක් දරුණු කාලයක් බව පෙනියනවා. සිදුවන අනතුරු දැක්කම. සුනාමිය ඇවිත් වසර 10 ක් සියලුම ජනයා තමන්ගේ ආරක්ෂාව ගැන මීට වඩා උනන්දු වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනෙල්ක‍ා</author>
+            <date>2014-12-14 23:45:24</date>
+            <index>1</index>
+            <phrase>මේ අනතුරු වලට හේතුව නොසැළකිල්ල නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2014-12-15 02:40:45</date>
+            <index>2</index>
+            <phrase>මේවා තමයි හදිසි අනතුරු. නැතුව මේවා හිතාමතා කරන දේවල් නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ෂාන්</author>
+            <date>2014-12-17 12:28:54</date>
+            <index>3</index>
+            <phrase>මේවා හදිසි අනතුරු නැතිනම් ඇක්සිඩන්ට්. මේවා සම්පුර්ණයෙන් නවතන්න බැරි උනත් අවම කරගන්න පුළුවන්. ඒවාට අවශ්‍ය කරන නියමිත ක්‍රම යොදා ගන්න ඕනා. සෑම දේකම මුලික අරමුණ ජිවිත හානි අවමය කරගැනීම වෙන්න ඕනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

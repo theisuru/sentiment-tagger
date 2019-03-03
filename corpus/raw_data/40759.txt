@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40759</articleId>
+    <title>භික්‍ෂු වෙසින් දඹදිව යන්න සල්ලි ගරලා</title>
+    <author>පි‍්‍රයානි මංගලිකා</author>
+    <date>2012 මැයි මස 06 10:45:01</date>
+    <body>යුද හමුදාවෙන් පැන අවුත් බාලවයස්කාර මල්ලීට ද සිවුරු අන්දවා බාප්පා දායකයකු කරගනිමින් දඹදිව යන බව කියා සම්මාදම් එකතු කළ බව කියන එක පවුලේ පිරිසක් නිකවැරටියේ දී සැකපිට අත්අඩංගුවට ගනු ලැබූහ.
+වැලිකන්දේ දොඩන්දුව පදිංචිකරුවන් වන මොවුන් මහව හෝටලයක නවාතැන් ගෙක භික්‍ෂු වෙසින්  පිංපත්තර විකුණා ආධාර එකතු කර ඇතැයි පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>දිනේශ්</author>
+            <date>2012-05-06 10:58:28</date>
+            <index>0</index>
+            <phrase>ඇයි මේ විදියට බුදුදහමට නිගරු කරන්නේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-06 13:01:05</date>
+            <index>1</index>
+            <phrase>අපෝ මෙ ඇත්තන්ට දඔදිව යන දොලදුකක් ඇතිවෙලාද කොහෙද? ඔය කවුරු කවුරු හරි එකතුවෙලා ඔය මනුෂ්‍යයෝ ටික දඔදිවට යවල දාන්න. ඒකත් කොරන කෙනාට පිනක් නොවැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-05-06 13:22:41</date>
+            <index>2</index>
+            <phrase>මේ අය තමයි ජේතවනාරාමයටත් ගල් ගහන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජාන්</author>
+            <date>2012-05-06 18:56:54</date>
+            <index>3</index>
+            <phrase>අනේ සාධු සාධු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17625</articleId>
+    <title>විදිලි මණ්ඩලේ කෝටි තුනක් කුලී ගෙවලා</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 15 14:22:18</date>
+    <body>විදුලි බලමණ්ඩලය පසුගිය මාස දහයේ දී කාර්යාල කුලී වෙනුවෙන් රුපියල් එක්කෝටි හතළිස් එක් ලක්ෂයක් ද, 2010 දී රුපියල් එක්කෝටි හැට එක් ලක්ෂයක් ද, වැය කැර ඇතැයි එජාප මන්ත්‍රී රවි කරුණානායක මහතාගේ ප්‍රශ්නයකට පිළිතුරු දෙමින් විදුලි බල නියෝජ්‍ය ඇමැති ප්‍රේමලාල් ජයසේකර මහතා පාර්ලිමේන්තුවේ දී පැවැසීය. විදුලි බල මණ්ඩලය අලාභයට පවත්වාගෙන යයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-12-15 15:47:22</date>
+            <index>0</index>
+            <phrase>තවත් කාට හරි කොටසක් යනවද දන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>molakaraya</author>
+            <date>2011-12-15 18:49:02</date>
+            <index>1</index>
+            <phrase>වියදම් විතරක් කෝටි ගණන්වලින්. ආදායමත් ඔහොමම හෙළිකළොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ක</author>
+            <date>2011-12-15 19:04:16</date>
+            <index>2</index>
+            <phrase>ඉතින් පාඩු නොලබනවනම්නේ පුදුමෙ......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

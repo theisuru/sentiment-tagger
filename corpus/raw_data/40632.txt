@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40632</articleId>
+    <title>ලොවම දැහැමින් දිනේවා</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 05 01:08:38</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කෙනත්, ඇමරිකා එක්සත් ජනපදය</author>
+            <date>2012-05-05 01:39:21</date>
+            <index>0</index>
+            <phrase>"තමා දිනීම වඩා උතුම්ය"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව ද මෙල්</author>
+            <date>2012-05-05 02:38:58</date>
+            <index>1</index>
+            <phrase>උතුම් දළදා හිමි රුකවරණින්, තුණුරුවන්ගේ ආශිර්වාදයෙන් සියලු ලක්වැසියන් හට, සාමය සහ සහජීවනය සපිරි සුභ වෙසක් මංගල්‍යයක් වේවා .... !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-05-05 13:01:21</date>
+            <index>2</index>
+            <phrase>ඔබ සැමට සුබම සුබ වෙසක් මංගල්‍යයක් වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

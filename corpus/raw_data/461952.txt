@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461952</articleId>
+    <title>යෝෂිතට ඕස්ට්‍රේලියා යන්න අවසර</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 28 10:56:26</date>
+    <body>වෛද්‍ය ප්‍රතිකාර සඳහා ඕස්ට්‍රේලියාවේ මෙල්බර්න් නුවරට යෑම සඳහා හිටපු ජනපති පුත් යෝෂිත රාජපක්ෂට අද (28) කොළඹ මහාධිකරණ විනිසුරු ඒ.ඒ.ආර්.හෙයියන්තුඩුව මහතා අවසර ලබා දුන්නේය.
+සීඑස්එන් නාළිකාවට මුදල් යෙදවීම සම්බන්ධයෙන් මුදල් අවභාවිත කළැයි කඩුවෙල අධිකරණයේ පවතින නඩුවක් සඳහා ඇප ලබා සිටින යෝෂිත රාජපක්ෂගේ ඇප කොන්දේසියක් ලෙස විදෙස් ගමන් තහනම් කර තිබූ අතර සිය දකුණු දණහිසේ සහ වළලුකර ආබාධයකට ප්‍රතිකාර ලබාගැනීම සඳහා මසක කාලයකට ඔස්ට්‍රේලියාවට යාමට ඔහු අධිකරණයෙන් අවසර ඉල්ලා තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-09-28 05:58:26</date>
+            <index>0</index>
+            <phrase>මෙයාට එහෙත් වතුද දන්නෙන් නැහැ, මොකද පහුගිය කාලේ අර එක්කෙනෙක් හිටියනේ ආණ්ඩුවේ තනතුරු වලට ඇවිල්ල. කොම්පැනියකට සල්ලි දාලත් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-09-28 06:06:50</date>
+            <index>1</index>
+            <phrase>මාර සල්ලිකාරයෝ වෙලානේ මෑදමුලනේ අය දෑන් බෙහෙත් ගන්නත් යන්නේ පිටරට එසේ මෙසේ ඒවට නෙවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-09-28 06:14:48</date>
+            <index>2</index>
+            <phrase>සාමාන්‍ය කෙනෙක් මෙහෙම් ඉල්ලුවත් දෙනවද මේ අයට කවරදාකවත් දඩුවම් නම් ලැබෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2016-09-28 06:56:16</date>
+            <index>3</index>
+            <phrase>ලෙඩ්ඩු ගොඩක් නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන</author>
+            <date>2016-09-28 08:27:03</date>
+            <index>4</index>
+            <phrase>එයාලට සිය රට දේ සිරිසැප දෙන්නෙ නැතුව ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලීනස්-රාජගිරිය</author>
+            <date>2016-09-28 09:27:16</date>
+            <index>5</index>
+            <phrase>ඕස්ට්‍රේලියාවට ගිහින් මාසයක් නැවතිලා වෛද්‍ය ප්‍රතිකාර ගන්න රුපියල් මිලියන කීයක් වියදම් කරන්න ඕනෑද? මේවා දහදිය මහන්සියෙන් හම්බ කරපුවද? ඔහොම යමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-09-28 09:45:01</date>
+            <index>6</index>
+            <phrase>බලය නැතුව මෙහෙමනම් තිබුණා නම් කොහේ යයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

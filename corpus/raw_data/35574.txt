@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35574</articleId>
+    <title>මිහින් එයාර් යානයක් හදිසියේ බස්සයි</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 අපේ‍්‍රල් මස 09 11:06:39</date>
+    <body>කටුනායක සිට ජාකර්තා නුවර බලා අද උදේ 7.30ට පිටත් වූ එම් කේ 603 මිහින් එයාර් ගුවන් යානය පෙරවරු 9.21ට යළි ගුවන් තොටට ගොඩ බෑවේය. ඒ වන විට ගුවන් තොටුපොළේ පූර්ණ හදිසි අවස්ථාවක් ප්‍රකාශයට පත් කර තිබිණි. යානයේ ගමන් බඩු අංශයේ බහාලුමකින් දුම් දැමීමක් මේ සිද්ධියට හේතු විය. ගුවන් යානය එහි ගොඩබට වහාම මගීහු 202 ඉන් ඉවතට ගනු ලැබූහ. මගීන් කිසිවකුටත් කිසසිම කරදරයක් සිදුවී නැත.
+යානයේ කාර්මික දෝශයක් තුබු බවක් පෙනෙන්නට නැත.</body>
+    <comments>
+        <comment>
+            <author>රම්ස්</author>
+            <date>2012-04-09 11:09:01</date>
+            <index>0</index>
+            <phrase>අපේ බදු සල්ලි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-04-09 11:26:12</date>
+            <index>1</index>
+            <phrase>මේක අන්තර්ජාතික කුම්‍න්ත්‍රණයක් වෙන්න පුළුවන්. අපි විදේශීය ගුවන් සේවා භාවිතය නැවැත්විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-04-09 11:31:42</date>
+            <index>2</index>
+            <phrase>යානයෙන් දුම් දැමීමකදි බැස්සවීමත් වැරැද්දක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-04-09 11:54:14</date>
+            <index>3</index>
+            <phrase>මේ ඉතින් හෙමින් එයාර් නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-09 12:17:34</date>
+            <index>4</index>
+            <phrase>කවුරුහරි දුම්වැටියක්වත් පත්තු කරලා දමලද දන්නේනෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල් සමරවීර - මාලදිවයින</author>
+            <date>2012-04-09 12:19:49</date>
+            <index>5</index>
+            <phrase>මමත් සෑම මාස තුනකට වරක්ම ශ්‍රී ලන්කන් සහ මිනින් ලංකා ගුවන් යානාවලින් ගමන් කරනා මගියෙක්. අපිට අලුතින් ගුවන් යානා තිබුණොත් හොඳයි තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Love SL</author>
+            <date>2012-04-09 12:46:54</date>
+            <index>6</index>
+            <phrase>අපි වෙනත් ගුවන්සේවා නැවැත්වුවාම ආපහු එන්නේ මොකේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-04-09 12:53:43</date>
+            <index>7</index>
+            <phrase>ගුවන් නියමුවා ඉතාමත් සුදුසු තීරණයක් අරන් තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජුවා</author>
+            <date>2012-04-09 13:21:22</date>
+            <index>8</index>
+            <phrase>ගින්නක් නැතිව දුමක් නගීද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ප්‍රියන්ත</author>
+            <date>2012-04-09 13:55:28</date>
+            <index>9</index>
+            <phrase>අපිනම් මිහින් ලංකාවල යාම නැවැත්වුවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

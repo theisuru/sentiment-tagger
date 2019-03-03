@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>146026</articleId>
+    <title>අම්බලංගොඩ ධීවර වරායේ අඩුපාඩු</title>
+    <author>දීපාල් සිල්වා</author>
+    <date>2013 ජූලි මස 02 21:10:33</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ලක්ෂ්මණ්</author>
+            <date>2013-07-02 22:53:16</date>
+            <index>0</index>
+            <phrase>අපේ වරාය හොදට හදලා දෙන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2013-07-03 15:12:37</date>
+            <index>1</index>
+            <phrase>මේ වරායත් බලාගෙන ගියහම අර හම්බන්තොට වරායේ කුඩා අනුරුවක් වගෙයි. ගල්පර නිසා බෝට්ටු එන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2013-07-04 21:56:52</date>
+            <index>2</index>
+            <phrase>අනේ අපේ වරාය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

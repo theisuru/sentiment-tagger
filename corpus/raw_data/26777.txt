@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26777</articleId>
+    <title>වර්ජනයෙන් ලංගමට ගජ වාසි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 පෙබරවාරි මස 14 11:06:58</date>
+    <body>පුද්ගලික බස් රථ වර්ජනය ක්‍රියාත්මක වූ සදුදා(13) ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයේ දිනක ආදායම සියයට 100 කින් ඉහළ ගිය බව ශ්‍රී ලංගම සභාපති ශෂි වෙල්ගම මහතා කියයි.
+සාමාන්‍ය දිනකදී ශ්‍රී ලංගමය රුපියල් කෝටි හතරක ආදායමක් ලබන නමුත් සඳුදා ආදායම රුපියල් කෝටි 8 ඉක්මවා ඇතැයිද සභාපති පවසයි.
+ලංගම බස්රථ 5000ක් පමණ ධාවනයට එක්කළෝය.</body>
+    <comments>
+        <comment>
+            <author>ඩබ් ඒ ප්‍රභාත්</author>
+            <date>2012-02-14 11:12:53</date>
+            <index>0</index>
+            <phrase>පුද්ගලික බස් නැති කාලෙත් ලංගමට ගජ වාසි තියෙන් ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්වජිත්</author>
+            <date>2012-02-14 11:23:30</date>
+            <index>1</index>
+            <phrase>ලංගමයේ බස් ගස්ස්තු වෙඩි නොකර දාවනය කළහොත් මහජනතාවට සහනයක් වනවා වගේම ලංගම වෙත එන මගීන්ගේ ප්‍රමාණයද වැඩි වේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරි</author>
+            <date>2012-02-14 11:50:53</date>
+            <index>2</index>
+            <phrase>ඇයි මේක හැමදාම කරන්න බැරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-02-14 11:51:36</date>
+            <index>3</index>
+            <phrase>බස් ගාස්තු වැඩි කිරීමෙන් පසු පුද්ගලික බස් වලටද ගඡ වාසිලු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහදැන මුත්තා</author>
+            <date>2012-02-14 12:19:58</date>
+            <index>4</index>
+            <phrase>බස් ගාස්තු වැඩි කිරීමෙන් පසු පුද්ගලික බස් ලාභය වැඩි උනත් ඒ අය ඒ ලාභය කියන්න කැමති නෑ හැමදාම පාඩුව පෙන්වනව ඒත් 1 බසයක් දුවවල අවුරුද්දක් ගෙවෙනවිට තවත් බසයක් පාරට දාන්න පුලුවන් වෙන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-02-14 15:31:49</date>
+            <index>5</index>
+            <phrase>ලංගම තව බස් වැඩි කරල දිව්වොත්, පුද්ගලික බස්වල බොරු හයිය බලන්න ඕන ණෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

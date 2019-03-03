@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60874</articleId>
+    <title>ගිංතොට ගැටුමෙන් සුපිරි කඩයකට ගිනි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 අගෝස්තු මස 26 10:22:22</date>
+    <body>ගාල්ලේ ගිංතොට දෙපාර්ශවයක් අතර ඇතිවූ ගැටුමකින් සුපිරි වෙළඳ සැලකට ගිනි තබා ඇතැයි පොලීසිය කියයි. දින කිහිපයක් තිස්සේ වරින් වර ඇතිවූ මෙම තත්ත්වය සමථයකට පත්කැර ඇති බවත් පොලිස් ආරක්ෂාව තරකැර ඇතිබවත් ගාල්ල පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-08-26 10:30:21</date>
+            <index>0</index>
+            <phrase>වෛරයෙන් වෛරය නොසන්සිදේ. මිනිසුන්ට ආකල්පමය වෙනසක් අවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෙපාඩි</author>
+            <date>2012-08-26 10:52:43</date>
+            <index>1</index>
+            <phrase>මෙයා ගාව සල්ලි නැතුව ඉන්සුවරන්ස් එක කර ගන්න බැරුව කඩේ ගිනි තියලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-08-26 11:49:12</date>
+            <index>2</index>
+            <phrase>ජාතිවාදී ගැටුමක් නොවෙයි නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්</author>
+            <date>2012-08-26 12:04:19</date>
+            <index>3</index>
+            <phrase>මෙයා ගාව සල්ලි නැතිව නොවෙයි රක්ෂණයෙන් සල්ලි ගන්න ගිනි තියා ගන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-08-26 12:11:11</date>
+            <index>4</index>
+            <phrase>මුස්ලිම් දෙකොටසක් අතර ඇතිවූ ගැටුමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රතන</author>
+            <date>2012-08-26 12:40:09</date>
+            <index>5</index>
+            <phrase>මේවාට වන්දි දෙන්නේ කවුද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-26 12:52:28</date>
+            <index>6</index>
+            <phrase>කවුද දැන් මෙවාට් වග කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මල් බණ්ඩාර</author>
+            <date>2012-08-26 13:39:24</date>
+            <index>7</index>
+            <phrase>දින කීපයක් තිස්සේ ඇතිවූ ගැටුමක් කොහොමද කඩේකට ගිනි තියල සමථයකට පත් වෙන්නේ?? දින කීපය ගහ මරා ගන්නකල් පොලිසිය පොල් ගැවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2012-08-26 14:38:40</date>
+            <index>8</index>
+            <phrase>බංකොලොත් වෙලාද දන්නේ නැහැනේ. නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමිතියාස්</author>
+            <date>2012-08-26 14:51:12</date>
+            <index>9</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයම්පති</author>
+            <date>2012-08-26 15:32:45</date>
+            <index>10</index>
+            <phrase>මමත් ලක්මාල් සමග එකගයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2012-08-26 17:03:56</date>
+            <index>11</index>
+            <phrase>දින කීපයක් ගහගෙනද! හවසට කට්ටිය ගෙදර ගිහිල්ල පහුවද ඇවිල්ල අපහු ගහ ගන්න ඇති.. ටෙස්ට් මැච් එකක් වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උම්බු</author>
+            <date>2012-08-26 17:48:11</date>
+            <index>12</index>
+            <phrase>ආගම් පිළිබද හරියාකාර නොදැනීම නිසා ඇතිවන ගැටළු මේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

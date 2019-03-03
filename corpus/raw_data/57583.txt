@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57583</articleId>
+    <title>දකුණු පළාත් මන්ත්‍රීට ඇප</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 අගෝස්තු මස 08 12:10:36</date>
+    <body>පොලීසියේ රාජකාරියට බාධා කලැයි සැකපිට රිමාන්ඩ් භාරයේ සිටි දකුණු පළාත් සභා මන්ත්‍රී ක්‍රිෂාන්ත පුෂ්පකුමාර (රත්තරං)  හා බෝපේ පෝද්දල ප්‍රාදේශීය සභා මන්ත්‍රී අමිල නුවන් යන දෙදෙනාට ගාල්ල මහේස්ත්‍රාත් ඩබ්ලිව්.එස්.කලංසූරිය මහතා අද රුපියල් 10,000  බැගින් ශරීර ඇප හා රුපියල් ලක්ෂ දෙක බැගින් ශරීර ඇප නියමකළේය. ඔවුන් තවදුරටත් පොලිස් රාජකාරියට බාධා කළහොත් ඇප අවලංගු කොට රිමානඩ් භාරයට පත්කරන බව ද මහේස්ත්‍රාත්වරයා කියා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-08-08 13:27:56</date>
+            <index>0</index>
+            <phrase>රත්තරංගෙ කට වැඩියි. දැන්වත් වහ ගන්නවා නම් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල-වෙරෝනා</author>
+            <date>2012-08-08 14:22:24</date>
+            <index>1</index>
+            <phrase>දෑන්වත් සද්ද බද්ද නැතුව ඉදීද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-08 15:25:35</date>
+            <index>2</index>
+            <phrase>හොද වැඩේ. හුගක් දේශපාලඥයන් වැඩක් කරන්නෙත් නැහැ. කරන කෙනෙකුට කරන්න දෙන්නෙත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2012-08-08 17:34:18</date>
+            <index>3</index>
+            <phrase>අනේ රත්තරං, දැන් දෙවියන් දේවා‍ලයේ නොමැතිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-09 14:04:17</date>
+            <index>4</index>
+            <phrase>ඇයි රත්තරන් ඔච්චර ගණන් ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

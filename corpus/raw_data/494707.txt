@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494707</articleId>
+    <title>වසර හතරට කුඩු කිලෝ 2000ක් අත්අඩංගුවට</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 දෙසැම්බර් මස 30 17:06:31</date>
+    <body>පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය ගත වූ සර හතරේ හෙරොයින් හා කොකේන් මත් කුඩු කිලෝ දෙදහසක් අත්අඩංගුවට ගත් බව පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය කියයි.
+2016 වසරේ පමණක් අත්අඩංගුවට ගත් මත්ද්‍රව්‍යවල මුළු වටිනාකම කෝටි 2470ක් බව ද පොලිසිය සඳහන් කරයි.
+මේ වසරේ කොකේන් කිලෝ 1486ක් ද, හෙරොයින් කිලෝ 147ක් ද අත්අඩංගුවට ගෙන තිබේ.</body>
+    <comments>
+        <comment>
+            <author>සනත්</author>
+            <date>2016-12-30 12:30:01</date>
+            <index>0</index>
+            <phrase>කෝ ඒ කුඩු? මොකද ඒවට වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2016-12-30 13:14:00</date>
+            <index>1</index>
+            <phrase>එතකොට ඔය කියන මත්කුඩු වලට මොකද වුණේ කියලා කියන්නේ නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිරි</author>
+            <date>2016-12-30 17:08:17</date>
+            <index>2</index>
+            <phrase>අල්ලාගත් එ්වාට ඊටපස්සේ වෙන දේ ගැන ආරංචියක්වත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-12-31 11:28:53</date>
+            <index>3</index>
+            <phrase>කුඩු, එතනෝල්, වංචාව, දුෂණය නවතනවා... මේවා කියලා නේද ආණ්ඩුව වෙනස් කළේ? කෝ තවමත් තියනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

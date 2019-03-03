@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>13588</articleId>
+    <title>අවස්ථාව නැති වුණා</title>
+    <author>සුජිත් මංගල සිල්වා</author>
+    <date>2011 නොවැම්බර් මස 18 15:45:32</date>
+    <body>හිටපු හමුදාපති සරත් පොන්සේකා මහතාට රටත් ජනතාවත් වෙනුවෙන් තවදුරටත් සේවය කිරීමට තිබූ අවස්ථාව ගිළිහි ගියේ යැයි එක්සත් ජාතික පක්ෂය පවසයි. කුරිරු කොටි ත්‍රස්තවාදයෙන් රටත් ජනතාවත් බේරාගත් අභීත සෙන්පතියා ඔහු බව එජාප මහා ලේකම් තිස්ස අත්තනායක මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>සෙහාන්</author>
+            <date>2011-11-18 18:20:55</date>
+            <index>0</index>
+            <phrase>ඇත්තද තිස්ස? එතකොට ඕනම කෙනෙකූට කරන්න පුලුවන් අලිමන්කඩ නෙමෙයි පාමන්කඩ යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sisila</author>
+            <date>2011-11-18 18:57:42</date>
+            <index>1</index>
+            <phrase>ඔහුගේ සේවය රටට අහිමි කිරීමට දායක වූ එක් අයෙක් කන්නාඩියක් ඉදිරියට ගියවිට ඔබටම බලාගත හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2011-11-18 20:56:30</date>
+            <index>2</index>
+            <phrase>නැති වුණා නෙවේ. ඒ මනුස්සයට ලණු දීලා අවස්ථාව නැතිකළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2011-11-18 20:57:24</date>
+            <index>3</index>
+            <phrase>අපිට මතක් කෙනෙක් කිව්වා ඕන ගොනෙකුට යුද්ධ කරන්න පුලුවන් කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-18 21:25:22</date>
+            <index>4</index>
+            <phrase>යූ.එන්.පී. එකට පේන්න ඇති නායකයෙක් හිටියනම් සරත් ‍‍‍‍‍ෆොන්සේකා අදටත් ලොව හොදම හමුදා නායකයා කියලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත සමීර</author>
+            <date>2011-11-18 21:49:54</date>
+            <index>5</index>
+            <phrase>ඔබ අපත් එක්ක එන්න ඕනා. රටට අවශ්‍යයි. ඔහුට සේවයක් කරන්න අවස්ථාවක් දුන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Baila</author>
+            <date>2011-11-18 21:57:31</date>
+            <index>6</index>
+            <phrase>බලලෝභි දේශපාලනයක නිරත වෙන්න යූ.එන්.පී. එක එස්.එෆ්.ට උදව් කලා කියලා මට හිතෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධීර</author>
+            <date>2011-11-18 22:39:25</date>
+            <index>7</index>
+            <phrase>දිට්ට ධම්ම වේදනීය කර්මය කියල දෙයකුත් තියෙනවා කියල කව්රුත් දැනගන්න ඕනේ...ආණ්ඩුවේත් අනිත් අයත්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න සිල්වා</author>
+            <date>2011-11-19 03:35:30</date>
+            <index>8</index>
+            <phrase>යූ ඇන් පී එක බොරුවට අඩන්නෙ නැතිව නායකත්වය පොන්සේකාට දුන්නනම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mac</author>
+            <date>2011-11-19 16:49:29</date>
+            <index>9</index>
+            <phrase>යුඇන්පී එක තමයි අපේ රට විනාශ කළ තරමක් කළේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

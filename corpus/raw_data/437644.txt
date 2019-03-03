@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>437644</articleId>
+    <title>මොරටුවට සැඩ සුළං</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ජූලි මස 15 10:19:20</date>
+    <body>අද අලුයම 4.30ට පමණ හමාගිය සුළඟකින් මොරටුවේ  නිවාස දහයක වහළ ගැලවී සුළඟේ පාවී ගොස් වාහන කිහිපයකට හානි සිදුවී  ඇතැයි වැසියෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2016-07-15 06:03:15</date>
+            <index>0</index>
+            <phrase>අනේ මන්දා ස්වභාව ධර්මයෙනුත් හැම පීඩාවක්ම වෙන්නේ දුප්පත් අහිංසක මිනිස්සුන්ටම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-07-15 09:20:14</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා රටට උන නස්පැත්තියක මහත. තවම ඉවරයක් නැනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

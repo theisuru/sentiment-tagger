@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450519</articleId>
+    <title>බොකෝහරාම්  නායකයා ගුවන් ප්‍රහාරයකින් තුවාල ලබයි</title>
+    <author>අරුණ ශාන්ත කුමාර</author>
+    <date>2016 අගෝස්තු මස 23 19:20:40</date>
+    <body>නයිජීරියාවේ ගුවන් හමුදාව අද එල්ල කළ ගුවන් ප්‍රහාරයකින් බෝකෝහරාම් ත්‍රස්ත සංවිධානයේ ප්‍රධානී අබුබකර් ෂෙක්ව් දරුණු ලෙස තුවාල ලබා ඇතැයි එරට රජය තහවුරුකර ඇතැයි විදෙස් පුවත් සේවා පවසයි. නයිජීරියාවේ ඊසාන දිග ප්‍රදේශයේ බෝනෝර් ප්‍රාන්තයට එල්ල කළ එම ගුවන් ප්‍රහාරයෙන් එම සංවිධානයේ මුල්පෙල සාමාජිකයින් රැසක් ම මියගොස් ඇතැයි ද එරට රජය පවසයි.නයිජීරියාවේ උතුරු ප්‍රදේශය ඔවුන් යටතට ගැනීමට බෝකෝහරම් සංවිධානය 2009 සිට සාමාන්‍ය වැසියන් ඝාතනය කරමින් ගැටුම්වල නිරතව සිටියි. මෙම ත්‍රස්ත සංවිධානය සම්පූර්ණයෙන්ම විනාශ කරන්නැයි එරට ජනාධිපති හමුදාවට නියෝග කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2016-08-23 19:25:06</date>
+            <index>0</index>
+            <phrase>මම නම් කියන්නේ ඔය කිව්වට සම්පූර්ණයෙන් විනාශ කරන්න එපා කියලයි. මොකද පස්සේ සියල්ලටම හිරේ යන්න වෙයි. ඕවා පස්සට තමා බලපාන්නේ. අපිට හොඳ අත්දැකීම් තිබෙනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2016-08-24 02:23:56</date>
+            <index>1</index>
+            <phrase>ලියනගේ, කව්ද දැන් හිරේ ගිහින් තියෙන්නේ? ඕවා අර නැවත බලය ගන්න හදන අය තමයි කියන්නේ. ඒ කාලේ නම් හමුදාපතිත් හිරේ දැම්මා අපිට නම් හොඳට මතකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-08-24 02:49:21</date>
+            <index>2</index>
+            <phrase>අපි බලමු මොකක්ද වෙන්නේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-08-24 02:56:03</date>
+            <index>3</index>
+            <phrase>අප්පුහාමි, හමුදාපති හිරේ දැම්මේ මොකද කියලා පොඩ්ඩක් හොයලා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-08-24 04:51:09</date>
+            <index>4</index>
+            <phrase>මොහාන් දැන් කාලේ හිරේ යන්නේ ඇයි කියලත් පොඩ්ඩක් හොයලා බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-08-25 13:27:39</date>
+            <index>5</index>
+            <phrase>අවිගත්තෝ අවියෙන්ම නැසෙති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

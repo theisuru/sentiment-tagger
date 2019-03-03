@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57125</articleId>
+    <title>කුණු සුදුලූනු කන්ටේනරයක් දඹුල්ලෙන් අල්ලයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අගෝස්තු මස 05 23:11:36</date>
+    <body>නරක් වූ සුදුලූනු කන්ටේනරයක් කොළඹ සිට දඹුල්ලට ගෙන ගොස් එහි පෞද්ගලික ගබඩාවකදී සුද්ධ කරමින් සිටියදී ‍සොයාගත් පාරිභෝගික අධිකාරයේ මාතලේ නිලධරයෝ එම ගබඩාවට ශීල් තැබූහ.
+කිලෝ 41000ක නරක්වූ සුදු ලූනු එහි තිබූ බවත්, නරක් වන්නට ප්‍රථම එහි වටිනාකම රුපියල් ලක්ෂ 35ක් බවත් පාරිභෝගික අධිකාරිය කියයි. මෙවැනි කන්ටේනර් තුනක් කොළමින් පිටවී ඇති බවත්, ඒවා සොයන බවත් එහි නිලධරයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>සංජය කුමාර</author>
+            <date>2012-08-05 23:51:44</date>
+            <index>0</index>
+            <phrase>අපේ පාරෙනුත් ගියානේ එකක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-06 06:11:52</date>
+            <index>1</index>
+            <phrase>අනෙක් කන්ටෙනර් දෙක ජරාවට යට කලාද දන්නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-06 07:57:55</date>
+            <index>2</index>
+            <phrase>බාල දේවල් ගන්න කල් නිසි බලධාරියෝ නිදාගෙනද ඉන්නේ? මේකද ආශ්චර්යය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2012-08-06 09:45:55</date>
+            <index>3</index>
+            <phrase>ඇයි ද දන්නේ නැහැ ඇල්ලුවේ? කුණු වෙච්චා ටික විසිකරන්න ගෙනයන්න ඇති. වෙච්ච පාඩුව අඩු කරන්න හොද ඒවා පමණක් සුද්ද කරන්න ඇති. කුණු වෙච්චා සුද්ද කරාම හොද තත්වෙට එන්නෙ නැති නිසා කුණුවා කොහොමත් විකුණන්න බැහැ ඇස් තිබෙන මිනිසුන්ට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිසාර්</author>
+            <date>2012-08-06 10:37:20</date>
+            <index>4</index>
+            <phrase>කුණු වුණූ ඒවාද කියලා හරියටම පරීක්ෂා කළාද දන්නේ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ</author>
+            <date>2012-08-06 10:41:08</date>
+            <index>5</index>
+            <phrase>අවශ්‍ය ස්ථාන වලට අවශ්‍ය යුතුකම් හරිහැටි ඉටු නොවෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-08-06 11:37:57</date>
+            <index>6</index>
+            <phrase>ආරක්ෂක මුර කපොළු කීයක් නම් පහු කරන්න ඇද්ද? ඒ වගේම වරායෙන් පටවද්දී කොච්චර කරදර වෙන්න ඇද්ද? ඒත් අහුවුණේ එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආආආ</author>
+            <date>2012-08-06 12:19:06</date>
+            <index>7</index>
+            <phrase>මෙතෙනදී දඹුල්ල පුද බිමක් නෙවෙයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2012-08-06 15:57:06</date>
+            <index>8</index>
+            <phrase>අපෝයි! මේ කට්ටිය පොලිසියටත් සුදු ලූණු පොඩි කරලානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-07 12:04:18</date>
+            <index>9</index>
+            <phrase>නිකනුත් ගඳ සුදු ලූනු නරක් වුණාම කොහොම ඇද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

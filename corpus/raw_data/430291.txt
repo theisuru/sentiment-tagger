@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>430291</articleId>
+    <title>නයිජීරියා සරණාගතයෝ කුසගින්නෙන් මියැදෙති</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජූනි මස 24 09:38:38</date>
+    <body>නයිජීරියාවේ අනාථ කඳවුරක සිටි 200කට ආසන්න සරණාගතයන් පිරිසක් මන්ද පෝෂණය හේතුවෙන් මියගොස් ඇතැයි එරට මාධ්‍ය වාර්තා පවසයි.
+බොකෝ හරාම් ත්‍රස්තවාදීන්ගෙන් මිදී පළා ආ විසි දහසකට ආසන්න පිරිසක් එම කඳවුරේ නවාතැන් ගෙන සිට ඇති අතර අධික කුසගින්නෙන්ද විජලනයෙන්ද ඔවුහු බැටකන බව කියති. මිය ගිය පිරිස අතර කුඩා දරුවන් රැසක්ද සිටින බව වාර්තාවේ.
+නයිජීරියා හමුදා සහ බොකෝ හරාම් ත්‍රස්තයන් අතර සන්නද්ධ අරගල හේතුවෙන් පසුගිය සමයේ විසි ලක්ෂයකට අධික පිරිසක් අවතැන්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>නිශාන්</author>
+            <date>2016-06-24 06:54:59</date>
+            <index>0</index>
+            <phrase>අවසානයේ දුක් විදින්නේ අහිංසක අසරණයන්. අවසනාවක මහත! මොවුන් දෙස බලන්න කවුරුත්ම නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2016-06-24 22:19:14</date>
+            <index>1</index>
+            <phrase>ඇමරිකාව සහා යුරෝපයේ ජනහිතකාමිත්වය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-06-25 03:35:35</date>
+            <index>2</index>
+            <phrase>මහින්දලා යන්නේ නැද්ද අාධාර එහෙම බෙදන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-06-25 05:12:46</date>
+            <index>3</index>
+            <phrase>ඇමරිකාව සහා යුරෝපයේ එන්ජිඕ නැත්නම් අප්‍රිකාවේ මිනිස්සු මැරිච්ච තැන වල ගසුත් පැල වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙන්</author>
+            <date>2016-06-25 10:43:24</date>
+            <index>4</index>
+            <phrase>අනේ දෙවියනේ අසරණ මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-06-25 16:13:10</date>
+            <index>5</index>
+            <phrase>ත්‍රස්තවාදීන්ගෙන් මිදී ආවත් දෛවයේ සරදමට හසුවූ හැටි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

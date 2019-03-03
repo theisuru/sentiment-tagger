@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54075</articleId>
+    <title>බොරු පෙම්වතා අල්ලයි</title>
+    <author>පි‍්‍රයන්ත හේවගේ</author>
+    <date>2012 ජූලි මස 18 15:28:56</date>
+    <body>සුදු වෑන් රියකින් පැහැරගෙන යමින් සිටි රජයේ සේවිකාවක සැකකරුවන්ද සමග අත්අඩංගුවට ගත් බව සෙට්ටිකුලම පොලිසිය කීය. අඩම්පන්හි පදිංචි එම තරුණිය තම පෙම්වතිය බව සැකකරු කියා ඇතත් ඔහු තම පෙම්වතා නොවන බව ඇය කියා ඇත.</body>
+    <comments>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-07-18 15:38:44</date>
+            <index>0</index>
+            <phrase>එල්ලා මරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-18 16:21:29</date>
+            <index>1</index>
+            <phrase>පෙම්වතාට පොඩ්ඩක් අවුල් වෙලාද දන්නේ නෑ.....වෙන කෙනෙක්ව උස්සල තියෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-18 16:25:58</date>
+            <index>2</index>
+            <phrase>මනෝමයෙන් පෙම් කරන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්වින්</author>
+            <date>2012-07-18 17:04:34</date>
+            <index>3</index>
+            <phrase>10 ක් දඩ මුදල් ලෙස නියම කරන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-18 16:35:24</date>
+            <index>4</index>
+            <phrase>එතකොට උපුල් අපේ රටේ මිනිස්සු නැති වේවි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-18 17:14:11</date>
+            <index>5</index>
+            <phrase>එයා දන්නේ නැතුව ඇති මෙයා යාළුයි කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-18 16:36:51</date>
+            <index>6</index>
+            <phrase>හොයලා බලන්න උණුසුම් කොල්ලද කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-07-18 16:51:05</date>
+            <index>7</index>
+            <phrase>උපරිම දඩුවම් දෙන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩි ජපනා</author>
+            <date>2012-07-18 18:55:59</date>
+            <index>8</index>
+            <phrase>ඔබ නොදනී...... මුළු ලොවම දනී.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මන්ජුල</author>
+            <date>2012-07-18 20:40:11</date>
+            <index>9</index>
+            <phrase>පොඩි ප්‍රශ්නයක් වෙන්න ඇති.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-18 20:36:21</date>
+            <index>10</index>
+            <phrase>කෙල්ල බොරු කියන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කටුගහගේ</author>
+            <date>2012-07-19 02:28:55</date>
+            <index>11</index>
+            <phrase>උපුල් , එල්ල මරන්නේ කොහොමද ....තාම අලුගෝසුව තෝරාගෙන නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-07-19 05:28:42</date>
+            <index>12</index>
+            <phrase>ඔබ නොදනී මුළු ලොවම දනී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රට වැසියෙක්</author>
+            <date>2012-07-19 07:16:18</date>
+            <index>13</index>
+            <phrase>පෙම්වතා ආණ්ඩුවට සම්බන්ධ රැකියාවක් කරන කෙනෙක්ද?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජපන් පොඩ්ඩා</author>
+            <date>2012-07-19 08:02:12</date>
+            <index>14</index>
+            <phrase>ඔබ නොදනී මුළු ලොවම දනී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-07-19 11:39:39</date>
+            <index>15</index>
+            <phrase>පිස්සෙක්ද කොහෙද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සු</author>
+            <date>2012-07-19 14:25:48</date>
+            <index>16</index>
+            <phrase>සුදු වෑන් එකක් නිසා මේකට අරකට්ටියගේ සම්බන්ධයක් තියෙන්න ඕන......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53318</articleId>
+    <title>කබරයා ගොවියාගේ කන කඩා ගනී.</title>
+    <author>විමල් ගරුසිංහ</author>
+    <date>2012 ජූලි මස 15 10:25:40</date>
+    <body>රූපවාහිනිය බලමින් සිටි හැත්තෑහැවිරිද ගොවියකු කබරයකු සමග සෑහෙන වේලාවක් පොර බදා කනෙන් කෑල්ලක්ද අහිමි වී රෝහල් ගත කරනු ලැබ සිටියි.
+එක්වරම පිටිපසින් කවුදෝ ඔළුවට  පැන්නා. ඒ වනවිත් කබරයා කනක් කටේ දාගෙන ඒ සමග මා පුටුවෙන් බිමට වැටුණා. කබරයා බාහුවෙනුත් ගැහුවා. ඌ සමග පොර බදා යන්තම් බේරුණා යයි ගොවියකු වන ඒ ඩබ්ලව්. සිරිස්න මහතා සිය අත්දැකීම් විස්තර කරයි.</body>
+    <comments>
+        <comment>
+            <author>දයා ,සෞදි</author>
+            <date>2012-07-15 11:09:43</date>
+            <index>0</index>
+            <phrase>පුදුමයි , එත් ඇත්තයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කබරයා</author>
+            <date>2012-07-15 10:37:29</date>
+            <index>1</index>
+            <phrase>ජීවන වියදම ඉහලයි කන්න බොන්න අහේනී , සමාවෙන්න ඕනි වරදක් උනානම් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-15 11:27:37</date>
+            <index>2</index>
+            <phrase>ගිය සතියේ කිඹුලෙක් ආව ..අද කබරයෙක් ..හෙට ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-07-15 11:41:47</date>
+            <index>3</index>
+            <phrase>අපිට කන්න වෙන්නේ කබර කන් තමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-15 11:10:18</date>
+            <index>4</index>
+            <phrase>දැන් කන බද්ධ කරලද ??????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2012-07-15 12:12:04</date>
+            <index>5</index>
+            <phrase>තලගොයා ---&gt;සිකනලා ---&gt; හූනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සබා</author>
+            <date>2012-07-15 12:41:46</date>
+            <index>6</index>
+            <phrase>කබරගොයාට වෙන මොනවා හරි අහු වුණානම් සොරිම තමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලන්ඩන් ළමයා</author>
+            <date>2012-07-15 12:15:55</date>
+            <index>7</index>
+            <phrase>ටාසන් වගේ කෙනෙක්නේ බලාගෙන යනකොට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-15 13:27:20</date>
+            <index>8</index>
+            <phrase>මයික් ටයිසන්ගේ හිතවතෙක්ද දන්නේ නෑ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් ඩුබායි සිට.</author>
+            <date>2012-07-15 13:29:20</date>
+            <index>9</index>
+            <phrase>කුඹුරේ පලහිලව්වක් වෙන්න ඇති විසදල  ඇත්තේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-15 13:22:09</date>
+            <index>10</index>
+            <phrase>පව් ඒ අසරණ කෙනා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-07-15 13:28:03</date>
+            <index>11</index>
+            <phrase>අනේ පව් අසරණ මිනිස්සුන්ටමනේ හැම දේම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-07-15 14:15:33</date>
+            <index>12</index>
+            <phrase>සමහරවිට කබරයා කිවුවාට ඌ කිඹුලෙක්ද දන්නෑ? අද කිඹුලා කබරයා වෙන කාලේ. අනේ පව් මේ සියා හොදටම බයෙවලා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-07-15 14:20:55</date>
+            <index>13</index>
+            <phrase>පව්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් මංජුල</author>
+            <date>2012-07-15 14:42:51</date>
+            <index>14</index>
+            <phrase>සත්තුන්ටත් පිස්සුද දේශපාලකයන්ට වගේ අහිංසක මිනිස්සුන්ගේ ඇඟටමයි කඩාපනින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි වීරප්පෙරුම, මිලානෝ</author>
+            <date>2012-07-15 15:11:43</date>
+            <index>15</index>
+            <phrase>ඔබට බුදු සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-15 15:37:18</date>
+            <index>16</index>
+            <phrase>පවු අනේ සීයට. ගෙදර කවුරුත් හිටියෙ නැද්ද අනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහෘදයා</author>
+            <date>2012-07-15 15:45:15</date>
+            <index>17</index>
+            <phrase>ඒ පාර කිඹුල්ලු මදිවට කබරයෝ මොකෑ කෑවත් දුප්පත් අසරණයෙක්ම තමා ගොදුරු වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුදුම</author>
+            <date>2012-07-15 15:11:17</date>
+            <index>18</index>
+            <phrase>අනේ අපේ නැන්දම්මත් මෙගා නාට්ටි බලන්න ගියාම , මකරෙක් ඇවිල්ල කෑවත් දන්නේ නෑ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-15 15:26:38</date>
+            <index>19</index>
+            <phrase>අනේ තලගොයෝ උඹ විතරයි නාවේ. උඹත් වරෙන්කෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-15 15:45:45</date>
+            <index>20</index>
+            <phrase>ඉක්මනින්ම සුවපත් වේවා !!!!!!!!! බුදු සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි ජයනෙත්ති</author>
+            <date>2012-07-15 16:36:27</date>
+            <index>21</index>
+            <phrase>කිඹුල්ලු මදිවට කබරගොයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුනා</author>
+            <date>2012-07-15 16:34:41</date>
+            <index>22</index>
+            <phrase>හෙට ...... මම නම් හිතන්නේ හුනා වෙන්නම ඕන ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂන්</author>
+            <date>2012-07-15 18:53:49</date>
+            <index>23</index>
+            <phrase>ඔබට ඉක්මන් සුව ප්‍රාර්ථනා කරමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ පැරිස්</author>
+            <date>2012-07-15 20:21:24</date>
+            <index>24</index>
+            <phrase>මොමඩ් අලි කබරයෙක් වෙලා ඇවිල්ල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රිස්වාන් සෞදි අරාබිය</author>
+            <date>2012-07-15 20:36:37</date>
+            <index>25</index>
+            <phrase>ඒ කබරයා මයික් ටයිසන්ගේ කතාව අහල ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ උපුල් කුමාර චන්ද්‍රසේන</author>
+            <date>2012-07-15 20:21:34</date>
+            <index>26</index>
+            <phrase>සීයාට ඉක්මන් සුවය ප්‍රාර්ථනා කරමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්. රත්නායක</author>
+            <date>2012-07-15 21:35:58</date>
+            <index>27</index>
+            <phrase>කබරයට එක ගලකින් හරි ගහන්න ඇත. මොකද කබරයට මතකය අවුරුදු ගණනක් යනකම් තිබෙනවා. එයා කොයි වෙලාවේ හරි වාඩුව ගන්නවාමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විල්සන්</author>
+            <date>2012-07-15 22:11:43</date>
+            <index>28</index>
+            <phrase>පවු අනේ සීයා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විල්සෝන්</author>
+            <date>2012-07-15 22:50:08</date>
+            <index>29</index>
+            <phrase>පව් අනේ අපේ සීය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නේත්‍රාංජලී</author>
+            <date>2012-07-15 23:40:20</date>
+            <index>30</index>
+            <phrase>අනේ සීයේ කතාව ඇහුවම හරිම දුකයි. ඔබට නිරෝගී සුවය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මතුගම 77</author>
+            <date>2012-07-16 00:33:43</date>
+            <index>31</index>
+            <phrase>ලංකා මයික්ටයිසන්ගේ වැඩ කොහොමද ..? සීයාට ඉක්මන් සුවය පතමි..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-16 03:46:50</date>
+            <index>32</index>
+            <phrase>හොදටම විශ්වාසද ඒ කබරයෙක් කියලා? සාමාන්‍යයෙන් මේ වගේ කතාවක් මේ තරම් දුර එනකොට වෙනස් වෙලා කබරයො හතක් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-16 07:46:15</date>
+            <index>33</index>
+            <phrase>අනේ මෙහෙම එකක් ඇහුවමයි. මයික් ටයිසන්ගේ රසිකයෙක්ද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-07-16 09:14:05</date>
+            <index>34</index>
+            <phrase>සීයාට දීර්ඝායු වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යටියන ගුණේ</author>
+            <date>2012-07-16 10:03:27</date>
+            <index>35</index>
+            <phrase>අනිවාර්යයෙන් ඒ වෙලාවෙ එහේ දේශපාලකයෙක් ''ගොරක දඩමස් කරන'' කතාවක් දෙන්න ඇති තිරිසනාට උනත් උතුර දකුණ මාරුවෙන විදියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-07-16 11:35:08</date>
+            <index>36</index>
+            <phrase>මයික් ටයිසන්ගේ මල්ලි වෙන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lal perera</author>
+            <date>2012-07-16 12:14:35</date>
+            <index>37</index>
+            <phrase>මයික් ටයිසන්ගේ මල්ලි වෙන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් පෙරේරා</author>
+            <date>2012-07-16 11:36:12</date>
+            <index>38</index>
+            <phrase>මයික් ටයිසන්ගේ මල්ලි වෙන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කබරයා</author>
+            <date>2012-07-16 15:06:45</date>
+            <index>39</index>
+            <phrase>සමාවෙන්න සීයේ.ආයිත් නම් කාගේවත් කණ් කන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කබරයා</author>
+            <date>2012-07-16 15:45:40</date>
+            <index>40</index>
+            <phrase>සමාවෙන්න සීයේ .අයෙනම් කාගෙවත් කන් කන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කබ්රාල්</author>
+            <date>2012-07-16 16:25:17</date>
+            <index>41</index>
+            <phrase>කන නිසා හොඳට ගිය. බෙල්ල කෑවනම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

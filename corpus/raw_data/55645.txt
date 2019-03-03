@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55645</articleId>
+    <title>ති‍්‍රමලේ අයි. ඕ.සී. වර්ජනයක්</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ජූලි මස 27 12:19:53</date>
+    <body>ති‍්‍රකුණාමල චීන වරාය ඉන්දියා තෙල් ගබඩා සංකීර්ණ සේවකයන් අද වැඩ වැරූහ. තෙල් සංස්ථා සේවකයනට දුන් සියයට අටක වැටුප් වැඩිවීම තමනට ගෙවන ලෙස ඔවුහු ඉල්ලති. එවැනි අවබෝධතා ගිවිසුමක් ඇතැයි ඔවුහු කියති. මේ නිසා තෙල් බෙදා හැරීම අඩපණවී ඇත.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-27 13:45:02</date>
+            <index>0</index>
+            <phrase>හරියට පොලීසියේ කේස් එකක් වගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-27 13:46:44</date>
+            <index>1</index>
+            <phrase>අනේ ස්ථීරවම දෙනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්ගේ</author>
+            <date>2012-07-27 14:50:14</date>
+            <index>2</index>
+            <phrase>අයියෝ මොකෝ මේ....ඉරිසිරියාවට නේද ?? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-07-27 15:50:07</date>
+            <index>3</index>
+            <phrase>අනේ අපි හිතුවේ ඔයාල පාරට බහින එකක් නෑ කියලයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-27 21:41:30</date>
+            <index>4</index>
+            <phrase>අපි ගැන අවභෝදයක් නැති කම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>462442</articleId>
+    <title>වැලිපැන්නේ වෙඩි තැබීමකින් කතක මරුට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 28 20:18:31</date>
+    <body>මින් මදවේලාවකට පෙර වැලිපැන්නේ නිවෙසක සිදු වු වෙඩිතැබීමකින් 38 කාන්තාවක මියගොස්  තුවාල ලැබූ තිදෙනෙකු කළුතර නාගොඩ රෝහලට ඇතුලත් බව පොලිසිය කියයි. 
+යතුරුපැදි දෙකකින් පැමිනි හතරදෙනෙකුගෙන් යුත් කල්ලියක් මෙම වෙඩි තැබීම සිදුකොට ඇති බවට මුලික පරික්ෂණයේදී අනාවරණය වු බවද පොලිසිය කියයි. 
+ </body>
+    <comments>
+        <comment>
+            <author>චන්දන - ඕස්ට්‍රේලියා</author>
+            <date>2016-09-28 20:17:35</date>
+            <index>0</index>
+            <phrase>පසුගිය රජය කාලේ දකුණේ ඔක්කොම චණ්ඩි වෙලානේ හිටියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්දක</author>
+            <date>2016-09-29 02:51:29</date>
+            <index>1</index>
+            <phrase>දකුණේ වැඩිපුර ඉන්නේ චණ්ඩි තමා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2016-09-29 03:05:36</date>
+            <index>2</index>
+            <phrase>කොහොමහරි අවසානයේ මේකෙනුත් වටිනා ජීවිතයක් නැතිවුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-09-29 03:33:47</date>
+            <index>3</index>
+            <phrase>සාකියක්වත්ද නැති කලේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-29 04:28:47</date>
+            <index>4</index>
+            <phrase>දකුණේ අයට බැන්නට දකුණේ මිනිස්සු නැත්නම් මේක තාමත් බෝම්බ පිපිරෙන රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර -කැකිරාව</author>
+            <date>2016-09-29 04:43:14</date>
+            <index>5</index>
+            <phrase>අද කුඩු කාරයෝ,මංකොල්ල කාරයෝ ,පාතාලය සහ කොටි සෙවනැලි රජවෙලා.හැමදිනකම වගේ මිනිස් ඝාතන .උදේ හවස බණ දෙසුවත් මිනිස්සු යහමගට ගන්න බැරිවෙන්නේ නීතියට වඩා ඉහලින් මානව හිමිකම් කියන බලගතු හස්තය පැවතීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගගන</author>
+            <date>2016-09-29 05:10:31</date>
+            <index>6</index>
+            <phrase>දැන් වලිපැන්නත් කොටකෙත වගේ වෙලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙදගේ</author>
+            <date>2016-09-29 07:15:52</date>
+            <index>7</index>
+            <phrase>වැලිපැන්නේත් හරිම දරුණු දේවල් වෙනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16632</articleId>
+    <title>පාර හදන්නැයි කියමින් පාරේ ටයර් පුළුස්සති</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 09 13:53:24</date>
+    <body>අනුරාධපුර ගලෙන්බිඳුණුවැව පාරේ ගලෙන්බිඳුණුවැව සීප්පුකුලම දක්වා අබලන් පාර හදාදෙන්නැයි කියමින් ගැමියෝ අද (9) පාරේ ටයර් පුළුස්සා පැයක් පුරා උද්ඝෝෂණය කළහ.</body>
+    <comments>
+        <comment>
+            <author>රත්න</author>
+            <date>2011-12-09 14:43:15</date>
+            <index>0</index>
+            <phrase>සාමාන්‍ය ක්‍රමේ නම්, මන්ත්‍රී/ඇමති වගේ අය යන පාරට පේන අතුරු පාරවල්, මහ පාරට පේන මානයට වෙනකල් කොන්ක්‍රීට් කිරීම හෝ, කාපට් කිරීමයි.. අපෙ පැතිවලනම්, චන්දෙට ඉස්සෙල්ලා කලේ එහෙමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසල්</author>
+            <date>2011-12-09 15:03:35</date>
+            <index>1</index>
+            <phrase>මෙන්න සංවර්ධනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2011-12-09 16:15:53</date>
+            <index>2</index>
+            <phrase>කොහොම වුණත් මෙහෙම කරන එක වැරදි ආර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2011-12-09 16:06:33</date>
+            <index>3</index>
+            <phrase>අධිවේගී මාර්ග හැදුවට දුප්පත් අය යන යමේ පාරයට තාර ටිකක් දාන්නෙ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

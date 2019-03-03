@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>321546</articleId>
+    <title>පොසොන් පෝදා ධර්මානුශාසනාව</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 ජූනි මස 02 09:04:59</date>
+    <body>මහමෙව්නාව භාවනා අසපු සංචිතයේ නිර්මාතෘ කිරිබත්ගොඩ ඤාණානන්ද හිමියෝ පොසොන් පෝදා ධර්මානුශාසනාව පවත්වති.
+ </body>
+    <comments>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2015-06-28 19:00:07</date>
+            <index>0</index>
+            <phrase>සාදු සාදු සාදු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරා</author>
+            <date>2015-06-29 04:20:33</date>
+            <index>1</index>
+            <phrase>සාදු සාදු සාදු!සාදු සාදු සාදු!සාදු සාදු සාදු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අදිරි</author>
+            <date>2015-07-01 13:14:14</date>
+            <index>2</index>
+            <phrase>හාමුදුරුවෝ අපිට බලපෑම් කරන ජාති ගැන කතා කරන්න බයයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීෂණ</author>
+            <date>2015-07-03 09:10:52</date>
+            <index>3</index>
+            <phrase>ඔබ වහන්සේ මිනිස්ලෝකේ උපදින්න පතන් නැහැ, තුසිත දිව්‍ය ලෝකේ යන්න පතමින් , සහජීවනේ දෙසල, අපිට ආයේ උපදින කොට ධර්මය මේ රටෙන් නැති කරන එක හරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2015-11-08 01:02:25</date>
+            <index>4</index>
+            <phrase>සාධු සාධු සාධු!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>190644</articleId>
+    <title>කටුනායක සුපිරි මඟ</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 දෙසැම්බර් මස 03 16:08:42</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ගයනි ආනන්ද</author>
+            <date>2013-12-05 09:30:43</date>
+            <index>0</index>
+            <phrase>සුභ පතනවා. අතිගරු ජනාධිපතිතුමා හට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

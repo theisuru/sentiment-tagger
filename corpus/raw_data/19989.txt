@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19989</articleId>
+    <title>දැව හොරු පළායති</title>
+    <author>ලූණුගල ප‍්‍රසන්න පද්මසිරි</author>
+    <date>2011 දෙසැම්බර් මස 31 16:26:18</date>
+    <body>බිබිල ඇතුන්ගඹුවේදී පොලිස් ජිප්රියක් ප්‍රපාතයට පෙරැලීමෙන් උප පොලිස් පරීක්ෂකවරයෙක් ඇතුළු තිදෙනෙක් තුවලා ලැබූහ. අනවසරයෙන් දැව කපන බවට ලැබූ තොරතුරක් මත ඔවුන් ඇල්ලීමට යද්දී මෙම අනතුර සිදුවිය. දැව හොරුන් අල්ලා ගැනීමට නොහැකිවිය.</body>
+    <comments>
+        <comment>
+            <author>කේ ජී කරුණාදාස</author>
+            <date>2011-12-31 18:47:32</date>
+            <index>0</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2011-12-31 20:07:20</date>
+            <index>1</index>
+            <phrase>පොලීසියෙ මහත්වරු නොසැලකිල්ලෙන්ද වාහනය ධාවනය කරල තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

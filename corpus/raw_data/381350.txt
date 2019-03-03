@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>381350</articleId>
+    <title>උණවටුනේ දී කැබ් රියක් මුහුදට යයි</title>
+    <author>රවි ලියනගේ</author>
+    <date>2016 පෙබරවාරි මස 01 08:57:56</date>
+    <body>මාතර සිට ගාල්ල දෙසට ධාවනය වූ කැබ් රථයක් අද අළුයම උණවටුනේ දී මුහුදට වැටී ඇතැයි පොලිසිය කියයි. රථය අනතුරට පත්වන අවස්ථාවේ එහි සිට ඇත්තේ රියදුරා පමණි. ඔහුට සුළු තුවාල සිදුව ඇත. රියදුරා පවසන්නේ ඉදිරියෙන් ආ තවත් රථයක් තමන් ධාවනය කළ දෙසට නැඹුරුව පැමිණි බැවින් තම රථය පාර අයිනට ගනිද්දී මුහුදට වැටුණු බවයි.
+මාස කිහිපයකට පෙර මේ ස්ථානයෙන් ලංගම බසයක් ද මුහුදට වැටිණි.
+
+ජායාරූප - රවී  ලියනගේ
+
+ජායාරූප - අමිල මධුෂංක</body>
+    <comments>
+        <comment>
+            <author>සනුකි</author>
+            <date>2016-02-01 03:49:45</date>
+            <index>0</index>
+            <phrase>ඔන්න යහපාලනය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-02-01 05:19:31</date>
+            <index>1</index>
+            <phrase>මෙතන ඇත්ත නම් නොදන්නා රියදුරන් මෙම ස්ථානයේ වේගයෙන් පැමිණීම නිසා සිදුවන දෙයක්. මෙම ස්ථානයේ ආරක්‍ෂිත අනතුරු ඇඟවීමේ පුවරු කිසිවක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ මුතුකුඩ</author>
+            <date>2016-02-01 05:24:54</date>
+            <index>2</index>
+            <phrase>දකුනෙනේ. අහන්න දෙයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමලරත්න</author>
+            <date>2016-02-01 05:51:38</date>
+            <index>3</index>
+            <phrase>ඔතනට ශක්තිමත් ආරක්ෂිත වැටක් දාන්න කාලය හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-02-01 11:02:01</date>
+            <index>4</index>
+            <phrase>අනේ, මෝඩ සනුකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2016-02-01 11:20:03</date>
+            <index>5</index>
+            <phrase>ලස්සන පරිසරය. මේ දිනවල යුරෝපිය සංචාරකයන්ගෙන් පිරි ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2016-02-01 16:18:47</date>
+            <index>6</index>
+            <phrase>වාහන මිල තව වැඩිකරන්න වෙනවා. පාරවල් ඔයතරමට තිබුනහම ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2016-02-01 16:30:47</date>
+            <index>7</index>
+            <phrase>සනුකි, මොකක්ද මේකට සම්බන්ධ යහපාලනය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2016-02-02 03:29:39</date>
+            <index>8</index>
+            <phrase>නොසැළකිළිමත් රිය පාලනය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

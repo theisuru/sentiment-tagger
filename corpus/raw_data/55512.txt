@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55512</articleId>
+    <title>කතරගම ඇසළ පෙරහැර</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 ජූලි මස 26 18:33:01</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>AP</author>
+            <date>2012-08-06 11:02:39</date>
+            <index>0</index>
+            <phrase>සහබාගී වුන සැමට කඳසුරිඳු පිහිට ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456165</articleId>
+    <title>ලසන්තගේ සුසානෙට මුර</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 සැප්තැම්බර් මස 09 14:32:42</date>
+    <body>වසර පහ හමාරකට පෙර ගිය රජය සමයේ ඝාතනයට ලක්වූ ලසන්ත වික්‍රමතුංග සන්ඩේ ලීඩර් පත්‍රයේ කර්තෘවරයාගේ සිරුර ලබන 27 වැනිදා ගොඩ ගන්නා තුරු ඔහුගේ සිරුර මිහිදන් කළ කනත්තට දැඩි පොලිස් ආරක්ෂාව යොදවා ඇත.
+බොරැල්ලේ කනත්තට දිවා රෑ දැඩි ආරක්ෂාව යොදා ඇත.</body>
+    <comments>
+        <comment>
+            <author>චාමි</author>
+            <date>2016-09-09 09:19:04</date>
+            <index>0</index>
+            <phrase>ලසන්තගේ වලට තුවක්කු දික් කරන් ඉන්න එපා කොල්ලනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-09-09 09:55:26</date>
+            <index>1</index>
+            <phrase>ප්‍රසිද්ධ ඇත්තන්ගේ දේවල් හොයා, හොයා ගොඩදානවා. එත් අපේ පොඩි මිනිස්සු ගැන කව්ද හොයන්න ඉන්නේ? මේකද අපේ ප්‍රජාතන්ත්‍ර වාදී රටේ නීතිය? නීතිය හැම කෙනාටම පොදු විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-09-09 10:21:58</date>
+            <index>2</index>
+            <phrase>අසු පැන ගිය පසු ඉස්තාලය වැසීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-09-09 13:20:02</date>
+            <index>3</index>
+            <phrase>තවම ප්‍රමාද නැත, නිතිය ඉටුකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-09-09 13:32:52</date>
+            <index>4</index>
+            <phrase>ලොකු කට්ටිය විතරක් නෙවෙයි පසුගිය කාලේ නිරපරාදේ මරපු අහිංසකයෝ සැමට සදරනයක් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් මෙන්ඩිස්</author>
+            <date>2016-09-09 15:35:44</date>
+            <index>5</index>
+            <phrase>ඉන්නකම් නැති ආරක්ෂාව මැරුවට පස්සේ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-09-09 19:26:25</date>
+            <index>6</index>
+            <phrase>88/ 89 කාලේ කෘෘර ලෙස මරාදමපු සාගරිකා ගෝමස්, රිචඩ් ද සොයිසා,ප්‍රේමකීර්ති ද අල්විස් වැනි අයට සාධාරනය ඉටු කරන්න කෙනෙක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-09-09 21:56:57</date>
+            <index>7</index>
+            <phrase>උසාවි තීරණය ලැබුනදාම මේ විදියට පොලිස් ආරක්ෂාව නොදැම්මේ මොකද? ලසන්තගේ සිරුර තවමත් එහි තිබෙනවාද කියලත් දැන්නම් සැකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆ්‍රෑන්ක් මාටින්</author>
+            <date>2016-09-09 22:48:44</date>
+            <index>8</index>
+            <phrase>මැරිලාවත් නිදහසේ ඉන්න නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-09-10 05:52:37</date>
+            <index>9</index>
+            <phrase>දැන් ඉතින් බොරු වැඩ කරලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

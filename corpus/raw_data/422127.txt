@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>422127</articleId>
+    <title>අරණායක මහා පිංකමක්</title>
+    <author>තරිඳු ජයවර්ධන  ෂෙහාන් ගුණසේකර</author>
+    <date>2016 ජූනි මස 02 09:58:59</date>
+    <body>අරණායක රාමසර කන්ද නාය යාමෙන් මිය ගිය පිරිසට පිං පැමිණවීමට හා අවතැන් වූවන්ට සෙත් පතා පිංකම් මාලාවක් අද (02) උදෑසන හත්ගම්පොළ මහා විද්‍යාලයේ දී ආරම්භ කැරිණි. හත්ගම්පොළ මහා විද්‍යාලයේ විදුහල්පති ඇතුළු ගුරු මණ්ඩලය, පාසල් සිසුහු, යුද හමුදාව හා ගම්වාසීහු පිංකම සංවිධානය කළහ.
+හත්ගම්පොළ හන්දියේ සිටහේවිසි කණ්ඩායම් පෙරටු කරගෙන කරඬුව පාසලට වැඩම කළේය.
+
+ඡායාරූප - ෂෙහාන් ගුණසේකර
+
+
+ඡායාරූප - තරිඳු ජයවර්ධන</body>
+    <comments>
+        <comment>
+            <author>අමාලි</author>
+            <date>2016-06-02 06:10:21</date>
+            <index>0</index>
+            <phrase>මිය ගිය පිරිසට පින් පැමිණවීමට හා අවතැන් වූවන්ට සෙත් පතා කරන මේ දේ ඉතා හොඳ පිංකමකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2016-06-02 07:01:56</date>
+            <index>1</index>
+            <phrase>මිය පරලොව ගිය අසරණයන්ට පින්පෙත් පුදනවට වඩා මියපරලොවයමට පෙරම තම තමන් පින්කම් සිදුකරගැනීම වඩා ප්‍රායෝගිකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2016-06-02 07:16:12</date>
+            <index>2</index>
+            <phrase>මාගේ අසල්වසියනි ඔබ සැමට නිවන් සුව පතමි...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර ගුණසේකර</author>
+            <date>2016-06-02 08:02:16</date>
+            <index>3</index>
+            <phrase>අනතුරින් මියගිය හැමෝටම නිවන්සුව පතනවා, තුවාල උන හැමෝටම ඉක්මන් සුවය පතනවා. මෙවන් කරදරයක් අපේ රටට අයෙත් නොවේවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා</author>
+            <date>2016-06-02 16:09:45</date>
+            <index>4</index>
+            <phrase>ගුණේගේ ගුණයක් නැති කියමන ගැන කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-06-02 18:47:15</date>
+            <index>5</index>
+            <phrase>මියගිය සියලු දෙනාටම නිවන් සැප ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

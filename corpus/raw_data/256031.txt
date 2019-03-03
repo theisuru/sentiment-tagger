@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>256031</articleId>
+    <title>තවත් ඇත් පැටියෙක් හොරෙන් පන්නලා</title>
+    <author>රවීන්ද්‍ර විරාජ් අබේසිරි</author>
+    <date>2014 අගෝස්තු මස 12 16:04:51</date>
+    <body>පොලිසිය නොමග යවා අවුරුදු තුනක ඇත් පැටවකු  පිටි පටවන ලොරියකින් රැගෙන යද්දී මාතලේ බලකඩුවේදී අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+ ඇත් පැටවාට බලපත්‍රයක් නොතිබු බව  වනජීවී නිලධරයෝ හා පොලීසිය පවසති.
+ජනපති මහින්ද රාජපක්ෂ මහතා අද මාතලේ සංචාරයක යෙදෙන හෙයින් එය අවස්ථාවක් කැර ගනිමින්   ඇත් පැටවා ප්‍රවාහනය කරන්නට සැළසුම් කැර ඇති බව පෙනී යතියි පොලිසිය පවසයි.
+ 
+
+ </body>
+    <comments>
+        <comment>
+            <author>රොහාන් සෞදි</author>
+            <date>2014-08-12 10:54:51</date>
+            <index>0</index>
+            <phrase>පොලිස් ඇස් වහන්න ගොඩක් අමාරුයි. නමුත් ඇස් වහගන්න වෙන වෙලාවලුත් නැතුවා නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2014-08-12 11:16:48</date>
+            <index>1</index>
+            <phrase>අයියෝ! රටේ අලි සම්පත!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හැරිසන්</author>
+            <date>2014-08-12 11:20:40</date>
+            <index>2</index>
+            <phrase>මොනවා වුණත් පවු අහිංසක සතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2014-08-12 11:33:30</date>
+            <index>3</index>
+            <phrase>නියමිත භාණ්ඩ පමණක් ප්‍රවාහනය කළයුතු බවට රියදුරන් වගකිවයුතු නොවේද? මේ අයට උපරිම දඬුවම් ලැබේවා! මේ සතාට කතා කරන්න පුළුවන් නම් කියාවි මේ පෙට්ටිය ඇතුළට දමපු හැටි වගේම අරගෙන ආ හැටි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරේ(ගාල්ල)</author>
+            <date>2014-08-12 11:40:44</date>
+            <index>4</index>
+            <phrase>අලි ඇතුන්ව සම්බන්ධ හොර ජාවාරම්කාරයින්ව කූඩුවල දමා සත්තු වත්තෙහි ජනතාවට ප්‍රදර්ශනය කරන්න තියන්නයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2014-08-12 11:41:20</date>
+            <index>5</index>
+            <phrase>මට පෙනෙන්නේ රටින් භාගයක්ම දඟලන්නේ අප්පොලා , හාමුලා, නිලමේලා වෙන්න වගේ. හැමදාම අලි ප්‍රශ්න !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2014-08-12 11:42:13</date>
+            <index>6</index>
+            <phrase>මේවා නැවැත්වීමට නම් අනවසරයෙන් සතුන් ප්‍රවාහනය කරන වාහන රාජසන්තක කරන්න නීතියක් වහාම සමමත කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2014-08-12 11:51:46</date>
+            <index>7</index>
+            <phrase>වාහනය රාජසන්තක කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2014-08-12 11:57:11</date>
+            <index>8</index>
+            <phrase>මේ අලින් ගෙනියන්නේ කොහේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-08-12 12:12:46</date>
+            <index>9</index>
+            <phrase>මේවට තමා දුෂණය කියන්නේ. රටේ වගකිවයුත්තන් නිදිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2014-08-12 12:24:03</date>
+            <index>10</index>
+            <phrase>අර උඩවලවෙ අලි අල්ලන්න ගිය නෑයන්ට තාම නීතිය ක්‍රියාත්මක උනේ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-08-12 12:33:08</date>
+            <index>11</index>
+            <phrase>මේවා මේ ගමේ ගොඩේ ඉන්න ජේමිස් අයියාලට හරමානිස්ලට කරන්න පුළුවන් වැඩද මහත්තයෝ. අඩුම තරමේ මන්ත්‍රී කෙනෙකුගෙන් ඉහළට නිලයක් තියෙන්න ඕන මේ වගේ වැඩක් කරන්න. ඕන නම් බලන්න ලොරි රියාදුරාව යවයි හිරේට එතනින් ඔක්කොම කේස් හබක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අලහකෝන්</author>
+            <date>2014-08-12 12:36:13</date>
+            <index>12</index>
+            <phrase>රටෙහි සිදුවන මේ සියළුම අකටයුතුකම් පිටුපස සිටින්නේ දේශපාලුවන්ය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-08-12 13:43:30</date>
+            <index>13</index>
+            <phrase>අහිංසක සත්තු. උන්ගේ පාඩුවේ ඉන්න දෙන්නේ නැතුව උන්ටත් වද දෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-08-12 13:45:48</date>
+            <index>14</index>
+            <phrase>මුන්ට උෟවෙදි වත් දඬුවමක් දෙමු. මේ ජාවාරම් පිටිපස ඉන්නවුන් එළිදරව් කරන්ඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-08-12 14:07:28</date>
+            <index>15</index>
+            <phrase>මිනිස්සුන්ගේ (බොරු ) විස්වාසයක් තියෙනවා.ඇත්දළ.ගජමුතු(ඇත්දළ කැලි),අලි ,ආදිය තිබුනොත් සතර මහා නිධානය පහළවෙනවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2014-08-12 14:12:58</date>
+            <index>16</index>
+            <phrase>අලිපැටවා වාහනය නතරකරපු වෙලාවක පොල්අතු දැකලා ඒවා කන්න ගොඩවෙලා කියයිද දන්නෙත් නැහැ,,තව ටික කාලයක් යනකොට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2014-08-12 14:18:10</date>
+            <index>17</index>
+            <phrase>ලොකු මහත්තුරු එන නිසා වාහන චෙක් කරන්න ඇති අලි පැටිය ගෙනාපු මිනිහ මේ බව කලින් දන්නවනම් මේ පළාතේ එන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-08-12 14:48:47</date>
+            <index>18</index>
+            <phrase>අලියා ගෙනිච්චේ රත්රන්ටලු, හැබැයි කතා කරන්නේ රහත් වෙලා වගේ. අපි ජනතා විමුක්ති පෙරමුණෙනුත්, එක්සත් ජාතික පෙරමුණෙන් ඉල්ලාඅ සිටිනවා මේ ගැන ප්‍රසිද්ධ විවාදයක් ඉල්ලන්ඩ කියල. අලි හොරු කවුදකියල ජනතාවට දැනගන්ඩ අයිතියක් තියෙනවා. හූ කියන කට්ටිට හූ කියන්ඩත් අයිතියක් තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී - සිරිවර්දන</author>
+            <date>2014-08-12 15:02:18</date>
+            <index>19</index>
+            <phrase>අලි පැංචාගේ පරණ පිනකට පොලිසීයට අහුවෙලා තියෙන්නේ. ඔය කන්ටේනරය අලිහොරාගේ වලව්වට යනකොට පැටියාගේ මළකුණ තමයි බාන්න වෙන්නේ ඔක්සිජන් නැතිව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2014-08-12 15:21:43</date>
+            <index>20</index>
+            <phrase>අනිවාර්යෙන්ම ඔය ඇත් පැටවා ගෙනියන්නේ දේශපාලකයෙකුට. දැන් ඉතින් ඔය පොලිස් මහත්තුරු ටික තමන්ගේ වාහන ගින්නෙන් එහෙම බේරා ගන්ට වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුනි</author>
+            <date>2014-08-12 15:30:59</date>
+            <index>21</index>
+            <phrase>කෝ..කලින් අහුවුණ ඒවා ගැන පරීක්ෂණ කළාද? ඒවාට මොකද වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් ප්‍රනාන්දු</author>
+            <date>2014-08-12 15:41:42</date>
+            <index>22</index>
+            <phrase>අලි පැටවු කියන්නේ ඉඳිකටු නෙමෙයිනේ. මෙයාගේ අම්මාව මරන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2014-08-12 16:10:42</date>
+            <index>23</index>
+            <phrase>අලි හොරුන්ට ශ‍ාප වේවා! මේ කාරණය රජයේ ඉහළ අයගේ අවධානයට යොමු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2014-08-12 16:41:20</date>
+            <index>24</index>
+            <phrase>අනේ අපේ අලි පරපුරට යන කල!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2014-08-12 16:47:04</date>
+            <index>25</index>
+            <phrase>කුඩු වගේ අලි පැටවුන් ගෙනියන්නෙත් දේශපාලන ප්‍රභලයින්ම තමයි.අද රටම එයාලට සින්නක්කරයටම ලියලා දීලා වගේනේ.රටකට ගිය කලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිර</author>
+            <date>2014-08-12 17:07:20</date>
+            <index>26</index>
+            <phrase>අලි ඇතුන් හදන අයට ආධාර දිය යුතුයි. කැලේ ඉන්න අලි ගමට එන නිසා පුළුවන් තරම් අලි අල්ලා හීලෑ කළ යුතුයි. එවිට අලි මිනිස් ගැටුම නවත්වන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-08-12 17:09:20</date>
+            <index>27</index>
+            <phrase>ජනතාවගේ සල්ලි වලින් පඩි නඩි ලබන රජයේ සේවකයන් රටේ සංවර්ධනයටත් ජනතාවටත් ප්‍රමාණවත් සේවයක්‌ ඉටු නොකළහොත් මෙලොව දී පමණක්‌ නොව පරලොවදීත් වන්දි ගෙවීමට සිදුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2014-08-12 17:33:29</date>
+            <index>28</index>
+            <phrase>අනවසරයෙන් සතුන්,සත්ව මස්,මත්ද්‍රව්‍ය,දැව,පස්, වැලි,රජයේ දේපල ප්‍රවාහනය කරන වාහන රාජසන්තක කර ඒ රියදුරන්ගේ රියදුරු බලපත්‍ර ජීවිතාන්තය දක්වා තහනම් කරන නීති ගෙනෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2014-08-12 18:38:53</date>
+            <index>29</index>
+            <phrase>මොවුන්ට උපරිම දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-08-12 19:01:50</date>
+            <index>30</index>
+            <phrase>පත්තරයක් බැලුවොත් අලි අලි අලි.... මේක අවසාන වෙන්නේ කවදාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2014-08-12 20:31:06</date>
+            <index>31</index>
+            <phrase>දේශපාලකයන්ගේ ආරක්ෂාව ලබන ප්‍රභූ පන්තියේ අය තමයි මේවාට මුලික වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2014-08-12 20:44:17</date>
+            <index>32</index>
+            <phrase>පිටුපස බලවතෙක් ඇති. මේ ඇත්පැටවු හොරකම් කරන්න පෙර, පැටියාගේ අම්මාවත් බොහෝවිට ඝාතනය කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-08-13 00:31:37</date>
+            <index>33</index>
+            <phrase>නඩු දැම්මොත් සමහරවිට අන්තිමට වෙන්න පුළුවන් දෙයක් තමයි අලි පැටියා අසනීප වී මිය යාම. එහෙම රටක් තමයි ලංකාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-08-13 00:52:17</date>
+            <index>34</index>
+            <phrase>මෙයාගේ මව් ඇතින්න කොහේද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-08-13 01:18:19</date>
+            <index>35</index>
+            <phrase>කැලේ ඉන්න අලි මිනිසුන්ගේ වගා පාලු කරනවා. අලි වතුර හොයාගෙන ගමට එනවා. ගිය සතියට විතරක් වනාන්තර වල ඉන්න අලි 14 ක් මරලා තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-08-13 01:19:37</date>
+            <index>36</index>
+            <phrase>මේ අය කවදාහරි මේවාට ගෙවනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීතිකා</author>
+            <date>2014-08-13 01:28:49</date>
+            <index>37</index>
+            <phrase>මම නම් වැඩියෙන්ම කැමති සමරේ(ගාල්ල) කියන දේට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2014-08-13 03:15:24</date>
+            <index>38</index>
+            <phrase>මේ ප්‍රශ්නයේදී බලධාරින් ගන්නා තීරණ ගැන අවධානයෙන් සිටිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-08-13 04:49:02</date>
+            <index>39</index>
+            <phrase>ගාල්ලේ සමරේ කිවුව වැඩේ නම් නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිෂ්</author>
+            <date>2014-08-13 08:52:47</date>
+            <index>40</index>
+            <phrase>බන්දුල පෙරේරා, ඔයාට මේ පැටියා වුණත් අහුවුණොත් මොනවා කරයිද? ඔයාට මොකක්ද මේ අලිත් එක්ක තියෙන ප්‍රශ්නය..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2014-08-13 09:32:02</date>
+            <index>41</index>
+            <phrase>මේවට දේශපාලුවන් වගකියන්න ඕනෑ. ජන්දය දෙන අපි තමයි හොඳම එල හරක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2014-08-13 11:33:23</date>
+            <index>42</index>
+            <phrase>මේ අහිංසක සතා පොලිසියට අහුවුණ නිසා හොඳයි. නැත්නම් කන්ටේනේර් එක ඇතුලේ තියෙන රස්නය නිසාම මැරෙනවා. අ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-08-13 11:32:59</date>
+            <index>43</index>
+            <phrase>ලංකාවට බුදු සරණයි! ඉක්මනින් බලධාරීන්ගෙ ඇස් හැරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2014-08-14 16:47:32</date>
+            <index>44</index>
+            <phrase>මහත්වරුනි, අපි අලි ගැන කථාකරලා මොනවටද? පෙර වාරයේ අලිපැටියා මැරුනා. ඒකට ගත් පියවර මොකක්ද? ඒ සතාගෙත් පණ පණමනේ. පරිසරවේදීන් ඇයි නිශ්ශබ්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

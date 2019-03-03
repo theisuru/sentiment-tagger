@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26170</articleId>
+    <title>තෙල් මිල වැඩිවෙයි</title>
+    <author>එම්එස් පෙරේරා  තරිඳු ජයවර්ධන</author>
+    <date>2012 පෙබරවාරි මස 11 20:26:35</date>
+    <body>ඉන්ධන මිල වැඩි වෙතියි කොළඹ, ගම්පහ හා අවට පෙදෙස්වල ඉන්දන හල් අසල අද සන්ධ්‍යාවේ සිට දිගු පෝලිම් දක්ණට ලැබිණි.
+රාත්‍රී 12 සිට ක්‍රියාත්මක වන පරිදි පෙට්‍රල් මිල රුපියල් 12 කින් ද, ඩීසල් රුපියල් 31 කින් ද, භූමිතෙල් රුපියල් 35 කින් ද ඉහළ දමා ඇත.</body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-02-11 21:07:20</date>
+            <index>0</index>
+            <phrase>කාටම මේවා කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිදු</author>
+            <date>2012-02-11 21:15:33</date>
+            <index>1</index>
+            <phrase>හරි හරි ගණන් උස්සලා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus</author>
+            <date>2012-02-11 21:28:16</date>
+            <index>2</index>
+            <phrase>තෙල් මිළ වැඩි වුනොත් අනිත් හැම භාණ්ඩයකම මිළ ගනන් වැඩි වේවි.අනෙක් භාණ්ඩ වල මිළ ගනන් වැඩි නොවී පවත්වාගෙන යන්න පුළුවන් නම්...බොරැ වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පි.ඒ.සෝමතිලක</author>
+            <date>2012-02-11 21:56:35</date>
+            <index>3</index>
+            <phrase>ජීවත්වෙලා නම් ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-02-12 09:28:31</date>
+            <index>4</index>
+            <phrase>ජීවත් වෙන්න අමාරුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර</author>
+            <date>2012-02-12 09:46:19</date>
+            <index>5</index>
+            <phrase>මේ ආණ්ඩුවට ඡන්දෙ දුන්න අයට විතරක් වැඩි කරනවනම් කොච්චර හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්ද</author>
+            <date>2012-02-12 09:48:03</date>
+            <index>6</index>
+            <phrase>ලංකාවෙ හිටිය ඇති දැන්.. අපි නම් මාලෙට වත් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>haniffa</author>
+            <date>2012-02-12 09:54:47</date>
+            <index>7</index>
+            <phrase>ඡන්දය දුන්නෙ ඒකටනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලා</author>
+            <date>2012-02-12 10:46:29</date>
+            <index>8</index>
+            <phrase>දුප්පත් අපි එදා වේල කනනෙ කොහොමද කියල කල්පනා කරන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-02-12 11:06:09</date>
+            <index>9</index>
+            <phrase>ඉන්ධන කියන්නේ සියලුම පාරිභෝගික භාන්ඩවලට බලපාන බව දැන ගෙනත් මෙලෙස වැඩි කිරිම සුදුසු නැත. මහජනතාව අමාරුවට පත් කිරිම රජය නොකළ යුත්තක්. දැනටද ජිවන බර වැඩිය.වියදම ඉතා අධිකය.මහා පරිමාණ සංවර්ධන වැඩ මදකට නවතා හෝ සහන දිම කළයුතුවේ. එසේ නැතිවුවොත් රජය අපකිර්තියට පත්වනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-02-12 11:42:08</date>
+            <index>10</index>
+            <phrase>ජයවේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-02-12 11:56:34</date>
+            <index>11</index>
+            <phrase>මේවත් යුද්ධයේ ප්‍රතිඵලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහජනතාව</author>
+            <date>2012-02-12 12:22:33</date>
+            <index>12</index>
+            <phrase>කොච්චර වැඩිකලත් ඡන්දයක් කිට්‍ටුවෙනකොට රු 5 කින් අඩුකලානම් ඡන්දය දෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිමුතු</author>
+            <date>2012-02-12 15:08:16</date>
+            <index>13</index>
+            <phrase>මෙැතිවරුන් වෙනුවෙන් නම් බොරොබට සල්ලි නාස්ති කරනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චිමිනි</author>
+            <date>2012-02-12 15:45:52</date>
+            <index>14</index>
+            <phrase>මේක ගොඩක් නරක තත්ත්වයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-02-12 16:35:07</date>
+            <index>15</index>
+            <phrase>වාහන පැදල ඉවරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයකාන්ත- ඇෆ්ගනිස්ථාන්</author>
+            <date>2012-02-12 17:31:12</date>
+            <index>16</index>
+            <phrase>පොඩි මිනිහගෙ බඩට පහරකි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

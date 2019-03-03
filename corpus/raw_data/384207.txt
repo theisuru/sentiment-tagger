@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>384207</articleId>
+    <title>දඹදිව යන්න මිහින් ලංකා මෙවරත් අතදෙයි</title>
+    <author>ශීලා ජයසුන්දර</author>
+    <date>2016 පෙබරවාරි මස 09 17:18:40</date>
+    <body>විශ්‍රාමික ජ්‍යෙෂ්ඨ පුරවැසියන් සඳහා වාරික වශයෙන් අය කිරීමේ සහන පදනම මත දඹදිව වන්දනාවේ යාමට ගුවන් ටිකට්පත් ලබාදීමට මිහින් ලංකා සමාගම මේ වර්ෂයේද තීරණය කැර ඇතැයි එම සමාගම පවසයි.
+මේ වසරේ දඹදිව වන්දනා සමය පෙබරවාරි මස ඇරඹේ.
+මේ සහනය ලබාගැනීමට විශ්‍රාම වැටුප් අධ්‍යක්ෂ ජනරාල්ට අයදුම්පත නිකුත් කිරීම මිහින් ලංකා සමාගම මගින් සිදු කළ හැක.</body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-02-10 05:45:59</date>
+            <index>0</index>
+            <phrase>ඇත්තටම ඒක ලොකු සහනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-02-10 05:46:14</date>
+            <index>1</index>
+            <phrase>ඇත්තටම එක ලොකු සහනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් සිල්වා</author>
+            <date>2016-02-12 07:06:18</date>
+            <index>2</index>
+            <phrase>අපේ ලංකාවේ තියෙන වෙහෙර විහාර පළමුව වන්දනා කරලා ඉන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-02-12 15:40:19</date>
+            <index>3</index>
+            <phrase>ඒ කියන්නේ ඉස්සරහට ගන්ඩ තියෙන පඩියත් දැන්මම ඉන්දියාවට ගිහින් වියදම් කරන්න අවස්ථාව සලසල දෙනවා කියන එකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2016-02-12 17:21:45</date>
+            <index>4</index>
+            <phrase>සුබ ගමන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-02-13 10:39:46</date>
+            <index>5</index>
+            <phrase>සාදු සාදු සාදු.!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

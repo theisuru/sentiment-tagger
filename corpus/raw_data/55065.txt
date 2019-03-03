@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55065</articleId>
+    <title>උසේන් බෝල්ට්ගේ ඉටි රුවක්</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  ඡායාරූප</author>
+    <date>2012 ජූලි මස 24 10:08:03</date>
+    <body>තව නොබෝ දිනකින් ආරම්භ වීමට නියමිත ඔලිම්පික් තරඟාවලිය නිමිත්තෙන් ජැමෙයිකානු මලල කී‍්‍රඩකයකු මෙන්ම ලෝක කෙටි ධාවන ශූරයාද වන උසේන් බෝල්ට්ගේ ඉටි රුවක් ඊයේ (23) එංගලන්තයේ ලන්ඩන් නුවර මැඩම් තුසූඞ් කෞතුකාගාරයට එක් කෙරුණි.</body>
+    <comments>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-07-24 15:38:42</date>
+            <index>0</index>
+            <phrase>ඉතාම උතුම් ක්‍රියාවක්.. අගය කළ යුතුයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇම්ඩා</author>
+            <date>2012-07-24 21:47:35</date>
+            <index>1</index>
+            <phrase>ජාතිබේදයෙන් තොරව සුදුස්සාට ගරු කිරීම ඉතාමත් හොද ක්‍රියාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

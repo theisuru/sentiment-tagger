@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28163</articleId>
+    <title>වයඹ දෙගොල්ලොම රජයේ යෝජනාව විසි කරති</title>
+    <author>පුෂ්පකුමාර ජයරත්න</author>
+    <date>2012 පෙබරවාරි මස 21 18:16:55</date>
+    <body>නගර හා ග්‍රාම නිර්මාණ ආඥා පනත යටතේ වයඹ පළාතට අයත් කොටසක් උතුරු මැද පළාතට පවරාදිය යුතු යැයි සඳහන් වූ යෝජනාවක් වයඹ පළාත් සභාව ඒකමතිකව ප්‍රතික්ෂේප කරයි.
+ජාතික භෞතික සැළසුම් දෙපාර්තමේන්තුව මගින් ප්‍රකාශයට පත් කරන ලද එම පණත යටතේ පුත්තලම - මන්නාරම දිස්ත්‍රික්කවලට ඇතුළත් විල්පත්තුව සීමාව මැදින් වැටී ඇති කලා ඔය සම්පූර්ණයෙන්ම ස්වාභාවික සීමාව සේ සළකා එයින් වෙන්වන කොටස උතුරු මැද පළාතට ඇතුළත් කළ යුතු යැයි යෝජනාවේ දැක්විණි.</body>
+    <comments>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-02-21 18:40:17</date>
+            <index>0</index>
+            <phrase>අපිත් වයඹෙ. අපිත් විරුද්ධයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ ජේ සෙනවිරත්න</author>
+            <date>2012-02-22 10:04:26</date>
+            <index>1</index>
+            <phrase>වයඹෙ දේ වයඹට ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

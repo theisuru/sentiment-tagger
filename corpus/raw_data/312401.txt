@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>312401</articleId>
+    <title>පොල් අතු කුටියෙන් සම්බුදු රජ මැදුරට</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර අකිල බද්දෙවිතාන</author>
+    <date>2015 අපේ‍්‍රල් මස 28 11:26:36</date>
+    <body>පොල්ගහවෙල මහමෙව්නාව භාවනා අසපුවේ ඉදිකළ සම්බුද්ධ රාජ මාළිගාවේ සවිස්තරාත්මක වීඩියෝ පටය.
+තුන්වැනි කොටස.</body>
+    <comments>
+        <comment>
+            <author>සනත් සේනාධීර</author>
+            <date>2015-04-28 08:46:17</date>
+            <index>0</index>
+            <phrase>නමෝ බුද්ධාය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත් කුමාර</author>
+            <date>2015-04-28 09:54:01</date>
+            <index>1</index>
+            <phrase>ගෞතම බුදු සසුන බැබලේවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2015-05-01 17:41:03</date>
+            <index>2</index>
+            <phrase>අනාථ පිණ්ඩික සිටුතුමා පුජාකළ සඳුන් දැවයෙන් නිමකළ කුටිය පරිහරණය කළේ ඊට නොඇළෙන සිතින් විය. සාධු ...සාධු ..! ඒ භාග්‍යවතුන් වහන්සේගේ අරහං ගුණයට මාගේ නමස්කාරය වේවා! නමෝ බුද්ධාය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න විජේකෝන්</author>
+            <date>2015-05-02 04:14:28</date>
+            <index>3</index>
+            <phrase>ලංකාදීප පුවත්පත මඟින් මෙසේ මහමෙව්නාව ඔස්සේ බුදු සසුනේ දියුණුව උදෙසා සිදුකෙරෙන මෙහෙය මහජනතාවට දැනගන්න සැළැස්වීම ගැන ලංකාදීප පුවත්පතට මාගේ කෘතඥතාවය පිරි නමමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිළීණි</author>
+            <date>2015-05-09 04:23:47</date>
+            <index>4</index>
+            <phrase>මෙපින් බලෙන් ලොව සැනසේවා ! සියලු දෙනාටම පින් සිතුවිලි පහල වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

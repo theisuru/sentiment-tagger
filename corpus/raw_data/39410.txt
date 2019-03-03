@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39410</articleId>
+    <title>පාරේ දැන්වීම් පුවරුව මනී මරයි</title>
+    <author>තිලකරත්න දිසානායක</author>
+    <date>2012 අපේ‍්‍රල් මස 29 13:11:31</date>
+    <body>කිරිපිටි සමාගමක දැන්වීම් පුවරුවක් ගැළැවී යතුරු පැදියක් මතට වැටීමෙන් එහි ගිය කම්හල් සේවිකාවක වන එක්දරු මවක (32) මියගිය බව පොලීසිය කියයි. යක්කල චන්ද්‍රජෝති විදුහල අසල ගොඩනැගිල්ලක මේ දැන්වීම් පුවරුව සවි කැර තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>එස් එෆ්</author>
+            <date>2012-04-29 13:30:19</date>
+            <index>0</index>
+            <phrase>ගොඩනැගිල්ල හිමිකරු සහ කිරිපිටි සමාගම මේ පවුලට වන්දි ගෙවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-04-29 13:58:18</date>
+            <index>1</index>
+            <phrase>මනුස්සයෙක් මැරුණය පස්සේ ඒ මනුස්සයා වෙනුවෙන් වන්දි ගෙවලා වැඩක් තියෙනවද? වන්දි ගෙව්ව කියලා ඒ මනුස්සයට පණ එන්නේ නැහැනේ. වැරදිකරුවන්ට දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් - සෞදි අරාබි</author>
+            <date>2012-04-29 15:10:16</date>
+            <index>2</index>
+            <phrase>එස් එෆ් ඔබ හරි ගොඩනැගිල්ල හිමිකරු සහ කිරිපිටි සමාගම මේ පවුලට වන්දි ගෙවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-04-29 17:13:51</date>
+            <index>3</index>
+            <phrase>පාරේ තියෙන අනික් ඒවත් මාරක වගේ තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-04-29 17:19:03</date>
+            <index>4</index>
+            <phrase>මේවට නිසි ප්‍රමිතියක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Nuwan S Qatar</author>
+            <date>2012-04-29 18:18:12</date>
+            <index>5</index>
+            <phrase>අර අහිංසක දරුවට සමානයම් හෝ පිහිටක් වෙන්න ඕනි නේද? නිලදරුවනි, ඒ අහිංසක පවුලට පිහිටක් වන ලෙසට නීති ක්‍රියාත්මක කළොත් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිසානා</author>
+            <date>2012-04-29 19:56:07</date>
+            <index>6</index>
+            <phrase>අදාල අය මීට වහා වන්දි ගෙවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

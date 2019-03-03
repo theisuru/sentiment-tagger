@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16842</articleId>
+    <title>ඇළෙත් පතල් කපයි</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2011 දෙසැම්බර් මස 11 11:19:22</date>
+    <body>ආර්ථික සංවර්ධන අමාත්‍යාංශයෙන් ඇළවේලි සුද්ද කිරීමේ කොන්ත්‍රාත්තුවක් ගෙන බැකෝ හා ශකර් යොදා මැණික් ගැරූ බව කියන දේශපාලනඥයකු පිළිබඳව රත්නපුර වරකදෙණිය ප්‍රදේශයෙන් පැමිණිලි ලැබී ඇත.
+අමුණකටද හානිවනසේ අඩි 35 ගැඹුරට එම ඇළේ ද පතල් කපා ඇත.</body>
+    <comments>
+        <comment>
+            <author>සොමිදු</author>
+            <date>2011-12-11 12:01:53</date>
+            <index>0</index>
+            <phrase>ගෙවල් ඇතුලෙත් හාරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus</author>
+            <date>2011-12-11 12:29:17</date>
+            <index>1</index>
+            <phrase>ආර්ථික ප්‍රශ්න අහස උසට..මිල ගනන් අහස උසට...ජීවන වියදම අහස උසට.. ඉතින්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>jay</author>
+            <date>2011-12-11 12:34:04</date>
+            <index>2</index>
+            <phrase>මේවගේ අයට රජ කාලේ දඩුවම් දෙන්න ඕන. දේශපාලනඥයො මිනිස්සුන්ට මෙහෙම උපදෙස් දෙන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

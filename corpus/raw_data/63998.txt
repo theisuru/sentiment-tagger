@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>63998</articleId>
+    <title>අභයදානය දුන්නාට කළගුණ පෙන්වයි.</title>
+    <author>රංජිත් හේවගේ</author>
+    <date>2012 සැප්තැම්බර් මස 11 11:00:31</date>
+    <body>මසට මැරීම සඳහා හින්දුම සිට රත්ගමට ලොරියකින් හොරෙන් රැගෙන ආ ගවයන් තිදෙනකු පොලිසියෙන් බේරා ලොරියෙන් එලියට ගත් පසු ගවයකු පොලිස් ස්ථානාධිපති රංජිත් ලියනගේ මහතා එම සතාට කොළ අත්තක් කැවීමට සැරසෙද්දී සතා මෙසේ ඉදිරිගාත් බිම තබාගෙන සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>සද්ධා</author>
+            <date>2012-09-11 11:23:11</date>
+            <index>0</index>
+            <phrase>ධම්මෝ භවේ රක්ඛති ධම්මචාරී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලි</author>
+            <date>2012-09-11 11:30:52</date>
+            <index>1</index>
+            <phrase>පොලීසිය කර උතුම් ක්‍රියාවක් . අගය කල යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2012-09-11 11:27:25</date>
+            <index>2</index>
+            <phrase>සර්ට හැමදාම මේක මතක්වෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-11 11:36:40</date>
+            <index>3</index>
+            <phrase>හොර හරක් ජාවාරම් කරුවන්ට දැඩි දඩුවම් දිය යුතුයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-09-11 11:31:10</date>
+            <index>4</index>
+            <phrase>ඔබ තුමන්ලාට මේ උතුම් පින මතු ජාති ජාතිත් ලැබෙනවා .තමාගේ සෙවනැල්ල තමා පසු පස ඒන්නාක් මෙන් තමා කළ හොද නරක නිවන් දක්නා ජාති දක්වා තමා පසු පස ඒයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණා</author>
+            <date>2012-09-11 11:38:39</date>
+            <index>5</index>
+            <phrase>මිනිසාමයි ලොව දෙවියන් වන්නේ... මිනිසාමයි ලොව තිරිසන් වෙන්නේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-09-11 11:58:46</date>
+            <index>6</index>
+            <phrase>තිරිසනාගෙන් පොලිසියට උත්තමාචාර.!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිහගොඩ</author>
+            <date>2012-09-11 12:01:12</date>
+            <index>7</index>
+            <phrase>ඔබට පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-09-11 12:08:31</date>
+            <index>8</index>
+            <phrase>ස්ථානාධිපති තුමනි- ඔබගේ දෑත් තවතබත් මෙවන් යහපත් දේටම යොමුවේවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2012-09-11 12:01:57</date>
+            <index>9</index>
+            <phrase>ලංකාවෙ මහා ලොකුවට බුද්ධාගමට මුල්තැන දෙනවයැයි කිවුවට මේ සත්ත්ව ඝාතනය නවත්වන්න කිසිම මහ උපාසක ගිහියෙකුටවත්, පැවිද්දෙකුටවත් උවමනාවක් නැහැ. සාමාන්‍යය මිනිස්සුන්ට වුවමනාව තිබුණට බලයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-09-11 12:01:57</date>
+            <index>10</index>
+            <phrase>මට නම් හිතාගන්න බැහැ.. දරුවෙක් තාත්තට වදිනවා වගේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-09-11 12:04:19</date>
+            <index>11</index>
+            <phrase>දැන් පොලිසියෙ ගොඩක් හොද අය ඉන්නවා මේක තමයි අපි ඉල්ලන්නේ. වරදින් නෑ සර් ඔයාට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජි-ඩුබායි</author>
+            <date>2012-09-11 12:18:52</date>
+            <index>12</index>
+            <phrase>ස්ථානාධිපතිතුමනි, ඔබගේ දෑත් මෙවන් දේට තව තවත් නැඹුරු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැටවෙල</author>
+            <date>2012-09-11 12:26:52</date>
+            <index>13</index>
+            <phrase>මෙම පින ඇති ඔබට නිවන් සුව අත් වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-09-11 12:21:29</date>
+            <index>14</index>
+            <phrase>සමහර සතුන්ගේ මස් පමණක් කෑමට අවසර දෙන ආගම් වල අය මේ ගැන ලියන කොමෙන්ට්ස් කියවන්න ආසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-09-11 12:59:10</date>
+            <index>15</index>
+            <phrase>මිනිස්සුන්ට නැති ගුණයක් සත්තුන්ට තියෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂානි</author>
+            <date>2012-09-11 13:02:27</date>
+            <index>16</index>
+            <phrase>ඇත්තටම මේ ෆොටෝ එක දැක්කම කඳුළු එන තරමට සංවේදීයි..අපිටත් දැන් තිරිසන් සතුන්ගෙන් ඉගෙනගන්න ගොඩක් දේවල් තියනවා..ඔබතුමන්ලාට ගොඩක් පින්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලාන්</author>
+            <date>2012-09-11 13:00:44</date>
+            <index>17</index>
+            <phrase>අපි සතුන්ගේ මස් කන එක නතර කළොත් එයාලා උන් මරන එකත් නවත්වයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-09-11 13:18:19</date>
+            <index>18</index>
+            <phrase>ජීවත් වෙන්න අයිතිය ඉල්ලා එම සතුන් වැද වැටෙනවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-09-11 13:22:58</date>
+            <index>19</index>
+            <phrase>කළගුණ නොදන්නා මිනිසුන්ට මේ සතා ආදර්ශයක් වේවා! ඒ වගේම මේ සද්කාර්යයට සහභාගි වූ නිලධාරීන්ට යහපතක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූෂ</author>
+            <date>2012-09-11 13:17:34</date>
+            <index>20</index>
+            <phrase>ඔන්න පොලිසියේ හොද වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2012-09-11 13:34:17</date>
+            <index>21</index>
+            <phrase>අනේ අපි නොදන්න ලංකාවේ අපේ පොලිසිය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-09-11 13:35:00</date>
+            <index>22</index>
+            <phrase>මේ වගේ ෆොටෝ ප්‍රසිද්ධ කල යුතුයි....සංවේදී හැගීම් මිනිස් සිත තුල පහල වේවා...අපරාද අඩු වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-09-11 13:38:59</date>
+            <index>23</index>
+            <phrase>මෙම දසුන් දැකීමෙන් සැමදෙනාම මස් කෑමෙන් ඈත් වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-09-11 13:42:08</date>
+            <index>24</index>
+            <phrase>නසාර් කියපු දේ ටිකක් හොද මදි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-09-11 13:48:32</date>
+            <index>25</index>
+            <phrase>තිරිසනුන්ගේ මස් අනුභව කරන්නට හැකි තවත් තිරිසනෙකුට පමණි.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරන් සෞදි</author>
+            <date>2012-09-11 13:51:22</date>
+            <index>26</index>
+            <phrase>ඇයි මිනිසුනේ මේවා දැකලත් තවත් කුණු මස් කන්නේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-09-11 13:58:49</date>
+            <index>27</index>
+            <phrase>හිතලා බලන්න මෙහෙම අහිංසකයෝ තමයි මරලා කන්නේ.. ඔය කටවල් වලට මොනවා උනත් මදි ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-09-11 14:07:56</date>
+            <index>28</index>
+            <phrase>සබ්බ පාපස්ස අකරණං කුසලස්ස උප සම්පදා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2012-09-11 14:17:56</date>
+            <index>29</index>
+            <phrase>බුදු අම්මෝ...පින්තුරේ හොල්මනකුත් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-09-11 14:20:49</date>
+            <index>30</index>
+            <phrase>මේක මේ විදියට සිදුවුණ එක හොදයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2012-09-11 14:15:26</date>
+            <index>31</index>
+            <phrase>බුදු සරණයි ඔබට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජොන්සන්</author>
+            <date>2012-09-11 14:47:13</date>
+            <index>32</index>
+            <phrase>ඒ පොලිස් කූඩුවේ එල්ලිලා මැරුණු කෙනෙක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේල</author>
+            <date>2012-09-11 14:40:49</date>
+            <index>33</index>
+            <phrase>මිලාන්, අපි මස් කන නිසා තමයි හරක් මරන්නේ. අපි නොකා අපේ විරෝධය පළ කරන්නේ. හරක් මස් කඩයක් ළඟට ගොස් පැයක් ඉඳලා බලන්න. වැඩියෙන් මස් මිලදී ගන්නේ අපේ සිංහලයා තමයි. අපි බොරුවට කෑ ගහන එක නවත්වමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2012-09-11 14:43:08</date>
+            <index>34</index>
+            <phrase>ස්ථානාධිපතිතුමනි, ඔබව මෙතරම් ගුණකරුකව සැදූ ඔබගේ දෙමාපියන්ට සහ ගුරුවරුන්ට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-09-11 14:44:56</date>
+            <index>35</index>
+            <phrase>ඉෂාණි, ඇත්තෙන්ම ඔබ නිවැරදියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-09-11 15:07:36</date>
+            <index>36</index>
+            <phrase>පොලිස් වාර්තාවක් එහෙම ඕනෑ වුණහම පොලිසියට බණින අයගේ කතා වෙනස් වෙන හැටි බලන්න එපැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-09-11 15:02:30</date>
+            <index>37</index>
+            <phrase>රත්ගම ඉන්නේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2012-09-11 15:06:54</date>
+            <index>38</index>
+            <phrase>මම ආයෙත් මස් කන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-09-11 15:14:00</date>
+            <index>39</index>
+            <phrase>තිරිසනුන්ට වුවත් මරණ බය තිබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-09-11 15:20:12</date>
+            <index>40</index>
+            <phrase>ඔබතුමාට පින් සිදු වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2012-09-11 15:34:07</date>
+            <index>41</index>
+            <phrase>ගොඩක් පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේරි</author>
+            <date>2012-09-11 15:31:48</date>
+            <index>42</index>
+            <phrase>අනේ! මොනතරම් නම් උතුම් කාර්යයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-09-11 15:39:49</date>
+            <index>43</index>
+            <phrase>තිරිසන්නු දෙපා ඇත්තන්ට ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2012-09-11 15:38:35</date>
+            <index>44</index>
+            <phrase>මු මහ මෝඩ හරකෙක්. හරකෝ, අඩුම ගාණේ මේක අල්ලපු සාජන්ට වැදපන්කෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2012-09-11 15:45:45</date>
+            <index>45</index>
+            <phrase>පොලිසියෙන් ගුටි කාලා මැරුණු සැකකාරයෙක්ගේ ‍හොල්මනක් කියලයි මට නම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-09-11 15:47:45</date>
+            <index>46</index>
+            <phrase>තරුෂ, ඔබ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-09-11 16:01:45</date>
+            <index>47</index>
+            <phrase>මිනිස්සුන්ට වඩා තිරිසන්නු කල ගුණ දන්නවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-09-11 16:08:04</date>
+            <index>48</index>
+            <phrase>ඔබට ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-09-11 16:09:01</date>
+            <index>49</index>
+            <phrase>මස් මාලු කෑම එකපාරටම නවත්වන්න නොහැකි නම් ටිකෙන් ටික නවත්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-09-11 16:03:08</date>
+            <index>50</index>
+            <phrase>මෙන්න මෙහෙමයි පොලිසය ඉන්න ඕන . අපිත් කැමති නෑ පොලීසියට බනිනවට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-09-11 16:10:37</date>
+            <index>51</index>
+            <phrase>ගුණවත් මිනිසෙක්... ඔබතුමාටත් අනෙක් නිළදාරින්ටත් බොහොම පින්. ධර්මයේ හැසිරෙන්නා ධර්මය විසින්ම රකිනු ලැබේ!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2012-09-11 16:33:24</date>
+            <index>52</index>
+            <phrase>මෙය සත්‍යයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-09-11 16:38:26</date>
+            <index>53</index>
+            <phrase>ජනිත්, කැත කතා කියන්න එපා මිනිහෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2012-09-11 16:49:38</date>
+            <index>54</index>
+            <phrase>මෙම ගවයින් ආපසු එම හොරුන්ටම යන අවස්ථා තිබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-09-11 17:04:43</date>
+            <index>55</index>
+            <phrase>මෙම උතුම් ක්‍රියාවට දායක වූ සෑම දෙනාටම අපගේ ආචාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂි</author>
+            <date>2012-09-11 17:04:43</date>
+            <index>56</index>
+            <phrase>මෙවන් දේ වැඩි වැඩියෙන් කිරීමට ඔබතුමාට ශක්තිය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-09-11 17:11:56</date>
+            <index>57</index>
+            <phrase>මිනිස්සුන්ට වැඩියෙන් කෙළෙහිගුණ තියෙනවා සත්තුන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-09-11 17:24:54</date>
+            <index>58</index>
+            <phrase>හොද උතුම් කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාදි</author>
+            <date>2012-09-11 17:19:24</date>
+            <index>59</index>
+            <phrase>ඔබගේ කාරුණික ගුණයට ස්තූතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-09-11 17:32:27</date>
+            <index>60</index>
+            <phrase>කළගුණ ඇස් ඉදිරියේ සනාථ කළ " සත්වයාණෝ".</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2012-09-11 17:27:17</date>
+            <index>61</index>
+            <phrase>මෙතන අදහස් දාන අය දැන් හැමෝම මස් මාලු නොකන අයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-09-11 17:33:37</date>
+            <index>62</index>
+            <phrase>හරක් මස් කන අයට මේ සංවේදීබව දැනෙන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2012-09-11 17:38:12</date>
+            <index>63</index>
+            <phrase>ඇත්තටම මේ ෆොටෝ එක දැක්කහම කඳුළු එන තරමට සංවේදීයි. අපිටත් දැන් තිරිසන් සතුන්ගෙන් ඉගෙනගන්න ගොඩක් දේවල් තිබෙනවා. ඔබතුමන්ලාට ගොඩක් පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුක සෞදි</author>
+            <date>2012-09-11 17:39:03</date>
+            <index>64</index>
+            <phrase>නාසර්ලා ඉතින් කොහොමත් අර ජාතියේ කට්ටියනේ. නාසර්ට වුණත් පුලුවන් යමක් ඉගෙනගන්න තිරිසනාගෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීම්</author>
+            <date>2012-09-11 17:43:17</date>
+            <index>65</index>
+            <phrase>හරකුන්ට අභය දානය දීලා හරක් හොරුන්ව එල්ලන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පනාගොඩ</author>
+            <date>2012-09-11 17:53:23</date>
+            <index>66</index>
+            <phrase>මස්කඩකාරයොත් කියන්නේ කන්න නිසා මරනවා කියලනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-09-11 18:06:04</date>
+            <index>67</index>
+            <phrase>මේ වගේ හැම‍ කෙනෙක්ම ක්‍රියාත්මක වෙනවා නම් කොච්චර හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-09-11 18:00:30</date>
+            <index>68</index>
+            <phrase>මේ සතා ඉස්සර ආත්මයේ මනුස්සයෙක් වෙලා ඉපදිලා ඉන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවිරත්න</author>
+            <date>2012-09-11 18:17:54</date>
+            <index>69</index>
+            <phrase>අනේ හොද වැඩක්. බොහොම පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනුෂ්</author>
+            <date>2012-09-11 18:29:57</date>
+            <index>70</index>
+            <phrase>මට තියෙන පුදුමේ තමයි, තිරිසන් සතුන්ගේ තියෙන හැදිච්චකම මිනිසුන් තුළ නැති එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-09-11 18:49:22</date>
+            <index>71</index>
+            <phrase>මේ වගේ දේවල් වලින් අපිට ඉගෙනගන්න ගොඩක් දේවල් තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2012-09-11 18:44:42</date>
+            <index>72</index>
+            <phrase>මේ පින්තූරේ සතියක් යනකම් ඉවත් කරන්න එපා .අපි හැමෝටම මේක හුඟක් දේ කියලා දෙනවා කියලයි මට හිතෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2012-09-11 18:52:35</date>
+            <index>73</index>
+            <phrase>ඇත්තටම මගේ ඇස් වලට කදුළු ආවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-09-11 19:34:42</date>
+            <index>74</index>
+            <phrase>ගවයාගේ ඉදිරි ඝාතය කැඩිලා වෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-09-11 19:43:38</date>
+            <index>75</index>
+            <phrase>නිල ඇදුමට මනාවට ගැලපෙන පින්වන්ත මහත්තයෙක් . තිරිසන්නු උනත් හිස නමන්නේ ඒ පින්වන්ත භාවයටයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-09-11 22:07:40</date>
+            <index>76</index>
+            <phrase>ෂාන් වගේ අයගේ තමයි කකුල් දෙකම කඩන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-09-12 08:41:55</date>
+            <index>77</index>
+            <phrase>හරකා පණ පිටින් දැක්කම පව් .නමුත් මස් ටික දැක්කම කටට කෙල උනනවා අපේ අයට. මෙහෙමයි අපේ මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේල</author>
+            <date>2012-09-12 09:11:05</date>
+            <index>78</index>
+            <phrase>විමුක්ති, මේක හරියට ඔස්ට්‍රලියාවට යන්න ගිහින් අහුවෙච්ච නැවක් වගේ,මේක තම ඇත්ත. අපේ පොලිකිඅ කරුණාවන්ත නම් මොනවා කරන්න බැරිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිර</author>
+            <date>2012-09-12 09:44:02</date>
+            <index>79</index>
+            <phrase>පොලිසියට බණින අය මේවාට මොනවද දන්නේ නැහැ කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නමුනු</author>
+            <date>2012-09-12 10:44:51</date>
+            <index>80</index>
+            <phrase>මේක දැක්ක්ම මටත් හරි දුකයි. ඒ උනත් සතුටුයි ලංකාවේ මෙච්චර නිර්මාංස මිනිස්සු ඉන්නවා දැක්කම. නමුත් හරක් මස් හරි රසයි නේ. කොහොම උනත් හරක් මස් කෑම පව් නිසා අපි දැන් කනවා අඩුයි. අපි කන්නේ ඌරු මස්, එලු මස්, කුකුල් මස්, මාලු, කකුලුවො, හාල්මැස්සො, බිත්තර ආදී මස් මාලු වර්ග. මට කව්ද කිව්වා එලු මස් කෑවත් ටිකක් පව් කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-09-12 11:59:12</date>
+            <index>81</index>
+            <phrase>පොලීසියේ යහපත් අයත් ඉන්නවා . හැමදේටම පොලීසියට බනින එක වැරදියි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේරී</author>
+            <date>2012-09-12 12:42:30</date>
+            <index>82</index>
+            <phrase>පොලිසියේ මහත්වරු කළේ හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිශ්‍ර</author>
+            <date>2012-09-13 17:48:04</date>
+            <index>83</index>
+            <phrase>පුදුමයි නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41035</articleId>
+    <title>පාසල් යන ගමන් තව වැඩක් පටන් අරන්</title>
+    <author>රෝහිත සමන් කුමාර  රෝහණ චන්ද්‍රදාස</author>
+    <date>2012 මැයි මස 07 11:03:49</date>
+    <body>අනුරාධපුර නගරයට මත් කුඩු සපයන බව කියන තැනක් වටලා කුඩු ග‍්‍රෑම් 20ක් හා රුපියල් 86,000ක් ද සමග පාසල් සිසුන් දෙදෙනකු සැකපිට අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+උතුරුමැද නියෝජ්‍ය පොලිස්පති සී.ඞී. වික‍්‍රමරත්න මහතාගේ උපදෙස් මත මේ පරීක්ෂණ පැවැත්වේ.</body>
+    <comments>
+        <comment>
+            <author>බබා</author>
+            <date>2012-05-07 12:04:23</date>
+            <index>0</index>
+            <phrase>රටට ගිය කලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබරං</author>
+            <date>2012-05-07 12:37:20</date>
+            <index>1</index>
+            <phrase>අන්න කොල්ලෝ කරනවනං වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්-saudi</author>
+            <date>2012-05-07 13:31:07</date>
+            <index>2</index>
+            <phrase>දෙමාපියන්ගේ සල්ලි වලින් ඉගෙන ගන්න ගමන්ම ඒ අයට අවනම්බු කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ගා</author>
+            <date>2012-05-07 16:07:34</date>
+            <index>3</index>
+            <phrase>අනාගතේදී රටේ නම ගිය අපරාධකාරයින්ගේ ගොන්නට වැටෙන්න අඩිතාලම දාන්නද හදන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-07 20:53:04</date>
+            <index>4</index>
+            <phrase>අද අප යුධ සටන් දිනා නිදහස්ව නිවහල්ව ජීවත් වන්නෙමු. නමුත් අපගේ අණාගත දරු පරපුරට මුහුණ පෑමට සිදුවීඇති අභාග්‍යමත් සිදුවිමි දෙස බැලීමේදී මත්උවදුර, මහචාර්යවරුන් විසින් කරන්නාවු දුරාචාර්ය, මෙ සියල්ලටම අපද වගකිව යුතුය. දේශපාලඥයාගේ පටන් ආගමික ප්‍රභුවරුන්, නිති රැකවරණය දෙන්නාවු පොලිසිය, රටෙ ජනතාව, මේ දරුවන් අප සැමගේම දරුවන් ලෙස සිතිය යුතුය. මෙ දරුවන් ලංකාවේ අනාගතය ගොඩනැගීමට සිටින පරපුරය. එය තම දෑසමෙන් රැකගැනීම අප සැමගේම වගකීම වන්නේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවේට්</author>
+            <date>2012-05-08 03:00:23</date>
+            <index>5</index>
+            <phrase>අබරං සීයාට දරුමල්ලො නැති නිසා ඔය වගේ අදහස් පහළවෙනව ඇති අනේ අපිට නං එහෙම හිතෙන්නෙ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2012-05-08 08:56:24</date>
+            <index>6</index>
+            <phrase>අනේ රටකට ගිය කලක්. මේ පෙති වර්ගයක් ලු. තොල් අතර රදවා ගත්තම ශරීරගත වෙතවාලු. ඒවා භාවිතා තරන ළමයින්ගේ තොල් වල ඇතුළු පැත්ත කළු පාටයි. මේ ගැන පැමිණිලි කලාට නීතිය ක්‍රියාත්මක නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-05-08 16:08:39</date>
+            <index>7</index>
+            <phrase>අනුරාධපුරෙත් සිල්වල ඉන්නවද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

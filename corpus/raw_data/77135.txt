@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77135</articleId>
+    <title>ඉන්ටර්පෝල් පොලිස් මුල්පුටුවට කාන්තාවක්</title>
+    <author>රත්නපාල ගමගේ සහ අජීවන් වීරකීර්ති ස්විට්සර් ලන්තයේ සිට</author>
+    <date>2012 නොවැම්බර් මස 14 23:10:17</date>
+    <body>රටවල් 190 සාමාජිකත්වය දරන ජාත්‍යන්තර පොලිසියේ (ඉන්ටර්පෝල්) නව සභාපති ලෙස ප්‍රථම වරට කාන්තවක් පත්ව සිටින්නීය. ප්‍රංශ පොලිස් සේවාවේ දෙවන අණදෙන නිලධාරිනය වන මිරෙල්ලා බැල්ස්ට්‍රාසි ඇයයි. ජාත්‍යන්තර පොලිස් මහා සම්මේලනය රෝමයේදී පසුගිය දා පැවැත්විණි. යුරෝපයේ මත්ද්‍රව්‍ය ජාවාරම් මර්දනය පිළිබද හසල දැනුමක් ඇති ඇය පොලිස් කොමසාරිස්වරියක ලෙස 1975 දී ප්‍රංශ පොලිස් සේවයට එක්වූවාය.</body>
+    <comments>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-15 08:09:59</date>
+            <index>0</index>
+            <phrase>එහේ කාන්තාවෝ මුල් පුටු වලට නගිනවා . මෙහේ කාන්තාවෝ මුල් පුටු වලින් බස්සවනවා . අනේ කාලේ වනේ වාසේ කිව්වලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-11-15 11:16:08</date>
+            <index>1</index>
+            <phrase>ඉන්ටර්පොල් එකත් ඉවරයි එහෙනම් අදින් පස්සේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-15 11:26:23</date>
+            <index>2</index>
+            <phrase>සරා හරියටම හරි-ලංකාවෙත් අනුලා දේවිලා හිටියා නොවැ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2012-11-15 12:04:02</date>
+            <index>3</index>
+            <phrase>හේරත්ලාට ඊර්ෂ්‍යා හිතිලා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-11-15 13:24:56</date>
+            <index>4</index>
+            <phrase>එහෙම කියන්න එපා .ලෝකේ මුල්ම අගමැතිණිය ‍ගැන මතක නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-15 14:31:27</date>
+            <index>5</index>
+            <phrase>අනේ අපි මොනවට ඊර්ෂ්‍යා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලක</author>
+            <date>2012-11-15 16:25:31</date>
+            <index>6</index>
+            <phrase>කාන්තාවන්ට සම තැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝස්</author>
+            <date>2012-11-15 19:30:21</date>
+            <index>7</index>
+            <phrase>යුරෝපයේ තියෙන කුඩු ජාවාරම් හරිම ඉහළයි. විශේෂයෙන්ම පැරිස් වල. ඒවා ගැන සොයා බැලිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

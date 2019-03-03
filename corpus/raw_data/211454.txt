@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>211454</articleId>
+    <title>අපුර භික්ෂු සරසවි අවුල ඉවරයි</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2014 පෙබරවාරි මස 19 11:45:45</date>
+    <body>අනුරාධපුර භික්ෂු විශ්ව විද්‍යාලයේ දස දිනක් බලෙන් රැදී සිටි ශිෂ්‍ය භික්ෂුහු පාලනාධිකාරීය සමඟ ඇති වු එකඟතාව මත අද නේවාසිකාගාරයෙන් ඉවත් වුහ.
+අනුරාධපුර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි මහේෂ් සේනාරත්න මහතා මැදිහත්කරු වශයන් ක්‍රියා කළේය.
+ලබන 3 වැනිදා සරසවිය විවෘත කිරීමටත් අප්‍රේල් 3 වැනිදා වන විට ශිෂ්‍ය භික්ෂුන්ගේ  ප්‍රශ්න වලට විසඳුම් දීමටත් විනය විරෝධී  ක්‍රියා සම්බන්ධයෙන් භික්ෂුන් දස නමකට එරෙහි පරීක්ෂණ කඩිනම් කිරීමටත් තුඹුල්ලේ සීලක්ඛන්ධ මහෝපාද්‍යාය නා හිමියෝ  එකඟ වුහ.
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2014-02-19 12:00:25</date>
+            <index>0</index>
+            <phrase>යමෙක් විනය විරෝධී ලෙස හැසිරේ නම් දඬුවම් දියයුතු නොවන්නේද? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙවන්</author>
+            <date>2014-02-19 12:33:07</date>
+            <index>1</index>
+            <phrase>මේ ශිෂ්‍ය භික්ෂුන් වහන්සේලා වඩින්නේ ශ්‍රධානුසාරී සහ ධම්මානු සාරී පැවැත්ම අරමුණු කර ගෙනද? නොඑසේ නම් ගමන් කරන්නේ වෙන අරමුණක් සිතේ පෙරදැරි කරගෙනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2014-02-19 13:10:32</date>
+            <index>2</index>
+            <phrase>කෑම බීම ඉවර වෙනකොට සමථයකට එනවා. එක සාමාන්‍ය දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-02-19 13:23:14</date>
+            <index>3</index>
+            <phrase>මේ ශිෂ්‍ය භික්ෂුන් අතරට රිංග ගෙන ඔවුන්ව මෙහෙයවන දේශපාලන බළල් අත බුදුන් වහන්සේට වඩා බලවත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2014-02-19 13:51:55</date>
+            <index>4</index>
+            <phrase>මේ අය මාධ්‍යයට හංගන දේවල් තියෙනවා. ඇයි මේ දහ දෙනෙක්කුට විරුද්ධව විනය පියවර ගත්තේ කියල අහල බලන්නකො.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2014-02-19 14:44:29</date>
+            <index>5</index>
+            <phrase>පෙර පැවති භික්ෂු අධ්‍යාපන ක්‍රමයකට යොමු කළ යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුනි</author>
+            <date>2014-02-19 15:38:28</date>
+            <index>6</index>
+            <phrase>අනිවාර්යයෙන්ම දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-03-03 21:06:17</date>
+            <index>7</index>
+            <phrase>දෙයක් ගැන හරියට දැනගෙන කවුරු කවුරුත් අදහස් දක්වනවා නම් ගොඩාක් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

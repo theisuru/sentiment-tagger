@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505510</articleId>
+    <title>සහල් වලට  පාලන මිලක් එයි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2017 පෙබරවාරි මස 08 17:06:14</date>
+    <body>වෙළඳපොළ තුළ සහල්  හිඟයක් ඇතීවීම වැළැක්වීමටත් ඉහළ ගොස් ඇති සහල් මිල පාලනය කිරිම සඳහා  අද (8) මධ්‍යම රාත්‍රී සිට  සහල් සඳහා උපරිම සිල්ලර මිලක් නියම කිරිමට  පියවර ගත් බව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය පවසයි. 
+ඒ අනුව උපරිම සිල්ලර  මිල නාඩු සඳහා රුපියල් 72 ක් ද කැකුළු සඳහා  රුපියල් 70 ක් ද සම්බා සඳහා  රුපියල්  80 ක් නියම කර  ඇත. </body>
+    <comments>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-02-08 12:18:37</date>
+            <index>0</index>
+            <phrase>මේ මිල ගැසට් කළාද? එහෙම කළේ නැත්නම් එය මිල පාලන නීතියට යටත් වන්නේ නැහැ. වැඩි මිලට විකුණුවට නඩු දාන්න බැහැ. මිල පාලන ගැසට් පත්‍රය චුදිතය සමග උසාවියට ඉදිරි පත් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2017-02-08 16:14:16</date>
+            <index>1</index>
+            <phrase>පිටරටින් ගෙනෙන සහල් වල තත්වය බැලුවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2017-02-08 16:34:02</date>
+            <index>2</index>
+            <phrase>මේ මිල ගණන් පත්තර වලට විතරයි. කිසිම කඩයක මේ ගානට සහල් නැහැ. වැඩි මිලට සහල් විකුණුවොත් කාටද අපි දැනුම් දෙන්න ඕනෑ කියලා ටෙලිෆෝන් නොම්මරයක්වත් දාන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2017-02-09 00:23:37</date>
+            <index>3</index>
+            <phrase>වසවිස නැති සහල් වල ගණන කීයද. වසවිස ඇති සහල් වල ගණන කීයද. ආනයනය ක‍රන්නේ වසවිස නැති සහල්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-02-09 00:51:01</date>
+            <index>4</index>
+            <phrase>ගැසට් කරලානේ. දැන් හාල් තියේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසේකර</author>
+            <date>2017-02-09 03:00:55</date>
+            <index>5</index>
+            <phrase>මේ ගාණට මොන කඩේද දන්නෙ නැහැ ගන්න තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂාන්ත</author>
+            <date>2017-02-09 03:04:34</date>
+            <index>6</index>
+            <phrase>මේ ගානට හාල් දෙන්න වෙළෙන්දන් සූදානම්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුක්ෂාන්</author>
+            <date>2017-02-09 13:16:15</date>
+            <index>7</index>
+            <phrase>පාලන මිලක් යොදන්න කලින් හාල් මේ මිලටල් ලබාගන්න කටයුතු යොදන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

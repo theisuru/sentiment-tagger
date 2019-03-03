@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22366</articleId>
+    <title>හෝටන් තැන්න අද උදේ</title>
+    <author>නුවරඑළිය ෂෙල්ටන් හෙට්ටිආරච්චි</author>
+    <date>2012 ජනවාරි මස 17 16:13:24</date>
+    <body>නුවරඑළිය හෝටන් තැන්නට අද උදේ මල්තුහින පතිත විය. කොළ තණ පිටි සුදු සේලයක් බවට පත්විය. එහි උෂ්ණත්වය අද සෙන්ටිගේ‍්‍රඩ් අංශක 1.5ක් විය. නුවරඑළියේ උෂ්ණත්වය සෙන්ටිගේ‍්‍රඩ් අංශක 7 ක් විය.</body>
+    <comments>
+        <comment>
+            <author>නිර්මාල්</author>
+            <date>2012-01-17 16:22:12</date>
+            <index>0</index>
+            <phrase>මගේ රට කොච්චර ලස්සනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-01-17 16:25:37</date>
+            <index>1</index>
+            <phrase>ලෝක ව්‍යසනයක් අතලග. නොපමාව කුසල් දහමෙහි යෙදෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-01-18 08:01:37</date>
+            <index>2</index>
+            <phrase>ආසියාවේ ආශ්චර්ය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල විජේවර්ධන</author>
+            <date>2012-01-26 15:27:25</date>
+            <index>3</index>
+            <phrase>අපිට අලුත් අත්දැකීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

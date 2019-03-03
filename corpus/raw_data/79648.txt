@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>79648</articleId>
+    <title>කාරයක් ගංවතුරේ ගහගෙන යයි</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2012 නොවැම්බර් මස 25 14:14:13</date>
+    <body>හම්බෙගමුව වැව පිටාර ගලා හම්බෙගමුව තණමල්විල පාර යටවී ගියේය. ගංවතුරට අසුවූ කාරයක් වැව පහළ කැලෑවට තල්ලූවී ගියේය.
+වැව පහළ සූරිආරේ පවුල් 40 ක් පමණ දැනටමත් ගම අතහැර ගොසිනි.</body>
+    <comments>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-11-25 15:17:43</date>
+            <index>0</index>
+            <phrase>කාර් එකට වැඩිය වටින්නේ ජීවිතයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-11-25 16:07:06</date>
+            <index>1</index>
+            <phrase>වාහනේද ලොකු? මිනිස් ජීවිතයද ලොකු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-11-26 09:21:32</date>
+            <index>2</index>
+            <phrase>ලංකාවේනම් මිනිස් ජීවිතවලට වඩා වටින්නේ කාර් එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

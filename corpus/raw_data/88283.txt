@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>88283</articleId>
+    <title>පැරෑලිය සුනාමි පිං අනුමෝදනා</title>
+    <author>රත්නසිරි ප්‍රේමලාල්</author>
+    <date>2012 දෙසැම්බර් මස 26 13:59:58</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-12-31 08:10:37</date>
+            <index>0</index>
+            <phrase>ශ්‍රී ලාංකිකයන්ගේ මනුස්සකම තමයි මෙවැනි දේවලින් පෙනෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාරි</author>
+            <date>2013-01-02 13:01:47</date>
+            <index>1</index>
+            <phrase>නිවන පසක් වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

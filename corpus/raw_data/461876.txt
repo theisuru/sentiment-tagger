@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461876</articleId>
+    <title>පොල් කඩන්නා වෙඩි වැදී මරුට.</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 සැප්තැම්බර් මස 27 21:22:11</date>
+    <body>වැලිවේරිය ඉඹුල්ගොඩ පොල් වත්තක වෙඩි තැබීමකින් පොල් කඩන්නට ආ බව කියන පුද්ගලයකු මියගිය බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-09-27 16:52:25</date>
+            <index>0</index>
+            <phrase>හොර පොල් කැඩුවට දඬුවම නම් සැරයි පුතෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-09-28 01:01:19</date>
+            <index>1</index>
+            <phrase>පොල්වල ගණන් දිහා බැලුවහම හොරෙන් පොල් කඩන අයට වෙඩි තියන්න හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මප්‍රිය</author>
+            <date>2016-09-28 03:43:56</date>
+            <index>2</index>
+            <phrase>ඔහු අාවේ පොල් කලා දෙන්නද එහෙම නැත්නම් පොල් හොරකම් කරන්නද? කොහොම වුනත් පොල් ගෙඩියකට මිනිසුන් මරණ රටක් වෙලා ලංකාව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් සෞදි</author>
+            <date>2016-09-28 04:53:58</date>
+            <index>3</index>
+            <phrase>වෙඩි වැදිලද තියලද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

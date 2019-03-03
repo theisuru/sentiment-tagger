@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>238944</articleId>
+    <title>හංවැල්ලටත් ගංවතුර</title>
+    <author>එච් එස් ඒ නන්දන</author>
+    <date>2014 ජූනි මස 03 11:10:44</date>
+    <body>විසි හතර පැයක වැසි සමග පාදුක්ක, ඉංගිරිය, හංවැල්ලේ ප්‍රධාන මාර්ග රැසක්ම ගංවතුරෙන් යට විය.
+
+
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-06-03 11:35:32</date>
+            <index>0</index>
+            <phrase>මම බැලුවේ තවමත් කිසිම මහජන නියෝජිතයෙක් එලියට වත් බැහැල නැත්තේ මොකද කියල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2014-06-03 12:18:07</date>
+            <index>1</index>
+            <phrase>එයාලට පිනිබාන එක අගුනයිනේ ලුම්බිණි, සහනාධාර දෙනවා කියල එකෙනුත් කීයක් හරි ගසා කන හැටි කල්පනා කරනවා ඇති සීතල මාළිගා වලට වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2014-06-03 12:25:18</date>
+            <index>2</index>
+            <phrase>දැන් මොකටද යන්න කාරණාව චන්දෙට තව ඈතයි ළමයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනුෂ්කා</author>
+            <date>2014-06-03 12:31:57</date>
+            <index>3</index>
+            <phrase>අනවසර ඉදිකිරීම් , ඉඩම් ගොඩකිරීම් , ජලය බැසයන මාර්ග අවහිරවීම්. වැස්සට යට වෙනවා , යට උනහම සහන දෙනවා , තවත් එක ඇමති කෙනෙක් පාර්ලිමේන්තුවට එකතු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-06-03 12:34:28</date>
+            <index>4</index>
+            <phrase>බදුල්ලට ,මොනරාගලට ආව නම් මහජන නියෝජිතයෝ ඕනෑ තරම් එලි බහීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයානි</author>
+            <date>2014-06-03 12:58:00</date>
+            <index>5</index>
+            <phrase>චන්ද දායකයෝ වතුරේ පාවෙනවා. බලවතුන් ආගිය අතක් නැහැ. අන්තිමේ චන්දෙ දුන්න කෙනෙකුත් නැහැ, දුන්න චන්දෙ ගත්ත කෙනෙකුත් නැහැනේ ! හරිම ආශ්චර්යමත් රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2014-06-03 13:01:10</date>
+            <index>6</index>
+            <phrase>කෝ මේ ආපදා කළමනාකරණ කටයුතු භාර ඇත්තෝ. ? ගංවතුර බහිනකන් ඉන්නවා ඇති මොකද වුනේ කියලා බලන්න යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්සාෆ්</author>
+            <date>2014-06-03 13:01:55</date>
+            <index>7</index>
+            <phrase>මේ ගාල්ලටත් වහිනවා හෝ ගාලා , වෙඩි වගේ අකුනුත් ගහනවා අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2014-06-03 13:04:18</date>
+            <index>8</index>
+            <phrase>කළුතර දිස්ත්‍රික්කයේ නහය උඩින් ම වතුර ගිහින්. තවම ජ්‍යෝතිෂ්‍ය මහතා නැකත හදලා දුන්නේ නැතිව ඇති එලිය ට බහින්න අපේ අයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2014-06-03 13:07:49</date>
+            <index>9</index>
+            <phrase>දැන් කට්ටිය වැස්සට පලි ගහයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවිඳු</author>
+            <date>2014-06-03 13:15:39</date>
+            <index>10</index>
+            <phrase>කෝ මේ අර බලවතුන් ට කඩේ යන භවතා? මේවාට කිසි කතාවක් නැහැ. පුළුවන් නම් ඔවුන්ව එක්ක යන්නකෝ මේ විපතට පත් උදවිය බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2014-06-03 13:18:51</date>
+            <index>11</index>
+            <phrase>බලවතුන් වතුරට බහින්න ස්විමින් සුට් ශෝර්ට්ස් තවම සොයනවා ඇති. සොයා ගන්නකොට ගංවතුර බැහැලා තියේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2014-06-03 13:28:20</date>
+            <index>12</index>
+            <phrase>මේ දවස් වල ලෝක ශුරතා ක්‍රිකට් නැති නිසා අන්න ගංවතුර ගැන ජනතාව විස්සෝප වෙන අල්ලපනල්ලේ කිරිපිටි බද්ද වැඩි කරලා. දැන් ඉතින් ගිලිලාම මැරෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2014-06-03 13:40:29</date>
+            <index>13</index>
+            <phrase>නියම වෙලාවට ඒගොල්ලෝ එ්වි. කලබලයක් නෑ, මනාපෙට තව කල්තියනෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්ජය්</author>
+            <date>2014-06-03 13:45:18</date>
+            <index>14</index>
+            <phrase>අනේ මෙහෙම කරුම රටක්, අපේ මිනිස්සුන්ටත් හොද පාඩම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-06-03 13:47:35</date>
+            <index>15</index>
+            <phrase>පහුගිය දවස් වල තාප්පයක් තාප්පයක් ගානෙ, බෝක්කුවක් බෝකුවක් ගානෙ ලයිට් කණුවක් ගානෙ දැන් විලිස්සාගෙන වැඳගෙන පෝස්ටර් වල හිටපු මහජන සේවේ නොකර නින්ද යන්නේ නැහැ කියපු දේශපාලකයෝ කෝ අද මහජනතාවට හිරිහැර වෙනකොට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-06-03 13:48:50</date>
+            <index>16</index>
+            <phrase>මිනිස්සුන්ට ගංවතුර පෙන්නලා කිරි පැකට් එකට ඇනලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලාන්</author>
+            <date>2014-06-03 13:55:37</date>
+            <index>17</index>
+            <phrase>ඕස්ට්‍රේලියාවේ ක්වීන්ස්ලන්ඩ් ප්‍රාන්තයේ මහා ගංවතුරක් ඇති වුන වෙලේ , දේශපාලකයන් සැනෙකින් ක්‍රියාත්මක වී ඒ ප්‍රදේශයට ගිහින් විපතට පත් ජනතාව සමග එක් වුනා. ලංකාවේ ජනතාව නම් පසුගිය මැතිවරණයෙන් පසුව අපේ ඇත්තන්ගේ පාට වත් තාම දකින්න නැතිව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2014-06-03 14:06:43</date>
+            <index>18</index>
+            <phrase>වෙනදාට දේශපාලක බලවතෙකු සම්බන්ධ පුවතකදී , පන් මල්ල අතින් අරගෙන පුවත් සංවාදයට එන සමහරුන් මේ වගේ ජාතික විපතකදී පැත්ත පළාතේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2014-06-03 15:15:42</date>
+            <index>19</index>
+            <phrase>අර යටම පින්තූරෙ තියෙන වාහනේ එනව අැත්තේ දේශපාලකතුමෙක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-06-03 15:28:18</date>
+            <index>20</index>
+            <phrase>අනේ ඇත්තට මට උදේ පාන්දරම බලන්න වෙන ප්‍රවෘත්ති. පිට රටක හිටියත් මගේ රටට වෙන අැබැද්දි බලන්න දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2014-06-04 01:44:11</date>
+            <index>21</index>
+            <phrase>මේ වෙලාවේ දේශපාලනේට කෑ ගහන්නේ නැතුව අසරණ වෙච්ච මිනිස්සුන්ට පිහිටක් වෙන විදිහක් ගැන හිතුවොත් නරකද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

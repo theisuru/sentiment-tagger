@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57136</articleId>
+    <title>මඩුකන්ද දළදා පෙරහර</title>
+    <author>රොමේෂ් මධුසංක  ඡායාරූපය- සිතුම් චතුරංග</author>
+    <date>2012 අගෝස්තු මස 06 09:57:59</date>
+    <body>වව්නියාවේ ඓතිහාසික මඩකන්ද  ශ්‍රී දළදා විහාරයේ වාර්ෂික දළදා පෙරහර  ඉරිදා රාත්‍රී වීදි සංචාරය කළේය. කිර්ති ශ්‍රි මේඝවර්ණ රජු සමයේ ලංකා පටුන   තොටුපලෙන් හේමමාලා හා දන්ත දන්ත කුමාරයා ශ්‍රී දළදා වහන්සේ ලක්දිවට වැඩම කළ බව ඉතිහාසටය් දැක්වේ.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-08-06 10:08:43</date>
+            <index>0</index>
+            <phrase>ඒ භාග්‍යවත් වූ අරහත් වූ සම්මා සම්බුදුරජාණන් වහන්සේ ගේ උතුම් සම්බුදු බලයෙන්, පිරිසිදු බුදුසසුන බොහෝ කල් ලොව පවතීවා! වව්නියාවේ ඓතිහාසික මඩකන්ද ශ්‍රී දළදා විහාරයත් ලංකා පටුන සමුද්‍රගිරි රජමහ විහාරයත් ගෞතම බුදු සසුන බබලන උතුම් පුණ්‍ය භූමි බවට පත්වේවා ! නමෝ බුද්ධාය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-06 10:15:35</date>
+            <index>1</index>
+            <phrase>සාධු! සාධු! අපේ බුදුදහම සදාකාලිකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-06 12:21:29</date>
+            <index>2</index>
+            <phrase>පුදුම ලස්සනක් තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක බණ්ඩාර</author>
+            <date>2012-08-06 12:47:03</date>
+            <index>3</index>
+            <phrase>මේ ක්‍රමය ගොඩාක් හොඳයි අපට පහසුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක බණ්ඩාර</author>
+            <date>2012-08-06 12:49:26</date>
+            <index>4</index>
+            <phrase>ඇත්තටම මේ ක්‍රමය ගොඩාක් හොඳයි අපට පහසුවෙන් පත්තරේ විස්තර බැලුවැහැකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-08-06 12:53:33</date>
+            <index>5</index>
+            <phrase>වවුනියාව... සාදු සාදු සාදු!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර උදුකුම්බුරගේ</author>
+            <date>2012-08-06 14:59:22</date>
+            <index>6</index>
+            <phrase>සාදු !!! බොහොම ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-06 16:02:47</date>
+            <index>7</index>
+            <phrase>අද මෙහෙම දේවල් කරදරයකින් තොරව කරන්නේ අපේ රජතුමා සහ රණවිරුවන් නිසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2012-08-07 03:50:24</date>
+            <index>8</index>
+            <phrase>ඔය කාගේ කාගෙත් ඇස් ඇරිලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2012-08-07 03:52:02</date>
+            <index>9</index>
+            <phrase>07 August 2012 සමන් රොහාන් රණසිංහ, ඔය කාගේ කාගෙත් ඇස් ඇරිලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

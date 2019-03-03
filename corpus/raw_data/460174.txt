@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460174</articleId>
+    <title>මහින්දානන්ද යළි රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා නිරංගි අබේවික්‍රම</author>
+    <date>2016 සැප්තැම්බර් මස 22 11:39:13</date>
+    <body>හිටපු ක්‍රීඩා ඇමැති මහින්දානන්ද අලුත්ගමගේ ලබන 27 වැනිදා තෙක් යළි රිමාන්ඩ් කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ගිහාන් පිලපිටිය මහතා අද (22) නියෝග කළේය.
+කොළඹ කුරුඳුවත්තේ නිවසක් රුපියල් දෙකෝටි හැත්තෑ ලක්ෂයකට මිලට ගැනීමෙන් ඔහු මුදල් විශුද්ධිකරණ පනත යටතේ වරදක් කර ඇතැයි රහස් පොලිසියට අධිකරණයට දැන්වීය. ඔහුට එම මුදල් ලැබුණු ආකාරය නොපැහැදිලි යැයිද රහස් පොලිසිය අධිකරණයට කියා සිටියේය.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-09-22 06:30:06</date>
+            <index>0</index>
+            <phrase>යහපාලන ආණ්ඩුවේ වැරදි කරන අය ඇත්තෙම නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-09-22 06:49:55</date>
+            <index>1</index>
+            <phrase>වී මලු හොරකම් කරපු තරුණයාට ඇප නැහැ. රජයේ මුදල් කෝටි ගණන් හොරකම් කළ අය සැප විඳිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-09-22 06:53:40</date>
+            <index>2</index>
+            <phrase>මම මහින්දවාදියෙක්. හැබැයි මොහුට නම් කැමති නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශී</author>
+            <date>2016-09-22 07:34:59</date>
+            <index>3</index>
+            <phrase>කැමති අකමැති කියලා නීතිය වෙනස් වෙන්න බැහැ. කාටත් පොදු නීතියක් තිබිය යුතුයි. දැන් තියෙන්නෙත් නිවැරදි තැනම නොවෙයි. තිබුනට වැඩිය ටිකක් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-09-22 07:36:55</date>
+            <index>4</index>
+            <phrase>ජගත්, ඔයා මහින්දවාදියෙක්. මහින්දානන්ද ඊට වැඩිය සියදහස් ගුණයකින් මහින්දවාදියෙක්. ඔබ ඔහුට අකමැති ඊර්ෂ්‍යාව, කුහකකම නිසාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිවංක</author>
+            <date>2016-09-22 08:41:22</date>
+            <index>5</index>
+            <phrase>හොරුන්ට දඬුවම් දෙන්නම ඕනෑ උපරිමයෙන්ම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලිණ</author>
+            <date>2016-09-22 08:36:12</date>
+            <index>6</index>
+            <phrase>නිකන්නේ ඉල්ලගෙන කන්නේ.. යහපාලන ආණ්ඩුවට එකතු වුණා නම් අද ඇමති කමකුත් අරගෙන සනීපෙන් ඉන්නවනේ..එහෙම කරනවට මේ රටේ මිනිස්සුත් කැමතියිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

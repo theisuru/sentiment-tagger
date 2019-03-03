@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>252654</articleId>
+    <title>පෙර සිරිතට කප් සිටුවයි</title>
+    <author>ගාමිණී රණසිංහ</author>
+    <date>2014 ජූලි මස 27 12:43:04</date>
+    <body>මහනුවර වාර්ෂික ඇසළ පෙරහැර වෙනුවෙන් නාථ, පත්තිනි, කතරගම හා විෂ්ණු දේවාලයන්හි කප් සිටුවීම අද උදෑසන චාරිත්‍රානුකූලව සිදුකැරිණි.</body>
+    <comments>
+        <comment>
+            <author>අශාන්</author>
+            <date>2014-07-27 07:37:29</date>
+            <index>0</index>
+            <phrase>කප් සිටුවීම යන්නෙන් අදහස් කරන්නේ කුමක්ද?කරුණාකර පැහැදිලි කර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී - සිරි</author>
+            <date>2014-07-27 08:57:43</date>
+            <index>1</index>
+            <phrase>දළදා මාලිගාවේ කප් සිටුවන විටත්, පෙරහැර අවසානයේ දිය කපන විටත්, අවට ගම්මාන වලට මල් වැහි වර්ෂාව සිදුවීම හාස්කමකි. කාලයක් නියඟය තිබු කෑගල්ලට අද අලුයම සිට කීප වරක්ම කුඩා වැහි කීපයක්ම අද හැලුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2014-07-27 16:45:34</date>
+            <index>2</index>
+            <phrase>මේ දේවල් ඡායාරූප මඟින් හෝ දැකබලාගන්න සැළැස්වූවාට ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙන්සිල්</author>
+            <date>2014-07-27 21:59:52</date>
+            <index>3</index>
+            <phrase>අසාන්, මම අසා තිබෙන විදියට කිරි ගසක කඳක් නැකතට සිටුවීම.මෙහි නියමිත උස ප්‍රමාණයක් තිබෙනවා. තව දන්නා අය පැහැදිලි කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිතා</author>
+            <date>2014-07-28 04:23:38</date>
+            <index>4</index>
+            <phrase>ත්‍රිවිද රත්නයේ පිහිටෙන් සර්ව ආගමික නොවුන එක ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අෂාන්</author>
+            <date>2014-07-28 06:15:39</date>
+            <index>5</index>
+            <phrase>ඩෙන්සිල්, ඔබට ස්තුතියි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය අබේවර්ධන බණ්ඩාර</author>
+            <date>2014-07-28 06:29:52</date>
+            <index>6</index>
+            <phrase>මගේ රටට දළදා හිමි සරණයි ! මගේ දැයට දළදා හිමි සෙවනයි ! සැපතින් සපිරුන නිවහල් දෙරණයි ! උපතින් මේ රට මා හට උරුමයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙළුම්</author>
+            <date>2014-07-28 07:04:24</date>
+            <index>7</index>
+            <phrase>අපි මේ බලාගෙන ඉන්නේ ආයෙත් දළදා වහන්සේ මහජනයාට ප්‍රදර්ශනය කරන්නේ කවදාද කියලා. දැනට අවුරුදු කිහිපයකට ඉස්සර පැවැත් වූ ප්‍රදර්ශනයේදී කලින් අපි උදේ ඉඳල පෝලිමේ ඉඳලාත් වැඳ පුදා ගන්න බැරි වුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-07-28 07:18:36</date>
+            <index>8</index>
+            <phrase>අද කාලේ හුඟාක් දේවල් වෙන්නේ ඩිජිටල් සිරිතටනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

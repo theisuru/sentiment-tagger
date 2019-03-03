@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446140</articleId>
+    <title>දැරියට ලක්ෂ 20ක වන්දි : සල්ලාලයන් රවුරුදු 15ක් හිරේ</title>
+    <author>සිරාජ් හසීම්</author>
+    <date>2016 අගෝස්තු මස 10 14:28:00</date>
+    <body>පහළොස් හැවරිදි  ආබාධිත දැරියක 2009 ජූලි මාසයේ දී පැහැරගෙන ගොස්  අපයෝජනය කළැයි වැරදිකරුවන් වූ  සිව් දෙනෙකුට යාපනය මහාධිකරණ විනිසුරු එම් ඉලංගචේලියන් මහතා අද (10) බරපතල වැඩ ඇතිව වසර 15ක සිර දඬුවම් නියම කළේය
+රුපියල් විසි පන්දහස බැගින් දඩ ද නියම කළ විනිසුරුවරයා අගතියට පත් දැරිය වෙනුවෙන් රුපියල් ලක්ෂ පහ බැගින් වන්දි ගෙවන ලෙස ද නියෝග කළේය. වන්දි ගෙවීම පැහැර හැරියහොත් තවත් වසර දෙකහමාරක සිර දඬුවම් නියම කැරෙයි.</body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-08-10 09:30:49</date>
+            <index>0</index>
+            <phrase>අනේ මේ විනිසුරුතුමා කොළඹට ගෙන්න ගන්න ක්‍රමයක් නැද්දෝ ? ජයවේවා කිවා රිදෙන්න තීන්දුව දුන්නට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-08-10 10:42:56</date>
+            <index>1</index>
+            <phrase>මේ කරපු දේ අගය කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ් රණසිංහ</author>
+            <date>2016-08-10 12:14:05</date>
+            <index>2</index>
+            <phrase>කරුණාකර මෙහි කියන විදිහට වන්දි මුදල් නොගවන්නේ නම් තවත් සිර දඩුවම් වැඩි වෙන අතර , එවැනි අවස්ථාවක වන්දි මුදල් නොදුන්නොත් මෙහි අගතියට පත් පාර්ශවයට කිසිම දෙයක් ලැබෙන්නේ නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-08-10 12:45:13</date>
+            <index>3</index>
+            <phrase>පට්ට නීතිය ඇ. තව ටිකක් දඬුවම වැඩි කරානං තව වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජි නන්දන</author>
+            <date>2016-08-10 12:56:29</date>
+            <index>4</index>
+            <phrase>අවුරුදු 15ක් ඉන්න අපට ‍ දෙකහමාර මොකක්ද කියලා හිතෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකි</author>
+            <date>2016-08-10 14:56:04</date>
+            <index>5</index>
+            <phrase>විනිසුරුතුමාට මගේ ප්‍රණාමය! අර හම්බන්තොට පැත්තේ විදේශිකයෙකුව මරලා, ඔහුගේ සහකාරිය දූෂණය කරපු පාහරයෝ ටික නීතියෙන් බේර ගන්න ඒ කාලේ හිටපු ලොක්කෝ මොන තරම් ජල්ලි ඇල්ලුවද? බ්‍රිතාන්‍ය රජය මැදිහත් නොවුනා නම් ඒකත් යට යන්න තිබුන!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

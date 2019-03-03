@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>483090</articleId>
+    <title>සිල් රෙදි අස්සේ මහින්දගේ ජන්ද කොළ</title>
+    <author>ෆාරුක් තාජුදීන්</author>
+    <date>2016 නොවැම්බර් මස 23 17:36:19</date>
+    <body>පසුගිය ජනාධිපතිවරණ සමයේ රුපියල් හැට කෝටියක සිල් රෙදි බෙදීයැයි විදුලි සංදේශ නියාමන කොම්සමේ හිටපු සභාපති අනුෂ පැල්පිටට හා මහින්ද රාජපක්ෂ හිටපු ජනපතිගේ ලේකම් ලලිත් වීරතුංගට එරෙහි නඩුවේදි මැතිවරණ කොම්සමේ සභාපති මහින්ද දේශප්‍රිය මහතා අද (23) සාක්කි දුන්නේය.
+සිල් රෙදි බෙදන බවට ලැබුණු පැමිණිල්ලක් අනුව එය නතර කරන ලෙස 2014 නොවැම්බර් 21 වැනි දා චක්‍ර ලේඛනයක් නිකුත් කළ බවත් අනුරාධපුරයේ දී පුද්ගලයකුට සිල් රෙදි බෙදා දුන් බව තමා දුටු බවත් මහින්ද රාජපක්ෂ හිටපු ජනපතිගේ ඡන්ද පත්‍රිකාවක් එහි තිබු බවත් ඔහු කීවේය. නඩු විභාගය දෙසැම්බර් 8 වැනි දා ට කල් තැබිණි.
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-11-23 14:26:19</date>
+            <index>0</index>
+            <phrase>දිනන්න නොකළ දෙයක් නැහැ ඒ දවස් වල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2016-11-23 14:53:56</date>
+            <index>1</index>
+            <phrase>වෙන රටවල නම් බලයේ හිඳිමින් දුෂණයන් කර බලයෙන් පහවුණු දුෂකයන්ට අනිවාර්යෙන්ම ලගින්න වෙන්නේ සිපිරිගෙදර. ඒකට ලංකාවේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-11-23 17:24:16</date>
+            <index>2</index>
+            <phrase>මැතිවරණ කොමසාරිස්තුමනි, කෝ ඡන්ද? මිනිසුන්ගේ ඡන්ද අයිතිය අමු අමුවේ උල්ලංගනය කරලා තියන එක ගැන මොකද සද්ද නැත්තේ? දැන් ප්‍රජාතන්ත්‍රවාදය උදාවෙලාද, නැත්නම් කොමසාරිස් වෙනස් වෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-11-23 21:13:17</date>
+            <index>3</index>
+            <phrase>ප්‍රජා අයිතිය නැති වෙන වරදක් . මේවා නැවත නොවන්න නම් දඬුවම් ලබා දිය යුතු වේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-11-23 22:58:11</date>
+            <index>4</index>
+            <phrase>සිල් රෙදි අස්සේ ජන්ද කොළ ඔබාලත් ඡන්ද දෙකක් පරාජය වුන නිසා, පන්සල් ගානේ යහපාලනයට එරෙහිව කරගෙන යන මේ ව්‍යාපාරය නිසා සිල් රෙදි පුජාවෙන් ලබාගත් පින් ශූන්‍ය වී ගියා නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-11-24 03:27:29</date>
+            <index>5</index>
+            <phrase>අසල්වැසි රටක ඔත්තුසේවා සමග සටන් කිරීමට යොදා ගත් අසාර්ථක මෙහෙයුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහ</author>
+            <date>2016-11-24 09:11:22</date>
+            <index>6</index>
+            <phrase>මෙයාගේ ආතතිය දැන් හොඳයිද, මෙහෙමත් හොරු මොකටද තවත් තියාගෙන ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

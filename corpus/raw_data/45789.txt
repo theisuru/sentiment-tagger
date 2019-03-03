@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45789</articleId>
+    <title>ඉතාලි පොලිසිය අනවසර ලංකා පාසලක් වටලයි</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 මැයි මස 31 16:59:42</date>
+    <body>ඉතාලි නාගරික පොලිසිය නේපල්ස් නගරයේ අනවසර පාසලක් වටලා එහි පාසල් පැවැත්වීම තහනම් කළේය.
+වයස අවුරුදු 3-11 අතර ශ්‍රී ලංකා සිසුන් 116 පැමිණි මේ පාසලේ සනීපාරක්ෂක ක‍්‍රම ඇතුළු මූලික පහසුකම් නොවී යැයි වැටැලීම කළ ලූසිගි සෙමන්ටා ඉතාලි මාධ්‍යයට කියා ඇත. තට්ටු ගොඩනැගිල්ලක පළමු මහලේ කාමර 12ක් වෙන්කර පන්ති පවත්වාගෙන ගොස් ඇත. එහෙත් මේ පාසලට නගර සභාවෙන් අවසර ගෙනන නැත.
+පාසලේ දරුවෝ මවුපියනට බාර දෙනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>සමරණායක</author>
+            <date>2012-05-31 22:00:37</date>
+            <index>0</index>
+            <phrase>ලංකාවේ ක්‍රමේට වෙන රටවල් වලත් කරන්න හැදුවොත් කුඩුවේ තමය් ඉන්න වෙන්නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-06-01 22:35:51</date>
+            <index>1</index>
+            <phrase>ඇත්ත කතාව..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

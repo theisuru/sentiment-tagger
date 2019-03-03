@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14583</articleId>
+    <title>කණ්ඩලම වාන් දමයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2011 නොවැම්බර් මස 25 15:42:47</date>
+    <body>පස් දිනක් තිස්සේ පවතින මහ වැස්සත් සමග දඹුල්ලේ කණ්ඩලම ජලාශය අද වාන් දැමීය</body>
+    <comments>
+        <comment>
+            <author>සජිත් විතාන</author>
+            <date>2011-11-25 19:06:27</date>
+            <index>0</index>
+            <phrase>මෙන්න අපේ සම්පත්. මේ ටික දියුණු කළොත් ලංකාවම ගොඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සර්ශන නිස්සංක</author>
+            <date>2011-11-25 21:46:36</date>
+            <index>1</index>
+            <phrase>අයියො සල්ලි..............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමී</author>
+            <date>2011-11-26 12:37:28</date>
+            <index>2</index>
+            <phrase>ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447349</articleId>
+    <title>ඇවන්ට්ගාඩ් ලිපි ගොනුව අල්ලස් කොමිසමට</title>
+    <author>නිරංගි අබේවික්‍රම</author>
+    <date>2016 අගෝස්තු මස 12 18:30:55</date>
+    <body>මහින්ද රාජපක්ෂ රජය සමයේ ඇවන්ට්ගාඩ් මැරිටයිම් සමාගම කළැයි කියන අක්‍රමිකතා සම්බන්ධයෙන් සිදු කළ පරික්ෂණ අවසන් කර වාර්තාව අල්ලස් හා දුෂණ විමර්ශන කොමිසමට යැවු බව රහස් පොලිසිය කියයි.
+එම පරික්ෂණ වාර්තාවේ පිටපතක් නිතිපති වෙත යවා ඇත.</body>
+    <comments>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-13 03:26:43</date>
+            <index>0</index>
+            <phrase>පොලීසිය ලකුණු දාගන්න කළ වැඩ කියලා කී අර ඇමතිවරු දැන් මොනවාද කියන්නේ? පොලීසිය දැන් හරියට ලකුණු දාගත්තා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-08-13 08:46:52</date>
+            <index>1</index>
+            <phrase>වැඩක් නැහැ, අන්තිමට ආයුධ සහ නැවු තිබුනා කියයි. හැබැයි අයිතිකාරයෙක් නැහැ කියලා නැවු ටිකයි අායුධ ටිකයි රාජසන්තක කළා කියයි. අපි නොදන්නා අැවන්ගාඩ්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

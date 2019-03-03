@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54551</articleId>
+    <title>රාමසාන් උපවාසය ශනිදා සිට</title>
+    <author></author>
+    <date>2012 ජූලි මස 20 19:27:42</date>
+    <body>අද සඳ දුටු බැවින් සෙනසුරාදා උදේ සිට රාමසාන් උපවාස මාසය අරඹන්නැයි කොළඹ දවටගහ පල්ලිය මුස්ලිම්වරුනට නිවේදනය කරයි.</body>
+    <comments>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-07-20 19:40:43</date>
+            <index>0</index>
+            <phrase>හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිදු</author>
+            <date>2012-07-20 19:46:28</date>
+            <index>1</index>
+            <phrase>මුබාරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆරීඩ්</author>
+            <date>2012-07-20 21:00:49</date>
+            <index>2</index>
+            <phrase>ජාතීන්ගේ විවිධ උත්සව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2012-07-20 21:45:11</date>
+            <index>3</index>
+            <phrase>රාමදාන් මුබාරක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන් සෞදි අරාබිය</author>
+            <date>2012-07-20 21:47:12</date>
+            <index>4</index>
+            <phrase>රාමදාන් මුබාරක්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රිස්වාන් සෞදි අරාබිය</author>
+            <date>2012-07-20 21:53:28</date>
+            <index>5</index>
+            <phrase>ගිය අව්රුද්දෙ ග්‍රීස් යකෙක් නිසා මුස්ලිම් වරුන්ට ආගමික මෙහෙය වලට සභාගී වෙන්න බැරි වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාංකිකයා</author>
+            <date>2012-07-20 22:40:46</date>
+            <index>6</index>
+            <phrase>රාමසාන් උපවාසය නිම වෙලා ඝාතනය වුනු පොලිස් කොස්තාපල් මහතා සිහිවෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-07-20 22:42:24</date>
+            <index>7</index>
+            <phrase>මම සුභ පතනවා ඔබලාට. මෙය ඔබලාගේ චාරිත්‍රයකි. නමුත් මම සිංහල බෞද්ධයෙක්. යහපතක්ම වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-20 23:08:06</date>
+            <index>8</index>
+            <phrase>මුස්ලිම් සහෝදරයන්ට මෙය හොදින් කරන්න හැකි වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-07-21 00:18:21</date>
+            <index>9</index>
+            <phrase>සිංහල සහෝදරයිනේ, ඔබලා වගේ හැම දෙනාම හිටියානම් ආශ්චර්‍යයට වඩා ඉහල තැනකට අපේ රට ගෙනියන්න තිබුණා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්ද්‍ර</author>
+            <date>2012-07-21 00:34:20</date>
+            <index>10</index>
+            <phrase>දැන් රාමසාන් යනු, කුරාණයේ කියා ඇති පරිදිම, වෙනත් ජාතිකයෙක්ව මැරුව! ( මියගිය පොලිස් නිලධාරි තුමා සිහිවීම පිණිසයි! )............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරින්ද</author>
+            <date>2012-07-21 00:36:23</date>
+            <index>11</index>
+            <phrase>ඇයි, පොලිස්කාරයෙක්ව මැරුවා මතක නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-07-21 00:44:51</date>
+            <index>12</index>
+            <phrase>රොහාන් , අමිලට මගේ ස්තූතිය ,අපේ සියළුම ශ්‍රී ලංකා වාසීන්ට යහපතක් වෙන්න ප්‍රාර්තනා කරනවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-21 00:58:26</date>
+            <index>13</index>
+            <phrase>සුභ රාමසාන් උත්සවයක් වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2012-07-21 01:03:57</date>
+            <index>14</index>
+            <phrase>මුභාරක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෆ්ඩි</author>
+            <date>2012-07-21 01:35:37</date>
+            <index>15</index>
+            <phrase>දුප්පත් මිනිස්සුනගේ කුසගින්න වටහා ගැනීමට මුස්ලිම්වරුන් වන අපට මහඟු අවස්ථාවක්. ශ්‍රී ලංකාවට සාමකාමී වාතාවරණයක් උදාවේවා. !!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සබීන්</author>
+            <date>2012-07-21 05:58:14</date>
+            <index>16</index>
+            <phrase>මම සිතනවා මෙම රාමසාන් උත්සවය තුලින් රටේ සාමය සමාදානය සෟභාග්‍ය උදා වේවා කියා ම ප්‍රාර්ථනා කරනවා.. එසේම මගේ මුස්ලිම් සහෝදරයන්ට මෙය කිරීමට ශක්තිය ධෛර්යය ලැබේවා කියා මම පතනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-07-21 06:35:14</date>
+            <index>17</index>
+            <phrase>රාමඩාන් මුබාරක්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-21 09:13:00</date>
+            <index>18</index>
+            <phrase>මුබාරක !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2012-07-21 09:13:53</date>
+            <index>19</index>
+            <phrase>අම්මෝ මටනම් ඉන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-21 09:19:20</date>
+            <index>20</index>
+            <phrase>ඔය බොරු ලාංකිකයටයි. හරින්ද්‍රටයි. මතක නැතිව ඇති ඔය කියන මුස්ලිම්වරු අපේ රටේ නායකයවත් අපේ මව් බිමත් ඔය සුද්දන්ගෙන් බේරගත්තු හැටි. එහෙනම් ඕනම කෙනෙක් ඇවිත් පිස්සු නටනකන් බලාගෙන ඉන්නද කියන්නේ. ඔයවගේ කොටි කතා කියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-07-21 09:35:22</date>
+            <index>21</index>
+            <phrase>රාමසාන් මුබාරක්........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙන් ටෙන්</author>
+            <date>2012-07-21 09:43:35</date>
+            <index>22</index>
+            <phrase>රාමසාන් කියන්නේ ශුද්ධවූ මාසයකි. එය වචනයේ පරිසමාප්ත අර්ථයෙන්ම ඉටුකිරීමට හැකිවේවායි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුනාස්</author>
+            <date>2012-07-21 09:44:59</date>
+            <index>23</index>
+            <phrase>රාමසාන් යන්න කුමක්දැයි හරි හැටි තේරුම් ගෙන වැඩකරානම් අපේ රටේ දුප්පත් කම නැති වේවි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනු</author>
+            <date>2012-07-21 10:30:27</date>
+            <index>24</index>
+            <phrase>සත්‍යය දකින්න. ප්‍රාර්ථනාවකින් හෝ යදීමකින් කිසිදෙයක් නොලැබේ. වෙලත් නැත. ආගමකට අගෞරව කීරීමක්‍ නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2012-07-21 10:45:47</date>
+            <index>25</index>
+            <phrase>මුබාරක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-21 12:41:23</date>
+            <index>26</index>
+            <phrase>මුස්ලිම් සහෝදර වරුනි ඔබලාට සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-07-21 13:00:11</date>
+            <index>27</index>
+            <phrase>මමත් අද ඉදල මාස 3 ක් රාමසාන් සමරණවා..කෑම නොකා ඉන්න එක හොඳයි....බඩත් වැඩියි දැන් මගේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසන් සලාම් - දෝහා</author>
+            <date>2012-07-21 13:37:24</date>
+            <index>28</index>
+            <phrase>ඉස්ලාමයේ ප්‍රධාන කුළුණු පහකින් හතරවැන්නවූ උතුම් රමළාන් මාසය පුරා උපවාසයේ යෙදීම සියළු මුස්ලිම්වරුන්හට පවරා ඇති අනිවාර්ය කටයුත්තකි. මෙතුලින් සියළු කායික අවශ්‍යතාවලින් මිදී ඉවසීම සහ අන් අයගේ වීශේෂයෙන් දුප්පත් අයගේ දුක් වේදනාවන් හදුනාගෙන ඔවුන්ට පිහිටවීම එමගින් දෙවිදුන්ගේ ආශීර්වාදය ලබාගැනීම ආදී මුස්ලිම්වරුන්ගේ උසස් අභිලාෂයන් වේ. එයින් අපට ලැබිය හැකි සාමය සෞභාග්‍ය අප මුළු රටටම උදාවේවායි ප්‍රාර්ථනා කරමි. ** රමළාන් කරීම් **</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-07-21 14:51:43</date>
+            <index>29</index>
+            <phrase>ලංකාවේ හැම ජාතියකටම දැන් රාමසාන් තමයි....සල්ලි නැති නිසා හැමෝටම වගේ නෝම්බි.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆහීර්</author>
+            <date>2012-07-21 15:19:35</date>
+            <index>30</index>
+            <phrase>රාමසාන් කියන්නේ ශුද්ධවූ මාසයකි. එය වචනයේ පරිසමාප්ත අර්ථයෙන්ම ඉටුකිරීමට හැකිවේවායි පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-07-21 16:18:28</date>
+            <index>31</index>
+            <phrase>හාමෝටම දුප්පතාගෙ දුක හා බඩගින්න දැනගන්න පුළුවං මාසයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්දදාස</author>
+            <date>2012-07-21 16:44:17</date>
+            <index>32</index>
+            <phrase>ඔබලා මොනවත්ම කන්නේ නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් දිල්ශාන්</author>
+            <date>2012-07-21 17:11:06</date>
+            <index>33</index>
+            <phrase>ජාති භේදයෙන් තොරව සුභ පැතූ සියලු දෙනාට අපගේ උණුසුම් සුභ පැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-21 17:19:39</date>
+            <index>34</index>
+            <phrase>ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇපසිංහ</author>
+            <date>2012-07-21 17:20:22</date>
+            <index>35</index>
+            <phrase>අපි සිංහලයෝ විදිහට අනික් ආගම වල සිරිත් වලට ගරු කරන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනුසලාවි</author>
+            <date>2012-07-21 17:37:40</date>
+            <index>36</index>
+            <phrase>කිසිම චකිතයක් නැතුව සෑම කෙනෙක්ම හදවතින් සුභ පැතීම මුස්ලිම්වරයකු වශයෙන් සුභ පැතූ සියලුම දෙනාට අල්ලාහ් දෙවියන්ගේ ආශිර්වාදය ලැබේ වා....නමුත් එම පොලිස් නිලධාරියා ඝාතනය කිරීම නියම මුස්ලිම්වරැ තරයේ හෙලා දකිනව.එම නිසා සමහරැ කරන වැරදි වලට සියලු මුස්ලිම් වරැ වගකිව යුතු නොවේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෙරොස් මොහොමඩ්</author>
+            <date>2012-07-21 18:25:26</date>
+            <index>37</index>
+            <phrase>අහින්සක සතුන් නොමරා උන්ට අභය දානය දෙන රාමසාන් උත්සවයක් මෙවර ලක් බිමේ පවත්වමු. ශුද්ධ රාමසාන් උත්සවයක් වන්නේ එවිට වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෙරිෆ්</author>
+            <date>2012-07-21 20:42:17</date>
+            <index>38</index>
+            <phrase>රාමසාන් උපවාසයට සුභපැතූ නොපැතූ සියලුම ශ්‍රී ලාංකිකයන්ට වාසනාවන්ත හෙට දිනක් උදාවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝහමෙඩ් . හුසින් . අබුධාබි සිට</author>
+            <date>2012-07-21 22:19:15</date>
+            <index>39</index>
+            <phrase>ජාති බේදයකින් තොරව සුබ පැතු සියලු දෙනාටම මගෙනුත් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවාස්</author>
+            <date>2012-07-21 22:24:36</date>
+            <index>40</index>
+            <phrase>සියලුම ආගම් සිරිත් විරිත් වලට අපි ගරු කරනවා ස්තුති ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2012-07-21 22:43:16</date>
+            <index>41</index>
+            <phrase>දැම්ම කන දෙයක්තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න දේවපතිරාජ</author>
+            <date>2012-07-21 23:43:17</date>
+            <index>42</index>
+            <phrase>අනේ,අහෝ, බුදුන් තුන්වරක් වැඩිය මේ පින් බිම අහිංසක සතුන් දස දහස් ගනනකගේ රුධිරයෙන් තෙත් වන ආකාරය දකින්නට අපි ඉපදුනේ ඇයි? දෙවියනි ඔබ කොහිද? මේ පව් කන්දවල් සෝදා හරින්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2012-07-22 07:05:30</date>
+            <index>43</index>
+            <phrase>පන්සල් ආක්‍රමණය කරන, හමුදා සහ පොලිස් කඳවුරු වලට වගේම අධිකරණ සංකීර්ණ වලටත් පහර දෙන ගිනිගත් සිත් නිවෙන කාලයක් මේ රාමදාන් මාසයෙන් පසුවවත් උදාවේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-22 07:46:15</date>
+            <index>44</index>
+            <phrase>මොහොමඩ් රිසාන්ට ස්තූතියි.යාළුවෝ සියල්ලන්ටම අල්ලා දෙවි පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-22 14:08:15</date>
+            <index>45</index>
+            <phrase>මගේ පැතුම , රිසානා නපික්ට ලංකාවට එන්න ලැබේව කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවිදු</author>
+            <date>2012-07-24 09:49:48</date>
+            <index>46</index>
+            <phrase>දෙවියනි ඔබ කොහෙද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2012-07-24 09:53:01</date>
+            <index>47</index>
+            <phrase>අලිබබා 2012-07-21 20:26:13 සතුන් මැරිමට වඩා මහදවල් මිනිසුන් ඝාතනය කරල, සංඝයාවහන්සේලා කපා කොටා ඝාතනය කරන,දරැවන් අමු අමුවේ දූෂණය කරන, මත්ද්‍රව්‍යවලින් පූර්ණව සදාචාර්ය පිරිහුණු සමාජ පද්ධතියක් තුල ජීවත්වන අප සත්වහිංසාවට වඩ මානුෂික අයිතිවාසිකම් ඇති සාරධර්මයෙන් පිරි ආධ්‍යාත්මික ගුණවගාවෙන් පිරි සමාජ පද්ධතියක් ඇති කිරීම කාගෙත් වගකීම වන්නේය......." දෙවියන් වහන්සේ සර්වබලධාරී නම් ඔහුට එය කළ නොහැක්කේ මන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

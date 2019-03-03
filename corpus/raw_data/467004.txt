@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>467004</articleId>
+    <title>‘අයියෝ‘ ඔක්ස්ෆර්ඩ් යයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 11 15:02:42</date>
+    <body>දුක,වේදනාව,කනගාටුව,ශෝකය,මවිතය ප්‍රකාශ කරන ‘අයියෝ‘ යන වචනය ඔක්ස්ෆර්ඩ් ශබ්ද කෝෂයට ද ඇතුළු වී ඇත. ඔක්ස්ෆර්ඩ් සංස්කාරකයින් පවසනුයේ මෙම වචනය චීන බසින් ශබ්ද කෝෂයට එක්කරගත් බවයි.ශ්‍රී ලංකාවේද අයියෝ වචනය බෙහෙවින්ම භාවිතා වෙයි.දකුණු ඉන්දියාවේ වැසියෝ ද අයියෝ වචනය පාවිච්චි කරති.</body>
+    <comments>
+        <comment>
+            <author>නලීන්</author>
+            <date>2016-10-11 10:33:35</date>
+            <index>0</index>
+            <phrase>ඕක විතරයි අඩුවෙලා තිබුනේ රටට. දැන් ඒ ප්‍රශ්නෙත් ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2016-10-11 16:20:32</date>
+            <index>1</index>
+            <phrase>ඔව් ඉතින්, ලංකාවෙන් ගන්න තියෙන්නේ අයියෝ, අපෝ, බුදු අම්මෝ වගේ අපිටම ආවේණික වචන තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-11 23:14:55</date>
+            <index>2</index>
+            <phrase>‘අයියෝ‘ නම් අපේ ලංකාවේ නියම වචනයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-10-11 23:42:18</date>
+            <index>3</index>
+            <phrase>‘දේශපාලුවා‘ කියන ලංකාවේ බහුල ලෙස බාවිතාවන වචනයත් ඔක්ස්ෆර්ඩ් ශබ්ද කෝෂයට ඇතුළු කළොත් ලෝකයම එය භාවිතා කරන්න පටන් ගනීවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-12 09:15:12</date>
+            <index>4</index>
+            <phrase>"තෙමේ" කියල වචනයක් අහල තියෙනවා. එක ගැනත් පොඩ්ඩක් හොයල බලන්න කියල ඔක්ස්ෆර්ඩ් එකෙන් ඉල්ලනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝරි</author>
+            <date>2016-10-12 10:01:32</date>
+            <index>5</index>
+            <phrase>අය්යෝ සල්ලි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-12 15:58:17</date>
+            <index>6</index>
+            <phrase>මේකේ ප්‍රතිචාර දල තියන අයගේ සිතුම් ගැන මට නම් හරි පුදුම හිතෙනවා .මීට කලින් අස්වැද්දුමය්සේෂන් (අස්වද්දනවා) යන්න ඔක්ස්ෆර්ඩ් ශබ්දකෝෂය ට ගියා මතකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

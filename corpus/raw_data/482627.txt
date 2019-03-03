@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>482627</articleId>
+    <title>පොලිස් පොතේ මෙහෙම ඇතේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 22 17:01:11</date>
+    <body>ත්‍රිරෝද රියදුරෙක්‍ (22)  රිය අනතුරකින් මිය ගිය බව පොලිසිය කියයි. ඔහුගේ බිරිඳ ලබන මාසයේ සිය කුළුදුල් දරුවා බිහි කිරිමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>බටගල</author>
+            <date>2016-11-22 20:26:03</date>
+            <index>0</index>
+            <phrase>මේවා දැන් රටේ සාමාන්‍ය සිද්ධි වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-23 04:01:01</date>
+            <index>1</index>
+            <phrase>දවසකට එක්කෙනෙක් බැගින් ත්‍රී රෝද රථ රියදුරෙක් අනතුරකින් මිය නොගියහොත් අන්න එවැනි දෙයක් හොඳ ප්‍රවෘත්තියක් වෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

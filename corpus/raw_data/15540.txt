@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15540</articleId>
+    <title>ෆොන්සේකා ඇපැල් ගනී</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 01 19:24:53</date>
+    <body>හිටපු යුද හමුදාපති සරත් ෆොන්සේකාට තුන් වසරක සිර දඬුවමක් නියම කරමින් මහාධිකරණය වැඩි ඡන්දයෙන් සුදු කොඩි නඩුවේදි දුන් තීන්දුවට එරෙහිව අද අභියාචනයක් ඉදිරිපත් කළේය.</body>
+    <comments>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2011-12-01 21:34:27</date>
+            <index>0</index>
+            <phrase>රණවිරුවණනි අප ඔබට සදා ණය ගැති. ‍‍දේශපාලනයට නොගියානම් අද රජෙක් වගේ ඉන්න තිබුණා නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රියා</author>
+            <date>2011-12-01 22:43:39</date>
+            <index>1</index>
+            <phrase>එස්.එෆ්. රජෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2011-12-02 03:27:36</date>
+            <index>2</index>
+            <phrase>සමාව දෙන්න ඔහුට. මොකද ඔහු තමයි එල්.ටී.ටී.ඊ.ය පරාජය කළ එකම පුද්ගලයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.එච්.සී. ප්‍රදීප් අමරසිංහ</author>
+            <date>2011-12-02 21:38:32</date>
+            <index>3</index>
+            <phrase>රටට වැඩක් කරපු හමුදාපති කෙනෙකුට අපි දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2011-12-02 21:24:32</date>
+            <index>4</index>
+            <phrase>සරත් ‍‍ෆොන්සේකා මහත්තයා නිර්දෝෂි කෙනෙක් ඔහු නිදහස් විය යුතු කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිදු</author>
+            <date>2011-12-03 06:33:35</date>
+            <index>5</index>
+            <phrase>රණවිරුවණනි අප ඔබට සදා ණය ගැති. ‍‍දේශපාලනයට නොගියානම් අද රජෙක් වගේ ඉන්න තිබුණා නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2011-12-03 15:33:49</date>
+            <index>6</index>
+            <phrase>සරත් ‍‍ෆොන්සේකා මහත්තයා නිර්දෝෂි කෙනෙක් ඔහු නිදහස් විය යුතු කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

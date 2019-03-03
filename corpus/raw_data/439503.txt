@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>439503</articleId>
+    <title>පිටකොටුවේ ගින්නක්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ ඡායාරූප හා වීඩියෝ ජයමාල් චන්ද්‍රසිරි</author>
+    <date>2016 ජූලි මස 21 17:24:47</date>
+    <body>පිටකොටුවේ මැනිං වෙළෙඳපොළ අසල ගින්නක් හටගත් බව පොලිසිය කියයි. මේ හේතුවෙන් දැඩි වාහන තදබදයක් ඇති වී  ඇත. ගිනි නිවන හමුදාව ගින්න මැඩපැත්වීමට කටයුතු කරන බව පොලිසිය පවසයි.
+
+
+
+(ඡායාරූප ජයමාල් චන්ද්‍රසිරි)
+
+(ඡායාරූප සැපයුම - තිලිණි ද සිල්වා)
+
+(ඡායාරූප සැපයුම බිමල් ශ්‍යාමන් ජයසිංහ)</body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-07-21 13:32:35</date>
+            <index>0</index>
+            <phrase>අපේ මිනිස්සු වට වෙලා බලාගෙන ඉන්න ලස්සන. හරියට දන් සලක් දෙනවා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2016-07-22 06:25:21</date>
+            <index>1</index>
+            <phrase>හරි ආර්ථියක් තියෙන රටක මේ වගේ වැඩ කරන දවසක වැඩකරන වෙලාවක මේ තරම් මිනිසුන් ගනනාවකට නිකම් උඩබලාගෙන ඉන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

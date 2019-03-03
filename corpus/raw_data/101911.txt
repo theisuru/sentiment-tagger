@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>101911</articleId>
+    <title>සිරිපා වැඳ යාපනේ පාද යාත්‍රව අරඹයි</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2013 මාර්තු මස 10 11:16:43</date>
+    <body>කතරගම සිට යාපනය බලා යන පාද යාත්‍රාවේ විදේශ භික්ෂූහු ශ්‍රී පාද පද්මය වැඳ පුදා ගෙන අද උදේ නල්ලතන්නියට පැමිණියහ.
+අද කිලෝමීටර් 20ක් පයින් ගමන් කර නෝටන් බ්‍රිජ්හි එතැන් සිට ගමන් ඇරඹීමට නියමිතය.
+කතර ගමින් පාදා යාත්‍රාව ඇරඹුවේ පසුගිය හය වැනිදාය.</body>
+    <comments>
+        <comment>
+            <author>වන්නි</author>
+            <date>2013-03-10 11:53:36</date>
+            <index>0</index>
+            <phrase>සුභ තැනකින් තමයි පටන් අරන් තියෙන්නේ, වරදින්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2013-03-10 11:53:37</date>
+            <index>1</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-10 12:05:27</date>
+            <index>2</index>
+            <phrase>සාධු ...සාධු ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිලා</author>
+            <date>2013-03-10 13:42:38</date>
+            <index>3</index>
+            <phrase>කන්ද කුමාර පිහිට යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමසර හිමි</author>
+            <date>2013-03-10 13:43:44</date>
+            <index>4</index>
+            <phrase>සුභ ගමන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2013-03-10 14:20:26</date>
+            <index>5</index>
+            <phrase>මෙවැනි දෙයක් අහන්නත් දකින්නත් ලැබීම වාසනාවක්. වාහනයක නොයමින් පයින් යමින් මෙවැනි දෑ වැදපුදා ගැනීම කොතරම් නම් පිනක්ද? මෙවැනි දෙයක් දුටු පළමු අවස්ථාව මෙයයි මගේ ජිවිතයේ නම්. ලංකාදීප ඔබටත් ස්තුතියි, තෙරුවන් සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවිරත්න</author>
+            <date>2013-03-10 14:27:37</date>
+            <index>6</index>
+            <phrase>අන්න මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරිය සිරි යසන්ත</author>
+            <date>2013-03-10 16:42:41</date>
+            <index>7</index>
+            <phrase>ලංකාවේ නිදහස ලෝකෙට කියන්න හොද පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුනවර්දන</author>
+            <date>2013-03-10 16:49:59</date>
+            <index>8</index>
+            <phrase>හොද තැනකින් පටන් ගත්තාම වරදින්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමා</author>
+            <date>2013-03-11 06:23:02</date>
+            <index>9</index>
+            <phrase>ඒවා සුභ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2013-03-11 11:58:17</date>
+            <index>10</index>
+            <phrase>සමන් දෙවියන්ගේ ආශිර්වාදය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2013-03-11 12:55:30</date>
+            <index>11</index>
+            <phrase>අපගේ පුර්ණ සහාය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-03-12 15:43:52</date>
+            <index>12</index>
+            <phrase>තෙරුවන් සරණයි සැමටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2013-03-12 20:05:01</date>
+            <index>13</index>
+            <phrase>පාහියන් හිමි දෙවරක් ලක්දිවට.. පයින් ගමන් කර ඇත ටිබටයේ සිට.. කෙතරම් දුකක් දැරුවාදැයි සිතේ මට.. මෙලෙසම මගේ ගෞරව ඒ හිමි නමට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

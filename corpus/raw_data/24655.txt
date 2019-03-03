@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24655</articleId>
+    <title>ගිරවාට මුකවාඩම්</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 පෙබරවාරි මස 02 12:03:59</date>
+    <body>රුපියල් අට ලක්‍ෂයක් පමණ වටින පැරකිට් ගිරවුන් සිවු දෙනකු හා තාරාවුන් අට දෙනකු හොරෙන් ගෙන ආ ශ්‍රී ලාංකිකයකුට රුපියල් ලක්‍ෂයක් දඩ ගසා එම සතුන් රේගුවේ නිරෝදායන අංශයට භාරදුන් බව රේගු අධිකාරීවරුන් වන එම්.ආර්. රාජ් මොහාන් හා ජූඩ් නිලූක්ෂාන් මහත්වරු පවසති.
+එම සතුන් නැවත බැංකොක් නුවරට යවන බව නිරෝදායන නිලධරයා කියයි.
+මෙම සතුන් ශ්‍රී ලංකාවට රැගෙන ඒම තහනම් කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-02-02 13:41:44</date>
+            <index>0</index>
+            <phrase>පවු කාර කමක තරම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-02-02 14:33:11</date>
+            <index>1</index>
+            <phrase>අපේ රටේ නිදහසේ ජීවත් වෙන් ඉඩ අරින් තිබුණා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ඩා</author>
+            <date>2012-02-02 17:07:55</date>
+            <index>2</index>
+            <phrase>ලක්ෂයක් දඩ මදි. සත්ව හිංසනයට උපරිම දඩුවම් දෙන්න ඒන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අස්වර්</author>
+            <date>2012-02-03 09:16:56</date>
+            <index>3</index>
+            <phrase>කිකිළියන් 5000ක් ඊයේ මරපු එක මහා සත්ව හිංසාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

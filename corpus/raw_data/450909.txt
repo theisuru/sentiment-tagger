@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450909</articleId>
+    <title>කැසිකිළියේ එළවළු ගොඩ ගසලා</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2016 අගෝස්තු මස 25 13:36:24</date>
+    <body>ආහාර  සුරක්ෂිත සතිය වෙනුවෙන් දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ සියලු එළවළු වෙළඳසල් හා ආපනශාලා මහජන සෞඛ්‍ය  පරික්ෂක කණ්ඩායමකගේ පරික්ෂාවකට  ලක්විණි.
+ඉතා අපිරිසිදු සෞඛ්‍යයට අහිතකර ලෙස ආපනශාලා පවත්වාගෙන ආකාරයත් එලෙසම තේ හදන සේවකයන්ගේ අත් වල බෝවන දිලිර රෝග පවතින බවත්  කැසිකිළියේ එළවළු පලතුරු ගොඩගසන බවත් සොයා ගැනිණි.</body>
+    <comments>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-08-25 08:54:17</date>
+            <index>0</index>
+            <phrase>වැසිිකිලිය අැතුලේ මාලු කපන හෝටලයක් මම පිටකොටුවෙදි දැකල තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-08-25 10:55:02</date>
+            <index>1</index>
+            <phrase>මේවට දඩේ රු 5000 යි. මේ අයට ඒ ගාන ගෙවන්න පුළුවන් පැයක අදායමෙන්. දඩේ ගෙවලා අයෙත් ඒකම කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ගුණවර්ධන ස්විස්</author>
+            <date>2016-08-25 17:42:42</date>
+            <index>2</index>
+            <phrase>ලංකාවේ බහුතරයක් කන්නේ බොන්නේ කැසිකිළි වතුර. මුදල් වෙනුවෙන් ඕනෑම ජරාවක් ගිල්ලවලා පොහොසත් වන අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-08-25 18:44:44</date>
+            <index>3</index>
+            <phrase>මෙවැනි ස්ථාන වලින් සොයා ගන්නා එළවළු හෝ වෙනත් ආහාර වර්ග යළිත් පරිභෝජනය සඳහා නුසුදුසු වන අන්දමට රසායනික ද්‍රව්‍යයක් දමා එතැනදීම විනාශ කළොත් කූට වෙළඳුන්ට යස පාඩමක් ඉගැන්විය හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

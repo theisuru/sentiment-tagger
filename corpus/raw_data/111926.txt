@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>111926</articleId>
+    <title>බක් පොහොය අදයි</title>
+    <author>එච් චන්දන</author>
+    <date>2013 අපේ‍්‍රල් මස 25 10:26:48</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සුගන්ධී</author>
+            <date>2013-04-26 16:59:28</date>
+            <index>0</index>
+            <phrase>සාදු.සාදු.සාදු.! අපේ හාමුදුරුවන් වහන්සේලාට අමාමහ නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

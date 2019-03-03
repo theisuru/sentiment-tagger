@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>378853</articleId>
+    <title>‘මෙගා සිටි වියදම රුපියල් බිලියන 5782ක්‘</title>
+    <author>ඩයනා උදයංගනී</author>
+    <date>2016 ජනවාරි මස 21 12:34:10</date>
+    <body>මෙගා සිටි ව්‍යාපෘතිය ලබන 29 වැනි දා එළි දක්වන බව මහා නගර සංවර්ධන ඇමැති පාඨලී චම්පික රණවක මහතා ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති රැස්වීමක දී කීවේය.
+ව්‍යාපෘතියේ කාලය අවුරුදු පහළොවක් බවත්, ඇස්තමේන්තුව ඩොලර් බිලියන 40ක් බවත් (රුපියල් බිලියන 5782.40) ඇමැති පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-01-21 14:52:58</date>
+            <index>0</index>
+            <phrase>වයඹටයි දකුණටයි ඔය මෙගා සිටි ඇමතිවරු හිටියට සල්ලි ලැබෙන්නේ බස්නාහිරට විතරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොම්පේ</author>
+            <date>2016-01-21 16:21:02</date>
+            <index>1</index>
+            <phrase>තවත් වැඩක් පටන්ගන්නයි යන්නේ. ඊළඟ අවුරුදු 15 දී අපට ගල් යුගයටම යන්න වෙයිද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-01-22 00:16:11</date>
+            <index>2</index>
+            <phrase>අවුරුදු 15 ක් මේ ආණ්ඩුව තිබෙයිද කියලා මට නම් සැකයි මේ යන විදියට. මුහුද හත් ගවුවක් තියලා අමුඩ ගහලා වැඩක් නැහැ. අවුරුද්දක් අවසන් වුණා, හදපු එක ගොඩනැගිල්ලක්වත් තිබෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-01-22 00:25:22</date>
+            <index>3</index>
+            <phrase>කිසිම රටක් ණයක් දෙයිද? මේවට සල්ලි අච්චු ගහන්නවත් වෙයි වියදමට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවීර</author>
+            <date>2016-01-22 02:31:11</date>
+            <index>4</index>
+            <phrase>ලංකාවෙ මිනිසුන්ගෙ ආකල්ප හා පටු විදිහට සිතීම දුටුවිට කළකිරීමක් ඇතිවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-01-22 05:56:06</date>
+            <index>5</index>
+            <phrase>කාලසීමාව අවසන් වනතෙක් ඉතින් සැළසුම් ගැන තමා අපිට අහන්න වෙන්නේ. මහින්ද මහත්තයා හිටියා නම් මෙලහකට අද අපි ඉන්න දුර සිතාගන්නත් බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් ප්‍රියන්ත</author>
+            <date>2016-01-22 06:56:55</date>
+            <index>6</index>
+            <phrase>නිකම්ම ව්‍යාපෘතියක් නොවී මේක සාර්ථක ආයෝජනයක් නම් රටට හොඳයි. ලංකාවේ දැනට තියන අවිධිමත් නගර සැළැස්ම මේ යටතේ වෙනස්වෙයි කියලා හිතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසින්ත</author>
+            <date>2016-01-22 06:57:18</date>
+            <index>7</index>
+            <phrase>තැනින් තැන ගොඩනැගිලි හැදුවට වැඩක් නැහැ. සැළැස්මකට පාරවල්, කඩසාප්පු, කර්මාන්ත ශාලා, නිවාස මේ සියල්ලම නගරයක පිළිවෙලකට තිබිය යුතුයි. වැඩක් කෙරෙන සැළසුමකට අපේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිත</author>
+            <date>2016-01-22 06:57:19</date>
+            <index>8</index>
+            <phrase>ජොබ් හම්බවෙයි එහෙනම් ගොඩක් අයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-01-22 06:51:08</date>
+            <index>9</index>
+            <phrase>වැඩේ හොදයි කරලම බලමුකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-01-22 06:51:08</date>
+            <index>10</index>
+            <phrase>හොඳ ව්‍යාපෘතියක් සාර්ථක වේවා කියා ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2016-01-22 06:51:09</date>
+            <index>11</index>
+            <phrase>ව්‍යාපෘතිය සඳහා වැය වන කාලය තමයි වැඩි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-01-22 06:51:09</date>
+            <index>12</index>
+            <phrase>මේ සම්බන්ධයෙන් ජනතාව තවත් දැනුම්වත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2016-01-22 06:57:22</date>
+            <index>13</index>
+            <phrase>හැමදේම හොඳ විදියට සිද්ධ වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත්</author>
+            <date>2016-01-22 06:51:10</date>
+            <index>14</index>
+            <phrase>බලමුකෝ මොකද වෙන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිරු</author>
+            <date>2016-01-22 06:51:11</date>
+            <index>15</index>
+            <phrase>මේ දේ අපට වැදගත් වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බස්නායක</author>
+            <date>2016-01-22 06:51:11</date>
+            <index>16</index>
+            <phrase>හොඳ ආයෝජනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-01-22 06:51:11</date>
+            <index>17</index>
+            <phrase>අපේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිත</author>
+            <date>2016-01-22 06:51:13</date>
+            <index>18</index>
+            <phrase>තැනින් තැන ගොඩනැගිලි හැදුවට වැඩක් නැ.සැලැස්මකට පාරවල්,කඩසාප්පු,කර්මාන්ත ශාලා,නිවාස මේ සියල්ලම නගරයක පිළිවෙලකට තිබිය යුතුයි .වැඩක් කෙරෙන සැලසුමකට අපේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්සිත</author>
+            <date>2016-01-22 06:51:15</date>
+            <index>19</index>
+            <phrase>තැනින් තැන ගොඩනැගිලි හැදුවාට වැඩක් නෑ.සැලැස්මකට පාරවල්,කඩසාප්පු,කර්මාන්ත ශාලා,නිවාස මේ සියල්ලම නගරයක පිළිවෙලකට තිබිය යුතුයි .වැඩක් කෙරෙන සැලසුමකට අපේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් ප්‍රියන්ත</author>
+            <date>2016-01-22 06:58:54</date>
+            <index>20</index>
+            <phrase>නිකම්ම වයපෘතියක් නොවී මේක සාර්ථක අයොජනයක් නම් රටට හොදයි.ලංකාවේ දැනට තියන අවිධිමත් නගර සැලැස්ම මේ යටතේ වෙනස් වෙයි කියල හිතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2016-01-22 07:58:37</date>
+            <index>21</index>
+            <phrase>ගුවන් පාලම් කිහිපයක් හදාගෙන, පොදු ප්‍රවාහන සේවය දියුණු කරගෙන, කොළඹ නගරේ වාහන තදබදය අඩුකරගන්න බැරුව ඉන්න ආණ්ඩුව කොහොමද මෙගා සිටි හදන්නේ? පුලුවන්නම් අවුරුද්දක් ඇතුළත කොළඹ නගරේ ගුවන් පාලම් 10 හදලා පෙන්වන්න. අපි එතකොට ඔය කියන ඒවා විශ්වාස කරන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2016-01-22 10:12:42</date>
+            <index>22</index>
+            <phrase>නගර සංවර්ධනය කියන්නේ ක්ෂණික නූඩ්ල්ස් වගේ දෙයක් නෙවෙයි.කොළඹ නගරේ පැල්පත්වාසීන්,මාර්ග තදබදය,පරිසර දූෂණය වගේ දැවැන්ත ගැටළු තියෙනවා. ඒ ගැටළු විස‍ඳෙන්නේ දීර්ඝ කාලීන සැලැසුම් වලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2016-01-22 10:06:39</date>
+            <index>23</index>
+            <phrase>නගර සංවර්ධනය කියන්නේ ක්ෂණික නූඩ්ල්ස් වගේ දෙයක් නෙවෙයි.කොළඹ නගරේ පැල්පත්වාසීන්,මාර්ග තදබදය,පරිසර දූෂණය වගේ දැවැන්ත ගැටළු තියෙනවා. ඒ ගැටළු විස‍ඳෙන්නේ දීර්ඝ කාලීන සැලැසුම් වලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි</author>
+            <date>2016-01-22 10:14:05</date>
+            <index>24</index>
+            <phrase>නගර සංවර්ධනය කියන්නේ ක්ෂණික නූඩ්ල්ස් වගේ දෙයක් නෙවෙයි.කොළඹ නගරේ පැල්පත්වාසීන්,මාර්ග තදබදය,පරිසර දූෂණය වගේ දැවැන්ත ගැටළු තියෙනවා. ඒ ගැටළු විස‍ඳෙන්නේ දීර්ඝ කාලීන සැලැසුම් වලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-01-22 12:50:37</date>
+            <index>25</index>
+            <phrase>කොළඹ නගරය ලස්සනට තිබුනා 1950ස් ගණන් වල. ඒ කාලේ කොළඹ වැඩිපුර සිටියේ බර්ගර් ජාතිකයින් සහ සිංහල මිනිසුන්. සවස් වනවිට බොහෝ ගෙවල් වලින් පියානෝ සහ සැක්සෆෝන් සද්ද ඇසුනා. දැන් කොළඹ බලන්න අප්‍රසන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිමල්</author>
+            <date>2016-01-22 17:29:32</date>
+            <index>26</index>
+            <phrase>මේකෙන් වෙන අක්‍රමිකතා ගැන හොයන්නේ එතකොට ඊළඟ ආණ්ඩුවෙන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-01-22 21:15:53</date>
+            <index>27</index>
+            <phrase>මේ වැඩපිළිවෙල ඉතා කල්පනාකාරීව කළයුතු දෙයක්. මේ ආකාරයෙන්ම මහා පරිමාණ සංවර්ධනයක් එදා කොළඹ ක්‍රමය යටතේ සැළසුම් කළා. අසල්වැසි බූවල්ලා එය අවුල්කර අඩපණ කළා. මේපාරත් අපේ සංවර්ධන වේගය වැඩිවුණොත් මොන දහම්ගැටයක් හරි ගහලා වැඩේ අවුල් කරනවා සිකුරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-01-23 03:59:22</date>
+            <index>28</index>
+            <phrase>අපේ දේශපාලකයන්ට "මෙගා ව්‍යාපෘති" නැතිව ජිවිතයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-01-23 03:59:24</date>
+            <index>29</index>
+            <phrase>අපේ දේශපාලකයන්ට "මෙගා ව්‍යාපෘති" නැතිව ජිවිතයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2016-01-24 07:24:41</date>
+            <index>30</index>
+            <phrase>ඩොලර් බිලියන 40ක් කොළඹට ? ගමේ පාරවල් රෝහල් පාසල් තව අවුරුදු 30 කාබාසිනියා වෙන්න ඇරලා අන්තිමට ගමේ එකාගේ සල්ලි වලින් ණය ගෙවනවා. කොළඹ පුතාල සුරු සුරු ගගා ඉංගිරිසියෙන් කතා කර කර රාත්‍රී සමාජශාලා ඇතුලේ තරුණකම විදිනවා. ගමේ කොල්ලෝ වකුගඩු දියකරමින් ජීවිතය විදවනවා, "කොළඹට මෙගා ගමට ඩෙගා"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2016-01-24 07:24:51</date>
+            <index>31</index>
+            <phrase>කොළඹට මෙගා ගමට ඩෙගා"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-01-25 03:58:37</date>
+            <index>32</index>
+            <phrase>හරි හරි අපි මේ ඩිරම ගානේ එකතු කරගෙන යනවා අපේ පරිමාණ මිනින්දෝරු එක්කෙනෙක් අසනීප වෙලා එකතු වුන මුදලින් කොටසකුත් තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනුලි</author>
+            <date>2016-01-25 15:20:17</date>
+            <index>33</index>
+            <phrase>දැන් ඉතින් සැලසුම් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීම්</author>
+            <date>2016-01-25 16:51:29</date>
+            <index>34</index>
+            <phrase>හැදිල්ල කොහොම වෙතත් අහිංසක මිනිසුන්ගේ දේපල වන්දි ගෙවන්නේ නැතුව පවරාගෙන නිවාස සහ වගාවන් විනාශ කරලා පදිංචි අය පාරට ඇදලා දායිද දන්නෙත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-01-26 06:38:23</date>
+            <index>35</index>
+            <phrase>ලස්සනක් දන්නේ නැති මිනිස්සුනේ කොළඹ ඉන්නේ එකනේ මෙහෙම වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-01-26 06:38:53</date>
+            <index>36</index>
+            <phrase>ලස්සනක් දන්නේ නැති පිරිස් කොළඹ නගරයේ වැඩි වීම තමයි ලොකුම විනාසය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද සෞදි</author>
+            <date>2016-01-26 11:40:07</date>
+            <index>37</index>
+            <phrase>අනාගතේ ඉපදෙන දරුවනේ වෙන ණය ගෙවන්න ඔබලාට බාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද සෞදි</author>
+            <date>2016-01-26 11:45:06</date>
+            <index>38</index>
+            <phrase>අනාගතේ ඉපදෙන දරුවනේ වෙන ණය ගෙවන්න ඔබලාට බාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-01-28 08:02:33</date>
+            <index>39</index>
+            <phrase>සැළසුම හදන්නත් පුළුවන්. යන වියදම කියන්නත් පුළුවන්. මුල් ගල තියන්නත් පුළුවන්. කියන්න බැරි දේ සහ කරන්න බැරි දේ තමයි ඒ වියදම ලැබෙන්නේ මෙන්න මේ විදියට කියන එක. අර මහනුවර අධිවේගෙට දින 100 දී මුල් ගල මේ ආණ්ඩුවෙනුත් තිබ්බා, කලින් ආණ්ඩුවෙනුත් මුල් ගල තියලා තියෙද්දිත්ම. දැන් අලුත් මුල් ගලත් ටික ටික පැල වෙන්න පටන් අරන්. මිනිසුන් මුලාකරන්න එපා මහත්වරුනේ. පවු සිද්ධවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-01-28 09:06:32</date>
+            <index>40</index>
+            <phrase>රාජපක්ෂ පාලනයෙන් කළත් යහපාලනයෙන් කළත් රටට අවශ්‍ය වන්නේ යමක් නිවැරදිව ඉටු කිරීමය. මේවා සිදුවන්නේ ජනතාවගේ මුදල් වලින් බවට ගරු ඇමතිතුමා අමතක කරන කෙනෙක්ද නොවේ. නිතරම තම කාර්ය නිවැරදිව ඉටුකිරීමට උත්සාහ කරන මෙතුමාට අපි සුභ පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-01-28 09:16:19</date>
+            <index>41</index>
+            <phrase>රාජපක්ෂ පාලනයෙන් කළත් යහපාලනයෙන් කළත් රටට අවශ්‍ය වන්නේ යමක් නිවැරදිව ඉටුවිමය. මේවා ඉටුවන්නේ ජනතාවගේ මුදල් වලින් බවට ගරු ඇමතිතුමා අමතක කරන කෙනෙක්ද නොවේ. නිතරම තම කාර්ය නිවැරදිව ඉටුකිරීමට උත්සහ කරන මෙතුමාට අපි සුබ පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-01-28 09:16:38</date>
+            <index>42</index>
+            <phrase>රාජපක්ෂ පාලනයෙන් කළත් යහපාලනයෙන් කළත් රටට අවශ්‍ය වන්නේ යමක් නිවැරදිව ඉටුවිමය. මේවා ඉටුවන්නේ ජනතාවගේ මුදල් වලින් බවට ගරු ඇමතිතුමා අමතක කරන කෙනෙක්ද නොවේ. නිතරම තම කාර්ය නිවැරදිව ඉටුකිරීමට උත්සහ කරන මෙතුමාට අපි සුබ පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2016-01-28 15:41:20</date>
+            <index>43</index>
+            <phrase>කට්ටිය මේකට කෑ ගැහුවා නේද ? දැන් මොකද වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-01-30 04:55:35</date>
+            <index>44</index>
+            <phrase>තැනින් තැන ගොඩනැගිලි හැදුවට වැඩක් නැ.සැලැස්මකට පාරවල්,කඩසාප්පු,කර්මාන්ත ශාලා,නිවාස මේ සියල්ලම නගරයක පිළිවෙලකට තිබිය යුතුයි .වැඩක් කෙරෙන සැලසුමකට අපේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-01-30 04:55:44</date>
+            <index>45</index>
+            <phrase>තැනින් තැන ගොඩනැගිලි හැදුවට වැඩක් නැ.සැලැස්මකට පාරවල්,කඩසාප්පු,කර්මාන්ත ශාලා,නිවාස මේ සියල්ලම නගරයක පිළිවෙලකට තිබිය යුතුයි .වැඩක් කෙරෙන සැලසුමකට අපේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-01-30 22:12:24</date>
+            <index>46</index>
+            <phrase>මේ බිලියන් ගණන වියදම් කරන්නේ අවුරුදු පහළොවකට කියලා දැනගත්තා. වයඹටයි දකුණටයි ලැබෙන්නේ පස්සෙලු. ඒ කියන්නේ එයාලට තව අවුරුදු පහළොවක් බලාගෙන ඉන්න වෙනවා. නමුත් ඒ අවුරුදු පහළොවේම ඇමතිලා දෙන්නෙක් පත්කරලා අමත්‍යංශ පිහිටුවලා ඒවට නඩත්තුවට මුදල් වෙන්කරන්නද යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධවී</author>
+            <date>2016-02-03 03:44:50</date>
+            <index>47</index>
+            <phrase>මේ වැඩේ සාර්ථක කර ගන්න ශක්තිය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2016-02-03 03:44:50</date>
+            <index>48</index>
+            <phrase>ඹවු ඒ වැඩේ හොදයි හොද අධීක්ෂණයකින් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2016-02-03 03:38:07</date>
+            <index>49</index>
+            <phrase>ඹවු ඒ වැඩේ හොදයි හොද අධීක්ෂණයකින් කරන්න. කොහොමත් පොඩි අඩුපාඩුවක්වත් එන්න තියන්න එපා පේනවනේ කරලා තියෙන දේවල්. වැඩකරන හැමෝම ගැන හොයන්න ප්‍රශ්නවලට ඇහුම්කන් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2016-02-03 03:39:12</date>
+            <index>50</index>
+            <phrase>ඹව් ඒ වැඩේ හොදයි හොද අධීක්ෂණයකින් කරන්න. කොහොමත් පොඩි අඩුපාඩුවක්වත් එන්න තියන්න එපා පේනවනෙ කරල තියෙන දේවල්. වැඩකරන හැමෝ මගැන හොයන්න ප්‍රශ්නවලට ඇහුම්කන්දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2016-02-03 03:45:56</date>
+            <index>51</index>
+            <phrase>ඹවු ඒ වැඩේ හොදයි හොද අධීක්ෂණයකින් කරන්න. කොහොමත් පොඩි අඩුපාඩුවක්වත් එන්න තියන්න එපා පේනවනෙ කරල තියෙන දේවල්. වැඩකරන හැමෝම ගැන හොයන්න ප්‍රශ්නවලට ඇහුම්කන්දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජන දාස</author>
+            <date>2016-02-04 05:03:35</date>
+            <index>52</index>
+            <phrase>කියන එකයි කරණ එකයි එකක් නොවෙයි දෙකක් ලොකු ලොකු කයිවාරු අහල අහල දැන් නම් කන් දෙකම ගොඩ වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

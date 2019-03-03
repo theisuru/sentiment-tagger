@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486888</articleId>
+    <title>කොටුව දුම්රියපොළ ලක්ෂ හයකට වැඩියෙන් උපයයි</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 දෙසැම්බර් මස 03 12:49:28</date>
+    <body>බස් වර්ජනය පැවති සිකුරාදා කොළඹ කොටුව දුම්රිය පොළේ ආදායම ලක්ෂ හයකින් ඉහල ගිය බව දුම්රිය සාමාන්‍ය අධිකාරී බී.ඒ.පී ආරියරත්න මහතා කියයි. 
+සාමාන්‍යෙයන් දිනෙක ආදායම රුපියල් ලක්ෂ තිහත් තිස්පහක් වන බව සඳහන් කරන ඔහු බස් වර්ජනයදා එය ලක්ෂ 38 වු බව පවසයි</body>
+    <comments>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-12-03 08:18:36</date>
+            <index>0</index>
+            <phrase>මේ වර්ජනයෙන් සිදුවුණේ පුද්ගලික බස් තියෙනවාට වඩා නැති එක හොඳයි කියලා සියලුම දෙනාට තේරුම්ගිය එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-12-03 08:38:29</date>
+            <index>1</index>
+            <phrase>තව වර්ජනය කරන්න කියමු, නැත්නම් ගෙදරට වෙලා නිදාගන්න කියමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-12-03 09:30:10</date>
+            <index>2</index>
+            <phrase>මේ රට ඉදිරියට දාන්න නම් පොදු ප්‍රවාහන සේවය පුළුල් කරන්න ඕනෑ. එ්කට අවංක කෙනෙක් ඇමති වෙන්නත් ඕනෑ. හොරකම් කොමිස් නැතුව පොදු යහපත වෙනුවෙන් වැඩ කරන්න අයෙක්. එතකොට මෙහෙම පුද්ගලික බස්කාරයන්ට නටන්න බැහැ. බලන්න එක දවසට අාදායම විතරක්! හොඳ පරිපාලනයක් නේද ඕනෑ වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා- ප්‍රංශය</author>
+            <date>2016-12-03 12:37:02</date>
+            <index>3</index>
+            <phrase>මේක නම් හොඳ ආරංචියක්. දුම්රිය දෙපාර්තමේන්තුව ලාබලබන හෝ පාඩුලබන ආයතනයක්ද කියා මම නොදනිමි. දිනපතාම පුදලික බස් රථ වර්ජන තිබේ නම් කොච්චර හොඳද කියා සිතේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-12-03 15:54:06</date>
+            <index>4</index>
+            <phrase>දිනකට මෙහෙම උපයනවනම් කොහොමද පාඩු වෙන්නේ. තවත් දුම්රිය ස්ථාන තියෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2016-12-03 20:17:42</date>
+            <index>5</index>
+            <phrase>ආරියරත්න කියන විදියට හැමදාමත් මෙහෙම වර්ජන තියෙනවා නම් හොදයි වගේ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුර</author>
+            <date>2016-12-04 00:58:54</date>
+            <index>6</index>
+            <phrase>තව තවත් ප්‍රයිවෙට් බස් වලටයි, ත්‍රීවිල් වලටයි වර්ජනය කරන්න කියන්න. ජාතික ප්‍රවාහන සේවයට හොඳ කලක් එයි . ලංගමයටයි දුම්රිය සේවයටයි හොමෝම සහයෝගය දුන්නොත් හොඳයි වගේ. ලංකාවේ ත්‍රීවිල් වැඩියි. ප්‍රයිවෙට් බස් වලටත් ගමන ගමනයේදී යම් කිසි ගුණාත්මක ප්‍රමිතියක් තිබුනොත් හොඳයි. රජයට අපගේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

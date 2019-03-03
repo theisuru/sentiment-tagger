@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>472334</articleId>
+    <title>කොළඹ පාරවල් යටවෙලා</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 ඔක්තෝබර් මස 25 06:47:17</date>
+    <body>පෙර දින සිට ඇද හැලුණු වර්ෂාව නිසා අද උදෑසන වන විටත් කොළඹ මාර්ග රැසක් ජලයෙන් යටවී තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-25 03:53:45</date>
+            <index>0</index>
+            <phrase>කොළඹට වහින්න ඕන නැහැ වැහි පොදක් වැටුනත් ඕක වෙනවනේ. කී දෙනෙක් ඉන්නවද කොළොඹ බලන්න. එත් වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනි</author>
+            <date>2016-10-25 05:34:12</date>
+            <index>1</index>
+            <phrase>මොන පාරවල් යට වෙලා තිබුනත් පොතේ රතු ඉර ගහනවා. කාට කියන්නද මේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමලරත්න</author>
+            <date>2016-10-25 05:46:29</date>
+            <index>2</index>
+            <phrase>කමක් නැහැ ඔහොම යමුකෝ. වෙනස සැපයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2016-10-25 06:38:54</date>
+            <index>3</index>
+            <phrase>නුගත් බලලෝභී දේශපාලකයන්ගේ මැදිහත්වීම් හරහා ඉදිකළ ඉදිකිරීම් වල ප්‍රතිඵල තමා මේ. ඉදිකිරීම් වලදී සිවිල් ඉංජිනේරු, පරිසර, වනජීවී වාර්තා නාමිකව පමණයි කැඳවන්නේ. ඉදිකිරිම සිද්ධ වෙන්නේ සාමාන්‍ය පෙළවත් සමත් නැති අමාත්‍යවරයෙකුගේ පුද්ගලික න්‍යාය පත්‍රයට. මෙහෙම රටක් තව ලෝකෙවත් නැත යන්න අදටත් ගැළපෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-10-25 10:25:37</date>
+            <index>4</index>
+            <phrase>පැය කිහිපයක් වැස්සොත් කොළඹ නගරය බේරේ වැව ගොඩ ගැලුවා වගේ වෙන නිසා, නාගරික සංවර්ධන සහ මාර්ග සංවර්ධන අමාත්‍යංශ එකතුවී ඒකාබද්ධ බෝට්ටු සේවයක් දැම්මොත් නරකද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

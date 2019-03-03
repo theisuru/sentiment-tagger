@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55563</articleId>
+    <title>විදුහල්පති බොක්කේ දඩමස්</title>
+    <author>සනත් ගමගේ</author>
+    <date>2012 ජූලි මස 27 09:55:47</date>
+    <body>වන සතුනට ආදරය කරුණාව දැක්වීමේ සම්මන්ත‍්‍රණ පවා පැවැත්වූ තිස්සමහාරාමයේ යාල සමීපයේ ඔසුවින්න පාසලේ විදුහල්පති නිල නිවසේ අධි ශීතකරණයේ මුව  මස් කිලෝ අටක් සමග විදුහල්පතිද මස් රැගෙන ආ අයකුද සැකපිට අත්අඩංගුවට ගත් බව යාල වනජීවී නිලධරයෝ කියති. මුව මස් කිලෝවක් රුපියල් 600ක් පමණ වෙයි.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-27 10:08:00</date>
+            <index>0</index>
+            <phrase>විදුහල්පතිවරුන් සම්බන්ධ ගැටළු අර්බුද අද කාලයේ නිතර අසන්නට ලැබේ. මේ සහා නිසි ක්‍රියා මාර්ග ගැනීඹට තවම රජය අපොහොසත්වි ඇත.එසේ තිබියදී රජයේ පාසල්වල විදුහල්පතිවරුන් 1000කට ද හමුදා මෙහෙයවීමෙන් නායකත්ව පුහුණුව සැපයීමට සැලසුම් කර ඇති බව වාර්තා වේ.. අධ්‍යාපන ලේකම්වරයාට අනුව විදුහල්පතිවරුන්ට මෙම පුහුණුව අවශ්‍ය වන්නේ තාප්පයකින් පැන ළමයකු අල්ලා ගන්නට පුළුවන් වන්නට හා ළමයින්ට බය නැති වන්නට ආදියටයි. අහෝ දුකකි! මේ රටේ අධ්‍යාපන බලධාරීන් විදුහල්පතිගේ භූමිකාව හඳුනාගෙන ඇත්තේ එසේ ය: ඔවුන්ට අනුව, විදුහල්පති චණ්ඩියකු විය යුතු ය. මේ රටේ පිළිගැනුම අනුව නායකයා යනු චණ්ඩියෙක් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-27 10:11:19</date>
+            <index>1</index>
+            <phrase>කොයි ලොක්කගෙත් ඔහොම තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-07-27 10:10:35</date>
+            <index>2</index>
+            <phrase>සහතික ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-27 10:23:16</date>
+            <index>3</index>
+            <phrase>කාගේහරි කඩාකප්පල් කාරී ක්‍රියාවක්.....ඔය වගේ ඒවා ටෙලිනාට්‍ය වල මම දැකල තියෙනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොඩිකාර</author>
+            <date>2012-07-27 11:10:32</date>
+            <index>4</index>
+            <phrase>සහතික ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිපාල</author>
+            <date>2012-07-27 11:41:01</date>
+            <index>5</index>
+            <phrase>කවුරුහරි බඩු දමලා ඔත්තුව දීලා ඇල්ලුවද දන්නේ නෑ පළිගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-27 11:47:03</date>
+            <index>6</index>
+            <phrase>දෙන්න හිතෙනවා දෙකක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-07-27 11:50:40</date>
+            <index>7</index>
+            <phrase>පිස්සු හැදෙනවා මේවා ඇහුවහම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2012-07-27 12:08:35</date>
+            <index>8</index>
+            <phrase>ලොකු කකුලුවා පොඩි එවුන්ට කෙලින් යන්න කියලා දෙනවා.....කියලා සිංදුවකුත් තියනවා නේද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-27 13:52:13</date>
+            <index>9</index>
+            <phrase>තව පොඩ්ඩෙන් මාත් එනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-27 14:01:07</date>
+            <index>10</index>
+            <phrase>මේකනම් කාගේ හරි කුමන්ත්‍රණයක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-07-27 14:23:55</date>
+            <index>11</index>
+            <phrase>පව් නේ....කාගේ හරි කුමන්ත්‍රණයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2012-07-27 14:33:21</date>
+            <index>12</index>
+            <phrase>මෙහෙමත් අය ඉන්නවනේ....දඩුකඳේ ගහන්න ඕන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-07-27 16:25:25</date>
+            <index>13</index>
+            <phrase>හරක්මස්ම කාලා එපා වෙලා වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-07-27 16:44:37</date>
+            <index>14</index>
+            <phrase>අද වල් සත්තු මිනිසුන් හැටියට ජීවත් වෙන්න පටන් අරන්. මිනිස්සු වල් සතුන් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩීන්</author>
+            <date>2012-07-27 17:59:30</date>
+            <index>15</index>
+            <phrase>ෂුවර් එකටම විදුහල්පතිතුමාට මතක නැති වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2012-07-27 19:24:48</date>
+            <index>16</index>
+            <phrase>අනේ ආචාර්ය පටලවා ගන්නෙ නැතිව අදාල කාරණය කතා කරන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-27 20:33:18</date>
+            <index>17</index>
+            <phrase>දඩමස් ඕනනම් මේ කියන හයිවේ එකේ යන්න ඕන එහෙම නැත්නම් එක්ස්ප්‍රස් වේ එකෙන් උදේ පාන්දර ගියානම් එකතුකරන් එකතුකරන් යන්න පුළුවන් කොට්ටාවෙන් ඇතුල්වෙලා පින්නදුව නතර කරලා කොච්චර සත්තු මැරිලද කියල බලන්න.පාර අයිනේ මුහුද අයිනේ හට්ටියක් අරන් ගියොත් ඔයගොල්ලෝල ගෑස් කුකර් එකකුත් අරගෙන ගියානම් ඔයගොල්ලෝ මිරිස් තුනපහ ටිකක් කඩෙන් අරන් හොඳ දඩමස් හොද්දක් හදාගන්න පුළුවන්.මික්ස් ග්‍රිල් එකක් දාගන්න පුළුවන්,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චීන</author>
+            <date>2012-07-28 08:01:52</date>
+            <index>18</index>
+            <phrase>මේ වන ජීවි නිලධාරීන් අනුන්ගේ ඕඩර් වලට වැඩ කරන රොබෝ ල වගේ. එතනින් එහාට හිතන්න දැනුමක් වත් බලයක් වත් නැහැ. තිත් මුව කියන්නේ ඉතා ඉක්මනින් බෝවන ගහනය වැඩි උනාම පරිසරයට විනාශකාරී බරක් විය හැකි සතෙක්. කලින් ලංකාවේ කොච්චර මුන්ව මැරුවද ? කෝ වඳ උනාද? ඒ කාලේ කැලෑවල කොටි ත් ප්‍රධාන ආහාරය ලෙස මුන්ව පාලනය කලා. දැන් උනුත් අඩුයි. දැන් මෙහෙම ස්වභාවික/මිනිස් පාලනය නැති කලාම ගහනය වැඩි වී ආහාර හිඟවී මහා සංහාර විය හැකියි. සමහර රටවල බෝවීම අඩුකරන්න මුන්ව මරනවා. සතුන් වත්තේ බලන්න කොච්චර බෝවෙලද ? දැන් හරිම ප්‍රශ්නයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2012-07-28 11:22:28</date>
+            <index>19</index>
+            <phrase>කට්ටියගේ අදහස්, යන්නේ කොහේද මල්ලේ මුකුත් නෑ........... වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-07-28 12:39:07</date>
+            <index>20</index>
+            <phrase>වචන දෙකක් නැහැ සොබාදහම විසින් නිසි දඩුවම් ලබා දෙයි.. එයයි මට නම් කියන්න තියෙන්නේ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

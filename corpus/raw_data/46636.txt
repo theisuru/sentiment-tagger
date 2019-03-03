@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46636</articleId>
+    <title>ආයුර්වේදයටත් හෙද සේවයක්</title>
+    <author></author>
+    <date>2012 ජූනි මස 05 16:21:36</date>
+    <body>ශ්‍රී ලංකාවේ ප්‍රථම ආයුර්වේද හෙද ඩිප්ලෝමාධරයෝ අද (5) විසිරැ ගියහ. දේශීය වෛද්‍ය ක්‍රම පිළිබඳව, මහරගම නාවින්නේ ජාතික ආයතනයේ වසර එක හමාරක් ද, කඳාන හෙද විදුහලේ තෙවසරක පුහුණුවක් ද ලැබූ ඔවුහු ආයුරුවේද රෝහල්වල සේවයට යෙදාවනු ලබති.</body>
+    <comments>
+        <comment>
+            <author>හොද පුතා</author>
+            <date>2012-06-05 17:16:49</date>
+            <index>0</index>
+            <phrase>හොඳ වැඩක්. හැබැයි මේ අයට ෆ්ලොරන්ස් නයිටින්ගේල් නෝනගේ ලාම්පුව නම් ගන්න දෙන්න එපා. බුද්දදාස රජතුමාගේ ලාම්පුව හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-06-05 17:01:18</date>
+            <index>1</index>
+            <phrase>කාලෝචිත සේවාවවක්. අපේ රටේ දියුණු කළ යුතුම දෙයක් තමයි මේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත් සමරකෝන්</author>
+            <date>2012-06-05 17:17:28</date>
+            <index>2</index>
+            <phrase>ඉතා හොද පුවතක්... සෑම විටම විශ බෙහෙත් වලින් තොර ස්වාභාවික ඖෂධ භාවිතාකර ජනතාව රැක ගන්න ඔබේ උපරිමයෙන් දායක වන්න. දැන් නිරවුල් මනසින් සහ ශරීර සෞඛ්‍යයෙන් හෙබි පිරසක් අවශ්‍යයි රටට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2012-06-05 18:57:55</date>
+            <index>3</index>
+            <phrase>වැඩ වර්ජනය කරන්න අරන් අපේ නෝනා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-05 20:28:15</date>
+            <index>4</index>
+            <phrase>ආයුර්වේද වෙද සේවාව හොද සේවාවක් වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-06-06 11:12:12</date>
+            <index>5</index>
+            <phrase>ඒ ගොල්ලො ඔක්කොමලා ඉන්න බෑ කියලා යන්න ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-06 14:57:53</date>
+            <index>6</index>
+            <phrase>මගේ නංගිත් වැඩ කර්න්නේ ආයුර්වේද රොහලේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

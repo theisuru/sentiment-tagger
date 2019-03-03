@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>108853</articleId>
+    <title>වෑන් රිය පල්ලමේ</title>
+    <author>රංජිත් රාජපක්ෂ  වේරගොඩගේ සජීව විජේවීර</author>
+    <date>2013 අපේ‍්‍රල් මස 16 06:56:27</date>
+    <body>කොළඹ සිට නුවරඑළිය බලා යමින් සිටි වෑන් රථයක් අවිස්සාවේල්ල නුවරඑළිය මාර්ගයේ ලැමර් ලියර් ප්‍රදේශයේදී ප්‍රපාතයකට පෙරළීමෙන් රියදුරා ඇතුළු තිදෙනකු මියගොස් පස් දෙනකු තුවාල ලබා ඇතැයි පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුජීව</author>
+            <date>2013-04-16 10:35:11</date>
+            <index>0</index>
+            <phrase>මිය ගිය අයට නිවන් සැප පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂ්</author>
+            <date>2013-04-16 10:46:36</date>
+            <index>1</index>
+            <phrase>හෙමින් යන්න ආයේ එන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2013-04-16 11:01:31</date>
+            <index>2</index>
+            <phrase>තුවාල ලැබූ සැමට ඉස්මන් සුවය ලැබේවා! මිය ගිය අයට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රිස්වාන් සව්දි අරාබිය.</author>
+            <date>2013-04-16 12:13:57</date>
+            <index>3</index>
+            <phrase>මිය ගිය කට්ටිය කොයි ගමේ අයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටාර්</author>
+            <date>2013-04-16 20:06:32</date>
+            <index>4</index>
+            <phrase>තුවාල ලැබූ අයට ඉක්මන් සුවය ලැබේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-04-17 12:47:35</date>
+            <index>5</index>
+            <phrase>මිනිසාට ඇත්තේ එක ජීවිතයයි. එය විනාශ වීමට පෙර මිනිසා කල්පනාකාරි වියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

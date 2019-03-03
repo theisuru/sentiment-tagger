@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>126994</articleId>
+    <title>අද වෙසක් පොහොයයි - දේශකයානෝ බෙංගමුවේ නාලක ස්වාමින්වහන්සේ</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 මැයි මස 24 21:32:07</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2013-05-25 14:22:48</date>
+            <index>0</index>
+            <phrase>ඔබ සැමටම සාමය සතුට පිරි වෙසක් උත්සවයක් වේවා! උත්තම දර්ශනය බුදුරදු දෙසු දහමේ.. අති සුවිසල් ප්‍රතිඵල හරි වැටහීමේ‍‍.. සැමදා ඒ අනුව තම දිවි ගතකිරීමේ.. මැද පිළිවෙතයි නිසි මඟ නිවනට යාමේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්කි පලේර්මෝ</author>
+            <date>2013-05-29 13:42:56</date>
+            <index>1</index>
+            <phrase>ඔබ වහන්සේගේ දර්ම දෙසනය ඉතාමත් උවමනාවෙන් ශ්‍රවනය කලෙමි ඔබ වහන්සේ ලක්දිව සිට දහම් කරුණාවෙන් බුදු පිළිමයක් වඩම්මාගෙන ඉතාලියේ පලේර්මෝ නගරයට වැඩිය ආකාරය කිසිම දිනක අමටක නොවේ සාසනයට ජාතියට සේවය කරන ඔබ වහන්සේට තිසරණ සරණයි දෙසබන්දු දිල්කි ෆෙර්ණන්දෝ සහ පලේර්මෝ මිතුරු කල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

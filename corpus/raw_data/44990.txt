@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44990</articleId>
+    <title>වවන්න ගිහින් උසාවියෙන් නවතී</title>
+    <author>රංජිත් එස් ඩයමන්</author>
+    <date>2012 මැයි මස 27 15:36:25</date>
+    <body>තිස්සමහාරාමයේ කිරින්ද ඇඳගල රජයේ ඉඩමක අනවසරයෙන් කටු කම්බි ගැසීමට භටයන් 13 දෙනකු යෙදවීයැයි සැකපිට කතරගම සිවිල් ආරක්‍ෂක බළකා මූලස්ථානයේ අණදෙන නිලධාරී අජිත් කුමාර වේහැල්ල හා කඳවුර භාර නියාමක ඞී.ඒ. පේ‍්‍රමචන්ද්‍ර රුපියල් දෙලක්‍ෂය බැගින් වූ ඇප මත මුදා හරින්නැයි තිස්සමහාරාම මහේස්ත‍්‍රාත් සංජීව රම්‍ය කුමාර මහතා නියෝග කළේය.
+වගාව සඳහා මේ ඉඩම යොදා ගැනීමට කටු කම්බි ගැසීමට පියවර ගෙන ඇතත් ඒ සඳහා අවසර ගෙන නැති බව පොලිසිය අධිකරණයට දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-27 17:01:27</date>
+            <index>0</index>
+            <phrase>වවන්නෝ දිනන්නෝ.මේ විදියට වැවුවොත් උසාවි යන්නෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකල බුජන්</author>
+            <date>2012-05-27 22:25:04</date>
+            <index>1</index>
+            <phrase>ඕන් ඕකනේ අපි වවන්නේ නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේ ගුරා</author>
+            <date>2012-05-28 07:34:53</date>
+            <index>2</index>
+            <phrase>භටයින් 13ක් කියන්නේ නරක ගාණක්.ඒකයි වැඩේ අවුල් වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාලි සෞම්‍යා</author>
+            <date>2012-05-28 09:23:49</date>
+            <index>3</index>
+            <phrase>වැව්වොත් උසාවි ......එතකොට ....අපි වවමු රට නගමු ..??????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 10:37:03</date>
+            <index>4</index>
+            <phrase>වවන එකත් ආවට ගියාට නෙවෙයි ක්‍රමේකට කරන්න ඕන.නැතිනම් මෙහෙම දේවල් වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 12:44:25</date>
+            <index>5</index>
+            <phrase>වවන්න කීවට රජයේ ඉඩම් අනවසරයෙන් අත්පත් කරගන්න කියලා නැහැ නෙවෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 12:45:35</date>
+            <index>6</index>
+            <phrase>නිසාලි සෞම්‍යා, අපි වවමු රට නගමු වැඩ සටහන ඔයාට විහිළුවක් වුනේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

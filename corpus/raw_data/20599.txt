@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20599</articleId>
+    <title>උසස් පෙළ අර්බුදේට කොටුවේ වීදි බසී</title>
+    <author>ජානක ගලප්පත්ති</author>
+    <date>2012 ජනවාරි මස 05 13:04:20</date>
+    <body>අධ්‍යාපන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ප්‍රතිඵල නැවත සමාලෝචනය කර අර්බුදය වහා විසඳන ලෙස බල කරමින් පෙත්සමක් අත්සන් කිරීම කොටුව දුම්රිය පොළ ඉදිරිපට දී පැවත්විණ. පාසල සුරැකීමේ ජාතික ව්‍යාපරය විරෝධතාව සංවිධානය කර තිබේ.</body>
+    <comments>
+        <comment>
+            <author>සදමාලි පෙෙර්රා</author>
+            <date>2012-01-05 13:51:54</date>
+            <index>0</index>
+            <phrase>උද්ෙඝා්ෂන අැත්තටම සාධාරණයි. අසාධාරණයක් වුණ උසස් පෙළ ශිෂ්‍යයන් ෙවනුෙවන් කරෙගන යන විෙරා්ධතාවය සාර්ථක ෙවන්න කියලා අපි සුභපතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-01-05 15:04:35</date>
+            <index>1</index>
+            <phrase>මොකක්ද මේ ලංකාවට වෙන්නේ? අපි ඉතා ඉක්මණින් මෙයට විසදුමක් සොයාගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-05 15:10:12</date>
+            <index>2</index>
+            <phrase>අපේ දරුවන්ටත් අනාගතේ මෙහෙම දේවල් නොවේවා. ඔබට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-01-05 21:39:30</date>
+            <index>3</index>
+            <phrase>ඔය හැම එකටම පිටුපස ඉන්නේ දහස් ගණන් සිසු ජීවිත බිලි දුන්න අදටත් ඒ වගේ දෙයකට යොමුකරන ජේ.වී.පී. නඩේ බව අපිනම් දන්නවා. අනේ මේ අයට සිසුන්ට තියෙන අනුකම්පාවෙ තරම???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

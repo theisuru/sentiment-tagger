@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30633</articleId>
+    <title>ඒ.එස්.පී. පටි රෝල් කර ගනී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 මාර්තු මස 09 18:44:25</date>
+    <body>මහරගම කාන්තාවකගෙන් රුපියල් ලක්ෂ දොළහක අල්ලසක් ඉල්ලා විජේරාම විහාරයක දී රුපියල් ලක්ෂ දහයක් ගත් බව කියන නුගේගොඩ සහකාර පොලිස් අධිකාරී නිහාල් රංජිත් මෙන්ඩිස් අල්ලස් කොමිසමේ නිලධරයන් විසින් මින් මඳ වේලාවකට කලින් අත්අඩංගුවට ගනු ලැබීය. මහරගම පිළිකා රෝහල අසල සුබ සාධක මධ්‍යස්ථානයක බලයෙන් සිටින බව කියන පිරිසක් ඉවත් කැරදීම සඳහා කාන්තාවකගෙන් මේ අල්ලස් ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-03-10 00:41:21</date>
+            <index>0</index>
+            <phrase>රජයෙන් පඩි ගෙවන් නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලාන්</author>
+            <date>2012-03-10 09:12:41</date>
+            <index>1</index>
+            <phrase>මේවා ගැන දැනුම්දෙන්න හරි විදිහක් නැහැ. දන්න කෙනෙක් ඉන්නවනම් මේවා දැනුම්දෙන්න විදිහක් අපිට කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂාන්</author>
+            <date>2012-03-10 20:31:01</date>
+            <index>2</index>
+            <phrase>කප්පම් ගන්නත් හොද මොලයක් තියෙන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

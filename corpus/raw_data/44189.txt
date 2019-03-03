@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44189</articleId>
+    <title>අනිල් ජාසිංහ ජාතික රෝහලට</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2012 මැයි මස 22 13:46:17</date>
+    <body>කළුබෝවිල ශික්ෂණ රෝහලේ අධ්‍යක්ෂ වෛද්‍ය අනිල් ජාසිංහ අද (22) ශ්‍රී ලංකා ජාතික රෝහලේ අධ්‍යක්ෂ ධූරයේ වැඩ බාර ගත්තේය. ජාසිංහ මහතා වසර 6ක් ජාතික රෝහලේ හදිසි අනතුරු අංශයේ අධ්‍යක්ෂ වූයේය. ඔහු කළුබෝවිල රෝහලේ සිවු වසරක් අධ්‍යක්ෂ විය. ජාතික රෝහලේ වැඩ බලන අධ්‍යක්ෂ වෛද්‍ය සුජාතා සේනාරත්න අමාත්‍යංශයට මාරු කිරීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2012-05-22 13:55:32</date>
+            <index>0</index>
+            <phrase>හොඳ මහත්මයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-22 14:51:08</date>
+            <index>1</index>
+            <phrase>ලොකු දෙයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජොලි බෝයි</author>
+            <date>2012-05-22 15:08:23</date>
+            <index>2</index>
+            <phrase>හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-05-22 16:23:26</date>
+            <index>3</index>
+            <phrase>හෙක්ටර් වීරසිංහ මහතාගෙන් පසුව අධ්‍යක්ෂ පදවියට පත් කිරීමට වෙන කෙනකු හිටියා. එය වැරැදුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යමාන්</author>
+            <date>2012-05-22 16:58:23</date>
+            <index>4</index>
+            <phrase>‍මෙයා තමයි ඒකම සුදුස්සා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-22 17:27:27</date>
+            <index>5</index>
+            <phrase>සුභ පැතුම්!! ඒත් මම හිතු‍වෙ මොනවා හරි වෙලා කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනී</author>
+            <date>2012-05-23 10:11:50</date>
+            <index>6</index>
+            <phrase>පූජාච පූජනීයානන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්දරේ</author>
+            <date>2012-05-23 16:09:23</date>
+            <index>7</index>
+            <phrase>නිවැරදි පත්වීමක්. අපේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

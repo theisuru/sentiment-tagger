@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16768</articleId>
+    <title>උදුවප් පොහො‍යේ ගංගාරාමය</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2011 දෙසැම්බර් මස 10 10:54:29</date>
+    <body>අද උදුවප් පොහොය දින සුපුරැදු පරිදි හුණුපිටිය ගංගාරාම විහාරස්ථානයට බොහෝ පිරිසක් පෙහෙවත් සමාදන්වීමටද එක්ව සිටියහ.එයට දෙස් විදෙස් උවැසි උවැසියන් මල් පහන් පූජාකොට තෙරැවන් වන්දනාවේ යෙදුණහ.
+සසර දිගයි මග කටුකයි මගේ පුතේ - නිතර සරණ හිමි ගුණදම් වඩමු සිතේ</body>
+    <comments>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2011-12-10 11:32:46</date>
+            <index>0</index>
+            <phrase>බුදුපිලිමෙට පිටුපාල ඉන්න එකනම් මම අනුමත කරන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2011-12-10 15:19:29</date>
+            <index>1</index>
+            <phrase>පින් දහම් කරන්න වයසට යනකන් ඉන්න ඹ්න නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ විමලසූරිය</author>
+            <date>2011-12-10 18:25:39</date>
+            <index>2</index>
+            <phrase>සාදු...! සාදු....! සාදු...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පි</author>
+            <date>2011-12-10 18:53:52</date>
+            <index>3</index>
+            <phrase>මෙත් මල් පිබිදේවා.. සිත් තුළ කරුණා ඉතිරේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2011-12-10 21:53:08</date>
+            <index>4</index>
+            <phrase>සිත පහන් කරන පින්තූර දැකීමත් සතුටකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් ජානක</author>
+            <date>2011-12-11 03:11:35</date>
+            <index>5</index>
+            <phrase>හිම කඳු පිසගෙන හමනා මදනල - නිල් බෝපත් සොළවන්න ඇති.. නිකෙලෙස් සිත් ඇති සඟමිත් තෙරණිය - බෝ රජු ගෙන පැමිණෙන්න ඇති... අහසේ පායන පුංචි තාරකා - ශාන්ත එළි විහිදන්න ඇති.. ඒ තරු එළියෙන් බෝ රජු පුද දී - තාරකාවො සැනසෙන්න ඇති.. සාමයෙ බුදු රජ පිට දුන් බෝධිය - දුටු ලක් රජු තුටු වන්න ඇති.... උඳුවප් මාසේ සීතල සුළඟ ද - බුදු සුවඳම විහිදන්න ඇති... ------- පිනි පොද වැටෙනා සීත උඳුවප් මහේ මහබෝරජුන් සමඟින් ලක් දිවට වැඩි නිකෙලෙස් මුනිවරිය වූ උතුම් සංඝමිත්තා මහරහත් තෙරණියට අප ගේ නමස්කාරය වේවා..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

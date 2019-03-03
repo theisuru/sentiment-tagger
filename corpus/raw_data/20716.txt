@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20716</articleId>
+    <title>සංචාරක කොකා මරා ලක්ෂයක් දඩ කයි</title>
+    <author>ඞී කේ ජිනේන්ද්‍රසිංහ</author>
+    <date>2012 ජනවාරි මස 06 10:41:50</date>
+    <body>දෙසැම්බර් - අප්‍රේල් සමයේ රුසියාව, චීනය, උතුරු ඉන්දියාව, දකුණු අප්‍රිකාව ආදි රටවල සිට බිත්තර දැමීම සඳහා ශ්‍රී ලංකාවට එන සුදු මානාවකු පුත්තලම වානවැවේදී බෝර තුවක්කුවකින් වෙඩි තබා මරා දැමූ තිදෙනකුට පුත්තලම මහේස්ත‍්‍රාත් හේෂාන්ත ද මෙල් මහතා රුපියල් එක්ලක්ෂ දොළොස්දහස් පන්සියක දඩ නියම කෙළේය. පුත්තලමේ පසාර් පර්වින්, ටී.ඇම්. මින්රාන් හා ඇම්. ජේ. ඇම්. පර්වින් එසේ දඩ ගැසුම් කෑහ.</body>
+    <comments>
+        <comment>
+            <author>නුවන් ගුනවර්ධන</author>
+            <date>2012-01-06 10:51:13</date>
+            <index>0</index>
+            <phrase>සත්තු දඩයම් කරන අයට ජීවිත කාලයටම ඇග බැන්ද නම් හොදයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-01-06 12:39:16</date>
+            <index>1</index>
+            <phrase>ගොඩක් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ග ශානි</author>
+            <date>2012-01-06 15:20:59</date>
+            <index>2</index>
+            <phrase>ඔය මදි තව දඩ ගහන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දු</author>
+            <date>2012-01-06 16:25:23</date>
+            <index>3</index>
+            <phrase>සොබාදහම සහ පරිසරය ආරක්ෂා කිරීමට නම් මේ වගේ නීති ක්‍රියාත්මක කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mzlz</author>
+            <date>2012-01-06 16:49:41</date>
+            <index>4</index>
+            <phrase>සංචාරක කොකා මැරුවට ලක්‍ෂය නම්, සංචාරකයා මැරීමට දෙන දඬුවම මොකක්ද? ජනාධිපති සමාවත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>amila katunayaka</author>
+            <date>2012-01-06 21:40:16</date>
+            <index>5</index>
+            <phrase>කොකා ගැස්සිලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

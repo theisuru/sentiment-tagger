@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>442489</articleId>
+    <title>රුවන්ගෙන් ගම්පහට රුවන් වැඩක්</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ජූලි මස 31 09:50:03</date>
+    <body>ගම්පහ දිස්ත්‍රික්කයේ පාසැල් දරුවන් අතරින් ඇස් පෙනීමේ දුර්වලතා ඇති දරුවන් හඳුනාගෙන වෛද්‍ය ප්‍රථිකාර ලබාදීම සහ ඇස් කන්ණාඩි බෙදාදීම රාජ්‍ය ආරක්ෂක අමාත්‍ය රුවන් විජයවර්ධන මහතාගේ සංකල්පයකට අනුව සිදු කළේය.</body>
+    <comments>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2016-07-31 04:56:59</date>
+            <index>0</index>
+            <phrase>ඔබට පින් අමාත්‍යතුමනි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-07-31 08:03:47</date>
+            <index>1</index>
+            <phrase>එක්සත් ජාතික පක්ෂ දේශපාලනය අපි පිළිගත්තත් නොගත්තත්, රුවන් විජයවර්ධන මහතා තුළ පවතින විශේෂ ගුණයක් නිතරම අපි දකින්නෙමු. එය ජනතා දේශපාලන නායකයෙක් වෙත පැවතිය යුතු ලක්ෂණයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-07-31 15:23:23</date>
+            <index>2</index>
+            <phrase>මෙතැනදී නම් මාත් වින්සන්ට් එක්ක එකග වෙනවා. යහපත් ක්‍රියාවක්. කුමන පක්සේක හිටියත් වැදගත් විදිහට ඉන්න මනුස්සයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

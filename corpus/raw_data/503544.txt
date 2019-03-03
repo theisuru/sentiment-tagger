@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>503544</articleId>
+    <title>වාරිකය ගෙවා එද්දී රූපවාහිනිය උස්සලා</title>
+    <author>උණවටුන ඩීජී සුගතපාල</author>
+    <date>2017 පෙබරවාරි මස 02 09:54:54</date>
+    <body>ගෙවීමේ ක්‍රමයට ලබාගත් රූපවාහිනියක වාරික මුදල් ගෙවීමට නිවෙස් හිමි කාන්තාව නිවස වසා ගිය අවස්ථාවේ පිටුපස දොර කඩා ඇතුළු වී එම රූපවාහිනිය සොරකම් කර ගෙන ගිය පුද්ගලයෙක් අක්මීමන පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ හැට තුන් හැවිරිදි පුද්ගලයකු බව පොලිසිය කියයි.
+ නිවෙස් හිමි කාන්තාව දරුවා පාසලට යවා සැමියා ද රැකියාවට ගිය පසු දොරවල් වසා උදෑසන නවයට පමණ රූපවාහිනියේ වාරිකය ගෙවීම සඳහා පිටව ගොස් ඇත. නැවත උදෑසන දහයට පමණ ආපසු පැමිණ බලන විට සාලයේ තිබූ රූපවාහිනිය නොතිබූ නිසා අවට පරීක්ෂා කර තිබේ. එවිට පිටුපස දොර කඩා තිබෙනු දැක අසල්වාසීන්ගෙන් විමසීමේදී දැන ගැනීමට ලැබී ඇත්තේ සැකකරු නිවසේ සිට පොහොර උරයක් කර තබාගෙන යනු දුටු බවය.
+ඒ අනුව සිද්ධිය පොලිසියට පැමිණිලි කිරීමෙන් පසු සැකකරු අත්අඩංගුවට ගෙන ඇත. සොරකම් කරන ලද රූපවාහිනිය සොයා ගැනීම සඳහා අක්මීමන පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක එම්.එම්.ඒ. පුෂ්පකුමාර මහතා විසින් වැඩිදුර පරීක්ෂණ පවත්වනු ලබයි.
+(උණවටුන ඩී.ජී. සුගතපාල)</body>
+    <comments>
+        <comment>
+            <author>අජිත්</author>
+            <date>2017-02-02 09:30:46</date>
+            <index>0</index>
+            <phrase>අනේ හැබැටම මෙහෙමත් මිනිස්සු. මේ මිනිහට මොකක්ද දෙන්න ඕනේ දඩුවම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මි</author>
+            <date>2017-02-02 13:16:36</date>
+            <index>1</index>
+            <phrase>මේ මිනිහට අගමැතිකම දෙන්න වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්සි</author>
+            <date>2017-02-02 15:07:10</date>
+            <index>2</index>
+            <phrase>මේ දහම් දීපයේ මෝඩ ගැහැණු ඕනේ දේටත් නැති දේටත් දේශපලනය ගාවා ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2017-02-03 00:31:31</date>
+            <index>3</index>
+            <phrase>මේක නම් පුදුමාකාර දේශයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාමා</author>
+            <date>2017-02-03 00:31:32</date>
+            <index>4</index>
+            <phrase>රන්සි, ඔයා හරියටම හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2017-02-03 04:48:54</date>
+            <index>5</index>
+            <phrase>රන්සි, සාමා, කටු සූප්පු කරන කෝණයෙන් බලන්නේ නැතුව, නියම හදවතට එකඟ කෝණයෙන් බලන්න. මේකත් හරියටම මහබැංකුවට දුන්න ගේම වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2017-02-06 14:36:16</date>
+            <index>6</index>
+            <phrase>ධම්මි, කාලෙකට පස්සේ ඔයා හොද උත්තරයක් දීල තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

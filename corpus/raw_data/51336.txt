@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51336</articleId>
+    <title>වැසි ඇතත් නියඟයෙන් බේරෙන්න බෑ</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 ජූලි මස 03 11:59:50</date>
+    <body>නිරිත දිග මෝසම් වැස්ස දින තුනක සිට සක්‍රිය වී ඇතත් දැනට වියළි පවත්නා නියගයට එයින් පිළිසරණක් නොවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් එස්.ඩී.කාරියවසම් මහතා කියයි. කඳුකරයට ලැබෙන වැසි වලින් ඇල දොල ගංගා හා ජලාශ වලට යම් සහනයක් ලැබිය හැකි නමුත් මෝසම් වැස්සේ ප්‍රබලත්වය ගැන දැන්ම කිසිවක් කිව නොහැකි බව ද ඔහු සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>අලි ජේමිස්</author>
+            <date>2012-07-03 12:19:23</date>
+            <index>0</index>
+            <phrase>දැන්ම කියන්න එපා. ටිකක් වැහැල නාය යන්න ගත්තම කියන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනි</author>
+            <date>2012-07-03 12:59:21</date>
+            <index>1</index>
+            <phrase>අනේ ඔව් අලි ජේමිස් මෙයාල කියන්නේ ඔයා වගේ අනාවැකි තමයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆසාල්</author>
+            <date>2012-07-03 13:40:43</date>
+            <index>2</index>
+            <phrase>මෙගොල්ල කවද්ද හරියට අනාවැකියක් දුන්නෙ?? හැමදාම බොරැවනෙ ගෙනියන්නෙ..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-07-03 13:14:29</date>
+            <index>3</index>
+            <phrase>වහින්න කලින් මෙයාල නා ගන්නවා ..... මෙයාල නියග කිව්වොත් වහිනවා ... වහිනවා කිව්වොත් නියග ..... මේක මොකටද ලංකාවට ...නිකම් සල්ලි ගිලින සුදු අලියෙක් ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-03 13:50:53</date>
+            <index>4</index>
+            <phrase>දැන්ම කියන්න බැරිනම් මොකටද කාල ගුණ විද්‍යා දෙපාර්තමේන්තුවක්..? සියල්ල සිදුවුණාට පස්සේ අපිටත් කියන්න පුළුවං... මොකද උනේ කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-07-03 14:50:24</date>
+            <index>5</index>
+            <phrase>මෙයාල නිකං කනාවට කියන්නෙ.. වහින එක දන්නෙ උඩ ඉන්න දෙවියෝ පමණයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-03 14:19:43</date>
+            <index>6</index>
+            <phrase>නියන් ආධාර ගන්න ගියාම නියවාගෙන ඉන්න එපා. හිනා වෙලා ඉන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් අල්ගෙවත්ත</author>
+            <date>2012-07-03 14:58:58</date>
+            <index>7</index>
+            <phrase>මක්කැයි මෙයා දොඩන්නේ හැම අතින්ම ආහ්චර්ය දක්වා යන කාලයක නියගයක් ඉතින් හොදයි නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-07-03 15:38:28</date>
+            <index>8</index>
+            <phrase>ඔයිට හොදයි අපේ සීයාගෙන් ඇහුවනම් උණදේ කියයි අගේට. ඕවා මොනවත් නවීන තාක්ෂණය නැතුව වෙන්නේ නෑ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-07-03 16:36:16</date>
+            <index>9</index>
+            <phrase>මුන්නැහෙල දන්න දේවල් තමයි.. වැඩිය ගනන් ගන්න එපා.. වෙලාවට වහිවී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්-saudi arabia</author>
+            <date>2012-07-03 23:17:51</date>
+            <index>10</index>
+            <phrase>අද වැස්සොත් අපිටත් කියන්න පුලුවන් හෙටත් ටිකක් වහී කියලා.හුලගක් ආවොත් හෙටත් ටිකක් එනවා තමයි.නැත්නම් කොහේ හරි තියෙන බොක්කක් අල්ල ගෙන මොනවා හරි කියනවා.අනේ මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

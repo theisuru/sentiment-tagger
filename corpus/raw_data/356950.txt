@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>356950</articleId>
+    <title>යාල යන්න නව සෆාරි සේවයක්</title>
+    <author>කේ ඩි දේවපි‍්‍රය</author>
+    <date>2015 ඔක්තෝබර් මස 28 11:17:40</date>
+    <body>කතරගම ප‍්‍රදේශයේ ජිප් රථ හිමියන් එක්ව නව සෆාරි ජිප් රථ සංගමයක් පිහිටුවා තිබේ.
+කතරගමට පැමිණෙන  සංචාරකයින්ට අඩු  දුරකින් කටගමුව ඔස්සේ යාල සිරි නැරඹිමට ඉඩ අවස්ථාව උදාකර දෙමින් සේවාවක් ඉටු කිරීමට ජිප් රථ හිමියන් 85 දෙනකුගේ සහභාගිත්වයෙන් කදිරපුර සෆාරි ජිප් රථ සංගමය පිහිට වු බව එහි සභාපති ඒ බී දමිත් නිස්සංක මහතා කියයි.
+අඩු මුදලකට කෙටි දුරකින් යාලට සංචාරකයින් රැගෙන ගොස් වන සතුන් පෙන්වීම පිණිස වැඩි කාලයක් සංචාරකයින්ට ලබාදීමටත් පරිසරයට හා වන සතුන්ට අවහිරයකින් තොරව සංචාරකයන්ට යාල නැරඹිමට ඉඩ අවස්ථාව සලසන බවත් එහි ලේකම් වසන්ත සුරනිමල මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>තරංග</author>
+            <date>2015-10-28 06:45:38</date>
+            <index>0</index>
+            <phrase>ප්‍රමිතියක් ඇතුව නිසි කළමනාකාරිත්වයකින් මේ කාර්යය කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතාන</author>
+            <date>2015-10-28 06:54:47</date>
+            <index>1</index>
+            <phrase>නියමයි. සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැටිපහන</author>
+            <date>2015-10-28 06:57:30</date>
+            <index>2</index>
+            <phrase>මට නම් මෙයාලව එතරම් විශ්වාස නැහැ. කෙටි දුරකින් යනවා කියන්නේ...? පුද්ගලික බස් වගේ සේවයක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2015-10-28 07:03:03</date>
+            <index>3</index>
+            <phrase>මෙහෙම අළුත් දේවල් බිහිවෙන එක ගැන සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසරත්න</author>
+            <date>2015-10-28 07:03:07</date>
+            <index>4</index>
+            <phrase>සර්වප්‍රකාරයෙන්ම සාර්ථක වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටුෂාන්</author>
+            <date>2015-10-28 07:30:49</date>
+            <index>5</index>
+            <phrase>ඉදිරියටම යන්න වාසනා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2015-10-28 07:28:38</date>
+            <index>6</index>
+            <phrase>සංගමය නම් මොකක් වුණත් කමක් නැහැ, හැබැයි පුද්ගලික බස් සංගමය වගේ නම් වෙන්න එපා පහුවෙනකොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලෙක්ස්</author>
+            <date>2015-10-28 07:29:37</date>
+            <index>7</index>
+            <phrase>මෙවන් නව දැක්මක් ඇති මිනිසුන් තමයි රටට අවශ්‍ය වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උඩකුඹුර</author>
+            <date>2015-10-28 07:30:17</date>
+            <index>8</index>
+            <phrase>සතුන්ට කරදරයක් නොවන පරිදි මෙම කටයුත්ත කරගෙන යන්න සිතට ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුල්මිණී</author>
+            <date>2015-10-28 07:30:23</date>
+            <index>9</index>
+            <phrase>අළුත් වැඩක්... සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2015-10-28 07:31:22</date>
+            <index>10</index>
+            <phrase>සංගමේ කොහොම උනත් කමක් නැහැ සභාපති කමට නරක කෙනෙක් දාගන්න එපා. පුත්ගලික බස් සංගමේ වගේ වෙයි ඕකත් පහුවෙන කොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-10-28 07:55:38</date>
+            <index>11</index>
+            <phrase>වැඩේ නම් හොදයි, හැබැයි සතුන්ට වගේම නරඹන්න එන මිනිසුන්ටත් හානියක් වෙන්නේ නැත්තම්. මේවා වනරක්ෂණ දෙපාර්තමේන්තු යටතේ ලියාපංචි වුනානම් තවත් හොදයි. එතකොට ප්‍රමිතියක් තියෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2015-10-28 07:58:26</date>
+            <index>12</index>
+            <phrase>අඩු මුදලට කිව්වට ගාන කියියක් විතර අඩුද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2015-10-28 07:56:20</date>
+            <index>13</index>
+            <phrase>සංචාරකයන්ට හොද අවස්ථාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හංසි</author>
+            <date>2015-10-28 07:56:20</date>
+            <index>14</index>
+            <phrase>හරි ෂෝක් දැන් කතරගම ගිහින් යාලත් ලේසියෙන්ම යන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාරංග</author>
+            <date>2015-10-28 07:58:49</date>
+            <index>15</index>
+            <phrase>මේ අයට නිළ ඇදුමක් දුන්නොත් නරකද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2015-10-28 07:58:49</date>
+            <index>16</index>
+            <phrase>තරංගගේ කතාවට මාත් එකගයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2015-10-28 07:58:59</date>
+            <index>17</index>
+            <phrase>අපිත් ළගකදී යාල ගියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැලුම්</author>
+            <date>2015-10-28 07:58:59</date>
+            <index>18</index>
+            <phrase>වැඩේ නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරිමල්</author>
+            <date>2015-10-28 07:56:31</date>
+            <index>19</index>
+            <phrase>පරණ සංගම් තරහ වෙයිද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණා</author>
+            <date>2015-10-28 07:58:59</date>
+            <index>20</index>
+            <phrase>සංගමේ අලුත් උනාට යොදාගන්නා රථ අළුත් ඒවාද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2015-10-28 07:58:59</date>
+            <index>21</index>
+            <phrase>ඔබේ කටයුතු සාර්ථක වේවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2015-10-28 07:59:00</date>
+            <index>22</index>
+            <phrase>අපි නිතරම අලුත් දේවල් අත්හදා බලන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-10-28 08:00:18</date>
+            <index>23</index>
+            <phrase>හොද සේවාවක් ලබා දෙයි කියා විස්වාස කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2015-10-28 08:00:18</date>
+            <index>24</index>
+            <phrase>පරණ ගාස්තුමද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2015-10-28 07:57:50</date>
+            <index>25</index>
+            <phrase>හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-10-28 08:00:19</date>
+            <index>26</index>
+            <phrase>වැඩේ නම් හොදයි, හැබැයි සතුන්ට වගේම නරබන්න එන මිනිසුන්ටත් හානියක් වෙන්නේ නැත්තම්. මේවා වනරක්ෂණ දෙපාර්තමේන්තු යටතේ ලියාපංචි උනානම් තවත් හොදයි. එතකොට ප්‍රමිතියක් තියෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2015-10-28 08:09:18</date>
+            <index>27</index>
+            <phrase>මේ ජීප් බොහොමයකට ෆොර් වීල් ඩ්‍රයිව් පද්ධති නැහැ. එහෙම වුනාම යාල කැලේ සමහර ඇතුළු පාරවල් වල ගෙනියන්නේ නැහැ. මේවග හුඟක් අය දන්නේ නැති කරුණක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණතිලක</author>
+            <date>2015-10-28 08:07:13</date>
+            <index>28</index>
+            <phrase>තරුණ ඔබට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2015-10-28 08:07:15</date>
+            <index>29</index>
+            <phrase>මේ ජීප් බොහොමයකට "ෆෝ වීල්" ඩ්‍රයිව් පද්ධති නැහැ. එහෙම වුණොත් යාල කැලේ සමහර ඇතුළු පාරවල ගෙනයන්නේ නැතිවෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2015-10-28 10:19:39</date>
+            <index>30</index>
+            <phrase>සංචාරකයන්ගේ ආරක්ෂාව ගැන වැඩියෙන් හිතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංකා</author>
+            <date>2015-10-28 10:22:07</date>
+            <index>31</index>
+            <phrase>පරිසරයට හානි නොවන ලෙස කටයුතු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2015-10-28 10:22:18</date>
+            <index>32</index>
+            <phrase>ඔබට සුබ පැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2015-10-28 10:22:22</date>
+            <index>33</index>
+            <phrase>සංචාරකයන්ව රවට්ටන්නේ නැතිව අවංකව කරගෙන යන්න. රටේ නම ආරක්ෂා කරන්න හිතට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2015-10-28 10:22:26</date>
+            <index>34</index>
+            <phrase>හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2015-10-28 10:22:33</date>
+            <index>35</index>
+            <phrase>සංචාරකයන්ව රවට්ටන්නේ නැතිව අවංකව කරගෙන යන්න. රටේ නම ආරක්ෂා කරන්න හිතට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරවීර - බෙන්තොට</author>
+            <date>2015-10-29 02:30:38</date>
+            <index>36</index>
+            <phrase>බුද්ධිමත්ව වැඩ කරන්න. වනය විනාශ නොකර, දේශීය විදේශීය සංචාරකයන්ගෙන් අසාධාරණව මුදල් නොගෙන හොඳින් මෙම කටයුත්ත කරන්න. සුබ පැතුම් බෙන්තොට අපෙන්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරවීර - බෙන්තොට</author>
+            <date>2015-10-29 02:33:46</date>
+            <index>37</index>
+            <phrase>අනෙක් කට්ටියත් එක්කත් සහයෝගයෙන් බුද්ධිමත්ව වැඩකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2015-10-29 02:31:44</date>
+            <index>38</index>
+            <phrase>සේවයේ ගුණාත්මකබව තමයි ගොඩක් වැදගත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමාෂි</author>
+            <date>2015-10-29 02:32:01</date>
+            <index>39</index>
+            <phrase>සාර්ථක වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2015-10-29 02:38:06</date>
+            <index>40</index>
+            <phrase>ඉතාම හොඳ අදහසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2015-10-29 03:46:37</date>
+            <index>41</index>
+            <phrase>හොඳ වැඩක්. නිල ඇඳුමක් එහෙම දීලා පිළිවෙලට කරගෙන යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2015-10-29 04:09:42</date>
+            <index>42</index>
+            <phrase>අනෙක් අය සමඟිනුත් සහයෝගයෙන් වැඩ කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2015-10-29 05:27:49</date>
+            <index>43</index>
+            <phrase>මේ අය හිතු හිතු ගණන් අය කරන්නේ. මේවායේ වෘත්තියමය බාවය ඇති කරන්න . එතකොට තමයි මිනිස්සුන්ට විහ්වාසයක් ඇතිවෙන්නේ. රජයමගින් මිටර් සවිකරල යන දුර පමානයට හා කාලයට මුදල් අය කරන ක්‍ර‍මක් ඇති කරන්න වෙනවා. ඒ වගේම ගතවන කාලයටත් මුදල් අයකල හැකියි. රක්සන යක් තිබිය යුතුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමා</author>
+            <date>2015-10-29 06:48:22</date>
+            <index>44</index>
+            <phrase>අඩු මුදලක් කියනවට වඩා ගොඩක් හොදයි ගණන් ප්‍රකාශ කළා නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2015-10-29 08:49:32</date>
+            <index>45</index>
+            <phrase>අඩු කිව්වට, ඔය ගණන් මිමි ගැන අපි නොදන්නවාද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2015-10-29 13:47:48</date>
+            <index>46</index>
+            <phrase>වැඩේ නම් හරිම වටිනවා. හැබැයි මිනිස්සු ගසාකන්න නම් එපා. සල්ලි සාධාරණව හම්බ කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2015-10-29 13:46:14</date>
+            <index>47</index>
+            <phrase>වැඩේ නම් හරිම වටිනවා. හැබැයි මිනිස්සු ගසා කන්න නම් එපා. සල්ලි සාධාරණව හම්බ කරන්න. චාටර් පොරවල් ගාව ගන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2015-10-30 05:15:37</date>
+            <index>48</index>
+            <phrase>හදවතින්ම සුබ පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2015-10-30 05:15:59</date>
+            <index>49</index>
+            <phrase>බොහොම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2015-10-31 00:22:07</date>
+            <index>50</index>
+            <phrase>යාල කැලේ මොනරු, මීහරක් සහ අලි වැනි සතුන් දැන් දැකගත හැක්කේ කලාතුරකිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2015-11-01 02:51:06</date>
+            <index>51</index>
+            <phrase>අපේ සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2015-11-01 02:51:55</date>
+            <index>52</index>
+            <phrase>සංගම් හැදෙන්නේ නම් ඉතින් අපිට ආදරේට නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2015-11-01 05:48:12</date>
+            <index>53</index>
+            <phrase>විශේෂයෙන් දේශීය සංචාරකයන්ට අවස්ථාවක් ලබා දුන්නොත් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2015-11-03 06:11:59</date>
+            <index>54</index>
+            <phrase>සියලුම දෙනාට එක ප්‍රතිපත්තියක් අනුගමනය කර සාදාරන මිලකට ගාස්තු අය කර පවත්වාගෙන යන්නේනම් වැඩේ නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2015-11-03 06:15:03</date>
+            <index>55</index>
+            <phrase>සියලුම දෙනාටම එක ප්‍රතිපත්තියක් අනුගමනය කර සාධාරණ මිලකට ගාස්තු අයකර පවත්වාගෙන යන්නේ නම් වැඩේ නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2015-11-05 17:06:44</date>
+            <index>56</index>
+            <phrase>මොනදේ කළත් කමක් නැහැ පරිසරය ගැනත් හිතලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2015-11-06 09:33:37</date>
+            <index>57</index>
+            <phrase>ශ්‍රී ලංකාවේ රට ඇතුලේ තියෙන සංචාරක සේවා සැපයීමෙන් ඒ ගමවල් වල ඉන්න සාමාන්‍ය ජනතාවට අදායමක් එන විදියේ දෙයක් මේ සංගම් නිසා වෙනවානම් හොඳයි. නැත්නම් කොළඹ මුලික වෙච්ච බහුජාතික සමාගම් අතර විතරයි සංචාරක ක්ෂේත්‍රයේ ආදායම් ගැවසෙන්නේ... ඒ වගේම මේ වගේ ප්‍රාදේශීය සේවා සපයන්නන්න්ගේ සේවාවේ දී ගුණාත්මක භාවය ප්‍රමිතිය වගේම වෘත්තියමය සුහදශීලී සංයමයක් සහිත සේවයක් සංචාරකයන්ට ලැබෙන විදියේ මනා විද්‍යාත්මක පුහුණුවක් නම් මේ අයට ලැබෙන්නේ ඕනේ.. එක දෙන්න පුළුවන් සංචාරක මණ්ඩලයට තමයි... හැබැයි ඔක්කොටොම ඉස්සෙ උන් මහපොළවේ පයගහල ඉන්න ඕනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2015-11-06 11:16:40</date>
+            <index>58</index>
+            <phrase>ශ්‍රී ලංකාවේ රට ඇතුළත තිබෙන සංචාරක සේවා සැපයීමෙන් ඒ ගම්වල ඉන්න සාමාන්‍ය ජනතාවට ආදායමක් එන විදියේ දෙයක් මේ සංගම් නිසා වෙනවා නම් හොඳයි. නැත්නම් කොළඹ මුලික වූ බහුජාතික සමාගම් අතර විතරයි සංචාරක ක්ෂේත්‍රයේ ආදායම ගැවසෙන්නේ. ඒ වගේම මේ වගේ ප්‍රාදේශීය සේවා සපයන්නන්ගේ සේවාවේදී ගුණාත්මකභාවය ප්‍රමිතිය වගේම වෘත්තියමය සුහදශීලී සංයමයක් සහිත සේවයක් සංචාරකයන්ට ලැබෙන විදියේ පුහුණුවක් නම් මේ අයට ලැබෙන්නේ ඕනෑ. ඒක දෙන්න පුළුවන් සංචාරක මණ්ඩලයට තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

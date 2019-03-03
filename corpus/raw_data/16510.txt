@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16510</articleId>
+    <title>වදේ දුන් තිදෙනෙක් හඳුනා ගැනෙති</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2011 දෙසැම්බර් මස 08 18:10:39</date>
+    <body>පේරාදෙණිය විශ්ව විද්‍යාලයයේ ශාස්ත්‍රපීඨ  සිසුවකුට නවකවදය දුන් බව කියන සිසුන් තිදෙනකු හඳුනාගෙන ඇති බව මධ්‍යම දිසාව බාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  එස්.එන්.බී. අඹන්වල මහතා පැවැසීය. සිසුන් කීප දෙනකු පිළිබඳව ද තොරතුරු  ලැබී ඇති බවටත් විශේෂ කණ්ඩායමක් පත් කැර ඇති බවටත් බෙලිඅත්තෙන් ගිය එම සිසුවට ලිංගික අතවර ද කැර ඇති බවටත් සාක්කි ඇතැයි ද නියෝජ්‍ය පොලිස්පති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2011-12-08 21:31:37</date>
+            <index>0</index>
+            <phrase>අපේ රටේ අධ්‍යාපනයේ අගය දන් නැති අයට දඩුවම් දිය යුතුමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදරුවන් අමිල</author>
+            <date>2011-12-08 22:14:43</date>
+            <index>1</index>
+            <phrase>අනුන්ට හින්සා කර සතුටක් ලබන්නන්ට දැඩි දඩුවම් දිය යුතුයි. ඔවුන්ට මානව දයාව කියා දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2011-12-09 02:08:41</date>
+            <index>2</index>
+            <phrase>ලංකාවෙ කැම්පස්වල නිකන් උගන්වන්න හොද නෑ. සල්ලි ගන්න ඕනි. එතකොට ඕව කවුරුත් කරන්නෙ නෑ. නිකන් දෙනකොට අගයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2011-12-09 03:03:57</date>
+            <index>3</index>
+            <phrase>මේ අය කැම්පස් වලින් තුරන් කළොත් ඔබේ නම ඉතිහාසයේ රන් අකුරින් ලියවෙයි මහත්තයෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙමිල් ෆනෑන්ඩු</author>
+            <date>2011-12-09 03:52:23</date>
+            <index>4</index>
+            <phrase>ඔය නවක වද ලෙඩ තියන අයට ගෙදර යන්ඩ පාර පෙන්නල, ඉගෙන ගන්න උවමනා අයට විශ්ව විද්‍යාල අරින්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධුරංග</author>
+            <date>2011-12-09 09:22:49</date>
+            <index>5</index>
+            <phrase>විශ්වව්ද්‍යාල පද්ධතිය ආරක්ෂා කරගන්න,ඕව‍ට නිසි දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2011-12-09 09:45:51</date>
+            <index>6</index>
+            <phrase>මෙයාලට දෙන්න ඕන උපාධි නෙමෙයි, රජකාලේ දඩුවම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2011-12-09 12:56:24</date>
+            <index>7</index>
+            <phrase>කොච්චර නවත්වන්න හැදුවත් තවම නවක වදය නවත්වන් බැරිවුණානේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2011-12-09 13:02:37</date>
+            <index>8</index>
+            <phrase>කැම්පස්වල රැග් තියෙන්න ඕන. ඒත් ඒකෙ සීමාවක් තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලන කුමාරසිරි</author>
+            <date>2011-12-09 14:10:19</date>
+            <index>9</index>
+            <phrase>නවකවදය දෙන අය මානසික රෝහලට යවන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

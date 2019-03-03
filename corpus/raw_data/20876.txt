@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20876</articleId>
+    <title>පහර දුන් අය දන්නවා</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 ජනවාරි මස 07 17:22:57</date>
+    <body>ජපුර සරසවි සත්‍යග්‍රහයේ යෙදී සිටි සිසුන් තිදෙනෙකුට පහර දුන්නේ විශ්වවිද්‍යාල ආරක්ෂක අංශයේ පිරිසක් යැයි තමන් හඳුනා ගෙන ඇතැයි ජයවර්ධනපුර සරසවියේ මහා ශිෂ්‍ය සංගමයේ සාමාජික කිඹුල්ලෑවේ චන්ද්‍රානන්ද හිමියෝ සහ අන්තර් විශ්වවිද්‍යාල ශිෂ්‍ය බල මණ්ඩලයේ කැඳවුම්කරු සංජීව බණ්ඩාර කීහ.
+පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහන මහතා පැවැසුවේ මෙම සිද්ධිය ගැන පොලීසියට පැමිණිල්ලක් ලැබී ඇති බවත්, එක් අයෙකුගෙන් ප්‍රකාශ සටහන් කරගෙන පරීක්ෂණ කටයුතු ඉදිරියට කරගෙන යන බවත්ය.</body>
+    <comments>
+        <comment>
+            <author>සුදීරා</author>
+            <date>2012-01-07 19:05:58</date>
+            <index>0</index>
+            <phrase>නිදහස් අධ්‍යාපනයෙන් හැමදේම කරගෙන දැන එක එක අයට කඩේ යනවා. මේ කාලය වෙන වැදගත් වැඩකට යොමු කරා නම් හොද නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-01-07 22:29:29</date>
+            <index>1</index>
+            <phrase>මෙගොල්ලෝ කටවත් නෙමේ කඩේ යන්නෙ ඔබලා‍ගෙම දරුවන්ගේ ෙ අනාගතේ වෙනුවෙන්...බොරුවට කෑගහන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-01-07 23:44:01</date>
+            <index>2</index>
+            <phrase>ලංකාවේ සියලුම විශ්ව විද්‍යාල පුද්ගලීකරණය කරල ගෙවල ඉගෙන ගන්න ක්‍රමයක් කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Chanaka</author>
+            <date>2012-01-08 01:32:30</date>
+            <index>3</index>
+            <phrase>අපේ දරුවන්ගේ අනාගතය වෙනුවෙන් කරන්න පුළුවන් ලොකුම දේ තමා අදාල කාලය ඇතුලත උපධිය ඉවර කරගන්න එක. ඔය කඩේ යාමෙන් වෙන්නෙ අපේ රටේ මල්වැනි ආනාගත පරපුර කාලකන්නි කරන එක. ඔව කරන අයත් කාලකන්නි වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සල්ලිකාරමෝඩයා</author>
+            <date>2012-01-08 01:41:24</date>
+            <index>4</index>
+            <phrase>එක හොඳයි, එතොකොට ගමේ ඉන්න දුප්පත් අයගේ දරුවන් අපේ ගෙදර වත්තේ පිටියේ වැඩට ගන්න පුළුවන්. නාඹර ගැටිස්සියෝ ගැන මට බලාගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-01-08 08:36:07</date>
+            <index>5</index>
+            <phrase>ඔව් කුමාර නුඹට රජයෙ විශ්ව විද්ද්යාලකට යන්න බැරිවිච්ච එක ගැන මට කනගාටුයි. ඒක නිසා ලංකාවෙ දුප්පත් දරුවන්ට තියන නිදහස් අධ්‍යාපන අයිතිය විනාශ කරන කුහකයෙක් වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2012-01-09 10:44:18</date>
+            <index>6</index>
+            <phrase>මේක හරි පුදුමයක්නේ. මේක ඇත්තටම කඩේ යෑමක්ද ? කොහොමද මේ කැම්පස් ළමයි විතරක් කඩේ යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

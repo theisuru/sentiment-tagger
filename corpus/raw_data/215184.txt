@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>215184</articleId>
+    <title>සුරාබදු වෙඩි තැබීම් දෙකම එකම පිරිසකගේ වැඩක්?</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 මාර්තු මස 06 09:10:19</date>
+    <body>සුරාබදු කොමසාරිස් ජනරාල්ගේ නිවසටත් සුරාබදු විශේෂ විමර්ශන ඒකකයේ ස්ථානාධිපතිගේ නිවසටත් පැයක් ඇතුලතදි වෙඩි ප්‍රහාර එල්ල වී ඇති බවත් එකම වර්ගයේ උණ්ඩ මේ සඳහා යොදාගෙන ඇති බවත් මුලික පරීක්ෂන වලින් අනාවරණය වී ඇති බව පොලීසිය කියයි.
+සුරාබදු අධ්‍යක්ෂක ජනරාල්වරයාගේ නිවසට වෙඩි තබා ඇත්තේ අළුයම 2.45 ට පමණය. මේ දෙකටම එකම කණ්ඩායමක් හවුල් වන්නට ඇතැයි පොලීසිය සැක කරයි.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>චන්දන</author>
+            <date>2014-03-06 09:22:20</date>
+            <index>0</index>
+            <phrase>එතනෝල් ගෙනාපු කට්ටියද දන්නේ නැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-03-06 09:31:36</date>
+            <index>1</index>
+            <phrase>ඕක තමයි ප්‍රශ්නේ කොන්ද කෙලින් තියාගෙන වැඩ කරන නිළධාරින්ට මරණ තර්ජන , මේවා කවදා නවතීද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2014-03-06 11:14:02</date>
+            <index>2</index>
+            <phrase>කාගේ වැඩ ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-03-06 11:31:22</date>
+            <index>3</index>
+            <phrase>මේකත් කවදාවත් අල්ල ගන්න බැරි අපරාධ ගොඩට එකතු වෙනවා. මර්වින් ගේ පුතාට ගහපු එක , වෛද්‍ය නොවෙන රාජකීය වෙදාට වෙඩි තැබීම ආදියත් කවදාවත් අල්ලා නොගන්නා ඒවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්කි</author>
+            <date>2014-03-06 11:48:18</date>
+            <index>4</index>
+            <phrase>රටේ නීතිය ක්‍රියාත්මක කරන්න ඉන්න අයටත් කරන්නේ මෙහෙම නම් අනිත් අය ගැන කතා කරන්න දෙයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂාන්</author>
+            <date>2014-03-06 12:57:27</date>
+            <index>5</index>
+            <phrase>මතට තිත ද ? තිතට මතද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2014-03-06 14:22:35</date>
+            <index>6</index>
+            <phrase>'වැටත් නියරත් ගොයම් කා නම් කාට පවසම් ඒ අමාරුව' යනුවෙන් අපේ පැරණි කියමක් තිබේ. අප සමාජයට චෝදනා පිට චෝදනා, විවේචන පිට විවේචන එල්ල වෙන්නේ දේශපාලඥයන්ගේ නොපහන් ක්‍රියාකරන නිසාය. සමාජයට දෙනු ලබන වැරදි ආදර්ශ නිසාය. වැරදි ක්‍රම මගින් මුදල් සෙවීමට උත්සාහ කිරීම එයට හේතු වී තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-03-06 21:55:53</date>
+            <index>7</index>
+            <phrase>ඇත්තටම හොයාගන්න බැරුවද? එහෙම නැත්නම් හොයාගන්න බැරුවා වගේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

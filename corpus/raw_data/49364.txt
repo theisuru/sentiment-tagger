@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49364</articleId>
+    <title>ඇඟළුම් බසය පෙරැළී තිස් දෙකක් රෝහලේ</title>
+    <author>නෝර්වුඞ් රංජිත් රාජපක්ෂ</author>
+    <date>2012 ජූනි මස 21 21:45:26</date>
+    <body>කොළඹ හැටන් පාරේ කඩවලදී ඇඟළුම් සේවකයන් රැගත් පෞද්ගලික බසයක් අඩි තිහක ප‍්‍රපාතයකට පෙරැලී එහි සිටි තිස් දෙදෙනකු තුවාල ලබා ගිනිගත්හේන . සහ නාවලපිටිය රෝහල්වලට ඇතුළු කළ බව ගිනිගත්හේන පොලිසිය කියයි. ඉන් 26 ක් කාන්තාවෝයි.</body>
+    <comments>
+        <comment>
+            <author>දොම්පෙ මල්ලි</author>
+            <date>2012-06-21 22:48:42</date>
+            <index>0</index>
+            <phrase>අනේ පව් ඉක්මන් සුවය ප්‍රාර්ථනා කරනවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩි රාල</author>
+            <date>2012-06-22 00:22:29</date>
+            <index>1</index>
+            <phrase>සැමට බුදු සරනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-22 00:36:23</date>
+            <index>2</index>
+            <phrase>කාගේත් ජීවිත බේරීම භාගයක් ,ඉක්මන් සුවය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-06-22 00:18:54</date>
+            <index>3</index>
+            <phrase>බස් එක දැකපුවහම ජීවිත බෙරිච්ච එක ආශ්චර්යයක් සැමට ඉක්මන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-06-22 01:42:28</date>
+            <index>4</index>
+            <phrase>කදු කරය නිසා පාරවල් ගොඩක් පටුයි පල්ලම් වැඩි . අනතුරුත් වැඩියි . මම පතනවා කාටවත් ජීවිත හානියක් නොවේවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-06-22 01:31:53</date>
+            <index>5</index>
+            <phrase>රියදුරු මහත්තයා තව ටිකක ප්‍රවේශමෙන් කල්පනාවෙන් පැදෙව්වනම් හොදා නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-06-22 05:46:06</date>
+            <index>6</index>
+            <phrase>සැමටම ඉක්මන් සුවය ප්‍රාර්ථනා කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-22 08:15:05</date>
+            <index>7</index>
+            <phrase>දුප්පතුන්ට තමයි හැම හෙන ගෙඩියක්ම.හොරුන්ට තක්කඩින්ට මොන හෙණයක්වත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-06-22 08:33:49</date>
+            <index>8</index>
+            <phrase>බස් එක දැක්කම පිස්සු හැදෙනවනේ.කොහොමද 30 දෙනෙක් එළියට ගත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-06-22 09:33:00</date>
+            <index>9</index>
+            <phrase>දුප්පත් කමත් වලිගය වැනි ගොනා වැනී......( අසරණ ළමයින්ට ඉක්මන් සුවය පතමි )</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනා කෑගල්ල</author>
+            <date>2012-06-22 08:56:49</date>
+            <index>10</index>
+            <phrase>සැමට ඉක්මන් සුවය ලැෙබ්වා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාපා</author>
+            <date>2012-06-22 09:25:34</date>
+            <index>11</index>
+            <phrase>ඔබ සැමට ඉක්මන් සුවය ප්‍රාර්ථනා කරනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසින්ත</author>
+            <date>2012-06-22 09:29:07</date>
+            <index>12</index>
+            <phrase>ඔබ සැමට ඉක්මන් සුවය පතමි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ds</author>
+            <date>2012-06-22 10:41:51</date>
+            <index>13</index>
+            <phrase>කාටවත් ගින්දර දෙන්නේ නැතුව අහිංසකව රටට ලොකු වැඩක් කරන මිනිසුන්... ඉක්මන් සුව ලැබේවා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-06-22 10:48:05</date>
+            <index>14</index>
+            <phrase>ඉක්මන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වානක</author>
+            <date>2012-06-22 11:18:37</date>
+            <index>15</index>
+            <phrase>සුව ලැ‍බෙවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-22 12:04:48</date>
+            <index>16</index>
+            <phrase>පවු නංගිලා ටික.ඉක්මන් සුව පතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමීන්</author>
+            <date>2012-06-22 11:36:47</date>
+            <index>17</index>
+            <phrase>අනේ පවු,අහිංසක ළමයි.ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-06-22 12:55:59</date>
+            <index>18</index>
+            <phrase>දැන් ඇඟළුම් සේවකයන්ට ප්‍රවාහන පහසුකම් දෙන්නේ අඩු වියදමකින්.ඒ නිසා බස් රථ වල තත්වය ගැන සැලකීමක් නෑ.ඒකයි ප්‍රධාන හේතුව....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිවර්ධන</author>
+            <date>2012-06-22 15:30:14</date>
+            <index>19</index>
+            <phrase>කිරිමාටියෝ, නංගිලා විතරක් නෙමෙයි බොල මෙතන අයියලා,මල්ලිලාත් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2012-06-22 15:44:34</date>
+            <index>20</index>
+            <phrase>බුදු සරණීන් ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැලිබන් textiles</author>
+            <date>2012-06-22 21:47:50</date>
+            <index>21</index>
+            <phrase>සියලු දෙනාගේ අදහස් වලට අපගේ ස්තුතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්</author>
+            <date>2012-06-23 21:59:58</date>
+            <index>22</index>
+            <phrase>මම කිව්වා මේ දවස්වල බස්වලට අපලයි කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2012-06-26 16:40:16</date>
+            <index>23</index>
+            <phrase>ඉක්මන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

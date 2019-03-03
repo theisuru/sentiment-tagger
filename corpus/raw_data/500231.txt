@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500231</articleId>
+    <title>‘විමල් හිරේ ගියේ පවුලේ අයට යුතුකම් ඉෂ්ට කරලා‘</title>
+    <author>නයනදුල සෙන්දනායක</author>
+    <date>2017 ජනවාරි මස 22 16:03:56</date>
+    <body>‘විමල් වීරවංශ ඇත්තටම හිරේ ගියේ යුතුකම් ඉෂ්ට කරලා. හැබැයි පොඩි අවුලක් තිබෙනවා. එයා යුතුකම් ඉෂ්ට කරලා තියෙන්නේ  තමන්ගේ පවුලට බිරිඳගේ පවුලට සහෝදරයින්ට හා යහළුවන්ටයි‘​ යැයි විදුලිබලහා පුනර්ජනනීය නියෝජය අමාත්‍ය අජිත් පි පෙරේරා මහතා පවසයි. ජාතික අධ්‍යාපන සේවක සංගමයේ බණ්ඩාරගම ශාඛාව පිහිටුවීමේ අවස්ථාවට සහභාගි වෙමින් නියෝජය අමාත්‍ය අජිත් පි පෙරේරා මහතා එසේ පැවසීය. </body>
+    <comments>
+        <comment>
+            <author>අසංක</author>
+            <date>2017-01-22 10:56:58</date>
+            <index>0</index>
+            <phrase>සහතික ඇත්ත ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේඛාව</author>
+            <date>2017-01-22 11:13:37</date>
+            <index>1</index>
+            <phrase>මොකක්ද මේ කියපු අපබ්‍රන්සේ..? විමල්ගේ පවුල...,එයාගේ බිරිඳ සහ දුව. එතකොට බිරිඳගේ පවුල කියන්නේ..., අර තරුණයත් ඇතුළුවද..? මේ මන් නොදන්නා නිසයි ඇහුවේ ආයිබෝවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2017-01-22 11:17:39</date>
+            <index>2</index>
+            <phrase>විමල් හිරේ ගියේ යුතුකම් ඉටුකරලා. ඔයගොල්ලෝ හිරේ යන්නේ ඉන්නතැන කැත කරලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2017-01-22 11:38:57</date>
+            <index>3</index>
+            <phrase>දැන් ඉන්න අය, නැදෑයිනට සහ යාළුවන්ට කරන්නෙ ම නැහැ වගේ කතා කරන ලස්සන බලන්නකෝ . "මේවා අහල පණ පලයං පෙරේදා " කිව්වලූ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2017-01-22 11:50:22</date>
+            <index>4</index>
+            <phrase>ඇත්ත ඔය කියන හාදය කොහොමත් ජේවීපී එකෙන් අයින්වුනෙම තමන්ගේ අයට කරගන්න තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2017-01-22 13:20:24</date>
+            <index>5</index>
+            <phrase>ජගත්, දැන් ඉන්න අයගේ කෙරුවාවත් දාන්නකෝ අපට දැනගන්නත් එක්ක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-22 13:22:16</date>
+            <index>6</index>
+            <phrase>කවුරු කවුරුත් ගැන අපි දන්නවා මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එන්සිනා</author>
+            <date>2017-01-22 13:31:21</date>
+            <index>7</index>
+            <phrase>අපේ රට බේරාගත් යුද වීරයින් නෑදෑයන්ට දීලා තියෙන්නේ යුද ටැංකිද එතකොට? (නි)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2017-01-22 14:19:36</date>
+            <index>8</index>
+            <phrase>දැන් ඔයාලා කරන්නේ අපිටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සවීන්ද්‍ර</author>
+            <date>2017-01-22 14:24:17</date>
+            <index>9</index>
+            <phrase>වීදුරු ගේ කුඩුවෙන්නම ඇතුළේ ඉඳලා එළියට ගලෙන් ගැහුවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් ලියනගේ</author>
+            <date>2017-01-22 14:35:41</date>
+            <index>10</index>
+            <phrase>දැන් එතකොට විමල් විතරද පවුල් වල අයට සලකල තියෙන්නේ?.. අපොයි අජිත් පෙරේරලා ජනතාවට සලකල තියන විදියට මිනිස්සුන්ට දැන් ප්‍රශ්නත් නෑ. කොස් කොළ, ක්රෝටන් කොළ වගේ ඉහල පැලැන්තියේ කෑමත් දැන් දෙනවනේ. තවත් මොනාද. තණකොලයි පුන්නක්කුයි තියාගන්න පාර්ලිමේන්තුවේ ඉන්න ඔයාලට කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2017-01-22 14:46:28</date>
+            <index>11</index>
+            <phrase>එහෙනම් ඉතින් දැන් ඉන්න සෞඛ්‍ය ඇමැතිගේ...අනේ මොකට කියනවාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2017-01-22 14:52:17</date>
+            <index>12</index>
+            <phrase>කමල් . විමල් කරපු එක යුතුකමක් කියන්න කෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-22 21:01:16</date>
+            <index>13</index>
+            <phrase>අජිත් මහත්තයෝ, කට තියෙන්නේ කුමන කාරණාවටදැයි සිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2017-01-23 00:22:49</date>
+            <index>14</index>
+            <phrase>ජගත්, සහස්පුර නිවාස යෝජනා ක්‍රමය ඔයා දන්නවාද? ඒ නිවසකින් අහන්න ඔවුන් ලයිට් වතුර බිල් ගෙවනවාද කියා. ඒකට හේතුව අසා ඔවුන්ගෙන්ම දැනගන්න. එවිට ඔබට විමල්ගැන හොඳින් වැටහේවි. මේ එකම එක දෙයක් පමණයි. මම වැඩිය විමල්ව වර්ණනා කරන්නේ නැහැ. මොකද ඒක ඔහුට හොඳ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2017-01-23 01:24:22</date>
+            <index>15</index>
+            <phrase>ඔය තවත් සමහරු හම්බ කරන හැටි වෙනත් ආණ්ඩුවක් එනකම්ම අහුවෙන එකක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-01-23 01:58:22</date>
+            <index>16</index>
+            <phrase>පවුලේ අයට අනෙක් අය සළකන හැටි ඒ ඒ අදාළ පැතිවලට ගියාම ඇස්දෙකට පෙනෙන්න තියෙනවා හොඳටම. වීදුරු ගෙවල්වල ඉඳගෙන අනුන්ට ගල් ගහන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2017-01-23 02:15:23</date>
+            <index>17</index>
+            <phrase>බණ්ඩාරගම පැත්තේ සිහිබුද්ධියෙන් ඇවිදිනවිට ඇත්ත තත්ත්වය අපිට හොඳට පෙනෙනවා. බලපෙරේත දේශපාලනය ගැන ඇත්තේ කළකිරීමකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරුමාල්</author>
+            <date>2017-01-23 03:21:10</date>
+            <index>18</index>
+            <phrase>ඒත් තවත් සමහරු නම් කියන්නේ වෙනත් කතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2017-01-23 03:38:46</date>
+            <index>19</index>
+            <phrase>මුලින්ම තමන් ජනතාවට දුන් පොරොන්න්දු වලින් දශම එකක් ඉටුකරලා කතා කරන්නකෝ අනෙක් උදවියගේ වැරදි ගැන. කෝ කියපු යහපාලනය? කෝ අඩු මුදලට දෙනවා කී හොඳ පොහොර? කෝ පාරවල් හැදුවද කලින් මුදලෙන් පහෙන් පංගුවට? දැන් පාරවල් කෙරෙන්නේ කලින් මුදලටත් වඩා වැඩි මිලට නේද. කෝ මහා බැංකු හොරුන්ට විරුද්ධව ක්‍රියාකළාද? ඒ මුදල් ගියේ කාගේ සාක්කු වලටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රියා</author>
+            <date>2017-01-23 03:49:05</date>
+            <index>20</index>
+            <phrase>අපොයි! අනෙක් හැමෝම සුදනන්නේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2017-01-23 03:53:38</date>
+            <index>21</index>
+            <phrase>අනේ මොකටද මගේ කට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2017-01-23 04:49:57</date>
+            <index>22</index>
+            <phrase>විමල් විතරක් නෙමෙයි කවුරු ඔතනට ආවත් කරන්නේ ඔයටිකම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-01-23 05:40:14</date>
+            <index>23</index>
+            <phrase>මොනර පිල් විහිදුවා වගේ පස්ස පැත්ත ඔක්කොම එළියේ. රටේ මිනිස්සු මෝඩ නැහැ. අවස්ථාව එනකල් තමා බලා ඉන්නේ. මතක තියාගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සවන්ත්</author>
+            <date>2017-01-23 05:51:03</date>
+            <index>24</index>
+            <phrase>අජිත් පෙරේරා මහත්තයා තමුන්ගේ පක්ෂය සුද්ධ කරලා ඉන්නකෝ අනුන් ගැන බණ දෙසන්න කලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවික්‍රම</author>
+            <date>2017-01-23 07:14:22</date>
+            <index>25</index>
+            <phrase>අනේ හැබෑටම මෙහෙමත් කතා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2017-01-23 08:07:04</date>
+            <index>26</index>
+            <phrase>ජනතාවට කලින් ආණ්ඩුවේ අය පෙන්වලා, ඉන්න අය කරන්නෙත් එ්කමයි. අපි හිතන්න ඕනෑ තිබෙන මුදල් හොරුන්ගෙන් රැකගැනීම හා දෙවනුව ගිය මුදල් නැවත ලබාගැනීම. අපිට ආණ්ඩුව හැමවිටම පෙන්වන්නේ ගිය මුදල් ගැන පමණයි. නමුත් තවම ඒවා සතයක්වත් ලබාගත්තේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2017-01-23 08:20:44</date>
+            <index>27</index>
+            <phrase>මෙතුමාගේ පක්ෂයේ සමහර නායකයින් නම් යුතුකම් කරන්නේ ඉස්කෝලේ යාලුවන්ටනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාරා</author>
+            <date>2017-01-23 23:39:04</date>
+            <index>28</index>
+            <phrase>සත්‍යපාල තොත්ත බබෙක් වගෙයිනේ කතාකරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2017-01-24 03:09:10</date>
+            <index>29</index>
+            <phrase>කාගෙ කාගේත් කෙරුවාවල් අපි දන්නවා හොඳට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුලතිලක</author>
+            <date>2017-01-24 05:19:02</date>
+            <index>30</index>
+            <phrase>විමල් වගේ මහජන මුදල් අවභාවිත කරපු හොරුන්ට පිරිත් නුල් බදින්න අය වීරයෝ කරලා කෑගහන අය ඉන්න එකම රට ලංකාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

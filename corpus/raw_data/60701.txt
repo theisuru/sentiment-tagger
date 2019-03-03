@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60701</articleId>
+    <title>රට සිගරැට්ටුවට ලක්ෂ තුනක් දඩ</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අගෝස්තු මස 24 16:48:56</date>
+    <body>හොරෙන් ගෙන්වූ රට සිගරැට් 29200ක් ළඟ තබාගත් චීන ජාතික ලී වැන් ෂුංට කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා රුපියල් තුන් ලක්ෂයක දඩ නියම කෙළේය. කොල්ලූපිටිය පුල් මූන් අවන්හලේදී මේ වැටැලීම කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-24 18:18:56</date>
+            <index>0</index>
+            <phrase>පැහැදිලි මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂර්මිලා</author>
+            <date>2012-08-24 21:34:07</date>
+            <index>1</index>
+            <phrase>ඔයගමන් මුළු ලෝකයෙන්ම දුම් පානය ඉවත් කරන්න බැරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-08-24 21:59:06</date>
+            <index>2</index>
+            <phrase>චීන්නු අත්තටම අප රටට ප්‍රශ්නයක් වෙලා තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂණි</author>
+            <date>2012-08-24 22:58:11</date>
+            <index>3</index>
+            <phrase>කපෝති තමයි, රුපියල් 10ක් දඩ ගැහුවා නම් හරිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් මැනිලා</author>
+            <date>2012-08-25 08:48:29</date>
+            <index>4</index>
+            <phrase>චීන ජාතිකයො නෙමෙයි ඉන්දියාවේ මිනිසුන් ලංකාවට ගෙන එන ඒවා නිසා මුළු රටම විනාශ වෙනවා.. ඒ ගැනත් සොයා බලන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-08-25 14:02:07</date>
+            <index>5</index>
+            <phrase>ඉතා හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>11021</articleId>
+    <title>දඹුල්ලේ බටුවැවේ දග කළ හස්තියා...</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 ඔක්තෝබර් මස 29 22:41:30</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>නාරද ලියනගේ</author>
+            <date>2011-10-30 18:18:54</date>
+            <index>0</index>
+            <phrase>අලියට වෙඩි තියන්න කියන මිනිහගේ ඔඵවට ගහන්න ඕන...............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

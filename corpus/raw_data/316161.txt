@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>316161</articleId>
+    <title>වෙරෝනා  දන්සල</title>
+    <author>සජීක ජයසිංහ</author>
+    <date>2015 මැයි මස 12 12:11:56</date>
+    <body>වෙසක් උත්සවය වෙනුවෙන් ඉතාලියේ වෙරෝනා මහා විහාරය සංවිධානය කළ බත් දන්සල ඉරිදා (10) එම විහාර භූමියේදී පැවැත්විණි. ග්‍රීන්වේ වෙරෝනා මාධ්‍ය සම්බන්ධීකරණය දැක්වීය.</body>
+    <comments>
+        <comment>
+            <author>ලක්ෂිත පැරිසිය</author>
+            <date>2015-05-12 17:55:06</date>
+            <index>0</index>
+            <phrase>හරිම ෂෝක්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

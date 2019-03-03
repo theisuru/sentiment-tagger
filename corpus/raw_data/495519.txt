@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495519</articleId>
+    <title>උතුරට වැඩ බලන මහ ඇමැතිවරයෙක්</title>
+    <author>රොමේෂ් මධූෂංඛ</author>
+    <date>2017 ජනවාරි මස 03 14:07:06</date>
+    <body>කෘෂිකර්ම ඇමැති පී.අයින්ගරනේෂන් මහතා අද (03) උතුරු පළාත් වැඩබලන මහ ඇමැති ලෙස ආණ්ඩුකාර රෙජිනෝල්ඩ් කුරේ මහතා ඉදිරියේදී දිවුරුම් දුන්නේය.
+මහ ඇමැති සී.වී.විග්නේශ්වරන් කැනඩාවේ සංචාරයක නිරතවීම ඊට හේතුවයි. මෙවැනි පත්වීමක් මීට පෙර නොතිබූ බව වාර්තාවේ.</body>
+    <comments>
+        <comment>
+            <author>චන්න</author>
+            <date>2017-01-03 15:35:12</date>
+            <index>0</index>
+            <phrase>අන්න එහෙම තමයි ඉන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

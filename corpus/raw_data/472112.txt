@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>472112</articleId>
+    <title>රාජකාරියට ගිය ග්‍රාම නිලධාරියාට ගහලා</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2016 ඔක්තෝබර් මස 24 15:44:07</date>
+    <body>හොර දැව තොගයක් වාහනයකින් බාමින් තිබෙන බවට ලැබුණු තොරතුරක් පිළිබඳ සොයා බැලීමට වසමට ගිය ග්‍රාම නිලධරයකුට එහි සිටි පිරිස පහර දී ගලේවෙල රෝහලට ඇතුලත් කර ඇතැයි පොලිසිය පවසයි.
+මෙසේ පහර කෑමට ලක්ව ඇත්තේ. වයි . එම් . ඩබ්ලිව් . ධර්මවර්ධන බණ්ඩාර (56) මහතාය. ,පහරදුන් බවට සැකපිට පුද්ගලයන් තිදෙනකු අත්අඩංගුවට ගෙන ඉරන ලද විවිධ වර්ගවලට අයත් දැව තොගයක්ද පොලිස් භාරයට ගත් බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සංකපාල</author>
+            <date>2016-10-24 11:33:57</date>
+            <index>0</index>
+            <phrase>මොනවා වුණත් හොඳ කට්ටියක්. ගහලා ඉවරවෙලා ඉස්පිරිතාලෙටත් බාරදීලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් ඒකනායක</author>
+            <date>2016-10-24 11:42:44</date>
+            <index>1</index>
+            <phrase>දැව ව්‍යාපාරිකයෙක් වුණාම පිදියයුත්තන් පුදන්නත් දැනගන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-10-24 12:08:10</date>
+            <index>2</index>
+            <phrase>ඔයින් බේරුනා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂේන්- රියාද්</author>
+            <date>2016-10-24 13:40:33</date>
+            <index>3</index>
+            <phrase>පහරදීලා රෝහලටත් ඇතුළත් කරලා නම් හොඳ යුතුකම් දන්නා පිරිසක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපසේන</author>
+            <date>2016-10-24 15:03:01</date>
+            <index>4</index>
+            <phrase>මේක චණ්ඩින්ටම ගිය රටක්නේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2016-10-24 15:04:12</date>
+            <index>5</index>
+            <phrase>දැන් රටේ අවනීතිය රජවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-24 16:55:38</date>
+            <index>6</index>
+            <phrase>ගුටිකෑම ඔය රැකියාවේ එක කාර්යයක් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

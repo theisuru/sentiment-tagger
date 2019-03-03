@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61476</articleId>
+    <title>සමාගමේ සල්ලි හිටපු මැනේජර්ගේ ගිණුමේ</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අගෝස්තු මස 28 19:51:05</date>
+    <body>සොෆ්ට් ලොජික් පිනෑන්ස් සමාගමේ රාජගිරිය ශාඛාවෙන් වංචා කළැයි කියන රුපියල් ලක්ෂ හතර හමාරක මුදල්  කොටස් වශයෙන් ගෙවීමට එහි හිටපු කලමනාකරු ඩී.ලියනගේ බුද්ධික කොළඹ අතිරේක මහේස්ත්‍රාත් ප්‍රසන්න ද අල්විස් මහතා හමුවේ පොරොන්දු විය. මූලස්ථානයෙන් ගත් මුදල් ශාඛාවේ තැන්පත් කරන බව පවසා ඔහුගේ පෞද්ගලික ගිණුමේ තැන්පත් කැර ඇතැයි ද පොලිසිය අධිකරණයට දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>සංජේ</author>
+            <date>2012-08-28 20:58:35</date>
+            <index>0</index>
+            <phrase>ඇයි දඩුවම් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂර්ෆාස්</author>
+            <date>2012-08-28 22:43:36</date>
+            <index>1</index>
+            <phrase>නියමයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-28 23:05:11</date>
+            <index>2</index>
+            <phrase>අවුරුදු 30 ක් විතර ගෙවිලා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-28 23:08:02</date>
+            <index>3</index>
+            <phrase>වැඩි පරිස්සම ඈලියාවට ගිහින් වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2012-08-29 05:09:27</date>
+            <index>4</index>
+            <phrase>වැඩි පරිස්සමට වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-29 07:21:17</date>
+            <index>5</index>
+            <phrase>සල්ලි නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වන්නි</author>
+            <date>2012-08-29 07:32:20</date>
+            <index>6</index>
+            <phrase>අයියො සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-29 08:21:59</date>
+            <index>7</index>
+            <phrase>ටික ටික ගෙවන්න අරන් තියෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූජි</author>
+            <date>2012-08-29 09:07:16</date>
+            <index>8</index>
+            <phrase>ඔතන තව තව දේවල් උණා..අසරණ මිනිස්සුන්ගේ සල්ලි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

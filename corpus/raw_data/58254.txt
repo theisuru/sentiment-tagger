@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58254</articleId>
+    <title>ඉබ්බන්කටුවේ සැඟවුණු ගල්කණු මතුවේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අගෝස්තු මස 12 11:30:34</date>
+    <body>දඹුල්ලේ ඉබ්බන්කටුව ජලාශය සිඳී යෑමත් සමග ඉපැරණි ගල්කණු, කැඩී ගිය සඳකඩ පහනක්, චෛත්‍යක නටබුන් සහ පැරණි උළු හා ගඩොල් මතුවී ඇත.
+දඹුල්ලේ රජමාලිගයක් හෝ ආගමික ස්ථානයක් තුබූ බව ජනප්‍රවාද කියයි. ඉබ්බන්කටුව ඉපැරණි සුසානයට කිලෝමීටරයක් ඈතින් මේ නටබුන් මතුවී තිබේ.
+
+
+
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2012-08-12 11:37:45</date>
+            <index>0</index>
+            <phrase>ජලාශය හිදිලා මෙහෙම දෙයක් හොයා ගත්තොත් මිස අපේ පුරා විද්‍යා දෙපාර්තමේන්තුවට මෙහෙම දෙයක් කවදා සොයා ගන්න පුලුවන් වේවිද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-12 11:50:37</date>
+            <index>1</index>
+            <phrase>ඔන්න ආශ්චර්යය මතුවෙනවෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමනලයා</author>
+            <date>2012-08-12 12:16:06</date>
+            <index>2</index>
+            <phrase>ආසියාවේ ආශ්චර්ය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිකාන් සිරිතිලක</author>
+            <date>2012-08-12 12:16:37</date>
+            <index>3</index>
+            <phrase>මෙතන නිදන් එහෙම නෑ හරිද . .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂර්ෆාස්</author>
+            <date>2012-08-12 14:04:28</date>
+            <index>4</index>
+            <phrase>මෙතනත් පූජා භූමි ප්‍රදේශයක් කරයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-08-13 00:24:17</date>
+            <index>5</index>
+            <phrase>නිධන් හොරුන්ට නම් කියාපු තැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මතුගම</author>
+            <date>2012-08-13 05:38:16</date>
+            <index>6</index>
+            <phrase>පුරාවිද්‍යා චක්‍රවර්තිතුමා කෝ? දැන් මේවා අයිති වෙන්නේ කාටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-13 08:08:33</date>
+            <index>7</index>
+            <phrase>මේකත් හාරයිද දන්නේ නැහැ. අපේ කට්ටියට මෙහෙම දේවල් පෙන්නන්න බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

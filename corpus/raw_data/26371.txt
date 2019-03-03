@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26371</articleId>
+    <title>බොක්සිං සිසුවා සමුගනී</title>
+    <author>එස් විජේකෝන්</author>
+    <date>2012 පෙබරවාරි මස 12 23:00:06</date>
+    <body>බොක්සිං ක‍්‍රීඩාව පුහුණු වෙද්දී ප‍්‍රතිවාදී යුද සෙබලකුගේ පහරින් තුවාල ලබා දින පහකට පසුව කොළඹ ජාතික රෝහලේදී මියගිය බුද්ධි ඉන්දිර (18) සිසුවා දහස් ගණන් නෑ හිතමතුරන්ගේ සෝ කඳුළු මැද්දේ අද මළ හිරු බැස යද්දී හෝමාගම මාගම්මන පොදු සුසාන භූමියේදී අවසන් ගමන් ගියේය.
+ඉන්දිර පන්නිපිටිය ධර්මපාල විදුහලේ ශිෂ්‍යයෙකි.</body>
+    <comments>
+        <comment>
+            <author>උපතිස්ස බණ්ඩාර</author>
+            <date>2012-02-13 00:42:00</date>
+            <index>0</index>
+            <phrase>සොයුර ඔබට නිවන් සුව ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි- කුවේට්</author>
+            <date>2012-02-13 00:48:06</date>
+            <index>1</index>
+            <phrase>ඉන්ද්‍ර ඔබට නිවන් සුව ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>illanka</author>
+            <date>2012-02-13 00:50:24</date>
+            <index>2</index>
+            <phrase>ඉරණම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්දනි</author>
+            <date>2012-02-13 02:46:02</date>
+            <index>3</index>
+            <phrase>නැවත ඉපදෙන එක ආත්මයක වත් මෙවන් දෙයක් නොවේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රමිල</author>
+            <date>2012-02-13 03:45:51</date>
+            <index>4</index>
+            <phrase>අප් ඉතින් අපරාධයක්. ඒ ළමයා මැරෙන්න ගියේ නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-02-13 04:22:25</date>
+            <index>5</index>
+            <phrase>මල්ලියො ඔයාට නිවන් සැප ලැබේවා. වෙනත් ආත්මයකදියත් මෙවන් අකල් මරණයක් නොවේවා.. අබුඩාබි අපගේ බලවත් ශෝකය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-02-13 05:58:13</date>
+            <index>6</index>
+            <phrase>අපරාදෙ තරුණ කොල්ලෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-02-13 08:06:20</date>
+            <index>7</index>
+            <phrase>බුද්ධි සොයුරාණෙනි, ඔබට අමා මහ නිවස් සුව..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්</author>
+            <date>2012-02-13 08:26:53</date>
+            <index>8</index>
+            <phrase>හරි යමක් දන්නෙ නැති අය පුහුණුකරුවො වුණාම ඔහොම තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-02-19 12:22:18</date>
+            <index>9</index>
+            <phrase>සොයුරාණෙනි, ඔබට අමා මහ නිවස් සුව..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498838</articleId>
+    <title>ව්‍යවස්ථා කෙටුම්පත් යෝජනාව ළඟදීම විවාදයට</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2017 ජනවාරි මස 15 20:14:53</date>
+    <body>නව ආණ්ඩුක්‍රම ව්‍යවස්ථා කෙටුම්පත් යෝජනාව ළඟදීම පාර්ලිමේන්තුවේදී විවාදයට ගන්නා බව විදේශ අමාත්‍ය මංගල සමරවීර මහතා පවසයි.
+බ්‍රිතාන්‍යයේ නිල සංචාරයක නිරත විදේශ අමාත්‍ය මංගල සමරවීර මහතා ලන්ඩන් හි මාල්බරෝ හවුස් හිදී පොදුරාජ්‍ය මණ්ඩලයීය මහලේකම් පැට්‍රීෂියා ස්කොට්ලන්ඩ් මහත්මිය හමුවූ අවස්ථාවේදී මේ බව ප්‍රකාශ කර තිබේ. 
+නව ව්‍යවස්ථාවක් සකස් කිරීම සම්බන්ධයෙන් සිය අවසන් යෝජනා ඉදිරිපත් කිරීම සඳහා ජනාධිපතිතුමාගේ පක්ෂය, ශ්‍රී ලංකා නිදහස් පක්ෂය සහ ජනතා විමුක්ති පෙරමුණ කාලය ඉල්ලා ඇතැයිද විදේශ කටයුතු ඇමතිවරයා පසුගියදා පැවැති දේශනයකදී පවසා තිබිණ. </body>
+    <comments>
+        <comment>
+            <author>සිරි‍</author>
+            <date>2017-01-15 19:49:13</date>
+            <index>0</index>
+            <phrase>මෙතුමාට නම් ලංකාවේ ඉන්නම බැහැ වගේ. බැලුවොත් රට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිකී</author>
+            <date>2017-01-16 01:48:40</date>
+            <index>1</index>
+            <phrase>ලෝකය වටේම යනවා. අපේ ව්‍යවස්ථාවට වෙන රටවලටනේ පුදුම අමාරුවක් තියෙන්නේ? ගිවිසුම් ගහලා කියලා නම් හොඳට පේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිපාල</author>
+            <date>2017-01-16 03:10:58</date>
+            <index>2</index>
+            <phrase>අනේ අපි නම් මේවට උත්තර බඳින්න යන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් හෙට්ටිආරච්චි</author>
+            <date>2017-01-16 03:27:10</date>
+            <index>3</index>
+            <phrase>අනගාරික ධර්මපාලතුමා කියපු කළු සුද්දෝ ගැන කතා අපිට මේ වෙලාවේ සිහියට එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2017-01-16 03:35:42</date>
+            <index>4</index>
+            <phrase>ඒ වුණාට කියන්නේ ජීඑස්පී ප්ලස් ලැබෙන්නේ නිකම්ම කියල. මේවා තමා බටහිරයන්ට වෙච්ච පොරොන්දු. ඔවුන්ට ඕනෑ අපේ රටේ ප්‍රශ්න ඇතිකරලා දිගුකාලීනව වාසි ලබාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2017-01-16 05:25:39</date>
+            <index>5</index>
+            <phrase>සිරි, මෝඩ කතා කියන්න එපා. විදේශ ඇමති ලංකාවට වෙලා මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2017-01-16 06:16:54</date>
+            <index>6</index>
+            <phrase>හොඳයි. බුද්ධිමත් ඉන්දික මහත්තයාම කියන්න බලන්න විදේශ අැමතිතුමා මේ අවුරුදු දෙකට රට ගිහින් මොනවද කරලා තියෙන්නෙ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

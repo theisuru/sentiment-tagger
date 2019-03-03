@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77467</articleId>
+    <title>පස්කන්දෙන් බාධා</title>
+    <author>රංජිත් රාජපක්ෂ  සජීව විජේවීර</author>
+    <date>2012 නොවැම්බර් මස 16 08:20:22</date>
+    <body>බලන්ගොඩ සිට කල්තොට දක්වා දිවෙන මාර්ගයේ බෙල්ලන්ගල දී මාර්ගයට පස්කන්දක් කඩා වැටීම හේතුවෙන් ගමනා ගමනයට බාධා එල්ල වී ඇතැයි ද විකල්ප මාර්ග භාවිතා කරන ලෙස ද ජාතික ආපදා කළමනාකරණ ඒකකය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-11-16 08:31:21</date>
+            <index>0</index>
+            <phrase>අද ගමනාගමනයට භාධා දවසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂික</author>
+            <date>2012-11-16 09:17:18</date>
+            <index>1</index>
+            <phrase>බෙල්ලංගල කන්දනම් ගොඩක්ම භයානකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-16 09:23:26</date>
+            <index>2</index>
+            <phrase>ඕක මොකද්ද දක්ෂින අධිවේගී මාර්ගයේ පස් කන්දක් කාඩා වැඩුනේ . පරිස්සමින් යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

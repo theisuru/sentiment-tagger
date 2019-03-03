@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498568</articleId>
+    <title>කිලෝ 25ක කැස්බෑවකු මැරූ ධීවරයන් දැලේ</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 13 13:27:51</date>
+    <body>බංගදෙණිය කරුකුපොන වෙරළේදී කැස්බෑවකු මරා මස් අලෙවි කරමින් සිටි බව කියන ධිවරයන් දෙදෙනකු සමග කැස්බෑ මස් තොගය අත්අඩංගුවට ගත් බව හලාවත සහකාර ධීවර අධ්‍යක්ෂ කාර්යාලය කියයි.
+කිලෝ 25ක් පමණ බරැති මෙම කැස්බෑවා ධීවර දැලට හසුවී ඇත්තේ දියඹේ මසුන් මැරීමට ගිය අවස්ථාවේ බවට අනාවරණය වීයැයිද එම කාර්යාලය පවසයි.
+ධීවර ආඥා පනත මගින් කැස්බෑවා ආරක්ෂිත සත්වයකු ලෙස ප්‍රකාශයට පත් කර තිබේ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2017-01-13 08:27:26</date>
+            <index>0</index>
+            <phrase>අවුරුද්දටම ඇති. දෙපාර්තමේන්තුවට මොන තරම් ගෞරවයක්ද... දැං ආයෙ ඔයවගේ එකක් 2018ද කියන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්පහ මූර්ති</author>
+            <date>2017-01-13 08:37:48</date>
+            <index>1</index>
+            <phrase>කැස්බෑවා මරල කන එක ලොකු පවක්. අනික විශේෂ ගුණයක් කැස්බෑවාගේ නැහැ. ඉබ්බෝ මරන්න තහනම් මිස ඉබි මස් හරිම ගුණ කෑමක්. ඉබ්බෝ කන අයට ඉන්ජෙක්ෂන් ගහන්නත් හරිම අමාරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2017-01-13 21:58:10</date>
+            <index>2</index>
+            <phrase>අනේ මන්දා මේ රටට මොනවා වෙන්න යනවද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-01-13 23:51:15</date>
+            <index>3</index>
+            <phrase>ගම්පහ මුර්ති, නිකන් මෝඩ කතා කියන්න එපා. කොයි සතා මරලා කෑවත් එ්කේ ගුණයක් නැහැ පවු ගෙවන්න ගියාම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

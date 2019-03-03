@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>356626</articleId>
+    <title>එංගලන්තයේ පිරිසක් නිරුවතින් අපූරු ගමනක</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 ඔක්තෝබර් මස 26 16:05:18</date>
+    <body>පිළිකා රෝගීන්ගේ සුබසාධනය වෙනුවෙන් කැපවූ එංගලන්තයේ සංවිධානයක් විසින් අරමුදල් රැස්කිරීම සඳහා අපූරු ගිනස් වාර්තාවක් පිහිටුවනු ලැබීය.
+එහිදී කාන්තා සහ පිරිමි 57 කින් යුත් කණ්ඩායමක් නිරුවතින් රෝලකෝස්ටරයක ගමන් කර ඇත.
+එක්සත් රාජධානියේ නිව්කාසල්, එඩින්බරෝ, ස්වින්ඩන් ආදී බොහෝ ප්‍රදේශවලින් පැමිණි පිරිස් මේ සඳහා එක්ව සිටි අතර ඔවුහු බ්‍රිතාන්‍ය පවුම් 1000 කට වැඩි ප්‍රමාණයක් පිළිකා රෝගීන්ගේ සුබසාධනය වෙනුවෙන් එකතු කරගැනීමට සමත් වූහ.
+මීට පෙර 2010 වසරේදී නිරුවතින් රෝලකෝස්ටරයක ගමන් කළ 102 නකු ලෝක වාර්තාවක් තබා තිබුණි.
+එම අවස්ථාවට සහභාගීවූ ලුසී තෝමස් මාධ්‍ය හමුවේ පවසා සිටියේ අමුත්තන් ඉදිරියේ ඇඳුම් ඉවත් කිරීම චකිතයට කරුණක් වූ බවත් විශේෂයෙන්ම ලෝකයේම මාධ්‍ය ඉදිරියේ එයට මුහුණ දීමට සිදුවීම තමන්ට අසීරු අත්දැකීමක් වූ බවත්ය.</body>
+    <comments>
+        <comment>
+            <author>පුක්කුස-ලන්ඩන්</author>
+            <date>2015-10-26 11:04:55</date>
+            <index>0</index>
+            <phrase>මා මෙහි ගියේ ශ්‍රී ලාංකිකයන් මෙය නැරඹීමට පැමිණීම නිරීක්ෂණය කිරීමටයි. සුළු ප්‍රමාණයක් එළිපිට සිටියත් බොහෝ අය වාහන තුල සිට පැමිණියේ තමන් දන්නා අය සිටී දැයි බොහෝ විමසිලිමත්වය. කාන්තාවන් දෙදෙනෙකු හැරුණු විට සිටියේ සියලු පිරිමින් වන අතර මේ අය පැමිණුනේ ගෙවල් වලට බොරු කියා යයි මට සිතුනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලා</author>
+            <date>2015-10-26 11:36:00</date>
+            <index>1</index>
+            <phrase>පුක්කුස බොරු දාන්නා එපා බන් මේ පොටෝ එකේම ගෑනු ඉන්නවා 10 කට වඩා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුක්කුස-ලන්ඩන්</author>
+            <date>2015-10-26 11:52:09</date>
+            <index>2</index>
+            <phrase>නිලා, ඔබට සිංහල කියවා තේරුම් ගන්න අමාරුද? මම විස්තර කළෙ මෙය නැරඹීමට පැමිණි අය ගැන මිසක් නිර්වස්ත්‍රව සිටි අය ගැන නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-10-26 12:00:55</date>
+            <index>3</index>
+            <phrase>අපේ බටහිර ඉන්න කට්ටියට නම් මේවා ඉතින් හරිම ආඩම්බර වැඩනේ නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත</author>
+            <date>2015-10-26 12:05:48</date>
+            <index>4</index>
+            <phrase>යහපත් කාර්යයකට මුදල් එකතු කරන්නත් මෙහෙම යන්න වෙලා මේ කාලේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2015-10-26 12:26:46</date>
+            <index>5</index>
+            <phrase>අනේ මෙහෙමත් විකාර වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2015-10-26 12:28:29</date>
+            <index>6</index>
+            <phrase>මේවා බලන්න යන අයත් ඉන්නවනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2015-10-26 12:59:26</date>
+            <index>7</index>
+            <phrase>ඔබගේ බලාපොරොත්තු සඵල වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2015-10-26 12:59:26</date>
+            <index>8</index>
+            <phrase>අරමුණ හොඳ නම් උත්සාහය යහපත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2015-10-26 13:01:50</date>
+            <index>9</index>
+            <phrase>මේ වැඩේ කිසි වරදක් නැහැ. නිරුවත් මිනිස් ශරීරය කියන්නේ පිළිකුල් කළයුතු දෙයක් නොවේ.හොරෙන් අපචාර කරනවාට වඩා වැඩිහිටියන් පිරිසක් විනෝදවී යහපත් දෙයකට මුදල් එකතුකිරීම අගය කරමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික ගම්පහ</author>
+            <date>2015-10-26 13:20:56</date>
+            <index>10</index>
+            <phrase>මිනිසා ඇදුම් අදින්නේ කැත වසාගන්න සහ ආරක්ෂාවට. ඇදුම් නැහැ කියන එක ගැටළුවක් නොවෙයි . අපි ඉපදුනේ ඇදුම් නැතුව නම් ඉතින් ඔකේ අමුතු දෙයකුත් නැතිනම් මොකක්ද ප්‍රශ්නය.. හොඳ වැඩක් සුභ පැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2015-10-26 13:59:01</date>
+            <index>11</index>
+            <phrase>ප්‍රංශයේ එක්තරා මුහුදුබඩ ප්‍රදේශයක් වෙන්වී ඇත්තේම නිර්වස්ත්‍රව සිටීමටයි. මෙහි කඩසාප්පු වල වෙළෙන්දෝ පවා ඉන්නේ නිර්වස්ත්‍රවය. ලොව බොහෝ පෙදෙස් වලින් පිරිස් මෙහි පැමිණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පෙරේරා</author>
+            <date>2015-10-26 14:10:44</date>
+            <index>12</index>
+            <phrase>මෙය එංගලන්තයට අමුතු දෙයක් නොවේ. සමහර පෙම්වතුන් මඟතොටේ හැසිරෙන ආකාරය මා සියැසින් දැක තිබේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2015-10-26 15:07:13</date>
+            <index>13</index>
+            <phrase>පුක්කුස , දන්නවද එතනට ආපු අනෙක් ශ්‍රී ලාංකිකයොත් අාවේ ඔබ ආපු වැඩේටමයි , "වෙන කව්ද ලාංකිකයෝ මේක බලන්නේ එන්නේ කියල බලාගන්න" නැතුව හිතුවද මේ විකාර බලන්න කියල ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2015-10-26 15:19:14</date>
+            <index>14</index>
+            <phrase>එංගලන්තේ,ප්‍රංශේ ගැන කතා කරනවා. මේ පුංචි ලංකාවේ? මුහුදට මායිම්ව රටේ ප්‍රදේශ කිහිපයක තිබෙන (බීච් හොටෙල් හා රෙසෝට්)හෝටල් කිහිපයක්ම ලාංකික අපිට විවෘත නැතිබව ඔබ දන්නවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2015-10-26 15:23:03</date>
+            <index>15</index>
+            <phrase>සුද්දන්ගේ සංස්කෘතියේ සමහර අංග තවම ගල් යුගයේ තියෙන්නේ ඒකනේ හෙළුවෙන් ඉන්න ඔය තරම් ආශා කරන්නේ සංචාරකයෝ කියලා අපේ රටට ඇවිල්ලා විළිලැජ්ජ නැතිව මුහුදු වෙරෙළේ ඉන්නෙත් ඔහොමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම</author>
+            <date>2015-10-26 16:20:17</date>
+            <index>16</index>
+            <phrase>වස්ත්‍ර නොමැතිව සිටීමෙන් පිළිකා ඇතුළු බොහෝ රෝග සුවවන බව දැන් සොයාගෙන තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2015-10-26 16:36:34</date>
+            <index>17</index>
+            <phrase>සුසන්ත, මිනිස්සු ස්ව කැමැත්තෙන් නිරුවතින් සිටීම ගල් යුගයේ චාරිත්‍ර නෙමෙයි. ඔන්න ස්ත්‍රී දූෂණ, ළමා අපචාර, වගේ ඒවා නම් ඒ කාලෙ ඉඳලා එන පහත් ගති. ඒවා වැඩිපුර ඇත්තේ ආසියාතිකයින් ළඟ.ඔබ කිසිදා දියුණු රටකට ගිහින් නැතුවා වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2015-10-26 16:42:29</date>
+            <index>18</index>
+            <phrase>සියල්ල බලන කෙනා මතයි රඳා පවතින්නේ. අපේ රටේ සීගිරියට ගිහිල්ලා උඩුකය නිරුවත් කාන්තා රූප දිහා බලලා කොතරම් දෙනෙක් වැරදි සිතුවිලි ඇති කරගන්නවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2015-10-27 01:46:29</date>
+            <index>19</index>
+            <phrase>මට ඊරිසියයි අපි වෙනදෙයක් ගැන කතා කොරමු නේද නුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2015-10-27 01:51:44</date>
+            <index>20</index>
+            <phrase>සියල්ල බලන කෙනා මතයි රඳා පවතින්නේ. ඔව් ලස්සන කිඹුල් රූපය තොප්පියත් ලස්සනයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2015-10-27 01:55:12</date>
+            <index>21</index>
+            <phrase>උඩුකය නිරුවත් කාන්තා රූප දිහා බලලා කොතරම් දෙනෙක් වැරදි සිතුවිළි ඇති කරගන්නවාද? කිසිම වැරදි සිතිවිල්ලක් පහල උනේ නැත මම බැලුවේ ඇයි මේ සමහර කොටස් කළු කර පොටෝ එක විකෘති කර තිබෙන්නේ කියල....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2015-10-27 01:56:50</date>
+            <index>22</index>
+            <phrase>බොහොම අදහස් උගුරට හොරා බෙහෙත් කන අයගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2015-10-27 04:00:19</date>
+            <index>23</index>
+            <phrase>එංගලන්තේ ඉන්න ලංකාවේ මිනිස්සු හරි පුදුමයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2015-10-27 04:04:15</date>
+            <index>24</index>
+            <phrase>අනිත් රටවල අය එයාලට ඕනෑ විදියට හිටියාවේ. ඇයි මේ අපේ උදවියට අමාරු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙජි-සිඩ්නි</author>
+            <date>2015-10-27 04:46:36</date>
+            <index>25</index>
+            <phrase>අනේ පුක්කුස නිකන් බොරු කියන්න එපා. ඕක තියෙන්නේ කවදද කියල ඇඟිලි ගණන් කර කර ඉන්න ඇති.එහෙම නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමන්</author>
+            <date>2015-10-27 05:08:39</date>
+            <index>26</index>
+            <phrase>හරි ලස්සනයි.මටත් යන්න හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලී ෆොන්සේකා</author>
+            <date>2015-10-27 07:36:25</date>
+            <index>27</index>
+            <phrase>අම්මෝ! අපේ අය මාර වැදගත් වෙලා.කෙල්ලෙක්ගෙ තියා පොඩි දරුවෙකුටත් වයසක ආච්චි කෙනෙකුටවත් පාරේ බැහැලා යන්න බැරි රටේ මෙතන බයිලා කතා කරනවා.ලංකාවේ කැලේ වැද්දෝ ඉන්නේ නිරුවතින් අදටත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2015-10-27 08:09:59</date>
+            <index>28</index>
+            <phrase>මේ මොන විකාර වැඩද අනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2015-10-27 08:11:25</date>
+            <index>29</index>
+            <phrase>මේවා අපේ රටටනම් ගලපගන්න හදන්න එපා කව්රුත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සසංක</author>
+            <date>2015-10-27 09:04:45</date>
+            <index>30</index>
+            <phrase>මේවා අමුතු දේවල් නෙමේ බටහිර රටවල්වල්වල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිපාල</author>
+            <date>2015-10-27 09:28:39</date>
+            <index>31</index>
+            <phrase>හොද වැඩකට උනත් මෙහෙම දෙයක් කරන එක මමනම් අනුමත කරන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-10-27 09:49:06</date>
+            <index>32</index>
+            <phrase>ලිංගික අපරාධ වැඩි යුරෝපයේ, ඇමරිකාවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත</author>
+            <date>2015-10-27 11:30:46</date>
+            <index>33</index>
+            <phrase>අපේ ලංකාවේ අයත් බුදු හාමුදුරුවන්ගේ ධර්මය වෙනුවට, ජෝර්ජේ වොශින්ග්ටෝන් හදල දීපු ධර්මය අදහනවා වගෙයි පේන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2015-10-27 12:53:14</date>
+            <index>34</index>
+            <phrase>පිස්සුද නිහාල්, ලිංගික අපරාධ වැඩිම මැදපෙරදිග. මොකද තද නීතිය නිසා එහි තරුණ පරපුර ඉන්නේ අසහනයෙන්. ඊළඟට දකුණු ආසියාවේ. මොකද නූගත්කම. බටහිර හා ජපානයේ තමා ලිංගික අපරාධ අඩුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-10-27 13:33:51</date>
+            <index>35</index>
+            <phrase>අයියෝ ඕක සුළු දෙයක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2015-10-27 15:31:36</date>
+            <index>36</index>
+            <phrase>මටනම් ඕක ඒ හැටි පුදුම වෙන්න දෙයක් නෙවෙයි මොකද ඒ අපි හැමෝටම තියෙන අවයව.ඒ දිහා බලන හැටියට සහ සිතුවිල්ල මත නේද හැමදේම රඳවා පවතින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත් ශ්‍රී</author>
+            <date>2015-10-27 16:44:45</date>
+            <index>37</index>
+            <phrase>මානවයින් ඇඳුම් ඇඳීමටත් අනෙක් සතුන් නොඇඳීමටත් හේතුව මානවයා නිරුවතින් සිටින විට අවලස්සන නිසයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2015-10-27 18:43:45</date>
+            <index>38</index>
+            <phrase>ශිෂ්ටාචාරී යුගය හා වනචාරී යුගය අතර වෙනස! මට නම් සුදත් විතරයි හොඳ අදහසක් දාලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2015-10-27 19:24:32</date>
+            <index>39</index>
+            <phrase>අරමුණ හොඳ නම් කොහොම කළත් කමක් නැහැ කියලයි මම නම් හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2015-10-28 01:17:05</date>
+            <index>40</index>
+            <phrase>මෙහි තිබෙන සමහර අදහස් බලද්දී මේ ප්‍රවෘත්තිය ගැනත් අමතක වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2015-10-28 05:49:19</date>
+            <index>41</index>
+            <phrase>අපොයි! අපේ රටේ නම් මේ වගේ දෙයකට පැනලා සහභාගි වෙන අය ඕනෑතරම් හිඳීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2015-10-28 06:28:38</date>
+            <index>42</index>
+            <phrase>මෙතන කිසීම වැරැද්දක් නැහැ කියන එකයි මගේ පෞද්ගලික මතය. කිසි කෙනෙක් කලබල වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2015-10-28 06:31:52</date>
+            <index>43</index>
+            <phrase>පුදුමයක් නෙවෙයි...සුරතල් කරන බල්ලන්ට ඇදුම් දාල තමුන් නිරුවනින් ඉන්න රටවල්වල මේවා කිසිම පුදුමයක්නම් නෙමේ. මට තේරෙන විදිහට මේකත් එක්තරා ලෙඩක් පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2015-10-28 06:32:59</date>
+            <index>44</index>
+            <phrase>රෝල කෝස්ටර්වලත් ගිහිල්ලා තියෙනවා ඒ වුණාට මිනිසුන්ට මෙහෙම කළු පටි පළඳනවා දැකලා නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-10-28 08:20:46</date>
+            <index>45</index>
+            <phrase>මටනම් හිතෙන්නේ මෙයට සහභාගී වුණ පිරිසට වඩා නරබන්න පැමිණි කට්ටිය වැඩි වෙන්න ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුකී</author>
+            <date>2015-10-28 10:06:26</date>
+            <index>46</index>
+            <phrase>මේවා මොනවාද අපේ සමහර නිලියන් මෑතක සිට අඳින ඇඳුම් අන්දලා මේකේ යැව්වා නම් මුළු රටේම සෙනග ගෙන්වා ගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවක</author>
+            <date>2015-10-28 13:43:40</date>
+            <index>47</index>
+            <phrase>මේ ප්‍රවෘත්තිය නම් නියමයි සමහර අපේ බාගෙට අඳින නවක නිළියන්ට. ඒ අයට පුළුවන් නම් අපිටත් මොකද කියලා බැරිද මේ වගේ පින්අතේ වැඩකුත් කරන්න අපේ අයටත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2015-10-28 14:25:26</date>
+            <index>48</index>
+            <phrase>මටත් මෙහි වරදක් නොපෙනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-10-28 15:15:47</date>
+            <index>49</index>
+            <phrase>අති විශිෂ්ටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2015-10-28 16:07:03</date>
+            <index>50</index>
+            <phrase>ප්‍රසිද්ධ ස්ථානවල නිරුවත පෙන්වීම දඬුවම් ලැබිය යුතු වරදක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුක්මන්</author>
+            <date>2015-10-28 17:25:59</date>
+            <index>51</index>
+            <phrase>එක එක රටවල් වල සංස්කෘතිය අනුව මේ දේවල් වෙනස් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2015-10-29 00:38:16</date>
+            <index>52</index>
+            <phrase>එයාලා මේ දේවල් එච්චර ගණන් ගන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-10-29 04:44:47</date>
+            <index>53</index>
+            <phrase>එක එක රටවලට අයත් විවිධ සංස්කෘති මේවා.එය අපේ රටේ සංස්කෘතියට නොගැලපුනාට ඒ රටවල් වල මිනිසුන්ට ඕවා සාමාන්‍ය දේවල්. අනික ඒ මිනිස්සු අපේ මිනිස්සු වගේ කාමයෝ නෙමෙයි ඕවා බල බලා තෘප්තියක් ලබන්න තරම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2015-10-29 07:37:18</date>
+            <index>54</index>
+            <phrase>මේවා ඒ රටේ අයට සාමාන්‍ය දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමේෂ්</author>
+            <date>2015-10-29 08:36:48</date>
+            <index>55</index>
+            <phrase>බුද්ධික, ඔබ හිතන විදිය වැරදියි ඒ මිනිස්සුත් ආසාවට නෙමේ මෙහෙම කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් බාලසුරිය</author>
+            <date>2015-10-29 10:25:08</date>
+            <index>56</index>
+            <phrase>මේ සංවාදයෙන් හොඳටම තේරෙනවා ලංකාවේ අය මොනතරම් ලිංගික ක්‍රියා කාර කම් ගැන උනන්දුද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2015-10-29 10:57:41</date>
+            <index>57</index>
+            <phrase>කොහොම කොහොම හරි මානවයා ගල් යුගයට යනවා නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපි</author>
+            <date>2015-10-29 12:16:44</date>
+            <index>58</index>
+            <phrase>නිරුවත තරම් "මාර්කට් " කරන්න පුළුවන් වෙන කිසිම දෙයක් නැතිබව මේ පිරිස වටහාගෙන තිබෙන හැඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරසේකර</author>
+            <date>2015-10-29 13:35:10</date>
+            <index>59</index>
+            <phrase>අනුර,නොදන්නා දේවල් කතාකරන්න එපා. ඔබ සීගිරියට ගියේ කවදාද? යන්න බැරිකමක් තිබෙනවා නම් සීගිරි ලලනාවන්ගේ සේයා රූ මැනවින් නිරීක්ෂණය කරන්න. සිගිරි ළඳුන්ගේ අත්වල වැළමිටට ඉහළින් ඔවුන් ඇඳ තිබෙන හැට්ටයේ දාරය ඔබට නොපෙනෙන්න විදියක් නැහැ. එතරම් තුනී රෙදි විවීමේ තාක්ෂණයක් එකල මේ රටේ තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2015-10-29 19:30:52</date>
+            <index>60</index>
+            <phrase>මම දන්නවා නම් මමත් යනවා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිර</author>
+            <date>2015-10-30 02:14:40</date>
+            <index>61</index>
+            <phrase>දියුණු රටවල මිනිස්සු නොදියුණු වැඩකරනවා කියන්නේ මේවට. සුද්දෝ අතර ලිංගික අපරාධ අඩුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2015-10-30 02:18:52</date>
+            <index>62</index>
+            <phrase>ලිංගික අපරාධ වැඩිම යුරෝපයේ හා ඇමෙරිකාවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහ‍ොට්ටාල</author>
+            <date>2015-10-30 08:40:39</date>
+            <index>63</index>
+            <phrase>මම නම් මේවා අනුමත කරන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2015-10-30 12:21:04</date>
+            <index>64</index>
+            <phrase>අනේ දෙයියනේ ඕක ඒ රටට සාමාන්‍ය දෙයක්. අපේ අය ඕක බලලා හෙට අනිද්දට විලාසිතාවක් කර ගනීද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුක්කුස ලන්ඩන්</author>
+            <date>2015-11-01 00:37:01</date>
+            <index>65</index>
+            <phrase>මේ ලිපියට ඇති ප්‍රතිචාර ප්‍රමාණය මේ වනවිට කොපමණද? නිරුවත්' කියන වචනය දුටු සැණින් නේද මෙම විශාල පිරිස මෙම පුවත ගැන විමසිලිමත් වුණේ? අනේ සිංහල අපි කොයිබටද යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීතා</author>
+            <date>2015-11-02 05:24:14</date>
+            <index>66</index>
+            <phrase>එංගලන්තේ ඉන්න අපේ සමහර කට්ටිය කරන වැඩත් ඉතින් මෙහෙමම තමයි. තාමත් පරණ පුරුදු අතහැරලා නැහැ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2015-11-02 15:04:15</date>
+            <index>67</index>
+            <phrase>පුක්කුස, මම ආඩම්බරයෙන් කියන්න කැමතියි මමත් ඔය රෝලකොස්ටරයේ සිටි බව. මෙය ඉතා හොඳ පුණ්‍යකර්මයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලේක්කෝ ගලබඩ</author>
+            <date>2015-11-03 00:59:41</date>
+            <index>68</index>
+            <phrase>ලංකාවේ අය මොන උපක්‍රම දානවා ඇද්ද මෙම ඡායාරූප වල වසා තිබෙන තැන් ඇරගන්න?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2015-11-03 06:39:19</date>
+            <index>69</index>
+            <phrase>මට නම් මේවා දකිනකොටත් ලැජ්ජයි. වානර යුගය මතක්වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මාල්</author>
+            <date>2015-11-03 10:04:05</date>
+            <index>70</index>
+            <phrase>මම නම් එකඟ නැහැ මේ වැඩේට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2015-11-26 13:55:48</date>
+            <index>71</index>
+            <phrase>දියුණු රටවල ඔහොම තමා. උසස් චින්තනය සහ සරල ජීවන රටාව...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

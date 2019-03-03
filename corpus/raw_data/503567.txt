@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>503567</articleId>
+    <title>‘ගාලු පාර, ගාලු මුවදොර හෙට උදෑසනත් වහලා‘</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2017 පෙබරවාරි මස 02 12:07:19</date>
+    <body>ශ්‍රී ලංකාවේ 69 වැනි නිදහස් සමරු උළෙලේ පෙරහුරු සඳහා හෙට (පෙබරවාරි 3) වැනිදා උදේ 9 සිට 12 දක්වා ගාලුපාර, ගාලු මුවදොර වටරවුම සිට පරණ පාර්ලිමේන්තු වටරවුම අතර හා චෛත්‍ය පාර වසා තැබෙන බව රථවාහන පොලිසිය කියයි.  නිදහස් උත්සවය සඳහා පැවැත්වෙන පෙරහුරු හේතුවෙන් අද පෙරවරුවේදී කොළඹ නගරයේ අධික රථවාහන තදබදයක් හටගෙන තිබිණ. කොටුව, පිටකොටුව, පුරහල, ධර්මපාල මාවත, නෙළුම් පොකුණ, ඉබ්බන්වල හන්දිය, 138 හා 120 බස් මාර්ගය ආදී මාර්ග රැසක ගමනාගමනය සිදුවූයේ ඉතා සෙමිනි</body>
+    <comments>
+        <comment>
+            <author>යාපා</author>
+            <date>2017-02-02 07:25:52</date>
+            <index>0</index>
+            <phrase>මෙහෙම එකක් නොතිබුනත් ඉතින් අපේ පාරවල් වල නම් බස් හැමදාම යන්නෙ හෙමින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2017-02-02 11:09:58</date>
+            <index>1</index>
+            <phrase>ඔය නිදහස ලැබිල දැන් අවරුදු 70 කටත් කිට්ටු වෙන්ඩ අවා. දැන් ඔය අතීතය සමරුව ඇති. වර්තමානය සහ අනාගතය ගැන වැඩ කරන්න කාලය ඇවිල්ල තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම්</author>
+            <date>2017-02-02 11:59:17</date>
+            <index>2</index>
+            <phrase>සුද්දෝ මීට වැඩිය හොඳට සමරනවා ඇති උන් අපෙන් නිදහස් වුණාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2017-02-02 12:10:20</date>
+            <index>3</index>
+            <phrase>සේරම්, හරියට හරි. අද සුද්දෝ සමරනවා ඇති ඉන්දියාව, ලංකාව, පකිස්ථානය වැනි රටවල් වලින් ඒ අය ගැලවුන එක ගැන!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2017-02-03 03:03:33</date>
+            <index>4</index>
+            <phrase>පොලිසිය උසාවි නියෝග ගෙන සාධාරන උද්ඝෝෂණ නවත්වන්නේ ජන ජීවිතයට බාධාවන බව පවසමින්. මෙවැනි දෑ ජන ජීවිතයට බාධාවක් නොවෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

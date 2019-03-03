@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41562</articleId>
+    <title>නාවලපිටිය හලෝ ගොළුවේ</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2012 මැයි මස 10 11:30:07</date>
+    <body>බිල් නොගෙවීම නිසා නාවලපිටිය රෝහලේ දුරකතන දින දහයක් පුරා විසන්ධි වී ඇතැයි රෝහල් ආරංචිමාර්ග කියයි.</body>
+    <comments>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-10 11:40:06</date>
+            <index>0</index>
+            <phrase>තව තව මොනවා විසන්ධි කරයිද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

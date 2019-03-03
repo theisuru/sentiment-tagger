@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>131756</articleId>
+    <title>පුවත් අස්සේ වැඩිහිටි රූපරාමු</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 ජූනි මස 04 10:19:27</date>
+    <body>ප්‍රවෘත්ති ප්‍රකාශය අතරතුර වැඩිහිටියන්ට පමණක් සුදුසු චිත්‍රපටයක රූපරාමු විකාශනය වීම නිසා ග්‍රීක රජයට අයත් රූපවාහිනි නාළිකාවකට වැඩ වැරැදුණේය.
+ප්‍රවෘත්ති විකාශනය අතරතුර නිවේදකයාට පිටුපසින් සවිකර තිබූ රූපවාහිනී තිර මත දර්ශනය වුයේ ප්‍රවෘත්ති වලට අදාළ වීඩියෝ නොව වැඩිහිටියන්ට පමණක් සුදුසු චිත්‍රපටියකි.මේ බැව් නොදත් නිවේදකයාද සුපුරුදු පරිදි වැඩසටහන මෙහෙයවා තිබේ.සජීව වැඩසටහනක් බැවින් නිෂ්පාදකයන්ටත් කළ හැකි දෙයක් නොවීය.
+ප්‍රවෘත්ති වැඩසටහන දහස් ගණනක් ග්‍රීක වැසියන් විසින් නරඹා ඇති අතර ඔවුන්ගේන් ලැඛෙන පැමිණිලි වලින් මේ දිනවල රූපවාහිනී නාළිකාවේ ප්‍රධානීන්ට නිදහසක් නොමැති බව සදහන්ය.
+නාළිකාවක විකාශය කිරීමට නියමිතව තිබූ චිත්‍රපටිය වැරදීමකින් ප්‍රවෘත්ති විකාශයට එක් කළ බව  හෙළි විය.</body>
+    <comments>
+        <comment>
+            <author>මාලා</author>
+            <date>2013-06-04 12:08:12</date>
+            <index>0</index>
+            <phrase>අපේ රටේ නයිට් ටයිම් ටීවී මතකද? මාත් රෑ පාඩම් කරනවා කියල බොරුවට ඇහැරන් හිටියා ඒක බලන්න ඒ කාලේ...මට මතකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පබස</author>
+            <date>2013-06-04 14:12:40</date>
+            <index>1</index>
+            <phrase>ග්‍රීක රටේ එහම වුනත් ලංකාවේ එහෙම වෙන්නේ නෑ.........//</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලන්කා</author>
+            <date>2013-06-04 15:26:48</date>
+            <index>2</index>
+            <phrase>මාලා, ඒවා බලපු නිසා තමා තවම අපරාද නොකර ඉන්නේ, අනේ මගේ පැටවුන්ටත් මම කොහොම හරි එකක් දෙකක් අහු වෙන්න තියනවා, බලලා හැදෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-06-04 19:24:57</date>
+            <index>3</index>
+            <phrase>මාලා නගා දැන් මොනවද බලන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදරුවන්</author>
+            <date>2013-06-04 21:22:35</date>
+            <index>4</index>
+            <phrase>මට පේන්නේ මාලා ඉර හද ලෙවකාලා ආපු කෙනෙක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ටු</author>
+            <date>2013-06-05 00:14:55</date>
+            <index>5</index>
+            <phrase>හුටා බලු පිලුම් එකක් ගිහින් නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රානිල්</author>
+            <date>2013-06-05 02:40:54</date>
+            <index>6</index>
+            <phrase>හානේ හානේ මාලා ඔයත් හිටියද මමත් හිටියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

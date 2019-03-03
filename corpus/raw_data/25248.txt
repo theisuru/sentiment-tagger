@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25248</articleId>
+    <title>ඉරානය යළිත් යුද අභ්‍යාසයක් අරඹයි</title>
+    <author>ඒඑෆ්පී/රොයිටර්  තෙහෙරාන් නුවරදීය</author>
+    <date>2012 පෙබරවාරි මස 06 09:40:01</date>
+    <body>න්‍යෂ්ටික වැඩසටහන හේතුවෙන් ඇමෙරිකාව, බි‍්‍රතාන්‍යය සහ ඊශ‍්‍රායලයේ උදහසට ලක්වී සිටින ඉරානය තම හමුදා ශක්තිය ලෝකයට ප‍්‍රදර්ශනය කිරීමේ අරමුණින් පෙරේදා (4) යුද අභ්‍යාසයක් ආරම්භ කළේය.
+එම යුද අභ්‍යාසයට විප්ලවීය හමුදා සෙබළුන් සහභාගී වන බවත් තමන් සතු නවීන අවි ආයුධ සහ මිසයිල අත්හදා බලන බවත් ඉරාන රජය පවසයි. එම යුද අභ්‍යාසය පැවැත්වෙන්නේ තෙහෙරාන් අගනුවරට කිලෝ මීටර් 1,200 ක් දුරිනි.
+ඉරානය මීට පෙර හෝමූස් සමුද්‍ර සන්ධියේදී පැවැත් වූ නාවික අභ්‍යාසය ඇමෙරිකාව, ඊශ‍්‍රායලය ඇතුළු බටහිර රටවල දැඩි විරෝධයට හේතුවක් විය.</body>
+    <comments>
+        <comment>
+            <author>lakshanbml</author>
+            <date>2012-02-06 13:21:34</date>
+            <index>0</index>
+            <phrase>ඉරාන්වලට ජයවේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අධිකාරම්</author>
+            <date>2012-02-06 18:19:26</date>
+            <index>1</index>
+            <phrase>ඉරානයත් ඕන දෙයකට ඔට්ටුයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා</author>
+            <date>2012-02-07 07:02:50</date>
+            <index>2</index>
+            <phrase>ඉරානයට අ‍පගේ පූර්ණ සහාය දෙන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජුලා</author>
+            <date>2012-02-07 13:33:59</date>
+            <index>3</index>
+            <phrase>ඉරානයට ජයවේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

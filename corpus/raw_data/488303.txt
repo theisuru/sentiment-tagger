@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488303</articleId>
+    <title>ජැන්ඩියට ඇඳගත් කතකගේ සිරුරක් පානදුරේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 දෙසැම්බර් මස 08 10:41:52</date>
+    <body>පානදුර දුම්රියපළ අසල මෝදර පාලම යට හොඳට ඇඳ පැළඳගත් තරුණියකගේ මළ සිරුරක් සොයාගත් බව පොලිසිය කියයි.කළු ජීන්ස් කලිසමක් ඇඳ සිටි ඇය වටිනා රට සපත්තු ජෝඩුවක් පැළඳගෙන සිටි බවත් වයස අවුරුදු 35ක් පමණ බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-12-08 06:06:13</date>
+            <index>0</index>
+            <phrase>මේ තමා ධර්මද්වීපය!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ගුණවර්ධන</author>
+            <date>2016-12-08 11:16:08</date>
+            <index>1</index>
+            <phrase>සොර කල්ලියකගේ වැඩක්ද ? කමාතුරයකුගේ වැඩක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික සුරේෂ්</author>
+            <date>2016-12-15 09:40:39</date>
+            <index>2</index>
+            <phrase>පනින්න පෙර සිතා බලනු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

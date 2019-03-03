@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>344881</articleId>
+    <title>ප්‍රංශ කෙල්ල දරුවගෙ පියා සොයයි</title>
+    <author>චමින්ද මඩවල මුම්බායි නුවර සිට</author>
+    <date>2015 සැප්තැම්බර් මස 02 17:06:08</date>
+    <body>උපදින්නට ආසන්න තම දරුවාගේ පියා සොයන තරුණ මවක ප්‍රංශයේ සිටියි. ඇගේ  ආයාචනය වීඩියෝ පටයක් ලෙසින් යූටියුබ් වෙත මුදා හැර තිබේ. එහිදී ඇය මෙසේ කියන්නීය.
+මගේ නම නතාලියා. මම ප්‍රංශ ජාතික තරුණියක්. මෙම වීඩියෝ පටය මම යූටියුබ් මාධ්‍යට එක් කරන්නේ ඔබේ උදව් බලා පොරොත්තුවෙන්. නිවාඩුවක් ගතකිරීම සදහා මම ඔස්ට්‍රේලියාවේ ක්වීන්ස් ලන්තයේ මුලූලබායි  ගියා. එහිදී එක් රාත්‍රියකදී මට කඩවසම් තරුණයෙක් මුණ ගැහුණා. ඔහු හැබෑම ලස්සනයි. ඔහුත් සමග මම රාත්‍රියක් ගත කළා. සුන්දර රාත්‍රියක්. නිවාඩුව නිම වෙලා මම නැවත ප්‍රංශයට ආවා. දැන් මම ගැබිනියක්. ඔහුගේ නම මම දන්නේ නැහැ. නමුත් ඔහුයි මගේ දරුවාගේ පියා. ඔහුගේ උස අඩි හයකට වැඩි. ඇස් නිල්පාටයි. හිසකෙස් සුදුයි. මට ඔහු සොයා ගන්න ඕනෑ. අපිට පවුලක් විදියට එකට ඉන්න ඕනෑ. ඒක මගේ හීනයක්.</body>
+    <comments>
+        <comment>
+            <author>සොපී</author>
+            <date>2015-09-02 12:11:57</date>
+            <index>0</index>
+            <phrase>අනේ මන්දා ළමයෝ මේවා ........?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2015-09-02 12:23:11</date>
+            <index>1</index>
+            <phrase>ඇත්තටම ඉතින් මේ විදියට කළා කියලා ඔය කියන තරුණයා ඇයට ලැබෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2015-09-02 12:51:51</date>
+            <index>2</index>
+            <phrase>දැන් ඉතින් ඕස්ට්‍රේලියාවෙ ඉන්න අඩි හයට වැඩි නිල් ඇස් ඇති පිරිමි අය කොහොමද ලැජ්ජාවක් ඇතුව පාරේ බැහැලා යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2015-09-02 12:53:44</date>
+            <index>3</index>
+            <phrase>ඒ තරුණයාගේ නිදහසට බාධා කිරීම අසාධාරණයි. මේවා මානව හිමිකම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2015-09-02 13:15:02</date>
+            <index>4</index>
+            <phrase>ප්‍රංශ කෙල්ලෝ මෙච්චර මෝඩද? බබා ලැබෙන්න යනකොට තමා පියාගේ නම හොයන්න මතක්වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහ‍ොට්ටාල</author>
+            <date>2015-09-02 13:41:15</date>
+            <index>5</index>
+            <phrase>අනේ මන්දා ප්‍රංශයේත් මෙහෙම නම්....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-09-02 13:47:25</date>
+            <index>6</index>
+            <phrase>ඔයා ලංකාවට ආවා නම් වරදට සමාව දෙන කෙනෙක් ලේසියෙන් හොයාගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශේන්</author>
+            <date>2015-09-02 13:48:41</date>
+            <index>7</index>
+            <phrase>ප්‍රංශ කෙල්ලෝ මෙච්චර මෝඩද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2015-09-02 14:12:33</date>
+            <index>8</index>
+            <phrase>මටත් ප්‍රංශයට යන්න හිතෙනවා. කොච්චර ෂෝක් කෙල්ලොද ඒ රටේ ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2015-09-02 14:16:20</date>
+            <index>9</index>
+            <phrase>කරන කලට පවු මිහිරිය මී සේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2015-09-02 14:16:49</date>
+            <index>10</index>
+            <phrase>ඔහොම හොය හොයා ඉන්නකොට බබාත් ලැබිලා තියෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2015-09-02 14:31:16</date>
+            <index>11</index>
+            <phrase>දැන් ඉතින් මොනවා කරන්නද? මට හිතෙනවා ඉදිරිපත් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසරත්න</author>
+            <date>2015-09-02 14:33:25</date>
+            <index>12</index>
+            <phrase>දැන් ඉතින් පියා ඉදිරිපත්වෙයි මේං කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2015-09-02 14:52:49</date>
+            <index>13</index>
+            <phrase>අනේ අනේ මෝඩ කෙල්ලේ, රැයකුත් ගතකළා නම්, හරිම කඩවසම් නම්, ඇස් දෙකත් නිල්පාට නම්, කොණ්ඩේ සුදුයි කියලත් දන්නවා නම් නිකමටවත් නම අහන්නේ නැතුවද? මේක අමුලික බොරුවක් වෙන්නත් පුලුවන්. සාමන්‍යයෙන් විදේශිකයෙක් කොයිදේටත් කලින් තොරතුරු විමසන්නේ නම කියලා හඳුන්වලා දීලා. මොන දේ කළත් බටහිර මිනිසුන්ගේ කල්ක්‍රියාවන් තියනවා.ඒ නුපන් දරුවාගේ පියා ඔහුට ඉපදෙන මොහොත වන විට මහාමෙරක් සේ පිය සෙනෙහස තුරුලුකරන් හමුවේවා..!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2015-09-02 17:11:20</date>
+            <index>14</index>
+            <phrase>දැන් ඉතින් අඬලා පලක් නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලගේ</author>
+            <date>2015-09-02 17:47:51</date>
+            <index>15</index>
+            <phrase>මදැයි වෙච්ච දෙයක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියලාල්</author>
+            <date>2015-09-02 17:52:27</date>
+            <index>16</index>
+            <phrase>අනේ මන්දා? ප්‍රංශයේදී මේ ගොල්ලො උඩ බලාගෙන යනවා.වෙන රට වල ගියාම කරගන්න දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2015-09-02 17:52:55</date>
+            <index>17</index>
+            <phrase>ඔන්න අපේ අයියලාට හොඳ අවස්ථාවක්. ඉදිරිපත් වෙන්න. ළමයත් නිකන් අම්මත් නිකන් වගේම ප්‍රංශෙත් නිකන්. දෙන දෙයියෝ ගෙටම ගෙනවිත් දෙනවා කිව්වලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංක</author>
+            <date>2015-09-02 18:57:40</date>
+            <index>18</index>
+            <phrase>යහපත් දරු උපතකට ඔබට මා සුබ පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉඳුනිල්</author>
+            <date>2015-09-02 19:18:11</date>
+            <index>19</index>
+            <phrase>ඔහොම කළා කියලා පියා ඉදිරිපත් වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2015-09-02 19:30:05</date>
+            <index>20</index>
+            <phrase>තමන් ප්‍රසිද්ධ වෙන්න කරන දෙයක් වෙන්නත් පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2015-09-02 19:57:16</date>
+            <index>21</index>
+            <phrase>රූපවතීට නම් ඉතින් බටහිර තමයි. රූපවතී කිව්වොත් බටහිර, බටහිර කිව්වොත් රූපවතී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේතුංග</author>
+            <date>2015-09-02 20:01:27</date>
+            <index>22</index>
+            <phrase>අනේ පවු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාසා මාකොල</author>
+            <date>2015-09-02 20:28:19</date>
+            <index>23</index>
+            <phrase>මට හිතෙනවා පිහිට වෙන්න මෙයාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-09-02 20:38:37</date>
+            <index>24</index>
+            <phrase>රූපවතියේ, හැමදාම පිටරැටියන්ට කඩේ යන නුඹට තේරෙනවද අපේ අය තාමත් ඉස්සරහින් ඉන්නවා කියලා? මිනිහගේ නමවත් නොදැනයි ඉඳලා තියෙන්නේ. අනේ අනිච්චං!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2015-09-02 22:05:26</date>
+            <index>25</index>
+            <phrase>අනේ අනිච්චං! දැන් ඉතින් හොයයි පියා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2015-09-02 22:12:07</date>
+            <index>26</index>
+            <phrase>ඔබට යහපත් පවුල් ජීවිතයක් ඔහු සමඟ ගතකිරීමට ලැබෙන්න යැයි පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2015-09-02 22:57:34</date>
+            <index>27</index>
+            <phrase>පියා ඉක්මණින් ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2015-09-02 23:18:20</date>
+            <index>28</index>
+            <phrase>අනේ රූපවති, ඔයා කියන විදිහට විදේශිකයන්ට වරදින්නම බැරිද? ආලය අන්ධයි කියන්නේ ඕකටනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමන්ත</author>
+            <date>2015-09-03 01:50:32</date>
+            <index>29</index>
+            <phrase>ළමයාත් වැදගත්. පියා ඊටපස්සේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමන්ත</author>
+            <date>2015-09-03 01:53:11</date>
+            <index>30</index>
+            <phrase>ඔබට දරුවාගේ පියා ලැබේවා! ඒ වගේම ඒ රටවල හැමදේටම පිරිමි විතරක් අල්ලගන්න නීති නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටියුඩර්</author>
+            <date>2015-09-03 03:02:54</date>
+            <index>31</index>
+            <phrase>දැන් ඉතින් දරුවයි අම්මයි දෙන්නම අමාරුවෙනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටියුඩර්</author>
+            <date>2015-09-03 03:02:59</date>
+            <index>32</index>
+            <phrase>අනේ පවු අහිංසක කෙල්ල!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2015-09-03 04:02:31</date>
+            <index>33</index>
+            <phrase>ලස්සන සැමදේ මොහොතක සුවදේ ..අහි කෙළවර දුක වේ /////</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2015-09-03 04:22:39</date>
+            <index>34</index>
+            <phrase>ලංකාවේ පත්තරයක මංගල තීරයේ ප්‍රසිද්ධ කළා නම්, ඇස් නිල් න‍ැති වුණත් වරදට සමාව දෙන තාත්තා කෙනෙක් හොයාගන්න පුළුවන් වෙයි බබාගේ උප්පැන්නයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2015-09-03 04:29:36</date>
+            <index>35</index>
+            <phrase>දක්වා තිබෙන ප්‍ර‍තිචාර හරිම අගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රා</author>
+            <date>2015-09-03 05:11:15</date>
+            <index>36</index>
+            <phrase>ඔය පියා හමුවීම සිදුවියහැකි දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලාන්</author>
+            <date>2015-09-03 05:32:02</date>
+            <index>37</index>
+            <phrase>මමත් ඔය කාලේ හිටියේ ඕස්ට්‍රේලියාවේනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංකල්ප</author>
+            <date>2015-09-03 05:40:48</date>
+            <index>38</index>
+            <phrase>කෙළිලොල්, සංකර සමාජයක් ප්‍රංශයේ තිබුනත්, ඇය මව් පදවිය ලබන්නට කෙරෙන සුදානමයි මෙයින් ප්‍රකාශවන්නේ.එහිදී නුපන් දරුවාට පියා සොයාදීම ඇයට වැදගත් වනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපවති</author>
+            <date>2015-09-03 05:43:47</date>
+            <index>39</index>
+            <phrase>ඔන්න කට්ටියට ලෙඩේ හැදිලා අර රැලේ දුවන ලංකාවේ පුරුද්ද..දැන් මට බනිනේ මම ඒ පැටියාගේ තාත්තා කියල හිතාගෙනද මේ නඩේ ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙහාන්</author>
+            <date>2015-09-03 05:48:49</date>
+            <index>40</index>
+            <phrase>අනේ පවු ප්‍රංශ කෙල්ල!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2015-09-03 05:54:12</date>
+            <index>41</index>
+            <phrase>නිලාන්, ඔයා කලු කෙස් සුදු කරගෙනද හිටියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2015-09-03 06:46:28</date>
+            <index>42</index>
+            <phrase>මෙම දියණියගේ පැතුම ඉටුවේවායි පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් කුමාර</author>
+            <date>2015-09-03 06:47:38</date>
+            <index>43</index>
+            <phrase>ඒ ප්‍රංශයේ හැටි. තරුණයා හමුවෙන්න ඇත්තේ හොඳ සිහියෙන් සිටි වෙලාවක නොවෙන්න පුලුවන්. ඒ ඒ රටවල හැටි. අපි අපේ සිරිත් රැකගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2015-09-03 06:54:48</date>
+            <index>44</index>
+            <phrase>මමත් ඔයාව හොය හොයා හිටියෙ. අපි බඳිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලන</author>
+            <date>2015-09-03 07:27:31</date>
+            <index>45</index>
+            <phrase>රූපවති හිතාගෙන ඉන්නේ රුවන්වැලිසෑය /අභය ගිරිය එතකොට සීගිරි ගල මුදුනට වතුර ගෙනියන තාක්ෂණය, වසර 2000 කට එහා සිංහලයන් භාවිත කළ ජල මුද්‍රිත වැසිකිළි සුද්දා කියලා දීපුවා කියලා.එතකොට සාගර වගේ වැව්, කලා වැවේ සැතපුමට අඟලක් වන බෑවුමත් සුද්දා කියලා දීපුවා කියලා.අනේ වහල් මානසිකාවියේ,නින්දෙන් අවදිවෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2015-09-03 07:32:40</date>
+            <index>46</index>
+            <phrase>අපේ අය කරනවා වගේ ඉස්පිරිතාලේ තියලා මාරුවෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2015-09-03 09:18:25</date>
+            <index>47</index>
+            <phrase>අද ඕස්ට්‍රේලියාවේ මාධ්‍යවල ප්‍රචාරයකරා මේ කතාව බොරුවක් බව. ව්‍යාපාරිකයෙක් පළාත ප්‍රසිද්ධ කරන්න වෙළඳ දැන්වීමක් රියලිටි විදිහට පෙන්නන්න හදවලා. මේ ගැහැණු ළමයා ඔස්ට්‍ර්ලියන් ජාතිකයෙක්. වෙළඳ දැන්වීම නිර්මාණය කරපු තැනැත්තාත් ව්‍යාපාරිකයත් සියලු දෙනාම ඇත්ත හෙළි කරා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉනෝකා</author>
+            <date>2015-09-03 09:50:02</date>
+            <index>48</index>
+            <phrase>දිනේෂ්,ඇති යන්තම්! ඇත්ත දැනගැනීමට සැලැස්වීම ගැන ඔබට ස්තුතිවන්ත වෙමි.නැත්නම් අපේ අයෙගේ අදහස් ටික බලාගන්න තිබුණා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෞරියෙල්</author>
+            <date>2015-09-03 13:37:53</date>
+            <index>49</index>
+            <phrase>ලංකාවේ අයට නිල් පාට ඇස් නැති නිසා මේ බබාගේ තාත්තා වෙන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-09-03 15:00:54</date>
+            <index>50</index>
+            <phrase>කෙලි සෙල්ලම් කරනවට පාඩම හොඳයි නේද. ජොලිය හොඳයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිත්</author>
+            <date>2015-09-03 21:00:59</date>
+            <index>51</index>
+            <phrase>මම නම් කියන්නේ මේ වගේ ප්‍රවෘත්ති බලලා හරි අපේ රටේ කෙල්ලොත් තේරුම් ගන්න ඕනෑ, දවසක විවාහ වෙනතුරු තමන්ගේ කොච්චර ආදරණීය පෙම්වතා එක්ක වුණත් මෙවැනි ඇසුරුකම් නොපවත්වා ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිරාජ්</author>
+            <date>2015-09-03 21:59:38</date>
+            <index>52</index>
+            <phrase>අනේ කාලේ වනේ වාස‍ේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවති</author>
+            <date>2015-09-04 11:51:36</date>
+            <index>53</index>
+            <phrase>අනේ කලන ..යන්නේ කොහෙද මල්ලේ පොල්...?ඔයා වැඩ කරන්නේ ලංකාවේ ජාතික වනොද්‍යනෙක අර නිල්ලට වැවුණු හේනක මුර වැඩේ කියලයි මට ආරංචිය...? මොකද මාතෘකාවෙන් සම්පුර්ණ පිට පැනල...බොරුවට ජාතීආලේ කරේ තියාගෙන වපුරනව නිල්ලට මල් පිපුණු හේනේ පැල උඩ ඉදන් ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙහාන්</author>
+            <date>2015-09-04 16:09:08</date>
+            <index>54</index>
+            <phrase>මේවා හරියන වැඩද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවින්ද</author>
+            <date>2015-09-04 20:04:33</date>
+            <index>55</index>
+            <phrase>ගැබ්ගැනීමේ කතාව ඇත්තක් වෙන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

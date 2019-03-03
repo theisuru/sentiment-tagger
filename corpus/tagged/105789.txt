@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>105789</articleId>
+    <title>රජය දඹුල්ලේ එළවළු ගනියි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2013 මාර්තු මස 31 13:22:20</date>
+    <body>මහින්ද රාජපක්ෂ ජනපති නියමයෙන් වෙළෙඳ අමාත්‍යංශය අද දඹුල්ලේ එළවළු මිලට ගැනීම ඇරැඹීය.
+කිලෝව රුපියල් පහට විකිණීමට ගෙන ආ කැකිරි කිලෝවට රුපියල් 10-15 අතර මිලකට ද, රුපියල් පහළොවට විකිණීමට ගෙනා මලයාසියා වට්ටක්කා රුපියල් 25 ට ද, රුපියල් 10-15 අතර මිලකට වික්‍ණීමට ගෙන වම්බටු කිලෝවකට රුපියල් 30ක් ද අමාත්‍යංශයෙන් ගොවියාට ලැබිණි.
+මේ ක්‍රමය ගැන සතුට පළ කරන ගොවියෝ එළවළු විකුණා ගැනීමට නොහැකිව තොග පිටින කුණු ගොඩට දැමීමේ කතාව ජනපතිගේ අවධානයට යොමු කිරීම ගැන  ලංකාදීපයට පිං දෙති.
+විකුණාගත නොහැකිව සිතුරාදා සිට අද උදේ වන විට එළවළු කිලෝ එක්ලක්ෂ විසිපන් දහසක් කුණු ගොඩට විසි කර දැමිණි.
+සිකුරාදා කිලෝ හතලිස් දහසක් ද, පසුදින පනස් දහසක් ද, අද උදේ තිස්පන් දහසක් දකසල ගොඩට දැමිණි.</body>
+    <comments>
+        <comment>
+            <author>ශිවා</author>
+            <date>2013-03-31 13:27:04</date>
+            <index>0</index>
+            <phrase>ජනපතිතුමාගේ තවත් හොද වැඩක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-03-31 13:46:59</date>
+            <index>1</index>
+            <phrase>ගොවියට මේ ගමන අවුරුදු නැතිවුණත් ණය බරින් මදක් හෝ නිදහස් වීමට මේ කළ උපකාරය බොහෝ වටිනවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2013-03-31 13:52:54</date>
+            <index>2</index>
+            <phrase>මේ සදහා නිත්‍ය ක්‍රමවේදයක් යොදන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-03-31 14:05:48</date>
+            <index>3</index>
+            <phrase>මම කියන්නද තවත් විසදුමක් , දුර බලන්නේ නැතුව ගෙන්න කොළඹ, ගෙනල්ලා කොහේ හරි ඉදගෙන විකුනන්න, මාව විහිලුවකට ගන්න එපා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2013-03-31 14:09:59</date>
+            <index>4</index>
+            <phrase>කීයකට හරි විකුණන එකනම් වටිනවා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අපොන්සු</author>
+            <date>2013-03-31 14:04:35</date>
+            <index>5</index>
+            <phrase>මේක තාවකාලික පැලැස්තරයක් නේද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-31 14:07:10</date>
+            <index>6</index>
+            <phrase>අපේ ගොවියො තවමත් මට්ටු වෙලා නැහැ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2013-03-31 14:08:57</date>
+            <index>7</index>
+            <phrase>මිට වඩා වැඩියෙන් විකුනන්න බැරිද</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කේ. හේමසර හිමි</author>
+            <date>2013-03-31 14:19:32</date>
+            <index>8</index>
+            <phrase>රජය මේවා අරගෙන මොනවා කරන්නද දන්නේ නැහැ හදන්නේ. මේ සදහා ක්‍රමවත් වැඩපිලිවෙලක් අවශ්‍යයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-03-31 14:19:18</date>
+            <index>9</index>
+            <phrase>ඒ අසරණ ජනතාව තවත් අසරණ නොකර මේ කල වැඩේ හොදයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-03-31 14:26:03</date>
+            <index>10</index>
+            <phrase>අපොන්සු, ගොවියන්ට මේ ප්‍රශ්න එන්නේ වැඩිපුර අස්වැන්න නෙලන කාලයටයි. අනිත් කාලවලට මේ ප්‍රශ්ණ නැහැ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-03-31 14:32:20</date>
+            <index>11</index>
+            <phrase>විසිකරපුවට වන්දියක් නැතිද? දඹුල්ලේ ඉන්න අතරමැදි ගැනුම්කාර චන්ඩි නහර ගණන් කාරයින්ගේ න් ගොවියා බේරා දෙන්න .දිගටම මේ වැඩපිළිවෙල ගෙනියන්න .ඔබට පින් සිද්ධ වෙනවා .</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකගේ</author>
+            <date>2013-03-31 14:59:57</date>
+            <index>12</index>
+            <phrase>හැමදේකටම අද ජනාධිපතිතුමාට මැදිහත්වෙලා ප්‍රශ්න විසදන්න වෙලා. රජයේ මුදල් කෝටි ගානක් වියදමි කරලා අමාත්‍යංශ පවත්වාගෙන යාම විහිළුවක්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2013-03-31 15:05:35</date>
+            <index>13</index>
+            <phrase>මේ වැඩපිලිවෙල දිගටම කරගෙන යනවා නමි හොදයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අන්ද්‍රා</author>
+            <date>2013-03-31 15:11:18</date>
+            <index>14</index>
+            <phrase>ෙම් වැඩේ සතියක් කරයි. පස්සේ නවත්තයි. අන්තිමට ඉතින් අහිංසක මිනිස්සුන්ට වේනනේ අතරමැදියෝ නිසා වැඩිගානට විකුනන්නයි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2013-03-31 15:15:50</date>
+            <index>15</index>
+            <phrase>මෙහෙම අරගෙන මොකද කරන්නේ? කොළඹට අඩුවට දෙනවද? නැත්නම් කුනුවෙන්න අරිනවද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-03-31 15:13:16</date>
+            <index>16</index>
+            <phrase>ඉතා වැදගත්</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-03-31 15:18:58</date>
+            <index>17</index>
+            <phrase>ඇමතිවරුන් නොදන්නා කමද? තේරුම් ගන්න බැරි නිසාද ජනාධිපතිතුමා නියම කරනකම් බලාගෙන හිටියේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධිත</author>
+            <date>2013-03-31 15:20:16</date>
+            <index>18</index>
+            <phrase>රජය ලකුනු දාගන්න වැඩ නොකර ඉදිරියේදීවත් මෙවැනි දේවල් නොවීමට සුදුසු වැඩ පිලිවෙලක් සකස් කරන්න. අද රටේ මිනිසුන් කොතරමි අසීරුතාවයකින්ද ජීවත් වෙන්නේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දේවා</author>
+            <date>2013-03-31 15:52:07</date>
+            <index>19</index>
+            <phrase>අනේ මේ එළවළු අපිට කොළඹට ගෙනත් දෙන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2013-03-31 15:49:55</date>
+            <index>20</index>
+            <phrase>දැයට කිරුළ වැඩක් නැහැ. අහිංසක මිනිස්සුන්ට පිහිටවෙන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>යශෝධා</author>
+            <date>2013-03-31 16:04:49</date>
+            <index>21</index>
+            <phrase>මේ මිනිස්සු මේ දේවල් වගා කරන්න කොයිතරම් ලොකු දුකක් විදින්න ඇත්ද? අවසානයේ අස්වැන්න දිහා බලාගෙන හූල්ලන්න වෙලා. කරපු වියදම කොයිතරම් අපරාදෙයක්ද. මේ රටට මේ දේවල වටිනාකමක් නැද්ද? ජනාධිපතිම මේ දේවල් වලට මැදිහත් වෙන්න අවශ්‍ය නම් ඇමතිලා මොකටද? අපේ රට මුල ඉදන්ම ප්‍රතිසංස්කරණය විය යුතුයි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-31 16:22:12</date>
+            <index>22</index>
+            <phrase>විසි කරන්න පෙර ජනාධිපතිතුමාව දැනුම්වත් කරන්න තිබුනා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්-සෞදි</author>
+            <date>2013-03-31 16:32:23</date>
+            <index>23</index>
+            <phrase>මෙවැනි තීන්දුවක් විෂය බාර ඇමතිතුමාට ගන්න බැරි වුනේ ඇයි. මින් ඉදිරියටත් මේ ක්‍රමය අනුගමනය කිරීම ඉතා වැදගත්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කිලක්-ඩුබායි</author>
+            <date>2013-03-31 16:31:14</date>
+            <index>24</index>
+            <phrase>මම නිකම්ද කියන්නේ ලංකාවේ තියෙන්නේ මාධ්‍ය සංදර්ශන කියලා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-03-31 16:40:06</date>
+            <index>25</index>
+            <phrase>අර මධ්‍යසාර කන්ටේනර් එක ගැන දැනගෙන නැතුවෙයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2013-03-31 16:34:56</date>
+            <index>26</index>
+            <phrase>අපි වවමු. අපි වැනසෙමු.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-03-31 16:49:04</date>
+            <index>27</index>
+            <phrase>දැන් ඉතින් බුදු බව පතලා ප්‍රතිචාර දායි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2013-03-31 17:55:29</date>
+            <index>28</index>
+            <phrase>රජය එළවලු මිළයට අරන් පන්සල් වලට බෙදා දෙන්න අදහස් කරනවා වෙන්නත් පුළුවන්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්තා</author>
+            <date>2013-03-31 23:55:10</date>
+            <index>29</index>
+            <phrase>අඩන්නම ඕනෑලු කිරි එරෙන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ගයත්‍රී</author>
+            <date>2013-04-01 02:51:22</date>
+            <index>30</index>
+            <phrase>විනාශ කරන්න එපා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2013-04-01 09:52:53</date>
+            <index>31</index>
+            <phrase>ඒ අහිංසක මිනිසුන්ට පිහිට වෙන්න</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-01 12:58:02</date>
+            <index>32</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-04-01 18:34:13</date>
+            <index>33</index>
+            <phrase>කිලෝ ලක්ෂයක් විසිකෙරුවට පස්සේ විසදුම් හොයන්න ඇමති කෙනෙකුයි අමාත්‍යංශයකුයි අවශ්‍ය නැහැ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2013-04-05 06:38:53</date>
+            <index>34</index>
+            <phrase>පිටරටවල ඕනෑතරම් ඉල්ලුම තියෙනවා හොඳ එළවළු වලට. එම්බසි වලට පුළුවන් යමක් කරන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

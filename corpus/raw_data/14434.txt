@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14434</articleId>
+    <title>සල්ලි ගන්න සරසවි එපාලූ</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2011 නොවැම්බර් මස 24 19:24:06</date>
+    <body>යෝජිත පෞද්ගලික විශ්ව විද්‍යාල පනත වහා හකුළා ගන්නැයි කියමින් මහජනතාව දැනුම්වත් කිරීමේ පති‍්‍රකා  අද සවස කොටුව දුම්රිය පොළ ඉදිරිපිටදී  බෙදා හැරිණි.
+රජයේ විශ්ව විද්‍යාලවලට පහසුකම් නොදී, පෞද්ගලික විශ්ව විද්‍යාල මෙරට ඇති කිරීමෙන් නිදහස් අධ්‍යාපනය වැනසෙන බව කියමින් සමාජවාදී ශිෂ්‍ය සංගමය මේ උද්ඝෝෂණ පැවැත්වීය.</body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2011-11-24 22:28:49</date>
+            <index>0</index>
+            <phrase>විශ්වවිද්‍යාලයල නිකන් උගන්වන්න බදු ගෙවන අපිටයි ගහන්න ඕන.. මනුස්සයො වගේ ඉගෙන ගන්න, සමාජවාදය කියන මිථ්‍යාවට යටවෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2011-11-25 09:41:27</date>
+            <index>1</index>
+            <phrase>‘ඉගෙන ගත්තොත් සල්ලි ලැබෙයි‘ නෙමේ දැන් අලුත් විදිය.. ‘සල්ලි තිබ්බොත් උපාධි ලැබේ‘ .... කාටද මෙව්ව කියන්නේ...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2011-11-25 10:49:51</date>
+            <index>2</index>
+            <phrase>මේකට කුහක පුද්ගලයන් කැමති නැතිව ඇති. පුද්ගලික රෝහල් හොදනම් ඇයි පුද්ගලික වෛද්‍ය විද්‍යාල හොද නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2011-11-25 11:05:51</date>
+            <index>3</index>
+            <phrase>කුහක කම නෙමේ... හොර දොස්තරල බෙහෙත්දීල ලෙඩ්ඩු අමාරුවෙ වැටෙන නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුෂාන්</author>
+            <date>2011-11-25 10:46:27</date>
+            <index>4</index>
+            <phrase>පුද්ගලික විශ්වවිද්‍යාල බිහි කිරීමේ කිසිම වැරදක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2011-11-25 11:45:25</date>
+            <index>5</index>
+            <phrase>තියන සරසවි ඇති දියුණු කළොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

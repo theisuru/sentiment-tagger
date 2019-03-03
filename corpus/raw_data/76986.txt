@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>76986</articleId>
+    <title>‘ගැන්නම්’ තරුවට සම්මානයක්</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි</author>
+    <date>2012 නොවැම්බර් මස 14 10:18:08</date>
+    <body>‘ගැන්නම්’ නමැති අපූරු නර්තනය හඳුන්වා දෙමින් ලොව පුරා එක රැයින් ජනපි‍්‍රය වූ දකුණු කොරියානු ගායක සයි ට පසුගිය 11 වැනිදා ජර්මනියේ ෆ්රැන්ක්ෆර්ට් නුවරදී පැවැත්වුණු එම්.ටී.වී. යුරෝපා සංගීත සම්මාන උළෙලේදී සම්මානයක් හිමිවිය. ඒ ඔහුගේ ‘ගැන්නම්’ නර්තනය ඇතුළත් වීඩියෝවටය.</body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-11-14 13:05:00</date>
+            <index>0</index>
+            <phrase>අපූරු නර්තන ඉදිරිපත් කරන අපේ දේශපාලකයොන්ට සම්මාන දෙන්නේ කවදද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-11-14 17:09:41</date>
+            <index>1</index>
+            <phrase>අයියෝ! මම හිතුවේ ජීවන් මෙන්ඩිස්ට සහ ගේල්ට මේක හම්බවෙයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-11-15 02:04:11</date>
+            <index>2</index>
+            <phrase>ඔබතුමාට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂිරාස්</author>
+            <date>2012-11-15 18:56:11</date>
+            <index>3</index>
+            <phrase>සුභ පැතුම්! මම ඒ ගීතයට සහ නර්තනයට හුගක් කැමතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

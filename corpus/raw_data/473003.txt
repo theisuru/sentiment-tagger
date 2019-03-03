@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>473003</articleId>
+    <title>රනිල්ට පොපි මලක්</title>
+    <author>ගයාන් අමරසේකර</author>
+    <date>2016 ඔක්තෝබර් මස 26 14:03:04</date>
+    <body>ශ්‍රී ලංකා සේවුමුක්ත භට සංගමයේ 73 වැනි අනුස්මරණ දිනය නිමිත්තෙන් සුබසාධක කටයුතුවලට ආධාර පිණිස පවත්වන පොපි මල් පැළඳවීමේ ව්‍යාපෘතිය වෙනුවෙන් අගමැති රනිල් වික්‍රමසිංහ මහතාට පොපි මලක් පැළඳවීම අද (26) පාර්ලිමේන්තු සංකීර්ණයේ අගමැති කාර්යාලයේ දී සිදු කැරිණි.
+ශ්‍රී ලංකා සේවා මුක්ත සංගමයේ සභාපති බ්‍රිගේඩියර් කේ.ඒ.ඥානවීර මහතා විසින් අගමැතිවරයාට පොපි මලක් පළඳවනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2016-10-26 12:35:45</date>
+            <index>0</index>
+            <phrase>අන්තිම ෆොටෝ එක මගුල් ෆොටෝ එක වගේ හරි ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2016-10-26 14:56:26</date>
+            <index>1</index>
+            <phrase>පොල් පැලයක් දුන්න නම් පිළිකන්නේ හරි හිටවන්න තිබුන. අනාගතේ කෝවිල් වල පොල් ගහන අයට පොල් කඩා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-10-26 19:51:07</date>
+            <index>2</index>
+            <phrase>මෙයාලට දෙන්න ඕනෑ පොපි මල් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

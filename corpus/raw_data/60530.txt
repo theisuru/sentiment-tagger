@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60530</articleId>
+    <title>ලොව බලවත්ම කාන්තාවෝ දෙදෙනා හිලරි ක්ලින්ටන්-ඇන්ජෙලා මාකෙල්</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  නිව්යෝක් නුවරදීය</author>
+    <date>2012 අගෝස්තු මස 24 09:10:57</date>
+    <body>ලෝ සුපතළ ෆෝබ්ස් සඟරාව, 2012 වසර සඳහා ලොව බලවත්ම කාන්තාවන් 100 දෙනාගේ නම් ලැයිස්තුව පෙරේදා (22) ප‍්‍රකාශයට පත් කළ අතර එහි පළමු සහ දෙවැනි ස්ථාන හිමිකර ගෙන සිටින්නේ ජර්මන් චාන්සල්වරිය ඇන්ජෙලා මාකෙල් ඇමෙරිකානු රාජ්‍ය ලේකම් හිලරි ක්ලින්ටන්ය.
+ව්‍යාපාරික සඟරාවක් වන ෆෝබ්ස් සඟරාව විසින් සෑම වසරකම ලොව ප‍්‍රබලතම කාන්තාවන් 100 දෙනකු තෝරනු ලබයි. දේශපාලන, ව්‍යාපාරික, මාධ්‍ය, ආදී විවිධ ක්ෂේත‍්‍ර කිහිපයකින් එම 100 දෙනා තෝරා ගැනෙයි.
+ජර්මන් චාන්සලර් ඇන්ජෙලා මාකෙල් ඉකුත් වසරේ ද පළමු ස්ථානයට පත් වූවාය. යුරෝපය මුහුණ දී සිටින ආර්ථික අර්බුදය හමුවේ යුරෝපා සංගමය ඉදිරියට ගෙන යෑමට ඇයගෙන් සිදුවන මෙහෙවර ඇඟයීමට ලක් කරමින් ෆෝබ්ස් සගරාව ඇය පළමු තැනට පත් කර ඇත.
+මේ වසරේ තෙවැනි ස්ථානයේ සිටින්නේ බ‍්‍රසීලයේ ජනාධිපති දිල්මා රූසෙෆ්ය. ඊට අමතරව ඇමෙරිකා ජනපති ආර්යාව මිෂෙල් ඔබාමා, ඉන්දියාවේ කොංග‍්‍රස් පක්ෂ නායිකා සෝනියා ගාන්ධි, පොප් ගායිකා ලේඞී ගාගා සහ ජෙනිෆර් ලෝපෙස් ද එම ප‍්‍රබල කාන්තාවන් 100 දෙනා අතර සිටිති.</body>
+    <comments>
+        <comment>
+            <author>නීලා</author>
+            <date>2012-08-24 14:32:11</date>
+            <index>0</index>
+            <phrase>මොනිකා කී වෙනි ස්ථානයද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගංගා</author>
+            <date>2012-08-24 22:05:27</date>
+            <index>1</index>
+            <phrase>ඇයි පැමෙලා ඇන්ඩසන් ?!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-08-24 22:07:07</date>
+            <index>2</index>
+            <phrase>අපේ ජයලලිතා නැද්ද ඕකේ, ඉන්නම ඕනෑනේ.අනේ, මම මේ දන්නේ නැති නිසයි අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොඩිතුවක්කු</author>
+            <date>2012-08-25 03:14:40</date>
+            <index>3</index>
+            <phrase>ඒවුණාට අපේ කාන්තාවෝ මීටවැඩිය හොදයි මට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-25 07:56:29</date>
+            <index>4</index>
+            <phrase>නියම කාන්තාවන් දෙදෙනෙක්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසර</author>
+            <date>2012-08-25 10:09:25</date>
+            <index>5</index>
+            <phrase>අපේ අම්මා තමයි මටනම් අංක 1</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-08-25 10:16:40</date>
+            <index>6</index>
+            <phrase>අපේ රටෙත් සුපිරි කාන්තාවෝ කොපමණ නම් ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-25 12:29:08</date>
+            <index>7</index>
+            <phrase>ලෝකෙන් කොහොම වෙතත් පරලෝකෙන් නම් අපේ අය අංක එක වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධර්ම</author>
+            <date>2012-08-25 20:47:48</date>
+            <index>8</index>
+            <phrase>මේ අරයා නැද්ද මෙයාල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා</author>
+            <date>2012-08-26 06:49:41</date>
+            <index>9</index>
+            <phrase>අපේ ලංකාවේ එක් කෙනෙකුටවත් ඇතුළත් වෙන්න බැරි වුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-26 12:53:57</date>
+            <index>10</index>
+            <phrase>කොහොමද වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-08-26 13:50:53</date>
+            <index>11</index>
+            <phrase>මොවුන් සියල්ලන්ම විවාහකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-27 02:17:25</date>
+            <index>12</index>
+            <phrase>මගේ බිරියයි අංක එකේ බලවත්ම කාන්තාව වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමනායක</author>
+            <date>2012-08-27 10:11:46</date>
+            <index>13</index>
+            <phrase>කොහොමද එහෙම බලවත් වෙලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14563</articleId>
+    <title>විදුලි සුදු අලියා වසරකට කෝටි 600ක් ගිලී</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 නොවැම්බර් මස 25 14:03:34</date>
+    <body>ලංකා විදුලිබල මණ්ඩලයේ වසරක පාඩුව රුපියල් කෝටි 600ක් බව විදුලිබල ඇමැති පාඨලී චම්පික රණවක මහතා පාර්ලිමේන්තුවේදී කීවේය.
+බෙදාහැරීමේදී සියයට 13ක් අපතේ යන බවද ඉන් සියයට හතරක් හොරෙන් විදුලිය ගන්නා අය බවද ඔහු සඳහන් කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>හසාන්</author>
+            <date>2011-11-25 15:32:31</date>
+            <index>0</index>
+            <phrase>නුවන තියන අය ඉන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමිටියාස්</author>
+            <date>2011-11-25 16:22:34</date>
+            <index>1</index>
+            <phrase>විදුලි බල මණ්ඩලය ලාභ ලබනව කියල පහුගිය කාලෙ කතාවක් ගියා නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

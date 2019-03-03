@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>132424</articleId>
+    <title>වෙරළ රකින්න පරිසර නියමුවෝ පෙළ ගැසෙති</title>
+    <author>වේරගොඩගේ සජීව විජේවීර</author>
+    <date>2013 ජූනි මස 05 11:37:26</date>
+    <body>ලෝක පරිසර දිනය නිමිත්තෙන් ගාල්ල දිස්ත්‍රික්කයේ පරිසර නියමු භට කණ්ඩායම්වල සහභාගීත්වයෙන් පරිසරය සුරැකිමේ වැදගත්කම විදහාදක්වමින් අද ගාල්ල නගරයේ පා ගමනක් පැවැත්විනි. වෙරළ සංරක්ෂණ දෙපාර්තමේන්තුව මෙය සංවිධානය කැර තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2013-06-05 12:06:15</date>
+            <index>0</index>
+            <phrase>හොඳ දෙයක්. මිනිසුන්ට පරිසරය පිරිසිදුව තබා ගැනීමේ වැදගත් කම පෙන්වා දෙන්න ආදර්ශමත්ව කටයුතු කල යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2013-06-05 14:46:05</date>
+            <index>1</index>
+            <phrase>අර අපේ අහවල් 225 එකතු කරගෙන ඔය පාගමන ගියානම් තවත් හොඳයි. මොකද පොඩි අය නෙමෙලොකු අය තමයි පරිසරය විනාස කරන්න ගොඩක් ම දායක වෙන්නේ. කොහොම වුණත් හොඳ ආදර්ශමත් වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-06-06 01:37:01</date>
+            <index>2</index>
+            <phrase>නියමයි! පුතාලවත් ඔය වැඩිහිටි අයට පාඩමක් කියල දෙන්න පරිසරය පිරිසිදුවට තියාගන්න ඔයාලට සුබ ගමන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

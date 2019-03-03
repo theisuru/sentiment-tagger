@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57970</articleId>
+    <title>ලක් සතොසෙන් කුස්සියට සහනයක්</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 අගෝස්තු මස 09 19:27:44</date>
+    <body>ලක් සතොස සිකුරාදා සිට අත්‍යවශ්‍ය පාරිභෝගික භාණ්ඩ අටක මිල අඩුකරන බව කියයි.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-09 20:22:12</date>
+            <index>0</index>
+            <phrase>තව ටික කාලයයි...ආයෙම පරණ මිලට බහීවි‍‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්තනී</author>
+            <date>2012-08-09 20:20:28</date>
+            <index>1</index>
+            <phrase>දෙන්නම්කෝ මේපාරත්‍‍‍............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන්</author>
+            <date>2012-08-09 20:35:56</date>
+            <index>2</index>
+            <phrase>දවස් කීයකටද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් ගමිපහ</author>
+            <date>2012-08-09 20:33:22</date>
+            <index>3</index>
+            <phrase>දවස්කීයකටද දන්නෙ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-09 21:03:41</date>
+            <index>4</index>
+            <phrase>ශා....නියමයිනේ. මේ පාර රාමසාන් අවුරුද්ද නියමෙටම සමරතහැකි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-09 21:24:29</date>
+            <index>5</index>
+            <phrase>ලංකාවේ සෑම දාම මැතිවරණ තියන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තේජා</author>
+            <date>2012-08-09 21:28:48</date>
+            <index>6</index>
+            <phrase>තමන්ගේ වැඩේ කෙරෙනකම් විතරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-08-09 22:53:18</date>
+            <index>7</index>
+            <phrase>තව ටික දවසකින් බඩුම තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-09 23:23:51</date>
+            <index>8</index>
+            <phrase>මේ පාරත් හරි‍‍‍‍‍‍.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-09 23:26:34</date>
+            <index>9</index>
+            <phrase>මේ පාරත් අපි................ කනවෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිනී</author>
+            <date>2012-08-10 01:05:01</date>
+            <index>10</index>
+            <phrase>ලොකු සහනයක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2012-08-10 02:31:11</date>
+            <index>11</index>
+            <phrase>හැමදාම වගේ වෙන්නේ මනුස්සයෝ රැවටෙන එකයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශා</author>
+            <date>2012-08-10 07:21:28</date>
+            <index>12</index>
+            <phrase>ෆුඩ් සිටියෙන් සීනි ගන්න පුලුවන් 95.50කට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-10 07:23:01</date>
+            <index>13</index>
+            <phrase>සැප්තැම්බරයෙන් පසු ආනයන බද්ද 10%කින් ඉහළ දමයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීප්ති</author>
+            <date>2012-08-10 07:28:13</date>
+            <index>14</index>
+            <phrase>සාමාන්‍ය කඩ වලින් මීට වැඩිය අඩුවෙන් ගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-10 08:37:54</date>
+            <index>15</index>
+            <phrase>මේ සහනය තව ටික දවසයි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-10 08:42:06</date>
+            <index>16</index>
+            <phrase>මේ ඡන්දේ ඉවර වෙච්ච ගමන්ම තවත් ඡන්දක් තියෙනවානම්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-10 09:38:52</date>
+            <index>17</index>
+            <phrase>මමනම් අදම ගෙනාව.. මොකද හෙට.....??????.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-10 10:16:30</date>
+            <index>18</index>
+            <phrase>ඔය තියෙන්නේ ඡන්දයට පෙර හා පසු මිල වෙන්න ඇති නේද ??.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොබී</author>
+            <date>2012-08-10 10:33:45</date>
+            <index>19</index>
+            <phrase>බුදුවෙන්න ඕනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2012-08-10 11:03:40</date>
+            <index>20</index>
+            <phrase>කාරිය කෙරෙන තුරු කාගෙත් රැවටිල්ල......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-10 11:29:43</date>
+            <index>21</index>
+            <phrase>අනේ මන්දා අඩු කරත් බැනුම් වැඩි කරත් බැනුම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-10 12:19:58</date>
+            <index>22</index>
+            <phrase>කාවද මේ රවටන්න හදන්නේ ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-08-10 13:05:40</date>
+            <index>23</index>
+            <phrase>බඩු ෂුවර් නේද ? පෙට්රල් ඩීසල් වගේ වෙයි ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-08-10 14:02:23</date>
+            <index>24</index>
+            <phrase>භාණ්ඩවල තත්වය කොහොමද දන්නේ නැහැ. කොහොම වුනත් රුපියලක් 2ක් ඉතිරිකරගෙන කෑම ටිකක් කන්න ලැබිච්ච එක ලොකු පිනක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-08-10 22:22:05</date>
+            <index>25</index>
+            <phrase>හැමදාම ඡන්ද තියෙනවා නම් හරි ෂෝක් නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇරිස</author>
+            <date>2012-08-10 22:55:42</date>
+            <index>26</index>
+            <phrase>කන්න බය නැතිව ,දිගටම මැතිවරණ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-08-11 09:06:52</date>
+            <index>27</index>
+            <phrase>ලක් සතොසෙන් කක්කුස්සියට සහනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුරවැසිය</author>
+            <date>2012-08-11 19:03:04</date>
+            <index>28</index>
+            <phrase>කොහොමහරි කමක් නැහැ .... අපිව බේරලා දෙන්න. මොකද අපි බන්දුල මහත්තය සරණ ගිය 2500 න් ජීවත්වෙන මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

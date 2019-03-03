@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>420037</articleId>
+    <title>ටජ් මහලේ කිරි පාට කොළ පාට වෙනවාලු</title>
+    <author>නිලූක සඳුන් බණ්ඩාරනායක</author>
+    <date>2016 මැයි මස 26 18:15:44</date>
+    <body>සති කිහිපයක සිට ඉන්දියාවේ ටජ් මහල්හි කිරි ගරුඬින් නිම වූ බිත්ති කොළ පැහැයට හැරෙමින් පවතින බව  විදෙස් මාධ්‍ය  වාර්තා කරයි.
+ මිට හේතුව ඒ අසලින් ගලා බසින යමුනා නදියේ ජලය අධික ලෙස දූෂණයට ලක් වීම බව එම වාර්තාවල දැක්වේ.
+එම නදියේ ජලයේ කෘමි සතුන් බෝ වී තිබේ.
+එම කෘමින් ටජ්මහලේ බිත්ති මත වැසීමෙන් බිත්ති මත මළ මුත්‍ර අපද්‍රව්‍ය තැම්පත් වීමෙන් කිරි ගරුඬ මතුපිට තද කොළ පැල්ලම් ඇති වෙමින් පවතින බවට සදහන් වේ.
+ශාජහාන් රජු විසින් මුම්තාස් දේවිය සිහිවීම පිණිස නිමවන ලද ටජ් මහල ලෝක පුදුමයක් ලෙස නම් කර තිබේ.
+මෙම ලෝක උරුමය බේරා ගැනීමට මැදිහත්වන ලෙස පරිසරවෙදියෙකු වන ඩීකේ ජෝෂි ඉන්දියා රජයෙන් ඉල්ලා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-05-26 13:50:20</date>
+            <index>0</index>
+            <phrase>සියලු දේ විනාශ වෙන සුළුය.මොන රජා හැදුවත් ඒක නියමය වේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-05-26 15:27:31</date>
+            <index>1</index>
+            <phrase>මෙය නිර්මාණ කරුගේ ඇස් අන්ධකර තවත් එවැනි දෙයක් නොසැදීමට තරම් කුරිරු වූ මේ රජාගේ ස්මාරකය විනාසවෙලාම යා යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-05-26 22:19:47</date>
+            <index>2</index>
+            <phrase>සබ්බේ සංඛාරා අනිච්චාතී!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-27 02:26:05</date>
+            <index>3</index>
+            <phrase>ටජ්මහල සැදීමට අපේ රෝස තිරුවානා නිධියෙන් තිරුවානා රැගෙන ගිය බව සඳහන් වෙනවා. දැන් අපේ රෝස තිරුවානා නිධියත් අවපැහැ ගැන්වෙන බව පසුගිය දිනක කතාබහට ලක්වුණා. මේ පාෂාණ පවා වෙනස්වන යුගයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2016-05-27 10:30:34</date>
+            <index>4</index>
+            <phrase>සියළු දේ අනිත්‍ය බව පසක්කිරීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ගුණවර්ධන ස්විස්</author>
+            <date>2016-05-28 08:58:40</date>
+            <index>5</index>
+            <phrase>කිරි වලට ගොම වැටුනා වාගේ, ලස්සන නගරය පරිසර දුෂණයෙන් විනාශ කරලා. එ්කයි හේතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

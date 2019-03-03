@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>504600</articleId>
+    <title>පාකිස්තානයේ හිම කඳු කඩා වැටී 106 ක් මියයති</title>
+    <author>සීඑන්එන් ඇසුරිනි පරිවර්තනය - අකිල බද්දෙවිතාන</author>
+    <date>2017 පෙබරවාරි මස 06 17:19:55</date>
+    <body>පාකිස්ථානය හා ඇෆ්ගනිස්ථානය අතර දේශ සීමාවේ හිම කඳු කඩාවැටීම හේතුවෙන් 106 දෙනකුට අධික පිරිසක් මියගොස් ඇතැයි විදෙස් වාර්තා පවසයි. හිම කඳු කඩා වැටීමෙන් තවත් බොහෝ පිරිසක් තුවාල ලබා ඇත. ඊසාන දිග ඇෆ්ගනිස්ථානයේ නුරිස්තාන් හි ගම්මානයක 53 දෙනකු අනතුරින් මරණයට පත්ව ඇති අතර උතුරු පාකිස්තානයේ 13 දෙනකුට දිවි අහිමිව ඇත. විශාල නිවෙස් සංඛ්‍යාවක් ද දරුණු හිම පතනය හේතුවෙන් කඩාවැටී ඇති බවත් වාහනවල ගමන් කරමින් සිටි පිරිසක් ඒවා තුළ සිරවී මරණයට පත්ව ඇති බවත් වාර්තා වේ.  
+ </body>
+    <comments>
+        <comment>
+            <author>රොක්සි</author>
+            <date>2017-02-06 16:34:59</date>
+            <index>0</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2017-02-07 09:34:51</date>
+            <index>1</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2017-02-07 09:41:24</date>
+            <index>2</index>
+            <phrase>පවු දෙවියනේ අහිංසක මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

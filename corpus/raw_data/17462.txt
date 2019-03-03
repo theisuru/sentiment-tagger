@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17462</articleId>
+    <title>එජාප මහා පුටුවේ වෙනසක් නොවන බව රනිල් කියයි</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 14 10:37:22</date>
+    <body>එක්සත් ජාතික පක්‍ෂ කෘත්‍යාධිකාරී මණ්ඩල රැුස්වීමේදී ඉරිදා කිසිම වෙනසක් (නායකත්වයේ)  සිදු නොවන බව විපක්‍ෂනායක රනිල් වික‍්‍රමසිංහ මහතා පාර්ලිමේන්තුවේදී අද ප‍්‍රකාශ කළේය.ඔහු එසේ කීවේ ආණ්ඩු පක්‍ෂ සංවිධායක දිනේෂ් ගුණවර්ධන මහතා පුවත්පතක් උපුටා දක්වමින් එජාප නායකත්වය ගැන අර්බුදයක් ඇතැයි පළවූ වාර්තාව ගැන සඳහන් කරමිනි. එජාප නායකත්වය වෙනසක් සිදුවන බවට වාර්තා ඇතත් එසේ නොවේවායි පතන බවත් ඇමැති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>Yoonus</author>
+            <date>2011-12-14 12:06:33</date>
+            <index>0</index>
+            <phrase>නායකත්වයේ වෙනසක් නොකරොත් පරාජයේත් වෙනසක් නොවේවි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2011-12-14 12:37:34</date>
+            <index>1</index>
+            <phrase>වෙන සුදුසු කෙනෙකුත් නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2011-12-14 12:12:14</date>
+            <index>2</index>
+            <phrase>පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිම්හානි</author>
+            <date>2011-12-14 13:04:27</date>
+            <index>3</index>
+            <phrase>දැන්වත් අයින් වුණානම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරණ සාමාජිකයෙක්</author>
+            <date>2011-12-14 12:37:18</date>
+            <index>4</index>
+            <phrase>ඒකෙ කාටවත් නායකත්ව ලක්ෂණ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2011-12-14 14:22:44</date>
+            <index>5</index>
+            <phrase>ඒ කියන්නේ ආණ්ඩුවත් මාරුවෙන්නේ නෑ කියන එකයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්</author>
+            <date>2011-12-14 14:15:45</date>
+            <index>6</index>
+            <phrase>දැන්වත් දාලා ගියානම් හොදයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

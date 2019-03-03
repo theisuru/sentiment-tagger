@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468442</articleId>
+    <title>රැයකදි 1000ක් පොලිසියට කොටු : 46ක් අයි ආර් සී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 14 19:28:29</date>
+    <body>බස්නාහිර පළාතේ පොලිස් ස්ථාන 110 ආවරණය වන පරිදි ඊයේ (13) රාත්‍රී සිදු කළ අපරාධ මැඩලීමේ මෙහෙයුමකින් පුද්ගලයින් 1262ක් අත්අඩංගුවට ගත් බව පොලිස් මුල්සථාන ඒකකය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>සෙන්සාන්</author>
+            <date>2016-10-14 14:31:37</date>
+            <index>0</index>
+            <phrase>මේ මිනිස්සු කරපු වැරැද්ද මොකක්ද? මේ මිනිසුන්ට විරුද්ධව තියෙන චෝදනා මොනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-10-14 15:15:14</date>
+            <index>1</index>
+            <phrase>මේ තරම් අපරාධ කාරයෝ නිදැල්ලේ ඉද්දිනේ මේ පොලිසිය නිදාගෙන ඉඳල තියෙන්නේ. තව කෝටිගණන් වියදම් කරලා පාටි දාන්නත් යනවා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-14 18:47:03</date>
+            <index>2</index>
+            <phrase>හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2016-10-14 22:30:27</date>
+            <index>3</index>
+            <phrase>දියවන්නාවෙන් කවුරුවත් කොටුවුණේ නැත්නම් ඔය වැටලීම සාර්ථකයි කියලා පොලිසියට සතුටු වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-14 23:48:29</date>
+            <index>4</index>
+            <phrase>දියවන්නාව අයිති මොන පොලීසියටද? එ් පැත්තෙන් කීදෙනෙක් අහුවුණාද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-10-15 04:04:28</date>
+            <index>5</index>
+            <phrase>දස ලක්ෂ විසි දෙකක ජනගහනයක් ඉන්න රටේ එක්දාස් දෙසීයක් අත් අඩංගුවට ගන්න එක ලොකු දෙයක්ද ?? මේ සියලු දෙනාවම නීතිය ඉදිරියේ යම් වරදක් කළා කියලා ඔප්පු කරලා දඬුවම් ලබා දෙන්න පුළුවන් නම්, ඒක ලොකු දෙයක්. දඩ කොලයක දිනේ හරියට ලියාගන්න බැරි පොලිසියක් තියන අපේ රටේ මේක තවත් එක"පොලිස් කෝලමක\" තමයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසිදු</author>
+            <date>2016-10-15 06:52:04</date>
+            <index>6</index>
+            <phrase>සුදු වැන් ද? කළු ඩිෆෙන්ඩර් ද දන්නේ නෑ ගියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

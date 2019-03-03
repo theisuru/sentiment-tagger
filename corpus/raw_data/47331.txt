@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47331</articleId>
+    <title>වෙහෙරහේන පූජාභූමියක් වෙයි</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජූනි මස 10 11:38:53</date>
+    <body>මාතර වෙහෙරහේන පූර්වාරාමය පූජා භූමියක් ලෙස රජය ප්‍රකාශයට පත් කළේය. ආරක්ෂක ලේකම් ඝොටාභය රාජපක්ෂ මහතා එහි ගොස් ආගමික වතාවත් පවත්වා සමරු ඵලකයද විවෘත කළේය.
+පේරාදෙණිය විශ්වවිද්‍යාලයේ බෞද්ධ අංශයේ මහාචාර්ය කොටකැටියේ රාහුල නාහිමියන් පැසුවේ තැනුම්පත රජ මහා විහාරය පුරාණ මන්තින්ද පිරිවෙණ, හිත්තටිය රජමහා විහාරය හා වෙහෙරහේවන පූර්වාරාමය ශාසනික හා ශ්‍රාස්ත්‍රීය ප්‍රබෝධයේ කේන්ද්‍රස්ථාන බවයි.
+කිරම විමලජෝති, මාපලගම බුද්ධසිරි, පරවාහරි රතනසිරි හා ඇමෙරිකාවේ නන්ද හිමි වෙහෙරහේන පූර්වාරාමයෙන් බිහිවූ හිමිවරුන් බවද ඒ හිමියෝ කීහ.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-10 11:42:22</date>
+            <index>0</index>
+            <phrase>හාමුදුරුවො කැළේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-10 12:34:04</date>
+            <index>1</index>
+            <phrase>ගම කියූ පමණින් මතක් වෙන්නේ ඔය පන්සල තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-06-10 12:00:58</date>
+            <index>2</index>
+            <phrase>නිධන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-06-10 14:13:00</date>
+            <index>3</index>
+            <phrase>ඇමතිතුමා පන්සලකට යන හැටිවත් දන්නේ නැද්ද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආච්චී</author>
+            <date>2012-06-10 17:09:08</date>
+            <index>4</index>
+            <phrase>පව් ගෙවෙන්න....හේතු වාසනා වේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-10 18:36:26</date>
+            <index>5</index>
+            <phrase>බොහොම හොඳ වැඩක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-06-10 21:36:08</date>
+            <index>6</index>
+            <phrase>බුදු සසුණ බැබලේවා බුදු සසුණ වැජඹේවා සිතේ දහම පිබිදේවා සියලු සතහට නිවන හිමිවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්ක</author>
+            <date>2012-06-11 05:00:38</date>
+            <index>7</index>
+            <phrase>එයා ලොක්ක නිසා වෙන්න ඇති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියදර්ශනී</author>
+            <date>2012-06-19 08:20:05</date>
+            <index>8</index>
+            <phrase>එතකොට මේ පැත්තෙන් බිහිවුණු හොරු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-06-26 07:29:50</date>
+            <index>9</index>
+            <phrase>අපේ සමහර පාලකයො පන්සලකටවත් යන්න දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

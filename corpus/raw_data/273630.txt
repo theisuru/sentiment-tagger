@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>273630</articleId>
+    <title>ආහාරය හැම සතාටම පොදුය</title>
+    <author>අනීෂා මානගේ</author>
+    <date>2014 නොවැම්බර් මස 05 09:59:30</date>
+    <body>බදාදා සහ ඉරිදා දිනවල තංගල්ල මහජන පොළේ වෙළෙදුනට හා පාරිභෝගිකයින්ට අමතරව හරක් ද එති.
+ඉවත දමන කොස්කටු,කෙසෙල් කැන් හා එළවළු කෑමට මේ සත්තු පුරුදුව සිටිති.
+ 
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2014-11-05 04:55:22</date>
+            <index>0</index>
+            <phrase>කුසගින්න හා වේදනාව හැම සතාටම පොදුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-11-05 09:18:46</date>
+            <index>1</index>
+            <phrase>සතා උනත් කරන්නේ හොඳ වැඩක්, පරිසරය දුෂණය වීමට ඇති ඉඩකඩ අවම කිරීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2014-11-06 05:00:45</date>
+            <index>2</index>
+            <phrase>හරක් හිතනවද දන්නෙ නැහැ මේ කුණු ගොඩවල් බෝඩිම්කාරයින්ට දෙන්න ගෙනියන්න කලින් අපි කාලා ඒ අහිංසකයින්ව බේරගන්න ඕනෑ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2014-11-06 06:49:31</date>
+            <index>3</index>
+            <phrase>‍ඔය පළාතේ කසළ කළමනාකාරිත්වයක් නැතුවාවද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-11-06 08:58:07</date>
+            <index>4</index>
+            <phrase>ලස්සන සතෙක්. මුන්ව මරන්නේ මොන හිතකින්ද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙසිකා - සයිප්‍රස්</author>
+            <date>2014-11-06 09:17:58</date>
+            <index>5</index>
+            <phrase>සතාට ඉන්න තැනක් වෙන්කරලා එතනට කෑම ගිහින් දැම්මා නම් ඉවරයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙරික්</author>
+            <date>2014-11-12 03:42:49</date>
+            <index>6</index>
+            <phrase>සමහර අයගේ අදහස් නම් නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙරික්</author>
+            <date>2014-11-12 03:42:33</date>
+            <index>7</index>
+            <phrase>සමහර අයගේ අදහස් නම් මරු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34689</articleId>
+    <title>ලක් ක්‍රිකට් ඉතාලියේ</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 03 11:03:14</date>
+    <body>වසර 50කට පසු යුරෝපය මුහුණ දුන් දරුණු සීත දේශගුණය අවසන් වීමත් සමගම  වසන්තයේ ආරම්භය සනිටුහන් කරමින් ඉතාලියේ පාදෝවා හා විවෙන්සා නගරයේ ශ්‍රි ලාංකික තරුණයින් සහභාගී වූ සැහැල්ලු පාන්දු ක්‍රිකට් තරගාවලියක් පාදෝවා  පුර්චලිනි ක්‍රිඩාපිටියේ දී පැවැත්විණි.  පාදෝවා ෂවුඩ් ක්‍රිඩා සමාජය සංවිධානය කළ මෙම තරගාවලිය සඳහා කණ්ඩායම් හතරක් සහභාගී විය.පන්දුවාර අටකට පමණක් සීමා වූ අවසන් වටයේ දී පාදෝවා සාන්ත අන්තෝනි කණ්ඩායම පරජාය කරමින් සාකාරක ෂවුඩ් ක්‍රිකට් කණ්ඩායම ජයග්‍රහණය කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ගලබඩ..ඉතාලියේ සිට...</author>
+            <date>2012-04-03 12:31:35</date>
+            <index>0</index>
+            <phrase>වැරදියි.එංගලන්ත සුද්දාගේ ක්‍රිකට්‌ ලංකාවේ අය පිල් බෙදී තරගයක්‌ ලෙස ක්‍රීඩා කරලා.අත් පන්දු ක්‍රීඩාව කලා නම් ලංකාවේ කිවහැක.මා හා උරණ නොවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බාවා</author>
+            <date>2012-04-03 16:51:29</date>
+            <index>1</index>
+            <phrase>සුබ පැතුම් ! මෙවන් පුවත් දකිනකොට සතුටුයි. ! ලංකාදීපයට ස්තූතියි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-04 01:40:14</date>
+            <index>2</index>
+            <phrase>හැබැයි පුෙත් උපන්ෙද්ශය අමතක කරන්න ඒපා ෙහාෙද්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-04-04 02:36:57</date>
+            <index>3</index>
+            <phrase>අපගේ ක්‍රිකට් තරගාවලිය පලකලාට ලංකාදීපයටත් අපිත් එක්කම ඉදගෙන අපිව දිරිමත් කරන මේවගේ විශිෂ්ඨ දේවල් කරන චඅයටත් අපගේ ගෞරවය සහ ස්තූතිය. !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුබාරක්</author>
+            <date>2012-04-04 12:51:56</date>
+            <index>4</index>
+            <phrase>මේ වගේ ප්‍රවෘත්ති පළ කරන එක ගැන ලංකාදීප පුවත්පතට ස්තුතිය පුද කරනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

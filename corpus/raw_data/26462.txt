@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26462</articleId>
+    <title>අම්පාර බස් පොලීසිය සමග දුවයි</title>
+    <author>චන්දන ලියආරච්චි</author>
+    <date>2012 පෙබරවාරි මස 13 11:05:16</date>
+    <body>පොලිස් ආරක්ෂාව සහිතව පෞද්ගලික බස් ධාවනය අම්පාරෙන් ඇරැඹිණි. අම්පාර දිස්ත්‍රික්කයේද, පිට පළාත් දුර ගමන් සේවා ද අද උදේ 9.30 ට පටන් ගත් බව එහි ප්‍රවාහන නිලධරයෝ කියති.  සන්නද්ධ පොලිස් කොස්තාපල්වරු දෙදෙනෙක් එක් බසයකට දමනු ලැබ සිටිති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-02-13 11:20:57</date>
+            <index>0</index>
+            <phrase>ගොඩක් හොදයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-02-13 11:34:37</date>
+            <index>1</index>
+            <phrase>වෙළඳ පොලේ තෙල් මිල වැඩි වුනාට ගෙවන්නම්, එත් හෙජින් බිල් එහෙම දාන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් - අම්පාර</author>
+            <date>2012-02-13 11:45:37</date>
+            <index>2</index>
+            <phrase>හමුදාවේ පොලීසියේ මහත්තුරු කීපදෙනෙක් ආයුධ සන්නද්ධව පාපුවරුවේ ඉන්න ගමන් බස් රථයේ යන එක 2009 අවුරුද්දේ මැදක් වෙනකල්ම අම්පාරේ අපිට අමුතු දෙයක් වුනේ නෑ. ඒත් ඒ ත්‍රස්තවාදී ප්‍රශ්න ඉවර වෙලා රට සාමකාමී වෙලා තියෙද්දිත් මෙහෙම වෙන එක ගැන දුකයි. ආණ්ඩුවෙන් තෙල් මිල ඉහල දැමීම ජනතාවට දරාගන්න අමාරුයි. ඒක වෙනම කතාවක්. අලි මදිවට හරක් කියල ගමනක් යන්න යනකොට බස් වර්ජනයකුත් තිබුනම අහිංසක දුප්පත් ජනතාවමයි නේද අමාරුවේ වැටෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හොද පුතා</author>
+            <date>2012-02-13 12:09:58</date>
+            <index>3</index>
+            <phrase>මේ බස් ගාස්තු වැඩි කරන්න හෝ අඩු කරන්න මිල සුත්‍රයක් හදන්න ඕනි. ඒ සඳහා දැන් කාලය කියල මට හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2012-02-13 13:18:01</date>
+            <index>4</index>
+            <phrase>ආණ්ඩුවේ අකාර්යක්ෂම තාවට මෙයට වඩා වෙන උදාහරණ තියනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-02-13 13:41:33</date>
+            <index>5</index>
+            <phrase>ආණ්ඩුවේ කලමානාකරණය හොද මදි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනී</author>
+            <date>2012-02-13 14:04:24</date>
+            <index>6</index>
+            <phrase>තෙල් මිල වැඩි කළාට කමක් නෑ. හැබැයි මෙච්චර ගානකින් වැඩි කරපු රක ලොකු අසාධාරණයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-02-13 15:37:07</date>
+            <index>7</index>
+            <phrase>පොලිසිය බස් වල ගෙන යන එක නෙවේ කරන්න ඕන.මේ ප්‍රශ්නෙට විසදුමක් දෙන්න ඕන.ඕක හැමදාම කරන්න පුළුවන් දෙයක්ද.තෙල් වලට සහනාධාරයක් දෙන්න ඕන නැත්නම් බස් ගාස්තු වැඩි කරන්න ඕන.මේ මොනවද කරන විකාර වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18965</articleId>
+    <title>වදේ දුන්නාට පන්ති තහනම්</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2011 දෙසැම්බර් මස 23 18:22:36</date>
+    <body>මාතර සරසවි ශිෂ්‍යාවට නවක වදය දුන්නැයි සැකපිට තවත් ශිෂ්‍යාවකගේ පන්ති තහනම් කළ බව රුහුණු සරසවි ආරංචි මාර්ග කියයි.</body>
+    <comments>
+        <comment>
+            <author>සේන</author>
+            <date>2011-12-23 20:08:28</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2011-12-23 22:43:21</date>
+            <index>1</index>
+            <phrase>වගකිවයුත්තනි මේවගේ අය එළවන්න විශ්ව විද්‍යාල වලින්. පව් නැහැ එහෙම කළාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිත් සිල්වා</author>
+            <date>2011-12-24 04:08:37</date>
+            <index>2</index>
+            <phrase>අධ්‍යාපනයත් මුලු රටත් විනාශ කරන අය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>KGR</author>
+            <date>2011-12-24 04:23:24</date>
+            <index>3</index>
+            <phrase>නවක වදය අනිසි ලෙස සිදු කරන අයගෙ පන්ති සදා තහනම් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන පෙරේරා</author>
+            <date>2011-12-24 11:58:20</date>
+            <index>4</index>
+            <phrase>නවක වදය දෙන්නෙ මානසික ලෙඩ්ඩු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dan</author>
+            <date>2011-12-24 14:04:53</date>
+            <index>5</index>
+            <phrase>ඉස්සර වගේ පොඩි විනෝදෙට කරපු නවක වදයක් නෙමේ දැන් කරන්නේ. අමානුෂික වැඩ. මෙවැනි නවකවදයත් දේශපාලනෙත් විශ්ව විද්‍යාලවලින් අයින් කරන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sha</author>
+            <date>2011-12-24 14:10:09</date>
+            <index>6</index>
+            <phrase>ශිෂ්‍ය සංගම් මොකද මේවට කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංජිත් රෝෂාන් කොඩිකාර</author>
+            <date>2011-12-24 16:05:09</date>
+            <index>7</index>
+            <phrase>ෙ සදා කල් තහනම් කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2011-12-25 12:35:05</date>
+            <index>8</index>
+            <phrase>අපි නම් ව්ශ්වවිද්‍යාල ගිහින් නැහැ. එත් අපි මෙවට යන්නේ ඇත්තටම උ / පෙළ සමත් වෙච්ච අයද කියන එක සැකයී. මම නම් කියන්නේ එක පාරම මෙ අයගෙ ශිෂයභාවය තහනම් කරන්න ඕන. නැත්නම් පෞද්ගලික ව්ශ්වවිද්‍යාල අරින එක හොදයි. පව් කාරයො ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

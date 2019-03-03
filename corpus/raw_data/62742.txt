@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>62742</articleId>
+    <title>පැරිසිය යාපන සිරි ගනී</title>
+    <author>පැරිසියේ සුනිල් ආනන්ද</author>
+    <date>2012 සැප්තැම්බර් මස 04 18:36:44</date>
+    <body>ගණ දෙවි රුව රැගත් පෙරහරක් ප්‍රංශයේ පැරිස් අගනුවර 18 වැනි කලාපයේ දී මහා ජනකායක් මැද පැවැත්විණි. නැටුම්, ගැයුම්, වැයුම් වැලින් පිරි මේ හින්දු උළෙල ප්‍රංශයේ පැවැතියේ 17 වැනි වසරටය. ප්‍රංශයේ වෙසෙන දෙමළ ජනයා මේ උත්සවය සංවිධානය කරති. විදේශිකයෝ බොහෝ පිරිසක් ද ඊට එක් වූහ.
+ </body>
+    <comments>
+        <comment>
+            <author>හිරන්ත</author>
+            <date>2012-09-04 19:40:14</date>
+            <index>0</index>
+            <phrase>ඉතාම ලස්සනයි. ඇත්තටම යාපනේ වගේම තමයි....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනුල්</author>
+            <date>2012-09-04 19:36:46</date>
+            <index>1</index>
+            <phrase>පැරීසිය වුනත් නරක නෑ ඊළම පිහිටුවන්න........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන් සෞදි අරාබිය</author>
+            <date>2012-09-04 19:43:59</date>
+            <index>2</index>
+            <phrase>සිංහල හෝ දෙමළ ජනයා මේවගේ කිසිම රටක විශාල පිරිසක් නැහැ.. යුද්ධය මුවාවෙන් ගිහිං සෑම රටකම පුරවැසිභාවය ලබාගෙන අපටම කොකා පෙන්නනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-09-04 20:03:17</date>
+            <index>3</index>
+            <phrase>හරිම සතුටුයි.. තම සංස්කෘතිය රුකගෙන ඉදිරියටම යන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Tuwan Sheriff</author>
+            <date>2012-09-04 20:08:13</date>
+            <index>4</index>
+            <phrase>කොටියා පොඩ්ඩ පොඩ්ඩ එළියට එනවා වගේ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-09-04 20:19:20</date>
+            <index>5</index>
+            <phrase>ළගදිම පැරිසියෙන් කෑල්ලක් ඉල්ලලා සටන් කරයි වගේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Eric Anthony Perera</author>
+            <date>2012-09-04 20:24:34</date>
+            <index>6</index>
+            <phrase>මෑතකදිම පැරිසියෙන් කෑල්ලක් ඉල්ලනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිජ්</author>
+            <date>2012-09-04 21:28:33</date>
+            <index>7</index>
+            <phrase>බුදු අම්මෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-09-04 21:45:45</date>
+            <index>8</index>
+            <phrase>ඔය රටවල් වලටත් අතිවිශේෂ කෑමක් කවදා හරි හම්බ වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-09-04 22:23:57</date>
+            <index>9</index>
+            <phrase>ලංකාවේ කැලි ඉල්ලුවා වග, ප්‍රංශයෙනුත් කැල්ලක් ඉල්ලයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-09-04 23:03:02</date>
+            <index>10</index>
+            <phrase>තවත් තමිල්නාඩුවක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-09-04 23:40:30</date>
+            <index>11</index>
+            <phrase>එහේ නැද්ද සත්ත්ව බිලි පූජා එහෙම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-09-05 01:02:40</date>
+            <index>12</index>
+            <phrase>අනේ හොදට තියෙන පැරිසියටත් යන කලක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-09-05 02:06:34</date>
+            <index>13</index>
+            <phrase>ලංකාවේ ඉන්න පුලුවන්කමක් නැති නිසා වෙන්න ඇති ගණ දෙවියෝ පැරිසියට ගියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරෝෂ්</author>
+            <date>2012-09-05 02:30:30</date>
+            <index>14</index>
+            <phrase>පැරිසියේ ඉන්නේ කොන්දක් තියෙන නායකයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්වර්ණා</author>
+            <date>2012-09-05 02:40:47</date>
+            <index>15</index>
+            <phrase>පැරිස් වලට ගිය කලක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-09-05 03:04:06</date>
+            <index>16</index>
+            <phrase>මේවා ඉතින් කාගේ සල්ලිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-09-05 03:22:23</date>
+            <index>17</index>
+            <phrase>අර මැරුණයි කිවුව ප්‍රභාකරන් වගේ කෙනෙකුත් ඉන්නවා නේද පින්තූරෙක?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මයික්</author>
+            <date>2012-09-05 06:12:38</date>
+            <index>18</index>
+            <phrase>නියමයි. ඔහොම යන්. එහෙත් කැල්ලක් ඉල්ලන්න පුළුවන්. ගියතැන ඕකමනේ කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීර්</author>
+            <date>2012-09-05 06:33:35</date>
+            <index>19</index>
+            <phrase>මේ අබ ඇටයක් තරම් අපේ රටෙන් කෑලි ඉල්ලන්නෙ නැතුව ඔන්න ඔහෙන් ඉල්ලලා යුද්ධ කරගන්න බැරියෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-09-05 06:46:59</date>
+            <index>20</index>
+            <phrase>ඉල්ලමුද පැරිසියටත් ඊළමක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-09-05 06:50:03</date>
+            <index>21</index>
+            <phrase>පැරිසියටත් ගිහිල්ලා ඉවරයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-05 08:13:26</date>
+            <index>22</index>
+            <phrase>ඔය පැති වල කොටි පුල්ලි එහෙම මතුවෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-09-05 08:33:17</date>
+            <index>23</index>
+            <phrase>ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තංගරාජ්</author>
+            <date>2012-09-05 10:13:22</date>
+            <index>24</index>
+            <phrase>ඊර්ෂියා කරන්න එපා .ඔයාලගේ ආගමේ ‍සෙල්ලම්,ක්‍රීඩා ආදියක් පෙන්නන්නම්කෝ.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-09-05 13:23:03</date>
+            <index>25</index>
+            <phrase>තුන්වෙනි පින්තූරේ ප්‍රභා ඉන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-09-05 14:45:10</date>
+            <index>26</index>
+            <phrase>සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2012-09-05 15:44:01</date>
+            <index>27</index>
+            <phrase>යුද්දයේ පිහිටෙන් ජය ලැබුවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-09-06 01:36:37</date>
+            <index>28</index>
+            <phrase>පැරිස් ගියහමත් යාපනයට ගියා වගේ තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-09-07 00:57:40</date>
+            <index>29</index>
+            <phrase>ලංකාව දියුණු කරන්න බොහෝ ප්‍රයෝජනවත් පිරිසක්. ගණ දෙවි නුවණ පහළ වේවායි පතමු. ගණ දෙවි වඳිමින් කාලි මෑණි සරණ යාම තමයි දොස.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

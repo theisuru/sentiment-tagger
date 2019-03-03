@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54510</articleId>
+    <title>මහා පක්ෂ දෙක ඡන්ද නීති කඩලා</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 ජූලි මස 20 17:46:41</date>
+    <body>සබරගමුව, උතරු මැද හා නැගෙනහිර පළාත් සභා ඡන්ද විමැසීම සඳහා නාම යෝජනා බාර ගැනීම අවසන් වීමෙන් පසු මැතිවරණ නීති උල්ලංඝනය කිරීම් 12ක් සිදු වී ඇතැයි නිදහස් හා සාධාරණ මැතිවරණයක් සඳහා වූ ජනතා ව්‍යාපාරයේ (කැපේ) විධායක අධ්‍යක්ෂ කීර්ති තෙන්නකෝන් මහතා පවසයි. පහරදීමක් හා රථවාහන පෙළපාළි 11ක් පැවැත්වීම පිළිබඳ මැතිවරණ කොමසාරිස් මහින්ද දේශප්‍රිය මහතාට ද පැමිණිලි කර තිබේ. එක්සත් ජනතා නිදහස් සන්ධානය, එක්සත් ජාතික පක්ෂයේ අපේක්ෂකයන් හා ආධාරකරුවන් පිරිසක් මීට හවුල් බව ද ඔහු කීය.</body>
+    <comments>
+        <comment>
+            <author>රජිත මංජුල</author>
+            <date>2012-07-20 18:00:03</date>
+            <index>0</index>
+            <phrase>හොඳ හොඳ සෙල්ලම් එළිවෙන ජාමෙට කිව්වළු කලබල වෙන්න එපා තවම ඔහොම යං ඔහොම යං.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>upul</author>
+            <date>2012-07-20 19:52:52</date>
+            <index>1</index>
+            <phrase>පටන් ගත්ත විතරයි. ඉදිරියට මොනවා වෙදිය දන්නේ නැ. අපි ඉන්නේ මාලදිවයිනේ. ලංකාවේ වෙන දෙවල් අහන්න ලැජ්ජැයි මේ නොවෙනව නෙමෙයි. අපි බෞද්ධරක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ලා</author>
+            <date>2012-07-20 21:12:26</date>
+            <index>2</index>
+            <phrase>ප්‍රශ්නයක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-20 23:29:33</date>
+            <index>3</index>
+            <phrase>කවුද පළාත්සභා ඉල්ලුවේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-07-21 07:40:18</date>
+            <index>4</index>
+            <phrase>ඡන්ද නීති කඩලා? කොහේ තියෙන නීතියක්ද ඔය කියන්නේ? එහෙම දේවල් තිබුනේ බොහොම ඉස්සර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-21 08:36:12</date>
+            <index>5</index>
+            <phrase>ඕව කියලා වැඩක් නෑ.....සැප්තැම්බර් 8 තීරණයක් ගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2012-07-21 14:43:28</date>
+            <index>6</index>
+            <phrase>එහෙම නොවුනොත් තමයි පුදුමේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

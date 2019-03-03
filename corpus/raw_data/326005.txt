@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>326005</articleId>
+    <title>ටෝනි රණසිංහ අවසන් ගමන් යයි</title>
+    <author>ඩයනා උදයංගනී ඡායාරූප ලහිරු හර්ෂණ</author>
+    <date>2015 ජූනි මස 19 19:31:22</date>
+    <body>අභාවප්‍රාප්ත ප්‍රවීණ රංගධර ටෝනි රණසිංහ මහතාගේ දේහය මහජන ගෞරවය සඳහා අද පෙරවරුවේ සිට සවස් වන තුරු කොළඹ හත ජාතික කලා භවනේ තැන්පත් කර තිබිණි.
+හිටපු ජනපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග, සංස්කෘතික කටයුතු ඇමැති නන්දිමිත්‍ර ඒකනායක, නියෝජ්‍ය ඇමැති තිලංග සුමතිපාල ඇතුළු දේශපානඥයෝ ද, කලාකරුවෝ රැසක් ද අද පැමිණ අවසන් ගෞරව දැක්වූහ.
+ඉන් අනතුරුව දේහය මහබාගේ මත්තුමංගල ශ්‍රී හෘදය දේවස්ථානය වෙත දේව මෙහෙය පැවැත්වීම සඳහා රැගෙන යනු ලැබිණි.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2015-06-20 07:00:15</date>
+            <index>0</index>
+            <phrase>උසස් නළුවෙක්. ගුණගරුක මහත්මයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රා</author>
+            <date>2015-06-20 07:40:15</date>
+            <index>1</index>
+            <phrase>ඔබට නිවන්සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය එඩ්වර්ඩ් පෙරේරා ජර්මනිය</author>
+            <date>2015-06-21 02:18:02</date>
+            <index>2</index>
+            <phrase>ඔබ වචනයේ පරිසමාප්තියෙන්ම දක්ෂ රංගන ශිල්පියෙක්. වේදිකාවේ මෙන්ම පුළුල් තිරයේත් ඔබ පෙන්වුයේ ඔබේ ඒ හැකියාවයි.ඔබ අද අපෙන් සමුගත්තත් කලාව කිසිදාක ඔබෙන් සමුගන්නේ නැහැ. අප අතරම යළි ඉපදී කලා ලොව නැවත නැවතත් එළිය කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2015-06-22 10:16:22</date>
+            <index>3</index>
+            <phrase>ඔබට නිවන් සුව.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රිමාල්</author>
+            <date>2015-06-26 09:59:54</date>
+            <index>4</index>
+            <phrase>ඔබට නිවන්සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනෝමා</author>
+            <date>2015-07-01 07:45:48</date>
+            <index>5</index>
+            <phrase>දයාබර ටෝනි ඔබ සදා අමරණීයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2015-08-15 06:26:54</date>
+            <index>6</index>
+            <phrase>ඔහු සදා අමරණීය නළුවෙක්.මගේ සිතේ හැමදාම ඉන්නා කලාකරුවෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

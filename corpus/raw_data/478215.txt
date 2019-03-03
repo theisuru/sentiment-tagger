@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>478215</articleId>
+    <title>පැරීසියේ සමාධි කඨිනය නොවැ. 13</title>
+    <author>සුනිල් ආනන්ද පැරීසියේ සිට</author>
+    <date>2016 නොවැම්බර් මස 09 15:46:19</date>
+    <body>පැරීසියේ විල්නෙව් සෙන්ට් ජොර්ජ් හි අංක 60 රූ ඩෙ බෙල් ෆලස් හි පිහිටි සමාධි බෞද්ධ මධ්‍යස්ථානයේ මෙවර කඨින පිංකම නොවැම්බර 13 වැනි දා  උදේ 10 ට  ආරම්භ වේ. එහි විහාරාධිපති තලංගල්ලේ සුමංගල හිමියන්ගේ ප‍්‍රධානත්වයෙන් පැවැත්වෙන පිංකමට ශ්‍රී ලංකාවේ සහ යුරෝපයේ ස්වාමීන් වහන්සේලා 15 නමක් සහභාගී වීමට  නියමිතය.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>මදුර</author>
+            <date>2016-11-09 11:20:17</date>
+            <index>0</index>
+            <phrase>ඔන්න නියම කඨින පිංකම බලන්න සමාධියට එන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුෂා</author>
+            <date>2016-11-09 20:03:17</date>
+            <index>1</index>
+            <phrase>මදුරගේ කතාව ඇත්ත. පැරීසියේ තියෙන හොඳම කඨින පිංකම. මමත් ඔය හැම පන්සලකම කඨින බලන්න ගියා. නමුත් සමාධි විහාරයේ කඨිනයට ගියාම අනුරාධපුර අටමස්ථානයට ගියා වගේ. ඒ තරම්ම ලස්සනයි. ඒ ගැන කතා දෙකක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-10 14:58:00</date>
+            <index>2</index>
+            <phrase>කඨින පිංකම විතරක් නොවෙයි වෙනත් පින්කමුත් ඔය පන්සලේ ලස්සනට කරනවා. කලින් හිටපු පන්සලේදී ඒ නිදහස නොලැබුන නිසා තමයි මෙතන ඒ වැඩවලට යොදා ගත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්‍රමසිංහ</author>
+            <date>2016-11-10 21:21:08</date>
+            <index>3</index>
+            <phrase>ඇත්තටම, අපි ගොඩාක් කැමතියි මේ පන්සලේ තියෙන පිරිසිදුකමටත්, පිළිවෙලටත්. අපේ ගෙවල්වල පිළිවෙලක් නැතිවුණාට, අපි ආසයි ඇත්තටම ඒක පන්සලකින් හරි දැකලා සතුටු වෙන්න. මේ පන්සලේ විහාරගෙය පුදුම ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-11 10:22:22</date>
+            <index>4</index>
+            <phrase>පුද පුජා වුණත් අනෙක් තැන වලට වඩා සන්සුන්ව අලංකාර විධිමත් ලෙස සිදු කරනවා . ශෝභන නැහැ (අ).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

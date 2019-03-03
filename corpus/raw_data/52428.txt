@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52428</articleId>
+    <title>කප්පම් කප්පිත්තෝ රිමාන්ඞ්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජූලි මස 09 15:50:21</date>
+    <body>ආරක්ෂක ලේකම්ගේ නිලධරයන් බව කියමින් මදුරන්කුලියේ ව්‍යාපාරික මොහොමඞ් රිස්වි මහතාගෙන් රුපියල් කෝටියක් ඉල්ලා රුපියල් හැට ලක්ෂයක් කප්පම් කෑ බව කියන සිවු දෙනෙක් ලබන 18 වැනිදා තෙක් රිමාන්ඞ් කැර හඳුනා ගැනීමේ පෙරෙට්ටුවකට ඉදිරිපත් කරන්නැයි කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා නියෝග කළේය.
+රහස් පොලිසිය උසාවියට දැන්වූයේ ජනක චමින්ද, රංජිත් ප‍්‍රියනන්ද සිල්වා, මොහොමඞ් සකීර් හුසේන් හා චින්තක හේමචන්ද්‍ර යන සිවු දෙනා කොළඹ වේල්ලවීදියේ ව්‍යාපාරිකයකුගෙන් රුපියල් ලක්‍ෂ 4ක කප්පම් කා ඇති බවට තවත් නඩුවක් ගොනු කර ඇති බවයි.</body>
+    <comments>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-09 16:36:14</date>
+            <index>0</index>
+            <phrase>ආරක්ෂක ලේකම් තුමාට ජීවත් වෙන්න කප්පම් ගන්න ඕනේ නැ ..අනික ලේකම් තුමා සරල ජීවිතයක් ගෙනියන කෙනෙක් ..ඔයා වගේ නම් විකුණලා හොර වැඩ කරන අයට වෙනම දඩුවමක් දිය යුතුයි ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-07-09 16:08:58</date>
+            <index>1</index>
+            <phrase>පිලිපීනෝ ඔයා මොන පක්ශයේ කෙනෙක්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකිකය</author>
+            <date>2012-07-09 16:49:06</date>
+            <index>2</index>
+            <phrase>පිලිපිනෝ ඔබ තුමා ආණ්ඩුවේ එක්කෙනෙක්ද අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-09 16:16:22</date>
+            <index>3</index>
+            <phrase>මම කැමැතියි මෙම කප්පන් කරුවෝ සියල්ලටම ලංකාවේදී මනා වු පුහුනුවක් ලබා දී මුහුදු කප්පන් කරුවන් වශයෙන් යෙදවීමෙන් රටට මහා ධනයක් ගන්න හැකයි. අපේ රටත් සොමාලියාණු මුහුදු කොල්ල කල්ලිය වගේ ලෝකයම දැන ගනීවී පිටරටවල් මුහුදෙන් ඇවිත් අපට සෙල්ලම් දමන පිටරටවල්වල අය අපේ මුහුදේ ඇවිත් මසුන් අල්ලන එක නතර කරන්න හොද වැඩේ.‍ මම කිවිවට නිකමට ප්‍රොජෙක්ට් රිපොට් එකක් හදලා ඇමති මණ්ඩල අනුමැතිය ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-09 16:46:59</date>
+            <index>4</index>
+            <phrase>සරල ජීවිතයක් ගෙනියන........ අනේ මගේ කට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ්</author>
+            <date>2012-07-09 17:34:05</date>
+            <index>5</index>
+            <phrase>ලොක්කෝ යන පාරේ පොඩ්ඩොත් යන එක අහන්නත් දෙයක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-09 20:12:06</date>
+            <index>6</index>
+            <phrase>ඇයි ජගත්ගේ කටට මොකෝ උනේ ? කියන්නකෝ බලන්න ඉතුරු ටිකත් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-07-09 21:28:55</date>
+            <index>7</index>
+            <phrase>අදස් කරපු නියම දෙය කවුරුත් හරිහැටි තේරුම් අරගෙන නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-10 09:08:48</date>
+            <index>8</index>
+            <phrase>මම මේ සරළ ජීවිතයක් කිව්වෙ මහත්මාගාන්ධිතුමා වගේ කියල නෙමෙයි.. ඔය ‍පොඩි පොඩි මන්ත්‍රීල ගාව වගේ බොරැ සෝබන වැඩ නැහැ ආ‍රක්ෂක ලේකම් ළග</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීනා</author>
+            <date>2012-07-10 12:22:49</date>
+            <index>9</index>
+            <phrase>උපවාස කාලෙට දුප්පතුන්ට බෙදන්න තියා ගත්ත සල්ලිද දන්නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

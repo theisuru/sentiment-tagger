@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>285587</articleId>
+    <title>බසය ආප්පයක් වෙයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 දෙසැම්බර් මස 26 09:20:28</date>
+    <body>පිටකෝට්ටේ බැද්දගාන පාරේ අඩි 10ක පමණ තාප්පයක් කඩා වැටී කුඩා බසයක් තැලී ගොස් ඇති බව ඇති බව පොලිසියට පැමිණිලි කර ඇත.
+එම බසයේ කිසිවකු නොසිටි බවත් එය ආප්පයක් මෙන් තැලී ඇති බවත් හිමිකරු කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුදත්</author>
+            <date>2014-12-26 04:32:47</date>
+            <index>0</index>
+            <phrase>රක්ෂණය, දමා ඇති පිලිවලට තමයි ඉතුරු පාඩු අලාබ සිද්ධ වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-12-26 13:11:09</date>
+            <index>1</index>
+            <phrase>අම්මෝ ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

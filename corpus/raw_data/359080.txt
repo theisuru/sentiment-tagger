@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>359080</articleId>
+    <title>ගුණරත්නම්ට නිදහස ඉල්ලා පෙරටුගාමියෝ වීදි බසිති</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2015 නොවැම්බර් මස 05 18:20:01</date>
+    <body>පෙරටුගාමී සමාජවාදී පක්ෂයේ නායකයා ලෙස සැලකෙන කුමාර් ගුණරත්නම් අත්අඩංගුවට ගැනීමට එරෙහිව පෙරටුගාමී සමාජවාදී පක්ෂයේ උද්ඝෝෂණයක් අද (5) කොටුව දුම්රියපොළ ඉදිරිපිට පැවැත්විණි.
+කුමාර් ගුණරත්නම් වහා නිදහස් කරන ලෙස ඔවුහු ඉල්ලති. </body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2015-11-05 13:13:06</date>
+            <index>0</index>
+            <phrase>වීසා කල්ඉකුත්ව ඇත්නම් දෙවනුව අවශ්‍ය නම් නැවතත් වීසා ගන්න පුළුවන් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2015-11-05 13:14:04</date>
+            <index>1</index>
+            <phrase>රටේ පවතින නීතියට පටහැනිව ක්‍රියාකර ඇත්නම් වහාම අත්අඩංගුවට ගෙන නීතිමය කටයුතු කරන්න. මෙම පිළිගත් ක්‍රියාදාමය මානව අයිතිවාසිකම් තහවුරු කරන්නකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2015-11-05 13:33:21</date>
+            <index>2</index>
+            <phrase>රටේ ප්‍රශ්න නැතුවට ප්‍රශ්න ඇතිකරනවා. ගියා නම් ගිය රටකට වෙලා හිටියා නම් ඉවරයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

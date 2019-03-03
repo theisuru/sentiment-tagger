@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36748</articleId>
+    <title>ආනන්ද හිමිගේ මව කළුරිය කරයි</title>
+    <author>පැරිසියේ සුනිල් ආනන්ද</author>
+    <date>2012 අපේ‍්‍රල් මස 16 11:53:52</date>
+    <body>පැරීසියේ ධම්මචක්ක බෞද්ධ විහාරාධිපති කෝන්ගස්දෙනියේ  ආනන්ද හිමියන්ගේ  මැණියන් වු කේ. ඒ . සිසිලින් නෝනා මාතාව අවුරුදු 92 ආයු වලඳා පසුගිය අප්‍රේල් 13 වැනිදා  අභවප්‍රාප්ත  වූවාය.  අවසන් කටයුතු 19 වෙනි බ්‍රහස්පතින්දා නිට්ටඹුව වතුපිටිවල මාතලානේ දි  සිදු කිරිමට නියමිතය
+ </body>
+    <comments>
+        <comment>
+            <author>ස්වර්ණා මණ්ඩාවල</author>
+            <date>2012-04-16 14:50:47</date>
+            <index>0</index>
+            <phrase>පැරිස් ධම්ම චක්ක විහාරාධිපති ආනන්ද හිමියන්ගේ මෑණියන්ට නිවන් සුව ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල් කුමුදු පීරිස්</author>
+            <date>2012-04-16 15:27:21</date>
+            <index>1</index>
+            <phrase>අතී ගරු කොන්ගස් දෙනියේ ආනන්ද ස්වාමින් වහන්සේගේ දයාබර මැනියන්ට නිවන් සුව ප්‍රර්ථනා කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දවිමල හිමි.</author>
+            <date>2012-04-16 15:39:53</date>
+            <index>2</index>
+            <phrase>පින්වත් මෑණියන්ට නිවන් සුව ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486786</articleId>
+    <title>සිවිල් ආරක්ෂකේ සියුමැලි දෑත් ඉරිදා වැඩ නෑ</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 දෙසැම්බර් මස 02 17:20:16</date>
+    <body>සිවිල් ආරක්ෂක දෙපාර්තුමේන්තුවේ කාන්තාවන්ට ඉරිදා දිනය විවේක දිනයක් කැරෙයි.</body>
+    <comments>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-12-02 18:35:25</date>
+            <index>0</index>
+            <phrase>මේකට සමහරු කැමැති වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2016-12-03 20:59:40</date>
+            <index>1</index>
+            <phrase>මෙය ඉතා හොද අදහසක්,අම්මලාට දරුවන් සමග ඉන්න තියෙන එකම දවස ඉරිදා නිසා,සමහරු කියයි එදාට දරුවෝ දහම් පාසල් සහ ටියුෂන් යනවා කියලා,කරුණාකරලා ඇත්ත ඇති සැටියෙන් දකින්න කියලා,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

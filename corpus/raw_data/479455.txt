@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>479455</articleId>
+    <title>ඉන්දියාවෙන් තවත් 41ක් ලංකාවට</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 13 15:16:46</date>
+    <body>තමිල්නාඩුවේ සරණාගත කඳවුරුවල රැදී සිටින ශ්‍රී ලාංකික සරණාගතයින් 41 දෙනෙකු ලබන සතියේ  දිවයිනට පැමිණෙන බව බන්ධනාගාර ප්‍රතිසංස්කරණ, පුනරුත්තාපන සහ නැවත පදිංචි කිරීමේ අමාත්‍යාංශය පවසයි.
+එක්සත් ජාතීන්ගේ සරණාගතයින් පිළිබඳ මහකොමසාරිස් කාර්යාලයේ මැදිහත්වීමෙන්  එම පිරිස මෙරටට පැමිණීමට නියමිතය.
+යළි දිවයිනට පැමිණෙන එම ලාංකික සරණාගතයින් පිරිස මන්නාරම, වව්නියාව, ත්‍රිකුණාමලය, මුලතිව් සහ යාපනය යන ප්‍රදේශවල මුල් පදිංචිකරුවෝ වෙති.
+2011 වසරේ සිට ඉන්දියාවේ සිටි සරණාගතයින්  5225 දෙනෙකු මෙරටට පැමිණ ඇති බව ද කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-11-13 11:13:45</date>
+            <index>0</index>
+            <phrase>සමගියෙන් ජීවත්වෙනවා නම් එච්චරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-11-13 16:49:33</date>
+            <index>1</index>
+            <phrase>ගිය විදියටමද ආපසු එන්නෙත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-11-14 01:27:31</date>
+            <index>2</index>
+            <phrase>විනාශයි! ඉන්න අය දෙන වදය මදැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-11-14 02:54:06</date>
+            <index>3</index>
+            <phrase>ඔහොමම කෝටි 8ම ගෙනෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-11-14 13:42:24</date>
+            <index>4</index>
+            <phrase>මට නම් පෙනෙන හැටියට මුළු තමිල්නාඩුවම ඇවිල්ලා ලංකාවේ පදිංචි වෙනවා මේ විදියට. කවුද ඔප්පු කරන්නේ මෙයාලා ඇත්තටම උතුරෙන් ගිය අයමද කියලා. ඉන්දියාවත් බලන්නේ කොහොමහරි එයාලගේ ප්‍රශ්න වලට උත්තර කෙසේ හෝ ලබාගන්නයි. මේ විදියට මුළු ලංකාවම අල්ලාගනියි තව අවුරුද්දක් යද්දී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

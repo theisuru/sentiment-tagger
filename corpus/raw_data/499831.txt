@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499831</articleId>
+    <title>පළාත් කීපයකට හෙට වැස්ස</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 19 17:24:11</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2017-01-19 13:49:20</date>
+            <index>0</index>
+            <phrase>ඔය කිව්වට ඔය විදියට වෙයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෂූඩ්</author>
+            <date>2017-01-19 16:37:12</date>
+            <index>1</index>
+            <phrase>කාළගුණ දෙපාර්තමේන්තුවෙන් කියන නිසා වරදින්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල</author>
+            <date>2017-01-19 16:44:05</date>
+            <index>2</index>
+            <phrase>අනේ මොනතරම් හොඳ පුවතක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2017-01-19 16:58:42</date>
+            <index>3</index>
+            <phrase>අනේ වාසනාවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2017-01-20 03:52:45</date>
+            <index>4</index>
+            <phrase>කාළගුණ දෙපාර්තමේන්තුව ඔහොම කියන්නේ ලැබෙන දත්ත අනුවයි නමුත් නොයෙකුත් හේතුන් නිසා අහසෙහි ස්වභාවය වෙනස් වෙනවා එතකොට ඔය කියන අනාවැකි වරදිනවා. එම නිසා කාළගුණ දෙපාර්තමේන්තුව උපහාසයට ලක්කිරීම වැරදී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2017-01-20 15:55:14</date>
+            <index>5</index>
+            <phrase>අහන්නත් සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2017-01-20 17:41:44</date>
+            <index>6</index>
+            <phrase>බමුණු කියන කතාව හරි. අපිට තියෙන්නේ යල්පැන ගිය තාක්ෂණික උපකරණ. ඒවා භාවිතා කරලා මෙහෙම හරි අනාවැකියක් කියනවට තෑගි දෙන්න වටිනවා. ඊයේ කිවුවා වගේම අපිට නම් අද වැස්සා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

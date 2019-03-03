@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505153</articleId>
+    <title>මාධ්‍යවේදීන්ගේ ප්‍රශ්න කිරීමෙන් සාකච්ඡාව කැළඹෙයි</title>
+    <author>බිඟුන් මේනක ගමගේ</author>
+    <date>2017 පෙබරවාරි මස 07 17:37:08</date>
+    <body>ජාතික වෘත්තිය සමිති පෙරමුණ මරදාන සමාජය හා සාමයික කේන්ද්‍රයේදී  අද දවල් පැවැත් වූ ප්‍රවෘත්ති සාකච්ඡාවකදී රූපවාහිනී මාධ්‍යවේදීන් පිරිසක් සහ සංවිධායකයන් අතර උණුසුම්කාරීතත්ත්වයක් ඇති විය.
+යළි පදිංචිකිරීම්වලින් විල්පත්තු ජාතික වනෝද්‍යානයට හානියක් සිදුව නැති බවට කරුණු දැක්වීමේ අරමුණෙන් පැවැත් වූ   ප්‍රවෘත්ති සාකච්ඡාවේ දී මාධ්‍යවේදීන් ප්‍රශ්න අසන අවස්ථාවේදී මෙම තත්ත්වය හටගත්තේ ය. 
+ප්‍රවෘත්ති සාකච්ඡාව සංවිධානය කළේ රිෂාඩ් බදියුදීන් ඇමැතිවරයාදැයි මාධ්‍යවේදීන් ප්‍රශ්න කළ අතර ජාතික වෘත්තිය සමිති පෙරමුණ එය ප්‍රතික්ෂේප කළේය. </body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2017-02-07 12:59:37</date>
+            <index>0</index>
+            <phrase>කොන්ද පන ඇති මාධ්‍යවේදින්ට අපගේ ප්‍රණාමය. සංවිධානය විතරක් නොවෙයි ඕක තියලා සිංහල මිනිස්සු ගොනාට අන්දන්න ගෙවීම ලැබුනේ ඩොලර් වලින්ද, ඩිරාම් වලින්ද රියල් වලින්ද කියලත් අහන්න තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2017-02-07 13:03:58</date>
+            <index>1</index>
+            <phrase>මාධ්‍යවේදීන්ට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2017-02-07 19:37:37</date>
+            <index>2</index>
+            <phrase>එයාලගේ කුණු එළියට එන නිසා මාධ්‍යයේ ප්‍රශ්න කිරීම් වලට අකමැතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2017-02-08 00:58:47</date>
+            <index>3</index>
+            <phrase>මහින්ද මහත්තයා හිටියා නම් ඔය තත්ත්වය වෙනස් වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2017-02-08 02:55:49</date>
+            <index>4</index>
+            <phrase>ගොඩක් දෙනාගේ රෙදි මේ මාධ්‍ය හමුවේදී ගැළවී තිබෙන හැඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලීප</author>
+            <date>2017-02-08 03:25:14</date>
+            <index>5</index>
+            <phrase>තුසිත, අමුතුවෙන් ගැළවෙන්න දෙයක් නැහැ. ඔය සෙට් එකේම කොහොමත් කාලෙක ඉඳලා රෙදි ගැළවිලයි ඉන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-08 06:35:41</date>
+            <index>6</index>
+            <phrase>ඔතන ඉදල තියෙන්නේ අර හැමදේකටම හොම්බ දාන පිරිමි හෙද සේවකයා නේද. ලෙඩ්ඩුන්ට සලකන්නේ නැතිව අැමතිලට සලකනවා නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

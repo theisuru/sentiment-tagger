@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>413400</articleId>
+    <title>හපුතලේ කන්ද පල්ලමට ලොරියක් වැටේ</title>
+    <author>නයන තෙන්නකෝන්</author>
+    <date>2016 මැයි මස 09 11:08:24</date>
+    <body>අධික වර්ෂාව හා මීදුම පවතිද්දී හපුතගේ කහගොල්ලේ දී ලොරියක් පාරෙන් ඉවතට ගොස් අඩි 200 ක ප්‍රපාතයකට පෙරලී ඇති බව හපුතලේ පොලිසිය කියයි.
+අනතුරින් මවක හා පුතෙකු තුවාල ලබා රෝහල් ගත කළ බවද පොලිස් ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-05-09 07:58:18</date>
+            <index>0</index>
+            <phrase>අනතුරට පත් සියලුදෙනා ඉක්මන් සුවය ලැබේවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-05-09 09:53:33</date>
+            <index>1</index>
+            <phrase>තුවාල ලැබුවන් ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-05-09 16:25:17</date>
+            <index>2</index>
+            <phrase>බලන්න මහා වැස්සේ මේ මිනිස්සු තුවාල කරුවන් බේරගන්න උත්සහ කරන හැටි. මේ වගේ මිනිස්සු ඉන්නේ අපේ රට කොච්ච්ච්ර වාසනාවන්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-05-10 04:32:46</date>
+            <index>3</index>
+            <phrase>අපෙර් සුන්දර රටේ තවමත් මනුස්සකම තියනවා. වනචාරී දේශපාලනය වෙනස් කලානම් ලෝකයේ ඉහලම මානව දර්ශක වලට එන්න තිබුනා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත බුදුගල</author>
+            <date>2016-05-15 07:00:59</date>
+            <index>4</index>
+            <phrase>බොහොම පරිස්සමට වාහන පැදවිම රියදුරන් සිදුකරන්න. එවිට වන හානි අවම වනු ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

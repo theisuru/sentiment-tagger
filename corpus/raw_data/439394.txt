@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>439394</articleId>
+    <title>ලබුදූව එච්එන්ඩීඒ සිසුහු විරෝධයේ</title>
+    <author>අමිල මධුෂංක</author>
+    <date>2016 ජූලි මස 21 13:01:47</date>
+    <body>ලබුදූව උසස් තාක්ෂණ ඩිප්ලෝමා ආයතනයේ (එච්එන්ඩීඒ) සිසුහු තමන්ට නේවාසිගාර පහසුකම් ලබාදී නැතැයි කියමින් අද(21) එම ආයතනය ඉදිරිපිට උද්ඝෝෂණයක් කළහ.
+සිසුහු 500ක් පමණ උද්ඝෝෂණයට එක්ව සිටි අතර උසස් ජාතික ඩිප්ලෝමා ශිෂ්‍ය එකමුතුව එය සංවිධානය කර තිබිණි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ගාල්ලේ සුනිල්</author>
+            <date>2016-07-21 08:01:56</date>
+            <index>0</index>
+            <phrase>සිසුන් 211යි ඉන්නේ...500ක් අවේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2016-07-21 13:20:17</date>
+            <index>1</index>
+            <phrase>උසස් තාක්ෂණය ආයතනයේ සියලුම පාඨමාලා එකමුතුව කරපු වැඩක්. අත්තනෝමතික පරිපාලනයේ වැරදි නිසා අහිමි වූ හොස්ටල් වෙනුවෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-07-21 13:33:00</date>
+            <index>2</index>
+            <phrase>කොහොම හරි පිනට අධ්‍යපනෙත් දීල, නෙවසිකගරත් දීල, මහා පොලත් දීල, රජයේ රැකියාවකුත් දීල, අන්තිමට විවහයකුත් රජයේ වියදමින්ම කරලා දෙන්න කියල අනාගතේදී ඉල්ලයි. ඩිප්ලෝමාවට මෙහෙම නම් විශ්ව විද්‍යාල මොනව ඉල්ලයිද. මෙතන ඉන්නේ අන්තරේද, කුරුටු ගාමියෝද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51700</articleId>
+    <title>දම්වැල් කියතකින් පොලිස් පරීක්‍ෂක කැපේ</title>
+    <author>නයනජිව බණ්ඩාර</author>
+    <date>2012 ජූලි මස 05 10:29:24</date>
+    <body>ගස් කපන්නකුගෙන් අල්ලාගත් දම්වැල් කියතක් වෙනුවට කබල් කියතක් උසාවියට ඉදිරිපත් කළ මොනරාගල පොලිසියේ හිටපු පරීක්‍ෂක සුසන්න සේවයෙන් පහකර ඇත.
+පරීක්‍ෂණ අවසන් වුයේ ඔහු බිබිල පොලිසියේ සේවය කරද්දීය.</body>
+    <comments>
+        <comment>
+            <author>galle koluwa</author>
+            <date>2012-07-05 10:42:19</date>
+            <index>0</index>
+            <phrase>හොඳ දඬුවමක් දෙන්න ඕනේ. අනිත් අයටත් ආදර්ශයක් වෙන්න. පොලිසියේ අවංකව වැඩ කරන අයත් අතලොස්සක් ඉන්නවා. එයාලගේ නම්බුවත් ‍මේ වගේ අය නිසා නැතිව යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-05 10:51:56</date>
+            <index>1</index>
+            <phrase>පොලිසිය ඉතිං කවද්ද ඕවා නොකළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිනා</author>
+            <date>2012-07-05 11:01:09</date>
+            <index>2</index>
+            <phrase>මෙහෙම අයින් කරෝත් 90% ම අයින් කරන් වෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-07-05 11:01:43</date>
+            <index>3</index>
+            <phrase>ආචාරියතුමා කියන විදියට ඉතාලි පොලිසිය වගේම ලංකාවේ පොලිසියත් කරන මෙවැනි දේවල් අගය කළ යුතුයි තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-07-05 11:47:50</date>
+            <index>4</index>
+            <phrase>ටික දවසකට කලින් මම කිව්ව නේද අපේ පොලිසියට වඩා ඉතාලි පොලිසිය හොදයි කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-07-05 11:50:21</date>
+            <index>5</index>
+            <phrase>මම කිව්වේ නැද්ද ඉතාලියේ පොලීසියට වඩා අපේ පොලීසිය දක්ෂයි කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-05 12:05:21</date>
+            <index>6</index>
+            <phrase>මහම මහ හිගන්නෙක්නෙ.. කොළඹට මාරැ කලානම් හරි අපරාදෙ ගෙදර යැව්වෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-05 12:23:18</date>
+            <index>7</index>
+            <phrase>ලොක්කොන්ට වඩා හොදට ගෝලයෝ වැඩ කරනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාමා</author>
+            <date>2012-07-05 12:02:02</date>
+            <index>8</index>
+            <phrase>පොලිස් වාර්තාවක් ගන්න ගියාමත් මොනවා හරි ගෙන්නගන්න කාලෙක මේක ඒ හැටි දෙයක් නෙමෙයි‍නෙ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-07-05 12:43:13</date>
+            <index>9</index>
+            <phrase>ඔන්න අපේ පොලීසියේ තවත් ග්ලෝබල් වැඩක්.....තව ටික දවසකින් වාර්ථාවක් තියයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා,saudi</author>
+            <date>2012-07-05 12:12:15</date>
+            <index>10</index>
+            <phrase>බිබිලේ පැත්තේ තියෙන හොද හොද ගස් බලලා පටවන්නකෝ එහෙනම්.දම්වැල ගෙවුණොත් මම එවන්නම් එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-05 12:37:49</date>
+            <index>11</index>
+            <phrase>එතකොට අර පොඩි ළමයින්ට අපරාධ කරපු අය???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්</author>
+            <date>2012-07-05 13:19:01</date>
+            <index>12</index>
+            <phrase>සමහර විට එයත් හොරෙන් ගස් කපන්න යනවා ඇති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-07-05 14:38:12</date>
+            <index>13</index>
+            <phrase>මේ පුද්ගලයාට අපේ රජය අනුකම්පා කරාවි සමහරවිට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-07-05 14:58:35</date>
+            <index>14</index>
+            <phrase>මෙන්න පොලිසියට මගෙන් හූ වැලක් හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ හූ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-05 15:02:59</date>
+            <index>15</index>
+            <phrase>පොලිසිය කොහොමත් කරන්නේ ගොරකා දඩමස් කරන එකනේ.අපිට තියෙන්නේ එහෙවු ආදර්ශමත් පොලිසියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-07-05 16:41:36</date>
+            <index>16</index>
+            <phrase>අයියෝ, ඇයි එයාව කැළණියට මාරු නොකළේ? ලොකු වැරැද්දක් කරලා තියෙන්නේ ගෙදර යවලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2012-07-05 19:09:54</date>
+            <index>17</index>
+            <phrase>හොද වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-07-05 18:50:13</date>
+            <index>18</index>
+            <phrase>අනේ පව් ගෙදර වැඩට ගන්න වෙන්න ඇති එහෙම කළේ. ‍උසාවියට ගියාමත් මලකඩ කනකම්ම උසාවියෙනෙ තියෙන්නෙ.. කොහොම උනත් දැන් හොදම කාලෙ තමයි දෑතෙ මහන්සියෙන් හම්බකරන් කන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-07-05 19:07:21</date>
+            <index>19</index>
+            <phrase>කටුනායක සිද්දිය වගේ පොලිස් පති ඉල්ලා අස් උනොත් මහ අපරාදයක් වෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හමීඩ් අලි</author>
+            <date>2012-07-05 21:19:21</date>
+            <index>20</index>
+            <phrase>පොලිස් පොලිෂ් විය යුතුමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේල</author>
+            <date>2012-07-05 23:24:50</date>
+            <index>21</index>
+            <phrase>පොලිසියේ හුගක් කට්ටියගේ ළමයි අංගවිකලයි කියන්නේ ඇත්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-07-06 07:12:36</date>
+            <index>22</index>
+            <phrase>දැන් ඉතිං ගෙදෙට්ට වෙලා ගස් කපා කපා ඉන්න බැරියෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-06 08:16:07</date>
+            <index>23</index>
+            <phrase>මෙයාල කරන වැඩ දන්නේ අසරණ මිනිස්සු තමයි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-07-06 13:16:52</date>
+            <index>24</index>
+            <phrase>මේ වගේ අය තමයි පොලිසියෙ ගෞරවය නැතිකරන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවිකා</author>
+            <date>2012-07-06 14:02:21</date>
+            <index>25</index>
+            <phrase>ජනතාව වෙනුවෙන් මැරීගෙන රාජකාරි කරන අනිත් නිලදාරීන්ට මෙයා කරලා තියෙන්නෙ ලොකු ද්‍රෝහි කමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවිකා</author>
+            <date>2012-07-06 13:25:28</date>
+            <index>26</index>
+            <phrase>ජනතාව වෙනුවෙන් මැරීගෙන රාජකාරි කරන අනිත් නිලදාරීන්ට මේ කරලා තියෙන්නෙ ලොකු ද්‍රෝහි කමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

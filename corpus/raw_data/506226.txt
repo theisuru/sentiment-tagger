@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506226</articleId>
+    <title>යාපනේ ළිඳකින් පරණ බෝම්බ  ගොඩගනී</title>
+    <author>එම් පරමේෂ්වරන් සහ සිරාජ් හසීම්</author>
+    <date>2017 පෙබරවාරි මස 10 21:17:40</date>
+    <body>යාපනය චාවකච්චේරි සරචාලෙයි ප්‍රදේශයේ පාළු ඉඩමක   ළිඳකින් ක්ලේමෝ බෝබයක් ඇතුළු පුපුරණ ද්‍රව්‍ය සොයා ගත් බව පොලිසිය කියයි.
+අත්බෝම්බ දෙකක්, බිම් බෝම්බ දෙකක් හා ෂෙල් බෝම්බයක් ද ඒ අතර විය.
+මෙම ආයුධ තොගය යුද්ධය පැවැති සමයේ එල්ටීටීඊ සංවිධානය සැඟවූ ඒවා බවට පොලිසිය සැක කරයි.</body>
+    <comments>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-10 18:41:44</date>
+            <index>0</index>
+            <phrase>කවුරුන් කෙසේ අර්ථ දැක්වුවත් උතුරු නැගෙනහිර තත්වය ඉදිරියේදී ඉතාමත් භයානකයි. අධි ආරක්‍ෂිත කලාප නිදහස් කිරීම,කොටින් නිදහස් කිරීම ආදී තවත් කරුණු ගත්තහම, මේවා සද්භාවයෙන් කළා වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-10 23:57:32</date>
+            <index>1</index>
+            <phrase>සොයාගෙනද, හම්බවෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2017-02-11 06:41:30</date>
+            <index>2</index>
+            <phrase>බඩු සක්‍රිය නම් බෝම්බය අලුත්ද පරණද යනු අදාළ නොවේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-02-11 08:21:37</date>
+            <index>3</index>
+            <phrase>පාවිච්චි කළහැකි බෝම්බ ළිං වල නැතිවුණාට, ආරක්ෂිතව ඒවා හංගලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියුමි</author>
+            <date>2017-02-11 15:08:36</date>
+            <index>4</index>
+            <phrase>සොයා සොයා ආවා මට සෙව්ව බෝම්බ හමුවුණා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2017-02-12 08:00:38</date>
+            <index>5</index>
+            <phrase>කොටි ළඟ තිබුන අායුධ එකපාරටම වාෂ්පවුණේ නැහැනේ. ඕවා කොහේහරි වළලලා ඇති. අායුධ කෙසේවෙතත් උතුරෙන් හමුදාව ඉවත්කිරීම කිසි ලෙසකින්වත් නොකළ යුතුය. දැන් ඇමෙරිකාවේ දේශපාලන පෙරලිය සහ යුරෝපයේ තත්වය මත අපිට ඉස්සර වගේ බටහිර රටවලින් දේශපාලන පීඩන අඩුවෙමින් පවතී. එමනිසා ඔය විගනේශ්වරන්ලා වැඩිපුර ගණනකට නොගෙන උතුර සංවර්ධනය කර ජනජීවිතය ස්ථාවර කළයුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

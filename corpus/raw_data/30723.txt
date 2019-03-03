@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30723</articleId>
+    <title>රුපියල් දස ලක්ෂයක් ගත්තැයි ඒ.එස්.පී. රිමාන්ඩ්</title>
+    <author>ශ්‍රීනාත් ප්‍රසන්න ජයසුරිය/ බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 මාර්තු මස 10 19:55:42</date>
+    <body>නුගේගොඩ සහකාර පොලිස් අධිකාරී නිහාල් රංජිත් මෙන්ඩිස් කොළඹ කොටුව  උසාවියේ මහේස්ත්‍රාත් විසින් ලබන 22 දක්වා රිමාන්ඩ් කරනු ලැබීය. මහරගම පිළිකා රෝහලට සම්බන්ධ සුභ සාධක මධ්‍යස්ථානයක් බලහත්කාරයෙන් අල්ලාගෙන සිටින පිරිස ඉවත් කැර දීම සඳහා රුපියල් ලක්ෂ 12ක් ඉල්ලා ඉන් රුපියල් ලක්ෂ 10ක අල්ලසක් ගත්තැයි අල්ලස් කොමිසම ඔහු උසාවියට ඉදිරිපත් කරමින් පැවැසීය.</body>
+    <comments>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-03-11 00:18:57</date>
+            <index>0</index>
+            <phrase>නීතිය රකින්න ඉන්න අය නේද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2012-03-11 07:10:54</date>
+            <index>1</index>
+            <phrase>මෙන්න තවත් පොලීසියෙ හොරෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

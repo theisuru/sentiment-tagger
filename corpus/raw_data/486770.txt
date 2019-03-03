@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486770</articleId>
+    <title>රජයේ සේවකයෝ කලින් ගෙදර යති</title>
+    <author>ඩයනා උදයංගනී</author>
+    <date>2016 දෙසැම්බර් මස 02 16:33:49</date>
+    <body>අධිකරණ, රාජ්‍ය පරිපාලන, මහනගර හා බස්නාහිර සංවර්ධන ඇතුළු අමාත්‍යාංශ බොහොමයක් මෙන්ම නාගරික සංවර්ධන අධිකාරිය, උපරිමාධිකරණ සංකීර්ණය, ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාව  සේවකයනට පැය එකහමාරකට කලින්  අද (2) රාජකාරි අවසන් කැරිණි.
+රාජ්‍ය ආයතනවල සේවක සේවිකාවන්ගේ පැමිණීමේ යම් අඩුවක් තිබු බවත් රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ පැමිණීම සියයට 65ත් 70ත් අතර පැවති බවත් ජ්‍යෙෂ්ඨ සහකාර ලේකම් සඳහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-12-02 12:51:15</date>
+            <index>0</index>
+            <phrase>ජනතාව අසරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-12-02 13:29:35</date>
+            <index>1</index>
+            <phrase>මේක මේ අය අලුතෙන් කරන දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>244556</articleId>
+    <title>සීගිරිය දැරණියගල ගුහාව</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ජූනි මස 23 14:12:10</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චාලි</author>
+            <date>2014-06-24 09:38:18</date>
+            <index>0</index>
+            <phrase>ඉතා හොද පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

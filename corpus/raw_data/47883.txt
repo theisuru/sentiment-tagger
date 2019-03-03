@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47883</articleId>
+    <title>රුහුණටත් සුළි සුළං</title>
+    <author>සනත් ගමගේ</author>
+    <date>2012 ජූනි මස 13 10:09:17</date>
+    <body>අද අලූයම හම්බන්තොටට හා රන්නට හමාගිය සැඩ සුළඟින් පාසලක ද නිවාස 25 ක ද වහළ ගැලවී ගිය බව ප‍්‍රදේශවාසීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-06-13 11:01:10</date>
+            <index>0</index>
+            <phrase>හම්බන්තොටට නැව් එනව කියලා ආරන්චි වෙලාද දන්නෑ හුළඟට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලූශාන්</author>
+            <date>2012-06-13 11:05:05</date>
+            <index>1</index>
+            <phrase>මේ දවස්වල රටට අපලයි නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

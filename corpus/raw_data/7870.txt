@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7870</articleId>
+    <title>භාරත ලක්‍ෂ්මන්ට බරපතලයි</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 ඔක්තෝබර් මස 08 16:23:18</date>
+    <body>කොලොන්නාව ඡන්ද මධ්‍යස්ථාන අසල සන්ධානයේ අධාරකවරුන් දෙපිරිසක් අතර වූ ගැටුමක දී වෙඩි වැදීමෙන් බරපතල තුවාල ලැබූ භාරත ලක්ෂ්මන් මහතා ශ්‍රී ජයවර්ධනපුර රෝහලෙට ඇතුළත් කර ඇති අතර ඔහුගේ හිසට සැත්කමක් කළ බව වෛද්‍යවරු කියති. තත්ත්වය බරපතල බව වාර්තාවෙයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2011-10-08 16:55:14</date>
+            <index>0</index>
+            <phrase>මේ මොකද ලංකාවේ ප්‍රවෘත්ති වලට වෙලා තියෙන්නේ කවුද බොරු කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරන්ත</author>
+            <date>2011-10-08 17:14:40</date>
+            <index>1</index>
+            <phrase>ජනාධිපතිතුමනි මේ ගැන ඔබේ අවදානය යොමු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

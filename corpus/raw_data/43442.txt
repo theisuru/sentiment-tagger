@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43442</articleId>
+    <title>ෆේස් බුක් නිර්මාතෘ යුගදිවියට</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 21 10:53:15</date>
+    <body>ලොව ජනප‍්‍රියම අන්තර්ජාල  සමාජ වෙබ් අඩවියක් වන ‘ෆේස් බුක්’ හි නිර්මාතෘ විසිඅට හැවිරිදි මාක් සකර්බර්ග් පෙරේදා(19) යුගදිවියට පිවිසුණේය. ඔහු විවාහ වී ඇත්තේ තම දිගු කාලීන පෙම්වතිය වූ 27 හැවිරිදි ප‍්‍රිසිලා චාන් නමැති යුවතිය සමඟය. මීට වසර 9කට පෙර ඔහුට චාන් හමුවූයේ හාවඞ් විශ්වවිද්‍යාලයේ ඉගෙනුම ලබමින් සිටි අවදියේදීය.</body>
+    <comments>
+        <comment>
+            <author>එස්.රෙජිනෝල්</author>
+            <date>2012-05-21 16:08:27</date>
+            <index>0</index>
+            <phrase>සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-22 09:20:31</date>
+            <index>1</index>
+            <phrase>"FACEBOOKS"ට සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-05-22 11:43:01</date>
+            <index>2</index>
+            <phrase>face book එකෙන්ද හම්බ වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි සුදසිංහ</author>
+            <date>2012-05-22 15:30:24</date>
+            <index>3</index>
+            <phrase>‍Facebook ව‍ගේම ඔබගේ යුගදිවියත් සාර්ථක වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසනා</author>
+            <date>2012-05-22 16:30:19</date>
+            <index>4</index>
+            <phrase>සුබපතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මා</author>
+            <date>2012-05-22 17:25:51</date>
+            <index>5</index>
+            <phrase>උණුසුම් සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රායා</author>
+            <date>2012-05-25 09:15:30</date>
+            <index>6</index>
+            <phrase>උණුසුම් සුභ පැතුම් !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

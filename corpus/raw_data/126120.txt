@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>126120</articleId>
+    <title>පුත්තලම සම්බුදු තෙමඟුලට සැරැසේ</title>
+    <author>පුත්තලම එච් චන්දන</author>
+    <date>2013 මැයි මස 23 10:55:44</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>දයා අලහාකෝන්</author>
+            <date>2013-05-23 12:36:36</date>
+            <index>0</index>
+            <phrase>මේ පින්වතුන් පිරිස සැදැහැ සිතින් ඇත්තටම මහන්සිවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ් ද සිල්වා</author>
+            <date>2013-05-24 23:13:51</date>
+            <index>1</index>
+            <phrase>අනේ සාදු,මම හිතාගෙන හිටියේ පුත්තලම හලාල් වෙලා කියලා.තවමත් බුද්ධාගම රැකිලා තියෙන එක ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

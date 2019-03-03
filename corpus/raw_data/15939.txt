@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15939</articleId>
+    <title>”බොරු ගොළුවා” ගලක් සමග අල්ලයි.</title>
+    <author>රේඛා තරංගනී පොන්සේකා</author>
+    <date>2011 දෙසැම්බර් මස 04 19:24:52</date>
+    <body>ගල්වලින් හිසට ගසා යාචකයන් 15 දෙනකු මරා දැමූ ගොළුවකු බව කියන තරුණයෙක් ගල්කිස්ස පොලිසියෙන් සැකපිට අත්අඩංගුවට ගනු ලැබීය.මින් කලකට පෙර යාචකයකු ඔහුගේ බෙල්ල පිහියකින් කපා තුවාල කැර ඇතැයි ද පොලිසිය කියති.කොන්ක‍්‍රීට් ගලක් ද සහිතව අත්අඩංගුවට ගත් ඔහු කඳාන, කැලණිය, කොටහේන, දෙමටගොඩ, ග‍්‍රෑන්ඞ්පාස්, පෑලියගොඩ, මරදාන, බොරැුල්ල, කොල්ලූපිටිය, බම්බලපිටිය ආදී පෙදෙස්වලදී යාචකයන් මරා දමා ඇත. ඔහු ගොළුවකු නොවන බව පෙනේයැයි පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>පුජ්‍ය ගම්මැදගම චන්දජෝති හිමි</author>
+            <date>2011-12-04 21:19:56</date>
+            <index>0</index>
+            <phrase>අපි වැඩි පිරිසක් කතාකලත් අපි හැමෝම බොරු ගොලුව වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් අමරවීර</author>
+            <date>2011-12-04 22:06:35</date>
+            <index>1</index>
+            <phrase>මේවත් ආණ්ඩුවට දාල තිබුනේ, දැන් තුවාල සනීප ඇති. මඩ ගැහුවා බොරුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2011-12-05 11:11:10</date>
+            <index>2</index>
+            <phrase>එල්ලුම්ගස් යවන්න තමයි වටින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2011-12-05 12:14:39</date>
+            <index>3</index>
+            <phrase>මෙයාව බේරගන්නත් යූ.එන්. එකට අපේ අය යයිද දන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>gamaeti</author>
+            <date>2011-12-06 08:15:19</date>
+            <index>4</index>
+            <phrase>තවම ඔහු උසාවියට ඉදිරිපත් කරලා නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

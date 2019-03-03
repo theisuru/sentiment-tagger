@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60437</articleId>
+    <title>ළමා රෝහලට ආධාර දෙන සුවසර සැප්තැම්බර් 23</title>
+    <author>අංජුල මහික වීරරත්න</author>
+    <date>2012 අගෝස්තු මස 23 14:19:29</date>
+    <body>ඩෙංගු රෝගය වැළඳී බොරැල්ලේ ළමා රෝහලේ ප‍්‍රතිකාර ලබන දරුවන්ගේ සුවසෙතට අවශ්‍ය පහසුකම් වැඩි දියුණු කිරීමට අරමුදලක් පිහිටැවීමේ අරමුණින් ”සුවසර ගී මියැසි” සංගීත ප‍්‍රසංගය සැප්තැම්බර් (23) සවස 6ට කොළඹ 07 මියුසියස් විද්‍යාල නව ශ‍්‍රවණාගාරයේදී පැවැත්වේ.
+වික්ටර් රත්නායක, සුනිල් එදිරිසිංහ, නිරෝෂා විරාජිනී, අමල් පෙරේරා මෙහි ගී ගයති. රෝහණ වීරසිංහ සංගීත අධ්‍යක්ෂණයෙන් දායක වෙයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-23 14:32:09</date>
+            <index>0</index>
+            <phrase>හොද ප්‍රයත්නයක්. මෙය රට පුරාම පතුරවමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-23 16:09:20</date>
+            <index>1</index>
+            <phrase>කෝ අපේ අර ගායකයෝ ටික?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-23 17:00:09</date>
+            <index>2</index>
+            <phrase>ලස්සන පෝස්ටරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-23 17:55:07</date>
+            <index>3</index>
+            <phrase>ලංකාවේ ගායකයන් මහජන සේවයක් කරන්නේ කොතැනද, එතැන සුනිල් එදිරිසිංහ මහතා සිටී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉක්රාම්</author>
+            <date>2012-08-24 12:35:43</date>
+            <index>4</index>
+            <phrase>අපේ ගායකයෝ කරන හොඳ වැඩක් .හැමෝම ආදර්ශයට ගන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-08-24 18:38:39</date>
+            <index>5</index>
+            <phrase>මේ වගේ හොඳ වැඩ කලොත් ඔබලා තව තවත් බැබලෙවී දිලෙන තරු අතර ගායනයෙන් බබලුනාටත් වඩා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

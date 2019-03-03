@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>491053</articleId>
+    <title>කල්පිටිය ප්‍රා.ලේකම්ට ගහලා</title>
+    <author>පද්මා කුමාරි කංකානම්ගේ</author>
+    <date>2016 දෙසැම්බර් මස 19 13:35:53</date>
+    <body>කල්පිටිය ප්‍රාදේශිය ලේකම්  සුනන්ද හේරත් මහතාට පහරදුන්නැයි කියන සිද්ධියකට කල්පිටිය සුළු ව්‍යාපාරිකයකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+ඉඩම් බලපත්‍ර සම්බන්ධ ප්‍රශ්නයක් හේතුවෙන් මෙම පහරදීම සිදුව ඇතැයි සැක කරති. සැකකරු අද උසාවියට ඉදිරිපත් කිරීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-12-20 06:42:12</date>
+            <index>0</index>
+            <phrase>දැන් මිනිස්සු ප්‍රශ්න වලට උත්තර ‍හොයන්නේ මෙහෙමනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී‍</author>
+            <date>2016-12-20 06:42:12</date>
+            <index>1</index>
+            <phrase>සුළු ව්‍යාපාරිකයාට පළාත් සභා ඡන්දය සඳහා නාමයෝජනා ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

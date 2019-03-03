@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446119</articleId>
+    <title>වරාය නැව් බඩු මධ්‍යස්ථානය ජනපති අතින් විවෘත වෙයි</title>
+    <author>ඉෂාන් සංජිව</author>
+    <date>2016 අගෝස්තු මස 10 14:18:37</date>
+    <body>ශ්‍රී ලංකා වරාය අධිකාරියේ කන්ටේනර් නැව් බඩු මධ්‍යස්ථානය ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (10) විවෘත කළේය.
+වරාය අධිකාරියේ 37 වැනි සංවත්සරය ද අදයි.
+වකුගඩු රෝගීන් සඳහා වූ ජනාධිපති අරමුදලට රුපියල් ලක්ෂ 25ක් ද අමාත්‍ය අර්ජුන රණතුංග මහතා ජනාධිපති ට බාරදුන්නේය.
+ශ්‍රී ලංකා වරාය අධිකාරියේ නව වෙබ් අඩවිය ද විවෘත කැරිණි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-08-10 09:27:15</date>
+            <index>0</index>
+            <phrase>මෛත්‍රී ජනපති තුමත් ලස්සනට වැඩේ කොරගෙන යනවා නේද ? ජය වේවා කියනවා ඔබ තුමාගේ උත්සාහයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවක</author>
+            <date>2016-08-10 10:44:44</date>
+            <index>1</index>
+            <phrase>ජනපතිතුමනි රට සාමකාමීව ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුසාර</author>
+            <date>2016-08-10 11:56:37</date>
+            <index>2</index>
+            <phrase>හොරුන්ට, කපටින්ට දඩුවම් නැති එකයි වැරැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ් යුකේ</author>
+            <date>2016-08-10 14:04:42</date>
+            <index>3</index>
+            <phrase>පිටේ පත්තු බදින්න වෙන දවස වැඩි ඈතක නෙමෙයි. පිටරට ඉඳගෙන අදහස් දැම්මට වැඩක් නෑ ඇවිල්ල උතුරට ගින් බල්ලන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

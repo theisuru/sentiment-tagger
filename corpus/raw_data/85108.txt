@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>85108</articleId>
+    <title>100 නමක් පිඬුසිඟා වඩිති</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 දෙසැම්බර් මස 15 15:26:27</date>
+    <body>කළුතර සිරි නන්දන පිරිවෙනෙහි අධ්‍යාපනය ලබන භික්ෂූන් වහන්සේලාට අවශ්‍ය උපකරණ සපයා ගැනීමේ පිංඩපාත චාරිකාවක් මහරගම නීලම්මහර  ගොඩිගමුවේදී  අද පැවැතිවිණි
+භික්ෂුන් 125 නමක් පාරවල් 22 අද දහවල් පිංඩපාතය වාඩම කළහ
+ 
+.</body>
+    <comments>
+        <comment>
+            <author>දයා</author>
+            <date>2012-12-15 16:55:27</date>
+            <index>0</index>
+            <phrase>ලස්සනට තියෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-15 17:03:26</date>
+            <index>1</index>
+            <phrase>සාධු....සාධු....සාධු....සාධු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේන්ද්‍ර</author>
+            <date>2012-12-15 17:13:58</date>
+            <index>2</index>
+            <phrase>දැන් කාලේ දකින්න නොලැබෙන දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-15 17:27:07</date>
+            <index>3</index>
+            <phrase>මම කැමති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-12-15 17:33:12</date>
+            <index>4</index>
+            <phrase>සියළු දෙනාටම පිං මේ වගේ දේවල් ලොවට පෙන්නනවාට...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-15 17:52:33</date>
+            <index>5</index>
+            <phrase>මොනතරම් සුන්දර දසුනක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2012-12-15 18:23:03</date>
+            <index>6</index>
+            <phrase>සියළු සත්ත්වයෝ නිදුක් වෙත්වා නීරෝගි වෙත්වා.. හොද වැඩක්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සියා</author>
+            <date>2012-12-15 18:40:57</date>
+            <index>7</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ් සෞදි</author>
+            <date>2012-12-15 20:45:56</date>
+            <index>8</index>
+            <phrase>නිර්මල බුදුදහම දිගුකල් රැකේවා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2012-12-15 21:28:34</date>
+            <index>9</index>
+            <phrase>ලංකාවම දහම් දීපයක් වේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කන්වසිංහ</author>
+            <date>2012-12-15 21:32:24</date>
+            <index>10</index>
+            <phrase>වටිනා පිංකමක්.. බුදුසරණයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරියසේන</author>
+            <date>2012-12-15 22:53:35</date>
+            <index>11</index>
+            <phrase>අපිත් පින් කලා මේවා දකින්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරියා</author>
+            <date>2012-12-15 22:53:36</date>
+            <index>12</index>
+            <phrase>සභාගි වූ සියල්ලන්ටම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පින්හාමි</author>
+            <date>2012-12-15 22:48:20</date>
+            <index>13</index>
+            <phrase>මෙය දැක සතුටුවි සියල්ලෝ නිවන් කිවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියසේන</author>
+            <date>2012-12-15 22:48:20</date>
+            <index>14</index>
+            <phrase>බැති සිතින් අපිත් එකතුවෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මසේන (දී)</author>
+            <date>2012-12-15 22:48:20</date>
+            <index>15</index>
+            <phrase>සිත මුල් කරගෙන වැඩ කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංකර</author>
+            <date>2012-12-15 22:48:20</date>
+            <index>16</index>
+            <phrase>මේ වගේ දේවල් දකින විට සෑම දෙනාම කරක සිතුවිලි වලින් ඉවත්වෙනාව.. දහමට නැඹුරු වෙනවානම් තවත් රටේ සෑම තැනම මේ වගේ දකින්න ලැබේවි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංකර</author>
+            <date>2012-12-15 22:53:37</date>
+            <index>17</index>
+            <phrase>මේ වගේ දේවල් බැලුවහම අපේ හිතත් පැහැදෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියදර්ශන</author>
+            <date>2012-12-15 22:53:37</date>
+            <index>18</index>
+            <phrase>කාලෝචිත පින්කම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරියා</author>
+            <date>2012-12-15 22:48:21</date>
+            <index>19</index>
+            <phrase>සියල්ලන්ටම පින්. සියල්ලෝම නිවන් දකිවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-12-15 22:53:40</date>
+            <index>20</index>
+            <phrase>ලස්සන දර්ශනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංකර</author>
+            <date>2012-12-15 22:53:48</date>
+            <index>21</index>
+            <phrase>හොද පින් කමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-12-16 08:47:56</date>
+            <index>22</index>
+            <phrase>දැන් මේවා උත්සව වශයෙන් සංවිධානය කරලා... නැති හින්දා කමක් නෑ කියමු. භික්ෂුන් වහන්සේලා තව මේ ගැන අවධානය යොමු කරන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්ෂණ</author>
+            <date>2012-12-16 09:48:55</date>
+            <index>23</index>
+            <phrase>පින් කැමති සියලෝම නිවන් දකිවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-12-16 09:49:24</date>
+            <index>24</index>
+            <phrase>සාධු....සාධු....සාධු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-12-16 09:56:51</date>
+            <index>25</index>
+            <phrase>සාධු ...සාධු ...සාධු ... බුද්ධ පුත්‍රයින් වහන්සේලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-12-16 12:09:39</date>
+            <index>26</index>
+            <phrase>හදවදක්. සාදු.... සාදු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසේකරගේ</author>
+            <date>2012-12-16 13:15:25</date>
+            <index>27</index>
+            <phrase>බුද්ධ ශාසන ඇමතිතුමනි, මේ ඔබගේ අවධානය පිණිසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

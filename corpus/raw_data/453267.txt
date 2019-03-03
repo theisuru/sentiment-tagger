@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>453267</articleId>
+    <title>කර්නල්ගේ බිරිය තවමත් දැඩි සත්කාරයේ</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 සැප්තැම්බර් මස 01 15:40:40</date>
+    <body>මාලඹේ  පිට්ටුගල ඉසුරුපුර නිවසේදී  ඉකුත්  27 වැනි දා  රාත්‍රියේ ලුතිනන් කර්නල්වරයකු වු  සිය සැමියා තැබු බව කියන වෙඩි ප්‍රහාරයට  ලක් වු  නයනා ප්‍රනාන්දු (43) අසාධ්‍ය තත්ත්වයෙන් කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ  ප්‍රතිකාර  ලබමින් සිටින බවත් ශල්‍ය  කර්ම තුනකට  භාජනය කර  ඇති ඇගේ අවදානම් තත්ත්වය පහව ගොස්  නැති බවත්  කොළඹ ජාතික රෝහලේ අධ්‍යක්ෂ වෛද්‍ය  අනිල්  ජාසිංහ මහතා පැවසීය.
+නයනා  ප්‍රනාන්දු  මහත්මියගේ උදරයට  දකුණු  අතට  හා  දකුණු  කලවා  ප්‍ර දේශයට  එල්ල වු  ප්‍රහාර  වලින්  අභ්‍යන්තර  ඉන්ද්‍රියන්  ට  හානි  සිදු ව ඇති  බව ජාසිංහ මහතා කීවේය.  </body>
+    <comments>
+        <comment>
+            <author>ආසිරි</author>
+            <date>2016-09-01 10:46:59</date>
+            <index>0</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-01 14:15:36</date>
+            <index>1</index>
+            <phrase>මෙතන පොඩි සැකයක් තියෙනවා. ලංකාවේ ලුතිනන් කර්නල්වරයකුට එල්ලයට වෙඩිතැබීමට නොහැකිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමන්</author>
+            <date>2016-09-01 15:14:05</date>
+            <index>2</index>
+            <phrase>ඉතින් කොහෙද සතුරන්ට වෙඩි තියන්නේ? අනේ මන්දා මෙහෙමත් දේවල්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒකනායක</author>
+            <date>2016-09-01 19:49:45</date>
+            <index>3</index>
+            <phrase>ඉලක්කයට වෙඩි තැබීම ගැන නොවෙයි පුදුම වියයුත්තේ. මෙතෙක් කාලයක් තම ජීවිතය දෙකට බෙදාගෙන ජීවත්වෙලා, පණ දෙවෙනිකොට ආදරෙන් ඉඳලා මෙහෙම කළේ කොහොමද කියන එක ගැනයි. මොන වැරැද්දක් කරතිබුණත් මෙය මිනිස්කමටත් නිගාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-02 00:16:49</date>
+            <index>4</index>
+            <phrase>ධම්ම, නිකන් කැත කතා කියන්න එපා. ඔය කියන්නේ හරියට එල්ලයට වෙඩි තියලා මැරුවා නම් හොඳයි කියලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්දනී</author>
+            <date>2016-09-02 03:22:09</date>
+            <index>5</index>
+            <phrase>සල්ලි ජීවිතය කරගත් නොදියුණු මිනිස්සු අපාගතවෙන වැඩ මේවා. එයට සතර අපායෙන් මෙහා මෙලොව ඉඩක් නම් නැහැ. ළමයින්ව ආගම දහමට යොමු නොකර පොතටම වහල් කරවන දෙමවුපියන්ට හිතන්න දේවල් ගොඩක් මේ අපරාධ වල තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-09-02 04:26:37</date>
+            <index>6</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-02 05:41:08</date>
+            <index>7</index>
+            <phrase>සුසන්ත ඇයි මේ තරම් දරුණු? මා අදහස් කළේ ලුතිනන් කර්නල් හැර වෙන කෙනෙක් වෙඩිතැබුවා විය නොහැකිද යන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

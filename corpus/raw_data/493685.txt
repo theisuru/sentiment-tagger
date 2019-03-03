@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493685</articleId>
+    <title>ජාතික ශෝක දිනය කිවිදා : ශනිදා නොවේ</title>
+    <author></author>
+    <date>2016 දෙසැම්බර් මස 28 09:48:17</date>
+    <body>අභාවප්‍රාප්ත හිටපු අගමැති රත්නසිරි වික්‍රමනායක මහතා වෙනුවෙන් ජාතික ශෝක දිනය දෙසැම්බර් 30 වැනි දා බව ස්වදේශ කටයුතු අමාත්‍යාංශය කියයි. කලින් අමාත්‍යාංශය කීවේ ජාතික ශෝක දිනය  ආදාහනය සිදුකරන දෙසැම්බර් 31 වැනි දා බවයි.
+එදිනට  සියලුම රාජ්‍ය  හා පෞද්ගලික ආයතනවල ජාතික කොඩිය අඩකුඹු කර  තබන ලෙස අමාත්‍යාංශය ඉල්ලා  සිටියි.</body>
+    <comments>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-12-28 05:21:47</date>
+            <index>0</index>
+            <phrase>ඇත්ත. මෙය සිදුවියම යුතු ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රියා</author>
+            <date>2016-12-28 05:34:52</date>
+            <index>1</index>
+            <phrase>සැබවින්ම අභීත නායකයෙක්. හොඳ පෞරුෂයක් තිබුන කෙනෙක්. අපිට මතකයි යුද්ධය කාලේ කතාකරපු අභීත අාකාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-12-28 06:04:30</date>
+            <index>2</index>
+            <phrase>එතුමාට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2016-12-28 06:19:44</date>
+            <index>3</index>
+            <phrase>හරිනම් මෙතුමා 30 වසරක යුද්දය නිමාකිරීමට දුන් සහයෝගය සලකා සතියම සෝක සතියක් කරන්නයි තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල් නිරෝෂ්</author>
+            <date>2016-12-28 06:22:36</date>
+            <index>4</index>
+            <phrase>කිව යුතු දෙයක් කෙලින් කියපු දේශපාලකයෙක්, පක්ෂය දුර්වලම අවදියක නොසැලී ලේකම් දුරය හොබවමින් පක්ෂය රැකගත් නායකයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-12-28 07:21:05</date>
+            <index>5</index>
+            <phrase>ඔබට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-12-28 07:52:38</date>
+            <index>6</index>
+            <phrase>ඔබට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් රාජපක්ෂ</author>
+            <date>2016-12-28 08:19:00</date>
+            <index>7</index>
+            <phrase>වමෙන් පටගෙන,දකුණට සිග්නල් දීපු අය තමා, ඔබට නිවන් සැප ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-12-28 08:57:16</date>
+            <index>8</index>
+            <phrase>මම මේ නොදන්නා නිසයි අහන්නේ. එදිනට සියලුම රාජ්‍ය හා පෞද්ගලික ආයතන නිවාඩු දිනයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

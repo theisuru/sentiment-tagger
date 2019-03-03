@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>339108</articleId>
+    <title>තාජුඩීන් සිරුර පරික්ෂණයට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ ඡායාරූප හා වීඩියෝ - ඉෂංක සුනිමල්</author>
+    <date>2015 අගෝස්තු මස 10 10:07:18</date>
+    <body>ඝාතනය කළැයි සැකකරන රගර් ක්‍රීඩක වසීම් තාජුඩීන්ගේ දේහය අද (10) පෙරවරු 9.50ට පමණ දෙහිවල පල්ලියේ පිහිටි සුසාන භූමියේ දී ගොඩ ගනු ලැබු බව පොලිස් මාධ්‍ය ප්‍රකාහක සහකාර පොලිස් අධිකාරි රුවන් ගුණසේකර මහතා කියයි.
+එම ස්ථානයේ සිටින මාධ්‍ය  ප්‍රකාශකවරයා වැඩිදුරටත් කියා සිටියේ තාජුඩින්ගේ දේහය පරික්ෂණ කටයුතු සඳහා කොළඹ ප්‍රධාන අධිකරණ වෛද්‍ය නිලධාරි කාර්යාලයට රැගෙන ගිය බවයි.</body>
+    <comments>
+        <comment>
+            <author>ආර්. සම්පත්</author>
+            <date>2015-08-10 06:02:41</date>
+            <index>0</index>
+            <phrase>මල මිනි ගොඩ දාල මහින්දගේ ජයග්‍රහණය නවත්තන්න නම් බැරි වෙයි වගේ මේ පාර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කඩුවෙල කුරේ</author>
+            <date>2015-08-10 06:41:06</date>
+            <index>1</index>
+            <phrase>පරාජය ස්ථිරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිවිතුරු යහපාල</author>
+            <date>2015-08-10 06:43:21</date>
+            <index>2</index>
+            <phrase>17 වෙනිදට පස්සේ තාජුදීන්ගේ සිරුර ආපහු තිබුන තැනටම යාවි. . අපි ඕන තරම් මැතිවරණ කාලෙට හාරන මිනී වළවල් දැකල තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2015-08-10 07:18:25</date>
+            <index>3</index>
+            <phrase>නිතිය රජ වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2015-08-10 07:34:30</date>
+            <index>4</index>
+            <phrase>තව ටික දවසකින් දැනගන්න පුළුවන් කට්ටියගේ වැඩ ටික .......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවරත්න</author>
+            <date>2015-08-10 08:07:23</date>
+            <index>5</index>
+            <phrase>ඉක්මණින්ම සියල්ල දැනගන්න ලැබේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසේන</author>
+            <date>2015-08-10 08:51:05</date>
+            <index>6</index>
+            <phrase>සම්පත්, මහින්දගෙ ජයග්‍රහණය නවත්වන්න දෙයක් නෑ. දැනටමත් පැරදිලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2015-08-11 06:32:00</date>
+            <index>7</index>
+            <phrase>සැක සහිත හේතු මත පොළොව යටට ගිය මිනී දහස් ගණනක් තිබියදී මෙය පිටුපසම දුවන්නේ කාට රිදවීමට දැයි ජනතාව පැහැදිලිව දනී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

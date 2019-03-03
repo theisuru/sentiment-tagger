@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>125964</articleId>
+    <title>ඉරාන ඔත්තුකරුවෝ  සෞදියේදී කොටුවෙති</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  රියාද් නුවරදීය</author>
+    <date>2013 මැයි මස 23 00:01:44</date>
+    <body>ඉරාන ඔත්තුකරුවන් කණ්ඩායමක් අත්අඩංගුවට ගැනීමට සෞදි අරාබි ආරක්ෂක අංශ ඊයේ (22) සමත් විය. සෞදි අභ්‍යන්තර කටයුතු අමත්‍යාංශය පැවැසුවේ, ඉරාන ජාතිකයන්ට අමතරව සෞදි, ලෙබනන් සහ තුර්කි ඔත්තුකරුවෝ පිරිසක් ද අත්අඩංගුවට ගත් පිරිස අතරේ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>මුරුගන්</author>
+            <date>2013-05-23 08:38:05</date>
+            <index>0</index>
+            <phrase>කොහොමද වැඩේ?දවස් දෙක තුනකට කලින් ඉරානේ ඊශ්‍රායල් ඇමරිකන් දෙන්නෙක් ව අල්ලාගෙන හිසගසා දැම්මා එහෙ ඔත්තු බැලුවා කියලා.මෙයාලගේ වැඩ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-05-23 11:41:28</date>
+            <index>1</index>
+            <phrase>මුරුගා,ඔබ බලාපොරොත්තු වන්නේ  මොනවාද කියා අප හොදට දන්නවා. ඒ නිසා දොඩවන්නේ නැතුව ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-05-23 19:30:34</date>
+            <index>2</index>
+            <phrase>මුරුගලා ඇවිල්ලා පරාජිත සටන්කාමීන්.දැන් ඉතින් කරන්නේ කාට හරි කඩේ යන එක තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසේන</author>
+            <date>2013-05-23 21:14:44</date>
+            <index>3</index>
+            <phrase>දිසානායක මුරුගා ගැන කථාකරන්න ඉස්සැල්ලා ඔයාගේ කන්දෙක සනීප කරගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

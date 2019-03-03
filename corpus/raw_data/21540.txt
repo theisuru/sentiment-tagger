@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21540</articleId>
+    <title>තුවක්කුවෙ එල්ලුනත් කඳුළු ගෑස් කයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 ජනවාරි මස 11 16:25:16</date>
+    <body>රුහුණු සරසවියේ හපුගල ඉංජිනේරු පීඨ සිසුන් පොලිස් අණ නොතකා ගාල්ල දෙසට ගමන් කිරීමට සැරසීමත් සමග කඳුළු ගෑස් ගැසීය.</body>
+    <comments>
+        <comment>
+            <author>rega</author>
+            <date>2012-01-11 16:52:16</date>
+            <index>0</index>
+            <phrase>පෙලපාලි ගියාම මොකද වෙන්නේ? ඇයි මිනිස්සුන්ට යන්න දෙන්නේ? ප්‍රශ්නෙ ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිරංග සේනාරත්න</author>
+            <date>2012-01-11 17:26:02</date>
+            <index>1</index>
+            <phrase>මාතර කොල්ලොන්ට ගහල වැඩ වරද්ද ගන්න හදන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-01-11 19:45:45</date>
+            <index>2</index>
+            <phrase>ඇයි මාතර කියන්නේ වෙනරටකින් ආපු අය ද ඉන්නේ. රට කන්න මේ ගොල්ලො තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>blackrider</author>
+            <date>2012-01-11 19:53:46</date>
+            <index>3</index>
+            <phrase>සාම පා ගමනට එලවූ ප්‍රහාරය පිලිකුලෙන් යුතුව හෙලා දකිමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dulanjana</author>
+            <date>2012-01-11 20:12:11</date>
+            <index>4</index>
+            <phrase>මේ රකින්න හදන්නේ ඔබේ දරුවගෙ අනාගතය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2012-01-11 20:20:10</date>
+            <index>5</index>
+            <phrase>අනේ අසංක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුක</author>
+            <date>2012-01-11 20:25:31</date>
+            <index>6</index>
+            <phrase>මේගොල්ලන්ට සරසවි උණ. පිස්සු නටනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sampath</author>
+            <date>2012-01-11 20:44:28</date>
+            <index>7</index>
+            <phrase>සාමාකාමී උද්ඝෝෂණයක්වත් මේ රටේ කරන්න බැරි ද? හෙට අපි හැමෝටම වෙන්නෙත් මේ ටික කියල මතක තියාගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහන්සියෙන් ඉගෙනගත්තෙක්</author>
+            <date>2012-01-11 20:54:50</date>
+            <index>8</index>
+            <phrase>පොලිස් අයත් මේ වගේ අවස්ථාවක් එනකන් නේ බලාගෙන ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-01-11 20:56:06</date>
+            <index>9</index>
+            <phrase>රට හදන්න යවපුවාම එදා ඉදන්ම කන්න හදන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-01-11 21:01:52</date>
+            <index>10</index>
+            <phrase>පොලීසියත් හිටියේ මේ වගේ එකක් එනකන් තමයි. නැත්නම් කිසිම හේතුවක් නැතිව සාමකාමී පා ගමනකට ගහවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-01-11 21:00:54</date>
+            <index>11</index>
+            <phrase>ගහපු එකනම් වැරදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-01-11 21:11:19</date>
+            <index>12</index>
+            <phrase>සරසවි ආවෙ පෙළපාලි යන්න ? ඉගෙන ගන්න තමුන්ගේ ජිවිතය සාර්ථක කරගන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුක</author>
+            <date>2012-01-11 21:12:19</date>
+            <index>13</index>
+            <phrase>රටේ නීතිය උතුරා දෝරේ ගලනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත් සිල්වා</author>
+            <date>2012-01-12 05:09:31</date>
+            <index>14</index>
+            <phrase>රටේ මුදල් නාස්ති කරමින් අහිංසක ළමයින්ගේ අනාගතය අදුරු කරමින් එක පක්ෂයකින් කරන මේ කඩාකප්පල්කාරී වැඩ අපි හෙළා දකිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ. හේරත්</author>
+            <date>2012-01-12 07:38:04</date>
+            <index>15</index>
+            <phrase>පොලිසියෙ අය කොහොමත් තරහෙන් ඉන්නේ මොකද එයාලට විශ්ව විද්‍යාලෙ යන්න බැරිවුණානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-12 08:28:27</date>
+            <index>16</index>
+            <phrase>ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාල්</author>
+            <date>2012-01-12 08:37:24</date>
+            <index>17</index>
+            <phrase>සිසුන් සරසවි එන්නේ වැඩිදුර ඉගෙනුම් සඳහායි. නමුත් ඔවුන්ට පාසල් ශිෂ්‍යාට වඩා රටේ තත්ත්වය පිළිබද සන්වේදිතාවයක් ඇත. උගත් අය කට කාටත් වඩා හොදින් අනාගතය පෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-12 08:38:58</date>
+            <index>18</index>
+            <phrase>රට විනාශ කරන්නේ මේ අය තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-12 08:50:40</date>
+            <index>19</index>
+            <phrase>මාතර කොල්ලො කියන්නේ මොනාද තියෙන විශේෂත්වය. කොයි පැත්තෙන් ආවත් අපි ඔක්කොම මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේබන්දු</author>
+            <date>2012-01-12 09:08:37</date>
+            <index>20</index>
+            <phrase>සරසවි පුතුනි අප ඔබ සමගයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යහම්පත්</author>
+            <date>2012-01-12 09:30:29</date>
+            <index>21</index>
+            <phrase>පොලිසිය වැඩ කරන්නේ ආණ්ඩුව කියන විදිහටයි. ඒ නිසා පොලිසියට බැණල වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුරවැසියා</author>
+            <date>2012-01-12 10:00:51</date>
+            <index>22</index>
+            <phrase>පෙළපාලියක් ගියාට කමක් නෑ තමන් ස්වාධීන වුණදාට. ඒ කියන්නේ මහජන මුදලින් නඩත්තු නොවී තමන් රැකියාවක් කරන කාලයක. අපි බදු වශයෙන් මුදල් ගෙවන්නේ කාටවත් පෙළපාලී යන්නවත් කදුලු ගෑස් වලටවත් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිව</author>
+            <date>2012-01-12 10:38:33</date>
+            <index>23</index>
+            <phrase>විශ්ව විද්‍යාලවල නොමිලේ උගන්වන්න හොද නෑ. කොහෙවත් එහෙම උගන්වන්නේ නැහැ. මුදල් දීලා ඉගෙන ගන්නවනම් කවුරුත් මෙහෙම කරන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-01-12 10:51:33</date>
+            <index>24</index>
+            <phrase>පොලිසියට බණින්නේ මොකද? පොලිසිය කරන්නෙ තමන්ට දුන්න අණ පිළිපැදීමයි. බනින්න ඕනා විශ්ව විද්‍යාල ළමයි ඔතනට තල්ලු කරපු අයටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හයිස්තා</author>
+            <date>2012-01-12 11:57:32</date>
+            <index>25</index>
+            <phrase>තව ටික දවසකින් විශ්ව විද්‍යාල සේරම කොහොමත් වහනවා. මේක අලුත් ආරම්භයක ලකුණු කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයි. සේනබන්දු</author>
+            <date>2012-01-12 12:13:09</date>
+            <index>26</index>
+            <phrase>සරසවියට ළමයි යන්නෙ ඉගෙන ගන්න. රට පාලනය කරන්න නෙමෙයි. වියදම් කරන්නෙත් රජයෙන් නොමිළයේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා</author>
+            <date>2012-01-12 12:48:23</date>
+            <index>27</index>
+            <phrase>විශේෂඥ වෛද්‍ය පට්ටම ලැබුණාට පස්සෙ ඕගොල්ලන්ගෙ ඔය සමාජවාදය නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිදහස</author>
+            <date>2012-01-12 12:56:07</date>
+            <index>28</index>
+            <phrase>කාගෙවත් බදු මුදලින් සරසවි ළමයි පෙළපාලි ගියේ නැ..එයාල ගියේ එයාලගේ කකුල් වලින්..කාගෙවත් බදු මුදල් දැන් සරසවි වලට එන්නෙත් නැ..අපේ බදු වලින් සැප ගන්නකොට, පිටරට ගිහින් නටනකොට ඔයාලත් කට වහගෙන ඉන්නවා..ඒවටත් කෑ ගහනවකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණා</author>
+            <date>2012-01-12 14:11:14</date>
+            <index>29</index>
+            <phrase>මේ කෑ ගහන්නෙ කාටවත් රිද්දන්න නෙමෙයි. සී.ඩබ්ලිව්.ඩබ්ලිව්. කන්නංගර මහත්තයා දුන්නු නිදහස් අධ්‍යාපනය රැකගන්න දුප්පතාගෙ දරුවන්ට පෞද්ගලික විශ්ව විද්‍යාල වලට යන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>cmd</author>
+            <date>2012-01-13 18:56:45</date>
+            <index>30</index>
+            <phrase>මේ රකින්න හදන්නේ ඔබේ දරුවගෙ අනාගතය.විශේෂඥ වෛද්‍ය පට්ටම ලැබුණාට පස්සෙ ඕගොල්ලන්ගෙ ඔය සමාජවාදය නැහැ මේ කෑ ගහන්නෙ කාටවත් රිද්දන්න නෙමෙයි. සී.ඩබ්ලිව්.ඩබ්ලිව්. කන්නංගර මහත්තයා දුන්නු නිදහස් අධ්‍යාපනය රැකගන්න දුප්පතාගෙ දරුවන්ට පෞද්ගලික විශ්ව විද්‍යාල වලට යන්න බැහැ.සරසවි ආවෙ පෙළපාලි යන්න ? ඉගෙන ගන්න තමුන්ගේ ජිවිතය සාර්ථක කරගන්නද? රට හදන්න යවපුවාම එදා ඉදන්ම කන්න හදන්නේ. පෙළපාලියක් ගියාට කමක් නෑ තමන් ස්වාධීන වුණදාට. ඒ කියන්නේ මහජන මුදලින් නඩත්තු නොවී තමන් රැකියාවක් කරන කාලයක. අපි බදු වශයෙන් මුදල් ගෙවන්නේ කාටවත් පෙළපාලී යන්නවත් කදුලු ගෑස් වලටවත් නෙමෙයි. ගහපු එකට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mad</author>
+            <date>2012-01-13 19:01:06</date>
+            <index>31</index>
+            <phrase>විශේෂඥ වෛද්‍ය පට්ටම ලැබුණාට පස්සෙ ඕගොල්ලන්ගෙ ඔය සමාජවාදය නැහැ. ගහපු එකට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>chan</author>
+            <date>2012-01-13 19:13:25</date>
+            <index>32</index>
+            <phrase>මේගොල්ලන්ට සරසවි උණ. පිස්සු නටනවා. මේ වැඩවලට අපි ජයවේවා! කියමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-01-19 11:52:44</date>
+            <index>33</index>
+            <phrase>නිදහස් අධ්‍යාපනයෙන් ඉගෙන ගන්නවා මිසක් ආණ්ඩු හදන්න යන්න ඕන නැහැ. ඉගෙනගෙන සාර්ථක මිනිසෙක් වෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

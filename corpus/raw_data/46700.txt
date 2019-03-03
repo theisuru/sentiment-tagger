@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46700</articleId>
+    <title>හරක් ලොරියට පොලීසියෙන් වෙඩි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 ජූනි මස 06 09:25:12</date>
+    <body>හරකුන් පටවාගෙන වීරකැටියේ සිට ආ ලොරියක් ගාල්ල කලේගානේ පොලිස් මාර්ග බාධකයේදී අණ නොතකා ධාවන කිරීම නිසා වෙඩි තබා නතර කළ බව පොලීසිය කියයි. හරකුන් ගෙන ආ දෙදෙනා පැන ගිය අතර අඩි හයේ ලොරියේ පටවා සිටි ගවයන් දහ දෙනාගෙන් තිදෙනකු මැරී සිටි බවත් ඊට හේතුව වෙඩි වැදීම නොවන බවත් පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>නදීර</author>
+            <date>2012-06-06 09:56:35</date>
+            <index>0</index>
+            <phrase>අපරාදේ වාහනේ හිටපු දෙන්නට ඉස්සෙල්ලම වෙඩි නොතියපු එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා,saudi</author>
+            <date>2012-06-06 10:07:39</date>
+            <index>1</index>
+            <phrase>පොසොන් පොහොය ගැනවත් සළකා ඉතිරි ගවයින්ට අභය දානය දුන්නනම් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-06-06 10:50:01</date>
+            <index>2</index>
+            <phrase>හොරාට කලින් කෙසෙල් කැන වැට පැනලා වගේ.කොහොමත් අපේ පොලිසිය තියෙන තැනට නෙමෙයිනේ වදින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2012-06-06 10:56:07</date>
+            <index>3</index>
+            <phrase>අසන්ක, හරක් කතාවක් කියනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටුටු</author>
+            <date>2012-06-06 11:28:51</date>
+            <index>4</index>
+            <phrase>හරක් මැරීම නීතියෙන් තහනම්කල යුතුයි...ඇයි මේ ‍බෞද්ධ රටේ එහෙම නීතියක් ගේන්න බැරි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොම්පේ මල්ලී</author>
+            <date>2012-06-06 11:30:11</date>
+            <index>5</index>
+            <phrase>අපිට ආරංචි වුණේ ලොරියේ හිටියේ දේශපාලකයෝ කියලනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත රත්නායක</author>
+            <date>2012-06-06 12:22:27</date>
+            <index>6</index>
+            <phrase>හරක් ගණන හරියටම ගනන් කරන්න..... දන්නවනෙ පොලිසියෙ හැටි .... හරක්, වහුපැටියන් වෙන්ඩ පුළුවන්. වත්තල පොලිසියේ දී වුනා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.සිරා</author>
+            <date>2012-06-06 12:03:03</date>
+            <index>7</index>
+            <phrase>දොම්පේ මල්ලී ඒක බොරුවක් ,මෙයාලට කකුල් 4 ක් තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බංගලියා</author>
+            <date>2012-06-06 13:01:56</date>
+            <index>8</index>
+            <phrase>ඩ්‍රයිවර්ට ආචාර්‍ය උපාධියක් තිබේද කියල පරීක්ෂා කරල බලන්න.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ගලියා</author>
+            <date>2012-06-06 12:22:28</date>
+            <index>9</index>
+            <phrase>ඩ්‍රයිවර්ට ආචාර්‍ය උපාධියක් තියේයිද බලන්න.තියනවනම් අරයම තමයි‍.................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-06 13:11:05</date>
+            <index>10</index>
+            <phrase>හරක් ජාවාරම කරද්දි හරක් මැරිල.....නිදන් හෑරීම වගේම තමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-06 13:23:33</date>
+            <index>11</index>
+            <phrase>මේ ටුටු......හරක් මරණ එක තහනම් කරහම අපේ අය ගෙරිමස් කන්නේ පිටරටින් ගෙනත්ද ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-06-06 12:44:10</date>
+            <index>12</index>
+            <phrase>අපරාදේ ලොකුම හරක් දෙන්න පැනල ගිහින්නේ ...&gt;</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තේජා</author>
+            <date>2012-06-06 14:03:56</date>
+            <index>13</index>
+            <phrase>ටුටුගේ ජීවිතේ ආරක්ෂා කරගන්න නීති අවශ්‍යයි තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජි</author>
+            <date>2012-06-06 14:27:38</date>
+            <index>14</index>
+            <phrase>අර දෙන්න පැනල යනකම් පොලීසිය මොකද කරේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජි</author>
+            <date>2012-06-06 13:47:57</date>
+            <index>15</index>
+            <phrase>අර දෙන්නා පැනලා යනකල් බුදියගෙන ඉදලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-06-06 14:11:05</date>
+            <index>16</index>
+            <phrase>පැනල යන්න කිව්වට පස්සෙනේ වෙඩි තිබ්බේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author> මනුසතා</author>
+            <date>2012-06-06 14:48:34</date>
+            <index>17</index>
+            <phrase>ඔව් ඉතින් මී හරක් මස් කව්රුත් නොකන නිසා තේජාටයි කිරිමාටින්ටයි නම් භය වෙන්න දෙයක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-06-06 15:04:44</date>
+            <index>18</index>
+            <phrase>මිනිස්සු මොකද මී හරක් මස් නොකන්නේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-06 15:33:21</date>
+            <index>19</index>
+            <phrase>හරක් මස් නොකයි. හරක් තණ බුදිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-06 15:37:18</date>
+            <index>20</index>
+            <phrase>ඇයි අපේ බඩ හරකුන්ගේ සොහොනක් කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-06-06 15:37:37</date>
+            <index>21</index>
+            <phrase>විශ්වාශ කරන්න අමාරුයි තමන්ට තම වර්ගයා අදුර ගන්න බැරි වෙච්ච එක ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author> බලිඅබා</author>
+            <date>2012-06-06 16:54:38</date>
+            <index>22</index>
+            <phrase>හරක් අලි මස් නොකයි. තණ බුදිති. </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩී</author>
+            <date>2012-06-06 16:25:28</date>
+            <index>23</index>
+            <phrase>ඕනකමින් අතහැරියද දන්නේ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kirimatin</author>
+            <date>2012-06-06 17:15:18</date>
+            <index>24</index>
+            <phrase>පොසොන් පොහොය ගැනවත් සළකා ඉතිරි ගවයින්ට අභය දානය දුන්නනම් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටකිච්චා</author>
+            <date>2012-06-06 19:51:37</date>
+            <index>25</index>
+            <phrase>හරක්ට පොසොන් පෙන්නන්න කොළඹ එක්කගෙන ගියාද කවුද දන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-06 19:13:48</date>
+            <index>26</index>
+            <phrase>අපි නම් දන්නේ TATA ලොරි.එතකොට හරක් ලොරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-06-06 19:56:33</date>
+            <index>27</index>
+            <phrase>හරිම නිර්භීත හොරු දෙන්නෙක්. හැබැයි දෙන්නම දන්නවා තිබ්බට වදින්නේ නෑ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකලබුජන්</author>
+            <date>2012-06-06 22:06:06</date>
+            <index>28</index>
+            <phrase>මේක හරක් ප්‍රශ්නයක් . ගෙදර උන්දෑ කියනවා ගොන් ප්‍රශ්නයක්ලු. අම්මපා හරක්ද ? ගොන්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-06 21:26:17</date>
+            <index>29</index>
+            <phrase>හරක්ලොරි දුවන්නේ තණකොල වලින්ද හැබෑටම.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

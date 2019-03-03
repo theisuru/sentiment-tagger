@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>66823</articleId>
+    <title>ඉන්දියාවට මහ වැසි: ලක්ෂ ගණනක් අවතැන්</title>
+    <author>නවදිල්ලි නුවරදීය (ඒඑෆ්පී)</author>
+    <date>2012 සැප්තැම්බර් මස 26 09:59:10</date>
+    <body>ඊසාන දිග ඉන්දියාවට ඇද හැළෙන මහ වැසි හේතුවෙන් මිලියන 1.7 කට උන්හිටිතැන් අහිමි වී ඇතැයි වාර්තා වේ.
+ගත වූ පැය 24 ක කාලයේ ජල ගැලීම් සහ නායයෑම්වලට හසුවීමෙන් පුද්ගලයන් 13 දෙනකු ජීවිතක්ෂයට පත් වූ බව ඉන්දීය පුවත් සේවා වාර්තා කරයි.
+ජල ගැලීම් සහ නායයෑම්වලින් බරපතළ ලෙස හානි සිදුවී ඇත්තේ ඇසෑම් ප‍්‍රාන්තයටය. ඇසෑමයේ දිස්ති‍්‍රක්ක 27 ක් මුළුමනින්ම ජලයෙන් යට වී ඇතැයි වාර්තා වේ.</body>
+    <comments>
+        <comment>
+            <author>මධුෂාන්</author>
+            <date>2012-09-26 12:58:59</date>
+            <index>0</index>
+            <phrase>මුලු ලෝකෙම භයානක දේ සිදුවෙනවා . අපි දැන් ජීවත් වෙන්නේ අන්තිම දවස් ටික කියලා මේවගෙන් හොඳටම තේරෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-09-26 17:08:17</date>
+            <index>1</index>
+            <phrase>පවු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-09-28 10:44:43</date>
+            <index>2</index>
+            <phrase>ඉස්ලාම් ආගමට අනුව ලෝකවිනාසය අතලඟ , මම ඉස්ලාම් ආගම පිලිගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

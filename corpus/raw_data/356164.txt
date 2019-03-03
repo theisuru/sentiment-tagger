@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>356164</articleId>
+    <title>‘ප්‍රශ්න කරන්නෙත් නෑ : යන්න දෙන්නෙත් නෑ‘</title>
+    <author>තරිඳු ජයවර්ධන  දීපා අධිකාරි ටී කේ ජී කපිල</author>
+    <date>2015 ඔක්තෝබර් මස 23 11:35:43</date>
+    <body>අගමැතිවරයා තමාගේ එතෙර ගමනට අවසර දී ඇතයි බව කියන නමුත් අද දහවල් 11.31 වන විටත් තමා කටුනායක රහස් පොලිස් බාරයේ සිටින බව විමල් වීරවංශ මහතා දුරකතනයෙන් ‘එසැණ‘ට කීවේය.
+‘මම වාඩි වෙලා ඉන්නවා. මගෙන් ප්‍රශ්න කරන්නෙත් නෑ, යන්න දෙන්නෙත් නෑ. දහයකුත් ගානටත් ඩුබායි බලා යානයක් ගියා. එහි යන්නත් බැරිවුණා. ‘
+කොළඹ සිට කටුනායකට විශේෂ රහස් පොලිස් කණ්ඩායමක් ද ගොස් සිටියි. ඔවුන් වීරවංශ මහතාගෙන් මෙතෙක් ප්‍රශ්න කර නැත.</body>
+    <comments>
+        <comment>
+            <author>ධර්ම ජයවික්‍රම</author>
+            <date>2015-10-23 06:19:26</date>
+            <index>0</index>
+            <phrase>අයින්ස්ටයින්ගේ සාපේක්‍ෂතාවාදය පිළිබඳ ලියවුණු කුඩා පොතක්වත් සොයාගෙන කියවන්න, සිත ව්‍යාකූල නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2015-10-23 06:18:54</date>
+            <index>1</index>
+            <phrase>ඒකනේ. දෙකෙන් එකක් කරන්න එපායැ. එක්කෝ ප්‍රශ්න කරන්න ඕනෑ. නැත්නම් යන්න දෙන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-10-25 04:28:38</date>
+            <index>2</index>
+            <phrase>හේතුවක් ඇතිනේ රදවගන්නත්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

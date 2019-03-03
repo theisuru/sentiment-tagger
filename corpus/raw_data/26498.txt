@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26498</articleId>
+    <title>ආණ්ඩුවෙන් ‘ජීවන බර ප්ලස්‘ දීලා</title>
+    <author>සුජිත් මංගල සිල්වා</author>
+    <date>2012 පෙබරවාරි මස 13 11:50:57</date>
+    <body>ආණ්ඩුවේ ඉල්ලීමට අනුව සියල්ල ඉවසාගෙන අමාරුවෙන් පටි තද කරගෙන සිටින ජනතාවට යුද්ධය අවසන් වුණාට පසුව පොරොන්දු වූ සහන වෙනුවට රාජපක්ෂ ආණ්ඩුව ‘ජීවන බර ප්ලස්‘ දී ඇතැයි එක්සත් ජාතික පක්ෂ නායක සහ විපක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා බණ්ඩාරගමදී පැවැසීය.
+වැඩි වැටුප් ඉල්ලූවිට ආණ්ඩුව තෙල් මිල වැඩි කිරීමෙන් ඒ බව මනාව පැහැදිලි වන්නේ යැයි ද ජීවන බර වැඩිකර ජනතාව හාමතේ මරා දැමීමට සැරසෙන රාජපක්ෂ ආණ්ඩුව වහාම පෙරළා ජනතාවට සහන සැලසිය හැකි එක්සත් ජාතික පක්ෂ ආණ්ඩුවක් ඇති කිරීමට ඇප කැප වන්නේ යැයි ද ඔහු කීවේය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-02-13 12:02:45</date>
+            <index>0</index>
+            <phrase>දැන්ද ඇහැ අරුණෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉංදික</author>
+            <date>2012-02-13 13:22:09</date>
+            <index>1</index>
+            <phrase>දැන් අවුරුදු කීයක් තිස්සේ කෑ ගහනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-02-13 13:41:50</date>
+            <index>2</index>
+            <phrase>ජීවන බරෙන් බැට කන ජනතාව නිදි නම් මොකද කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2012-02-13 14:07:52</date>
+            <index>3</index>
+            <phrase>ප්‍රබාත් සහ ඉන්දික, ඔය දෙන්නාගේ දේශපාලන මතය මොකක් උනත් දෑන් මේ තත්වය උඩ අපිටනම් ජීවන වියදම දරාගන්න අමරුයි. සමහර විට ඔය දෙන්නත් ජනතාවගේ මුදලින්, ආණ්ඩුවේ කාර්යාලයක පුටු රත්කරන දෙන්නෙක් වෙන්නත් ඈති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ මීගහපොල</author>
+            <date>2012-02-13 14:14:52</date>
+            <index>4</index>
+            <phrase>මෙතුමාගේ රජයක් අද තිබුණා නම් ප්‍රභාකරන්ට ප්ලස් අපිට පස් සහ රට වටේම බෝම්බ බිය. අද කන්න නැතත් දෙයියනේ කියලා පාරෙ බැහැලා යන්න පුලුවන්. මරණ බියක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>thilak</author>
+            <date>2012-02-13 14:59:44</date>
+            <index>5</index>
+            <phrase>මේ තත්ත්වයට ජනතාව පත්කළේ තමුන්නාන්සේලා, ආණ්ඩුවට නිසි විරෝධයක් ඉදිරිපත් කලේ නෑ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

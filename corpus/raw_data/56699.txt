@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56699</articleId>
+    <title>කලබලකාරීන් විසුරුවන්න  කඳුළු ගෑස් ගහයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 අගෝස්තු මස 02 12:32:18</date>
+    <body>පාරේ ගිය අයකු වාහනයකට යටවීමෙන් පසු තඹුත්තේගම පොලිසියට ගල් මුල් ගැසූ පිරිසක් පාලනය කිරීමට කඳුළු ගෑස් ගැසූ බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2012-08-02 12:36:51</date>
+            <index>0</index>
+            <phrase>කෙනෙක් වාහනයකට යට උනා කියලා පොලිසියට ගල් මුල් වලින් ගහන එක සදාචාර සම්පන්න නැහැ....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ඉන්දික</author>
+            <date>2012-08-02 13:02:47</date>
+            <index>1</index>
+            <phrase>අනේ මන්ද මේ මිනිස්සුන්ට මොනවාවෙලාද කියල සමහර වෙලාවට ඒ වාහනේ පොලිසියේ වාහනයක්ද දන්නේ නැහැ එත් ඇයි මේ මිනිස්සු මේ විදියට කළබල වෙන්නේ මේ හැම සිදුවීමකම පිටිපස්සේ මොකක් හෝ අදිසි බලවේගයක් තියෙනවා.. සිහලුනේ ආවේගයට වඩා බුද්ධියට තැන දියව්!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-08-02 13:29:25</date>
+            <index>2</index>
+            <phrase>සුදේශ්, සනත්, මෝඩ කතා කියන්න එපා වෙලා තියෙන දේ නොදැන. අනතුරක් වෙලා හැප්පුණු කෙනා මිය ගිහින් තියෙද්දිත් ඇයව අනතුරට ලක් කළ රියදුරා ඇප මත මුදා හැරීම හන්දයි මෙහෙම වෙලා තියෙන්නේ. දෙකට තුනට නැමිලා මෙහෙම වැඩ කරන පොලිසි වලට ගල් නෙවෙයි ගහන්න වටින්නේ,බෝම්බ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත - ඉබ්බාගමුව</author>
+            <date>2012-08-02 13:41:33</date>
+            <index>3</index>
+            <phrase>මෙම අපරාධය කළ රියදුරුට ක්ෂණිකව ඇප ලබාදීම හේතුවෙන් ගම්වැසියන් පොලීසියට එරෙහිවයි මෙම උද්ඝෝෂණය කරල තියෙන්නේ. ඇයි එහෙම වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-02 14:12:29</date>
+            <index>4</index>
+            <phrase>මෙතන වෙලා තියෙන්නෙ මෙහෙමයි.. පාරේ ගිය ට්‍රැක්ටර් එකක වෑන් රථයක් ඇවිල්ල හැප්පිලා.. දෙන්නෙක් මැරිලා නව දෙනෙකුට තුවාලයි..මෙතනදි පොලිසිය පක්ෂපාතීව ක්‍රියා කළ නිසා තමයි මෙම ආරවුල ඇති වෙලා තියෙන්නෙ...??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-02 14:42:28</date>
+            <index>5</index>
+            <phrase>ගල් ගසපු කට්ටිය හෙට අනිද්දා වෙද්දී කූඩුවට දායි, රජයේ දේපළ වලට හානි කළා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-03 15:08:51</date>
+            <index>6</index>
+            <phrase>මෙහෙමත් මෝඩයොනෙ ඉන්නෙ මේ රටේ! වාහන හැප්පෙන එකටත් පොලිසිය පලිද? ඇත්තටම මානසික ලෙඩ්ඩු ටිකක්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-08-03 15:12:25</date>
+            <index>7</index>
+            <phrase>අංගොඩින් පැනලා ආපු කට්ටියක් වගේනේ මේ අය හැසිරිලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

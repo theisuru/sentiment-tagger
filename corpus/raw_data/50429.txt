@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50429</articleId>
+    <title>තරුණ ඉංජිනේරුවරිය ගමේ පාසලට අත දෙයි</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 ජූනි මස 27 11:17:10</date>
+    <body>ලන්ඩනයේ පදිංචි නිර්මාණ ඉංජිනේරුවරියක වන ක‍්‍රිෂ්මි අභයතිලක සිය 21 වැනි උපන්දිනය අමුතු විදියකට සමරමින් මොනරාගල වේලිඔය, කොටවෙහෙරමංකඩ පාසලේ සිසුනට අත දීමට යයි. ගිය වසරේ සිසුන් 30 දෙනකුගෙන් අට දෙනෙක් සරසවි වරම් ලදහ.
+එංගලන්තයේ අධ්‍යානය ලැබීමට තමාට ලද අවස්ථාව සිහිපත් කරන ඇය අඩු පහසුකම් ඇති දුෂ්කර පළාත් සිසුන්ට අත දිය යුතු බව තමාට සුබ පැතීමට ආ නෑ හිතවතුනට  කීවාය. ඒ සඳහා ඇය සංවිධානයක්ද පිහිටුවා ගත්තාය. ඇගේ සොයුරු හේෂවද මවුපියෝද ඊට උදව් කරති. විදුහල්පති ප‍්‍රධාන ශිෂ්‍යනායක, ප‍්‍රධාන ශිෂ්‍යනායිකා, මවුපිය හා ගුරු  නියෝජිතයන් සිවුදෙනකු ඇතුළත් කමිටුවක්ද පිහිටුවාගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>සාලිය මයා</author>
+            <date>2012-06-27 11:21:57</date>
+            <index>0</index>
+            <phrase>අර ළමයාගේ බඩේ ඉස්සරහ තියන පෙට්ටිය මොකක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්ලෙයාර්</author>
+            <date>2012-06-27 12:02:12</date>
+            <index>1</index>
+            <phrase>ඔබගේ උදවු අගය කරනවා.ඔබ ඇත්තෙන්ම අපේ මේ කොළඹ පැත්තේ ඉන්න බොහෝ උගතුන්ට වඩා බුද්ධිමත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරසිංහ</author>
+            <date>2012-06-27 11:29:30</date>
+            <index>2</index>
+            <phrase>උසස් උදවුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභීලාශිනී</author>
+            <date>2012-06-27 12:26:18</date>
+            <index>3</index>
+            <phrase>ලන්ඩන් නිසා අවු. 21 න් ඉන්ජිනේරුවෙක් වුණා.ලංකාවේ අධ්‍යාපනය අනුව ඉන්ජිනේරුවෙක් වෙන්න අවු.25-27 ක් වත් යනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-06-27 12:28:10</date>
+            <index>4</index>
+            <phrase>අනික් අයටද ඉතා හොද ආදර්ශයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-06-27 12:29:36</date>
+            <index>5</index>
+            <phrase>සාලිය... මිනිස්සුන්ගේ මූණ බලන්න පුරුදු වෙයං බං...එක එක දේවල් බලන්නේ නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත්</author>
+            <date>2012-06-27 12:32:17</date>
+            <index>6</index>
+            <phrase>ඉතාම ආදර්ශවත් වැඩක් .... ඔබට සුභ පතනවා....මෙවැනි ලිපි පලකිරීම ගැන ලංකාදීපයට ස්තූතියි ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-27 12:36:53</date>
+            <index>7</index>
+            <phrase>සාලියට පිස්සුද මන්දා, ඒක එයා බලාගනී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝමා</author>
+            <date>2012-06-27 12:42:16</date>
+            <index>8</index>
+            <phrase>ඔබ සාර්ථක කාන්තාවකි.ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වලිසුන්දර</author>
+            <date>2012-06-27 12:03:54</date>
+            <index>9</index>
+            <phrase>මේක හොද වැඩක්, අගය කිරීමත් හොඳයි. වඩාත්ම හොද මේ ළමයා ලංකාවේම ඉදලා ලංකාවටම සේවය කෙරුවානම්.පිටරට වැඩ කරලා නිවාඩුවකට ඇවිත් මොනවා හරි කරන අය ගැන තමයි අද අහන්න දකින්න ලැ‍බෙන්නෙත්. දිගු කාලීනව බැලුවොත් මේක රටට හොද දෙයක් නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජසිංහ</author>
+            <date>2012-06-27 12:44:10</date>
+            <index>10</index>
+            <phrase>මේක ක්ලේමෝ බෝම්බයක්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-06-27 12:52:30</date>
+            <index>11</index>
+            <phrase>සාලිය, කතා කරන්න ගමේ ළිදක් ගාවට ගියානම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිසාර්</author>
+            <date>2012-06-27 12:19:50</date>
+            <index>12</index>
+            <phrase>දෙවියන් ඔබ සමගයි දියණියනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-06-27 12:31:24</date>
+            <index>13</index>
+            <phrase>බොහොම හොඳ සද් ක්‍රියාවක්. කවුරු කවුරුත් ආදර්ශයට ගත්තොත් හොඳයි !වාසනාවන්ත දියණීයක්..ජය වේවා !!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-06-27 12:33:56</date>
+            <index>14</index>
+            <phrase>අගය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>galle koluwa</author>
+            <date>2012-06-27 12:35:03</date>
+            <index>15</index>
+            <phrase>බොහෝම අගය කරනවා. මේ ළමයා කරන්නේ හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලෙක්</author>
+            <date>2012-06-27 13:17:50</date>
+            <index>16</index>
+            <phrase>ඇත්තටම මේක හොඳ වැඩක්.. ඒ උනාට තවත් දෙයක් කියන්න ඕනි. ලංකාවේ විශ්වවිද්‍යාල වල ඉගෙනගන්න කොල්ලෝ ඔය වගේ දේවල් ඕනි තරම් කරනවා. අපි විශ්වවිද්‍යාල ඉන්න කාලේ මායිම් ගම්මාන වලට ගිහින් සති ගණන් නැවතිලා ඒ ගම්වල ළමයින්ට උගන්නල තියනවා. ඒ දේවල් ගැන කව්රුවත් කතා කරන්නේ වත් නැ කිසිම මාධ්‍යයක යන්නේත් නැ. කව්රු හරි ලන්ඩන් වල ඉදල අවොත් ඒවා ගැනනම් කතාකරනවා. අපේ කොල්ලෝ ඕව කරන්නේ සල්ලි තිබිල නෙවයි. අපේ මිනිස්සු කරන්නේ කැම්පස් කොල්ලන්ට බනින එක විතරයි. පුලුවන්නම් අපේ කොල්ලෝ කරන දේවල් ටිකකුත් දාන්න බලන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-06-27 13:31:19</date>
+            <index>17</index>
+            <phrase>වටිනා කියන වැඩක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-06-27 14:01:46</date>
+            <index>18</index>
+            <phrase>සිංහල ලේ ඇති ශ්‍රීලාංකිකයන්ට ලොව කොහේ ජීවත් වුනත් තම උපන් මවුබිම අමතක කල නොහැකියි....ඔබට තවත් ශක්තිය ධෛර්යය සොයුරිය!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-06-27 14:04:01</date>
+            <index>19</index>
+            <phrase>ඔයා කියන දේ ඇත්ත.ඒත් මායිම් ගම්මාන කියන වචනය පාවිච්චි කරන්න එපා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.ඩී.එම්.එස්</author>
+            <date>2012-06-27 14:07:37</date>
+            <index>20</index>
+            <phrase>කැම්පස් කොල්ලා වෙත, ඔයාල කරන දේවල් ලියනවනම්, පත්තර පිරෙන්න, ලියන්න පුළුවන් ඒ නිසා ඒ ගැන කතානොකර ඉමු, හොද දේවල් අගය කරමු,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත හේමචන්ද්‍ර</author>
+            <date>2012-06-27 14:18:57</date>
+            <index>21</index>
+            <phrase>දෙනදෙයක් වඩා සද්දේ නොකර දෙනවානම් නේද හොද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූති</author>
+            <date>2012-06-27 14:20:58</date>
+            <index>22</index>
+            <phrase>ඔබට සුභ පතනවා...මෙවැනි ලිපි පලකිරීම ගැන ලංකාදීපයට ස්තුතියි ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-27 14:31:36</date>
+            <index>23</index>
+            <phrase>වාසනාවන්ත දියණීයක්..ජය වේවා !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-06-27 14:38:01</date>
+            <index>24</index>
+            <phrase>දිරිය දියණියනි ඔබට ජයෙන් ‍ජය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-06-27 13:59:21</date>
+            <index>25</index>
+            <phrase>කෙනෙක් හොද දෙයක් කලාම ..එය අගයන්නේ නැතිව ..කිසිම දෙයක් කර ගන්න බැරි කට්ටිය ඉරිසියාවෙන් අඩුපාඩු සොයනවා ...මේ කොමෙන්ට් කරන කට්ටියගෙන් වැඩි දෙනා ඒ අය තමා ..බොහොම හොඳ සද් ක්‍රියාවක්.අපේ කම අමතක නොකරපු වාසනාවන්ත දියණීයක්..ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2012-06-27 14:50:12</date>
+            <index>26</index>
+            <phrase>කැම්පස් දරුවෝ ඕනි කියල සිංහල වචනයක් තියෙනවද? අපොයි අපේ විශ්වවිද්‍යලවලටත් ගිය කලක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිටී</author>
+            <date>2012-06-27 14:58:00</date>
+            <index>27</index>
+            <phrase>‍සාලිය, වෙන වෙන දේ නෙමෙයි මිනිස්සුන්ගේ මුණ දිහා බලන්න පුරුදු වෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-06-27 15:12:37</date>
+            <index>28</index>
+            <phrase>අගේ ඇති වැඩක් .සුභ පැතුම් .!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-06-27 15:25:11</date>
+            <index>29</index>
+            <phrase>කොහේ හිටියත් ඔබ අපේම දුවෙක්..........ඔබට ජයෙන් ජය .!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-06-27 14:51:15</date>
+            <index>30</index>
+            <phrase>ලක් දියණිය ඔබේ සේවය අන් අයට මහඟු ආදර්ශයක් වේවා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-06-27 14:59:49</date>
+            <index>31</index>
+            <phrase>කරපු දෙයක් , දීපු දෙයක් ගැන සඳහන් කරානම් අපිත් දැනගන්නවනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-27 15:39:23</date>
+            <index>32</index>
+            <phrase>අනේ අපි නොදන්න චෙස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-06-27 15:39:42</date>
+            <index>33</index>
+            <phrase>ලස්සන හොද වැදගත් වැඩක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසා</author>
+            <date>2012-06-27 15:00:51</date>
+            <index>34</index>
+            <phrase>වයස 21 ඉන්ජිනේරුවරිය....විශිෂ්ඨයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-06-27 15:47:36</date>
+            <index>35</index>
+            <phrase>මුල අමතක නොකල යහපත් පවුලක ළමයෙක්....දකින්න ලැබීමත් වාසනාවක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-06-27 15:09:26</date>
+            <index>36</index>
+            <phrase>නියම වැඩක්.කිසිම දේශපාලුවෙක් ගාව ගන්නේ නැතුව කරන්න පුලුවන් නම් ඉතා හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-06-27 15:51:33</date>
+            <index>37</index>
+            <phrase>කෑම්පස් කොල්ලා, ඔයාලගෙ වෑඩත් හරි අගෙයි. ඒවත් දවසක ලියවේවි.!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-06-27 16:02:33</date>
+            <index>38</index>
+            <phrase>ලංකා දුවක්....සැමදා ජයෙන් ‍ජය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව බණ්ඩාර</author>
+            <date>2012-06-27 15:35:44</date>
+            <index>39</index>
+            <phrase>මම මොරටුවේ විශ්ව විද්‍යාලේ ඉදපු කාලේ මායිම් ගම්මාන වලට ගිහිල්ලා ඒ මිනිස්සුනට හුගක් උදවු කළා අපේ යාලුවොත් එක්ක.ඒත් අපි ගැන කිසිම පත්තරේක දැම්මේ නෑ.කමක් නෑ.අපි එහෙම කළේ ප්‍රසිද්ධියක් බලාපොරොත්තුවෙන් නෙමෙයි.ඒත් මේ ප්‍රවෘත්තිය දැක්කම මට මේ ටික කියන්න හිතුණා.ඒකයි කිවුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2012-06-27 15:37:22</date>
+            <index>40</index>
+            <phrase>මේක බොහොම හොද වැඩක්.අපි අගය කරනවා.ලංකාදීප කොහොමත් පිටරට වල ඉන්න අය ගැන කියලා මෙහෙම දේවල් කරන එක අපිට සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-06-27 16:28:04</date>
+            <index>41</index>
+            <phrase>ආදර්ශමත් වැඩක්....ඔබට තව තවත් ලැ‍බේවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදර්ශනී</author>
+            <date>2012-06-27 15:56:32</date>
+            <index>42</index>
+            <phrase>කැම්පස් කොල්ලා කියන කථාව ඇත්ත. කැම්පස් ළමයි හරියට මේ වගේ හොඳ වැඩ කරනවා. ඒ ළමයින්ට සල්ලි නැහැ. ඒත් ශ්‍රමයෙන් සහ ස්වේච්ඡාවෙන් ගිහිල්ලා දුෂ්කර පාසැල්වල ළමයින්ට උගන්නනවා. කවදාවත් මම දැකලා නැහැ ඒ වගේ දෙයක් ගැන සදහනක්. මම හිතන්නේ ඒවාත් අපිට මේ මෙහෙම අගය කරන්න පුඵවන්නම් ඔවුන්ව තවත් ධෛර්යමත් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හීමල්</author>
+            <date>2012-06-27 16:20:46</date>
+            <index>43</index>
+            <phrase>හම්බ කරන සල්ලි වලින් ලංකාවේ දරුවන් වෙනුවෙන් කොටසක් වෙන් කළ එකට මේ පිරිසට බොහොම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-27 17:04:52</date>
+            <index>44</index>
+            <phrase>ඇයි කැම්පස් ළමයි මේ වගේ හොඳ වැඩ කරනවා.. කැට හොලවලා සොයාගන්න සල්ලි ටිකෙන් දේශපාලනය කරනවා. ඒක කොච්චර ආදර්ශමත් වැඩක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්බීත ලාංකිකයා</author>
+            <date>2012-06-27 17:05:00</date>
+            <index>45</index>
+            <phrase>මෙම සත් ක්‍රියාව බොහෝ අගය කළ යුතුයි.මගේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විහග</author>
+            <date>2012-06-27 16:36:13</date>
+            <index>46</index>
+            <phrase>නංගි,ඔයාලා වගේ අය මේ සමාජයේ ගොඩක් අඩුවෙන් තමයි අහන්න දකින්න ලැබෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාසික කටාර්</author>
+            <date>2012-06-27 17:46:15</date>
+            <index>47</index>
+            <phrase>සිල්වා ඔබ හරි,හොඳ‍ දේ අගය කරන්න දන්නැභැ.දුව ක‍්‍රිෂ්මි අභයතිලක, ඔබට සැමදා ජයෙන් ජය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-06-27 17:56:08</date>
+            <index>48</index>
+            <phrase>අන්න එහෙම තමයි ඉන්ජිනියස්ලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුක රසික කටාර්</author>
+            <date>2012-06-27 18:05:38</date>
+            <index>49</index>
+            <phrase>සාලිය මහත්මිය,කෙනෙක් හොද දෙයක් කලාම ..එය අගයන්න, ඔවුන්ව තව තවත් ධෛර්යමත් වෙන්න.... ආදර්ශමත් වැඩ කරන්න පුරුදු වෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භූමිපුත්‍ර</author>
+            <date>2012-06-27 18:07:43</date>
+            <index>50</index>
+            <phrase>කවුරු කොහොම හරි හොඳ දෙයක් කරනම් එච්චරයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-06-27 18:03:23</date>
+            <index>51</index>
+            <phrase>අනේ මන්දා මටනම් මුකුත් තේරෙන්නෑ‍‍‍......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහාරා</author>
+            <date>2012-06-27 19:26:33</date>
+            <index>52</index>
+            <phrase>හොඳ වැඩක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදීරා</author>
+            <date>2012-06-27 18:58:59</date>
+            <index>53</index>
+            <phrase>අඩුපාඩු සෙවීම සිංහලයගේ සිරිතක් නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-06-27 19:46:53</date>
+            <index>54</index>
+            <phrase>ආදර්ශමත් හෙළ දියණියකි.මෙවන් දේවල් තවත් ඉදිරියට කරගෙන යාමට ඔබට අවශ්‍ය ශක්තිය සහ ධෛර්යය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-06-27 19:34:59</date>
+            <index>55</index>
+            <phrase>මම විශ්වාශ කරන්නේ මෙතන යථාර්තයක් නෑ.ජනප්‍රියත්වය පමණයි ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-06-27 20:07:00</date>
+            <index>56</index>
+            <phrase>විශ්ව විද්‍යාල කොල්ලෝ කෙල්ලෝ නවක වදේ දෙන එක කොච්චර හොද වැඩක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-27 20:50:11</date>
+            <index>57</index>
+            <phrase>ඒක ආයුධ පෙට්ටියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී</author>
+            <date>2012-06-27 20:24:03</date>
+            <index>58</index>
+            <phrase>විශ්ව විද්‍යාල කොල්ලො කියනවා එයාලා ගැන කියන්නෑ. කියලා ඇයි දෙයියනේ හැම දාම කියන්නෙ එයාලා ගැනනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බබා</author>
+            <date>2012-06-27 21:19:16</date>
+            <index>59</index>
+            <phrase>සාලිය මයා 2012-06-27 11:21:57 "අර ළමයාගේ බඩේ ඉස්සරහ තියන පෙට්ටිය මොකක්ද ?" කොල්ලෝ, මෙයා ඇවිල්ලා තියෙන්නේ ඇමරිකාවේ ඉදලා.මේ එහේ අදින හැටි.ඒක පෙට්ටියක් නෙමේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් දම්පල්</author>
+            <date>2012-06-27 21:33:10</date>
+            <index>60</index>
+            <phrase>වන සිව්පුන් වග වලසුන් මැද දෙවි දේවතාවුන් වැනි මිනිසුන් ඇත .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-06-27 21:02:30</date>
+            <index>61</index>
+            <phrase>අනේ මන්දා... මේ අදහස් දක්වන සමහර අය හරි කුහකයි කියල හිතෙනවා.මේ ලමය මෙච්චර හොඳ වැඩක් කරද්දිත් ඒ ගැන කතා නොකර වෙන වෙන විකාර කියවනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරන්ගනී</author>
+            <date>2012-06-27 21:11:07</date>
+            <index>62</index>
+            <phrase>රටට දැයට දුව ඔබ වාසනාවන් ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-06-27 21:20:20</date>
+            <index>63</index>
+            <phrase>විශිෂ්ට වැඩක්.. ක්‍රිස්මි.. විශිෂ්ටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-27 22:47:49</date>
+            <index>64</index>
+            <phrase>ඔබ වැනි අය තමයි අපේ රටේ පාලනයට සුදුසු වන්නේ.එහෙම වුණොත් රටටම කිරි උතුරවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-27 22:47:49</date>
+            <index>65</index>
+            <phrase>ඔබ වගේ අය ලංකාවේ ජනාධිපති පුටුවේ වාඩි කරවන්න ඕන ,එටකොට තමා අපේ රටට කිරිඋතුරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නොදරුව</author>
+            <date>2012-06-27 23:30:12</date>
+            <index>66</index>
+            <phrase>මොනවා උනත් හොද කෙල්ල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දී</author>
+            <date>2012-06-27 23:40:30</date>
+            <index>67</index>
+            <phrase>යහපත් ළමයෙක් ...ඔබට තුනුරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් පෙරේරා</author>
+            <date>2012-06-27 23:07:23</date>
+            <index>68</index>
+            <phrase>මේක අමුතු දෙයක් නෙමෙයි. පිටරට වල ඉන්න අවංක බෞද්ද උගත් දරුවෝ මේ වගේ වැඩ තමයි කරන්නේ. නැතිව අපේ සල්ලි නාස්ති කරලා රාත්‍රී කාර් රේස් පැදලා චොකා බය්ලා නටන එවුන් නෙමෙයි. මේක අපේ හොර හාමුදුරුවන්ටත් හොඳ පාඩමක්. දැන් විමලාවතී වීරවංස කැ ගහිද දන්නේ නැහැ මේක විදේශ කුමන්ත්‍රණයක් කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද - මහරගම</author>
+            <date>2012-06-28 00:00:54</date>
+            <index>69</index>
+            <phrase>ඇත්තටම මෙවැනි තරුණ තරුණියන් ගැන අපි ආඩම්බරයෙන් කතා කරන්න ඕන. ඔවුන් විදේශ රටවලටද ගොස් සිතන්නේ, ප්‍රාර්ථනා කරන්නේ තමන්ගේ මවුබිම ගැන යන්න මෙයින් පැහැදිලි වෙනවා. මේ වගේ කාර්යන් තවතවත් කරන්න ඇයට ශක්තිය ධෛර්ය ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල ෆර්නැන්ඩෝ</author>
+            <date>2012-06-28 00:15:06</date>
+            <index>70</index>
+            <phrase>කෙනෙක් හොද දෙයක් කලාම ..එය අගයන්නේ නැතිව ..කිසිම දෙයක් කර ගන්න බැරි කට්ටිය ඉරිසියාවෙන් අඩුපාඩු සොයනවා ...මේ අදහස් දක්වන කට්ටියගෙන් වැඩි දෙනා ඒ අය තමා ..බොහොම හොඳ සද් ක්‍රියාවක්.අපේ කම අමතක නොකරපු වාසනාවන්ත දියණීයක්..ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝඩවන්ශ</author>
+            <date>2012-06-28 00:28:30</date>
+            <index>71</index>
+            <phrase>මෙතන අධිරාජ්‍යවාදී කුමන්ත්‍රණයක් තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-06-28 01:13:22</date>
+            <index>72</index>
+            <phrase>මම දන්නා මේවගේම තවත් ළමයෙක් එයාගේ අම්ම තාත්ත දෙන්නම ලංකාවේ ඉංජිනේරුවෝ. ළමය ඇමෙරිකාවේ. නමුත් එයත් මේවගේම "chase community giving" වැඩසටහන යටතේ මුදල් එකතු කරලා දුර පළාත් වල ළමයින්ට ශිෂ්‍යත්ව ලබා දෙනවා. හැකිනම් එම දරුවාගේ වැඩසටහන් වලටත් මෙසේ ප්‍රචාරය ලබාදෙන ලෙස ඉල්ලා සිටිමි.මේවා අප ඉතා අගය කලයුතු දේවල් මිස විවේචනය කලයුතු දේවල නොවේ. ඔය දරුවා කරන්නේ ඉතා උසස් අගය කලයුතු වැඩකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල පෙරේරා</author>
+            <date>2012-06-28 00:44:36</date>
+            <index>73</index>
+            <phrase>නියම වැඩක් සහෝදරී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තසංක වීරකෝන්</author>
+            <date>2012-06-28 01:28:34</date>
+            <index>74</index>
+            <phrase>මමත් ලන්ඩන් වල උපාධිය අවසන් වූ දවසේ ඉදල මේවගේ දෙයක් කරන්න ඉන්නේ, මට ලෙබුනු දේ තව කෙනෙකුට දෙන්න අසයි ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දිම</author>
+            <date>2012-06-28 03:12:36</date>
+            <index>75</index>
+            <phrase>මෙවැනි උසස් ක්‍රියාවන් තවත් කිරීමට ඔබට ශක්තිය ධෛර්යය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආදර ලංකා</author>
+            <date>2012-06-28 05:36:10</date>
+            <index>76</index>
+            <phrase>මොනව උනත් නියමයි!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙමි</author>
+            <date>2012-06-28 06:09:11</date>
+            <index>77</index>
+            <phrase>නියමයි සහෝදරී.ඔබට තියෙන්නේ උසස් හදවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-06-28 08:24:05</date>
+            <index>78</index>
+            <phrase>අගේ ඇති වැඩක් .සුභ පැතුම් .!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජානි</author>
+            <date>2012-06-28 08:59:34</date>
+            <index>79</index>
+            <phrase>සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්මලේගෙදර</author>
+            <date>2012-06-28 09:01:36</date>
+            <index>80</index>
+            <phrase>මේ ළමය කරන දේවල් තව විස්තර සහිතව පලකරන්න පුලුවන්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-06-28 08:33:51</date>
+            <index>81</index>
+            <phrase>විදේශගතවුණ හැමෝම මෙහෙම රට ගැන හිතනවනම් අපේ රටේ කොච්චර දේවල් කරන්න පුළුවන්ද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්ති</author>
+            <date>2012-06-28 09:28:47</date>
+            <index>82</index>
+            <phrase>ඔබට මෙවන් සද්කාර්යයන් තව තවත් කිරීමට සිත් පහළ වේවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-06-28 09:31:46</date>
+            <index>83</index>
+            <phrase>වැඩේ නම් හොදයි.ඒත් ගමේ පාසලකට යද්දි ඇදුමේ විනීත කම ගැන ඔයිට වඩා හිතුව නම් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩැනියෙල්</author>
+            <date>2012-06-28 09:51:22</date>
+            <index>84</index>
+            <phrase>අපි මෙවන් මිනිසුන් අගය කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැම්පස් කොල්ලෙක් 1</author>
+            <date>2012-06-28 10:05:47</date>
+            <index>85</index>
+            <phrase>කැම්පස් කොල්ලෙක් කියල තියන එක හරියට හරි. අපි ලංකාවේ ඉදන් කරන දේවල් කව්රුත් කතා කරන්නේ නේ. පිට රට ඉදන් ඇවිත් මේ කරන දේවල් හොද. නමුත් අපි ලංකාවේ ඉදන් කරන ඒවා ගැන මොනවත් දාන්නේ නැත්තේ මොකද/.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලඩින්</author>
+            <date>2012-06-28 10:20:08</date>
+            <index>86</index>
+            <phrase>ඕවා නිකං ප්‍රදර්ශනේට කරන වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලේක</author>
+            <date>2012-06-28 11:02:05</date>
+            <index>87</index>
+            <phrase>අනේ මන්ද ලංකාවේ මෝඩ මිනිස්සු...මෙහෙම දෙයක් කරා කියලා ජනාධිපති කරන්නලු.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-06-28 10:25:33</date>
+            <index>88</index>
+            <phrase>පාලිත හේමචන්ද්‍ර -දෙනදෙයක් වඩා සද්දේ නොකර දෙනවානම් නේද හොද ? පාලිත හරියටම හරි‍‍‍......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂහාන් අමරසිංහ</author>
+            <date>2012-06-28 11:39:06</date>
+            <index>89</index>
+            <phrase>බබාට ලංඩන් තියෙන්නෙ ඇමරිකාවෙද? පුවත හරියට කියවන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිනා</author>
+            <date>2012-06-28 11:07:11</date>
+            <index>90</index>
+            <phrase>හොද වැඩක් අපිත් සුබපතනවා දිගටම කරගෙන යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-06-28 11:54:52</date>
+            <index>91</index>
+            <phrase>"ලංකාවේ කැම්පස් කොල්ලෙක්" කියන කතාව සම්පුර්ණ ඇත්ත. මේ නිව්ස් එකේ 4 වෙනි පොටෝ එක බලන්නකෝ. අපිටනම් ඔයවගේ දේවල් තිබිල නෙවේ සති ගණන් දුෂ්කර ගම්මාන වලට ගිහිල්ල අහිංසක ළමයන්ට ඉගැන්නුවේ. සල්ලි තියෙන කෙනෙක් රට ඉදන් ඇවිල්ල මේවා කරනෙක වෙරදී කියන්නේ නේ. ඒවා කරන්න ඕන. එත් අපිනම් කවදාවත් ඔයවගේ වේද කරද්දී ජනමාද්‍ය වලට එන්න කියල පත්තරේ දාගන්න ඕනවට කලේ නැ. ලංකාදීප එකට තැන්ක්ස් මේවා දානවට. එත් ලංකාවේ කැම්පස් වල කොල්ලෝ කෙල්ලෝ අතේ සතයක් නැතුව දුෂ්කර ගම්මාන වලට ගිහිල්ල ඒ දරුවන්ට උදව් කරන ඒවත් මේ වගේ දන්නා පුලුවන්නම් හොදා නේද. අන්තිමට කියන්නේ කව්රු උනත් ඒ ළමය කරපු වැඩේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-28 11:18:14</date>
+            <index>92</index>
+            <phrase>වැඩේ හොදයි.ඒත් ඔය වගේ පැලැස්තර වැඩ වලින් වෙන්නේ ආණ්ඩුවේ වගකීම ලිහිල් වෙන එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර කුවේට්</author>
+            <date>2012-06-28 11:28:43</date>
+            <index>93</index>
+            <phrase>ඔබ ‍හොද දියනියක්.. ඒත්.. ප්‍රසිද්ධිය පසු පස යන්න එපා.. නිහතමානීව කරගෙන යන්න.. සුභ පැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්යා</author>
+            <date>2012-06-28 11:32:57</date>
+            <index>94</index>
+            <phrase>www.handinhand-sl.com</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වලිසුන්දර</author>
+            <date>2012-06-28 12:20:49</date>
+            <index>95</index>
+            <phrase>මේ වැඩේ නරකයි කියනවා නොවෙයි, නැවතත් කියන්නේ අපේ උගත් දරුවන් රට ඇතහැර වෙනත් රටකට යැවීම වෙනුවට මේ රටේම තියාගන්නයි අපි බලන්න ඕනේ. එහෙම නැත්නම් දිගටම අම්මලා අක්කලා අරාබියේ වහල් සේවෙට යවන රටක් හැටියටයි අපිට ඉන්න වෙන්නේ. තව පැත්තක තියෙන්නේ, ඔය ලන්ඩන් වලත් ඕන හැටියේ අසරණ ළමයි ඉන්නවා. එකනේ ඒ අය පහුගිය ජුනි ජූලි මාස වල කැරලි ගැහුවේ. අපිට දකින්න ආස ශක්තිමත් අනිත් රටවල් වලටත් උදවු කරන්න පුළුවන් රටක මිසක්, පිට රටකින් ඇවිත් සහන දෙන්න වෙන රටක නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් කුමාර</author>
+            <date>2012-06-28 11:57:27</date>
+            <index>96</index>
+            <phrase>රමසිගේ කතාව හරියටම හරි, වැඩේ හොදයි ඒත් ඔයවගේ පලේස්තර වලින් වෙන්නේ ආණ්ඩුවේ වගකීම ලිහිල් කරන එක . නමුත් බලා නොඑද හැමෝටම පේන්න එක්ක එක පහනක් හෝ දැල්වීමෙන් , කුඩා එළියක් හෝ වැටෙන බව සියල්ලෝ දැනගනීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-06-28 12:44:52</date>
+            <index>97</index>
+            <phrase>රමසිගේ කතාව හරියටම හරි, වැඩේ හොදයි ඒත් ඔයවගේ පැලැස්තර වලින් වෙන්නේ ආණ්ඩුවේ වගකීම ලිහිල් කරන එක . නමුත් බලා නොයිද හැමෝටම පේන්න එක්ක එක පහනක් හෝ දැල්වීමෙන් , කුඩා එළියක් හෝ වැටෙන බව සියල්ලෝ දැනගනීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-06-28 12:20:15</date>
+            <index>98</index>
+            <phrase>වැඩෙත් හොඳයි...නංගිත් ලස්සනයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒඊඑස් ‍කොල්ලා</author>
+            <date>2012-06-28 13:13:36</date>
+            <index>99</index>
+            <phrase>මමත් ඔහොම වැඩකට කියල සල්ලි එකතු කලා.. හැබැයි සල්ලි ගොඩක් එකතු උනාම මටම ලෝබ හිතිලා ඒ සල්ලි ‍ඔක්කොම මමම තියාගත්තා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලෙක්</author>
+            <date>2012-06-28 13:19:51</date>
+            <index>100</index>
+            <phrase>මම කිව්වේ ලංකාවේ ඇත්තටම වෙන දේ. අපි ඇත්ත කිව්වම කාටහරි හිතෙනවනම් අපි කුහක කමින් කතාකරනවා කියල එක සම්පුර්ණයෙන්ම වැරදි අදහසක්. මම ක‍්‍රිෂ්මි අභයතිලක ව විවේචනය කලේ නැ.මට ක‍්‍රිෂ්මි අභයතිලක ගැන කිසිම ඉරිසියවකුත් නැ . ලංකාවේ ජීවත්වෙන මිනිහෙක් විදිහට මම එක හද පතුලෙන්ම අගය කරනවා. මම විවේචනය කරන්නේ , මේ ලංකාවේ පයගහල අමාරුවන් ඉගෙනගෙන රටට වැඩක් කරන්න හදන කොල්ලන්ව කෙල්ලන්ව අමතක කරල එංගලන්තේ ඉන්න කොල්ලන්ව කෙල්ලන්ව ලොකු කරගෙන දඟලන සමහර කුහක මිනිස්සු මිසක් ක‍්‍රිෂ්මි අභයතිලක ව නෙවයි. @=&gt;සිරිමල් සිංහල ටයිප් කරනකොට ඔය වගේ දේවල් වෙනවා. මොකද තවම 100% සිංහල පරිගණක හදල නැනේ. මහාචර්ය දිසානායක සිංහලෙන් ටයිප් කලත් වැරදි තියෙයි. ඒ නිසා ඔය වගේ පොඩි දේවල් හොයන්නේ නැතුව කියල තියෙනේ මොනාද කියල පොඩ්ඩක් හිතල බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-06-28 13:01:11</date>
+            <index>101</index>
+            <phrase>ඒ නංගි හොද වැඩක් කලා කරපු දේ අගය කලාම ඇති. එයා ගැන වෙන මොනවටද? කසාද බදිනනද? ඔයා හොදයි නංගි මගෙන් සුභ පැතුම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරුවින්</author>
+            <date>2012-06-28 13:49:06</date>
+            <index>102</index>
+            <phrase>මේක දැන් තිබ්බ ඇති නේද? වෙන ප්‍රවෘතියක් දාමුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-28 13:50:19</date>
+            <index>103</index>
+            <phrase>අධ්‍යාපන ඇමතිතුමාටවත් හිතුනෙ නැහැනෙ මේවගේ දෙයක් කරන්න. ලන්ඩන් වලින් ඇවිල්ල කරලත් පෙන්නුවා.. ලැජ්ජයි!! මොනවා උනත් හොද වැඩක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-06-28 14:18:14</date>
+            <index>104</index>
+            <phrase>ලංකාවේ කැම්පස් කොල්ලනේ කෙල්ලනේ , ඔයාල කරන වැඩත් ඕනෑතරම් පත්තරවල, ටෙලිවිශන් වල ඔය ඕනෑතරම් දමන්නේ, පාරවල් අහුරගෙන උද්ගෝෂණ තියනවා, කැට හොල්ලනවා, ගුවන් පාලම් බ්ලොක් කරන් පෙළපාලි යනවා, නවකවදය දීල ළමයින් රෝහල්වලට යවනවා, වැරදි කරලා පන්ති තහනම් කලහම අනිත් ළමයින්ටත් දේශනවලට යන්න දෙන්නැතුව ඉන්නවා, රෑට තාප්පවලින් පැනල කැම්පස් එකට ඇතුල් වෙනවා, පිළිම පුපුරවනවා, මැති ඇමති වරුන් ආවහම හූ කියනවා, මේවා අපි හැමදාමත් අහනවනේ., එතකොට මේවා ඔයාල නෙමෙයිද කරන්නේ.........????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-06-28 14:43:09</date>
+            <index>105</index>
+            <phrase>http://handinhand-sl.co.uk/index.php/video/මේ වීඩියෝ එක බලලම මේ දියණීය කල සද් ක්‍රියාව හොද ,නරක ලියන්නකෝ .....දැන් කට්ටියම එකතුවෙලා ඒ දියණිය කරගෙන යන සද් ක්‍රියාවට පොඩියට හරි අපිත් උදව්වක් දෙමු නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-28 14:05:45</date>
+            <index>106</index>
+            <phrase>කටාර් ඉදල අගයල වැඩක් නෑ ...... පටාර් ගාල මෙහේ ඇවිත් වැඩ කරමු ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රටවැසියා</author>
+            <date>2012-06-28 14:48:18</date>
+            <index>107</index>
+            <phrase>සජී ,ඔයා කියන දේ හරියට හරි මේ කට්ටිය ලංකාවේ කැම්පස් එකෙන් පිට වෙලා සමාජයට අපු දවසට ශ්‍රී ලංකාවට දෙවියන් ගේම පිහිටයි ...උද්ගෝෂණ වලින් පිරි රටක් හදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Sirimal Dunuwila</author>
+            <date>2012-06-28 14:19:55</date>
+            <index>108</index>
+            <phrase>සමාවෙන්න කැම්පස් දරුවෝ. මට වැටහුනේ දැනුයි. නමුත් අන්වර්ථ නම් වලින් ලියන අය ගැනනම් විශ්වාස කරන්න බැහැ. මේ දරුවා ගැන විස්තර පලකලේ එංගලන්තයේ නිසා වෙන්න බැහැ.ලංකාවේ ඔයවගේ සත්ගුණවත් වැඩ කරන අය ගැන වාර්තා හැමවිටම පලවෙනවා. ඔබගේ වැඩ කටයුතු ගැන මාද්යයන්ට දැනුම්දුන්නොත් අනිවාර්යයෙන්ම ප්‍රසිද්ද කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-06-28 14:20:52</date>
+            <index>109</index>
+            <phrase>(www.handinhand-sl.com ) කොමෙන්ට් දාන කට්ටිය මේක බලලම ඉන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-28 14:29:36</date>
+            <index>110</index>
+            <phrase>වැඩේනම් මන් දන්නෑ.....නංගිනම් ලස්සනයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-06-28 15:10:45</date>
+            <index>111</index>
+            <phrase>මරුවින් හරි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-06-28 15:38:04</date>
+            <index>112</index>
+            <phrase>හොද ආදර්ශයක් ඊලග පරම්පරාවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලෙක්</author>
+            <date>2012-06-28 16:17:51</date>
+            <index>113</index>
+            <phrase>සාජ් රටවැසියා ඔයාල හිතන්නේ හැමදේම නිකන්ම අතට හම්බවයි කියලද. එයාල එහෙම කරන නිසා තමයි ඔහොම හරි නිදහස් අධ්‍යාපනයක් කියල දෙයක් ලංකාවේ තියන්නේ. අනික කොහොමත් ඔයාල වගේ හිතන අය ඉන්නකන් රටට දෙයියන්ගේම පිහිට තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-06-28 19:09:48</date>
+            <index>114</index>
+            <phrase>"ලංකාවේ කැම්පස් කොල්ලෙක් 2012-06-28 16:17:51 -ඔයාල වගේ හිතන අය ඉන්නකන් රටට දෙයියන්ගේම පිහිට තමයි." ඔයාල වගේ අය කරන දේවල් නිසා තමයි රටට, දෙයියන්ගේ පිහිට පතන්න ඕන, ඔයාල හිතන්නේ,පොඩි දෙයකටත් උද්ගෝෂණ කරන එක, නවකයන්ට අමානුෂික විදිහට නවක වදය දෙන එක, නිදහස් අධ්‍යාපනයේම කොටසක් කියලයි. ඔයාල කරන හොද දේවලුත් ඇති, ඒත් ටිකක් හිතල බලන්න කිරි කළයට ගොම වැටුනත් ගොම කළයට කිරි වැටුනත් වෙන්නේ මොකක්ද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්මලේ</author>
+            <date>2012-06-29 08:49:48</date>
+            <index>115</index>
+            <phrase>බඩේ බෝම්බයක් ද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ත</author>
+            <date>2012-06-29 20:19:19</date>
+            <index>116</index>
+            <phrase>ලංකාවේ විශ්ව විද්‍යාල කොල්ලනේ කෙල්ලනේ , ඔයාල කරන වැඩත් ඕනෑතරම් පත්තරවල, ටෙලිවිෂන් වල ඔය ඕනෑතරම් දමන්නේ .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනූෂා</author>
+            <date>2012-06-29 20:58:46</date>
+            <index>117</index>
+            <phrase>හුගක් මිනිස්සු බලන්නේ වැරදි පැත්තෙන්මයි.අපි අපේ ආකල්ප වෙනස් කර ගන්න කාලය පැමිණිලයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2012-06-29 22:36:54</date>
+            <index>118</index>
+            <phrase>දැන් මේ ළමය මේ ඉස්කෝලෙට අත දීල තියෙන්නේ කොහොමද කියල මේකේ දාල නැතුවනේ මේ අපේ කට්ටිය මෙච්චර කොමෙන්ට් කරලා තියෙන්නේ ..... කරපු උදවුව මොකක්ද කියල මටනම් තේරෙන්නේ නැ ...හැබැයි පෙට්ටියක් නම් හංගගෙන ඉන්නවා වගේ පේනවා ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-06-30 09:28:20</date>
+            <index>119</index>
+            <phrase>හොද දේ කවුරු කරත් අගය කරන්න ඕනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-06-30 12:00:02</date>
+            <index>120</index>
+            <phrase>ඒක ඒ ළමයගේ පෙට්ටිය, පෙට්ටිය ගැන ඒ ළමය බලාගනී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුහම්මදු සිද්දීක්</author>
+            <date>2012-06-30 12:37:58</date>
+            <index>121</index>
+            <phrase>ලෝකේ මේවගේ අදහස් සහ හොඳ හිත තියන අය ගොඩක් ඉන්නවා. ඔක්කොම එකතුවෙලා ලංකාවවේ ඉන්න බොහෝ දුප්පත් ළමුන්ට උදව් කරන්න පුළුවන්. කරන්න තියන්නේ චුට්ටක් හිතන එකයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලෙක්</author>
+            <date>2012-06-30 17:10:31</date>
+            <index>122</index>
+            <phrase>කර්තෘ තුමනි පුළුවන් නම් මේ දේවල් ගැනත් දාන්න.. http://www.facebook.com/photo.php?fbid=398934440163887</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-06-30 20:11:29</date>
+            <index>123</index>
+            <phrase>ලංකාවේ නිදහස් අධ්‍යාපනය ලබාගෙන රට ඉදල හම්බ කරන අයටත් හොද ආදර්ශයක් ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-06-30 21:21:30</date>
+            <index>124</index>
+            <phrase>පේරාදෙණිය තානායමට කඩා වැදී සේවකයිනට පහරදී එහි දේපලට අලාභහානි කර මුදල් කොල්ල කෑ බව කියන සිද්ධියක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් පේරාදෙණිය සරසවියේ විද්‍යා පීඨයේ තුන්වැනි වසරේ සිසුන් දෙදෙනා ලබන මස 2 වැනි දා තෙක් රිමාන්ඩ් ගත කරන ලෙස මහනුවර අතිරේක මහේස්ත්‍රාත් සම්පත් හේවාවසම් මහතා නියෝග කෙළේය. ;- හිතවත් කැම්පස් කොල්ලාණෙනි මෙන්න ඔයාලගේ තවත් වැඩක් පත්තරේ දමලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලෙක්</author>
+            <date>2012-06-30 22:42:11</date>
+            <index>125</index>
+            <phrase>සජ් ඔය වගේ දේවල් ලංකාවේ ඕනි තරම් වෙනවා. ඔයා කතාකරන්නේ ලංකාවේ මිනිස්සු උපාසකයෝ කියල හිතාගෙන වෙන්න ඇති. මම ඔයාගෙන් අහන්නේ නිකන්ම මිනිහෙක් ඕය වගේ දෙයක් කලොත් පත්තරවල මුල පිටුවේම දානවද නැ නේද. කැම්පස් කොල්ලෙක් කොල්ලෙක් ඕක කරපු නිසා තමයි උඹලට ඕක මහා ප්‍රවුර්තියක් වෙන්නේ. ඕකට මොකක් කියන්නද කියල මට හිතාගන්න බැ. පහුගිය දවස් වල මන්ත්රිලා ගිහින් තානායම් වල පිස්සු නටල මිනිස්සුන්වත් මැරුවා. මට හිතෙන්නේ ඒ සිද්ධියටවත් ඕය තරම් ප්‍රසිද්දියක් දුන්නේ නැ පත්තර වලින්. කැම්පස් කොල්ලෙක් මොකක් හරි කෙස් එකක් දාගත්තොත්එක මාර වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු නෙරංජන්</author>
+            <date>2012-07-02 09:34:46</date>
+            <index>126</index>
+            <phrase>හොද වැඩක් පාලකයනට ආදර්ශයක්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සී පී</author>
+            <date>2012-07-02 20:57:39</date>
+            <index>127</index>
+            <phrase>හොද වැඩක්. නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-07-03 11:44:29</date>
+            <index>128</index>
+            <phrase>කින් බෙනට් 2012-06-29 22:36:54 දැන් මේ ළමය මේ ඉස්කෝලෙට අත දීල තියෙන්නේ කොහොමද කියල මේකේ දාල නැතුවනේ මේ අපේ කට්ටිය මෙච්චර කොමෙන්ට් කරලා තියෙන්නේ ..... කරපු උදවුව මොකක්ද කියල මටනම් තේරෙන්නේ නැ ...හැබැයි පෙට්ටියක් නම් හංගගෙන ඉන්නවා වගේ පේනවා ... හංගන් ඉන්න පෙට්ටියක් තියෙන්න විදියක් නෑනේ.මෙයා ඉන්නේ ඇමරිකාවෙනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26572</articleId>
+    <title>පුහුණුවට ගිය යානයක් කඩා වැටිලා</title>
+    <author>අංජුල මහික වීරරත්න</author>
+    <date>2012 පෙබරවාරි මස 13 14:13:06</date>
+    <body>පුහුණු වෙමින් සිටි මිග් 27 ප්‍රහාරක ජෙට් යානයක් දුම්මලසූරියේදී කඩා වැටුණු බව ගුවන් හමුදා ප්‍රකාශක ඇන්ඩෘ විජේසූරිය මහතා පැවැසීය. නියමුවා ස්වයංක්‍රීයව පැරෂුටයකින් ඉවතට පැණ ඇති බව මුලින් ලැබුණු වාර්තාවලින් කියවෙන බවද ඔහු සඳහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-02-13 14:25:29</date>
+            <index>0</index>
+            <phrase>අයියෝ සල්ලි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් මිල්ටන්</author>
+            <date>2012-02-13 15:17:31</date>
+            <index>1</index>
+            <phrase>ප්‍රතිචාර එවල වැඩක් නැහැ මේගේ දේට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිත්</author>
+            <date>2012-02-13 15:22:16</date>
+            <index>2</index>
+            <phrase>අපරාදෙ මහජන සල්ලි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

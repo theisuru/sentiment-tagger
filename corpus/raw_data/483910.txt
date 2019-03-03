@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>483910</articleId>
+    <title>රාගම වෛද්‍ය සිසුහු වීදී බසිති</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 නොවැම්බර් මස 25 12:42:01</date>
+    <body>මාලබේ පෞද්ගලික වෛද්‍ය විද්‍යාලය සම්බන්ධයෙන් පාලිමේන්තු අනුකාරක සභාව පාර්ලිමේන්තුවට දුන් නිර්දේශයට විරෝධය පළ කරමින් රාගම රෝහල ඉදිරිපිට අද (25) වෛද්‍ය සිසුහු  උද්ඝෝෂණයක් ඇරඹුහ.
+ </body>
+    <comments>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2016-11-25 09:23:16</date>
+            <index>0</index>
+            <phrase>දේශපාලුවන්ගේ පටු වුවමනාවන්ට අතකොලු නොවී ඉක්මනින් උපාධිය අරගෙන දොස්තර කෙනෙක් වෙලා දුක්විදල උගන්නපු දෙමාපියන්ට සහනයක් දුන්නොත් නේද හොඳ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-11-25 10:17:04</date>
+            <index>1</index>
+            <phrase>නිදහස් අධ්‍යාපනය දෙන්න එපා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-11-25 16:59:39</date>
+            <index>2</index>
+            <phrase>මේ ගොල්ලෝ විරුද්ධ නැත්තේ මොකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.තිස්ස</author>
+            <date>2016-11-25 19:12:12</date>
+            <index>3</index>
+            <phrase>මේ ගොල්ලලෝ කවදාහරි දොස්තරලා වුණ දවසක, වම් අතේ නියපොත්තේ ලෙඩට මුළු දකුණු කකුලම කපලා දමන අවදානම් සහිත පිරිසක් වෙනවාට අනුමානයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.තිස්ස</author>
+            <date>2016-11-25 20:43:40</date>
+            <index>4</index>
+            <phrase>අනේ අපොයි මෙහෙමත් වැඩක්. නිදහස් අධ්‍යාපනයෙන් බිහිවූ මාර සේනාවක් මුළු රටටම දේශද්‍රෝහී වසංගතයක් වුණ හැටි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-11-26 04:33:22</date>
+            <index>5</index>
+            <phrase>තමන්ගේ අධ්‍යාපන කටයුතු බලා ගත්තනම් නරක නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-11-26 17:31:44</date>
+            <index>6</index>
+            <phrase>මේ අය හැමදාම පාරෙන‍ෙ. මේ අය කොහොමද කවදාහරි බෙහෙත් දෙන්නේ ඉගෙනගන්නේ නැතුව. ඉන්දියන් දොස්තරලා හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

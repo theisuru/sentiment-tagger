@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>149714</articleId>
+    <title>අම්පාරේ බස් වර්ජනයක් නැති පාටයි</title>
+    <author>වසන්ත චන්ද්‍රපාල</author>
+    <date>2013 ජූලි මස 11 10:07:54</date>
+    <body>මාතර බස් හැරුණු විට අම්පාරේ සිට සෙසු සියළු බස් ධාවනය වන බව අම්පාර පෞද්ගලික බස් සේවකයෝ කියති.බස් වර්ජනයක් ඇති බවක් නොපෙනෙති ඔවුහු පවසති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ජිනත්</author>
+            <date>2013-07-11 10:14:27</date>
+            <index>0</index>
+            <phrase>දැන් බේරුවල කට්ටියට කියමුද අම්පාරටත් ගල් ගහන්න කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2013-07-11 10:30:10</date>
+            <index>1</index>
+            <phrase>දැන් ඉස්සරවෙලා වර්තාවක තිබුන 'ගැමුණුගේ වර්ජනයට මාතරින් කිසිම සහයෝගයක් නැහැ' කියල. මෙතන කියනවා මාතර බස් හැර අනික්වා වැඩ කරනවා කියල. මොනවා කියනවද කියල තේරෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2013-07-11 11:47:16</date>
+            <index>2</index>
+            <phrase>අයියෝ ගැමුණු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර</author>
+            <date>2013-07-11 11:47:16</date>
+            <index>3</index>
+            <phrase>ගැමුණු මහත්තයට අම්පාරේ බස් එකක් තියා ත්‍රීවීලර් එකක්වත් නෑ. අනිත් තැන් වලත් එච්චරම තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්-එල් එස්</author>
+            <date>2013-07-11 11:58:08</date>
+            <index>4</index>
+            <phrase>ජයවේවා ! ගැමුණු විරෝධී බස් හිමියනි, රියදුරු හා කොන්දොස්තර මහත්වරුනි. ජයවේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

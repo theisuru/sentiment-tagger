@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447524</articleId>
+    <title>අගුණකොළපැලැස්සේ වෙඩි තැබීමක්</title>
+    <author>චන්ද්‍රසේන ගමගේ  අනීෂා මානගේ</author>
+    <date>2016 අගෝස්තු මස 14 11:08:13</date>
+    <body>අගුණකොලපැලැස්සේ වෙඩි තැබීමක් සිදුව ඇතැයි පොලිසිය කියයි. තුවාලකරු තංගල්ල රෝහලට ඇතුළත් කරනු ලැබ සිටී.
+යතුරුපැදියකින් පැමිණි වෙඩික්කරු වෙඩි තැබීමෙන් පසු පළාගොස් ඇතැයි පොලිසිය පවසයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>දේව</author>
+            <date>2016-08-14 06:42:48</date>
+            <index>0</index>
+            <phrase>වෙඩි තැබීම රටේ දෛනික සිදුවීමක් බවට පත්වීගෙනයි එන්නේ. මේ වෙඩික්කරුවෝ කොහෙන් ආ අයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-08-14 11:09:17</date>
+            <index>1</index>
+            <phrase>පසුගිය දවස්වල ලොකු ලොක්කෝ උඩ පැන පැන කිව්වා නේද මිනී මැරුම් මංකොල්ල ස්ත්‍රී දූෂණ වහාම නැති කරනවා කියල අපරාධ දැන් කලින්ටත් වඩා වැඩී වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලෙක්ස්</author>
+            <date>2016-08-15 01:44:04</date>
+            <index>2</index>
+            <phrase>හැමතැනම මරන්න පටන් අරන්. මෙතන මොකක්හරි දෙයක් තියනවා. බලන්න මේ දවස් ටිකට කොච්චර සිංහල ව්‍යාපාරිකයන්වම මරා දැම්මද කියලා. මේක හොයන්න. මෙතන අමුතු දෙයක් වේගන යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2016-08-15 04:21:58</date>
+            <index>3</index>
+            <phrase>මේවා පිටුපස සිටින්නේ කව්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-08-15 05:16:16</date>
+            <index>4</index>
+            <phrase>රටින් පිටවෙලා හිටපු අපරාධකරුවන් නැවත ගෙන්නුවේ කවුද කබීර් ඇමති තුමාගේ විරෝධය පක්ෂයේ සම්මේලනයේදී පළකර ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-08-15 05:17:14</date>
+            <index>5</index>
+            <phrase>පසු පස ඉන්නේ කුඩු සහ මත් ද්‍රව්‍ය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488794</articleId>
+    <title>‘ශ්‍රීලනිප ඇමැතිවරුන් යහපාලනය නැති කරන්න හදනවා’</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2016 දෙසැම්බර් මස 09 14:35:00</date>
+    <body>යහපාලන ආණ්ඩුවේ වැඩ කඩාකප්පල් කරන්නට  ශ්‍රී ලංකා නිදහස්  පක්ෂයේ සමහර  ඇමැතිවරුන් ක්‍රියා කරතියි  පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් මහතා අද (9) සිරිකොත මාධ්‍ය හමුවේ දී කීවේය.
+‘මේ වරප්‍රසාද ලැබුණේ ජනපති - අගමැති නිසා  ඇමැතිවරුන්ගේ වගකීමක් තියනවා ජනතා වරමත් එක එකට  යන්න ආණ්ඩුවේ වැඩ  කඩාකප්පල් කරන්නට  නිදහස් පක්ෂයේ ඇමැතිවරුන් ක්‍රියා කරනවා. ඒ අය අද එළිපිට  කතා කරනවා. ඒ නිසා  මේ ආණ්ඩුවේ සාමුහික වගකීම් නැති වෙනවා.</body>
+    <comments>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-12-09 12:21:26</date>
+            <index>0</index>
+            <phrase>බෙදාගෙන කන්න අමාරු අැති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2016-12-09 13:23:48</date>
+            <index>1</index>
+            <phrase>හවුල් දීගය දෙදරන ලකුණු! රටේ මහජන කැමැත්තට අනුව දෙගොල්ලන්ටම ආණ්ඩුවක් හදන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු</author>
+            <date>2016-12-09 15:30:49</date>
+            <index>2</index>
+            <phrase>දෙපැත්තේම හොරු නිසාත් සාමන්‍ය ජනතාව මෝඩයෝ නිසාත් දේශපාලුවන්ගේ ගමන රට පවතින තාක් ගෙන යා හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-12-09 19:54:15</date>
+            <index>3</index>
+            <phrase>අයි බැරි. අප්පච්චි මළෝ වගේ කට්ටියගෙන් ඔයාලට තර්ජනයක් එන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-12-10 02:11:27</date>
+            <index>4</index>
+            <phrase>මහා බැංකුව කඩනකොටම යහපාලනේ රෙද්ද පල්ලෙන් පැනලා ගිහින් ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-12-10 03:55:23</date>
+            <index>5</index>
+            <phrase>ඕන්න ඉතින් පටන් ගත්තා වාද සෙල්ලම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-10 12:25:07</date>
+            <index>6</index>
+            <phrase>නටන්න බැරි මිනිහට පොළව ඇදයිලුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-12-10 17:37:06</date>
+            <index>7</index>
+            <phrase>ජනතාව කොහොමත් ඕවා දන්නවා. දේශපාලකයෝ කියන්නේ රටට ජනතාවට හිතැති ජාතියක් නොව ඔවුන්ගේම සුඛවිහරණ සඳහාම කැසකවන පිරිසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-12-11 06:19:41</date>
+            <index>8</index>
+            <phrase>නැති කරන්න යහපාලනයක් තිබෙන්න එපායැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-12-11 20:32:40</date>
+            <index>9</index>
+            <phrase>කොහෙද යහපාලනයක් තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

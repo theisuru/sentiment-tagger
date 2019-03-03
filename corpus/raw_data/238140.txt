@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>238140</articleId>
+    <title>පී.සී.ට වෙඩි:කාරයට ගිනි</title>
+    <author>රත්නසිරි ප්‍රේමලාල්</author>
+    <date>2014 මැයි මස 30 21:59:58</date>
+    <body>දොඩංගොඩ බෝඹුවලදී මින් පැයකට පෙර පොලිස් කොස්තාපල්වරයකු ගමන් කළ නැනෝ වර්ගයේ කාරයකට ගිනි තබා ඇතැයි පොලිසිය කියයි. අට දෙනකු පමණ කැබ්රියකින් ඇවිත් පොලිස් කොස්තාපල්ට වෙඩි තබා ඇතත් ඔහු තුවාල  නොලබා බේරි ඇත. එහෙත් කාරයට ගිනි තබා ඇතැයි පොලිසිය සඳහන් කරයි ඔහු දක්ෂිණ අධිවේගී මාර්ගයේ සේවය කරයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2014-05-30 22:45:22</date>
+            <index>0</index>
+            <phrase>දේශ පාලුවෙග්ගේ ගොලයෝද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2014-05-30 23:23:46</date>
+            <index>1</index>
+            <phrase>කෝ අපේ රටේ නායකයා , එතුමත් හොදින් ඇස් කන් ඇති කෙනෙක්නේ ,බලමු මොකද වෙන්නේ කියල,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2014-05-31 02:21:32</date>
+            <index>2</index>
+            <phrase>පවතින දේසපාලන ක්‍රම වේදය තුල සියලුම දේසපාලන පක්ෂ දැන් රටේ තියෙන මේ තත්ත්වයට වගකිව යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2014-05-31 02:31:45</date>
+            <index>3</index>
+            <phrase>කරන වැඩ වලට මේ ගොල්ලට පාරේ යන්න බැරි කාලයක් ඒවි .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් බණ්ඩාර</author>
+            <date>2014-05-31 03:20:58</date>
+            <index>4</index>
+            <phrase>ලබන මැතිවරණයකදී මේවට ප්‍රතිචාර දක්වමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2014-05-31 04:05:12</date>
+            <index>5</index>
+            <phrase>ජනාධිපතිතුමනි, දැන් බලාගෙන හිටිය හොඳටෝම ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමරතන හිමි</author>
+            <date>2014-05-31 05:08:01</date>
+            <index>6</index>
+            <phrase>දැන් පොලීසිවල ලොක්කෝ දන්නේ වෙඩි තියන්න ,නීතිය සාමය රකින්න දන්නේ නැහැ .කාටද මේවා කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-05-31 06:01:53</date>
+            <index>7</index>
+            <phrase>මේකේ පරීක්ෂණ පවත්වනකොට අපිට දැනගන්න ලැබේවි ඒ කොස්තාපල් තමාම වෙඩි තියාගෙන කාර් එකටත් එයාම ගිනි තිබ්බා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාස්</author>
+            <date>2014-05-31 06:04:37</date>
+            <index>8</index>
+            <phrase>චන්ද්‍රා, ඔයා කියන එක්කෙනා තමා කීවේ අපේ මිනිස්සු මොන වරදක් කලත් ඒ අයව අපි බේරාගත යුතුයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2014-05-31 07:37:22</date>
+            <index>9</index>
+            <phrase>මුළු රටම අද දේශපාලනයට යට වෙලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මසිරි</author>
+            <date>2014-05-31 07:40:28</date>
+            <index>10</index>
+            <phrase>ලංකාවේ සාධාරණය , නීතිය, සාමය, ගරුත්වය, බලය මේ හැම දෙයක්ම ලබන්න නම් කුමන ආකාරයකින් හෝ දේශපාලනයට සම්බන්ධ විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2014-05-31 08:35:36</date>
+            <index>11</index>
+            <phrase>මේ වෙන හැම දේම දැක දැකත් නොදැක්කා සේ ඇස් කන් පියා සිටින අපේ ජනාධිපති තුමනි, මෙහෙම ගියොත් ඔබ තුමා රැකගත් රට යලිත් මහා අගාධයකට තල්ලුවෙන දිනය වැඩි ඇතක නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2014-05-31 08:42:51</date>
+            <index>12</index>
+            <phrase>මේ වගේ දේශපාලකයන්ට ඡන්දය දුන් අයටත් ශාප වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2014-05-31 08:43:29</date>
+            <index>13</index>
+            <phrase>මේ සියල්ලට ම පිළිතුරු ඇත්තේ අපේ ජනාධිපති තුමා අතෙයි. එතුමාගේ පිළිවෙලට කලොත් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අලහකෝන්</author>
+            <date>2014-05-31 08:53:58</date>
+            <index>14</index>
+            <phrase>රට වැසියනි, රටේ පාලනය වෙනස් කළ යුතු කාලය හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිිිර</author>
+            <date>2014-05-31 09:26:25</date>
+            <index>15</index>
+            <phrase>දැන්නම් පිරිහීම ළඟයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-05-31 09:51:19</date>
+            <index>16</index>
+            <phrase>රටේ පාලනය වෙනස් කරලා බලන්නකෝ කොහොමද කියල, කැහි ගෑනි දීලා හොටු ගෑනි ගත්තා වගේ තමයි කියල හිතෙයි ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-05-31 10:06:06</date>
+            <index>17</index>
+            <phrase>අපි චන්දෙ දීල පත් කර ගන්න මහජන නියෝජිතයන් වටේ වැඩිපුර අරක් අරගෙන ඉන්නේ මේ වගේ වැඩ කරව ගන්න පුළුවන් උත්පත්ති දෝෂ ඇති අය. කොස්තාපල් වරයා මෙහෙම බේරුනේ පුරුවේ අකුසල් නොකරපු පින නිසා ය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමේෂ්</author>
+            <date>2014-05-31 10:20:17</date>
+            <index>18</index>
+            <phrase>කරු..කපිල...ඔයාල තාමත් නිදාගෙනද ඉන්නේ? දැන්වත් ඇස් ඇරලා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල් මදුරංග</author>
+            <date>2014-05-31 10:26:05</date>
+            <index>19</index>
+            <phrase>මේ කොස්තාපල් විසින් ළගඳි ඉහළ දේශපාලන නියෝජිතයෙක් විසින් කරන ලද රථවාහන වරදක් සම්බන්ධයෙන් කොට්ටාව පිවිසුමේදී දඩ කොලයක් නිකුත් කිරීමේ ප්‍රතිඵලය ද මේ ‍‌ලැබිල තියෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේෂාන්</author>
+            <date>2014-05-31 10:28:40</date>
+            <index>20</index>
+            <phrase>මම නං නෙමේ ඔන්න ඔය වැඩේ කළේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්කරුණාරත්න ලියනගේ</author>
+            <date>2014-05-31 10:32:11</date>
+            <index>21</index>
+            <phrase>අටවත් පාස් නැති රස්තියාදු කාරයින්ට ඡන්දෙ දීල පාර්ලිමේන්තු යවපු මිනිස්සුන්ට දැන් පස්ස විකාගන්න වෙලා. ඉදිරි ඡන්දෙදි මේ වගේ අය ගෙදර යවන්න රටේ සියලු ඡන්ද දායකයින් හිතාගත්තොත් රට මේ උවදුරින් බේරාගන්න පුළුවන් වේවි. නැත්නම් ඉදිරියට මීට වඩා දේවල් වලට මුහුණ දෙන්න වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2014-05-31 11:29:43</date>
+            <index>22</index>
+            <phrase>කවුරු හරි ඔය ඇමැතියාගේ නම හොයල දෙන්න බැරිද හොද පාඩමක් උගන්නන ජනතවට දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2014-05-31 11:30:59</date>
+            <index>23</index>
+            <phrase>මේවට ඉතින් නිතිය ක්‍රියාත්මක වෙන්නේ නැහැ මේ රටට දෙවියන්ගේම පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් ඩුබායි</author>
+            <date>2014-05-31 11:31:16</date>
+            <index>24</index>
+            <phrase>කපිල.හීනයක්වත් දැකලද ඇහැරුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-05-31 11:39:12</date>
+            <index>25</index>
+            <phrase>පොලිස් කොස්තාපල්ට තිබුණේ දඩ කොලේ දුන්නු වරදට වැදලා සමාව ගන්නනේ.වැදලා සමාව ගත්තනම් මෙහෙම විපතක් වෙන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලානො ජයන්ත</author>
+            <date>2014-05-31 11:40:28</date>
+            <index>26</index>
+            <phrase>‍රටට මේවගෙ තත්ත්වයක් උදාවි අත්නම් රටෙ නීතිය සුරෙකින පොලිස් නිළධාරින්ට,නීතිය ක්‍රියාත්මක කරවාද නැත්නම් තමාගෙ දරුපවුල ආරක්ෂා කරගෙන තමාගෙ ජීවිතය බේරගෙන අස් කන් වහගෙන ඉන්නවාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-05-31 11:50:27</date>
+            <index>27</index>
+            <phrase>කොස්තාපල් කෙනෙක් කොහොමද පඩියෙන් කාර් එකක් ගන්නේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-05-31 12:05:18</date>
+            <index>28</index>
+            <phrase>අනේ මේ කවුද කියල හෙලි කරලා ..ගෝලයෝ ටික ආයුධ පෙන්නන්න එක්ක ගෙන යන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2014-05-31 12:09:25</date>
+            <index>29</index>
+            <phrase>නම හංගන්න හොඳ නෑ නම පළ කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත ඩුබායි</author>
+            <date>2014-05-31 12:10:25</date>
+            <index>30</index>
+            <phrase>අත්තමයි ලංකාවේ ජීවත් වෙන්න බයයි දැන් හෙට අපිට මෙහෙම නොවේවි කියල කාටද කියන්න පුළුවන් මේක ලෝකෙන්ම උතුම් රට නේද මනුස්ස ජීවිතෙක වටිනාකම මේ තරම්ම පහලට ගිහින්ද මගේ රටට දළදා හිමි සරණි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ ශාන්ත කුමාර</author>
+            <date>2014-05-31 12:08:13</date>
+            <index>31</index>
+            <phrase>මහත්මයාණනි බිය නොවේ ප්‍රවෘත්තියක අපට පළ කළ හැකි ප්‍රමාණයක් ඇත. ඒම නිසා පළ කළහැකි ප්‍රතිචාර පමණක් එවන් ඔබට ස්තුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2014-05-31 12:22:12</date>
+            <index>32</index>
+            <phrase>අට පාස් නැති ව ගමේ චන්ඩි පාට දමාගෙන හිටපු උදවිය බලයට ගෙනල්ල දැන් ඉතින් අපි කසාය බීපු ගොළුවෝ වගේ ඉමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2014-05-31 12:33:27</date>
+            <index>33</index>
+            <phrase>අපි මොනවා කීවත් ගමේ ඉන්න පොඩි මිනිහට මේ දේවල් යන්නේ නැ ඒ නිසා ඒ මිනිස්සු මේ අයට ඡන්දෙ දානවා එක වෙනස් කරන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්දරමාන</author>
+            <date>2014-05-31 12:35:32</date>
+            <index>34</index>
+            <phrase>මිනිස්සුනේ කලබල වෙන්න එපා නොබෝදිනකින් දැනගන්න පුළුවන් කාගේ බලපුලුවන්කාරකමක්ද කියල. රට හදන්න අපිට බෑ.. ඔබටත් රටේ සුරක්ෂිතව හොඳ ජීවිතයක් ගතකරන්න අවශ්‍යනම් රටේ හොඳම බිස්නස් තියෙන තැනට යන්න ජනවරමක් ලබාගන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-05-31 12:52:44</date>
+            <index>35</index>
+            <phrase>පුළුවන් නම් ඔය ගෝලයෝ ටික අයිති වගකිවයුතු දෙසපාලකයා අත් අඩංගුවට ගන්න. පොලිසියේ කොන්දේ ශක්තිමත් කම ලොවටම බලා ගත හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2014-05-31 12:55:55</date>
+            <index>36</index>
+            <phrase>දැන් මේ දඩ කොළ ප්‍රශ්නය තියෙන්නේ තව ටික වෙලාවයි. කට්ටිය දන්නෙත් නැතුව ඇති ඔන්න අයෙත් පාන් මිල වැඩි කරන්න යනවා. ජරමර මදිවට බර කරත්ත කිව්වේ නිකන් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රශීන්</author>
+            <date>2014-05-31 13:09:40</date>
+            <index>37</index>
+            <phrase>නිමල් මොකද මේ නැට්ට පාගාගෙන? කොස්තාපල් කෙනෙක්ට නෙවේ ඕනෑම කෙනෙක්ට වහනයක් ගන්න පුළුවන් ධෛර්ය තියෙනවා නම්. දියුණු වෙන්න කැමති කෙනාට කොහොමත් එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2014-05-31 13:19:08</date>
+            <index>38</index>
+            <phrase>අන්තිමේ බලනකොට අධිවේගය ජනතා සන්තක කෙරිලා නෙවෙයි බලවතා සන්තක කෙරිලා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2014-05-31 13:20:49</date>
+            <index>39</index>
+            <phrase>වැරදි දැක්කත්,බොහෝ වෙලාවට පොලිසිය ඇස් කන් පියාගෙන ඉන්නේ ඇයි කියල දැන් පැහැදිලියිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි අයියා</author>
+            <date>2014-05-31 13:22:15</date>
+            <index>40</index>
+            <phrase>කොස්තාපල් කෙනෙකුට කාර් එකක් ගන්න පුලුවන් වෙන තරමට අපේ රටේ පඩි වැඩිවෙලා. රටේ ආර්ථිකය දියුණු වෙලා. හැමෝගෙම අතේ යහමින් සල්ලි ගැවසෙනව​. අනේ වාසනාවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2014-05-31 13:48:45</date>
+            <index>41</index>
+            <phrase>රථවාහන පොලිස් නිලධාරීන් කරන්නේ අපේ ආරක්ෂාව අපිටම සලසා ගන්න මතක් කිරීමක්. දඩ කොලක් ලැබුනාම අපි ඒ වැරැද්ද නැවත කරන්නේ පෙලබෙන්නේ නැහැ. එකෙන් අපේ ආරක්ෂාව සැලසෙනවා. පොලිස් නිළධාරින්ට තියෙන්නේ දෙසපාලුවන්ට දඩ කොළ දීම නවත්වන්න. එතකොට පොලිස් නිළධාරීන්ගේ ජීවිත සහ දෙපලවත් ආරක්ෂා වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2014-05-31 13:54:03</date>
+            <index>42</index>
+            <phrase>වැඩක් නෑ.හාල්මැස්සෝ ටිකක් අල්ලාවි.ඇප දේවී.මෝරා තව තවත් ඔය වගේ දේ කරාවි.හැමදාම වෙන්නෙ ඕකනේ.පොලිස් ප්‍රකාශක තුමත් හොද බයිලයක් ගහවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලී</author>
+            <date>2014-05-31 14:01:09</date>
+            <index>43</index>
+            <phrase>අධිවේගෙ සාමාන්‍ය මිනිස්සුන්ට හදපු එකක්නෙවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපරතන හිමි ´- ඩෙන්මාර්ක්</author>
+            <date>2014-05-31 14:18:23</date>
+            <index>44</index>
+            <phrase>දකින්නත් අසන්නත් අප්‍රසන්න සිදුවීම්.ජනපතිතුමනි හිතවත්කම් නොබලා මේ පුද්ගලයන්ට එරෙහිව නිතිය යොදවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත ද සිල්වා</author>
+            <date>2014-05-31 14:22:21</date>
+            <index>45</index>
+            <phrase>ලොක්කෝ ඇහෙකන පියාගෙන ඉන්නකොට සොක්කෝ ඕව කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්</author>
+            <date>2014-05-31 14:40:24</date>
+            <index>46</index>
+            <phrase>රටේ පාලනය වෙනස් කරලා හරියන්නේ නැහැ. කරන්න තියෙන්නේ දේශපාලකයන්ගේ බලය අඩු කරන එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපසිංහ</author>
+            <date>2014-05-31 15:03:54</date>
+            <index>47</index>
+            <phrase>පාතාලය කවදාවත් නවත්වන්නේ නැත. පොලිසියටද එය කිරීමට ඉඩ දෙන්නේ නැත. පාතාලය නැවැත්විය හැක්කේ අපි සාමාන්‍ය ජනතාවට පමණි. අපි සංවිධානය විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2014-05-31 15:14:58</date>
+            <index>48</index>
+            <phrase>අපි බලාගෙන ඉන්නේ ගරු පොලිස් මාධ්‍ය ප්‍රකාශය කියකම්. ඒ අනුව උප ඇමතිද, රාළහාමි ද කියල හිතා ගතහැකි. මගේ අදහසට අනුව නම් රාළහාමි වැරදි පාටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත</author>
+            <date>2014-05-31 15:24:21</date>
+            <index>49</index>
+            <phrase>ශ්‍රී ලංකාවේ වෙසෙන සියලුම දෙනාගෙන් ආදරෙන් ඉල්ලමු. ඔබගේ මසුරන් මෙන් වටිනා ඡන්දය හිගන්නෙක් උනත් කමක් නැහැ හොඳම උගතාට දෙන්න. එවිට ලංකාව බැබලෙන්න වැඩකරාවී .අපේ ලාංකීය ජනතාවට මෙය නොතේරෙන්නේ අනාගතයේ උපදින දරුවන්ගේ අවාසනාවටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2014-05-31 15:36:11</date>
+            <index>50</index>
+            <phrase>ආයුධ පෙන්නන්න අරන් යමුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2014-05-31 15:42:40</date>
+            <index>51</index>
+            <phrase>කෝ මේ පොලීසියේ මාධ්‍ය ප්‍රකාශක ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-05-31 15:51:07</date>
+            <index>52</index>
+            <phrase>මේකද අද මගේ මව් බිමේ නීතිය දෙවියනේ? අනේ අපිට මොනවද මේ උනේ? මෙතරම් පහත තත්වයට මගේ රට වැටුනේ කොහොමද? මේ පොලිස් නිලධාරියා නීතියේ හැටියට රාජකාරි කලාට මෙහෙමද වන්දි ගෙවන්න වෙන්නේ? පාලකයෝ අද මේ අවනීතිය දැක දැකත් නිහඬ වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාරිස්</author>
+            <date>2014-05-31 15:56:05</date>
+            <index>53</index>
+            <phrase>අධිවේගී මාර්ග පාලනය කරන උත්තමයන්ට මේ යෝජනාව කරන්න කැමති. දවස ගානේ පිට වෙන තැන්වල බුලත් අත් කීපයක් තියල තිබුනොත් යහපතක් වේවි නේද මේ පොලිස් නිලධාරීන්ට. එතකොට මේ දේශපාලකයන් වරදක් කරලා ඇල්ලුවොත් එයාලට බුලත් දීල වඳින්ට පුළුවනි පොලීස් ඇත්තන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා තිලක්</author>
+            <date>2014-05-31 15:56:12</date>
+            <index>54</index>
+            <phrase>පොලිස් රාලහාමි හොඳට දඩ කොල නම් ලියල තියෙනවා කියල කාර් එක බැලුවම පේනවා..අනේ වාසනාවන්.ඕක නම් රක්ෂණයෙන් ගන්න පුළුවන් නේ..නැත්නම් ඉතින් තව දඩ කොල කීයද කඩන්න ඕන..සුපිරි මගේ යන්නේ රස්තියාදු වෙන්න කැමති මිනිස්සු නෙමෙයිනේ.පොලිසියට අත තියල කාපු පරිප්පු කට්ටියට මේ ඉක්මනට අමතක උන එකනේ පුදුමේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසිරි</author>
+            <date>2014-05-31 16:16:45</date>
+            <index>55</index>
+            <phrase>මම හිතන්නෙ එයා නියම පිරිමි නිලධරියෙක් වගේ රාජකාරිය කරන්න ඇති ඒකයි ඔය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාන්</author>
+            <date>2014-05-31 16:29:16</date>
+            <index>56</index>
+            <phrase>පීසී මහත්තයාත් දාගන්න ලෙඩ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-05-31 16:30:28</date>
+            <index>57</index>
+            <phrase>දැන්නම් ඉවසුවා හොඳටම ඇති වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2014-05-31 16:39:52</date>
+            <index>58</index>
+            <phrase>පුදුම වැඩනේ දැන් වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් සුනෙත්</author>
+            <date>2014-05-31 17:01:02</date>
+            <index>59</index>
+            <phrase>එතකොට දේශපාලකයන්ට නීතියක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2014-05-31 17:05:57</date>
+            <index>60</index>
+            <phrase>මේ වගේ පුද්ගලයින් දෙශපාලනයට ගෙනාවේ කවුරුන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණපාල</author>
+            <date>2014-05-31 17:20:08</date>
+            <index>61</index>
+            <phrase>අනේ අපොයි අපේ රටට ගිය කලක්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජයසිරි</author>
+            <date>2014-05-31 17:21:30</date>
+            <index>62</index>
+            <phrase>මම හිතන්නෙ එයා නියම පොලිස් නිලධාරියෙක් වගේ රාජකාරිය කරන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-05-31 17:22:14</date>
+            <index>63</index>
+            <phrase>මේවා පොලිස් දෙපාර්තුමේන්තුවේම වැරදි. එයාලට දැන් ඒවාට වගකියන්න වෙලා. හරියට කොන්ද කෙළින් තියාගෙන කාටවත් යටත් නොවී තමාගේ රාජකාරිය හැමකෙනෙක්ම හරියට කළා නම් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයකොඩි</author>
+            <date>2014-05-31 17:27:21</date>
+            <index>64</index>
+            <phrase>ඉතාමත්ම නරක ආදර්ශයක්. අනේ! අපේ රටට ගිය කලක්! හරිම දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-05-31 17:44:13</date>
+            <index>65</index>
+            <phrase>මේක අපේ දේශපාලකතුමාට විරුද්ධව කරන කුමන්ත්‍රණයක්ද කියලත් සෙවිල්ලෙන් සිටියොත් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් සෞදි</author>
+            <date>2014-05-31 18:08:13</date>
+            <index>66</index>
+            <phrase>ඔබ වැනි අවංක නිලධාරියෙකුට අපි ගරු කරමු. නීතිය ක්‍රියාත්මක කිරීමට ගොස් ඔබට නැති වුණ දේ ගැන දුක් වෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපික</author>
+            <date>2014-05-31 18:09:13</date>
+            <index>67</index>
+            <phrase>දැන්නම් අපේ රටේ දේශපාලනයේ වෙනසක් අවශ්‍ය කාලයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ. හේවගේ</author>
+            <date>2014-05-31 18:13:30</date>
+            <index>68</index>
+            <phrase>සුනිල්, ඔබගේ මතයේ තමයි මමත් ඉන්නේ.මේකද අද මගේ මව්බිමේ නීතිය? දෙවියනේ! අනේ අපිට මොනවද මේ වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-05-31 18:20:04</date>
+            <index>69</index>
+            <phrase>දැන් බලනකොට පිටරටකට වෙලා ඉන්න එක සැපයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2014-05-31 18:22:14</date>
+            <index>70</index>
+            <phrase>ඔන්න හෙට ඉඳලා ඔය කාටත් දඩකොළයක් එයි පාන් රාත්තලට. අරෙහේ පිටි මිල වැඩිවෙලාලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල්</author>
+            <date>2014-05-31 18:33:30</date>
+            <index>71</index>
+            <phrase>ඔයින් බේරුනා ඇති. මොකද කියලා ගිහින් තියෙන්නේ පොලිස් නිලධාරියාව වැලිගම යවනවා කියලනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මා</author>
+            <date>2014-05-31 18:37:33</date>
+            <index>72</index>
+            <phrase>ලංකාවට දැන් නම් යහපත් වෙනසක් අවශ්‍යයි කියලා මට හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2014-05-31 19:33:52</date>
+            <index>73</index>
+            <phrase>පළාත් සභා නැති කළ දවසට කොයි පක්ෂයේත් දැන් ඉන්න චණ්ඩි නිකම්ම නැතිවෙලා යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසනායක</author>
+            <date>2014-05-31 21:06:26</date>
+            <index>74</index>
+            <phrase>දේශපාලන සවිය නොබලා කළ වරදට දඩ කොළය ලියන්න කොන්ද පණ තිබුන පොලිස් නිලධාරියාට අපේ ආචාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදිතා</author>
+            <date>2014-05-31 21:31:05</date>
+            <index>75</index>
+            <phrase>සාමාන්‍ය අපිට මෙහෙම වුණා නම්....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසනායක</author>
+            <date>2014-05-31 21:36:19</date>
+            <index>76</index>
+            <phrase>මේක කාගේ වැඩක් වෙන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2014-05-31 21:40:55</date>
+            <index>77</index>
+            <phrase>කවදාහරි වැරදිකරුවන්ට නියම දඩුවම ලැබෙයි කියලා අපි බලාපොරොත්තු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසිරි</author>
+            <date>2014-05-31 21:41:49</date>
+            <index>78</index>
+            <phrase>මේ අදහස් කියවද්දී එක දෙයක් තේරෙනවා. බහුතරයකට මේ සත්‍යය තේරුනත් නොතේරෙන බව හඟවන කුහකයන් කිහිප දෙනෙකුත් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙළුම්</author>
+            <date>2014-05-31 22:09:05</date>
+            <index>79</index>
+            <phrase>අනේ මන්දා, දැන් එතකොට එයාලට නීතිය ක්‍රියාත්මක වෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2014-05-31 23:32:22</date>
+            <index>80</index>
+            <phrase>ඔයාලට හොදනම් අපිට මොකෝ මේ ඔයාල පත්කරපු දේශපාලකයෝ නේ. අපි මෙයාලට කැමති නැ එක නිසා අපි ලංකාවට එන්නේ නැ . මේවට වගකිව යුත්තේ පොලිසියවත් දේශපලකයන් වත් නොව ලංකාවේ ඉන්න ඡන්ද දායකයන්ය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-06-01 00:15:15</date>
+            <index>81</index>
+            <phrase>වගකිවයුත්තන්ගේ අවධානයට මෙම ප්‍රශ්නය යොමුවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාදිනී</author>
+            <date>2014-06-01 00:30:45</date>
+            <index>82</index>
+            <phrase>මට නම් සැකයක් තිබෙනවා මේ ගැන. මොකද ළඟකදී ඉඳලා පොලිසියට මේතරම්ම අපල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2014-06-01 00:37:04</date>
+            <index>83</index>
+            <phrase>අනේ මන්දා මේ යන විදියට ඉදිරියේදී මොනවා වේවිද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශලනි</author>
+            <date>2014-06-01 01:57:39</date>
+            <index>84</index>
+            <phrase>දැන්වත් ඇස් හැර සත්‍යය තේරුම් ගන්න මිනිසුන්ට හැකි නම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-06-01 03:08:28</date>
+            <index>85</index>
+            <phrase>පොලිසියේ අයට කිරීමට ඇති රාජකාරිය හරිහැටි කිරීමට නොදී දේශපාලනය විසින් ඒවා උල්ලංඝනය කර ඒ ජීවිතත් විනාශ කරනවා නම් තවත් මුනිවත රැකිය යුතුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2014-06-01 03:55:57</date>
+            <index>86</index>
+            <phrase>මේ දේ කළේ කවුද කියන එකයි දැන් අපි හැමෝටම තිබෙන ප්‍රශ්නය වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-06-01 04:53:25</date>
+            <index>87</index>
+            <phrase>ලංකා තිලක්ගේ අසනීපය එන්න එන්නම වැඩිවෙනවා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2014-06-01 05:03:50</date>
+            <index>88</index>
+            <phrase>ලංකා තිලක් , රස්තියාදු වෙන්න බැහැ කියලා පාරේ යන අනෙකුත් වාහන හප්පාගෙන වාහන ගෙනයන්න නොවෙයි අධිවේදී මාර්ග තිබෙන්නේ. වෙන රටවලට ගොස් බලන්න ඒ රටවල දේශපාලකයෝ අධිවේගයේ සහ පාරේ යන්නේ කොහොමද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙවන්ත</author>
+            <date>2014-06-01 05:50:26</date>
+            <index>89</index>
+            <phrase>ලංකා තිලක්, මට පෙනෙන හැටියට අර වාහනය පැදෙව්වේ ඔබ වගේ. ඒකනේ‍ මේ වුණ දෙය අනුමත කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2014-06-01 06:06:22</date>
+            <index>90</index>
+            <phrase>පොලිසියට නම් මේ දිනවල බොහොම අපලයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2014-06-01 06:46:14</date>
+            <index>91</index>
+            <phrase>ඕස්ට්‍රේලියාවේ අගමැතිගේ කාර් එක වේගයෙන් ගියා කියෙලා දඩ කොළයක් දුන්නා කියලා මම මාධ්‍ය වලින් දුටුවා. ලංකාවේ එහෙම වුණා නම්...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2014-06-01 07:26:19</date>
+            <index>92</index>
+            <phrase>ඒකනේ සුරංග ඕස්ට්‍රේලියාව වගේ රටවල් හැමදාම දියුණු. රටේ නීතිය හැමෝටම සමානයි. බලවතාට එක විදියක් , සාමාන්‍ය අයට තව නීතියක් නැහැ. අපි රජ කාලේ ඉඳලා එන සංස්කෘතිය ගැන පුරාජේරු කියනවා. හරි විදියට රටේ නීතිය ක්‍රියාත්මක කරගන්න තවම බැහැ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2014-06-01 07:30:43</date>
+            <index>93</index>
+            <phrase>ඇමෙරිකාවේ හිටපු ජනාධිපති කෙනෙකුගේ දියණියක් මත්පැන් බී රිය පැදවීමේ වරදට දඩ ගසා මාස ගණනාවක් සමාජ සේවයක් ලෙස පොදු ස්ථාන පිරිසිදු කරන්න යෙදෙවුවා. අපේ රටේ බලවතුන්ගේ ආරක්ෂකයන්ගේ ලොකුකම් බලන්න ඕනෑ පාරේ යනකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-06-01 07:40:18</date>
+            <index>94</index>
+            <phrase>දඩ කොළය ලිවුවේ ලංකාවේ නීතියක් තිබෙන නිසාලු. හරි එහෙනම් දඩ කොළය ලියු කෙනාට මැර තර්ජන කරලා පුද්ගලික දේපල විනාශ කළේ මොන නීතිය යටතේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2014-06-01 07:44:49</date>
+            <index>95</index>
+            <phrase>රාජකාරිය හරියට කරන්න ගිහින්, මිනිසුන් අමාරුවේ වැටෙන එකම රට අපේ රට තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2014-06-01 07:50:54</date>
+            <index>96</index>
+            <phrase>මෙහි අවසානය කුමක් වේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමා</author>
+            <date>2014-06-01 08:01:29</date>
+            <index>97</index>
+            <phrase>මේවායේ ඇත්ත නැත්ත උඩ ඉන්න දෙවියන්ම තමා දන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පික</author>
+            <date>2014-06-01 08:09:16</date>
+            <index>98</index>
+            <phrase>ඔන්න බලන්නකෝ අන්තිමට මේ අවනඩුව අවසන් වෙන්නේ කොහොමද කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාරත්න</author>
+            <date>2014-06-01 08:18:39</date>
+            <index>99</index>
+            <phrase>මම නම් හිතන්නෙ නැහැ ඔහු අත්අඩංගුවට ගනියි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනකා</author>
+            <date>2014-06-01 08:39:18</date>
+            <index>100</index>
+            <phrase>දැන්නම් ලංකාවේ ඉන්නත් බයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2014-06-01 08:56:14</date>
+            <index>101</index>
+            <phrase>කවුද අප්පේ මේ චණ්ඩියා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2014-06-01 08:58:52</date>
+            <index>102</index>
+            <phrase>ලංකාවේ මිනිස්සු මෝඩයි. කිසිම පක්ෂයකට ඕනෑවට වැඩිය බලයක් දෙන්න හොඳ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2014-06-01 09:19:52</date>
+            <index>103</index>
+            <phrase>බොහෝවිට ලොකු කෙනෙක් කළොත් ඉතින් අන්තිමේදී ගුටිකාපු කෙනා තමයි වැරදිකාරයා වෙන්න්‍ෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2014-06-01 10:25:34</date>
+            <index>104</index>
+            <phrase>ඉහත කට්ටිය මොන අදහස් දැම්මත් මට පේන්නේ කොන්ද පන තියන එක පොලිස් නිලධාරියෙක් හරි නීතියක් නැති රටේ ඉන්නවා කියන එක. පිට රටවල් වල මෙහෙම සෙල්ලම් දාන්න රටේ ජනාධිපතිටවත් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2014-06-01 10:34:56</date>
+            <index>105</index>
+            <phrase>නි‍යෝජ්‍ය ඇමති කෙනෙක්ට බය නැතුව දඩ කොලයක් ලියපු පොලිසියේ මහත්තයා ගැන ආඩම්බර වෙන්න තිලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒශාන්</author>
+            <date>2014-06-01 12:05:01</date>
+            <index>106</index>
+            <phrase>ඕක කරපු අයව නම් අයුධ පෙන්නන්න එක්ක යන එකක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මා</author>
+            <date>2014-06-01 12:05:31</date>
+            <index>107</index>
+            <phrase>මෙතන හොයන්න කාරණා කීපයක් තිබෙනවා. දේශපාලන බලවතා අයුතු ලෙස බලය යෙදවූයේද? පොලිසියේ රාලහාමිගේ ආදායමට කාරය මිල දී ගත හැකිද? රටේ නීතියක් හරියට ක්‍රියාත්මක කල හැකි ක්‍රමයක් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩික්සන්</author>
+            <date>2014-06-01 13:32:16</date>
+            <index>108</index>
+            <phrase>අනේ අපේ් පොලිසිය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහමඩ්</author>
+            <date>2014-06-01 13:38:34</date>
+            <index>109</index>
+            <phrase>අපේ රටේ මේ මොනවද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-06-01 16:15:10</date>
+            <index>110</index>
+            <phrase>මේක කාගේ රඟපෑමක්ද කියලා හෙට අනිද්දා නියමාකාරයෙන් පැහැදිලි වේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2014-06-01 16:54:40</date>
+            <index>111</index>
+            <phrase>රොෂාන්ගේ කතාවට 100% එකඟයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-06-01 16:56:39</date>
+            <index>112</index>
+            <phrase>අද දඩ කොළේ දුන්නොත් වෙන දේ පේනවනේ අපේ ඇස් දෙකෙන්ම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-06-01 16:58:36</date>
+            <index>113</index>
+            <phrase>අද අපිට අයිති වෙලා තිබෙන ඉරණම ඉතාම පැහැදිලියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2014-06-02 08:55:08</date>
+            <index>114</index>
+            <phrase>දේශපාලුවන්ට මේ රටේ නිතිය අදාල නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම්</author>
+            <date>2014-06-02 11:59:09</date>
+            <index>115</index>
+            <phrase>බලමු අර කොහෙද පොලිස් මහත්වරු දෙන්නෙක්ට ගහලා එක් අයෙකු මරපු අය හොයලා ආවුද හොයන්න තිබ්බ උනන්දුව මේකටත් තියේවිද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාන්ත</author>
+            <date>2014-06-04 07:19:46</date>
+            <index>116</index>
+            <phrase>දැන් මෙරට ඇත්තේ මෝඩ දේශපාලන දර්ශනයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2014-06-05 13:28:35</date>
+            <index>117</index>
+            <phrase>නීතියට මොකද වෙන්නේ දේශපාළුවන්ගේ වැඩ තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

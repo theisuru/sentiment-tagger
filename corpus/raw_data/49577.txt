@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49577</articleId>
+    <title>කලා වැව තණ පිටියක් වේ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 22 17:38:47</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-06-29 13:14:17</date>
+            <index>0</index>
+            <phrase>ශා මාරයි....අන්තර් පාසල් ක්‍රිකට් තරඟාවලිය පවත්වමු .අපේ රටේ ආශ්චර්‍ය නියමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-06-29 12:42:24</date>
+            <index>1</index>
+            <phrase>කලා වැවේ දිය ගැඹරේ සැලෙන කලා රැඟුම් කොහේ සැඟවුනිදැයි කියා අසයි අවුකන බුදු පිළිම වහන්සේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

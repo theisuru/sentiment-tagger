@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56704</articleId>
+    <title>ලංකා බැංකුවට 73යි</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2012 අගෝස්තු මස 02 13:38:21</date>
+    <body>ලංකා බැංකුව 73 වැනි සංවත්සරය අද (2* සමරයි. බැංකුව සතු  වත්කම රුපියල් කෝටි 100000 ඉක්මවයි. ශාඛා ජාලය දෙස් විදෙස් පුරා 2000ක් පමණ ඇත. 1939.8.1 දින ඇරැුඹු ලංකා බැංකුව රටේ සංවර්ධනයට උරදෙමින් ජනජීවිත නගා සිටුවන  බව රත්මලානේ ලංකා බැංකු කළමනාකරු ආර්. රවීන්ද්‍රන් මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-08-02 14:05:54</date>
+            <index>0</index>
+            <phrase>ජාතියේ මහා පහන් ටැබ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-02 14:48:37</date>
+            <index>1</index>
+            <phrase>පරණ ගති තාම තියනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටුවන</author>
+            <date>2012-08-02 15:46:58</date>
+            <index>2</index>
+            <phrase>ලංකා බැංකුවෙ මාලදිවයිනේ ශාඛාවෙ ප්‍රසන්න මහත්තුරැ කට්ටිය අපට ලොකු සේවයක් කරනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.එල්.ටී.කේ. සමන්</author>
+            <date>2012-08-02 16:02:33</date>
+            <index>3</index>
+            <phrase>පාඩු ලබනආයතන වෙනුවෙන් දී ඇති (ආපසු ලැබේවි ද විශ්වාස නැති) ණයත් සලකා බලනකොට ලංකා බැංකුව මේ තත්ත්වෙන් හරි තියෙන එක ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලාන්</author>
+            <date>2012-08-02 16:13:40</date>
+            <index>4</index>
+            <phrase>මගේ සුභ පැතුම් !!!!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත අබේරත්න</author>
+            <date>2012-08-02 16:21:57</date>
+            <index>5</index>
+            <phrase>ඇත්තටම ගොඩක් හොදයි රජයේ බැංකු...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-02 18:35:02</date>
+            <index>6</index>
+            <phrase>ලංකාබැංකුවට වසර 73ක් පිරෙන්නෙ අගෝස්තු මස 01වැනි දිනටයි.. ලංකා බැංකුවේ ශාඛා ගණන 600ක් පමණ ලෙසත් ඒ.ටී.එම් යන්ත්‍ර සහිත සේවා සපයන ස්තාන 1000කට වැඩි ප්‍රමාණයක් ඇති බව ලෙස වෙනස් විය යුතුය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-03 09:22:08</date>
+            <index>7</index>
+            <phrase>මම හරි ආසයි ලංකා බැංකුවේ තේමා ගීතයට. ඉස්සර නිතරම යනවා රේඩියෝ එකේ. දැන්නම් කාලෙකින් ඇහුවේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2012-08-03 10:31:37</date>
+            <index>8</index>
+            <phrase>ලංකා බැංකුවට ශාඛා 600ක් තියෙනවා නේද? එතකොට මේ මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>283844</articleId>
+    <title>පුත්තලමෙත් ගංවතුර</title>
+    <author>රෝවන් පෙරේරාඡායාරූප- එච්චන්දන</author>
+    <date>2014 දෙසැම්බර් මස 20 10:34:07</date>
+    <body>තබ්බෝව වැව පිටාර ගැලීමෙන් කොටු වූ සිවි දෙනෙකු පමණ බේරාගැනීමට බෝට්ටු යෙදවීමට යයි.
+කලා ඔය අසල කුඩා වැවක් කැඩී යාමේ ලකුණු දක්නට ඇතැයි ගැමියෝ කියති.
+පුත්තලම නගරයටද ගංවතුර ගලා ඇත.
+ 
+රෝවන් පෙරේරා
+
+ඡායාරූප- එච්.චන්දන</body>
+    <comments>
+        <comment>
+            <author>පසිදු</author>
+            <date>2014-12-20 05:19:16</date>
+            <index>0</index>
+            <phrase>පීඩාවට පත් වුවන්ට කඩිනමින් සහන සලසා තාවකාලික නවාතැන් පහසුකම් ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංඛ</author>
+            <date>2014-12-20 05:18:39</date>
+            <index>1</index>
+            <phrase>පිඩාවට පත්වෙන ජනතාවට සහන සලසන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

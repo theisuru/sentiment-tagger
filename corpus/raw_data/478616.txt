@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>478616</articleId>
+    <title>අයවැයට  කැබිනට් අනුමැතිය</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 නොවැම්බර් මස 10 12:27:11</date>
+    <body>අද පස්වරු දෙකට පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිත 70 වැනි අයවැයට පෙර ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් අමාත්‍ය මණ්ඩල රැස්වීමක් පැවැත්විණි.
+ඉදිරිපත් කිරීමට නියමිත අය වැය ගැන එහිදී සාකච්ඡා වී ඇති අතර අය වැය පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා කැබිනට් අනුමැතිව හිමි වී තිබේ.
+ </body>
+    <comments>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-11-10 07:36:49</date>
+            <index>0</index>
+            <phrase>ඔය ඉදිරිපත් කරන්න කැසකවන්නේ අපේ මරණ වරෙන්තුව කියලයි අපිට නම් හිතෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුර</author>
+            <date>2016-11-10 07:55:48</date>
+            <index>1</index>
+            <phrase>මේ ආණ්ඩුවෙන් කාටවත් මරණ වරෙන්තු නිකුත් කරන්නේ නැහැ විජිත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-11-10 08:01:21</date>
+            <index>2</index>
+            <phrase>රටේ සිටින සියලුම දෙනාට ඕන විදියට අයවැයක් හදන්න කිසිවකුට නොහැක. මෙය අප තේරුම් ගත යුතුයි. අඩුම ගානේ ගෙදර සිටින අයවත් එක මතකයකට ගෙන එක කොතරම් අමාරුද. මිනිසුන්ගේ අදහස් සහ බලාපොරොත්තු විවිදයි. එම නිසා අප බලාපොරොත්තු වන්න අසාධාරණ නොවන අයවැයක් පමණි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-11-10 08:01:03</date>
+            <index>3</index>
+            <phrase>බෙදුම්වාදී , ජාතිවාදී , ගේ නිහැඩියාව පුදුමයක් .?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසෝකා</author>
+            <date>2016-11-10 08:03:37</date>
+            <index>4</index>
+            <phrase>විජිත ඇයිමේ අදෝනාව ? සිහලයා ඇයි මේ තරම් අසතුටින් හැම වෙලාවේම අඬ අඬ ? අපිට දියව් දියව් හැර වෙන දෙයක් ගෙන සිතන්න බැරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-11-10 09:10:50</date>
+            <index>5</index>
+            <phrase>මේක ගල් සියබලා - රබුටන් අය වැයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-11-10 20:38:24</date>
+            <index>6</index>
+            <phrase>සම්පත්, ඔබ හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-11 04:13:46</date>
+            <index>7</index>
+            <phrase>ඒක ඉතින් අමුතුවෙන් කියන්නත් දෙයක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්ම්</author>
+            <date>2016-11-11 07:17:36</date>
+            <index>8</index>
+            <phrase>මේ අයවැයේ දැක්වෙන බඩු මිළ ට ගන්න පුලුවන් තැන් ගැනත් මහජනයා දැනුවත් කරන්න රවි මහත්තයෝ, ඔබතුමාගෙ මහන්සිය නැත්තම් අපරාදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

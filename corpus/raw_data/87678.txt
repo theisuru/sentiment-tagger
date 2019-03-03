@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>87678</articleId>
+    <title>ජපන් ක්‍රමයට සුනාමි පිං පෙත්</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 දෙසැම්බර් මස 24 13:40:43</date>
+    <body>අට වසරකට පෙර සුනාමියෙන් මියගිය අය ජපන් සම්ප්‍රදාය අනුව සැමරීම ගාල්ලේ දී සිදුකැරුණි. රූමස්සල සාම චෛත්‍යයේ විහාරාධිපති එස්.අසමි හිමියන්ගේ අනුශාසකත්වයෙන් හිරෝෂණ ජපනා භාෂා පාසල මෙම සැමරුම සංවිධානය කළේය. මියගිය අය සිහිපත් කරමින් මාගාල්ල මොරගොඩ ඇලෙහි ජපන් පහන් කූඩු පාකැර හැරීම සිදුවිය.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-12-24 14:51:54</date>
+            <index>0</index>
+            <phrase>මොන ක්‍රමයට හරි කල යුතුම දෙයක් කරලා තියෙන්නේ . බොහොම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-12-24 15:45:13</date>
+            <index>1</index>
+            <phrase>දෙයියෝ සාක්කි .. කුණු ඇලඳ මේ ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවුෂාඩ්</author>
+            <date>2012-12-24 16:20:10</date>
+            <index>2</index>
+            <phrase>සුනාමියෙන් මියගිය සියලු ජාතීන්ම ඉතා කණගාටුවෙන් යුතුව සිහිකරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝරාළ</author>
+            <date>2012-12-24 16:32:22</date>
+            <index>3</index>
+            <phrase>ඔය ජාතිවාදී අයට සුනාමිය හොද පාඩමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩාර</author>
+            <date>2012-12-24 17:24:52</date>
+            <index>4</index>
+            <phrase>අට වසරකට කලින් තිබුණ සුනාමිය කියද්දි මට මතක් වෙන්නේ උදව් කරන්න ඇවිත් සුනාමියෙන් ගොඩ ආපු අය ගැනයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2012-12-24 17:21:57</date>
+            <index>5</index>
+            <phrase>සුනාමිය කියන්නේ භීතිය, දුක ගෙනදෙන දෙයක් වුණත් සමහරුන්ට නම් සුනාමිය කියන්නේ සතුටක් ගෙන දෙන දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2012-12-24 17:27:47</date>
+            <index>6</index>
+            <phrase>සුනාමිය මතක්වෙද්දි ඇග හිරි ‍වැටෙනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-12-24 17:25:04</date>
+            <index>7</index>
+            <phrase>සුනාමියෙන් අවතැන්වූ සමහර අයට තාමත් නිවාස නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-12-25 00:28:15</date>
+            <index>8</index>
+            <phrase>ඔය වියදම් කරන සල්ලි වලින් ගංවතුරින් අනාථ වූවන්ට පිහිට වෙන්න පුලුවන් නම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්‍යා</author>
+            <date>2012-12-25 10:08:46</date>
+            <index>9</index>
+            <phrase>ඒ රුදුරු දිනේ සිහි වෙනවා ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

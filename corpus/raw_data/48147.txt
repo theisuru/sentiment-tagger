@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48147</articleId>
+    <title>සබරගමු ලෙඩ වැඩිවේ</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2012 ජූනි මස 14 14:52:05</date>
+    <body>සබරගමුව සරසවියේ අනධ්‍යයන වැඩ වර්ජනය සිදු වෙද්දී ඇතැම් සේවා සඳහා ආයතන සංග්‍රහය නොතකා තාවකාලික සේවකයන් බඳවා ගනිතියි එහි වෘත්තිය සමිතය ඒකාබද්ධ කමිටුව චෝදනා. පානීය ජලය  පිරිසුදු නොකිරීම නිසා සිසුන් 100ක් පමණ අසනීප වී ඇතැයි ද කමිටුව පවසයි. සරසවි පාලකයෝ එම චෝදනා ප්‍රතික්ෂේප කරති.</body>
+    <comments>
+        <comment>
+            <author>රජික මංජුල</author>
+            <date>2012-06-14 15:25:45</date>
+            <index>0</index>
+            <phrase>මොල කාරයෝම තමයි මොලේ නැති වැඩ කරන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිෂ්‍යා</author>
+            <date>2012-06-14 21:25:02</date>
+            <index>1</index>
+            <phrase>පානීය ජලය පිරිසුදු නොකිරීම නිසා සිසුන් 100ක් පමණ අසනීප වී ඇතැයි ද කමිටුව පවසයි. ඒ අයම සුද්ද නොකර ඉඳලා මහ ලොකුවට කියන අපූරුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්ලී</author>
+            <date>2012-06-14 23:35:29</date>
+            <index>2</index>
+            <phrase>තමන් බොන වතුර ටික හරි බලන්න මොලයක් නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>331212</articleId>
+    <title>පෙරටුගාමීයෝ කුළුගෙඩියෙන් එති</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2015 ජූලි මස 10 11:27:42</date>
+    <body>මහමැතිවරණයට  කුළු ගෙඩිය ලකුණින් තරග කරන පෙරටුගාමී සමාජවාදී පක්ෂය මහනුවර,ත්‍රිකුණාමලය,කෑගල්ල,ගාල්ල සහ පොළොන්නරුව දිස්ත්‍රික් සඳහා නාමයෝජනා  බාර  දුන්නේය.
+සෙසු දිස්ත්‍රික්ක සඳහා  ද නාමයෝජනා බාර දීමට  නියමිතයි.පෙරටුගාමීන් මහ මැතිවරණයට ඉදිරිපත් වන පළමු අවස්ථාව මෙයයි.</body>
+    <comments>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2015-07-10 07:16:55</date>
+            <index>0</index>
+            <phrase>ඔන්න එහෙනම් ඡන්දෙට ඉස්සෙල්ලම කිවුවා. ඔක්කොම ඇප රාජ සන්තකයි. කුරුටු ගාමින්ට අබ සරණයි. හැංගිලා ඉන්න තට්ට ලොක්ක කොහෙද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2015-07-10 14:03:03</date>
+            <index>1</index>
+            <phrase>ගොඩනැඟී එන සහෝදර දේශපාලන බලවේගයට වෛරකරන තවත් සහෝදර දේශපාලන බලවේග මඟින් ධනවාදීන් පිනවීමක් සිදුනොවන්නේද? ප්‍රධාන සතුරා අපිට අයිතිය දී ඇත.එය කඩාකප්පල් කරන්නේ කවරෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2015-07-13 10:39:56</date>
+            <index>2</index>
+            <phrase>සැබවින්ම ඔබ සමඟ වමේ බලයක් ගොඩනගා ගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2015-07-16 23:28:54</date>
+            <index>3</index>
+            <phrase>ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

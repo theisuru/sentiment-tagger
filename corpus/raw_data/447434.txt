@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447434</articleId>
+    <title>රනිල් චීන සංචාරය අරඹයි.</title>
+    <author>ටීකේජී කපිල</author>
+    <date>2016 අගෝස්තු මස 13 09:51:23</date>
+    <body>රනිල් වික්‍රමසිංහ අගමැති දාහත්දෙනෙකුගෙන් යුත් නියෝජිත පිරිසක් සමග සිකුරාදා රාත්‍රියේ චීනය බලා පිටත් විය.;
+ එහිදී චීනයේ ආධාරයෙන් කොළඹ වරායේ ගොඩනැගෙන පෝර්ට් සිටි මූල්‍ය නගර මධ්‍යස්ථානය ගැන අගමැතිවරයා හා චීන නායකයන් සමග සාකච්චා පැවැත්වීමටද නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-08-13 05:10:36</date>
+            <index>0</index>
+            <phrase>මෙයාලට ඉස්සර අරහං වෙලා තිබුන චීනය දැන් හොඳවෙලා වගේ? දැන් අර ඉස්සර කිවුව පරිසර හානිය සිද්ධවෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2016-08-13 05:43:14</date>
+            <index>1</index>
+            <phrase>මේ සෑම දෙයකින්ම සනාථ වන්නේ පසුගිය රජයේ ආර්ථික සහ විදේශ ප්‍රතිපත්ති අදට සාපේක්ෂව නිවැරදි ස්ථාවරයක තිබුනු බව නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-08-13 06:25:41</date>
+            <index>2</index>
+            <phrase>රටේ වගකිවයුත්තන්ට මීටවඩා රට පිළිබඳව දැක්මක් තිබිය යුතුයි. අපිට මතකයි මේ අය පසුගිය මැතිවරණ වේදිකාවේ කතාකළ හැටි, පෝර්ට් සිටි ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප</author>
+            <date>2016-08-13 09:17:22</date>
+            <index>3</index>
+            <phrase>දැන් පෝට් සිටි හැදිලත් ඉවරයි ඒ කළ විදිහට ගියා නම්. මොනතරම් නම් පාඩුවක් වුණාද වන්දි ගෙවන්නත් වෙලා? වැඩෙත් පරක්කුයි. ඔය මොනවා කිව්වත් ඉස්සර එකයි ඔය කියන එකයි ගොඩක් සමානයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2016-08-13 10:02:36</date>
+            <index>4</index>
+            <phrase>මේවට කියන්නේ "කුකුළු බෙටිත් බේතට ඕනෑවෙනවා" කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-08-13 10:08:47</date>
+            <index>5</index>
+            <phrase>මේවායින් පේන්නේ වෙන කිසිම දෙයක් නොවේ. අපේ රටට මොනතරම් බලපෑමක් කරන්න චීනයට පුළුවන්ද කියන එකයි. ජනාධිපති වෙනස් වුණා, ආණ්ඩුව වෙනස් වුණා, ඒත් චීන ආධිපත්‍යය එහෙමමයි. රුපියල් බිලියන පිට බිලියන ගණන් ණය දීලා. චීනය අපේ රට ජීවග්‍රහණයෙන් අල්ලලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර-යූ.කේ</author>
+            <date>2016-08-13 10:48:04</date>
+            <index>6</index>
+            <phrase>අපි හිතුවේ ප්‍රංසය, ජර්මනිය, ඇමරිකාව වගේ රටවලට මිසක් චිනේ පළාතේ වත් යන එකක් නෑ කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපවතී</author>
+            <date>2016-08-13 11:50:07</date>
+            <index>7</index>
+            <phrase>ඔන්න බලන්න මම මේ අද කීවා කියල මතකයේ තියා ගන්න. ආපසු එද්දී ඉන්දියාවටත් ගිහින් අර අසික්කිත \"වට්ටක්කා\" ගිවිසුමත් අත්සන් නොකරාවිද කියල ..රට විනාස කරන අය..? ..ජනමත විචාරණයකින් තීරණයක් ගැනීම මිස අරකටයි මෙකටයි බැනවදිමින් ...හැදියාව පුරසාරම් බාන එක නෙවෙයි ...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-08-13 12:32:56</date>
+            <index>8</index>
+            <phrase>.දැන් බලන කොට හැබෑ යහ පාලනයක් කරල තියෙන්නේ මහත්තයගෙ කාලෙදි නොවැ....අනේ කාලේ වනේ වාසේ කිව්වලු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-08-13 12:51:42</date>
+            <index>9</index>
+            <phrase>ඇයි ඇමරිකා යන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-08-13 13:47:57</date>
+            <index>10</index>
+            <phrase>දැන් මොකද අප්පේ චීනෙට මෙච්චර කැමති? පුහුල් හොරා කරෙන් දැනේ කිවුවලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-08-13 15:20:27</date>
+            <index>11</index>
+            <phrase>ලැජ්ජා නැතුව කොහොමද මෙහෙම ගිහින් තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-08-13 15:31:12</date>
+            <index>12</index>
+            <phrase>ජයරත්න මහතාණෙනි, රටේ භුමිය කවර හෝ රටකට සින්නක්කර විකිණීම නිවැරදි විදේශ ප්‍රතිපත්තියක ලක්ෂණයක්ද? රට ඉදිරියේ නිවැරදි ආර්ථිකයක් පැවතියේ නම් අවුරුදු දෙකකට කලින් මැතිවරණයකට ගියේ සුමනදාස මහතාගේ ආර්ථික උපදෙස් නිසා වෙන්නට ඇත. බල තණ්හාව මත පවතින දේශපාලනයක නිවැරදි ආර්ථිකයක් දැකීම මෝඩයන්ගේ ලක්ෂණයක් විය හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-13 17:01:18</date>
+            <index>13</index>
+            <phrase>දැන්වත් පහුගිය අයට බැන බැන ඉන්නේ නැතුව වැඩට බහිමු. අවශ්‍ය නම් ඒ කට්ටියත් හවුල් කරගනිමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොට්ටාල</author>
+            <date>2016-08-13 17:47:57</date>
+            <index>14</index>
+            <phrase>ඇයි එහෙනම් කලින් චීනයට බැන බැන හිටියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටානියා-කොල්ලුපිටිය</author>
+            <date>2016-08-13 17:48:00</date>
+            <index>15</index>
+            <phrase>මහින්ද මහත්තයා දුරදිග බලා රටේ යහපත වෙනුවෙන් පටන්ගත් සියලුම සංවර්ධන ව්‍යාපෘති මේගොල්ලො තමන්ගේ ඒවා වගේ ක්‍රියාත්මක කරන්නේ. ලැජ්ජයි. කැතයි. මහින්ද මහත්තයා එදා ගත් ඔක්කොම තීරණ හරි කියලා ඉතිහාසය විසින් ඔප්පු කරලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2016-08-13 18:10:44</date>
+            <index>16</index>
+            <phrase>අපිට නම් ලැජ්ජයි මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2016-08-13 18:39:50</date>
+            <index>17</index>
+            <phrase>හොඳයි හොඳයි ගිහිල්ලා එන්නකෝ එහෙනම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2016-08-13 22:46:49</date>
+            <index>18</index>
+            <phrase>කෝ දැන් අර නන්දලාල්, ඩුබායි තිලක් එහෙම...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත ද සිල්වා</author>
+            <date>2016-08-14 00:57:32</date>
+            <index>19</index>
+            <phrase>හොඳ අදහසක් අපි ඉන්දියාවට නොයා චීනයට යාම වඩා හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්</author>
+            <date>2016-08-14 06:47:46</date>
+            <index>20</index>
+            <phrase>රටට යහපතක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-08-14 07:36:42</date>
+            <index>21</index>
+            <phrase>ජ්‍යෙ. නියෝජ්‍ය පොලිස්පති එම්.ආර්. ලතීෆ් මහතා යනු දැඩි වෛරයට පාත්‍ර වී පළි ගැනීමට ලක් වූ අවංක නිලධාරියෙකු බවද මතක තබා ගත යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

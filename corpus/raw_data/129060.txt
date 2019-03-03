@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>129060</articleId>
+    <title>මල් වෙඩිල්ල මඩුව සමතලා කරයි</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2013 මැයි මස 29 17:54:54</date>
+    <body>නිකවැරටියේ තිඹිරියායේ ගිනිකෙළි කම්හලක හිමිකරු පදිංචිව සිටි තාවකාලික නිවසේ පිපිරීමකින් එම නිවස අළු වී ඔහු ද, කාන්තාවක ද තුවාල ලදහ. 
+මල් වෙඩිල්ලක් සාදමින් සිටියදී මේ පිපිරීම සිදුවූ බව පොලීසිය කියයි.
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-05-29 18:56:50</date>
+            <index>0</index>
+            <phrase>සුන්දර වුනත් භයානකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-05-29 20:56:56</date>
+            <index>1</index>
+            <phrase>අහිංසක මිනිසෙක් මුහුණ දුන් ඛේදනීය තත්ත්වයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-05-29 21:05:47</date>
+            <index>2</index>
+            <phrase>අබුද්දස්ස කලේ ලබුත් තිත්තළු රාලේ ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-05-29 21:51:44</date>
+            <index>3</index>
+            <phrase>අපිත් හිටපු ගමන් මල්වෙඩි අරිනවා, හැබැයි අත්හදා බලන්න නම් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2013-05-29 23:28:25</date>
+            <index>4</index>
+            <phrase>මේ වැඩවලට ප‍්‍රමිති නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම්</author>
+            <date>2013-05-30 01:02:43</date>
+            <index>5</index>
+            <phrase>ජීවිත බේරුණු එක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2013-05-30 01:43:47</date>
+            <index>6</index>
+            <phrase>එයා බේරුන එක ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2013-05-30 07:51:38</date>
+            <index>7</index>
+            <phrase>අහිංසක අසරණකම වෙන කතාවක්. මේ වගේ රැකියවල් කරද්දී උපරිම ආරක්ෂක වැඩ පිළිවෙළවල් අනුගමනය කළයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිත්</author>
+            <date>2013-05-30 09:11:36</date>
+            <index>8</index>
+            <phrase>අපිත් දිනපතා මල් වෙඩි අරිනවා......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2013-05-30 10:28:21</date>
+            <index>9</index>
+            <phrase>මම මේ දන්නේ නැති නිසයි අහන්නේ. ඔය මල් වෙඩිල්ල අත්හදා බැලුවේ අර කාන්තාවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

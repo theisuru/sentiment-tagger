@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465897</articleId>
+    <title>ස්විස්ටර්ලන්ත කතානායිකාව අගමැති හමුවෙයි</title>
+    <author>ගයාන් අමරසේකරඉෂාන් සංජිව</author>
+    <date>2016 ඔක්තෝබර් මස 07 16:24:35</date>
+    <body>නිල සංචාරයකට ශ්‍රී ලංකාවට පැමිණ සිටින ස්විස්ටර්ලන්තයේ කතා නායිකා ක්‍රිස්ටා මාර්ක් වැල්ඩර් මහත්මිය අද (07) පස්වරුවේ කොළඹ අරලියගහ මන්දිරයේදී අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ මහතා හමු විය.
+ඇය අද කතානායක කරු ජයසූරිය මහතා ද හමු විය.
+
+ජායාරූප - ගයාන් අමරසේකර
+
+ජායාරූප - ඉෂාන් සංජිව
+ </body>
+    <comments>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-10-07 21:11:39</date>
+            <index>0</index>
+            <phrase>එහෙන් ඇවිල්ලා මෙහෙදී හම්බ වෙනවා. මෙහෙන් ගිහින් එහෙදි හම්බ වෙනවා. ඔය යන එන හැටියට අර මහා සුනාමිය වගේ රටට ආධාර ගලාගෙන එන්න ඕනෑ. එ්ත් තවම නැහැනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-10-08 06:00:27</date>
+            <index>1</index>
+            <phrase>කැමරා එක දිහා බලාගෙන අතට අත දුන්නට ආධාර ගලාගෙන එන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාරුක</author>
+            <date>2016-10-08 07:00:40</date>
+            <index>2</index>
+            <phrase>ලංකාවේ ආධාර ගන්න බලාඉන්න මානසිකත්වය කවදා නැතිවේද? ගනුදෙනු මානසිකත්වය වඩා තියුණු කර ගැනීමට ඉදිරියට හොඳයි කියලා හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-08 07:05:53</date>
+            <index>3</index>
+            <phrase>අපි කුඩා කලත් ඔය වගේ දේවල් තමා ඉගැන්නුවේ. "පරාජයේ මානසිකත්වය" ආධාර ගෙන පින්දීම. "දීලා ගන්න, ගන්නවා නම් දෙන්න"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-08 07:22:03</date>
+            <index>4</index>
+            <phrase>සාමාන්‍ය මනුෂ්‍යයාට සංස්කෘතිය, අාත්ම ගරුත්වය රැකගෙන එහෙන් මෙහෙන් එනදේට පිළිතුරු දීමේ ක්‍රමයක් හදලා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-08 07:52:15</date>
+            <index>5</index>
+            <phrase>ලලිත්, ඔබ හරි. ඔය අපිට අාර්ථික අාධාර නෙමෙයි ලැබෙන්නේ, රට බෙදන ආධාර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බර්ලින්</author>
+            <date>2016-10-08 15:10:29</date>
+            <index>6</index>
+            <phrase>අපට ස්විස්ටර්ලන්තයෙන් ආධාර අවශ්‍ය නැහැ. අපට බොරුවට ලෙඩ නොදමා අපේ පාඩුවේ ඉන්න දෙනවා නම් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446921</articleId>
+    <title>නිදන් හෑරූ ගෑණු හතරක් අත්අඩංගුවට</title>
+    <author>නිමල් ජයරත්න</author>
+    <date>2016 අගෝස්තු මස 11 20:15:18</date>
+    <body>පොළොන්නරුව වැලිකන්ද කාලිංගවිල ප්‍රදේශයේ ගෙවත්තක නිදන් හාරමින් සිටි කාන්තාවන් 04 දෙනෙකු ඇතුළු 09 දෙනෙකු අත්අඩංගුවට ගත් බව වැලිකන්ද පොලිසිය කියයි.
+අත්අඩංගුවට ගත් පිරිස ඉංගිරිය හා කාලිංග විල ප්‍රදේශ වල පදිංචි කරුවන් බව ද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-08-11 19:21:16</date>
+            <index>0</index>
+            <phrase>පව් අනේ! මුට්ටියේ හාල් නොතිබුණ නිසා මේ බවලත්තු ටික දවල්ට කන්න මඤ්ඤොක්කා අලයක් හාරගන්න හැදුවද දන්නෙ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවි</author>
+            <date>2016-08-12 06:12:40</date>
+            <index>1</index>
+            <phrase>පව් ඉතින් නැති නිසානේ නිදන් හරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2016-08-12 06:12:44</date>
+            <index>2</index>
+            <phrase>අපෝ අපෝ ඒ අය නිදන් හාරන්නේ දෙසපලුවෝ කියලා ඔප්පුකරලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

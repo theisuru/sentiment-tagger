@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42609</articleId>
+    <title>ඉන්දියා යකඩත් දකුණේ දී උස්සයි</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 මැයි මස 16 17:51:47</date>
+    <body>මුහුදුබඩ දුම්රිය මාර්ගයේ පාලම් වැඩට ගෙනා ඇලූමිනියම් ආලේප කළ යකඩ බාල්ක තොගයක් සොරාගෙන ඇතැයි ඉර්කෝන් ඉන්දිය සමාගම අම්බලන්ගොඩ පොලිසියට පැමිණිලි කර ඇත. යකඩ බාල්ක වැදී සොරුනටතුවාල සිදුවූ බවට එතැන ලේ පැල්ලම් ඇති බවත් සැකකරුවන් හඳුනාගෙන ඇති බවත් පොලිසිය කියයි. මේ යකඩ තොගයේ වටිනාකම රුපියල් තිස්ලක්‍ෂයක් පමණ වෙයි.
+පොලිස් බල්ලන් රජයේ කාර්යාලයක් ළඟ නතර වූ බවත් එහි මුරකරු සොයා ගැනීමට නැති බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-05-16 20:14:47</date>
+            <index>0</index>
+            <phrase>ගුල්ලෝ ගහල ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-16 21:12:52</date>
+            <index>1</index>
+            <phrase>අහන්න දෙයක් නෑ. යකඩ උස්සපු කෙනාම මුරකාරයවත් උස්සන්න ඇති..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-16 21:16:42</date>
+            <index>2</index>
+            <phrase>අනේ අපේ අය හොරුන්ව දැනුවත් කරල නෑනේ.....ඉන්දීය බඩුයි,ඇමරිකන් බඩුයි උස්සන්න එපා කියලා.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-16 22:04:58</date>
+            <index>3</index>
+            <phrase>බය ගුල්ලො කොහොමද ගහන්නේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-05-17 01:43:52</date>
+            <index>4</index>
+            <phrase>ඔයිට වඩා හොඳයි හිඟා කෑවනම්...ඉතිං කොහොමද ලංකාව දියුණු වෙන්නේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

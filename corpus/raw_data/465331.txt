@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465331</articleId>
+    <title>කබ්රාල් අදත් එෆ්සීඅයිඩියේ</title>
+    <author></author>
+    <date>2016 ඔක්තෝබර් මස 06 14:08:17</date>
+    <body>ශ්‍රී ලංකා මහ බැංකුවේ හිටපු අධිපති අජිත් නිවාඩ් කබ්රාල් අද (6) කොළඹ මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසයට යළිත් පැමිණියේය.</body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-07 00:31:15</date>
+            <index>0</index>
+            <phrase>ආර්ථිකය හසුරන හැටි ඊළඟ පරපුරටත් කියාදෙන්න වෙන්න ඇති මෙතනට එන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-10-07 02:54:12</date>
+            <index>1</index>
+            <phrase>එතකොට අර මෑත කාලයේ අය එෆ්සිඅයිඩි ගෙනියන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

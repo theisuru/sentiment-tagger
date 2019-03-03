@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>504512</articleId>
+    <title>සම්බා හා නාඩු සහල් සඳහා උපරිම මිලක්</title>
+    <author></author>
+    <date>2017 පෙබරවාරි මස 06 15:49:06</date>
+    <body>සම්බා හා නාඩු සහල් සඳහා අද මධ්‍යම රාත්‍රියේ සිට උපරිම මිලක් ක්‍රියාත්මක වන බව මුදල් අමාත්‍යංශය පවසයි. ඒ අනුව සම්බා සහල් කිලෝවක උපරිම මිල රුපියල් 80 ක් හා නාඩු සහල් කිලෝවක උපරිම මිල රුපියල් 70 ක් ලෙස නියම කර ඇතැයි මුදල් අමාත්‍යංශය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>ජගත්‍</author>
+            <date>2017-02-06 12:02:30</date>
+            <index>0</index>
+            <phrase>අශ්වයා පැන ගියපසු ඉස්ථාලයේ දොර වැසීම වැනිය. හාල් මුදලාලිලා හොඳට හම්බු කරගත්තා අරයත් ඇතුළුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2017-02-06 12:03:53</date>
+            <index>1</index>
+            <phrase>ඔය ගානට හාල් ගන්න තියන කඩ එකක දෙකක නම් කියන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-02-06 13:01:03</date>
+            <index>2</index>
+            <phrase>දැන් වැඩි දෙනාගේම කැමැත්ත රතු කැකුළු. ඇයි ඒ ගැන නොහිතන්නේ. රතු කැකුළු කිලෝ එක දැන් රුපියල් 90 සිට ඉහලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත වීරසිංහ</author>
+            <date>2017-02-06 15:46:01</date>
+            <index>3</index>
+            <phrase>උපරිම මිල නියම කළාට ගන්න තියන තැනකුත් කීවනම් තමා හොඳ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2017-02-07 01:21:00</date>
+            <index>4</index>
+            <phrase>අශ්වයා පැනල ගියාට පස්සේ ඉස්තාලය වහලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

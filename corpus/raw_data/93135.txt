@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>93135</articleId>
+    <title>විදුලි කාර්මිකයා එළොව ගිහින් මෙළොව එති</title>
+    <author>රත්නසිරි ප්‍රේමලාල්</author>
+    <date>2013 ජනවාරි මස 14 20:09:08</date>
+    <body>සෝමාලියා කොල්ලකරුවන් ග්‍රහණයේ වසර 2ක් සිට නිදහස ලැබූ ශ්‍රී ලාංකික විදුලි කාර්මිකසරත්චන්ද්‍ර සූරසේන මහතා සිය ත්‍රාස්ස්‍ය ජනක අත්දැකීම් විස්තර කරයි.
+වැඩිපුර &gt;&gt;&gt;</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-01-14 20:19:22</date>
+            <index>0</index>
+            <phrase>විස්තරත් දැනගන්න කැමතියි අපි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2013-01-21 18:46:33</date>
+            <index>1</index>
+            <phrase>අයියෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

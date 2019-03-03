@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57229</articleId>
+    <title>ගම්පහ බෝම්බ කතාව බොරුවක්</title>
+    <author>තරිඳු ජයවර්ධන  අජිත් මදුරප්පෙරුම</author>
+    <date>2012 අගෝස්තු මස 06 12:21:23</date>
+    <body>බෝම්බයක් ඇතැයි ලැබුණු පණිවිඩයකින් පසුව ගම්පහ අධිකරණ සංකීර්ණය පැය තුනාහාමාරක පුරා සෝදිසි කිරීමෙන් පසුව බෝම්බ නොතිබූ බව පොලිසිය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-06 12:37:08</date>
+            <index>0</index>
+            <phrase>අයියෝ මිනිසුන් ඉවත් කරන්න කලින් බල්ලන් දාලා බලන්න තිබුණනේ. නඩුවටත් එතකොට බාධාවක් නෑනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-06 12:44:43</date>
+            <index>1</index>
+            <phrase>බෝම්බ කතා දැන් ඉවරනේ. දැන් කොයින්ද බෝම්බ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-08-06 13:01:09</date>
+            <index>2</index>
+            <phrase>අමිල, එතකොට මිනිස්සුත් ඇතුළේ ඉඳිද්දි බෝම්බෙ පිපිරුණොත්? කාලය නාස්තිවෙන එකට වඩා ජීවිත වටින්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-08-06 13:08:21</date>
+            <index>3</index>
+            <phrase>අමිල, මිනිස්සු ඉන්දැද්දි පැය තුනකින්වත් පරීක්ෂා කරලා ඉවර කරන්න බැහැ. මොළේ නැද්ද ඔය වගෙ කතා කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටුවන</author>
+            <date>2012-08-06 13:09:11</date>
+            <index>4</index>
+            <phrase>අපේ ගමේ චන්ද්‍රා අක්කා උසාවියෙ හිටියද දන්නේ නැහැ. මොකද එයාට ගමේ අය කියන්නේ "බෝම්බෙ" කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-08-06 15:11:24</date>
+            <index>5</index>
+            <phrase>බොරුවට හරි බලන්න ඕන නෑත්නම් මිනිස්සුන්ට බෝම්බ මතකත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-06 15:21:02</date>
+            <index>6</index>
+            <phrase>ඔත්තුව ඇත්තක් උනත් බොරුවක් උනත් එතැනින් ඉවත් කරපු එක තමයි හොඳම පියවර. මෝඩ විදියට අවධානමක් ගන්න හොඳ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

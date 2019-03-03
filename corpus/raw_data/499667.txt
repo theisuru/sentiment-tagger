@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499667</articleId>
+    <title>ඊනිව්ස් කර්තෘට ශ්‍රේෂ්ඨාධිකරණයෙන් නොතීසි</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 19 11:47:14</date>
+    <body>අධිකරණයට අපහාස කිරීම සම්බන්ධයෙන් මාර්තු 3 වැනිදාට පෙර ශ්‍රේෂ්ඨාධිකරණයට කරුණු දක්වන ලෙස ලංකා ඊ නිව්ස් වෙබ් අඩවියේ කර්තෘ සඳරුවන් සේනාධීර මහතාට අද (19) නොතීසි නිකුත් කැරිණි. ඔහුට එරෙහිව ඉදිරිපත්වූ පෙත්සම් 14ක් අද ශ්‍රේෂ්ඨාධිකරණයේ ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් හමුවේ කැඳවූ අවස්ථාවේ දී මෙම නියෝගය නිකුත් කර ඇත.  </body>
+    <comments>
+        <comment>
+            <author>ශාන්</author>
+            <date>2017-01-19 07:18:50</date>
+            <index>0</index>
+            <phrase>මේ පැමිණිල්ල කරපු අයයි, අධිකරණයේ ඉන්න අයයි ඔක්කොම ගැන අපි දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොක්සි</author>
+            <date>2017-01-19 07:36:11</date>
+            <index>1</index>
+            <phrase>අධිකරණය අධිකරණයටම අපහාස කරගන්නේ නම් මාධ්‍යවේදීන් කුමක් කරන්නද? මෙය මාධ්‍ය නිදහසට වැටබැඳීමේ පෙරනිමිත්තක් හැටියට දකිමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-01-19 07:35:11</date>
+            <index>2</index>
+            <phrase>මේ වගේ අයට දඬුවම් දියයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2017-01-19 08:40:22</date>
+            <index>3</index>
+            <phrase>වැරදි කරන්න හොඳයි නම් ඒවා ප්‍රසිද්ධ කරන එක නරක වෙන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගිද</author>
+            <date>2017-01-19 08:48:32</date>
+            <index>4</index>
+            <phrase>මේ යහපාලනයේ අරමුණ කුමක්ද කියා දැන් පැහැදිලිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රරත්න</author>
+            <date>2017-01-19 09:14:35</date>
+            <index>5</index>
+            <phrase>සාධාරණ සටන් කිසිදා පැරදිය නොහැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2017-01-19 09:30:20</date>
+            <index>6</index>
+            <phrase>හෘදය සාක්කියට අනුව තමන් නිර්දෝෂී නම් බියවීමට කාරණා නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2017-01-19 09:31:25</date>
+            <index>7</index>
+            <phrase>බලමුකෝ මොකද වෙන්නෙ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රින්ස්</author>
+            <date>2017-01-19 13:37:40</date>
+            <index>8</index>
+            <phrase>පසුගිය දශකයේ රට හැරගිය මාධ්‍යවේදීන්ට නැවත එන්න කිවුව නේද ? ඒ මිනිස්සුන්ට වන්දි දෙන්නේ නැතිව නඩු දාන්නද හදන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2017-01-19 16:27:37</date>
+            <index>9</index>
+            <phrase>මොනවද මේ වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල</author>
+            <date>2017-01-19 17:02:02</date>
+            <index>10</index>
+            <phrase>මේවට මොනවා කියන්නද කියලා තේරෙන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2017-01-19 18:32:06</date>
+            <index>11</index>
+            <phrase>මොන කතා කිවුවත් කව්රුත් එක එක්කෙනාට හොරෙන් බලන වෙබ් අඩවිය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

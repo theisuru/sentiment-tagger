@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14394</articleId>
+    <title>කිඹුලා ගම් භටයාට පරදී</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 නොවැම්බර් මස 24 16:35:01</date>
+    <body>කිඹුලකු සමග යාන්ඔයේ දී පොර බදා ජිවිතය බේරාගත් සිවිල් ආරක්ෂක බළකායේ භටයෙක් පදවිය රෝහලේ ප්‍රතිකාර ලබයි. කුඹුක්වැව මුරපොළේ රණවීර සේනානායක නම් මේ භටයා කිඹුලාගෙන් බේරී ගොඩ ඒමට ද සමත්විය.</body>
+    <comments>
+        <comment>
+            <author>සීජේකේ වීරකෝන්</author>
+            <date>2011-11-24 18:55:36</date>
+            <index>0</index>
+            <phrase>නටන්න පුළුවන් මිනිහට කොහෙත් එකයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් වීරසිංහ</author>
+            <date>2011-11-24 18:47:54</date>
+            <index>1</index>
+            <phrase>අන්න නියම වීරයෙක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී හේරත්</author>
+            <date>2011-11-25 06:54:48</date>
+            <index>2</index>
+            <phrase>මෙන් නියම එඩිතර වීරයො. අනේ ඔය කිඹුලට කැලණිය පැත්තට එන්න කියන්නකො...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියපාල</author>
+            <date>2011-11-25 08:54:40</date>
+            <index>3</index>
+            <phrase>මම හිතුවේ කිඹුලා නමැති ගම් වර්ගයක් ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>aariyapaala</author>
+            <date>2011-11-25 13:45:05</date>
+            <index>4</index>
+            <phrase>ඔහෙලත් අර 'සී' නිවුස් කාරයා වගේ නේද? තමන්ව විවේචනය කරන මොකුත් දානේ නැහැ. ඇයි මගේ කොමෙන්ට් එක කපලා කොටලා දැම්මේ? මම පෙන්නලා දුන්නේ ඔබේ දුර්වල කමක් පමණයි. එහි කිසිම අසභ්‍ය දෙයක් තිබුනේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

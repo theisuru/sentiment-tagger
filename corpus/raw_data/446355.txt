@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446355</articleId>
+    <title>මහනුවර ව්‍යාපාරිකයා රිමාන්ඩ්</title>
+    <author>චමිල් රූපසිංහ ශිරෝමි මොරගොඩ</author>
+    <date>2016 අගෝස්තු මස 10 18:16:31</date>
+    <body>මහනුවර හන්තාන ප්‍රදේශයේ පවත්වාගෙන ගිය මානව හා නායකත්ව පුහුණු ආයතනයේ සිසුවියන් 9 දෙනෙකු ලිංගික අපයෝඡනයකට ලක්කළැයි කියන සිද්ධිය සම්බන්දයෙන් අත් අඩංගුවට ගත් මහනුවර ව්‍යාපාරිකයෙකු වන නිමල් පීරිස් අගෝස්තු 11 වැනි  දින දක්වා රිමාන්ඩ් කරන ලෙස මහනුවර ප්‍රධාන මහේස්ත්‍රාත් බුද්ධික ශ්‍රි රාගල මහතා අද (10) නියෝග කලේය.</body>
+    <comments>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-08-10 13:51:34</date>
+            <index>0</index>
+            <phrase>ඔය මනුස්සය ජාතක කරපු දුවත් දුෂණය කරපු වසලයෙක්. උපරිය දඬුවම් ලබෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වර්නන්</author>
+            <date>2016-08-10 14:48:27</date>
+            <index>1</index>
+            <phrase>මහනුවර අය මොහු ඉතාමත් නරක ව්‍යපරිකයකු බව දන්නවා. හැබයි මොහු පොලිසියේ අයත් මුදලට යට කරගන්නා බවත් දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලා</author>
+            <date>2016-08-10 19:44:47</date>
+            <index>2</index>
+            <phrase>මෙයාගේ මුහුණු පොතේ එයාගේ ගෝලයෝ දාලා තියෙන අදහස් බලන්න. සත්ගුණවත් බෝධිසත්ව උත්තමයෙක් විදිහට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2016-08-10 22:05:23</date>
+            <index>3</index>
+            <phrase>මහනුවර ව්‍යාපාරිකයෙකු කොහොමද මානව හා නායකත්ව පුහුණු ආයතනයට සම්බන්ධ වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2016-08-10 23:19:14</date>
+            <index>4</index>
+            <phrase>නමුත් මධ්‍යම පළාතේ හොඳම ව්‍යාපාරිකයාටත් තේරුණා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙබස්තියන්</author>
+            <date>2016-08-10 23:20:07</date>
+            <index>5</index>
+            <phrase>කරුණු කෙසේවුවත් ඔහු මෙම චෝදනා වලින් ඉක්මණින් නිදහස්වෙන බව නම් විශ්වාසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශිකා</author>
+            <date>2016-08-11 00:38:53</date>
+            <index>6</index>
+            <phrase>අපේ ලංකාදීප පාඨකයෝ හොඳින් බලන්න.මේ ව්‍යාපාරිකයා ඇප පිට එළියට ඒවි ළඟදීම. ඔය නඩුවත් යටයාවි. සල්ලි බලයට මොනවද කරන්න බැරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-08-11 01:14:20</date>
+            <index>7</index>
+            <phrase>එක් යුගයක උසාවියේ ඇසෙන නඩුවල තීන්දු කලින් කිවුවේ මෙවන් පුද්ගලයින්ය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-08-11 03:48:15</date>
+            <index>8</index>
+            <phrase>කොයි ලොව යන්නේ මරණින් මත්තේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

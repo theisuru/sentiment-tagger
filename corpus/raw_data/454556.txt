@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454556</articleId>
+    <title>රත්මලානේ ගෙවල් හතරක් මුහුදට බිලි වෙයි</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 සැප්තැම්බර් මස 05 15:53:05</date>
+    <body>රත්මලාන වෙඩි කන්දේ මුහුදු කාදනය දරුණු වීමත් සමඟ ලෑලි ගෙවල් ඇතුළු ගෙවල් හතරකට මුහුදු ජලය ඇතුළු වී ඇතැයිද, තවත් ගෙවල් අටක් අවදානම් තත්ත්වයේ පවතිනු ඇතැයිද පදිංචි කරුවෝ කියති.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-09-05 12:32:40</date>
+            <index>0</index>
+            <phrase>වෙරළේ සිට මීටර් 100 ඇතුලත ගෙවල් හදන්න එපා කියලා තිබෙනවා නේද. එහෙනම් දැන් පාඩුව විඳගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-09-05 13:04:22</date>
+            <index>1</index>
+            <phrase>ගෙවල් හදලා තියෙන්නෙත් මුහුදමනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-09-05 13:14:25</date>
+            <index>2</index>
+            <phrase>පවු අසරණ මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-09-05 16:02:43</date>
+            <index>3</index>
+            <phrase>බමුණුගේ අදහස ටිකක් දරුණුයි කියලා හිතෙන්නේ නැද්ද? මීටර් 100 නිතිය ආවේ සුනාමියෙන් පස්සේ. එ්ත් මේ ගෙවල් බොහෝ කල් ඉඳලා තිබුන ඒවා. මිනිසෙක් දුකට පත්වුණු වෙලාවකදිවත් ටිකක් සංවේදීව හිතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-09-06 04:29:43</date>
+            <index>4</index>
+            <phrase>අසෝකා එ්ත් මේ ගෙවල් බොහෝ කල් ඉඳලා තිබුන ඒවා වෙන්න බැහැ තිබුනානම් සුනාමියෙන් සිටිය මිනිස්සුත් ඉවරයි. කොහොම වුනත් සුනාමියෙන් ඉගෙනගත්ත පාඩම අමතක වෙලා වගේ. පවු අසරණ මිනිස්සු කියන්න මම සංවේදී වුනාට ප්‍රශ්නය විසදෙන්නේ නැත. සුලඟේ දිසාව වෙනස් වී මුහුදු ඛාදනය නැවතුන විට මේ අය නැවත ඔතනම ගෙයක් සාදා ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2016-09-06 19:17:23</date>
+            <index>5</index>
+            <phrase>බමුණු, ඔය ගෙවල් 1983 දීත් මම දැකලා තිබුනා. සුනාමියට මුහුද අද්දර හැම ගෙයක්ම කැඩුනේ නැහැ. ඔය කියනදේත් වැරදි නැහැ. නමුත් දුප්පත් මිනිසුන්ට ගෙයක් කැඩුනම තව ඉඩමක් ගන්න කවුද සල්ලි දෙන්නේ? අයිතිය තියෙන තැන හෙට ගහගෙන ගියත් ගේ හදනවා ඇර වෙන විකල්පයක් ඒ මිනිසුන්ට නැහැ. සල්ලි තියෙනවා නම් ඔහොම ගෙවල්වල ඉන්න කවුද කැමති වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

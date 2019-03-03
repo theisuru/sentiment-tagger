@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55261</articleId>
+    <title>කුළු හරකා මිනී මරයි</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 ජූලි මස 25 11:14:36</date>
+    <body>මඩකලපුවේ පෝරතිවු සිට යාල වනෝද්‍යානය මැදින් කතරගම එමින් සිටි වැසියකු යාල දෙවැනි කලාපයේදී කුළු හරක් පහරකින් මිය ගිය බව කතරගම වනජීවි නිලධරයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>නීෂ</author>
+            <date>2012-07-25 11:40:46</date>
+            <index>0</index>
+            <phrase>කොහෙද කොළොන්නාවේ කව්රුහරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2012-07-25 12:13:09</date>
+            <index>1</index>
+            <phrase>කකුලු 2 හරකෙක් කරලා කකුල් 4 හරකෙක්ගෙ පිට වරද පැටෙව්වද දන්නේ නෑ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2012-07-25 12:19:31</date>
+            <index>2</index>
+            <phrase>දියවන්නාව පැත්තෙද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ. සී. (අජිත්)</author>
+            <date>2012-07-25 12:40:50</date>
+            <index>3</index>
+            <phrase>ඇයි.. කුළු හරක් ටික මඩකලපු ගිහින්ද? බැරිවෙවිද උන්ව එහාටම කොටු කරන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-25 12:43:13</date>
+            <index>4</index>
+            <phrase>පව් ඒ මනුස්සයා , සමහරවිට ඉක්මන් ප්‍රතිකාරයක් දෙන්නත් බැරි වෙන්න ඇති‍‍‍.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2012-07-25 13:00:52</date>
+            <index>5</index>
+            <phrase>කාගේ චක්කෙක්ද මේ ?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-07-25 13:06:49</date>
+            <index>6</index>
+            <phrase>වන අඩවි හරහා යන විට බොහොම පරිස්සම් විය යුතුයි.....පව් අපරාදේ ජීවිතයක් විනාශ වුණේ..........(ස).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක, bahrain</author>
+            <date>2012-07-25 13:25:31</date>
+            <index>7</index>
+            <phrase>කුළුහරකට දැන් මතක නෑ කියන්නේ ඒ මනුස්සයාට පහර දුන් බවක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කට්ටාඩිය</author>
+            <date>2012-07-25 14:04:15</date>
+            <index>8</index>
+            <phrase>ගරා යක්කුන්ගේ වැඩක්ද කොහෙද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2012-07-25 14:13:09</date>
+            <index>9</index>
+            <phrase>මිනිසුන් ලෙස ඉන්න හරක් මිනිස්සුන් මරද්දි ඇත්ත හරක්ටත් තරහ යනවා ඇති....!!!!.(ස).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියලත්</author>
+            <date>2012-07-25 14:35:06</date>
+            <index>10</index>
+            <phrase>මගිය, ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියලත්</author>
+            <date>2012-07-25 15:48:22</date>
+            <index>11</index>
+            <phrase>ඔබට නිවන් සුව...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුප්රා</author>
+            <date>2012-07-25 15:50:27</date>
+            <index>12</index>
+            <phrase>මිනිස්සු මිනී මරා ගන්න විදියට මේවා එච්චර දේවල් නෙමෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2012-07-25 20:04:27</date>
+            <index>13</index>
+            <phrase>මේ කුළු හරකුන් පුනරුත්තාපනය කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-07-26 08:30:57</date>
+            <index>14</index>
+            <phrase>දැන් ඌටත් කරපු දේවල් මතක නැද්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

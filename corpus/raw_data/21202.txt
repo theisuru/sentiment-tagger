@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21202</articleId>
+    <title>හෝටල ඝාතනයේ හය වැනියාත් රිමාන්ඩ්</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජනවාරි මස 09 14:54:45</date>
+    <body>තංගල්ල මැඩිල්ලේ සංචාරක හෝටලයදී බ්‍රිතාන්‍ය වැසියකු මරා රුසියා ජාතික පෙම්වතියකට තුවාල කළැයි කියන පිරිස ආ වෑන්රියේ රියැදුරා හා හිමිකරු වන ජාතික නිවාස සංවර්ධන අධිකාරියේ ක්ෂේත්‍ර නිලධාරි පියදාස රත්නායක වීරකෝන් යළි රිමාන්ඩ් කරන ලෙස තංගල්ල මහේස්ත්‍රාත් යුරේකා ද සිල්වා මෙනෙවිය නියෝග කළාය. තංගල්ල ප්‍රදේශීය සභාපති සම්පත් චන්ද්‍ර පුෂ්ප විදානපතිරණ ඇතුළු තව පස්දෙනෙක් මීට කලින් රිමාන්ඩ් කරනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>Lesly - Oman</author>
+            <date>2012-01-09 16:05:51</date>
+            <index>0</index>
+            <phrase>දෙන්ඩ දෙන්ඩ තව දෙන්ඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගා</author>
+            <date>2012-01-09 17:30:09</date>
+            <index>1</index>
+            <phrase>කාන්තාවකට කිසිසේත් බලපෑමක් කළ නොහැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-01-09 19:42:09</date>
+            <index>2</index>
+            <phrase>ලංකාවේ බුදුදහම නොතිබුණා නම් බොහොම හොදයි. මේ වගේ අපරාධ කරන සමහරක් දේශපාලන, නිලයේ හයිය අරන් නීතියේ අඩු පඩු තමයි මේ හැමදේටම මුල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

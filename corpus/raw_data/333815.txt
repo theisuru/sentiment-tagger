@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>333815</articleId>
+    <title>ජනපති විරෝධය බණ්ඩාරගමින් මතුවෙයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2015 ජූලි මස 19 15:23:23</date>
+    <body>මෛත්‍රිපාල සිරිසේන ජනපතිගේ විශේෂ ප්‍රකාශයෙන් එක්සත් ජනතා නිදහස් සන්ධානයේ කුරුණෑගල කණ්ඩායම් නායක මහින්ද රාජපක්ෂ මහතාට අසාධාරණ ලෙස පහර ගැසීයැයි කියමින් බණ්ඩාරගම ශ්‍රී ලංකා නිදහස් පක්ෂ සංවිධායක නිමල් චන්ද්‍රරත්න මහතා සමග පිරිසක් අද (19) ඔහුගේ කාර්යාලයේ සිට කෑ කෝ ගසමින් නගරයේ මෛත්‍රී ශාලාවට පැමිණියහ.</body>
+    <comments>
+        <comment>
+            <author>මෙල්</author>
+            <date>2015-07-19 22:08:44</date>
+            <index>0</index>
+            <phrase>නියම ප්‍රතිචාරයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2015-07-19 23:05:38</date>
+            <index>1</index>
+            <phrase>මේක තේරෙන්නේ නැද්ද? මහින්ද එදා දිනුවා නම් අද මොනවා වෙලා තියෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

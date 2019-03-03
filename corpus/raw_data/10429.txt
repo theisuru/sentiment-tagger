@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>10429</articleId>
+    <title>විදුහල්පතිට අංකල් කියූ කළුකණ්ණාඩිකාරයන්ට සිසුවියකගෙන් පාඩමක්</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2011 ඔක්තෝබර් මස 24 16:38:20</date>
+    <body>මහවැලි ගොවි ජනපදය ආශි‍්‍රත පැරැණි ගම්මාන පාසලකි. රාජ්‍ය නොවන සංවිධානයකට අයත් ජීප් රථයකින් පැමිණි නිලධාරීන් දෙදෙනකු හා නිලධාරිනියක පාසලේ ගෙමිදුලටම පැමිණ ඉන් බැස්සේ කළු කණ්ණාඩි පැළඳගෙනය.
+මිදුලේ අඹගසක් යට කොළ අහුලමින් මිදුල පිරිසුදු කරන පුද්ගලයකු දුටු ඔවුන් ”අංකල් පි‍්‍රන්සිපල් ඉන්නවාද” යි ඇසීය. ඔව් ඇති කී ඔහු කාර්යාලය පෙන්වීය.
+ඔවුහු කාර්යාලයට ගියහ. මොහොතකින් එහි පැමිණි විදුහල්පතිවරයා පුටුවේ වාඩිවූ විට පැමිණ සිටි කාන්තාවට ”මයි ගෝඞ්” කියැවිණ. ඒ මීට පෙර මිදුලේ සිටියේ ඔහු හෙයිනි. අනතුරුව තිදෙනාම ඉංගී‍්‍රසි බසින් කතා කළේ මොහු එහි සේවකයකු වන්නට ඇතැයි කලින් හිතූ බව පවසමිනි.
+මේ පාසලට ඉංගී‍්‍රසි ගුරුවරයකු ලෙස පැමිණ දැනට විදුහල්පතිවරයකු වූ ඔහුද වියත් ඉංගී‍්‍රසි බසින් කතාවට එක්වීම නිසා ඔවුහු නැවත විමතියට පත්වූහ. ඒ සමඟම කාර්යාලයට ආ සිසුවියක් තම පන්තියේ විෂයට අදාළ ගුරුවරයා නොපැමිණි නිසා වෙනත් ගුරුවරයකු එවන ලෙස ඉංගී‍්‍රසි බසින්ම කී කතාව ඇසූ ඔවුන්ට නැවත වරක් තරු පෙනුණාලූ.</body>
+    <comments>
+        <comment>
+            <author>රංසිකා</author>
+            <date>2012-06-15 13:11:13</date>
+            <index>0</index>
+            <phrase>නියමයි සර්. නියමයි නංගි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-06-15 14:00:24</date>
+            <index>1</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරින්</author>
+            <date>2012-09-03 08:38:41</date>
+            <index>2</index>
+            <phrase>ඔහොමතමයි වෙන්න ඕන..ශා නියම වැඩක්‍‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝෂි</author>
+            <date>2012-10-27 13:07:19</date>
+            <index>3</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-04-08 08:14:28</date>
+            <index>4</index>
+            <phrase>අද කාලේ විදුහල්පතිවරුන් 1000 ක් අතුරින් සොයාගත නොහැකි, හැදිච්ච දෙමව්පියන්ගේ ,ලංකාවට ඉතාමත් වටිනා පුරවැසියෙක් මෙන්ම හොද විදුහල්පතිවරයෙක්. ආශිර්වාද කරනවා බුදු සරණින් සිතන පතන හැමදේම ඉටුවෙන්න කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ති</author>
+            <date>2013-10-05 23:49:35</date>
+            <index>5</index>
+            <phrase>බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2015-04-08 00:17:11</date>
+            <index>6</index>
+            <phrase>අද ලංකාවේ වැඩිපුරම ඉන්නේ කළු සුද්දොනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසල් රත්නායක</author>
+            <date>2015-04-08 00:19:08</date>
+            <index>7</index>
+            <phrase>මේක නම් නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

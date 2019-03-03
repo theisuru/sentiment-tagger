@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>445310</articleId>
+    <title>පාකිස්තාන් රෝහල් බෝම්බයට 53ක් බිලි</title>
+    <author></author>
+    <date>2016 අගෝස්තු මස 08 14:24:26</date>
+    <body>නිරිතදිග පාකිස්තානයේ ක්වෙටා හි රෝහලකට එල්ල වූ මරාගෙන මැරෙන ප්‍රහාරයකින් පුද්ගලයින් 53 දෙනකු මියගොස් ඇතැයි එරට ප්‍රවෘත්ති සේවා පවසයි.
+වෙඩි ප්‍රහාරකින් තුවාල ලැබූ නීතිඥවරයකු රෝහලට රැගෙන එද්දී රෝහලේ හදිසි දොරටුව අසලදී එල්ල වූ මෙම ප්‍රහාරයෙන් තවත් නීතිඥවරුන්ද මාධ්‍යවේදීන් කීපදෙනකුම මියගිය අය අතර වෙතියි එරට පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-08 14:17:54</date>
+            <index>0</index>
+            <phrase>අද මිනිස්සු තිරිසන්නු වගේ හැසිරෙන්නේ.ජිවිතයට කිසිම වටිනාකමක් නොදෙන මහා භායනක වනචාරි ලෝකයක් මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානිස්</author>
+            <date>2016-08-09 11:28:36</date>
+            <index>1</index>
+            <phrase>මේ මරන්න්නේ තමාගේම සහෝදරයෝ නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-08-09 12:04:25</date>
+            <index>2</index>
+            <phrase>මේ තමා සාමකාමී ඉස්ලාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අක්‍රම්</author>
+            <date>2016-08-09 15:31:38</date>
+            <index>3</index>
+            <phrase>පකිස්තානුවන් මේගැන කියන්නේ මෙවැනි ප්‍රහාර ඉන්දියා ඔත්තු සේවයේ කුමන්ත්‍රණ බව ! මොකද පකිස්තානය හරිම දුප්පත් රටක් නිසාත් මත් ද්‍රව්‍ය වලට ඇබ්බැහි වෙච්ච කට්ටිය වැඩි නිසාත් එහි සල්ලිවලට බෝම්බ තියන්න මිනී මරන්න ඕන තරම් මිනිස්සු ඉන්නවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-10 14:03:51</date>
+            <index>4</index>
+            <phrase>ඇමෙරිකාව ඇෆ්ඝනිස්තානයට පහර දෙන්න මුල් අඩිය තියාගත්තේ නිරිතදිග පකිස්තානයෙයි. මේ ඇමෙරිකාව බලාපොරොත්තු වුණ තවත් අතුරුපලයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2016-08-11 06:43:09</date>
+            <index>5</index>
+            <phrase>කණගාටුදායක පුවතක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

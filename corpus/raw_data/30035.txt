@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30035</articleId>
+    <title>ජිනා මැඩම්ගේ දිවි සමටත් නඩු</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මාර්තු මස 05 18:39:06</date>
+    <body>කොල්ලුපිටියේ සාප්පු සංකිර්ණයක අනවසර දිවිසමක් ලග තබා ගතබව කියන
+රෝස්මේරි ෆිලිෂියා පෙරේරා  හෙවත් ජිනා මැඩම්ට එරෙහි නඩුව මැයි හතර වෙනිදාට කල් ගියේය
+කොළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා ඉදිරියේ ඩඩුව කැදවූවත් පරීක්ෂක නිලධාරියා නොපැමිණිම ඊට හේතුවයි</body>
+    <comments>
+        <comment>
+            <author>මාලා</author>
+            <date>2012-03-05 18:54:28</date>
+            <index>0</index>
+            <phrase>එතකොට දිවය මරවල හම විකුනපු ඇමතියට නඩු නෑ. ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2012-03-06 09:35:02</date>
+            <index>1</index>
+            <phrase>නොපැමිණීමට හේතුව මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

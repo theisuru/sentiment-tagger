@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>354029</articleId>
+    <title>ඉන්දියාවේ පොත් එළිදැක්වීමකට තීන්ත ප්‍රහාරයක්</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 ඔක්තෝබර් මස 13 09:30:34</date>
+    <body>පාකිස්තාන හිටපු විදේශ ඇමැතිවරයකු වූ කර්දිෂ් මොහොමඩ් කසූරී රචනා කළ ග්‍රන්ථයක් ඉන්දියාවේ මුම්බායි නුවරදී එළිදැක්වීමේ අවස්ථාවේදී අන්තවාදී සිව්සේනා කණ්ඩායම කළු තීන්ත ප්‍රහාරයක් එල්ල කළේය.
+‘නයිදර් අ හෝක් නෝ අ ඩෝව්‘ නමැති එම ග්‍රන්ථයෙන් ඉන්දියාවට දැඩි අපහාසයක් වන බව සිව්සේනා මතයයි. 
+ඉන්දියාවේ භාරතීය ජනතා පක්ෂයේ සාමාජිකයකු වන සුදීර්ද්‍ර කුල්කර්ණිට එම ග්‍රන්ථය එළිදැක්වීමේ කටයුතු සංවිධානය කරමින් සිටි අවස්ථාවේදී තීන්ත ප්‍රහාරය එල්ලවී ඇත.
+ඉන්දියාවේ අභ්‍යන්තර කටයුතු අමාත්‍ය ෆඩ්නවි ප්‍රකාශ කළේ ප්‍රහාරය සම්බන්ධයෙන් අප්‍රසාදය පළ කරන බවයි. ඇතැමුන්ගේ මතය සම්බන්ධයෙන් තමන් එකඟ නොවන බවත් විදේශයක සිට උසස් නිලධාරියකු නීත්‍යනුකූලව වීසා ලබාගෙන ඉන්දියාවට පැමිණ එවැනි වැඩසටහනක් සංවිධානය කිරීමේදී ආරක්ෂාව සැලසීම රජයේ වගකීමක් බවද ඔහු අවධාරණය කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2015-10-13 05:18:13</date>
+            <index>0</index>
+            <phrase>නින්දා ප්‍රශංසා සියල්ල විඳදරා ගතයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිවංක</author>
+            <date>2015-10-14 01:06:14</date>
+            <index>1</index>
+            <phrase>ඕක දැන් සාමාන්‍ය දෙයක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල් මාගෙදරගමගේ</author>
+            <date>2015-10-14 03:03:29</date>
+            <index>2</index>
+            <phrase>පොතට ලොව පුරාම ඉල්ලුම වැඩිවෙන වැඩක් සිද්ධවෙලා තියෙන්නේ. මාත් ගන්න හොයන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නස්රී</author>
+            <date>2015-10-14 08:08:39</date>
+            <index>3</index>
+            <phrase>සිව්සේනා කියන අන්තවාදී සංවිධානය දැන් ඉන්දියාවට මහා කැළලක්. ඒ වගේ තමයි අපේ රටෙත් ඉන්න සේනා නිසා අපේ රටට කැළලක් වුණේ(අ) .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2015-10-14 09:51:22</date>
+            <index>4</index>
+            <phrase>ලංකාවෙත් පහුගිය කාලේ මේ වගේ සේනාවක් තිබුනා දැන් නම් ඒකට අබ සරණයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2015-10-14 13:57:45</date>
+            <index>5</index>
+            <phrase>නස්රී, ඔයා කියන එක සහතික ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-10-15 12:14:53</date>
+            <index>6</index>
+            <phrase>අන්තවාදී යන යෙදුම එකිනෙකාට සාපේක්ෂව දැනෙන දෙයකි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

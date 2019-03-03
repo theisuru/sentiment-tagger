@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>444544</articleId>
+    <title>අබුසාලිගේ මල්ලි මරාදාලා</title>
+    <author>ප්‍රින්ස් රත්නායක අජිත් ලාල් ශාන්තඋදය</author>
+    <date>2016 අගෝස්තු මස 05 11:20:45</date>
+    <body>එක්සත් ජාතික පක්ෂයේ හිටපු අමාත්‍යවරයකු වූ මියගිය එම්.එල්.එම්.අබුසාලි මහතාගේ බාල ස‍හෝදරයකු වූ එම්.එල්.එම්.සලීම් මහතා බලන්ගොඩ නිවසේ දී ඝාතනයට ලක්ව ඇතැයි පොලිසිය කියයි.
+සලීම් මහතා තනිව සිය නිවසේ ජීවත්ව ඇතැයි පවසන අතර කිසියම් පුද්ගලයෙක් හෝ කණ්ඩායමක් 3 වැනිදා රාත්‍රියේ ඔහු කපාකොට ඝාතනය කර ඇතැයි පොලිසිය සැක පහළ කරයි.</body>
+    <comments>
+        <comment>
+            <author>විරාජ් ඒකනායක</author>
+            <date>2016-08-05 07:50:23</date>
+            <index>0</index>
+            <phrase>අබුසාලි තමයි කුරගල බෞද්ධ නටබුන් විනාශ කරලා පල්ලියක් හැදුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-08-05 08:37:11</date>
+            <index>1</index>
+            <phrase>ඉස්සර චිකාගෝ තමයි මැර වැඩ වලට ලෝක ප්‍රසිද්ධ. දැන් එතනට අපේ අය ඇවිල්ල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2016-08-05 18:46:00</date>
+            <index>2</index>
+            <phrase>මොනවා වුණත් මිනිස් ගාතන බුදු දහමට කවදාවත් එකඟවන්නේ නැහැ. මේවා පාපකාරී ක්‍රියාවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-08-06 00:19:58</date>
+            <index>3</index>
+            <phrase>චන්න, ඒ නිසා තමයි ලංකාව ඇමෙරිකාව වගේ දියුණුයි කියන්නේ සමහර අය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

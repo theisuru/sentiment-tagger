@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>362795</articleId>
+    <title>නවසීලන්ත ජාතික කොඩියට ජනමතවිචාරණයක්</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 නොවැම්බර් මස 20 13:27:49</date>
+    <body>නවසීලන්ත රජයට නව ජාතික කොඩියක් තෝරා ගැනිම සදහා ජනමතවිචාරණයක් මේ දිනවල පැවැත්වෙයි.නව ජාතික කොඩි නිර්මාණය කිරීමට පසුගිය දා තරඟයක් පැවැත්විණි. ඉන් තෝරාගත් නිර්මාණ පහක් ජනමතවිචාරණයට ඉදිරිපත් කර ඇත.
+තම රටට සුදුසු ජාතික කොඩිය තෝරාගැනීමට මනාපය දීමේ අවස්ථාව එරට වැසියන්ට මාසයක කාලයක් පුරා හිමිව තිබේ. අගමැති ජෝන් කේ පවසන්නේ දැන් පවතින ජාතික ධජය නවසීලන්තයේ වර්තමාන ස්වරූපය නියෝජනය නොකරන බවයි. එය ඕස්ට්‍රේලියා ජාතික කොඩියට බොහෝ සමාන කොඩියකි.
+දැන් පැවැත්වෙන ජනමතවිචාරණයෙන් වැඩි කැමැත්ත ඇති කොඩියක් තෝරාගත්ත ද එය රටේ ජාතික කොඩිය ලෙස පිළිගන්නවා ද නැද්ද යන්න තීරණය කිරීමට යළිත් ජනමතවිචාරණයක් පවත්වන බව නවසීලන්ත රජය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>නාමලී</author>
+            <date>2015-11-20 11:06:51</date>
+            <index>0</index>
+            <phrase>ප්‍රජාතත්ත්‍රවාදී රටක්. අපේ රටටත් හොඳ ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික ගම්පහ</author>
+            <date>2015-11-20 13:12:10</date>
+            <index>1</index>
+            <phrase>ප්‍රජාතත්ත්‍රවාදී රටක් කියලා එයාලා කරන හැමදෙයක්ම අපේ රටට ආදර්ශයක් වෙන්නේ නැහැ. අපිට ජාතික කොඩි තිබුනේ වසර දහස් ගණනකටත් පෙර සිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2015-11-20 15:33:12</date>
+            <index>2</index>
+            <phrase>බොහොම හොඳ අදහස් විමසීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2015-11-20 16:59:00</date>
+            <index>3</index>
+            <phrase>මේ යන විදියෙන් පෙනෙන්නේ අපේ කොඩියත් වෙනස්වෙන තැනට වැඩ සිද්ධවෙනවා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යාපා</author>
+            <date>2015-11-20 18:49:57</date>
+            <index>4</index>
+            <phrase>හොඳ ක්‍රමයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමාක්</author>
+            <date>2015-11-21 01:45:43</date>
+            <index>5</index>
+            <phrase>මෙහෙම කළ එක ඉතා හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැණික්</author>
+            <date>2015-11-21 01:49:13</date>
+            <index>6</index>
+            <phrase>නවසීලන්තය සාමකාමී රටක්. ජනතාවගේ මතයට ගරුකරන රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

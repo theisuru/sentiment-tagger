@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7279</articleId>
+    <title>වෛද්‍ය සභාවේ ලේඛකාධිකාරීට පොලු ප‍්‍රහාරයක්</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2011 ඔක්තෝබර් මස 04 21:14:59</date>
+    <body>ශ‍්‍රී ලංකා වෙද්‍ය සභාවේ ලේඛකධිකාරී දොස්තර එන් ජේ නෝනිස් මහතා පොලු ප‍්‍රහාරයකට ලක්වූ බව රාවතාවත්ත පොලීසිය කියයි. සවස හතට පමණ සිය කාරයෙන් බසිද්දී නිවස අසලදී ඔහුට පහර දුන් නාදුනන පුද්ගලයා පලාගොස් ඇතැයිද වාර්තා විය</body>
+    <comments>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2011-10-05 09:16:26</date>
+            <index>0</index>
+            <phrase>ශිෂ්ඨ සමාජයකට මෙවැනි දේ කිසිසේත් පිලිගත කොහැකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>w.c.මානෙල්</author>
+            <date>2011-10-05 09:35:38</date>
+            <index>1</index>
+            <phrase>මේ වෙලාවේ උද්ඝෝෂණ වලට පහර දෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඕෂධී</author>
+            <date>2011-10-05 10:19:29</date>
+            <index>2</index>
+            <phrase>නීතිය ක්‍රියාත්මක වෙලා නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2011-10-05 10:34:02</date>
+            <index>3</index>
+            <phrase>ජේ. ආර්.ගෙ වැඩ මෙයා පටන් අරගෙන වගේ! මේ වගේ නොහික්මුණු වැඩවලින් වෙන්නේ ජන මතයත් වෛද්‍ය සභාවට හැරෙන එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Uman</author>
+            <date>2011-10-05 10:55:09</date>
+            <index>4</index>
+            <phrase>නැතිවෙච්ච පුද්ගලික ලිපිගොනුවත් එක්ක මෙයාගේ සම්බන්ධයක් තියනව වගේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2011-10-05 12:43:19</date>
+            <index>5</index>
+            <phrase>මරු වැඩේ අනේ සාදු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිරා</author>
+            <date>2016-04-08 11:51:08</date>
+            <index>6</index>
+            <phrase>අර ජනමාධ්‍යවේදියෙකුට පාර්ට් දාපු ගුටිකන මුහුණාගේ සංගමයේ කට්ටියගේ ඇඩ්‍රස් දන්නවනම් කවුරු හරි මේ මහත්වරුන්ට ලැබෙන්න සලස්වන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාලෝ ෆොන්සේකා</author>
+            <date>2016-04-08 12:03:32</date>
+            <index>7</index>
+            <phrase>ඉන්දියාවේ මැලේරියා ලෙඩෙක් වත් ද දන්නේ නැහැ .අපේ දත් දොස්තරලා මැලේරියා රෝගියෙකුට ප්‍රතිකාර කරලා හොද වෙලා වෛද්‍ය විද්‍යාව ලංකාවෙන්ම ඉගෙන ගන්න යනවලු නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

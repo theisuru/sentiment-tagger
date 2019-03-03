@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>479628</articleId>
+    <title>යාපනය ගඳ ගසයි : සතියක කුණු එකතු වෙයි</title>
+    <author>රොමේෂ් මධූෂංඛ</author>
+    <date>2016 නොවැම්බර් මස 14 10:33:21</date>
+    <body>යාපනය නගර සභාවේ අනියම් සේවකයින් ස්ථීර කරන ලෙස ඉල්ලමින් සිදුකරන වැඩ වර්ජනය අද (14) අට වැනි දිනටත් ක්‍රියාත්මක වුවද මේ දක්වා  විසඳුමක් නොලැබුණු බව ඔවුහු පවසති.
+යාපනයේ කැළි කසල බොහෝ සෙයින් එක්ව ඇති බවත් බස්නැවතුම්පල හා ප්‍රධාන වෙළඳපොළවල් ආශ්‍රීතව දැඩි දුර්ගන්ධයක් හටගෙන ඇති බවත් ප්‍රදේශවාසීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-11-14 09:25:06</date>
+            <index>0</index>
+            <phrase>මේක ආවා කල්ලියේ වැඩක්. රජයට පාලනය කළ නොහැක. ජාත්‍යන්තර හමුදාවක් මැදිහත් වෙන්න වේවී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගගන</author>
+            <date>2016-11-14 15:56:42</date>
+            <index>1</index>
+            <phrase>හිලරි ප්‍රශ්නය විසඳාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-14 23:15:46</date>
+            <index>2</index>
+            <phrase>කුණු නැති විටකදී වුව ජාතිවාදී දේශපාලනය නිසා මේ පැත්තෙන් නිතර කුණු ගඳක් දැනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොඩ්නි</author>
+            <date>2016-11-15 00:02:51</date>
+            <index>3</index>
+            <phrase>පළාත් සභාව මොනවාද කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙන්ඩිස්</author>
+            <date>2016-11-15 01:12:20</date>
+            <index>4</index>
+            <phrase>ලංකාව ගඳ ගස්සනවා හැර වෙන දෙයක් ඒගොල්ලන්ට කරන්න දන්නේ නැහැ වගේ. බස් නැවතුම් වල පෝස්ටර් පිරිලා. ඉන්න තැනට ස්තුතිවන්ත වෙලා ජීවත්වෙන්න දන්නේ නැති අය. ජාතික ගීයට දෙමළ එකතු වුණත් නැතත් මේ මිනිසුන්ට ලංකාව ගැන කැක්කුමක් නැහැ. මොකද කියනවා නම් ලංකාවේ ඉතිහාසය සිංහල සහ බුද්ධාගම මත පදනම් වෙලා තියෙන නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-11-15 12:23:12</date>
+            <index>5</index>
+            <phrase>ඔය ගඳ පිටවෙන්නෙ මහ ඇමතිතුමාගෙ කටින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

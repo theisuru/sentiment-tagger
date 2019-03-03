@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21346</articleId>
+    <title>ගැහැනියක පොලිසියේදී ‘හිස ගලේ ගසාගනී‘</title>
+    <author>නයනජිව බණ්ඩාර</author>
+    <date>2012 ජනවාරි මස 10 10:47:10</date>
+    <body>බාල වයස්කාර දැරියකට අඩන්තේට්ටම් කළැයි සියඹලාන්ඩුව මුතුකණ්ඩියේ කතකට එරෙහි පැමිණිල්ලක් විභාග කරමින් සිටියදී ඇය කාන්තා පොලිස් කොස්තාපල් මහේෂාට පහරදී මුහුනටද කෙළ ගසා ඇතැයි සියඹලාන්ඩුව පොලිසිය කියයි. එවෙලේම අත්අඩංගුවට ගත් කත මොණරාගල මහේස්ත‍්‍රාත් වෙත ඉදිරිපත් කිරීමට නියමිතව සිටියාය.</body>
+    <comments>
+        <comment>
+            <author>නීල් කොබේගනේ</author>
+            <date>2012-01-10 11:20:43</date>
+            <index>0</index>
+            <phrase>ගෑනුන්ගේ හැටි ඔහොම තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-10 14:16:21</date>
+            <index>1</index>
+            <phrase>හැඳිමිටේ කතාව සාධාරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් හේවා</author>
+            <date>2012-01-10 15:23:16</date>
+            <index>2</index>
+            <phrase>දැඩි දඬුවම් පමුණුව යුතුයි. රාජකාරිය විභාගයට ආ වෙලාවේ ඔහෝම නම් හිතා ගන්න පුළුවන් කරපු අඩම් තේට්ටම් ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2012-01-10 16:12:56</date>
+            <index>3</index>
+            <phrase>ලංකාවෙ මිනිස්සුන්ගේ විනය අන්තිම අඩියට වැටිලා තියෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-01-10 16:20:44</date>
+            <index>4</index>
+            <phrase>ළමා හිංසනයට උපරිම දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆනෑන්ඩු</author>
+            <date>2012-01-10 17:19:44</date>
+            <index>5</index>
+            <phrase>උපරිම දඩුවම් දියයුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ranga</author>
+            <date>2012-01-10 18:56:08</date>
+            <index>6</index>
+            <phrase>දැඩි දඬුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එච්.සී. නානායක්කාර</author>
+            <date>2012-01-13 12:54:07</date>
+            <index>7</index>
+            <phrase>අමතක නොවෙන පාඩමක් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-01-15 22:55:25</date>
+            <index>8</index>
+            <phrase>ගැහැණු වැරැද්ද පිළිගන්න කැමති නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිනී තිලකසිරි</author>
+            <date>2012-01-17 10:08:42</date>
+            <index>9</index>
+            <phrase>ගැහැණු ඇයි ඔච්චර මෝඩ. දඩුවම් දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

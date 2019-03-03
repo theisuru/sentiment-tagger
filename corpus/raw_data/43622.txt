@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43622</articleId>
+    <title>සුදු කොඩි ඇපෑලත් අස්කර ගනී</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 මැයි මස 21 14:21:34</date>
+    <body>හිටපු යුද හමුදාපති සරත් ෆොන්සේකාගේ ඇපෑල් පෙත්සම් දෙක ඉවත් කැර ගැනීමට ශ්‍රේෂ්ඨාධිකරණයේ පංච පුද්ගල විනිසුරු මඩුල්ලක් අද අවසර දුන්නේය. ශිරානි බණ්ඩාරනායක අගවිනිසුරුවරියගේ ප්‍රධානත්වයෙන් අධිකරණය රැස්විය.
+පෙත්සම ඉල්ලා අස්කර ගැනීමට අවශ්‍ය බව ෆොන්සේකාගේ නීතීඥවරුන් අධිකරණයට දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>අලවුදීන්</author>
+            <date>2012-05-21 21:47:51</date>
+            <index>0</index>
+            <phrase>ඔබට ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාංකිකයා</author>
+            <date>2012-05-22 06:29:22</date>
+            <index>1</index>
+            <phrase>හූ... හූ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

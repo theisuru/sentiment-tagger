@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499408</articleId>
+    <title>ෆයිබර් කම්හලක ගින්නකින් මාතර කළු දුමෙන් වැසෙයි</title>
+    <author>ක්‍රිෂාන් ජිවක ජයරුක්</author>
+    <date>2017 ජනවාරි මස 18 11:05:33</date>
+    <body>මාතර නගරයේ ෆයිබර් නිෂ්පාදනාගාර කම්හලක අද (18) ගින්නක් හටගෙන ඇතැයි පොලිසිය පවසයි.
+මාතර  නගර  සභාවේ ගිනි නිවන ඒකකය පැයක කාලයක් ඇතුලත ගින්න නිවා දමා ඇත.
+කම්හල පිටුපස තිබු ෆයිබර් අච්චු, අබලි ද්‍රව්‍ය  ගිනි ගෙන ඇති බව පවසයි.
+  </body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-18 06:42:44</date>
+            <index>0</index>
+            <phrase>කර්මාන්තශාලා හදනකොට ජන ජීවිතය ගැනත් සිතිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-01-18 08:49:39</date>
+            <index>1</index>
+            <phrase>දැන් තත්ත්වයේ හැටියට කර්මාන්ත ශාලා ඇත්නම් අසළ නිවෙස් වලින් ඉවත්ව යායුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2017-01-18 09:27:54</date>
+            <index>2</index>
+            <phrase>රටේ කර්මාන්තශාලා පිරිලා කියන්නේ. ආර්ථිකය ඉතා උසස්. ජීවත්වෙන්න ඕනෑ නම් වෙන කොහේහරි යන්නයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2017-01-18 10:46:14</date>
+            <index>3</index>
+            <phrase>ප්‍රශ්න ප්‍රශ්න නිමක් නැති ප්‍රශ්න!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2017-01-18 11:39:58</date>
+            <index>4</index>
+            <phrase>නිසි ප්‍රමිතියකින් යුතුව මේවා පවත්වාගෙන යන්න ඕනෑ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2017-01-19 09:48:13</date>
+            <index>5</index>
+            <phrase>පරිසර දුෂ්‍ය කරලා ලෝකෙම දුෂණය කරනවා ඒ උන්ට කියන්නේ නම් වැඩ බැරි වුනත් ගම ගාල්ලේ කියලනේ එහෙම නෙමේ කියන්න වෙන්නේ දැන් වැඩත් බෑ ගමත් ගාල්ල කියලය්යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

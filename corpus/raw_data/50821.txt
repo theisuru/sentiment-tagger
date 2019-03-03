@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50821</articleId>
+    <title>නාන කාමරේ පින්තූර ගන්න ගිහින් පොලු පාර කයි</title>
+    <author>සුරංජිත් පෙරේරා</author>
+    <date>2012 ජූනි මස 29 16:04:13</date>
+    <body>නාන කාමරයක නාමින් සිටි තරුණියකගේ දර්ශන කවුළුවකින් රූගත කළ තරුණයකුට පොලු පහරදී තුවාල  කළැයි තරුණියගේ පියා ගල්කිස්ස පොලීසිය විසින් සැකපිට අත්අඩංගුවට ගනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-29 16:05:56</date>
+            <index>0</index>
+            <phrase>පොලුපාර දීලා මදි.නිරුවතින් ගම පුරා ඇවිද්දවන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලි ජෙමා</author>
+            <date>2012-06-29 16:52:11</date>
+            <index>1</index>
+            <phrase>පොලු පාර දෙන්න තිබුණේ මොකටද දන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-06-29 16:19:15</date>
+            <index>2</index>
+            <phrase>ගහන්නේ නැතුව පොලිසියට කිවුවත් කියන්නේ ඒ මනුස්සයාව අල්ලගෙන එන්න කියලා.ඉතිං ගහපු එකේ කිසි වැරැද්දක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු මල්ලී</author>
+            <date>2012-06-29 17:00:47</date>
+            <index>3</index>
+            <phrase>පියා අත්අඩංගුවට ගන්න කරපු වරද මොකද්ද? ගහන්නෙ නැතුව බලන් ඉන්නද කියන්නේ. වරද කරපු එකා නෙවෙයිද අත්අඩංගුවට ගන්න ඕන? මාර නීතියක්නෙ... අපරාධ වැඩි ඒකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-06-29 16:24:31</date>
+            <index>4</index>
+            <phrase>නියම තාත්තෙක්.පොලු පහර දුන්නේ කොහාටද කියලවත් අඩු ගාණේ සදහන් කළානම්........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්ලි ෆෛසල්</author>
+            <date>2012-06-29 16:38:22</date>
+            <index>5</index>
+            <phrase>අනේ පව් පොඩි එකාගේ ආසාව නේ...එකේ ඇති වැරද්දක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-06-29 16:52:23</date>
+            <index>6</index>
+            <phrase>මේ මනුස්සයාව නිදහස් කරලා දාන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-06-29 16:53:00</date>
+            <index>7</index>
+            <phrase>අපරාදේ කොල්ලගෙත් වීඩියෝ එකක් අරන් අන්තර්ජාලෙට දාන්නනේ තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-06-29 17:36:45</date>
+            <index>8</index>
+            <phrase>අනේ පව් වයස වැරද්දක් ඒ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-29 17:38:51</date>
+            <index>9</index>
+            <phrase>යකෝ,තමන්ගේ ගෙදෙට්ට ඇවිල්ලවත් තමන්ට මුකුත් කරන්න බැරි නම් ගෙදෙට්ට ඇවිත් වෙඩි තියලා ගියත් ඉතිං එච්චරනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-29 17:00:33</date>
+            <index>10</index>
+            <phrase>මේක යකාගේ නීතියක්නේ.මරු පොලිසිය.තමන්ගේ ගෙදෙට්ට ඇවිත් මරලා යනකල් බලන් ඉන්නයි වෙන්නේ දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-06-29 17:01:50</date>
+            <index>11</index>
+            <phrase>පොලිසියට වැරදිලාද තාත්තව අත්අඩංගුවට අරන් තියෙන්නේ.පින්තූර ගත්ත එකාව උල තියන්නයි වටින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද වික්‍රමසිංහ</author>
+            <date>2012-06-29 17:48:16</date>
+            <index>12</index>
+            <phrase>පොලිසියට එක්ක ගෙන යන්න ඔන් පොටෝ ගන්න ආපු කෙනානෙ.. දැං තාත්ත පොලිසියෙ ඉන්න ටිකේ මෙයා ආයෙ එයි වීඩියෝ කරන්නත් එක්ක..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රොපෙසර් වී</author>
+            <date>2012-06-29 17:21:22</date>
+            <index>13</index>
+            <phrase>එතකොට වීඩියෝ කරලු කෙ‍නා එළියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලි ජෙමා</author>
+            <date>2012-06-29 17:31:34</date>
+            <index>14</index>
+            <phrase>යකෝ මාර රටක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයන බණ්ඩාර</author>
+            <date>2012-06-29 18:11:50</date>
+            <index>15</index>
+            <phrase>තරුණයට දෙන දඩුවම මොකක්ද ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලි ජෙමා</author>
+            <date>2012-06-29 17:33:50</date>
+            <index>16</index>
+            <phrase>අත්අඩංගුවට ගත් ඒ කොල්ලව නිරුවත් කරලා පත්තරේ පින්තූරෙ දැම්මනම් හොද මතක හිටින දඩුවමක් වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාසමයම</author>
+            <date>2012-06-29 18:14:17</date>
+            <index>17</index>
+            <phrase>ඉතිං මාමේ ඕකට තුවාල වෙන්න ගහන්න ඕනෙද? දෝණිගේ කැමැත්තටනේ පින්තූර කෑලි දෙක තුනක් ගත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-29 18:29:41</date>
+            <index>18</index>
+            <phrase>පොටෝ ගත්ත එකට දේශපාලන සම්බන්දයක් ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-06-29 18:03:38</date>
+            <index>19</index>
+            <phrase>තාම එන්ගලන්ත නීතියනේ තියෙන්නේ.ඒකයි තාත්තාට පොලිසි යන්න උනේ.‍ගේන්න ඕනි අරාබි නීතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙනුල</author>
+            <date>2012-06-29 18:11:09</date>
+            <index>20</index>
+            <phrase>ෆොටෝ ගෙහුවේ පොලිසියේ කෙනෙක්ද දන්නේ නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇරීස්</author>
+            <date>2012-06-29 18:30:56</date>
+            <index>21</index>
+            <phrase>කවුද දන්නේ දුවගේ කැමැත්තෙන් ගත්තද කියල .අප්පච්චි කලබල උන වැඩියි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු</author>
+            <date>2012-06-29 18:41:35</date>
+            <index>22</index>
+            <phrase>අපේ රටේ නිතිය තමයි " මහජන මුත්තී ගෝලයෝ රෝත්ති .'</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-29 19:22:27</date>
+            <index>23</index>
+            <phrase>අය්යෝ තාම මගේ ඔලුව රිදෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Thilak</author>
+            <date>2012-06-29 19:30:47</date>
+            <index>24</index>
+            <phrase>අපි නිදහස ලැබුවට තාමත් අපේ රටේ තියෙන්නේ රෝමන් ලන්දේසි නීතිය කියල එකක්නේ. ලන්දේසි රටේ නම් අවසර ලත් ගණිකාවොත් ඉන්නවනේ. ඒ උන්ට හොඳ හැටි එකයි වරද කරපු එකා ඉන්දි පියා අත්අඩංගුවට ගත්තේ. අපට ශ්‍රී ලාංකික නීතියක් ඕනේ. මේකට පොල්ලකින් ගහන්නේ නැතිව පොල් ගාන්නද? මට අහු වුනානම් කකුලකුත් කඩනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-06-29 18:58:22</date>
+            <index>25</index>
+            <phrase>ෂූවර් එකටම පැපරාසි ෆොටෝ ගහන්න එයා පුරුදු පුහුණු වෙන්න එන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩුබායි මල්ලි</author>
+            <date>2012-06-29 19:43:56</date>
+            <index>26</index>
+            <phrase>කවුද දන්නේ එයාගේ පෙම්වතාද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතලන්</author>
+            <date>2012-06-29 19:44:24</date>
+            <index>27</index>
+            <phrase>බලාපොරොත්තු වූ හාදයා නෙමේ වෙන්න ඇති පින්තූර ගන්න ඇවිත් ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිනා</author>
+            <date>2012-06-29 19:47:50</date>
+            <index>28</index>
+            <phrase>දැන් තියෙන්නේ කැකිල්ලේ තීණ්දු. වැරදි කාරයාව නිදහස් කරලා නිවැරිකාරයව දානවා කූඩුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-29 20:29:55</date>
+            <index>29</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ 2012-06-29 19:22:27 අය්යෝ තාම මගේ ඔලුව රිදෙනවා ----------------------- මගේ නමින් වෙන අයෙක් මෙහි කමෙන්ටු පළ කර තිබේ.මෙහි අන්තර්ගතය අනුව මෙය මා විසින් ලියන ලද්දක් නොවන බව මා පිළිබඳ දන්නා අය දනිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේ ගුරා</author>
+            <date>2012-06-29 19:59:49</date>
+            <index>30</index>
+            <phrase>මෙතනින් ලැජ්ජා නැති පාර්ශ්වය මොකක්ද කියලා මට හිතා ගන්න අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් නුගේ</author>
+            <date>2012-06-29 20:48:51</date>
+            <index>31</index>
+            <phrase>මානසික ලෙඩෙක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-06-29 20:59:23</date>
+            <index>32</index>
+            <phrase>නාන කාමර තියෙන්නේ වහගෙන නාන්න.මට නම් හිතෙන්නේ පොලු පාර දුවටයි දෙන්න තිබු‍නේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-06-29 21:27:30</date>
+            <index>33</index>
+            <phrase>මෝඩයා. ඔයවගේ ගමන් ඔහොම යනවද? ඔලුවට හෙල්මට් එකකුයි.පිටේ ගෝනියක් බැදගෙන ශරීරයපුරා ග්‍රිස් ගාගෙන ගියානම් කිසි ප්‍රශ්නයක් නැහැ මාමන්ඩියාව පොලීසියෙන් ගෙනියන්නෙත් නැහැ.වැඩෙත් කෙරෙනව කාටවත් නෝන්ඩි වෙන්නෙත් නැහැ.ඔන්නං පත්තරේ තියෙයි දැන් ග්‍රිස්යකා ගාව ඩිජිටල් කැමරාවකුත් තියනවා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරංගනී</author>
+            <date>2012-06-29 21:45:45</date>
+            <index>34</index>
+            <phrase>අනේද කියන්නේ වහගෙන නා ගත්තනම් ඉවරයිනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුවා</author>
+            <date>2012-06-29 22:48:06</date>
+            <index>35</index>
+            <phrase>මම කිවුවා ඒ මෝඩයට අද අප්පච්චි ගෙදර කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-06-29 23:45:35</date>
+            <index>36</index>
+            <phrase>පව් ..අහින්සකයා...මම හිතන්නේ ඒකේ වරදක් නෑ කියලයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහියංගනය</author>
+            <date>2012-06-30 00:57:42</date>
+            <index>37</index>
+            <phrase>යකෝ මාර රටක්නේ ....! අනේ පව් පොඩි එකාගේ ආසාව නේ...එකේ ඇති වැරද්දක් නැහැ පොලු පාර දුවටයි දෙන්න තිබු‍නේ. නාන කාමර තියෙන්නේ වහගෙන නාන්න. ලැජ්ජා නැති දුවටයි පොලු පාර දෙන්න තිබු‍නේ. පියා මානසික ලෙඩෙක් වෙන්න ඇති. පොලිසියෙ තියෙන්නේ අරාබි නීතිය.නාන කාමර තියෙන්නේ එන්ගලන්ත නීතිය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-06-30 01:47:29</date>
+            <index>38</index>
+            <phrase>කෙල්ලම තමයි ගෙන්නලා ෆොටෝ ගැහිල්ල කරලා තියෙන්නේ.මේ තාත්තත් ඒක දන්නේ නැතුව කොල්ලගේ ඔලුවටම ගහලනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලන්සියා</author>
+            <date>2012-06-30 02:50:49</date>
+            <index>39</index>
+            <phrase>මේකට අරාබි නීතියක් ඕනේ නැහැ.අරාබි නිතිය කියන්නේ ගල් යුගයේ,මනුස්ස කමක් නැති අළුගෝසු නීතියක්.අපේ රටේ තියන රෝම ලන්දේසි නීතිය වරදක් නැහැ ක්‍රියාත්මක කරන හැටි වැරදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණා</author>
+            <date>2012-06-30 04:41:38</date>
+            <index>40</index>
+            <phrase>මානසික රෝගියෙක් .පිස්සන්කොටුවට යවන්න ඕන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිපෝටර් ලමයා.</author>
+            <date>2012-06-30 10:43:06</date>
+            <index>41</index>
+            <phrase>පිස්සන් කොටුව තියෙන්නෙ කොහෙද?? ඒක ජාතික මානසික සෞඛ්‍ය විද්‍යායතනය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හාදයා</author>
+            <date>2012-06-30 11:38:26</date>
+            <index>42</index>
+            <phrase>කවුද දන්නේ නැහැ නාන කාමරේ පින්තූර ගන්න ගිහින් තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-06-30 11:44:49</date>
+            <index>43</index>
+            <phrase>පිස්සු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ.සී</author>
+            <date>2012-06-30 14:23:42</date>
+            <index>44</index>
+            <phrase>පොලු පහර කෑ මානසික ලෙඩාත් පොලීසියත් අතර සම්බන්දය සොයා බලන්න වෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් දෝහා</author>
+            <date>2012-06-30 15:03:18</date>
+            <index>45</index>
+            <phrase>ඇත්තටම මේ පොලු පහර වැදිල තියෙන්නේ පොලිසියෙ කෙනෙකුටද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනා</author>
+            <date>2012-06-30 15:49:27</date>
+            <index>46</index>
+            <phrase>මේ ගුටිකාපුකෙනා පොලිසියෙ කෙනෙක් විය යුතුයි.. මොකද නැත්නම් අර මනුස්සයා අත්අඩංගුවට ගත්තෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2012-06-30 16:37:47</date>
+            <index>47</index>
+            <phrase>දැන් එතකොට හිරේට යන්නේ දුවව ආරක්ෂා කරන්න ක්‍රියාමාර්ගයක් ගත්ත පියාවද....එතකොට අර අසහන කාරයව නිදහස්ද ..මමත් දරුවෝ දෙදෙනෙකුගේ තාත්ත කෙනෙක් ......එතකොට දරුවන්ට අපරාදයක් වෙන්න හදනකොට මව්වරුන්ට පියවරුන්ට වෙන්නේ බලාන ඉන්නද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුන්ච</author>
+            <date>2012-06-30 17:37:21</date>
+            <index>48</index>
+            <phrase>දැන් කවූද වැරදි ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැසි</author>
+            <date>2012-06-30 18:21:14</date>
+            <index>49</index>
+            <phrase>එතකොට වීඩියෝකරපු කෙනා එළියේ එළි‍ෙ‍ය්? යකෝ මේක මාර රටක්‍ෙ‍න්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2012-06-30 19:06:35</date>
+            <index>50</index>
+            <phrase>අචාර්ය තුමා පලකරන අදහස් දැකල අපේ ඔලුව රිදෙනවා , අයියෝ අචාර්ය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2012-06-30 18:29:06</date>
+            <index>51</index>
+            <phrase>එහෙම වීඩියෝ කරන අය දිරිමත් කිරීමේ වැඩ සටහනක පළමු පියවර වෙන්න ඇති .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලරත්න සිංගපූරැව</author>
+            <date>2012-06-30 18:50:39</date>
+            <index>52</index>
+            <phrase>මේක ජාත්‍යන්තර කුමනතුණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2012-06-30 22:38:51</date>
+            <index>53</index>
+            <phrase>කොල්ලට ගහපු එක පව්.. එයාගෙ අනාගත බලාපොරොත්තුව ඡායාරෑප ශිල්පියෙක් වෙන්නලු.. ඒ සදහා පුහුණු වෙන අවස්ථාවක තමයි තාත්තගෙ අතට අහුවෙලා තියෙන්නෙ... අපි ඒවගේ අය දිරිමත් කළ යුතුයි.. ඉදිරියට යන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදු</author>
+            <date>2012-07-01 08:35:52</date>
+            <index>54</index>
+            <phrase>පොලිසියට මොකද මේ වෙලා තියෙන්නෙ.. පොලු පාර කාපු එක්කෙනාව නෙ ඇතුලට දාන්න ඔන.. එයානෙ වැරදි.. නීතියක් නැති රටක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් ප්‍රීන</author>
+            <date>2012-07-03 09:51:07</date>
+            <index>55</index>
+            <phrase>ඔක්කොම කනපිට !!! ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එටකිච්ච</author>
+            <date>2012-07-03 12:56:39</date>
+            <index>56</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ 2012-06-29 20:29:55 ආචාර්ය සුජිත් නිශාන්ත හේවගේ 2012-06-29 19:22:27 අය්යෝ තාම මගේ ඔලුව රිදෙනවා ----------------------- මගේ නමින් වෙන අයෙක් මෙහි කමෙන්ටු පළ කර තිබේ.මෙහි අන්තර්ගතය අනුව මෙය මා විසින් ලියන ලද්දක් නොවන බව මා පිළිබඳ දන්නා අය දනිති....... ඔව් ඔව් ඔබතුමා දන්නේ කිසිම අදාලත්වයක් නෙතයි පල් හෑලිනේ.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එටකිච්ච</author>
+            <date>2012-07-03 12:57:50</date>
+            <index>57</index>
+            <phrase>මමනම් කියන්නේ මේකේ සම්පූර්ණ වැරැද්ද තියෙන්නේ පොල්ලේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2012-07-03 12:59:04</date>
+            <index>58</index>
+            <phrase>සියල්ල සිදුවන්නේ දෙවියන්වහන්සේගේ කැමැත්ත අනුවයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-07-04 04:47:56</date>
+            <index>59</index>
+            <phrase>කෙල්ල නාන්න ගත්ත කොල්ල ෆොටෝ ගත්ත තාත්ත පොල්ල ගත්ත පොලිසිය අල්ල ගත්ත ''' ශ්‍රී ලංකාවට ඡය ‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-07-04 11:22:29</date>
+            <index>60</index>
+            <phrase>තාත්ත පොලිසේයේ නිසා මාත් ගිහින් ගන්නව ෆොටෝ 1ක් මොකද ගහන්න කව්රුත් නැනේ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දි</author>
+            <date>2012-07-04 14:38:07</date>
+            <index>61</index>
+            <phrase>මාත් ඔහොම වැඩක් කරල තියෙනවා.ඒත් පොලු පාරක්නම් කෑවේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>S.M.T.B</author>
+            <date>2012-07-05 08:01:14</date>
+            <index>62</index>
+            <phrase>මේකට නිසි දඩුවමක් දෙන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝඩයා</author>
+            <date>2012-07-05 14:25:02</date>
+            <index>63</index>
+            <phrase>පොලිස් මාමල වී‍ඩියෝ කලානම් අපටත් ලගදි බලන්න පුළුවනි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-07-05 19:59:28</date>
+            <index>64</index>
+            <phrase>මටනම් දුක අහිංසක තාත්තා ගැන මොකද දුවකුට කරදරයක් වෙනකම් බලා ඉන්න බැහැනෙ.. ඒ ටික පොලිසියට තේරෙන්නෙ නැහැනෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉක්‍රම් සෞදිඅරාබිය</author>
+            <date>2012-07-05 20:23:25</date>
+            <index>65</index>
+            <phrase>ඉක්මනට කසාදයක් බන්දල දෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2012-07-06 08:14:30</date>
+            <index>66</index>
+            <phrase>මේක අහඹු සිදුවීමක් වෙන්ට බෑ කලින් දැකලා සැලසුම් කරලා තමයි කැමරාවකුත් අරං ඇවිත් තියෙන්නෙ මේ වගේ අස්ම්ජ්ජාති වැඩ ආයෙත් නොකරන්ට කොල්ලට හොඳ දඬුවමක් දෙන්ට තියෙන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

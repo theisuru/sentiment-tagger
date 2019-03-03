@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>97644</articleId>
+    <title>ඔබාමාගේ  මිසයිල ආරක්ෂක පද්ධතිය දුර්වලයි</title>
+    <author>ඒඑෆ්පී/රොයිටර්  වොෂින්ටන් නුවරදීය</author>
+    <date>2013 පෙබරවාරි මස 11 10:21:00</date>
+    <body>ඉරානයෙන් ප‍්‍රහාරයක් එල්ල වුවහොත්, එයින් ආරක්ෂා වීමටත් ප‍්‍රතිප‍්‍රහාර එල්ල කිරීමටත් ඔබාමා පරිපාලනය යුරෝපා රටවල ස්ථාපිත කිරීමට සූදානම් වන මිසයිල ආරක්ෂක පද්ධතිය ඉතා දුර්වල එකක් යැයි රිපබ්ලිකන් පක්ෂය චෝදනා කරයි.
+ඇමෙරිකන් ඩොලර් බිලියන ගණනක් වැය කරමින් එම මිසයිල ආරක්ෂක පද්ධතිය ඉදි කිරීමට ඔබාමා පරිපාලනය සැලැසුම් කර ඇති නමුත් සතුරු ප‍්‍රහාරයකින් ආරක්ෂාවීමට එය ප‍්‍රමාණවත් නොවන බව ද ඔබාමාගේ ප‍්‍රතිවාදීන් වන රිපබ්ලිකන් පක්ෂය චෝදනා කරයි.</body>
+    <comments>
+        <comment>
+            <author>නාරද</author>
+            <date>2013-02-11 12:10:58</date>
+            <index>0</index>
+            <phrase>එයාලට ඕන තැනක මිසයිල සවි කරන්න පුලුවන්, අනිත් රටවලට අත්හදාබලන්නත් බෑ. මේක පුදුම නීතියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්න්ද</author>
+            <date>2013-02-11 20:36:08</date>
+            <index>1</index>
+            <phrase>ෂරියා වැනි භයානක නීති ඇති රටවලට මේ වගේ බිහිසුණු තාක්ෂණයක් ගියොත් එක ලෝකයට පසුකාලිනව අයහපත් වෙන්ඩ පුළුවන්. මොකද තම ආගම වෙනුවෙන් කෙනෙකු මරාදැමීමට ඔවුන් පැකිලෙන්නෙ නැති නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-02-11 21:22:54</date>
+            <index>2</index>
+            <phrase>ඇමරිකාව නැත්නම් මුස්ලිම්වරුන් මෙලහකට මේ ලෝකයේ රජ කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-02-12 00:56:33</date>
+            <index>3</index>
+            <phrase>චරිත ඝාතන නැවැත්තුවා නම්??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂිරාස්</author>
+            <date>2013-02-12 15:42:33</date>
+            <index>4</index>
+            <phrase>සම්පත්, ඒ නිසා තමයි දැන් ඇමරිකාව ලෝකයේ රජකරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2013-02-12 20:19:27</date>
+            <index>5</index>
+            <phrase>නැහැ එහෙම වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

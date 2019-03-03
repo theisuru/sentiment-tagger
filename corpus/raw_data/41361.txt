@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41361</articleId>
+    <title>රට සුප් කෝප්පෙට කූඩු කඩා අහුවේ.</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 මැයි මස 09 06:59:33</date>
+    <body>රදල්ලේ දුම්රිය උමං මාර්ගයක වැහැලිහිණි කූඩු කැඩූ පුද්ගලයන් දෙදෙනකු සැකපිට අත්අඩංගුවට ගත් බව නානුඔය පොලීසිය පවසයි. කැදලි තුලිතයා නමැති පක්ෂියා විසින් තම කෙළ උපයෝගී කැර ගනිමින් සාදන මෙම කූඩු අධික මිලට අළෙවි කරන සුප් සෑදීම සදහා එතෙර හෝටල් වලට හොර රහසේම පිටත් කර යවයි.</body>
+    <comments>
+        <comment>
+            <author>කාවින්ග</author>
+            <date>2012-05-09 08:09:58</date>
+            <index>0</index>
+            <phrase>අසරණ සතුන්ගේ කූඩු කැඩුවට හොඳ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-05-09 09:43:28</date>
+            <index>1</index>
+            <phrase>මේවා දැන්මම නවත්වන්න ඕන.නැත්නම් පහුවෙනකොට තව මොන මොන කූඩු කඩයිද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-09 10:11:23</date>
+            <index>2</index>
+            <phrase>සුප් රස නම් කමක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංඡුල බිරුටි</author>
+            <date>2012-05-09 12:02:43</date>
+            <index>3</index>
+            <phrase>සතුන්ගේ හැමදෙයක්ම ම්නිසාට ප්‍රයෝජනවත්. ඒත් මිනිසාගෙන් මිනාසාට මොනවද ප්‍රයෝජනවත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

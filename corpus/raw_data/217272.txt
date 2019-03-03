@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>217272</articleId>
+    <title>කාරය දෙකට කැඩේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 මාර්තු මස 15 09:21:28</date>
+    <body>පිටකෝට්ටේ තලවතුගොඩ පාරේ අද අළුයම අධි බලැති විදුලි කනුවක හැපුනු කාරයක් දෙකඩ වී ගිය බව පොලීසිය කියයි.
+රිය පදවන්නට ඇතැයි සිතන කාන්තාව තුවාල ලබා  බේරුනු නමුත් ඇගේ  දරුවා බරපතල තුවාල ලබා සිටියි.
+කාන්තාවගේ සෙරෙප්පු කාරයේ වම් පැත්තේ තිබු බව පොලීසිය කියයි.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-03-15 11:08:04</date>
+            <index>0</index>
+            <phrase>අදික වේගය තමයි අනතුරට මුල. ඕව නෝනලට හොද පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2014-03-15 12:25:03</date>
+            <index>1</index>
+            <phrase>අනේ, අහිංසක පිරිමි අපි කොහොමද පාරේ වාහනයක් අරන් යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ එස් ඩී</author>
+            <date>2014-03-15 13:52:53</date>
+            <index>2</index>
+            <phrase>මේකනම් මරුටි කාරයක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් බණ්ඩාර</author>
+            <date>2014-03-15 19:33:32</date>
+            <index>3</index>
+            <phrase>මිනිහෙක් යට වෙන්නේ නැතුව ඔයින් ගියා මදැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-03-16 04:08:15</date>
+            <index>4</index>
+            <phrase>සෙරෙප්පු කාරයේ වම පැත්තේ තිබුන එක හොඳ දෙයක්. හයි හීල්ස් දාගෙන එලවන්නත් බැහැ. ගලවලා බිම තියන්නත් බැහැ , පැඩල් අස්සේ යනවා, කකුල් වල පැටලෙනවා. ඉතින් වම් පැත්තේ බිමට දැමීම තමා කලයුත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුචිර</author>
+            <date>2014-03-16 08:49:43</date>
+            <index>5</index>
+            <phrase>දරුවා ඉක්මනින් සුව වේවා ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශීලා</author>
+            <date>2014-03-16 14:33:23</date>
+            <index>6</index>
+            <phrase>මගේ අම්මේ ඇති ඔයින් ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2014-03-17 15:28:43</date>
+            <index>7</index>
+            <phrase>දරුවට ඉක්මන් සුව, ලස්සන අම්මටත් ඉක්මන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

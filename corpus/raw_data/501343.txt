@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501343</articleId>
+    <title>හුණුපිටියේ  ගින්නක්</title>
+    <author>ඩයනා උදයංගනීජායාරූප ලාල් එස් කුමාර</author>
+    <date>2017 ජනවාරි මස 26 11:15:38</date>
+    <body>වත්තල හුණුපිටිය කර්මාන්තශාලාවක ගින්නක්  හටගෙන ඇතැයි  පොලිසිය කියයි. ගින්න නිවා දැමීමට සඳහා ගිනි නිවන භට කැඳවා තිබේ</body>
+    <comments>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2017-01-26 05:52:08</date>
+            <index>0</index>
+            <phrase>මේ ආණ්ඩුව ආ දා ඉඳලා තුන්බිය... නියං, ජල ගැලීම්, ගිනි ගැනීම්, මංකොල්ලකෑම්... බොරුද මම කියන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-26 07:04:11</date>
+            <index>1</index>
+            <phrase>උදේ සිටම ගිනිගෙන කළුදුම් අහසට නඟිනවා මා දැක්කා. ගින්න නිවුනායින් පසු ගිනිනිවන ඒකකය පැමිණි බවත් කවුදෝ කිව්වා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2017-01-26 07:12:57</date>
+            <index>2</index>
+            <phrase>දිමුත්,ඔබ හරි. මාත් එකඟයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2017-01-26 07:16:01</date>
+            <index>3</index>
+            <phrase>වෙන ආණ්ඩු කාලේ නොතිබුන දේවල් වගෙයිනේ සමහරු අදහස් දාන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2017-01-26 07:37:23</date>
+            <index>4</index>
+            <phrase>ගිනි ගැනීම් වලට පවා ආණ්ඩුව වග කියන්න ඕනෑ බවයි කියන්නේ. ඔය පාට කණ්ණාඩි ගළවා බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2017-01-26 07:43:05</date>
+            <index>5</index>
+            <phrase>දිමුත්, ප්‍රියාන්, හෙට වරද්දන්නේ නැතුව නුගේගොඩට යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2017-01-26 08:15:18</date>
+            <index>6</index>
+            <phrase>ඔව් ඔව් මේක ආණ්ඩුවේ වරද. ඔය පළාතේ වාසය කරපු පැරණි උදවිය දන්නවා වෙනසේ විදිය. ගිනිගැනීමේ මුලික හේතුව පරිසරයේ වියළිබව. අනික් සාධකය තමා පරිසර දුෂණය. ඔය දෙකම කරන්නේ පුරවැසියෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2017-01-26 08:32:14</date>
+            <index>7</index>
+            <phrase>දිමුත් බලන්නේ මේකෙනුත් දේශපාලන වාසියක් ගන්න. ලැජ්ජයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2017-01-26 08:33:58</date>
+            <index>8</index>
+            <phrase>නැතුව,නැතුව දිමුත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහ</author>
+            <date>2017-01-26 10:12:39</date>
+            <index>9</index>
+            <phrase>පාලකයින් අධර්මිෂ්ඨ වෙනකොට ස්වභාවික විපත් වෙනවාලු. මෙවන් විපත් රජ කාලෙත් වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

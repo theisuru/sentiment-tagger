@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30133</articleId>
+    <title>කඳන් ලොරිය සුපිරි මඟේ පෙරැළේ</title>
+    <author>එම්එස් පෙරේරා  බිමල් ශ්‍යාමන්</author>
+    <date>2012 මාර්තු මස 06 16:40:42</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ කහතුඩුව අට වැනි සැතපුම් කණුව අසලදී ලොරියක් පෙරැළී වලස්මුල්ලේ අයකු මරණයට පත්වී තිදෙනෙක් තුවාල ලැබූ බව කහතුඩුව පොලීසිය කියයි.
+ගොඩනැගිලි ද්‍රව්‍ය පටවාගත් ලොරියේ ටයරයක් පිපිරී ලොරිය උඩු අතට පෙරළී ගියේය. අධිවේගී මාර්ගයේ දෙවැනි මාරක අනතුර මෙයයි.</body>
+    <comments>
+        <comment>
+            <author>චන්දවිමල හිමි</author>
+            <date>2012-03-06 17:20:41</date>
+            <index>0</index>
+            <phrase>ලොරියට වුණත් දරන්න බැරි බර පැටවුවාම ඔහොම තමයි. මේ අය නම් කවදාවත් පාඩම් ඉගෙන ගන්න අය නෙමේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-03-06 18:37:33</date>
+            <index>1</index>
+            <phrase>වාහනය පරීක්ෂා කෙරුවෙ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල් සරාජිත්</author>
+            <date>2012-03-06 20:46:33</date>
+            <index>2</index>
+            <phrase>අධිවේ‍ගී මාර්ගයක් ගොඩනැගිලි ද්‍රව්‍ය ප්‍රවාහනය සදහා යොදා ගන්නා විට ධාවනය වන අනෙකුත් රට වලට දැඩි අවධානමක් පවතී. එම නිසා අවධානම් ද්‍රව්‍ය ප්‍රවාහනයට යෙදා ගන්නා විට හැකිතාක් අතුරු මාර්ග යොදා ගන්නවා නම් මැනවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමන්ත</author>
+            <date>2012-03-06 22:37:35</date>
+            <index>3</index>
+            <phrase>ඇතුළු වෙද්දි වාහන ටයර්,තිරිංග වැනි දේවල් පරීක්ෂා කර බැලීමක් සුලුවෙන් හෝ කරොත් මේ වගේ දේවල් ගොඩක් දුරට අඩු කර ගන්න පුලුවන් වෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයකාන්ත- ඇෆ්ගනිස්ථාන්</author>
+            <date>2012-03-06 23:42:01</date>
+            <index>4</index>
+            <phrase>අධිවේගී මාර්ගය කඩන ලොරි දාවනය නවත්විය යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

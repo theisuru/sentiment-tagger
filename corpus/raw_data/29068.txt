@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29068</articleId>
+    <title>චීන ගැහැනු දෙන්නාට ඇප</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 පෙබරවාරි මස 27 18:28:11</date>
+    <body>ත‍්‍රිරෝද රියක ජංගම ගණිකා සේවයක් පැවැත්වී යැයි කියන පුද්ගලයෙක්ද චීන ගැහැණු දෙදෙනෙක්ද කොළඹ කොටුව මහේස්ත‍්‍රාත් කනිෂ්ක විජේරත්න මහතා විසින් ඇප මත මුදා හරිනු ලැබූහ. චීන ගැහැණුන් දෙදෙනාට රටින් පිටැවීමට ඉඩ නොදෙන්නැයි මහේස්ත‍්‍රාත් ආගමන විගමන පාලකට නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>Yoonus</author>
+            <date>2012-02-27 21:57:37</date>
+            <index>0</index>
+            <phrase>ඇප ලබා දීලා වීසා කැන්සල් කරල රටින් පිට කරානම් හරි නේ...ඇයි තාම රදවගන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලේ වසන්ත</author>
+            <date>2012-02-28 10:47:33</date>
+            <index>1</index>
+            <phrase>වෙලාවේ හැටියට චීනෙට තරහ යන වැඩ කරන්න හොද නහැ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

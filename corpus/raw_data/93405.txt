@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>93405</articleId>
+    <title>උමඟක් හාරා සල්ලි ගනී</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 ජනවාරි මස 16 11:02:45</date>
+    <body>ජර්මනියේ බර්ලින් නුවර බැංකුවක සුරක්ෂිතාගාරය තෙක් උමගක් හාරා එහිවූ මුදල් සියල්ල පැහැර ගෙන ගොස් ඇතැයි බර්ලින් පොලිසිය කියයි.
+සොරුන් සුරක්ෂිතාගාරයට ගිනි තබා ඇති අතර ආරක්ෂක නිළධාරීන් ගින්න නිවාදැමිීමට උත්සාහ දරන අවස්ථාවේ ඔවුන් පළා ගොස් ඇත.
+දිගින් අඩි 100 පමණ වන මේ උමගේ මුවවිට පිහිටා තිබී ඇත්තේ අසල තිබූ භූගත රථගාලකය. සොර මුල දින ගණනක් නැතහොත් මාස ගණනක් පුරා මෙම උමග හාරන්නට ඇතැයි පොලිසිය සැක පළ කරයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-16 11:44:51</date>
+            <index>0</index>
+            <phrase>ඔන්න වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෂාන්</author>
+            <date>2013-01-16 14:20:48</date>
+            <index>1</index>
+            <phrase>වැඩකාරයෝ තමයි...ඒත් කරපු වැඩේ තමයි හොඳ නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-01-16 14:30:46</date>
+            <index>2</index>
+            <phrase>කවුද බොලේ මේ වැඩේ කල බිංකුණ්ඩා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-01-16 15:11:50</date>
+            <index>3</index>
+            <phrase>ඉංග්‍රීසි චිත්‍රපටියක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-16 15:17:16</date>
+            <index>4</index>
+            <phrase>සිනමාපට වලින් ආදර්ශයක් අරන් වගේ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෂාන්</author>
+            <date>2013-01-16 15:36:14</date>
+            <index>5</index>
+            <phrase>මීළග ජේමිස් ‍බොන්ඩ්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-01-16 19:04:57</date>
+            <index>6</index>
+            <phrase>උම්මග්ග ජාතකය කියවලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2013-01-16 19:44:56</date>
+            <index>7</index>
+            <phrase>රාවණාගේ උමග හොයනවා වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2013-01-17 11:39:18</date>
+            <index>8</index>
+            <phrase>අයියෝ සල්ලි. ප්ලෑන් පිට ගේම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2013-01-18 08:13:28</date>
+            <index>9</index>
+            <phrase>ප්‍රතිචාර දක්වපු අය බොහොම හොඳයි. අපේ රටට බැනලා නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

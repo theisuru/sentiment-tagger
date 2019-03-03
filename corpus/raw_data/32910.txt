@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>32910</articleId>
+    <title>තල්මසා ගොඩ</title>
+    <author>සුරංජිත් පෙරේරා  එච් එම් ධර්මපාල</author>
+    <date>2012 මාර්තු මස 23 10:26:31</date>
+    <body>දෙහිවල මුහන්දිරම් පාරේ කෙළවර වෙරළ තිරයට මියගිය අඩි 60 ක් පමණ දිග විශාල තල් මසෙකු  ගොඩ ගසා ඇත  මෙම සිරුර  දැඩිලෙස  නරක් වි  දුර්ඝන්ධයක් හමන තත්ත්වයක් පවතී
+හිස  තැලී පොඩිවි ගොස් ඇත
+දින ගනනක් මුහුදේ පාවෙමින් තිබියදි ගොඩ ගසන්නට ඇතැයි දෙහිවල  පොලිසිය කියයි</body>
+    <comments>
+        <comment>
+            <author>නීල්</author>
+            <date>2012-03-23 11:23:40</date>
+            <index>0</index>
+            <phrase>නවික හමුදාවෙන් තල්මසුන් නරඹන්න මිනිස්සු එක්කන් යනවා නෙ, එ වැඩෙන් පස්සේ තමයි මේ සත්තු ටික මැරෙන්න පටන් ගත්තෙ. අපේ අයියලටත් මොන තල්මස්සුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩි</author>
+            <date>2012-03-23 11:36:14</date>
+            <index>1</index>
+            <phrase>මේක තමා අපි ගොඩනගපු ලෝකය නැවක් කරපු අපරාධයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙන්නකෝන්</author>
+            <date>2012-03-23 12:34:57</date>
+            <index>2</index>
+            <phrase>මුහුදේ ඩයිනමයිට් දාලා මාලු මරණකොට තල්මස්සුත් ඒවට අහුවෙලා මැරෙණවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

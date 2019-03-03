@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16431</articleId>
+    <title>විපක්ෂයට කථිකයන් නෑ</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 08 15:07:59</date>
+    <body>අයවැය කාරක සභා විවාදයේ ඛනිජ තෙල් අමාත්‍යංශ වැය ශිර්ෂය ගැන විපක්ෂයට මිනිත්තු 165ක් වෙන් කැර තිබුණත් ඉන් මිනිත්තු 105ක්ම අපතේ ගියේය. විපක්ෂ කථිකයන් නොසිටීම ඊට හේතුවයි. එහෙයින් ඇමැති සුසිල් ප්‍රේමජයන්තගේ මිනිත්තු හතරේ කතාවෙන් පසුව සභාව කල් තැබිණි.  කල්තැබීමේ විවාදයේ ප්‍රශ්නයක් මතු කිරීමට සිටි රවි කරුණානායක එජාප මන්ත්‍රී ද සභාවේ නොවිය.  දවසේ වැඩ කටයුතු ද ඒ නිසා කලින්ම අවසන් විය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2011-12-08 15:31:20</date>
+            <index>0</index>
+            <phrase>කතිකයො කියල හිටියෙ අය දැන් ආණ්ඩුවට ගිහින්... දැන් රට ගැන කතා නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි</author>
+            <date>2011-12-08 16:32:12</date>
+            <index>1</index>
+            <phrase>එක කථිකයද විපක්ෂෙ ඉන්නේ? විරුද්ද පක්ෂය ශක්තිමත් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේව</author>
+            <date>2011-12-08 17:08:48</date>
+            <index>2</index>
+            <phrase>විපක්ෂය හොද තීරණයක් අරගෙන තියනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2011-12-08 17:46:56</date>
+            <index>3</index>
+            <phrase>විපක්ෂයකුත් නැහැ වගේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus Alavi</author>
+            <date>2011-12-08 17:52:24</date>
+            <index>4</index>
+            <phrase>නායකත්ව ප්‍රශ්නයක් තිබිය දී පාර්ලිමේන්තුවේ මොනව කථා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2011-12-08 17:57:42</date>
+            <index>5</index>
+            <phrase>හිනස්සන වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්නා</author>
+            <date>2011-12-08 23:26:00</date>
+            <index>6</index>
+            <phrase>විපක්ෂ කතිකයින් ඉඳලා කතා කලා නම් තෙල් සංස්ථාවේ ප්‍රශ්ණ විස‍ඳෙනවාද?නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

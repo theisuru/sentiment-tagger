@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>105190</articleId>
+    <title>පුතාගේ වයය හැංගූ මවට ටිකට් දෙකක්ම ගන්න වෙලා</title>
+    <author>අතුරලිය කේ ඩබ්ලිව් ගුණවර්ධන</author>
+    <date>2013 මාර්තු මස 27 22:37:43</date>
+    <body>අකුරැස්සේ සිට කඹුරුපිටිය  හක්මන බසයක් බලා එයට  කඹුරුපිටියේදී මවක් හා පුංචි පුතෙක් ගොඩවූහ. ”හක්මනට ටිකට් එකක් දෙන්න” ඇය මුදල් දෙමින් කොන්දොස්තරට කීවාය. ”මේ ළමයට අවුරුදු හතරට වැඩියිනේ ටිකට් එකක් ගන්න   ඕන” කොන්දොස්තර කීවේය. ”එයාට තවම හතරක් වුණේ නෑ” මව කීවාය. ”නෑ අම්මේ .. මගේ වයස දැන් අවුරුදු හතයි.  මම දැන් ඉස්කෝලේ දෙකේ පන්තියේ  අම්මේ” දරුවා උස් හඬින් කීවේ මවට චෝදනාවක් ලෙසිනි.මවට කට උත්තර  නැතිවිය. කොන්දොස්තර ළමයාටත් ටිකට් පත‍්‍රයක් නිකුත් කර මුදල් අයකර ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>රුවිනි</author>
+            <date>2013-03-28 03:05:59</date>
+            <index>0</index>
+            <phrase>පුංචි ළමයි ඉදිරියේ බොරු කියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-03-28 05:40:16</date>
+            <index>1</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2013-03-28 07:55:58</date>
+            <index>2</index>
+            <phrase>වරදක් නම් දඩුවම අනිවාර්යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජා</author>
+            <date>2013-03-28 08:37:46</date>
+            <index>3</index>
+            <phrase>අම්මේ දරුවන්ගෙන්වත් යමක් ඉගෙනගත්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලහප්පෙරුම</author>
+            <date>2013-03-28 09:12:41</date>
+            <index>4</index>
+            <phrase>ඉල්ලගෙන කනවයි කියන්නේ ඕවට තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-28 09:30:57</date>
+            <index>5</index>
+            <phrase>පුංචි ළමයි වස නැහැ පැටියෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-03-28 09:54:51</date>
+            <index>6</index>
+            <phrase>හොද වෙලාවට එක කොලුවයි හිටියේ. පහක් හයක් හිටියා නම් තාත්තත් විකුනන්නයි වෙන්නේ. නේද මාමේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවගේ</author>
+            <date>2013-03-28 12:31:09</date>
+            <index>7</index>
+            <phrase>මොකද්ද එහෙම කරන්න හේතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රෙමරත්න</author>
+            <date>2013-03-28 13:31:07</date>
+            <index>8</index>
+            <phrase>ඒ ළමයාගේ අම්මට සල්ලි නැති කමටද දන්නේ නැහැනේ ඒකම කළේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2013-03-28 13:44:52</date>
+            <index>9</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-03-28 20:15:05</date>
+            <index>10</index>
+            <phrase>ගෑනු ඔහොම්මමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-03-29 00:54:07</date>
+            <index>11</index>
+            <phrase>නියමයි පුතා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2013-03-29 01:10:09</date>
+            <index>12</index>
+            <phrase>අපේ රටේ කොතරම් ඉන්නවද දුප්පත් ජනතාව? හැමදේම ගනන් ගිහිල්ලා. අම්මලා බලන්නේ කීයක් හරි ඉතුරු කරලා දරුවන්ට උගන්වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්-එස්.එල්</author>
+            <date>2013-03-29 08:30:42</date>
+            <index>13</index>
+            <phrase>පොඩි ළමයිට බොරු කරන්න උගන්වන්නේ බොහෝ විට දෙමවිපියන්මයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිපත්</author>
+            <date>2013-03-29 08:34:34</date>
+            <index>14</index>
+            <phrase>සෝක් කොළු පැටියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2013-03-30 18:36:27</date>
+            <index>15</index>
+            <phrase>අම්මාගේ වයස කීයද දන්නෙ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-03-31 08:00:43</date>
+            <index>16</index>
+            <phrase>බස්ගාස්තු බැලුවහම දෙන්නෙකුට එකක් තමයි ගන්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතු</author>
+            <date>2013-04-08 16:12:22</date>
+            <index>17</index>
+            <phrase>ඕකනේ කියන්නේ බෙන්තර ගඟෙන් මෙහාට බළල් පැටියෙක්වත් ගේන්න එපා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

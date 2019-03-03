@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>208466</articleId>
+    <title>ශ්‍රී පාද රක්ෂිතයේ ගින්නක්</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2014 පෙබරවාරි මස 06 14:19:06</date>
+    <body>නල්ලතන්නියේ ශ්‍රී පාද රක්ෂිතයේ  ගින්නක්  පැතිර යන බවත් ගින්න නිවීමට ගුවන් හමුදා සහය ඉල්ලා ඇති බවත් නුවරඑළිය මහ දිසාපති ඩී පී ජී කුමාරසිරි මහතා කියයි.
+වියළි කාලගුණය හා සුළං නිසා ගින්න පැතිරෙන බව  ඔහු කියයි.</body>
+    <comments>
+        <comment>
+            <author>මධුෂාන් සංජීව</author>
+            <date>2014-02-06 16:32:30</date>
+            <index>0</index>
+            <phrase>දෙවියන්ගේ අඩවියටත් ගිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක සමන්ත</author>
+            <date>2014-02-06 18:07:31</date>
+            <index>1</index>
+            <phrase>හරිම කනගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2014-02-07 01:34:32</date>
+            <index>2</index>
+            <phrase>බොහොම නරකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2014-02-07 20:34:25</date>
+            <index>3</index>
+            <phrase>මස් වැද්දන්ගේ වැඩ නිසා වනාන්තර විනාශයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

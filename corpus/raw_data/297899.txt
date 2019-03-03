@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>297899</articleId>
+    <title>දෙහිවල අත්තිඩිය සහනෝදය වැඩිහිටි විවේකාශ්‍රාමයේ දවසක්...</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2015 පෙබරවාරි මස 19 02:07:48</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>දැරණියගල</author>
+            <date>2015-02-18 21:55:19</date>
+            <index>0</index>
+            <phrase>විශාල කැප කිරීමකින් මේ සුවිශේෂ ආයතනය කරගෙන යන හපුතලේ නා හිමියන්ට අපේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-02-19 11:48:48</date>
+            <index>1</index>
+            <phrase>මව්-පිය උපස්ථානය උතුම් මංගල කරුණකි-අද දින තවත් එක අබියෝගයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාදි</author>
+            <date>2015-03-03 04:17:03</date>
+            <index>2</index>
+            <phrase>ශ්‍රේෂ්ඨයි ඔබතුමන්ගේ උසස් ක්‍රියාව අගයමු ඉත සිතින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෝතම හිමි</author>
+            <date>2015-03-03 11:45:27</date>
+            <index>3</index>
+            <phrase>පාරමී දම් පුරන අපේ නාහිමියනෙනි ඔබ වහන්සේට සුබ පැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාසාර හිමි</author>
+            <date>2015-03-04 06:34:09</date>
+            <index>4</index>
+            <phrase>අපේ හාමුදුරුවන්ට සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාදාස</author>
+            <date>2015-03-17 00:40:47</date>
+            <index>5</index>
+            <phrase>අපේ හාමුදුරුවන්ට පින්....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

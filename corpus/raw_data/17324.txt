@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17324</articleId>
+    <title>පොලිසියට ගල් මුල්</title>
+    <author>දඹුල්ල කාංචන කුමාර ආරියදාස</author>
+    <date>2011 දෙසැම්බර් මස 13 15:19:05</date>
+    <body>එළවඵ ඇසුරුම් නිතියට විරෝධය පාමින් සිටි දඹුඵගොවින් සහ පොලිසිය අතර ගැටුමක් ඇවිළී ගියේය
+පොලිස් වාහනයකට පහර දීමක් සමග පොලීසිය කඳුළු ගෑස් ගැසිය.
+දඹුල්ල රෝහලේ රෝගීහුද අපහසුවට පත්වූහ. වාහන කිහිපයකට අලාභහානි සිදුවිය
+පොලිසිය සිටි දෙසට  ගල් මුල් හා වතුර බෝතල්ද එල්ල විය.
+තුවාල ලැබූ කිහිප දෙනෙක් රොහල් ගත කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>Yoonus</author>
+            <date>2011-12-13 16:58:58</date>
+            <index>0</index>
+            <phrase>කටුනායක වගේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2011-12-13 18:45:22</date>
+            <index>1</index>
+            <phrase>පොලීසියට පහරදීම ගොවියන්ගේ වැඩක් නෙමෙයි. වෙන පිරිසකගෙ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් චන්දන පීරිස්</author>
+            <date>2011-12-13 19:01:42</date>
+            <index>2</index>
+            <phrase>මේකෙ පාඩුව රජයට නේමේ. මෙහෙම රට දියුණු කරන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් ගුණරත්න</author>
+            <date>2011-12-13 19:05:05</date>
+            <index>3</index>
+            <phrase>නිකන් හිටියනම් ඉවරයිනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2011-12-13 20:49:57</date>
+            <index>4</index>
+            <phrase>ප්ලාස්ටික් කූඩ භාවිතය අනිවාර්ය කරන්න කලින් මේ දෙයින් වන ප්‍රතිලාභ ගැන සහ ප්ලාස්ටික් කූඩ ගන්න සහන ක්‍රමයක් ලබා දෙන ක්‍රම ගැන දැනුවත් කරලා ගොවි මහතුන්ට දැනමුතුකම් දෙන ව්‍යාපෘතියක් පවත්වන්නට ක්‍රියා කලා නම් මෙහෙම ගැටුම් ඇතිවන්නේ නැහැ නේද ? මේ ක්‍රමය නිසා එළවලු ඉක්මනට නරක් වෙන්නේ නැති නිසාත්, තැලෙන්නේ පොඩිවෙන්න්නේ නැති නිසා හොඳ එළවලු පාරිභෝගිකයාට ලැබෙනවා. අවශ්‍ය දැනුවත් කිරීම තමා. ගහගෙන මරාගෙන ප්‍රශ්න විසදන්න බැහැනේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුක</author>
+            <date>2011-12-14 04:28:44</date>
+            <index>5</index>
+            <phrase>ඕක තමයි කියන්නේ හොද වැඩක් කරන්න පටන් ගන්නකොටම කව්රු හරි කෑගහනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පර්සි</author>
+            <date>2011-12-16 11:09:09</date>
+            <index>6</index>
+            <phrase>පොලිසියට ගල්මුල් ඇරෙන්න වෙන මොනවද දීල තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

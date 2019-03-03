@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>439389</articleId>
+    <title>සතොස හිටපු සභාපති අත්අඩංගුවට</title>
+    <author>ඉන්දිකා රාමනායකබිමල් ශ්‍යාමන් ජයසිංහ ඡායාරූප - ලහිරු හර්ෂණ</author>
+    <date>2016 ජූලි මස 21 12:40:23</date>
+    <body>ජනාධිපතිවරණ සමයේ  රජයේ  වාහන මැතිවරණ කටයුතු සඳහා  යොදා ගත්තැයි සතොස හිටපු සභාපති නලින් ප්‍රනාන්දු  කොළඹ අපරාධ විමර්ශන කොට්ඨාසය විසින් අත්අඩංගුවට ගනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2016-07-21 07:21:54</date>
+            <index>0</index>
+            <phrase>මේ වගේ තැන්වලට පත් කරන්නෙත් දේශපාලන පත්විමි. පත්වුනු අය කරන්නෙත් ඇමතිලාට කඩේ ගිහින් තමනුත් කටු ලෙවකන එකයි. මේ වැනි අයට වහාම නිතිය ක්‍රියාත්මක කල යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොනක</author>
+            <date>2016-07-21 07:23:18</date>
+            <index>1</index>
+            <phrase>මෙවැනි තැන් වලට දේශපාලන පත්විම් දෙන්නෙම මෙවැනි වැඩ පහසුවෙන් කරවා ගන්නමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් රාජකරුණා</author>
+            <date>2016-07-21 07:50:48</date>
+            <index>2</index>
+            <phrase>මේ විහිළු බලන්න නෙමෙයි මහත්තයෝ? අපි මේ ආණ්ඩුවට ඡන්දෙ දුන්නේ. අර බිලියන ගණන් ගසාකාපුව ආපහු ගන්න. මේවා දැනුත් වෙනවා. ආයේ මහින්දලා ආපු දවසට මේ ආණ්ඩුවේ කට්ටිය ඔහොම හිරේ දායි. එච්චරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-07-21 09:04:08</date>
+            <index>3</index>
+            <phrase>බිලියන ගණන් ගසාකාපුව වගේම යටින් ඉඳන් හින්නූලෙන් ගසා කාපු අයවත් කරලියට ගෙන ආ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-07-21 09:18:58</date>
+            <index>4</index>
+            <phrase>නිමල් රජකරුණා, බය වෙන්න එපා , මෙහෙඉන්න කවදාවත් අයිමත් බලයට එන්නෙ නැහැ, අාවත් ඔය කිසිම කෙනෙක් හිරෙ දමන්නෙ නැහැ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2016-07-21 10:09:05</date>
+            <index>5</index>
+            <phrase>හෙට ඇප දීලා එලියට දායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2016-07-21 10:19:19</date>
+            <index>6</index>
+            <phrase>හොරකම් ලොකු පොඩි නැ, මහජන සල්ලි කාපු උන්ටත් කන උන්ටත් විරුධව කටයුතු කරන්න කවුරුවත් එනකම් ඉන්න ඕන නැ, එම ආයතන නීතිගත කරලා ඒ කටයුතු කරන්න නිලධාරින්ට බලය දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

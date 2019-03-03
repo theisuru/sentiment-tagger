@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507434</articleId>
+    <title>ජ්‍යෙෂ්ඨ පුරවැසි ස්ථාවර ගිණුමේ උපරිම අගය ලක්ෂ 15 ට නංවයි</title>
+    <author>හර්ෂණ තුෂාර සිල්වා</author>
+    <date>2017 පෙබරවාරි මස 15 15:35:11</date>
+    <body>ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ ස්ථාවර ගිණුම්වලට කාර්තුවකට ගෙවන සියයට 15ක විශේෂ පොලී අනුපාතිකය සඳහා තිබිය යුතු උපරිම මුදල ලබන මාර්තු පළමුවැනිදා සිට රුපියල් ලක්ෂ 15 දක්වා වැඩි කිරීමට තීරණය කර ඇතැයි මුදල් අමාත්‍යාංශය අද(15) නිවේදනය කළේය.    මීට පෙර සියයට 15ක මෙම විශේෂ පොලී අනුපාතිකය සඳහා ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ ස්ථාවර ගිණුමක තිබිය යුතුව තිබූ උපරිම මුදල රුපියල් ලක්ෂ දහයක් විය.    වයස 60 ඉක්මවූ ජ්‍යෙෂ්ඨ පුරවැසියන්ගේ රුපියල් ලක්ෂ දහයක ස්ථාවර තැන්පතු සඳහා සියයට 15ක විශේෂ පොලී අනුපාතිකයක් පවත්වාගෙන යෑමට දින සියයේ වැඩසටහන යටතේ යෝජනා කැරිණි. </body>
+    <comments>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2017-02-15 12:03:53</date>
+            <index>0</index>
+            <phrase>මේවා ක්‍රියාත්මක වුනොත්නම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2017-02-15 12:20:38</date>
+            <index>1</index>
+            <phrase>එක්තරා පුද්ගලික බැංකුවක දැනටමත් 15% ගෙවනවා අවුරුදු 5 තැන්පතු සදහා, ඕනෑම කෙනෙකුට සහ ඕනෑම මුදල් ප්‍රමාණයකට...එම නිසා මේ ගෙවන පොලි ප්‍රමාණය තව වැඩි විය යුතු බව මගේ අදහස...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2017-02-15 12:29:21</date>
+            <index>2</index>
+            <phrase>යහපාලන ප්‍රතිපත්තියක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2017-02-15 12:31:21</date>
+            <index>3</index>
+            <phrase>හොද තීරණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා බර්ලින්</author>
+            <date>2017-02-15 13:34:05</date>
+            <index>4</index>
+            <phrase>රටේ ආර්ථිකය නගාසිටුවන්න නම් ව්‍යාපාරික සහ නිවාස ණය සඳහා වාර්ෂික පොලි අනුපාතය 9% වඩා අඩු කළ යුතුය එවිට මිනිස්සු ගෙවල් හදති , ව්‍යාපාරිකයෝ තම ව්‍යාපාර පුළුල් කරති , එමගින් රැකියා ඇතිවන අතර , මුදල් සංසරණය වීම මගින් රජයට බදු අාදායම් ලැබේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2017-02-15 14:44:29</date>
+            <index>5</index>
+            <phrase>ජ්‍යෙෂ්ඨ රජයේ වීශ්‍රාමික පුරවැසියනි, ඔබ තුමන්ලා ට දැන් සතුටුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමින්ද</author>
+            <date>2017-02-15 15:33:15</date>
+            <index>6</index>
+            <phrase>උපරිමද අවමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2017-02-16 04:13:54</date>
+            <index>7</index>
+            <phrase>ප්‍රමාදවී හෝ යහපලන රජය පොරොන්ඳු ඉටූකිරීම ගැන සතුටූයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙදගේ</author>
+            <date>2017-02-16 05:41:26</date>
+            <index>8</index>
+            <phrase>මහේෂ් නොදන්නවා උනාට මට දැනටමත් 15% පොලිය ලැබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

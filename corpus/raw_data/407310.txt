@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>407310</articleId>
+    <title>නියඟය නිසා ඉන්දියාවේ කෝටි 30ක් අමාරුවේ</title>
+    <author>නිලූක සඳුන් බණ්ඩාරනායක</author>
+    <date>2016 අපේ‍්‍රල් මස 20 21:35:04</date>
+    <body>ඉන්දියාවේ පවතින නියඟය නිසා කෝටි 30 කට අධික පිරිසක් පිඩාවට පත් වී ඇති බව එරට රජය ප්‍රකාශ කරයි.
+එම සංඛ්‍යාව එරට ජනගහනයෙන් හතරෙන් එකක් බවට වාර්තා වෙයි. මේ නිසා ප්‍රදේශ රැසක ගොවීන්ට ද ගැටළු රාශියක් ඇති වී තිබේ.
+නියඟයට හෙතුවී ඇත්තේ මෝසම් වර්ෂාවෙන් වැසි ලබන ඉන්දියාවට වසර දෙකක සිට පමණ මෝසම් වැසි මනාව නොලැබීමයි. එමෙන්ම ඉන්දියාවේ උෂ්ණත්වය සෙන්ටිග්‍රේඩ් අංශක 40ක් පමණ බවට වාර්තා වෙයි. එම අගය ඉදිරි දින වල 45 දක්වා වැඩි වනු ඇති බවට විශ්ලේෂකයෝ පවසති.
+ ඉන්දීය ප්‍රිමියර් ලිග් තරගාවලියේ මහාරාෂ්ට්‍රා ප්‍රාන්තයේ තරග සියල්ලම ද මේ නිසා තහනම් කරන ලදී.
+එමෙන්ම අත්‍යවශ්‍ය නොවන කාර්යන් සදහා ජලය භාවිත කිරීමද තහනම් කර තිබේ.</body>
+    <comments>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-04-21 00:18:59</date>
+            <index>0</index>
+            <phrase>අපි සියළුදෙනාම ස්වභාව ධර්මයේ පාලනයට යටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2016-04-21 10:57:38</date>
+            <index>1</index>
+            <phrase>ඔය තරම් තමන්ගේ රටේ විසදන්න ප්‍රශ්න තියෙද්දී මොකටද අපට ආධාර කරන්න එන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-04-21 14:49:35</date>
+            <index>2</index>
+            <phrase>නොකා නොබී දෙවියන්ට පුද සත්කාර කරන්නේ ඒ වුනාට වැස්සත් දුක පැව්වත් දුක බස් එකේ ගියත් දුක දැන් අහන්න දෙවියනි ඔබ කොහිද ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමාධි</author>
+            <date>2016-04-22 09:23:14</date>
+            <index>3</index>
+            <phrase>කාට කියන්නද මේ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුර</author>
+            <date>2016-04-22 09:22:33</date>
+            <index>4</index>
+            <phrase>ඉන්දියාවත් එක්ක බලත්දී ලංකාව සුර පුරයක්,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-04-22 20:02:33</date>
+            <index>5</index>
+            <phrase>සෑමදෙයම නුහුරට දකින, අන්‍යන්ගේ විශ්වාසයන්ට ගරහන අයත් අපි අතර ඉන්නා බව අපි දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලිලන්ත</author>
+            <date>2016-04-23 22:05:37</date>
+            <index>6</index>
+            <phrase>අනේ! මේ ජනතාවට ඉක්මනින් සහනයක් ලබාදෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16207</articleId>
+    <title>ග්‍රේරුට තහනමක්</title>
+    <author>සුජිත් මංගල සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 06 16:22:41</date>
+    <body>කොළඹ දිස්ත්‍රික් එක්සත් ජාතික පක්ෂ පාර්ලිමේන්තු මන්ත්‍රී මොහාන් ලාල් ග්‍රේරු මහතාගේ පක්ෂ සමාජිකත්වය වහාම අත්හිටුවීමට පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා තීරණය කළ බව මහා ලේකම් තිස්ස අත්තනායක මහතා කියයි. ග්‍රේරෝ අයවැය විවාදයේ දී රජයට එක්විය.</body>
+    <comments>
+        <comment>
+            <author>සොමිදු</author>
+            <date>2011-12-06 16:54:48</date>
+            <index>0</index>
+            <phrase>දෑත් ශක්තිමත් කරන්නනෙ ගියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2011-12-06 16:29:57</date>
+            <index>1</index>
+            <phrase>හොද අදහසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

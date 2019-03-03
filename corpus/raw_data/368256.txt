@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>368256</articleId>
+    <title>බස් රිය ලොරියේ ගැටෙයි : රියදුරු මරුට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ  රංජිත් කරුණාවීර ඡායාරූප - සිරිවර්ධන එම්ගුණසේකර</author>
+    <date>2015 දෙසැම්බර් මස 10 20:08:03</date>
+    <body>පදියතලාව මාඔය මාර්ගයේ ගල්ඕඩය පාලම අසලදී ලොරි රථයක් හා ලංගම බස් රථයක් ගැටීමෙන් එක් අයකු මිය ගොස් 27 දෙනකු තුවාල ලබා ඇතැයි පොලිසිය කියයි.
+ලොරි රථයේ රියදුරු අනතුරින් මියගිය අතර ත්‍රිකුණාමලයේ සිට බිබිල කෘෂිකර්ම ව්‍යාපෘතියකට සහභාගී වී ආපසු යමින් සිටි පිරිසක් රැගත් බස් රථය එසේ අනතුරට ලක්ව ඇත.</body>
+    <comments>
+        <comment>
+            <author>විභූති</author>
+            <date>2015-12-10 16:34:49</date>
+            <index>0</index>
+            <phrase>අපරාදේ වටිනා ජීවිතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කණිෂ්ක</author>
+            <date>2015-12-10 17:40:25</date>
+            <index>1</index>
+            <phrase>අනේ දෙවියනේ මෙහෙමත් දේවල්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2015-12-10 23:49:39</date>
+            <index>2</index>
+            <phrase>ලංකාවේ දැන් එන්න එන්නම රිය අනතුරු වැඩිවෙනවා. මෙවැනි අනතුරක් අහන්නට නැති දවසක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියපාල හේවගේ</author>
+            <date>2015-12-11 02:14:22</date>
+            <index>3</index>
+            <phrase>මෙම තත්වය රටේ සමස්ත රිය පැදවීමේ නීති බිඳවැටීමේ තවත් එක ප්‍රතිඵලයකි. මිනිසුන් රියදුරන් ලෙස හැසිරෙන , හිතන සහ ක්‍රියාකරන ආකාරයේ දියුණුවක් ඇති කරගන්නේ නැත්නම් මෙම තත්වය පාලනය කරගත නොහැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මසිරි</author>
+            <date>2015-12-11 04:13:01</date>
+            <index>4</index>
+            <phrase>මෙයට ආරක්ෂාව අඩු වාහන තිබීමත් බලපානවා.එම වාහන පදින අයට එහි වටිනා කමක් නෑ ..හොදට බලන්න අනතුරු වලින් 75% ක් ම වෙන්නේ අඩු මිල වාහන නිසා.....මගී ආරක්ෂාව වැඩි වාහන ලංකාවේ භාවිතය වැඩි කරන්න ඕනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලවතුගොඩ</author>
+            <date>2015-12-11 06:31:44</date>
+            <index>5</index>
+            <phrase>බීමත්ව රිය පැදවීම රිය අනතුරු සදහා ප්‍රධාන හේතුවක්. රියදුරු යනු මගී ජීවිත වලට වගකිව යුතු පුද්ගලයෙක්. අහිමි වන ජීවිතයක වටිනාකම අනෙක් කාටවත් වඩා වටින්නේ ඔහුගේ හෝ අයගේ පවුලේ සාමජිකයන්ට. සමහර විට එය මෙලොව නොබෝ දිනකින් උපදින්නට සිටින දරුවෙකුට තම පියා අහිමි වීමකි. එවන් අවාසනාවක් තවත් ඇත්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2015-12-11 14:49:28</date>
+            <index>6</index>
+            <phrase>ධර්මසිරි හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2015-12-12 17:26:17</date>
+            <index>7</index>
+            <phrase>මාර්ග විනය එක් කෙනෙක්ගේ නැතිවුණාම ඇති රිය අනතුරක් සිදුවෙන්නට. හැම කිලෝමීටරයක් ගානෙම පොලිසියෙන් දාන්නද? කෙසේවෙතත් රථ වාහන පොලිස් අංශයට නම් වැඩිපුර මාර්ග නිලදරුවන් අනුයුක්ත කරන්න වෙනවා දවස ගානේ වැඩිවන වාහන කන්දරාවට ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලි</author>
+            <date>2015-12-13 03:37:14</date>
+            <index>8</index>
+            <phrase>ටිපර් කාරයෝ කොහොමටත් යන්නේ එයාලාගේ පාර වාගේ නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-12-18 18:21:32</date>
+            <index>9</index>
+            <phrase>තරඟකාරී සමාජය ජයගන්න රෑ දවල් නොබලා දුවනවා. අන්තිම ප්‍රතිඵලය මරණය වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>404793</articleId>
+    <title>මනූෂ වැඩ බාර ගනියි</title>
+    <author>ඉෂාන් සංජීව</author>
+    <date>2016 අපේ‍්‍රල් මස 11 14:23:18</date>
+    <body>විදේශ රැකියා නියෝජ්‍ය ඇමැති මනූෂ නානායක්කාර කොළඹ කොටුව බ්‍රිස්ටල් වීදියේ අමාත්‍යංශයේ දී වැඩ බාර ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2016-04-11 19:24:09</date>
+            <index>0</index>
+            <phrase>බොහොම ‍හොඳයි. සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

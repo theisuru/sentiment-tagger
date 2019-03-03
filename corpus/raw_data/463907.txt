@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463907</articleId>
+    <title>ලක් දියණියෝත් උතුරු මහ ඇමති හෙළා දකිති</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 ඔක්තෝබර් මස 03 14:40:03</date>
+    <body>ජාතික නිදහස් පෙරමුණට අනුබද්ධ 'ලක්මව දියණියෝ ' කොටුව දුම්රියපොළ ඉදිරිපිටදි උතුරු මහ ඇමති විග්නේෂ්වරන්ට එරෙහිව විරෝධතාවයක නිරත වූහ.</body>
+    <comments>
+        <comment>
+            <author>ජනිත</author>
+            <date>2016-10-03 15:52:50</date>
+            <index>0</index>
+            <phrase>මෙහෙමවත් විරෝධතාවයක් පාන්න කාන්තාවන් ලක් මවගේ ඉන්නවා කියල අහන්නත් සතුටුයි. අසත්පුරුෂයෝ මේකටත් මොනවා හෝ කියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-04 00:27:00</date>
+            <index>1</index>
+            <phrase>මේ පින්තූර පිටුපස බුදු පිළිමයක් තියෙනවා නේද? අපි ඉගෙනගත්තේ පිළිම වහන්සේලාට පිටුපා හිටගන්න එපා කියලා. කොටියාත් බටහිර අධිරාජ්‍යවාදයත් දන්නවා ලංකාවේ තියෙන්නේ මූනිච්චාව සහ අන්ධ භක්තිය විතරයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2016-10-04 02:44:11</date>
+            <index>2</index>
+            <phrase>30 දෙනෙක්වත් නැහැනේ. ඔන්න සැබෑ බලය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමාල්</author>
+            <date>2016-10-04 03:21:35</date>
+            <index>3</index>
+            <phrase>කොටුව දුම්රියපොළ ඉදිරිපිටදි කාට පේන්නද? උතුරු පළාතට ගිහින් යාපනය දුම්රියපොළ ඉදිරිපිට උද්ඝෝෂණය කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

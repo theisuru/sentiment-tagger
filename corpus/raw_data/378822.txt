@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>378822</articleId>
+    <title>ආයෙත් ඉරාන තෙල් ලංකාවට?</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2016 ජනවාරි මස 21 12:11:55</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-01-21 16:00:47</date>
+            <index>0</index>
+            <phrase>ඉරාන තෙල් සහ අපගේ තේ ගනුදෙනුව යළි පණගන්වමු! මේ තුළින් රටට විශාල වාසියක් ගොඩ නගාගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන</author>
+            <date>2016-01-23 07:41:35</date>
+            <index>1</index>
+            <phrase>ඉරාන තෙල් සහ අපගේ තේ ගනුදෙනුව යළි පණගන්වමු! මේ තුළින් රටට විශාල වාසියක් ගොඩ නගාගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

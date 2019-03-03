@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>344956</articleId>
+    <title>සෙල්ෆිය ෆයර් වී තරුණයා මරු දකී</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 සැප්තැම්බර් මස 02 22:26:40</date>
+    <body>ගිනි අවියක් අතේ තියාගෙන සෙල්ෆියක් ගැනීමට ගිය ඇමෙරිකා තරුණයකු මරුමුවට පත්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+ඩීලිඔන් අලොන්සෝ ස්මිත් (19) නමැති මේ තරුණයා ඡායාරූපය ගැනීමේ දී අවිය පත්තුවී ඇතැයි පොලිසිය කියයි. ඔහුගේ උගුරට හානි සිදුවීම මරණයට හේතුවක් බව වෛද්‍යවරු පවසා ඇත. ත්‍රාසජනක සෙල්ෆි ඡායාරූප ගැනීමට උත්සාහ කිරීමේ දී මරණ කිහිපයක් ම ලොව පුරා වාර්තා වී ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2015-09-03 02:31:05</date>
+            <index>0</index>
+            <phrase>වඳුරන්ට දැලිපිහිය අහුවුණා වගේ නව තාක්ෂණය පාවිච්චි කරන අපේ " ඊනියා සමහර තරුණයන්ට " මේක හොඳ පාඩමක්"!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2015-09-03 08:59:36</date>
+            <index>1</index>
+            <phrase>මේ සෙල්ෆි තමයි බයම වැඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-09-03 14:58:23</date>
+            <index>2</index>
+            <phrase>අපේ තරුණයන්ට මොකද වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හැමත</author>
+            <date>2015-09-04 08:39:24</date>
+            <index>3</index>
+            <phrase>ජයාත් මල්ලි ඊනියා කියන වචනේ තේරුම ඇවිල්ල ' බොරු' ,' වංචාකාරී ' කියන අදහස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2015-09-08 11:33:24</date>
+            <index>4</index>
+            <phrase>දන්නේ නැති වචන පාවිච්චියත් මේ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

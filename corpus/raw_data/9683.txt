@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9683</articleId>
+    <title>පාතාලයා අල්ලයි</title>
+    <author>ශිරෝමි මොරගොඩ</author>
+    <date>2011 ඔක්තෝබර් මස 18 17:25:06</date>
+    <body>මිනුවන්ගොඩ පාතාල කල්ලි නායකයකු විසින් ගෝලයන් පස් දෙනකු සමග මිනුවන්ගොඩ ව්‍යාපාරිකයකු ඝාතනය කිරීමට යමින් සිටිය දී ගිනි අවි තුනක් ද සමග අත්අඩංගුවට ගැනීමට පොලිස් විශේෂ කාර්ය බළකායේ විශේෂ අවි හා උපක‍්‍රමික කණ්ඩායම සමත්විය. කප්පම් නොදුන් නිසා කොන්ත‍්‍රාත්තුවක් මත ඔහු ඝාතනය කිරීමට සැලැසුම් කරන්නට  ඇතැයි දැනගන්නට ඇත.</body>
+    <comments>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2011-10-22 09:41:04</date>
+            <index>0</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නසිති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

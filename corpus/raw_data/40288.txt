@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40288</articleId>
+    <title>‘තුන් වසරක් නිකරුණේ රිමාන්ඩ්‘</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මැයි මස 03 16:25:50</date>
+    <body>මානසික රෝගියකු බව කියන පුද්ගලයකු බම්බලපිටිය මුහුදු වෙරළේදී ගිලී මිය ගිය සිද්ධියේ පොලිස් සැකකරුවනට ඇපදී තිබියදී තමා තුන් වසරක් පුරා රිමාඩ් බාරයේ සිටියැයි පතිරගේ රාජා නම් සැකකරුවෙක් කොළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතාට තම දුක්ගැනවිල්ල කීවේය.
+කුලී වැඩ කරන්නකු වන තමා එම පුද්ගලයා-බාලවර්ණම් සිවකුමාර්-- ගොඩ ගැනීමට ගිය බවත්, මේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන සිටි පොලිස් නිලධරයාට යළි රස්සාවද දී ඇති බවත් ඔහු කීවේය.
+මහාධිකරණයට ඇප අයදුමක් ඉදිරිපත් කරන්නැයි මහේස්ත්‍රාත්වරයාට කීවිට රාජා පැවසුවේ එවැනි දෙයක් කිරීමට හැකියාවක් නැති බවයි. ඔහු නීති ආධාර කොමිසමේ සහාය ලබා දෙන්නැයි මහේස්ත්‍රාත්වරයා බන්ධනාගාරයට උපදෙස් දුන්නේය.
+මේ සිද්ධියේ ප්‍රධාන සැකකාර පොලිස් කොස්තාපල් දිමුතු සොම්නාස් රිමාන්ඩ් බාරයේ දිටියදී මිය ගියේය.</body>
+    <comments>
+        <comment>
+            <author>දුලිප්</author>
+            <date>2012-05-03 17:07:29</date>
+            <index>0</index>
+            <phrase>අහිංසක මිනිසුන්ට කාගේ පිහිටක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්-rome italy</author>
+            <date>2012-05-03 17:52:54</date>
+            <index>1</index>
+            <phrase>දැන් බලනකොට මිනිස්සුන්ව බේර ගන්න අය ඔක්කොම වගේ හිරේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ ඉතාලියේසිට..</author>
+            <date>2012-05-03 18:06:36</date>
+            <index>2</index>
+            <phrase>නීතියේ එතනම හිලක්‌.ඕක වහන්න පුලුවන් ජගතෙක්‌ තවම ඉපදිලා නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-05-03 18:31:33</date>
+            <index>3</index>
+            <phrase>අපේ ඉඩම් නඩුවක් තියෙනවා 1982 ඉදන් ....තව ඉවර නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත ලොකුගේ</author>
+            <date>2012-05-04 06:02:48</date>
+            <index>4</index>
+            <phrase>ඔබ සියළු දෙනාට ගොඩාක් පින් මේ කරපු දේට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්වින්</author>
+            <date>2012-05-04 08:07:43</date>
+            <index>5</index>
+            <phrase>කොහොමද දැන් එයාට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

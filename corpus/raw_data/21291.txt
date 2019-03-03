@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21291</articleId>
+    <title>තැබෑරුමේ ගහගෙන හිරේ ළගිති</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 ජනවාරි මස 09 19:27:52</date>
+    <body>ඉතාලියේ මිලානෝ නුවර සුරාහලක සිගරැට් මැෂිමකින් සිගරැට් ගැනීමේ සිද්ධියක් සම්බන්ධයෙන් ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයන් හා පිලිපීන වැසියන් අතර පැවැති ගුටිබැට හුවමාරුවක් සම්බන්ධයෙන්  ශ්‍රී ලාංකිකයෝ තිදෙනෙක් හා පිලිපීන ජාතිකයෝ තිදෙනෙක් රිමාන්ඩ් කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-01-09 19:36:35</date>
+            <index>0</index>
+            <phrase>රටකට ගිහිල්ලවත් බේබදු කම අත් අරින් බැරි හැටි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>shah</author>
+            <date>2012-01-09 21:11:20</date>
+            <index>1</index>
+            <phrase>කොහෙ ගිටත් රටේ නම තියලා එනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරුවින්</author>
+            <date>2012-01-10 12:06:17</date>
+            <index>2</index>
+            <phrase>මේ රටේ ඉන්න බැරි අය තමයි රට යන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාම්</author>
+            <date>2012-01-11 09:40:43</date>
+            <index>3</index>
+            <phrase>ලංකාවට පිට රටවල අය බයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොද්‍රිගූ</author>
+            <date>2012-01-11 14:21:41</date>
+            <index>4</index>
+            <phrase>සියල්ලටම වඩා පුරුද්ද ලොකුනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30095</articleId>
+    <title>ජනපතිත් රකින බව අර්ජුන කියයි</title>
+    <author>බන්දු තඹවිට</author>
+    <date>2012 මාර්තු මස 06 13:29:49</date>
+    <body>ජිනීවා මානව හිමිකම් කවුන්සිලෙන් ඇවිත් ජනාධිපති හා හමුදා නායකයන් ඩැහැගනිතියි සමහරුන් කියනවා. එහෙම කරන්න කාටවත් බැහැ. අපි ආණ්ඩු පක්ෂයේ හිටියත් විපක්ෂයේ හිටයත් ඊට ඉඩ දෙන්නේ නැහැ‘යි ප්‍රජාතන්ත්‍රවාදී එක්සත් පෙරමුණේ මන්ත්‍රී අර්ජුන රණතුංග මහතා මතුගමදී ප්‍රකාශ කළ්ය.
+අප රටේ කිසිවකු අන්තර්ජාතික යුධ අධිකරණයට ගෙන යෑමට කිසි විටෙකත් ඉඩ නොදෙන බවද ඔහු කීවේය.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-03-06 13:59:49</date>
+            <index>0</index>
+            <phrase>ඇමැතිකමක් ගන්න යනවා කියලා ආරංචියක් තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්</author>
+            <date>2012-03-06 14:35:48</date>
+            <index>1</index>
+            <phrase>කතාවෙ හිටියට නම් එහෙම තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Samson Silva</author>
+            <date>2012-03-06 14:40:27</date>
+            <index>2</index>
+            <phrase>එයා කොහොමත් එලියෙ ඉන්නෙ, තිළංග ඇතුලෙ නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

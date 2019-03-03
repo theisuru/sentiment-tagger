@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498058</articleId>
+    <title>ඇවන්ගාඩ් වන්දි නඩු විභාගය පෙබරවාරි 15</title>
+    <author>තිළිණි ද සිල්වා රංජන් කටුගම්පොළ</author>
+    <date>2017 ජනවාරි මස 11 19:47:00</date>
+    <body>තමන්ට අයත් පාවෙන අවි ගබඩාව සහ   මහනුවර නෞකාව නාවික හමුදාපතිගේ බාරයට ගැනීමෙන් සිදුවූ හානියට වන්දි ලෙස රුපියල් කෝටි 240 ක්   ඉල්ලා ඇවන්ගාඩ් මැරිටයිම් ස්ර්විසස් (පෞද්ගලික) සමාගම   පවරා ඇති නඩුව පෙරවාරි 15 වැනිදා විභාගයට ගැනීමට කොළඹ දිසා අධිකරණය තීන්දු කළේය.
+නාවික හමුදාපති වයිස් රද්මිරාල් රවීන්ද්‍ර සී විජේගුණරත්න සහ නීතිපති මෙම නඩුවෙන් වගඋත්තරකරුවෝ කරනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2017-01-11 19:29:47</date>
+            <index>0</index>
+            <phrase>එහෙම ගත්තා කියලා අවාසියක් වුණේ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-01-12 10:15:00</date>
+            <index>1</index>
+            <phrase>අන්න සිංගප්පූරුවේ නඩු තීන්දුවක් දීල ලොකු වන්දියක් ගෙවන්න නියම කරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-01-13 03:37:12</date>
+            <index>2</index>
+            <phrase>දහම්, දැන් ඔය නඩු තීන්දුව අපේ රටේ ක්‍රියාත්මක කරයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

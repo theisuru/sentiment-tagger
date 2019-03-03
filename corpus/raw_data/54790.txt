@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54790</articleId>
+    <title>රාහුල් ශර්මාත් කුඩු ගහලා</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 ජූලි මස 22 14:43:32</date>
+    <body>ඉන්දියා ක‍්‍රිකට් ක‍්‍රීඩක රාහුල් ශර්මා හා දකුණු අප‍්‍රිකා ක‍්‍රීඩක වේන් පාර්තාල් මත්ද්‍රව්‍ය ගත් බවට වෛද්‍ය වාර්තා ලැබී ඇතැයි හින්දු පත‍්‍රය කියයි.
+පසුගිය මැයි මාසයේ සාදයක් අවසානයේ ඇතිවූ කලබලයකින් පසු අත්අඩංගුවට ගත් අනූ දෙනකුගෙන් මේ දෙදෙනා ද ඇතුළු 86 දෙනකු මත්ද්‍රව්‍ය ගෙන සිටි බවට වෛද්‍ය වාර්තා ලැබී ඇත.
+මුම්බායි අතිරේක පොලිස් කොමසාරිස් විශ්වාස් නැන් ශ්‍රී පටිල් හින්දු පත‍්‍රයට කීවේය.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-22 15:02:27</date>
+            <index>0</index>
+            <phrase>කුඩු කියන්නම බැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිල කිරිබත්ගොඩ</author>
+            <date>2012-07-22 15:10:40</date>
+            <index>1</index>
+            <phrase>එහනම් "අමිල පවර් " වෙන්නැති නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-22 17:08:52</date>
+            <index>2</index>
+            <phrase>අයියෝ දෝනී..ඔයගොල්ලෝ මෙහෙමද තරඟ දිනන්නේ ..?කුජීතයි නේද ????????????????.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-23 11:40:43</date>
+            <index>3</index>
+            <phrase>පුදුමයි මේක ඉන්දියාව පිළිගත්ත කිව්වමත්........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

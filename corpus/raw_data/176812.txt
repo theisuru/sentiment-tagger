@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>176812</articleId>
+    <title>එක්ස් බෑන් 2013</title>
+    <author>ගයාන් මධුසංඛ හෙට්ටිආරච්චි</author>
+    <date>2013 ඔක්තෝබර් මස 14 10:25:26</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චමිල මහේෂ් රණතුංග</author>
+            <date>2013-10-16 00:15:28</date>
+            <index>0</index>
+            <phrase>මෙහි තිබූ ආදිවාසි ගම්මානය මහත් සේ පැසසිය යුතුය මක්නිසාද යත් පාරිසර දුෂණය විශාල ප්‍රශ්නයක් වී ඇති රටක් ලෙස ඔවුන්ගේ මෙම උත්සාහය තුලින් නිර්මාණශීලිව සංස්කෘතික හා සදාචාර පිරිහීමටත් පරිසර දුෂණය පිටු දැකීමටත් කටයුතු කර තිබුණු නිසාවෙනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරිදු</author>
+            <date>2013-10-16 18:49:43</date>
+            <index>1</index>
+            <phrase>අපේ කොල්ලෝ දෙයක් කළොත් ආයේ මොනවද? නියමයි මල්ලිලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>62012</articleId>
+    <title>පැරා ඔලිම්පික් අසිරිය</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 අගෝස්තු මස 31 14:23:51</date>
+    <body>ලන්ඩනයේ පැරා ඔලිම්පික් ආබාධිත ක්‍රිඩා තරගය උත්සවාකාරයෙන් ලන්ඩන් ඔලිම්පික් ගම්මානයේ දී ඇරැඹිණි. ශ්‍රී ලංකාවේ ද පිරික් මේ තරගෙට සහභාගී වෙති.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-31 16:36:52</date>
+            <index>0</index>
+            <phrase>බලන්න කොයිතරම් ලස්සනද කියලා? අපේ සියලුම ක්‍රීඩකයන්ට සුභ පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තසන්ක</author>
+            <date>2012-08-31 17:21:36</date>
+            <index>1</index>
+            <phrase>අපේ කණ්ඩායමේ පින්තුරයක් දාන්න අමතක වුණාවත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා රෝමේ</author>
+            <date>2012-08-31 21:20:55</date>
+            <index>2</index>
+            <phrase>අපේ නිලධාරින් කිදෙනකු ගියා ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-31 21:47:49</date>
+            <index>3</index>
+            <phrase>ඔබ ලොවට ආඩම්බරයකි. සියලු ක්‍රීඩකයන්ට සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසේරා</author>
+            <date>2012-09-01 03:11:02</date>
+            <index>4</index>
+            <phrase>මේ ලස්සන පැරා ඔලිම්පික් උළෙල දැකගැනීමට ලැබීමද වාසනාවකි. ඡායාරූප වල දක්වා ඇති පරිදි භෞතික විද්‍යාඥ ,තාරකා විද්‍යාඥ ස්ටෙෆාන් මහතාද පැරා ඔලිම්පික් උළෙලට සහභාගි කර ගැනීම ඉතාමත් උත්තරීතර ප්‍රශංසනීය සිද්ධි‍යකි. ඔහුගෙන් නවීන විද්‍යාවට ලැබී ඇති අසීමිත සේවය සඳහා මේ අයුරින් හෝ ඔහුට ගෞරව තිරීමට අවස්ථාවක් ලබාදීම ඉතාමත් අගය කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෆීක්</author>
+            <date>2012-09-01 10:52:40</date>
+            <index>5</index>
+            <phrase>ලංකාවට ජයක් අත්වේවා........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෆාස්</author>
+            <date>2012-09-01 11:29:50</date>
+            <index>6</index>
+            <phrase>සියළු ක්‍රීඩකයින්ට සුභ පැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රා</author>
+            <date>2012-09-01 13:32:09</date>
+            <index>7</index>
+            <phrase>නිලධාරීන් කීදෙනෙක් ගියාද නෙමෙයි, ක්‍රීඩකයන් ගණනට නිලධාරීන් කී දෙනෙක් ගියාද කියලයි බලන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

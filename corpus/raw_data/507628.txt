@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507628</articleId>
+    <title>තොරතුරු දැන ගැනීමේ පනත යටතේ  මුදල් ඇමති රවීගේ වත්කම් පිළිබඳ විස්තර ඉල්ලයි</title>
+    <author>විනීතා එම් ගමගේ</author>
+    <date>2017 පෙබරවාරි මස 16 13:39:29</date>
+    <body>පාරිභෝගික අයිතීන් සුරැකීමේ ව්‍යපාරය  මුදල් අමාත්‍ය රවි කරුණානායක මහතා ගේ වත්කම් පිළිබඳ විස්තරයක් ඉල්ලා පාර්ලිමේන්තු මහ ලේකම්වරයා වෙත ලිපියක් යැවූ බව පාරිභෝගික අයිතීන් සුරැකීමේ ව්‍යපාරයේ සභාපති රංජිත් විතානගේ මහතා පවසයි.
+2016 අංක 12 දරන තොරතුරු දැන ගැනීමේ පනත යටතේ මෙම ඉල්ලීම කළ බව ද ඒ මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2017-02-16 11:02:09</date>
+            <index>0</index>
+            <phrase>පාරභෝගික අයිතීන් සුරැකීමේ ව්‍යපාරය මෙදාපාර අලිමංකඩ කියල පාමංකඩ යන්න වගේ හදන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2017-02-16 11:28:11</date>
+            <index>1</index>
+            <phrase>මේවගේ දෑත් පිරිසිදු අහිංසක රට වෙනුවෙන් දිවා රෑ වෙහෙසෙන මෙයාටත් ඉන්න දෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2017-02-16 12:13:09</date>
+            <index>2</index>
+            <phrase>අගට දමන බින්දු ගණන ලියන්න කොළ මදිවෙයි. පාර්ලිමේන්තුවට පැමිණි පසු හා ඊටපෙර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂයන් සෞදි</author>
+            <date>2017-02-16 12:37:47</date>
+            <index>3</index>
+            <phrase>මේ අයිතිය හරහා රාජපක්ෂ පරම්පරාවේ වත්කම් පිළිබඳ විස්තර ඉල්ලන්න. දස වසරක කෙරුවාව හොඳින් බලාගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල වේලාරත්න</author>
+            <date>2017-02-16 15:03:35</date>
+            <index>4</index>
+            <phrase>රවීගේ තොරතුරු ලබාගෙන යහපාලනය පෙන්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2017-02-16 16:31:01</date>
+            <index>5</index>
+            <phrase>අද වැදගත්ම, අත්‍යාවශ්‍යම තොරතුර වන්නේ මේකද? එතකොට මෙතෙක්කල් වත්කම් ප්‍රකාශ කර නැති හෝ සාවද්‍ය ප්‍රකාශ සිදුකොට ඇති අය ගැන සහ ඔවුන්ගේ වත්කම් ගැන විමසීමට අමතක කිරීම ගැන මොකද කියන්නේ? නිදාගෙන සිටින සිංහයන් සහ ව්‍යාඝ්‍රයන් අවදිකරවා ගැනීමේ ප්‍රතිඵලය තවත් පළිගැනීම් පෙළක් බවට පෙරළීමක ආරම්භය වෙයිද? කළ මනා, නොකළ මනා දේ හඳුනාගෙන කටයුතු කළොත් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2017-02-16 16:57:16</date>
+            <index>6</index>
+            <phrase>ඉලක්කම් ටික ලියන්න කොළ අමුණන්න වෙනවා. දුප්පත් මිනිසුන්ට පාඩුවේ ඉන්න දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2017-02-16 17:21:34</date>
+            <index>7</index>
+            <phrase>පාරිභෝගික අයිතීන් සුරැකීමේ ව්‍යපාරය මුදල් අමාත්‍ය රවි කරුණානායක මහතාගේ වත්කම් විතරද ඉල්ලන්නේ අනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

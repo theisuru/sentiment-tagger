@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17645</articleId>
+    <title>ඒකක අනූවට විදිලි සැර නොවදී</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 15 17:32:15</date>
+    <body>විදුලි ඒකක අනුවේ සහනය දිගටම පවත්වාගෙන යන බව විදුලි බල ඇමැති පාඨලී චම්පික රණවක මහතා පාර්ලිමේන්තුවේදි පැවසීය.
+එය තිහ දක්වා අඩු නොකරන බවත් ඒකක 90%වට වඩා අඩුවෙන් පාවිච්චි කරන පාරිභෝගිකයන් 78% සිටින බවත් ඇමැති කිවේය.</body>
+    <comments>
+        <comment>
+            <author>රේණුක</author>
+            <date>2011-12-15 18:29:04</date>
+            <index>0</index>
+            <phrase>Ane.Loku Udawwak. අනේ ලොකු උදව්වක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනස්</author>
+            <date>2011-12-15 20:25:12</date>
+            <index>1</index>
+            <phrase>දුප්පතාගේ දුක යන්තම් ටිකක් තේරිලා...දිගටම පවත්වාගෙන යාම යාවත්කාලීනයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2011-12-16 01:56:36</date>
+            <index>2</index>
+            <phrase>අනේ ඇමැතිතුමනි අපට මොකද වෙන්නෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

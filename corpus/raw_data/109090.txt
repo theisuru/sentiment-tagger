@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>109090</articleId>
+    <title>අවුරුද්දට කළු ගඟේ ජල ක‍්‍රීඩා</title>
+    <author>රත්නසිරි පේ‍්‍රමලාල්</author>
+    <date>2013 අපේ‍්‍රල් මස 17 11:40:23</date>
+    <body>මතුගම තෙඹුවන පියනන්ද හිමි පදනම සහ තෙඹුවන පොලිසිය එක්සත් ක‍්‍රීඩා සමාජය එක්ව සංවිධාන කළ බක් මහ උළෙල තෙඹුවන ක‍්‍රීඩා පිටියේදී පැවැත්විණි. පිහිනුම් තරඟ සහ ඔරු පැදීමේ තරඟ පැවැත්වුනේ කළු ගෙඟ්දීය.</body>
+    <comments>
+        <comment>
+            <author>ටිරාන්</author>
+            <date>2013-04-17 11:46:54</date>
+            <index>0</index>
+            <phrase>ඔරු ගඟේ පදින්නේ නැතුව මහා පාරේ පදින්නද අනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-04-19 13:37:28</date>
+            <index>1</index>
+            <phrase>මීට අවුරුදු ගානකට කලින් හල්වතූර තොටුපොලේ මෙම උත්සවය ජයට තිබුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

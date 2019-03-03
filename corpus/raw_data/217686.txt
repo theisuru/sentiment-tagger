@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>217686</articleId>
+    <title>මිලානෝ ලාංකියෝ ජීනීවා යෝජනා හෙළා දකිති</title>
+    <author>ශමින් පණ්ඩිතරත්න සහ චමින්ද මඩවල</author>
+    <date>2014 මාර්තු මස 17 15:33:04</date>
+    <body>එක්සත් ජාතීන්ගේ මානව හිමිකම් සැසියේ දී ශ්‍රී ලංකාවට එරෙහිව ගෙන ඒමට  නියමිත යෝජනාවට එරෙහිව ඉතාලියේ මිලානෝ  නුවර ශ්‍රී ලාංකිකයෝ පෙළපාළියක් හා උද්ඝෝෂණයක් පැවැත්වූහ.
+‘ත්‍රස්තවාදයට උදවු නොකරනු ’, ‘ශ්‍රී ලංකාව දෙකට බෙදීමේ කොටි කුමන්ත්‍රණ පරදවමු ‘ ආදී සටන් පාඨ කියමින් පියස්ස රිපුබ්බ්ලික සිට මිලානෝ ප්‍රධාන දුම්රිය ස්ථානය දක්වා පෙළපාළියකින් පැමිණි උද්ඝෝෂකයෝ එහි රැළියක් පැවැත්වුහ.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>සාම</author>
+            <date>2014-03-17 15:56:47</date>
+            <index>0</index>
+            <phrase>විවිධ අභියෝග හමුවේ රට වෙනුවෙන් හඬ නැගීමට එක්වූ ඔබට අපගේ ප්‍රණාමය පුද කරමු!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2014-03-17 16:25:46</date>
+            <index>1</index>
+            <phrase>ජය ජය ලංකා මාතා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2014-03-17 16:32:07</date>
+            <index>2</index>
+            <phrase>රට ගැන කැක්කුමක් ඇති ඔබ හැමෝටම ලංකා මාතාවගේ උපහාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොනිල්</author>
+            <date>2014-03-17 16:44:38</date>
+            <index>3</index>
+            <phrase>ජයවේව ඔබ සැමට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් විමලසූරිය</author>
+            <date>2014-03-17 16:57:56</date>
+            <index>4</index>
+            <phrase>ලස්සන වැඩක් ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයමාල්</author>
+            <date>2014-03-17 16:59:58</date>
+            <index>5</index>
+            <phrase>නියම ලාංකික දරුවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරනිමල</author>
+            <date>2014-03-17 17:06:04</date>
+            <index>6</index>
+            <phrase>දැන් අර ටීවී චැනල් දෙකම කියගනිවී මේකේ අනුග්‍රහය එයාලගෙන් කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-03-17 18:50:09</date>
+            <index>7</index>
+            <phrase>කොහොමත් රට තුල සිටින අයට වඩා රට ගැන කැක්කුමක් පිටරටවල ඉන්න අයට තියනවා.ඔබ සැමට තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජි පින්නවල</author>
+            <date>2014-03-17 20:38:00</date>
+            <index>8</index>
+            <phrase>මගේ උපහාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත මහින්ද ඉතාලියේ මිලානෝ නගරයේ සිට</author>
+            <date>2014-03-17 23:17:26</date>
+            <index>9</index>
+            <phrase>ශ්‍රි ලාංකිකයෙක් ලෙස ආඩම්බරවත් හැගීමෙනුත් මමත් මේ රැලියට සහභාගි වීමි. ඇත්තටම සතූටූ වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන්</author>
+            <date>2014-03-18 08:24:55</date>
+            <index>10</index>
+            <phrase>ජයවේවා ඔබ සැමට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද රාජාා</author>
+            <date>2014-03-18 17:59:55</date>
+            <index>11</index>
+            <phrase>ඔබේ නැටුමට මගෙන් උපහාර ..ජය..ජය ..මගේ ගෝලබාලයන්ට ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක.</author>
+            <date>2014-03-18 20:02:58</date>
+            <index>12</index>
+            <phrase>මේවා හරියට දකුණු අතේ තිබෙන තුවාලයට ...වම් අතේ බෙහෙත් බඳිනවා වගේ වැඩ. ශ්‍රී ලාංකිකයෝ පුරුදුව ඉන්නේ ප්‍රශ්නයකදී සෘජුව මුහුණ දීගත නොහැකිව අන්ධ භක්තිය තුලින් පිළිතුරු බලාපොරොත්තු වීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

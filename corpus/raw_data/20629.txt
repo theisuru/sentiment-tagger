@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20629</articleId>
+    <title>මාපිලා විදුහල්පති සමග පාසල් යයි</title>
+    <author>පි‍්‍රයානි මංගලිකා</author>
+    <date>2012 ජනවාරි මස 05 16:07:20</date>
+    <body>නිකවැරටිය හුළුගල්ල කවිසේන හේරත් විදුහලේ විදුහල්පතිගේ හෙල්මටයෙන් මාපිලකු බිමට වැටීමත් සමග ඔහු නිකවැරටිය රෝහලට ඇතුළු කළ බවත් මාපිලා ඔහුට දෂ්ට කළ නැති බවත් වෛද්‍යවරයා කීය.</body>
+    <comments>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-01-05 19:38:39</date>
+            <index>0</index>
+            <phrase>ඇති හෙල්මට් එකේ නයි, පොළොන්ගුන් හිටියෙ නැතිව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-01-05 22:24:51</date>
+            <index>1</index>
+            <phrase>මාපිලාටත් පාසලෙන් මොනව හරි ඉගෙන ගන්න යන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්ඩපාල</author>
+            <date>2012-01-06 08:35:13</date>
+            <index>2</index>
+            <phrase>ඉ‍ගෙන ගන්න වෙන්න ඇති පවු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා</author>
+            <date>2012-01-06 13:02:52</date>
+            <index>3</index>
+            <phrase>මාපිලාටත් පාසලෙන් මොනව හරි ඉගෙන ගන්න යන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්ලත්</author>
+            <date>2012-01-06 15:07:55</date>
+            <index>4</index>
+            <phrase>මාපිලා උකුණො කන්න එන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

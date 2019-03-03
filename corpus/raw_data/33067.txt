@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33067</articleId>
+    <title>පොලිසියට ඇඟිලි ගසන්න එපා</title>
+    <author>ඇම්ඇස් පෙරේරා  සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 මාර්තු මස 24 18:28:30</date>
+    <body>ශ්‍රී ලංකාවේ සිදුවන අපරාධ පරීක්ෂණවලට දේශපාලනාඥයන් ඇඟිලි නොගසා පොලිසියට ස්වාධීනව කටයුතු කිරීමට ඉඩ සලස්සන්නැයි මහාචාර්ය බෙල්ලන්විල විමලරතන හිමියෝ පැවැසූහ. කෝට්ටේ රාජමහා විහාරයේ දී කුරිරු ලෙස ඝාතනය කැරුණු පිටිගල ජනසිරි සහ බොරලැස්ගමුවේ ගුණරතන හිමිවරුන්ගේ ආදාහන පූජෝත්සවයේදී ඒ හිමියෝ එසේ කීහ.අරන්තලාවේ දි කොටි සංවිධාන භික්ෂු ඝාතනය කිරීමෙන් පසුව වාර්තාවූ දරුණුම භික්ෂු ඝාතනය මෙය බව ඒ හිමියෝ කීහ.</body>
+    <comments>
+        <comment>
+            <author>janj</author>
+            <date>2012-03-24 19:01:44</date>
+            <index>0</index>
+            <phrase>එහෙම වෙනවා නම් ජනතාවට යුක්තිය ඉටුවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලීප</author>
+            <date>2012-03-24 19:23:50</date>
+            <index>1</index>
+            <phrase>අපේ හාමුදුරුවරු මීට වඩා හඩ නැගිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>tutu</author>
+            <date>2012-03-24 20:03:27</date>
+            <index>2</index>
+            <phrase>මම හිතන්නේ දැන් තමයි වෙලාව එල්ලුම්ගහ ගේන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2012-03-24 21:17:48</date>
+            <index>3</index>
+            <phrase>පන්සල ද අල්පෙජ්ජ විය යුතුය. මුදල්, රන්බාන්ඩ, කඩු , දේපල ගැටලු වල ප්‍රතිඵල තමයි මේ. බුදුහාමුදුරුවො සල්ල පෙන්නල කිව්වෙ සර්පයෙක් කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි - කුවේට්</author>
+            <date>2012-03-25 00:55:24</date>
+            <index>4</index>
+            <phrase>මම ඔබ වහන්සේගේ අදහස අගය කරමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-03-25 06:58:38</date>
+            <index>5</index>
+            <phrase>එහෙම වෙනවනම් හොද මිනිස්සු ශ්‍රී ලංකාව දලා යන්නෙ නැනෙ. මේ රටේ සමහර දේශපලජ්නයෝ මේ රට දැනටමත් සැහෙනට විනාශ කරලා තියෙන්නේ එත් දැන්වත් ඒක නතරකලොත් අමරුවෙන්හරි මේ රට ගොඩනගන්න පුළුවන් වේවි. එත් දැන්වත් ඒ කරන වැඩ නතර නොකලොත් මේ රටට දෙයියන්ගේම පිහිට විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමලවංස</author>
+            <date>2012-03-25 09:25:36</date>
+            <index>6</index>
+            <phrase>අපේ හාමුදුරුවො දෙන්නටම නිවන් සුව ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

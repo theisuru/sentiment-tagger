@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>62249</articleId>
+    <title>මාතර පෝලිම කිලෝමීටර 12යි</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 සැප්තැම්බර් මස 02 12:43:41</date>
+    <body>මාතර වැලිගම කොටිකාගොඩ රජමහා විහාරයේදී කපිලවස්තු සර්වඥධාතු ප්‍රදර්ශනය අද උදේ 11.40ට පමණ ඇරඹිණි. පෙර දින වැසිද නොතකා මහා පාරේ පැදුරු එළාගෙන මහජනයා නිඳා සිටියහ. ඔවුන් වෙනුවෙන් අද තවත් කොපි හා තේ දක්සල්ද සංවිධානය කර ඇත. අද දහවල් 12 වන විට පෝලිම කිලෝමීටර් 12ක් දික්වී තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>විමල්</author>
+            <date>2012-09-02 13:03:37</date>
+            <index>0</index>
+            <phrase>සාදු ... සාදු .. සාදු ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-09-02 13:16:57</date>
+            <index>1</index>
+            <phrase>ශ්‍රද්ධාව උතුම්ම ධනයයි. සාධූ සාධූ!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-09-02 13:29:45</date>
+            <index>2</index>
+            <phrase>මව් බිමට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-09-02 13:38:53</date>
+            <index>3</index>
+            <phrase>අනේ ඔක්කොටම පහසුකම් සලසන්න. බුදු බව ලැබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරූ</author>
+            <date>2012-09-02 14:07:16</date>
+            <index>4</index>
+            <phrase>පින් සිද්ධ වෙනාවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බලින්ද</author>
+            <date>2012-09-02 14:10:24</date>
+            <index>5</index>
+            <phrase>ශ්‍රද්ධාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2012-09-02 14:21:14</date>
+            <index>6</index>
+            <phrase>අපි අපගේ ආගමට ඇති භක්තිය මින් ගම්‍ය වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දා ජපන්</author>
+            <date>2012-09-02 14:22:26</date>
+            <index>7</index>
+            <phrase>පින්කෙත වූ රන් දෙරණේ යලි උපදින්නනට හේතු වාසනා වේවා ........ බුදුන් වැඩිය මේ රුවන් පොලව මත යලි දිනකදී මා ඉපදේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලංක</author>
+            <date>2012-09-02 14:25:44</date>
+            <index>8</index>
+            <phrase>ඇයි අනේ මෙයාලා මෙහෙම දුක් විඳින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිහාන්</author>
+            <date>2012-09-02 14:37:42</date>
+            <index>9</index>
+            <phrase>අනේ සාධු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-09-02 14:58:14</date>
+            <index>10</index>
+            <phrase>දකිනකොට කදුළු එනවා.. අපේ රටේ මහජනයවා මේ වගේ පිං කරනවාකියලා.. ධාතුන්වහන්සේලා අපේ රටේ වැඩසිටින්න කියා ප්‍රාර්ථනා කරනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-09-02 14:52:22</date>
+            <index>11</index>
+            <phrase>අම්මේ, නුඹලාට දීර්ඝායුෂ ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-09-02 15:08:17</date>
+            <index>12</index>
+            <phrase>දිලංග.. ඕකට තමයි කියන්නේ ලෝකෙට පරකාසේ.. ගෙදරට මරගාතේ කියලා.. ඔතන ඉන්න අයගෙන් වැරදි වැඩ කරපු නැති කෙනෙක් හොයාගන්න බැරි තරම්.. දළදා වැන්දට බැලුවට කරපු පව් නැතිවෙන්නෙ නැහැ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>pasan</author>
+            <date>2012-09-02 15:09:07</date>
+            <index>13</index>
+            <phrase>බුදු සරණයි...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-09-02 15:12:26</date>
+            <index>14</index>
+            <phrase>නන්දා ලංකාවෙ ඉපදිලා ජපන් වීසා ලබාගත්තාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනූ</author>
+            <date>2012-09-02 15:22:11</date>
+            <index>15</index>
+            <phrase>දිලන්ක, ඔයා‍ගේ මෑණියන් ගැන සිතා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2012-09-02 15:23:01</date>
+            <index>16</index>
+            <phrase>දුක් විඳගෙන හරි පින් රැස් කර ගන්න තියෙන වටිනා අවස්ථාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් වීරසිංහ</author>
+            <date>2012-09-02 15:25:38</date>
+            <index>17</index>
+            <phrase>දිලංකට පිළිතුරු- දුක් විදින්නෙ මතුභවයේදී සැප උදා කරගන්නයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-09-02 15:21:03</date>
+            <index>18</index>
+            <phrase>මේවා දකින්න අපිත් පිං කරලා තියෙනවානේ.. සාදු සාදු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියනාත්</author>
+            <date>2012-09-02 16:24:35</date>
+            <index>19</index>
+            <phrase>අනේ ‍අනේ දිලන්ක, යමක් තේරුම් ගන්න බැරිකමත් පවුකාරකමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරාජා</author>
+            <date>2012-09-02 16:29:42</date>
+            <index>20</index>
+            <phrase>දිලංක ,ඔයාට පේන්නේ දුක් විදිනවා කියලද? බලන්න අර ආත්තම්මා කොච්චර සතුටින්ද ඉන්නේ? ඒකට කියන්නේ ශ්‍රද්ධාව කියලා. බෞද්ධ අපිට ඒක හරිම වටිනවා. ඔයාට දුක කියන්නේ මොකක්ද කියලා ඉගෙන ගන්න ඕනෑ නම් හොදට බුද්ධාගම ඉගෙන ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුලස්ති</author>
+            <date>2012-09-02 16:28:21</date>
+            <index>21</index>
+            <phrase>මව් බිමිට තිසරණ සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2012-09-02 16:38:02</date>
+            <index>22</index>
+            <phrase>රටට බුදු සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුචිර</author>
+            <date>2012-09-02 17:08:14</date>
+            <index>23</index>
+            <phrase>සාධු සාධු සාධු............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-09-02 17:03:13</date>
+            <index>24</index>
+            <phrase>ඔය මෝඩ කතා අහන්න එපා තිලන්ක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමේ</author>
+            <date>2012-09-02 17:20:16</date>
+            <index>25</index>
+            <phrase>රටේ තියෙන අනෙක් ප්‍රශ්නත් විසදන්න බැලුවොත් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-09-02 17:30:28</date>
+            <index>26</index>
+            <phrase>තරුණ වියේදී අපි කෙසේ ජීවත් වුණත්, මහලු වද්දී පරිණත වෙනවා වගේම පිනට දහමට ලැදි වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-09-02 17:48:21</date>
+            <index>27</index>
+            <phrase>දිලන්ක, මේ අය පවු ගෙවනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-09-02 17:53:49</date>
+            <index>28</index>
+            <phrase>සිදුහත් කුමාරයා තම සැප සම්පත් අත් හැරලා අභිනිෂ්ක්‍රමණය කරලා බුදු බවට පත් වුණා. ඒ උත්තමයාණන්ගේ දන්ත ධාතුව පොලිසියේ වාහන ගෙනල්ලා බෙන්ස් කාර් එකේ තියාගෙන ගේනවා බලාගෙන ඉන්න කොට මොකක්ද හිතෙන්නේ? අනේ අපොයි කියලයි මට නම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-09-02 18:34:07</date>
+            <index>29</index>
+            <phrase>මෙහෙව් රටේද අපරාද වෙනවා කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ</author>
+            <date>2012-09-02 18:40:54</date>
+            <index>30</index>
+            <phrase>මේ වගේ උතුම් වස්තුවක් නැවත කවදා වන්දනා මාන කරගන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරුක්ෂි</author>
+            <date>2012-09-02 19:03:18</date>
+            <index>31</index>
+            <phrase>දිලංක ඔබ මොන ආගමකට අයත්ද කියලා මම දන්නෙ නැහැ.. නමුත් තවත් කෙනෙකුගෙ භක්තියට ගරහන්න එපා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-09-02 19:33:51</date>
+            <index>32</index>
+            <phrase>මේ අයගේ ශ්‍රද්ධාව නිසා තමයි මෙහෙම පොලිමේ ඉදලා හරිවැදගන්න උත්සාහ කරන්නෙ.!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-09-02 19:55:29</date>
+            <index>33</index>
+            <phrase>දිලංක ඔයා දන්නෙ නැද්ද ඇයි එයාලා දුක් විදින්නේ කියලා.. සසර ගමන කොට කරගන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත කන්කානම</author>
+            <date>2012-09-02 19:56:11</date>
+            <index>34</index>
+            <phrase>සාදු සාදු සාදු ලක්වැසි බෞද්ධයන්ට ලැබුණු වටිනා අවස්ථාවක්.. බුදුන් වැඩිය මේ බිමට බුදුදහම හැර වෙන මොකද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් ජානක</author>
+            <date>2012-09-02 20:08:05</date>
+            <index>35</index>
+            <phrase>නමෝ බුද්ධාය ! බුදුරජාණන් වහන්සේ වන්දනා කිරීමට යාමේ දී තබන පියවරක් පියවරක් පාසා පින් රැස් වෙනවා. හේතුව මේ අහිංසක මිනිසුන් මහත් සැදැහැයෙන් වන්දනා කරන්නේ කලාතුරකින් පහළ වෙන අසිරිමත්ම මනුෂ්‍ය රත්නය වන නිකෙලෙස් සිත් ඇති ඒ භාග්‍යවත් බුදුරජාණන් වහන්සේ යි.මිනිස් ලොව දී මේ අහිංසක මිනිසුන් රැස් කරන මේ දුර්ලභ පින ඔවුනට සසර පුරාවට ම හිත සුව පිණිස පවතිනු ඇත.හැම දෙනාට ම ගෞතම බුදුරජුන් ගේ ආශීර්වාදය ලැබේවා ! නමෝ බුද්ධාය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත මිලානෝ</author>
+            <date>2012-09-02 20:22:50</date>
+            <index>36</index>
+            <phrase>පිහිටක් නැති සරණක් නැති සතුටක් ඇති මුහුනක් නැති... මේ..සසර දනව්වේ.... අපි අසරනවේලා වගේ සිතට දැනෙනවා.. බුදුහාමුදුරුවනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමේධ මනතුංග</author>
+            <date>2012-09-02 20:54:03</date>
+            <index>37</index>
+            <phrase>නිවන් දකින්නට පිං මදි වෙන්නැති ඒකයි තවමත් සංසාරේ... ලංකාවාසී බැතිබර ජනතාවට සියලු පහසුකම් සළසන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ් පෙරේරා</author>
+            <date>2012-09-02 20:58:33</date>
+            <index>38</index>
+            <phrase>දිලන්ත ඒක තමයි නියම බෞද්ධකම කියන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවෙයිට්</author>
+            <date>2012-09-02 20:58:00</date>
+            <index>39</index>
+            <phrase>දිලංක මිත්‍රයා හිතට එන යමක් ලියන්නම උවමනානම් ඒකට වෙනත් තැනක් ලැහැස්ති කරගන්න.මේ කවුරුත් කියවන පුවත් පත නොව වෙනත් තැනක්.ගෙදර තාප්පයක් තිබෙනවානම් වඩාත් සුදුසුයි.ලියන්න එහි හිතට එන හැම දේම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්සර</author>
+            <date>2012-09-02 21:17:35</date>
+            <index>40</index>
+            <phrase>න වෙ අග්ගි වෙඨයති අහං බාලං ඩහාමිතිං බාලොව ජලිතං අග්ගි ආසජ්ජන ස ඩය්හති එවමෙව තුවං මාර ආසජ්ජන තථාගතං සයං ඩහිස්සසි අත්තානං බාලො අග්ගිංව සම්පූසං මම මෝඩයව පුච්චල දමනව කියල ගින්න හිතන්නෙ නැහැ ඒත් අඥාන බාලයා ඇවිලෙන ගින්නට වැදිල පිච්චිලා යනව. අන්න ඒ වගෙ බුදුන් වහන්සේගෙ හා ශ්‍රාවකයන්ගෙ ගුණ නොත් අඥානයෝ බුදුන් වහන්සේට හා ශ්‍රාවකයන් වහන්සේලාට නින්දාකොට ගින්න සමග සෙල්ලම් කරන්නගොස් පිච්චිලායන මෝඩයො වගේ පිච්චිලායනව (මරණින් මතු අපාගාමිවෙනව) ම:නි මාරතජ්ජනීය සූත්‍රය දිලංක අතුළු එවැනි අඥාන යන් කෙරෙහි උපන් කරුණාවෙන්ම මෙය සදහන් කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2012-09-02 21:25:14</date>
+            <index>41</index>
+            <phrase>දිලංක බෞද්ධ නොවෙන අන්‍යාගමිකයෙක් උනත් දන්නවා මේ අහිංසක මිනිස්සු මේ දුක විදින්නේ මොකටද කියලා... බුදුන් දකින්නට පින් මදි වුනු අපිට බුදුන්ගේ ධාතු දැකලා වත් සැනසෙන්නයි මේ මිනිස්සු දුක් විදින්නේ.. මමත් ගිය සතියේ අනුරාධපුරේදි ධාතු වැදගත්තා නමුත් ඒ වෙලාවේදි ඒක දුකක් කියල දැනුනේ නෑ. කිසිම අපහසුවක් දැනුනෙ නෑ. නමුත් කණගාටුවක්, පිළිකුලක් ඇති උන දේවල් නම් එතන සිද්ධ වුනා. පැය 3ක් පෝලිමේ හිටගෙන ඉඳලා කෙළවරට ආපු වෙලාවෙ පෝළිමට පිටින් ඇවිල්ලා විවිධ බලපුලුවන්කාරකම් වලින් පෝළිමේ මුලටම පැන්න ආත්මාර්ථකාමී අමනුස්සයො එතනත් හිටියා.. ඒ අයටනම් ධාතු බැලුවා කියල කිසිම පිනක් වත්, මේ සංසාරෙන් ගොඩයෑමක් වත් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Ananda Jayarathna</author>
+            <date>2012-09-02 21:34:19</date>
+            <index>42</index>
+            <phrase>දිලංක මේ අය සසර දුකින් එතෙරවන්න හදන්නෙ.. ඔයත් මේකට එකතුවෙන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-09-02 21:38:45</date>
+            <index>43</index>
+            <phrase>සම්බුදු පියාණන් තම හදවත් තුල තැන්පත් කරගෙන කටයුතු කරනවානම් අමුතුවෙන් ධාතු වඳින්න අවශ්‍ය නැහැ.. ඔබේ හදවත ගඳකිළියක් කර ජීවමානවම බුදුන් වහන්සේට සදා වැඩ සිටීමට හැකි පිරිසිදු තැනැක් බවට එය පත් කර ගන්න. සැම විටම ඒ නිමල බුදු පියාණන් නමස්කාරය කරන්න. උන් වහන්සේ වදාළ ශ්රීක සද්ධර්මය අනුව යමින් බුදු පියාණන් ගිය මගම අනුගමනය කරන්න. සම්බුදු මහිමිගේ ධාතු නොව දිවමන් මගේ අමා මැණී බුදු පියාණන් එවිට ඔබට දැකීමට හැකිවනු ඇත. ආමිසය පසෙක ලා ප්‍රතිපත්තිය සුරකින්න. ආමිසය ඔබ මංමුලා කරයි. ප්‍රතිපත්තිය ඔබට මග දක්වනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-09-02 21:55:46</date>
+            <index>44</index>
+            <phrase>@දිලංක - දුකෙන් මුදවන්න පාර පෙන්නපු උත්තමයාගේ ධාතුන් දැක ගන්න. මේක මේ අයට බලෙන් කරන දෙයක් නෙවේ. එයාලාගේ ලොකු ආශාවක් ඉෂ්ට කර ගන්න මේ වටේ ඉන්න අය උදව් කරනවා. ඒ නිසා නොදන්නා ඒවාට කතා නොකර ඉන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2012-09-02 22:03:30</date>
+            <index>45</index>
+            <phrase>ආච්චි ඔබ තුමිව දැකල මගේ ආච්චිව මතක්උනා... අපි අදහන අගම සමගියෙන් සතුටෙන් අදහමු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2012-09-02 22:09:25</date>
+            <index>46</index>
+            <phrase>දිලන්ක, ඔයාගේ පවු සෝදලා හරින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-09-02 22:02:45</date>
+            <index>47</index>
+            <phrase>ධාතුන්වහන්සේලා ප්‍රදර්ශණය කිරීමෙන් රජයේ අරමුණනම් රටේ දැවෙන ගැටලු සියල්ල අමතක කර මිනිසුන්ගේ මනස වෙනත් පැත්තකට යොමු කරවීමයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නසිරි එල් හේවගේ</author>
+            <date>2012-09-02 22:21:17</date>
+            <index>48</index>
+            <phrase>සංවිධානය හොදයි..ඒත් පොලිම්වලින් පනින අයගැන පොලිස් මහතුතුරු සැළකිල්ලෙන් ඉන්නාවනම් තමයි ඉතාමත් වටින්නෙ.. ඔක්කොටම වදින්න සලස්සවන්න.. සැමට පිං සිදුවේවා.. තෙරුවන් සරණයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-09-02 22:26:54</date>
+            <index>49</index>
+            <phrase>සාදු..සාදු..සාදු...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-09-02 22:37:36</date>
+            <index>50</index>
+            <phrase>නිවන් දකින්නට පිං මදි වෙන්නැති ඒකයි තවමත් සංසාරේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-09-02 22:46:45</date>
+            <index>51</index>
+            <phrase>දිලන්ක, බුදු හාමුදුරුවන්ගේ කාලෙත් ඔහොම දේවදත්තයෝ හිටියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-09-02 22:53:57</date>
+            <index>52</index>
+            <phrase>දිලන්කට කොහොම පිළිතුරු දෙන්නද කියලා තේරෙන්නේ නැහැ. ළගම ඇති පන්සලකට ගිහින් පොඩි හාමුදුරු කෙනෙක් හම්බ වෙලා අහ ගත්තොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආශා</author>
+            <date>2012-09-02 23:24:21</date>
+            <index>53</index>
+            <phrase>රටට් යහපතක් වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-09-02 23:18:37</date>
+            <index>54</index>
+            <phrase>ඉතින් මහත්වරුනේ, දැන් කට්ටිය මෙහෙම ගිහින් වැඳ පුදා ගත්තහම එයාලගේ සසර ගමන කෙටි වෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-09-02 23:43:55</date>
+            <index>55</index>
+            <phrase>ශ්‍රද්ධා භක්තියෙන් නරඹන සියල්ලන්ටම නිවනේ දොරටු හැරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-09-03 01:49:46</date>
+            <index>56</index>
+            <phrase>ධාතූන් වහන්සේලා වන්දනා කරද්දී තමන් අධිෂ්ඨාන කරගත යුතුයි, නිවන් අවබෝධය පිණිසම මේ පින හේතු වේවා! වාසනා වේවා! කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔටාරා</author>
+            <date>2012-09-03 02:35:25</date>
+            <index>57</index>
+            <phrase>බොරු වැඩ‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-09-03 02:58:56</date>
+            <index>58</index>
+            <phrase>වාසනාවන් මගේ රටට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-09-03 03:14:28</date>
+            <index>59</index>
+            <phrase>දිලන්ක වගේ අය තමයි එන්.ජී.ඕ. එක‍ට අවශ්‍ය වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-09-03 06:55:13</date>
+            <index>60</index>
+            <phrase>සාදු සාදු සාදු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරිර රත්න</author>
+            <date>2012-09-03 08:29:53</date>
+            <index>61</index>
+            <phrase>දිලංක වැනි ආගමක් දහමක් නැති ම්නිසුන් තමා අද රටේ වන අපරාධ වලට වග කියන්න ඕනි. දිලංක උබල හරිම පව් කාරයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් කාවින්ද</author>
+            <date>2012-09-03 08:52:06</date>
+            <index>62</index>
+            <phrase>මාතර කියන්නෙ බුදුන්ගේ නගරය ඉතින් මේ පෝලිම ගැන මහා පුදුමයක් වෙන්න දෙයක් නෑ මේ රටේ තව කොතන ධාතු පෙන්නුවත් මාතර තරම් සෙනගක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේශ්</author>
+            <date>2012-09-03 08:52:09</date>
+            <index>63</index>
+            <phrase>මේක නියම ධාතු කියන්නේ කොහොමද ? කවුද දැකලා තියෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-09-03 10:03:40</date>
+            <index>64</index>
+            <phrase>තවත් හරකෙක් උම්බෑ ගානවා කියලා‍ පේනවා ප්‍රතිචාර දකිද්දී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2012-09-03 10:55:11</date>
+            <index>65</index>
+            <phrase>පසුගියදා වාරියපොල තිබුණ ප්‍රදර්ශනයේදී අපි ධාතුන්වහන්සේ වැද පුදා ගත්තා. මං හිතන්නේ ලක්ෂ 15කට වැඩි පිරිසක් හිටියා. හැබැයි සංවිධානය කරලා තිබ්බා අන්තිමයි. මිනිස්සු පෑඟිලා මැරෙන්නත් ඇති. කි.මී. 15ක් දුරට සංවිධානය නොකල පෝලිමක් තිබ්බා. ශබ්ධ විකාශන යන්ත්‍ර පන්සලේ විතරයි. මිනිස්සු ලක්ෂ 02ක්,03ක් ආපහු ගියා. හැබැයි මේක මගේ ජීවිතේ ලබපු වැදගත්ම අවස්තාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහිංසා</author>
+            <date>2012-09-03 10:50:44</date>
+            <index>66</index>
+            <phrase>මෙතරම් පෝලිම දික් වෙන්නේ සන්විධායකයන්ගේ වරදින්. මහජනතාව ගැන හිතල එකවර වැඩිම ගණනකට නැරඹීමට පහසුකම් සලසන්න ඕන මෙය පටන් ගන්න කලින් ප්ලෑන් කරලා තියෙන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-09-03 12:28:04</date>
+            <index>67</index>
+            <phrase>කරුණාකරලා ආබාධිත සහ දුර්වල පුද්ලයින් හට පෝළිමේ ‍නොගොස් වන්දනා කරන්න ඉඩ ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-09-03 12:45:46</date>
+            <index>68</index>
+            <phrase>බුදු බව ලබා 2600 වසරක් පසු වූවා බුදු ගුණ සුවද සිරි ලක තුල වැඩි වූවා සම්බුදු සිසිල හැම හදකම ඇති වේවා දළදා සමිදු ගෙන් බුදු රැස් විහිදේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-09-03 12:58:55</date>
+            <index>69</index>
+            <phrase>‍පෝළිමක් ඉතින් නොතිබුණොත් තමයි පුදුමේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්දු</author>
+            <date>2012-09-03 13:12:57</date>
+            <index>70</index>
+            <phrase>අර අම්මට තවත් දීර්ඝායුෂ ලැබේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-09-03 13:58:48</date>
+            <index>71</index>
+            <phrase>මෙතන මාතෘකාවට අදාල අදහස් දාලා තියෙන්නේ කීයෙන් කී දෙනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-09-03 14:18:15</date>
+            <index>72</index>
+            <phrase>අපි ඇත්තටම මෝඩ ජාතියක්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-09-03 14:51:05</date>
+            <index>73</index>
+            <phrase>දිලංග ව්‍යවහාර වර්ෂයෙන් 505 ට පෙර සෑම සිංහලයෙක්‌ම බෞද්ධයෙක්‌ විය. නමුත් ඊට පසුව සිදු වූ පෘතිග්‍රීසී, ලන්දේසී, ඉංග්‍රීසී ආක්‍රමණත් සමග තාන්න මාන්නාදි සුඛ විහරණයන් උදෙසා තම ආගම පාවා පවා දුනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත - ඉබ්බාගමුව</author>
+            <date>2012-09-03 15:02:27</date>
+            <index>74</index>
+            <phrase>සර්වඥ ධාතුන් වහන්සේලා පෙන්වීම ඉතා හොදයි. නමුත් පෙන්වීමේ කාලය, පෙන්වීමෙන් බාලාපොරොත්තු වෙන දේ සහ සංවිධාන රහිත බව ඉතා නරකයි. මේ හෙතුවෙන් වාරියපොලදී පෑගී කුඩා ළමුන් දෙදෙනෙකු මරණයට පවා පත්වුනා. එහෙත් පොළිම කි. මී. 12 ට වඩා දිග තිබුනා. නමුත්, පොළිමේ සිටිය අයට (ප්‍රදර්ශන භූමියේ හැර) පළමු දින කිසිම තැනක වතුර පොදක් බොන්න හෝ රාත්‍රීයේ කඩයක් ඇර ගන්න බැරි වුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2012-09-03 15:36:42</date>
+            <index>75</index>
+            <phrase>අපි හරි මෝඩ ජාතියක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-09-03 18:25:23</date>
+            <index>76</index>
+            <phrase>දිලංක මිත්‍රය , මුළු ලොවම බුදු දහම ගැන උනන්දු වෙන මේ වගේ කාලයක ඔයා ලංකාවේ ඉපදීමත් අපිට දුකක්. ටිකක් හොයලා බලන්න ලෝකේ වෙන්නේ මොනවද කියලා.ජීවිතේ සැනසීමක් ලැබෙන එකම දෙය බුදුදහම පමනයි.එවන් ශාස්තෘවරයෙකුට අපේ හිතේ තියෙන ගෞරවය වචන වලින් කියන්න බැහැ.එවන් දහමක් ආරක්ෂා කරගත්ත සිංහලයන් හැටියට අපි කොච්චර නම් ආඩම්බර වෙන්න ඕනෑද මේ වෙලාවේදී.කොතරම් බාධක මැදද අපි මේ දහම ආරක්ෂා කරගත්තේ.අදටත් ඔයාලා වගේ අය මේ වටිනා දහමට ඉරිසියා කරනවා.අඑත් අපි ඔයාලට අනුකම්පා කරනවා.ඉදිරියටත් අපේ දු දරුවෝ මේ දහම ආරක්ෂා කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-09-04 12:42:11</date>
+            <index>77</index>
+            <phrase>දිලංක ඕකට කියන්නේ කුහක කම කියලා. මම හිතනවා ඔයා අන්‍යාගමිකයෙක් කියලා . එක හින්ද දරාගෙන ඉන්න බැහැ මේ රටේ බෞද්ධ ජනතාව මෙච්චර ඉන්න එක ගැන. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකී</author>
+            <date>2012-09-04 14:19:40</date>
+            <index>78</index>
+            <phrase>ලලිත් ඔයා කිසිම වරදක් කවදාවත් කරලා නැති කෙනෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-09-04 19:36:50</date>
+            <index>79</index>
+            <phrase>"උපුල් වීරසිංහ 2012-09-02 15:25:38 දිලංකට පිළිතුරු- දුක් විදින්නෙ මතුභවයේදී සැප උදා කරගන්නයි..!!" ඔය කතාව ඇත්ත නම් සිදුහත් තවුසාණන් අත්තකිලමතානු යෝගය දිගටම අනුගමනය කර ඒකෙන්ම නිවන් යා යුතුව තිබුණා. මමත් ශ්‍රද්ධා සම්පන්න බොදුනුවෙක්. එත් මම නම් හිතන්නේ නැහැ ධාතු වන්දනාවට දුක් වින්දා කියා සසර මග කෙටි වෙන බව බුදු දහමේ තියෙනවා කියා. මේ පෝලිම් වල හා ඒවා හසුරවන අය අතින් සිදුවෙන දේවල් දුටුවාම නම් එතන ශ්‍රද්ධාවත් සීලයත් කරුණාවත් කොටින්ම සාධාරණයවත් තිබෙනවා කියා පෙනෙන්නේ නැහැ. මට ගැටලුවක්ව ඇත්තේ, සම්බුද්ධත්ව ජයන්තිය වෙලාවේවත් මෙරටට නොගෙන්වූ ධාතුන් වහන්සේ මේ හදිසියේ මෙහි වැඩමවන්නට හේතු වූ කරුණයි. කොහොම වුණත් බෞද්ධ විරෝධී විගඩම් වලට සාදුකාර දීගෙන දුවන්නෙත් මේ උපාසක පිරිසමයි. සම්පත් සොයුරා කියා ඇති වදන් මමද අනුමත කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රානතේ</author>
+            <date>2012-09-04 20:10:49</date>
+            <index>80</index>
+            <phrase>මාතර මිනිසුන් පාර අයිනෙ කැමැත්තෙන් දන්සැල් දුන්නෙ.. වතුර දුන්නෙ.. හොද සහයෝගයක් තිබුණා රාහුල හන්දියෙ ඉදලා දන්සැල් දුන්නේ සාමාන්‍ය මිනිසුන්ගෙ සල්ලිවලින් හැම කෙනෙක්ම උදව් කලා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

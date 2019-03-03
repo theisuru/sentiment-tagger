@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>314202</articleId>
+    <title>මහමෙව්නාව වෙසක් සිරියෙන් බැබළෙයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 මැයි මස 06 11:48:51</date>
+    <body>කිරිබත්ගොඩ ඤාණානන්ද හිමියන්ගේ මග පෙන්වීම යටතේ පොල්ගහවෙල, මාළඹේ සහ කුණ්ඩසාලේ ඇතුළු මහමෙව්නාව භාවනා අසපු රැසකම අසිරිමත් වෙසක් මංගල්‍යය නිමිත්තෙන් පිංකම් රැසක් සංවිධානය කෙරිණි.
+පොල්ගහවෙල මහමෙව්නාව භාවනා අසපුවේ සම්බුද්ධ රාජ මාළිගාව විදුලි බුබුළින් ඒකාලෝක විය. මාළඹේ පිට්ටුගල පිහිටි අමාවතුර භාවනා අසපුවේ ඉදිකළ ශ්‍රී ඝටීකාර මහ සෑයද විදුලි ආලෝක යොදා අලංකාර කළ අතර ආමිස හා ප්‍රතිපත්ති පූජාවන් රැසක් මහමෙව්නාව භාවනා අසපු සංචිතයේ සිදුකෙරිණි.
+කිරිබත්ගොඩ ඤාණානන්ද හිමියන්ගේ ධර්ම දේශනා කුණ්ඩසාලේ හා පොල්ගහවෙල මහමෙව්නාව අසපුවලදී පැවැත්විණි. </body>
+    <comments>
+        <comment>
+            <author>සසංකා</author>
+            <date>2015-05-06 11:18:38</date>
+            <index>0</index>
+            <phrase>නමෝ බුද්ධාය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයෙශ්</author>
+            <date>2015-05-06 11:35:13</date>
+            <index>1</index>
+            <phrase>නමෝ බුද්දාය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂා විදුරංග</author>
+            <date>2015-05-08 09:28:25</date>
+            <index>2</index>
+            <phrase>නමෝ බුද්ධාය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2015-05-09 12:19:07</date>
+            <index>3</index>
+            <phrase>නමෝ බුද්ධාය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තනූ</author>
+            <date>2015-05-11 09:43:10</date>
+            <index>4</index>
+            <phrase>බුදු සසුන බැබලේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තනූ</author>
+            <date>2015-05-11 09:43:11</date>
+            <index>5</index>
+            <phrase>බුදු සසුන බැබලේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

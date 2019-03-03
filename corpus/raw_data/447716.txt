@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447716</articleId>
+    <title>කොටුව - අවිස්සාවේල්ල දුම්රියටත් ගල් ගහලා</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 අගෝස්තු මස 15 10:25:36</date>
+    <body>කොළඹ කොටුව සිට අවිස්සාවේල්ල දක්වා ධාවනය වෙමින් තිබූ දුම්රියකට ඉරිදා (14) පස්වරුවේ කිරිවන්දලදී ගල් ගසා ඇතැයි දුම්රිය ආරක්ෂක හමුදාව පවසයි.
+ගල් ගැසීමෙන් දුම්රිය මැදිරියේ වීදුරුවකට හානි සිදුවී ඇතැයි පොලිසියට පැමිණිලි කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>නිර්මාල්</author>
+            <date>2016-08-15 05:31:30</date>
+            <index>0</index>
+            <phrase>කැමරාවක් සවි කරන්න ඉදිරියෙන් ගල් ගසන අමනයන් අල්ලා මාසයක් දුම්රිය වැසිකිලි සුද්ද කරන්න නියෝග කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2016-08-15 06:53:12</date>
+            <index>1</index>
+            <phrase>මෙම මාර්ගයේම නාවින්න හා මහරගම අතරත් බොහෝවිට මෙවැනි ගල්ගැසීම් සිදුවනවා. තුවාලලද අයත් බොහෝයි. දුම්රිය ආරක්ෂක අංශ හා දුම්රිය ස්ථානයට පැමිණිලි කළත් පලක් නම් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරුල්</author>
+            <date>2016-08-15 08:01:19</date>
+            <index>2</index>
+            <phrase>මේක යම් සංවිධානාත්මක ක්‍රියාවක් ‍වගෙයි පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2016-08-15 08:07:44</date>
+            <index>3</index>
+            <phrase>මිනිසුන් කරන වැරදි ප්‍රසිද්ධවෙද්දී ඒවා අනුකරණය කරන පිරිසකුත් බිහිවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාදේව</author>
+            <date>2016-08-15 08:57:01</date>
+            <index>4</index>
+            <phrase>මේවා කරන්නන්ව අල්ලලා ප්‍රසිද්ධියේ ගල්ගසා දඬුවම් දිය යුතුයි, එතකොට ඔය ගල්සෙල්ලම ඉබේම නතර වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බස්නායක</author>
+            <date>2016-08-15 09:08:20</date>
+            <index>5</index>
+            <phrase>මමත් මේ වගේම ගල් පාරක් කාපු කෙනෙක් නාවින්න ආර්පිකො බිල්ඩිම තියන වංගුවේ වගේ මතකයි මී‍ට මාසයකට පමණ උඩදී මම වාඩි වෙලා හිටියේ ගල වැදුනෙ මගේ දකුණු ඇහට ටිකක් ළගින් කන පැත්තට වෙන්න ‍ට්‍රේන් එකෙන් බැහැල බලන්න බැරි නිසා මමත් කරබාගෙන පන්නිපිටිනේ බැහැල ගියා කාට කියන්නද වෙච්ච අවනඩුව තුවාල වුනේ නැහැ ‍මගේ වෙලාවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

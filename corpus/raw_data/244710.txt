@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>244710</articleId>
+    <title>අබුදස්ස කාලේ</title>
+    <author>නිශාන්ත කුමාර</author>
+    <date>2014 ජූනි මස 24 09:56:18</date>
+    <body>මීගහකිවුලේ අරාවපාර බෙදුම්ඇළ ගම්මානයේ ඩී එම් සමරවීර ගොවි මහතාගේ නිවසේ ඇති කළ බැළලියකට පාද හා උදරවලින් එකිනෙකට ඇලී ඇති පූස් පැටව් සිව්දෙනකු බිහි කළාය.
+පැටවු සුවසේ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>රෝහිනී</author>
+            <date>2014-06-24 10:49:58</date>
+            <index>0</index>
+            <phrase>උන් වෙන් කර සුවපත් කල හැකි නම් ලොකුම පිනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2014-06-24 11:33:43</date>
+            <index>1</index>
+            <phrase>පසු වෛද්‍ය තුමාට මේගොල්ලන්ව ලේසියෙන්ම වෙන්කොරන්න පුළුවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරුද්ධ ජයසුන්දර</author>
+            <date>2014-06-24 12:16:23</date>
+            <index>2</index>
+            <phrase>පශු වෛද්‍ය තුමෙක් හෝ තුමියක් උදව් කරනවා නම් ඔහුට/අැයට බොහෝ පින්සිදු වේවි ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-06-24 12:21:29</date>
+            <index>3</index>
+            <phrase>කොහොම හරි පැටවූ ටික බේරගන්න බලන්න.පිනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-06-24 12:55:24</date>
+            <index>4</index>
+            <phrase>කරුමෙක මහත. මේ සිද්ධිය දැකලා දුක හිතුනත් මේ කැමරා මාමා දිහා බලන් ඉන්න පැටියා දැක්කම හිත පිරුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජානි</author>
+            <date>2014-06-24 13:00:41</date>
+            <index>5</index>
+            <phrase>මහා භයානක සසර ගමනේ මෙවන් දේවල් වෙනවා. බුදුන් වහන්සේ දෙසන ලද මග යන්න උත්සහ කරන්න. මේ සසර ගමනින් අත් මිදෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංත</author>
+            <date>2014-06-24 13:04:25</date>
+            <index>6</index>
+            <phrase>දැන් අපිට අලුත්ගම අමතක කරන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2014-06-24 13:05:02</date>
+            <index>7</index>
+            <phrase>මිනිසුනේ අතපත ගාල තවත් දුක් දෙන්න එපා. පොඩි පැටවුන් අල්ලන කොට එවුන්ගේ ඇඟට හරියට වේදනා දැනෙනවා. මව් බැලලිට ඇතිවෙන්න ආහාර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-06-24 13:34:52</date>
+            <index>8</index>
+            <phrase>පුළුවන් තරම් ඉක්මනට පසු වෛද්‍ය වරයෙකුට පෙන්නලා උපදෙස් ගන්නයි තියෙන්නේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්රුක්ෂි</author>
+            <date>2014-06-24 14:40:22</date>
+            <index>9</index>
+            <phrase>ඩී එම් සමරවීර මහතාව සම්බන්ධ කරගත හැකි දුරකතන අංකයක් තියෙනවා නම් ඵලකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලු</author>
+            <date>2014-06-25 09:09:27</date>
+            <index>10</index>
+            <phrase>පූස් පැටව් උනත් ඒ්ත් ජීවිත. අනේ කව්රුහරි පශූ වෛද්‍ය කෙනෙක් උන් ටික වෙන්කරලා ජීවත් වෙන්න ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වයි.ජී.ඩී දර්ශන</author>
+            <date>2014-07-03 13:06:56</date>
+            <index>11</index>
+            <phrase>ඒ අම්මට කතාකරන්න පුලුවන්නම් කියයි මගේ දරු පැටව් බේරලා දෙන්න කියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

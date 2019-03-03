@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46458</articleId>
+    <title>පොල් පැල ලක්ෂ 40ක් සිටුවයි</title>
+    <author></author>
+    <date>2012 ජූනි මස 04 10:16:13</date>
+    <body>දිවි නැගුම ව්‍යාපෘතිය යටතේ පෙල් පැළ ලක්ෂ 40ක් දිවයින පුරා බෙදා හැරීම සූදානම් කර ඇති බව ආර්ථික සංවර්ධන අමාත්‍ය බැසිල් රාජපක්ෂ මහතා පවසයි.
+ආර්ථික වටිනාකමක් සහිත භෝග ගෙවතු වගාවන්ටද එක් කිරීමේ අරමුණින් ක්‍රියාත්මක මෙම ව්‍යාපෘතියේ ඊළඟ පියවර ලෙස තේ හා රබර් වැනි භෝගද හඳුන්වා දීමට නියමිතව ඇත.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ගලබඩ...ඉතාලියේසිට..</author>
+            <date>2012-06-04 12:49:03</date>
+            <index>0</index>
+            <phrase>සෑම වසරකම පාහේ පොල් පැල ලක්‍ෂ ගනන් හිටවනවා නමුත් ඕවා පැලවෙන්නැද්ද ? ඇමතිතුමා,ඔය නැගුමින් මාස තුනකට වරක්‌ ඒ හිටවපු පැල වලට වතුර දාන රාජ්‍ය උත්සවයක්‌ ලැහැස්‌ති කරමුද? අපේ සහය දෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-05 02:41:49</date>
+            <index>1</index>
+            <phrase>පොල් පොල් පොල් පොල් පොල් පො පොල් ලංකාවෙ වතුවල වැවෙන පොල්. පොල් පොල් පොල් පොල් පොල් පො පොල් පිටරට පටවන පොල්. පොල් පොල් පොල් පොල් පොල් පො පොල් අපි දැන් හිටවමු පොල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ගලියා</author>
+            <date>2012-06-05 16:02:55</date>
+            <index>2</index>
+            <phrase>පොල් එක්ක කොස් ගසුත් හිටෙව්වනම්...කොහොමද ..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-06-05 16:23:48</date>
+            <index>3</index>
+            <phrase>අනාගතයේදී අපට එලෝපොල් නොපෙන්වන පාටයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දුණු</author>
+            <date>2012-06-05 20:12:00</date>
+            <index>4</index>
+            <phrase>ලංකාවෙ ඔක්කොම කන්න හදන්නෙ මලියන බිලියන ගනන් වලින් ඒකයි එක වැඩක්වත් සාර්ථක වෙන්නේ නැත්තෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-06-08 10:00:55</date>
+            <index>5</index>
+            <phrase>හිටෙව්වට වැඩක් නෑ....පැලවේවිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-01-12 12:18:41</date>
+            <index>6</index>
+            <phrase>සිටෙව්වට පස්සේ ඇහැක් ඇරලා බලන්නේ නෑ. ඉතින් නිකරුනේ මැරිලා යනවා. නිසි ලෙස නඩත්තු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

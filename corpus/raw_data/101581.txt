@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>101581</articleId>
+    <title>පාසල් රැස්වීමට ගහක් වැටේ</title>
+    <author>කාංචන කුමාර ආරියදාස කරුණාරත්න දිසානායක</author>
+    <date>2013 මාර්තු මස 08 10:00:42</date>
+    <body>කැකිරාව මධ්‍ය මහා විද්‍යාලයේ උදෑසන රැස්වීම පැවැත්වෙද්දී කෝන්ගසක් කඩා වැටීමෙන් සිසුන් 14 දෙනක් තුවාල ලබා කැකිරාව රෝහලට ඇතුළු කරනු ලැබූහ.
+විදුහල්පති එස් එම් සමරකෝන් මහතා පැවසුවේ එම ගස අවදානම් ගසක්යැයි මතුපිටින් නොපෙනුණ බවයි.</body>
+    <comments>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-03-08 10:48:09</date>
+            <index>0</index>
+            <phrase>රෝහල් ගත කර දරුවන්ට ඉක්මන් සුවය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලින්ද</author>
+            <date>2013-03-08 11:21:00</date>
+            <index>1</index>
+            <phrase>හෙට ඉස්කෝලෙ එනකොට ගහ කපන්න සූදානම් වෙලා එන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2013-03-08 11:46:34</date>
+            <index>2</index>
+            <phrase>මේ ගහා කුට්ටි කරලා කීයක්හරි හොයා ගන්න දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-03-08 12:06:32</date>
+            <index>3</index>
+            <phrase>ගස් 2 ක් ම තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2013-03-08 12:53:08</date>
+            <index>4</index>
+            <phrase>ඉගෙන ගන්න ගිය පාසලේදී ඔළුවට‍ ගහක් කඩන් වැටුනා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහීන්</author>
+            <date>2013-03-08 13:02:37</date>
+            <index>5</index>
+            <phrase>ඒ ගහ කොළ හැලුනු මැරීගිය ගහක් වගෙයි රූපයේ නම් පේන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-03-08 13:07:31</date>
+            <index>6</index>
+            <phrase>කෝ කාගෙවත් තුවාලයක් පේන්නවත් නෑනේ ? කම්පනය වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-08 13:24:56</date>
+            <index>7</index>
+            <phrase>තුවාල වූ සැමට ඉක්මන් සුවය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2013-03-08 14:22:35</date>
+            <index>8</index>
+            <phrase>ළමයින්ට කිසිම තුවාලයක් නෑ වගේ. ඔය හොඳින් ඉන්නේ . ‍ගෙදර යවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-08 14:27:44</date>
+            <index>9</index>
+            <phrase>චන්ඩියා වගේ ඉස්පිරිතාලේ ඉන්නවා නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසේකරගේ</author>
+            <date>2013-03-08 16:25:01</date>
+            <index>10</index>
+            <phrase>කට්ටියටම නියම වැඩක් අහුවුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත - ඉතාලිය</author>
+            <date>2013-03-09 03:37:04</date>
+            <index>11</index>
+            <phrase>සමර"කෝන්" මහතාගේ පාසලේ උදය රැස්වීමට "කෝන්" ගසක් කඩා වැඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-03-09 07:44:35</date>
+            <index>12</index>
+            <phrase>බලන්නකෝ පැටව් ටික ඉන්න ලස්සන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංඛ</author>
+            <date>2013-03-09 10:31:08</date>
+            <index>13</index>
+            <phrase>මොනවා උනත් ගස් කපන කට්ටියනම් ඉක්මනට ඇවිත් තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-09 11:23:13</date>
+            <index>14</index>
+            <phrase>අයියෝ අපරාදේ කෝන් ගහට වෙචච් දේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-03-09 18:24:14</date>
+            <index>15</index>
+            <phrase>මේ ගහ වැටිලා තියෙන්නේ පාරටනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

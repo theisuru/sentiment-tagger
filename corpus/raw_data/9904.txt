@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9904</articleId>
+    <title>සිගරැට් මිල  නගී</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2011 ඔක්තෝබර් මස 20 13:46:27</date>
+    <body>නිෂ්පාදන බදු වැඩිකිරීම නිසා සිගරැට් වර්ග හතරක මිල රුපියල් 1- 3 දක්වා වැඩිඞී ඇතැයි
+ලංකා දුමිකොල සමාගම කියයි.
+නව මිල මෙසේය.
+බෙන්සන් ඇන්ඞ් හෙජස් හා ඩන්හිල් රුපියල් 24, ගෝල්ඞ් ලිප් රුපියල් 22 කි.
+පෝල් මෝල් රුපියල් 17 . එකක් රුපියල් හයක් ති‍්‍ර රෝස් හා කැප්ටන් මිල වැඩිවී නැත.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2011-10-20 14:55:36</date>
+            <index>0</index>
+            <phrase>ගොඩාක් තව වැඩිකරලා අත්‍යාවශය භාණඩ මිළ අඩු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-10-20 15:12:58</date>
+            <index>1</index>
+            <phrase>තවත් වැඩි කරන්න ජය වේවා අරක්කු මිලත් වැඩි කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි මහේෂිකා අමරසිංහ</author>
+            <date>2011-10-20 15:48:47</date>
+            <index>2</index>
+            <phrase>පිරිමි මෙච්චර මෝඩ ඇයි? සිගරැට් අරක්කු වැඩි කළාම උඩ පනින්න. මොකද ඒවා බොන අය වැඩි උනා කියලා නොබී ඉන්නවද සිගරැට් එකක් දෙතොලේ තියපු පිරිමියෙක් ජීවිතයට නිරෝගී ජීවීතයකට උරුමකම් කියන්නේ නෑ අනික මේ...වා වැඩි කළාම සිනි පීටි වැඩි කළාට වඩා හපන් මොකද බොන මිනිහා ගාන ගැන හිතන්නේ නැහැ දන්නවා නේද ඕවාට ඇබ්බැහි වෙච්ච අයගේ ‍කොට වෙනවා කියලා...... ආයුෂ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසර කුමාර</author>
+            <date>2011-10-20 15:57:59</date>
+            <index>3</index>
+            <phrase>ගාන ටිකක් වැඩි කරලා ගෑස් වගේ දෙයක් අඩකරන්න පුඵවන්නම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

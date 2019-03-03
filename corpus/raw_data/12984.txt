@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>12984</articleId>
+    <title>අ‘පුර මැදි විදුහලට අපලයක්</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 නොවැම්බර් මස 14 09:41:28</date>
+    <body>අනුරාධපුර මැදි විදුහලේ පාලනයට එරෙහිව ආදි ශිෂ්‍ය සංගමයේ සියයක් පමණ විරෝධතාවයක් පැවැත්විය. විදුහල්පතිනිය ඉවත්විය යුතුයැයි කියමින් පාසලේ ගුරුවරයකු වන දියබෙදුමේ සුමනසාර හිමියෝ උපවාසයක් ද ඇරැඹූහ. මේ සම්බන්ධයෙන් මාධ්‍යයට කිසිවක් කිව නොහැකි බව විදුහල්පතිනි මැණිකේ ජයසේන මහත්මිය කීවාය.</body>
+    <comments>
+        <comment>
+            <author>රමිල</author>
+            <date>2011-11-14 10:52:07</date>
+            <index>0</index>
+            <phrase>මේ දේවල් වලට හේතුව තමයි දේශපාලනය සහ මුදල් හම්බකර ගැනීම මේ නිසා අපේ අනාගත දරු පරපුර බැට කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එන් එන්</author>
+            <date>2011-11-14 13:49:04</date>
+            <index>1</index>
+            <phrase>මට ඇත්තටම කණගාටුයි මොකද ඇයත් මෙහි ආදි සිසුවියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

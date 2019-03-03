@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488812</articleId>
+    <title>කැස්බෑ සංරක්ෂණ මධ්‍යස්ථාන විධිමත් කරයි</title>
+    <author></author>
+    <date>2016 දෙසැම්බර් මස 09 15:43:21</date>
+    <body>මේ වන විට ජනප්‍රිය සංචාරක සහ සංරක්ෂණ මධ්‍යස්ථාන බවට  පත්ව ඇති කැස්බෑ සංරක්ෂණ මධ්‍යස්ථාන පවත්වාගෙන යෑම විධිමත් කිරිමට  රජය තීරණය කර තිබේ.
+පෞද්ගලික කැස්බෑ  සංරක්ෂණ මධ්‍යස්ථාන පවත්වාගෙන යාම තවදුරටත් විධිමත් කර  ඒවා වනජිවි දෙපාර්තමේන්තුව යටතේ ලියාපදිංචි කිරිමට පියවර  ගෙන ඇත.
+වාර්ෂික බලපත්‍ර  ක්‍රමයක් යටතේ මෙම මධ්‍යස්ථාන පවත්වාගෙන යාමට  අවසර  ලබාදීම සඳහා අමාත්‍ය මණ්ඩලය අනුමැතිය හිමී වී තිබේ.</body>
+    <comments>
+        <comment>
+            <author>රෝෂන්</author>
+            <date>2016-12-10 08:44:51</date>
+            <index>0</index>
+            <phrase>සැබෑ සංරක්ෂණය නම් බිත්තරය පුපුරා එළියට එන පැටවාට නිදහසේ මුහුදට යාමට ඉඩ හැරීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2016-12-12 12:03:06</date>
+            <index>1</index>
+            <phrase>රජයේ අවධානය යොමු විය යුතු තැන් බොහෝයි. කැස්බෑවන් ගැන මිට වඩා අවධානය යොමු කල යුතුයි.පරිසරය රකින ආයතන ක්‍රියාකාරී වියයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසංක</author>
+            <date>2016-12-14 04:31:55</date>
+            <index>2</index>
+            <phrase>වාර්ෂිකව බලපත්‍රය ගන්න ඇමති පස්සෙන් යන්න වෙනවා...ෂුවර්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැටිපහන</author>
+            <date>2016-12-14 13:03:32</date>
+            <index>3</index>
+            <phrase>ස්වාභාවිකව බිත්තරයෙන් එලියට එන පැටවා ඒ මොහොතේම මුහුදට බැහැල දවස් ගානක් පීනලා යම් පරිසරයකට ළඟ වෙනවා. එතන තමයි එයාලට අවශ්‍ය කරන ජලයේ උෂ්ණත්වය ජලජ පැළෑටි ආහාර තියෙන ඉසව්ව. මේක එයාලගේ ජානගත චර්යාවක්. නමුත් දවස් ගානක් ටැංකිවල දමාගෙන සංචාරකයන්ට පෙන්වා මුහුදට අත අරින වෙලාව වෙනකොට එයාලට හොඳටම මහන්සියි. එහෙම අත අරින පැටවූ එයාලගේ ඉසව්වට යන්න කලින් මැරෙනවලු. මේ ඊනියා සංරක්ෂණ මධ්‍යස්ථාන වලින් කරන්නේ තනිකර ප්‍රෝඩාවකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-12-15 21:57:09</date>
+            <index>4</index>
+            <phrase>සංචාරක ආකර්ෂණයට වඩා සංරක්ෂණයට මුල්තැනක් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල් හෙට්ටිගොඩ</author>
+            <date>2016-12-22 12:21:04</date>
+            <index>5</index>
+            <phrase>සංරක්ෂණය නොව මුදල් හම්බකරන තැන කැස්බෑ සංරක්ෂණ ස්ථානය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලගේ</author>
+            <date>2016-12-24 21:27:46</date>
+            <index>6</index>
+            <phrase>ගල්කිස්සේ ඉඳලා දකුණු පළාතේ රැකව දක්වා සියළුම කැස්බෑ අභිජනන මධ්‍යස්ථාන රජයට බාරගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

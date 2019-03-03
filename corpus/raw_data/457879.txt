@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457879</articleId>
+    <title>කෙල්ලගේ මායමට සැකකරු ළඟටම එයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 14 17:56:57</date>
+    <body>ඉංගිරියේ නිවසක සේවකයකුට ලබාදුන් යතුරුපැදියෙන් ගොස් වෙළඳ සේවිකාවක් යහළු කරගැනීමට ගත් උත්සාහය අසාර්ථක වී යැයි ද එම නිවසින් රුපියල් 23000ක් සොරාගෙන ඒ යතුරුපැදියෙන්ම පළාගිය බව කියන සේවකයා අත්අඩංගුවට ගත් බවද ඉංගිරිය පොලිසිය කියයි.
+එම වෙළඳ සේවිකාව ලවා ඔහු ගෙන්වා ගැනීමට පොලිසිය යෙදූ උපක්‍රමය සාර්ථක වූ බවද පොලිසිය පවසයි.
+ </body>
+    <comments>
+        <comment>
+            <author>ජයතු</author>
+            <date>2016-09-14 19:15:22</date>
+            <index>0</index>
+            <phrase>හැටහතර මායමෙන් එකක් පාවිච්චි කරන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-09-14 19:30:30</date>
+            <index>1</index>
+            <phrase>ගැහැණු මොළේ හැඳි මිටේ දිගයි කිවුවේ ඉස්සර. දැන් ගැහැණුන්ට කරන්න බැරි දෙයකුත් නැති බව මින් පේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2016-09-14 22:35:40</date>
+            <index>2</index>
+            <phrase>පොලිසියේ උපක්‍රම හුඟක් වෙලාවට සාර්ථක වෙනවා තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

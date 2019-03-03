@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>479706</articleId>
+    <title>නවසීලන්ත භූ කම්පනයෙන් ලාංකිකයන්ට  හානියක් නෑ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 14 14:19:06</date>
+    <body>නවසීලන්තයේ සිදු වූ භූ කම්පනය හා සූනාමි තත්ත්වය හේතුවෙන් එහි සිටින  කිසිදු   ශ්‍රී ලාංකිකයකුට  හානියක් සිදුවී නොමැති බව නවසිලන්තයේ ශ්‍රී ලංකා කොන්සල  නිලධාරී විදුරංග අබේගුණසේකර මහතා සදහන් කරයි.
+භූ කම්පනය වෙලින්ටන් ඇතුළු නගර කිහිපයකට දැනී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+ </body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-14 22:59:16</date>
+            <index>0</index>
+            <phrase>තානාපති කාර්යාලවලට තියෙන්නේ එක්කෝ මළා නැත්නම් මළේ නැහැ කියන්න. කොහොමටත් වැටුප ලැබෙනවානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-15 11:07:17</date>
+            <index>1</index>
+            <phrase>ම දන්නා පරිදි කොන්සල් නිලදාරියා වැටුප් නොලබන තනතුරක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

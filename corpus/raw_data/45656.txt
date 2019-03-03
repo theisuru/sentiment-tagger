@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45656</articleId>
+    <title>තෙල් වැඩි කරන්න අයි.ඕ.සී අවසර පතයි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 මැයි මස 30 17:20:20</date>
+    <body>ඩීසල් ලීටරය රුපියල් 13.00කින්ද, පෙට්‍රල් ලීටරය රුපියල් 10.00කින්ද වැඩි කිරීමට අවසර ඉල්ලමින් ඉන්දියා තෙල් සමාගම ඛණිජතෙල් කර්මාන්ත අමාත්‍යංශයෙන් අද ඉල්ලීමක් කළේය.</body>
+    <comments>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-05-30 18:06:12</date>
+            <index>0</index>
+            <phrase>අපේ ජනාධිපතිතුමා තායිලන්තේ ඉදලා ආවට පස්සේ සළකළා බලමු නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ ඉතාලියේ දී..</author>
+            <date>2012-05-30 17:40:56</date>
+            <index>1</index>
+            <phrase>අත යට ගේම වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-05-30 18:26:20</date>
+            <index>2</index>
+            <phrase>ලෝක වෙළද පොළ අඩුවෙන කොට???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසීන්</author>
+            <date>2012-05-30 18:27:50</date>
+            <index>3</index>
+            <phrase>ඇයි අඩු කරනවා කිවුවේ එහෙනම්??? මෙහෙම ගියොත් ලංකාවේ ජීවත් වෙන එක සොරි තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-05-30 18:37:09</date>
+            <index>4</index>
+            <phrase>ලෝක වෙළද පොලේ තෙල් මිළ අඩු වෙද්දි මෙහේ වැඩි කරන්න දගලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ්</author>
+            <date>2012-05-30 18:50:22</date>
+            <index>5</index>
+            <phrase>හෙට අනිද්දට විදේශීය බලපෑම් වලට මුහුණ දෙන්න ඕනි.ඒකයි වැඩි කරන්නේ.නැතුව ජනතාවගේ පිටේ බර පටවන්න නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනුසලවි</author>
+            <date>2012-05-30 18:14:28</date>
+            <index>6</index>
+            <phrase>මේ ඉන්දියානු සම්භාවය තියෙන අයව එලවල දාන්න. මොවුන්ට ඔලුව වැඩ කරන්නෙම නැද්ද හැබෑට?ලෝක වෙළද පොළේ බොර තෙල් මිල අඩු වෙනකොට ,වැඩි කරන්නේ? පිස්සුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කඩියා</author>
+            <date>2012-05-30 19:45:05</date>
+            <index>7</index>
+            <phrase>කියනකොට........ ආසියාවේ ආශ්චර්යය කරනකොට....... ආසියාවට අවනම්බුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-30 21:08:14</date>
+            <index>8</index>
+            <phrase>ලොක්කන්ට නම් උල්පතක් පෑදිලා වගේ ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-30 21:32:38</date>
+            <index>9</index>
+            <phrase>අයියෝ අපි ඉවරයි.. බස් ගාස්තුත් වැඩි වෙයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් කුමාර</author>
+            <date>2012-05-30 23:52:30</date>
+            <index>10</index>
+            <phrase>මොකටද තවත් වැඩකරනන්නේ ..වැඩකරා මදිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දුනු</author>
+            <date>2012-05-31 00:48:10</date>
+            <index>11</index>
+            <phrase>අයි.ඕ.සී එකට පිස්සු හැදිලද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්.</author>
+            <date>2012-05-31 04:14:20</date>
+            <index>12</index>
+            <phrase>ඔහොම යන්.අපි දැන් ඉන්නේ ඉතියෝපියාවට කිට්ටුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවී</author>
+            <date>2012-05-31 07:49:23</date>
+            <index>13</index>
+            <phrase>මේව මොනවද යුද්දෙ දිනල තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහලේ ගිය කරෝලිස්</author>
+            <date>2012-05-31 09:30:06</date>
+            <index>14</index>
+            <phrase>අපේ ආර්ථික විශේෂඥයින් කියපු ආකාරයට කලින් තෙල් වැඩි වෙන්න හේතුව රුපියල අවප්‍රමාණය වීම නේ. ඉතින් මේ ගැන හොයල බලද්දී මට හමු උන බොහොම වැදගත් සිදුවීමක් තමයි මහජන චීනය තමන්ගේ යු ආන් (RMB)ඩොලරයට සාපේක්ෂව අවප්‍රමාණය කිරීම සඳහා භාවිත කල උපාය මාර්ග සහ ඔවුන් එය කළමනාකරණය කල ආකාරය. ඔබත් පැය බාගයක් වය කරලා පොඩ්ඩක් අන්තර්ජාලයෙන් කියවල බලන්න ඔවුන් භාවිත කල උපාය මාර්ග සහ අපේ රටේ ජයසුන්දර මහත්තයයි, කබ්රාල් මහත්තයයි රුපිඅල අවප්‍රමාණය කරන්න භාවිත කරපු ක්‍රියාමාර්ග අතර පවතින ප්‍රායෝගික වෙනස් කම්.මෙන්න මේ topic එකෙන් search කරලා බලන්න."China's Currency Peg". මොන කතන්දර කිව්වත් අපි ඉන්නේ කොතනද කියල ඔබට තේරෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී. වී. සී</author>
+            <date>2012-05-31 13:28:27</date>
+            <index>15</index>
+            <phrase>ඕ.අයි.සී ............ අයි.ඕ.සී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-05-31 17:04:30</date>
+            <index>16</index>
+            <phrase>ණය නැතිව ජීවත් වෙනකම් රටකට දියුණු වෙන්න බෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

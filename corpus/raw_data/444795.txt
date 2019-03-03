@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>444795</articleId>
+    <title>'මින් විසිතුරු 2016 ' ජනපති අතින් විවෘත වෙයි</title>
+    <author></author>
+    <date>2016 අගෝස්තු මස 05 13:00:26</date>
+    <body>ශ්‍රී ලංකාවේ  විසිතුරු මත්ස්‍ය අපනයනය ප්‍රවර්ධනය කිරීමේ අරමුණින් ශ්‍රී ලංකා ජාතික ජලජීවි වගා සංවර්ධන අධිකාරිය විසින් සංවිධානය කරන ලද ''මින් විසිතුරු 2016'' විසිතුරු මත්ස්‍ය, ජලජ ශාක  හා උපාංග  ප්‍රදර්ශනය ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ අද (05)  විවෘත කැරිණි. 
+ප්‍රදර්ශන කුටි සියයකින් සමන්විත වේ. සංවිධායකයින් විසින් ජනපති වෙත සමරු තිළිණයක් පිළිගැන්විණි.
+​මහින්ද අමරවීර, ලක්ෂ්මන් කිරිඇල්ල, දිලීප් වෙදආරච්චි ඇමැතිවරු ද ශ්‍රී ලංකා ජාතික ජලජීවි වගා සංවර්ධන අධිකාරියේ සභාපති නීතිඥ උපාලි මොහොට්ටි, අධ්‍යක්ෂ ජනරාල් නිමල් චන්ද්‍රරත්න යන මහත්වරු ඊට සහභාගී වුහ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2016-08-05 16:16:08</date>
+            <index>0</index>
+            <phrase>හරිම ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-08-06 01:48:30</date>
+            <index>1</index>
+            <phrase>‘මින් විසිතුරු 2016' නැරඹීමට නොහැකිවීම ගැන හරිම කණගාටු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-08-06 05:53:54</date>
+            <index>2</index>
+            <phrase>සුන්දර ප්‍රදර්ශනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2016-08-06 07:24:42</date>
+            <index>3</index>
+            <phrase>බලන්න යන්න නොලැබුන එක ගැන කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-08-06 15:49:11</date>
+            <index>4</index>
+            <phrase>ව්‍යාපාරයක් ලෙස කරන්න කැමතියි. කොහොමද විස්තර දැනගන්නේ. කවුද සම්බන්ධීකරණය කරන්නේ.දන්නා කෙනෙක් කියනවද. ලංකාදීපෙම උදව් තමයි ඉතින්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයනී මල්ලවාරච්චි</author>
+            <date>2016-08-07 00:38:45</date>
+            <index>5</index>
+            <phrase>අනේ ඕවා නොවෙයි. අපේ පොඩි එවුන්ට කෙලවල්ලා මාලු කෑල්ලක් කන්න ක්‍රමයක් හදන්න. මාලු කන්න යුරෝපයට යන්න වත්කමක් නැහැ අපිට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-08-07 12:40:50</date>
+            <index>6</index>
+            <phrase>හොඳ ව්‍යාපෘතියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-08-07 12:46:07</date>
+            <index>7</index>
+            <phrase>මම ඉන්නේ පිටරට.ලංකාවට ඇවිත් මේවගේ ව්‍යාපාරයක් කරන්නයි ඉන්නේ.කෝ ඉතින් කවුරුවත් කියන්නේ නැහැනේ කා එක්කද කතා කරන්න ඕනේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>350428</articleId>
+    <title>මතට  තිත තියන්න ජංගම හලෝවත්</title>
+    <author>ශිලා ජයසුන්දර</author>
+    <date>2015 සැප්තැම්බර් මස 25 16:01:20</date>
+    <body>මත්ද්‍රව්‍ය නිවාරණ වැඩ සටහනක්  ඖෂධ හා අන්තරාදායක මණ්ඩලයේ සභාපති වෛද්‍ය  නිලංග සමරසිංහ මහතා  අද (25) ඇරඹීය.
+ප්‍රථම පියවර  ලෙස එටිසෙලාට් සමාගමේ  සම්බන්ධ වී  පසුව මොබිටෙල්  සමාගම සමඟ ද එක් වී  සියලුම ජංගම දුරකථන ජාලා සමඟ ලෝකයට  ව්‍යාප්ත වන අයුරින් මෙම වැඩසටහන ක්‍රියාත්මක කරන බව  ඔහු පැවසුවේය. ලෝකයේ ප්‍රථම වරට  දුරකථන ජංගම සේවා  මඟින් එවැනි  වැඩසටහනක්   ඇරඹුවේ ශ්‍රි ලංකාවයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2015-09-25 14:29:08</date>
+            <index>0</index>
+            <phrase>මේවා තනිකරම මිනිස්සු රවටන බොරු ඩීල්. ඔය මොකුත් ඕනේ නැහැ මත් වතුර, කුඩු, සිගරට් තහනම් කරන්න කියන්නකෝ මොකද වෙන්නේ බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2015-09-26 11:13:36</date>
+            <index>1</index>
+            <phrase>දුරකථන පණිවුඩ බලල මත් වතුර නොබී ඉඳීද? කුඩු නොගහ ඉඳීද? ගංජා නොවුර ඉඳීද?ගෙදර පවුල සහ දරුවන් කියන දෙය වත් අහන්නේ නැති මිනිස්සු? බොරු වැඩක්. ඕකෙන් වෙන්නේ ජංගම දුරකථන සමාගම් පොහොසත් වෙන එකයි. අදාළ නිලධාරීන්ට කොමිස් ලැබෙන එකයි විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2015-09-27 01:21:41</date>
+            <index>2</index>
+            <phrase>අරක්කු, කුඩු සම්පුර්ණයෙන්ම තහනම් කරන්න. බොහෝ ප්‍රශ්න විස‍ඳෙනු ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2015-09-27 05:15:03</date>
+            <index>3</index>
+            <phrase>මේ කතා නවත්තලා, පොලීසිය පිරිසිදු කරලා නීතිය හරියට කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2015-09-27 10:08:33</date>
+            <index>4</index>
+            <phrase>ඒ ක්‍රමවේදය සාර්ථක වේවි කියා හිතනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2015-09-27 10:08:37</date>
+            <index>5</index>
+            <phrase>ජය වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා සිරි</author>
+            <date>2015-09-27 10:09:53</date>
+            <index>6</index>
+            <phrase>අතීසාරෙට අමුඩ ගහල හරියන් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2015-09-29 05:33:36</date>
+            <index>7</index>
+            <phrase>එක ප්‍රදේශයක සුරාබදු නිලධාරීන් එන්නේ කුඩු විකුණන අයට කෝල් කරලා. ඉතින් කොහොමද මතට තිත තියන්නේ. පසුගිය දවස්වල බරපතල අපරාධ කරපු ඝාතකයෝ ඔක්කොම මත්ද්‍රව්‍ය වලට ඇබ්බැහි වූවන් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

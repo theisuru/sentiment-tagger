@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56933</articleId>
+    <title>සෝමාවතියේ මහා දැව සංහාරයක්</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අගෝස්තු මස 05 12:21:35</date>
+    <body>සෝමාවතිය ජාතික වනෝද්‍යානයේ පේරමඩුවේ වැව ඉස්මත්තේ වසර 300-400ක් පැරැණි පලූ ගස් යාන්ත‍්‍රික කියත්වලින් කපමින් සිටි දෙදෙනකු අත්අඩංගුවට ගත් බව වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවේ කන්තලේ අලි පාලන ඒකකය කියයි. වසර ගණනාවක් තිස්සේ එහි දැව සංහාරය සිදුවී ඇතැයිද නිලධරයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>අනුර එස් ලියනගේ</author>
+            <date>2012-08-05 13:10:59</date>
+            <index>0</index>
+            <phrase>මෙය පිටුපස දේශපාලන හස්තයක් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලගේ</author>
+            <date>2012-08-05 16:17:06</date>
+            <index>1</index>
+            <phrase>දැන් ඉස්සර වගේ නෙමෙයිනේ. හොරුන්ට ලේසියි 'චේන් කියත' තියෙන හින්දා එතනම කැපුවා; පලු කරා;ගෙනාවා; විකුණුවා.ප්‍රවාහනය තමයි ටිකක් අමාරු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන්</author>
+            <date>2012-08-06 08:29:40</date>
+            <index>2</index>
+            <phrase>නීති තද මදි. තියෙන ඒවත් වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චිත්‍රා</author>
+            <date>2012-08-06 14:44:53</date>
+            <index>3</index>
+            <phrase>ෂා,,, නියම ලී ටික ගෙයකට නම් මාරු ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

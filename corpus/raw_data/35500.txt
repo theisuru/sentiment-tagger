@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35500</articleId>
+    <title>හිපෝ පැටවාට මිනිස් මවක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 08 16:39:34</date>
+    <body>දකුණු අප්‍රිකාවේ සත්ත්වෝද්‍යානයක හිපපොටේමස් මවක සිය පැටවා අතහැර දැමීමෙන් පසුව මිනිස් මවක් කිරි මව වී සිටින්නීය. බලු පැටවකු තරම් වූ හැරී නමැති මේ පැටවා පෝෂණය කරන්නේ එම සත්ත්වෝද්‍යානයේ සේවිකා ටෝනි ලැග්ස් නමැති සේවිකාව විසිනි.
+දින හතක් වයසැති පුංචි හිපෝ පැටවා තම නිල නිවසට ගෙනගිය ටෝනි පැය තුනකට වතාවක් කිරි මිලි ලීටර් 125 ක් බැගින් ලබාදෙමින් එම පැටවා පෝෂණය කරන්නීය. කුඩා ළමුන් නාවන බේසමක් දැන් හැරීගේ වාසස්ථානය වී තිබේ.  දින හතකදී කිලෝ ග්‍රෑම් පහක බර වර්ධනයක් ලබා ඇති හැරීට සාමාන්‍ය ආහාර ලබාදිය හැක්කේ මාස තුනකට පසුව බැවින් ටෝනි මාස තුනක කාලයක් හැරීගේ කිරිමව ලෙස වෙන්කරන්නට තිරණය කළ බව සත්ත්ව උද්‍යානයේ කළමණාකරු පවසයි.
+
+
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>වින්. වික්‍රමනායක</author>
+            <date>2012-04-08 16:54:37</date>
+            <index>0</index>
+            <phrase>ඒ සත්වයාට මැරෙනකම් මතක තියේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-04-08 18:06:00</date>
+            <index>1</index>
+            <phrase>වන සිව්පාවුන් වැනි මිනිසුන් මැද දෙවි දේවතාවුන් වැනි මිනිසුන් ඇත. ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් රණතුංග</author>
+            <date>2012-04-08 18:59:15</date>
+            <index>2</index>
+            <phrase>අනේ පව් පැටියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-04-08 19:56:30</date>
+            <index>3</index>
+            <phrase>ඉතා හොදයි. මේ මනුෂ්‍යත්වයේ ස්වභාවයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍යාම්</author>
+            <date>2012-04-08 20:14:05</date>
+            <index>4</index>
+            <phrase>ඔබ සොබා දහමට ඇති ණය ගෙවාදැමුවෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩුබායි සිට දිලීප</author>
+            <date>2012-04-08 21:12:25</date>
+            <index>5</index>
+            <phrase>මේ රූප රාමුත් එක්ක, ඇති ගල් පරයෙන් හමුවූ දරුවා බලන්න. මොකද හිතෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-04-08 21:23:15</date>
+            <index>6</index>
+            <phrase>සමහර ඇමැතිවරු මේකට මොවන කියයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-08 22:07:24</date>
+            <index>7</index>
+            <phrase>අනේ මිනිසුනේ දරුවන්ටත් මේවගේ දරුසෙනෙහස දක්වනවානමි කොයිතරමි හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල් සමරවීර - මාලදිවයින</author>
+            <date>2012-04-08 23:39:10</date>
+            <index>8</index>
+            <phrase>අනේ මේ හිපෝ පැටියා මම උනා නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතාන</author>
+            <date>2012-04-09 11:32:51</date>
+            <index>9</index>
+            <phrase>මිනිසත් බවේ උතුම් අවස්ථාවක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

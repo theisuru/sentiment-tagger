@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>98833</articleId>
+    <title>නෑයෝ දෙන්නෙක්ම තැඹිලි බොන්න ඇවිත්</title>
+    <author>වේරගොඩගේ සජීව විජේවීර</author>
+    <date>2013 පෙබරවාරි මස 19 10:59:43</date>
+    <body>ජාතික උරුමයක් වන ගාලු කොටුවේ තැඹිලි වෙළෙන්දා ළඟ දෙදෙනෙක් සිටිති.
+එක් අයෙක් අපේ ඈත නෑයෙකි. විදෙස් කත එහි ආවේ මුදල් ගෙවා තැඹිලි බීමටය. ඈත නෑයා ආවේ නොමිලේ වෑවර කෑමටය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2013-02-19 11:06:35</date>
+            <index>0</index>
+            <phrase>ලස්සන දර්ශනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-02-19 11:15:22</date>
+            <index>1</index>
+            <phrase>බලන්න ඒ සත්තු මිනිස්සු වගේ ඇගිලි හපා කන්නේ නැතිව වෑවට මදේ විතරක් කන හැටි. අනේ සුදු අක්කේ තවත් ගෙඩියක් අනේ සුදු අක්කේ තවත් ගෙඩියක් බොන්නකෝ සිතමින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2013-02-19 11:35:27</date>
+            <index>2</index>
+            <phrase>සාමකාමිව සියල්ලෝම ඉන්න ලස්සන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-02-19 11:36:24</date>
+            <index>3</index>
+            <phrase>කවුද දැන් මෙතන දෙන්නා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවොදා</author>
+            <date>2013-02-19 11:44:32</date>
+            <index>4</index>
+            <phrase>මේ සිද්දිය අපිට අරුමයක් උනාට ඒ පැත්තේ මිනිස්සුන්ට නම් අරුමයක් නැතිව ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල කුමාර රාජකරුණා</author>
+            <date>2013-02-19 11:44:52</date>
+            <index>5</index>
+            <phrase>දකින්න නැති දර්ශනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-02-19 11:52:37</date>
+            <index>6</index>
+            <phrase>මිනිසා තරම් සතුන් හිංසාකාරි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වල්ගම</author>
+            <date>2013-02-19 11:54:14</date>
+            <index>7</index>
+            <phrase>ජාතික උරුමයක් වන ගාලුකොටුවේ තැඹිලි වෙලෙන්දා...හි.හි.හි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රීටා</author>
+            <date>2013-02-19 11:59:36</date>
+            <index>8</index>
+            <phrase>තැඹිලි ගෙඩියක් කීයද ඔතන?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2013-02-19 12:18:30</date>
+            <index>9</index>
+            <phrase>මට නම් කොහෙන් බැලුවත් පේන්නේ තැඹිලි වෙළෙන්දාගේ පුතෙක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-19 12:24:36</date>
+            <index>10</index>
+            <phrase>බලන්න කොයිතරම් ලස්සනද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්-කටාර්</author>
+            <date>2013-02-19 12:49:08</date>
+            <index>11</index>
+            <phrase>බොහොම ස්තුකියි. වෙන කිසිම දෙයක් කිව යුතු නැහැ මෙම පුවත ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද්‍ර</author>
+            <date>2013-02-19 13:22:50</date>
+            <index>12</index>
+            <phrase>එතකොට මෙතන ජාතින උරුමය ගාළු කොටුවද? නැත්නම් තැඹිලි වෙළෙන්දද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2013-02-19 14:02:48</date>
+            <index>13</index>
+            <phrase>රාජේන්ද්‍රට පිස්සුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2013-02-19 14:38:51</date>
+            <index>14</index>
+            <phrase>ලොද කෑවට නම් කමක් නැහැ. තැඹිලි නමි බොන්න පුරුදු වෙන්න එපා වදුරෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-02-19 14:44:09</date>
+            <index>15</index>
+            <phrase>මට ඒ මාතෘකාව තේරෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්-කටාර්</author>
+            <date>2013-02-19 15:09:14</date>
+            <index>16</index>
+            <phrase>තැඹිලි ගෙඩියට කීයක් කිව්වද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවිරත්න</author>
+            <date>2013-02-19 15:39:10</date>
+            <index>17</index>
+            <phrase>ශා.... හරිම ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානයක</author>
+            <date>2013-02-19 15:40:59</date>
+            <index>18</index>
+            <phrase>ලස්සනයි, අනර්ඝයි, අතිවිශිෂ්ටයි වෙන කියන්න දෙයක් හිතට එන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-02-19 15:42:10</date>
+            <index>19</index>
+            <phrase>රජීන්ද්‍ර, පණ්ඩිත කතා කියන්නේ නැතිව මේ රූපය රසවිදින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්ම්</author>
+            <date>2013-02-19 15:48:52</date>
+            <index>20</index>
+            <phrase>ලෝකෙම දකි දැන් මේ පින්තුරේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාමා</author>
+            <date>2013-02-19 15:56:50</date>
+            <index>21</index>
+            <phrase>බය නැතිව ඉන්න හැටි විතරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2013-02-19 16:14:35</date>
+            <index>22</index>
+            <phrase>දුර්ලබ දසුනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-02-19 16:30:08</date>
+            <index>23</index>
+            <phrase>දිසානායක මහත්තයා මේ තරම් වර්නනා කර කර රස විදින්නේ වදුරගේ ලස්සනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-02-19 16:30:52</date>
+            <index>24</index>
+            <phrase>සංචාරක සමයට උසස් වින්දනයක් ගෙන දෙන දසුනක්. මාර්තු වල මානව හිමිකමට යවන්න සුදුසු පින්තූරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොඩංගොඩ</author>
+            <date>2013-02-19 16:58:08</date>
+            <index>25</index>
+            <phrase>ෂා! ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩින් කටාර්</author>
+            <date>2013-02-19 18:13:15</date>
+            <index>26</index>
+            <phrase>සිත පිනවන දර්ශනයක්, සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලීල්</author>
+            <date>2013-02-19 19:09:04</date>
+            <index>27</index>
+            <phrase>බලන්න ලස්සන දර්ශනයක්. ලංකාදීපයට ස්තූතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-02-19 19:48:42</date>
+            <index>28</index>
+            <phrase>වදුරා අපේ ඈත නෑයෙක් නමි වදෙස් කත ලග නෑයෙක් නෙමෙයිද? ලස්සන ඡායාරූපයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා-ඩුබායි</author>
+            <date>2013-02-19 20:23:06</date>
+            <index>29</index>
+            <phrase>මිනිසුන්ට අගෞරව කරන්න එපා බෙනට් මහත්තයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්තලාල්</author>
+            <date>2013-02-19 20:40:03</date>
+            <index>30</index>
+            <phrase>මෙම ඡායාරූපය ගත් ශිල්පියා ලංකාවේ ප්‍රසිද්ද ඡායාරූප ශිල්පියෙක් වනු දැකීම මගේ එකම පැතුමයි. මෙය දින දර්ශනයකට සුදුසුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2013-02-19 20:57:14</date>
+            <index>31</index>
+            <phrase>දිසානායක මහත්තයා හුගක් ඉහලින් කතාකළේ මේ වදුරා ගැනද, නැත්නම් සුදු නෝනලා ගැනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් ඩුබායි</author>
+            <date>2013-02-19 22:17:00</date>
+            <index>32</index>
+            <phrase>ලස්සනයි, අනර්ඝයි, අතිවිශිෂ්ටයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2013-02-19 22:44:25</date>
+            <index>33</index>
+            <phrase>ශීතයි බොහෝ ඉපදුන මව් රට ඈතයි.. උණුසුම් සිරි ලකේ කල් ගෙව්මට ආවයි.. රන් තැඹිලියක් දෙදෙනගෙ බඩ කට පුරවයි.. අමතක නොවෙන සුන්දර දේවල් මේවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2013-02-19 23:15:32</date>
+            <index>34</index>
+            <phrase>නව පරපුරට අපේ පැරණි චරිතයන්ගෙන් ඉගෙනගන්න කොච්චර දේවල් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2013-02-19 23:25:18</date>
+            <index>35</index>
+            <phrase>තැඹිලි ගෙඩිය හලාල්ද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-02-19 23:26:06</date>
+            <index>36</index>
+            <phrase>බෙනට් මහත්තයා ඇස් දෙකෙන් හැර වෙනත් දිහාවකිනුත් බලනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුහුණු</author>
+            <date>2013-02-20 00:05:48</date>
+            <index>37</index>
+            <phrase>බෙනට් මහත්තයා කියපු දේ බලන්න මේ මනුස්සයා ළග පරිඝනකයක් තියෙනවාද දන්නෙ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2013-02-20 01:45:54</date>
+            <index>38</index>
+            <phrase>මේකේ තියෙන විශේෂ ලස්සන මොකක්ද? දඹුල්ලේ පන්සල් ආවා නම් බලාගන්න තිබුනා මේ වදුරෝ කරන වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-02-20 04:54:30</date>
+            <index>39</index>
+            <phrase>අපි පරිසරය සහ සතුන් සමග ඇති ජාතික බැදීම ලොවටම පෙන්නුවාට ඔබට ‍ගොඩක් පින් තැඹිලි වෙළෙන්දෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙල්ල‍ස්සේ</author>
+            <date>2013-02-20 06:56:44</date>
+            <index>40</index>
+            <phrase>අර රතු පාට ගවුමක් ඇදගෙන ඉන්න කෙනාගේ ෆොටෝ එක නම් හොදට ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-02-20 08:14:46</date>
+            <index>41</index>
+            <phrase>ලස්සනම ලස්සනයි. හිත හොද තැඹිලි මාමා කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2013-02-20 10:21:56</date>
+            <index>42</index>
+            <phrase>මාමල අපේ ගස් ටික කැපුවෙ නැත්නම් අපි මේ වගේ ඔයාලට කරදර කරන්න එන්නෙ නැහැ මාමේ.....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනීත්</author>
+            <date>2013-02-20 10:19:58</date>
+            <index>43</index>
+            <phrase>තැඹිලි ගෙඩියක් දැන් රු.30/= විතර වෙනවා. මේවා සාමාන්‍ය දසුනක් ගාල්ල කොටුවෙ පැත්තට නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2013-02-20 21:09:36</date>
+            <index>44</index>
+            <phrase>ලස්සන දර්ශනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2013-02-20 21:06:49</date>
+            <index>45</index>
+            <phrase>සුලබ දසුනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-02-20 21:06:50</date>
+            <index>46</index>
+            <phrase>කවුද මෙතන නෑයෝ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩීන්</author>
+            <date>2013-02-22 04:15:33</date>
+            <index>47</index>
+            <phrase>හොඳට බලන්න. ඒ ඉන්නේ වැඳිරියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2013-02-22 21:28:19</date>
+            <index>48</index>
+            <phrase>මම නවෝදාගේ අදහසට එකඟ වෙමි. අපිට මේක අමුතු දෙයක් විදිහට පෙනුනට එහෙ ඉන්න අයට නම් සාමාන්‍ය සිදුවීමක් විය හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2013-02-22 22:13:26</date>
+            <index>49</index>
+            <phrase>ජාතික උරුමයක් වන ගාලු කොටුවේ තැඹිලි වෙළඳාම් කළ නිසා වෙළෙන්දා ජාතික උරුමයක් නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2013-02-26 14:21:42</date>
+            <index>50</index>
+            <phrase>කොහොමද කොල්ලා අයිතිකරු වගේ ඉන්න විදිය....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-03-06 15:04:19</date>
+            <index>51</index>
+            <phrase>ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

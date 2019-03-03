@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39880</articleId>
+    <title>සඳුදා නිවාඩුයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 01 14:42:13</date>
+    <body>මෙවර වෙසක් පොහොය සති අන්තයට (මැයි 5-6) යෙදී ඇත. මේ නිසා ලබන සඳුදා (7) රජයේ නිවාඩු දිනයකි. එදින පාසල් වලටද නිවාඩුය.</body>
+    <comments>
+        <comment>
+            <author>ශිරාන්</author>
+            <date>2012-05-02 10:06:22</date>
+            <index>0</index>
+            <phrase>අයියෝ, අපිට නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසා</author>
+            <date>2012-05-02 11:04:08</date>
+            <index>1</index>
+            <phrase>පුද්ගලික අංශයටත් දුන්නනම් නේද හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුලන්ගා</author>
+            <date>2012-05-02 11:22:30</date>
+            <index>2</index>
+            <phrase>නියමයි. වැඩි වැඩියෙන් තවත් නිවාඩුම දාන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නතාෂා</author>
+            <date>2012-05-03 10:05:58</date>
+            <index>3</index>
+            <phrase>අයියෝ දවස් දෙකට හරි යන්න දවස් දෙකක් නිවාඩු දෙන්න එපායැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගිකා</author>
+            <date>2012-05-03 10:27:14</date>
+            <index>4</index>
+            <phrase>කරුණාකරලා මේ නිවාඩුව පුද්ගලික අංශයටත් අනුමත කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

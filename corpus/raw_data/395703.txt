@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>395703</articleId>
+    <title>පාර පුරා බීර</title>
+    <author>ප්‍රසාද් රුක්මාල්</author>
+    <date>2016 මාර්තු මස 17 10:47:53</date>
+    <body>කොළඹ  සිට බදුල්ල බලා  බීර ප්‍රවාහනය කළ කන්ටේනරයක් හාලිඇල දී  පෙරළීමෙන්  රියදුරු හා සහායක තුවාල ලබා  බදුල්ල මහ රෝහලට  ඇතුළත් කළ බව පොලිසිය කියයි.
+කන්ටේනරය පෙරැළීමෙන් බීර බෝතල පාර පුරා විසිරී ගියේය.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>ටෙහාන්</author>
+            <date>2016-03-17 06:10:40</date>
+            <index>0</index>
+            <phrase>හාලි ඇලට අද වෙරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-03-17 06:30:13</date>
+            <index>1</index>
+            <phrase>මෙ වෙනකොටම අපේ බදුල්ලේ යාලුවෝ ටික බීර නානවා ඇති. ලොකු පාඩුවක්. සෑහෙන මුදලක් අලාභ වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-03-17 06:46:08</date>
+            <index>2</index>
+            <phrase>අයියෝ! මොනතරම් ලොකු පාඩුවක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ්</author>
+            <date>2016-03-17 06:47:55</date>
+            <index>3</index>
+            <phrase>ඔය අනතුර හේතුකරගෙන තවත් ගොඩක් අනතුරු වෙයි වගේ. අපිට ඉතින් නිකන් ලැබෙනවා නම්, වස විස වුණත් කමක් නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-03-17 07:54:48</date>
+            <index>4</index>
+            <phrase>මේවා නම් පෙරළෙන එකමයි යහපත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංකල්ප</author>
+            <date>2016-03-17 08:45:27</date>
+            <index>5</index>
+            <phrase>තුවාල ලැබූ රියදුරු හා සහායකට ඉක්මන් සුවය ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-03-17 08:44:04</date>
+            <index>6</index>
+            <phrase>කොහේ යනවද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2016-03-17 08:55:20</date>
+            <index>7</index>
+            <phrase>මෙවෙනි වාහන පදවන්න දෙන්න ඕන හොඳ මහත්වරුන්ට. අඩි 40 විතර වහනයක් ඔහොම පැත්තට පෙරෙන්න නම් මොන තරම් ප්‍රවේසමෙන් එලවන්න ඇත්ද , අනේ මන්ද අපේ රටේ මේ අනතුරු වලක්වන්න කිසිම හික්මීමක් ඇති කරන පාටක් න. අනික අඩි 40 කට ලගින් ගින්ය බයික් ත්‍රීවීල් යට වුනා නම් මොකද වෙන්නේ. මේවට ඉක්මන් සුව ප්‍රර්ථනා කරලා වැඩක්න. රියදුරු මහතුන්ගේ සිත් වලට ඉක්මන් සුවය ලැබී හොදින් වාහන පදවන්න අදිටන් කර ගන්න කියල තමා ප්‍රර්ථනා කරන්න තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියුමාල්</author>
+            <date>2016-03-17 09:16:38</date>
+            <index>8</index>
+            <phrase>අනේ අපිට ලැබෙන්නේ නැහැනේ මෙහෙම වාසනාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජීව්</author>
+            <date>2016-03-17 09:47:56</date>
+            <index>9</index>
+            <phrase>ඕකෙන් හිතන තරම් ලොකු පාඩුවක් නෑ. බීර වල නිෂ්පාදන වියදම හුඟක් අඩුයි. මිලෙන් 90% කම තියෙන්නේ බදු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2016-03-17 09:44:27</date>
+            <index>10</index>
+            <phrase>හාලිඇල කට්ටියට අද බියර් නොමිලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදුශංක</author>
+            <date>2016-03-17 10:32:52</date>
+            <index>11</index>
+            <phrase>මේ සිදුවීමේ සමහරවිට රියදුරු වැරදි වෙන්න පුලුවන්. රියදුරාට බැනලා වැඩක් නැහැ. අපේ ලංකාවේ කිසිම නීතියක් ක්‍රියාත්මක වෙන්නෙ නැහැ. මේ වාහනවලට බලපත්‍ර නීතිය අනුව බර පැටවිය හැකි බර ප්‍රමාණය ටොන් 30,35 අතර වුණත් මම දන්නා විදියට ටොන් 45,50 අතර බර පටවනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-03-17 12:12:33</date>
+            <index>12</index>
+            <phrase>අනිවාර්යෙන් ලොරියේ රියැදුර බිර බිල ඉන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-03-17 13:15:35</date>
+            <index>13</index>
+            <phrase>අපරාදේ බීර ටික නාස්ති වෙලා යනවා, ළඟවත් හිටියනම් පරිස්සමට හරි අරන් තියලා දෙන්න තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-03-17 17:41:27</date>
+            <index>14</index>
+            <phrase>හාලි ඇල, "බීර ඇල" වෙලා වගේ!! අනේ මෙහෙමත් පාඩුවක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කණිෂ්ක</author>
+            <date>2016-03-18 09:35:54</date>
+            <index>15</index>
+            <phrase>මෙතනම බියර් කන්ටේනරයක් අවුරුදු 2කට කලින් වගේ පෙරලුනා. එතනට කියන්නේ බියර් වංගුව කියලා. ආයත් එතනම පෙරලිලා. ගමට අවුරුදු කලින්ම ඇවිල්ලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2016-03-18 23:52:19</date>
+            <index>16</index>
+            <phrase>ගමේ අයට නම් වාසි ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-03-19 05:35:11</date>
+            <index>17</index>
+            <phrase>හොද වැඩේ බොන එක නවත්තමු මතට තිත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

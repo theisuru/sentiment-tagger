@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458201</articleId>
+    <title>ශෂි ප්‍රභාත්ගේ ‘වීදුරු මිනිසා’ එළිදකී</title>
+    <author></author>
+    <date>2016 සැප්තැම්බර් මස 21 13:11:50</date>
+    <body>ශෂි ප්‍රභාත් රණසිංහගේ  අභිනව නවකතාව ‘වීදුරු මිනිසා’ එළිදැක්වීමේ උළෙල බ්‍රහස්පතින්දා (22) සවස 3.30 ට  කොළඹ බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාවේ දී  පැවැත්වේ.
+මහාචාර්ය ඩෙස්මන්ඩ් මල්ලිකාරච්චි මුලසුන හොබවයි. සමන් වික්‍රමාරච්චි, ගාමිණි වියන්ගොඩ , උපුල් ශාන්ත සන්නස්ගල දෙසුම් පවත්වති.
+කතුවරයාගේ තෙවැනි  නවකතාව වන මෙය ගොඩගේ ප්‍රකාශනයක් ලෙසින් එළිදකීයි.
+ </body>
+    <comments>
+        <comment>
+            <author>නලීන්</author>
+            <date>2016-09-15 14:46:42</date>
+            <index>0</index>
+            <phrase>ඔබගේ වැඩ කටයුතු සාර්ථක වේවා යැයි ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-09-15 14:39:47</date>
+            <index>1</index>
+            <phrase>ඔබට සුබ පැතුම් අපගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂා</author>
+            <date>2016-09-15 14:39:47</date>
+            <index>2</index>
+            <phrase>පොත කොහෙන්ද ගන්න පුළුවන්?අපි එනවා එදාට?ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් ජයවීර</author>
+            <date>2016-09-16 01:35:41</date>
+            <index>3</index>
+            <phrase>විදුරු මිනිසා නවකතාව මම කියෙවුවා. හරිම රසවත්. එමෙන්ම ගැඹුරු ප්‍රබන්ධයක්. ලබන වසරේ සම්මාන උළෙලවල් සඳහා බලාපොරොත්තු තැබිය හැකි නවකතාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446836</articleId>
+    <title>සීසීටීවී කැමරාව හොරා අල්ලයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 11 17:59:07</date>
+    <body>දොඩංගොඩ එකම දිනයේ වෙළඳසැල් පහක් පමණ මංකොල්ලකා ඇතැයි ද වෙළඳසැල් දෙකකින් රුපියල් පනස් දහසකට අධික මුදලක් සොරාගෙන ඇතැයි ද දොඩංගොඩ පොලිසිය කියයි.
+වෙළඳසැලක තිබූ සීසීටීවී කැමරාවක සොරකම් කරන අයුරු සටහන් වී ඇති අතර ඒ ඔස්සේ පොලිස් පරීක්ෂණ මෙහෙයවන බවද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-08-11 20:45:42</date>
+            <index>0</index>
+            <phrase>කැමරාව හොරා ඇල්ලුවට තවම හොරා අහුවෙලා නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

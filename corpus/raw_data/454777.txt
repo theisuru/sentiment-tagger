@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454777</articleId>
+    <title>ත්‍රී‘මලේ දී දුම්රියට ගල් ගහලා</title>
+    <author>මහින්ද නිශ්ශංක  රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 සැප්තැම්බර් මස 06 10:55:11</date>
+    <body>ත්‍රිකුණාමලය සිට කොළඹ බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රියට සඳුදා (5)  රාත්‍රියේ ගල් ගැසීමෙන් මැදිරි දොරක වීදුරුවක් කැඩී ඇතැයි දුම්රිය ආරක්ෂක හමුදාව පවසයි.
+ත්‍රිකුණාමලය හා චීනවරාය අතරදී ගල් ප්‍රහාරය එල්ල කර ඇතැයි කියති.
+මේ අතර අද උදෑසන ගාල්ල බලා යමින් තිබූ සමුද්‍ර දේවි දුම්රියේ ගමන් කළ කාන්තාවකගේ මුහුණට ගල් ප්‍රහාරයක් එල්ල වී ඇතැයි පොලිස් ආරංචි කියයි.
+ඇය ගාල්ලේ කාන්තාවක බවද වාර්තා වේ.</body>
+    <comments>
+        <comment>
+            <author>දේවි</author>
+            <date>2016-09-06 06:27:01</date>
+            <index>0</index>
+            <phrase>දුම්රියට ගල් ගසන අයට වෙඩිතබන්න නිලධාරීන් පත්කළා කිවනේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2016-09-06 08:45:18</date>
+            <index>1</index>
+            <phrase>දුම්රියට ගල් ගසන අයට වෙඩි තබන්න නිලධාරීන් පත් කලා කිවනේද? කෝ වෙඩික්කරුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-09-06 09:12:54</date>
+            <index>2</index>
+            <phrase>තාම බැරී වුනාද මේ ගල් ගහන අය අල්ලාගන්න? අර අලුතෙන් වියදම් කරලා අරන් දුන් පිස්තෝල , තුවක්කු වලින් මොනවද කළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජි නන්දන</author>
+            <date>2016-09-06 13:02:57</date>
+            <index>3</index>
+            <phrase>පීරිස් අපි තාම එ්වා පුහුණු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

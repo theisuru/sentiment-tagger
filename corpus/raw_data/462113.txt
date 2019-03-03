@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>462113</articleId>
+    <title>‘රන්ජන් රාමනායක ගැන අගමැතිට කියනවා‘</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 සැප්තැම්බර් මස 28 13:36:22</date>
+    <body>‘පසුගිය ආණ්ඩුව මාධ්‍යවේදීන්ගේ අයිතිවාසිකම් බිඳ දමන විට එක්සත් ජාතික පක්ෂය විපක්ෂය ලෙස ලිප්ටන් වටරවුමේ දී එවකට පැවැති ආණ්ඩුවට විරුද්ධව උද්ඝෝෂණය කළා. මාධ්‍යවේදීන් වෙනුවෙන් අපි පෙනී සිටිනවා‘ යැයි මුජිබර් රහුමාන් මන්ත්‍රීවරයා අද (28) සිරිකොත එජාප මූලස්ථානයේ පැවැති මාධ්‍ය හමුවකදී පැවසීය.
+සිය නිල නිවසේ පැවැති මාධ්‍ය හමුවකදී නියෝජ්‍ය ඇමැති රන්ජන් රාමනායක වීඩියෝ කැමරාවකට පහරදීම හා මාධ්‍යවේදියකු සමග බහින්බස් වීම පිළිබඳව මාධ්‍යවේදීන් රහුමාන් මන්ත්‍රීවරයාගෙන් විමසූ අවස්ථාවේ ඔහු කියා සිටියේ ඒ පිළිබඳ සොයා බලා අගමැතිවරයාගේ අවදානය යොමු කිරීමට කටයුතු කරන බවත් එය වත්මන් ආණ්ඩුවේ වගකීමක් බවත් ය.</body>
+    <comments>
+        <comment>
+            <author>දිනේෂා</author>
+            <date>2016-09-28 08:33:36</date>
+            <index>0</index>
+            <phrase>මිනිසුන්ගේ අවදානය මේ පැත්තට යොමුවෙලා තියන වෙලාවේ වෙන මොනවාහරි ආණ්ඩුව කරාවී. අායේ අමුතුවෙන් අවධානය යොමු කරන්න දෙයක් නැතිවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශිකා</author>
+            <date>2016-09-28 08:37:55</date>
+            <index>1</index>
+            <phrase>ඇමතිතුමා, විපක්ෂයේ ඉන්නකොට වගේ නෙමෙයි ආණ්ඩුවේ ඉන්නකොට. කලකදී රහලු කලකදී වහ වෙනවාලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් අභයරත්න</author>
+            <date>2016-09-28 08:39:53</date>
+            <index>2</index>
+            <phrase>රන්ජන් කරපු හොඳ වැඩක්. කවුරු වුණත් හොඳ දෙයක් කළොත් අගය කරන්න එපායැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-09-28 09:28:30</date>
+            <index>3</index>
+            <phrase>නියෝජ්‍ය ඇමතිතුමා, කලබල වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-09-28 09:34:31</date>
+            <index>4</index>
+            <phrase>ඕවා වැඩිය ගණන්ගන්න එපා. චිත්‍රපටයක ජවනිකා කියලා හිතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-09-28 10:47:14</date>
+            <index>5</index>
+            <phrase>එයා කොහොමත් චිත්‍ර පටි වල රඟ පාන්නේ චන්ඩියාගේ චරිතය නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-09-29 02:45:18</date>
+            <index>6</index>
+            <phrase>මොකද ඕවට විභාග තිබ්බා කියලා රන්ජන් නිදොස්කොට නිදසස් කරනවා ඇරෙන්න පක්ෂ සාමාජිකත්වය තහනම් කරාවිද. ඕවා නිකන් නාට්‍ය වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

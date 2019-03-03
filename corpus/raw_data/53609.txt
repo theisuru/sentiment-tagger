@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53609</articleId>
+    <title>රිය අනතුරින් දෙන්නෙක් මරුට</title>
+    <author>ආරියදාස කොඩිතුවක්කු</author>
+    <date>2012 ජූලි මස 16 10:23:18</date>
+    <body>කටුවන අඹගස්ආරේ දී බසයක් හා යතුරු පැදියක් ගැටී යතුරු පැදියේ ගිය දෙදෙනාම මිය ගිය බව කටුවන පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-16 13:33:24</date>
+            <index>0</index>
+            <phrase>ලංකාවේ රියදුරන්ගේ නොසැළකිල්ල තමයි.දැඩි නීති රීති වලට යටත් කරන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-07-16 12:59:50</date>
+            <index>1</index>
+            <phrase>අහන්න වෙන්නේම මෙහෙම දේවල්මයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-07-17 09:00:07</date>
+            <index>2</index>
+            <phrase>මැරෙනවා මැරෙනවා හැමදාම මැරෙනවා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

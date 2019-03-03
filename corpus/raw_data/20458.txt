@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20458</articleId>
+    <title>පැරැණි රස්සාවට නොගියැයි දස වද</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 ජනවාරි මස 04 12:01:04</date>
+    <body>පාරට බැස ගණිකා වැඩ නොකළැයි පවුලේ සාමාජිකයන්ගේ දරුණු වධ හිංසාවට ලක් වූ දැරියක අප්ගනිස්ථාන කාබුල් පොලිසියෙන් බේරාගෙන රෝහල් ගත කරනු ලැබීය. ඇය මාස පහක්ම වැසිකිළියට දමා හිර කැර ඇත. එරට විවාහ වන ගෑහැනුන් සියයට 25ක් බාල වයස්කාරියන් බවත් ඔවුන්ගෙන් වැඩි දෙනා වධහිංසාවට ලක්වන බවත් මෙවැනි දෑ වැළැක්වීමට රජය තව තවත් උනන්දුවිය යුතු බවත් සෞඛ්‍ය ඇමැති සුරයා දිලීල් පවසයි.</body>
+    <comments>
+        <comment>
+            <author>හේමමාලි</author>
+            <date>2012-01-04 14:59:07</date>
+            <index>0</index>
+            <phrase>මේවා මහ තිරිසන් වැඩ මේ වගේ වැඩ හෙළා දකින්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2012-01-04 15:44:13</date>
+            <index>1</index>
+            <phrase>අනේ ඔව්. ඒවගේ දේවල් රටෙන් නැතිම කරලා දාන එක තමයි හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත් දයානන්ද</author>
+            <date>2012-01-09 15:04:47</date>
+            <index>2</index>
+            <phrase>මෙහෙම කාන්තාවන්ට දස වද දෙන තිරිසන් මුරුගයන්ට දෙවියන්ගෙම පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියලාල්</author>
+            <date>2012-01-09 20:45:13</date>
+            <index>3</index>
+            <phrase>එක එක විදිහේ සත්තු මනු සත්තු අතරේ ඉන්න මේ පණ තියෙන දේවල් නොපෙණෙන දේවල් ගොඩයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77513</articleId>
+    <title>මළගෙදර ගිහින් එද්දී බසය පල්ලමට</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 නොවැම්බර් මස 16 12:17:32</date>
+    <body>හැටන් මළගෙදරකට ගිය මාතර ගන්ධර පිරිසක් රැගෙන එමින් සිටි බසයක් හැටන් ෆෝඩයිස් හිදි මීටර් 20ක පල්ලමකට වැටී තිස්දෙනෙක් පමණ තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-11-16 12:50:44</date>
+            <index>0</index>
+            <phrase>මළ ගෙදර ගිහින් තවත් මළ ගෙයක් නොවී ඔයින් ගියා ඇති රියදුරු මහත්තය බීල ද හිටියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-16 12:59:57</date>
+            <index>1</index>
+            <phrase>මාර වැ‍ඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-11-16 12:59:04</date>
+            <index>2</index>
+            <phrase>දකුණේ මහත්වරුන්ට උඩරට පාරවල් නුහුරුයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-11-16 13:02:45</date>
+            <index>3</index>
+            <phrase>ඔයින් ගියා ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2012-11-16 13:05:52</date>
+            <index>4</index>
+            <phrase>දුකටත් එක්කම කට්ටිය බීලා එන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-11-16 13:34:10</date>
+            <index>5</index>
+            <phrase>ඇයි මේ හැම අනතුරකදිම බීලද හි‍ටියේ අහන්නේ ? බිව්වම විතරද අනතුරු වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-11-16 14:59:01</date>
+            <index>6</index>
+            <phrase>ඔක්කොම වෙන්නේ දකුණේ , නැත්නම් දකුණෙන් මිනිස්සුන්ට..අනේ මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිෂාන්</author>
+            <date>2012-11-16 15:26:42</date>
+            <index>7</index>
+            <phrase>නොසැලකිලිමත් කම නිසා නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-11-16 15:40:04</date>
+            <index>8</index>
+            <phrase>පාර හුරු නැතුව ඒ පැත්තේ රිය පැදවීම අපහසුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-11-16 15:26:58</date>
+            <index>9</index>
+            <phrase>බීල හිටියා කිවුවට මොනවද බිවුවෙ කියලා නෑනෙ. වතුර වෙන්නත් පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජසී</author>
+            <date>2012-11-16 16:47:15</date>
+            <index>10</index>
+            <phrase>ඔය ඒකත් දකුණෙනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේෂාන්</author>
+            <date>2012-11-16 18:00:11</date>
+            <index>11</index>
+            <phrase>ශෝකනිය කතාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්කි</author>
+            <date>2012-11-16 22:32:42</date>
+            <index>12</index>
+            <phrase>අපි කවුරුත් මිනිස්සු , අපි කා අතිනුත් වැරදීම් වෙනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන්</author>
+            <date>2012-11-17 07:48:43</date>
+            <index>13</index>
+            <phrase>සමහරුන් හිතන විදිය වැරදියි. උතුරේ වුණත්, දකුණේ වුණත් මේ සේරම අපේ මිනිස්සු. එයාලා හැමෝටම ගරුකරන්න පුරුදු වුණොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවිනි</author>
+            <date>2012-11-17 09:08:26</date>
+            <index>14</index>
+            <phrase>මේ කාලේ රටේ වැඩිහරිය කාතා වෙන්නේ දකුණ ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනිදු</author>
+            <date>2012-11-17 12:31:10</date>
+            <index>15</index>
+            <phrase>වාහනයේ අංකය මොකක්ද දන්නෙ නැහැ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෙරෝස්</author>
+            <date>2012-11-17 13:30:51</date>
+            <index>16</index>
+            <phrase>රියදුරා ශෝකය ප්‍රකාශ කරන්න පොඩ්ඩක් ගන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-17 14:51:35</date>
+            <index>17</index>
+            <phrase>දකුණේ ඉන්නේ මෝඩ අයනේ. ඒකයි ඒ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-11-17 15:10:30</date>
+            <index>18</index>
+            <phrase>හො﻿ඳ පලපුරුදු දක්ෂ රියදුරන්ටත් වරදින වෙලාවල් වෙන එකේ නුපුරුදු අයට කොහොමත් අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-11-17 15:02:44</date>
+            <index>19</index>
+            <phrase>සම්පත් ඔයා දකුණෙ ඉන්න උගත් බුද්ධිමතුන් ගැන අහලවත් නැතිවද නොදන්න දේවලට මෝඩකතා ලියන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හන්සි</author>
+            <date>2012-11-19 12:36:51</date>
+            <index>20</index>
+            <phrase>සම්පත්, ඔයා කොහේ හිටියත් අපිට කමක් නැහැ. ඔයාගේ මෝඩකම අනෙක් අයට පෙන්නන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-19 15:03:14</date>
+            <index>21</index>
+            <phrase>මම දන්නවා ඔය බස් එක. ඔක මාතර කොළඹ දුවන A/C බස් එකක්. ඒත් ඔකේ A/C නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

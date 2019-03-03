@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37245</articleId>
+    <title>අකුණ නුග ගහෙන් එයි.</title>
+    <author></author>
+    <date>2012 අපේ‍්‍රල් මස 18 07:55:47</date>
+    <body>රත්තොටදී නුග ගහකට වැදුණු අකුණක් අසළ ගෙයක සිටි පුද්ගලයකුට වැදී ඔහු මියගිය බව රත්තොට පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-18 14:36:20</date>
+            <index>0</index>
+            <phrase>කොතරමි ආරක්ෂා වුවත් මරණය පැමිනි මොහොතේදී යායුතුයි. එම නිසා සාමයෙන් සමගියෙන් සහජීවනයෙන් ජීවත්වීම කාගෙත් යුතුකමක් වන්නේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

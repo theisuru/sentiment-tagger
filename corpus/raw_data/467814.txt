@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>467814</articleId>
+    <title>ඖෂධ අපනයනකරු වසර 19ක් හිරේට</title>
+    <author>ෆාරුක් තාජුඞීන්</author>
+    <date>2016 ඔක්තෝබර් මස 13 15:17:34</date>
+    <body>ජනප්‍රිය වෙළඳ නාමයක් යටතේ ඖෂධ අලෙවි කළ දෙහිවල ඖෂධ අපනයනකරුවකුට අවුරුදු 19ක බරපතල සිර දඬුවමක් නියම කළ කොළඹ මහාධිකරණ විනිසුරු පද්මිණී එන්.රණවක මහත්මිය එය වසර 10කට අත්හිටවූවාය.
+දෙහිවල පදිංචි ජුනයිදීන් අහමඩ් රියාස්ට එසේ සිර දඬුවම් නියමවූයේ ව්‍යාජ ලේඛන සකසා තහනම් කළ ඇස් බෙහෙතක් මෙරටට ගෙන්වීමට උත්සාහ කිරීමත් බලධාරීන් නොමග යවමින් රූපලාවන්‍ය ද්‍රව්‍ය හා ඖෂධ ගෙන්වීමත් යන චෝදනාවලට වැරදිකරුවීම හේතුවෙනි.
+චෝදනා 10ක් යටතේ ඔහුට නඩු පවරා තිබූ අතර චෝදනා 9ක් සඳහා වසර 2 බැගින් ද එක් චෝදනවාක් සඳහා වසරක සිර දඬුවම්ද නියම විණි. එසේම චෝදනා 10 සඳහාම රුපියල් හැට ලක්ෂ පනස් දහසක දඩයක් ද ඔහුට නියම කැරිණි. 
+සසෙක්ස් මෙඩිකල් ප්‍රයිවට් ලිමිටඩ් හා හාර්කොට්ස් යන ඖෂධ සමාගම්වල නම් යටතේ ඔහු තහනම් ඖෂධ මෙරටට ගෙන්වීමට උත්සාහ කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-13 10:03:38</date>
+            <index>0</index>
+            <phrase>කොළඹ කොටුව පැත්තේ පොඩ්ඩක් ගියොත් හොර බෙහෙත්,හොර කෑම වර්ග ගෙන්වන අය ඕන තරම් හොයාගන්න පුළුවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-10-13 10:33:47</date>
+            <index>1</index>
+            <phrase>මේ වගේ අය නිසා තමයි මේ රටේ ලෙඩ්ඩු වැඩි මෙච්චර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-13 10:48:07</date>
+            <index>2</index>
+            <phrase>මොවුන් වැරදි බෙහෙත් ගබ්සා බෙහෙත් ආදිය ගෙන්වා සිංහලයින් නැතිකිරීමට උත්සාහ කළා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-10-13 12:19:13</date>
+            <index>3</index>
+            <phrase>මේ වගේ සමාජයට ලොකු කැලලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-10-13 14:00:13</date>
+            <index>4</index>
+            <phrase>හිරේ යන්න දුප්පත් පෝසත් බේදයක් නෑ. නමුත් ලොකු දඩ ගෙවන්න පුළුවන් පෝසතුන්ට පමණයි. චිනයේනම් මරණ දඩුවම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-10-14 02:47:08</date>
+            <index>5</index>
+            <phrase>රෝගී ජීවිත සමඟ සෙල්ලම් කරන මොවුන්ට උපරිම දඬුවම් දියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-10-14 02:53:23</date>
+            <index>6</index>
+            <phrase>හොඳ දඬුවමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

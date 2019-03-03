@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52523</articleId>
+    <title>ඇෆ්ගන් ජනපතිට ගෞරව උපාධියක්</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි  ඡායාරෑප</author>
+    <date>2012 ජූලි මස 10 10:10:16</date>
+    <body>ඇෆ්ගන් සමුළුවට සහභාගී වීම සඳහා ජපානයේ ටෝකියෝ නුවරට පැමිණ සිටින ඇෆ්ගන් ජනාධිපති හමීඞ් කර්සායිට ඊයේ (9) ටෝකියෝ විශ්ව විද්‍යාලයෙන් ගෞරව උපාධියක් පිරිනැමුණි.</body>
+    <comments>
+        <comment>
+            <author>ආ</author>
+            <date>2012-07-10 11:16:24</date>
+            <index>0</index>
+            <phrase>2014 තවත් ගෞරව උපාධියක් තලෛබාන් වලාන් ලැබේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-10 12:29:37</date>
+            <index>1</index>
+            <phrase>කටුස්සගේ කරේ රත්තරන් බැන්දා වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහරජා</author>
+            <date>2012-07-10 16:12:04</date>
+            <index>2</index>
+            <phrase>මටත් එකක් දෙන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බොදිරිමා</author>
+            <date>2012-07-11 13:08:58</date>
+            <index>3</index>
+            <phrase>අපේ එක්කෙනාටත් හම්බුනානේ මේ වගේ එකක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>123</author>
+            <date>2012-07-12 21:15:53</date>
+            <index>4</index>
+            <phrase>ඔය උපාදි ෙතාප්පිය දාපු අය දැන්ගලවා ගන්න බැරැවයි ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452692</articleId>
+    <title>සිකා සිංගප්පූරුවට තර්ජනයක් වෙයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 අගෝස්තු මස 31 10:42:24</date>
+    <body>සිකා වෛරසය වැළඳුණු අසූ දෙදෙනෙක් සිංගප්පූරුවෙන් වාර්තා වෙතියි විදෙස් මාධ්‍ය සඳහන් කරයි.
+ඇමරිකා එක්සත් ජනපදය, ඕස්ට්‍රේලියාව, තායිවාන් සහ දකුණු කොරියාව යන රටවලින් සිංගප්පූරුවේ සංචාරය කරන්නන්ට අනතුර අඟවා ඇති අතර ගැබිණියන්ට එහි ඇතුළුවීම තහනම් කර ඇතැයි කියති.
+පසුගිය සති දෙකක කාලයේදී එරට තුළ ශීඝ්‍රයෙන් සිකා වෛරසය පැතිර ගොස් ඇතැයි වාර්තාවේ. </body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-09-01 05:42:34</date>
+            <index>0</index>
+            <phrase>අනේ අපේ රටට ඔය වසංගත ලෙඩ එන්න දෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-09-02 02:25:39</date>
+            <index>1</index>
+            <phrase>අපේ රට නම් මේ සැමට විවෘතයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-09-02 03:52:18</date>
+            <index>2</index>
+            <phrase>ශ්‍රී ලංකාවටත් ඉක්මනටම එයි මොකද ගුවන් තොටුපොළෙන් ඕනේ කෙනෙකුට එන්න පුළුවන්. වෙන රටවලට ගියාම ඒ රටවලින් අපි පැළඳගෙන යන පාවහන් දෙකත් හොදලා තමි රට ඇතුලට යන්න දෙන්නේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

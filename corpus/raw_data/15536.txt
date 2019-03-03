@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15536</articleId>
+    <title>එජාප රැස්වීමක් අවලංගුයි.</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 01 19:08:56</date>
+    <body>විනය පරීක්‍ෂණයකට මුහුණ පා සිටින මන්ත‍්‍රි බුද්ධික පතිරණ පක්‍ෂ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීමට අනවසරයෙන් පැමිණීම නිසා එය වහා අවලංගු කිරීමට එක්සත් ජාතික පක්‍ෂ නායක සහ විපක්‍ෂ නායක රනිල් වික‍්‍රමසිංහ මහතා තීරණය කළ බව පක්‍ෂය කියයි. ඔහු පැමිණීමත් සමග එහි උණුසුම් තත්ත්වයක් ඇතිවිය.
+ඔහුට එහි පැමිණීමට ඉඩ නැතැයි පක්‍ෂ නායකයා පැවසූවත් ඉවත් නොවුණ නිසා රැස්වීම අවලංගු කළ බව විපක්‍ෂයේ ප‍්‍රධාන සංවිධායක ජෝන් අමරතුංග මහතා පැවසීය.
+රැස්විම අවලංගු කළ පසු නියෝජ්‍ය නායකවරුන් වන කරු ජයසූරිය, සජිත් පේ‍්‍රමදාස, මහත්වරුන්ද රංජිත් මද්දුමබණ්ඩාර, තලතා අතුකෝරල සහ බුද්ධික පතිරණ, කරු ජයසූරිය මහතාගේ කාර්යාලයේ දී හමු වූ බවද වාර්තා විය.</body>
+    <comments>
+        <comment>
+            <author>පසිඳු</author>
+            <date>2011-12-01 19:11:52</date>
+            <index>0</index>
+            <phrase>එජාපය ගොඩ ගැනීම ලෙහෙසි නෑ..ඒ අයගේ කිසි සමඟියකුත් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසිඳු</author>
+            <date>2011-12-01 19:12:02</date>
+            <index>1</index>
+            <phrase>එජාපය ගොඩ ගැනීම ලෙහෙසි නෑ..ඒ අයගේ කිසි සමඟියකුත් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඡන්ද දායකයෙක්</author>
+            <date>2011-12-01 20:45:11</date>
+            <index>2</index>
+            <phrase>ඊළග පාර රනිල් මහතාතයා රැස්වීමකට ආව කියලා අනෙක් අය එකතුවෙලා රැස්වීම අවලංගු කරවයිද දන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2011-12-01 21:39:27</date>
+            <index>3</index>
+            <phrase>මොනවද මේ මොන්ටිසෝරි වැඩ. බුද්ධිකට එන්න එපා කියනවා. බුද්ධික එනවා අනේ මන්දා??????????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2011-12-02 03:35:11</date>
+            <index>4</index>
+            <phrase>බුද්ධිකතුමනි ඔබ මොන පැත්තටද යන්නේ ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනස්</author>
+            <date>2011-12-02 06:57:06</date>
+            <index>5</index>
+            <phrase>එ.ජා.ප.යේ රනිල් විතරක් තනි වේවි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්දූපම</author>
+            <date>2011-12-02 09:24:02</date>
+            <index>6</index>
+            <phrase>කා කොටා ගන්නවට වඩා තව කොච්චර වැඩ තියෙනවද කරන්න. බල තන්හාව හැම කෙනාටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-12-02 19:37:06</date>
+            <index>7</index>
+            <phrase>විපක්ෂ නායකතුමනි ලැජ්ජයි නේද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

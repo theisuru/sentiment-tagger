@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507163</articleId>
+    <title>මහනුවර මහරෝහලේ වෛද්‍යවරු නිහඬ විරෝධතාවක</title>
+    <author>චමිල් රූපසිංහ</author>
+    <date>2017 පෙබරවාරි මස 14 15:46:47</date>
+    <body>මාලබේ පෞද්ගලික වෛද්‍ය අධ්‍යාපන ආයතනය සම්බන්ධ ගැටලුවට ජනාධිපතිවරයාගේ කඩිනම් මැදිහත්වීම අවශ්‍ය බව කියමින් මහනුවර මහ රෝහලේ වෛද්‍යවරු අද (14) දහවල් නිහඬ විරෝධතාවක නිරත වූහ. සයිටම් ආයතනයට එරෙහිව විශ්ව විද්‍යාල සිසුන්, දේශපාලඥයන් පවා එක්වී ඇති අවස්ථාවක ජනාධිපතිවරයා මේ පිළිබද සොයා කඩිනම් විසදුමක් ලබා දිය යුතු යැයි ද වෛද්‍ය හරිත අලුත්ගේ මහතා එහිදී සඳහන්කළේය. පැය භාගයක පමණ  කාලයක් පැවැති විරෝධතාව සඳහා 500 කට ආසන්න වෛද්‍යවරු පිරිසක් සහභාගී වී සිටියහ</body>
+    <comments>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-02-14 23:15:18</date>
+            <index>0</index>
+            <phrase>දොස්තර නෙවිල් ප්‍රනාන්දු සමග හැපෙන්න මේගොල්ලන්ට බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2017-02-15 22:55:08</date>
+            <index>1</index>
+            <phrase>ලෙඩුන්ට කරදරයක්,හානියක් නොවන අයුරින් විරෝධතාව පල කළ මහනුවර රෝහලේ වෙදදුරන්හට අපගේ උත්තමාචාරය......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2017-02-16 15:58:54</date>
+            <index>2</index>
+            <phrase>රටේ ජනගහණයත් වැඩි එකේ ඔය ලෙඩ්ඩු ටික පාලනය කරන්නද දන්නෙ නැහැනේ මෙයාලා බලන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්වින්</author>
+            <date>2017-02-21 06:45:46</date>
+            <index>3</index>
+            <phrase>රෝගීන් ට කරදර නැතුව නිහඬ විරුධතා නම් කමක් නැ. ඒ වුනාට ඔය අලුත්ගේ මහත්තය TV එකට ඇවිත් දන තර්ක නම් වැඩකට නැ. මහා මෝඩ තර්ක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

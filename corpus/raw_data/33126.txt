@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33126</articleId>
+    <title>උදැල්ලෙන් ගහගෙන රෝහලේ</title>
+    <author>වියලූවේ නිශාන්ත කුමාර</author>
+    <date>2012 මාර්තු මස 25 11:42:07</date>
+    <body>උදළුවලින් ගහගෙන මීගහකිවුල කාන්තාවන් දෙදනකු රෝහල් ගත කැර ඇතැයි පොලීසිය කියයි පෞද්ගලික ආරවුලක් මෙයට හේතුව බව කියති</body>
+    <comments>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-03-25 14:02:48</date>
+            <index>0</index>
+            <phrase>වීඩියෝ පටය එවන්න පුළුවන්නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටුවන</author>
+            <date>2012-03-25 16:42:45</date>
+            <index>1</index>
+            <phrase>උදලු කරාටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහනායක</author>
+            <date>2012-03-26 10:54:25</date>
+            <index>2</index>
+            <phrase>පුහුණුවක් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

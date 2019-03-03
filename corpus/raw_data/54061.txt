@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54061</articleId>
+    <title>මතුගම තරුණයෙක් ඩෙංගු මරුවෙක් හදයි</title>
+    <author>සරත් සිරිවර්ධන</author>
+    <date>2012 ජූලි මස 18 14:17:28</date>
+    <body>ඩෙංගු මදුරුවන් ඇතුළු සියළු මදුරුවන් නසන කුඩා උකරණයක් නිර්මාණය කළ පානදුර ඇඟළුම් කම්හල් සේවකයෝ කොළඹ බොරැල්ලේ වෛද්‍ය පර්යේෂණ ආයතනයේ මුල් පරීක්ෂණ දෙකෙන්ම සමත්වී සිටිති. රුපියල් තුන්සියයක් වැනි මුදලකට හදාගත් මේ උපකරණය නිර්මාණයට මතුගම හිරිකැටියේ පසිඳු සුදම්මිත් (26) මූලික විය. තවත් සිව් දෙනෙක් ඔහුට උදව් කරති.
+ශාකසාර සහ රසායන යොදා ගනිමින් ප්ලාස්ටික් උපකරණයක මිනිස් ලේවල සුවඳට සමාන සුවඳක් විහිදුවන මේ උපකරණය සබන් පෙට්ටියක ප‍්‍රමාණයේ ප්ලාස්ටික් ඇසුරුමකි. ශාක සාර හා රසායන කිහිපයකින් ලේ සුවඳ ගනියි. එක් උපකරණයක ආයු කාලය තුන් මාසයක් පමණ වෙයි.
+මදුරුවන් පළවා හැරීමේ ශාකසාර ක‍්‍රීම් වර්ගයක් සොයාගත් ඔහු එය වායු සුගන්ධකයක් බවට පත් කිරීමට පරීක්ෂණ කරගෙන යයි. ඔහුගේ මේ උත්සාහය අගය කරන පානදුර කර්මාන්තපුරයේ ටෙ‍්‍රන්ඞ් සෙටර්ස් ඇඟළුම් කම්හල ඔහුට උසස්වීමක්ද දී උපහාරයක්ද පැවැත්වීමට යයි.</body>
+    <comments>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-07-18 14:18:50</date>
+            <index>0</index>
+            <phrase>ස්තූතියි මල්ලි ඔයාට......දැන්වත් මේක වාණිජ මට්ටමින් නිපදවිය යුතුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමුද්‍රා</author>
+            <date>2012-07-18 14:21:52</date>
+            <index>1</index>
+            <phrase>එල කොල්ලා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් පෙරේරා</author>
+            <date>2012-07-18 15:02:49</date>
+            <index>2</index>
+            <phrase>අති විශිෂ්ඨයි.....ඔබ වැනි අය තව තවත් මේ ලක් දෙරණේ බිහි වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-07-18 14:26:38</date>
+            <index>3</index>
+            <phrase>ගොඩක් හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-07-18 14:28:54</date>
+            <index>4</index>
+            <phrase>රටට ආඩම්බරයක් ... දේශීය පුතෙකුට අපගේ උත්තමාචාරය.... වග කිවයුතු අයගේ ඇස ඇරේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමචන්දු</author>
+            <date>2012-07-18 15:14:51</date>
+            <index>5</index>
+            <phrase>මදුරුවන්ටද ?හොදදෙයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-07-18 15:16:19</date>
+            <index>6</index>
+            <phrase>හොඳ ලිපියක්....අගය කරනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිංජා</author>
+            <date>2012-07-18 14:47:05</date>
+            <index>7</index>
+            <phrase>ඔබට අපගේ ප්‍රණාමය...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-18 14:54:08</date>
+            <index>8</index>
+            <phrase>නියම දක්ෂයෙක්නේ... ආණ්ඩුවත් මේව දිහා බැලුවොත් නම් හොදයි පුද්ගලික ආයතනයටත් අපගෙ ගෞරවය , ඇත්තටම රජයෙන් කරනකම් බලා නොයිද තම තම හැකි පමණින් මෙව කරනවානම් අපේ රටටත් හොද කලක් එයි ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-07-18 15:32:53</date>
+            <index>9</index>
+            <phrase>ඔබගේ නව නිපැයුමට අපගේ සතුට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහබාහු</author>
+            <date>2012-07-18 15:33:28</date>
+            <index>10</index>
+            <phrase>මදුරුවෝ මඩින්න දේශීය නිෂ්පාදකයන් විසින් අත්හදා බලපු උපකරණ කිහිපයක් ගැන මේ දිනවල පුවත්පත්වල පලවුනා. මෙවැනි උපකරණවල ක්‍රියාකාරිත්වය සහ එයින් ලැබෙන ප්‍රතිපල වල පරීක්ෂණයක් කොට යහපත් ප්‍රතිපල ඇත්නම්, ඒවා ජනසමාජයතුල ප්‍රචලිත කොට ඉක්මනටම මේ මදුරු වසංගතේ හැඳි ගාලා දාන්න කව්රුහරි බලධාරියෙක් පියවර ගන්නවානම් ඒක ලොකු පුණ්‍ය කර්මයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-18 14:56:24</date>
+            <index>11</index>
+            <phrase>නියමයි , නියමයි, පරිස්සමින්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් පෙරේරා</author>
+            <date>2012-07-18 15:35:47</date>
+            <index>12</index>
+            <phrase>ඔබ අති විශීෂ්ඨයි. ඔබ වැන්නන් තවත් මෙරට බිහිවේවා !! ඔබට පින්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lal galabada</author>
+            <date>2012-07-18 15:38:27</date>
+            <index>13</index>
+            <phrase>ලාල් ගලබඩ ඉතාලියේ සිට.. මෙම තරුණයා අප ඇත්තටම රැක ගතයුතුය,මදුරු කොයිල් සමාගමකින් මොනයම් ආකාරයේ විදේස ශිෂ්‍යත්වයක් දුන්නත් බාර නොගත යුතුයි.එම ආයතනයේම රැකියාව කරන්න ඉඩ දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>wickramasinghe</author>
+            <date>2012-07-18 15:42:38</date>
+            <index>14</index>
+            <phrase>නියමයි ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-07-18 15:06:12</date>
+            <index>15</index>
+            <phrase>අපි අගය කරනවා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-07-18 15:44:31</date>
+            <index>16</index>
+            <phrase>අපේ ර‍ටෙ ඔන තරමි දක්ශයෝ ඉන්නවා. එ අයට අපේ උපහාරය........!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහෘදයා</author>
+            <date>2012-07-18 15:10:21</date>
+            <index>17</index>
+            <phrase>කාලීන අවශ්‍යතාවයක්. මොකද ඩෙංගු මර්ධනයට යන අයට මැරෙන්න පවා සිදුවෙන, නිලධාරි වාදය නිසා මර්ධන ව්‍යාපාරය ඇන හිටින කාලයක්නේ. ඔබගේ දක්ෂතාවයට සුභ පතන අතරෙම ඔබේ පැතුම් ඉටුවේවායි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Brock lesner</author>
+            <date>2012-07-18 15:48:58</date>
+            <index>18</index>
+            <phrase>මෙන්න මිනිස්සු........ ඔබලාගෙ මෙම නිර්මනයට මගෙන් උනුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බ්‍රෝක්</author>
+            <date>2012-07-18 15:11:00</date>
+            <index>19</index>
+            <phrase>මෙන්න මිනිස්සු........ ඔබලාගේ මෙම නිර්මාණයට මගෙන් උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-07-18 16:00:42</date>
+            <index>20</index>
+            <phrase>පසිඳු ඔබට ජය වේවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-07-18 16:00:44</date>
+            <index>21</index>
+            <phrase>පසිඳු ඔබට ජය වේවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2012-07-18 15:26:03</date>
+            <index>22</index>
+            <phrase>මේවා සමහරුන්ට විහිළු...මේවා තමයි අගය කර යුත්තේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-07-18 15:26:44</date>
+            <index>23</index>
+            <phrase>ඔබගේ සොයාගැනීම සදහා පේටන්ට් බලපත්‍රයක් ගන්න බලන්න.මදුරුවන්ගෙන් නොව මදුරු දඟර ගෙන්වන අයගෙන් ප්‍රවේසම් වෙන්න. කුසලතාවය බොහොම අගය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2012-07-18 16:05:37</date>
+            <index>24</index>
+            <phrase>අගේ ඇති පුතෙක් , ඔබට ජය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-07-18 16:08:02</date>
+            <index>25</index>
+            <phrase>පසිඳු ඔබට ජය වේවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2012-07-18 16:10:13</date>
+            <index>26</index>
+            <phrase>බලාගන්න ...... මෙන්න කොල්ලෝ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා මල්ලී</author>
+            <date>2012-07-18 16:11:31</date>
+            <index>27</index>
+            <phrase>මේවා ගොඩාක් අගය කරන්න ඕන....මේවගේ අයට අත දෙන්න පුළුවන්නම් තමයි හොඳ‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංඡුල බිරුට්</author>
+            <date>2012-07-18 16:11:34</date>
+            <index>28</index>
+            <phrase>මදුරැ දගර වලින ඔලුව කර කර ගන්නවට වඩා ඒක හොදයි ඔබට ඡය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-07-18 16:13:47</date>
+            <index>29</index>
+            <phrase>මල්ලී....පරිස්සමින් . මේක ලංකාව...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-07-18 15:39:25</date>
+            <index>30</index>
+            <phrase>නියමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාලු කොලුවා</author>
+            <date>2012-07-18 16:18:21</date>
+            <index>31</index>
+            <phrase>බොහොම වටිනවා..කාලේ හැටියට අගය කල යුතුම දෙයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-18 16:22:26</date>
+            <index>32</index>
+            <phrase>එල කොල්ලා....කාටද ආඩම්බර...........පානදුරටනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත්</author>
+            <date>2012-07-18 15:46:51</date>
+            <index>33</index>
+            <phrase>හොඳ වැඩක් ,හොඳ පුවතක්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-07-18 15:46:52</date>
+            <index>34</index>
+            <phrase>හොඳ උත්සාහයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-07-18 16:31:07</date>
+            <index>35</index>
+            <phrase>හදවතින් අගයමි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිත</author>
+            <date>2012-07-18 16:34:27</date>
+            <index>36</index>
+            <phrase>සුභ පැතුම් මිතුරේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-07-18 15:56:19</date>
+            <index>37</index>
+            <phrase>අපේ රටේ නියම වැඩකාරයෝ ඉන්නවා....කාගෙන්වත් උදව්වක් නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-18 16:03:38</date>
+            <index>38</index>
+            <phrase>අපේ කොල්ලෙක්.....ජය වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-07-18 16:44:54</date>
+            <index>39</index>
+            <phrase>හොදයි !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-07-18 16:21:18</date>
+            <index>40</index>
+            <phrase>ආඩම්බරයි‍‍‍‍........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-07-18 17:01:09</date>
+            <index>41</index>
+            <phrase>ජය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජය</author>
+            <date>2012-07-18 16:22:53</date>
+            <index>42</index>
+            <phrase>ජය ...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.එච්.අයි</author>
+            <date>2012-07-18 16:24:03</date>
+            <index>43</index>
+            <phrase>හොඳ වැඩක්‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විභූති</author>
+            <date>2012-07-18 16:29:52</date>
+            <index>44</index>
+            <phrase>පසිදු ඔබට හදවතින සුභ පැතුම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-18 17:08:54</date>
+            <index>45</index>
+            <phrase>එල කොල්ලෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් ඩුබායි සිට.</author>
+            <date>2012-07-18 17:21:04</date>
+            <index>46</index>
+            <phrase>නියම කොල්ලෙක්... අගය කල යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදුරුවා</author>
+            <date>2012-07-18 17:25:38</date>
+            <index>47</index>
+            <phrase>ඉතුරු කරන්නේ නෑ අහු උනොත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-07-18 17:36:38</date>
+            <index>48</index>
+            <phrase>එල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-07-18 16:58:23</date>
+            <index>49</index>
+            <phrase>එල.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි හර්බට් විජේසිංහ</author>
+            <date>2012-07-18 17:43:18</date>
+            <index>50</index>
+            <phrase>හොදයි, ජය වේවා , ආඩම්බරයි කියා කියා ඉන්නෙ නැතුව මේ තරුණයට අත දීලා මේක නිෂ්පාදනය කරන්න බලමු. අපි එකතු වෙලා මේ තරුනයට අත දීලා බලමු . මේක මේ කලේ අපේ රටටත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.එල්</author>
+            <date>2012-07-18 18:02:02</date>
+            <index>51</index>
+            <phrase>අපේ කොල්ලෙක් , ජය වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිහාන්</author>
+            <date>2012-07-18 17:28:10</date>
+            <index>52</index>
+            <phrase>මදුරුවන්ට තිත‍‍‍ . ඔබට ජය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිනී ලේකම්ගේ</author>
+            <date>2012-07-18 18:09:58</date>
+            <index>53</index>
+            <phrase>ඇත්තටම දිරිමත් කලයුතු තරුණයෙක්.ඔබ වැනි අය රටට සම්පතක්.මේ නිර්මාණය රට තුල ප්‍රචලිත කිරීමට කටයුතු සැලසේවා.ඔබට ජය.....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-18 18:11:18</date>
+            <index>54</index>
+            <phrase>නියමයි මල්ලී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෛත්‍රීපාල</author>
+            <date>2012-07-18 17:36:17</date>
+            <index>55</index>
+            <phrase>වැඩක් වෙන එකක් නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2012-07-18 17:52:50</date>
+            <index>56</index>
+            <phrase>මදුරුවෝ මරණ එක හොඳ නෑ.........අපාගතවෙලා මදුරුවෙක් වෙලාම උපදීවි නැවත...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඕපාදූප</author>
+            <date>2012-07-18 17:58:26</date>
+            <index>57</index>
+            <phrase>හොඳයි, ආඩම්බරයි‍‍‍.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2012-07-18 17:59:34</date>
+            <index>58</index>
+            <phrase>මදුරු කොයිල් කරුවන්ගෙන් ප්‍රවෙසම් වන්න. මුදලට ඔබව වැනසීමට ඔනෑම දෙයක් කරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩොනල්</author>
+            <date>2012-07-18 18:39:27</date>
+            <index>59</index>
+            <phrase>උත්සාහ වන්තයා ජය ගනී...ජය වේවා පසිදු !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-18 18:35:10</date>
+            <index>60</index>
+            <phrase>ඔබ වැනි අය අපේ රටට ආඩම්බරයක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමේධ</author>
+            <date>2012-07-18 19:23:25</date>
+            <index>61</index>
+            <phrase>මදුරුවන්ගෙන් නොව මදුරු දඟර ගෙන්වන අයගෙන් ප්‍රවේසම් වෙන්න.ඔබට ජය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-07-18 19:47:10</date>
+            <index>62</index>
+            <phrase>කොල්ලට කරදරයක් වෙයිද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-18 19:10:20</date>
+            <index>63</index>
+            <phrase>අපිට ආඩම්බරයි...... එතකොට කෝ අර ඇපල් වවපු සීයා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-07-18 20:08:02</date>
+            <index>64</index>
+            <phrase>මේ තරුණයාගේ දක්ෂතාවය අගය කරනවා. අපේ රටේ තරුණයින් පසුගිය සමයේ වැදගත් නව නිපයුම් රාශියක් නිර්මාණය කලා. පොලිතීන් වලින් පෙට්‍රල් හැදීම, පොල් ගස් නගින රොබෝ, වතුරෙන් ක්‍රියාකරන එන්ජිම වගේ දේවල්. මේ වගේ නිර්මාණ අවසන් නිෂ්පාදනයක් හැටියට වෙළපොළට ගෙන ඒමෙදි බැංකු පස්සෙ ගාටලා ගාටලා- බලධාරීන් ළඟ දණින් නැමිල විදින්න වෙන දුක් කන්දරාව නිසා නිර්මාණ කරුවා හති වැටෙනවා. අන්තිමේ එයාලා මොකක් හරි සමාගමක උගුලකට අහුවෙනවා. මේ ක්‍රමය වෙනස් කරන්නේ නැතිව මෙවැනි දේවල් අගේ කරලා වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lakmal</author>
+            <date>2012-07-18 21:16:22</date>
+            <index>65</index>
+            <phrase>ලාල් ගලබඩ ඉතාලියේ සිට.. මෙම තරුණයා අප ඇත්තටම රැක ගතයුතුය,මදුරු කොයිල් සමාගමකින් මොනයම් ආකාරයේ විදේස ශිෂ්‍යත්වයක් දුන්නත් බාර නොගත යුතුයි.එම ආයතනයේම රැකියාව කරන්න ඉඩ දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2012-07-18 21:43:33</date>
+            <index>66</index>
+            <phrase>සුභ පතනවා......!!!!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීඩියෝ මල්ලී</author>
+            <date>2012-07-18 22:18:49</date>
+            <index>67</index>
+            <phrase>ඔබට ජය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල</author>
+            <date>2012-07-18 21:47:00</date>
+            <index>68</index>
+            <phrase>ඔබගේ සොයාගැනීම සදහා පේටන්ට් බලපත්‍රයක් ගන්න බලන්න. මදුරුවන්ගෙන් නොව මදුරු දඟර ගෙන්වන අයගෙන් ප්‍රවේසම් වෙන්න. කුසලතාවය බොහොම අගය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-07-18 23:09:33</date>
+            <index>69</index>
+            <phrase>ගොඩක් ආඩම්බරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-07-18 23:26:29</date>
+            <index>70</index>
+            <phrase>පට්ට....පට...පට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරංගනී</author>
+            <date>2012-07-18 22:48:23</date>
+            <index>71</index>
+            <phrase>මල්ලියේ ඔබට ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිහාන්</author>
+            <date>2012-07-18 22:52:56</date>
+            <index>72</index>
+            <phrase>මෙන්න නියම කොල්ලෙක් රටටම ආඩම්බරයක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආ</author>
+            <date>2012-07-18 23:10:16</date>
+            <index>73</index>
+            <phrase>මෙයාව සුදු වෑන් එකකින් උස්සයිද දන්නේ නෑ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෝනි</author>
+            <date>2012-07-18 23:15:28</date>
+            <index>74</index>
+            <phrase>ඔබගේ සොයා ගැනීම සදහා පේටන්ට් බලපත්‍රයක් ගන්න බලන්න.මදුරුවන්ගෙන් නොව මදුරු දඟර ගෙන්වන අයගෙන් ප්‍රවේශම් වෙන්න. කුසලතාවය බොහොම අගය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩි මල්ලි</author>
+            <date>2012-07-18 23:55:23</date>
+            <index>75</index>
+            <phrase>යාළුවේ, නියම වැඩක්.ඉදිරියටම කරගෙන යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-07-18 23:45:14</date>
+            <index>76</index>
+            <phrase>දගර කාරයින්ගෙන් කොල්ලව බේරා ගෙන මෙම උපකරණයෙන් උපරිම ප්‍රයෝජන ගන්න දේශපාලඥයින්ට මොළේ පෑදේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-07-19 01:00:58</date>
+            <index>77</index>
+            <phrase>මදුරු කොයිල් සමාගම් වලින් පරිස්සම් වෙන්න.පිරිසිදු බව සහ ආරක්ෂාව පිළිබද බලධාරීන් වග බලා ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2012-07-19 01:35:57</date>
+            <index>78</index>
+            <phrase>ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දේ</author>
+            <date>2012-07-19 02:02:15</date>
+            <index>79</index>
+            <phrase>පිටරටින් බැක්ටීරියා එනකන් බලන් නොයිද අපේ කොල්ලන්ගේ දේත් අත්හදා බලමු.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-07-19 01:27:02</date>
+            <index>80</index>
+            <phrase>ඔබ අපේ කෙනෙක්ද, නියමයි. සුභා පතනවා ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුර</author>
+            <date>2012-07-19 01:45:40</date>
+            <index>81</index>
+            <phrase>අනේ පුතේ ඔබට ජය . .මේකටත් දේශපාලකයන් අත දමා කඩා කප්පල් කරයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-07-19 07:20:02</date>
+            <index>82</index>
+            <phrase>මේක බොරු මේක හැදුවේ මෙය නෙමෙයි මෙයාගේ අයිය කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර</author>
+            <date>2012-07-19 07:21:15</date>
+            <index>83</index>
+            <phrase>උත්සාහය හොඳයි. ඒත් මම දන්න විදිහට මදුරුවො එන්නේ ලේ සුවඳට නෙමෙයි. තුවාලයක් නැත්නම් මිනිසුන්ගෙන් ලේ සුවඳක්/ගඳක් එන්නේ නැහැනෙ. මදුරුවො ඇදෙන්නෙ මිනිසුන්ගෙන් වහනය වන CO2, Lactate, Octenol වැනි දේවලටයි. ඒවා යොදාගත් මදුරු උගුල් වර්ග ගොඩක් වෙනත් රටවල නිශ්පාදනය කරල තියනව. තවත් විස්තර පලකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-07-19 08:06:51</date>
+            <index>84</index>
+            <phrase>මල්ලියේ බලාගෙනයි මදුරුවෝ සමහරුන්නට හොද ව්‍යාපාරයක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හයිලි ඉස්පෙරින්</author>
+            <date>2012-07-19 07:34:20</date>
+            <index>85</index>
+            <phrase>මේ වගේ වැඩ කාරයින්ගෙන් රජය ප්‍රයෝජනයක් ගනීවි යන්න අපේ පැතුමයි ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේශහිතෛෂි</author>
+            <date>2012-07-19 07:37:16</date>
+            <index>86</index>
+            <phrase>කොහොම උනත් වැඩක් නැහැ පිටරටකටවත් යන්න දරුවො. ලංකාවෙ කට්ටිය ඔබෙන් වැඩක් ගනියිද කියල සැකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-19 09:03:09</date>
+            <index>87</index>
+            <phrase>මේ නිමැවුම්කරුට වැඩි අවධානයක් යොමු කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-07-19 09:14:33</date>
+            <index>88</index>
+            <phrase>පවුකාරයා......... මදුරුවෝ පවු නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-07-19 10:08:13</date>
+            <index>89</index>
+            <phrase>මදුරු කොයිල් කාරයො ටික මේකත් ගානට යටගහල දමන්න මොකක් හරි කරාවි. ඕකනෙ අද ලංකාවෙ තත්ත්වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආශා</author>
+            <date>2012-07-19 10:15:12</date>
+            <index>90</index>
+            <phrase>දිරිය පුතුට අපේ සුභ පැතුම්..!! තව තවත් නව නිර්මාණ කරන්න ශක්තිය ධෛර්යය ලැබේවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-19 11:06:25</date>
+            <index>91</index>
+            <phrase>මොන ක්‍රමයක් ආවත් මදුරුවො නැතිකරන්න හරි පිළියමක් කවදාවත් හොයාගන්න බැරි වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ශ</author>
+            <date>2012-07-19 13:01:37</date>
+            <index>92</index>
+            <phrase>ගොඩක් හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2012-07-19 12:51:38</date>
+            <index>93</index>
+            <phrase>නියමයි නියමයි කොල්ලෝ. අගය කළ යුතු දෙයක් කරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්</author>
+            <date>2012-07-19 13:17:16</date>
+            <index>94</index>
+            <phrase>නියමයි, ඔහොම යන්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිල්ටන්</author>
+            <date>2012-07-19 14:01:23</date>
+            <index>95</index>
+            <phrase>කොල්ලෝ පරිස්සම් වෙයන්. සුදු වෑන් එකක් එන්න බැරි නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-07-19 14:16:36</date>
+            <index>96</index>
+            <phrase>ඔබට සුභ පැතුම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-07-19 15:01:20</date>
+            <index>97</index>
+            <phrase>අනිවාර්‍යයෙන්ම වරුණ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙනුර</author>
+            <date>2012-07-19 21:12:05</date>
+            <index>98</index>
+            <phrase>දැන්වත් ලංකාවේ මොලවලින් වැඩක් ගමු . ඔබ ගමටත් රටටත් ආඩම්බරයක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2012-07-20 11:00:11</date>
+            <index>99</index>
+            <phrase>පේටන්ට් බලපත්‍රයක් ගන්න බලන්න.මල්ලියේ, බලාගෙනයි මදුරුවෝ සමහරුන්ට හොද ව්‍යාපාරයක්.බොහොම වටිනවා. කොල්ලෝ, පරිස්සම් වෙයන්. ඔබට ජය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන් දසනායක</author>
+            <date>2012-07-20 22:14:27</date>
+            <index>100</index>
+            <phrase>මතකතියා ගන්න මදුරුවා කියන්නේ දවසින් දවස " පරිණාමය" වෙන සතෙක් . ඒක නිසා ඌව මෙල්ල කරන එක ලේසි වෙන්නේ නැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆර්සාන්</author>
+            <date>2012-07-21 12:51:57</date>
+            <index>101</index>
+            <phrase>ප්‍රාණ ඝාතන උපකරණයක් හැදුවට තියන පැසසුම්. මොන සුරංගනා කතා කිව්වත් යතාර්ථය ඕකයි. මරන්න ඕන තැන මරන්නම වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-07-22 09:03:16</date>
+            <index>102</index>
+            <phrase>ඇමතිතුමා, අපිට ලොකු ආඩම්බරයක් නේද මෙහෙම මල්ලි කෙනෙක් පානදුරෙන්ම බිහිවීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පානදුර කෙනෙක්</author>
+            <date>2012-07-22 11:07:55</date>
+            <index>103</index>
+            <phrase>මමත් පානදුර ගැන හරි ආඩම්බරයි පානදුරේ ඉන්නේ කොහොමත් රජ වැඩකාරයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩුබායි</author>
+            <date>2012-07-22 12:41:14</date>
+            <index>104</index>
+            <phrase>මල්ලි, මදුරු දඟර හදන අයගෙන් මරණ තර්ජන අවේ නැද්ද තවම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-07-22 23:11:08</date>
+            <index>105</index>
+            <phrase>හොද වැඩක්.ඔබට සුභ පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජුල(පැල්මඩුල්ල)</author>
+            <date>2012-07-23 15:16:22</date>
+            <index>106</index>
+            <phrase>මොනවා හැදුවත් බලධාරීන්ට මේ වගේ හොඳ දේවල් පෙනෙන්නේ නෑ.ඔබට සුභ පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-23 16:11:41</date>
+            <index>107</index>
+            <phrase>" ප්‍රාණ ඝාතන උපකරණයක් හැදුවට තියන පැසසුම්. මොන සුරංගනා කතා කිව්වත් යතාර්ථය ඕකයි. මරන්න ඕන තැන මරන්නම වෙනවා" ඇත්තද? ප්‍රාණඝාතය වැරද්දක්මයි. ප්‍රාණඝාතය පැසසුවත් නැතත් ප්‍රාණඝාතය සිදුකල විට පවු සිදුවෙනවාමයි. දැන් ඔයා කියන්නේ ඒක නිසා සියලු බෞද්ධයින් ඉස්ලාමය වැළඳගෙන සිතු මතේට සතුන් මැරිය යුතුයි කියලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-23 16:13:49</date>
+            <index>108</index>
+            <phrase>මේ හොයාගෙන තියෙන්නේ සතුන් මරණ ක්‍රමයක් කියල පේන්නේ මට විතරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-07-24 12:37:57</date>
+            <index>109</index>
+            <phrase>සැලෙන්න එපා. ඉදිරියටම යමු... අපි සුභ පතනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොබින්සන්</author>
+            <date>2012-07-24 17:09:38</date>
+            <index>110</index>
+            <phrase>නියමයි පසිදු. සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ.වයි.එස්. ජයකොඩි</author>
+            <date>2012-07-24 23:55:19</date>
+            <index>111</index>
+            <phrase>මේ දරුවාා කලේ ලොකු පිණක්.. ජීවිත රැසක් බේරගන්න වැඩක්..ඒ පින ඇති මුළු ජීවිතේටම. ඔබේ දෙමාපියන්ටත් යහපතක්ම වේවායි පතමි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසාසේකර</author>
+            <date>2012-07-25 11:11:58</date>
+            <index>112</index>
+            <phrase>ඔබ අපිට වටින රජයට නොවටින පුතෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉදුනිල්</author>
+            <date>2012-07-25 13:57:00</date>
+            <index>113</index>
+            <phrase>ඔබට මගේ සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-25 14:15:48</date>
+            <index>114</index>
+            <phrase>හොද වැඩක් ඒත් පරිසරය ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

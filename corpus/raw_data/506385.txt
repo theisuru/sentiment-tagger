@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506385</articleId>
+    <title>ලක්ෂ 30 ක හොර නෝට්ටු මුද්‍රණය කරති</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 පෙබරවාරි මස 12 15:59:35</date>
+    <body>හොරණ කොටියන්ගොඩ සිය පෙම්වතියගේ නිවසේ දී ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ බව කියන අයකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+රුපියල් ලක්ෂ 30කට ආසන්න රුපියල් 5000, 1000 සහ 500 ව්‍යාජ නෝට්ටු සමග ඒවා මුද්‍රණයට යොදා ගත් උපකරණ රැසක් ද පොලිස් භාරයට ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>අජිත් නිව්යෝර්ක්</author>
+            <date>2017-02-12 18:58:24</date>
+            <index>0</index>
+            <phrase>මේ පුවත් දැක්කහම ලංකාවට එන්නත් බය සිතෙනවා. අපි මාරු කරන සල්ලි වලට මේ හොර නෝට්ටු ලැබේද කියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-02-13 04:46:25</date>
+            <index>1</index>
+            <phrase>බයවෙන්න එපා අජිත් මේ නෝට්ටු නොබෝ දිනකින් නිත්‍යානුකුලව ප්‍රධාන ප්‍රවාහයට එකතුවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

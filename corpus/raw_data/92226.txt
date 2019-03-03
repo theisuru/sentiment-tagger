@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>92226</articleId>
+    <title>අඩි 9ක් දිග මරා දැමූ කිඹුලෙක් පොලිසිය අල්ලයි</title>
+    <author></author>
+    <date>2013 ජනවාරි මස 10 16:38:01</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-01-10 19:35:59</date>
+            <index>0</index>
+            <phrase>මම අහලවත් නැහැ එච්චර දිග කිඹුලෙක් ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2013-01-13 17:45:28</date>
+            <index>1</index>
+            <phrase>ඔට්ටුයි, පණපිටින් ඉන්න කිඹූලෙක් අල්ලන්න පොලිසියට බැරුවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-01-14 11:43:37</date>
+            <index>2</index>
+            <phrase>ඇයි පොලිසියට බැරි කිඹුලව මරපු කෙනා අල්ලන්න?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-01-14 11:43:10</date>
+            <index>3</index>
+            <phrase>පොලිසිය අල්ලලා තියෙන්නේ පණ තියෙන එකක් නෙමෙයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්ටෙෆාන්</author>
+            <date>2013-01-15 01:38:12</date>
+            <index>4</index>
+            <phrase>කොච්චර කණගාටුද? මෙහෙමද මියගිය සතෙක්ට සළකන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෝහා</author>
+            <date>2013-01-21 10:09:55</date>
+            <index>5</index>
+            <phrase>කිඹුලාව මරපු එක්කෙනාව නෙමේනේ අල්ලලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

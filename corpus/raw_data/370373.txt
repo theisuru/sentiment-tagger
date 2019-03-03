@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>370373</articleId>
+    <title>රෝගියා ගෙන ගිය ලොරිය පෙරැළේ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2015 දෙසැම්බර් මස 20 07:24:21</date>
+    <body>කොටගල ප්‍රාදේශීය රෝහලේ සිටි රෝගියකු වැඩිදුර ප්‍ර‍තිකාර සදහා නුවරඑළිය මූලික රෝහලට රැගෙන යමින් සිටි ලොරියක් තලවාකැලේ ප්‍ර‍ධාන මාර්ගයේ දී පෙරළීමෙන් එහි රියදුරා ද තුවාල ලබා නුවරඑළිය රෝහලට ඇතුලත් කැර ඇතැයි පොලිසිය කියයි.  
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>උදිත සංජීව</author>
+            <date>2015-12-20 04:38:52</date>
+            <index>0</index>
+            <phrase>කර්මය නම් මහා පුදුමයකි. එය රජාගේ සිට දිළින්දා දක්වාද. සියලු සතුනටම පොදු වූ දෙයකි. මගහැරීමට නම් මේ සක්වලෙහිම තැනක් නොමැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2015-12-20 09:54:58</date>
+            <index>1</index>
+            <phrase>මේ අසීලාචාර රියදුරාට දෙන දඩුවම මොකද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2015-12-20 17:44:35</date>
+            <index>2</index>
+            <phrase>ගමගේ කොහොමද එහෙම කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2015-12-21 11:32:46</date>
+            <index>3</index>
+            <phrase>රෝගියාට මොකද උනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

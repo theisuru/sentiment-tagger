@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9396</articleId>
+    <title>බල්ලෙක් අබිලිං රෝහලට යවයි</title>
+    <author>සේනක නිර්මාණ කටුකිතුල</author>
+    <date>2011 ඔක්තෝබර් මස 17 13:47:54</date>
+    <body>චිත‍්‍රපට, ටෙලි නාට්‍ය හා වේදිකා නාට්‍ය ශිල්පියකු වන චන්ද්‍රසිරි කොඩිතුවක්කු (කෝපිකඬේ අබිලිං)බියගම දී රිය අනතුරකට ලක්විය. ඔහු ගමන් කළ යතුරු පැදිය බල්ලකුගේ ඇඟේ හැපීමෙන් ඔහු විසිවී දෙපාවලට සුළු තුවාල ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2011-10-17 14:40:40</date>
+            <index>0</index>
+            <phrase>මේ රටේ බල්ලන්ගෙන් පුවෙශම් වෙනු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂානි</author>
+            <date>2011-10-17 14:53:40</date>
+            <index>1</index>
+            <phrase>..නියම කලා කාරයෝ තවම බයිසිකල් වල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2011-10-17 15:32:28</date>
+            <index>2</index>
+            <phrase>අබිලිං අබිලික් වීම ගැන කණගාටුයි ඉක්මණින් සුව වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ann</author>
+            <date>2011-10-17 16:31:19</date>
+            <index>3</index>
+            <phrase>:)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2011-10-17 17:27:17</date>
+            <index>4</index>
+            <phrase>ඒකනම් ඇත්ත නියම කලා කරුවන් තවම යන්නේ බයිසිකල්වල ඉක්මන් සුව ලැබේවා අපිට කෝපි කඩේ උණුසුම් පුවතක් දෙන්න ඉන්නේ අබිලිං විතරයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙන්නකෝන්</author>
+            <date>2011-10-17 18:29:14</date>
+            <index>5</index>
+            <phrase>මුවා නොහොත් අබිලිං මාමාට ඉක්මන් සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2011-10-17 18:37:36</date>
+            <index>6</index>
+            <phrase>අපුරු වැඩේ අනුන්ගේ දේවල් හොයා හොයා ගම වටේ යනවට අනේ ! විහිඵවට කිව්වේ අබිලිං මාමාට ඉක්මන් සුවය වේවා කියලා ප්‍රාර්ථනා කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2011-10-18 08:18:00</date>
+            <index>7</index>
+            <phrase>අබිලිං මාමාට ඉක්මන් සුවය ලැබේවා ඔබ නැතිව අපට අලුත් තොරතුරු දැන ගන්නවෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2011-10-18 08:42:21</date>
+            <index>8</index>
+            <phrase>අපිට තව තවත් කෝපි කඩේ ඕපා දුප අහන්න අපේ අබිලිං මාමට ඉක්මන් සුවය ‍වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල් ප්‍රනාන්දු</author>
+            <date>2011-10-18 09:06:43</date>
+            <index>9</index>
+            <phrase>අබිලිං මාමා ඉක්මන් සුවය ලැබ කෝපි කඩේන් හමුවීමට අපි බලා සිටිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

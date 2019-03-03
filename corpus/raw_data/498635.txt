@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498635</articleId>
+    <title>පැෆරල් සංවිධානය අධිකරණයට යන්න සැරසෙයි</title>
+    <author>විනීතා එම් ගමගේ</author>
+    <date>2017 ජනවාරි මස 13 17:24:39</date>
+    <body>සීමා නීර්ණය කමිටු වාර්තාව භාරගැනීම විෂය භාර අමාත්‍යවරයා දිගින් දිගටම ප්‍රතික්ෂෙප කරන්නේ  නම් ඊට එරෙහිව  නීතිමය ක්‍රීයා මාර්ග ගන්නට කටයුතු කරන බව පැෆරල් සංවිධානය පවසයි.
+අමාත්‍යවරයා විවිධ හේතු ඉදිරිපත් කරමින් මෙම කටයුතු පමා කරන්නේ නම් මැතිවරණය කඩිනමින් පැවැත්වීමට ගතහැකි ක්‍රියාමාර්ග ගන්නැයි මැතිවරණ කොමිෂන් සභාවේ සභාපතිවරයාගෙන් ඉල්ලා සිටින බවද එම සංවිධානය කියයි.
+මේ සම්බන්ධව  පිළිබඳව නීතිපති විමසා අවශ්‍ය කටයුතු සැලසුම් කරන ලෙස ද මැතිවරණ කොමිසමේ  සභාපතිවරයාගෙන් ඉල්ලා සිටි බව පැෆරල් සංවිධානයේ විධායක අධ්‍යක්ෂක රෝහණ හෙට්ටිආරච්චි මහතා පැවැසීය. </body>
+    <comments>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2017-01-13 17:40:37</date>
+            <index>0</index>
+            <phrase>ඕක ගත්තොත් මැතිවරණය තියන්න වෙනවාමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-13 22:06:05</date>
+            <index>1</index>
+            <phrase>මහජන මුදලින් නඩත්තු කරන ඇමතිවරුන් ජනතාවගේ පරමාධිපත්‍යයට පයින් ගහනවා නම් පාලකයින් වහ පියවර ගතයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2017-01-14 05:49:38</date>
+            <index>2</index>
+            <phrase>අපට මැතිවරණ අවශ්‍ය නැත .අපට අවශ්‍ය රට සංවර්ධනය කිරීම පමනයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2017-01-14 12:48:27</date>
+            <index>3</index>
+            <phrase>කෝ අර ඔලුවටම තියන්න කියපු කොමසාරිස්තුමා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25152</articleId>
+    <title>කටට කෙළ උණන කෑම කටාරයේ</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 පෙබරවාරි මස 05 16:52:43</date>
+    <body>ශ්‍රී ලංකාවේ නිදහස් දිනය වෙනුවෙන් සාමානාධිකාරි පවුසි මොහිදින් මහතාගේ සංවිධානත්වයෙන් ‘ශ්‍රී ලංකා රසමසවුළු’ උළෙල ඇරැඹිනි. කටාර්හි ශ්‍රී ලංකා තානාපති ජයන්ත පලිපාන මහතා ප‍්‍රධාන ආරාධිතයන් ශ්‍රී ලංකාවේ ආහාරපාන හා කුළු බඩුද සමග සිනමන් ලේක්සයිඞ් හෝටලයේ සුපවේදීහු දෙදෙනෙක් මේ සඳහා කැඳවාගත් බව මොහිදින් මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2012-02-05 23:31:35</date>
+            <index>0</index>
+            <phrase>අපිත් ඉන්නේ කටාර්වල තමයි. අපි නම් දන්නෙවත් නෑ. එම්බසිය ලාංකිකයන්ව දැනුවත් කලේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්.ඩී. දිසානායක</author>
+            <date>2012-02-07 14:57:22</date>
+            <index>1</index>
+            <phrase>ලංකාවේ එම්බසි සුලු කොටසක පමණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

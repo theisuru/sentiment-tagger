@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>270717</articleId>
+    <title>අඳුර නසන්න දීපාවලී ආලෝකය දැල්වෙයි</title>
+    <author>රංජිත් රාජපක්ෂ/ මනුර සෙල්ලහේවා</author>
+    <date>2014 ඔක්තෝබර් මස 22 12:17:50</date>
+    <body>උතුරු නැගෙනහිරත්, වතුකරයත් අද දීපවාලි උත්සවය සමරයි. අඳුර නසා ආලෝකය උදාකිරීම සංකේතවත් කරමින් ලොව පුරා හින්දූහු පහන් දැල්වූහ.
+සෞභාග්‍ය පතා ලක්ෂ්මී දෙවඟන අනුස්මරණය කරමින් මෙම උත්සවය පැවැත්වේ.
+ </body>
+    <comments>
+        <comment>
+            <author>අචිනි</author>
+            <date>2014-10-22 08:50:34</date>
+            <index>0</index>
+            <phrase>දමිල සොයුරු සොයුරියන්ට සුභ දීපවාලි උත්සවයක් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2014-10-22 09:01:32</date>
+            <index>1</index>
+            <phrase>ලෝකවාසී සියලු හින්දු බැතිමතුන්ට ප්‍රිතිමත් දීපාවලි උත්සවයක් වේවා. සාමයෙන් සෞභාග්‍යයෙන් පිරි සිංහල දමිල මුස්ලිම් සහෝදර දෑත් ශක්තිමත් වෙමින් සුන්දර හෙටක් අපේ රටට උදාවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2014-10-22 10:06:50</date>
+            <index>2</index>
+            <phrase>බලන්න මේ ළමයි දිහා, ඇඳුම්, අබරණ හැම දේම ඒ ගොල්ලන්ගේ විදියට ඇඳ පැළඳගෙන හින්දු අනන්‍ය තාවය රැකගෙන ඉන්න හැටි. අපේ ළමයි උනානම්, ඔතනට සුද්දන්ගේ ගවුම් බෑයවල්, කලිසම් කබල් අන්දලා එවයි අම්මලා. පන්සලකට ගිහින් බලන්න අපේ කම කොහෙද කියල හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒඩිමන්</author>
+            <date>2014-10-22 13:06:09</date>
+            <index>3</index>
+            <phrase>සුරංග එහෙම වෙන්න සිංහල සංස්කෘතියක් දැන් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2014-10-22 18:09:33</date>
+            <index>4</index>
+            <phrase>සැමටම සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

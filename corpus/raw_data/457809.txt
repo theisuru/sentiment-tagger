@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457809</articleId>
+    <title>නිවාඩු දවසේ හේතුව වැරැදිලා ජංජාලයක්</title>
+    <author>දූනගහ - බටේපොල විජයසිරි</author>
+    <date>2016 සැප්තැම්බර් මස 15 00:01:19</date>
+    <body>රජයේ කාර්යාලයකි. 
+දිනය නිවාඩු දිනයකි.
+අත්‍යවශ්‍ය රාජකාරි කටයුතු කිහිපයක් සඳහා නෝනා මහත්වරු කිහිප දෙනෙක් එදිනද රාජකාරියට වාර්තා කළහ. 
+ඒ අතරේ එක් නෝනා කෙනකු පැමිණියේ ප්‍රමාද වෙලාය. 
+“මොකද මිස් අද පමාවුණේ.” යෙහෙළියෝ විමසූහ.
+“අනේ අද අපට උපාසක දානේ... ඉතින් පිටි කිලෝ පහක ඉඳිආප්ප හදල අල හොදි හදල පන්සලට යැව්වා. ටිකක් පරක්කු වුණේ ඒකයි.”
+“අයියෝ ඔයා අද පන්සලට උපාසක දානෙ හැදුවද? අද පෝය නිවාඩු නොවෙයිනෙ. හජ්ජි උත්සවේටනෙ නිවාඩු. ඉතින් ඔයාලගෙ ගමේ උපාසක ඇත්තො හජ්ජිවලටත් සිල් ගත්තද?”
+පමාවූ නෝනා උත්තරය වැරදී ලෙස්සා ගියේ මුහුණ බෙරිකරගෙනය.
+(දූනගහ - බටේපොල විජයසිරි)</body>
+    <comments>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-09-15 01:07:25</date>
+            <index>0</index>
+            <phrase>උපාසක උපාසිකාවන්ට පන්සල් යන්නේ පෝය දිනයටම නොවන අතර ඔවුන්ට උදෑසන ආහාරය යැවීමද ඕනෑම දිනයක කළහැකි බව නොදන්නා සේවක පිරිසක් සිටින කන්තෝරුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-09-15 05:40:00</date>
+            <index>1</index>
+            <phrase>කාන්තාවක් වුණාම එහෙම ලේසියෙන් කියන්නෙ නැහැ අහුවෙන්න බොරුවක්. පෝය ගැන වැඩිය හිතන්න නැතුව ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2016-09-15 06:02:35</date>
+            <index>2</index>
+            <phrase>අහෝ රාධා, උපාසක දානයක් කියන්නේ සිල්ගන්න අයට දෙන දානයක්නේ. ඔයා ලංකාවේ මොන පළාතේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-09-15 06:43:36</date>
+            <index>3</index>
+            <phrase>ස්තුතියි දෙවියෝ සාක්කි......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-09-15 07:09:52</date>
+            <index>4</index>
+            <phrase>අයියෝ මහේෂ්, රාධාට වැරදුනා කියලා ඒ පළාතේ ඔක්කොටම වරදිනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒකනායක</author>
+            <date>2016-09-15 08:03:43</date>
+            <index>5</index>
+            <phrase>බොරුවක් කියද්දී හිතලා බලලා කියන්න ඕනෑ කියන්නේ ඒකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2016-09-15 08:20:06</date>
+            <index>6</index>
+            <phrase>අබය, ඔයාට ලංකාවේ ජනප්‍රවාද, ජන ගී ගැන කිසිම දැනුමක් නැතුවා වගෙයි. මම කියපු දේ අබයට හරි හැටි වැටහිලා නැහැ. ලංකාවේ පළාත් අනුව ඒ ඒ අය භාවිතා කරන වචන වෙනස්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-09-16 04:35:11</date>
+            <index>7</index>
+            <phrase>මාර වැඩේ තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2016-09-17 12:54:57</date>
+            <index>8</index>
+            <phrase>මේවා නොඅසා පන පලයන් පෙරේදා කිව්වලු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පත්මසිරි</author>
+            <date>2016-09-17 15:45:10</date>
+            <index>9</index>
+            <phrase>ඇයි හජ්ජි උත්සවය දාට පෝය දිනක් එන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-09-18 04:02:13</date>
+            <index>10</index>
+            <phrase>දානය යනු බෞද්ධ ලේබලය අලවා ගත් අයට පමණක් දිය යුතු දෙයක් නොවේ... එය තිරිසනෙකුට වුවත් පොදුය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවගේ</author>
+            <date>2016-09-19 15:27:48</date>
+            <index>11</index>
+            <phrase>ලැජ්ජාවේ බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

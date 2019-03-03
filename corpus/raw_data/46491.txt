@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46491</articleId>
+    <title>තන්තිරිමලේ විජයාලෝකය අදත්</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 ජූනි මස 04 13:30:12</date>
+    <body>විල්පත්තු උතුරු මායිමේ ඓතිහාසික තන්තිරිමලේ ආලෝක පූජාවේ දෙවැනි දිනය අදයි. ලංකාදීප පත්‍රය මුද්‍රණය කරන විජය පුවත්පත් සමාගම නමවැනි වරටත් මේ ආලෝක පූජාව පවත්වයි. මල්වතු ඔය ශිෂ්ඨාචාරයේ කේන්ද්‍රස්ථානයක් වශයෙන් සැලකෙන තන්තිරිමලේ අනුබුදු මිහිදු මාහිමියන් හා සඟමිත් තෙරණි දවස සිට ඉපැරණි හෙළ ජනාවාසයක් විය. බොහෝ නටබුන් මහා කැලයෙන් අදත් වැසී ඇත්තේය. ශ්‍රී ලංකාවේ සිව් දෙසින් අනුරාධපුරයට ඇදී එන වන්දනා කරුවෝ තන්තිරිමලය වැඳපුදා ගැනීමට එති.</body>
+    <comments>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-06-04 16:21:42</date>
+            <index>0</index>
+            <phrase>තන්තිරිමලේ විජයාලෝකය සදාකල් බැබලේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-06-04 19:49:38</date>
+            <index>1</index>
+            <phrase>එතන පොඩි පරීක්ෂණයක් කරන්න මම හිතන්නේ ඇවිල්ලා ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයනා</author>
+            <date>2012-06-05 00:39:46</date>
+            <index>2</index>
+            <phrase>විමලනායක හාමුදුරුවන්ට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-06-06 07:54:49</date>
+            <index>3</index>
+            <phrase>රැකගත යුතු ස්ථාන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

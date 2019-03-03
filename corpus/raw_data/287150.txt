@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>287150</articleId>
+    <title>අචල ජාගොඩගේ සහය මෛත්‍රීට</title>
+    <author>ඡායාරූප- ඉෂාන් සංජීව</author>
+    <date>2015 ජනවාරි මස 02 11:32:04</date>
+    <body>එක්සත් ජනතා නිදහස් සන්ධාන පාර්ලිමේන්තු මන්ත්‍රී අචල ජාගොඩ පොදු අපේක්ෂක මෛත්‍රීපාල සිරිසේන මහතාට සහය දැක්වීමට එක් විය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2015-01-02 06:16:41</date>
+            <index>0</index>
+            <phrase>සැලුන් දොර නියමට වැඩ කරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2015-01-02 06:23:33</date>
+            <index>1</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2015-01-02 06:29:30</date>
+            <index>2</index>
+            <phrase>මෙන්න තවත් ඡන්ද ප්‍රතිඵලයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2015-01-02 06:34:09</date>
+            <index>3</index>
+            <phrase>ඔය තියෙන්නේ. නියමයිනේ. තව දෙදෙනෙක් අද හෝ හෙට එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2015-01-02 07:11:53</date>
+            <index>4</index>
+            <phrase>ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත් ගල්ගමුව</author>
+            <date>2015-01-02 07:46:16</date>
+            <index>5</index>
+            <phrase>පසුගිය දවසක ඇමතිතුමෙක් කිවුවා නේද ආණ්ඩුවෙන් යන කට්ටිය ගිහින් ඉවරයි, ආයේ ගියොත් ඇමතිකමෙන් ඉල්ලා අස්වෙනවා කියලා? දැන් දෙන්නෙක් අනිත් පැත්තට ගිහින් තියනවා. මොකද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රින්ස් රෝමය</author>
+            <date>2015-01-03 12:46:46</date>
+            <index>6</index>
+            <phrase>ජයවේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2015-01-03 14:57:25</date>
+            <index>7</index>
+            <phrase>මෙයා ගියානම් ඉතින් මෛත්‍රී මහත්තයා උඩින්ම දිනනවා. ඒ තරමට ඡන්ද පදනමක් මෙයාට තියෙනවා. අනේ පව් කට්ටිය ගණන් හද හද ඉන්න. 9 වෙනිදට අපි උත්තරේ පෙන්නන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

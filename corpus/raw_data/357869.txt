@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>357869</articleId>
+    <title>පැරෑලියේ ධීවර බෝට්ටු ගිනි තියලා</title>
+    <author>ජනත් ද සිල්වා ඡායාරූප - දීපාල් ද සිල්වා</author>
+    <date>2015 නොවැම්බර් මස 01 10:10:34</date>
+    <body>තෙල්වත්ත පැරෑලියේ ධීවර වරායේ නවතා තිබූ බෝට්ටුද ඒවායේ තිබූ දැල්ද ගිනිතබා වනසා ඇතැයි පොලිසියට පැමිණිලි කර ඇත.
+අලාබය රුපියල් ලක්ෂ 45 ක් පමණ වෙතියිද කියති.</body>
+    <comments>
+        <comment>
+            <author>නයනජිත්</author>
+            <date>2015-11-01 05:00:38</date>
+            <index>0</index>
+            <phrase>අනේ දෙවියනේ දැන් දරු පවුල් කීයක් අනාථද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-11-01 06:15:51</date>
+            <index>1</index>
+            <phrase>මානව කඩවීම් පැත්තක තියලා දෙන්න ඕනේ රිදෙන්න මොකාඋනත් කමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

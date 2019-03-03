@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43521</articleId>
+    <title>වැලිකඩ හිරගෙදර ළඟ මහ සෙනඟක්</title>
+    <author>එම්එස් පෙරේරා</author>
+    <date>2012 මැයි මස 21 12:39:33</date>
+    <body>අස පස්වරු 12.30 වන විටත් හිටපු යුද හමුදාපති සරත් ෆොන්සේකා කොළඹ නවලෝක රෝහෙලන් බොරැල්ලේ බන්ධනාගාරය වෙත රැගෙන යාමක් සිදුවුණේ නැත. බන්ධනාගාර කොමසාරිස් නවලෝක රෝහලට ගොස් අදාළ ලියැවිලි අත්සන් කරතියි ස්ථිර නොවූ ආරංචි කියයි.
+ෆොන්සේකාගේ සිය ගණනක් ආධාරකරුවෝ මල්මාලා රැගෙන උදේ සිටම රැඳී සිටිති.</body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-05-21 12:46:48</date>
+            <index>0</index>
+            <phrase>ඔබ වීරයෙක්. ඒත දේශපාලනයෙන් තොරව විශ්‍රම කාලය නිදහසේ ගෙවන්න. එවිට ඔබට හිමි තැන සමාජයෙන් ලැබෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවන්ත</author>
+            <date>2012-05-21 12:54:46</date>
+            <index>1</index>
+            <phrase>සදාකාලික වීරවරයෙක් වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිර</author>
+            <date>2012-05-21 13:02:43</date>
+            <index>2</index>
+            <phrase>අපිත් ඔබ එන තුරු බලාගෙන ඉන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-05-21 13:05:49</date>
+            <index>3</index>
+            <phrase>ඔබට සම්මා සම්බුදු සරණයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-05-21 13:07:33</date>
+            <index>4</index>
+            <phrase>ඔබට ජය වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-05-21 13:09:50</date>
+            <index>5</index>
+            <phrase>ඔබට ජය වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලෙක්ස්</author>
+            <date>2012-05-21 13:15:10</date>
+            <index>6</index>
+            <phrase>මොහොතක් ස්තන්න .ඔබේ අනාගතයට සුභ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-05-21 13:51:27</date>
+            <index>7</index>
+            <phrase>සදාකාලික වීරවරයෙක් වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා.ස්වීඩන්</author>
+            <date>2012-05-21 13:56:44</date>
+            <index>8</index>
+            <phrase>සෙන්පතිදුණි ඔබට ජය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් වීරරත්න</author>
+            <date>2012-05-21 14:14:33</date>
+            <index>9</index>
+            <phrase>සමහරුන් වෛරී දේශපාලනයේ නියුතු බොහෝ බලලෝභි අමැති, මැති අය දුෂ්ට කතා කියමින් රූපවාහිනියේ වීරයන් වන්නට තතනති... ජනතාවගේ පැතුම, බලාපොරොත්තුව සහ කැමැත්ත කොතැනදැයි දැනගැනීමට වැඩි කල් නොයනු ඇත... එතෙක් ගොන් කතා නොකියා විමසිල්ලෙන් සහ ඉවසිල්ලෙනුත් , බුද්ධිමත් ව අවධානයෙනුත් බලා සිටින ලෙස ඉල්ලා සිටිමි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-05-21 14:15:39</date>
+            <index>10</index>
+            <phrase>ඔබ අපිට සදා වීරයෙකි...නිදුක් නීරෝගී සුව ලැබේවා..දේශපාලනයට නොගොස් අපට වීරයෙක්ම වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගිත</author>
+            <date>2012-05-21 14:19:12</date>
+            <index>11</index>
+            <phrase>ඔබ සැමදා වීරවරයෙකි අපේ සිත් තුල‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-05-21 15:05:24</date>
+            <index>12</index>
+            <phrase>වචනයෙන් නොව ක්‍රියාවෙන්ද ඔබ වීරයෙකි....ජය වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනූශා</author>
+            <date>2012-05-21 16:14:21</date>
+            <index>13</index>
+            <phrase>බන්ඩාර ඔබ හරි......ඒක තේරුම් ගනීවිද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

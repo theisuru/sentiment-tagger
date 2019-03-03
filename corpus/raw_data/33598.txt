@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33598</articleId>
+    <title>මාතර විරිදු ගායකයා මරා දාලා</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 මාර්තු මස 27 09:50:15</date>
+    <body>මාතර බස් නැවතුම්පොළේ විරිදු ගායකයකු තියුණු ආයුධයකින් පහරදී මරා දමා ඇතැයි පොලිසිය කියයි.
+ඔහු මාතර කොටුවේගොඩ පදිංචි පියල් දිසානායක නම් හත් දරු පියෙකි. සැකකරුවකු අත්අඩංගුවට ගත් බවත්, අරක්කු බීමට මුදල් ඉල්ලා නොලැබුණු නිසා පහරදීම කර ඇති බවත් කියති.</body>
+    <comments>
+        <comment>
+            <author>දයා, සෞදි</author>
+            <date>2012-03-27 10:15:26</date>
+            <index>0</index>
+            <phrase>අනේ අහිංසකයා. අර දරු හත් දෙනාටම දැන් කාගේ පිහිටක්ද දෙවියනේ !!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක කොට්ටාව</author>
+            <date>2012-03-27 11:34:41</date>
+            <index>1</index>
+            <phrase>ලංකාවට දේව ශාපයක් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2012-03-27 16:54:21</date>
+            <index>2</index>
+            <phrase>රටේ නීතිය හරියට හදන්න ඕනේ. මිනිස්සුන් දැන් නීතියට බය නැහැ. පොලීසියට නැහැ. ජරා දේශපාලුවෝ හැමදේම වනසලා තියෙන්නේ. ඕනම අමන වැඩක් කරලා ලැජ්ජ නැතිව ආයෙත් එළියට එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත ශ්‍රී ඒකනාක, ඉතාලි සිට</author>
+            <date>2012-03-27 19:42:20</date>
+            <index>3</index>
+            <phrase>ලංකාවට දේව ශාප නෙමෙයි.වැරදි කරුවන්ට දඩුවම් දෙන්නේ නැති එක තමා මේකට මුල.එල්ලුම් ගහට යවන්න 350 ක් විතර පෝලිමේ ඉන්නවළු.පහුගිය දවස්වල අළුගෝසු තනතුරටත් අයදුම්පත් කැදෙවුවා.ඒත් ක්‍රියාත්මක වෙන්නේ නෑ. කොහොම නමුත් හොරුන්ට,මංකොල්ල කාරයන්ට,කුඩු කාරයන්ට,මිනීමරුවන්ට ඉන්දියන් සාගරයේ (අ)මුතු ඇටේ පාරාදීසයක් වගේ. කාට කියන්නද මෙවා.පාලන තන්ත්‍රෙය් වැරදි......අහෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාන් හැරස්</author>
+            <date>2012-03-27 21:58:25</date>
+            <index>4</index>
+            <phrase>ගොම රිටි යට ගිහින්. තිරිවානා ගල් ජයට මත පාවෙන යුගයක්. ලොක්කගේ පටන් සොක්කා දක්වාම නීතියට පිටුපාලා තියෙන යුගයක්. තාම ඉස්සරහට මොන මොන දේවල් සිද්ද වෙයිද කියන්න දන්නේ නැහැ. මේ තමයි හිගන්නගෙනුත් මංකොල්ලාකන ආසියාවේ ආශ්චර්යවත් රට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-03-27 22:27:37</date>
+            <index>5</index>
+            <phrase>පවු අහිංසක දරුවෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-03-28 00:30:35</date>
+            <index>6</index>
+            <phrase>වරදට නිසි දඬුවම් නැති නිසා රට ම මහා අනතුරක...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-03-28 10:38:24</date>
+            <index>7</index>
+            <phrase>මේ කරන අයට යන්න ලොවක් තිබේද .....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පත්ම කුමාර කොලොන්න</author>
+            <date>2012-03-29 09:15:13</date>
+            <index>8</index>
+            <phrase>අනේ අපොයි !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

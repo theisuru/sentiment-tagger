@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>80772</articleId>
+    <title>ඉන්දියා ධීවර ආක‍්‍රමණය එපා</title>
+    <author>එස්කේ ප‍්‍රසාද්  එස්කේ ප‍්‍රසාද්</author>
+    <date>2012 නොවැම්බර් මස 29 16:10:47</date>
+    <body>ඉන්දියා ධීවරයන් ශ්‍රී ලංකා මුහුදු සීමාවට අනවසරයෙන් ඇතුළු වී මසුන් මැරීමට එරෙහිව උතුරේ ධීවරයෝ යාපනයේ ඉන්දියා මහා කොමසාරිස් කාර්යාලය ඉදිරිපිට අද උද්ඝෝෂණයක් කළහ. දින 15 ක් ඇතුළ විසඳුමක් දෙන ලෙසත් එසේ නොවුවහොත් මුහුදේ දී දෙපාර්ශවය අතර ගැටුමක් ඇති විය හැකි බවත් උතුරු ධීවරයෝ අනතුරු අඟවති.</body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-11-29 17:16:59</date>
+            <index>0</index>
+            <phrase>කෙසේනමුත් හොද සටනක් අපිට බලාගැනීමට හැකිවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රියානි</author>
+            <date>2012-11-29 20:51:05</date>
+            <index>1</index>
+            <phrase>උතුරේ දෙමළ මිනිස්සුන්ගේ මාළු ටික තමයි ඉන්දියාවෙන් හූරගෙන යන්නේ. එක දෙමළ මන්ත්‍රීවරයෙක් වත් ඒකට විරුද්ධව කථා කරන්නේ නැහැ. වැඩිපුරම තමිල්නාඩුවේ අය. ලංකාවේ දෙමළ මිනිස්සු වෙනුවෙන් කිඹුල් කදුලු හෙලන ජයලලිතා. කරුණානිධි ඇතුළු කවුරුවත් කියනවද මේක නවත්වනවා කියල. අඩුම තරමේ මේ විදිහට උතුරේ දෙමළ මිනිස්සු මීට වඩා මේකට විරුද්ධව නැගී සිටිය යුතුයි. එයාලත් විරුද්ද වෙන්නේ දකුණෙ මිනිහෙක් ඒ පැත්තේ මුහුදට ගියොත් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-11-29 21:59:00</date>
+            <index>2</index>
+            <phrase>ඒ අය යමක් කලොත් ඒකමුතුයි ඒ නිසා ඒ අය කරන සෑම දෙයක්ම සාර්ථක වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල රත්නායක</author>
+            <date>2012-11-30 01:43:36</date>
+            <index>3</index>
+            <phrase>ලංකාවෙ දෙමළ ජනතාවගේ අයිතිවාසිකම් ගැන කතාකරන අයමයි නේද එයාලට මෙහෙම කරන්නේ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-11-30 09:07:01</date>
+            <index>4</index>
+            <phrase>මේවා නවත්තන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2012-11-30 09:43:02</date>
+            <index>5</index>
+            <phrase>නිතිය ක්‍රියාත්මක කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-11-30 09:57:50</date>
+            <index>6</index>
+            <phrase>ඒවා හොද වැඩ නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිනි</author>
+            <date>2012-11-30 10:43:03</date>
+            <index>7</index>
+            <phrase>කතාව ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

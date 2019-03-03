@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36591</articleId>
+    <title>කෝට්ටේ හස්තියා අවසන් ගමනේ</title>
+    <author>නිමාලි කහවල</author>
+    <date>2012 අපේ‍්‍රල් මස 15 11:46:48</date>
+    <body>යකඩ දම්වැල දිගේ ඇදී ආ අකුණකින් මිය ගිය කෝට්ටේ රජමහා විහාරයේ ලංකා හස්තියාගේ (24) අවසන් කටයුතු සිදුවිය. ගස දිගේ පාත්වූ අකුණින් අසල ගෙවල් කිහිපයකටද හානි සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-04-15 12:02:11</date>
+            <index>0</index>
+            <phrase>සත්තුන්ට කැලේ ඉන්ඩ ඉඩ දෙන්න ඕනේ. බුදු දහමේ කියල නැහැ සත්තු පන්සල් වල ඇති කරන්ඩ කියලා.දම් වැල් වලින් බැදලා. සත්තුන්ට පුදුම වදයක් දෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබුඩාබි කොල්ලා</author>
+            <date>2012-04-15 13:01:50</date>
+            <index>1</index>
+            <phrase>මෙවැනි විපතක් ලබන ආත්මයේදීවත් නොවේවා ! හස්ති රාජයාණනි ඔබට නිවන් සුව. නැවත අපි අතරම ඉපදේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-15 13:21:09</date>
+            <index>2</index>
+            <phrase>ජානක ඇත්තෙන්ම ඔබ නිවැරදී. ඔබ පවසනදේම තමයි මමත් ලියන්නට අදහස්කලේ. මා ඔබ සමග එකගයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-04-15 14:22:28</date>
+            <index>3</index>
+            <phrase>ඇයි මේ පංසල් වල සතුන්ට හානි වන දේ කරන්නේ. බුදුන් දේශනා කලේ හිංසාවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.එන්.ජේ.</author>
+            <date>2012-04-15 14:37:12</date>
+            <index>4</index>
+            <phrase>දන්නවද කැලේ ඉන්න අලි මෙහෙම කාලයක්වත් ඉන්නේ අමාරුවෙන් බව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-04-15 14:45:40</date>
+            <index>5</index>
+            <phrase>ඒක නම් සහතික ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් බණ්ඩාර</author>
+            <date>2012-04-15 15:55:39</date>
+            <index>6</index>
+            <phrase>රජ මහා විහාරයට හරි අපල කාලයක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-04-15 16:39:11</date>
+            <index>7</index>
+            <phrase>මොලේ තියෙන්නේ හසුරුවන්න. උඩ ඉදගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-04-15 17:36:39</date>
+            <index>8</index>
+            <phrase>මෙවන් අකල් මරණයක් මතු උපදින කිසිම භවයක හස්ථියානනි ඔබට නොම වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාතිලක</author>
+            <date>2012-04-16 09:33:20</date>
+            <index>9</index>
+            <phrase>අද ඉන්න ළමයි ඉරුදීන පවත්වන අමතර පංති නිසා දහමි පාසල් යවන්න මාපියන් උනන්ඳුවන්න නැති නිසා එවැනි අයට මාපියන් අගයක් නැහැ. හාමුරුවන්ටත් ගමිවැසියන්ටත් පිං.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500301</articleId>
+    <title>මැතිව්ස් අද ගෙදර එයි</title>
+    <author>චම්පික ප්‍රනාන්දු ජොහැන්නස්බර්ග් සිට</author>
+    <date>2017 ජනවාරි මස 23 10:10:07</date>
+    <body>ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ නායක ඇන්ජලෝ මැතිව්ස් අද (23) රාත්‍රියේදි දකුණු අප්‍රිකාවේ සිට යළි සිය රටට පැමිණීමට නියමිතය. ශ්‍රී ලංකාව සහ දකුණු අප්‍රිකාව අතර ඊයේ (22) ජොහැන්නස්බර්ග් නුවර පැවැති තරගයේදි මැතිව්ස් පාදයේ ආබාධයකට ලක්විය. ක්‍රිකට් ආරංචි මාර්ගවලින් දැනගන්නට ඇති පරිදි ශ්‍රී ලංකා නායකයාට සති දෙකක් හෝ තුනක් ක්‍රිකට් පිටියෙන් ඉවත්ව සිටීමට සිදුවන බව වාර්තාවෙයි</body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2017-01-23 05:01:25</date>
+            <index>0</index>
+            <phrase>ඒක බොහොම හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-23 05:22:20</date>
+            <index>1</index>
+            <phrase>ඇයි මීට කලින් ගෙදර ආවෙ නැත්තෙ. එයා හිටපු නැති කාලෙ ටීම් එකේ පොඩි කොල්ලො ටික හොඳට සෙල්ලම් කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත පතිරණ</author>
+            <date>2017-01-23 05:35:04</date>
+            <index>2</index>
+            <phrase>ක්‍රීඩකයන් තිදෙනෙක් එකවර අඩුවුණා වගේ පාඩුවක්. ඉක්මන් සුවය..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2017-01-23 05:51:46</date>
+            <index>3</index>
+            <phrase>අපෝ චන්දිමා‍ල්ට නම් විස්සයි විස්ස නායකත්වය දෙන්න එපා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කළ්‍යාණි</author>
+            <date>2017-01-23 07:11:35</date>
+            <index>4</index>
+            <phrase>මහේල, සංගා නැති අඩුව ඔබට පියවාගන්න බැරිවුණේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2017-01-23 07:46:18</date>
+            <index>5</index>
+            <phrase>කාගෙ කාගෙත් අඩුපාඩු තිබෙනවා තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2017-01-23 08:00:13</date>
+            <index>6</index>
+            <phrase>ඉඳලා ඉඳලා ගැහුවා 50ක්. දැන් මොකද වෙලා තියෙන්නේ? නායකයා මෙහෙම නම් අනිත් ක්‍රීඩකයන් ගැන කවර කතාද!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2017-01-23 08:09:57</date>
+            <index>7</index>
+            <phrase>ඇන්ජලෝ නැති එක අපිට ලොකු පාඩුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2017-01-23 08:27:51</date>
+            <index>8</index>
+            <phrase>මැතිව්ස් වෙනුවට කපුගෙදරව යවන්න. උපුල් තරංගව නායකයා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2017-01-23 08:36:25</date>
+            <index>9</index>
+            <phrase>කොහොමද ටිකිරි මොළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවි මෙල්බර්න්</author>
+            <date>2017-01-23 08:47:07</date>
+            <index>10</index>
+            <phrase>ලංකාවට ගිහිල්ලා ඉක්මනට සුවය ලබා එන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-01-23 08:51:24</date>
+            <index>11</index>
+            <phrase>ඒක හොඳයි කියන අයම යවන්න ඕනෑ කෙනත් කිව්වොත් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2017-01-23 09:17:52</date>
+            <index>12</index>
+            <phrase>අත්දැකීම් බහුල උපුල් තරංගව නායකත්වයට පත්කරනවා නම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2017-01-23 09:27:44</date>
+            <index>13</index>
+            <phrase>අපේ ජාතික ක්‍රිකට් කණ්ඩායමේ සංයමයෙන් ක්‍රීඩාකරන, සංයමයෙන් තීන්දු තීරණ වලට එළඹෙන, සංයමයෙන් ප්‍රවෘත්ති සාකච්චා වලදී මුහුණදෙන ඇන්ජලෝ මැතිව්ස් හට ඉක්මන් සුවය ලැබීමට දේවාශීර්වාදය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2017-01-23 10:21:43</date>
+            <index>14</index>
+            <phrase>සිරි, කුහක වෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2017-01-23 10:24:14</date>
+            <index>15</index>
+            <phrase>මැතිව්ගේ අඩුපාඩු තිබෙනවා. නමුත් ඔය ලෙසට කුහක වෙන්න එපා මිනිසුනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2017-01-23 10:57:51</date>
+            <index>16</index>
+            <phrase>ටීවී එකෙන් ක්‍රිකට් බලලා ක්‍රිකට් ගැන ඉගෙනගත් අය සංගක්කාරලව ක්‍රිකට් පිටියෙන් එළවාගත්තා වගේ මැතිව්ස්ටත් මේ දවස් වල හරියට කතා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්දෙ</author>
+            <date>2017-01-23 11:04:02</date>
+            <index>17</index>
+            <phrase>චන්දිමාල් ඇරෙන්න වෙන කෙනෙක් ඇත්තෙම නැද්ද නායකකම දෙන්න? ලංකාවේ ක්‍රිකට්වල අන්තිම කාලේ මේක වෙයි මේගොල්ලෝ දිගටම හිටියොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශික</author>
+            <date>2017-01-23 13:23:08</date>
+            <index>18</index>
+            <phrase>මැතිව්ස් ඔබ අපේ රට ඉහලින් තබන ජාතික වස්තුවක්, අපේ රටේ ඉන්න වැඩි හරියක් කුහක සිංහලයන්,කළ හොඳ කවදත් මතක නැහැ ඔබ මාලිංග සමග මෙල්බෝරන් නුවර දී දිනපු මට්ච් එක සදා අමරණිය එකක්, අපට හැම දා දින්නන්න බැ,ඔබ ඉතාකම් අපිට අවශ්‍ය තුන් ඉරියු ක්‍රීඩකයෙක් ඉක්මනින් සුවය ලැබි රටේ නම පෙරට ගෙන්න ධෛරේය ලැබේවා,පෙස් බූක් එකේ ඉන්න නුගත් තුන්වෙඑල් කාරයෝ කියන දේවල් බලන්න එපා,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2017-01-23 16:46:30</date>
+            <index>19</index>
+            <phrase>අනේ! චන්දිමාල්වත් මෙයා එක්කම අාපහු ගෙන්නගන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-24 01:15:01</date>
+            <index>20</index>
+            <phrase>කියලවත් කරගන්න බැරි දෙයක් වුණේ. මේකත් ප්ලෑන් එකක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2017-01-24 01:35:29</date>
+            <index>21</index>
+            <phrase>අනේ ඔය ගමන් මෙහෙම නවතින්න. මොකද අපට තරඟ දිනන්න ඕනෑ. තරඟය අතරේදී අමනෝඥ තීරණ අරගෙන පැරදුනාට පස්සේ තණතීරු වලටයි පිතිකරුවන්ටයි දොස් කියන්න නම් නායකයෙක් ඕනෑ නැහැ. මහේලත් එක්ක අවුරුදු ගණනක් හිටියට මෙයාලා මහේලගෙන් ගත් දෙයක් නැහැ වගේ පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලීන්</author>
+            <date>2017-01-24 03:06:08</date>
+            <index>22</index>
+            <phrase>කණගාටුවෙන් වුණත් කියන්න ඕනෑ තරඟ වලදී මැතිව්ස් ගන්න තීරණ නම් එච්චර හොඳ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2017-01-24 04:04:08</date>
+            <index>23</index>
+            <phrase>මෙතන කොමෙන්ට් කරන අය මොනවාද දන්නේ.. මොන තරම් කුහක ද.. මහා ලොකුවට කියන්නේ නම් බෞද්ධ කියල නමුත් කියන්නේ කරන්නේ තනිකරම අබෞද්ධ වැඩ.. ඇන්ජලෝ එන හේතුව එයාගේ බිරිඳට ඔවුන්ගේ කුළුඳුල් දරුවා ලැබෙන්න ඉතාමත් ආසන්න නිසා.. මේ පිළිබඳව ඔහු ක්‍රිකට් මණ්ඩලයෙන් කලින් ම අවසර ඉල්ලගෙන තියෙනවා.. එයට ඔවුන්ගේ අවසරය ලැබිල තියෙනවා.. ඇන්ජලෝ ඔබට, බිරිඳට සහ ලැබෙන්න ඉන්න දරු පැටියට ජේසු පිහිටයි. ඔයාට ඉක්මනට සුව වෙන්න කියල පතනවා - මීට ශ්‍රී ලාංකිකයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුක ප්‍රනාන්දු</author>
+            <date>2017-01-24 06:23:36</date>
+            <index>24</index>
+            <phrase>ඔබට ඉක්මන් සුවය පතනවා අැන්ජලෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2017-01-24 08:34:57</date>
+            <index>25</index>
+            <phrase>මැතිව්ස් වෙනුවට කපුගෙදරව යවන්න. උපුල් තරංගව නායකයා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

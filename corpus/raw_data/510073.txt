@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>510073</articleId>
+    <title>හම්බන්තොට කලහ කළ 24කට ඇප</title>
+    <author>සනත් ගමගේ</author>
+    <date>2017 පෙබරවාරි මස 27 12:39:41</date>
+    <body>හම්බන්තොට පොදු සංවර්ධන කලාපය විවෘත කිරීමේ උත්සවය දිනයේ කළහකාරී ලෙස හැසිරුණා යැයි සැකපිට අත්අඩංගුවට ගෙන රිමාන්ඩ් ගතකර සිටි 24 දෙනකුට ඇප ලබා දීමට හම්බන්තොට මහේස්ත්‍රාත් මංජුල කරුණාරත්න මහතා අද(27) නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-27 08:05:03</date>
+            <index>0</index>
+            <phrase>ඇප දෙන්න බැරි තරම් වරදක් කළ එක්කෙනාට සේවා දිගුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2017-02-27 11:22:59</date>
+            <index>1</index>
+            <phrase>රනිල්, මහින්ද, සාගලගේ සිංගපුරු සාකච්ඡාවේ ප්‍රතිපල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීසර පැරිස්</author>
+            <date>2017-02-27 12:06:34</date>
+            <index>2</index>
+            <phrase>රාජ්‍ය පාතලයන්ගෙන් ගුටිකාපු අය ඇප පිට නිදහස් පාතාලයෝ දේශපාලුවන්ගේ රැකවරණයේ රාජ්‍ය කරවන අය හිතාගෙන ඉන්නේ සදාකල් බලයේ ඉන්නයි. හැබැයි රජය පෙරලුනොත් කොහේ ගිහින් නතර වෙයි ද දන්නේ නෑ. දගලන හැමකෙනෙකුටම සොරිම තමයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

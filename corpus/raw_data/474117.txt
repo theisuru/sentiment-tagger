@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>474117</articleId>
+    <title>සීදූව - මීගමුව අතර දුම්රිය  31 දක්වා නෑ</title>
+    <author>මහින්ද නිශ්ශංඛ</author>
+    <date>2016 ඔක්තෝබර් මස 28 21:06:41</date>
+    <body>පුත්තලම දුම්රිය මාර්ගයේ කටුනායක හා මීගමුව අතර අලුත්වැඩියාවක් නිසා අද රාත්‍රී 9.45 සිට 31 වැනි දා අලුයම 5 දක්වා සීදූව හා මීගමුව අතර දුම්රිය ධාවනය සිදු නොවන බව දුම්රිය දෙපාර්තමේන්තුව කියයි.</body>
+    <comments>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-10-28 16:11:49</date>
+            <index>0</index>
+            <phrase>අපිට නම් දුම්රිය තිබුනත් එකයි, නැතත් එකයි. දුම්රිය නැත්නම් අපි බස් වල යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-10-28 18:24:09</date>
+            <index>1</index>
+            <phrase>මොනවා කරන්නද ඉතින්, අපහසුව විඳගන්නවා මිසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිස්ස</author>
+            <date>2016-10-29 01:40:04</date>
+            <index>2</index>
+            <phrase>දුම්රිය මාර්ගයක් වහන්නේ නැතුව ඒ මාර්ගය අලුත්වැඩියා කරන ක්‍රමය ඉගෙනගත් ඉංජිනේරුවරයෙක් තවම ලංකාවේ ඉපදුනේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2016-10-29 06:26:35</date>
+            <index>3</index>
+            <phrase>ඉතාම් හොඳ වැඩක් පොඩි අපහසුව දැනුනට මේ කරන සංවර්ධනය නිසා හෙට දවස වඩාත් වේගවත් වෙනවා. අපි දුම්රිය නිතරම භාවිතා කරන නිසා මෙහි වටිනාකම දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

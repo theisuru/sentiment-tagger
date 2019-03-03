@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21674</articleId>
+    <title>අලි හොරකම වැළැකේ</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 ජනවාරි මස 12 13:22:49</date>
+    <body>රිටිගල රක්ෂිතයෙන් අල්ලා ගන්නට ඇතැයි කියන අවුරුදු දෙකක පමණ අලි පැටවකු හොරෙන් ගෙන යෑමට ගත් උත්සහය අසාර්ථක විය. අලි පැටියා මඟ දමා ගොස් තිබියදී සොයාගත් බව වනජිවී නිලධරයෝ කියති. මව් ඇතින්නට අනතුරක් කැර පැටවා අල්ලා ගන්නට ඇතැයි කිරි නැතිව දින කිහිපයක් සිටි පැටවා බැඳ තුබූ ලකුණු ඇතැයි ද ඔවුහු පවසති.</body>
+    <comments>
+        <comment>
+            <author>යුදේශ්</author>
+            <date>2012-01-12 14:31:48</date>
+            <index>0</index>
+            <phrase>අනේ පව් මේ අහිංසක සත්තු. මවු උණුසුමත් නෑ. තිරිසණුන්ට වඩා අන්ත මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-01-12 15:42:18</date>
+            <index>1</index>
+            <phrase>ඇත්ත තමයි මේව තිරිසන් වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-01-12 16:40:15</date>
+            <index>2</index>
+            <phrase>තිරිසන් වැඩ මේව. උපරිම දඬුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමලි</author>
+            <date>2012-01-12 17:15:45</date>
+            <index>3</index>
+            <phrase>බර වැඩි වෙලාද කොහේද මග දාලා ගිහිල තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂන්ක</author>
+            <date>2012-01-13 10:31:31</date>
+            <index>4</index>
+            <phrase>අනේ ලස්සන චුටි පැටියෙක්. අපේ රටේ ඉන්නේ හරිම නරක මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

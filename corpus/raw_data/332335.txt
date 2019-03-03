@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>332335</articleId>
+    <title>මාගම වරායෙන් වැඩක් ගනී : රට හරක් රංචුවක් ගෙන්වයි</title>
+    <author>සනත් ගමගේ</author>
+    <date>2015 ජූලි මස 14 10:41:48</date>
+    <body>ඕස්ට්‍රේලියාවේ සිට මීදෙනුන් 1250 දෙනෙක් මාගම්පුර මහින්ද රාජපක්ෂ වරායෙන්  අම්බලන්තොට, දියගම සත්ත්ව ගොවිපොළ වෙත ගෙන එනු ලැබූහ.
+නැවකින් ගෙන ආ මෙම මීදෙනුන් අතර පැටවුන් ලැබීමට ආසන්න සත්තුද වූහ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>පිවිතුරු යහපාල</author>
+            <date>2015-07-14 11:38:13</date>
+            <index>0</index>
+            <phrase>මම බැලුවේ ඩුබායි තිලක් ඉන්නවද කියලා. ඉන්නවා, ඉන්නවා දෙවැනි පින්තුරේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2015-07-14 15:16:06</date>
+            <index>1</index>
+            <phrase>මාගම් වරායට තව වැඩ තියෙනවා ඉදිරියට. කුරුණෑගලින් පැරදිලා එන ලොක්ක ඇතුළු කුඩු හා එතනෝල් වීරයින්ව මේ මීහරක් පටවපු කූඩු වලටම දාල ඔස්ට්‍රලියාවටම පිටත් කරන්න තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

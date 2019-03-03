@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449591</articleId>
+    <title>අධිවේගේ වාහනයක් ගිනි ගනීයි.</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ  ඡායාරූප ක්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2016 අගෝස්තු මස 20 14:41:06</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ වැලිපැන්න සේවා ප්‍රදේශයේ වාහනයක් ගිනි ගනිතියි වාර්ථා වේ.</body>
+    <comments>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-08-20 15:56:32</date>
+            <index>0</index>
+            <phrase>මෙන්න මේ චීනය විසින් හදන ලද ලොව දිගම සහ උසම වීදුරු පාලම අපේ ලාංකිකයන්ට පෙන්වන්න:</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-08-21 23:13:08</date>
+            <index>1</index>
+            <phrase>කමල්, ඒ පාලම අපේ ලාංකිකයන්ට පෙන්වලා ඇති වැඩේ මොකක්ද අධිවේගේ වාහනයක් ගිනිගන්න වෙලාවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

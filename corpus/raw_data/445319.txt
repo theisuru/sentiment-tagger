@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>445319</articleId>
+    <title>සරසවි සේවක වර්ජනය අවසන්</title>
+    <author>ප්‍රින්ස් රත්නායක රෝහණ චන්ද්‍රදාස</author>
+    <date>2016 අගෝස්තු මස 08 14:49:33</date>
+    <body>විශ්ව විද්‍යාල අනධ්‍යයන සේවක වැඩ වර්ජනය  දින 13කට පසු අද (08) අවසන් විය.
+උසස් අධ්‍යාපන හා මහාමාර්ග ඇමැති ලක්ෂ්මන් කිරිඇල්ල මහතා සමග පැවැති සාකච්ඡාවකින් පසු ඒකාබද්ධ ගිවිසුමකට අත්සන් කැරිණි.
+ඒ අනුව අඟහරුවාදා (09) සිට රාජකාරියට වාර්තා කරන බව ඔවුහු අනධ්‍යන සේවකයෝ පැවසූහ.
+සබරගමු විශ්ව විද්‍යාලයේ සරසවියේ සියලු පීඨ 10 වැනිදා විවෘත කරන බවත් නේවාසිකාගාර සඳහා 9 වැනිදා සිට සිසුන්ට පැමිණිය හැකි බවත් සරසවි පාලනාධිකාරිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-08-08 11:13:27</date>
+            <index>0</index>
+            <phrase>ඔබට සතුටුයි ද දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2016-08-08 13:51:16</date>
+            <index>1</index>
+            <phrase>විශ්ව විද්‍යාල සේවක වැටුප් අනෙකුත් රාජ්‍ය ආයතන වලට වඩා වැඩියි එ්ත් වැඩ වර්ජන සල්ලිම ඉල්ලලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියන්ත කඹුරැපිටිය</author>
+            <date>2016-08-08 14:17:05</date>
+            <index>2</index>
+            <phrase>අම්මෝ ඇති යාන්තං ඒක ඉවර වුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-08 20:40:44</date>
+            <index>3</index>
+            <phrase>උසස් අධ්‍යාපන ඇමති කෙනෙක් රටේ හිටියෙත් නැහැ වගේ පසුගිය දවස් ටිකේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-08-09 03:50:19</date>
+            <index>4</index>
+            <phrase>කලබල වෙන්න එපා මොකුත් දුන්නේ නැ හිස් අතින් ම ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-08-09 05:20:05</date>
+            <index>5</index>
+            <phrase>අමර, ඔබ හිතාගෙන ඉන්නවා වැරදියි. රජයේ සේවකයන්ට විශ්‍රාම වැටුප තියෙනවා. එ්ත් විශ්ව විද්‍යාල සේවකයන්ට එහෙම නැහැ. මේ පාර ඔය කියන මොකුත් ලැබුනේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-08-09 05:21:55</date>
+            <index>6</index>
+            <phrase>බලාපොරොත්තු වූ වෙනස ලැබුනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේෂලා</author>
+            <date>2016-08-09 07:42:39</date>
+            <index>7</index>
+            <phrase>මේ කට්ටිය තමන්ගේ අරමුණු වෙනුවෙන් පිකටින් කරනවා. අද වනතුරු බාහිර උපාධි කරන ළමයි ලියාපදිංචි කරලා නැහැ. අපිට හුළං තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

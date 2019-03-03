@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499503</articleId>
+    <title>‘ඉඩම් දුන්නා පමණයි ­- ඕමන්ත කඳවුර ඉවත් කර නෑ‘</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2017 ජනවාරි මස 18 14:31:18</date>
+    <body>ඕමන්තේ යුද හමුදා කඳවුර ඉවත් කළ බවට පැතිර යන කතාවේ කිසිදු සත්‍යතාවක් නැතැයි යුද හමුදා මාධ්‍ය ප්‍රකාශක බ්‍රිගේඩියර් රොෂාන් සෙනවිරත්න මහතා  පවසයි.
+ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවැති මාධ්‍ය හමුවක දී බ්‍රිගේඩියර්වරයා ප්‍රකාශ කළේ කඳවුර ආශ්‍රිත ප්‍රදේශයේ තිබූ ඉඩම් කිහිපයක් පමණක් වව්නියාව දිස්ත්‍රික් ලේකම් කාර්යාලයට බාර දුන් බවයි.
+එම ප්‍රදේශයේ මුල් පදිංචිකරුවන් සිටී නම් නීත්‍යනුකූලව එම ඉඩම් මුදා හැරීම සඳහා එලෙස බාර දුන් බවත්, ඕමන්ත යුද හමුදා කඳවුර එලෙසින්ම තවදුරටත් තිබෙන බවත් බ්‍රිගේඩියර් සෙනවිරත්න මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2017-01-18 10:16:11</date>
+            <index>0</index>
+            <phrase>දුන්නේ නැති උනාට අරගෙන කියල තමයි අපට හිතෙන්නේ . උතුරු පළාත් සභාව බරට වැඩ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-18 21:01:03</date>
+            <index>1</index>
+            <phrase>පටන්ගැන්ම ඔහොම තමා. ටිකෙන් ටික දියාරු කරගෙන යනකොට ජනතාවට වසන් කරන්න ලෙහෙසියිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුලසේකර</author>
+            <date>2017-01-19 03:21:55</date>
+            <index>2</index>
+            <phrase>සිරි, ඔබගේ ප්‍රකාශය ඉතාම නිවැරදිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොරවක</author>
+            <date>2017-01-19 03:59:56</date>
+            <index>3</index>
+            <phrase>මම නම් මේවට මොකුත්ම කියන්න යන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පේදුරු</author>
+            <date>2017-01-19 04:09:44</date>
+            <index>4</index>
+            <phrase>මිනිසුනේ, දැන්වත් කල්පනා කරලා තීරණයක් ගනිමු. නැත්නම් එකිනෙකට බැන බැන ඉන්නවත් අපිට රටක් ඉතුරුවෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2017-01-19 05:07:44</date>
+            <index>5</index>
+            <phrase>කුලසේකර, ඔබගේ ඉඩම් කෑල්ලෙන් අඟලක් ගියොත් කොච්චර කලබලවේද? රජයේ ඉඩම් හැර සියලුම දේ හිමිකරුවන්ට ලැබිය යුතුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2017-01-19 06:43:33</date>
+            <index>6</index>
+            <phrase>ඉඩම් නිදහස් කරපු තීරණය හරි. මොකද උතුරේ අලුත් පරම්පරාවට යුද්ධයේ නටඹුන් දකින්න ඉතුරු කළයුතු නැහැ. රජය කළයුත්තේ බුද්ධි අංශ ශක්තිමත් කර නිරන්තර සෝදිසියෙන් සිටීමයි. මේක උතුරට වගේම දකුණටත් එසේම වියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

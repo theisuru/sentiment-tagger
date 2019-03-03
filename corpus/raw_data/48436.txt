@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48436</articleId>
+    <title>මාගම් පුරයට තවත් කාර් ඇවිත්</title>
+    <author>සනත් ගමගේ</author>
+    <date>2012 ජූනි මස 15 17:15:16</date>
+    <body>ඉන්දියාවේ සිට ගෙනවුත් මාගම්පුර මහින්ද රාජපක්ෂ වරායට ගෙඩ බෑ කාර් 998ක් ඇල්ජීරියාවට ප්‍රති නැව් ගත කිරීම අද අරැඹිණි.  ගුදමේ සිට කාරයක් නැවේ ගාල් කිරීමට මිනිත්තු 20ක් පමණ ගත වේ.</body>
+    <comments>
+        <comment>
+            <author>සමරසූරිය</author>
+            <date>2012-06-15 18:03:37</date>
+            <index>0</index>
+            <phrase>ලංකාවට උමං දුම්රිය ප්‍රවාහන ක්‍රමයක් අවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-06-15 17:32:33</date>
+            <index>1</index>
+            <phrase>බස්සනවා නග්ගනවා.අපිට මේවා තේරෙන්නේ නෑ ගොයියෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-06-15 17:35:33</date>
+            <index>2</index>
+            <phrase>මාගම්පුරේට විතරද වාහන එන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2012-06-15 18:15:52</date>
+            <index>3</index>
+            <phrase>අනේ මේක මහ විකාරයක්නේ. වරායට නැව් එනවා ඒවයින් ගේන බඩු ගොඩබානවා. මේක මේ අපේ රටේ විතරක් සිද්ද වෙන දෙයක් නෙමේ. මේක නිකන් අවුරුදු පහක විතර පොඩි එකෙක් තාත්තා බයික් පදිනවා දැකලා අනේ බලන්නකෝ අපේ තාත්තට බයික් පදින්නත් පුළුවන් කියලා පුරසාරම් දෙඩුව වගේ බොළඳ කතාවක්නේ. අනේ අපි තාම කොහේ ද ඉ න්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෙරණ</author>
+            <date>2012-06-15 17:37:23</date>
+            <index>4</index>
+            <phrase>හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2012-06-15 18:34:29</date>
+            <index>5</index>
+            <phrase>මාතර මල්ලි වරාය ගැන දන්නේ නැති නම් නිකන් ඉන්න. කොළඹ වරායෙනුත් දවසකට කන්ටේනර් ඔය විදියට යවනවා. ඒකට කිය්නනේ ප්‍රති නැව්ගත කරනවා කියලා. ලෝකේ හුගක් වරායවල් වල ඔය විදියට කරනවා. මේක හම්බන්තොට විතරක් කරන දෙයක් නෙවෙයි. දාගෙන ඉන්න පාට කණ්ණාඩි ගලවලා නියම ඇස් දෙකෙන් බලන්න පුරුදු වෙන්න. ශ්‍රී ලාංකිකයෝ හැටියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-06-15 18:37:15</date>
+            <index>6</index>
+            <phrase>බස් එකක් ගත්ත මිනිහටත් එක් රූට් එකට දාන්න ත් බස් හෝල්ට් වල නතර කරන්නත් ටික කාලයක් යනවනේ. පොඩි මිනිහගේ වාහනේ වෙන ත්‍රීවීල් පාර්ක් එකට දාන්නත් අමාරුයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2012-06-15 18:02:55</date>
+            <index>7</index>
+            <phrase>ජනපතිතුමනි,වාහන බදු අඩුකරන්නකෝ අපිටත් පුංචි හරි වාහනයක් ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩුබායි</author>
+            <date>2012-06-15 18:48:08</date>
+            <index>8</index>
+            <phrase>ඔහොම යං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-06-15 18:53:58</date>
+            <index>9</index>
+            <phrase>කොළඹ වරායට ගිය ආදායම නේද මේ කොහොමත්. කොළඹ වරායේ තිබුණු ගැටළුව රේගු නිලධාරීන් හිගකම. හිටියේ හතර පස් දෙනයි. ඒකට දුන්න මේ විසදුම තේරුමක් නෑ. වරායට අළුත් නැව් ගෙන්වා ගන්න එකයි කඑන්න තිබුණේ. කැමති කෙනෙකුට කැමති වරායකින් බඩු ගේන්න පුළුවන් වෙන්න ඕනේ. දැන් පොලොන්නරුවේ ඉන්න මම කාර් එක ගේන්න ලංකාවේ අනිත් කෙලවරට යන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරසූරිය</author>
+            <date>2012-06-15 18:24:05</date>
+            <index>10</index>
+            <phrase>ලංකාවට උමං දුම්රිය ප්‍රවාහන ක්‍රමයක් අවශ්‍යයි.මේක විශේෂයෙන්ම කොළඹට වැදගත්. 1. කඩවත සිට කොටුව (උමං දුම්රිය) 2. කොටුව සිට කොට්ටාව(උමං දුම්රිය) 3. ගල්කිස්ස සිට කොටුව (උමං දුම්රිය)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-06-15 19:37:43</date>
+            <index>11</index>
+            <phrase>නාමල් කාලයක් උඩ පැන පැන කිව්වානේ නැව් එන්නේ නෑ ගල තියෙනවා කියලා. දැන් අලුත් කතාවක් නේ. ඕන දේකට කතාවක් තියෙනවා නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-06-15 19:39:15</date>
+            <index>12</index>
+            <phrase>බොහොම හොඳයි .ලංකාවට උමං මාර්ග එද්දි 200 විතර යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-06-15 18:59:38</date>
+            <index>13</index>
+            <phrase>ම්ම්ම්ම් දැන් ඉතින් ගල් තියෙනවා අරව මේවා වැඩක් නෑ. වෙන මොකක් හරි කියන්න ඕනේ. අපිට මේක බලන් ඉන්න බෑ. අපිට මොකද වෙන්නේ මෙහෙම ගියොත් -කැපුවොත් කොළ-</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-06-15 19:39:32</date>
+            <index>14</index>
+            <phrase>හෙඩිම වැරදිනේ....තවත් කාර් ඇවිත් නෙමෙයි,කලින් ආපු කාර් ටිකම තමා මේ අද ප්‍රතිනැව්ගත කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරා</author>
+            <date>2012-06-15 19:40:15</date>
+            <index>15</index>
+            <phrase>නැව් කොච්චර ආවත් අපි යූඑන්පී හරිද ? ............ ඕව අපිට වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනාගත මනස</author>
+            <date>2012-06-15 19:43:33</date>
+            <index>16</index>
+            <phrase>මම සම්පූර්ණයෙන්ම සමරසූරිය සමග එකඟයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-06-15 19:45:47</date>
+            <index>17</index>
+            <phrase>දැන් හතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-06-15 19:18:49</date>
+            <index>18</index>
+            <phrase>නාමල් ඔයාගේ කාර් එක ගන්න අපි සූවස් ඇල වගේ ඇලක් හදලා පරාක්‍රම සුම්ද්‍රයේ ගහමු වරායක්. එතකොට ඔයාගේ ප්‍රශ්නයක් විසදෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-06-15 20:01:08</date>
+            <index>19</index>
+            <phrase>මමත් යනවා මාගම් පුරයට කාර් පටවන හැටි බලන්න. ඒක බලලා මට මලත් කමක් නැහැ දෙයියෝ. නිකන් දලදා වැන්දා වගෙයි. (සතුටුයි වැඩේට. නමුත් බොරුවට පුම්බන එකයි නරක)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-06-15 20:05:41</date>
+            <index>20</index>
+            <phrase>ඔය කාර් වලින් එකක් දෙකක් පන්නගන්න බැරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-06-15 19:38:25</date>
+            <index>21</index>
+            <phrase>ගුණරත්න / චමල්, අපේ මිනිස්සු හැමදාම කළේ ඕක තමා. බොරුවට පුරසාරම් දොඩන්න අපේ ප්‍රති නැව් ගතකරනට එක ගැන ඔය කියල දෙන්න. අපේ දෙයක් නිෂ්පාදනය කරලා නැව්ගත කරනවද අන්න එදාට අපිටත් ඉර පායාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-15 19:53:23</date>
+            <index>22</index>
+            <phrase>ප්‍රගී හරි............ යන්නේ කොහේද මල්ලේ පොල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-15 19:59:30</date>
+            <index>23</index>
+            <phrase>ඔය ටික යවන්නේ නැතිව හයි වේ එකේ කොළඹට ගේනවා නම් පොඩි ගතමන්ට් එකක් හොයා ගන්න තිබුණු චාන්ස් එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-06-15 20:27:41</date>
+            <index>24</index>
+            <phrase>තනිකර බොරුව කරන්නේ. අතින් ගෙවලා නැව් ගෙන්වනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-06-15 20:35:26</date>
+            <index>25</index>
+            <phrase>කාලයක් කලු ගලක් ගැන කිව්වා .දැන් වෙන කතා .අනේ මේ කුහකකම කවද නවතීද .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූරියප්පෙරැම</author>
+            <date>2012-06-15 21:42:24</date>
+            <index>26</index>
+            <phrase>අර ඇවිල්ල තියෙන්නෙ කාර් නේද? අර තියෙන්නෙ නැවක් නේද? දැන් හම්බන්තොට වරායට දැන් නැවු හිටන් එනව නේද? අර විවෘත කරන දවසේ රත්තරන් වගේ අමතියෙකුගෙයි, රාජ කුමාරයෙකුගෙයි ශරීර සපර්ශ වෙච්ච වාහනේට යන්න දුන්න එක මහ අපරාදයක් හසන්ත. ඒ වාහනේ අපි කෟතුකාගාරයේ තැන්පත් කරන්න ඕන. මෙවුව දැකල දැන් මට මැරෙන්න වුනත් බය නෑ හසන්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-06-15 21:51:56</date>
+            <index>27</index>
+            <phrase>මරු කාර් ටික</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලල්ල ලලා</author>
+            <date>2012-06-15 22:00:10</date>
+            <index>28</index>
+            <phrase>නැව් වරාය වලට එන්නෙ නැතුව ගුවන්තොටුපලට එන්නයැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අස්මිරා දෙහිවල</author>
+            <date>2012-06-15 21:44:19</date>
+            <index>29</index>
+            <phrase>ඕව සෙල්ලම් කාර්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හොඳයි.</author>
+            <date>2012-06-15 22:42:49</date>
+            <index>30</index>
+            <phrase>නිකන් තියෙනවට ඒක හොඳයි. ෂෝක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයන බන්ඩාර</author>
+            <date>2012-06-15 23:38:49</date>
+            <index>31</index>
+            <phrase>ඉතාලියෙත් මේ වගේ දේ වෙනවා....ඉතාලි මිනිස්සු මුකුත් කියන්නේ නෑ නේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලින්ද</author>
+            <date>2012-06-16 00:52:43</date>
+            <index>32</index>
+            <phrase>වරායක් කියන්නෙ සේවා සපයන ස්ථානයක් ඒ නිසා අපේ දෙයක් හදල යවන්න බෑරිනම් ප්‍රතිඅපනයන හරි කරන්න ඕන.මාගම්පුර වරාය පිහිටල තිබෙන්නෙ ජාත‍යන්තර නාවුක මාරගය සමීපයෙ,කොළඹට නෑවක් එන්න මාගම පසුකරල දින 2ක් යාත්‍රා කරන්න ඕන.ඒ ආවත් බර්ත් 1ක් නෑතිනම් ජෑටියට අල්ලන්න සතියක් ඉන්න ඕන.කොළඹ වරායෙ තිබෙන්නෙ බර්ත්ස් 10යි,ඒත් මාගම්පුර වෑඩ අවසන් වූ පසු 33ක් තිබෙනව.මේ විදියට හරි නෑව් සමාගම්වලට මාගම්පුර වරාය ගෑන තිබෙන බිය නෑති කරන්න ඕන.කොළඹට ගියත් මාගම්පුර බෑවත් මේ සල්ලි අපේ රටට,අනෙක නෑවක් අවුට් හාබර් නෑතිනම් ජෑටියට අල්ලනතුරු නවතාගෙන තිබෙනවට වරාය අධිකාරිය ඩෙමරේජස් එහෙමත් නෑතිනම් ප්‍රමාදගාස්තු නෑවට ගෙවන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2012-06-16 01:48:14</date>
+            <index>33</index>
+            <phrase>ඉහතින් දී ඇති බොළද අදහස් වලට වඩා බුද්ධිමත් අදහස් ලියන්න කෙනෙක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ඩාර</author>
+            <date>2012-06-16 01:48:34</date>
+            <index>34</index>
+            <phrase>සිහින මලිගා වලින් වැඩැක් නැහැ? කාර් ගේන්නත්, කාර් ගන්නත්, හැකි දේශපලකයන්ටයි, සල්ලී කාරයන්ටයි, අසරන අපිට මොන කාර්ද​, ගම්වල අම්මලා තාත්තලාගේ ඇස්වලට ඉස්පිරිතාලේ බෙහෙත් නැහැ. එන්න එන්න රට අමාරුවේ. දුප්පතා ගැන හිතන්න. මේකද මනුස්සකම​, මේකද අපේකම​, මේකද බොදුකම​. මේකද දේශපාලනය​?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2012-06-16 01:57:30</date>
+            <index>35</index>
+            <phrase>රජය හොද වැඩ කොච්චර කළත් නරකට පේන කට්ටිය දැන් සාමාන්‍ය දෙයක් බවට පත් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-06-16 01:29:43</date>
+            <index>36</index>
+            <phrase>අපේ රටේ මිනිස්සු සතුටු කරන්න මුඵ ලෝකෙම තියෙන වස්තුව දුන්නත් බැරිවෙයි........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2012-06-16 01:29:43</date>
+            <index>37</index>
+            <phrase>අපේ මිනිස්සුන්ව සතුටු කරන්න මුලු ලෝකයේම තියෙන වස්තුව දුන්නත් බැරි වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්ටර්</author>
+            <date>2012-06-16 02:34:46</date>
+            <index>38</index>
+            <phrase>අපි අඬබෙර ගහ ගහ ඉන්නවා...රට අගාදේ ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටැන්සානියා</author>
+            <date>2012-06-16 02:40:59</date>
+            <index>39</index>
+            <phrase>අපිත් රට දුක් විදලා ලංකාවට සල්ලි එවනවා.ඒත් අපිට වාහනයක් ගන්න පර්මිට් එක්ක එවන්න බෑ.දේශපාලකයින්ට පර්මිට් දෙනවා.අපිට හුළං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-06-16 03:04:27</date>
+            <index>40</index>
+            <phrase>ගුණරත්න අයියා,ඔබතුමා හම්බන්තොට දකින්න කලින් පුලුල්ව දකින්න ඉගෙන ගන්න.මේ වරාය හැදුණේ ඔයාගේවත් මගේවත් සල්ලි වලින් නෙමෙයි.අපි දෙන්නම නොදන්න දේව්ල ගොඩක් තියෙයි.මමත් දකුණේ.අපිත් ආසයි සංවර්ධනේට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-06-16 05:39:02</date>
+            <index>41</index>
+            <phrase>දැන් අර තියනවා කියාපු ගල කැඩිලද ඔය කාර් පටවගෙන එන නැවවල් වල වදිලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේමා</author>
+            <date>2012-06-16 05:59:09</date>
+            <index>42</index>
+            <phrase>ලංකාවේ කතරගම දුම්රිය පාරට කොච්චර කල්ද දැන්?උතුරේ දුම්රිය පාර හදන්න කොච්චර කල් ගියාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-06-16 05:59:47</date>
+            <index>43</index>
+            <phrase>සමහර අයට කොරහෙත් කිඹුල්ලු පේනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-16 07:01:52</date>
+            <index>44</index>
+            <phrase>මාගම්පුර සිරියා........බොහොම ලස්සනයි‍‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-06-16 08:06:17</date>
+            <index>45</index>
+            <phrase>අපි වගේ පුංචි රටකට වරායවල් දෙකක් තියනවා කියන එක ලොකු දෙයක් ඒකට නිකමට හරි නැව් එනවානම් තව්ත ලොකු දෙයක්.. ඇත්තටම සතුටුවෙන්න ඕන.. අපි ටික ටික හරි දියුණු වෙනවා කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිකමා</author>
+            <date>2012-06-16 08:19:44</date>
+            <index>46</index>
+            <phrase>මේවා හොඳයි කොන්ඩේ බැදපු චීන්නුන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිරිණි,</author>
+            <date>2012-06-16 08:14:03</date>
+            <index>47</index>
+            <phrase>හම්බන්තොටට විතරයි සංවර්ධනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුම්</author>
+            <date>2012-06-16 09:04:05</date>
+            <index>48</index>
+            <phrase>මොකක්ද මේ විහිලුව?මේක හරියට ලංකාවට වාහන ආපු පළවෙනි පාර වගේනේ.මේකේ කිසිම අලුත්දෙයක් නෑ.තාම හම්බන්තොට අලුතෙන් කිසිම දෙයක් හැදිලා නෑ.ගියපු වියදම විතරක් වත් පියෝගන්න මෙහෙම ගියොත් අවුරුදු 100ක් වත් යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චුටි මල්ලි</author>
+            <date>2012-06-16 08:25:36</date>
+            <index>49</index>
+            <phrase>සමරසුරිය මහත්තයා කෝචිචිෙය් වැඩට යන කෙනක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල - බලන්ගොඩ</author>
+            <date>2012-06-16 09:23:05</date>
+            <index>50</index>
+            <phrase>වෙන පුවත් නැද්ද ඇත්තටම හම්බන්තොටට එන නැව් ගැන ගැන ඉන්න.. හරියට අපේ අර රෑපවාහිනී චැනල් එකක් තියෙන්නෙ අන්න ඒ වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-06-16 09:33:54</date>
+            <index>51</index>
+            <phrase>පොලොන්නරැවෙ නාමල්... ඔයා එහෙ ඉදල දඹුල්ල, කුරැණෑගල, කොළඹින් හම්බන්තොටට ආවොත් අමාරැයි තමයි. පොඩ්ඩක් සිතියමක් අරන් බලන්න ඕකට වඩා කෙටි මාර්ග තියෙනවා. හොදට පාරවල් දැන් හදල තියෙන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙල්බන් වැසියා</author>
+            <date>2012-06-16 08:57:03</date>
+            <index>52</index>
+            <phrase>ගොඩයන්ට මැජික්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්</author>
+            <date>2012-06-16 09:38:44</date>
+            <index>53</index>
+            <phrase>පොළොන්නරුව පැත්තෙත් එකක් හැදුවොත් මොකද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදර්ශන(කන්තලේ)</author>
+            <date>2012-06-16 09:33:47</date>
+            <index>54</index>
+            <phrase>එත් හෑම එකක්ම දෙන්නෙ දකුණට විතරද,,,,,,,,,,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-06-16 10:28:27</date>
+            <index>55</index>
+            <phrase>මේක හොද දෙයක් .අපි ලාංකිකයෝ විදියට සතුටු වෙන්න ඕන...හම්බන්තොට වරාය දියුණු‍ වෙන්න ඕන ..එකපාර නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-06-16 10:32:29</date>
+            <index>56</index>
+            <phrase>අර ඇවිල්ල තියෙන්නෙ කාර් නේද? අර තියෙන්නෙ නැවක් නේද? දැන් හම්බන්තොට වරායට දැන් නැවු හිටන් එනව නේද?අනේ මේක මහ විකාරයක්නේ. වරායට නැව් එනවා ඒවයින් ගේන බඩු ගොඩබානවා. මේක මේ අපේ රටේ විතරක් සිද්ද වෙන දෙයක් නෙමේ. මේක නිකන් අවුරුදු පහක විතර පොඩි එකෙක් තාත්තා බයික් පදිනවා දැකලා අනේ බලන්නකෝ අපේ තාත්තට බයික් පදින්නත් පුළුවන් කියලා පුරසාරම් දෙඩුව වගේ බොළඳ කතාවක්නේ.අනේ අපි තාම කොහේ ද ඉ න්නේ. නැව් වරාය වලට එන්නෙ නැතුව ගුවන්තොටුපලට එන්නයැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-06-16 14:17:14</date>
+            <index>57</index>
+            <phrase>ලංකාවේ මිනිස්සුන්ට පිස්සුද හැබෑටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-06-16 17:58:52</date>
+            <index>58</index>
+            <phrase>නාමල් , කලබල වෙන්න එපා රනිල් මහත්තයා පොලොන්නරුවෙ වරායක් හදනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2012-06-16 22:43:03</date>
+            <index>59</index>
+            <phrase>හම්බන්තොට වැනි කටුක දේශගුණයක් ඇති ප්‍රදේශ සංවර්ධනය කරවාට වඩා මහනුවර, කුරැණෑගල, කෑගල්ල, රත්නපුර, බදුල්ල, නුවරඑලිය වගේ පුදේශ ඉක්මනින් සංවර්ධනය කළ හැකිය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු පුතා</author>
+            <date>2012-06-17 16:56:21</date>
+            <index>60</index>
+            <phrase>අනේ ජනාධිපති උතුමානණි, බ්‍යික් (bike) වල මිල විතරක් අඩු කරන්න. බුදුබව අත්වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරු ඩුබායි</author>
+            <date>2012-06-18 09:40:56</date>
+            <index>61</index>
+            <phrase>මටනම් තියෙන්නේ ඔය එක ප්‍රශ්නයක්වත් නෙමේ. අපේ රටේ විතරක් මොකද මේ පරණ වාහන එන්න එන්නම් ගණන් යන්නේ? අපේ වාහන පරණ, ක්ෂය, අබාවයට යන කොට මේවා අඩු වෙන එක නෙමේ වෙන්නේ තවත් ගණන් යන එකනේ. දැන් පරණ වහනයක් ගන්නවට වැඩ තව පොඩි ගානක් දීල අලුත් එකක් ගන්න පුළුවන්, මෙහෙව් රටේ වාහන බද්ද අඩු වුනොත් කුමක් සිදු වේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-06-18 12:23:09</date>
+            <index>62</index>
+            <phrase>මලින්ද ,ඔයාගේ කොමෙන්ට් එකට ගොඩක් ස්තුතියි වරායක කොහොමද වැඩ කෙරෙන්නේ කියල ,තේරුම් ගන්න උත්සහ කරන්න මලින්ද ගේ කොමෙන්ට එක කියවල ..කට්ටිය බොලද කොමෙන්ට් ලියලා තමන්ගේ නොදන්නාකම පෙන්වන්නේ නැතිව ...නැතිනම් කට්ටියම වරායක් ලගට ගිහින් බලාගෙන ඉන්න වැඩ කරන හැටි ,,,, ගොඩක් ස්තුතියි මලින්ද ඔයාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර සිල්වා</author>
+            <date>2012-06-18 12:46:15</date>
+            <index>63</index>
+            <phrase>නාමල් , පොලොන්නරුවෙ ඉන්නේ නැතිව ගන්නකො ගෙයක් හම්බන්තොටින් එතකොට හරිනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2012-06-19 11:27:55</date>
+            <index>64</index>
+            <phrase>ඔය කාර් වලටත් බදු ගහනවද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-06-19 12:43:00</date>
+            <index>65</index>
+            <phrase>හබලක්වත් නැති අපිට නැව් කතා එපා හරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-06-19 12:48:31</date>
+            <index>66</index>
+            <phrase>හබලක්වත් නැති අපිට නැව් ටෝක් එපා හරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නැවුපති</author>
+            <date>2012-06-20 07:29:36</date>
+            <index>67</index>
+            <phrase>ගෙනාපු නැවටමද මන්දා ආපහු පැටෙවුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ශාන්ත</author>
+            <date>2012-06-20 09:58:29</date>
+            <index>68</index>
+            <phrase>අර නැව් 400,500 ක් විතර පෙනි පෙනී යනව කිව්වේ ,කෝ දැන් ඒ නැව්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-20 12:27:06</date>
+            <index>69</index>
+            <phrase>මේවා මෙහේ බෑවේ නැවේ ටයර් එකක හුළං ගිහින්ද?නැත්නම් පැච් එකක් දැම්මද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටකිච්චා</author>
+            <date>2012-06-21 10:07:12</date>
+            <index>70</index>
+            <phrase>අනුර ශාන්ත 2012-06-20 09:58:29 "අර නැව් 400,500 ක් විතර පෙනි පෙනී යනව කිව්වේ ,කෝ දැන් ඒ නැව්.." අනුර අයියා... දැන් ඒවා නොපෙනී යනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටකිච්චා</author>
+            <date>2012-06-21 10:49:16</date>
+            <index>71</index>
+            <phrase>කිරිමාටින් 2012-06-20 12:27:06 "මේවා මෙහේ බෑවේ නැවේ ටයර් එකක හුළං ගිහින්ද?නැත්නම් පැච් එකක් දැම්මද?" කිරිමාටිං අයියා.. ඒක ආවෙ නැවේ හුලං බැස්ස නිසා නොවේ.. හුලං බැස්ස ලංකාවෙ කීපදෙනෙක්ට හුලං පුම්බන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටකිච්චා</author>
+            <date>2012-06-21 10:53:01</date>
+            <index>72</index>
+            <phrase>ගුණරත්න 2012-06-15 18:34:29 "මාතර මල්ලි වරාය ගැන දන්නේ නැති නම් නිකන් ඉන්න. කොළඹ වරායෙනුත් දවසකට කන්ටේනර් ඔය විදියට යවනවා. ඒකට කියන්නේ ප්‍රති නැව්ගත කරනවා කියලා." ගුනේ අයියා.. එතකොට කෙළඹ වරායටඑනෙ නැව් හරවල හම්බන්තොටට යවන එකට කියන නම මොකද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොනික්</author>
+            <date>2012-06-21 15:57:57</date>
+            <index>73</index>
+            <phrase>අනේ මන්දා හැමදාමත් දකුණට කිරි අපිට කැකිරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අය්යා</author>
+            <date>2012-06-22 16:10:35</date>
+            <index>74</index>
+            <phrase>අපේ ආනයනය කරන්න විතරයි පුලුවං .තාම හරියට වාහනයක්වත් හදන්න බැ‍නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

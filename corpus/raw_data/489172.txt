@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>489172</articleId>
+    <title>නෝර්වුඩ් තව දිවියෙක් මරාදාලා</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2016 දෙසැම්බර් මස 11 11:51:44</date>
+    <body>උගුලක් අසුකර මරා දමන්නට ඇතැයි සැක කෙරෙන දිවියෙකු නොර්වුඩ් තේ වත්තකින් සොයාගත් බව වනජීවී නිලධරයෝ කියති
+මස් වලට වස දමා දිවියා මරා දමන්නට ඇතැයිද මීට පෙරද මෙවැනි දිවියන් දහ පහලොස් දෙනෙක් මියගිය බව කියති</body>
+    <comments>
+        <comment>
+            <author>නිරාජ්</author>
+            <date>2016-12-11 13:27:05</date>
+            <index>0</index>
+            <phrase>වන ජීවී නිලධාරීන් එම සතුන් අල්ලා යාල වැනි ලොකු අභයභූමි වලට නිදහස් කිරීම වැදගත්. වන සතුන් මරණ අයට සහ කන අයට දැඩි දඬුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-12-11 23:35:49</date>
+            <index>1</index>
+            <phrase>අපේ රටේ අලින්, මෙවැනි දිවියන් සහ දුර්ලභ වන සතුන් හිත්පිත් නැතුව මරාදැමීම සුලභ සිදුවීමක්. මෙය වහා නතර කළයුතුය. කිසිලෙසකත් නොමැරිය හැකි වනසත්ව නාමාවලියක් ප්‍රකාශයට පත්කර ඒවා උල්ලංගනය කරන්නන්ට මරණීය දණ්ඩනය නියම කළයුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-12-12 05:54:54</date>
+            <index>2</index>
+            <phrase>හීනෙන් පෙනුණු නිධන් ගන්න කියලා තම ලෙයින් හැදුනු දරුවන් කපා කොටා මරා දමන සමාජයකට සත්ව කරුණාව පහළවේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

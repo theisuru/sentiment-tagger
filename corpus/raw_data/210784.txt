@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>210784</articleId>
+    <title>මේ හැළිබඹරාගේ සද්දෙට අලිත් බයයලු</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 පෙබරවාරි මස 16 16:05:13</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චන්න යුකේ</author>
+            <date>2014-02-17 00:27:59</date>
+            <index>0</index>
+            <phrase>කොපමණ දෙයක් ඉගන ගන්න තිබුනද, හදිස්සි වෙලා පිස්තෝල තුවක්කු පාවිච්චියට නොගත්ත නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්</author>
+            <date>2014-02-19 12:47:41</date>
+            <index>1</index>
+            <phrase>මොන තරම් නුවණැති ක්‍රමයක්ද. අපෙ මුතුන්මිත්තන් ගෙන් ඉගෙන ගන්න අපිට ගොඩක් දේවල් තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

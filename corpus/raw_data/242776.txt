@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>242776</articleId>
+    <title>තිබහට වතුර ටික පොලිසියෙනි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2014 ජූනි මස 17 11:13:40</date>
+    <body>දඹුල්ල පොලීසියේ ජල නළයෙන් පිපාසය සන්සිඳුවා ගන්නා  රිලවෙකි. ඓතිහාසික දඹුල්ල රජ මහා විහාර භූමියේ රිලව් බොහෝ සිටිති.
+
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2014-06-17 11:49:37</date>
+            <index>0</index>
+            <phrase>පරිස්සමින් රිලවො මේ කාලෙ පොලීසියත් එක්ක ගණුදෙනු කරන්න හොද කාලයක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂපාන</author>
+            <date>2014-06-17 12:50:52</date>
+            <index>1</index>
+            <phrase>මිනිසුන් වන අපෙන් ඔබලාට සිදුවී ඇති අසාධාරණයක මහත මේ පින්තුරයෙන් මනාව වැටහේ. වනසංරක්ෂණ දෙපාර්තුමේන්තුව ඔබලාට ඉතිරිවී ඇති අන්තිම අඟලවත් විනාශ වීමට නොදී ඔබවෙනුවෙන් යමක් ඉටුකරයි කියලයි එකම පැතුම.දීර්ගායු ලැබේව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් කෝලි</author>
+            <date>2014-06-17 16:39:06</date>
+            <index>2</index>
+            <phrase>තිබහට තිත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමාධි</author>
+            <date>2014-06-17 17:36:34</date>
+            <index>3</index>
+            <phrase>මිනිස්සු ලගවත් නැති පිළිවෙලක් මේ සත්වයා ගාව තියෙනවා. මේ සතුන්ට අනුකම්පා කරලා දැන්වත් අපෙන් වෙන විනාශය අවම කරන්න උත්සහ කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-06-18 00:59:06</date>
+            <index>4</index>
+            <phrase>මේ අසරණ සතුන්ට තිබහට බොන්න වතුර ටිකක් දෙන්න. පව්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත ගමගේ</author>
+            <date>2014-06-18 09:07:58</date>
+            <index>5</index>
+            <phrase>දඹුලු විහාරය සංවර්දනයට හා විහාරයට අයිති ඉඩම් ලබාගැනීමට සුමංගල හිමියන් මහත් වෙහෙසක් ගනී . අනේ හාමුදුරුවනේ විහාරය අවට ජීවත් වන වනසතුන්ගේ ආහාර,වතුර සඳහා පිලියමක් යෙදීම ඔබටම පමණි කල හැකි වන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495656</articleId>
+    <title>අැදුරුතෙමේ දුම්රියේ ගැටී මරුට</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2017 ජනවාරි මස 03 16:41:45</date>
+    <body>වැල්ලවත්ත බම්බලපිටිය අතර දුම්රිය මාර්ගයේ දී අද (3) දුම්රියේ ගැටී ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයකු දුම්රියේ ගැටී මියගොස් ඇතැයි බම්බලපිටිය පොලිසිය කියයි.
+ප්‍රියන්ත පැරකුම් ගුණරත්න (59) නමැති ජ්‍යෙෂ්ඨ කථිකාචාර්යවරයා අනතුරින් මියගොස් ඇත.</body>
+    <comments>
+        <comment>
+            <author>සේනක</author>
+            <date>2017-01-03 17:34:35</date>
+            <index>0</index>
+            <phrase>ශ්‍රේෂ්ඨයෙක්, ජ්‍යෙෂ්ඨයෙක්, උගතෙක්, සහ සැබෑ බුද්ධිමතෙක්. මෙතුමාගේ වටිනාකමට ලංසු තැබීම උගහටය. ඔබට තවත් වරක් මේ රන් දෙරණ ස්පර්ශ කරන්නට ඇරයුම් කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2017-01-03 19:20:39</date>
+            <index>1</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

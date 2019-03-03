@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53849</articleId>
+    <title>සේරුවිලට ගුරුන් ඉල්ලා විරෝධය</title>
+    <author>නිරෝෂන් සමරසූරිය</author>
+    <date>2012 ජූලි මස 17 12:26:11</date>
+    <body>සේරුනුවර මහවැලිගම නවෝද්‍යා පාසලේ ගුරු හිඟයට විසඳුම් ඉල්ලා මවුපියෝ දහසක් පමණ අද දෙවැනි දිනටත් උද්ඝෝෂණය ඇරැඹූහ. පස්දෙනෙක් අට්ටාලයක සිට උපවාසයක් ද කරති. සිසුන් 249 දෙනකු සිටින පාසලේ විදුහල්පතිද සමඟ ගුරුවරුන් 6 දෙනකු සිටින බවත් ඔවුන් ගෙන් තිදෙනකු ළඟදී දීර්ඝ නිවාඩු ගන්නා බවත් ඔවුහු කියති.
+සේරුනුවර හන්දියේදී මේ උද්ඝෝෂණය නිසා මුතූර් මඩකලපු පාර ද සේරුවිල කන්තලේ පාර ද අවහිරවී ඇත.</body>
+    <comments>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-17 13:10:36</date>
+            <index>0</index>
+            <phrase>චා..........චා..........චා.........වස වැරැද්දක් නේද උනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-17 13:16:22</date>
+            <index>1</index>
+            <phrase>ඇයි මේ............අලි බලන්නද ?????????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-17 12:39:42</date>
+            <index>2</index>
+            <phrase>කෝ මේ අපේ බන්දුල ඇමතිතුමා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-17 13:04:15</date>
+            <index>3</index>
+            <phrase>කොළඹට කිරි අපට කැකිරි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-07-17 13:57:26</date>
+            <index>4</index>
+            <phrase>අපොයි මේකට ඉක්මනට විසදුමක් දියයුතු වෙනවා. මේ අම්මලා විසදුමක් නොලැබුණොත් මෙතන පදිංචි වෙන්නත් පුලුවන්. මේ වෙලාවේ පොලිසියත් අසරණයි. මොකද කදුලු ගෑස් ගහලා එලවන්නයෑ. මේකට ඇත්තෙන්ම මංත්‍රීවරු මැදිහත් වෙලා විසදුමක් ලබා දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්ගල</author>
+            <date>2012-07-17 13:27:08</date>
+            <index>5</index>
+            <phrase>ඔය ප්‍රශ්නේ විසඳේවි......මේ පාර ‍මොලේ පාවිච්චි කරලා ඡන්දේ දෙන්න......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්.ඩී. ලක්ෂ්මන්</author>
+            <date>2012-07-17 14:15:12</date>
+            <index>6</index>
+            <phrase>මේවත් වැඩද සිරිලංකාවෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්කල්</author>
+            <date>2012-07-17 15:38:38</date>
+            <index>7</index>
+            <phrase>ආශ්චර්‍යකරා යන ගමන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝලංකා</author>
+            <date>2012-07-17 15:06:07</date>
+            <index>8</index>
+            <phrase>විරෝධතා මඟින් විතරයි වැඩක් කරගන්න පුළුවන් මේ ආණ්ඩුවෙන්. ඒත් සිසුන් 249 දෙනෙකුට මවුපියෝ දහසක් සිටිම ගැන ලොකු ගැටළුවක් තිබෙනවා. ඒ ගැන ටිකක් සිතිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-07-17 15:52:52</date>
+            <index>9</index>
+            <phrase>අන්න නියම ක්‍රමය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-17 16:31:23</date>
+            <index>10</index>
+            <phrase>ඔය පැත්තට සිග්නල් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනේ අනිච්චං</author>
+            <date>2012-07-17 17:21:05</date>
+            <index>11</index>
+            <phrase>ගරු ආණ්ඩුව පහසුතාවයට පත් කිරීමේ අරමුණින් කරන ඇමරිකන් කොන්ත්‍රාත්තුවක් වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-07-17 17:10:19</date>
+            <index>12</index>
+            <phrase>හම්බන්තොටට කිරි අපිට කැකිරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-07-17 18:01:20</date>
+            <index>13</index>
+            <phrase>බලාගෙන, බිම ඉදගන්නේ. බිම් බෝම්බ තියෙන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-07-17 17:26:17</date>
+            <index>14</index>
+            <phrase>පොලිසිය උඩ බලාගෙන මොනවා කරනවද මන්දා.ඇයි පාරේ යන අයගේ අයිතිවාසිකම් ආරක්ෂා කරන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නරි</author>
+            <date>2012-07-17 18:13:31</date>
+            <index>15</index>
+            <phrase>ඕවා කුමන්ත්‍රණ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එච්.පෙරේරා යූ.ඒ.ඊ</author>
+            <date>2012-07-17 19:41:06</date>
+            <index>16</index>
+            <phrase>දැන් තියෙන අලුත්ම ක්‍රමය මේක ව‍ගෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර වත්තල</author>
+            <date>2012-07-17 22:06:30</date>
+            <index>17</index>
+            <phrase>පව් අසරණ මිනිස්සු කාර් පොර්මීට් නෙමෙඉනේ ඉල්ලන්නේ බන්දුල ඇමති තුමෝ මේකවත් දීල දාන්න නැත්තන් හැමදාම කාටුන් වෙන්නයි වෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන් සීන</author>
+            <date>2012-07-17 23:59:18</date>
+            <index>18</index>
+            <phrase>බන්දුල ඇමතිට කියන්න පුළුවන් කොළඹට කිරි ගමට කැකිරි විතරයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන් සීන</author>
+            <date>2012-07-18 00:05:40</date>
+            <index>19</index>
+            <phrase>අර පොඩි එවුන් පව්. කාන්තාවන් ටික ඉස්සරහටම දලා පිරිමි ටික පස්සටෝමවෙලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනොහරෙන්</author>
+            <date>2012-07-18 02:14:41</date>
+            <index>20</index>
+            <phrase>ආණ්ඩුවේ ඉස්කෝලේ වහල දාන්න ඕනේ . නැතිබැරි අයට මොන ඉස්කොලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන් අසේල</author>
+            <date>2012-07-18 02:15:22</date>
+            <index>21</index>
+            <phrase>මම මොරටුව කැම්පස් ඉන්න කාලේ ඔය පාසලට ගිහින් අපි 2007/2008 අවුරුදු වල ඉගැන්වුවා සිකුරාදා රෑ 8ට ත්‍රීකුණාමල කෝච්චියෙන් ගිහින් කන්තලෙන් බහිනකොට උදේ 5යි වෙලාව යුද්ධය නිසා පාර සුද්ද කරලා බස් පටන් ගන්නකොට උදේ 8.30 වෙනවා. එහෙම වුනොත් ඉස්කෝලෙට යනකොට 10 වෙන නිසා අපි ආමි එකට කියලා වැලි පටවන් යන ටිපර් වලින් ත්‍රීකුණාමලේ ඉදලා ඉතුරු 40km සේරුනුවරට යනවා. සේරුනුවරට ළමයින්ට උගන්වලා එයාලම ගෙනත් දෙන කෑම එකත් කාල රෑට බංකුවක් උඩ හරි පැදුරක හරි නිදාගෙන ඉරිදා හවසට මුතූර් එනවා. මුතූර් වලින් 4.30 නැවට නගින්නෙ ත්‍රීකුණාමලයට එන්න. ත්‍රීකුණාමලයෙන් 6 කෝච්චියේ සීට් එකක් අල්ල ගන්න සති අන්තෙ ඉවර නිසා ටවුන් එකේ දුවනවා. කොහොමහරි කොටුවෙන් බැහැලා මොරටුවට එනකොට සදුදා උදේ ලෙක්චර එකත් කට් වෙලා ඉවරයි. මොනවා නැතත් අපට හිතේ දැනුනු සතුට තාමත් තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔරන්හුටන් පාරිස</author>
+            <date>2012-07-18 02:24:46</date>
+            <index>22</index>
+            <phrase>බන්දුල ඇමති තුමාට හරි ඊරිසිය ඇති තමාගේ දරුවන්ට වඩා අනික් ළමයි ඉගෙන ගනී කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-07-18 10:44:54</date>
+            <index>23</index>
+            <phrase>සුපුන් මල්ලී ඔයා වගේ අය කල සේවය අති විශිශ්ටයී...රටටම ආදර්ශයක්.. එත් මෙවට වගකියන්න ඕනකට්ටියට කිසි ගානක් නැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරන්</author>
+            <date>2012-07-18 11:31:41</date>
+            <index>24</index>
+            <phrase>මොබයිල් ෆෝන් වලට සිග්නල් තියනවනම් , ගුරුතුමියක් ඉන්නවා එවන්න පුළුවන් , හෙට උනත් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාග්‍යා</author>
+            <date>2012-10-09 20:55:40</date>
+            <index>25</index>
+            <phrase>මම කැමතියි මේ පාසලට උගන්වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

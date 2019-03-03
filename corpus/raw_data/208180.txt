@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>208180</articleId>
+    <title>ගල්ගමු වල් අලි එක රැයින් කුඹුරු යායක් වනසති</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2014 පෙබරවාරි මස 05 11:54:53</date>
+    <body>ගල්ගමුව අලුත් හේරත්ගම කුඹුරු අක්කර අනු හයක්  අල් අලින් විසින් කා දමා ඇතැයි ගොවියෝ කියති.
+මෙහි අසුවක පමණ වල් අලි  රංචුවක් සිටිතියි ගැමියෝ පවසති
+
+
+
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ගිරිගොරිස්</author>
+            <date>2014-02-05 13:32:10</date>
+            <index>0</index>
+            <phrase>බොලත් ඉන්න ඕනේ අලිත් ඉන්න ඕනේ. අලින්ට අයිති වනාන්තර විනාශ කරනකොට උන්ටත් ආහාර හොයාගන්න තැනක් ඕනනේ. මොකද අලි හුලන් බොන්න යෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිතා</author>
+            <date>2014-02-05 14:00:52</date>
+            <index>1</index>
+            <phrase>හැමදාම අලි මිනිස් ගැටුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2014-02-06 10:00:23</date>
+            <index>2</index>
+            <phrase>මේ වගේ දෙවල් වලට කවුරුත් කතාවක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2014-02-13 08:46:01</date>
+            <index>3</index>
+            <phrase>ගිරිගොරිස් මාමේ එක රැයක් ඇවිත් ඉන්න. බලන්න එදාට තේරෙයි මේ ජනතාව ගේ මරණ බිය, දරු දුක නගර වල ඉන්න කෙනාට මේවා පේන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

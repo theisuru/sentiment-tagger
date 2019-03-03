@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17596</articleId>
+    <title>ඔබාමාගේ ඉල්ලීම ඉරානය ප‍්‍රතික්ෂේප කරයි</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි  ප‍්‍රංශ පුවත්</author>
+    <date>2011 දෙසැම්බර් මස 15 12:27:39</date>
+    <body>ඉරාන ගුවන් සීමාවට අනවසරයෙන් ඇතුළුවී ඔත්තු බලමින් සිටියදී ඉරාන ආරක්‍ෂක හමුදා විසින් බිම හෙළණු ලැබූ ඇමෙරිකාවට අයත් ඩ්‍රෝන යානය ආපසු දෙන්නැයි. ඇමෙරිකා ජනාධිපති බරැක් ඔබාමා කළ ඉල්ලීම ඉරානය ප‍්‍රතික්‍ෂේප කර ඇත.
+ඇමෙරිකාවට අයත් ඩ්‍රොන යානය ආපසු තම රටට දෙන්නැයි ජනපති ඔබාමා නොබෝදා පැවැති පුවත්පත් සාකච්ඡාවකදී කියා සිටියේය. එම ප‍්‍රවෘත්ති සාකච්ඡාවට ඇමෙරිකාවට ගොස් සිටින ඉරාක අගමැතිද සහභාගී වීය.
+යානය යළිත් ඇමෙරිකාවට ඉල්ලා සිටීම සිනහවකට කරුණක් යැයි ඉරාන මාධ්‍ය කියා සිටී.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2011-12-15 14:06:47</date>
+            <index>0</index>
+            <phrase>ඔහොම යං, ඔහොම යං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2011-12-15 21:54:13</date>
+            <index>1</index>
+            <phrase>ලිබියාවට කළ දේ කරන්න එපා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2011-12-15 23:19:52</date>
+            <index>2</index>
+            <phrase>ඉරානයට ජය වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශා</author>
+            <date>2011-12-16 04:52:56</date>
+            <index>3</index>
+            <phrase>ගඩාපිත් ඔය වගේ උදම් ඇනුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්ස්</author>
+            <date>2011-12-16 16:22:29</date>
+            <index>4</index>
+            <phrase>විශිෂ්ඨයි ඉරානය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>314260</articleId>
+    <title>ඩයනා යළි රජ පවුලට එයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 මැයි මස 05 10:21:43</date>
+    <body>බ්‍රිතාන්‍යයේ විලියම් කේට් යුවළට උපන් දියණියට චාලට් එලිසබෙත් ඩයනා යැයි නම්තැබූ බව රජපවුල නිවේදනය කරයි.
+චාලට් යනු බ්‍රිතාන්‍යයේ කිරුළ හිමි චාර්ල්ස් කුමරුගේ නමේ කාන්තා නාමයයි. එලිසබත් යනු චාර්ල්ස් කුමරුගේ මව හෙවත් අලුත උපන් දියණියගේ මී මිත්තණිය වූ වත්මන් රැජනගේ නමයි. ඩයනා යනු ලෝකය පුරා සුවහසක් ජනතාවගේ ආදරයට පාත්‍රවී සිටි මිත්තණියයි.</body>
+    <comments>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2015-05-05 05:13:53</date>
+            <index>0</index>
+            <phrase>පරම්පරාගත නම වගේම ගුණ යහපත් දරුවෙක් වී ලොවටම යහපතක් කිරීමට තුණුරුවන්ගේ ආශිර්වාදය පතමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක රළපනාව</author>
+            <date>2015-05-05 07:50:01</date>
+            <index>1</index>
+            <phrase>මේ පුංචි සුරංගනාවියට තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-05-05 08:11:50</date>
+            <index>2</index>
+            <phrase>මිය ගිය අය නැවත නොඑනු ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා</author>
+            <date>2015-05-06 05:37:47</date>
+            <index>3</index>
+            <phrase>ලොව පුරා අනේක දුක්විඳින දරුවන් වෙනුවෙන් සේවයක් කළහැකි දිරිය කාන්තාවක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනේත්‍රා</author>
+            <date>2015-05-06 05:56:17</date>
+            <index>4</index>
+            <phrase>ලොව දිදුලන යහපත් ගෞරවනීය දියණියක් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරන්ත ප්‍රනාන්දු</author>
+            <date>2015-05-07 05:39:29</date>
+            <index>5</index>
+            <phrase>ලොව ප්‍රචලිත නාමය මෙන් ඔබ දිදුලේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

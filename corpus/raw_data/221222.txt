@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>221222</articleId>
+    <title>බේරුවලදී පිරිසකුත් අත්ඩංගුවට</title>
+    <author>තුසිත සිල්වා</author>
+    <date>2014 මාර්තු මස 29 18:33:45</date>
+    <body>දෙපිරිසක් අතර බේරුවලදී ඇති වු ගැටුමට සම්බන්ධ කිහිප දෙනකු අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි.
+ගැටුමේදී වාහන කිහිපයකට අලාභ හානී සිදු වී ඇත.
+එහිදී ඇති වු තත්ත්වය පාලනය කළ බවත් ඒ සදහා පොලිස් විශේෂ කාර්ය බළකාය යෙදු බවත් පොලිස් මාධ්‍ය ප්‍රකාශක කියයි.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>හලීම්</author>
+            <date>2014-03-29 19:23:28</date>
+            <index>0</index>
+            <phrase>මෝරලා, වැරැද්ද කළේ අහවලාගේ පක්ෂයේ අයනේ. අපේ කට්ටිය නම් හරි හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉලේපෙරුම</author>
+            <date>2014-03-29 20:29:46</date>
+            <index>1</index>
+            <phrase>දැන් මේ අන්තිම මොහොතේ තමයි ඡන්දයක් තියෙන බව දැනුෙණ්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජුඩ් සමන්ත</author>
+            <date>2014-03-29 21:20:11</date>
+            <index>2</index>
+            <phrase>මෙන්න පළමු ඡන්ද ප්‍රතිඵලය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2014-03-29 23:36:17</date>
+            <index>3</index>
+            <phrase>අනේ මන්ද රන්ජනී කිව්වලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගඩාෆි</author>
+            <date>2014-03-30 00:45:50</date>
+            <index>4</index>
+            <phrase>රන්ජනී දැන් කොහොමද ලාල්ට ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂේන් දී සොයිසා</author>
+            <date>2014-03-30 01:40:55</date>
+            <index>5</index>
+            <phrase>බේරුවලදී දෙපිරිසක් ඒ වුනාට එකම ආගම එකම ජාතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-03-30 04:21:11</date>
+            <index>6</index>
+            <phrase>තුන්වෙනි පින්තුරේ පොලිසියේ මහත්තයට අනිත් පැත්තේ ඉන්නේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2014-03-30 06:58:57</date>
+            <index>7</index>
+            <phrase>සාමකාමී මැතිවරණයකට සැමගේ සහය අත්‍යවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2014-03-30 07:00:01</date>
+            <index>8</index>
+            <phrase>ප්‍රචණ්ඩ ක්‍රියා නම් අපි අනුමත කරන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

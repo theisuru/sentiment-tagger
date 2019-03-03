@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>380671</articleId>
+    <title>වඳුරෝ කහ ඉර මත අවසන් හුස්ම හෙළති</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ජනවාරි මස 28 18:23:50</date>
+    <body>බණ්ඩාරගම ගැලනිගමදී කහ ඉරෙන් පාර මාරුවෙමින් සිටි වැඳිරියක් සහ වඳුරු පැටියෙක් ලංගම බසයකට යට වී මරණයට පත් වූහ. </body>
+    <comments>
+        <comment>
+            <author>විජිත්</author>
+            <date>2016-01-28 13:35:32</date>
+            <index>0</index>
+            <phrase>මේ නුඹලාගේ අවසන් තිරිසන් අාත්මයම වේවා. මින් පසු උපදින හැම ආත්මයකම මිනිසෙකු වී ඉපදී, කුසල් රැස්කොට,අවසානයේ අප සැමගේ අවසන් පරම පැතුමවන, උතුම්වූ නිවනට පත්වේවා. ප.ලි. මිනිසේකුවී ඉපදුනත්, " කහඉර "ට ගරු නොකරන මිනීමරු රියදුරන් සිටින ශ්‍රී ලංකාව නම් ධර්මදිපයේ නම් අායෙත් ඉපදෙන්න එපා, අහිංසක සතුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලි</author>
+            <date>2016-01-29 09:06:21</date>
+            <index>1</index>
+            <phrase>මේකට නම් පොලිස්සිය කඩිනම් වාර්තාවක් දෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

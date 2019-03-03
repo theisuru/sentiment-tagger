@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>441043</articleId>
+    <title>පාද යාත්‍රාවට කොමියුනිස්ට් පක්ෂයේ කඹ ඇදිල්ලක්</title>
+    <author>ශිලා ජයසුන්දර</author>
+    <date>2016 ජූලි මස 26 16:58:25</date>
+    <body>ලබන 28 වැනිදා මහනුවරින් ආරම්භ කරන ඒකාබද්ධ විපක්ෂයේ පාද යාත්‍රාවට ශ්‍රී ලංකාවේ කොමියුනිස්ට් පක්ෂය එක් නොවන බව එම පක්ෂයේ ලේකම් හිටපු ඇමැති ඩිව් ගුණසේකර පවසයි.
+එහි ‘ව්‍යවස්ථා මර උගුල පරදවමු‘ යන තේමා පාඨයට තම පක්ෂය එකඟ නොවන බවද ඔහු කියයි.
+ මේ අතර කොමියුනිස්ට් පක්ෂයේ සභාපති රාජා කොල්ලුරේ මහතා පවසන්නේ තම පක්ෂයේ ඩිව් ගුණසේකර හා චන්ද්‍රසිරි ගජධීර හැර සියලු සාමාජිකයන් පාද යාත්‍රාවට සහභාගී වන බවයි. පක්ෂය දෙකඩ වුවහොත් එහි වගකීම් ඩිව් ගුණසේකර මහතා දැරිය යුතු බවද කොල්ලුරේ මහතා කීය.</body>
+    <comments>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-07-26 12:55:59</date>
+            <index>0</index>
+            <phrase>බොරුවට කකුල් කඩා ගන්න හදනවා ඔලුවෙන් හිටගෙන ගියත් ආණ්ඩුව පෙරලන්න බැහැ සුදෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2016-07-26 13:32:11</date>
+            <index>1</index>
+            <phrase>ඔය ටික ටික කට්ටිය හැලෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-07-26 14:43:38</date>
+            <index>2</index>
+            <phrase>චතුරි වැඩිය උඩ පනින්න එපා. ඔහොම හිතපු අය තව හිටියා, වට්ටන්න බෑ කියපුවත් වැට්ටුවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිහාන්</author>
+            <date>2016-07-26 17:11:14</date>
+            <index>3</index>
+            <phrase>චතුරි, ඔයාලගේ නායකයන්ට කියන්න ඡන්දෙ තියන්න කියලා. අපි ඔයාට ඔලුවෙන් හිටගෙනත් කරන්න බැරි දේ පෑනෙන් කතිරය ගහලා කරලා පෙන්නන්නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල වේලාරත්න</author>
+            <date>2016-07-27 00:29:02</date>
+            <index>4</index>
+            <phrase>වමේ නාමයෙන් නම තියාගන්න නම් මහින්ද සමඟ ගමන නතරකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-07-27 00:33:23</date>
+            <index>5</index>
+            <phrase>මෙහෙම පක්ෂයක් තියෙනවානම් පාර්ලිමේන්තුවට මන්ත්‍රීවරු පත්නොවන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි ජයවර්ධන</author>
+            <date>2016-07-27 01:10:03</date>
+            <index>6</index>
+            <phrase>කොමියුනිස්ට්වාදියෙකුට ජාතිවාදියෙකු වීමට කිසිදා නොහැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-07-27 02:57:38</date>
+            <index>7</index>
+            <phrase>චතුරිලා වගේ අය ඉන්න නිසා අද රට විනාශයට පත් වුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙත්මි</author>
+            <date>2016-07-27 04:07:35</date>
+            <index>8</index>
+            <phrase>චතුරි ඔබට ජය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

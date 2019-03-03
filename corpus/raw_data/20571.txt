@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20571</articleId>
+    <title>ජ‘පුර සිසුහු පෙළපාළියෙන් කොළඹට</title>
+    <author>ඉන්දික සෙනෙවිරත්න</author>
+    <date>2012 ජනවාරි මස 05 11:10:58</date>
+    <body>ජයවර්ධනපුර සරසවියේ සිසු විරු ස්මාරකය පුපුරණ ද්‍රව්‍ය යොදා අලාභහානි කිරීමට එහි ආරක්ෂක අංශය වගකිව යුතු යැයි පවසමින් සියලු පීඨ සිසුහු පන්ති වර්ජනය කැර කොළඹ වොඩ් පෙදෙසේ සරසවි ප්‍රතිපාදන කොමිසම දෙසට එමින් සිටිති. මාර්ගයේ දැඩි වාහන තදබදයක් ද දක්නට ඇත.</body>
+    <comments>
+        <comment>
+            <author>ෙරාෂාන් ෙකාඩිකාර</author>
+            <date>2012-01-05 12:27:03</date>
+            <index>0</index>
+            <phrase>ෙවන වැඩක් නැතිද මන්දා. ෙපළපාලි පන්ති වර්ජන හැමදාම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සී ඒම් වී</author>
+            <date>2012-01-05 12:51:01</date>
+            <index>1</index>
+            <phrase>මේක නම් හොඳට සැලසුම් කරලා කරපු වැඩක් වගේ. බෝම්බේ වැදිලා පැය කීපයකින් පෙළපාලියක් සූදානම් වුන එකෙන්ම ඒක පැහැදිලියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-01-05 13:03:19</date>
+            <index>2</index>
+            <phrase>විශ්වවිද්‍යාල සිසුන්ට සංවිධානය වෙන්න වැඩි වෙලාවක් යන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-05 13:44:09</date>
+            <index>3</index>
+            <phrase>ෙම්ක සැලසුම් කරල තමයි. ෙපාලිස් කණ්ඩායම කදුලු ගෑස් ඒෙහමත් ලෑස්ති කරගනලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-01-05 14:53:37</date>
+            <index>4</index>
+            <phrase>මේ විනාශ කරගන්නේ එයාලගේ අනාගතයයි. ඉතා ඉක්මණින් උපාධිය අවසන් කරලා තමන්ව ලොකු මහත් කරපු දෙමාපියන් සතුටු කිරීම ඔබගේ යුතුකම. දේශපාලනයේ අතකොලු නොවී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමනලයා</author>
+            <date>2012-01-06 01:22:47</date>
+            <index>5</index>
+            <phrase>ලාංකීය ශීෂ්‍ය ව්‍යාපාරයට ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

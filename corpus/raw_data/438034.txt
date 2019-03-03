@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>438034</articleId>
+    <title>මිනීමරුවා යතුරු පැදියෙන් එයි.</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ජූලි මස 16 22:50:27</date>
+    <body>                  අඟුලානේ සමුද්‍රාසන්න පාරේ පදිංචි (33) පුද්ගල‍යෙකු සිය මෝටර් රථය පදවාගෙන යමින් සිටියදී යතුරැපැදියකින්  පැමිනි සැකකාර පුද්ගලයන් දෙදෙනෙකු ඔහුට වෙඩිතබා ඝාතනය කර  ඇතැයි සැක කරන බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-07-16 18:03:59</date>
+            <index>0</index>
+            <phrase>දැන් මේක ලංකාවද? චිකාගෝවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-07-17 06:37:38</date>
+            <index>1</index>
+            <phrase>එල්ලුම් ගහ හෝ රජකාලේ වගේ දැඩි දඬුවම් නැතුව ලංකාව හදන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

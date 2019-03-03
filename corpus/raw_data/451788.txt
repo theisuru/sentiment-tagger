@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451788</articleId>
+    <title>තව තවත් සීසීටීවී දර්ශන හොයයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 28 16:56:41</date>
+    <body>බම්බලපිටියේ සුලෙයිමාන් ව්‍යාපාරිකයාගේ ඝාතනය ගැන සොයන රහස් පොලිසිය කොළඹ සිට මාවනැල්ල දක්වා වන සීසීටීවී කැමරා පරීක්ෂා කිරීම අද ඇරැඹීය.
+මීට පෙර ඔවුහු කොළඹ බම්බලපිටිය හා තදාසන්න පෙදෙස්හි සීසීටීවී කැමරා පිරික්සූහ.
+ව්‍යාපාරිකයාගේ පියාගෙන් කප්පම් ඉල්ලා කෑගල්ලෙන් දුරකථන පණිවිඩයක් දුන් පුද්ගලයා නිවැරදිව හඳුනාගැනීමටද පොලිසිය වෙහෙසෙයි. පොලිසිය අට දෙනකුගෙන් ප්‍රශ්න කර ඇති අතර සැකය දැඩි ලෙස එක් පුද්ගලයකුට එල්ලවී ඇතැයි දැනගන්නට ඇත.</body>
+    <comments>
+        <comment>
+            <author>දේව</author>
+            <date>2016-08-28 15:44:21</date>
+            <index>0</index>
+            <phrase>අපරාධය සිදුවුණ පැත්තේ සිසිටීවී දර්ශන වලට සම්බන්ධවෙන නුවර පාරේ දර්ශන කොහොමත් තියෙන්න ඕනෑ. මොකද මෙයාව අරගෙන යන්න ඇත්තේ වාහනයකින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමින්ද</author>
+            <date>2016-08-29 03:25:30</date>
+            <index>1</index>
+            <phrase>අර මීටකලින් සමහර සීස‍ීටීවී වලට වුණ දේ වෙන එකක් නැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-08-29 04:51:15</date>
+            <index>2</index>
+            <phrase>මේ තියන උනන්දුව නුවර ව්‍යාපාරිකයා වෙනුවෙන් නැත්තේ මොකද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙන්නකෝන්</author>
+            <date>2016-08-29 08:26:01</date>
+            <index>3</index>
+            <phrase>මෙයාල හොයයි හැමතැනම, නමුත් කරපු දෙයක් අන්තිමට නැහැ ඕකත් අර රාජපක්සලගේ අැගේ ගහල ත්‍රිලක් ගනියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

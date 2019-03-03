@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46640</articleId>
+    <title>පමාවුණත් මිලානෝ අවුරුදු සරුයි</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 ජූනි මස 05 16:42:13</date>
+    <body>ඉතාලියේ මිලානෝ නුවර අවුරුදු උළෙල එහි ශ්‍රී ලාංකිකයන්ගේ සහභාගීත්වයෙන් පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-06-05 16:55:19</date>
+            <index>0</index>
+            <phrase>වාසනාවන් අපේ ජාතික ක්‍රීඩා විදේශවලත් රැව්දෙනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුරුගේ</author>
+            <date>2012-06-05 19:22:21</date>
+            <index>1</index>
+            <phrase>අවුරුදු උත්සව තියන්න වියදම් කරන සල්ලි වලින් භූමි කම්පාවෙන් අසරන වෙච්ච අයට උදවුවක් කරොත් නරකද ලාංකිකයො හැටියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-05 20:09:12</date>
+            <index>2</index>
+            <phrase>අර පොල්ගාන තැන ‍පිංතුරගන්න මහත්තයා ඒ කාන්තාවන්ව කැමරාකාචයට හසුකරගන්න සෑහෙන උත්සහයක යෙදෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-06-05 21:12:19</date>
+            <index>3</index>
+            <phrase>මේ අයගේ බොරු සෝබන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-05 20:58:15</date>
+            <index>4</index>
+            <phrase>අනේ මටත් ආරාධනා කළානම් හරිනේ අවුරුදු කුමාරි තෝරන්න විනිශ්චය මණ්ඩලයට.මටත් සුදුසුකම් ඕන තරම් තියෙනවා.ආචාර්ය උපාධියකුත් තියන එකේ මොකද මට අවුරුදු කුමාරියෙක් තෝරාගන්න බැරි..අනික උපාධි ඕනෙමද ඔය වගේ වැඩවලට.එහෙම නම් ඉස්සර උපාධි නැති කාලෙදීත් අපි විශ්වවිද්‍යාලවලදී ඕව කලේ.රැග් කරන්න කියලා බොරුවට ෆෙෂර් කෙල්ලෝ එක්ක ගිහින් යාලු වෙනවා..බැරිම නම් වර්ණපාල තියරිය වත් දාලා බලනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-05 21:41:58</date>
+            <index>5</index>
+            <phrase>පොටෝ එක ගනන් ඔච්චර මහන්සිවෙනවනම් අලියට ඇහැ තියන්න සෑහෙන මහන්සි වෙන්න ඇති නේද හිතවත් අලි බබෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වොන්ඩර්</author>
+            <date>2012-06-06 00:23:11</date>
+            <index>6</index>
+            <phrase>මිස්ටර් සුජිත්, මට නම් හිතෙන්නේ ඔයාට ගෑණු කෙනෙක්ගේ සැබෑ ලස්සන දකින්න තේරෙන්නේ නෑ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-06-06 01:21:49</date>
+            <index>7</index>
+            <phrase>ඔවු ඔවු.අලිබබා කියන දේ ඇත්ත තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-06 03:19:00</date>
+            <index>8</index>
+            <phrase>අලි බබො.....ඒ එයාගේ මතය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ඛ</author>
+            <date>2012-06-06 09:02:31</date>
+            <index>9</index>
+            <phrase>ඔය ආචාර්ය උපාධිය තියෙනවා කියන කෙනා ලියන ඒවා දැක්කම ආචාර්ය උපාධිය තියා පළමු උපාධියවත් තියෙනවද කියලා හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාංකික මුදලාලී</author>
+            <date>2012-06-06 12:10:53</date>
+            <index>10</index>
+            <phrase>අලංකාරයි......පොඩි කාලේ මතක් වෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවිනි</author>
+            <date>2012-06-06 12:11:14</date>
+            <index>11</index>
+            <phrase>කොහොමද ගොනියේ බැහැල වැටි වැටි දුවන හැටි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-06 21:55:47</date>
+            <index>12</index>
+            <phrase>අලිබබා පොල් ගාන ලියන්නගේ පිටි පස්ස පැත්ත හොඳට ෆෝකස් කරලා ගත්ත නම් තවත් මේ ප්‍රවෘත්තිය මාකට් කරගන්න තිබ්බා..සංඛ හා වොන්ඩ යන අයට එවිට දන්නා හස්ත කර්මාන්තයක් වත් කරගන්න තිබ්බා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

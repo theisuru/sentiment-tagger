@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61193</articleId>
+    <title>ඕස්ටේ‍්‍රලියා සිහින පේදුරුතුඩුවෙන්ම වතුරේ</title>
+    <author>පි‍්‍රයන්ත හේවගේ</author>
+    <date>2012 අගෝස්තු මස 27 10:16:38</date>
+    <body>පේදුරුතුඩුව අසල මුහුදෙන් ට්‍රෝලර් යාත‍්‍රාවක නැගී  ඕස්ටේ‍්‍රලියාව බලා යමින් සිටි උතුරේ වැසියන් පනස් දෙදෙනකු සැකපිට අත්අඩංගුවට ගෙන පේදුරුතුඩුව පොලිසියට බාර දුන් බව නාවික හමුදාව කියයි. මේ පිරිස අතර කාන්තාවෝ පස්දෙනෙක්ද ළමෝ දෙදෙනෙක්ද වූහ.</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-08-27 10:40:17</date>
+            <index>0</index>
+            <phrase>නියම ට්‍රැක් ඒකේ ගියානම් මෙහම කටු නැහැනේ -----</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-08-27 11:28:52</date>
+            <index>1</index>
+            <phrase>නාවික හමුදාවට අපේ ස්තූතිය. කොහොම උනත් මේ වැඩ වලින් වෙන්නේ රටට අපකීර්තියට පත් වෙන එකකයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රිකා</author>
+            <date>2012-08-27 11:57:59</date>
+            <index>2</index>
+            <phrase>ඉතාම කණගාටුදායක තත්ත්වයක්! රටට විශාල අපකීර්තියක්!මෙය නැවැත්වීමට උපරිම ක්‍රියාමාර්ග ගතයුතුමයි. මෙවාට යොමු වෙන්නන්ට වඩා යොමු කරන්නන්ට දැඩි දඩුවම් දීම අවශ්‍යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-27 13:33:50</date>
+            <index>3</index>
+            <phrase>මේ ක්‍රමය දැන් විලාසිතාවක් වෙලා වගේ නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2012-08-27 13:30:38</date>
+            <index>4</index>
+            <phrase>නරකාදියෙන් ‍ගොඩයන්න දෙන්නෙම නෑ මේ මිනිස්සුන්ට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ්</author>
+            <date>2012-08-27 14:23:38</date>
+            <index>5</index>
+            <phrase>හොරෙන් යන්න යන්න අල්ලනවා - අල්ලන්න අල්ලන්න හොරෙන් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-27 17:35:16</date>
+            <index>6</index>
+            <phrase>අහු නොවීත් යනවා ඇති ගොඩක් අය. හරියට ගියොත් ගමනාන්තයට. වැරදුණොත් නේවි එකට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-08-27 21:23:16</date>
+            <index>7</index>
+            <phrase>යන විදිය වැරදි වුණට විදේශ විනිමය ගේනවා නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-08-28 12:01:41</date>
+            <index>8</index>
+            <phrase>අසරණ මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>207036</articleId>
+    <title>ජසයා සහ ලෙන්චිනා - අක්වැස්ස නාදනූපා කෙවිටියාගල මහවිදුහලේ කලා ප්‍රසංගය</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ජනවාරි මස 31 08:18:57</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>දිනුෂි ජයලත්</author>
+            <date>2014-02-04 20:27:17</date>
+            <index>0</index>
+            <phrase>ඔබගේ දක්ෂකම් අගයකොට සලකමි. රටට හොද කලාකරුවන් බිහිවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-02-04 21:30:45</date>
+            <index>1</index>
+            <phrase>දුෂ්කර පාසලක්. හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමරි</author>
+            <date>2014-02-05 12:18:52</date>
+            <index>2</index>
+            <phrase>දක්ෂතාවයෙන් ඉදිරියට යන්න වාසනාව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2014-02-11 14:31:44</date>
+            <index>3</index>
+            <phrase>මෙවන් දරුවන් රටට ජාතියට ගෞරවයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2014-02-11 14:31:50</date>
+            <index>4</index>
+            <phrase>ප්‍රීති,නියමයි ඔයාගේ වැඩ.අපේ සර්ට ඒ උනාට ඔයා ගැන අගයක් නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2014-02-14 11:37:41</date>
+            <index>5</index>
+            <phrase>මගේ පළමුවැනි පාසල ඔබ සැමටම සුබපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>368608</articleId>
+    <title>කඳ සුරිඳුට අංගම්පොර ඔප්පුකරති</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2015 දෙසැම්බර් මස 13 13:35:42</date>
+    <body>දේශීය අංගම්පොර සටන් පුහුණු වූ ශිල්පීහු පිරිසක් අද කතරගම දේවාලය ඉදිරිපිට දී තමන් හැදෑරූ සටන්කලාව එළිදැක්වූහ. අංගම්පොර සටන් පූජාව හෙවත් රණකෙළි පූජාව ලෙස මෙය හුදුන්වයි. අතුරුගිරිය ශ්‍රී ලංකා දේශීය සටන් කලා සංගමයේ පුහුණුව ලැබූ මේ පිරිස රණකෙලි පූජාව පැවැත්වීමෙන් දේවාශිර්වාදය අපේක්ෂා කරති.</body>
+    <comments>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-12-13 13:24:12</date>
+            <index>0</index>
+            <phrase>බොහොම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2015-12-13 17:22:34</date>
+            <index>1</index>
+            <phrase>අපි මේ දේවල් ඉදිරියට පවත්වාගෙන යායුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2015-12-14 04:35:35</date>
+            <index>2</index>
+            <phrase>මෙම අංගම්පොර සටන් කලාව ඉංදියාවේ කේරල ප්‍රාන්තයේ, කරාටි වෙනුවට මරාටි නමින් මෙම සටන් කලාව පැවතින.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

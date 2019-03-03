@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443253</articleId>
+    <title>නාවික භටයන් තුනක් සැකපිට</title>
+    <author>ආරියදාස කොඩිතුවක්කු  දිලිප් ජයසේකර</author>
+    <date>2016 අගෝස්තු මස 02 09:44:48</date>
+    <body>බෙලිඅත්ත ප්‍රදේශයේ  සිදු වු  මංකොල්ලකෑම් රැසක් සම්බන්ධයෙන්  නාවික හමුදා භටයින් තිදෙනෙක් ටි 56 ගිනි අවියක්ද සමඟ අත්අඩංගුවට ගත් බව තංගල්ල අපරාධ කොට්ඨාස විමර්ෂණ ඒකකය පවසයි.
+එසේ අත්අඩංගුවට පත්ව ඇත්තේ මිරිස්ස වෙරළ ආරක්ෂක ඒකකයේ  රාජකාරි කරමින් සිට  නිවාඩුවට ආ නාවික හමුදා භටයින් දෙදෙනෙක් හා නාවික හමුදාවෙන් ඉවත් වු භටයෙකි.
+ </body>
+    <comments>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-08-02 05:45:46</date>
+            <index>0</index>
+            <phrase>මේ අය රණවිරුවොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2016-08-02 06:55:32</date>
+            <index>1</index>
+            <phrase>මෙන්න රණවිරුවන්ගෙන් පළිගන්නවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

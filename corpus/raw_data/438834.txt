@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>438834</articleId>
+    <title>ඇමැති එස්.බීගේ මව කළුරිය කරයි</title>
+    <author></author>
+    <date>2016 ජූලි මස 19 16:12:50</date>
+    <body>සමාජ සවිබල ගැන්වීම් හා සුබ සාධන අමාත්‍ය එස්. බී. දිසානායක මහතාගේ මව වන ග්‍රේස් ප්‍රේමා පණ්ඩිතරත්න මහත්මිය (84) අද (19)දහවල් අභාවප්‍රාප්ත වූවාය.
+පිරිමි දරුවන් 06 ක් හා ගැහැණු දරුවන් 02කගේ දයාබර මෑණියන් වූ ඇය පරලෝ සැපත් විශ්‍රාමලත් විදුහල්පති උ.බ.දිසානායක මහතාගේ බිරිඳ වූවාය.
+අමාත්‍ය එස්.බී දිසානායක, මධ්‍යම පළාත් සභා මන්ත්‍රී ජයලත්බණ්ඩාර දිසානායක, ජී.බී.දිසානායක (නැසීගිය ),  මධ්‍යම පළාත් සභා ඇමැති සාලිය බණ්ඩාරදිසානායක (නැසීගිය ), එන්.ආර්.බී දිසානායක, රංජිත් බණ්ඩාර දිසානායක,වෛද්‍ය මානෙල් දිසානායක හා  ඉන්ද්‍රලතා දිසානායක යන අය ඇයගේ දරු දැරියෝ වෙති.
+ඇගේ දේහය පිළිබඳ අවසන් කටයුතු සෙනසුරාදා (23) සවස හඟුරන්කෙතදී සිදුකිරීමට නියමිතය. දේහය අමාත්‍ය එස්බී දිසානායක  මහතාගේ හඟුරන්කෙත නිවසේ තැන්පත් කර ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>සතයපාල</author>
+            <date>2016-07-19 11:02:57</date>
+            <index>0</index>
+            <phrase>ඇයට නිවන් සුව ප්‍රාර්ථනා කරමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-07-19 11:53:16</date>
+            <index>1</index>
+            <phrase>ප්‍රාර්ථනා කරන්නා වූ බෝධියකින් නිර්වාණ සම්පත්තිය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික රාජපක්ෂ</author>
+            <date>2016-07-19 12:06:51</date>
+            <index>2</index>
+            <phrase>නිවන් සුව ලේබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩෘෘ</author>
+            <date>2016-07-19 14:34:46</date>
+            <index>3</index>
+            <phrase>නිවන් සුව ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගලගම ඒ සමරෙස්කර</author>
+            <date>2016-07-19 15:46:46</date>
+            <index>4</index>
+            <phrase>නිවන්සුව පතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-07-19 22:53:48</date>
+            <index>5</index>
+            <phrase>අවසන හැමෝටම එකම තැන තමා උරුම වෙන්නේ. එයට කලින් රටට මනුෂ්‍ය වර්ගයාට යහපතක් කළොත් තමා හොඳ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-07-20 02:49:46</date>
+            <index>6</index>
+            <phrase>ඇයට නිවන් සුව පතන්නෙමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2016-07-20 04:28:27</date>
+            <index>7</index>
+            <phrase>අම්මේ ඔබට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

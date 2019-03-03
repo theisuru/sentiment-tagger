@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>261093</articleId>
+    <title>රනිල් සජිත් ප්‍රශ්න ඉවරයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2014 සැප්තැම්බර් මස 07 11:33:45</date>
+    <body>තම පියා ජේ ආර් ජයවර්ධන මහතාට සහාය දුන් ආකාරයෙන් තමා රනිල් වික්‍රමසිංහ මහතාට සහාය දෙන බව එක්සත් ජාතික පක්ෂ හම්බන්තොට දිස්ත්‍රික් මන්ත්‍රී සජිත් ප්‍රේමදාස මහතා බදුල්ල පස්සරදී පැවැති එක්සත් ජාතික පක්ෂ 68 වැනි සම්මේලනයේ දී පැවසීය.
+පක්ෂයේ පුරප්පාඩු තනතුරු සැප්තැම්බර 20 වැනිදායින් පසු පුරවන බවත්, නියෝජ්‍ය නායක තනතුරට කෙනකු පත් කරද්දී සජිත් ප්‍රේමදාස මහතාට මුල් තැන දෙන බවත් එක්සත් ජාතික පක්ෂ ජාතික නායක සහ විපක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>අචිනි</author>
+            <date>2014-09-07 06:13:48</date>
+            <index>0</index>
+            <phrase>සුබ පණිවිඩයක්. ලක් මතාවට ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි මනිමේන්ද්‍ර</author>
+            <date>2014-09-07 06:22:23</date>
+            <index>1</index>
+            <phrase>ඔය සමගිය මාසයක්වත් තිබුනොත් ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔෂාන්</author>
+            <date>2014-09-07 06:26:12</date>
+            <index>2</index>
+            <phrase>ඔබ එකතු වී මේ ජරාජීර්ණ දේශපාලනය වෙනස් කරන්න. එදාට මිනිසුන්ට අතමිට සරු හෙට දිනක් උදා වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහවැව,නිමල් වර්ණකුලසුරිය​,</author>
+            <date>2014-09-07 06:41:01</date>
+            <index>3</index>
+            <phrase>ඕක වෙන්න තිබුනේ වෙලපහනේ,ජයවේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් අතාවුද</author>
+            <date>2014-09-07 06:42:14</date>
+            <index>4</index>
+            <phrase>එජාපයට හොඳ ආරම්භයක් මගේ උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2014-09-07 06:50:15</date>
+            <index>5</index>
+            <phrase>අනේ වාසනාවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2014-09-07 06:55:24</date>
+            <index>6</index>
+            <phrase>බල පෙරමඟ සුබ ළකුණු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-09-07 07:00:06</date>
+            <index>7</index>
+            <phrase>ජනතාවට ජයවේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තලවකැලේ</author>
+            <date>2014-09-07 07:04:57</date>
+            <index>8</index>
+            <phrase>කී වෙනි පාරටද ඔය සමගි වුණේ දැන් ඔක්කොම දිනලා ප්‍රතිපල ආවම බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2014-09-07 07:28:45</date>
+            <index>9</index>
+            <phrase>රජය දන්නවා දැන් කඩාවැටීම ලං වෙලා කියලා රනිල් සජිත් එකතුව රජයක් ළගදීම වේවි සුබ ලකුණු !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිඳු</author>
+            <date>2014-09-07 07:40:41</date>
+            <index>10</index>
+            <phrase>ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2014-09-07 07:38:56</date>
+            <index>11</index>
+            <phrase>කලින් විය යුතුව තිබු දෙයක් සිදු උනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2014-09-07 07:47:45</date>
+            <index>12</index>
+            <phrase>මම නම් දකින්නේ සෑම දේශපාලන පක්ෂයක්ම එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-09-07 07:48:28</date>
+            <index>13</index>
+            <phrase>දයාසිරි වයඹ මහ ඇමති අපේක්ෂකයා කරලා සජිත් ඉස්සරහට ගත්ත නම් වයඹ දිනන්ඩ තිබුන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2014-09-07 07:55:00</date>
+            <index>14</index>
+            <phrase>සජිත් මහත්මයාගේ තීරණය නිවැරදියි , කාගේවත් ලනු කන්නේ නැතිව පක්ෂය වෙනුවෙන් මහන්සි උනානම් නියමිත තැන නියමිත වෙලාවට ලැබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වත්සලා</author>
+            <date>2014-09-07 07:57:46</date>
+            <index>15</index>
+            <phrase>ජයවේවා ඔහොම තමයි ඉන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2014-09-07 08:11:06</date>
+            <index>16</index>
+            <phrase>පෙර මග සුබයි.....ජය වේවා ...සමගිය බලය වේ කියන එක ඡන්දෙ දවසේ පෙන්වමු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත් බණ්ඩාර</author>
+            <date>2014-09-07 08:09:05</date>
+            <index>17</index>
+            <phrase>බොහොම සතුටට කාරණයක් .ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ</author>
+            <date>2014-09-07 08:19:39</date>
+            <index>18</index>
+            <phrase>ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2014-09-07 08:31:03</date>
+            <index>19</index>
+            <phrase>විසාල සෙනඟක් රැස්වීමට ඇවිල්ල තියන බව පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්තිශාම්</author>
+            <date>2014-09-07 08:30:27</date>
+            <index>20</index>
+            <phrase>ගයන්ත කරුණාතිලක ඔබ ගාල්ල අපට ආඩම්බරයක්.. ඔබ අවංක ,දක්ෂ බුද්ධිමත් මහත්මයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2014-09-07 08:34:53</date>
+            <index>21</index>
+            <phrase>අපේ අනාගත රට පාලක පක්ෂයට ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2014-09-07 08:45:34</date>
+            <index>22</index>
+            <phrase>ඔය තියෙන්නේ ඕක තමයි අපට ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2014-09-07 09:01:34</date>
+            <index>23</index>
+            <phrase>දේශපාලනය දේශපාලනය දේශපාලනය මට නම් ඇති වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාන්</author>
+            <date>2014-09-07 09:06:49</date>
+            <index>24</index>
+            <phrase>පක්ෂය ඇතුලේ ප්‍රශ්න තියාගෙන වැඩ කරන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිෂාන්</author>
+            <date>2014-09-07 09:06:40</date>
+            <index>25</index>
+            <phrase>දැන් මොකද වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක කොරියාව</author>
+            <date>2014-09-07 09:11:21</date>
+            <index>26</index>
+            <phrase>පැහැදිලි විපක්ෂයක බලවේගයක් රටක දියුණුවකට ලොකු ශක්තියක්...ජය වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2014-09-07 09:19:40</date>
+            <index>27</index>
+            <phrase>සජිත් මහත්තයෝ තීරණය හොඳයි ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2014-09-07 09:21:27</date>
+            <index>28</index>
+            <phrase>සියලුම දෙනාගේම සතුටට කරුණක් ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-09-07 09:50:37</date>
+            <index>29</index>
+            <phrase>ඌව ඡන්දය දිනන්නට ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉලේපෙරුම</author>
+            <date>2014-09-07 10:14:14</date>
+            <index>30</index>
+            <phrase>රනිල්-සජිත් එකතුව පක්ෂය මෙහෙයවීම, 77 මෙන් අති විශිෂ්ට ජනතා ජයග්‍රහනයක පෙරනිමිත්තකි. රටටත් ජනතාවටත් ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2014-09-07 12:34:51</date>
+            <index>31</index>
+            <phrase>මේ කිවේනි පාරද?...බලමු මේ ගිවිසුම කොපමණ කල් යාවිද කියා, ජනතාව ඔය කා ගැනත් හොදට දන්නවනේ ,.....කාරිය කෙරෙනතුරු කාගේත් රැවටිල්ල , කියල ,...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2014-09-07 12:39:04</date>
+            <index>32</index>
+            <phrase>අන්තිම ෆොටෝවල රවී පෙන්න නැහැනේ. මොකද උනේ කොහෙද ගියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී සිරිවර්දන</author>
+            <date>2014-09-07 14:19:08</date>
+            <index>33</index>
+            <phrase>ඔය සමගිය කල්වේලා ඇතිව කරගත්තා නම් පැරදිච්ච වාර ගණන රනිල් මහත්තයාට අඩුකරගන්න තිබුනා. සුදුස්සෙකුට සුදුසු තැන දෙන්න වයස ප්‍රශ්නයක් කරගැනීම තමා කණගාටු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2014-09-07 14:21:53</date>
+            <index>34</index>
+            <phrase>ඇති යාන්තන් මොලේ පෑදුනා එජාපෙට ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසල</author>
+            <date>2014-09-07 15:24:27</date>
+            <index>35</index>
+            <phrase>නියමයි. කට්ටියම එකතු වෙලා කලින්ම වැඩේට බැස්සා නම් ඉවරයි නේ. දැන් ඉතින් රට ගොඩ දාන්න තාන්න මාන්න පැත්තකට දාන්න. සුදුස්සාට සුදුසු තැන ලැබෙයි. අායේ නම් පනින රිලව් ගන්න එපා. රියල් යුඑන්පී එකක් හදලා රට ගොඩ ගන්න රනිල් මහත්තයා බුද්ධිමතා සජිත් කටකාරයා කරු බෞද්ධයා රවි ගණකාධිකාරි විජයදාස නීතී වේදීයා රංජන් නලුවා රුවන් හරීන් බුද්ධික සුජීව තරුණ බලය ජොන් මයිකල් ජයවික්‍රම අත්දැකීම් බහුල අය රෝසි තලතා චන්ද්‍රානි කාන්තා බලය මේ' කට්ටියම සෙට්' උනාම කාටද ආඩම්බර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසල</author>
+            <date>2014-09-07 15:28:32</date>
+            <index>36</index>
+            <phrase>වරු තුනේ පිරිත් නුල මාස තුනක් බැදන් ඉන්න ඇමති ගොයියෝ වගේ නැතිව රනිල් මහත්තය හිස් අත් උස්සලා ලෝකෙටම කියන්නේ මට රකින්න පවුලක් නෑ කියලා නේද? හොරකම් නැති කරන්න පුලුවන් දේ විතරක් කියන නායකයෙක්. අමුඩ ගහන ගොවියෝ ඉන්නේ උද්ගෝෂණ වල විතරයි. තව ටික කාලෙකින් පිලිකා කියලා විට කන එක නවත්තපුවාම කන්න වෙන්නේ චුයින්ගන් තමා. අතේ කනේ රන් බඩු දැන් නෑ. ඒවා බැංකුවල ඉදිරිය දැකපු රනිල් සැබෑම උගතෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිනී</author>
+            <date>2014-09-07 17:03:30</date>
+            <index>37</index>
+            <phrase>ජය වේවා! හරින්ට ජය!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් දයාදර පැරිස්</author>
+            <date>2014-09-07 17:17:46</date>
+            <index>38</index>
+            <phrase>68 වන සම්මේලනයේදී බදුල්ල පස්සර දී ඇතිවූ සමගිය, රටේ සමගියයි ශ්‍රී ලාංකීය දුක් විඳින දුප්පත් හෙළයන්ගේ අනාගතයයි. දුෂණය, භීෂණය, අල්ලස, නාස්තිය පිටු දැක ප්‍රජාතන්ත්‍රවාදී සාමකාමී සහජීවනයක පෙරනිමිති පහලවූ වගයි. මෙය හෙළ දෙරණේ හැරවුම් ලක්ෂය ද ? (නදී) රටවැසියන්ගේ අනාගත බලාපොරොත්තුවද ? පමා වෙලා හෝ මේ ගත් බුද්ධිමත් කාලෝචිත ජනතාවාදී තීන්දුවට චිරං ජයතු, දුක් විඳින ජනතාවගේ අනාගතයට ජයවේවා,ජයවේවා ,ජයවේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත මිලානෝ</author>
+            <date>2014-09-07 19:05:28</date>
+            <index>39</index>
+            <phrase>සමගිය චන්දෙ ඉවර වෙනකන් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2014-09-07 19:18:22</date>
+            <index>40</index>
+            <phrase>අර අලිමංකඩ පාමංකඩ එක්කෙනා නිකකටට අත තියාගෙන ඉදලා මාරුවෙලා ගිහින් වගේ, අන්තිම පින්තූර වල පේන්න නැහැ. බොහොම හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීත්</author>
+            <date>2014-09-08 02:25:44</date>
+            <index>41</index>
+            <phrase>එක්සත් ජාතික පක්ෂයට ජයවේවා! පක්ෂ නායකත්වයට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-09-08 03:06:01</date>
+            <index>42</index>
+            <phrase>සුභ නිමිත්තක්. රටේ දුගී දුප්පත් ජනතාවට සේවයක් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-09-08 03:19:33</date>
+            <index>43</index>
+            <phrase>අසව්! අසව්!! "තම පියා ජේ ආර් ජයවර්ධන මහතාට සහාය දුන් ආකාරයෙන් ..." දන්නෝ දනිති. එදා ජේ. ආර්. ජනාධිපති අපේක්ෂක කම ගාමිණි දිසානායකට දෙන්න තීරණය කළ වෙලාවේ ඔය කියන පියා ජනපති මැදුරේ රඟපාපු නාට්‍යය අපේ සිහියට එනවා. ඔහොම යන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2014-09-08 03:40:47</date>
+            <index>44</index>
+            <phrase>රටක දියුණුවට ප්‍රබල විපක්ෂයත් අත්‍යවශ්‍යයි. රනිල්-සජිත් එකතු වී ප්‍රබල විපක්ෂයක් සෑදීම අත්‍යවශ්‍ය කරුණක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2014-09-08 04:35:13</date>
+            <index>45</index>
+            <phrase>නායක තුමනි, කිව්වා වගේම නියෝජ්‍ය නායකත්වය සජිත්ට දෙන්න. එක්සත් ජාතික පක්ෂයට ජය ස්ථිරයි. එය රටේ ආර්ථිකයෙන් තැලෙන පොඩිවෙන ජනතාවගේ ජයග්‍රහණයක් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2014-09-08 05:22:42</date>
+            <index>46</index>
+            <phrase>සියලු අපල දුරුවේවා, හරින්ට _සජිත්ට-මෙරට පෑගෙන ජනතාවට ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධුරංග</author>
+            <date>2014-09-08 05:24:38</date>
+            <index>47</index>
+            <phrase>හරීන් මහත්තයාගේ වාසනාව... ජය වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමිතියාස්</author>
+            <date>2014-09-08 05:35:17</date>
+            <index>48</index>
+            <phrase>ජානාතිවරණයට ඉල්ලන්න සජිත්ට දෙන්න. යු.එන්.පී ආණ්ඩුවක් එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-09-09 12:05:34</date>
+            <index>49</index>
+            <phrase>සමහරුන්ට අතීතය මතක නැතිවීම ගැන දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනුකි</author>
+            <date>2014-09-10 02:53:56</date>
+            <index>50</index>
+            <phrase>සත්‍යා කතා මවනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

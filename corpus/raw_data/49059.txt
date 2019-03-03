@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49059</articleId>
+    <title>සරසවි සේවකයෝ පොල් ගසති</title>
+    <author>ආර්එස් කීරියවත්ත</author>
+    <date>2012 ජූනි මස 19 19:44:14</date>
+    <body>තම ඉල්ලීම්වලට සාධාරණයක් ඉටු වේවායි ප්‍රාර්ථනා කරමින් පේරාදෙණිය විශ්ව විද්‍යාලයයේ අනධ්‍යයන සේවකයෝ  පේරාදෙණිය ගලහා හන්දියේ දී දේව කන්නලව්වක් කැර පොල් ගැසූහ. සරසවියේ සිට පෙරහැරකින් ආ සේවකයෝ දහසක් පමණ ඊට එක් වූහ.</body>
+    <comments>
+        <comment>
+            <author>kiripanuwa</author>
+            <date>2012-06-19 19:59:08</date>
+            <index>0</index>
+            <phrase>අනේ දෙයියනේ මෙම පොල් කොහෝමද හිරමනේට දාන්නේ, වංගෙඩිවල දාලා මොලෙන් කොටපියව්. මේ දහවැනි සියවසේ කසායක්. පුත්තලමෙන් වතරු හොයන්න කියලා අපේ ආච්චි කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-06-19 19:59:45</date>
+            <index>1</index>
+            <phrase>මයික් එකක් අරන් යාතිකා වෙන කපුවෙක් දැක්කමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>samantha</author>
+            <date>2012-06-19 20:06:51</date>
+            <index>2</index>
+            <phrase>පොල් ගෙඩි ටික ඔවු ගෙඩිවල ගසා ගත්තානම් මීට වඩා හොඳයි. දෙවියන් ඉන්නේ රේකිය ප්‍රශ්න විසදන්න නම් රජයක් රටකට මොටකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මංජුල</author>
+            <date>2012-06-19 20:21:05</date>
+            <index>3</index>
+            <phrase>පොල් ගහන්න ඕන ගල් වල නෙමෙයි.. නොපෙනෙන බලවේගවලින් පිහිට ඉල්ලන මේගොල්ලන්ගෙ ඔලුවෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-19 21:02:14</date>
+            <index>4</index>
+            <phrase>කපුවා මයික් එකෙන් කියද්දි දෙයියෝ හෙඩ් ෆෝන් එකෙන් අහගෙන ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-06-19 21:03:56</date>
+            <index>5</index>
+            <phrase>මොඩ් කපුවෙක් (නවීන පන්නයේ) ඉංග්‍රීසියෙන්ද දන්නෙ නැහැ යාතිකා කළේ...??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-06-19 20:24:37</date>
+            <index>6</index>
+            <phrase>මොඩ් කපුවෙක්.ඉංග්‍රීසියෙන්ද දන්නේ නෑ යාතිකා කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-06-19 21:05:39</date>
+            <index>7</index>
+            <phrase>අනේ මේ මොන මෝඩ වැඩන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරි පණුවා</author>
+            <date>2012-06-19 20:52:38</date>
+            <index>8</index>
+            <phrase>ආ... එයා සරසවි කපුවෙක්ලු නේද? හරි ස්වීට් අනේ, නෝනාගේ සාරියත් ඇදලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුරුගේ</author>
+            <date>2012-06-19 21:37:27</date>
+            <index>9</index>
+            <phrase>දෙයියන්ට හොදට ඇහෙන්ට වෙන්න ඇති මේ මයික් තියන් ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙහාන්</author>
+            <date>2012-06-19 21:41:08</date>
+            <index>10</index>
+            <phrase>දැන් හැමදාම උද්ඝෝෂණ 10ක් විතර තියෙනවනේ.මේවට දැඩි නීති ගන්න ඕනි.නැතුව නවත්වන්න බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2012-06-19 21:22:12</date>
+            <index>11</index>
+            <phrase>ප්‍රේමදාස මහත්තයා වගේ පාලකයෙක් හිටිය නම් ඔය කපුවොත් කපෝති තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රා රණසිංහ</author>
+            <date>2012-06-19 22:01:39</date>
+            <index>12</index>
+            <phrase>ප්‍රේමදාස මහත්තය වගේ පාලකයෙක් හිටියනම්.. පොල් තියේවි.. කපුවත් ක‍පෝති තමයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-06-19 22:02:59</date>
+            <index>13</index>
+            <phrase>අනධ්‍යයන බව හොදට පේනවා.. දෙයියන්ගෙම පිහිටයි!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර්</author>
+            <date>2012-06-19 22:05:38</date>
+            <index>14</index>
+            <phrase>ඉගෙන ගන්න කැමිපස් යන කට්ටියක් නෙමෙයි මේ.මේ අය කැම්පස් යන්නේ නාකි ගෑණු වගේ පොල් ගහන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-06-19 22:19:48</date>
+            <index>15</index>
+            <phrase>මේ ගොල්ලෝ ඉස්සරවෙලා ගල් වලින් සප්පායම් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසියර්</author>
+            <date>2012-06-19 23:36:32</date>
+            <index>16</index>
+            <phrase>අනධ්‍යයන කාර්ය මණ්ඩලය පේරාදෙණිය සරසවියෙ පමණක් 1000ක් ඉන්නවානම් ආචාර්යවරැත් එක්ක 3000ක් විතර වෙනවා ඇති.. එක ‍ශිෂ්‍යයකුට ඉන්න ප්‍රමාණය හදල බැලුවොත් තේරේවි.. මෙච්චර සේවකයෝ පිරිසකට විශ්වවිද්‍යාලතුල රැකියා දීලා.. දැනට ගෙවන පඩිය ගොඩක් වැඩියි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් අලි</author>
+            <date>2012-06-19 23:00:21</date>
+            <index>17</index>
+            <phrase>මෙලෝ රහක් නැති කට්ටියක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලෙ බෝයි</author>
+            <date>2012-06-19 23:48:27</date>
+            <index>18</index>
+            <phrase>නිකං අපරාදෙ පොල් ටික</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමෙ</author>
+            <date>2012-06-20 04:09:59</date>
+            <index>19</index>
+            <phrase>කපුමහතා බයේද මූණ වහගෙන ඉන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පවුල්</author>
+            <date>2012-06-20 04:09:59</date>
+            <index>20</index>
+            <phrase>ඇයි මේ කපු මහතා මූණ වහගෙන ඉන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද කිත්සිරි</author>
+            <date>2012-06-20 06:40:31</date>
+            <index>21</index>
+            <phrase>ආණ්ඩුවේ බලධාරීන් ට දෙන්න තියෙන ලොකුම දඩුවම අනේ ! අපොයි !! මෙවැනි දඬුවම් දෙන්න හිතක් පපුවක් නැති උන්ද ? බලධාරීන් වෙව්ලන හැටි දැක්කම දුක හිතෙනව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටකිච්චා</author>
+            <date>2012-06-20 06:52:32</date>
+            <index>22</index>
+            <phrase>අහේතු කා‍ලේන කජ්ජේන පුහුලං....!! අහේතු කාලයට පුහුලමෙන් කජ්ජ ‍එනව වෙනුවට කජ්ජෙන් පුහුළමේ හැදෙයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-20 06:54:09</date>
+            <index>23</index>
+            <phrase>කව්ද මේ බාල්දියක් උස්සන් ඉන්න එක්කෙනා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරැණ</author>
+            <date>2012-06-20 07:04:21</date>
+            <index>24</index>
+            <phrase>දැන් ඔය පොල් ගහන්නෙ ඇමතිතුමටද? ඒඅයටනම් වදීද දන්නෙ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-06-20 08:42:51</date>
+            <index>25</index>
+            <phrase>මම හිතන්නේ මේක නිකම් ප්‍රචාරයට කරපු දෙයක්. දෙවියන්ට පොල් ගහල පඩි වැඩි කර ගන්න බැරි බව ඕන කෙනෙක් දන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනා</author>
+            <date>2012-06-20 08:05:49</date>
+            <index>26</index>
+            <phrase>පොල් ගහලා හරියයිද බලමුකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය බණ්ඩාර</author>
+            <date>2012-06-20 08:57:56</date>
+            <index>27</index>
+            <phrase>සරසවියේ උදවියත් පොල් ගහල ඉල්ලීම් ඉල්ලන තත්වෙට වැටිලද ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-06-20 08:19:52</date>
+            <index>28</index>
+            <phrase>අද මේ අය ස්ට්‍රයික්,හෙට ලෙක්චර්ස්ලා ස්ට්‍රයික්, අනිද්දට මහා ශිෂ්‍යයො ස්ට්‍රයික්.අහිංසක දෙමවුපියන්ගේ දරුවන්ට ඉගෙන ගන්න දෙන්නේ නැති හැටි නිදහසේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-06-20 09:12:21</date>
+            <index>29</index>
+            <phrase>කපුව අත්අඩංගුව‍ට ගනීද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිපත්</author>
+            <date>2012-06-20 09:16:30</date>
+            <index>30</index>
+            <phrase>තව ටික දවසකින් හෝන් ගහයි ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-06-20 09:19:41</date>
+            <index>31</index>
+            <phrase>දැන් එතකොට මෙයාල වැඩකරන්නේ විශ්වවිද්‍යාලෙද..... ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-20 08:46:34</date>
+            <index>32</index>
+            <phrase>වැඩිම පඩි ගන්නෙ මේ ගොයියලා තමයි.සේවයවත් හරියට කරන්න.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංඛ</author>
+            <date>2012-06-20 09:35:08</date>
+            <index>33</index>
+            <phrase>මෙතන ඇත්ත මේකයි.දෙවියන්ට පොල් ගහන එක මෝඩකමක් වුණත් බලධාරීන් මෝඩ නිසා ඒ ගොල්ලෝ හිතනවා දෙවියන්ට පොල් ගැසීමෙන් ඒ දේව ශාපේ ඒ ගොල්ලන්ට වදිනවා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුක්ෂාන්</author>
+            <date>2012-06-20 09:03:51</date>
+            <index>34</index>
+            <phrase>පොල්ටික අපරාදේ මෙච්ච ගණන් කාලේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-06-20 09:17:01</date>
+            <index>35</index>
+            <phrase>ඔතන දෙවියො නැති නිසා හොඳයි..හිටියනම් මෙයා‍ලගේ ඔලු ගෙඩි ටික අරන් ගහයි ගලේ.......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසින්ත</author>
+            <date>2012-06-20 10:04:54</date>
+            <index>36</index>
+            <phrase>අනේ මෙහෙමත් මෝඩ මිනිස්සු.පොල් ගෙඩියේ ගාණ ගැණවත් හිතලා මේ මෝඩ වැඩේ නවත්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසී</author>
+            <date>2012-06-20 10:14:53</date>
+            <index>37</index>
+            <phrase>පොල් ගෙඩියක් රු. 30x100 රු.30,000 මෝඩ රැළක්..අයියෝ සල්ලි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසේකර</author>
+            <date>2012-06-20 11:04:33</date>
+            <index>38</index>
+            <phrase>පොදු යහපත හිතන්න බැරි ‍සේවකයෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනෝලි</author>
+            <date>2012-06-20 11:05:30</date>
+            <index>39</index>
+            <phrase>මේ වගේ මෝඩ මිනිස්සු තවත් ලෝකේ ඉන්නවද ??දැන් ඉතින් ඉල්ලීම් ඉටු වෙයිද?????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-06-20 11:08:00</date>
+            <index>40</index>
+            <phrase>පෙරේරා මහත්තයෝ , මගේ තාත්තත් අනධ්‍යන සේවකයෙක් , හැබැයි ගන්න පඩියෙන් මාසෙන් බාගයක් වත් ජීවත් වෙන්න බෑ . තමන්ගේ අයිතිවාසිකම් රැකගන්න මෙහෙම දේවල් නොකර ඉන්න පුළුවන් අපේ දෙමව්පියන්ටත් . අපේ දෙමව්පියො අපිව ජීවත් කරවන්න මහා ලොකු සටනක් කරනවා . අවුරුදු 20 කට කිට්ටු කාලයක් වැඩ කරලත් අපිට කියල ගෙයක් හදාගන්න බැරි වුනා . තාත්ත ගන්න පඩියෙන් ගෙවල් හදනවා තියා අපිට මාසේ භාගයක් කන්නවත් මදි . තාත්තගේ ඒ හීනේ හැබෑ කරන්න ඕන නිසා මම මැද පෙරදිග රැකියාවකට ආව . ගොඩක් අනධ්‍යන සේවකයන්ගේ තත්වය ඕක තමයි . ඔබ කියන විදියට මේ සේවකයන්ගේ පවුල් ජීවත් කරවන්නේ කැම්පස් එන දරුවන්ගේ අහිංසක දෙමව්පියන්ද ? එතකොට මේ අහිංසක සේවකයෝ ඉන්න ඕන හැමදාම දුකේද ? මම ඕන කෙනෙක් සමඟ මේ ගැන වාද කරන්න කැමති , මොකද මමත් අනධ්‍යන සේවකයෙක්ගේ පුතෙක් නිසා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උලා</author>
+            <date>2012-06-20 11:08:52</date>
+            <index>41</index>
+            <phrase>හසී අංක ගණිතය ඉගෙන ගන්න Rs 3,000.00</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-06-20 10:32:18</date>
+            <index>42</index>
+            <phrase>හසී, කොහෙන්ද ගණන් ඉගෙන ගත්තේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝලංකා</author>
+            <date>2012-06-20 11:14:59</date>
+            <index>43</index>
+            <phrase>සරසවි සේවකයෝ වර්ජන වලට යන්නේ ඇයි කියලා ප්‍රතිචාර දක්වන කවුරුත් හිතලා නෑ වගෙයි හට දැනෙන්නේ. අද තියෙන ජිවන වියදමට සරිලන වැටුපක් කාටත් ලැබෙනව නම් වර්ජන මේ රටෙන් තුරන් කරන්න පුළුවන්, මාසේ ගන්න වැටුප ප්‍රමාණවත් ද? අද ජිවත් වෙන්න..... ඇමති බන්දුල කියන විදියට රු 2500 මසේ ඉන්න පුළුවන් නම් කොච්චර හොදද? එත් ඔහු හරි, මොකද එවගේ ඇමතිවරුන්ට ජන්දය දුන්න මෝඩ රැලට තේරෙන විදියට මෝඩ කතාවක් තමයි තෙරෙන්නේ... දැන් ඇමතිවරුන්ට සුභ අනාගනයක්.......... මේ රටට මේ වගේ දේශපාලනයක් ගැලපෙන්නේ නෑ මේ දේශපාලකයෝ රටත් දියණු කරනවා, හැබැයි මිනිස්සුන්ගේ රීරිමාංශයත් හුරන් කනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-06-20 11:48:39</date>
+            <index>44</index>
+            <phrase>මොනවද මේ කරන්නේ .....මේ තරම් මෝඩද මිනිස්සු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරූ</author>
+            <date>2012-06-20 11:53:16</date>
+            <index>45</index>
+            <phrase>අනධ්‍යයන සේවකයෝ පේරාදෙණිය ගලහා හන්දියේ දී කන්නලව් කරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරූ</author>
+            <date>2012-06-20 11:53:28</date>
+            <index>46</index>
+            <phrase>අනධ්‍යයන සේවකයෝ පේරාදෙණිය ගලහා හන්දියේ දී කන්නලව් කරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2012-06-20 11:19:53</date>
+            <index>47</index>
+            <phrase>පොල් ගහන්න ඕන කපුවගේ ඔලුවට තමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-06-20 11:21:24</date>
+            <index>48</index>
+            <phrase>හොර කපුවෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-20 12:34:47</date>
+            <index>49</index>
+            <phrase>නුවන්,ඔයා කන එක අඩු කර ගත්තොත් ගෙයක් වුණත් හදා ගන්න පුලුවන් වෙයි.විශ්ව විද්‍යාල වල වැඩ කරන අයට ලොකු පඩියක් හම්බ වෙනවා කියන්නේ.තව එක එක දීමනාත් තියෙනවලු නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්මලේගෙදර</author>
+            <date>2012-06-20 13:49:23</date>
+            <index>50</index>
+            <phrase>සමහරු මේ පොල් ගැසීමට පමණයි බය දිගටම පොල් ගැසීම කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-06-20 13:53:08</date>
+            <index>51</index>
+            <phrase>ලස්සන ඩ්‍රාමා එකක්‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනායක</author>
+            <date>2012-06-20 13:54:09</date>
+            <index>52</index>
+            <phrase>නිලධාරීන් නිහඩ නම් දෙවියෝ හරි මේ සේවකයන්ගේ ප්‍රශ්න දිහා සාධාරණව බලාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සල්මන්</author>
+            <date>2012-06-20 14:04:19</date>
+            <index>53</index>
+            <phrase>2012 වෙද්දි වත් අපේ මිනිස්සු හැදිලා නෑනේ.මෙහෙම අය ළගට අපි අපේ ළමයි යවන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-06-20 13:26:26</date>
+            <index>54</index>
+            <phrase>Mr නුවන්, ඔයා කියන විදියට ඔයාලගෙ පවුල ජීවත් කරවන්නත් ඕනෙ අපිද?මොකද ලාබ නොලබන සියලුම රජයේ ආයතන සේවකයන්ගෙ වැ‍ටුප් ගෙවන්නෙ ජනතාවගෙ බදු මුදලින් නිසා.ජීවත් වෙන්න සරිලන වැ‍ටුපක් නෙමෙයි,වැ‍ටුපට සරිලන විදියට ජීවත් වෙන්න ඉගෙන ගන්න.‍රැකියාවෙන් ලැබෙන වැ‍ටුප මදිනම් තව අතිරේක ආදායම් මාර්ග හොයා ගන්න ඕනෙ.‍රැකියාවෙ හැටියට තමයි පඩි ගෙවන්නෙ.(ආණ්ඩුවට කඩේ යෑමක් නොවෙයි.)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-06-20 13:40:38</date>
+            <index>55</index>
+            <phrase>මීට වඩා හොද නැද්ද කුරුණෑගල ගිහින් පොල් ලෙලි ගැහුවානම්.. කියක් හරි හොයා ගන්න තිබුණනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරු ඩුබායි</author>
+            <date>2012-06-20 15:12:55</date>
+            <index>56</index>
+            <phrase>ප්‍රගීත් ඔයා හරි. මමත් කියන්නේ ඒ ටිකම තමා. මනුස්සයෙක්ගේ රස්සාවේ හැටියට තමා පඩි ගෙවන්නේ, එහෙනම් ඉංජිනේරුවන්ට, දොස්තරලට ඇයි ලොකු පඩි ගෙවන්නේ, මිනිස්සු ඉගෙන ගන්නේ මොකටද?උසස් තැනකට ගොස් රැකියාවක් කරන්න නේද? ඉගෙන ගෙන නැතුව පිස්සු නටලා හිටියොත් හැමදාම ඔහොම තමා. දියුණු වෙන්න ඕන මිනිහා කාගෙන්වත් යමක් ලැබෙනකන් ඉන්නේ නැ. තමන්ගේ උත්සාහයෙන් දියුණු වෙනවා, අද කලේ එහෙම මිනිස්සුත් ඕන තරම ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසී</author>
+            <date>2012-06-20 18:27:16</date>
+            <index>57</index>
+            <phrase>පොඩි වැරදීමක් 30x1000 වෙන්න ඕන...සමාව භජනය කරනවා..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-06-20 18:55:54</date>
+            <index>58</index>
+            <phrase>දෙවියන් තිස්තුන් කෝටියක් ඉන්නවනේ.ඉතිං කාටද පොල් ගැහුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59951</articleId>
+    <title>සේවක සල්ලි කෝටි 122කට ‘චිට්‘</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අගෝස්තු මස 20 18:05:41</date>
+    <body>පෞද්ගලික හා රජයේ සංස්ථා ඇතුළු ව්‍යවස්ථාපිත ආයතන රැසක් රුපියල් කෝටි 122ක් කම්කරු දෙපාර්තමේන්තුවට ගෙවීම පැහැර හැර ඇත. සේවක අර්ථ සාධක අරමුදල්, අය වැය සහන දීමනා, කාර්මික අරමුදල් ගෙවීම්, පාරිතෝෂික දීමනා ආදිය මෙතෙක් ගෙවා නැත. පාරිතෝෂික දීමනා නොගෙවූ 2383 දෙනකුට නඩු පවරා ඇත. පෞද්ගලික අංශයේ ආයතන 943කට නඩු පවරා ඇත්තේ සේවක අර්ථ සාධක අරමුදලට නොගෙවූ රුපියල් කෝටි 65ක් අය කැර ගැනීම සඳහාය.</body>
+    <comments>
+        <comment>
+            <author>ඇන්ඩි</author>
+            <date>2012-08-20 19:15:23</date>
+            <index>0</index>
+            <phrase>ඕවා එදා ඉදලම තිබුණූ වංචා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇරිස්</author>
+            <date>2012-08-20 21:52:24</date>
+            <index>1</index>
+            <phrase>අදාළ ආයතන වලින් නඩු ගාස්තු සමගම මෙම මුදල් අයකර ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙරංගි</author>
+            <date>2012-08-21 08:08:47</date>
+            <index>2</index>
+            <phrase>කම්කරු දෙපාර්තමේන්තුවෙ අයට අහිංසක මිනිස්සුන්ගෙ සල්ලි වියදම් කරමින් කරන දේවල්..!!(නු)මේවා ඕන නැහ ඒ සල්ලිත් පඩියට දුන්නම් ඉවරයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-21 08:30:29</date>
+            <index>3</index>
+            <phrase>ඇයි මෙච්චර එකතු වෙනකම් හිටියේ ? මුලින්ම කරන්න තිබුණු වැඩනේ මේවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2012-08-21 12:44:52</date>
+            <index>4</index>
+            <phrase>පව් ඇයි එහෙම කළේ.. මුදල් ළග නැතිව ඇති.. තියෙනවානම් ගෙවලා දානවානේ...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-08-21 14:57:34</date>
+            <index>5</index>
+            <phrase>අපේ ලංකාවෙ හොද ශක්තිමත් ආණ්ඩුවක් තියෙනවා.. පාලනයට නීති තියෙනවා. මේ මොන රටක සිදුවූ දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

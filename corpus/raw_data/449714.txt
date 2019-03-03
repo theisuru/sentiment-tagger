@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449714</articleId>
+    <title>කතරගම යන්න ගිහින් යන්නම යයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 21 15:09:33</date>
+    <body>කතරගම තිස්සමහාරාම මාර්ගයේ හතේ කණුව අසලදී අද (21) බසයක් හා ත්‍රීරෝද රියක් ගැටී ත්‍රී රෝද රියේ ගිය බව කියන තිදෙනෙකු මිය ගිය බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-21 12:29:09</date>
+            <index>0</index>
+            <phrase>මෙපම අනතුරු ප්‍රමාණයක් සිදුවන්නේ රියදුරන්ගේ අවිනීත කම නිසාමයි.මාර්ග නීති කඩකරන්නට රුපියල් ලක්ෂයක විතර දඩයක් හගන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-21 12:35:28</date>
+            <index>1</index>
+            <phrase>හපොයි ත්‍රීරෝද රත් වලට අපල කාලයක් වගෙයි, පුලුවන්තරමක් ත්‍රීරෝද රථ භාවිතයෙන් වලකින්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක ෂෙල්ටන්</author>
+            <date>2016-08-22 01:29:23</date>
+            <index>2</index>
+            <phrase>ත්‍රීරෝද රථ භාවිතයෙන් වලකින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-22 02:20:29</date>
+            <index>3</index>
+            <phrase>සී සී ටී වී දර්ශන වලින් දැක්කා ත්‍රී වීල් එක ගිය හැටි. එ්ක විතරක් නෙමෙයි ලංකාවේ 80% වැඩිය ත්‍රී වීල් යන්නේ එහෙමයි. පොලිස් නිලදාරීනි, ත්‍රී රෝද, යතුරුපැදි සම්බන්ධයෙන් දැඩිව ඉන්න. වමෙන් ඉස්සර කරන එකේ සීමාවක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2016-08-22 03:00:13</date>
+            <index>4</index>
+            <phrase>ත්‍රීරෝද රථ වල උපරිම වේග සීමාව 40හි පවත්වා ගත්තොත් හොඳයි. මේ ගැන පොලිසිය නිතර සෙවිල්ලෙන් සිටිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වි. ජයපාල</author>
+            <date>2016-08-22 04:24:06</date>
+            <index>5</index>
+            <phrase>ත්‍රීරෝද රථ වලට මිටවඩා ආරක්‍ෂිත උපක්‍රම හඳුන්වා දියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2016-08-22 08:14:00</date>
+            <index>6</index>
+            <phrase>මෙම අනතුරේ වරද ත්‍රී රෝද රථ රියදුරාගේ නොවේද? https://www.youtube.com/watch?v=RhslmlcSx-w</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත</author>
+            <date>2016-08-22 08:37:38</date>
+            <index>7</index>
+            <phrase>මමත් මේකෙ වීඩියෝ එක දැක්කා. පැහැදිලිවම ත්‍රී රෝද රථයේ වැරැද්ද. ලංකාවට අළුතින් ත්‍රී රෝද රථ එක්වීම සීමා කළයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

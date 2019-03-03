@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28700</articleId>
+    <title>ඇමැති කලාවැව විනාශය නවත්වයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 පෙබරවාරි මස 25 15:12:25</date>
+    <body>කලාවැව ජල පෝෂක ප්‍රදේශයේ අනවසරයෙන් පස් කැපීම වහා නවත්වන ලෙස උපදෙස් දුන් වනජිවි ඇමැති එච්.එම් චන්ද්‍රසේන මහතා සැකකරුවන් අත්අඩංගුවට ගන්නා ලෙස පොලිසියෙන් ඉල්ලා සිටියේය.
+මහවැලි අධිකාරිය හා කොන්ත්‍රාත්කරුවන් හිතුමතේට එම රක්ෂිතය කපා ඇතැයි ඔහු කීවේය.</body>
+    <comments>
+        <comment>
+            <author>ජයන්ත විජේරත්න</author>
+            <date>2012-02-25 16:41:48</date>
+            <index>0</index>
+            <phrase>බොහොම ස්තුතියි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ...</author>
+            <date>2012-02-25 18:25:44</date>
+            <index>1</index>
+            <phrase>තව කපන්න පටන් ගත්තේ නැහැ,ඉදිරියට හොද හොද සෙල්ලම් බලාගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

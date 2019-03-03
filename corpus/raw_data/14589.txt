@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14589</articleId>
+    <title>ගයිඩ්ලාට ඇප නෑ</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2011 නොවැම්බර් මස 25 16:03:14</date>
+    <body>මිහින්තලේ පුද බිමේදී නවසීලන්ත කතකට අතවර කළැයි කියන සංචාරක මගපෙන්වන්නන් දෙදෙනාට ඇප දීම ප‍්‍රතික්ෂේප කළ අනුරාධපුර දිසාවිනිසුරු දර්ශිකා විමලසිරි මෙනවිය මෙය ඉතා බරපතල සිද්ධියක් බව කීවාය.
+එම කාන්තාව තම අත් අකුරින් පැමිණිල්ල කැර ඇතැයි ද පොලිස් පොතේ පැමිණිල්ල කියවා බැලූ මහේස්ත‍්‍රාත්වරිය  සඳහන් කළාය. එම කාන්තාව ලබන 30 වැනිදා දක්වා ශ්‍රී ලංකාවේ සිටින බව පොලිසිය කී විට ඇය සොයාගත හැකි වුවහොත් මෝසමක් මගින් දැනුම් දෙන්නැයි ද මහේස්ත‍්‍රාත්වරිය කීවාය.</body>
+    <comments>
+        <comment>
+            <author>ගිමාල්</author>
+            <date>2011-11-25 16:54:54</date>
+            <index>0</index>
+            <phrase>රටේ නම කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2011-11-26 00:05:14</date>
+            <index>1</index>
+            <phrase>මේ වගේ අයව නිදහස් කළොත් තරුණ ගැහැණුළමයෙකුටවත් ඉන්න බැරි වෙනවා. උපරිම දඩුවම් දෙන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Lily</author>
+            <date>2011-11-26 01:49:43</date>
+            <index>2</index>
+            <phrase>ගල් ගැසිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූජිත ද සිල්වා</author>
+            <date>2011-11-26 16:47:18</date>
+            <index>3</index>
+            <phrase>මේක සංචාරක ව්‍යාපාරයට කැළලක්. නිසි පියවර ගත යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2011-11-26 21:08:49</date>
+            <index>4</index>
+            <phrase>නිසි දඩුවම් දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර සිරිවර්ධන</author>
+            <date>2011-11-27 15:47:40</date>
+            <index>5</index>
+            <phrase>මේකටවත් දේශපාලනේ ගෑවුණේ නැත්නම් හදෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14325</articleId>
+    <title>බස් ටිපර් ගැටුමෙන් තල්අරඹ රත්වේ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2011 නොවැම්බර් මස 24 10:10:45</date>
+    <body>සෝමාවතිය - මාතර පෞද්ගලික බසයක් වැලිගම තල්අරඹේදී ටිපර් රියක ගැටී බස් මගීන් 32 දෙනකුට වැඩි පිරිසක් තුවාල ලබා මාතර රෝහලට ඇතුළු කැර ඇතැයි පොලිසිය කියයි. බස් රියටද අලාභහානි කැර ඇත.වාහන ගමනා ගමනය අවහිර වී උණුසුම් හා උද්වේගකාරී තත්ත්වයක් ද හටගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>ඩී. ගුණරත්න</author>
+            <date>2011-11-24 12:30:30</date>
+            <index>0</index>
+            <phrase>අපේ රටේ නීතිය ගැන කණගාටුයි. බස්වලට කිසිම නීතියක් නෑ. වංගුවලින් ඉස්සර කරනවා. පොලිසිය නොදැක්කවගේ ඉන්නවා. ඉතින් මෙහෙම අනතුරු වෙන එක පුදුමයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2011-11-24 13:04:54</date>
+            <index>1</index>
+            <phrase>හැමදාම අනතුරු වුණත් පාඩම් ඉගෙනගන නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2011-11-24 16:00:49</date>
+            <index>2</index>
+            <phrase>මේවගේ රියදුරන්ගෙ බලපත්‍රය අවලංගු කරන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කඩාපි මල්</author>
+            <date>2011-11-24 16:12:51</date>
+            <index>3</index>
+            <phrase>මේ බස් රියදුරු මහතා ඇමෙරිකාවේ ක්‍රමයට දකුනින් යන එකෙක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල් ප්‍රසන්න</author>
+            <date>2011-11-24 17:05:55</date>
+            <index>4</index>
+            <phrase>මාර්ග නීති හරි හැටි ක්‍රියාත්මක වෙනවනම් මෙහෙම දේවල් වෙන්නෙ නෑ. රථ වාහන පොලිසියේ තියෙන දුර්වලතා නිසා තමයි වාහන තද බද සහ අනතුරු වෙන්නෙ. "පොලිස්පති තුමනි මේ ඔබතුමාගේ අවදානය පිණිසයි"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවින්ද</author>
+            <date>2011-11-25 13:32:01</date>
+            <index>5</index>
+            <phrase>ඔය බස් එක රේස් එකේ යන්නේ හැමදාම එක රූට් එකට ඕනවට වඩ බස් දැම්මම ඔයවගේ අනතුරු වැඩි වෙන එක අහන්න දෙයක් නැනේ . ඔය බස් එක දැම්මේ පොලොන්නරුව - මාතර ලංගම බස් එකට කාපා ගෙන යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2011-11-28 13:11:31</date>
+            <index>6</index>
+            <phrase>ඇයි මේ මිනිස්සු තමන් ගැන විතරක් හිතන්නේ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුවාන්</author>
+            <date>2011-11-28 17:11:24</date>
+            <index>7</index>
+            <phrase>මිනිසුන්ගේ ජීවිත ගැන කිසිම තැකීමක් නැතිව ගමන් කරන්නේ සමහර පුද්ගලික බස් රියැදුරන්ය. මෙවැනි අය කවදාවත් පාඩමක් ඉගෙන ගන්න අයනම් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

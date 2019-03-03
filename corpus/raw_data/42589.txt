@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42589</articleId>
+    <title>කුරේගේ අරක්කැමියා යළි රිමාන්ඞ්</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 මැයි මස 16 16:28:01</date>
+    <body>හිටපු අමාත්‍ය සිරිසේන කුරේ මහතාගේ නිවසේ සේප්පුව කඩා ගජ මුතු ඇටයක් රන් සෙම්බුවක් හා වීඩියෝ කැමරාවක් සොරකම් කළැයි ඔහුගේ කෝකියා වූ ජගත් උදය ශාන්ත හා අමිල නුවන් කොළඹ අතිරේක මහේස්ත‍්‍රාත් ප‍්‍රසන්න අල්විස් මහතා විසින් ලබන 30 වැනිදා තෙක් රිමාන්ඞ් කරනු ලැබීය. අමිල නුවන් යුද හමුදාවෙන් පලාගිය අයෙකියි උසාවියේදී කියැවිනි.</body>
+    <comments>
+        <comment>
+            <author>Amila (Dubai)</author>
+            <date>2012-05-16 16:32:10</date>
+            <index>0</index>
+            <phrase>ගජ මුතු හොරකම් කිරීම වරදක්‌, එසේනම් නීතිය අනුව ලග තබා ගැනීමත් වරදක්‌ නොවන්නේද..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදු</author>
+            <date>2012-05-16 16:57:57</date>
+            <index>1</index>
+            <phrase>නියම නිදන් හොරු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් මංජුල</author>
+            <date>2012-05-16 16:59:35</date>
+            <index>2</index>
+            <phrase>අමිල, ලංකාවෙ ඇතුලෙ රටවල් දෙකක්. එකක් ලොක්කන්ගේ. අනික සොක්කන්ගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදු</author>
+            <date>2012-05-16 16:59:09</date>
+            <index>3</index>
+            <phrase>මෙයාට අලිත් හිටියද ....ගජ මුතු හම්බෙන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-16 17:29:12</date>
+            <index>4</index>
+            <phrase>ඔව් අලි එක්ක ඉදලනෙ ගියේ....ඒකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-05-16 22:24:41</date>
+            <index>5</index>
+            <phrase>කොහෙන්ද ගජමුතු.......හා කියන්න බලන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-17 00:10:07</date>
+            <index>6</index>
+            <phrase>මෙතනට ඔයාල ඕනා එකක් ඇදලා ගන්න. අලිගැන විතරක් කථාකරන්න එපා. මට තදවෙනවා. මොකද අපි පාඩුවෙ ඉන්න අලි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-18 19:55:19</date>
+            <index>7</index>
+            <phrase>අමිල, Amila (Dubai)ලෙස කොමෙන්ට්ස් දාලා තියෙන්නේ අමිල නුවන් නෙවෙයි නේද?මම බැලුවා රිමාන්ඩ් කරපු කෙනෙක් කොහොමද ඩුබායි ගියේ කියලා.හැබැයි සල්ලි පොඩ්ඩක් එහාට මෙහාට විසි කලාම ලංකාව් නම් කරන්න බැරි දෙයක් නැහැ ‍කියලා ගොඩක් අය කියනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

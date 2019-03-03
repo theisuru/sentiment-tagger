@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>78531</articleId>
+    <title>රූ රැසේ අඳිනා ලෙසේ දිය ළෙල දිදී විදුලිය පබා</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 නොවැම්බර් මස 20 15:06:49</date>
+    <body>ඩුබායි හි බර්ජ් කලීෆා විලෙහි මිහිරි සංගීතියට නටන ජල නැටුමකි. මෙම විල අක්කර 30කි. ජලධාරා අඩි 500ක් පමණ උඩට විහිදෙයි. උල්පත් ආශ්ර යෙන් ජල නැටුම නිර්මාණය කැර ඇත.
+ලොව විශාලතම වෙළෙඳ සංකීර්ණය වන ඩුබායි මෝල්හි මෙම ඩාන්ස් ඔෆ් වෝටර් නැරඹීමට ලක්ෂ සංඛ්යාංත විදේශිකයෝ මෙන්ම අරාබි ජාතිකයෝ දිනපතා එති.</body>
+    <comments>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2012-11-24 06:52:55</date>
+            <index>0</index>
+            <phrase>ඉතා හොද නිර්මාණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-25 10:56:29</date>
+            <index>1</index>
+            <phrase>හෙට අනිද්ද බේරේ වැවේ මේ වගේ එකක් හදන්න පටන් ගනීවිද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

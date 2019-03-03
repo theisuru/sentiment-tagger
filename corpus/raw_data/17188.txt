@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17188</articleId>
+    <title>නෙඵම් පොකුණට වෙබ් අඩවියක්</title>
+    <author>දුෂ්‍යන්ත සමරසේන</author>
+    <date>2011 දෙසැම්බර් මස 12 18:21:26</date>
+    <body>රුපියල් කෝටි 300කට වැඩි මුදලක වියදමින් චීන රජයෙන්  ප්‍රධානය කැරුණු  නෙඵම් පොකුණ
+මහින්ද රාජපක්ෂ රගහලේ නිළ වෙබ් අඩවිය ජනාධිපති මහින්ද රාජපක්ෂ මහතා  අරලිය ගහ මන්දීරයේදී
+අද විවෘත කළේය. www.lotuspond.lk ලෙස නම් කැර ඇති මෙම වෙබ් අඩවිය විවෘත කිරීමෙන් පසුව
+ජනපති කීවේ අභාවප්‍රාප්ත ලක්ෂ්මන් ජයකොඩි මහතා මුලින්ම මෙවැනි රගහලක අවශ්‍යයතාවය
+ඉදිරිපත්කළ බවයි</body>
+    <comments>
+        <comment>
+            <author>නදිත</author>
+            <date>2011-12-12 19:43:01</date>
+            <index>0</index>
+            <phrase>විවෘත කරපු එක නම් හොදයි. එහෙම වෙබ් අඩවියක් නැති එක ගැන දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොළකාරයා</author>
+            <date>2011-12-12 20:36:38</date>
+            <index>1</index>
+            <phrase>වෙබ් පිටුව වැඩ කරන්නේ නෑ. පොකුණත් ඒ වගේද දන්නෙ නෑ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙහාන්</author>
+            <date>2011-12-12 21:24:20</date>
+            <index>2</index>
+            <phrase>මේක වැඩ කරන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත්</author>
+            <date>2011-12-12 21:28:27</date>
+            <index>3</index>
+            <phrase>www.lotuspond.lk අනේ මේක වැඩ කරන්නේ නෑනේ????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2011-12-12 21:28:30</date>
+            <index>4</index>
+            <phrase>අනේ අනේ වෙබ් අඩවිය අරියට එකේ මොනවද තියෙන්නේ ??? හිස් පිටුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුජිත</author>
+            <date>2011-12-15 21:53:41</date>
+            <index>5</index>
+            <phrase>හරිම අපුරු වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංදවී</author>
+            <date>2013-05-14 09:54:05</date>
+            <index>6</index>
+            <phrase>අදටත් වැඩ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංදවී</author>
+            <date>2013-05-14 09:54:08</date>
+            <index>7</index>
+            <phrase>අදටත් වැඩ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

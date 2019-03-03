@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>105447</articleId>
+    <title>බ‍්‍රසීල වෛද්‍යවරියක අසාධ්‍ය රෝගීන් 300 ක් මරා දමලා</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි  සා ඕ පාවුලෝ නුවරදීය</author>
+    <date>2013 මාර්තු මස 29 10:41:35</date>
+    <body>ඉතා අසාධ්‍ය රෝගීන් සහ දීර්ග කාලයක් තිස්සේ එක්තැන්ව සිහිසුන්ව සිටි රෝගීන් මරා දැමූ බවට චෝදනා එල්ල වූ බ‍්‍රසීල වෛද්‍යවරියක ඊයේ (28) එරට අධිකරණය හමුවේ වරදකරු විය. හෙලේනා සෝරේස් දෙ සෝසා නමැති එම වෛද්‍යවරිය මේ වනවිට ඇගේ රෝගීන් හත් දෙනකු මරා දැමූ බවට  වරදකරු වී සිටින නමුත් පොලිසිය පවසන්නේ ඇය රෝගීන් 300 දෙනකුගේ මරණවලට වගකිවයුතු  බවය. වෛද්‍යවරිය සහ ඇගේ වෛද්‍ය කාර්ය මණ්ඩලය ඉතා අසාධ්‍ය තත්ත්වයේ එක්තැන් ව සිටි රෝගීන් ට විශේෂ ඖෂධ මිශ‍්‍රණයක් එන්නත් කර ඔවුන් ස්වසන ආබාධයන්ට ලක් කර මරා දැමුවේ යැයි අනාවරණය වී ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>ජෙෆ්</author>
+            <date>2013-03-29 12:13:47</date>
+            <index>0</index>
+            <phrase>දෙවියනේ! මෙයා වෛද්‍යවරයෙක්ද? නැත්නම් යක්ෂණියක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-03-29 14:30:28</date>
+            <index>1</index>
+            <phrase>අසාධ්‍ය ලෙඩුන් දුක් විදිනවා ඇයට බලාඉන්න අමාරු ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2013-03-29 15:23:08</date>
+            <index>2</index>
+            <phrase>අහන්න දෙයක් නැහැ මෙයාගේ මහත්තයාට රෝහල අසලම මල් ශාලාවක් තියෙනවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදරුවන්</author>
+            <date>2013-03-29 15:40:31</date>
+            <index>3</index>
+            <phrase>දෙව්දත්තෙර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-03-29 15:34:57</date>
+            <index>4</index>
+            <phrase>මටනම් දොස්තර දිහා බැළුවම අමුතු පාටක් පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2013-03-29 20:35:15</date>
+            <index>5</index>
+            <phrase>කොච්චර පිනක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-03-29 21:19:04</date>
+            <index>6</index>
+            <phrase>වරුන, මට නම් දොස්තර අල්ලගෙන ඉන්න දකුණු පැත්තෙ ගැහැණු ළමයා දිහා බැලුවම අමුතු පාටක් පේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුප්රා</author>
+            <date>2013-03-29 21:29:48</date>
+            <index>7</index>
+            <phrase>අපේ පොලිස් කාන්තාවන්ටත් මේ වගේ ඇදුම් ඇන්දුවොත් හොදයි කියලා මට හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර</author>
+            <date>2013-03-30 07:55:55</date>
+            <index>8</index>
+            <phrase>බාබයිගා යකින්න වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2013-03-30 08:33:30</date>
+            <index>9</index>
+            <phrase>මෙහි හොද නරක දෙකම තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-03-30 09:15:18</date>
+            <index>10</index>
+            <phrase>එච්.අයි.වී. රෝගීන් බොහොමයකට මෙහෙම කරනවා කියන්නේ ඇත්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන්</author>
+            <date>2013-03-31 13:19:14</date>
+            <index>11</index>
+            <phrase>ලෙඩුන් දුක්විදිනවට වඩා මේ දේ හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

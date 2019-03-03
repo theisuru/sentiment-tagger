@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468698</articleId>
+    <title>පැයක් විදුලිය කපයි.</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ඔක්තෝබර් මස 17 07:14:58</date>
+    <body>කොළඹට හැර සෙසු ප්‍රදේශවල අද(17) සිට උදෑසන සහ රාත්‍රි විදුලිය කැපිමට සැලසුම් කර ඇතිබව ලංකා විදුලිබලමණ්ඩලය පවසයි. 
+නොරොච්චෝලේ තාප විදුලි උත්පාදක යන්ත්‍ර අක්‍රිය වීමත සමග මෙගාවොට් 900ක විදුලි ධාරිතාවක් ජාතික විදුලිබල පද්ධතියට අහිමිව ඇති බවත් එහි අලුත්වැඩියාවට සති කිහිපයක  කාලයක් ගතවෙනු ඇති බවත් විදුලිබල මණ්ඩලය කියයි .
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-10-17 03:57:04</date>
+            <index>0</index>
+            <phrase>කිසි වැදගැම්මක් නැති ටෙලිනාට්‍ය පෙන්වන වෙලාවල් වල විදුලිය කැපුවත් කමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-10-17 04:11:56</date>
+            <index>1</index>
+            <phrase>ඇයි කොළඹ ලංකාවේ නොවේද. බලාගාර හදන්න එපා කියන අය මේ වගේ ප්‍රශ්න වලට උත්තර දෙන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2016-10-17 04:24:24</date>
+            <index>2</index>
+            <phrase>කොළඹට කිරි අපට කැකිරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මි</author>
+            <date>2016-10-17 05:57:29</date>
+            <index>3</index>
+            <phrase>කොලඹ විතරද මිනිස්සු ඉන්නෙ අනිත් පලාත්වල ඉන්නෙ බූරුවන් ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-10-17 07:00:33</date>
+            <index>4</index>
+            <phrase>අනේ මන්දා මේවට මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-17 07:45:53</date>
+            <index>5</index>
+            <phrase>අපි දැක්කා 2000 මුල් ගණන් වල හිටු කියලා විදුලිය කපපු හැටි. හොඳට මතකයි මම උසස්පෙළ කරද්දී දවසක් හැර දවසක් තමයි විදුලිය දුන්නේ. අනේ මන්දා, 2015න් පස්සේ දැන් අායෙමත් විදුලි කැපිල්ල. ඒ අස්සේ ඉන්දියාවෙන් විදුලිය ගේනවලු කේබල් දාලා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

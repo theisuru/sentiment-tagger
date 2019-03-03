@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41323</articleId>
+    <title>කට්ටි පැන්න සැකකරු  ඇල්ලුවැයි  උද්ඝෝෂණ</title>
+    <author>පුෂ්පකුමාර මල්ලවආරච්චි  වාරණ ජයකොඩි</author>
+    <date>2012 මැයි මස 08 21:01:55</date>
+    <body>වසරක් තිස්සේ පොලිසියට කට්ටි පනිමින් සිටි පුද්ගලයකු අත්අඩංගුවට ගැනිමෙන් පසුව  දිවුලපිටිය පොත්තපිටියේ  පිරිසක් ඊට එරෙහිව උද්ඝෝෂණ කළහ.
+පොලිස් මාධ්‍ය ප්‍රකාශක ඡේ්‍යඨ පොලිස් අධිකාරි අජිත් රෝහණ මහතා පැවසූයේ අපරාධ කිහිපයක්  සම්බන්ධයෙන් පොලිසිය ඔහු සොයමින් සිටියදි දන්සැලක් අසලදි අත්අඩංගුවට ගත් බවයි</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-08 21:23:23</date>
+            <index>0</index>
+            <phrase>එතකොට වරෙන්තු කාරයෙක්වත් අල්ලන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-05-08 21:29:41</date>
+            <index>1</index>
+            <phrase>අත්අඩංගුවට ගන්න ඕන නැහැනේ. අනිත් අය වගේ වෙඩි තිබ්බේ නැත්තේ ඇයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-05-08 21:33:12</date>
+            <index>2</index>
+            <phrase>උද්ඝෝෂණය කරපු අයවත් අල්ලන්න තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-08 21:43:35</date>
+            <index>3</index>
+            <phrase>කටිටිපැන්න එක්කෙනෙක්ව අල්ලලා තියෙන්නේ. වරදක්කොරපු එක්කෙනෙක් නෙමෙි. ඒකයි මිනිස්සු උද්ඝෝෂණය කොරල තියෙන්නේ. ඒක හරියට අර ගොයමිකොලේට මුවාවෙලා වෙඩිතිබිබා වගේ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මිකා</author>
+            <date>2012-05-08 22:24:37</date>
+            <index>4</index>
+            <phrase>අල්ලන්න වරෙන්තු නිකුත් කළ තව ගොඩක් අය ඉන්නවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් - ඉතාලිය</author>
+            <date>2012-05-08 22:35:04</date>
+            <index>5</index>
+            <phrase>කට්ටි පැන්න එකමත් නෙවේ වෙන්න ඇති. ප්‍රස්නෙ සමහර අයගෙ හැසිරීමත් ප්‍රස්නයක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලක ප්‍රසන්න</author>
+            <date>2012-05-09 00:01:29</date>
+            <index>6</index>
+            <phrase>මිනිස්සු උද්ඝෝෂණය කරන්න ඇත්තේ කට්ටි පැන්න කෙනා අල්ලපු නිසා නොවේ. කට්ටි පැන්න අනිත් අයට අල්ලන්නේ නැති නිසා වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටුවන</author>
+            <date>2012-05-09 00:39:40</date>
+            <index>7</index>
+            <phrase>කට්ටි පනිනව කියන්නේ බට්ටො පනිනවා වගේ සෙල්ලමක් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>suda</author>
+            <date>2012-05-09 03:33:15</date>
+            <index>8</index>
+            <phrase>වෙඩි තියල මරදා දැම්මේ නැත්නම් මාස තුනෙන් එළියට එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් ද සිල්වා</author>
+            <date>2012-05-09 07:05:22</date>
+            <index>9</index>
+            <phrase>දේශාලනඥයො වගේ හොරා පොලිස් කරන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමැටියන්</author>
+            <date>2012-05-09 09:18:00</date>
+            <index>10</index>
+            <phrase>මෙයා අහිංසකයෙක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-09 09:33:35</date>
+            <index>11</index>
+            <phrase>ඇත්තටම වැරදි කරුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දියසෙන් කුමාර</author>
+            <date>2012-05-09 10:43:27</date>
+            <index>12</index>
+            <phrase>අලි බාබා ඔබේ දැක්ම විශිෂ්ඨයි. ‘බුදු සරණයි‘</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර - ඉරාකය</author>
+            <date>2012-05-09 10:42:17</date>
+            <index>13</index>
+            <phrase>සැකකරුවෙක් අල්ලනකොටත් උද්ඝෝෂණය කරන අයද දැන් ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ් - සෞදි</author>
+            <date>2012-05-09 11:02:15</date>
+            <index>14</index>
+            <phrase>අපේ රටේ මිනිසුන් ඇයි මේ තරම් මෝඩ වැඩ කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනවිරත්න</author>
+            <date>2012-05-09 15:53:33</date>
+            <index>15</index>
+            <phrase>සුධර්මන් රදලියගොඩට එරෙහි වරෙන්තුව ක්‍රියාත්මක කළාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද පීරිස්</author>
+            <date>2012-05-09 16:18:49</date>
+            <index>16</index>
+            <phrase>නිධන් හොරුන්ව පොලිස් රාජකාරි වලට ගිය අය ලෙස හදුන්වා දුන්නෙත්, සුදු වෑන් කාරයින්ව හමුදාවෙන් පළා ආ සෙබළු අල්ලන්න යොදවපු අය ලෙස හදුන්වා දුන්නෙත් කවුද කියලා අපි දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

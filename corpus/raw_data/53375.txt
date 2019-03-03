@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53375</articleId>
+    <title>යාපන රතු ලූනු ගෙඩියට දකුණේ ලොකු ඉල්ලූමක්</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 ජූලි මස 15 12:57:33</date>
+    <body>යාපන රතු ලූනුවලට දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ ලොකු ඉල්ලූමක් පවතී.
+රතු ලූනු කිලෝවක් රුපියල් 55-60ත් අතර තොග මිලකට අලෙවි කැරෙයි. අනෙකුත් රතු ලූනු වර්ග කිලෝවක මිල රුපියල් 40ත් 55 පමණ වෙයි.
+දිනකට රතු ලූනු කිලෝ ලක්ෂ එක හමාරේ සිට දෙක දක්වා තොග දඹුල්ලට ලැබේ.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-15 13:45:06</date>
+            <index>0</index>
+            <phrase>අපිත් කැමති යාපනේ ඒවට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-15 13:15:43</date>
+            <index>1</index>
+            <phrase>සිය රට දේ සිරි සැප දේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යුරේක්ෂා</author>
+            <date>2012-07-15 13:23:00</date>
+            <index>2</index>
+            <phrase>ආර්ථිකේ නගා සිටුවන්න හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.එම්.කේ</author>
+            <date>2012-07-15 16:35:44</date>
+            <index>3</index>
+            <phrase>අපේ ගොවි මහත්වරුන්ගේ අස්වනු තව තවත් වැඩි වේවා කියා ප්‍රාර්ථනා කරනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-07-15 20:59:43</date>
+            <index>4</index>
+            <phrase>ඔහොම යන්න ,ඔහොම යන්න , නිකම් බොරුවට නිජබුමි හොයන්නේ නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-07-16 05:59:19</date>
+            <index>5</index>
+            <phrase>යාපනේ රතුළූණු නියමයි. වැඩි ඉල්ලුමක් තියෙන්නේ ඒකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-17 09:19:16</date>
+            <index>6</index>
+            <phrase>යමු යමු ඔහොම යමු...පුළුවන් තරම් ඉන්දියාවෙන් බඩු ගේන එක අඩු කරමු .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

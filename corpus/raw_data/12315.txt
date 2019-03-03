@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>12315</articleId>
+    <title>ජංගම දුරකතනය සිපගත් දුවගෙන් තාත්තාට අපූරු උත්තරයක්</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2011 නොවැම්බර් මස 09 11:09:55</date>
+    <body>තම බාල දියණිය දුරකතන ඇමැතුමකින් පසුව එම ජංගම දුරකතනයට හාදුවක් දීම නිසා සැකයක් ඇතිවී ඒ ගැන විමසූ පියකුට ලැබුණු අපූරු පිළිතුරක් පිළිබඳව පසුගියදා අසන්නට ලැබුණේ දෙනියාය ප‍්‍රදේශයෙනි.ප‍්‍රධාන නගරයේ වූ පෞද්ගලික ආයතනයක සේවිකාවක වූ ඇයගේ හැසිරීමේ අමුත්තක් ඇති බව මේ පියාට කීවේ බිරියය. තම දුරකතනයට එන විශේෂ ඇමතුමකට ඇය සැලකිල්ලක් දැක්වූ අතර වැඩි කාලයක්ද ගන්නා බව පියාටද පෙනුණි. තම සැකය සනාථ කරමින් කතාව අවසානයේ ඇය ජංගම දුරකතනයට හාද්දක්ද දුන්නාය.මේ සැකසහිත සිදුවීම ගැන විමසූ පියාට ඇය දුන්නේ අපූරු පිළිතුරකි.‘‘අක්කාගේ චූටි පුතා මගේ ෆෝන් එකට සෙන්ට් වගයක් හලලා. ඒකයි ඉඹල බැලූවෙ’’ කී ඇය තාත්තාටද එය ඉඹින්නට සැලැස්සුවාය. කාරණය ඇත්තය.ඒත් පසුගියදා කාර්යාලයේදී තම හිතවතා හමු වූ ඇය ”තාත්ත මගේ ලණුව ගිල්ලායි” කීවේ වටපිටාවේ වූ අයටත් ඇසෙන්නටලූ.</body>
+    <comments>
+        <comment>
+            <author>DP RANADEWA</author>
+            <date>2011-11-11 10:52:13</date>
+            <index>0</index>
+            <phrase>තාත්තා ලණුව ගිලලා නවතියි. දුව ලනුව බෙල්ලට දාගෙනම නවතීද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලක්ෂ</author>
+            <date>2011-11-14 15:44:25</date>
+            <index>1</index>
+            <phrase>ඒක එචිචර ගනන් ගන්න දෙයක් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2011-11-15 15:48:06</date>
+            <index>2</index>
+            <phrase>ඔහොම යං නංගී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙල්ලගෙ කොල්ලා</author>
+            <date>2011-11-15 21:35:35</date>
+            <index>3</index>
+            <phrase>අනේ මෙහෙමත් ගොන් කෙල්ලො</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Tikiri bandara</author>
+            <date>2011-11-16 17:21:18</date>
+            <index>4</index>
+            <phrase>මෙහෙමත් කෙල්ලො</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

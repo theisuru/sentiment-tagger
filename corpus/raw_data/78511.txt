@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>78511</articleId>
+    <title>අසුර සටනින් කඳ සුරිඳු දිනයි</title>
+    <author>සිතුම් චතුරංග  රොමේෂ් මධුසංඛ</author>
+    <date>2012 නොවැම්බර් මස 20 14:58:58</date>
+    <body>දීපවාලි උත්සවය බොහෝවිට අවසන් වනුයේ හින්දු බැතිමතුන් අතර පවත්නා විශ්වාසයක් මත පදනම් වූ සිද්ධියක් නාට්‍යානුසාරයෙන් රඟ දැක්වීමෙනි.
+හින්දු දෙවියකුගෙන් සිදුවෙතියි කියන අපල උපද්‍රවවලින් මිදීමට බැතිමත්හු කතරගම දෙවියන් හෙවත් මුරුගන් දෙවියනට පුදපූජා පැවැත්වීමෙනි.
+අපල ගෙනදෙන දෙවියන් පැරදවීමට කතරගම දෙවියෝ සමත්වෙති. හින්දු බැතිමත්හු එම සිද්ධිය අනුස්මරණය කරමින් කතරගම දෙවියන්ගේ පිළිරුව ඉමහත් භක්තියෙන් වීදි සංචාරය කරති.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-11-20 16:32:32</date>
+            <index>0</index>
+            <phrase>සියලුම රට වැසියන්ට, ජනාධිපතිතුමාට, රටවැසියන්ට , කතරගම දෙවි පිහිට ලැ‍බේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-11-20 17:08:40</date>
+            <index>1</index>
+            <phrase>අරෝ............අරා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතූ</author>
+            <date>2012-11-20 17:08:16</date>
+            <index>2</index>
+            <phrase>හරිම ලස්සන සංස්කෘතික මංගල්‍යයක් ...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-11-20 17:22:28</date>
+            <index>3</index>
+            <phrase>කඳ සුරිදුනි ඔබේ පිහිට ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-11-20 17:30:43</date>
+            <index>4</index>
+            <phrase>කතරගම දෙවිඳුට පින්සිදු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-11-21 10:46:43</date>
+            <index>5</index>
+            <phrase>සුබ දීපවාලී උළෙලක් වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

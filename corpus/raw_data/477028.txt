@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>477028</articleId>
+    <title>උදයංග වීරතුංග වෙනුවෙන් පෙත්සමක්</title>
+    <author>තිලිණි ද සිල්වා රංජන් කටුගම්පොළ</author>
+    <date>2016 නොවැම්බර් මස 07 15:35:56</date>
+    <body>මිග් යානා ගනුදෙනුවක දී වංචා කළැයි කියන සිද්ධියක් ගැන කොළඹ කොටුව මහේස්ත්‍රාත් අධිකරණය   ජාත්‍යන්තර වරෙන්තු නිකුත් කිරීමෙන්   මූලික අයිතිවාසිකම් කඩ වූ බව ප්‍රකාශ කරන ලෙසත් එම වරෙන්තුව යළි කැඳවන ලෙසත් ඉල්ලමින් රුසියාවේ හිටපු ශ්‍රී ලංකා තානාපති උදයංග වීරතුංග වෙනුවෙන් ඔහුගේ නැන්දනිය වන ලලිතා මාන්නප්පෙරුම ශ්‍රේෂ්ඨාධිකරණයේ පෙත්සමක් ගොනු කළාය.
+මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසයේ ප්‍රධාන පොලිස් පරීක්ෂක නිහාල් ෆ්‍රැන්සිස් සහ නීතිපති ඇතුළු පිරිසක් එම පෙත්සමේ වගඋත්තර කරුවෝ වෙති.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-11-07 10:43:18</date>
+            <index>0</index>
+            <phrase>මොහු මිනී මැරුමකටද සම්බන්ධ පුද්ගලයෙක් බවට මාධ්‍ය වාර්තා කර ඇති බැවින් ඒ ගැනද සොයා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-11-07 11:27:22</date>
+            <index>1</index>
+            <phrase>ඔච්චර පිරිසිදුනම්, රටට ඇවිල්ල පරීක්ෂණයට මුහුණ දෙන්න කෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-11-07 13:15:30</date>
+            <index>2</index>
+            <phrase>සම්පුර්ණයෙන් ම වැරදියි නේ. ලොකු ලොකු හොරකම් කරන්නත් අයිතියක් තිබිය යුතුයි. අනෙක, කවුද දන්නේ ජන. 8 ආණ්ඩු පෙරලියක් ඇතිවේවි කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-07 14:17:02</date>
+            <index>3</index>
+            <phrase>ජනතාවගේ මුදල් හොරකම් කරපු කම්බ හොරුන්ටත් ආත්ම ගෞරවයක් හා මුලික අයිතිවාසිකම් තියෙන බව පිළිගන්න එකම රට ‘සිරි ලංකාව‘. ලංකාවේ දිළිඳු බව කියන්නේ මුලික අයිතිවාසිකම් හා මිනිස් කමට ඇති පිළිගැනීම අහිමි තත්වයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2016-11-07 18:28:44</date>
+            <index>4</index>
+            <phrase>අපි බලමු වෙන්නේ මොකක්ද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-11-07 22:45:27</date>
+            <index>5</index>
+            <phrase>තවම බැරිවුණානේ මහාපරිමාණ වංචාකරුවන් අල්ලගන්න. තෝරු මෝරු පීන පීනා ඉන්න අතරේ හාල්මැස්සෝ නම් අහුවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

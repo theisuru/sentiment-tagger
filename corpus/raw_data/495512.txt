@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495512</articleId>
+    <title>ඡන්දය ඉල්ලා පොල් ගසති</title>
+    <author>බිමල් ශ්‍යාමන් ජයංසිංහ</author>
+    <date>2017 ජනවාරි මස 03 14:02:31</date>
+    <body>පළාත් පාලන ඡන්දය වහා පැවැත්වීමට රජයට හැකි වේවායි පතමින් ඒකාබද්ධ විපක්ෂයට හිතවත් කළුතර දිස්ත්‍රික්කයේ මන්ත්‍රීහු පිරිසක් බණ්ඩාරගම මිල්ලනිය විෂ්ණු දේවාලයේ අද(3) පොල්ගැසූහ.</body>
+    <comments>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2017-01-03 09:24:01</date>
+            <index>0</index>
+            <phrase>අනේ අපේ දේශපාලකයෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2017-01-03 09:39:27</date>
+            <index>1</index>
+            <phrase>රට හදන්න වෙන්න ඇති. අහෝ දෙවියනි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2017-01-03 09:46:25</date>
+            <index>2</index>
+            <phrase>රට කවදා දියුණුවේවිද මේ වගේ අය නිසා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2017-01-03 09:53:12</date>
+            <index>3</index>
+            <phrase>හොරාකන්න එන්න දඟලන දැඟලිල්ලක්? කොයිතරම් රටට ආදරය කරන මිනිස්සුද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත කැස්බෑව</author>
+            <date>2017-01-03 09:58:23</date>
+            <index>4</index>
+            <phrase>ශ්‍රී විෂ්ණු දෙවියෝම බලාගන්න ඕනෑ මේ ගැත්තෝ අපි වෙනුවෙන්ද, ඔවුන් වෙනුවෙන්ද මේ පොල් ගහන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූබි</author>
+            <date>2017-01-03 10:00:40</date>
+            <index>5</index>
+            <phrase>පිස්සුද මන්දා හැමදේටම පොල් ගහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජස්ටින්</author>
+            <date>2017-01-03 10:01:38</date>
+            <index>6</index>
+            <phrase>ආණ්ඩුව පෙරළනවා කියලනේ තියෙන්නේ. දැන් මොකටද පොල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙල්ටන්</author>
+            <date>2017-01-03 10:04:30</date>
+            <index>7</index>
+            <phrase>ඇත්තටම රටට ආදරේ නිසාද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-01-03 10:05:37</date>
+            <index>8</index>
+            <phrase>බලය නැතුව පිස්සු වැටිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොබින්සන් පෙරේරා</author>
+            <date>2017-01-03 10:04:27</date>
+            <index>9</index>
+            <phrase>දෙවියන්ට ආචාර කරන විදිහටයි පෙනෙන්නේ. මේ නම් ඡන්ද අපේක්ෂකයෝම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2017-01-03 10:13:16</date>
+            <index>10</index>
+            <phrase>මේ වගේ බල වියරුවක් වෙන කිසි රටක නැතුව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2017-01-03 10:15:57</date>
+            <index>11</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2017-01-03 10:19:50</date>
+            <index>12</index>
+            <phrase>ශ්‍රීමත් අනගාරික ධර්මපාලතුමා වැනි උතුමෝ රටට සේවය කළේ ඡන්ද වලින් දිනලද? ඡන්ද වලට ඉදිරිපත් වෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන සෞදි</author>
+            <date>2017-01-03 10:25:51</date>
+            <index>13</index>
+            <phrase>මෙච්චර මේ පොල් ගණන් කාලේ ජනතාවට කන්න තියන පොල් ටික දේවාල ගානේ ගහලා විනාශ කරන හැටි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-01-03 10:50:33</date>
+            <index>14</index>
+            <phrase>මේ මෝඩ රාලගේ ඔලුවේ තමා මේ පොල් ගහන්න ඕනා, අන්ධ භක්තික සෙනගක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි ජයවර්ධන</author>
+            <date>2017-01-03 10:54:32</date>
+            <index>15</index>
+            <phrase>මහින්දගේ කාලේ හොරාකාපු අය ආයෙත් ඒ ආසාවමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2017-01-03 11:13:58</date>
+            <index>16</index>
+            <phrase>මොන අරමුණකින් ගැහුවත් මේ පොල් ගහන්නේ මෛත්‍රියෙන් නෙමෙයි නේ , එතකොට මේ ද්වේශය නිසාම එයින් පිටවන චිත්ත කිරණ වලින් මුළු පරිසරයම දුෂණය වෙන එක , හැම දෙයම හේතු පල දහමට යටත් නිසා පලයක් හැටියට ස්වභාවික විපත් හැටියට අපටම කැරකිලා එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2017-01-03 11:42:49</date>
+            <index>17</index>
+            <phrase>අනේ අපොයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උමේෂ්</author>
+            <date>2017-01-03 11:46:36</date>
+            <index>18</index>
+            <phrase>මේ මිනිස්සුන්ට වෙන වැඩක් ඇත්තෙම නැද්ද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2017-01-03 11:49:06</date>
+            <index>19</index>
+            <phrase>අනේ මෙහෙමත් වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතුම්</author>
+            <date>2017-01-03 11:52:35</date>
+            <index>20</index>
+            <phrase>දැන් පොල් ගහපුවම ඡන්දය තියෙන දවස හරිද,?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිරි</author>
+            <date>2017-01-03 11:55:58</date>
+            <index>21</index>
+            <phrase>රට කන්න දඟලන දැඟලිල්ලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහරුෆ්</author>
+            <date>2017-01-03 12:02:30</date>
+            <index>22</index>
+            <phrase>පොල් ගෙඩිය ගහන්න ඕනේ මේ අයගේ ඔලුවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2017-01-03 12:12:40</date>
+            <index>23</index>
+            <phrase>පොල් ගැසීම එයාලා කලත්, කැපුවො දැන් මොනවද දෙවියන්ට කියා සිටින්නේ? ඇත්තටම මේක පොල් ගැසීමට වඩා, පණිවිඩය මාධ්‍යට දාගන්න කරන රඟ පෑමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2017-01-03 12:38:37</date>
+            <index>24</index>
+            <phrase>මේ පිරිස රටට තියෙන ආදරේ තරම නේ ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුලා</author>
+            <date>2017-01-03 12:47:58</date>
+            <index>25</index>
+            <phrase>බලමුකෝ මොකද වෙන්නේ කියලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රිනාත්</author>
+            <date>2017-01-03 12:58:22</date>
+            <index>26</index>
+            <phrase>වැඩක් වෙන්නේ නෑ පොල් ගැහුවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2017-01-03 12:58:24</date>
+            <index>27</index>
+            <phrase>දෙවියොම බලත්වා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එෂාන්</author>
+            <date>2017-01-03 13:04:06</date>
+            <index>28</index>
+            <phrase>බොරු වැඩ කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික</author>
+            <date>2017-01-03 13:27:30</date>
+            <index>29</index>
+            <phrase>මේ වගේ මෝඩ මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2017-01-03 13:53:43</date>
+            <index>30</index>
+            <phrase>වැඩක් නැති මිනිස්සුන්ට හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2017-01-03 14:09:27</date>
+            <index>31</index>
+            <phrase>මේ වගේ මිනිස්සු එක්ක කොහොමද රට දියුණු කරන්නේ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල් නිරෝෂ්</author>
+            <date>2017-01-03 14:13:28</date>
+            <index>32</index>
+            <phrase>ඡන්ද වලට වඩා හොඳ නැද්ද හාල් මිලට පොල් ගැහුවා නම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-03 14:54:00</date>
+            <index>33</index>
+            <phrase>මේ වගේ අයද ඡන්දෙ ඉල්ලන්නේ? ඔය පොල් දුප්පත් මිනිසුන්ට කන්න දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේශ්</author>
+            <date>2017-01-03 15:28:21</date>
+            <index>34</index>
+            <phrase>බලමු මෙයාලගේ පැතුම් සඵලවෙයිද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2017-01-03 16:02:06</date>
+            <index>35</index>
+            <phrase>ඡන්දෙ ඉල්ලගෙන ගම්වලට එන මේ අයට බූවල්ලට පහරලා තලන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2017-01-03 16:19:55</date>
+            <index>36</index>
+            <phrase>අනේ විෂ්ණු දෙවියනේ, පොල් ගෙඩියක් රු 65ක් 70ක් විතර වෙනවා. අනේ අපිට කන්න තියෙන පොල් ටික මේ විදියට ගහලා ඉවර කළාම පොල් ගෙඩියත් රු 100ක් විතර වේවි. අනේ ඔබ වහන්සේ අසරණ අපි දිහා බලලා අපිට පිහිටක් වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2017-01-03 17:07:17</date>
+            <index>37</index>
+            <phrase>මේ ඉන්න අය දිහා හොඳින් බලන්න. මෙතන ඉන්න එක් කෙනෙක්ගෙවත් හිතකවත් නැහැ රටට සේවය කරන්න. මේ ඔක්කොම බොරුකාරයෝ. අනේ මට ගස් ටිකක් කපාගන්න, අනේ මට ගඟේ වැලි ටිකක් ගොඩදාගෙන විකුණගන්න, අනේ මට පෙට්‍රල් ෂෙඩ් දෙක තුනක් දාගන්න, අනේ මගේ කසිප්පු බිස්නස් එක කරදරයක් නැතුව කරගන්න..ඔන්න ඔය වගේ ප්‍රාර්ථනා තමා මේ අයගේ හිතේ තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2017-01-03 17:27:25</date>
+            <index>38</index>
+            <phrase>එතකොට සුද්දෝ ගහන්නේ ඇපල්ද? දන්නේ නැති නිසයි අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙක්ස්</author>
+            <date>2017-01-03 17:29:24</date>
+            <index>39</index>
+            <phrase>අනේ ඔයින් පොල් ගෙඩියක් මගේ ඔලුවටත් ගහනවද, යහපාලනයට ඡන්දෙ දුන්නට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2017-01-03 17:29:28</date>
+            <index>40</index>
+            <phrase>ජනතාවට තියෙන ආදරයනේ මේ සේවය කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2017-01-03 18:20:01</date>
+            <index>41</index>
+            <phrase>රටට වැඩක් කරන්නද ඔය පොල් ගහන්නේ. බලන්න එපායැ ඡන්දෙ දිනුවට පස්සේ මොවුන්ට මිනිස්සු පේන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2017-01-03 18:20:48</date>
+            <index>42</index>
+            <phrase>මේවා ඉන්දියාවෙන් බෝවුණ රෝග. ඉන්දියාව කියන්නේ ලෝකයේම තියන දිළිඳු රට. ඉන්දියාවෙන් ආ දෙවිවරු බලවත් නම් ඇයි මෙහෙම වෙලා තියෙන්නේ. පිස්සු වැඩ කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2017-01-03 19:11:30</date>
+            <index>43</index>
+            <phrase>මෙන්න නියම ජනතා නියෝජිතයෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2017-01-03 19:26:29</date>
+            <index>44</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-03 20:23:11</date>
+            <index>45</index>
+            <phrase>මේගොල්ලන්ට තියන ජනතා ප්‍රසාදය මේ පුවතට දාලා තියන අදහස් වලින්ම ඔප්පු වෙනවා. 100% ක් ම මේ ක්‍රියාව හෙළාදැකලා තමයි අදහස් පළකරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් රාජපක්ෂ</author>
+            <date>2017-01-03 20:45:12</date>
+            <index>46</index>
+            <phrase>අනේ මෙහෙම මිනිස්සු! ජනතාවට මොනතරම් ප්‍රශ්න තියනවද? මොවුන් ඒ වෙනුවෙන් එක පොල්ගෙඩියක් ගහනවද? තමන්ගේ වාසියට තමා මේ හැමෝම වැඩකරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2017-01-03 20:49:35</date>
+            <index>47</index>
+            <phrase>තාම ගල් යුගයේ ඉන්න මිනිස්සු... දෙයියෝ, භූතයෝ කියන සංකල්ප මත ජීවත්වීම නිසා දේශපාලකයන්ටත් හරිම පහසුයි මේ වගේ රැලක් පාලනය කරන එක...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2017-01-03 21:24:29</date>
+            <index>48</index>
+            <phrase>මෙය බලන හැමෝගෙන්ම කරන ආදරණීය ඉල්ලිමක් නම් මෙතන ඉන්න එකම එක හොරෙකුටවත් ඡන්දය දී ඒ උතුම් තැනට යන්න දෙන්න නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2017-01-03 21:33:34</date>
+            <index>49</index>
+            <phrase>තිස්තුන් කෝටියක් දෙවිවරු වැඩ ඉන්නවලු. එ්ත් හැටහතර කෝටියක් ලෙඩරෝග, අපරාධ. මෙහෙමත් මෝඩ ජාතියක් කවදා දියුණුවෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකී</author>
+            <date>2017-01-03 21:56:29</date>
+            <index>50</index>
+            <phrase>කලින් ගහපු පොල් වලට ප්‍රතිඵල තියනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙහාරා</author>
+            <date>2017-01-03 22:20:40</date>
+            <index>51</index>
+            <phrase>හොරා කන්න කාලයකින් බැරිවුණ නිසා අතමිට හොදටම හිඟ ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජසිංහ</author>
+            <date>2017-01-03 22:44:00</date>
+            <index>52</index>
+            <phrase>කට්ටියක් පොල් ගැහුවා හිලරි ක්ලින්ටන් දිනවන්න. ඔය දිනුවේ උඩින්ම. මීටවඩා නරකද මේ හැමෝම රටට ප්‍රයෝජනවත් වැඩකට යෙදෙව්වා නම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2017-01-03 23:24:50</date>
+            <index>53</index>
+            <phrase>පොල් ගෙඩියටත් කරන නින්දාවක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමණි</author>
+            <date>2017-01-03 23:27:13</date>
+            <index>54</index>
+            <phrase>මේ වගේ බුද්ධිමත් මිනිස්සු නායකයන් වෙන රටකට වරදින්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-01-04 00:26:33</date>
+            <index>55</index>
+            <phrase>කරන්නම වැඩක් නැත්නම් ගෙදර ගිහින් දරුවන්ටවත් හොඳ අධ්‍යාපනයක් දෙන්නකෝ. අඩුම තරමේ ඔවුන්වත් මේ මෝඩකම් වලින් බේරෙයිනේ එතකොට. නුඹලාත් ඉන්දියන්කාරයෝ වගේ. මේ උතුම් බෞද්ධ රටේ, ඔච්චරම පොල් ගහල මේ මිනිසුන්ට ලෝකේ දේවල් වෙනස් කරන්න පුළුවන් නම් උපන් දා ඉඳලා පොල් කන අපිට අහසින් යන්නත් පුළුවන් වෙයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2017-01-04 00:28:42</date>
+            <index>56</index>
+            <phrase>මේ පොල් ඔවුන්ගේම ඔලුවේ ගැහුවා නම් හරි ටිකක් මොළේ පෑදෙන්න. මොවුන්ට කවුරුවත් ඡන්දෙ නම් දෙන්න එපා. මේ රට තවත් අාගධයටම යවයි. සමහරු තිරුපති යනවා, සමහරු මැජික් බෝල කරකවනවා. අනේ රටකට හරිහමන් නායකයින් නැති අවාසනාව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-01-04 00:30:38</date>
+            <index>57</index>
+            <phrase>මේ පොල් උස්සගෙන ඉන්න අය පෙනෙනකොට මට එන්නේ ලොකු තරහක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2017-01-04 01:23:23</date>
+            <index>58</index>
+            <phrase>ප්‍රාදේශීය සබා නැතිවීම හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2017-01-04 01:41:41</date>
+            <index>59</index>
+            <phrase>අපි අයිතිවාසිකම් ඉල්ලන්න කලින් අපෙන් රටට වියයුතු යුතුකම් ඉටුවෙලාද? හැමෝම තමුන්ගේ හෘද සාක්ෂියෙන් අහලා බැලුවොත් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-04 02:31:59</date>
+            <index>60</index>
+            <phrase>දවසින් සවස කල්යන මැතිවරණයක් පවත්වන්න කියලා දෙවියන්ට කරන කන්නලව්වක් දැකලා මේක ඉන්න සමහරු ආතුරයෝ වෙලානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්සාන්</author>
+            <date>2017-01-04 03:00:24</date>
+            <index>61</index>
+            <phrase>මේකේ ඉන්න අයගේ සැබෑ තත්වය දෙවියන්ට තේරෙන නිසා පොල්ගහලා දින හතක් යනකොට මේ වගේ මෝඩ වැඩ නොකරන්න දඬුවමක් ලබා දේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2017-01-04 03:16:14</date>
+            <index>62</index>
+            <phrase>දැක්කනේ එක්කෙනෙක් අවුරුදු දෙකකට කලින් දෙවියන්ගෙන් අහලා ඡන්දෙ දිනුවා. මහදැන මුත්තයි ගෝලයෝ ටිකයි වගේ. පැරදිලාවත් ලැජ්ජාව කියලා දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමසි</author>
+            <date>2017-01-04 14:00:03</date>
+            <index>63</index>
+            <phrase>වාසනාවට මේගොල්ලෝ තණකොළ නොකන එකමයි හොඳ, නැත්නම් හරක් බඩගින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රෙද්ව</author>
+            <date>2017-01-05 18:24:17</date>
+            <index>64</index>
+            <phrase>අනේ හැබෑට මෙහෙමත් විකාර!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>76476</articleId>
+    <title>පොලිසිය හරකුන්ට පණ දෙයි</title>
+    <author>වැලිගොඩගේ දීපාල්</author>
+    <date>2012 නොවැම්බර් මස 11 21:29:24</date>
+    <body>කකුල් බැඳ හරකුන් 11 දෙනකු පුංචි ලොරියක අඩුක්කැර අලූත්ගමට රැුගෙන එමින් සිටියදී බලපිටියේ හීනටියනදී සොයාගත් අම්බලන්ගොඩ පොලිසිය ඒ සතුන් මරණින් මුදා ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>අමරසිංහ</author>
+            <date>2012-11-12 09:33:44</date>
+            <index>0</index>
+            <phrase>නියම වැඩක් සංවිධානය කරපු අයට ස්තූතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-11-12 12:20:26</date>
+            <index>1</index>
+            <phrase>ගොඩක් පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමන්ත</author>
+            <date>2012-11-13 00:14:14</date>
+            <index>2</index>
+            <phrase>ගොඩක් පින් වැඩක්. සහභාගි වූ සියල්ලන්ටම තුති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-11-13 11:21:55</date>
+            <index>3</index>
+            <phrase>බුදුන් තුන්වරක් වැඩි සිරි ලංකාදිපය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-12-21 03:48:00</date>
+            <index>4</index>
+            <phrase>ගොඩාක් පින් සිද්ද වෙන වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

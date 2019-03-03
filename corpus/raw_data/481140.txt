@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>481140</articleId>
+    <title>කළු පටිකාරියට බයේ හොරු දුවති</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ වීඩියෝ සංස්කරණය සනත් ඩෙස්මන්</author>
+    <date>2016 නොවැම්බර් මස 17 14:22:35</date>
+    <body>බණ්ඩාරගම මැදගම සුපිරි වෙළඳසලකට ගිනි අවි දෙකක් සමග ඇතුළු වූ පිරිසක් එහි සිටි සේවකයන් හා පාරිභෝගිකයන් පස් දෙනකු දණ ගස්වා රුපියල් 27000ක් කොල්ල කා පැනගොස් ඇතැයි පොලිසිය කියයි.
+එහි සිටි සේවිකාවකගේ රන් මාලය කොල්ලකෑමට සැරසෙන විට ඇය එක් සැකකරුවකුට පහරදී ඇති අතර එවිට අහසට වෙඩි තබමින් කොල්ලකරුවෝ පැන ගොස් ඇති අතර තවත් සේවකයකු එක් සැකකරුවකු අල්ලාගෙන ඇති බවත් ඔහු අත රැඳි ගිනි අවියෙන් සේවකයාට පහරදී ඔහුගෙන් මිදී පළාගිය බවත් පොලිසියට ලැබී ඇති පැමිණිල්ලේ සඳහන් වේ.
+ඇය කරාටි ක්‍රීඩාවෙන් සම්මාන ලැබූ කතන බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ජස්ටින්</author>
+            <date>2016-11-17 11:43:33</date>
+            <index>0</index>
+            <phrase>ඒ ළමයාගේ මුහුණ මාධ්‍ය මගින් පෙන්වන එක එතරම් නුවණට හුරු නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්</author>
+            <date>2016-11-18 02:25:26</date>
+            <index>1</index>
+            <phrase>මදැයි. රුපියල් 27000 කට 54000 ක ගුටිකාලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2016-11-18 03:05:04</date>
+            <index>2</index>
+            <phrase>ඇගේ වීරත්වය අප අගය කළයුතුයි. එහෙත් ඇය පහර දුන්නත් නැතත් මුදල් කොල්ලකා ගත් පසු හොරා පැනලා යනවාමයි. හැබැයි කාන්තාවගෙන් ගුටි කෑ හොරා එක පැත්තකින් බැලුවහම මානුෂිකයි. ඒකයි ඔහු ඇයට වෙඩි නොතබා අහසට වෙඩි තියලා විතරක් පැනලා ගියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2016-11-18 05:35:48</date>
+            <index>3</index>
+            <phrase>නියමයි. අන්න එහෙම තමයි ඉන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-11-18 05:39:20</date>
+            <index>4</index>
+            <phrase>කළු පටි කාරයෝ පුටු උසල ගහන්නේ නේ මමත් කළු පටි තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පත්මබන්දු</author>
+            <date>2016-11-18 05:50:37</date>
+            <index>5</index>
+            <phrase>හොරා වුනත් ගෑනුන්ට නොගහන හොරෙක් වගේ. නැත්නම් ඉතින් වන් ෂොට් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-11-18 06:07:07</date>
+            <index>6</index>
+            <phrase>ඒ ගැහැණු දරුවා මේ හොරාට පින්දෙන්න ඕනෑ. ගැහැණු දරුවෙකුගේ දඟ වැඩ දිහා උපහාසාත්මකව බලලා යන්න ගිය නිසා. ඔලුවට වෙඩි නොතියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

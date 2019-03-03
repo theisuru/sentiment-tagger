@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>909</articleId>
+    <title>ශිෂ්‍යත්ව විභාගය</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 අගෝස්තු මස 21 11:36:23</date>
+    <body>ජනප‍්‍රිය පාසලකට ඇතුළුවීමේ කඩඉම පසු කිරීමට වසරක් පාසා ලක්ෂ තුනක් පමණ සිසුහු මේ විභාගයට පෙනී සිටිතියි.</body>
+    <comments>
+        <comment>
+            <author>දිල්හානි</author>
+            <date>2014-09-28 12:00:07</date>
+            <index>0</index>
+            <phrase>සැමට තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනුෂ්ක</author>
+            <date>2014-09-28 12:00:08</date>
+            <index>1</index>
+            <phrase>සියලු දෙනාටම සුභපතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

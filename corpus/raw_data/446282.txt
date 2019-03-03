@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446282</articleId>
+    <title>අලුත උපන් දරුවෝ 11ක් ගින්නට බිලි</title>
+    <author>අරුණ ශාන්ත කුමාර  සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 අගෝස්තු මස 10 17:05:01</date>
+    <body>ඉරාකයේ බැග්ඩෑඩ් නුවර රෝහලක අද ඇති වූ ගින්නකින් නොමේරූ ඒකකයේ ප්‍රතිකාර ලබමින් සිටි  බිළිඳුන් 11 දෙනකු මියගොස් ඇතැයි එරට සෞඛ්‍ය අමාත්‍යංශය කියයි. විදුලි කාන්දුවකින් මෙම ගින්න   හට ගෙන ඇති බවත් ගින්නට මැදි වී හුස්ම ගැනීමට අපහසු තත්ත්වයේ සිටි තවත් බිළිඳුන් හත් දෙනකු සහ මවුවරුන් 29 දෙනකු වෙනත් රෝහලකට මාරු කර යවා ඇතැයි ද එරට රජය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>දම්මි</author>
+            <date>2016-08-10 13:32:53</date>
+            <index>0</index>
+            <phrase>දෙවියන්වහන්සේගේ කැමැත්ත අපි මොනවා කරන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-08-11 05:09:12</date>
+            <index>1</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-11 05:03:51</date>
+            <index>2</index>
+            <phrase>ඉරාකය අවුල්කළ සියල්ලන්ටම ශාපවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂ</author>
+            <date>2016-08-13 04:21:46</date>
+            <index>3</index>
+            <phrase>අයියෝ! මේ වගේ දේවල් අැයි අපිට අහන්න වෙන්නේ? අහිංසක ළමයි පව්! මෙවන් විපතක් යළි සිදු නොවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

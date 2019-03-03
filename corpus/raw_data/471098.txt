@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>471098</articleId>
+    <title>ඉන්දීය විදෙස් ලේකම් ලංකාවේ</title>
+    <author>ටීකේජි කපිල</author>
+    <date>2016 ඔක්තෝබර් මස 22 17:07:15</date>
+    <body>ඉන්දීය විදේශ ලේකම් එස්. ජයශංකර් නිළ සංචාරයක් සඳහා අද(22) දිවයිනට පැමිණෙයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-22 14:51:16</date>
+            <index>0</index>
+            <phrase>වැපිරූ බීජ පැලවෙනවාදැයි බලන්න එන්න හිතෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2016-10-22 17:00:45</date>
+            <index>1</index>
+            <phrase>ධම්ම, ඔයාගේ කතාව මමත් අනුමත කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුක</author>
+            <date>2016-10-23 03:19:23</date>
+            <index>2</index>
+            <phrase>අපේ විදේශ ඇමැතිකමත් එයාටම දුන්නානම් හරි. අපේ අය වැඩ කරන්නේ මෙයාලා කියන විදිහටනේ. ඉතින් අපිට මොකටද වෙනම ඇමතිකෙනෙක්. ඒ සල්ලි ටිකවත් ඉතුරු කරගම්මු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-23 05:18:24</date>
+            <index>3</index>
+            <phrase>අපේ මුතුන් මිත්තෝ අපිව බලන්න එනකොට තියන සතුට කියලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2016-10-23 10:00:38</date>
+            <index>4</index>
+            <phrase>විදේශ ඇමතිකම විතරක් නොවෙයි ඔක්කොම දෙමු. අපේ අයටත් ඉතින් ඉන්දියාවේ උපදෙස් නැතුව බැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

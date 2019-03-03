@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449743</articleId>
+    <title>වාහනයක් දුම්රිය එන්ජිමේ ගැටේ</title>
+    <author>එච්චන්දන</author>
+    <date>2016 අගෝස්තු මස 22 06:22:27</date>
+    <body>පුත්තලම පාලවියේ රේල් ගේට්ටුව වසා තිබියදී දුම්රිය හරස් මාර්ගයට ඇතුල් වු බව කියන කාරයක් දුම්රිය එන්ජිමක වැදීමෙන් එහි සිටි අයකු මියගොස් තවත් අයෙක් තුවාල ලබා ඇතැයි පොලිසිය කියයි .
+
+ </body>
+    <comments>
+        <comment>
+            <author>විමල්</author>
+            <date>2016-08-22 01:47:59</date>
+            <index>0</index>
+            <phrase>සංයමය නැති අයට ගේට්ටු පොලු නොව තාප්ප තිබුනත් වැඩක් නැහැ. බොහොම කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2016-08-22 03:16:37</date>
+            <index>1</index>
+            <phrase>මේ ඉතාමත් කණගාටුදායක සිද්ධියක්. නොහික්මීම හා නොසැළකිලිමත්කමයි හේතුව. නැතුව ගේට්ටුවක් තිබීම හො නොතිබීම නොවෙයි. රේල්පාරක් හරහා යාමට පෙර තම වාහනය මඳක් නතරකොට දෙපැත්ත හොඳින් බලා ඇතුළු කිරීමට වගබලා ගන්නේ නම් මෙවන් අනතුරු කිසිදවසක සිදුනොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වි. ජයපාල</author>
+            <date>2016-08-22 04:21:58</date>
+            <index>2</index>
+            <phrase>සමහරු හිතාගෙන ඉන්නවා තමන්ගේ ලොකුකමට කෝච්චියක් වුණත් නවත්තන්න පුළුවන් කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2016-08-22 04:22:01</date>
+            <index>3</index>
+            <phrase>මේ රටේ බහුතරයක් නොහික්මුණු විනයක් නැති අය. මෙවැනි අනතුරු වලට රක්ෂණ වන්දිවත් නොදිය යුතුබවයි මගේ මතය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2016-08-22 04:47:02</date>
+            <index>4</index>
+            <phrase>ජීවිතයක් නැති වුනාට පසු මොන රක්ෂණ වන්දිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-08-22 04:49:43</date>
+            <index>5</index>
+            <phrase>මේවා හොද පාඩම් කාට කාටත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-08-22 05:17:01</date>
+            <index>6</index>
+            <phrase>අපේ රටේ මිනිස්සු නීති ගරුක ..නීතිය වල වැදිලා.. රටේ සියලු ප්‍රශ්න වලට මේක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-22 05:36:22</date>
+            <index>7</index>
+            <phrase>මේ කාරය අනූනමයෙන් බේරී මෙතනින් යන්න පුළුවන් වුණා නම් අහන්න තිබුනා රියදුරාගේ පණ්ඩිත උජාරු කතා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-22 05:45:49</date>
+            <index>8</index>
+            <phrase>මෙතරම්ම මෝඩ රියදුරූ ලංකවේ සිටීද? මේක සියදිවි හානිකර ගැනීමක්ද විය හැකි යැයි සිතේ. වහාම පරීක්ෂණයක් කළහොත් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදුර</author>
+            <date>2016-08-22 06:24:21</date>
+            <index>9</index>
+            <phrase>ඔතන නිසි ආරක්ෂක ගේට්ටු තියනවා. එමෙන්ම දිනපතා දුම්රිය හතරක් හෝ පහක් පමණයි ඔය මාර්ගයේ ගමන් කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ</author>
+            <date>2016-08-23 08:25:46</date>
+            <index>10</index>
+            <phrase>ආපරික්ෂාකාරි රිය ධාවනය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරාජ</author>
+            <date>2016-08-23 08:25:46</date>
+            <index>11</index>
+            <phrase>හැම අනතුරකටම මුල අපරික්ෂාකාරී රිය ධාවනයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

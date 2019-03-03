@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30451</articleId>
+    <title>සෙබළ ඇඳුම් කිරිබත් ගොඩින්</title>
+    <author>විජිත කුමාරසිරි</author>
+    <date>2012 මාර්තු මස 09 09:10:21</date>
+    <body>සිවිල් ආරක්ෂක සෙබළු අඳින නිල ඇඳුමට සමාන ඇඳුම් තොගයක් කිරිබත්ගොඩ වෙළඳ සැළක තිබී සොයා ගත් බව පොලීසිය කියයි</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-03-09 10:30:02</date>
+            <index>0</index>
+            <phrase>මේවගේ දේවල්වලට හොද දඩුවම් දෙන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

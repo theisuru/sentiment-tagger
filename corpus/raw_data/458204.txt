@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458204</articleId>
+    <title>‘හැම වෘත්තියක්ම එක සමානයි‘</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 සැප්තැම්බර් මස 15 14:23:01</date>
+    <body>වෘත්තීය ගැටලු විසඳීමට, වෘත්තීය අයිතිවාසිකම් ලබාදීමට හා බදු ගෙවන ජනතාවට උපරිම සේවාවක් නොකඩවා සැලසීමට රජය ප්‍රමුඛත්වය දෙන බව අගමැති රනිල් වික්‍රමසිංහ මහතා සිය ෆේස්බුක් පිටුවේ පණිවිඩියක් සටහන් කරමින් පවසයි.
+කිසිදු පුද්ගලයකු අනෙක් පුද්ගලයන්ට වඩා වරප්‍රසාද ලබන්නකු නොවනවා සේම කිසිදු වෘත්තියක් අනෙක් වෘත්තිවලට වඩා විශේෂ වරප්‍රසාද ලබන වෘත්තියක් ලෙස අප හ﻿ඳුනාගන්නේ නැතැයි ද අගමැති සිය පණිවිඩියේ සටහන් කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>නිල්මිණි-ජපානය</author>
+            <date>2016-09-15 09:06:31</date>
+            <index>0</index>
+            <phrase>එතුමාගේ අදහසට හිස නමා ගරුකරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-15 09:15:45</date>
+            <index>1</index>
+            <phrase>මැති ඇමැතිකම් සේවාවක් විතරයිනේ. රැකියාවක් නෙවෙයිනේ ඒ නිසා වෙන්න ඇති විශේෂ වරදාන හා වරප්‍රසාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම්</author>
+            <date>2016-09-15 09:13:12</date>
+            <index>2</index>
+            <phrase>අනිවාර්යෙන්ම සර්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-09-15 09:22:35</date>
+            <index>3</index>
+            <phrase>100% එකඟ වෙමි, ගරු අගමැති තුමනී මෙරට ආර්ථිකය දියුණු කිරීමට ඔබට හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-09-15 09:31:05</date>
+            <index>4</index>
+            <phrase>ෂා, කොහොමද ටිකිරි මොලේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2016-09-15 09:24:34</date>
+            <index>5</index>
+            <phrase>අගමැතිතුමනි, මෙය ඉතාමත්ම දුෂ්කර අභියෝගයක්. ඇයි කිව්වොත් මේ සඳහා ඔබතුමාගේ පටන්ම ආකල්පමය පරිණාමයක් ඇතිකළ යුතුයි. බුද්ධිමත් ජනතාවක් බිහිකිරීම සඳහා ඔබතුමා ගන්නා උත්සාහයට අපේ සුභ පැතුම් සහ ආශිර්වාදය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහලේ</author>
+            <date>2016-09-15 09:28:20</date>
+            <index>6</index>
+            <phrase>වැදගත් ප්‍රකාශයක්. සමහරු තාම හිතාගෙන ඉන්නේ මේක වැඩවසම් යුගය කියලා. ඔවුන් හිතන්නේ සාමාන්‍ය මිනිසුන් ඔවුන්ට වැදුම් පිදුම් කළයුතු බවයි. අනෙකුත් අයට නැති වරප්‍රසාද ලැබිය යුතුයි කියලයි. විශේෂයෙන්ම වෛද්‍යවරු හිතාගෙන ඉන්නේ ඔවුන් වඩා උතුම් සුවිශේෂී කොට්ඨාශයක් කියලා. ලෝකේ කොච්චර දියුණු වුණත් ඔවුන්ගේ මනස තවමත් ගල්යුගයේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2016-09-15 09:28:23</date>
+            <index>7</index>
+            <phrase>ඔබතුමාගේ එම අදහස ඉතාමත් අගය කරනවා. අප රටේ එය ක්‍රියාත්මක කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෑම්</author>
+            <date>2016-09-15 09:32:04</date>
+            <index>8</index>
+            <phrase>අර ඒකාබද්ධයේ අය මේකට මොනවා කියයිද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි-ජපානය</author>
+            <date>2016-09-15 09:45:21</date>
+            <index>9</index>
+            <phrase>අගමැතිතුමාගේ පණිවුඩයට හිසනමා අාචාර කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-09-15 09:49:13</date>
+            <index>10</index>
+            <phrase>මේ දේ ගැලපෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-09-15 09:50:47</date>
+            <index>11</index>
+            <phrase>100% එකඟ වෙමි, මෙවැනි තීරණ ගැනීම ගැන සතුටුයි, ඔබ තුමාට ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප</author>
+            <date>2016-09-15 09:57:18</date>
+            <index>12</index>
+            <phrase>දේශපාලනිකව මම ඔබ හා එකඟ නොවුවත්, මෙම කරුණ ඉදිරිපත් කිරීමට ඔබ තුල තිබු ශක්තිය ඉතා අගය කොට සලකමි. මම ද වෘත්තීය බමුණු කුලයකට අයත්ව දියුණු වූ රටක සේවය කරමි. එබැවින්ම ඔබ සඳහන් කරන කරුණෙහි ඇති සත්‍යතාව හොඳින් දනිමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-09-15 10:13:15</date>
+            <index>13</index>
+            <phrase>දොස්තරලට එහෙම කිවුව එක හොඳයි. ඔය වගේම දේශපාලකයන්ටත් කියන්නකෝ මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2016-09-15 10:18:24</date>
+            <index>14</index>
+            <phrase>ලංකාවේ මිනිසුන්ට මේ මානසිකත්වය ඇතිකරන්න පුලුවන්නම් රට වේගයෙන් ඉදිරියට යයි. ඉතා හොඳ අදහසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත්</author>
+            <date>2016-09-15 10:13:13</date>
+            <index>15</index>
+            <phrase>අනේ! මොනවට ඒ ගැන කියනවද මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-09-15 10:23:23</date>
+            <index>16</index>
+            <phrase>එසේම ඇතුළත හා පිටත ඉන්න හැමෝම සමානයි, වංචා දූෂණ අතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රණසිංහ</author>
+            <date>2016-09-15 10:35:02</date>
+            <index>17</index>
+            <phrase>නිදහස, එකමුතුකම ,සමානාත්මතාවය, ජනරජයේ තේමාව විය යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුරා</author>
+            <date>2016-09-15 10:36:40</date>
+            <index>18</index>
+            <phrase>ඒ ඒ අයගේ උවමනා එපාකම් කරන්න ගියොත් හොදට හිටී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-09-15 10:59:48</date>
+            <index>19</index>
+            <phrase>හොදයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-09-15 11:09:33</date>
+            <index>20</index>
+            <phrase>අනිවාර්යයෙන්ම ඔබතුමා හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-09-15 11:16:46</date>
+            <index>21</index>
+            <phrase>කිසිසේත් කොටසකට පමණක් වරප්‍රසාද දෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-09-15 11:30:08</date>
+            <index>22</index>
+            <phrase>කියලා වැඩක් නැහැ, කරලාම පෙන්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-15 11:53:07</date>
+            <index>23</index>
+            <phrase>ඔය කිව්වට අමතිලට මන්ත්‍රීලාට රටේ වෙන කිසිදු සේවයකට නැති වරප්‍රසදනේ තියෙන්නේ. එයාල අනිත් හැමෝටම වැඩිය සුවිශේෂ වරප්‍රසාද විදිනවනේ -</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ පෙරේරා</author>
+            <date>2016-09-15 11:58:45</date>
+            <index>24</index>
+            <phrase>දියුණු රටවල් එහෙම තමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-09-15 13:33:43</date>
+            <index>25</index>
+            <phrase>නියමයි 100% එකයි . අවුරුදු 30 කට පස්සේ දේශපාලකයෙක් කොන්ද කෙලින් ගත්ත තීරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-09-15 14:30:12</date>
+            <index>26</index>
+            <phrase>අන්න එහෙම තමයි වෙන්න ඕන සර්, දොස්තරල දැන්වත් තේරුම් ගත්තොත් හොඳයි පණිවිඩය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගගන</author>
+            <date>2016-09-15 15:17:57</date>
+            <index>27</index>
+            <phrase>අනිවාර්යයෙන්ම. දොස්තරලට සමාජයේ හම්බවෙලා තියෙන වරප්‍රසාද අනිත් විෂයයන් වල ඉන්න උගතුන්ට නැහැ. මේ විෂය අනිත් විෂයයන්ට වඩා වැදගත් කියලා ඔලුවේ තියෙන පුහු ආටෝපතික මාන්නය නිසා තමා ඔය ඉල්ලීම් ඉල්ලන්නේ. අනේ කරුණාකරලා, පාසල් වලට බදවාගැනීමේ නීති පද්දතියට යටත්ව, ඉන්න ස්ථානයේ සිට පාසලට තියෙන දුර අනුව, අනිත් මිනිසුන් අනුගත වෙලා තියෙන නීතියට අනුව, මොවුන්ටද සලකන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-09-15 15:40:18</date>
+            <index>28</index>
+            <phrase>මේ අයත් මේ දේ ගැන තේරුම් ගන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෞෆර්</author>
+            <date>2016-09-15 15:53:18</date>
+            <index>29</index>
+            <phrase>සුසන්ත හරියටම හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-09-15 20:46:49</date>
+            <index>30</index>
+            <phrase>හරියටම හරි. දොස්තරලට විතරක් මොකක්ද විශේෂයක්? දොස්තරලගේ වැටුප් අඩුකරලා කාර් පර්මිට් අවලංගු කරන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-09-15 21:01:43</date>
+            <index>31</index>
+            <phrase>රනිල් මහතා ගැන තමයි අපිට විශ්වාසයක් තිබෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-09-15 22:01:42</date>
+            <index>32</index>
+            <phrase>කතාවට ගරු කරමි. එහෙත් ප්‍රායෝගිකව තමයි සිදුවිය යුත්තේ. පාර්ලිමේන්තුවෙන්ම පටන්ගත්ත නම් හරියට හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2016-09-15 23:35:34</date>
+            <index>33</index>
+            <phrase>ඔබතුමා ළඟකදී අසනීපයකට බෙහෙත් එහෙම ගන්න ලංකාවේ දොස්තර මහත්තයෙක් ළඟට යන්නේ නැතුව ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2016-09-15 23:38:47</date>
+            <index>34</index>
+            <phrase>මේ කතාව අපි ඉහළින්ම අගය කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-09-16 00:53:30</date>
+            <index>35</index>
+            <phrase>ඉතා ඉක්මණින් මෙය ක්‍රියාත්මක කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2016-09-16 00:57:28</date>
+            <index>36</index>
+            <phrase>එම කතාවට මම 100% එකඟයි. සෑම වෘත්තීයකටම ගරුත්වයක් තිබෙනවා. මේ රටේ දොස්තරවරු සිතාගෙන ඉන්නවා එම වෘත්තීය අනෙක් වෘත්තීන්ට වඩා විශේෂයි කියලා. විශේෂත්වයක් දීම නිසා සමහර වෘත්තීන් අපේ රටේ නැතිවීගෙන යනවා. මෙකී නොකී හැම වෘත්තියක්ම අපේ පැවැත්මට උවමනාය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-09-16 01:37:45</date>
+            <index>37</index>
+            <phrase>වටිනා අදහසක්. මේතරම් කාලයක් ඡන්ද ගන්න ජනතාව මුලාකරලා ඉහළ පැළැන්තියට වරප්‍රසාද ලබාදෙන ක්‍රමයක් තිබුනේ. ඔබතුමා හරි. ලෝකේ දියුණු රටවල එහෙමයි. මේ රටේ පන්තිබේදයක් ඇති කරගැනීමට සමහර රැකියා කරන අය දඟලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-09-16 01:35:23</date>
+            <index>38</index>
+            <phrase>දොස්තරලා මේ රට සූරාකන්නයි හදන්නේ. රෝහල් වල සිය ගණන් දොස්තරලා හිටියත් දුප්පත් මිනිහෙකුට ඕනෑම වෙලාවක බෙහෙත් ටිකක් ගන්න පුලුවන්ද? පැය 24 පුරාම රාජකාරි කියලා දීමනා ගන්නවා. දොස්තර මාෆියාව තුරන් කරන්න මිනිස්සු පාරට බහින්න කාලේ ඇවිල්ලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්. වික්‍රම</author>
+            <date>2016-09-16 01:46:25</date>
+            <index>39</index>
+            <phrase>ඉතින් ඕක දැනගෙනමද කෝටි ගණන් වටිනා වාහන ගෙන්නන්න ඉඩදුන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීලාල්</author>
+            <date>2016-09-16 02:00:34</date>
+            <index>40</index>
+            <phrase>හොර මැර වැඩ නවතනවා නම් මේක ගැළපෙන කියමනක්. එ්ත් රටේ මේ දේවල් වැඩිවෙනකොට සමහර අයගේ වරප්‍රසාද කඩවෙනවා. පාසල් වලට දරුවෝ දානකොට ස්ථානමාරුත් හොරට හදලා ගන්නේ. මේවා නිවැරදි කළේ නැත්නම් වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනූ</author>
+            <date>2016-09-16 03:13:27</date>
+            <index>41</index>
+            <phrase>සහතික ඇත්ත. මෙය දේශපාලනයටත් පොදුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-09-16 06:13:42</date>
+            <index>42</index>
+            <phrase>හැබැයි ඔය කියන දේ දේශපාලුවන්ට නැති එකයි මට දුක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2016-09-16 13:51:50</date>
+            <index>43</index>
+            <phrase>ලොකු ලොකු ඉස්කෝල අවට පදිංචිවෙලා ඉන්නේ ලොකු ලොකු මිනිස්සුනේ. ඉතින් පොඩි පොඩි මිනිසුන්ට පොඩි පොඩි ඉස්කෝල දීලා ලොකු ලොකු කතා කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකසිරි</author>
+            <date>2016-09-16 14:26:24</date>
+            <index>44</index>
+            <phrase>මේ කතාව නම් සහතික ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2016-09-16 15:51:55</date>
+            <index>45</index>
+            <phrase>රෝයල් එක අවට ඉන්නේ ලොකු ලොකු මිනිස්සු. ඒ ළමයි රෝයල් එකේ. දෙහිඅත්තකණ්ඩියේ ඉන්න අපේ පොඩි එකාට ගමේ ඉස්කෝලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

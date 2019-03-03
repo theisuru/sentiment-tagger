@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56401</articleId>
+    <title>ලක් දැරියට ඔලිම්පික් වාසනාවක් පෑදෙයි</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 ජූලි මස 31 17:22:25</date>
+    <body>ලන්ඩනයේ ග්‍රිනිච්හි එල්ට්හෑම් නගරයේ ක්‍රවුන් වුඩ් පාසලේ හිරුණි ගුණසේකර (12) ශිෂ්‍යාවට ලන්ඩන් ඔලිම්පික් උළෙලේ විශේෂ තැනක් හිමිවිය. බහමාස් රාජ්‍යයෙන් ආ ක්‍රිඩා කණ්ඩායම  කැඳවා ගෙන යෑමේ අවස්ථාව ඇයට  ලැබුණේ ඇගේ ගුරුවරිය ඇය ඒ සඳහා නම් කළ නිසාය. ඊට හේතු වූයේ හිරුණි ගණිතයට දැක්වූ දස්කමත් පන්තියේ ගණිතය දුරුවල  ළමයිනට ගණිතය කියා දීමත් නිසාය. හිරුණිගේ පියා කපිල ගුණසේකරයි. මව පද්මිනීය. හිරුණිකා නැගෙනහිර ලන්ඩනයේ ලුම්බිනි පන්සලේ බෞද්ධ මධ්‍යස්ථානයේ දහම් පාසල් ශිෂ්‍යාවකි.</body>
+    <comments>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-07-31 17:27:10</date>
+            <index>0</index>
+            <phrase>අපිට හරිම සන්තෝෂයි හිරුණි දුවේ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-31 17:32:19</date>
+            <index>1</index>
+            <phrase>දුව ඔයාට සුභ අනාගතයක්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-31 18:17:26</date>
+            <index>2</index>
+            <phrase>ඔයා ගැන දුවේ මට ආඩම්බරයි.. මම ආසම කරන ක්‍රීඩකයෝ ඉන්න රටක් තමයි බහමාස්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-07-31 18:27:09</date>
+            <index>3</index>
+            <phrase>ඉතාම සතුටුයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-31 18:35:15</date>
+            <index>4</index>
+            <phrase>සුභ අනාගතයක් හිරුණි දුවට..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධුර ජෝතිමුනි</author>
+            <date>2012-07-31 18:43:49</date>
+            <index>5</index>
+            <phrase>දුවේ අපි ඔබ ගැන ඉතාම ආඩම්බර වෙමු....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-31 18:46:11</date>
+            <index>6</index>
+            <phrase>පුංචි අපේ ගනංකාරිට සුභ අනාගතයක්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත් මිලානෝ ඉතාලි</author>
+            <date>2012-07-31 18:55:07</date>
+            <index>7</index>
+            <phrase>‍පුංචි දුවේ ශ්‍රී ලංකාවෙ අපිට ඔබ ලොකු ආඩම්බරයක්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-31 18:59:11</date>
+            <index>8</index>
+            <phrase>අපිට ඔබ ගැන ආඩම්බරයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අෆ්රා</author>
+            <date>2012-07-31 19:19:48</date>
+            <index>9</index>
+            <phrase>අපිට ඔබ ගැන ආඩම්බරයි.. සුභ අනාගතයක් හිරුණි දුවට...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂිකලා</author>
+            <date>2012-07-31 20:20:33</date>
+            <index>10</index>
+            <phrase>ආදර නංගියෝ ඔයාට සුභ අනාගතයක් පතනවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා අයිරංගනී</author>
+            <date>2012-07-31 20:30:06</date>
+            <index>11</index>
+            <phrase>දුව ඔබ වාසනාවන්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික තෙලිජ්ජවිල</author>
+            <date>2012-07-31 21:02:20</date>
+            <index>12</index>
+            <phrase>මම ‍මේක සජීවීව බැලුවනෙ ටී.වී. එකේ. හැබැයි මෙහෙම ළමයෙක් පෙළපාලියෙ දැක්කෙ නැහැනෙ..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-07-31 21:31:58</date>
+            <index>13</index>
+            <phrase>අනේ දුවේ, ලංකාවට නම් එන්න එපා.ඔයාලව අගය කරන්න මෙහේ කවුරුවත් නැහැ. අපිට හරිම සතුටුයි ඔබ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත් මිලානෝ ඉතාලි</author>
+            <date>2012-07-31 21:42:44</date>
+            <index>14</index>
+            <phrase>මොනවාද චාමික මහත්තයෝ මල්වගේ ළමයින්ට ඉරිසියා කරන්නෙ.? ඔයා දැක්කෙ නැත්නම් නැවත විකාශයක් බලන්න.. හිරුණි දුවට ආශිර්වාද කරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී කුවේට්</author>
+            <date>2012-07-31 22:24:52</date>
+            <index>15</index>
+            <phrase>දැක්කෙ නැහැ කිව්ව කෙනා හොද සිහියෙන් නෙවිද දන්නෙ නැහැ බැලුවෙ..ඒ පැත්තෙ තෙලිජ්ජ තිනවා හරියට. නැත්නමි අපි කවුරුත් දැක්ක දෙය එයාට නොපෙනෙන්න.කො‍හොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක සේනාරත්න - රත්නපුර</author>
+            <date>2012-07-31 22:37:53</date>
+            <index>16</index>
+            <phrase>හොද ළමයින්ට හොද තැනක් ලැබෙනවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොනි</author>
+            <date>2012-07-31 22:37:58</date>
+            <index>17</index>
+            <phrase>චාමික, බහමස් කෙල්ලන්ට වැඩිය අපේ රටේ හිරුණිකා කොච්චර ලස්සනද? එයා සිරියාවයි.හැඩකාරයි.කටකාරයි.ගණන්කාරයි. ඔටුන්නක් පැළදුවා නම් හරියට ඔලිම්පික් රූ රැජිණ වගෙයි. මෙම දැරියට අපගේ උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2012-08-01 01:14:12</date>
+            <index>18</index>
+            <phrase>සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-08-01 01:18:45</date>
+            <index>19</index>
+            <phrase>චාමික මහත්තයා බලලා තියෙන්නේ 1948 ලන්ඩන් ඔලිම්පික් උළෙලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එන් ඉරාන්</author>
+            <date>2012-08-01 01:23:19</date>
+            <index>20</index>
+            <phrase>ජාති බේධයක් නැතිව සුභ පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2012-08-01 01:42:26</date>
+            <index>21</index>
+            <phrase>අහන්නත් ගොඩක් සතුටුයි.. කොහෙ හිටියත් ඔබට ජය....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ.ඒ.‍කේ. සුජීවා</author>
+            <date>2012-08-01 01:50:27</date>
+            <index>22</index>
+            <phrase>හිරැණි දුවේ ඔයාගේ දස්කම් මෙයිට වඩා අනාගතයේදි පෙන්වන්න. සුභපැතුම්....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙන්සිල්</author>
+            <date>2012-08-01 02:12:07</date>
+            <index>23</index>
+            <phrase>සුභ පැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2012-08-01 04:05:08</date>
+            <index>24</index>
+            <phrase>ඔහෙ අවුරුදු 12ළමසින්ට ඔය විදියට සැළකුවාට අපේ රටේ නම් ඔහොම නෙමෙයි දේශපාලනඥයන් සළකන්නෙ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-01 04:45:27</date>
+            <index>25</index>
+            <phrase>ජය ශ්‍රී.. ඔහොම යං ශ්‍රී ලංකා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.ඩී.රනිල් වසන්ත</author>
+            <date>2012-08-01 04:48:29</date>
+            <index>26</index>
+            <phrase>ඉතාම හොදයි.. සුභපැතුම්....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දා</author>
+            <date>2012-08-01 06:09:57</date>
+            <index>27</index>
+            <phrase>හරිම සතුටුයි දුවේ..! ඔය පාසලේ වැඩි දෙනෙක් බ්‍රිතාන්‍යයේ කලක් ජීවත්වුණු අය වෙන්න ඇති.. ඒත් මේ දුවට තමන්ගෙ දක්ෂකම් අගය කළ ලංකාවෙ මේ වගේ අවස්ථාවක් ගණිතයෙන් දක්ෂ කෙනෙකුට ලැබෙයිද? ඔයාට ගණිත ඔලිම්පික් එකටත් යන්න ලැබේවා කියා ප්‍රාර්ථනා කරනවා....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-08-01 09:25:15</date>
+            <index>28</index>
+            <phrase>අපට ඔබ ගැන ආඩම්බරයි දුවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-08-01 10:28:59</date>
+            <index>29</index>
+            <phrase>දුවේ අපි ඔබ ගැන ඉතාම ආඩම්බර වෙමු....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-01 10:46:17</date>
+            <index>30</index>
+            <phrase>විශිෂ්ඨයි. අනේ ලංකාවට නම් එන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2012-08-01 11:08:50</date>
+            <index>31</index>
+            <phrase>අපිට ඔබ ගැන ආඩම්බරයි! සුභ අනාගතයක් හිරුණි දුවට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-08-01 11:14:04</date>
+            <index>32</index>
+            <phrase>දුවේ, ලංකාවට නම් එන්න එපා. දැන් මෙහේ ප්‍රාදේශීය සභා අන්තිමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදාර</author>
+            <date>2012-08-01 12:19:10</date>
+            <index>33</index>
+            <phrase>මම මේ මල් වගේ දැරියන්ට හරිම ආදරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-08-01 12:28:30</date>
+            <index>34</index>
+            <phrase>බොහොම සතුටුයි. ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෙයරීස්</author>
+            <date>2012-08-01 15:04:28</date>
+            <index>35</index>
+            <phrase>ඉතා හොදයි. ඉදිරියටම යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>yashoda</author>
+            <date>2012-08-01 15:48:07</date>
+            <index>36</index>
+            <phrase>හරිම සතුටුයි නංගීයා.............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-01 18:12:15</date>
+            <index>37</index>
+            <phrase>දුවට සුභ අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-01 18:13:04</date>
+            <index>38</index>
+            <phrase>සුභ අනාගතයක් හිරුණි දුවට..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2012-08-01 21:39:13</date>
+            <index>39</index>
+            <phrase>හිරුණි දුවේ, ඔබට ජයම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2012-08-01 23:16:24</date>
+            <index>40</index>
+            <phrase>මේ ව‍ගේ සුවද හමන අපේ මල් කැකුළු දෙස බලලා සතුටු වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් සහ ශ්‍යාමලී</author>
+            <date>2012-08-02 00:26:53</date>
+            <index>41</index>
+            <phrase>සුභ පැතුම් හිරුණි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුණ</author>
+            <date>2012-08-02 10:00:47</date>
+            <index>42</index>
+            <phrase>හැබැයි වැඩිය වටින්නේ ලංකා කණ්ඩායම ඉදිරියෙන්ම ගියානම් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-08-02 10:06:33</date>
+            <index>43</index>
+            <phrase>චාමික තෙලිජ්ජවිල 2012-07-31 21:02:20 "මම ‍මේක සජීවීව බැලුවනෙ ටී.වී. එකේ. හැබැයි මෙහෙම ළමයෙක් පෙළපාලියෙ දැක්කෙ නැහැනෙ..??" අනිවාර්යෙන් හරි........තෙලිජ්ජ ටිකක් බීලා මද පවනෙ, පා වේ වලා අතරෙ ඕක බලන්න ඈත්තේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2012-08-02 10:14:59</date>
+            <index>44</index>
+            <phrase>හිරුණි දුව ගැන ඉතාමත්ම සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-08-02 11:21:08</date>
+            <index>45</index>
+            <phrase>නංගාට මං සුබ පතනවා! සුබ අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2012-08-02 11:24:58</date>
+            <index>46</index>
+            <phrase>ඇයි කවුරුවත් එයාගේ ගුරුවරුන්ව අගයන්නේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-02 13:06:10</date>
+            <index>47</index>
+            <phrase>රත්තරන් දුවේ, බලාගෙන හොදේ. දැන් ලන්ඩන් ඇවිත් ඉන්නවා ලංකාවේ කට්ටියත් ඔලිම්පික් බලන්න. දියණිය, ඔබට තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-08-02 14:46:50</date>
+            <index>48</index>
+            <phrase>පුංචි අපේ මුතු ඇටයට ඔයා රන් මැණිකක්. බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-08-02 14:52:57</date>
+            <index>49</index>
+            <phrase>අපේ ඉන්දියන් සාගරයේ මුතු ඇටයට ඔයා නිල් මැණිකක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්ත පෙරේරා</author>
+            <date>2012-08-02 15:27:52</date>
+            <index>50</index>
+            <phrase>ඉතාම හොදයි කරගෙන යන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2012-08-02 17:08:31</date>
+            <index>51</index>
+            <phrase>හිරුණි දුවට ඉතසිතින් සුභ පතනවා....! ඔයාගේ ගුරුතුමීටත් ගොඩාක් ස්තුති පුදනවා ... හොඳ වෙලාවට ඔය පැත්තේ ස්ටාලින්ග් ජෝශප් ල නැත්තේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-08-02 20:11:31</date>
+            <index>52</index>
+            <phrase>නියමයි. නියම ප්‍රතිචාර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරින් ජයලත්</author>
+            <date>2012-08-06 10:01:39</date>
+            <index>53</index>
+            <phrase>නියමයි නේ නංගි !ඔහොම යං !මගෙන් සුබපැතුම් !..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-08-06 15:13:32</date>
+            <index>54</index>
+            <phrase>මට නම් හරිම සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදුමලී</author>
+            <date>2012-08-07 15:20:24</date>
+            <index>55</index>
+            <phrase>තැබූ පියවර ඉදිරියටම ගෙන යන්න.ඹබට දීප්තිමත් අනාගතයක් චූටි නංගියා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.ඒන්.කුමාරි</author>
+            <date>2012-08-07 15:24:59</date>
+            <index>56</index>
+            <phrase>තැබූ පියවර ඉදිරියටම ගෙන යන්න.ඔබට දීප්තිමත් අනාගතයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී. නිශාන්ති</author>
+            <date>2012-08-07 15:26:58</date>
+            <index>57</index>
+            <phrase>සුභ අනාගතයක් චූටි නංගිට..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

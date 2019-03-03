@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21828</articleId>
+    <title>පිංකැටේ කඩා අණ්ඩුවේ බෝඩිමට යයි</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 13 17:23:31</date>
+    <body>කොළඹ කොටුව සම්බුද්ධාලෝක විහාරයේ පිං පෙට්ටියේ රුපියල් 717ක් සොරකම් කළැයි සැකපිට මඩුල්ලේ සිට මුනියන්ඩි මහාලිංගම් ජනවාරි 20 වැනිදා තෙක් රිමාන්ඩ් කරනු ලැබීය. පන්සලේ වැඩට පැමිණි සිටිය දී පිංකැටය කඩා ඇතැයි පොලිසිය අධිකරණයට දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>AMILA KATUNAYAKA</author>
+            <date>2012-01-13 18:51:00</date>
+            <index>0</index>
+            <phrase>දැන් ඉතින් පින් බත් කන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැමිලස් පෙරේරා</author>
+            <date>2012-01-13 20:24:07</date>
+            <index>1</index>
+            <phrase>ඹය හාමුදුරුවෝ මනුතාපය කියවල තියෙනවද කියල අහන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-01-15 10:24:10</date>
+            <index>2</index>
+            <phrase>ඒ මනුෂ්‍යා එහෙම කලේ මොන හේතුවක් නිසාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

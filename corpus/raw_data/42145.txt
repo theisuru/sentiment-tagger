@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42145</articleId>
+    <title>බසයක් කිරිබත්ගොඩදී පාලමේ එල්ලෙයි</title>
+    <author>ලාල් එස් කුමාර  චතුරංග චන්ද්‍රසේකර</author>
+    <date>2012 මැයි මස 14 07:32:16</date>
+    <body>නිට්ටඹුව සිට කොළඹ බලා එන පෞද්ගලික බසයක් කිරිබත්ගොඩදී පාලමක ඇන්දක් කඩාගෙන ඇලට නොවැටී එල්ලෙමින් තිබුණි.
+දෙදෙනෙක් සුළු තුවාල ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ජොලි බෝයි</author>
+            <date>2012-05-14 09:01:04</date>
+            <index>0</index>
+            <phrase>ඔයින් ගියා ඇති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2012-05-14 09:45:08</date>
+            <index>1</index>
+            <phrase>පුදුමයි ඔහොම ගියා කියල ඇහුවමත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.අයි.එස්.</author>
+            <date>2012-05-14 09:49:12</date>
+            <index>2</index>
+            <phrase>මෙවන් අය රටට .............. වෙලා තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිනාත් හේරත්</author>
+            <date>2012-05-14 09:52:22</date>
+            <index>3</index>
+            <phrase>නයිට්රයිඩර් වෙන්න ඇති රිය පදවන්න ඇත්තේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-05-14 10:03:14</date>
+            <index>4</index>
+            <phrase>රියදුරු බළපත්‍රය වහාම අවලංගු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2012-05-14 10:19:51</date>
+            <index>5</index>
+            <phrase>අයියෝ ඕක මොකක්ද? අපේ රටේ මේව සාමාන්‍ය දේවල්. මෙහෙම ඒව නොවුනොත් තමයි පුදුමෙ. අපේ බළධාරීන්ගේ ඇස් ඇරේවා......මිනිසුන් රැක දේවා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනු</author>
+            <date>2012-05-14 10:25:24</date>
+            <index>6</index>
+            <phrase>රියදුරා ..... මෙවුන් නිසා වටිනා ජීවිත අනතුරේ.................................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර- ඉරාක්</author>
+            <date>2012-05-14 10:45:38</date>
+            <index>7</index>
+            <phrase>නයිට්රයිඩර් ෆිල්ම් එක බලන්න ඇති එයා ඊයෙ රෑ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ikelum</author>
+            <date>2012-05-14 10:59:07</date>
+            <index>8</index>
+            <phrase>අපරාදේ පාලම හදන්න වෙයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්රික්</author>
+            <date>2012-05-14 11:05:38</date>
+            <index>9</index>
+            <phrase>සීමන් කෙනෙක්ද කොහෙද....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපාර්</author>
+            <date>2012-05-14 11:17:57</date>
+            <index>10</index>
+            <phrase>කෝ මේ............... පාරට පැනල ඩ්‍රයිවර් බයකරාවත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසින්ත</author>
+            <date>2012-05-14 11:34:46</date>
+            <index>11</index>
+            <phrase>මන්ජුල පීරිස් කියපු අනාවැකි ඇත්ත වෙන්නයි යන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරූ</author>
+            <date>2012-05-14 12:01:22</date>
+            <index>12</index>
+            <phrase>උදෑසනම පොඩි අපි දිව එනවා.. කොහේද සැඟවී එළියට එනවා උදේ පාන්දර පාසල් යන්නට බසයක් ඇවිදින් කතා කරනවා.......!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිගා</author>
+            <date>2012-05-14 12:32:26</date>
+            <index>13</index>
+            <phrase>ටයර් චෙක් කරන්න. ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-05-14 12:34:44</date>
+            <index>14</index>
+            <phrase>නයිට්රයිඩර් වත් ඔහොම ඩ්‍රයිව් කරන්නෙ නැහැනේ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-05-14 13:03:59</date>
+            <index>15</index>
+            <phrase>කව්ද දන්නෙ පාර මැද හිටියෙ කවුද කියල.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර මෙන්ඩිස්</author>
+            <date>2012-05-14 13:07:41</date>
+            <index>16</index>
+            <phrase>රියදුරු බළපත්‍රය අවලංගු කරන්න?අවලංගු කරන්න බළපත්‍රයක් කොහෙද තියෙන්නෙ? අපේ රටේ මේව සාමාන්‍ය දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් මෙන්ඩිස්</author>
+            <date>2012-05-14 13:09:17</date>
+            <index>17</index>
+            <phrase>රියදුරු බළපත්‍රය අවලංගු කරන්න?අවලංගු කරන්න බළපත්‍රයක් කොහෙද ? අපේ රටේ මේව සාමාන්‍ය දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්, සෞදි</author>
+            <date>2012-05-14 13:10:03</date>
+            <index>18</index>
+            <phrase>රියදුරු හිතන්න ඇති කට්ටියම පාන්දරින් නාවලම අරන් ගියානම් හොඳයි කියලා.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-05-14 13:16:40</date>
+            <index>19</index>
+            <phrase>රියදුරු පාඨමාලාවක් දිය යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාස්</author>
+            <date>2012-05-14 13:27:45</date>
+            <index>20</index>
+            <phrase>අයියෝ සල්ලි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බස් පිස්සා</author>
+            <date>2012-05-14 13:34:41</date>
+            <index>21</index>
+            <phrase>ආර්ථික ප්‍රශ්න ඔලුවේ තියන් ද දන්නේනැ බස් එක ඩ්‍රයිව් කලේ. මොකද ඕවත් තදින් බලපානවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2012-05-14 14:10:28</date>
+            <index>22</index>
+            <phrase>නියමයි ඔහොම යං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-14 14:30:29</date>
+            <index>23</index>
+            <phrase>අනේ ළමයිනේ මේවා දකිනකොට බස්තියන් පයින් ය නඑක තමයි ඇගටගුණ. ඕන්න මම ගියා පයින්. ඔය ළමයිත් එනවා නමි එන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අවන්ත</author>
+            <date>2012-05-14 14:48:29</date>
+            <index>24</index>
+            <phrase>අලුතෙන් හදපු පාරේ යන්න ගිහින් ටිකක් පහුවෙලා හරවල. පව් අනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-14 15:25:03</date>
+            <index>25</index>
+            <phrase>ඔය පාලම උඩ කවුරු හරි හිටියනම් කාටද කියන්න? මේකට ලකුණු දෙන්නත් කට්ටියක් ඉන්නවා නේද දැන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-14 16:31:52</date>
+            <index>26</index>
+            <phrase>ගණන් ගන්න එපා අන්කල්. පොඩි අඩව්වක් ඇල්ලුව විතරයි. ඊළඟ පාර නියම සීන් එකක් දෙන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-05-14 16:45:57</date>
+            <index>27</index>
+            <phrase>පුද්ගලික රියදුරන් මරණයේ දූතයන් වෙලා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-05-14 16:45:57</date>
+            <index>28</index>
+            <phrase>පුද්ගලික බස් රියදුරන් මරණයේ දූතයන් වෙලා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>indu</author>
+            <date>2012-05-14 17:20:07</date>
+            <index>29</index>
+            <phrase>මෙලොව දෙයක් දන්නේ නැතිව හොර පාරවල් වල ගිහින් රියදුරු බලපත්‍ර ගන්න අය හසරක් නොදැන පාරේ වාහනේ ගෙනියන්නේ කොහොමද ඒ අයතමයි මේ විදිහට පාලම් උඩ ගස් ගල් උඩ ගිහින් අහිංසක මිනිස්සු මරන්නේ මේ විදිහට මිනිස්සුන්ගේ ජීවිත අනතුරේ දාන්න කිසිම කෙනෙකුට අයිතියක් නෑ නිසි දඩුවම් දෙන්න ඕනේ රියදුරු බලපත්‍රය අවලංගු කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-05-14 18:43:46</date>
+            <index>30</index>
+            <phrase>අසරණ මිනිසුන් දෙස බලන්න ඉන්නේ දෙවියන් විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුර</author>
+            <date>2012-05-14 18:52:09</date>
+            <index>31</index>
+            <phrase>තව තවත් හොරට ලයිසන් දෙනකොට ඕවා ඔබේම හරියයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-14 19:14:37</date>
+            <index>32</index>
+            <phrase>නිට්ටඹුව-කොළඹ බස් යන ගමනේ හැටියට මෙහෙම දෙයක් වුණා කියන එකත් පුදුමයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙත් සිත්</author>
+            <date>2012-05-14 20:00:22</date>
+            <index>33</index>
+            <phrase>රියදුරු තමයි දන්නේ ඒකේ අමාරුව..කියන තරම් ලේසි නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-05-14 20:16:17</date>
+            <index>34</index>
+            <phrase>ට්‍රැෆික් වැඩි නිසා ඇළ දිගේ යන්න ගියාද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>silva</author>
+            <date>2012-05-14 21:05:20</date>
+            <index>35</index>
+            <phrase>ඔයාලට වැරදිලා ..රියදුරා ගේ දක්ෂකම නිසා තමා ගගට වැටෙන්නේ නැතිව බස් එක බැලන්ස් එකේ තියාගත්තේ හේ හේ .........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-05-14 22:46:25</date>
+            <index>36</index>
+            <phrase>පවු! බස් හිමියාට තවත් වාරික කීයක් ගෙවන්න තියෙනවද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-05-15 09:07:27</date>
+            <index>37</index>
+            <phrase>පේනවානේ ගමේ කොල්ලන්ගේ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-05-15 09:09:06</date>
+            <index>38</index>
+            <phrase>මාරයිනේ අයියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-05-15 10:27:22</date>
+            <index>39</index>
+            <phrase>මෝඩ අයනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2012-05-15 12:00:27</date>
+            <index>40</index>
+            <phrase>මේවා තමයි ආශ්චර්ය කියන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2012-05-15 13:28:07</date>
+            <index>41</index>
+            <phrase>අයියෝ හිතාගන්නවත් බෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 14:19:44</date>
+            <index>42</index>
+            <phrase>ඇස් පේන්නේ නැද්ද මී හරක් වගේ බස් එලවන්නේ.. පව් අසරණ මිනිස් ජීවිත..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-05-17 23:32:00</date>
+            <index>43</index>
+            <phrase>බස් මගියොනම් එල්ලිලා ගොඩක් කල්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධුක</author>
+            <date>2012-05-18 14:54:30</date>
+            <index>44</index>
+            <phrase>මිනිස්සුන්ට තමයි වැරදි, අතපසුවිම්, හදිසි අනතුරු වෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2012-05-18 17:02:07</date>
+            <index>45</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ ආචාර්ය නමටත් නිගාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2012-05-18 17:56:22</date>
+            <index>46</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් දවුලගල</author>
+            <date>2012-05-19 06:08:14</date>
+            <index>47</index>
+            <phrase>බසයේ කාර්මික දෝෂයක් වෙන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුශ්ක</author>
+            <date>2012-05-19 11:21:25</date>
+            <index>48</index>
+            <phrase>ඕක පරණ පිංතුරයක් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-19 19:52:42</date>
+            <index>49</index>
+            <phrase>පාලමට සිදු වූ අලාභය ලබා ගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-19 21:23:01</date>
+            <index>50</index>
+            <phrase>සන්ජු ප්‍රයිවට් බස් ඩ්‍රයවර් කෙනෙක්ද? කරන්න දෙයක් නැහැ. ඇත්ත කතා කරනකොට කාට රිදුනත් මට කරන්න දෙයක් නැහැ.මම පුද්ගලික බස් ව්‍යාපාරයට සම්බන්ධ නැහැ. මමත් සාමාන්‍ය පොදු ප්‍රවාහන සේවා භාවිතා කරන සාමාන්‍ය මඟියෙක් විදිහට මටත් දැනෙන්නේ සාමාන්‍ය මිනිහගේ දුකම තමයි. සමහරවිට ඔයා හිතන්න ඇති මම සැපට කාර් එකක යන කෙනෙක් කියලා. එහෙම පුලුවන් වුනත් මම සාමාන්‍යයෙන් එහෙම කරන්න කැමති නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කතරගම සංජීව</author>
+            <date>2012-05-21 13:32:37</date>
+            <index>51</index>
+            <phrase>අපි පාගල යාමුකෝ හැටේ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2012-05-21 21:18:19</date>
+            <index>52</index>
+            <phrase>බස් නම් පාලමේ හරි එල්ලෙයි.ඒත් බස් මගීන්ට තමයි එල්ලෙන්න වැලුත් නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-05-22 16:54:39</date>
+            <index>53</index>
+            <phrase>ඒක ඇත්ත ඇන්ටන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

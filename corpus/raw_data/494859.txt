@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494859</articleId>
+    <title>ලොතරැයි අලෙවිකරුවෝ වැඩවරති</title>
+    <author>මහින්ද නිශ්ශංකසමන් පාලිත නානායක්කාරඡායාරූප හා වීඩියෝ-ඉෂංක සුනිමල්</author>
+    <date>2017 ජනවාරි මස 01 13:42:52</date>
+    <body>රුපියල් 20 ලොතරැයි ටිකට්පත් රුපියල් දහයකින් වැඩි කළැයි විරෝධය පළ කරමින් ලොතරැයි අලෙවි නියෝජිතයෝ  අද (01) ලොතරැයි විකිණීම වර්ජනය කරති.
+මේ හේතුවෙන් ලොතරැයි අලෙවි කුටි සියල්ල වසා දමා ඇතැයි සමස්ත ලංකා ලොතරැයි අලෙව් නියෝජිතයින්ගේ සංගමයේ සභාපති ක්‍රිෂාන්ත මාරඹගේ මහතා පැවසිය.</body>
+    <comments>
+        <comment>
+            <author>සමීර</author>
+            <date>2017-01-01 08:34:34</date>
+            <index>0</index>
+            <phrase>අනවශ්‍ය පුද්ගලයෝ සුවීප් ගන්නවා. ඒකයි මිල වැඩි කෙරුවේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-01 08:48:39</date>
+            <index>1</index>
+            <phrase>මේක තනිකරම වංචාවක්. නැති එකමයි කාරිය. ඒ අයගේ අංක අපි ගන්නවා, අපි පරදිනවා.. අපිට ඕන අංක ගන්න විදිහක් සැලසිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2017-01-01 08:55:48</date>
+            <index>2</index>
+            <phrase>කොහොමත් ජනවාරි 1 වෙනිදා ඕවා වහල තමයි තියෙන්නේ - අනික දවසකටවත් කනක් ඇහිලා ඉන්න පුළුවන් . මේක සූදුවක් (අ) ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමලී</author>
+            <date>2017-01-01 09:03:12</date>
+            <index>3</index>
+            <phrase>ලබන සතියේ පොල් කඩන අයත් උද්ඝෝෂණයක් කරනවලු පිට කොටුවේ දුම්රියපල ඉදිරිපිට - ගහකට තවත් රුපියල් 50 වැඩිකරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2017-01-01 09:25:27</date>
+            <index>4</index>
+            <phrase>ලොත‍රැයි කියන්නෙ සූදුවක්. මෙයාලට බැරි නම් ඕනෑතරම් නියෝජිතයො ඉන්නවා හොයා ගන්න. මෙයාලමනේ 10 ඉඳන් 20 ට වැඩි කරගත්තේ කොමිස් මුදල් වැඩි කරගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-01 10:03:57</date>
+            <index>5</index>
+            <phrase>මම හිතන්නේ මේගොල්ලෝ කාගේහරි ලණුවක් කාලා ඉල්ලාගෙන කන්න හදනවා. ලොතරැයි ටිකට් විකුණුවේ නැත්නම් එදා වේල නැතිවෙන්නේ ලොතරැයි වෙළඳුන්ට මිසක් රජයට නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2017-01-01 10:24:21</date>
+            <index>6</index>
+            <phrase>මේ ආණ්ඩුව අපේ පන ටිකට විතරයි බදු ගැහුවේ නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුනි</author>
+            <date>2017-01-01 10:28:17</date>
+            <index>7</index>
+            <phrase>රුපියල් 20 කරන්න. පෙර පරිදි අලෙවිය සිදු කරන්න ඉඩ ලබාදිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2017-01-02 03:30:12</date>
+            <index>8</index>
+            <phrase>මේවා සූදු, නැතිවෙන තරමට හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

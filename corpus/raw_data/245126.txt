@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>245126</articleId>
+    <title>උප ඇමැති රටඉඳි කඩයි</title>
+    <author>ජවුෆර් ඛාන්</author>
+    <date>2014 ජූනි මස 25 13:36:28</date>
+    <body>මඩකලපුව කාත්තන්කුඩි නගරයේ මෙවරද සරු රටඉඳි පළදාවක් ලැබී ඇත.
+මහ පාර මැද තීරයේ රට ඉඳි ගස් 76කින් ගස් 15 ගෙඩි හට ගෙන තිබේ.
+ආර්ථික සංවර්ධන නියෝජ්‍ය ඇමැති එම් එන් එල් ඒ එම් හිස්බුල්ලා මහතා මුල්ම ගසින් රටඉඳි නෙළීය.</body>
+    <comments>
+        <comment>
+            <author>මිල්රෝයි</author>
+            <date>2014-06-25 13:40:02</date>
+            <index>0</index>
+            <phrase>අපිටත් දෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කල්හාර</author>
+            <date>2014-06-25 13:46:27</date>
+            <index>1</index>
+            <phrase>නියමයිනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුක</author>
+            <date>2014-06-25 13:51:20</date>
+            <index>2</index>
+            <phrase>මුළු රටටම ආදර්ශයක්. අනික් ප්‍රදේශ වලත් අලුත් දේවල් අත්හදා බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2014-06-25 13:52:27</date>
+            <index>3</index>
+            <phrase>කොච්චර අ‍ගෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හැරිස්</author>
+            <date>2014-06-25 13:52:51</date>
+            <index>4</index>
+            <phrase>දකිනකොටත් ආසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත්</author>
+            <date>2014-06-25 13:52:59</date>
+            <index>5</index>
+            <phrase>අනේ අපිටත් යන්න තිබුණා නම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්</author>
+            <date>2014-06-25 13:54:43</date>
+            <index>6</index>
+            <phrase>රටේ තව ගස් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමතිලක</author>
+            <date>2014-06-25 13:58:08</date>
+            <index>7</index>
+            <phrase>ලැජ්ජාවේ බෑ.....ඕව තවම පැහිල නෑ..,මම ඉන්නේ මැද පෙරදිග නිසා හොඳට දන්නවා.., ලංකාවේ මිනිස්සු ගොනාට අන්දනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2014-06-25 14:16:45</date>
+            <index>8</index>
+            <phrase>ඒ පැත්ත දැන් නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිරි</author>
+            <date>2014-06-25 14:18:15</date>
+            <index>9</index>
+            <phrase>දැන් නම් අපේ රටත් ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසනා</author>
+            <date>2014-06-25 14:19:00</date>
+            <index>10</index>
+            <phrase>ඇමතිතුමාටත් කරන්න වෙලා තියෙන දේවල්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-06-25 14:21:37</date>
+            <index>11</index>
+            <phrase>අපිටත් ටිකක් ඉතුරු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉක්බල්</author>
+            <date>2014-06-25 14:21:54</date>
+            <index>12</index>
+            <phrase>බලන්න කොච්චර ලස්සනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2014-06-25 14:24:03</date>
+            <index>13</index>
+            <phrase>රටඉඳි ඉදෙනතුරු ඉන්නකෝ ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ශාන්ත</author>
+            <date>2014-06-25 14:24:15</date>
+            <index>14</index>
+            <phrase>ෂා මරුනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත් කුලතුංග</author>
+            <date>2014-06-25 14:39:05</date>
+            <index>15</index>
+            <phrase>ලංකාව රට ඉඳි වලින් පිරි රටක් වේවා . අපිත් මැදපෙරදිග රටක වාගේ . ළඟදීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2014-06-25 14:43:49</date>
+            <index>16</index>
+            <phrase>ජය වේවා ඔබතුමාට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටියුඩර්</author>
+            <date>2014-06-25 14:43:59</date>
+            <index>17</index>
+            <phrase>උප ඇමතිතුමනි, ප්‍රවේශමෙන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මික</author>
+            <date>2014-06-25 14:52:20</date>
+            <index>18</index>
+            <phrase>අපේ ඉඳි ගස් වල ගෙඩි ඉදුනහම අපි දැකලා තිබෙනවා. ප්‍රේමතිලක, ඔබ හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාන්</author>
+            <date>2014-06-25 14:52:48</date>
+            <index>19</index>
+            <phrase>පළමු තොගය කොහේටද යවන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2014-06-25 14:55:41</date>
+            <index>20</index>
+            <phrase>ඇමතිතුමාගේ වැරැද්දක් මම දකින්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවසම්</author>
+            <date>2014-06-25 14:58:32</date>
+            <index>21</index>
+            <phrase>බලාගෙන හො‍ඳේ... ප්‍රවේශමෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2014-06-25 15:09:15</date>
+            <index>22</index>
+            <phrase>ගස් 76න් 15ක පලදාව අව කියන්නේ සරු අස්වන්නක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2014-06-25 15:12:47</date>
+            <index>23</index>
+            <phrase>අමු රට ඉඳි කඩන්නේ අච්චාරු දාන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වත්සලා</author>
+            <date>2014-06-25 15:20:07</date>
+            <index>24</index>
+            <phrase>ලංකාව කියන්නේ ඉස්සර ලෝකෙම දියුණුම රට අපේ මිනිස්සු ඒ දේ දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොද්දල</author>
+            <date>2014-06-25 15:20:52</date>
+            <index>25</index>
+            <phrase>රට ඉඳි වලින් සිනි නගිනවද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්හානි</author>
+            <date>2014-06-25 15:25:51</date>
+            <index>26</index>
+            <phrase>අනේ වාසනාවන් කොයිතරම් සාරවත් රටක්ද මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙතුකි</author>
+            <date>2014-06-25 15:32:02</date>
+            <index>27</index>
+            <phrase>ඔය ගෙඩි කන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2014-06-25 15:44:49</date>
+            <index>28</index>
+            <phrase>ප්‍රේමතිලක - ඔය දන්නා තරම තාම, ඔය පැහිල නැත්නම් ඔකේ පාට ගාල වෙන්න ඇති කහ පාටට,, මෝඩ කතා නොකියා ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෑන්</author>
+            <date>2014-06-25 15:48:14</date>
+            <index>29</index>
+            <phrase>ප්‍රේමතිලක, ඔයාට ලැජ්ජා නම් ඔය ඉන්න දිහටම වෙලා ඉන්න, එතකොට ලැජ්ජාව හරියයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාන්ත</author>
+            <date>2014-06-25 15:50:39</date>
+            <index>30</index>
+            <phrase>නැහැ ලංකාවේ මිනිස්සු අසාවෙන් ගොනාට අන්ද ගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2014-06-25 16:03:51</date>
+            <index>31</index>
+            <phrase>තව අවරුදු විස්සක් විතර ගෙවෙන විට රට පුරාම රට ඉඳි කඩන්න පුළුවන් වෙයි සැක නැතිවම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-06-25 16:12:07</date>
+            <index>32</index>
+            <phrase>පැහිල තියෙන්නේ මිනිස්සුන්ගේ මොළ ගෙඩි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන් ප්‍රියන්ත</author>
+            <date>2014-06-25 16:39:44</date>
+            <index>33</index>
+            <phrase>මම ඉන්නේ කටාර්. මේ රට ඉඳි තාම ඉදිලා නැති බව පේන්නේ නැත්ද? රට ඉඳි ගස් පාරේ ඉන්දුවට කාත්තන්කුඩි සවුදි අරාබියාව වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපොන්සු</author>
+            <date>2014-06-25 16:57:12</date>
+            <index>34</index>
+            <phrase>අපේ ගමෙත් ගස් ගෙඩි කඩපු කෙනෙක් දැන් පාර්ලිමේන්තුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල අබු ඩාබි සිට</author>
+            <date>2014-06-25 17:07:35</date>
+            <index>35</index>
+            <phrase>ඇමතිතුමෝ, තවම ඔවුවා ඉදිලා නැතෝ . ඔය කාලේ කෑවොත් කට කසන්න ගනීයි. අපිත් මෙහෙ ආපු කාලේ නොදන්නා කමට කෑව දරුණුවට නැතත් කට කසන ගතියක් තියෙනවා. ඕව කඩන වයසට එන්න තව මාසයක් හමාරක් ඉන්න වෙනවා තවම සමර් (ග්‍රීෂ්ම ඍතුව) එක තදින් පටන් ගත්ත විතරනේ. අනික දුඹුරු පාටට හුරු රතු පාටක් වෙන්න ඕන කඩන වයසට එන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2014-06-25 18:06:39</date>
+            <index>36</index>
+            <phrase>පලදාව හොදනම් කරන්න තියෙන්නේ මේ ඇමති වරුන්ට රට ඉදි කඩන එක නොව රට ඉඳි වවන්න පුළුවන් පරිසර කලාප හොයල හොදට වගාවක් හැටියට දියුනු කරන එකනේ කොහෙද එහෙම අදහස් කෘෂිකර්මය ට සම්බන්ද ඇමති වරු කීයක් ඉන්නවද පලත්සබා සහ මහා ආණ්ඩුවේ මොනවද කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-06-25 18:16:20</date>
+            <index>37</index>
+            <phrase>මම හිටවපු පොල් ගස්වල මුල්ම පලදාව ඇවිත් ,,මේ නියෝජ්‍ය ඇමැතිටම කියල බැරිද ගෙඩි ටික කඩා ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-06-25 18:42:06</date>
+            <index>38</index>
+            <phrase>හලෝ මේවා රට ඉඳි නොවෙයි මෙරට (කාත්තන්කුඩි) ඉඳි. පැහිලා ඉදිලා බරවෙලා ඇති . ඇමැතිටත් මටත් ගෙඩි දෙකක් ඇති. වැඩිය කඩන ඇමති වරු නොවේ අපි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-06-25 18:48:44</date>
+            <index>39</index>
+            <phrase>මේ රට ඉඳි හොරකමක්. නැත්නම් මොකද මේ මහා රාත්‍රියේ රට ඉඳි කඩන්නේ. මේවා මොකද එයා හිටවලද ? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2014-06-25 19:06:25</date>
+            <index>40</index>
+            <phrase>ඇයි රටදි රට ඉඳි කඩන්නේ. මේක හොරකමක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග රෝසා</author>
+            <date>2014-06-25 19:11:11</date>
+            <index>41</index>
+            <phrase>ඕව් තාම හොඳටම අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-06-25 19:37:29</date>
+            <index>42</index>
+            <phrase>වාසනා වන්ත රට ඉදි පලදාවක් නෙලා ගැනීමට අපේ නියෝජ්‍ය ඇමති තුමාට හැකි වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතුම්</author>
+            <date>2014-06-25 19:37:58</date>
+            <index>43</index>
+            <phrase>රට ඉඳි ගහ පලබර වෙලා තියෙන හැටි ලස්සනයි. නමුත් වෙනත් අයගේ දහදිය මහන්සියේ පල නෙලන්නේ හැමවිටම දේශපාලකයින්. එයට ගැලපෙන චායාරුපයක් තමයි මේ. මට නම් දිරවන්නේ නැත්තේ රට ඉඳි නෙමෙයි මේ පල නෙලන කට්ටිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2014-06-25 23:53:18</date>
+            <index>44</index>
+            <phrase>ඕවා කැඩුවට කන්න බැරිවෙයි වගේ. තව ඉදෙන්න ඕනෑනේ. අගෝස්තු වෙනකොට තමයි හොඳටම ඉදෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2014-06-26 00:28:23</date>
+            <index>45</index>
+            <phrase>ඔටුවෝ පෙන්න නැනේ,, ළඟදීම ගෙනෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kalumu</author>
+            <date>2014-06-26 00:42:55</date>
+            <index>46</index>
+            <phrase>දර්සන ඔයාට ඉස්තුති. ලංකාවේ දේසපාලනය කරන අය ඔහොමතම . දෑන් මහත්තය.මම දන්නවා ඒවගේම දැකල තියනවා නිසා අදහස් පලකලේ.අපි මෙහෙ මහන්සි වෙලා වැඩ කාලට අපේ සල්ල්ලි අපි යවන්නේ ලංකාවට.ඇත්ත කිවම පිලිගන්නති ඔය වගේ අය ..මනත්‍රීලට වඩා පහත්..ඕකට කියන්නේ නුගත් කම කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හස්තික</author>
+            <date>2014-06-26 07:02:20</date>
+            <index>47</index>
+            <phrase>ඒ පැත්තේ රට ඉඳි වගාව සරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර</author>
+            <date>2014-06-26 08:19:08</date>
+            <index>48</index>
+            <phrase>දැක්කාම ආසයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-06-27 09:23:32</date>
+            <index>49</index>
+            <phrase>කොහොමත් කට්ටියටම රට පුරාම රට ඉඳි කඩන්න පුළුවන් වෙයි. තව අවුරුදු පහකින් හෝ දහයකින්. එතකන් ඉවසන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60446</articleId>
+    <title>දැව ලොරියක් දැලේ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 අගෝස්තු මස 23 15:29:17</date>
+    <body>තලවකැලේ සිට කොළඹ දක්වා රුපියල් ලක්ෂ 10ක යුකැලිප්ටස් කඳන් තොගයක් අනවසරයෙන් රැගෙන ගිය ලොරියක් සැකකරුවන් දෙදෙනකුද සමග සැකපිට අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+ශාන්ත ක්ලෙයාර් ඇල්ල ළඟදී මේ වැටැලීම කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-23 16:19:49</date>
+            <index>0</index>
+            <phrase>ශාන්ත ක්ලෙයාර් කියලා ඇල්ලකුත් දැන් හොයා ගන්නවත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-23 16:43:15</date>
+            <index>1</index>
+            <phrase>ඉස්සරනම් දැල් වලින් ඇල්ලුවේ මාලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-23 17:23:43</date>
+            <index>2</index>
+            <phrase>ඔන්න ඕක අතහැරලා දාන්න රාළහාමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-23 17:57:20</date>
+            <index>3</index>
+            <phrase>වැස්ස නැතුව මුලු රටම වේළෙද්දී තියෙන ගස් ටිකත් කපනවා. අනේ මෙහෙමත් මිනිස්සු? නියමයි පොලිස් නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ</author>
+            <date>2012-08-23 17:54:27</date>
+            <index>4</index>
+            <phrase>ඇයි පොලිසියත් එක්ක වැඩේ 'ගොඩින්' බේරා ගන්න බැරිවුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-23 19:30:09</date>
+            <index>5</index>
+            <phrase>ලී දිරනකල්ම නඩුව ඇදෙයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>478734</articleId>
+    <title>ගෙවල් කොල්ල කෑ සිව් දෙනෙක් පොලිස් දැලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 10 13:28:35</date>
+    <body>ගායන ශිල්පි චාමර රණවකගේ හා දිවයිනේ විවිධ ප්‍රදේශවල නිවාස 15 කට  ආසන්න සංඛ්‍යාවක්  බිඳ දේපල සොරා ගත්  යුද හමුදා සාමාජිකයෙකු ඇතුළු පුද්ගලයන්  සිව් දෙනෙකු අත්අඩංගුවට  ගත් බව කළුතර පොලිසිය කියයි.
+රන්භාණ්ඩ හා  රුපියල් ලක්ෂ 50 ක දේපල පොලිස් බාරයට  ගැණිනි.
+එක් අයකු විවෘත වරෙන්තු 7 ක්  ඇති  දිවයිනේ  ලියාපදිංචි  අපරාධකරුවෙකි.</body>
+    <comments>
+        <comment>
+            <author>මහේෂ් ඇලෙක්සැන්ඩර්</author>
+            <date>2016-11-10 10:00:53</date>
+            <index>0</index>
+            <phrase>ලියාපදිංචි අපරාධකරුවෝ මොකද නිදැල්ලේ? නීතියේ හිඩැසක් තියනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-11-10 12:14:24</date>
+            <index>1</index>
+            <phrase>කෝ හමුදාව ලොකු කරන් කතා කරන අය? රට බේරුවා වගේම මන්කොල්ලත් ගහනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුකිත්</author>
+            <date>2016-11-10 15:58:39</date>
+            <index>2</index>
+            <phrase>අයියෝ! රණවිරුවෝ හොරකම් කරනවද? බොරු කියන්න එපෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-10 16:19:02</date>
+            <index>3</index>
+            <phrase>ඕනෑම කුපාඩි වැඩක් කරන කෙනෙක් රණවිරුවෙක් වෙන්නේ කොහොමද කියලා රාජිත අහපු ප්‍රශ්නයට මෙන්න පිළිතුරක්. හැබැයි මැති ඇමතිවරු හොරකම් කරන ඒවා පාර්ලිමේන්තු මුක්තිය තුළින් අහෝසිවෙන නිසා අහුනොවී වැඩේ කරගෙන යන අන්දම පාර්ලිමේන්තුවේ අය හොඳට දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488739</articleId>
+    <title>උතුර මැද ඇමතින්ටත් අජීරණයක්</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 දෙසැම්බර් මස 09 12:11:51</date>
+    <body>උතුරු මැද පළාත් සභාවේ අයවැයට සහභාගී වු මැති ඇමතින් ඇතුළු පිරිසකට කෑම අජීරණය වී ඇතැයි පළාත් සභා ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-12-09 07:23:21</date>
+            <index>0</index>
+            <phrase>දිරවාගන්න බැරි ජරාව කාලා ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-12-09 08:20:24</date>
+            <index>1</index>
+            <phrase>ජරාව කෑවම ඔහොම වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-12-09 08:29:11</date>
+            <index>2</index>
+            <phrase>හොඳ වැඩේ ජනතා දේවල් බඩ ජහරි කමට ගිල දාන කොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-12-09 12:27:24</date>
+            <index>3</index>
+            <phrase>ජරාව කාලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

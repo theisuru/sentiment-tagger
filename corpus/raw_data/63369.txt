@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>63369</articleId>
+    <title>කපිලවස්තුපුර සර්වඥධාතූන් වහන්සේට තිස්සමහාරාමයේ දී හරසර</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 සැප්තැම්බර් මස 08 14:49:30</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කෝසල</author>
+            <date>2012-09-14 11:59:07</date>
+            <index>0</index>
+            <phrase>තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

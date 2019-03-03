@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28471</articleId>
+    <title>මැණික් වෙන්දේසියට තානාපතිත් ඇවිත්</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 පෙබරවාරි මස 24 10:27:26</date>
+    <body>නිල්මැණික් අර්නූල් හා පද්මරාග මැණික් ඇතැයි කියන කතරගම තම්මැන්නාවේ බිම් කට්ටි 49 ප්‍රසිද්ධ වෙන්දේසියේ විකිණීම දැඩි ආරක්ෂාව මැද කතරගම ප්‍රාදේශීය සභා ශ්‍රවණාගායේ දී අද උදේ දහයට ඇරැඹිණි. මාලදිවයිනේ ශ්‍රි ලංකා තානාපති ඩික්සන් දෑල මහතා ද එහි පැමිණ සිටියේය. කෝටිපති මැණික් ව්‍යාපාරිකයන් මෑතදී මෙම වෙන්දේසියට ආහ. තවත් බිම් කට්ටි තුනක් ගැමියනට දීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>අඡිත්</author>
+            <date>2012-02-24 10:36:55</date>
+            <index>0</index>
+            <phrase>එහෙනම් සාධාරණව වැඩේ කෙරෙයි.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2012-02-24 10:57:23</date>
+            <index>1</index>
+            <phrase>මෙතුමටත් මැණික් ගරලා පුරුදු නිසා එන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

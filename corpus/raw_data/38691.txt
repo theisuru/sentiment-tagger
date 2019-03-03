@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38691</articleId>
+    <title>බ්‍රිතාන්‍ය ජාතිකයා රිමාන්ඩ්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අපේ‍්‍රල් මස 24 14:54:14</date>
+    <body>නිළියක නමින් කොළඹ මධ්‍යම තැපැල් හුවමාරුවට ආ හෂිස් අඩංගු සඟරා බාර ගැනීමට ගිය බව කියන බ්‍රටන් සෝල් පිලික්ස් (23) නම් බ්‍රිතාන්‍ය ජාතිකයා ලබන අට වැනි දා තෙක් කොළඹ මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා විසින් රිමාන්ඩ් කරනු ලැබීය. පැනගිය බ්‍රිතාන්‍ය ජාතිකයා අත්අඩංගුවට ගැනීමට පොලිසියට මෙතෙක් හැකි වී නැත.</body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-04-24 15:57:54</date>
+            <index>0</index>
+            <phrase>වර්ග කිලෝමීටර් හැට පන්දහසක් විතර ඇති මේ පුංචි රටේ සුද්දෙක් අල්ලා ගන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ ශාන්ත කුමාර</author>
+            <date>2012-04-24 18:54:12</date>
+            <index>1</index>
+            <phrase>එයාට විරුද්ධව සාක්කි තවම නෑ, ඇය අවුරුදු 10කට පෙර කුලියට සිටි නිවසේ ලිපිනයයි මේ දීලා තියෙන්නේ. ඔබගේ අදහස් ප්‍රකාශයට ස්තුතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කළු-සුදු</author>
+            <date>2012-04-25 08:40:49</date>
+            <index>2</index>
+            <phrase>අපේ රටට මේවා ගෙන්නපු එක හරිම වැරදි වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

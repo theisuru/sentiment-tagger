@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57549</articleId>
+    <title>ඕස්ටේ‍්‍රලියා ගමන බේරුවල පොලිසියෙන් නවතී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ  සරත් සිරිවර්ධන</author>
+    <date>2012 අගෝස්තු මස 08 09:53:07</date>
+    <body>ඕස්ටේ‍්‍රලියාව බලා යෑමට ආ බව කියන 26 දෙනකු බේරුවල ධීවර වරාය අසලදී සැකපිට අත් අඩංගවට ගත් බව බේරුවල පොලිසිය කියයි. කාන්තාවන් සිවු දෙනකුද ඇතුළත් මේ පිරිස කිලිනොච්චි හා මුලතිව් පදිංචි කරුවන් බවද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-08 10:39:41</date>
+            <index>0</index>
+            <phrase>මේ ඔක්කොම සංවිදාන වැඩ . ආණ්ඩුවට තියෙන්නේ හොයල බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිපාල</author>
+            <date>2012-08-08 11:03:13</date>
+            <index>1</index>
+            <phrase>මොකද මේ වෙලා තියෙන්නේ මිනිස්සුන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිපාල</author>
+            <date>2012-08-08 11:05:37</date>
+            <index>2</index>
+            <phrase>මේ කීවෙනි කට්ටියද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවින්</author>
+            <date>2012-08-08 12:34:37</date>
+            <index>3</index>
+            <phrase>දැන් ලංකාවේ හැමතැනම ඔස්ට්‍රලියෙව නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆ්හාන්</author>
+            <date>2012-08-08 14:02:28</date>
+            <index>4</index>
+            <phrase>මේවා අපේ විදේශ විනිමය වෙන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල-වෙරෝනා</author>
+            <date>2012-08-08 14:29:06</date>
+            <index>5</index>
+            <phrase>ලංකාවෙ ජීවත් වෙන්න අමාරුයි. ඒකයි මෙහෙම යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී -කුවේට්</author>
+            <date>2012-08-08 20:59:04</date>
+            <index>6</index>
+            <phrase>චතුල-වෙරෝනා, ලංකාවෙ ජීවත් වෙන්න අමාරුයි කියල කිවුවට මේ යන ඔක්කොම අය උතුරු හා නැගෙනහිර පළාත් වල අය නේද? ලංකාවෙ ජීවත් වෙන්න අමාරුනම් ඇයි අනිත් පළාත්වල අය යන්නෙ නැත්තෙ? මෙතැන ඇත්තේ ජාතිවාදී කුමන්ත්‍රණයක්.තවමත් ඔවුන් ලෝකයාට පෙන්වන්න හදන්නේ උතුරු හා නැගෙනහිර පළාත් වල තවම සාමයෙන් ජීවත්වෙන්න අමාරු බවයි.අනිත් කාරණය දැනට ඕස්ටේ‍්‍රලියාව හා යුරෝපා රටවල සිටින අපේ සරණාගතයන් එම රටවලින් පිටමන් කිරීමේ තර්ජනයකට මුහුණදී තිබෙන වෙලාවක මෙවැන්නක් කිරීමෙන් තරමකට හෝ එය වලළක්වා ගතහැකි වෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2012-08-09 04:30:49</date>
+            <index>7</index>
+            <phrase>ඇවිල්ලා බලන්න මෙහේ තත්ත්වය. මෙහේ උපාධිධාරීන්ට කරන්න තියෙන එකම රැකියාව තමයි වැසිකිළි සේදීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි ප්‍රාන්ස්</author>
+            <date>2012-08-09 10:24:42</date>
+            <index>8</index>
+            <phrase>එයාලා යන්නෙ එයාලගේ වියදමින් නේද? යන අයට යන්න දෙන්න.. නවත්තන්න ඕන ඕව නෙමෙයි.. ගෘහ සේවිකාවන් යවන එක..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

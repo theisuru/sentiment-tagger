@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>472091</articleId>
+    <title>හිටපු පුරපතිනිය රිමාන්ඩ්</title>
+    <author>සිරාජ් හසීම්</author>
+    <date>2016 ඔක්තෝබර් මස 24 15:17:22</date>
+    <body>නිවාඩු නිකේතනයක් මුවාවෙන් ගණිකා නිවාසයක් පවත්වාගෙන ගියැයි මඩකලපුව හිටපු නගරාධිපතිනී සිවගීතා ප‍්‍රභාකරන් ඇතුළු සිව් දෙනෙක් නොවැම්බර් 07 වැනිදා තෙක් රිමාන්ඩ් කිරීමට නියෝග කළ මඩකලපුව මහේස්ත‍්‍රාත් එම්.ගනේෂරාජා මහතා සෙසු සැකකරුවන් පස් දෙනා ඇප මත මුදා හරිනු ලැබූහ.
+හිටපු නගරාධිපතිනිය සහ ගණිකා වෘත්තියේ නිරතවූ බව කියන කාන්තාවන් දෙදෙනාද සිටිති. වැටලීමෙන් අත්අඩංගුවට ගත් සිවගීතා ප‍්‍රභාකරන්ගේ සැමියා ඇතුළු පස් දෙනා ඇප මත මුදා හැරිණි.
+මඩකලපුව නගරයේ පිහිටි සිවගීතා ප‍්‍රභාකරන්ගේ නිවසේ නිවාඩු නිකේතනයක් මුවාවෙන් ගණිකා නිවාසයක් පවත්වාගෙන යන බවට පොලිසියට ලද තොරතුරක් මත මඩකලපුව මූලස්ථාන පොලිසිය විසින් 23 වැනිදා සිදුකළ වැටලීමකින් මඩකලපුව හිටපු නගරාධිපතිනිය සහ ගණිකා වෘත්තියේ නිරතවූ බව කියන කාන්තාවන් දෙදෙනෙකු ඇතුළු සැකකරුවන් නව දෙනකු අත්අඩංගුවට ගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-10-24 11:02:30</date>
+            <index>0</index>
+            <phrase>අපේ පරණ ආණ්ඩුවේ සෙට් එකත් ඕක අනුගමනය කරයිද දන්නේ නැහැ දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2016-10-24 11:17:11</date>
+            <index>1</index>
+            <phrase>ඔන්න බිස්නස්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-10-24 12:55:29</date>
+            <index>2</index>
+            <phrase>ගණිකා මඩම් හිමිකාරියන් පුරපතිවෙන රටක් කොහෙද ඉතින් දියුණුවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2016-10-24 13:51:38</date>
+            <index>3</index>
+            <phrase>ගිය තැන නමගිය වැඩක් කරනවා වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-24 14:23:00</date>
+            <index>4</index>
+            <phrase>ඉන්දියාවේත් මෙහෙම කෙනෙක් පාර්ලිමේන්තු ගියා මට මතකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-10-24 15:39:02</date>
+            <index>5</index>
+            <phrase>පින්තූරයක්වත් දාන්නකෝ අඳුනාගන්න පුළුවන්ද බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

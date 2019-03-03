@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37989</articleId>
+    <title>ඉතාලියේ තවත් අවුරුදු උළෙලක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 21 12:35:23</date>
+    <body>ඉතාලියේ බ්‍රෙෂියා නුවර ශ‍්‍රි ලාංකිකයින්ගේ සංවීධානය 17වන වරටත් පවත්වන බක්මහ උළෙල අප්‍රේල් 22 දා සවස 2 සිට රාත‍්‍රි 8 දක්වා වීල්ලාජ්ජෝ සෙරෙනෝ ප‍්‍රාදේශිය සභා ක‍්‍රිඩාංගනයේදි පැවැත්වෙන බව සංවීධායකයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>චාලු - මාලදිවයින</author>
+            <date>2012-04-21 13:04:58</date>
+            <index>0</index>
+            <phrase>නියමයි ඔහොම යං. හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බී පී</author>
+            <date>2012-04-21 13:22:35</date>
+            <index>1</index>
+            <phrase>පේන විදියට ලංකාවට වඩා හොද අවුරුදු උත්සව වෙනත් රටවල තියනවානේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

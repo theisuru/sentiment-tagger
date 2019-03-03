@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>286762</articleId>
+    <title>ඔබ සැමට සුබ නව වසරක් වේවා....</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2015 ජනවාරි මස 01 00:00:30</date>
+    <body>ඔබ සැමට සුබ නව වසරක් වේවා ...... ​
+  </body>
+    <comments>
+        <comment>
+            <author>සියදු</author>
+            <date>2015-01-01 04:42:52</date>
+            <index>0</index>
+            <phrase>එසේම වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

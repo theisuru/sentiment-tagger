@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>184530</articleId>
+    <title>මාරවිල වෙරළේ මාරාවේෂයට බේත් දෙයි</title>
+    <author>ජේ සමන්ත</author>
+    <date>2013 නොවැම්බර් මස 11 12:50:13</date>
+    <body>මාරවිල මුහුදු වෙරළ තීරයේ  මුහුදු කෑම වැළැක්වීම සදහා  ගැඹූරු මුහුදෙන්  වෙරළට වැලි පොම්ප කැර වෙරළ නිර්මාණය කිරීම මේ දිනවල සිදු කෙරෙමින් පවතී.
+වෙරළ සංරක්ෂණ හා වෙරළ සම්පත් දෙපාර්තමේන්තුව,රාජ්‍ය ආරක්ෂක අමාත්‍යංශය හා නාගරික සංවර්ධන අධිකාරියමගින් මෙම වැඩසටහන සදහා රුපියල් මිලියන 615 ක් වැය කෙරේ.
+මාරවිල-තල්විල මෝය කටේ සිට මෝදර වැල්ල දක්වා කිලෝමීටර් 1.8 ක දුරක් මීටර් 30 ක පළලින් යුක්තව වැලි පුරවා සකස් කිරීම ව්‍යාපෘතියේ අරමුණයි.
+
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සන්ධයා</author>
+            <date>2013-11-11 13:01:02</date>
+            <index>0</index>
+            <phrase>හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දස්තකීර්</author>
+            <date>2013-11-11 13:08:45</date>
+            <index>1</index>
+            <phrase>නියම වැඩක්, ආයෙත් ඔය වැලි මුහුදට නොගියොත් සීග්‍රයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2013-11-11 13:16:19</date>
+            <index>2</index>
+            <phrase>බොහොම හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-11-11 13:24:43</date>
+            <index>3</index>
+            <phrase>බොහොම හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්</author>
+            <date>2013-11-11 14:03:14</date>
+            <index>4</index>
+            <phrase>මේවා නියම වැඩ.ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2013-11-11 14:17:46</date>
+            <index>5</index>
+            <phrase>ජය වේවා !!! ආරක්ෂක ලේකම් තුමාට තව තව ශක්තිය ලැබේවා !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-11-12 08:30:37</date>
+            <index>6</index>
+            <phrase>ඇත්තටම හොද වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් සිද්ධීක්</author>
+            <date>2013-11-12 14:08:41</date>
+            <index>7</index>
+            <phrase>අපේ පුල්මුඩේ වෙරළේ තිබුන ඉලුමනයිට් වැලි ඔක්කොම ජපන්කාරයට වික්කා. උන් ඒක අඹරලා සාරුව අරගෙන සිංගගප්පුරුවට වික්කා. උන් ඒකෙන් වෙරල පලල්කෙරුවා. අන්තිමට ලංකාව කුඩා වුනා මිස,වෙන මුකුත් නැහැ. ඉතින් මේ වැඩේ නම් නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගැටා</author>
+            <date>2013-11-12 19:26:53</date>
+            <index>8</index>
+            <phrase>මමත් ඉන්නේ ඔය කිට්ටුව තමයි. මීට අවුරුදු ගාණකට කලිනුත් මෙහෙම කළා. ඒත් වැඩක් වුණේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු ශ්‍රී</author>
+            <date>2013-11-12 20:41:14</date>
+            <index>9</index>
+            <phrase>මීට කලිනුත් ඔහොම කෙරුව අන්තිමට තිබුනට වැඩිය වෙරල කාදනය උනා නොදන්නා අය බොරුවට හුරේ දානවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිනි-නාපොලි</author>
+            <date>2013-11-13 18:07:41</date>
+            <index>10</index>
+            <phrase>මේපාරත් කරලා බලමු. හරි යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

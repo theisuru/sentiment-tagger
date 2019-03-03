@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60449</articleId>
+    <title>අපි කවුරුත් එක මවකගෙ දරුවෝ</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අගෝස්තු මස 23 15:32:30</date>
+    <body>සියලූ ජාතික ප‍්‍රජාවනට සමාන අයිතිවාසිකම් දිනාගැනීම සඳහා ඉදිරියට එන්නැයි මානව හිමිකම් සඳහා ක‍්‍රියාකාරිකයෝ අද දවල් ත‍්‍රිකුණාමල නගරයේදී පෙත්සමකට අත්සන් ගත්හ.</body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-23 16:03:34</date>
+            <index>0</index>
+            <phrase>අපි කවුරුත් එක මවකගේ දරුවෝ ප්‍රසිද්ධියට විතරයි. ක්‍රියාවට ගියාම අපි සිංහල, දෙමළ නැත්නම් මුස්ලිම්. මේක තමයි ඇත්ත තත්වය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-23 16:04:08</date>
+            <index>1</index>
+            <phrase>නොදන්න නිසයි අහන්නේ.මොකක්ද මේකෙන් බලාපොරොත්තු වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුලස්ති</author>
+            <date>2012-08-23 16:47:12</date>
+            <index>2</index>
+            <phrase>අපි අපිම ප්‍රශ්න හදාගෙන දැන් ඒවායින් ගොඩට එන්න දුක්විදිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැටවල</author>
+            <date>2012-08-23 16:59:43</date>
+            <index>3</index>
+            <phrase>ජාතිවාදය නම් අවුස්සන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-23 17:51:50</date>
+            <index>4</index>
+            <phrase>මේවා මෙහෙම හිතන්න තිබුණේ මීට හුගක් දවසකට කලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-23 19:24:19</date>
+            <index>5</index>
+            <phrase>ආදිම මවුපියන් වන්නේ 'ආදම් සහ ඒව' නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2012-08-23 20:04:27</date>
+            <index>6</index>
+            <phrase>දෙමළ මිනිසුන් පවු. කවදා හෝ ඔබ ජයග්‍රහණයක් ලබාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Mohamed Riswan Saudi Arabia</author>
+            <date>2012-08-23 21:22:14</date>
+            <index>7</index>
+            <phrase>සිංහල දෙමළ, මුස්ලිම් අප සියලු දෙනා ලංකිකයන්. සෑම පුරවසියකුටම සම අයිතිවාසිකම් තිබිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-08-23 21:52:47</date>
+            <index>8</index>
+            <phrase>දෙමළ සහ මුස්ලිම් ජනතාවට දැන් මේ රට තුළ මොනවද කරන්න බැරි? කොහේද යන්න බැරි? තවත් මොනවද මේ අය ඉල්ලන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-23 22:42:01</date>
+            <index>9</index>
+            <phrase>ආ ඇත්තද? මට මතක නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත දේවපතිරාජ</author>
+            <date>2012-08-24 00:03:05</date>
+            <index>10</index>
+            <phrase>සිංහලයා තම ජාතිය ගැන කතා කළොත් ජාතිවාදියෙක් වෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-08-24 03:14:04</date>
+            <index>11</index>
+            <phrase>ආදම් සහ ඒවාට දෙමුපියන් ඉඳලා නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-24 07:44:27</date>
+            <index>12</index>
+            <phrase>අපි එහෙම හිතුවට දේශපාලඥයන් එහෙම හිතන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-08-24 09:32:20</date>
+            <index>13</index>
+            <phrase>ජයග්‍රහණය ඇත්තේ සිංහලයාගේම අතේය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන්</author>
+            <date>2012-08-24 11:25:36</date>
+            <index>14</index>
+            <phrase>මේ ෆොටෝ වල ඉන්නේ කවුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-08-24 15:45:22</date>
+            <index>15</index>
+            <phrase>සිංහලයා තම ජාතිය ගැන කතා කළොත් ජාතිවාදියෙක් වෙනවා ජාතිවාදය නම් අවුස්සන්න එපා කතාවනම් ඇත්ත, වාසියට විතරයි. කියමනක් තියනවනේ ‘‘කහ කෑල්ලටත් බෙල්ල කපනවා කියලා"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසින්ත</author>
+            <date>2012-08-25 15:39:42</date>
+            <index>16</index>
+            <phrase>අනේ මන් දන්නේ නෑ මෙයාලට හැදිලා තියෙන ලෙඩේ මොකක්ද කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

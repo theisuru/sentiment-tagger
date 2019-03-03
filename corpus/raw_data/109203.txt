@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>109203</articleId>
+    <title>ආනන්දයේ බක් මහා උළෙල බ්‍රිතාන්‍ය යේදි</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2013 අපේ‍්‍රල් මස 17 20:02:33</date>
+    <body>කොළඹ ආනන්ද විදුහලේ මහා බ්‍රිතාන්‍ය ශාඛාව 30 වැනි වරටත්  බ්‍රිතාන්‍යයේදි අවුරුදු උත්සවය පැවැත්වීය 
+මහා සංඝරත්නයේ ආශිර්වාදය මැද ආනන්ද ආදි සිසුවියන්ගේ සහයෙන් පැවැති මේ උත්සවයේ අවුරුදු කෙළි සෙල්ලම් නැටුම් ගැයුම් ඇතුළු අංග රැසක් ද විය
+ලන්ඩනයේ ශ්‍රී ලංකා මහා කොමසාරිස් දොස්තර ක්‍රිස්  නෝනිස් ද මෙහි ප්‍රධාන ආරාධිතයෙක් විය</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2013-04-17 21:47:37</date>
+            <index>0</index>
+            <phrase>තිස්ස, කවුද මේ ආනන්ද ආදී සිසුවියෝ කියන්නේ? ඔයාට අමු කෙවිලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝසා</author>
+            <date>2013-04-17 21:55:22</date>
+            <index>1</index>
+            <phrase>ආනන්දේ ආදී සිසුවීයන් සොයාගත්තේ කොහොමද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-04-17 22:26:24</date>
+            <index>2</index>
+            <phrase>ආනන්ද විදුහලේ ආදී සිසුවියනුත් හිටියාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2013-04-18 08:03:52</date>
+            <index>3</index>
+            <phrase>මේක ආනන්ද බාලිකා මම හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-04-18 12:21:45</date>
+            <index>4</index>
+            <phrase>අවුරුදු උත්සවයකදී ගෙදර අය ඔක්කොම සහභාගි වෙනවනේ. ඒකවත් තේරුම්ගන්න බැරි මෝඩ රැලක් මෙතන අදහස් දක්වලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2013-04-18 13:09:33</date>
+            <index>5</index>
+            <phrase>මේ දරුවන් සියලුදෙනාම ආනන්ද විදුහලේ ආදී සිසුන්ගේ දරුවන්. එංගලන්තයේ ඉපදී හැදෙන වැඩෙන මේ දරුවන් ලන්ඩන් බෞද්ධවිහාරයෙන් සිංහල සහ බුද්ධ ධර්මය ඉගෙන ගන්නවා. එඅතරේ සිංහල සංස්කෘතිය පිළිබඳව හැකි ප්‍රමාණයකින් උනන්දුවීම ගැන අපි ආඩම්බර වියිතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුසිරු</author>
+            <date>2013-04-18 15:58:58</date>
+            <index>6</index>
+            <phrase>ආනන්ද ආදී සිසුවියන් කිව්වේ ආනන්දෙන් බීඕ එක කරපු අයට වෙන්න ඇති. මම මේ දන්නේ නැති නිසයි අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

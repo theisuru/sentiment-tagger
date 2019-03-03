@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>162528</articleId>
+    <title>උත්තම මුණි දළදා වඩම්මන ඇත් රජු යන ලීලා</title>
+    <author>ෂේන් සෙනෙවිරත්න</author>
+    <date>2013 අගෝස්තු මස 20 20:55:30</date>
+    <body>මහ නුවර දළදා මාලිගාවේ අවසන් රන්දෝලි පෙරහර මීට ටික වේලාවකට පෙර වීදි සංචාරය කිරීම ඇරුඹිණි. මෙවර පෙරහර කරඩුව වඩම්මනු ලබන්නේ නැදුන්ගමුවෙ රාජා හස්ථියා විසිනි.</body>
+    <comments>
+        <comment>
+            <author>ගංගොඩ</author>
+            <date>2013-08-20 22:50:12</date>
+            <index>0</index>
+            <phrase>බුදු සසුන ලොව පුරා බැබළේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල් රණා</author>
+            <date>2013-08-20 22:55:34</date>
+            <index>1</index>
+            <phrase>දළදා අනුහසින් බැරිද මේ රටේ දිනපතා සිදුවන මාර්ග අනතුරු නවත්වාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2013-08-20 23:04:42</date>
+            <index>2</index>
+            <phrase>මගේ රටට දළදා හිමි සරණයි.............මගේ දැයට දළදා හිමි සෙවනයි.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීරෝ</author>
+            <date>2013-08-20 23:27:33</date>
+            <index>3</index>
+            <phrase>මෙවන් සිරිත් ඇත්තේ ලංකාවේ පමණි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-08-21 00:21:15</date>
+            <index>4</index>
+            <phrase>අපේ රටට දළදා සමිදු පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2013-08-21 00:51:58</date>
+            <index>5</index>
+            <phrase>ඒත් රටේ ආධ්‍යාත්මික බවට මොකද වෙලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-08-21 00:52:16</date>
+            <index>6</index>
+            <phrase>උත්තම මුනි දළදා වඩම්මන ''ඇත් රජු යන ලීලා ''බලන් සකි, සාදු!!! සාදු !!! සාදු!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද්‍ර</author>
+            <date>2013-08-21 01:55:54</date>
+            <index>7</index>
+            <phrase>සාධු... සාධු... සාධු... !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් සංජීව</author>
+            <date>2013-08-21 02:08:23</date>
+            <index>8</index>
+            <phrase>එම පුද්ගලයයි හස්ති රාජයයි කොච්චර පින්වන්තද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2013-08-21 02:40:19</date>
+            <index>9</index>
+            <phrase>සාදු සාදු සාදු!!!!!සැමට දළදා සමිඳු පිහිටියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුක</author>
+            <date>2013-08-21 04:10:46</date>
+            <index>10</index>
+            <phrase>සාදු සාදු සාදු.....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2013-08-21 06:39:39</date>
+            <index>11</index>
+            <phrase>සාදු... සාදු.... සියලු රට වැසියන්ට දළදා හාමුදුරුවෝ පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෞම්‍යා</author>
+            <date>2013-08-21 07:04:02</date>
+            <index>12</index>
+            <phrase>සාධු... සාධු... සාධු...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2013-08-21 07:39:03</date>
+            <index>13</index>
+            <phrase>ලොවටම මගේ රටේ අසිරිය පෙනේවා! උත්තම දළදා සමිදුට මගේ නමස්කාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-08-21 07:48:40</date>
+            <index>14</index>
+            <phrase>උත්තම මුනි දළදා වඩම්මන ''ඇත් රජු යන ලීලා ''බලන් සකි, සාදු!!! සාදු !!! සාදු!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහීන්</author>
+            <date>2013-08-21 08:45:09</date>
+            <index>15</index>
+            <phrase>මගේ රටට දළදා හිමි සරණයි.............මගේ දැයට දළදා හිමි සෙවනයි.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-08-21 08:46:06</date>
+            <index>16</index>
+            <phrase>දළදා අනුහසින් මේ රට තව තවත් දියුණු වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2013-08-21 08:50:11</date>
+            <index>17</index>
+            <phrase>සාදු සාදු සාදු!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානුක ප්‍රියන්ත</author>
+            <date>2013-08-21 09:14:23</date>
+            <index>18</index>
+            <phrase>නීල් රණා, හොදක් දකින්න බැරිනම් කරුණාකර අදහස් දැමීමෙන් වැළකි සිටින්න. අපි දන්නවා ඔබ බෞද්ධ විරෝධියෙකු බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් සිල්වා</author>
+            <date>2013-08-21 09:16:14</date>
+            <index>19</index>
+            <phrase>මේ සතාගේ පින්වන්ත බව සහ ආඩම්බරය ඇස් දෙකෙන් පේනවා. යහපතක්ම වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න - මහරගම</author>
+            <date>2013-08-21 10:09:05</date>
+            <index>20</index>
+            <phrase>සාදු සාදු සාදු මෙවන් ආඩම්බරයක් තවත් අපට තියෙනවද? අපේ රටට බුදුසරණයි!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂි</author>
+            <date>2013-08-21 10:14:21</date>
+            <index>21</index>
+            <phrase>දළදා හාමුදුරුවන්ගේ පිහිටයි අපේ රටට...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2013-08-21 10:16:29</date>
+            <index>22</index>
+            <phrase>නීල් රණා, ඔබ කට අරින්න එපා. ඔබගේ මොළය මට පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2013-08-21 10:16:47</date>
+            <index>23</index>
+            <phrase>දළදා වහන්සේ වැඩමවන කකුල් හතරක් තියෙන සතෙකුටත් වඩා අන්තයි නීල් රණා. මෝඩයෙක් වුනාට මෝඩකම ප්‍රදර්ශනය කරන්න එපා. දළදා වහන්සේ යනු අති පුජනිය වස්තුවක් සියලු බෞද්ධ ජනතාවගේ. නැතුව දිනපතා සිදුවන මාර්ග අනතුරු වලක්වන්න තියන භාණ්ඩයක් නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරා</author>
+            <date>2013-08-21 10:30:25</date>
+            <index>24</index>
+            <phrase>නිල් රනා, කියන පුද්ගලයා ඔලුවක් නැති කෙනෙක් කියලා තේරෙනවා දාන අදහස් වලින් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනා</author>
+            <date>2013-08-21 10:34:43</date>
+            <index>25</index>
+            <phrase>සාදු.. සාදු.. සාදු..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත ඩුබායි</author>
+            <date>2013-08-21 10:38:45</date>
+            <index>26</index>
+            <phrase>සාදු.....සාදු....සාදු ..... මගේ රටට දළදා හිමි සරණයි බුදු සසුන ලොවහි බැබලේවා!!! මේ පෙරහැර මේ තත්වෙන් පවත්වනවා කියන්නේ ලේසි පහසු වැඩක් නෙමෙයි. ඒක නිසා මේ සඳහා සහ සම්බන්ධ උසස් නිලධාරියගේ සිට පාර අතුගෑව අන්තිම සරල සේවකයා දක්වා සියලුම දෙනාටත්,බුද්ධාලම්බන ප්‍රීතිය වඩවා ගෙන මේ පෙරහැර නරඹන්නට පැමිණි සෑම සියලුම දෙනාටත් දළඳා සමිඳු පිහිටයි මගේ රටට දළදා හිමි සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2013-08-21 10:50:02</date>
+            <index>27</index>
+            <phrase>මගේ රටට දළදා හිමි සරණේ! දළදා වහන්සේගේ බලයෙන් මෙම රටේ නාස්තිය දුෂණය මිනීමැරුම් නැතිවී, රට කිරියෙන් පැණියෙන් ඉතිරේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2013-08-21 10:51:13</date>
+            <index>28</index>
+            <phrase>හිරා, එක එක මෝඩයෝ බුද්ධාගම ගැන කියන ඒවාට පිළිතුරු දෙන්න යන්න එපා. බුද්ධාගම තියෙන්නේ බුද්ධිමත් සහ මනස දියුණු මිනිසුන්ට පමණයි. අපි දන්නවනේ බුද්ධ ධර්මය අනිත් ආගම් වගේ මැජික් පෙන්නන්නේ නැති බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ෂා</author>
+            <date>2013-08-21 11:04:51</date>
+            <index>29</index>
+            <phrase>ඇයි මේ ඇතුන්ට බොහොමයක් හින්දු නම් දාල තියෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජි</author>
+            <date>2013-08-21 11:04:54</date>
+            <index>30</index>
+            <phrase>සාදු..සාදු...සාදු..සාදු..! ශ්‍රී ලංකාවේ මුදුන්මල්කඩ වන් දළදා හාමුදුරුවන්ගේ පිහිටින් අපේ රටට යහපතක්ම වේවා ...! සාදු..සාදු...සාදු..සාදු..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-08-21 11:32:17</date>
+            <index>31</index>
+            <phrase>මේ නිල් රනා කියන කෙනා හැම අදහසක්ම දාන්නේ නුහුරටමයි. පන්සල් ගියාට වැඩක් නැහැ තුන්දොර අපිරිසිදු නම්! නිල් රනාටත් , ලංකාවාසි සියලු දෙනාටත් දළදා සමිදු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල් රණා</author>
+            <date>2013-08-21 13:12:26</date>
+            <index>32</index>
+            <phrase>මහ වන මැද නිදහසේ සැරිසරණ අලි ඇතුන් යදමින් විලංගුලා මහ මඟ මැද පාවඩලා යවුලෙන් ඇණ දැක්කීමෙන් සිදුවන ප්‍රති විපාකය නම් බල්ලන් බළලුන් සේ මිනිසුන් මහ මඟ මියයාම බව නොවැටහෙන බෞද්ධයෝ සැබෑ දහම නොදන්නා නාමික බෞද්ධයෝ වෙති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-08-21 14:38:27</date>
+            <index>33</index>
+            <phrase>දළදා සමිදු පිහිට ලක්වැසි සැමට ලැබේවා! නිල් රණාට කියන්න තියෙන්නේ "බත් දුන්නට බුද්ධිය දෙන්න බැහැනේ" කියලා විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලූ</author>
+            <date>2013-08-21 14:56:34</date>
+            <index>34</index>
+            <phrase>නීල් රණා කියන්නේ ආගමක් ධර්මයක් නැති කෙනෙක් දෝ කොහෙද? කරුණාකර අදහස් දැමීමෙන් වලකින්න.කිසිම දේක හොඳක්, යහපත් බවක් දකින්නේ නැති මෝඩ මනුස්සයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂික</author>
+            <date>2013-08-21 15:57:30</date>
+            <index>35</index>
+            <phrase>නිල් රනා ,ඔහොම කිව්වට ඔය දැකලා තියෙනවද ඒ සතා දළදා හාමුදුරුවන්ව පිට උඩ තියාගෙන යනකොට එයාගේ කකුල් පාවාඩෙන් එලියට අගලක්වත් යන්නේ නැති විදියට යන්නේ. මේවා පුරුදු කරලා කරන ඒවා නෙමෙයි. සතෙකුට වුනත් බුදුරජාණන් වහන්සේගේ අනුහස දැනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2013-08-21 16:29:10</date>
+            <index>36</index>
+            <phrase>ශෂික , ඇයි එහෙනම් අවුරුදු ගානක් පුරුදු කරපු අලියෙක් තෝරාගත්තේ, දළඳා හාමුදුරුවන්ව තියන්න තිබ්බනේ වල් අලියෙක් පිට උඩ, එතකොට බලාගන්න තිබ්බ අනුහස කොහොමද කියලා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2013-08-21 17:19:26</date>
+            <index>37</index>
+            <phrase>මේ නීල් රනාට හොද දෙයක් පේන්න බැහැ. මොනවා හරි කියලා හැමෝගෙම උපාසයට ලක්වන ඔලුබක්කෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2013-08-21 18:03:58</date>
+            <index>38</index>
+            <phrase>මේ නිල් රනාට හොද බැහැ .මොනවා හරි කියලා හැමෝගෙම උපහාසයට ලක් වෙන ඔලුබක්කෙක් මෙයා පසුගිය දිනක සමිමානයක් ලබාගත් දියනියකට මොකද්දෝ වචන හරඹයක් දැමිමා. එදත් එයා කවුද කියලා හැමෝම දැනගත්තා. මේ අයට ආගමකුත් නෑ ජාතියකුත් නෑ හරිම සංවෙගයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2013-08-21 20:02:54</date>
+            <index>39</index>
+            <phrase>ඇති උත්තම දලදා සමිදුන් වඩම්මන රාජා හස්තියා තරම් පින් කරලා නැතිව ඇති අපි සැවොම....අරනීල්රනා කියන අන්තවාදියාට වඩා පින්කරලා ඇති අර පෙරහැරේ යනඅනිත් ඇත පන්තිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2013-08-21 20:45:42</date>
+            <index>40</index>
+            <phrase>නීල් රණා , මේගොල්ලන්ගේ තර්ජන වලට බයවෙන්න එපා තමන්ගේ අදහස් නිර්බීතව ලියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙතුමි</author>
+            <date>2013-08-21 22:18:20</date>
+            <index>41</index>
+            <phrase>ඕනෑම ආගමක මෙවැනි වූ විචිත්‍ර අවස්ථා පවතිනවා, ඒවායේ ලොකු ගැඹුරකුත් වටිනාකමකුත් තියෙනවා,, ඒවා තේරුම් ගන්න අකමැති මිනිසුත් මේ ලෝකේ ඉන්නවා,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනවීර</author>
+            <date>2013-08-21 23:06:54</date>
+            <index>42</index>
+            <phrase>ශ්‍රී ලංකා වැසියන් සැමටම උතුම් දළදා සමිදුගේ පිහිට ලැබේවා !!! සාදු..සාදු...සාදු..සාදු..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-08-22 00:53:51</date>
+            <index>43</index>
+            <phrase>රාජිත,කට තිබුන පලියට කියවන්න එපා, මෝඩයෙක් වගේ .,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල් රණා</author>
+            <date>2013-08-22 07:21:32</date>
+            <index>44</index>
+            <phrase>අද රෑ ප්‍රවෘත්ති බැලුවා නම් පැහැදිලිවෙයි මේ රටේ මාර්ග අනතුරු වලට ප්‍රධානම හේතුව නියමිත මං තීරුවේ ධාවනය නොකිරීම බව. . සතෙක් කැමැත්තෙන් මෙවැනි දෙයක් කරන්නේ රජෙක් වෙනුවෙන් පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2013-08-22 09:24:32</date>
+            <index>45</index>
+            <phrase>චන්දි , මොකක්ද මගේ මෝඩ අදහස් ?, ඔප්පු කරන්න..ඇත්ත කීවම තිත්තයි නේ ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-08-22 09:47:37</date>
+            <index>46</index>
+            <phrase>වල් අලියෙක් පිට ශ්‍රී දළදා කරඩුව තිබ්බත් ඒකත් සාන්ත දාන්ත ලෙස කරඩුව වැඩම්මවාවී සාදු!!සාදු!!සාදු!!!! ශ්‍රී දළදා සමිදු නමෝ !!!ඔයා මොන ආගමේ ද කියල මන් දන්නේ නැහැ කිසිම ආගමක් අපහාසයට ලක් කරන්න අයිතියක් කාටවත් නැහැ.., ඕනෑම ආගමක් අපහාසයට ලක් කරන්නේ උපන් ගෙයි මෝඩයෝ !!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න මහරගම</author>
+            <date>2013-08-22 10:47:34</date>
+            <index>47</index>
+            <phrase>චන්දි, ඇතුළු බෞද්ධ ආගමික අය වෙතට අන්යාගමිකයන් මොනවා කිවත් ඒවාට අදහස් දක්වන්න එපා අප ඔව්නට අනුකම්පා කරමු. වෙන ආගමකට අපහස කිරීමෙන් එම පිරිසම තමන්වම තමන් විනසකරගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2013-08-22 11:31:11</date>
+            <index>48</index>
+            <phrase>චන්දි, බලමුකෝ වෙන්නේ මොකක්ද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2013-08-22 14:18:24</date>
+            <index>49</index>
+            <phrase>සාදු සාදු !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලු</author>
+            <date>2013-08-22 15:55:38</date>
+            <index>50</index>
+            <phrase>නීල් රණා සහ රාජිත දෙන්නම මෝඩ සත්තු දෙන්නෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙනත්</author>
+            <date>2013-08-23 21:10:59</date>
+            <index>51</index>
+            <phrase>වල අලින්ට බුදුරජාණන් වහන්සේ ගැන ශ්‍රද්දාව ඇති වෙන එක ගැන ප්‍රශ්න නගන කුහක අනුවණයන් , ඒ ගොන් ප්‍රශ්නය අහන තමන්ට මනුෂ්‍යයෙකු උනත් ඒ පින නැති බව නොතේරේ, ඔව්න් ප්‍රශ්න අසන්නේ වල අලින්ට ඇයි ශ්‍රද්දාව නැත්තේ කියයි, නමුත් තමන්ගේ හිල නොපෙනේ. බුදුරජාණන් වහන්සේට වස් කාලයක් පුරා උපස්ථාන කල පරිලේයිය වනයේ ඇත රජු ගැන මොවුන් අස නැත. ර කල හතක පොවා කුපිත කොට පොලව කම්පා කරමින් රුදුරුව ඉදිරියට දුව ආ නාලාගිරි යුද අතු එකම බුදු වදනින් දමනය වී සම්බුද්ද ශ්‍රී පද මුල වැටී වන්දනා කල අයුරු මොවුන් නොදනී. මේ මොහොතේ ලැබී ඇති දුර්ලබ අවස්ථාවේ නැණවත් බුද්ධිමතුන් කරන්නේ අවස්ථාව මග නොහැර මේවා බල සම්බුදුරජාණන් වහන්සේගේ බුදුගුණ සිහිකර ජීවිතයට වටිනා පිනක් රැස්කර ගැනීමයි. අනුවණයන් කරන්නේ දළදා සමිදු දැක්කත් මාර්ග අනතුරු ගැන, වල අලි ගැන සිහි කරමින් තමනුත් පින අහිමි කරගෙන ගොන් කොමෙන්ට් දමමින් අනෙකෙකුගේ පිනටද හානි කිරීමයි. අප්‍රමාදීඅනුවන බාලයන් හිතින් දුරුකර මෙය කියව බල බූදු රජාණන් වහන්සේ ගැන සිත් පහන් කරගෙන පින් රැස් කර ගන්න. තමන්ගේ හිසට සෙවන තම අතමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

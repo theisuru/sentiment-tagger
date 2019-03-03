@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19624</articleId>
+    <title>තරුණියට අතවර කළැයි සුළු සේවක අත් අඩංගුවට</title>
+    <author>දඹුල්ල කාංචන කුමාර ආරියදාස</author>
+    <date>2011 දෙසැම්බර් මස 28 11:49:51</date>
+    <body>දඹුල්ල රෝහලේ විදුලි සෝපානයකදි තරුණියකට අතවර  කළැයි සැකපිට රෝහලේ සුඵ සේවකයකු අත් අඩංගුවට ගත් බව දඹුල්ල පොලීසිය කියයි. අතක සැත්කමකට රෝහල් ගත කළ තරුණිය වෛද්‍යවරයා වෙත ගෙන යද්  අතවරය කළ බව පැමිණිල්ලේ සදහන්ය.</body>
+    <comments>
+        <comment>
+            <author>nonama</author>
+            <date>2011-12-28 11:51:59</date>
+            <index>0</index>
+            <phrase>මෙහෙමත් මිනිස්සු???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus</author>
+            <date>2011-12-28 12:03:42</date>
+            <index>1</index>
+            <phrase>කාවද මේ කාලේ විශ්වාස කරන්නේ ?නායකත්ව පුහුණුව ලබා දෙන්න වෙයිද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන්</author>
+            <date>2011-12-28 13:38:03</date>
+            <index>2</index>
+            <phrase>මේ වගේ අසහනකාරයෝ තමා සමහර රෝහල්වල තවම සේවය කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමිල</author>
+            <date>2011-12-28 13:56:49</date>
+            <index>3</index>
+            <phrase>මෙයට රජකාලේ දඩුවම් දෙන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝසල</author>
+            <date>2011-12-28 15:21:10</date>
+            <index>4</index>
+            <phrase>සුලු සේවක තවත් සැත්කමක් කරන්න හදලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

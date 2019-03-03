@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451645</articleId>
+    <title>වන්නියේ අපරාධ අඩු කරන්න ඩීඅයිජී සැරැසෙයි</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2016 අගෝස්තු මස 28 10:07:43</date>
+    <body>ප්‍රජා පොලිස් කමිටු විධිමත් ලෙස ස්ථාපිත කැර වන්නියේ අපරාධ අවම කිරීමට වන්නි දිසාව භාර නියෝජ්‍ය ‍පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සැරසෙයි.
+වන්නි පළාතේ ග්‍රාම නිලධාරී කොට්ඨාස 33ක් ප්‍රජා පොලිස් කමිටු සඳහා ඇති බලතල විස්තර කළ නියෝජ්‍ය පොලිස්පතිවරයා නිසිලෙස තම වගකීම් ඉට නොකරන්නවුන් ඉවත් කිරීමට පියවර ගන්නා බවද පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-28 05:58:20</date>
+            <index>0</index>
+            <phrase>ඒ කියන්නේ වන්නියේ තවමත් අපරාධ සිද්ධවෙනවා කියන එක නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-08-28 08:53:30</date>
+            <index>1</index>
+            <phrase>නීතියට ඇඟිලි ගැසීමක් නැතුව, පගාවට යටත්නොවී නීතිය ක්‍රියාත්මක වෙනවා නම් මේ රට සුගතියට පත්වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

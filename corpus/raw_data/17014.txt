@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17014</articleId>
+    <title>ජනපතිට පෞද්ගලික වෛද්‍යවරයෙක් නෑ</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 12 10:58:41</date>
+    <body>මහින්ද රාජපක්ෂ ජනපතිට කිසිම පෞද්ගලික වෛද්‍යවරයකු නැතැයි ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක දිනේෂ් ගුණවර්ධන ඇමැති පාර්ලිමේන්තුවේදී ප්‍රශ්නයකට පිළිතුරු දෙමින් පැවැසීය. එජාපයේ දයාසිරි ජයසේකර මහතා ඊළගට ඇසුවේ එලියන්ත වයිට් කවුද යන්නය. ඔහු පෞද්ගලික වෛද්‍යවරයකු නොවන බව ඇමැති පිළිතුරු දුන්නේය.  ජනපතිට පෞද්ගලික වෛද්‍යවරුන් දහසක් වුවත් සිටිය හැකියයි කතානායක චමල් රාජපක්ෂ මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2011-12-12 12:15:06</date>
+            <index>0</index>
+            <phrase>අනුන්ගේ දේවල් හොයන්නේ නැතිව හිටිය නම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2011-12-12 13:33:47</date>
+            <index>1</index>
+            <phrase>පුරුද්දට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්සීසීඑස්</author>
+            <date>2011-12-12 13:12:11</date>
+            <index>2</index>
+            <phrase>වෙන වර්ගයේ වෛද්‍යවරයෙක් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ</author>
+            <date>2011-12-12 14:22:15</date>
+            <index>3</index>
+            <phrase>අනුන්ගේ ඒවා හොයනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්ද</author>
+            <date>2011-12-12 15:06:22</date>
+            <index>4</index>
+            <phrase>අනුන්ගේ දේවල් හොයන්නෙ නැතිව ඉන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lanka</author>
+            <date>2011-12-12 15:20:42</date>
+            <index>5</index>
+            <phrase>ජනාධිපතිතුමා අනුන්ගේ වෙන්නේ කොහොමද, අපේනේ. ඒ නිසා හොදට හොයල බලන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

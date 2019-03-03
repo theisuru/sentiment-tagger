@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>211716</articleId>
+    <title>සිව් වසරකට පසු හුළු ගඟේ ගල් පෑදේ</title>
+    <author>සනත් ඒකනායක</author>
+    <date>2014 පෙබරවාරි මස 20 10:48:37</date>
+    <body>වික්ටෝරියා ජලාශයට ජලය රැගෙන එන මහවැලි ගඟේ ප්‍රධාන අතු ගංගාවක් වන හුළු ගඟ වසර හතරකට පසු හොඳටම සිඳී ඇත.
+වික්ටෝරියා ජලාශයේ ජල මට්ටම ද බෙහෙවින් පහළ බැස තිබේ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-02-20 13:55:04</date>
+            <index>0</index>
+            <phrase>සර්ව බලධාරී දෙවියන් වහන්සේගේ දරුවන්න්ට හිරිහැර කරනකොට රටවල් වලට මෙවැනි දඬුවම් ලැබෙන එක වලක්වන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බේබි</author>
+            <date>2014-02-20 14:38:23</date>
+            <index>1</index>
+            <phrase>තව දුරටත් මේ රටේ ගස් ටික විනාස කරලා දැම්මොතින් ගඟක් තිබුණු තැනක්වත් හොයන්න බැරිවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2014-02-21 10:08:48</date>
+            <index>2</index>
+            <phrase>ඔය කියන සර්ව බලදාරී දෙවියා කොහෙද දන්නෙ නෑ ඉන්නේ. ඔය කියන ජාතියේ දෙවියෙක් ඉන්නවනම් මෙහෙම වෙන්න දෙන්නේ නෑතිව නවත්වන්න එපෑයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2014-02-22 18:29:27</date>
+            <index>3</index>
+            <phrase>චින්තක නිකන් ආගම වලට අගෞරවය කරන්න එපා.මම කුමාරගේ කීමට එකඟයි .තමුන්ගේ වාසිය තකා මිනුස්සුන්ට හිරිහෙර කරගෙන එන්න මේවගේ සමජෙයකට මේවගේ දඩුවම් ලැබෙ නවා .අපි ස්වාභව ධර්මයට ආදරය පරෙස්සම් කරගෙන ජීවතය ගෙන යනවානම් මේවගේ දඩුවම් ලැබෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පනික්කියා</author>
+            <date>2014-02-22 19:58:40</date>
+            <index>4</index>
+            <phrase>චින්තක ආගමකට අගෞරව කරේ කොහොමද? අනිත් අයට වගේම චින්තකටත් තමාගේ අදහස් ප්‍රකාශ කිරීමේ අයිතිය තියෙන්න ඕනි. අකමැතිනම් මේ වගේ ප්‍රසිද්ධ බ්ලොගයක් යොදාගනිමින් තමන්ගේ පුද්ගලික විශ්වාස අනුන්ගේ ඇඟේ ගහන්න යාමෙන් වැළකිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

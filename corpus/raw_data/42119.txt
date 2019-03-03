@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42119</articleId>
+    <title>කුඩු කල්ලියක්ම චෙන්නායි නුවරදී දැලේ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 මැයි මස 13 17:34:15</date>
+    <body>ඉන්දීය රුපියල් දස කෝටියක් වටිනා කිලෝ ග්‍රෑම් 6.6 ක හෙරොයින් මත්ද්‍රව්‍ය තොගයක් භාර ගැනීමට ඉන්දියාවේ චෙන්නායි මධ්‍යම දුම්රිය පොළට පැමිණි ශ්‍රී ලාංකික ජාවාරම්කරුවෙක් ද කතුන් දෙදෙනකු ඇතුළු සිව් දෙනෙක් ද සැකපිට අත්අඩංගුවට ගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>මකරා</author>
+            <date>2012-05-13 18:11:09</date>
+            <index>0</index>
+            <phrase>සිංගප්පූරුවේ ඉන්න අපේ හිතවතාගේ ඉස්පිරිතාල බිල ගෙවන්නනත් එපෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-13 19:45:56</date>
+            <index>1</index>
+            <phrase>දැන් ලංකාවේ අයියලත් ලෝකේ හැමතැනම කුඩු බොදාහරිමේ යෙදිලයි ඉන්නේ. ඔයිට වඩා හොද කුඩු වර්ග ලංකාවේ තියෙනවානේ. මේ කුඩුවලටත් ප්‍රසිද්ධියක් දෙන්නකෝ. මිරිස්කුඩු, තුනපහකුඩු, කහකුඩු, කෝපිකුඩු. ලී කුඩු, දහයියා කුඩු, පොල්කුඩු, තේ කුඩු, මේ ඔක්කොම කුඩු තමයි. මෙිමේවටත් ලෝක වෙලද පොලේ ඉල්ලුමක් දුන්නොත් හොදයි නේද? එතකොට නීතියට බයත් නෑ. හිතටත් හොදයි. සාක්කුවටත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෙරිෆ්</author>
+            <date>2012-05-13 20:15:45</date>
+            <index>2</index>
+            <phrase>හෙරොයින් කුඩුවලට අපේ අය ජාත්‍යන්තර ප්‍රසිද්ධියක් උසුලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රිස්</author>
+            <date>2012-05-13 20:40:51</date>
+            <index>3</index>
+            <phrase>ඔය කට්ටියට එල්ලුම් ගහ දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-05-13 22:34:04</date>
+            <index>4</index>
+            <phrase>එල්ලුම් ගහ කපලා මොරටුවට පටවලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-13 22:39:11</date>
+            <index>5</index>
+            <phrase>කුඩු කල්ලියම කූඩු ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසීර්</author>
+            <date>2012-05-14 00:19:22</date>
+            <index>6</index>
+            <phrase>එල කොල්ලො ටිකක් නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-05-14 00:36:46</date>
+            <index>7</index>
+            <phrase>10% ක් බෙදා ගන්නවනේ.කමක් නෑ.ඔහොම යන්කෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත්</author>
+            <date>2012-05-14 01:13:17</date>
+            <index>8</index>
+            <phrase>මේ අල්ලන කුඩු කොහේ යනවද දන්නේ නෑ.අල්ලන එකේ ඉවරෙකුත් නෑ.ගේන එකේ ඉවරෙකුත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-05-14 02:17:09</date>
+            <index>9</index>
+            <phrase>ඇත්තම තමයි.හිතවතා සිංගප්පූරුවේද? නැතිනම් යුරෝපයේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-05-14 08:31:13</date>
+            <index>10</index>
+            <phrase>ජීවන වියදමේ හැටියට මිනිස්සු කුඩු විකුණල හරි ජීවත් වෙන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් කුමාරසිංහ</author>
+            <date>2012-05-14 12:57:21</date>
+            <index>11</index>
+            <phrase>ඕනෑම හොරකමක් කරලා මුළු මනුස්ස ජාතියට ,අනාගත පරපුරට වසවිස දීල , දැන දැන තමන්ගෙ දරුවන් නැති කරන ඕන කෙනෙකුට උපරිම දඩුවම දෙන්න ,අනෙක ජීවන බර කියල කුඩු ව්කිණීම හරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-14 21:44:48</date>
+            <index>12</index>
+            <phrase>කුඩු කාරයෝ විතරක් අල්ලලා මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බඩී.</author>
+            <date>2012-05-15 10:55:53</date>
+            <index>13</index>
+            <phrase>ජන්මෙට වැඩිය පුරුද්ද ලොකුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 16:01:07</date>
+            <index>14</index>
+            <phrase>ඔය කුඩු කල්ලි ටික කුඩු කරලම දාන්න කෙනෙක් නැති හැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

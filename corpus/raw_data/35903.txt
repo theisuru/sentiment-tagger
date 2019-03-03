@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35903</articleId>
+    <title>උසස් පෙළ සිසුවා ගස් බඳී</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අපේ‍්‍රල් මස 10 15:29:26</date>
+    <body>හරක් හොරකු බව කියන්නකු අල්ලා ගස් බැඳ පොලිසියට බාර දුන් බව දඹල්ලේ ඉහළ ඇරෑවුල වැසියෝ කියති. ගවයන් නව දෙනකු අතුරුදහන්වීමෙන් පසුව ගවහිමියෝ රැකවල්ලා සිටියහ. මොහු උසස් පෙළ සිසුවෙකියි පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-04-10 15:37:12</date>
+            <index>0</index>
+            <phrase>තලන්න තිබුනෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-10 15:36:25</date>
+            <index>1</index>
+            <phrase>ගෙදර අගහිගතාවය නිසා දෙමාපියන්ටත් අමාරැ ඇති. 2500න් ජීවත්වෙන්නත් අමාරැ ඇති. ඒනිසා ලමය ඒ වැඩේට බැහැල ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-04-10 15:46:04</date>
+            <index>2</index>
+            <phrase>තමන්ගේම ගමේ කොල්ලෙක් නම් හදාගන්න බලන්න. මේක කටුගෙයි කඩු හොරකමට වඩා පොඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේඝ</author>
+            <date>2012-04-10 16:12:25</date>
+            <index>3</index>
+            <phrase>දෑන් මේ පොලිස් මහත්තුරු ඉනට අත් දෙක බෑදන් බලන් ඉන්නෙ ඈයි..... මෙ පොඩි එකා ලිහල... මොකක්ද උනෙ කියල පොඩි එකාගෙන් අහන්නෙ නෑතුව..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්.ඒ.ප්‍රභාත්</author>
+            <date>2012-04-10 16:39:05</date>
+            <index>4</index>
+            <phrase>මේ වගේ දරුවන්ව ගස් බැදලා වැඩක් නැහැ. ‍මොනවට හරි මග කියාදීලා පුනරුත්ථාපන කදවුරු වලට යවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-04-10 17:18:49</date>
+            <index>5</index>
+            <phrase>මල්ලි ඔයාට ගැලපෙන හොඳම රස්සාව තමයි දේශපාලනය.... බයනැතිව ජන්දය ඉල්ලන්න දැනට රටේ පවතින ඕනෑම පක්ෂයකින්..... ඔබට ජයනියතයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-04-10 17:51:32</date>
+            <index>6</index>
+            <phrase>ඔය ළමයට වැඩිපුර ඉගෙනීමට සල්ලි අවශ්‍යවෙලා ඇති, නැතුව මෙයා හරක් හොරෙක් නෙවෙයි, ආණ්ඩුවේ ඉන්න ඇමතිවරු බලධාරීන් කරන කෝටි ගණන් දූෂණ හොරකම් පොලීසියට පේනනේ නැද්ද ? අහිංසකයෙක් මාට්ටුවුනොත් තමයි පේන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානකී</author>
+            <date>2012-04-10 17:56:03</date>
+            <index>7</index>
+            <phrase>මේව ඉතින් සිංහල පාසල් වහල දාන එකේ ප්‍රතිඵල තමයි. ඉස්සර අපිට ඉ‍ගැන්නුවේ පාසලක් වහනවා කියන්නේ හිර ගෙවල් 10 ක් අරිනවා කියන එක කියලා. දැන් ඒවා ඇත්තටම ඔප්පුවෙලා පේනවා. අයියෝ අපේ රටට ගිය කලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

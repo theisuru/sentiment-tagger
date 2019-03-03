@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61037</articleId>
+    <title>අලි පව්  කාරයෙක්.</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 අගෝස්තු මස 26 16:56:09</date>
+    <body>හල්තොට යාලගලදී වසදී  බල්ලන් දස දෙනකු හා බළලූන් පස්දෙනකු මරා දැමූ පුද්ගලයකු ගැන අඟුරුවාතොට  පොලීසියට පැමිණිලි කැර ඇත.
+ආහාර වලට වස දමා මහමග තැබීමෙන් කුරුල්ලන්ද මැරී ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>ක්‍රිශාන්ත</author>
+            <date>2012-08-26 18:15:21</date>
+            <index>0</index>
+            <phrase>පුදුම ලෝකයක්නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-08-26 19:19:35</date>
+            <index>1</index>
+            <phrase>යෝගට් වලට වහ දාලා දෙමව්පියන් මැරුව යෝගට් අජාසත්තගෙ නෑ කෙනෙක්ද දන්නෑ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනකා නිරෝෂනී</author>
+            <date>2012-08-26 20:17:23</date>
+            <index>2</index>
+            <phrase>අපායට යන්න පව් එකතුකරනවද කොහෙද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා ඩුබායි</author>
+            <date>2012-08-26 20:46:48</date>
+            <index>3</index>
+            <phrase>ඕව පෙර ආත්මවල ඉදලා එන තිරිසන් ගති.. පව් අහිංසක සත්තු..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-26 20:51:44</date>
+            <index>4</index>
+            <phrase>ඒ මනුස්සය හරි. හැබැයි වලදාන්නත් ඕන‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-26 22:44:45</date>
+            <index>5</index>
+            <phrase>ඔය මනුස්සයට මැරෙන්න වෙන්නෙත් කවදහරි වස කාල තමයි‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2012-08-26 22:52:26</date>
+            <index>6</index>
+            <phrase>අනේ දෙවියනේ මෙහෙමත් අපරාධ .අහිංසක සතුන් මොනවා කරන්නද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-26 23:19:11</date>
+            <index>7</index>
+            <phrase>තිරිසන්නුන්නටත් අන්තයි. උඩින්ම නිරයටයි යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-27 07:22:04</date>
+            <index>8</index>
+            <phrase>මේ රට ගමන් කරන්නේ ධර්ම රාජ්‍යයක් කරා බව ඒ පවුකාරයාට නොදැනුනේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-08-27 07:57:38</date>
+            <index>9</index>
+            <phrase>වරුණට මොළේ අමාරුවක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-27 08:38:31</date>
+            <index>10</index>
+            <phrase>ඇයි ප්‍රියා බෙහෙත් දෙන්නද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉදුනිල්</author>
+            <date>2012-08-27 09:15:23</date>
+            <index>11</index>
+            <phrase>කිරිබත් කන එකක් නෑ මම හිතන්නෙ. මොකද මැරිල තියෙන්නෙ බල්ලොනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තාමණි</author>
+            <date>2012-08-27 11:14:48</date>
+            <index>12</index>
+            <phrase>සත්තු මරණ කොට සතුටුද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-08-27 11:17:14</date>
+            <index>13</index>
+            <phrase>වරුණ, ලංකාව කියන්නේ දැන් ලෝකයේ අපරාධ ඉහළම රටක්. ධර්ම රාජ්‍යයක් වෙයි ඔහොම යනකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-27 11:32:36</date>
+            <index>14</index>
+            <phrase>ඒ මනුස්සයට බල්ලන්ගෙනුයි බළලුන්ගෙනුයි කරදර ඇති.ඒක‍යි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2012-08-27 12:32:13</date>
+            <index>15</index>
+            <phrase>පවට පින් දෙන්න නම් බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-08-27 14:07:14</date>
+            <index>16</index>
+            <phrase>අම්මයි, තාත්තයි, නංගියි තුන් දෙනාටම නිදිපෙති දීලා මරා දමන රටේ බල්ලන් පූසන් ගැන මොන කථාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ් ප්‍රීනා</author>
+            <date>2012-08-27 14:41:31</date>
+            <index>17</index>
+            <phrase>මේ කරපු වැඩේට මේ පුද්ගලයාට නිසි දඩුවම් ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-08-27 15:25:01</date>
+            <index>18</index>
+            <phrase>කරලා තියෙන කරුම මදිවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලොකුගේ</author>
+            <date>2012-08-27 18:56:51</date>
+            <index>19</index>
+            <phrase>ධර්මය ගැන කිසිම දෙයක් නොදන්නා මිනිස්සු තමා දැන් ලංකාවේ ඉන්නේ. බුදුදහම තියෙන රටක් කියලා කටක් ඇරලා කියන්න බැරි තරම් .හාමුදුරුවරු මේ ගැන හිතලා යමක් කළයුතු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජා</author>
+            <date>2012-08-27 20:32:26</date>
+            <index>20</index>
+            <phrase>කිසිම හිතක් පපුවක් නැති මනුස්සයෙක්. මෙයා කවදා හරි මැරෙන්නෙත් ඔය විදියටම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලීල්</author>
+            <date>2012-08-28 00:55:14</date>
+            <index>21</index>
+            <phrase>ලලිත්, ඒකට ඉතිං කුරුල්ලෝ පළිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

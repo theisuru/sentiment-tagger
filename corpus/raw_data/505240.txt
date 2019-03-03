@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505240</articleId>
+    <title>කොළඹ - හම්බන්තොට වරාය විකිණීමේ තොරතුරු සොයයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2017 පෙබරවාරි මස 08 09:55:58</date>
+    <body>කොළඹ වරායේ නැගෙනහිර පර්යන්තය, හම්බන්තොට වරාය සහ ත්‍රිකුණාමල වරායේ තෙල් ටැංකි සංකීර්ණය බදුදීමේ මුවාවෙන් විකිණීමට යන බව කියන සිද්ධිය සම්බන්ධයෙන් තොරතුරු ලබාගැනීමට සමස්ත ලංකා වරාය පොදු සේවක සංගමය අද (8) වරාය හා නාවික කටයුතු අමාත්‍යංශයේ ලේකම් හමුවීමට නියමිතය.
+පෙබරවාරි 3 වැනිදා සිට ක්‍රියාත්මක තොරතුරු දැන ගැනීමේ පනත යටතේ මෙම තොරතුරු ලබාගැනීමට අපේක්ෂිත බවත් අද පෙරවරු 10.30ට කොළඹ චෛත්‍ය පාර පිහිටි වරාය අමාත්‍යංශයේ දී ඒ සම්බන්ධ ලිපියක් බාර දීමට නියමිත බවත් එම සංගමයේ ප්‍රධාන ලේකම් චන්ද්‍රසිරි මහගමගේ මහතා සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>අමිත්</author>
+            <date>2017-02-08 05:09:33</date>
+            <index>0</index>
+            <phrase>ඔබට සතුටුයිද දැන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2017-02-08 05:27:51</date>
+            <index>1</index>
+            <phrase>ඉස්සර ඔය තොරතුරු ඉල්ලුවා නම් 'අතුරුදහන්'</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2017-02-08 05:50:19</date>
+            <index>2</index>
+            <phrase>"ඉස්සර විමසුව තොරතුරු- වුණා නේද රුදුරු, බියකරු...."</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-02-08 06:39:21</date>
+            <index>3</index>
+            <phrase>විකුණපියව් එ්කටනේ ඔබලාව පත් කළේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-02-08 09:01:51</date>
+            <index>4</index>
+            <phrase>විකුණනවා කියන්නේ මොකක් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

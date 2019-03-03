@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>3062</articleId>
+    <title>සනත්ට උතුරේ ආචාරය</title>
+    <author>මාතර ක‍්‍රිෂාන් ජිවක ජයරුක්</author>
+    <date>2011 සැප්තැම්බර් මස 10 13:07:50</date>
+    <body>දකුණේ සංචාරයකට ආ හිටපු කොටි සාමාජික පිල හා ඇමැති ඩලස් අලහප්පෙරුම පිල අතර මාතර සනත් ජයසුරිය ක‍්‍රිඩාංගනයේ දී අද පැවැති ක‍්‍රිකට් තරගයෙන් ආගන්තුක කණ්ඩායම විකට් 9ක ජයක් වාර්තා කෙළේය. ඇමැති පිලට පාර්ලිමේන්තු මන්ත‍්‍රී සනත් ජයසුරිය, ඇමැති චන්ද්‍රසිරි ගජධීර මහත්වරු ද ක‍්‍රීඩා කළහ. ලකුණු 15ක් ලබා සිටි සනත් ජයසූරිය  යාපනයේ නවරත්නම් නවදීපන් විසින් දවා ගැනිණි.</body>
+    <comments>
+        <comment>
+            <author>ඇන්තනී ලාල්</author>
+            <date>2011-09-10 16:02:32</date>
+            <index>0</index>
+            <phrase>මේ වගේ වැඩ සටහන් පෙන්වීම ගැන ආඩම්බර වෙනව. ලෝකයටම ලොකු ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dimuthu</author>
+            <date>2011-09-10 17:09:56</date>
+            <index>1</index>
+            <phrase>ජාතීන් අතර සමගිය වර්ධනය කර ගැනීමට කළ හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

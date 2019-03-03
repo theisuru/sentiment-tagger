@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41857</articleId>
+    <title>රවිගේ නඩුවට තව ලියැවිලි ඉල්ලයි</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 මැයි මස 11 18:41:29</date>
+    <body>රට සල්ලි පාලන නීති රීතිවලට එරෙහිව එතෙර සමාගමකට ලැබුණු ඇමෙරිකා ඩොලර් දස ලක්ෂයක් හෙවත් රුපියල් කෝටි 130 ක් කිරුලපන ස්ටෑන්ඩඞ් චාර්ටඞ් බැංකුවේ තැන්පත් කළැයි එජාප පාර්ලිමේන්තු මන්ත‍්‍රී රවී කරුණානායක මහතා හා තවත් අයකුට එරෙහිව පවරා ඇති නඩුවට සම්බන්ධ සියලූ ලියැවිලි සමග බැංකු නිලධරයකු එවන්නැයි කොළඹ මහාධිකරණය ශ්‍රී ලංකා මහා බැංකුවට නියෝග කළේය. ලින්කන් පියදාස අනෙක් සැකකරුය. යුනියන් බැංකුවේ කොටස් මිලට ගැනීම සඳහා ඇමෙරිකාවේ ගැලියන් ආයෝජන සමාගමේ රාජ් රාජරත්නම් ඔහුට තවත් ඇමෙරිකා ඩොලර් විසි ලක්ෂයක් (රුපියල් කෝටි 230) ක් කරුණානායකට එවා ඇතැයිද පැමිණිල්ලේ දැක්වේ.</body>
+    <comments>
+        <comment>
+            <author>වීරකෝන්</author>
+            <date>2012-05-11 21:08:14</date>
+            <index>0</index>
+            <phrase>හිතාගන්න බැරි දේවල් තමයි දැන් වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් චන්ද්‍ර ද සිල්වා</author>
+            <date>2012-05-11 21:36:14</date>
+            <index>1</index>
+            <phrase>මේ නඩුව පළිබඳව ඔබතුමාගේ පුවත්පත නිවැරැදි වාර්තා මගින් පාටකයාව දැනුම්වත් කරන්නේනම් බෙහෙවින් කෘතක්ඥ වෙමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>P.Ratnayake</author>
+            <date>2012-05-11 23:29:11</date>
+            <index>2</index>
+            <phrase>රවි කවුද කියල ඔයාල දන්නෙම නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසූල්</author>
+            <date>2012-05-11 23:45:28</date>
+            <index>3</index>
+            <phrase>කාගෙද දන්නේ නෑ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2012-05-12 03:27:44</date>
+            <index>4</index>
+            <phrase>තව තව දේවල් එලියට එයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-05-12 08:57:34</date>
+            <index>5</index>
+            <phrase>ඔය පනින්නේ බළලා මල්ලෙන් එළියට.තව හොද හොද සෙල්ලම් ඉස්සරහට බලා ගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-05-12 09:05:55</date>
+            <index>6</index>
+            <phrase>කතා කරන්නේ නම් හරියට බුදු වෙලා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-12 10:06:59</date>
+            <index>7</index>
+            <phrase>ඇයි හිතා ගන්න බැරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-12 11:07:27</date>
+            <index>8</index>
+            <phrase>ටීචර් කිවුවා බිංදු වල අගයක් නෑ කියලා.අපේ රටේ පොඩි මිනිස්සුන්ට බිංදුව තමයි උරුම හැමදාම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2012-05-12 13:17:59</date>
+            <index>9</index>
+            <phrase>තවදුරටත් මේවට ඉඩතියන්න හොද නැහැ. ඒ නිසා මේ මුදල් රාජසන්තක කරන්න ඕනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-05-12 13:24:43</date>
+            <index>10</index>
+            <phrase>මැති ඇමැතිල කොච්චර ඉන්නවා ද කෝටි ගණන් ගිලපු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>jeeva</author>
+            <date>2012-05-12 13:30:31</date>
+            <index>11</index>
+            <phrase>රවි කරුණනායක ඇතුලු එක්සත් ජාතික පක්ෂ නඩය ල0කා රජයට එරෙහිව කොටි ස0විදානෙටත්,ඇමරිකා කොටි හිතවාදීන්ටත් කඩේ යන්නේ මේ හේතුව නිසා තමයි.ඔය මුදල් දීල ඇත්තේ කොටස් මිලදී ගන්න නෙමෙයි. මේ රජය පෙරලා දාල,අපි දිනාගත්ත සාමය නැතිකරන්න.මේ නඩයට, අපේ රටේ බොරු ප්‍රශ්න ඇතිකරල රට විනාශ කරන්න ඇමරිකාවෙන් මුදල් ලැබෙනබව අපි එදා සිටම කිව්ව.තවදුරටත් මේවට ඉඩතියන්න හොද නැහැ. ඒ නිසා මේ මුදල් රාජසන්තක කරන්න ඕනෙ.ඒ වගේම එක්සත් ජාතික පක්ෂයට කඩේ යන අයත් මේ ගැන තේරුම් ගන්න ඕනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-12 13:46:16</date>
+            <index>12</index>
+            <phrase>මේකත් ප්‍රසිද්ධවෙන්න කොරන උප්පරවැටිටියක්ද කොහෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>RUPASINGHE</author>
+            <date>2012-05-12 14:05:49</date>
+            <index>13</index>
+            <phrase>මොවුන්, දේශයක් පාලනය කරන්න එන්නේ ඇත්තටම දේශය ගැන ඇති ආදරය හා කැක්කුම නිසාද නැතිනම් මොවුන් ගේ පවුල් පරම්පරා ගැන ඇති කැක්කුම නිසාද යන්න ගැන අප විමසිලිමත් වීම දැන් කාලෝචිත ප්‍රශ්නයක්වී ඇති බව පැහැදිලිය. මොවුන් අප ඉදිරියට පැමිණ කතා කරන විට අපේ ඇතැමුන්ට මෙම කතා හරියට කනට මී පැණි දමනවා වගේ. මේ සදහා අපි කලයුත්තේ කුමක්දේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-05-12 14:26:34</date>
+            <index>14</index>
+            <phrase>හැමෝම එකයි.ඒත් "අපි කන හැටි ලිපා දනී කිව්වලු".</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-05-12 18:48:58</date>
+            <index>15</index>
+            <phrase>මෙයාට මේක විසදගන්න බැරිවුනොත් පැත්ත මාරුකරයි.අතීතයේ ඔහොම කරපු අය යහතින් තාම ඉන්නවා. ජයන්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-05-12 19:39:27</date>
+            <index>16</index>
+            <phrase>මේ එකක් විතරක් , තව කොච්චර මේ වගේ දේ වෙනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගණන් කාරයා</author>
+            <date>2012-05-13 14:03:35</date>
+            <index>17</index>
+            <phrase>මුදල් අනුපාත ගණනය නිවැරදි නැත USD 1 = LKR 130 USD ලක්ෂ 10 = LKR ලක්ෂ 10 * 130 USD මිලියන = LKR මිලියන 130 මිලියනය 10 = කෝටි 1 USD ලක්ෂ 10 = කෝටි 13 USD ලක්ෂ 20 = කෝටි 26</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 23:06:24</date>
+            <index>18</index>
+            <phrase>හප්පා ලොකු ලොකු අයට තියෙන සල්ලි වැඩිවීම නිසා ඇතිවී ඇති මූල්‍ය අර්බුද දැක්කම නිර්ධනයෙක්ව ඉන්න එක තරම් වෙන සැපක් නැතැයි කියලා හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

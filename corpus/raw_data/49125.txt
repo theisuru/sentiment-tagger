@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49125</articleId>
+    <title>යුරෝපා ණය බරට චීනෙන් එන්නතක්</title>
+    <author></author>
+    <date>2012 ජූනි මස 20 11:45:12</date>
+    <body>යුරෝපා සංගමය මුහුණපා සිටින ආර්ථික අර්බුදය හමුවේ ලෝක ආර්ථිකය කඩා වැටීමේ අවදානම වළක්වා ගැනීමට ජාත්‍යන්තර මූල්‍ය අරමුදල පිහිට වූ හදිසි ආපදා අංශය වෙත චීනය ඩොලර් කෝටි 4300ක් (රුපියල් කෝටි 537500ක් පමණ) පසුගියදා ප‍්‍රදානය කිරීමට ප‍්‍රතිඥා දුන්නේය.
+යුරෝ කලාපයේ ණය අර්බුදයට මුහුණපා සිටින රටවලට අත්වැලක් වන මේ මුදලත් සමග එම අරමුදලේ සංචිතය ඇමෙරිකානු ඩොලර් 456ක් (රුපියල් කෝටි 5700000ක්) දක්වා ඉහළ යයි.</body>
+    <comments>
+        <comment>
+            <author>කින් බානට්</author>
+            <date>2012-06-20 23:16:48</date>
+            <index>0</index>
+            <phrase>කවුද කියන්නේ මේක මේ ප්‍රදානයක් කියල .? මේක ප්‍රදානයක් නෙමෙයි ..මේක ආයෝජනයක් .... ඔය සල්ලි නැවත ලැබෙන්නේ පොලිත් එක්ක ..අනික ඔය සල්ලි වියදම් කරන්නේ දුප්පත් රටවල් වලට නයට දෙන්නයි ..... IMF එකට සල්ලි දානවා කියන්නේ එක තනිකර ආයෝජනයක් විතරයි .. ප්‍රදානයක් කියන්නේ නිකන් දෙන දේවල් වලටනේ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2012-06-21 09:07:59</date>
+            <index>1</index>
+            <phrase>ධනවාදයට වඩා සමාජවාදය හොඳයි වගේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-21 10:02:32</date>
+            <index>2</index>
+            <phrase>මුළු ලෝකෙම චීනයට ණය කාරයෝ වෙයි වගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාමා</author>
+            <date>2012-06-21 19:45:09</date>
+            <index>3</index>
+            <phrase>ණයට දෙන්න නම් ඕන තරම් කට්ටිය ඇති.. මේක ප්‍රධානයක් ම වෙන් ඇති කිංබානට් පුතේ‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්</author>
+            <date>2012-06-22 07:33:51</date>
+            <index>4</index>
+            <phrase>චීනය කැමති නැහැ යුරෝප ආර්ථිකය කඩාගන වැටෙනවා බලන්න. ඒ ගොල්ලෝ හදන බඩු විකුනන්නේ මේගොල්ලන්ට නිසා චීනය බලන්නේ කොහෝම හරි නායකත්වය දීල යුරෝපය ගොඩගන්න . මොකෝ පොලියත් එක්ක සල්ලි හම්බවෙනවා ඒවගේම තමන්ගේ බඩු ටිකත් විකිනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-06-22 10:19:47</date>
+            <index>5</index>
+            <phrase>ඇයි අන්කල් සෑම් ළග නැද්ද සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් ප්‍රියන්ත</author>
+            <date>2012-06-23 01:03:15</date>
+            <index>6</index>
+            <phrase>දුප්පත් රටවල්වල මිනිස්සු යුරෝපයට රස්සාවල් වලට ගිහින් දැන් යුරෝප් චල ඉන්න ඒරටවල් වල අයටත් රස්සාවල් නැහැ. එම නිසා තමයි යුරෝපය ණයවෙලා තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙනී</author>
+            <date>2012-06-23 07:40:19</date>
+            <index>7</index>
+            <phrase>මේ වගෙන් පේන්නේ ලංකාවේ දේශපාලන බුද්ධියක් තියෙන්නෙ සුලු පිරිසකට කියලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-25 10:16:20</date>
+            <index>8</index>
+            <phrase>ආ... පෙන්නන්නකෝ බලන්න ඔයාලගේ දේශපාලන බුද්ධිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

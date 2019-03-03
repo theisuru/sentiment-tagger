@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>480962</articleId>
+    <title>ජනපතිට,අගමැතිට ළංවෙන්න ගිය තරුණයාට ඇප</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 17 10:27:55</date>
+    <body>ආචාර්ය අමරදේවයන්ගේ ආදාහන උත්සවයට මාධ්‍යවේදීයකු ලෙසින් පැමිණ ජනපතිට අගමැතිට ළං වීමට තැත් කළැයි රිමාන්ඩ් බාරයේ සිටි සපුමල් දේවින්ද කුමාර රුපියල් ලක්ෂ පහක ශරිර ඇපයක් මත මුදා හැරීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ගිහාන් පිලපිටිය මහතා අද (17) නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-11-17 10:06:43</date>
+            <index>0</index>
+            <phrase>අනේ මන්දා, ලංකාවේ පිරිමින්ට පාරේ තොටේ බැහැලා යන්න බැරි කලියුග කාලයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනනි</author>
+            <date>2016-11-17 11:53:08</date>
+            <index>1</index>
+            <phrase>ජනතාව මෙවැනි දේ පිලිබඳ අවදානයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2016-11-17 11:52:56</date>
+            <index>2</index>
+            <phrase>ඡන්දෙ ඉල්ලන්න මහජනයා ලගට ලංවෙන්න පුළුවන්, ඒ ඡන්දෙන් බලයට පත් උනාම මහජනයා අරහන් ලංවෙන්නත් බැහැ පේන්නත් බැහැ, උදවුත් නැහැ, නමුත් බද්ද ඕන එයාලට වැජබෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

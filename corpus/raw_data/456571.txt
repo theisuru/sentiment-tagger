@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456571</articleId>
+    <title>වෙද සිසු සිරුර නොරිස්කැනෑල් බෝඩිමේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 11 18:08:11</date>
+    <body>නොරිස් කැනෑල් පාරේ වෛද්‍ය ශිෂ්‍ය නේවාසිකාගාරයේ 96 කාමයේ සිටි බව කියන සිසුවෙක් පසුගිය බ්‍රහස්පතින්දා දහවල් ආහාරයෙන් පසු දැක නැතැයි ද අද (11) කාමරයෙන් ගඳක් ආ බවද පොලිසියෙන් කියයි. ඔහුගේ සිරුර ලඟ සේලයින් බෝතල් 10 ක් හා පොඩි කුප්පියක් තිබූ බවත් පොලිසිය කියයි
+මිය ගිය ශිෂ්‍යයා පාරින්ද සෙනවිරත්න නැමැත්තෙක් බව හඳුනාගෙන ඇතැයි ද පොලිසිය කියයි.
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සිරිලාල්</author>
+            <date>2016-09-11 13:29:18</date>
+            <index>0</index>
+            <phrase>වසර 18 පෙරුම්පුරා මහන්සිවී ප්‍රතිපල නෙලා නොගත් කෙනෙකි. පියා හා මව කොපමණ දුක් විදින්නට ඇත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2016-09-11 13:44:07</date>
+            <index>1</index>
+            <phrase>මේක බයානක දෙයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2016-09-11 15:18:52</date>
+            <index>2</index>
+            <phrase>දෙමාපියෝ පව්! කොච්චර දුක්විඳින්න ඇද්ද මේ තත්වයට ගෙනෙන්න? මොනතරම් බලාපොරොත්තු තියෙන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-09-11 15:35:32</date>
+            <index>3</index>
+            <phrase>වෙද සිසුවෙක් නිසා පරලොව ගමන ඉක්මන් කරගැනීම සඳහා අවශ්‍ය බෙහෙතුත් වෛද්‍ය‍ පීඨයෙන්ම ගෙන තිබෙනවා වගෙයි පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-09-11 15:57:55</date>
+            <index>4</index>
+            <phrase>ආතතිය සහ දැඩි පීඩනයකින් ඉගෙනගැනීම මෙයට හේතුවිය හැකිය. සිසුන් ක්‍රීඩා, සෞන්දර්ය කටයුතු වල නියැලීමෙන් මෙය අවම කරගත හැකිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-12 02:45:07</date>
+            <index>5</index>
+            <phrase>මේ දරුවාට මතු භවයකදී හෝ නිවන සාක්ෂාත් කරගැනීමට හැකිවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදර්ශන මනමේන්ද්‍ර</author>
+            <date>2016-09-12 07:49:46</date>
+            <index>6</index>
+            <phrase>ඔහු ඉතාමත් දක්ෂ ශිෂ්‍යයෙක්. දිස්ත්‍රික් කුසලතාවය 1 ද දිවයිනේ කුසලතාවය 10 ලබාගත් ඔහු කිසිදු බාහිර පන්තියක් සඳහා උවමනාවෙන් සහභාගි නොවිය. බාහිර කිසිදු ක්‍රියාකාරකමකට හෝ සහභාගි නොවුණු ඔහු විෂය කටයුතුම පමණක් කළ අයෙකි. ඔහු හට මෙය කෙසේවිද මට සිතාගත නොහැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-09-12 11:31:12</date>
+            <index>7</index>
+            <phrase>විෂය කටයුතු පමණක් කිරීම මේකට හේතු වුණා වෙන්න බැරිද ? අධික මානසික ආතතිය කාටවත් හොඳ නැහැ. උසස් අධ්‍යාපනය තියා රැකියාවක් කලත් ඉඳ හිට විනෝදාංශයක් සඳහා විෂය භාහිර කටයුත්තක් කරා යොමු වීම වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

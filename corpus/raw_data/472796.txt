@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>472796</articleId>
+    <title>‘මාධ්‍ය විවේචනය කළත් මර්දනයක් නැහැ‘</title>
+    <author>හර්ෂණ තුෂාර සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 25 20:27:43</date>
+    <body>වත්මන් ආණ්ඩුව බලයට ගෙන ඒමේදී සුවිශේෂී කාර්යභාරයක් ඉටු කළ බවත් ජනවාරි 8 වැනිදා ජනවරම පාවා නොදී කටයුතු කිරීමට සියලු දෙනා කටයුතු කළ යුතු බව විදේශ අමාත්‍ය මංගල සමරවීර මහතා අද (25) විදේශ අමාත්‍යංශයේ පැවැති මාධ්‍ය හමුවකදී පැවැසීය. 
+ආණ්ඩුවේ කටයුතු ප්‍රකාශවලින් නොව ක්‍රියාවලින් තීරණය කරන්න යැයිද ඔහු එහිදි කීවේය. 
+මාධ්‍ය විවේචනය කළ ද ඉන් කිසිදු මාධ්‍ය මර්දනයක් සිදුව නැතැයි කී අමාත්‍යවරයා අද වනවිට සක්‍රීය මාධ්‍ය සංස්කෘතියක් බිහිව ඇතැයි ද කීය. 
+සිවිල් සමාජයේ හෝ මාධ්‍යට තමා චෝදනා නොකරන බව ද එම පාර්ශවවල වරදක් තිබුණහොත් ආණ්ඩුව හෝ තමා ඒවා පෙන්වාදෙන බව පැවැසූ ඇමැතිවරයා සියලු පාර්ශව තම තමන්ගේ අඩුපාඩු සකසා ගත යුතු බව ද කීවේය.</body>
+    <comments>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-10-25 21:58:56</date>
+            <index>0</index>
+            <phrase>සම්පූර්ණ ඇත්ත. මර්දන නැහැ. තර්ජන පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-10-25 23:18:25</date>
+            <index>1</index>
+            <phrase>අපි බලමු කතාවේ හැටියටම වැඩත් තියෙයිද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-10-26 02:12:33</date>
+            <index>2</index>
+            <phrase>අනේ මොකටද මගේ කට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්දි</author>
+            <date>2016-10-26 02:44:46</date>
+            <index>3</index>
+            <phrase>අර කුරුඳු පොලු විප්ලවය කෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-10-26 03:08:42</date>
+            <index>4</index>
+            <phrase>අනේ මොකටද මගේ කට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-10-26 03:26:41</date>
+            <index>5</index>
+            <phrase>එතකොට අර කෙනෙක් කිවුවේ පාර්ලිමේන්තුවේදී "මම පත්තර කොම්පැනි අයිතිකාරයෝ ගෙන්වනවා මීළඟ පාර" ඒවා තර්ජන නෙමෙයිද? තව ඕනෑතරම් කියන්නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-10-26 04:18:41</date>
+            <index>6</index>
+            <phrase>වැරදි පෙන්වාදෙන මෙයාලා ලංකාවේ ඉන්නවද කිසිම වෙලාවක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

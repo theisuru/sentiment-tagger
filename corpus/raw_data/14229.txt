@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14229</articleId>
+    <title>දුප්පත්කම වැඩි වෙලා</title>
+    <author>බිඟුන් මේනක ගමගේ</author>
+    <date>2011 නොවැම්බර් මස 23 13:49:52</date>
+    <body>මෙරට දිළිඳුකම සියයට අටයි දශම නවය දක්වා පහළ බැස ඇතැයි ජනාධිපති අය වැය කතාවේදී පැවසුව ද ඔහුගේම ගියවර (2011) අය වැය කතාව අනුව දිළිඳුකම සියයට එකයි දශම තුනකින් අද ඉහළ ගොස් ඇතැයි ජනතා විමුක්ති පෙරමුණේ ප්‍රචාරක ලේකම් පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>කපුරුහාමි</author>
+            <date>2011-11-23 15:16:13</date>
+            <index>0</index>
+            <phrase>වෙන්න බැහැ. අනිවාර්යයෙන් උදවු වෙන අපි. පහුගිය දවස් වල යාචකයන් මරපු හැටියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

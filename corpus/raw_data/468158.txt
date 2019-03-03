@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468158</articleId>
+    <title>මාධ්‍යවේදියාට ගැසී යැයි හමුදා සැරයන්ට ඇප</title>
+    <author>තරිදු ජයවර්ධනටෝනි කරුණානායක</author>
+    <date>2016 ඔක්තෝබර් මස 14 11:34:46</date>
+    <body>රිවිර හිටපු ප්‍රධාන කතෘ උපාලි තෙන්නකෝන් මහතාට පහර දී තුවාල සිදු කිරීම සම්බන්ධයෙන් රිමාන්ඩ් භාරයේ සිටි හිටපු බුද්ධි අංශ මාණ්ඩලික සැරයන් ප්‍රේම් ආනන්ද උදලාගම රුපියල් 25000ක මුදල් සහ රුපියල් ලක්ෂ පහ බැගින් වූ ශරීර ඇප තුනක් මත මුදාහරින ලෙස ගම්පහ ප්‍රධාන මහේස්ත්‍රාත් කවින්දා නානායක්කාර මෙනවිය නියෝග කළාය.</body>
+    <comments>
+        <comment>
+            <author>හරිශ්චන්ද්‍ර</author>
+            <date>2016-10-14 12:53:40</date>
+            <index>0</index>
+            <phrase>බුද්ධි අංශ නිලධාරියෙක් මෙහෙමද හැසිරෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-10-14 13:37:32</date>
+            <index>1</index>
+            <phrase>දැන් රටේ හැමතැනම චණ්ඩි බෝවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

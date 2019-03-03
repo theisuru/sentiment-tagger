@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>320165</articleId>
+    <title>සිංහයා බලුවේ</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2015 මැයි මස 27 10:35:55</date>
+    <body>හඹා එන කුළු හරක් රංචුවකට බියෙන් ගස්බඩගානා සිංහයකු කෙන්යාවේ මසායි මාරා වනෝද්‍යානයේ සැරිසරමින් සිටි චාර්ල්ස් කොමින්ගේ කැමරාවේ සටහන් විය.
+සංචාරය අවසන් කර නැවත නවාතැන බලා ඒමට තීරණය කළ අවස්ථාවේදී අහම්බයෙන් මෙන් මෙම සිදුවීම දුටු බව ඔහු කියයි.
+සිංහයා කුළු හරක් රංචුවේ පැටවකුට කුරුමාණම් අල්ලමින් සිටියේය. පැටවා ගොදුරු කරගැනීමට ඔන්න මෙන්න තිබියදී ඉව වැටුණු වැඩිහිටි කුළු හරකුන් කලබල වීම නිසා සිංහයාගේ බලාපොරොත්තු සුන්විය.
+පසුපස හඹා ආ කුළු හරකුගෙන් බේරීමට සිංහයාගේ පිහිටට පැමිණ ඇත්තේ අසළ තිබූ ගසකි.
+කුළු හරක් රංචුවද ගස යටට පැමිණි බව චාර්ල්ස් පවසයි.සතුරාට එසේ ලෙහෙසියෙන් ගැලවීමට ඉඩදීම ඔවුන්ගේ අරමුණ නොවුණු සෙයකි.
+අමාරුවෙන් බඩගාගෙන ඉහළට නැගගත්තද නැවත නැවතත් පහළට ලිස්සන්නට වීම නිසා ගසේ රැඳී සිටීමට ගත් උත්සාහය අතහළ සිංහයා ගොරවාගෙන බිමට පැන පසුනොබලා කැලයට වැදුණේය.
+මේ සියල්ල ඡායාරූපයට නැගීමට චාර්ල්ස් කොම්යින් සමත්ව තිබෙන අතර එම ඡායාරූපයන්ට මේ දිනවල අන්තර්ජාලයේ මෙන්න මාධ්‍ය වලද ලැබී ඇත්තේ මහත් පිළිගැනීමකි.</body>
+    <comments>
+        <comment>
+            <author>මධූෂා</author>
+            <date>2015-05-27 05:25:03</date>
+            <index>0</index>
+            <phrase>උපක්‍රමික පසු බැසීම කියල දැම්මනම් හොදා නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාවලගේ</author>
+            <date>2015-05-27 05:52:42</date>
+            <index>1</index>
+            <phrase>අපෙත් සිංහයෝ කියල සමාන කරගන්න සමහර නායකයන් අන්තිමට බලු වෙන්නේ මෙහෙමම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික</author>
+            <date>2015-05-27 06:07:51</date>
+            <index>2</index>
+            <phrase>සිංහයා දැන් ඔය බලුවෙලා ගියාට ආයේ මල් වට්ටියකුත් උස්සගෙන ඒවිද දන්නේ නෑ ලජ්ජා නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-05-27 06:23:26</date>
+            <index>3</index>
+            <phrase>සිංහයා තාම බලුවෙලා නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-05-27 06:26:11</date>
+            <index>4</index>
+            <phrase>චාමික, ඔබ නම් හරියටම හරි මල් අරගෙන එ්වි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යද්දෙහි ආරච්චි</author>
+            <date>2015-05-27 06:29:11</date>
+            <index>5</index>
+            <phrase>මල් වට්ටියකුත් උස්සගෙන එන්න ඕන නෑ.පොඩ්ඩක් හැරිලා බැලුවම ඔය ගවරැලට සුලුදිය පහවන හැටි දැන් පෙනෙනවා නේද චාමික ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2015-05-27 06:31:38</date>
+            <index>6</index>
+            <phrase>සිංහය බලුවෙනකොට බල්ලො සිංහයො වෙන්න හදනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-05-27 06:35:31</date>
+            <index>7</index>
+            <phrase>මඩුෂා, උපක්‍රමික පසු බැසීම් කාලයකුත් තිබුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-05-27 06:45:30</date>
+            <index>8</index>
+            <phrase>පසුගිය කාලේ මී හරකුන් ඇනල සිංහයන් මැරුවා. බළල් පවුලේ සතෙක්නෙ . රජෙක් නොවෙයි කැලේ ත්‍රස්තයා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2015-05-27 07:45:56</date>
+            <index>9</index>
+            <phrase>මේකා දුවගෙන ගියේ කොයි පැත්තටද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-05-27 07:49:53</date>
+            <index>10</index>
+            <phrase>සිංහයා බලුවෙන කාලය එතරම් ඇතක නොවේ. එදාට කාටත් තේරේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2015-05-27 07:50:42</date>
+            <index>11</index>
+            <phrase>ඇතැම් විට මහලු සිංහයෙක් හිවල් රංචුවකට මැදිව මරණයට පත් වුනොත් , ප්‍රවෘත්තිය යන්නේ සිංහයෙක් මිය ගිය පුවත මිස හිවලුන් ගැනනම් නොවේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2015-05-27 08:02:11</date>
+            <index>12</index>
+            <phrase>අයියෝ දැන් සිංහයා බලු වෙලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2015-05-27 08:30:43</date>
+            <index>13</index>
+            <phrase>ඌ තනිවම නිසා වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිවිතුරු</author>
+            <date>2015-05-27 08:37:46</date>
+            <index>14</index>
+            <phrase>ඔය සිංහයා සිංහලයාට සමාන කරගත්තානම්, අද සමාජයේ ඉන්න අනිත් මෝඩ කුලු හරක් වැඩිවෙන කොට මේ සිංහයන්ටත් අත්වන ඉරණම අනාගතයේදී සිංහලයන්ටත් අත්විය හැකි බව අපට හිතාගන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2015-05-27 08:38:26</date>
+            <index>15</index>
+            <phrase>සිංහයා කියන්නේ මැරෙන්නේ නැති සතෙක් නොවෙයි නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-05-27 08:44:25</date>
+            <index>16</index>
+            <phrase>බණ්ඩා, තාම සිංහයා බලුවෙලා නැහැ. එහෙම නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සසංක</author>
+            <date>2015-05-27 09:06:10</date>
+            <index>17</index>
+            <phrase>සිංහයා තන කොළ කන්නේ නැහැනේ ...ඔය හරක් රංචු පිටින් ආවත්..තර්ජනය හමුවේ පසු බැස්සත් , අවසානයේ වු මරා දැමීමට ලක් වුවත් සිංහයා තණකොළ නම් කිසිදා නොබුදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2015-05-27 09:06:36</date>
+            <index>18</index>
+            <phrase>ඔය සිංහයාත් පන්සල් ගානේ ගිහින් කියයිද දන්නේ නෑ දැන් කුළු හරක් කැලේ විනාස කරනවා කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වර්ණසූරිය</author>
+            <date>2015-05-27 09:12:55</date>
+            <index>19</index>
+            <phrase>මේ මොකද මේ වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2015-05-27 09:14:06</date>
+            <index>20</index>
+            <phrase>ඔය සිංහයා කැලේ අනෙක් සතුන්ගේ දේවල් මාටියා ගහල නැද්ද දන්නේ නෑ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිරි</author>
+            <date>2015-05-27 09:30:22</date>
+            <index>21</index>
+            <phrase>පහුගිය කාලේ සමහර නරිත් සිංහයෝ කියල හිතාගෙන හිටිය එක ගැනයි මට නම් දුක?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2015-05-27 10:00:45</date>
+            <index>22</index>
+            <phrase>දැන් බල්ලෝ සිංහයෝ වෙලා. හරක්ට තාවකාලිකව මාර ජොලියක්. ඒ හරක්ගේ හැටි . හැබැයි පස්සේ සිංහයෝ වටකරලා ගේම දෙනකොට හරක්ට උණු ගොම යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමාල්</author>
+            <date>2015-05-27 10:29:32</date>
+            <index>23</index>
+            <phrase>සිංහලයන්ටත් ඕක තමා වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමාෂා</author>
+            <date>2015-05-27 10:31:58</date>
+            <index>24</index>
+            <phrase>හරක්ට තාවකාලිකව මාර ජොලියක් තිබුනට තර්ජනය හමුවේ පසු බැස්ස සිංහයව පස්සෙන් පන්නන මෝඩකමක් ඒ හරක්ට නම් තිබිල නැහැ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-05-27 10:47:02</date>
+            <index>25</index>
+            <phrase>අනේ මන්ද මෙතැන මේ හැමෝම සිංහයාට මහා ගෞරවනීය තත්ත්වයක් දෙන්න හැදුවට මට නම් සිංහයා කියන්නේ අනුන්ගේ මසින් තම උදරය පුරවගන්න තිරස්චින සතෙක් , සමහර අනුගාමිකයෝ තමන්ගේ නායකයන්වත් සමාන කරන්න හදන්නේ මේ වගේ තිරස්චිනයෙකුටනම් අනේ ඉතින් උඹල හැමෝටම මේ තුන්සරණේ සරණයි කියල තමයි කියන්නේ වෙන්නේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසවතී</author>
+            <date>2015-05-27 11:10:46</date>
+            <index>26</index>
+            <phrase>ඔය ඔක්කම තව කාලෙක කුලුහරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරුද්ධ ජයසුන්දර</author>
+            <date>2015-05-27 12:05:06</date>
+            <index>27</index>
+            <phrase>කැලේ රජා සිංහයා වුනාට,සිදාදියේ රජා සිංහයා නොවේ ...මිනිසාය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිවිතුරු යහපාල</author>
+            <date>2015-05-27 12:14:59</date>
+            <index>28</index>
+            <phrase>පිටබැද්දර ජයෝ, අපි අපේ ජාතික කොඩියෙන් වගේම තියෙන හැම තැනකින්ම සිංහයා සළකුණ ගලවලා දාමු.මොකද ඔයාලා වගේ අයට ඒක නිතර දකිනකොට හිසරදයක් වගේනේ.අනෙක ජාතිවාදයත් ඇවිස්සෙනවනේ! අපි අපේ ජාතික කොඩිය පාට තුනකින් දාමු.එතකොට ඔයාලා වගේ අයට නින්දයාවි හොඳට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිත</author>
+            <date>2015-05-27 12:42:47</date>
+            <index>29</index>
+            <phrase>සිංහයා බලු වෙන්නේ මේ වෙලාවට තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2015-05-27 12:56:33</date>
+            <index>30</index>
+            <phrase>මේ වගේ සිද්ධියක් දක්නට ලැබෙන්නේ කලාතුරකින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2015-05-27 13:01:40</date>
+            <index>31</index>
+            <phrase>මල්ලි සිංහයා බලු උනත් සිංහ සෙයියාවෙන් තමයි ඉන්නේ. මීහරක රජ උනත් කරන්නේ මි හරක් වැඩමයි. ඉන්නේ මි හරකෙක් වගේ. කරන්නේ. දාන්නෙත් මි හරක් පාට් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2015-05-27 13:24:27</date>
+            <index>32</index>
+            <phrase>ඔය සිංහයා මිහරක්ට බයේ දුවද්දී සිංහයාගේ ඇඟේ වහල හිටිය මැක්කන්ට සහ ඇටමැස්සන්ට කොච්චර නම් බියක් දැනෙන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2015-05-27 13:33:36</date>
+            <index>33</index>
+            <phrase>දත් හැලුණු සිංහයා බල්ලෙක් තරම් වත් වටිනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2015-05-27 13:34:33</date>
+            <index>34</index>
+            <phrase>දුටුගැමුණු රජ්ජුරුවොත් කොත්මලේ හැංගිලා හිටියාලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2015-05-27 13:36:01</date>
+            <index>35</index>
+            <phrase>සිංහයා නාකි වුණාම පරණ සෙල්ලම් දාන්න බෑ. ගුහාවට වෙලා ඉන්න ඕන .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2015-05-27 13:40:17</date>
+            <index>36</index>
+            <phrase>සිංහයා ගොදුරක් හොයා ගන්නකම් නරි රංචුව පස්සෙන්ම තමයි . නරි බොහෝවිට සිංහයා කාල ඉතිරිවන කුණ තමයි රසකර කර කන්නේ. සමහර සිංහයන්ගේ පැටවුත් නරි රංචුවට එක්වෙන අවස්ථා තියෙනවා. සමහර සිංහයන් සද්දේ දානවා විතරයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියනාත්</author>
+            <date>2015-05-27 13:42:22</date>
+            <index>37</index>
+            <phrase>ලලිත් මල්ලි, එයාගේ සෙයියාව සිංහ වුණාට වැඩ නම් බලු.., කරන වැඩවල හැටියට ඔලුවේ අං විතරයි අඩු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2015-05-27 14:40:50</date>
+            <index>38</index>
+            <phrase>ආත්මාරක්ෂාව සඳහා සිංහයා එසේ කළ එක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බද්‍රානි</author>
+            <date>2015-05-27 15:40:10</date>
+            <index>39</index>
+            <phrase>අනේ මොකට කියනවද ඒ ටික මේ දවස් වල ඔයකියන සිංහයොත් සිඟාලයෝ වෙලානේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේදර</author>
+            <date>2015-05-27 17:14:42</date>
+            <index>40</index>
+            <phrase>සිංහයා මේ තරම් බයනම් සිංහලයෝ මොන තරම් බයවේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2015-05-27 17:33:06</date>
+            <index>41</index>
+            <phrase>සිංහයා ඔය තරම් බයනම් අපිටත් ගහ උඩ නගින්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-05-27 18:31:06</date>
+            <index>42</index>
+            <phrase>අහිංසක සතෙක් මරාගන්නවා කනවා බුදියනවා,ඇනුම් අරිනවා. මු හුඟක් අසරණ වෙන්නේ වතුරේදී. කිඹුලට අහුවෙනකොට කිසිම ගැලවීමක් නැහැ. බල්ලගෙන් ,මී හරකගෙන් තියෙන ප්‍ර යෝජනයක් සිංහයාගෙන් නැති උනත් සමහරු බළල් පවුලේ මිලේච්ඡ සතෙකුට තියෙන ආදරයක්. සමහරවිට මු ලංකාවේ නැති නිසා වෙන්න ඇති. බඩ ගින්නේ මලත් මී හරකා මළකුණු කන්නේ නැහැ. සොබා ධර්මය ඒකයි අගය කල යුත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූජි</author>
+            <date>2015-05-27 19:55:35</date>
+            <index>43</index>
+            <phrase>මේ සිංහයාට පොල් රැවුලක් එහම තියනවද බලන්න හොදට. තිබ්බනම් ආයේ එනවා බොරු. මී හරක් ටික අනින්න එනෝ කිය කියා වනන්තරේ දෙවනත් වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාහිදා රාහුමාන්</author>
+            <date>2015-05-27 21:50:31</date>
+            <index>44</index>
+            <phrase>ඔය දුවන දිවිල්ලට කාව අල්ලලා කාවිද දන්නේ නැහැ නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2015-05-27 23:40:10</date>
+            <index>45</index>
+            <phrase>අපේ රටෙත් ඉන්නවානේ සිංහයන් කියල හිතල වේදිකාවල බෙරිහන් දෙන අසවල් වර්ගයේ සත්ව කොට්ටාශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2015-05-28 00:19:26</date>
+            <index>46</index>
+            <phrase>ඔහොම තමයි හැමදාම මමයි රජා කියාගෙන ඉන්න ලැබෙන්නේ නැහැ. කැලේ රජාත් ගස් බඩ ගාන තත්වයට පත් වෙන්න පුළුවන්. ඒ වුනාට ඉතින් ඒ ටික මිනිස්සුන්ටත් නොතේරෙන එකේ මේ තිරිසනුන්ට තේරේවිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2015-05-28 00:26:35</date>
+            <index>47</index>
+            <phrase>මේ කුළු හරක් රන්චුව සිංහයා පසුපස හඹා ගෙන එන්නේ එසැන පුවත් පාඨක බවලතුන් කලකට පෙර අපේ කට වැරදුනු සහෝදර පාඨක භවතෙකු පිටුපස දුවගෙන ආපු විදියටමයි. මට ඒ රසවත් අතීතය මතක් වුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුකී</author>
+            <date>2015-05-28 00:29:11</date>
+            <index>48</index>
+            <phrase>මේ ලොම් හැලිච්ච සිංහයා අපේ යහපාල උන්නැහේට යස අගේට ගැලපෙනවා. ගෙදර ගෙනිහින් ඇති කරන්න අපුරු සුරතල් සතා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2015-05-28 00:54:34</date>
+            <index>49</index>
+            <phrase>නවීන් , මේකා බේරෙන්න දුවගෙන ගියේ නාරාහේන්පිට අබයාරාමෙට (නදී).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිලෝ</author>
+            <date>2015-05-28 00:58:46</date>
+            <index>50</index>
+            <phrase>ගස් බඩ ගාපු සිංහයා දැක්කම මට එක්තරා කඩේ යන අප්පු කෙනෙක් මතක් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පික</author>
+            <date>2015-05-28 01:54:17</date>
+            <index>51</index>
+            <phrase>වචනයක් වැරදිලා, අර බවලත් පාඨකයන් ටික පසුපස හඹා ගෙන එනවිට අපේ බන්දුල පෙරේරාත් දෙවියන් සිහිකර ගස් නැග්ගේ මෙන්න මෙහෙමයි. නේද පිවිතුරු ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී යෝගනාතන්</author>
+            <date>2015-05-28 01:58:26</date>
+            <index>52</index>
+            <phrase>අනේ සිංහයාගේ ප්‍රශ්නය පටලගන්න හදනවා දැක්කම ලැජ්ජයි. එය අපි මනුෂ්‍යාගේ කෝණයෙන් පමණක් බලමු. විහිළුවටවත් නැවත අර තිරිසන්නනුන්ට අන්ත විදියට නොහැසිරිමට වග බල ගමු. වචනයන් හෝ අපි අසමගිය කරා නොයාමට අදිටන් කර ගමු. ඔබ සියලු දෙනාට තෙරුවන් සරණයි - දෙවි පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් විජේසිංහ</author>
+            <date>2015-05-28 03:15:54</date>
+            <index>53</index>
+            <phrase>මීහරක් රැල විතරක් නෙමෙයි සූකර ගහනයත් බොහොම අපූරුවට බලන් ඉන්නව සිංහය බලු වෙනකන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්සා</author>
+            <date>2015-05-28 03:27:51</date>
+            <index>54</index>
+            <phrase>හරකුන්ගේ කණ්ඩායම් හැගීමත්,සිංහයාගේ ප්‍රඥාන්විත පසු බැසීමත් ඉතාමත් අපූරුයි.ස්වභාවධර්මය ලෝක සමබරතාව කොතරම් හොදින් රකිනවාද කියල බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලන්සා</author>
+            <date>2015-05-28 03:27:00</date>
+            <index>55</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාල</author>
+            <date>2015-05-28 04:53:29</date>
+            <index>56</index>
+            <phrase>පිට බැද්දර ජයා කියන්නේ තණකොළ කන හරකෙක් වෙන්න ඇති නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකරත්න -ශාන්ත</author>
+            <date>2015-05-28 05:11:12</date>
+            <index>57</index>
+            <phrase>තමන්ගේ ශක්තිය නොදන්නා අයට හොඳ ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2015-05-28 05:35:37</date>
+            <index>58</index>
+            <phrase>ඔය ගොඩක් කට්ටිය සිංහයව විවේචනය කරලා තියෙන්නේ මොකද? සිංහයා ඔය ඔක්කොටම නිදහසේ ඉන්න හදලා දුන්න එකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙජි-සිඩ්නි</author>
+            <date>2015-05-28 06:02:20</date>
+            <index>59</index>
+            <phrase>සිංහයා වුණත් තැනට සුදුසු විදිහට මොලේ පාවිච්චි කරලා වැඩ කරන්න ඕනි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-05-28 08:18:19</date>
+            <index>60</index>
+            <phrase>සිංහයා බලු තැනට දාලා කතා කරන අයගේ සිංහල ජාතිකත්වය නැතිවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2015-05-28 08:55:43</date>
+            <index>61</index>
+            <phrase>මු අර බොරුවට කෑගහන ලංකාවේ බලු සිංහයෙක් වගේ එකෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කනිෂ්ක</author>
+            <date>2015-05-28 09:18:32</date>
+            <index>62</index>
+            <phrase>සොබාදහම මවපු අපුඋර්ව දෙයකටවත් දේශපාලනය ගාවාගන්නේ නැතුව එක රසවිදින්න දාන්නේ නැති මිනිස්සු කොට්ටාසයක් තමයි අපේ රටේ ඉන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2015-05-28 11:35:33</date>
+            <index>63</index>
+            <phrase>සිංහයා සිංහයෙක් හැටියට හඳුනාගත් සැමට මෙන්න සැලියුට්,,,,,,,, අපි සිංහයා එක්කමයි........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේදර</author>
+            <date>2015-05-28 11:52:33</date>
+            <index>64</index>
+            <phrase>දේශපාලනය කරපු සිංහයෙක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේදර</author>
+            <date>2015-05-28 11:58:30</date>
+            <index>65</index>
+            <phrase>බෝධි පුජාවක් කළානම් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-05-28 12:17:34</date>
+            <index>66</index>
+            <phrase>කැමැති කෙනෙක් තිරිසනකුට සමාන කර ගත්තට කමක් නෑ.තමන්ගේ කැමැත්ත ආසාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2015-05-28 12:20:50</date>
+            <index>67</index>
+            <phrase>පිටබැද්දර ජයා,මේගොල්ලන්ගේ කෙනෙක් වගේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-05-28 12:22:51</date>
+            <index>68</index>
+            <phrase>ජාතික වීරයෝ බළල් සාමාජිකයෙකුට සමාන කරන එක නිගරුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-05-28 12:28:16</date>
+            <index>69</index>
+            <phrase>සිංහයා වදවෙමින් පවතින සතෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානිස්</author>
+            <date>2015-05-28 14:24:11</date>
+            <index>70</index>
+            <phrase>සිංහයාගේ මුණ දැක්කාම කාවද මතක් වෙනවා මට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාපාල</author>
+            <date>2015-05-28 16:09:45</date>
+            <index>71</index>
+            <phrase>සිංහයෙක් කියල හිතාගෙන හිටියට කරලා තියෙන්නේ මිහරක්ගේ කෑමත් හොරා කාපු එක තමයි. එකනේ අද ගස් උඩට වෙලා මල් කඩ කඩා ඉන්න වෙලා තියෙන්නේ. එ්ත්, සමහර මිහරක්ට ඒකවත් තේරෙන්නේ නැහැ. මොනවා කරන්නද ඉතින් උන් මිහරක්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-05-28 17:03:51</date>
+            <index>72</index>
+            <phrase>හරකත් සතෙක්, සිංහයාත් සතෙක්.හරකාට සිංහයාට වඩා ශක්තියක් තිබෙනවා. නමුත් නල දත් දෙක නිසා අහිංසක මුවන් වැනි අහිංසක සතුන් පහසුවෙන් ගොදුරුකර ගන්නවා.සිංහයා බලුවෙනවා නම් හොඳයි. මොකද මිනිසාට බල්ලාගෙන් හරකාගෙන් තිබෙන ප්‍රයෝජනය අති විශාලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2015-05-28 18:45:47</date>
+            <index>73</index>
+            <phrase>ඇත්තටම නියම ඡායාරූප ටික!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේදර</author>
+            <date>2015-05-28 19:02:39</date>
+            <index>74</index>
+            <phrase>හොඳට දැකලා පුරුදු සිංහයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2015-05-28 20:10:51</date>
+            <index>75</index>
+            <phrase>අපේ සිංහයෝ කණු උඩමයි ඉන්නේ. මේ සිංහයා වගේ ගස් උඩ බඩගායිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේමිස්</author>
+            <date>2015-05-29 02:16:24</date>
+            <index>76</index>
+            <phrase>සිංහයා තණකොළ නොකෑවට කොමිස් කනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එකමුතු</author>
+            <date>2015-05-29 04:21:44</date>
+            <index>77</index>
+            <phrase>මෙතනින් ඉගෙන ගතයුතු පාඩම වනුයේ " එකමුතුකම සහ කණ්ඩායම් ශක්තිය හමුවේ දැවැන්ත බලවේග පරාජය කළහැකි බවයි " එහෙම නැතිව දේශපාලකයින්ට කඩේ යමින් එකිනෙකාට අපහාස වන පරිදි අදහස් ප්‍රකාශ කිරීම නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2015-05-29 04:52:14</date>
+            <index>78</index>
+            <phrase>බඩගිනි වුණාට තණකොළ කන්නේ නැති වුණාට මට නම් හිතෙන්නේ අනේ සිංහයෝ ඔයා තණකොළ කැවා නම් මිට වඩා නම්බුයි නේද කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-05-29 05:56:10</date>
+            <index>79</index>
+            <phrase>සිංහයා ගිය දුරක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2015-05-29 07:49:17</date>
+            <index>80</index>
+            <phrase>මෙයා දැන ගත්තා එකෙක් අල්ල ගත්තොත් වටෙන්ම කන්න වෙනවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2015-05-29 08:02:25</date>
+            <index>81</index>
+            <phrase>සිංහයා මෙතන හොදට මොලේ පාවිච්චි කරලා තියෙනවා බේරෙන්න. නමුත් මතක තියාගන්න උෟ අායෙත් ඇවිත් ගොදුරක් කරගන්නෙත් මේ සත්තුන්වම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිත</author>
+            <date>2015-05-29 10:49:55</date>
+            <index>82</index>
+            <phrase>කොටි මරපු සිංහයට හරකා මොකාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදිකා</author>
+            <date>2015-05-29 11:24:02</date>
+            <index>83</index>
+            <phrase>මොලේ පාවිච්චි කරලා බේරෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2015-05-29 11:28:11</date>
+            <index>84</index>
+            <phrase>තැනේ හැටියට ඇනේ ගහලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙන්සිල්</author>
+            <date>2015-05-29 11:27:07</date>
+            <index>85</index>
+            <phrase>හොඳ වෙලාවට කොටි රැලකට බයේ නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එසෝ</author>
+            <date>2015-05-30 13:23:43</date>
+            <index>86</index>
+            <phrase>අනේ සිංහ පුතේ කොටි දැක්කොත් දුවන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

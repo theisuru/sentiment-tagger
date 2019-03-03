@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458655</articleId>
+    <title>කාරයක් කඩේකට ගිහින් : 9ක් රෝහලේ</title>
+    <author>චමිල් රූපසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 18 10:26:38</date>
+    <body>කඩුගන්නාව පොදු වෙළඳපොළට අද (18) උදේ කාරයක් කඩා වැදීම නිසා එහි සිටි 9 දෙනෙක් රෝහල්ගත කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>චන්න</author>
+            <date>2016-09-18 06:51:09</date>
+            <index>0</index>
+            <phrase>ඔයින් ගියා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2016-09-18 07:52:48</date>
+            <index>1</index>
+            <phrase>සතිපොළේ ඇතුල්වන තැන 99 මාත් බේරුනේ. කුඩා දරුවෙක් ,කාන්තාවක් සහ පිරිමි කෙනෙක් අනතුරට පත්වුණා .පිරිමි කෙනාට නම් හොඳටම ඔලුව තුවලවුණා.ඔහුට සුවය ප්‍රර්ථනා කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-18 09:17:43</date>
+            <index>2</index>
+            <phrase>දැන් මේ පුංචි කාර් කාරයින්ගෙන් බේරෙන්න වෙලා තියෙන්නේ පාරේ යනකොට. කාර් එකට ඔරොත්තු නොදෙන වේගෙකින් නේ මෙයාලා යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-09-18 10:19:32</date>
+            <index>3</index>
+            <phrase>තියෙන සබ්බ සකලමනාවම උගස් තියලා ගන්නවා, රිය පදවන්න දන්නෙත් නෑ, අනිත් මනුස්සයෙකුට පාරේ වාහනයක යන්න ඉඩ දෙන්නෙත් නෑ, ඒ මදිවට මිනිස් ජීවිත හා දේපොළ වලටත් හානි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2016-09-18 11:39:32</date>
+            <index>4</index>
+            <phrase>මාර්ග අනතුරු සිදුවෙනවා. ඉස්සරත් සිදුවුණා. දැන් රටේ වාහන වැඩි නිසා වැඩිපුර සිදුවෙනවා. ඕවා ඔහොම තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-09-18 20:17:13</date>
+            <index>5</index>
+            <phrase>දැන් කඩේ යන්නේ බ්රේක් නැති මළකඩ කාපු වාහනද? පදික වේදිකාවල යන අය පරෙස්සමින් යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

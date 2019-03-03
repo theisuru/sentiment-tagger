@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495514</articleId>
+    <title>දෙන්නෙක් මඟමරු සමඟ යති</title>
+    <author>බිමල් ශ්‍යාමන් ජයංසිංහ</author>
+    <date>2017 ජනවාරි මස 03 14:03:26</date>
+    <body>වස්කඩුවේ දී ත්‍රීරෝද රියක් පෙරළී අම්මාත් දුවත් මියගොස් ත්‍රීරෝද රිය පැදවූ තරුණීය හා තවත් අයෙක් තුවාල ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>රසිත්</author>
+            <date>2017-01-03 11:24:21</date>
+            <index>0</index>
+            <phrase>බැරි වැඩ නොකරන් අබරෝ කිව්වලු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2017-01-03 14:17:26</date>
+            <index>1</index>
+            <phrase>අපරාදේ ජීවිත දෙකක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

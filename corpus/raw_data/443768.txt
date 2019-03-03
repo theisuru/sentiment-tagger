@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443768</articleId>
+    <title>වෙළෙන්දෝ පදික වේදිකාවට බසිති</title>
+    <author>එච් චන්දන</author>
+    <date>2016 අගෝස්තු මස 03 11:30:00</date>
+    <body>පුත්තලම කුරුණෑගල කොළඹ මාර්ගයේ පුත්තලම නගර සිමාවේ රඹුටන් වෙළෙන්දෝ පදික වේදිකාව යළි  ආක්‍රමණය කර  සිටිති.  ඒ නිසා පාර  මැද යන්නට සිදු වී  ඇතැයි මහජනයා කියයි.
+පුත්තලම මහනගර දෙපාර්තමේන්තුවත්,පොලිසියත්,නගර සභාවත් එක් එක් ආයතනයට  බෝලය පාස් කරමින් සිටින බව කියති.</body>
+    <comments>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-08-03 07:12:39</date>
+            <index>0</index>
+            <phrase>මේක නම් පුදුමම රටක් ..? කිසිම නීතියක් නැති පාලකයන්ගෙන් වැඩක්ම නැති රටක් ..?ලැජ්ජයි ? පිට රට වල පාරක පේව්මන්ට් එකක කොළ කැබැල්ලක් මහා ජනයාගේ ප්‍රයෝජනයට ඇති පේව්මන්ට් එක කිසිවෙකු විසින් ආක්‍රමණය නොකළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පා</author>
+            <date>2016-08-03 07:35:31</date>
+            <index>1</index>
+            <phrase>ගෝඨා නැති කල ඔබට සතුටුයිද දැන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැටිපහන</author>
+            <date>2016-08-03 07:37:08</date>
+            <index>2</index>
+            <phrase>ලංකාවේ මිනිස්සුන්ගේ කැත පුරුද්ද තමයි පාරේ අයිනෙන් බඩු ගන්න එක. පිළිවෙලකට කඩේකට ගිහිල්ල බඩු ගන්න පුරුදු කරන එක ලෙහෙසි නැහැ. වෙළෙන්දොත් පුලුවන්නම් පාර මැදට හරි ගනීවි තමන්ගේ දේවල්. නිතිය අකුරට ක්‍රියාත්මක වෙනවනම් මේවා හදාගන්න එක ලොකු දෙයක් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-03 09:18:02</date>
+            <index>3</index>
+            <phrase>මේ පළාත් පාලන ආයතනවල වැඩ මෙහම තමයි. ඡන්ද ක්‍රමයෙන් මහජන නියෝජිතයෝ තෝරන එක නැතිකරලා, රාජ්‍ය සේවයේ නිලධාරීන්ට බලතල දෙන්න ඕනේ. එතකොට ඒ නිලධාරීන් නීතියට බැඳිලා ඉන්නවා. දේශපාලඥයෝ වගේ නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-08-03 11:16:03</date>
+            <index>4</index>
+            <phrase>හෆිල් මොන ලෝකෙද ඉන්නේ? දැන් කොහෙද ලංකාවේ පළාත් පාලන ආයතන වල මහජන නියෝජිතයෝ ඉන්නේ, ඔක්කොම පාලනය කරන්නේ කොමසාරිස් වරුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2016-08-03 19:56:16</date>
+            <index>5</index>
+            <phrase>මෙය යහපාලන යුගයයි! ඔබට සතුටුයිද දැන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-08-03 21:25:50</date>
+            <index>6</index>
+            <phrase>ඕක තමා කියන්නේ. කට නැති වැඩ ඇති ගෝඨාභය ඕනෑ රටක් හදන්න නම්. කොහොම ලස්සනට හදාගෙන අාපු රටද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

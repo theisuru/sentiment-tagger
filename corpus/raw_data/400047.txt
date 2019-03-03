@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>400047</articleId>
+    <title>ජපන් චන්ද්‍රිකාවක් අතුරුදන්?</title>
+    <author>නිලූක සඳුන් බණ්ඩාරනායක</author>
+    <date>2016 මාර්තු මස 30 08:49:36</date>
+    <body>ජපානය   කක්ෂිගත කරන ලද චන්ද්‍රිකාවක් අතුරුදන් වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+පසුගිය මස කක්ෂ ගත කරන ලද හිටෝමි නම් චන්ද්‍රිකාව මෙලෙස අතුරුදහන් වී තිබේ. හිටෝමි යන්නෙහි අර්ථය ඇසෙහි කළු ඉංගිරියාව යන්නයි. එය කක්ෂගත කිරීමේ අරමුණ කළු කුහර, නියුට්‍රෝන තාරකා මෙන්ම චක්‍රාවාට නිරික්ෂණය,අවකාශය සහ වස්තුන් නිරීක්ෂණය කිරීම බව සදහන්ය.
+චන්ද්‍රිකාව කක්ෂගත කළ දා  සිට එය සමග සන්නිවේදන සම්බන්ධතා තිබූ නමුත් හදිසියේ එම සම්බන්ධතා ගිලීගි ගිය බවට කියති. පෘතුවියේ නිරීක්ෂකයින් එහි දිලිසෙන ස්වභාවයක් දුටු බවත් එය කඩාවැටීමේ ලක්ෂණ පෙන්වූ බවත් වාර්තා වේ.
+මේ වන විට එම චන්ද්‍රිකාව සමග සම්බන්ධතා නැවත පිහිටුවීමට උත්සහ ගන්නා අතර එයට කුමක් වුවාද යන්න තවමත් අපැහැදිලි බව නිලධාරීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-03-30 06:50:46</date>
+            <index>0</index>
+            <phrase>ඉස්සර ලංකාවෙනුත් එකක් යැව්වා. යවපු වෙලාවේ ඉඳලා ආගිය අතක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2016-03-30 08:27:19</date>
+            <index>1</index>
+            <phrase>අපේ කාගෙන් හරි අහුවානම් අතුරුදන් ඒවා ගැන විස්තර හොයාගන්න එයා හරි දක්ෂයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලොකුගේ</author>
+            <date>2016-03-30 11:10:47</date>
+            <index>2</index>
+            <phrase>අනේ අපේ එකත් අතුරුදහන් කරවන්නකෝ කවුරුහරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින් යහම්පත්</author>
+            <date>2016-03-30 11:37:12</date>
+            <index>3</index>
+            <phrase>අපේ ලංකාවේ කිසිවකු ඔය හරියේ නොගිය නිසා ලංකාවේ කෙනෙකු නොකළ බව විශ්වාසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2016-03-30 11:46:45</date>
+            <index>4</index>
+            <phrase>කළු කුහරයක් හම්බවෙලා එ්කට ඇදිලා ගියාද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-04-01 05:37:40</date>
+            <index>5</index>
+            <phrase>ෂුවර් එකටම ඕක අපේ රටේ ඇති. චන්ද්‍රිකා වලට කැමති අය මෙහෙත් හිටියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

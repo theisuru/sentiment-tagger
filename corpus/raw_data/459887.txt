@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>459887</articleId>
+    <title>රනිල් පොත් ප්‍රදර්ශනය බලයි</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2016 සැප්තැම්බර් මස 21 13:21:45</date>
+    <body>ශ්‍රී ලංකා පොත් ප්‍රකාශකයන් ගේ සංගමය 18 වැනි වරටත් සංවිධානය කළ කොළඹ ජාත්‍යන්තර පොත් ප්‍රදර්ශනය නැරඹීමට අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ මහතා අද (21) බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාවට පැමිණියේය.
+අගමැතිවරයා ප්‍රකාශන ආයතන අලෙවි කුටිවලට යමින් පොත්පත් බලමින් බොහෝ වේලාවක් ගත කළේය.</body>
+    <comments>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2016-09-21 10:47:57</date>
+            <index>0</index>
+            <phrase>ඉතා හොඳ බුද්ධියක් ඇති අපේ කාලයේ නිහතමානී දේශපාලනඥයෙකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-09-21 11:10:08</date>
+            <index>1</index>
+            <phrase>මොන පොතක් පෙරළයි ද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-21 12:46:16</date>
+            <index>2</index>
+            <phrase>මෙතුමාගේ බුද්ධිය වැඩකරන්නේ බලය ලබාගන්නාතුරු පමණි. බලය පවත්වාගෙන යාමට හෝ රටට වැඩ කිරීමට ඒ බුද්ධිය වැඩකරන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

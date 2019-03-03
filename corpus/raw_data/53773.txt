@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53773</articleId>
+    <title>ගල්ඔය සමාගම හිඟුරානට පණ දෙයි</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2012 ජූලි මස 16 18:36:38</date>
+    <body>හිඟුරාන සීනි කම්හලේ සීනි නිෂ්පාදනය අත්හදා බැලීමේ මට්ටමින් අද ඇරැඹිණි. ගල්ඔය වැවිලි සමාගම කම්හල යළි ඇරැඹීය. රජයට එහි කොටස් 51කි.</body>
+    <comments>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-07-16 22:50:41</date>
+            <index>0</index>
+            <phrase>මේ සීනි හදන්නද? නැත්නම් අතුරු නිෂ්පාදන වැඩි කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-07-16 23:29:29</date>
+            <index>1</index>
+            <phrase>අපිත් කැමති රජයේ ආයතන හොදට කරගෙන යනවනම් . ... නමුත් කොච්චර කාලයක් මෙහෙම උකු වලින් හදාවිද කියන එක තමා ප්‍රශ්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-07-16 23:59:39</date>
+            <index>2</index>
+            <phrase>සීනි කෙසේ වෙතත් ඇල්කොහොල් ස්ප්‍රීතු නිපදවයිද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමොනිකා</author>
+            <date>2012-07-17 00:13:27</date>
+            <index>3</index>
+            <phrase>මලකඩ සහ කුනුජරව සමග සීනි. ලෙඩ ගොඩ ගොඩවල් රටට දෙනවා. පුදුම අපිරිසිදු විදිහට වැඩ කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගැමුණු</author>
+            <date>2012-07-16 23:36:34</date>
+            <index>4</index>
+            <phrase>අවසානය යහපත් නොවුණත්, ආරම්භය සුභ ගමනක මුලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-17 02:04:29</date>
+            <index>5</index>
+            <phrase>හොද දෙයක් . ගොඩක් දෙනෙකුට රැකියා ලැබෙයි කියල බලා පොරොත්තු වනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-17 08:48:24</date>
+            <index>6</index>
+            <phrase>පණ දෙන එක බොහොම හොඳ ‍දෙයක් . හැබැයි හැ‍දෙන සීනි රහත් වෙයි කියලයි බය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-07-17 10:42:30</date>
+            <index>7</index>
+            <phrase>පණ දීම හොදයි.නමුත් පණ පවත්වා ගැනීමයි ඊටත් වඩා වැදගත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-17 11:31:08</date>
+            <index>8</index>
+            <phrase>අමෝනිකා, ඩර්ටි සුගර් නේද මෙයා? ඔයා එහෙම ගන්න එපා.ඔයා ගන්න පිටරට සුදු ඒවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රින්ස් ඔෆ් අභය</author>
+            <date>2012-07-17 12:22:42</date>
+            <index>9</index>
+            <phrase>ඇමෝනිකා, සීනි ෆැක්ටරියක් බලලම ප්‍රතිචාර දැම්මා නම් නේද හොඳ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපුරෙ අයියා</author>
+            <date>2012-07-17 15:54:16</date>
+            <index>10</index>
+            <phrase>අ‍ර අනුරාධපුරයට මීට වසර පහකට පෙර හදනවා කිව්ව සීනි කම්හල් දෙක කෝ? ඇමතිතුමා මේකෙ ඉන්නවා දකිනකොට මතක් වෙනවා. මේක ලග එන ඡන්දෙට බලපානවාද ඇමතිතුමෝ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-07-17 22:02:05</date>
+            <index>11</index>
+            <phrase>ඔබ ලංකාව වෙනුවෙන් කළේ උදාර සේවයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61258</articleId>
+    <title>ලාංකිකයා මිලානෝ විලක ගිලී මරුට</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 අගෝස්තු මස 27 12:16:09</date>
+    <body>වරේසි නගරයේ   අරෝනා අල් ලිඩෝහි මජෝරේ වැවේ දිය නාමින් සිටියදී නිමල් ප‍්‍රනාන්දු (54) මහතා වතුරේ ගිලී මිය ගිය බව ඉතාලි පොලීසිය කියයි. කඳානේ සිට   ඔහු ඉතාලියේ මිලානෝ නුවර පදිංචියට ගියේ  වසර 22කට කලිනි. ඔහු විවාහක එක්දරු පියෙකි.
+මිතුරකු සමග දිය නාමින් සිටිය දී වක්කලමකට වැටීමෙන් අනතුර සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-08-27 12:38:37</date>
+            <index>0</index>
+            <phrase>ලක් මවෙග් පුතෙක් අකාලයේ සමු ගැනීම හදවතට මහා දුකක් .ඔබට නිවන් සුව පතමි. මතු සසරේ මෙවැනි විපත් නොවේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-27 13:28:38</date>
+            <index>1</index>
+            <phrase>ජල විපත් වැඩියි මේ දවස් වල..ප්‍රවේසමින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-27 13:24:25</date>
+            <index>2</index>
+            <phrase>ළඟ ළඟ එයි මරු පින්කර ගන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්රිප්</author>
+            <date>2012-08-27 14:25:56</date>
+            <index>3</index>
+            <phrase>මිල්ලේ සොයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2012-08-27 18:10:54</date>
+            <index>4</index>
+            <phrase>මත්පැන් බීලා චණ්ඩියෙක් වෙන්න හිතාගෙන වතුරට පනින්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-08-27 19:46:32</date>
+            <index>5</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-27 21:04:00</date>
+            <index>6</index>
+            <phrase>ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිකා</author>
+            <date>2012-08-28 00:05:40</date>
+            <index>7</index>
+            <phrase>නිවන් පතමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-08-28 00:16:22</date>
+            <index>8</index>
+            <phrase>ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-08-28 03:10:28</date>
+            <index>9</index>
+            <phrase>අපේ ඉතාලි අයට අපලයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-28 12:47:45</date>
+            <index>10</index>
+            <phrase>ඇයි අනිත් රටවල් වල ඉන්න අය ගැන කතා නොකරන්නේ..වැඩිපුරම කියන්නේ ඉතාලියේ අයගැනයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජීව</author>
+            <date>2012-08-28 13:09:52</date>
+            <index>11</index>
+            <phrase>මාරයා අඞ ගැහුවහම කොයි කාටත් යන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත සිල්වා</author>
+            <date>2012-08-29 10:04:32</date>
+            <index>12</index>
+            <phrase>මගේ මාමා ගොඩක් හොද කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

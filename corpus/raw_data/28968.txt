@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28968</articleId>
+    <title>ගාලු පුරේත් පෙරට එයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 පෙබරවාරි මස 27 12:05:45</date>
+    <body>යුද සමයේ මානව හිමිකම් කඩ කළැයි එක්සත් ජාතීන්ගේ මානව හිමිකම් කමිටුව ඇමෙරිකාවේ ද සහායෙන් ශ්‍රී ලංකාවට එරෙහිව යෝජනාවක් ඉදිරිපත් කිරීමට යතියි අද රට පුරාම විරෝධතා පැවැත්විණි.  ගාල්ලේ දී භික්ෂුහු ද දේශපාලනඥයෝ ද එක් වූහ.</body>
+    <comments>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-02-27 12:15:14</date>
+            <index>0</index>
+            <phrase>මේ උද්ඝෝෂණවලට වෙඩි තියන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-02-27 13:19:50</date>
+            <index>1</index>
+            <phrase>පොලීසිය තනිකර බොරුව දාන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්.ඒ ප්‍රභාත්</author>
+            <date>2012-02-27 13:40:52</date>
+            <index>2</index>
+            <phrase>ජෙනරාල් ෆොන්සේකාත් මෙතන හිටියනම් තමයි වටින්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2012-02-27 13:46:15</date>
+            <index>3</index>
+            <phrase>බල් පැකට්වලට ඇවිත් ඉන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2012-02-27 14:01:50</date>
+            <index>4</index>
+            <phrase>රටේ ප්‍රශ්න අමතක කරන්න බොරු මවාපෑමක් මේක..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

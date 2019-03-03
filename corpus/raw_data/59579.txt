@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59579</articleId>
+    <title>මැරුම් කෑ තිදෙනා බලෙන් කොළඹට ගෙනැල්ලා</title>
+    <author>රංජිත් රාජපක්ෂ  සුරන්ජිත් පෙරේරා</author>
+    <date>2012 අගෝස්තු මස 19 09:47:37</date>
+    <body>වැල්ලවත්ත රාමක‍්‍රිෂ්ණ පාරේ ත‍්‍රිත්ව ඝාතනය සම්බන්ධයෙන් ප‍්‍රශ්න කිරීම සඳහා කොටගල රියැදුරෙකු සහ වෑන් රියක් අත්අඩංගුවට ගත් බව ළිඳුල පොලිසිය කියයි.
+ඝාතනයට ලක්වූ මව, පියා සහ දුව සතියකට පමණ පෙර මෙම වෑන් රථයෙන් කොටගල සිට බලෙන්ම ගෙන එන්නට ඇතැයි පොලිසියට තොරතුරු ලැබී තිබේ.
+මියගිය ක‍්‍රිෂ්ණකුමාරගේ පුතා වන ඖෂධවේදියාද එම වෑන් රියෙන් කොළඹට එන්නට ඇතැයි සැක කෙරේ.</body>
+    <comments>
+        <comment>
+            <author>චානක</author>
+            <date>2012-08-19 10:42:41</date>
+            <index>0</index>
+            <phrase>දැන්වත් මරණ දඩුවම ක්‍රියාත්මක කළොත් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත</author>
+            <date>2012-08-19 11:03:48</date>
+            <index>1</index>
+            <phrase>මහත්වරුනි, අදාළ පුද්ගලයින් අල්ලා ඔවුන් ආයුධ පෙන්වීම පිණීස රැගෙන යනු මැනවි. රටේ කිසිවකුත් ඊට දොසක් නොකියනු ඒකාන්තයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩේවුඩ්</author>
+            <date>2012-08-19 11:29:23</date>
+            <index>2</index>
+            <phrase>ජනිත, ඔබ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-08-19 11:37:33</date>
+            <index>3</index>
+            <phrase>ඔවු ජනිත, ඔබ හරි. එහෙම කළානම් නිකන්ම වැඩේ විසදෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-19 12:31:56</date>
+            <index>4</index>
+            <phrase>එතකොට මේ පුතාද මුලු පවුලම මරලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-19 12:53:06</date>
+            <index>5</index>
+            <phrase>බලෙන් නෙවෙයි ,මම හිතන්නේ නම් රවටාගෙනයි ගේන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාන්</author>
+            <date>2012-08-19 21:43:12</date>
+            <index>6</index>
+            <phrase>මේ අවනඩුව දෙන්න ඕනෑ එස්.ටී.එෆ්. එකට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-20 00:50:16</date>
+            <index>7</index>
+            <phrase>ඔවු ජනිත. ඔබ හරි. දැන්වත් මරණ දඩුවම ක්‍රියාත්මක කළොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුජී</author>
+            <date>2012-08-20 07:59:21</date>
+            <index>8</index>
+            <phrase>ජනිත් හරි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

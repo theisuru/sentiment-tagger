@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>81594</articleId>
+    <title>දුරුතු සීතල සුපිරි මගට කළින්ම එයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 දෙසැම්බර් මස 03 09:27:45</date>
+    <body>දක්ෂිණ ලංකා අධිවේගී මාර්ගයේ අද උදෑසන දැඩි මිහිදුම් තත්ත්වයක් දක්නට ලැබිණි. පෝද්දල, බද්දේගම හා කුරුඳුගහහැතැප්ම පදේශයන්හි මිහිදුම හේතුවෙන් රථයට ඉදිරියෙන් මීටර කිහිපයකට ඈතින් පැහැදිලිව නොපෙනෙන බව එහි වාහන පදවන්නෝ කියති. මිහිදුම ඇති වේලාවට රථ ධාවනයේදී වඩාත් පවේශම් වන ලෙස අධිවේගී මාර්ගයේ බලධාරීන් ඉල්ලා සිටියි. කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසන්නේ හිමාලය දෙසින් හමා එන සීතල සුළඟ හේතුවෙන් මෙම තත්ත්වය තවදුරටත් වැඩිදියුණු විය හැකි බවයි.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-12-03 09:59:53</date>
+            <index>0</index>
+            <phrase>පේනවා නේද ? දකුණුලකේ අග නගරේ ගාලු පුරේ සිරි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-12-03 10:35:51</date>
+            <index>1</index>
+            <phrase>සුපිරිමග ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-03 10:36:44</date>
+            <index>2</index>
+            <phrase>පාර ලිස්සන සුළුයි , රියදුරු මහතුන්ගේ දැඩි අවධානයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සද්ධා</author>
+            <date>2012-12-03 10:50:19</date>
+            <index>3</index>
+            <phrase>ආරක්ෂාව පළමුව හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>daya,saudi</author>
+            <date>2012-12-03 10:45:04</date>
+            <index>4</index>
+            <phrase>සෞදි අරාබියේ මාර්ගයක් බව බැලු බැල්මට පේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-12-03 11:55:53</date>
+            <index>5</index>
+            <phrase>මීදුම් වළාවන් ගලාලා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිති</author>
+            <date>2012-12-03 12:02:44</date>
+            <index>6</index>
+            <phrase>දයා....මොඞ කතා ඵපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-12-03 12:07:17</date>
+            <index>7</index>
+            <phrase>මීදුම් වළාවන් ගලාලා සුපිරිමං ඉසව්වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-12-03 13:26:50</date>
+            <index>8</index>
+            <phrase>දයා. ඔයා කියපු එක හරි. හරියටම සෞදිඅරබ්යේ මාර්ගයක් වගේ ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ</author>
+            <date>2012-12-03 13:49:51</date>
+            <index>9</index>
+            <phrase>කතාව ඇත්ත. පුදුම මීදුමක් තමයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-12-03 22:40:36</date>
+            <index>10</index>
+            <phrase>බලාගෙනයි වේගෙන් යන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-12-04 00:15:31</date>
+            <index>11</index>
+            <phrase>මටත් පේන විදියටනම් මේක ලංකාවේ මාර්ගයක් නෙමෙයි වගෙ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේල</author>
+            <date>2012-12-08 20:21:04</date>
+            <index>12</index>
+            <phrase>මේ වගේ වෙනවා රටේ ජනතාව අධාර්මික වෙනකොට...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

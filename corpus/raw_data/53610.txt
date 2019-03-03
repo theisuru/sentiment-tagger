@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53610</articleId>
+    <title>ගගනගාමීහු තිදෙනෙක් උඩුගුවනට</title>
+    <author>ඡායාරූපය  ඒඑෆ්පී</author>
+    <date>2012 ජූලි මස 16 10:28:15</date>
+    <body>ගගනගාමියෝ දෙදෙනෙක් සහ ගගනගාමිනියක් රැගත් රුසියාවේ සෝයූස් රොකට්ටුවක් ඊයේ (15) පෘථිවි කක්ෂයේ පිහිටි ජාත්‍යන්තර අභ්‍යවකාශ නැවැතුම්පොළ බලා පිටත් ව ගියහ. උඩුගුවනට ගියේ ඇමෙරිකා ගගනගාමිනී සුනීතා විලියම්ස් (දකුණේ), ජපන් ගගනගාමී අකිහිකෝ හොෂීඬේ (වමේ) සහ රුසියානු ගගනගාමී යූරි මෙලෙන්චෙන්කෝ (මැද) ය.
+සුනීතා විලියම්ස් ඉන්දීය සම්භවයක් ඇති ඇමෙරිකානු ජාතික කාන්තාවකි. ඇය උඩුගුවන බලා යද්දී ඉන්දියාවේ අහමදාබාද් නුවර පාසල් සිසුවියෝ ඇයට සුබ පැතුම් ද එක් කළහ.</body>
+    <comments>
+        <comment>
+            <author>දයා</author>
+            <date>2012-07-16 13:12:04</date>
+            <index>0</index>
+            <phrase>සුනීතා අනිත් පිරිමි දෙන්නටම වඩා දේහධාරී නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-07-16 13:13:41</date>
+            <index>1</index>
+            <phrase>සුනේත්‍රා,විලියම්ස්, භය නැතුව ගිහින් එන්න.අහවල් රටේ අර සභාවල කට්ටිය නැහැනේ.සුභ ගමන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2012-07-16 21:07:32</date>
+            <index>2</index>
+            <phrase>පොතේගුරාට ටිකක් නම ටැපලිලා වගේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්දබුද්දී</author>
+            <date>2012-07-17 00:39:17</date>
+            <index>3</index>
+            <phrase>පොතේගුරා ගෙන් දන්නැති හින්දයි අහන්නේ , අහවල් රටේ කිව්වේ අර ආශ්චර්යමත් රටේද???????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-17 07:55:37</date>
+            <index>4</index>
+            <phrase>ඊළග පාර මාවත් එක්ක යන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

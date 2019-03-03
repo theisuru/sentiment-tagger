@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>212152</articleId>
+    <title>(විදුබිමේ සරුබිම)පිළියන්දල මධ්‍ය මහ විදයාලයේ ගොවි බිම</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 පෙබරවාරි මස 21 17:32:22</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2014-02-21 17:59:54</date>
+            <index>0</index>
+            <phrase>මෙය දරුවන් අතර වගාව පිළිබද උනන්දු කරවීමක්. මොකද අද සමාජයේ ගොවියෙක් කිව්වම හුගක් අයගේ හිත් වල තියෙන්නේ මොකුත් දන්නේ නැති කෙනෙක් කියල අඩු තක්සේරුවක්. ඔවුන් දන්නේ නැහැ ගොවියා නැත්නම් බඩ පුරවන්නේ කොහොමද කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>88294</articleId>
+    <title>වැටුණත් ගොඩ එයි</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2012 දෙසැම්බර් මස 26 15:05:39</date>
+    <body>චීන ජාතික කැටයම්කරුවෙකු වන වෙන් ෆුලියැන්ග් බිත්තර කටු මත සිය ආධිපත්‍ය පැතිරවීමට සමත්ව සිටී.
+දැව කැටයම්කරුවකු ලෙස රැකියාව කරමින් සිටි වෙන් සේවයෙන් පහකරන ලදුව නව ආරක කැටයම් නිර්මාණයක් නිම කිරීමෙහිලා සිදුකළ අත්හදාබැලීම් වල ප්‍රතිඵලය  ‘බිත්තර කටු කැටයම්‘ වේ.
+මේ සදහා ඔහු කිකිළි,පාත්ත හා තාරා බිත්තර භාවිතා කරයි. බිත්තර කටුව මත කැටයම් කපනුයේ සියුම් දියමන්ති තුඩක් සහිත පිහියකිනි.</body>
+    <comments>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2012-12-27 05:07:52</date>
+            <index>0</index>
+            <phrase>ආදර්ශයට ගන්නවා නම් මෙන්න නියම මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිරි</author>
+            <date>2012-12-27 10:53:56</date>
+            <index>1</index>
+            <phrase>චීනා හපනා කියන්නේ නිකන් නෙමෙයි. නියමම වැඩකාරයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2012-12-28 12:32:17</date>
+            <index>2</index>
+            <phrase>උත්සාහාවන්තයා ජයගනී කියනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

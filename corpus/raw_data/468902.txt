@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468902</articleId>
+    <title>සමසමාජය ජනපති කතාවට හූ මිටි තබයි</title>
+    <author>නාලක සංජීව දහනායක</author>
+    <date>2016 ඔක්තෝබර් මස 17 16:03:58</date>
+    <body>මූල්‍ය අපරාධ ඒකකය,අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව සහ අල්ලස් හෝ දූෂණ කොමිසන් සභාව වැනි රාජ්‍ය ආයතන දේශපාලන න්‍යාය පත්‍රයට වැඩ කරන බවට ජනපතිවරයා කළ ප්‍රකාශයට වමේ දේශපාලන පක්ෂ එකඟ බව ලංකා සම සමාජ පක්ෂයේ ප්‍රධාන ලේකම් මහාචාර්ය තිස්ස විතාරණ මහතා පැවසීය.
+“කුමන රජයක් යටතේ වූවත් වරදක් කර ඇත්නම් දඩුවම් දීමට අපි විරුද්ධ නැහැ.නමුත් වංචා දූෂණ සම්බන්ධ පරීක්ෂණ අපක්ෂපාතී විය යුතුයි.නම් කළ පිරිසකට පමණක් දඩුවම් දීම වැරදියි“යැයි ඔහු පැවසීය.
+එන්.එම් පෙරේරා මධ්‍යස්ථානයේ දී පැවති සමාජවාදී ජනතා පෙරමුණේ මාධ්‍ය හමුවක් අමතමින් ඔහු මේ බව පැවසීය.
+ </body>
+    <comments>
+        <comment>
+            <author>චන්න</author>
+            <date>2016-10-17 14:03:27</date>
+            <index>0</index>
+            <phrase>එන් එම් පෙරේරා හිටියනම් බඩ කපාගනී මේවගේ මෝඩ කතා අසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිරි</author>
+            <date>2016-10-17 15:53:08</date>
+            <index>1</index>
+            <phrase>දේශපාලන පත්තරයට වුණත් රටේ මහජන මුදල් කාබාසිනියා කළ අය නිතිය ඉදිරියට පමුණුවන්න ඔය කියන අය බලය ලැබුණු කළෙක අනි පැත්තේ හොරු ටික නිතිය ඉදිරියට ගේන්න අප‍ රටේ තමන්ගේ පක්ෂයේ හොරට දඬුවම් කරන්නේ නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-18 02:06:11</date>
+            <index>2</index>
+            <phrase>ඕක නිසා වෙන්න ඇති පක්ෂයෙන් පෝෂණය වී නව ව්‍යවස්ථාවෙන් දේශයට ද්‍රෝහීවෙන්න ගිය මොනම වික්‍රමයක්වත් නැති කෙනෙක් එජාපයට එකතුවුණේ. පැන්න නිසා බේරුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-10-18 02:49:52</date>
+            <index>3</index>
+            <phrase>ආණ්ඩුවේ සාධාරණය මහබැංකු සිද්ධියෙන්ම අපි තේරුම්ගත්තා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-10-18 04:00:55</date>
+            <index>4</index>
+            <phrase>ෆවුසි ඇමතිවරයාට වඩා බරපතළ අපරාධ කළ අය ආණ්ඩුව ඇතුළේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-10-18 09:48:40</date>
+            <index>5</index>
+            <phrase>ඇත්තටම මෙතුමන්ලගේ දේශපාලනය කියන්නේ මාධ්‍ය සංදර්ශන පවත්වන එක විතරද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

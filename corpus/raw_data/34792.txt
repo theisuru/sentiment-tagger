@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34792</articleId>
+    <title>පොලිස් බාරෙන් ‘බේබද්දා‘ පැහැරගනී</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 අපේ‍්‍රල් මස 04 10:18:37</date>
+    <body>වලස්මුල්ල හොරේවෙල උපන්දින සාදයකදී බීමතින් කලබල කළැයි කියන පුද්ගලයකු අත්අඩංගුවට ගෙන රෝහලට ගෙනයද්දී පිරිසක් පොලීසියට පහරදී ඔහු උදුරාගෙන පලාගිය බව පොලීසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>අශෝක - කොට්ඨාව</author>
+            <date>2012-04-04 11:29:40</date>
+            <index>0</index>
+            <phrase>යාළු කමට යන්න දුන්නද දන්නෙ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2012-04-04 11:34:36</date>
+            <index>1</index>
+            <phrase>පොලීසියෙ කීර්තිය නැති වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-04 13:36:36</date>
+            <index>2</index>
+            <phrase>මෙහෙමත් නාටක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-04-04 13:41:32</date>
+            <index>3</index>
+            <phrase>ආණ්ඩුවේද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-04-04 14:07:47</date>
+            <index>4</index>
+            <phrase>මෙහෙමත් පොලීසියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

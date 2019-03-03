@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505151</articleId>
+    <title>විල්පත්තු ගැන විවාදයකට වියන්ගොඩ ලෑස්තියි</title>
+    <author>බිඟුන් මේනක ගමගේ</author>
+    <date>2017 පෙබරවාරි මස 07 17:33:54</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2017-02-07 12:52:49</date>
+            <index>0</index>
+            <phrase>අර බලය මේ බලය කියලා ඩොලර් වලට කහින පෙරමුණු අටවාගෙන සිංහල මිනිස්සු ගොනාට අන්දන එකෙත් සීමාවක් තියෙන්න ඕනෑ. එක පාරක් වෙනසක් කියලා සිංහල මිනිස්සු ගොනාට ඇන්දුවා. දැන් විල්පත්තු කැලේ කපන්නේ නැහැ කියලා සිංහල මිනිස්සු ගොනාට අන්දනවා. සිංහල මිනිස්සුත් රෙද්දක් පෙන්නපු ගමන් කපලා මහලා ඇඳගෙන හොඳයිද කියලත් අහන තරමට බුද්ධිමත් ජනතාවක් නිසා ඩොලර් කපුටන්ට රජ මඟුල් දැන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේශ්</author>
+            <date>2017-02-07 13:06:15</date>
+            <index>1</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2017-02-07 13:14:19</date>
+            <index>2</index>
+            <phrase>ජාතික වෘත්තිය සමිති පෙරමුණේ විධායක සභික මේ මහත්තයා මොන රටේද රැකියාව කරන්නේ කියලා දැනගන්න ආසයි. විල්පත්තු ජාතික වනෝද්‍යානයෙන් වේවා ඊට මෙහායින් තියෙන මහා ඝන වනාන්තරයෙන් වේවා, කපන්නේ ගස් නම්, මරන්න වන සතුන් නම්, විනාශ කරන්නේ ස්වභාව සම්පත් නම්, අපි විරුද්ධ වෙන්න ඕනෑ ඒකට. එහෙම නැතුව විල්පත්තු කියන නම අල්ලාගෙන වචන වලින් සංදර්ශන දාලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ් -රියාද්</author>
+            <date>2017-02-07 13:50:29</date>
+            <index>3</index>
+            <phrase>ඔන්න රටක් වටින මිනිස්සු. සත්‍යය මිසක්, ජාති ආගම් ඔවුන්ට අදාළ නැහැ. පෑන හසුරුවන්නේ නිර්භයව සහ සද්භාවයෙන් සාධාරණය වෙනුවෙන්. වියන්ගොඩ මහත්මයාණනි, ඔබට මගේ හදපිරි ආචාරය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2017-02-07 15:53:18</date>
+            <index>4</index>
+            <phrase>අනේ මට හිනා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2017-02-07 16:38:25</date>
+            <index>5</index>
+            <phrase>යන්න රන්ජන් රාමනායක නියෝජ්‍ය ඇමතිතුමාගේ නිවසට, එතුමා සමඟ විවාද කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2017-02-07 16:58:29</date>
+            <index>6</index>
+            <phrase>අනේ මොකටද මගේ කට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි</author>
+            <date>2017-02-07 18:04:56</date>
+            <index>7</index>
+            <phrase>ඩොලර් කුට්ටි ලැබෙනවා නම් අපේ අයට විල්පත්තුව නොවෙයි මොන පත්තුවක්වත් විනාශකරන ඒවා පේන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපසිංහ</author>
+            <date>2017-02-07 19:25:29</date>
+            <index>8</index>
+            <phrase>අපි දන්නවා ඔබ මොනවද කළේ, මොකටද කළේ, කා වෙනුවෙන්ද කළේ, ඔබ සත්‍යවාදීවමද කළේ කියා. ඔබ ලියු පොත් පිළිබදව අපගේ පැහැදීමක් තිබුනද දැන් දැන් ඔබ යන මඟ පුද්ගලිකත්වයට කියා පැහැදිලියි. කණගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණුක</author>
+            <date>2017-02-07 19:36:20</date>
+            <index>9</index>
+            <phrase>මේ දවස් වල ‘කළු ඩොලරයේ‘ අගය කීයද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2017-02-07 23:36:15</date>
+            <index>10</index>
+            <phrase>මොහු කවුරු වුණත් ඉන්නේ කවුරු වෙනුවෙන්ද කියලා දැන් තේරෙනවනේ. වචන හරබයක් නැතුව ඇත්තට විනාශයක් වෙලා තියෙනවද බලන්න ගාමිණී මහත්තයෝ. නැත්තම් ඔයාලගේ ඇත්ත බළලා මල්ලෙන් එළියට පනිවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2017-02-08 00:18:31</date>
+            <index>11</index>
+            <phrase>වැඩි විවාද අවශ්‍ය නැත. කරුණාකර මිනින්දෝරු දෙපාර්තමේන්තුවෙන් පැරණි සහ මෑතකදී දන්නා ලද ගුවන් ඡායාරූප පරික්ෂා කරමු. ඒවා තමා සාක්ෂි. නැතුව දෙපැත්තකට වෙලා වාද කිරීමෙන් පලක් වෙන්නේ නැත. එමනිසා වන විනාශය ගැන පෙන්වන ගුවන් ඡායාරූප ගැන ඔබේ අදහස් කියන්න. අපි කාටත් මිනින්දෝරු දෙපාර්තමේන්තුවෙන් එම ප්‍රදේශයේ ගුවන් ඡායාරූප මිලදී ගත හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-02-08 00:29:23</date>
+            <index>12</index>
+            <phrase>ගාමිණි වියන්ගොඩ මහතාණෙනි, කිසිම ප්‍රමිතියක් නැතුව කැලෑ එළිකර පදිංචි වෙන්නේ සිංහලයෝද කියා පළමුව කියන්න. දෙවනුව එකම ජාතියක් එකම ප්‍රදේශයේ බුරුතු පිටින් පදිංචිවුණාම අනාගතයේදී රටේ වෙනම කෑලි ඉල්ලන්නට පටන් ගන්නවා නේද. එමනිසා සිංහලයන්ද මිශ්‍රකර රටේ ජන අනුපාතයට අනුව ඔය පළාත්වල මිනිසුන් පදිංචි කළයුතුය කියා කියන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2017-02-08 02:04:44</date>
+            <index>13</index>
+            <phrase>මේ ගැන තීරණ ගැනීමට හෝ ඇත්ත බොරුව කිරීම සඳහා ප්‍රචාරයක් ගෙනයාමට ඔබතුමාට ඇති බලය කුමක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2017-02-08 02:41:29</date>
+            <index>14</index>
+            <phrase>ඩොලර් වලට කහිමින්, රටට ජාතියට, තමන්ගේ ලෙයින් උපදින දරුවන්ට, අනාගත සිංහලයාට විනකරන සිංහල ද්‍රෝහියන්ට විරුද්ධව මෙහි අදහස් පළකරන සැමට ස්තුතිය! විල්පත්තු වන විනාශය නොදකින මේ පොට්ටයන්ට අඩුම වශයෙන් මෙහි තනිකරම වාර්ගික ජනපදවත් බිහිවෙනවා නොපෙනෙන්නේද? සිංහලයට විනකරන කරවන සැමට ශාප වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-02-08 02:44:40</date>
+            <index>15</index>
+            <phrase>රොකී, එයාලට ඇත්තේ සල්ලි වල බලයයි. අපි එයාට කියමු මෑතකදී ගත්ත ගුවන් ඡායාරූප වල ඇත්ත නැත්ත කියන්න කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2017-02-08 02:46:36</date>
+            <index>16</index>
+            <phrase>මේ වගේ අය තමා රට විනාශ කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසේන</author>
+            <date>2017-02-08 03:22:20</date>
+            <index>17</index>
+            <phrase>හුසේන් මොහමඩ් -රියාද්, දී කිරට බළලුත් සාක්කි කියන එක අහලා තිබෙනවා නේද. ඉතින් විල්පත්තු කැලෑ එළිකිරීම ගැන වැඩි කතා කුමටද? කොහොම වුණත් රටේ මොන පළාතේ පදිංචි කළත් රටේ ජන අනුපාතයට අනුව සිදුවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපසේන</author>
+            <date>2017-02-08 03:27:36</date>
+            <index>18</index>
+            <phrase>විල්පත්තුව නැතිවෙලා යනකම්ම විවාද කර කර ඉඳියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2017-02-08 03:30:30</date>
+            <index>19</index>
+            <phrase>අපි බලමු ඉස්සරහට මොනවද වෙන්නෙ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2017-02-08 03:37:02</date>
+            <index>20</index>
+            <phrase>මෙයාට හරිම හදිස්සියක් තියෙන්නේ අලුත් ව්‍යවස්ථාවක් ගෙනෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2017-02-08 03:52:17</date>
+            <index>21</index>
+            <phrase>බමුණු සමඟ 100% එකඟ වෙන්න පුළුවන්. කවුරුවත් හිටවපු මායිම් කණුවත්, හදපු ගොඩනැගිලිවත් නෙමෙයි, පිළිගතහැකි නිවැරදි ලේඛන වලින් ඔප්පුකරන්න ඒ ඉඩම්වලට තියෙන හිමිකම. මිනිදෝරු දෙපාර්තමේන්තුව සතුව තියෙනවා මෙයට අවුරුදු 100 කටත් වඩා පැරණි මිනුම්වල වාර්තා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳමිණි</author>
+            <date>2017-02-08 04:21:14</date>
+            <index>22</index>
+            <phrase>රත්න(අ)ප්‍රියත් එක්ක එකතු වෙලා රට කන මෙයා විල්පත්තුවට පත්තු බඳින්න ලෑස්තිවෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2017-02-08 05:08:55</date>
+            <index>23</index>
+            <phrase>පක්ෂ ආගම් භේදයකින් තොරව කවුරුත් ගහකොළ රැකගැනීමට උනන්දු වියයුතුය. මුදලට පවුකාර වැඩ කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීප්ත</author>
+            <date>2017-02-08 05:22:20</date>
+            <index>24</index>
+            <phrase>රට නැතිවෙන එක අහන්න දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

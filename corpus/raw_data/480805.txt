@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>480805</articleId>
+    <title>දේශ හිතෛෂීහු යෝජිත ව්‍යවස්ථාව ගැන කියති</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2016 නොවැම්බර් මස 16 19:45:06</date>
+    <body>දේශ හිතෛෂී ජාතික ව්‍යාපාරය සංවිධානය කළ යෝජිත ව්‍යවස්ථාවේ බෙදුම්වාදී ලක්ෂණ පිළිබඳ දැනුවත් කිරීමේ මහජන සම්මන්ත්‍රණයක් අද (16) කොළඹ ජාතික පුස්තකාලයේදී පැවැත්විණි.
+දේශ හිතෛෂී ජාතික ව්‍යාපාරයේ සභාපති ආචාර්ය ගුණදාස අමරසේකර රාජ්‍ය විද්වත් සභාව විසින් රචිත ග්‍රන්ථයක් ද එහිදී කිරම විමලජෝති හිමියන්ට පිළිගැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-11-16 14:41:02</date>
+            <index>0</index>
+            <phrase>යෝජිත වියවස්තාවේ කොපියක් මේගොල්ලන්ට පමණක් ලැබුනේ කොහොමද?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර පැරිස්</author>
+            <date>2016-11-16 15:28:53</date>
+            <index>1</index>
+            <phrase>තිස් අවුරුදු යුද්දය අවසන්කර රණවිරුවන් දහස් ගණනින් බිලිදී දැන් බන්දේසියක තියල ඊලම දෙන්න හදන්නේ ලෝකයේ ඉන්න දෙමල ජනතාවට රටක් හදනකන් ඔය ප්‍රශ්නය ඉවර වෙන්නේ නැ එ්කට අපේ රට පලිත් නැ මොන සංහිඳියාව කළත් වැඩක් නැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2016-11-17 01:42:49</date>
+            <index>2</index>
+            <phrase>උපදින්නට සිටින දරුවා මියගොස් තාම නැවත ඉපදිලාවත් නැත. අන්ධකාරයේ සිටින මේ අයට එළිය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2016-11-17 01:55:51</date>
+            <index>3</index>
+            <phrase>නුපන් දරුවට උප්පෙන්න මොකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-11-17 01:58:04</date>
+            <index>4</index>
+            <phrase>එම ව්‍යවස්ථාව අනුමැත කිරීමට යන්නේ කෙසේද යන්න සොයා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-11-17 03:25:09</date>
+            <index>5</index>
+            <phrase>මගේ රටට සාමය පිරුණු රටක් වී උතුරේත් දකුණේත් විග්නේශ්වරන්ලා නැති දවසක් උදාවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-11-17 07:50:26</date>
+            <index>6</index>
+            <phrase>රාධා,අර්ජුන,රවීන්, ඔයගොල්ලන්ට නෙවැටහුණාට සුළං හමන්නෙ කොයි පැත්තෙන්ද කියලා අත්දැකීම් වලින් පරිණතවු අය දන්නවා. අැයි අහලා නැද්ද "එනපොට හොඳ නැහැ කෙල්ල ගෙට ගනින් අබරෝ" කියලා කියමනක් තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

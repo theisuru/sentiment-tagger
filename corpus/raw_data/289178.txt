@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>289178</articleId>
+    <title>නීතීඥවරු අලුත් කඩේ වීදී බසිති : ගෙදර යන්නැයි අග විනිසුරුට කියති</title>
+    <author>ලක්මාල් සුරියගොඩඡායාරූප ඉෂාන් සංජීව</author>
+    <date>2015 ජනවාරි මස 12 10:08:35</date>
+    <body>අග විනිසුරු මොහාන් පීරීස්  මහතාට සිය ධුරයෙන් ඉල්ලා අස්වී ගෙදර යන්නැයි පවසමින් කොළඹ අලුත් කඩේ උසාවිය ඉදිරිපිට පිවිසුම් මාර්ගයද වසා නීතීඥ එකමුතුව අද (12) උද්ඝෝෂණයක් ඇරැඹීය.
+අග විනිසුරුවරයාගේ පත්වීම දේශපාලන පත්වීමක් බවත් හිටපු අග විනිසුරු  ශිරාණි බණ්ඩාරනායක එම තනතුරට සුදුසු බවත් ඇයට බලවත් අසාධාරණයක් සිදු වු බවත් ඔවුහු මෙහිදි පැවසුහ.
+නීතීඥ එකමුතුව හා සිවිල් සංවිධාන සමාජිකයෝ 250 ක් පමණ මේ අවස්ථාවට එක්ව සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>යොහාන්‍</author>
+            <date>2015-01-12 05:56:21</date>
+            <index>0</index>
+            <phrase>මේ දේවල් වලට නම් අපිට එකඟවෙන්න අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2015-01-12 05:58:41</date>
+            <index>1</index>
+            <phrase>යහ පාලනය වෙනුවෙන් දුරාචාර පාලනයේ යෙදුනු අය තම තනතුරු අතහැරලා යාමට අකමැතිනම් මහජන උද්ඝෝෂණ වලින් හෝ ඔවුන් ඉවත් කර සුදුසු පුද්ගලයන් එම තනතුරු වලට පත්කර ගැනීම කටයුතු කල යුතුවන අතර ඒ සඳහා බෙහෙවින්ම පරික්ෂා කාරීව කටයුතුකළ යුතුවනවා ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අදිරි</author>
+            <date>2015-01-12 09:32:22</date>
+            <index>2</index>
+            <phrase>මේ කෙනා වැරදි කළාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2015-01-12 11:54:57</date>
+            <index>3</index>
+            <phrase>ඉස්සරහට නැවත හොඳ කාලයක් එන්න වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2015-01-14 14:10:09</date>
+            <index>4</index>
+            <phrase>මේකද අපි බලාපොරොත්තු වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරවංශ</author>
+            <date>2015-01-14 15:22:23</date>
+            <index>5</index>
+            <phrase>යුක්තිය ඉටු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

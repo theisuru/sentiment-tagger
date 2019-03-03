@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>13238</articleId>
+    <title>නිව්යෝර්ක් අළුගොඩෙන් යුද නැවක්</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2011 නොවැම්බර් මස 15 19:02:36</date>
+    <body>ත‍්‍රස්තවාදිනට එරෙහි මෙහෙයුම් සඳහා ඇමෙරිකාව අලූත් යුද නැවක් සිය නාවික බළ ඇණියට එක්කරයි.
+නිව්යෝර්ක් නුවර ලෝක වෙළෙඳ මධ්‍යස්ථානයට අල්කයිඩා සංවිධානය 2001 සැප්තැම්බර් 11 වැනි දා එල්ල කළ ප‍්‍රහාරයෙන් සුන්බුන් වූ ගොඩනැගිලිවලින් තෝරාගත් වානේ ටොන් 24 ක් උණුකර නැවේ අඹරාව නිෂ්පාදනය කර ඇත. ”යූ.එස්.එස්. නිව්යෝර්ක්” නම් වන මේ නැවේ නැවියන් 360 දෙනකුට ද සන්නද්ධ මැරීන් භටයන් 700 දෙනකුට ද ගමන් කළ හැකියි.
+එහි ආදර්ශ පාඨය ”කවදාවත් අමතක නොවේ” යන්නයි.</body>
+    <comments>
+        <comment>
+            <author>cletus</author>
+            <date>2011-11-16 12:51:13</date>
+            <index>0</index>
+            <phrase>මේක අපේ රටේ වුණානම් දේශපාලනාඥයෝ අඵගොඩ විකුණාගෙන කාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sarathjbranatunga</author>
+            <date>2011-11-16 21:21:41</date>
+            <index>1</index>
+            <phrase>ස්තුතියි බින් ලාඩන් ඇමෙරිකාවට නෙත් පෑදුවාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2011-11-18 17:42:46</date>
+            <index>2</index>
+            <phrase>නියමයි, නියමයි, දන්නවනේ කරන්ඩ ඕනේ වැඩේ? ඔය නැව පාවිච්චි කරලා බින් ලාඩන්ගේ ඉතුරු අය ටිකත් ගිය තැනටම යවන්ඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2011-11-18 21:30:55</date>
+            <index>3</index>
+            <phrase>අපේ නන්දිකඩාල් වල අන්තිමට ගිනි තියලා ඉතිරි වුණ යකඩ ටිකත් ඉන්දියාවට පරණ යකඩවලට විකුණලා මන් හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

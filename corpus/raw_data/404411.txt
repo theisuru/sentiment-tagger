@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>404411</articleId>
+    <title>උතුරු කොරියාවෙන් තවත් හිතුවක්කාර වැඩක්</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 අපේ‍්‍රල් මස 09 17:47:28</date>
+    <body>බැල්ස්ටික් මිසයිල ඉලක්ක කර විදින යන්ත්‍රයක් උතුරු කොරියාව අත්හදා බලා ඇතැයි විදෙස් පුවත් සේවා පවසයි.
+උතුරු කොරියා ජනපති කිම් ජොන් උන් මෙම මිසයිල අත්හදා බැලීම නිරීක්ෂණය කළේය.
+මෙමගින් ඇමරිකා එක්සත් ජනපදයට න්‍යෂ්ටික ප්‍රහාරයක් එල්ල කළ හැකි බව උතුරු කොරියාව තහවුරු කැර ඇත.
+පසුගියදා ජාත්‍යන්තරයේ කීම නොඅසා සිදුකළ න්‍යෂ්ටික අත්හදා බැලීම් හේතුවෙන් උතුරු කොරියාවට ආර්ථික සම්බාධක ද පැනවිණි.</body>
+    <comments>
+        <comment>
+            <author>ඩෙන්සිල්</author>
+            <date>2016-04-10 04:48:18</date>
+            <index>0</index>
+            <phrase>නියම,කෙලින් වැඩ කරන ජනපති කෙනෙක්.අනේ අපිටත් එහෙම කෙලින් වැඩ කරන ජනපති කෙනෙක් ඉන්නවනම්. තමන්ට හිතෙන හරිදේ කරන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-04-10 13:27:21</date>
+            <index>1</index>
+            <phrase>දැන් ඇමරිකාව මිසයිල අත්හදා බලන්නේ කාගෙන් අහලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-04-10 23:08:38</date>
+            <index>2</index>
+            <phrase>ඇමරිකාවට පුලුවන් නම් ඇයි උතුරු කොරියාවට බැරි? අපේ රට වගේ දෙකට නැමෙන්න එපා, බයනැතුව වැඩ කොරන්න. අපි ඔබ සමඟයි. තාප්පවල අපි ලියන්නම් උතුරු කොරියාවට අත නොතබනු කියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-04-11 10:33:11</date>
+            <index>3</index>
+            <phrase>කෙලින් වැඩ කරන ජනපති කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

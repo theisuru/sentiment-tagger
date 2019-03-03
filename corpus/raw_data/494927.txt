@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494927</articleId>
+    <title>හනුමාගේ වලිගයට ගිනි ඇවිළී ළමයකු මරුට</title>
+    <author>පාලිත ආරියවංශ</author>
+    <date>2017 ජනවාරි මස 01 16:29:17</date>
+    <body>ආගමික ස්ථානයක    උත්සවයක හනුමන්තා වලිගයට ගිනි ඇවිලුන සිද්ධිය ඇතුලත් නාට්‍යක රඟපාමින් සිටි 15 හැවිරිදි ළමයකු පිළිස්සී මිය ගිය බව පොලිසිය කියයි.
+හනුමන්තාට ඇඳ සිටි ළමයා කපුරු ඇවිලූ ගිනි මැලයට වැටී ඇති බවත්,  හනුමාගේ වලිගයට ඇවිළුණු ගින්න සිරිර දක්වා ගොස් පිළිස්සී ඇති බවත් පොලිසිය පවසයි.
+බදුල්ල නාගරික හදිසි මරණ පරික්ෂක සාමවිනිසුරු මහින්ද ගුණසේකර මහතා ඉදිරියේ බදුල්ල මහ රෝහලේ දි පැවැති හදිසි මරණ පරික්ෂනයේදී මරණ පරීක්ෂණය පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>ශාන සෞදි</author>
+            <date>2017-01-01 11:24:19</date>
+            <index>0</index>
+            <phrase>මේක තමා කවදාහරි අපේ සමහර දේශපාලකයන්ට වෙන්නෙත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2017-01-01 12:10:21</date>
+            <index>1</index>
+            <phrase>වලිගය පාගගත් දේශපාලකයෝ නම් අපේ රටේ ඉන්නවා. ඒගොල්ලෝ පැරදිලා ගෙදර යනකොට වලිගෙට මොකුත් වෙන්නේ නැහැ. ඒ වෙනුවට ඒ උතුමන්ලාගේ ඔලුව තමයි ගිනි ගන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2017-01-01 13:31:00</date>
+            <index>2</index>
+            <phrase>ඔය හනුමා ඉස්සරත් එකයි, දැනුත් එකයි. කළේ ලංකාවම ගිනිතියපු එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2017-01-01 15:32:56</date>
+            <index>3</index>
+            <phrase>දෙනෝදාහක් මැද්දේ ළමයෙක් පිච්චිලා මැරිලා. මේකත් හරියට කොරහේ ගිලිලා මැරුණා වගේ කතාවක්. හනුමාගේ වලිගය යම් තරහකාරයෙක් පෙට්‍රල් වලින් තෙමුවාවද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2017-01-01 18:54:49</date>
+            <index>4</index>
+            <phrase>මෙහෙමත් මිනිස්සු ඉන්න රටක්? තිස්තුන් කෝටියක් දෙවිවරු. හැබැයි හැටහතර කෝටියක් ලෙඩරෝග. පව් අසරණ ළමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2017-01-02 01:21:00</date>
+            <index>5</index>
+            <phrase>සාගරයක් මැද පුදුම රටක් ඇත... පාර්ලිමේන්තුවේ බැලුවත්, පළාත් සභාවල බැලුවත්, කොහේ බැලුවත් වලිගයට ගිනි තියාගත් හනුමන්තලා තමයි ඉන්නේ. පව් අර අහිංසක දරුවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලන්කාපුතා</author>
+            <date>2017-01-02 02:25:28</date>
+            <index>6</index>
+            <phrase>බදුල්ල තියෙන්නේ ඉන්දියාවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

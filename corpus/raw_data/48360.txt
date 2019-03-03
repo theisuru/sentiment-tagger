@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48360</articleId>
+    <title>මීගොඩ ආර්ථිකේ අද රෑ වැහේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජූනි මස 15 12:15:40</date>
+    <body>ආරක්‍ෂාව නැති නිසා මීගොඩ ආර්ථික මධ්‍යස්ථානයේ කඩ අද රෑ නොපවත්වන බව එහි වෙළෙඳ සංගමයේ සභාපති තිලක් මාදුපිටිය මහතා කියයි.
+පෙරදින එල්ල වූ මැර ප‍්‍රහාරයකින් වෙළෙඳුන් තිදෙනකුට තුවාල සිදුවීම ඊට හේතුව බවද ඔහු පවසයි.</body>
+    <comments>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-15 14:56:07</date>
+            <index>0</index>
+            <phrase>රට නගන්නන් අනාරක්ෂිතයි.රට කන්නන් ආරක්ෂිතයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-15 17:55:50</date>
+            <index>1</index>
+            <phrase>අ‍පේ ආර්ථිකේම වැහිල ගොඩක් කල්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-15 19:41:17</date>
+            <index>2</index>
+            <phrase>ආර්ථිකේ වනසන්න එපා‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-16 00:33:52</date>
+            <index>3</index>
+            <phrase>සියලුම දේ අනාරක්ෂිතය. රක්ෂිතදේ පැමිණිකළ අනාරක්ෂිත දේ පහව යන්නේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-16 19:19:30</date>
+            <index>4</index>
+            <phrase>ඕක වැහිලම ගියදෙන්.කමක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

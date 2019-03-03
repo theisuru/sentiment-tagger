@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>92326</articleId>
+    <title>විනෝද මේලාවේ ආදායම  මදි වී ප‍්‍රධානියාගෙන් සල්ලි ඉල්ලලා</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2013 ජනවාරි මස 11 08:28:06</date>
+    <body>කඳුකරයේ ප‍්‍රකට අධ්‍යාපන ආයතනයක පසුගියදා විනෝද මේලාවක් පැවැත්වීය. එය සංවිධානය කළේ ආයතනයේම උගත් ශිෂ්‍ය කණ්ඩායමකි. ආදායමෙන් සියයට දහයක් ආයතනයට දෙන බවට ගිවිසුමක්ද විය. උත්සවය මහ ඉහළින් පැවැත්විය. සති දෙක තුනක් ගියත් අයවැය ඉදිරිපත් නොකිරීම ගැන සැකයට පත් ආයතන ප‍්‍රධානියා එහි සංවිධායකවරු කැඳවීය. ‘‘වැඬේ මහ ඉහළින් තිබුණනේ. කෝ අය වැය හැදුවාද අපටත් සියයට දහයක් දෙන ගිවිසුමක් තියෙනවනෙ’’ ආයතන ප‍්‍රධානියා කීය. ‘‘සර් හම්බවෙන්න හිතාගෙන තමයි හිටියේ. මේකෙ සංවිධාන වැඩවලට රුපියල් ලක්‍ෂ තුනක් විතර ගියා.  ආදායම ලක්‍ෂ දෙක හමාරයි. හිඟ. රුපියල් පනස්දාහෙන් සියයට දහයක් විදියට රුපියල් පන් දාහක් වත් සර්ගෙන් ඉල්ලමුද කියල’’ සංවිධායක වරයකු කීමෙන් ආයතන ප‍්‍රධානියාට දෙවියන් සිහිවුනාලූ.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-01-11 08:43:17</date>
+            <index>0</index>
+            <phrase>ටිකට් ටික චෙක් කරානම් හොයාගන්න තිබුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-01-11 08:55:54</date>
+            <index>1</index>
+            <phrase>ඔය වගේ දේවල් සංවිධානය කරන්න මේ වගේ අය හරි දක්ෂයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-01-11 12:02:47</date>
+            <index>2</index>
+            <phrase>අනේ මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-01-12 15:00:12</date>
+            <index>3</index>
+            <phrase>දෙන්න එපා, එක සතයක්වත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-01-12 15:03:12</date>
+            <index>4</index>
+            <phrase>මේක සහතික ඇත්තක්ද ?? අමූලික ඇත්තක්ද ?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම</author>
+            <date>2013-01-14 18:07:17</date>
+            <index>5</index>
+            <phrase>මෙහෙමත් කට්ටියකුත් ඉන්නවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2013-01-26 22:20:50</date>
+            <index>6</index>
+            <phrase>වරුණගේ අදහස හරියටම හරි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

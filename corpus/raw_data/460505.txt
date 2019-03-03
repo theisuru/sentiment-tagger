@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460505</articleId>
+    <title>කුණු වළ ගිනි ගනී.</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 23 07:57:41</date>
+    <body>අවිස්සාවේල්ල කර්මාන්ත පුරයේ කුණු වළේ ගින්න නිවා දැමීමට ගිනි නිවන ගිනි බටයෝ පැය දොලහක් පුරා වෙහෙසෙති.
+ </body>
+    <comments>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-09-23 04:30:33</date>
+            <index>0</index>
+            <phrase>අපද්‍රව්‍ය කළමනාකරණය කවද වෙයිද? ඇයි මෙහෙම වෙන්නේ? ඇයි මෙතරම් අපිරිසිදු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

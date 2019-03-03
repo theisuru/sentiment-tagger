@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>154694</articleId>
+    <title>දිසි දසුන් 05 - (පොලරොයිඩ් RF 4 කැමරාව )</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 ජූලි මස 23 13:13:44</date>
+    <body>​</body>
+    <comments>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-07-24 12:28:45</date>
+            <index>0</index>
+            <phrase>කැමරාව විකුනන්නෙ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනපාල</author>
+            <date>2013-07-30 19:42:43</date>
+            <index>1</index>
+            <phrase>මෙහි නිපදවීම අපේ නම්, අගයමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

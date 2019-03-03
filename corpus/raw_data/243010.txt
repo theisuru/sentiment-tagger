@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>243010</articleId>
+    <title>ඉන්දියා තුනක් සැකපිට</title>
+    <author>පත්මා කුමාරි හිරාන් ප්‍රියංකර ජයසිංහ</author>
+    <date>2014 ජූනි මස 18 09:02:27</date>
+    <body>ඉන්දියාවේ සිට ගෙනා බව කියන කේරල ගංජා කිලෝග්‍රෑම් 160 සමග ඉන්දියා ජාතික තිදෙනෙක් විජය නාවික හමුදා බලකාය විසින් අත්අඩංගුවට ගනු ලැබුහ.
+ගංජා තොගයේ වීදි වටිනාකම රුපියල් තුන්කෝටියක් පමණ වෙතියි කියති.
+
+
+
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>උපුල්</author>
+            <date>2014-06-18 09:21:52</date>
+            <index>0</index>
+            <phrase>කුඩු මේඩ් ඉන් පකිස්තාන්. ගංජා මේඩ් ඉන් ඉන්දීයා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-06-18 09:29:24</date>
+            <index>1</index>
+            <phrase>මේ වැඩවලින් වෙන්නේ අපිටවත් ඒ රටවලට යන්න තහංචි පැනවෙන එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-06-18 11:16:37</date>
+            <index>2</index>
+            <phrase>මේව ගේන්න ඇත්තේ ලංකාවේ කාට හරි දෙන්න නේ. ඒ අය ගැන හොයල බලල අත් අඩංගුවට ගන්න කෙනෙක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2014-06-18 11:17:05</date>
+            <index>3</index>
+            <phrase>කලබල වෙන්න එපා. ලලිතා ඇන්ටි එවල තියෙන්නේ තෑගි වශයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෝගේස්වරන්</author>
+            <date>2014-06-18 11:19:29</date>
+            <index>4</index>
+            <phrase>කෝ ජයලලිතා? ඩයස් පෝරාව කොහිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණී</author>
+            <date>2014-06-18 11:41:02</date>
+            <index>5</index>
+            <phrase>ජරමර අස්සේ බර කරත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී - සිරි</author>
+            <date>2014-06-18 11:58:07</date>
+            <index>6</index>
+            <phrase>රෝමානු ලන්දේසි නීති දැන් අපේ රටට කොහෙත්ම ලිහිල් වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-06-18 12:36:02</date>
+            <index>7</index>
+            <phrase>අනේ පවු ලලිතා ඇන්ටිට දුක හිතෙන්න ඇති ලංකාවට ගංජා වලින් අඩුපාඩුවක් ඇති කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2014-06-18 16:21:55</date>
+            <index>8</index>
+            <phrase>ඉසුරන්දි ඔයාට ඒ රටවලට ගියොත් ඇති ,අපේ රටට හෙනගැහුවත් කමක් නෑ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2014-06-18 20:30:03</date>
+            <index>9</index>
+            <phrase>දැන් එහෙනම් , රට ගංජා ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

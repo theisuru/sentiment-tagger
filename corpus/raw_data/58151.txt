@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58151</articleId>
+    <title>මගියා ගුවන් නියමුවාගේ අත කඩයි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අගෝස්තු මස 10 17:33:45</date>
+    <body>ඉතාලියේ ෆියුම්න්චිනෝ  ගුවන් තොටුළේ සිට ග්‍රීසියේ කර්පාතොස් ගුවන් තොටුපොළ දක්වා 9 වැනි දා උදෑසන 10.05 පියාසර කිරීමට තිබූ ගුවන් යානය පැය පහක් ප්‍රමාද වී යැයි කෝපයට පත් මගියෙක් ප්‍රධාන ගුවන් නියමුවාට පහර දුන්නේය. ඔහු රෝමයේ මහා රෝහලේ දැඩි සත්කාර ඒකකයට ඇතුළු කරනු ලැබීය. බ්ලූ පැනෝරාමා ගුවන් සේවයට අයත් 2466 ගුවන් යානයේ නියමුවාගේ වම් අතේ මැණික් කටුව පිපිරී ඇති හෙයින් දින පහකට වැඩි කලක් ඔහුට රෝහල් ගත වී සිටීමට සිදු වනු ඇතැයි වෛදවරු පවසති. පහරදුන් මගියා පොලිස් අත්අඩංගුවට පත් විය. වෙනත් නියමුවෙක් ගුවන් යානය බාර ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-10 17:58:49</date>
+            <index>0</index>
+            <phrase>ඒ මගියව ලංකාවට ගෙන්නන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන්</author>
+            <date>2012-08-10 18:27:39</date>
+            <index>1</index>
+            <phrase>අපේ ගුවන් යානාවලටත් මේ ඉරණම අත්වේවි ළඟදීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-08-10 18:34:21</date>
+            <index>2</index>
+            <phrase>මාර වැ‍ඩේ නේද ? දැන් දැන් ගුවන්යානා වලට අපල කාලයක් උදාවෙලා තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-10 19:00:52</date>
+            <index>3</index>
+            <phrase>ප්‍රමාදය පසුතැවිල්ලට ‍හේතු වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙ</author>
+            <date>2012-08-10 20:56:59</date>
+            <index>4</index>
+            <phrase>ගුවන් නියමුවාට ආරක්ෂාව මදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්සිරි</author>
+            <date>2012-08-10 21:04:17</date>
+            <index>5</index>
+            <phrase>අන්න හරි මම වගේ මිනිස්සු ඉතාලියෙත් ඉන්න එක් සතුටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා අයිරාංගනී</author>
+            <date>2012-08-10 21:11:33</date>
+            <index>6</index>
+            <phrase>මෝඩ මිනිහෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී -කුවේට්</author>
+            <date>2012-08-11 01:00:17</date>
+            <index>7</index>
+            <phrase>මම කීවෙ කාගෙහරි අතක් පයක් කැඩුනහම සතුටු වෙන අය හා කොහේ හෝ පිස්සු වැඩක් කළ තැනැත්තකුට තමුන්ව ආදේශ වෙන්න හදන අය ගැන මිස අන් අය ගැන නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-08-11 08:27:43</date>
+            <index>8</index>
+            <phrase>මම ගෙදර යනදාට එහෙම පරක්කුඋනොත් අත පය කඩලා නිකං ඉන්නෙ නැහැ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2012-08-11 08:57:19</date>
+            <index>9</index>
+            <phrase>ලංකා දුම්රිය රියදුරන්ට කරන්න ඕන ඔය වැ‍ඩේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-11 09:01:29</date>
+            <index>10</index>
+            <phrase>ගාමිණී, අපිටත් රට හිටපු කාලේ ඔහොම හිතුනා. ඒත් මෙහෙට ආවහම...........? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-08-11 09:57:42</date>
+            <index>11</index>
+            <phrase>බලන්න මේ මිනිස්සු දක්වන අදහස්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජි</author>
+            <date>2012-08-11 11:46:42</date>
+            <index>12</index>
+            <phrase>එයා ලංකාවේ හිටියනම්..අපේ දුම්රිය රියදුරන්ට බුදුමසරණයි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-08-11 12:04:14</date>
+            <index>13</index>
+            <phrase>ලංකාවේනම් සතියක් විතර ස්ට්‍රයික් කරයි‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-11 12:47:32</date>
+            <index>14</index>
+            <phrase>මම ඕන තරම් රට ගිහින් තියෙනවා .මම පයිලට්ව දැකලා නෑනේ ගුවන්තොටුපලේදී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍ගීත්</author>
+            <date>2012-08-11 14:57:59</date>
+            <index>15</index>
+            <phrase>තමන් ගමන් කරන ගුවන්යානයේ නියමුවා දැක ගන්නත් පිනක් තියෙන්න ඕන. නැතුව බස් ඩ්‍රයිවර්ලා වගේ දකින්න අමාරුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-08-11 16:12:56</date>
+            <index>16</index>
+            <phrase>පුදුම මිනිස්සුනේ ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-08-11 23:38:26</date>
+            <index>17</index>
+            <phrase>මෙයා යවන්න තිබුණෙ ටයිටැනික් නැවේ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිමාල්</author>
+            <date>2012-08-12 16:36:37</date>
+            <index>18</index>
+            <phrase>140-260-261බස් වලට ‍මේ මගියාව ගේන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උත්පලා</author>
+            <date>2012-08-12 22:28:13</date>
+            <index>19</index>
+            <phrase>මිනිසාගේ විනයේ පිරිහීමයි මේ පෙන්නන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-08-13 10:50:35</date>
+            <index>20</index>
+            <phrase>ලන්කාවට ආවා නම් චන්දය ඩිනන්න තිබුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

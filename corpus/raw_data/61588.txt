@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61588</articleId>
+    <title>මුන්නේෂ්වරමේ ගිනි පෑගීම</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 අගෝස්තු මස 29 11:56:22</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>දය</author>
+            <date>2012-08-29 17:10:50</date>
+            <index>0</index>
+            <phrase>දෙවි පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රමිල්</author>
+            <date>2012-09-06 14:23:05</date>
+            <index>1</index>
+            <phrase>හ්ම්... හිතාගන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-09-07 07:22:41</date>
+            <index>2</index>
+            <phrase>ලංකාදීපය නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-09-07 14:06:37</date>
+            <index>3</index>
+            <phrase>හොඳයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

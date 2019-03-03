@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>510152</articleId>
+    <title>බැ﻿ඳුම්කර නිකුතුවට හිටපු ජනාධිපති සම්බන්ධ නැතිලු</title>
+    <author>නාලක සංජීව දහනායක ඡායාරූප ජයමාල් චන්ද්‍රසිරි</author>
+    <date>2017 පෙබරවාරි මස 27 16:25:35</date>
+    <body> මතභේදයට තුඩු දී ඇති මහ බැංකු බැඳුම්කර නිකුතුවට අදාළ යැයි සදහන් ගැස්ට් පත්‍රයට හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ කිසිදු සම්බන්ධයක් නැති බව මහබැංකු අධිපති ඉන්ද්‍රිජිත් කුමාරස්වාමි මහතා පිළිගත් බව පාර්ලිමේන්තු මන්ත්‍රී බන්දුල ගුණවර්ධන මහතා අද  පැවසීය.
+ එසේම අදාළ බැඳුම්කර නිකුතුව සම්බන්ධව  හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා කිසිදු වගකීමක් නොදරන බව මහබැංකු අධිපතිවරයා පැවසූ බවද මන්ත්‍රීවරයා කීවේය.
+ඒකාබද්ධ විපක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් පිරිසක් මහ බැංකු අධිපති ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි මහතා ශ්‍රී ලංකා මහ බැංකුවේ දී හමුවීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් මන්ත්‍රීවරයා මේ බව සදහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2017-02-27 11:33:41</date>
+            <index>0</index>
+            <phrase>තවම හැම දෙයකටම මහින්දගෙ පිටින්ම දානවා .. මෙයාලට ආර්ථිකය හදන්න නම් වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2017-02-27 11:41:08</date>
+            <index>1</index>
+            <phrase>මේ හරහා එතුමා පරිසිදුයි කියල කියන්නද උත්සාහ කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරික් සුබාෂ්</author>
+            <date>2017-02-27 11:49:52</date>
+            <index>2</index>
+            <phrase>යහපාලනය ආදා සිට මහින්ද හොරා හොරා කියල මහින්ද පවුලටම ගරහපු අයට දැන් මොනවද තවත් කියන්නට තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2017-02-27 12:18:38</date>
+            <index>3</index>
+            <phrase>එතකොට අපිද මේවා කලේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂිහා</author>
+            <date>2017-02-27 13:00:58</date>
+            <index>4</index>
+            <phrase>වීරය වගෙ මේකට අාවට වෙන කරපු හොරකන් ටික වහගන්න අමාරුයි රජෝ,,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2017-02-27 13:59:57</date>
+            <index>5</index>
+            <phrase>එත් එයා මේ ගැන කතා නොකරන එක ගැනත් හොයල බලන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

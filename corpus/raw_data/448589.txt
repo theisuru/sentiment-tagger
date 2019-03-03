@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>448589</articleId>
+    <title>පියාගේ මළගමට දුවට යන්න බැරි වෙයි?</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 17 11:28:39</date>
+    <body>විශ්‍රාමික විනිසුරු සරත් ආබෲ ගේ අවසන් කටයුතු අද (17) සිදු වීමට නියමිතය. පියාගේ මරණයෙන් පසු අසනීප වී රෝහලේ සිටින සිය එකම දියණියට මරණයට සහභාගී වීමට අවස්ථාව නොලැබෙනු ඇතැයි රෝහල් ආරංචි කියයි.
+හිටපු ශ්‍රේෂ්ඨාධිකරණ විනිසුරු සරත් ආබෘෘ මහතාගේ නිවසට වැඩම කළ හිමි නමක් අද (17) උදේ පාංසුකූල කටයුතු සිදු කළහ. අද සවස 4 ට ආදාහන කටයුතු සිදු කිරීමට නියමිතිය
+ </body>
+    <comments>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-08-17 06:50:20</date>
+            <index>0</index>
+            <phrase>අපි ගොඩක් වෙලාවට මිනිසුන්ට අපහාස උපහාස කරන්නේ යමෙකුගේ ජීවිත පසුබිම නොදැනයි. මේ මනුස්සය අතින් වැරදි වැඩ සිද්ධ වෙන්ට ඇති. ඒ වගේම මේ මනුස්සයාගේ මුළු ජීවිතයම අසතුටින් පිරුණු අදුරු බවක් තමයි පෙන්නුම් කරන්නේ.මේ ලෝකේ සෑම අපරාධ කරුවෙකුගේම පිටුපස යම් කතාවක් ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ක්‍රිස්</author>
+            <date>2016-08-17 09:21:11</date>
+            <index>1</index>
+            <phrase>සියල්ලම කර්මානුකුලව සිදුවේ.......එයින් පැන යාමට කිසිවකුටත් නොහැක. සමහරෙකුට මරණය සුවබර නින්දකි.මන්ද,එයින් පසු සියලු වේදනාවන්ගෙන් අත් මිදෙන බැවින්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-08-17 12:42:06</date>
+            <index>2</index>
+            <phrase>පවට පින් දෙන්න බැහැ.පුරුවේ කල විශාල අකුසල කර්මයක විපාක පලදීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-08-17 13:11:37</date>
+            <index>3</index>
+            <phrase>ජීවිතය කරදර වලින් පිරුණු එකක් බවට තවත් නිදසුනක්. තත්වය කුමක් වුණත් අසහනය සහ අසතුට පිරිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංග</author>
+            <date>2016-08-17 15:28:41</date>
+            <index>4</index>
+            <phrase>මරණයෙන් පසුව ජීවත්වන්නන්ටයි ලොකුම වේදනාව ලැබෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2016-08-17 18:00:14</date>
+            <index>5</index>
+            <phrase>ඒ අත්විඳිම තමා කරගෙන ආ කුසල් අකුසල් මත ධර්මයට අනුව සිදුවේ. යම් අයෙක් පාපයක් කරයිද ඒ පාපයෙන්ම අවසාන කලපරිච්ඡේදයේදී සියල්ල සිදුවෙනවා නියතයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-08-17 18:35:47</date>
+            <index>6</index>
+            <phrase>ඉතාමත් සංවේගජනක දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝර්ජ්</author>
+            <date>2016-08-18 07:32:40</date>
+            <index>7</index>
+            <phrase>අපායත් ඇත්තේ මෙම ලෝකයේමයි. මිනිසත්කම තේරුම්ගෙන ජීවත්වන අය සුන්දර ජීවිත ගතකරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

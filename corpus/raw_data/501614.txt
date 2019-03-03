@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501614</articleId>
+    <title>වගඋත්තරකරුවන්ට නොතීසී</title>
+    <author>තිළිණි ද සිල්වා සහ රංජන් කටුගම්පොළ</author>
+    <date>2017 ජනවාරි මස 26 17:03:36</date>
+    <body>කෝප් කමිටුවේ මහ බැංකු බැඳුම්කර ගනුදෙනුව ගැන අවසන්  වාර්තාව අභියෝගයට ලක්කරමින් නුගේගොඩ නාලන්දාරාමාධිපති තීනියාව පාලිත හිමියන් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන්ට මාර්තු 07 උසාවි එන ලෙස නොතීසි යැවීමට ශ්‍රේෂ්ඨාධිකරණය අද (26) පෙත්සම්කාර හිමිනමට දැනුම් දුන්නේය.
+ඊවා වනසුන්දර ,අනිල් ගුණරත්න සහ ප‍්‍රසන්න ජයවර්ධන යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් හමුවේ මෙම පෙත්සම කැඳවනු ලැබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2017-01-26 13:50:02</date>
+            <index>0</index>
+            <phrase>උන් වහන්සේගේ මොන මූලික අයිතිවාසිකමද කැඩුනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-01-26 14:00:52</date>
+            <index>1</index>
+            <phrase>හරි ලස්සනයි දැන් අපේ රට යන විදිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-26 20:08:11</date>
+            <index>2</index>
+            <phrase>ඇයි, පැමිණිලිකාරයන්ටත් නොතීසිනේ. බළල් අතක් බවට පත්වුණාම කාටත් ඔහොම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-26 21:06:53</date>
+            <index>3</index>
+            <phrase>ඔබ වහන්සේලා මොන වරප්‍රසාද බලාගෙනද මෙහෙම යහපාලනයට කඩේ යන්නේ? සමහරු නම් ඇමති කට්ටකට මුළු ආත්මයම පාවාදෙනවා. ඒත් ඔබ වහන්සේලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2017-01-27 04:29:53</date>
+            <index>4</index>
+            <phrase>මේ උන්නාන්සේ කොහොමටත් නඩු බලවන්න හරි දස්සයි කියනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2017-01-27 09:39:03</date>
+            <index>5</index>
+            <phrase>එතකොට පාර්ලිමේන්තුව උත්තරීතර නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

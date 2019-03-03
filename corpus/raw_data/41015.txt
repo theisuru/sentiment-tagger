@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41015</articleId>
+    <title>ත්‍රී‘මල දුම සොයන්න විද්‍යාඥයෝ යති</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 මැයි මස 07 10:17:50</date>
+    <body>ත්‍රිකුණාමලය කන්නියා ප්‍රදේශයේ කැපූ වළකින් දුමක් මතුවීම සම්බන්ධයෙන් භියක් ඇතිකැරගත යුතු නැතැයි භූ විද්‍යා හා පතල් කැණීම් කාර්යාංශයේ සභාපති ආචාර්ය එන්.පී.විජයානන්ද මහතා පවසයි. මෙය උණුවතුර ලිං ආශ්‍රිත ක්‍රියාකාරීත්වයක් හෝ කොළරොඩු දිරාපත් වීමෙන් සිදුවූවක් විය හැකි බවත් කිසිසේත්ම ගිනිකදු ක්‍රියාකාරීත්වයක් නොවන බවත් හෙතෙම වැඩිදුරටත් කියයි. අගහරුවාදා දහවල් මේ පිළිබද සම්පූර්ණ වාර්තාවක් ලැබෙන බව ද ඉන් පසු ස්ථිරවශයෙන්ම එහි උද්ගත වී ඇති තත්ත්වය පිලිබ‍ද කිව හැකි බව ද හෙතෙම වැඩිදුරටත් කියා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>කේ.එම්.එස්.</author>
+            <date>2012-05-07 11:40:35</date>
+            <index>0</index>
+            <phrase>අපේ රටට අඩු ගිනි කන්දක් තමයි.ඒකත් ආවොත් ගොඩේ ගොඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-07 13:07:48</date>
+            <index>1</index>
+            <phrase>අගහරුවාදා දහවල් උද්ගතවි ඇති තත්තවය පිලිබදව ස්ථිර වශයෙන්ම දැනගන්නට පුලුවන් බව කියා තිබෙනවා.දැන් අප රට තුලත් සිදුවන්නේ අස්වාභාවික සිදුවිම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-07 21:38:51</date>
+            <index>2</index>
+            <phrase>නාව්ක කදවුරක් වැනි තැනක මෙවැනි දුමක් පිට නොවීම සතුටට කරුණක් නේද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-05-07 21:39:25</date>
+            <index>3</index>
+            <phrase>දුම ඇවිත් දැන් දවස් කීයක්ද? දැන් හොයන්න ගිහින් වැඩක් තියේවියෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් - ඉතාලිය</author>
+            <date>2012-05-07 22:15:00</date>
+            <index>4</index>
+            <phrase>උණුවතුර ලිංවල සම්බන්ධයක් සමහර විට ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැට්ටා</author>
+            <date>2012-05-08 07:21:56</date>
+            <index>5</index>
+            <phrase>ඔය විද්‍යාඥයෝ මෙනව කියුවත් මාගෙ දැනුම හැටියට නම් මෙය ගිනිකදු ක්‍රියාකාරීත්වයක පෙරනිමිත්තකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුභාකරන්</author>
+            <date>2012-05-08 23:05:54</date>
+            <index>6</index>
+            <phrase>දුමක් ආවෙ පොළව යට ලිපක් පත්තු කරළද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

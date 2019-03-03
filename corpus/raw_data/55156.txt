@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55156</articleId>
+    <title>කොට දිඹුල -</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 ජූලි මස 24 15:49:34</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ගොඩකවෙල අසංක</author>
+            <date>2012-07-25 11:18:06</date>
+            <index>0</index>
+            <phrase>හොද දේශීය ඖශදීය ශාකයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

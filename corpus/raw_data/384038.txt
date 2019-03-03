@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>384038</articleId>
+    <title>නේපාලයේ හිටපු අගමැති සුශිල් කොයිරාල මියයයි</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 පෙබරවාරි මස 09 14:44:24</date>
+    <body>නේපාලයේ හිටපු අගමැතිවරයෙකු හා නේපාල කොන්ග්‍රස් පක්ෂයේ සභාපති සුශිල් කොයිරාල මහතා අද උදෑසන මියගිය බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+මියයන විට 78වන වියේ පසුවූ කොයිරාල මහතා දීර්ඝ කාලයක සිට ශ්වසන රෝගයකින් පීඩා විඳිමින් සිටි අතර මුඛයේ පිළිකා රෝග තත්වයක් ද තිබූ බව ඉන්දීය මාධ්‍ය වාර්ථා කර ඇත. 
+මෙම මරණය සම්බන්ධව අදහස් දක්වමින් ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි මහතා පවසා ඇත්තේ තම රටට වටිනා මිතුරෙකු අහිමි වූ බවයි. කොයිරාල මහතාගේ දේහය කත්මන්ඩු නුවර පිහිටි කොන්ග්‍රස් පක්ෂ මූලස්ථානයේ මහජන ගෞරවය සඳහා තබා ඇති බව නේපාල මාධ්‍ය පවසයි.  </body>
+    <comments>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-02-09 09:40:41</date>
+            <index>0</index>
+            <phrase>මම හිතුවේ " රාල" ලා ඉන්නේ ලංකාවේ විතරයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-02-09 12:02:52</date>
+            <index>1</index>
+            <phrase>නිවන් සුව ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-02-10 04:08:58</date>
+            <index>2</index>
+            <phrase>නිවන් සුව පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

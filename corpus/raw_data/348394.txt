@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>348394</articleId>
+    <title>ෆෙස්බුක් අඩවියට ‘ඩිස්ලයික්‘ එයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 සැප්තැම්බර් මස 16 18:12:18</date>
+    <body>ලොව පුරා අතිශය ජනප්‍රිය ෆේස්බුක් වෙබ් අඩවියයේ ප්‍රචාරය වන දේවල් සඳහා ‘අකමැත්ත‘ (ඩිස්ලයික් ) ප්‍රකාශ කිරීම සඳහා ඩිස්ලයික් බොත්තමක් අලුතින් හඳුන්වා දී ඇතැයි විදෙස් පුවත් සේවා පවසයි.
+ෆේස්බුක් නිර්මාතෘ මාර්ක් සකර්බර්ග් කැලිෆෝනියා ප්‍රාන්තයේ මෙන්ලෝහි පැවැති ප්‍රශ්නෝත්තර වැඩසටහනකට එක්වෙමින් මේ බව ප්‍රකාශ කළේය.
+මෙතෙක් කලක් ෆේස්බුක් අඩවියේ ‘ලයික්‘ බොත්තම මගින් කැමැත්ත ප්‍රකාශ කිරීමට හා තමාගේ අදහස් දැක්වීමට කොමෙන්ට්ස් බොක්ස් එකක් තිබුණි. ඊට අමතරව අකමැත්ත දැක්වීමට මෙසේ අලුතින් ඩිස්ලයික් බොත්තමක් හඳුන්වා දී ඇත.
+වසර ගණනක සිට බොහෝ පිරිසක් මේ සම්බන්ධයෙන් යෝජනා ඉදිරිපත් කළ බවත් සකර්බර්ග් පවසා සිටියි.</body>
+    <comments>
+        <comment>
+            <author>ධනුෂ්කා බුද්ධික පෙරේරා</author>
+            <date>2015-09-16 15:38:03</date>
+            <index>0</index>
+            <phrase>මමත් ප්‍රතික්ෂේප කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2015-09-16 21:34:16</date>
+            <index>1</index>
+            <phrase>ධනුෂ්කා ,කාවද ප්‍රතිෂේප කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2015-09-17 04:30:58</date>
+            <index>2</index>
+            <phrase>ධනුෂ්ක ප්‍රතික්ෂේප කරන්නේ අලුත් බොත්තමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2015-09-17 10:02:20</date>
+            <index>3</index>
+            <phrase>දැන් පුලුවන් ලංකාවේ දේශපාලනය ගැන දාන මෝඩ ෆේස්බුක් පෝස්ට් වලට ඩිස්ලයික් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-09-17 11:12:13</date>
+            <index>4</index>
+            <phrase>කැමති -අකමැති මොනවා වුනත් මෙතන තියෙන්නේ වෙළදාමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වි</author>
+            <date>2015-09-17 12:23:22</date>
+            <index>5</index>
+            <phrase>ඕක විතරයි අඩුවෙලා තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේතුංග</author>
+            <date>2015-09-17 14:42:19</date>
+            <index>6</index>
+            <phrase>එහෙනම් දැන් අපිට පුළුවන් අකමැත්ත ප්‍රකාශ කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2015-09-17 14:41:41</date>
+            <index>7</index>
+            <phrase>ඇත්තටම ඒක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2015-09-18 17:43:55</date>
+            <index>8</index>
+            <phrase>අපිටත් පුළුවන්නේ අපේ වෙබ් අඩවි වලට කැමති , අකමැති සලකුණු හඳුන්වාදෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2015-09-20 01:29:56</date>
+            <index>9</index>
+            <phrase>ලංකාවේ ඡන්ද වලටත් මේ ක්‍රමය හඳුන්වා දෙන්න බැරිද? මනාප සහ අමනාප ලෙස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16169</articleId>
+    <title>රජරට සිසුන් 23කට දඬුවම්</title>
+    <author>මිහින්තලේ රෝහණ චන්ද්‍රදාස</author>
+    <date>2011 දෙසැම්බර් මස 06 11:14:02</date>
+    <body>රජරට සරසවියේ සිසුන් පිරිසකට 2010.10.25 වැනි දා පහර දී දේශන ශාලාවකට අලාභ හානි කළැයි කියන සිසුන් 23 දෙනකුගේ පන්ති තහනම් කැර 19 දෙනකුට දැඩි ලෙස අවවාද කළ බව උපකුලපති මහාචාර්ය කේ.ඒ. නන්දසේන පවසයි. 2010.10.25 වැනි දා සිට තෙවැනි හා සිවුවැනි වසර සිසුන් දස දෙනකුගේ පන්ති  තුන් වසරකට තහනම් කැරේ. තවත් සිසුන් තිදෙනකුට එම තහනමට අමතරව අවසාන පීඨ විභාග ප්‍රතිඵල අත්හිටැවෙයි.  දෙවැනි, තෙවැනි වසර සිසුන් දස දෙනකුට ද එම තහනම අතිරේක අර්ධ වාර්ෂික ප්‍රතිඵල අත්හිටුවීමට ද තීරණය කැර ඇත. මේ විනය පරීක්ෂණයේ සාක්කියට සිසුහු 60 දෙනෙක් කැඳවනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>සොමිදු</author>
+            <date>2011-12-06 12:17:37</date>
+            <index>0</index>
+            <phrase>උගත් අය හැසිරෙන විදියද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mahiya</author>
+            <date>2011-12-06 12:12:01</date>
+            <index>1</index>
+            <phrase>පොතේ දැනුම විතරනේ තියෙන්නේ. ඒකයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී එච් ශ්‍රීමාල් - ඩුබායි</author>
+            <date>2011-12-06 13:21:20</date>
+            <index>2</index>
+            <phrase>හොදයි. පහළ පන්තිවල සිසුන්ට මේවගේ වැරදි නොකරාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුරංග</author>
+            <date>2011-12-06 14:54:01</date>
+            <index>3</index>
+            <phrase>හොද තීරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2011-12-06 14:58:21</date>
+            <index>4</index>
+            <phrase>2010 එකකට දැන්ද දඩුවම් දෙන්නේ? කැම්පස් වල වැඩ ඒකෙන්ම පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2011-12-06 16:37:47</date>
+            <index>5</index>
+            <phrase>මේ විදියට දඬුවමක් දුන්නේ නැතිනම් කවදාවත්ම හදන්න නම් හම්බෙන්නේ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2011-12-06 16:46:07</date>
+            <index>6</index>
+            <phrase>පේරාදෙණියේ විශ්වවිදයාලයේ වෙලා තියන සිද්ධියටත් මේ විදියටම හොයලා බලලා උපරිමයෙන්ම දඬුවම් ලබා දෙනවනම් තමයි ගොඩක්ම වටින්නේ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

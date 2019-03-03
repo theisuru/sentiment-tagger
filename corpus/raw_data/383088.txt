@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>383088</articleId>
+    <title>පාවහන් ප්‍රදර්ශනය ඇරැඹෙයි</title>
+    <author>අතුල දේවප්‍රිය</author>
+    <date>2016 පෙබරවාරි මස 05 13:49:09</date>
+    <body>සංවර්ධන උපාය මාර්ග හා ජාත්‍යන්තර වෙළඳ අමාත්‍යංශය යටතේ ශ්‍රී ලංකා අපනයන සංවර්ධන මණ්ඩලය සහ පාවහන් හා සම් භාණ්ඩ නිෂ්පාදකයන්ගේ සංගමයේ සම සංවිධායකත්යෙන් 2016 පාවහන් හා සම්භාණ්ඩ ප්‍රදර්ශනය අද(5) සිරිමාවෝ  බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාවේ දී  ආරම්භ විය.ප්‍රදර්ශනය ඉරිදා (07) දක්වා පැවැත්වේ.
+8 වැනි වරටත් පැවැත්වෙන මෙවර ප්‍රදර්ශනයට දේශීය සමාගම් 106ක් හා විදේශීය සමාගම් 16 ක් සහභාගී වන අතර ප්‍රදර්ශන කුටි 230ක් ඇතුළත්වේ.
+ </body>
+    <comments>
+        <comment>
+            <author>අසන්ත</author>
+            <date>2016-02-05 08:46:59</date>
+            <index>0</index>
+            <phrase>හොඳයි මේ ගැන තවත් මාධ්‍ය ඔස්සේ දැනුම්වත් කළානම් නේද හොඳ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-02-05 08:46:59</date>
+            <index>1</index>
+            <phrase>අඩුවට පාවහන් ගන්න තැනක් තියෙනවද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-02-05 08:46:59</date>
+            <index>2</index>
+            <phrase>මේ ප්‍රදර්ශනය කොළඹ කොහෙද තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-02-06 07:13:28</date>
+            <index>3</index>
+            <phrase>අඩුවට පාවහන් ගන්න තැනක් තියෙනවද. අඩුවට කොහොම වුනත් හොඳ පාවහන් දෙකක් ගන්න තැනක් තිබෙනවද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-02-06 13:35:43</date>
+            <index>4</index>
+            <phrase>මාත් බිස්නස් එකක් කරන්න හිතාගෙන ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2016-02-06 13:35:49</date>
+            <index>5</index>
+            <phrase>මාත් යන්න ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක විජේසුරිය</author>
+            <date>2016-02-06 13:35:55</date>
+            <index>6</index>
+            <phrase>ඉසුරු අනේ මන්දා මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්කා</author>
+            <date>2016-02-08 18:07:51</date>
+            <index>7</index>
+            <phrase>බොහොම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

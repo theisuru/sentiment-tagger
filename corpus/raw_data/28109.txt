@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28109</articleId>
+    <title>පිදුරු කවන්න හදයි</title>
+    <author>හේමන්ත ද සිල්වා</author>
+    <date>2012 පෙබරවාරි මස 21 14:47:10</date>
+    <body>අම්බලන්ගොඩ ප්‍රාදේශීය සභා රැස්වීමට එජාප මන්ත්‍රීන් රැගෙන ආ බරබාගේ ගොනාට කැවීමට සන්ධාන මන්ත්‍රීන් ගෙන ආ පිදුරුවලින් ටිකක් අතට ගත් එජාප මන්ත්‍රී අජිත් ආනන්දද සොයිසා මහතා සංධානයේ සභාපති දයාරත්නද සිල්වා මහතාට එයින් ටිකක් කැවීමට උත්සාහ ගත්තේය. සන්ධාන මන්ත්‍රීවරුද එජාප මන්ත්‍රීවරුන්ට පිදුරු කැවීමට උත්සාහ කළ නමුත් ඔවුහු තැන තැනට පනිමින් එය වළක්වා ගත්හ.</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-02-21 15:21:50</date>
+            <index>0</index>
+            <phrase>ජනතාවට විහිළු සපයනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී එස්</author>
+            <date>2012-02-21 15:25:53</date>
+            <index>1</index>
+            <phrase>අනේ මෙහෙමත් අය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔබාමා</author>
+            <date>2012-02-21 15:29:22</date>
+            <index>2</index>
+            <phrase>කොහෙවත් නැතිව ඇති මෙහෙම මිනිස්සු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-02-21 15:49:45</date>
+            <index>3</index>
+            <phrase>අනේ ඉතින් පොඩි කාලෙ සෙල්ලම් කලාට පස්සේ වෙන්න ඇති සෙල්ලම් කරන්නේ... ඕකට ඉතින් දොස් කියලා වැඩක් නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නතාශා</author>
+            <date>2012-02-21 16:25:12</date>
+            <index>4</index>
+            <phrase>පිදුරු කන්න දෙන්න ඕන මේ දෙගොල්ල ඔය තැන්වලට යවපු අපිට තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්ජනා</author>
+            <date>2012-02-21 16:30:21</date>
+            <index>5</index>
+            <phrase>බඩ හදාගෙන ඕව කන එක නම් හොද පුරුද්දක් නෙමේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෆ්රාන්</author>
+            <date>2012-02-21 16:34:22</date>
+            <index>6</index>
+            <phrase>පිදුරු කන්න වෙන්නේ ජනතාවටයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දවිමල හිමි</author>
+            <date>2012-02-21 16:47:27</date>
+            <index>7</index>
+            <phrase>පිදුරුවලට වැඩිය හොදයි පුන්නක්කු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරූ</author>
+            <date>2012-02-21 17:01:08</date>
+            <index>8</index>
+            <phrase>මෙහෙම ගියොත් කන්න වෙන්නෙ පිදුරු නෙමෙයි,වහ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2012-02-21 19:45:26</date>
+            <index>9</index>
+            <phrase>කරණ වැඩ දැක්කම දෙගොල්ලන්ටම පිදුරු තමයි දෙන්න ඒන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩ්</author>
+            <date>2012-02-22 01:21:58</date>
+            <index>10</index>
+            <phrase>සමහරු කණ ජරාව හැටියට පිදුරුනම් මොනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-02-22 09:00:52</date>
+            <index>11</index>
+            <phrase>පිදුරු කන සත්තුන්ටත් අවමානයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-02-22 11:09:55</date>
+            <index>12</index>
+            <phrase>මෙයාලටික පොරකකා පිදුරු කන්ඩ හදද්දි කරත්තෙ අරන්ආපු ගොනාට පිදුරු කෑම නවත්තල බත් කන්ඩ පටන්ගන්ඩ ඕනෙ කියල හිතෙන්ඩ ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>429070</articleId>
+    <title>මව්පිය වන්දනාව</title>
+    <author></author>
+    <date>2016 ජූනි මස 21 11:23:05</date>
+    <body>ගඟසිරිපුර ධම්මාලෝක හිමියෝ හතරලියද්ද ජාතික පාසලේදී සිදුකළ මාපිය වන්දනා වැඩසටහන</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-07-03 07:19:57</date>
+            <index>0</index>
+            <phrase>අපේ දෙමව්පියෝ අපිට තිබුන මේ වගේ දැඩි බැඳීම් නිසාම මේ සන්සාරේම කි සැරයක් මේ නම් ගම් වලින්ම අපිට දෙමව්පියෝ වෙලා ඉන්න ඇත්ද ? අපත් එහෙමමයි, මේ වගේ හාමුදුරුවරු කරන්නේ මිනිසුන් තව තවත් සන්සරෙටම බන්ධනය කරන එක, කරුණාකරලා මේ බැඳීම් වල ඇති නිරර්ථක බව පෙන්වල දීලා මිනිසුන්ට මේ බැඳීම් අතෑරලා නිදහස් වෙන මග කියා දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2016-08-04 11:44:57</date>
+            <index>1</index>
+            <phrase>අපේ ආචාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-08-11 13:34:58</date>
+            <index>2</index>
+            <phrase>හොඳ පින් වැඩෙන දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනතුංග</author>
+            <date>2016-09-02 21:33:22</date>
+            <index>3</index>
+            <phrase>හරිම වැදගත් බණ ටිකක් අපේ බෞද්ධ දරුන්ට. ඔබවහන්සේට අමාමහ නිවන අවබෝධ කරගැනීමට හේතු වාසනා වේවා! සාධු! සාධු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-09-20 22:05:23</date>
+            <index>4</index>
+            <phrase>මෙවන් වැඩසටහන් රටපුරාම පවත්වන්නේ නම් වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂි</author>
+            <date>2017-01-16 06:26:36</date>
+            <index>5</index>
+            <phrase>ඇත්තටම අද කාලේ තරුණ පරපුරට දෙමාපියන්ගේ වටිනාකම කියලා දෙන්න අවශ්‍යම කාලයක්. එනිසා මෙවැනි වැඩසටහන් සෑම නගරයකටම, ගමකටම ගෙනයන්න පුළුවන්නම් ඉතාමත් වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>27060</articleId>
+    <title>දනූනගේ ආච්චිටත් නඩු</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 පෙබරවාරි මස 15 19:29:05</date>
+    <body>වරෙන්තුවක් නිකුත් කැර සිටියදී දනුන තිලකරත්නට 2010.2.10 දින ආහාර හා නවාතැන් දුන්නැයි ඔහුගේ මිත්තනිය හෙලන් විමලා තිලකරත්න (80) එරෙහි නඩුව කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජ්රත්න මහතා විසින් මැයි 19 වැනිදා තෙක් කල් දැමිණි. ඇගේ සේවකයන් දෙදෙනකුගේ නම්ද සාක්කිකරුවන්ගේ ලැයිස්තුවේ ඇත. එක් සේවකයකු වන ජයන්ත ජයපාලගේ උගුරේ අමාරුවක් නිසා අද සාක්කි දුන්නේ නැත. දනුන තිලකරත්න හිටපු යුද හමුදාපති සරත් ෆොන්සේකාගේ බෑනාය.</body>
+    <comments>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2012-02-15 21:09:30</date>
+            <index>0</index>
+            <phrase>සමාවන්න මේකටනම් මුකුත් කියන්න බැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>brenda</author>
+            <date>2012-02-15 22:52:13</date>
+            <index>1</index>
+            <phrase>නීතිය අකුරටම රකින අපේ සිරිලංකාවේ.......වැඩ කොහොමද නේද........මම හිතන්නේ මෙහෙම ගියොත් හිරගෙවල් දසලක්‍ෂයේ වැඩපිළිවෙලක් පටන්ගන්න වෙනවා.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොනල්ඩ්</author>
+            <date>2012-02-16 03:52:17</date>
+            <index>2</index>
+            <phrase>එතකොට අර සුදර්මන් රදලියගොඩට වරෙන්තු නිකුත් කර තියෙද්දී ආරක්ෂා කරන අයට නඩු දාන්නේ කවදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාන් තිලින - හලාවත</author>
+            <date>2012-02-16 08:02:15</date>
+            <index>3</index>
+            <phrase>එළිපිටම මිනිස්සුන්ට වෙඩි තියපු ඇතැම් අය පිට රට වල සැප විඳිනකොට මුනුපුරට නවාතැන් දුන් නට නඩු දමන එක විහිළුවක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>marusira</author>
+            <date>2012-02-16 08:45:45</date>
+            <index>4</index>
+            <phrase>තව ටික දවසක් යනකොට හමුදුරුකෙනෙකුට පිණ්ඩපාතයකට දානයක් දුන්නත් නඩුදාවී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-02-16 11:59:19</date>
+            <index>5</index>
+            <phrase>මේවා බලන අපිටත් නඩු දායිද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන ෆනෑන්ඩු</author>
+            <date>2012-02-16 12:32:52</date>
+            <index>6</index>
+            <phrase>ආච්චි මුණුබුරාට කවන්නේ නැතිව කාට කවන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ ඩී</author>
+            <date>2012-02-16 16:45:40</date>
+            <index>7</index>
+            <phrase>ආණ්ඩුවට කලේ යනව නම් ප්‍රශ්නයක් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

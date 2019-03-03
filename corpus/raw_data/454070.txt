@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454070</articleId>
+    <title>කළුපහන ෆයිනස් වගාවේ මහ ගින්නක්</title>
+    <author>සමන් පාලිත නානායක්කාර</author>
+    <date>2016 සැප්තැම්බර් මස 04 10:00:08</date>
+    <body>කළුපහන රජයේ  රක්ෂිතයේ ෆයිනස් වගාව පසුගිය බ්‍රහස්පතින්දා සිට ගිනි ගන්නා බවත් මහා බෑවුමක ගින්න පැතිරෙන හෙයින් නිවා දැමීමට අසීරු බවත් වනජීවී නිලධරයෝ කියති.
+කළුපහණ, ඌවතැන්න, නායමඩිත්ත, දෙහිගහමඩිත්ත, වංගෙඩිගලකන්ද ආදී ප්‍රදේශවල ගින්න තවමත් නිවා දැමීම නොහැකිවී ඇතැයි වන නිලධාරිහු කියති. ගිනිගත්ගලකන්ද ප්‍රදේශයේ ගින්න නිවා දමා ඇතැයි වාර්තාවේ.</body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-09-04 05:42:58</date>
+            <index>0</index>
+            <phrase>ගුවන් හමුදා හෙලිකොප්ටර ආධාර ගත්තොත් ගිනි නිවන්න හැකිවේවි. ඒ වගේම සබරගමු සරසවියේ (බෙලිහුල්ඔය) ඉන්න අපේ මල්ලිලා ටික එකතු කරගත්තොත් මේ ගින්න ලේසියෙන්ම නිවන්න පුළුවන් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-04 06:30:51</date>
+            <index>1</index>
+            <phrase>රට එකම ගිනි ජාලාවක්. හැමතැනම මහා විපත්, වෛරය, ක්‍රෝධය, පළිගැනීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගඟන</author>
+            <date>2016-09-04 07:14:06</date>
+            <index>2</index>
+            <phrase>ඇයි දෙවියනේ ස්වභාව ධර්මයත් මෙහෙම අපිට එරෙහිවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-09-04 09:21:25</date>
+            <index>3</index>
+            <phrase>වියලි ෆයිනස් කොළ ඉක්මනින් දිරාපත් නොවේ එම නිසා ෆයිනෙස් වගාවල යටි වගා හෝ තණකොළ ගසක් වත් නොවැවේ .මේ වගාව ලංකාවට සුදුසු නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-09-04 15:12:44</date>
+            <index>4</index>
+            <phrase>දේශද්‍රෝහී උපදේශකයින්ගේ උවනාවකට එදා අපේ අමන පාලකයන් විසින් අපේ ස්වාභාවික වනය විනාශ කර අපේ රටට නොගැළපෙන අස්වාභාවික ෆයිනස් වගා කිරීමෙන් , රටට සිදුවූ හානිය අදටත් අඛණ්ඩව සිදුවෙමින් පවතී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-09-05 04:17:35</date>
+            <index>5</index>
+            <phrase>මේ කාලේ රටේ වනාන්තර වලට හරි නෑ. වනාන්තර විනාශ කරන අයට මරන දඬුවම දුන්නත් මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

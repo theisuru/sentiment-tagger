@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20634</articleId>
+    <title>පොලිස් රිය වැවට වැටේ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජනවාරි මස 05 16:22:49</date>
+    <body>රාත්‍රි ජංගම මුර සේවයේ යෙදුණු පොලිස් කැබ්රියක් පොලිස් සැරයන්වරයකු, කොස්තාපල්වරුන් දෙදෙනකු සිවිල් ආරක්ෂක භටයකු සමග යෝද කණ්ඩය වැවට වැටී අපණ බේරාගත් බව තිස්සමහාරාම පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2012-01-05 16:58:03</date>
+            <index>0</index>
+            <phrase>හොරු අල්ලන්නද ගියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් බී</author>
+            <date>2012-01-05 17:12:13</date>
+            <index>1</index>
+            <phrase>ඇති ඔයින් ගියා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-05 17:23:40</date>
+            <index>2</index>
+            <phrase>වැඩි වේගය නිසා වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dilaa</author>
+            <date>2012-01-06 00:05:11</date>
+            <index>3</index>
+            <phrase>මහත්වරුන්ට නාන්න හිතිලද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ගි</author>
+            <date>2012-01-06 08:31:52</date>
+            <index>4</index>
+            <phrase>කොහොම හරි පන බේර ගත්තනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

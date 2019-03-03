@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>11009</articleId>
+    <title>තෙල් මිල වැඩිවේ</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2011 ඔක්තෝබර් මස 29 21:35:28</date>
+    <body>සෙනසුරාදා මධ්‍යම රාත‍්‍රියේ සිට තෙල් මිල ඉහළ නංවන බව ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව කියයි. පෙට‍්‍රල් රුපියල් 12 කින් ද, ඩිසල් රුපියල් 8 කින් ද, භූමිතෙල් රුපියල් 10 කින් ද, වැඩිවේ. මේ අනුව ඔක්ටේන් 90 ලීටරයක මිල රුපියල් 125 සිට 137 දක්වා ද, ඔක්ටේන් 95 ලීටරයක මිල රුපියල් 143 සිට 155 දක්වා ද, මිල ඉහළ යයි.  සුදු ඩීසල් ලීටරයක මිල රුපියල් 76 සිට 84 දක්වා ද, සුපිරි ඩීසල් රුපියල් 98.30 සිට 106.30 දක්වා ද, වැඩිවේ. භූමිතෙල් ලීටරය රුපියල් 61 සිට 71 දක්වා ඉහළ යයි.  කාර්මික භූමිතෙල් රුපියල් 66 සිට 76 දක්වා වැඩි වී ඇත. දැවි තෙල් මිල වැඩි නොවේ.</body>
+    <comments>
+        <comment>
+            <author>ලයතිලක</author>
+            <date>2011-10-30 08:52:56</date>
+            <index>0</index>
+            <phrase>Ane sadu අනේ සාධු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදර්ශන</author>
+            <date>2011-10-30 14:22:25</date>
+            <index>1</index>
+            <phrase>දේශප්ප්‍රේමී ජනතාවට ඕක ගානක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kisk</author>
+            <date>2011-11-04 13:26:41</date>
+            <index>2</index>
+            <phrase>අනේ සාධු!ඕක ගානක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-05-11 09:24:16</date>
+            <index>3</index>
+            <phrase>තෙල් මිල ඉහල යන කොට සියලුම දේවල මිල ගනන් ඉහලයන බව පාලකයෝ දන්නෙ නැද්ද ? පාරිබෝගික බඩු භාණ්ඩ බස් ගාස්තු යනාදිය මිනිස්සුන්ට ජීවත් වීම අමාරැයි ................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

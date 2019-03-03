@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>95493</articleId>
+    <title>උතුරු කසක්ස්තානයේ ගුවන් අනතුරින් 22 ක් මියයති</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි  කයිසිල් ගම්මානයේදීය</author>
+    <date>2013 ජනවාරි මස 30 10:03:27</date>
+    <body>උතුරුදිග කසක්ස්තානයේ ඊයේ (29) සිදුවූ ගුවන් අනතුරින් විසි දෙදනෙක් ජීවිතක්ෂයට පත්වූහ. අනතුරට පත්වී කඩා වැටුණේ කසක්ස්තානයේ අභ්‍යන්තර ගුවන් ගමන් සඳහා යොදා ගැණෙන කැනඩාවේ නිෂ්පාදිත චැලෙන්ජර් ආර්ජේ 200 වර්ගයේ මගී යානයකි. අනතුර සිදුවුණේ උතුරු කසක්ස්තානයේ ඇල්මැටි නුවරට නුදුරින් පිහිටි කයිසිල් ගම්මානය අසලදීය. අනතුර ගැන පුළුල් පරීක්ෂණයක් මේ වනවිට සිදුවෙමින් පවතී.</body>
+    <comments>
+        <comment>
+            <author>ගාමිනී</author>
+            <date>2013-01-30 15:49:20</date>
+            <index>0</index>
+            <phrase>2013 පළමු ගුවන් අනතුර ..22 මිය ගියාට පස්සේ තව මොන කතාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-02-02 16:10:07</date>
+            <index>1</index>
+            <phrase>කණගාටුදායකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

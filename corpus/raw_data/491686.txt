@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>491686</articleId>
+    <title>මුව පැටියාට පොලිසියේ පිහිට</title>
+    <author>ප්‍රසාද් රුක්මල්</author>
+    <date>2016 දෙසැම්බර් මස 21 14:11:07</date>
+    <body>බදුල්ල හල්පේ මධුරගම දී බලු රැළකට අසුවී ජීවිතය බේරාගැනීමේ සටනක යෙදී සිටි මුව පැටවකු බේරාගැනීමට ඇල්ල පොලිසියේ සේවය කරන පද්මිණී ආරියනායක මහත්මිය සමත්වූ බව ඇල්ල පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2016-12-21 10:42:38</date>
+            <index>0</index>
+            <phrase>මේ සතාව සුදුසු තැනකට යොමුකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2016-12-21 10:42:38</date>
+            <index>1</index>
+            <phrase>හරිම සුන්දර හුරුබුහුටි සතෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2016-12-21 10:42:38</date>
+            <index>2</index>
+            <phrase>මේ රාළහාමිලාටත් වෙන වැඩක් නැහැ වගේ මේ සත්වයා හුරතල් කර කර ඉන්නේ.මෙයාලා වන ජීවී එකෙන් නෙමෙයිනේ. අනික මේ සත්වයා ඔහොම අල්ලගෙන ඉන්න නෙමෙයි, වහාම පශු වෛද්‍ය කෙනෙකුට යොමු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-12-21 10:47:18</date>
+            <index>3</index>
+            <phrase>පුදුම අහිංසක සතෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-12-21 10:48:22</date>
+            <index>4</index>
+            <phrase>පැටියා බේරාගත් පද්මිණි මහත්මිය නැහැනේ පෙනෙන්‍න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2016-12-21 11:15:52</date>
+            <index>5</index>
+            <phrase>මෙවන් අහිංසක සතුන්ට අපි නිරන්තරයෙන් අනුකම්පා කළයුතු වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-12-21 12:05:11</date>
+            <index>6</index>
+            <phrase>පද්මිනී මහත්මියනි, වසරක් ගෙවී නව වසරට පා තබන්න ඔන්න-මෙන්න තිබියදී මේ කළ පිංකම ඔබ තුමියට නව වසර සඳහා ආශීර්වාදයක් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල කුමාරසිංහ</author>
+            <date>2016-12-21 15:32:27</date>
+            <index>7</index>
+            <phrase>කොච්චර අහිංසක මුව පැටියෙක්ද? අර පිටිපස්සේ ඉන්න පොලිස් රාළහාමි ආයුබෝවන් කියාගෙන ඉන්නේ මොකද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2016-12-21 15:45:50</date>
+            <index>8</index>
+            <phrase>පවු දෙවියනේ! හරිම අහිංසකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාරක</author>
+            <date>2016-12-21 16:55:21</date>
+            <index>9</index>
+            <phrase>අනේ හරිම අහිංසක පැටියෙක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2016-12-21 19:12:01</date>
+            <index>10</index>
+            <phrase>පද්මිණි මහත්මිය නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-12-21 22:47:48</date>
+            <index>11</index>
+            <phrase>මේකා මීමින්නෙක් තරමට පොඩියිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2016-12-21 23:25:03</date>
+            <index>12</index>
+            <phrase>මෙපමණ පොඩි මුව පැටව්? මම මේ දැක්කමයි. ඒක නෙමෙයි, අර එහායින් ඉන්න නිලධාරියා වැඳගෙන ඉන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකරත්න</author>
+            <date>2016-12-22 00:24:55</date>
+            <index>13</index>
+            <phrase>බේරාගත් පද්මිණි මහත්මියවත් දැකගන්න ලැබුණා නම් සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාමා</author>
+            <date>2016-12-22 00:43:25</date>
+            <index>14</index>
+            <phrase>පොලිසියේ මානුෂික මුහුණුවර ඔබටත් පේනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2016-12-22 02:02:22</date>
+            <index>15</index>
+            <phrase>මේකා පිණි මුව පැටියෙක් වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්තක</author>
+            <date>2016-12-22 02:37:55</date>
+            <index>16</index>
+            <phrase>අයියෝ! අතටවත් අහුවෙන්නෙ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2016-12-22 04:35:38</date>
+            <index>17</index>
+            <phrase>මේ මී මින්නෙක් නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපතිස්ස බණ්ඩාර</author>
+            <date>2016-12-22 05:14:17</date>
+            <index>18</index>
+            <phrase>මේ ඉන්නේ මී මින්නා කියන සතා කුඩාම අවදිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-12-22 05:45:11</date>
+            <index>19</index>
+            <phrase>යහපතක්ම වේවා අසරණයාට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2016-12-22 06:00:46</date>
+            <index>20</index>
+            <phrase>මෙවන් අසරණ සතුන් කී දෙනෙක් මිනිස් ක්‍රියාකාරකම් හේතුවෙන් දිනකට මියැදෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-12-22 06:00:05</date>
+            <index>21</index>
+            <phrase>ඔන්න ඕකාට යන්න හරින්න දැන්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

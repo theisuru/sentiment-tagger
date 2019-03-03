@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454840</articleId>
+    <title>වැවිලිකරුවෝ සම්මාන ලබති</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 06 13:47:40</date>
+    <body>ලංකා වැවිලිකරුවන්ගේ සංගමයේ සමුළුව අගමැති  රනිල් වික්‍රමසිංහ  මහතාගේ ප්‍රධානත්වයෙන්  කොළඹ ගලදාරි හෝටලයේ දී  පැවැත්විණි.
+වැවිලිකරුවන්ගේ යෝජනා  එක්කොට  වැවිලි  ක්ෂේත්‍රය වඩා  ක්‍රමවත්ව ශක්තිමත්  කිරිම සඳහා  රජය නව වැඩ  පිළිවෙලක්  සකසන බව වික්‍රමසිංහ මහතා පැවසීය.
+වැවිලිකරුවන්ගේ නිල වෙබ් අඩවිය ද ආරම්භ කිරිමත් ඔවුන්ගේ සේවය අගයමින්  වැවිලිකරුවෝ මෙහිදී සම්මාන ලැබුහ.</body>
+    <comments>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-09-08 19:32:31</date>
+            <index>0</index>
+            <phrase>වතු කම්කරුවන්ගේ වැටුප් වැඩි වීම සිදුවන්නේ කවදාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-09-09 10:34:52</date>
+            <index>1</index>
+            <phrase>සම්මාන පිදිය යුත්තේ තේ දළු නෙළන ලදුන්ටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

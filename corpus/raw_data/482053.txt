@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>482053</articleId>
+    <title>බැඳුම්කර වංචාවට එරෙහිව පැමිණිල්ලක්</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 නොවැම්බර් මස 21 13:29:00</date>
+    <body>කෝප් කමිටු වාර්තාව පදනම් කරගනිමින් මහ බැංකු බැඳුම්කර වංචාවට එරෙහිව දූෂණ විරෝධී පෙරමුණ අද(21) අල්ලස් හෝ දූෂණ විමර්ශන කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+දූෂණ විරෝධී පෙරමුණේ සභාපති උලපනේ සුමංගල හිමි හා උපදේශක නිශාන්ත ශ්‍රී වර්ණසිංහ ඇතුළු පිරිසක් පැමිණිල්ල බාරදීමට පැමිණියහ.</body>
+    <comments>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-11-21 10:46:24</date>
+            <index>0</index>
+            <phrase>මේ අයත් ඉතින් ආණ්ඩුවේම කට්ටියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-11-21 11:52:52</date>
+            <index>1</index>
+            <phrase>කාවද මේ රවට්ටන්න හදන්නේ? සිංහල ජනතාවනේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-11-21 12:08:32</date>
+            <index>2</index>
+            <phrase>පැමිණිලි නම් කොච්චර එනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-11-21 12:11:25</date>
+            <index>3</index>
+            <phrase>හොරකම කවුරු කළත් ඒවා ඔක්කොම මහජන මුදල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-11-21 12:30:57</date>
+            <index>4</index>
+            <phrase>මෙික යාර්ථ නැහැ ගැටලු තියෙනවනම් මේ වැඩයට සමිබන්ධව මුලික අයිතිවාසි පෙස්සමක් ගෙොනු කරන්න. මේවා කරන්නෙ ප්‍රසිද්ධියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-11-21 13:24:31</date>
+            <index>5</index>
+            <phrase>කොයිකාලේ බැඳුම් කර සිද්ධියක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-11-21 16:34:33</date>
+            <index>6</index>
+            <phrase>බරපතල මුල්‍ය වංචා හොයන්න කියලා වෙනම කොට්ඨාශයක්, ජනාධිපති විමර්ශන කොමිසමක් අලුතින් හැදුවා නේද? ඒවා බොහොම සක්‍රිය එකේ ඇයි මහා බැංකු මංකොල්ලේ නොසොයන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-11-22 00:45:42</date>
+            <index>7</index>
+            <phrase>ඉතින් මහත්තයෝ, ඔයාලමනේ මේ ආණ්ඩුව පත්කළේ. දැන් මොනවද මේ කියන කතා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-11-22 01:11:34</date>
+            <index>8</index>
+            <phrase>ආණ්ඩුවේ සමහර ආයතන වල නිලධාරින් කළ කොමිස් ගැහිලි ගැනත් හොයන්න. පූසෝ වගේ ඉන්නවා පහුගිය කාලේ කළ හොරකම් අහුවෙයි කියලා බයට. නමුත් ඇඟිලි ගැන ගැන ඉන්නේ ආණ්ඩුව පෙරළෙනකම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

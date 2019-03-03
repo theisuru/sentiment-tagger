@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14212</articleId>
+    <title>මේත් පාසලකි</title>
+    <author>වියලූවේ නිශාන්ත කුමාර</author>
+    <date>2011 නොවැම්බර් මස 23 10:27:57</date>
+    <body>මීගහකිවුලේ බෝගහපතන කණිටු විදුහල ගිය සඳුදා සිට වසා ඇත. එහි සිටින එකම ගුරුවරයා නිවාඩු ගැනීම ඊට හේතුවයි. එහි පන්ති පහකි. ළමයි 11  දෙනෙකි.</body>
+    <comments>
+        <comment>
+            <author>මංගල</author>
+            <date>2011-11-23 15:24:39</date>
+            <index>0</index>
+            <phrase>මේ පාසලේ විස්තර එවන්න. අපි බලමු කොහොමද මෙය රැකගනන්නේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමා-අබුඩාබි</author>
+            <date>2011-11-24 09:26:15</date>
+            <index>1</index>
+            <phrase>ජනාධිපතිතුමනි, අධ්‍යාපන ඇමතිතුමනි, මෙම පාසල ගැන සොයා බලා ඒ අහින්සක දරුවන්ට පිහිට වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

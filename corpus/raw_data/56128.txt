@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56128</articleId>
+    <title>ලෑලි කඩ ගිනිදෙවියාට</title>
+    <author>කේපී සුමනදාස</author>
+    <date>2012 ජූලි මස 30 09:35:28</date>
+    <body>ඇඹිලිපිටිය බස් නැවතුම්පොළ ඉදිරිපිට ලෑලි කඩ 23ක් ගින්නෙන් දැවී ගියේය.</body>
+    <comments>
+        <comment>
+            <author>අනුර එස් ලියනගේ</author>
+            <date>2012-07-30 11:43:39</date>
+            <index>0</index>
+            <phrase>පව් අංහින්සක දුප්පත් මිනිසුන් කියක් හරි හොයාගත්ත කඩ පේලි‍ .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිශාන්</author>
+            <date>2012-07-30 13:30:22</date>
+            <index>1</index>
+            <phrase>ගොඩක් දුකයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-30 15:06:39</date>
+            <index>2</index>
+            <phrase>පව් ...බඩේ ගින්දර‍‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-07-30 17:20:36</date>
+            <index>3</index>
+            <phrase>කණගාටුයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානා</author>
+            <date>2012-07-30 22:21:46</date>
+            <index>4</index>
+            <phrase>කවුද දන්නේ ගිනි තියලද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

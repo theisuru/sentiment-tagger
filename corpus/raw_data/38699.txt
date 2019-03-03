@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38699</articleId>
+    <title>තවත් අයි.ආර්.සි වැඩක්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අපේ‍්‍රල් මස 24 15:05:43</date>
+    <body>කොළඹ කොම්පඤ්ඤ වීදියේ පොදු වැසිකිලියකදී 65 හැවිරිදි කතක බලෙන්  කෙළෙසී යැයි කියන තුවාන් හර්දින්  (35) ලබන 30 වැනි දා තෙක් රිමාන්ඩ් කරන ලෙස කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජෙරත්න මහතා නියෝග කෙළේය. ඔහුගේ නම අයි.ආර්.සී. අපරාධකරුවන්ගේ ලැයිස්තුවේ ඇතැයි පොලිසිය අධිකරණයට දැන්වීය</body>
+    <comments>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-04-24 15:18:11</date>
+            <index>0</index>
+            <phrase>අනේ අපොයි කිරි අම්මා, මූව වෙඩි තියල මරන්න ඕනේ. ජලභීතිකාව බෝවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-04-24 15:28:34</date>
+            <index>1</index>
+            <phrase>සෞදි අරාබියේ දඬුවම් අනමත කරමි. මේ වගේ අයව හිරේ දැම්මට වැඩක් නෑ. එළියට ආවම අයෙත් කරන්නෙම ඔයවගේ වැඩමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්ට්‍රික්</author>
+            <date>2012-04-24 15:51:13</date>
+            <index>2</index>
+            <phrase>වයසක අයවත් දූෂණය කරනවනම් කුඩා දරුවන් ගැන මොන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමි</author>
+            <date>2012-04-24 16:55:07</date>
+            <index>3</index>
+            <phrase>මෙහෙම අසනීප කාරයෝ ........... රජ කාලේ දඩුවම් දෙන්න වටින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-04-24 17:56:13</date>
+            <index>4</index>
+            <phrase>මේ වගේ අයට මොනවා කළත් මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූ.බන්ඩාර</author>
+            <date>2012-04-25 00:40:21</date>
+            <index>5</index>
+            <phrase>මේ වගේ අයට දෙන්න ඕනි රජ කාලෙ දඩුවම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉර්පාන් ධර්ම</author>
+            <date>2012-04-25 05:11:03</date>
+            <index>6</index>
+            <phrase>දුෂකයන්ට, ළමා අපචාර කරන අයට අලුතින් නීති ගෙනත් ජීවිත කාලෙටම විදවන්න දඩුවම් කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.ඒ.නුවන්</author>
+            <date>2012-04-25 14:19:39</date>
+            <index>7</index>
+            <phrase>මේ වගේ ැයට හෙන හතක් ගහල තව පොඩි ඒවගෙන් පහකුත් ගයන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

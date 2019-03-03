@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19992</articleId>
+    <title>කිරි අම්මාවරු දානෙන් සිංහල, දෙමළ සමගිය පෙන්වයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2011 දෙසැම්බර් මස 31 16:40:50</date>
+    <body>වවුනියාව සෙට්ටුකුලම පොලිසිය නව වසරට ආසිරි පතමින් කිරිඅම්මාවරු 270 දෙනකුට කිරි දානයක් පිරිනැමීය.
+පළාතේ සිංහල දෙමළ අයගේ සහායෙන් පොලිසිය සිදුකළ මේ කිරි දානයට සිංහල සහ දෙමළ කිරි අම්මාරු පැමිණ සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>චන්දන ගමගේ</author>
+            <date>2011-12-31 18:02:20</date>
+            <index>0</index>
+            <phrase>බොහොම අගෙයි වැඩේ නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2011-12-31 18:10:29</date>
+            <index>1</index>
+            <phrase>පොලීසියෙ අයත් පින් වැඩ කරනවනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසලා</author>
+            <date>2011-12-31 18:36:37</date>
+            <index>2</index>
+            <phrase>මෙයා පැවැත්වූ සංජීව මහත්මයා හරිම පින් වැඩක් කරලා තියෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2011-12-31 18:37:06</date>
+            <index>3</index>
+            <phrase>සියලුම රජයේ ආයතනවලට ආදර්ශමත් පින්කමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>wasala</author>
+            <date>2011-12-31 18:41:54</date>
+            <index>4</index>
+            <phrase>මෙය පැවැත්වූ සංජීව මහත්තයා හරිම පන් අතේ වැඩක් කරල තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ ජී කරුණාදාස</author>
+            <date>2011-12-31 18:48:11</date>
+            <index>5</index>
+            <phrase>හොද ආදර්ශවත් ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොන්</author>
+            <date>2011-12-31 19:22:23</date>
+            <index>6</index>
+            <phrase>මෙවැනි යහපත් දේ අපේ පොලිසිය සහ මහ ජනතාවට එක්ව කිරිමට ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් ද සිල්වා</author>
+            <date>2011-12-31 20:33:48</date>
+            <index>7</index>
+            <phrase>ඉතාම හොද සත් ක්‍රියාවක්. ශ්‍රී ලංකා පොලීසියට අපේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් ජානක</author>
+            <date>2011-12-31 21:55:00</date>
+            <index>8</index>
+            <phrase>ඇත්තෙන්ම හරිම ලස්සන පින්කමක්. සියලු දෙනාටම මහා ගුණ ඇති බුදුරජාණන් වහන්සේගේ උතුමි ආශිර්වාදය ලැබෙවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතපත්තු</author>
+            <date>2011-12-31 23:51:12</date>
+            <index>9</index>
+            <phrase>මෙවන් උතුම් දෙයක් සංවිධානය කරපු ඔබතුමන්ලාටත් ලක්වැසි සැමටත් සෙතක්ම සැලසේවා. සුභ නව වසරක් ලෝක වාසී සියලු දෙනාටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-01-01 09:04:43</date>
+            <index>10</index>
+            <phrase>ආදර්ශමත් පොලිස් නිලධාරීන් පිරිසක්. රටටම ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2012-01-04 13:57:15</date>
+            <index>11</index>
+            <phrase>ඔයාගෙ වැඩ ටිකනම් නියමයි. අනිත් හැමෝටම ලොකු ආදර්ශයක් කියලා මම හිතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>roy</author>
+            <date>2012-01-10 15:44:23</date>
+            <index>12</index>
+            <phrase>වවුනියාව සෙට්ටුකුලම පොලිසිය නව වසරට ආසිරි ,ලොකු ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

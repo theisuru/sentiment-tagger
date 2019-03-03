@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36299</articleId>
+    <title>පන්සලට වෙඩි තියලා</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 අපේ‍්‍රල් මස 13 10:03:29</date>
+    <body>වළස්මුල්ල විහාරස්ථානයක් අසදී අද (13) අලුයම වෙඩි තැබීමක් සම්බන්ධයෙන් තරුණයන් දෙදෙනකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි. වෙඩි ප්‍රහාරයෙන් විහාරයට  හානි සිදුව ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>සිතාක්</author>
+            <date>2012-04-13 11:55:28</date>
+            <index>0</index>
+            <phrase>හෙළ උරුමය හා හෙළ කරුමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගා ශානි</author>
+            <date>2012-04-13 16:07:02</date>
+            <index>1</index>
+            <phrase>දඩුවම බරපතල කරන්න. වෙඩි තියලා තියෙන්නේ පන්සලකට..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

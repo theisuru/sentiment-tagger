@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49536</articleId>
+    <title>තිදෙනෙක්ම, ජුලම්පිටියේ අමරේ හඳුනා ගනිති</title>
+    <author>සනත් ගමගේ</author>
+    <date>2012 ජූනි මස 22 13:57:20</date>
+    <body>ජනතා විමුක්ති පෙරමුණේ සාමාජිකයන් දෙදෙනකු කටුවන හැඳිවත්තේ දී මරා දැමීමේ සිද්ධිය සම්බන්ධයෙන් ජූලම්පිටියේ අමරේ. (ජී.ජී. අමරසිර) වලස්මුල්ල මහේස්ත්‍රාත් උසාවියේ දී අද සාක්කිකරුවන් විසින් හඳුනා ගනු ලැබීය. වැඩ බලන මහේස්ත්‍රාත් ඩබ්ලිව්. එල්. හේරසිංහ මහතා ඉදිරියේ පැවැති හඳුනා ගැනීමේ පෙරට්ටුවේ දී සාක්කිකරුවෝ තිදෙනෙක් ම හඳුනා ගනු ලැබූහ. හඳුනා ගැනීමට නොහැකි වූයේ එක් අයකුට පමණි.</body>
+    <comments>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2012-06-22 14:16:02</date>
+            <index>0</index>
+            <phrase>දැන් කට්ටියකට කියන්න දෙයක් නැතුව ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-22 14:16:16</date>
+            <index>1</index>
+            <phrase>අමරේ එන්න අපි සල්මල් කඩමු.නයනා අඩගැහුවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-06-22 14:20:00</date>
+            <index>2</index>
+            <phrase>ඉතුරු ටික දෙනත් අල්ලගන්න ඉක්මණට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-22 15:04:37</date>
+            <index>3</index>
+            <phrase>ඇයි ඔය මූණ හංගගෙන ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-06-22 15:09:07</date>
+            <index>4</index>
+            <phrase>තුන් දෙනෙක් නෙමෙයි හැමෝම දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරේ</author>
+            <date>2012-06-22 14:33:29</date>
+            <index>5</index>
+            <phrase>හදුනා ගන්න බැරි මොකෝ,, ෆොටෝ තිබ්බේ පත්තරේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෘතග්ජන මිනිසා</author>
+            <date>2012-06-22 14:39:36</date>
+            <index>6</index>
+            <phrase>හයියෝ....දැන් ඉතින් මේ තුන්දෙනාට කතරගම දෙයියන්නාන්සෙගෙ පිහිටයි....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-22 15:26:55</date>
+            <index>7</index>
+            <phrase>මාධ්‍ය වලින් පෙන්නුවට හදුනා ගන්න ලේසි නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හනුමා</author>
+            <date>2012-06-22 15:27:41</date>
+            <index>8</index>
+            <phrase>දැන් ඉතිං ඊළගට වෙන්නේ මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-06-22 15:37:47</date>
+            <index>9</index>
+            <phrase>තුන් දෙනා නෙමෙයි.මුලු රටම අදුරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2012-06-22 15:12:54</date>
+            <index>10</index>
+            <phrase>කාටද දන්නේ නෑ හදුනා ගන්න බැරි වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-06-22 15:17:09</date>
+            <index>11</index>
+            <phrase>හදුනා ගත්තට ඇප පිට නිදහස් වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-06-22 16:19:55</date>
+            <index>12</index>
+            <phrase>හදුනාගත්තායැයි ඇති වැඩේ මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ.ඒ.</author>
+            <date>2012-06-22 16:32:00</date>
+            <index>13</index>
+            <phrase>මාව අදුර ගත්තු අයට හොද වැඩක් කරනවා මම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-06-22 17:22:32</date>
+            <index>14</index>
+            <phrase>කටුවන සිද්ධියටද මේ භාර වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2012-06-22 16:45:39</date>
+            <index>15</index>
+            <phrase>දැන් හිරගෙදරත් vip කාමර හදන්න වෙයිද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-06-22 17:45:12</date>
+            <index>16</index>
+            <phrase>බලමුකෝ.මම හිතන්නේ හිරේ යාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත්</author>
+            <date>2012-06-22 18:37:10</date>
+            <index>17</index>
+            <phrase>අමරෙට සුදු හුණු ගාපු අර ඉහළ නිලධාරි මහත්තුරු දැන් රෙදි ඇදගෙන ද දන්නෙ නෑ ඉන්නෙ. කාටකාටත් මේව හොද පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-22 19:31:42</date>
+            <index>18</index>
+            <phrase>අදුර ගත්ත අයටත් පොලිස් ආරක්ෂාව දෙන්න වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් from melbourne</author>
+            <date>2012-06-22 21:07:35</date>
+            <index>19</index>
+            <phrase>මෙයාවත් සිංගප්පුරුවෙ යවයිද දන්නේනෑ බෙහෙත් ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-06-22 21:33:13</date>
+            <index>20</index>
+            <phrase>*හයියෝ....දැන් ඉතින් මේ තුන්දෙනාට කතරගම දෙයියන්නාන්සෙගෙ පිහිටයි....!! *දැන් හිරගෙදරත් vip කාමර හදන්න වෙයිද දන්නේ නෑ *තුන් දෙනා නෙමෙයි.මුලු රටම අදුරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතලන්</author>
+            <date>2012-06-22 22:00:41</date>
+            <index>21</index>
+            <phrase>අනේ වෙඞි තියන්න තරම්වත් කෙනෙක් හිටියේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-06-22 22:30:49</date>
+            <index>22</index>
+            <phrase>හඳුනා ගත්තොත් ඔබ මා ………</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-06-22 22:35:56</date>
+            <index>23</index>
+            <phrase>එන්න මල්ලි ‍බේරගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැමිණිලිකරු</author>
+            <date>2012-06-22 23:58:13</date>
+            <index>24</index>
+            <phrase>අදුරන්නේ නැහැ කියල හෙට කියයිද දන්නේ නැහැ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇස</author>
+            <date>2012-06-23 01:06:21</date>
+            <index>25</index>
+            <phrase>කොහොමහරි මේ මිනිමරුවත් ලබන සථිඑ වෙනකොට ඇප ලැබිල ....සියලු වරප්ප්‍රසාද ද සමග එලියට ඇවිත් ලස්සනට තවත් ඕඩරයක් එනකම් ඉදිවී ලෝකේ කිසිම රටක නැති මිනීමරුවන්ට සලකන හොදම රට තමා අපේ රට කවදාක නම් අපේ රටේ නීතියට ගරු කරන රටක් සමාජයක් බිහිවෙඉද.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හීන් මැණිකා</author>
+            <date>2012-06-23 01:04:45</date>
+            <index>26</index>
+            <phrase>අඳුර ගන්න ඒ මනුස්සය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-06-23 02:30:01</date>
+            <index>27</index>
+            <phrase>මොකද්ද මෙයා පුරාවස්තුවක්ද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාශිනී</author>
+            <date>2012-06-23 03:52:06</date>
+            <index>28</index>
+            <phrase>නීතිඥවරයා මෙයාව බේරගන්න උසාවි යයිද? නොයයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් නුගේ</author>
+            <date>2012-06-23 07:03:56</date>
+            <index>29</index>
+            <phrase>ඔය මනුස්සයාව අදුරන්නෙ නැත්තෙ පොලොසියේ ඇයො විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-06-23 08:14:39</date>
+            <index>30</index>
+            <phrase>මරන්නයි තිබුනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාද් පෙරේරා</author>
+            <date>2012-06-23 09:00:21</date>
+            <index>31</index>
+            <phrase>නවීන් එහෙම කියන්න එපා.. අනාගත මන්ත්‍රීතුමෙක්ව ආරක්ෂා කිරීම අපේ යුතුකමක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-23 09:43:54</date>
+            <index>32</index>
+            <phrase>මහේස්ත්‍රාත් තුමා කියල තිබ්බ බන්ධනාගාර නිලධාරින්ගේ සහ පොලිසියෙ ක්‍රියා කලාපය.. සක්කරයා ආවත් ඒගොල්ලන්ව හදන්න බැහැ.. බන්ධනාගාර ආපනශාලාවෙ එක බීඩි මිටිය දවසට පහළොස්වතාවකට වඩා විකුණනවා... (සමහර මල් වට්ටි වගේ.. ආසනයට යනවා ආයෙ කඩයට එනවා..)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-23 10:31:55</date>
+            <index>33</index>
+            <phrase>හදුනා ගත්තොත් ඔබ මා……..අමරේ අමරේ මම ඇවිත් ඉන්නේ …..ඉතින් මොන යකාටවත් බය වෙන්න දෙයක් නැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-23 11:59:15</date>
+            <index>34</index>
+            <phrase>පොලිසියට ගියොත් වාර්තාවක් ගන්න හෝ ‍පැමිණිල්ලක් දාන්න එක්කෝ පැමිණිල්ල ලියාගන්න රාළහාමිට බුලත්විටයි දුම්වැටියයි ගේන්න වෙනවා.. නැන්තම් පත්තරේ ගේන්න වෙනවා.. එහෙමත් නැත්නම් ෆෝම්ස් ඉවරයි කියල පොටෝ කොපි ගහගෙන එන්න කියනවා 10 ක්විතර.. රටේ නීතිය ක්‍රියාත්මක වෙන තැන් මේවාගේ අහිංසක මිනිහට සාධාරණේ ‍කවදා ලැබෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයන</author>
+            <date>2012-06-23 16:19:25</date>
+            <index>35</index>
+            <phrase>මෙ කමන්ටි දැක්කම අපෙ රටෙ ඉන්නෙ වැස්සකටවත් පාසැලකට ගිහින් නැති අයද කියලා හිතෙනවා..............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබුදස්ස</author>
+            <date>2012-06-23 16:30:35</date>
+            <index>36</index>
+            <phrase>ඔය අමරේගේ ජර මර තව ඉවර නැද්ද . මම දන්නා අමර නම් හොද ළමයා. සමත් එක්ක මල් කඩනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2012-06-23 19:24:12</date>
+            <index>37</index>
+            <phrase>එක්කෙනෙක් ගොඩ තුන්දෙනෙක් වලේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-06-23 19:51:59</date>
+            <index>38</index>
+            <phrase>දැන් රටේ තියෙන ලොකුම ගැටලුව මේක තමයි.. බඩුමිල එහෙම ටිකක් අමතක කරන්න හොද විකල්පයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරැ</author>
+            <date>2012-06-23 19:51:59</date>
+            <index>39</index>
+            <phrase>රටේ‍ සෙසු ප්‍රශ්ණ අමතක කරවන තවත් එක් කතාංගයක් පමණි. නැවත හමුවෙමු..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ් ඩුබායි</author>
+            <date>2012-06-23 22:27:09</date>
+            <index>40</index>
+            <phrase>අනිත් අයට මොකද වෙන්නෙ...??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිර</author>
+            <date>2012-06-24 08:50:57</date>
+            <index>41</index>
+            <phrase>අමරේ නොමෙරෙන බව සිතා කෙසෙල් ගසකට කොටා ඇත .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-06-24 09:08:57</date>
+            <index>42</index>
+            <phrase>පව් අමරේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බොන්කුන්ද</author>
+            <date>2012-06-24 09:49:13</date>
+            <index>43</index>
+            <phrase>මොනවද මේ සේරම දොඩවන්නේ . එයා ඇවිත් මෙයාව බේරා ගනීවි , එච්චරයි. හරි simple අනේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරේ</author>
+            <date>2012-06-24 16:34:24</date>
+            <index>44</index>
+            <phrase>මමත් ඔයා තුන්දෙනාම අදුනාගත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

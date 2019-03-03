@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20213</articleId>
+    <title>යළි අකුරට</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජනවාරි මස 02 14:47:30</date>
+    <body>නව පාසල් වාරය අද ඇරැඹිණි. මේ මාතර රාහුල ප‍්‍රාථමික විදුහලයි.</body>
+    <comments>
+        <comment>
+            <author>අරුණ එල් එස්</author>
+            <date>2012-01-02 15:15:55</date>
+            <index>0</index>
+            <phrase>බොහොම ස්තුතියි පින්තූරයට. මමත් ගෙන ගත්තේ මාතර රාහුල විද්‍යාලයේ 1977 දී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-01-02 16:35:49</date>
+            <index>1</index>
+            <phrase>‘පුන්චි එවුන් මං එනකම් පොර බලන්නේ...‘</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

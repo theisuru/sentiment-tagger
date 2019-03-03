@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57234</articleId>
+    <title>වගාවට වතුර ඉල්ලා පාරේ වාඩිවෙති</title>
+    <author>විමල් ගුරුසිංහ</author>
+    <date>2012 අගෝස්තු මස 06 13:48:09</date>
+    <body>අඟුණුකොළ පැලැස්සේ මුරවැසිහේන මහවැලි වගාබිම් හෙක්ටයාර 4514කට චන්ද්‍රිකා වැවෙන් වාරි ජලය නිකුත් නොකරතිියි මුරවැසිහේන ගොවියෝ අඟුණුකොළපැලැස්සxවැටිය මහපාරේ වාඩිවී අද උද්ඝෝෂණයක් කළහ.
+බලගතු කෙනෙකු වාරි ජලය ඇළවල් 48ක් වසා කිලෝමීටර් 22ක් ඈත තැනකට ගෙන ගිය බව එම ගොවීහු කියති.</body>
+    <comments>
+        <comment>
+            <author>කසුන්-ලක්සම්බර්ග්</author>
+            <date>2012-08-06 14:40:40</date>
+            <index>0</index>
+            <phrase>කවුද මේ බලගතු කෙනා...... අනේ මෙහෙමත් කාලයක් ඉස්සර රජවරු වැව් අමුණු ඉදිකරල ජනතාවට වගාකරන්න සැලස්සුව දැන් කාලෙ තියෙන වතුර ටිකත් දෙන්නෙ නැතුව පිස්සු නටනව..අපි වවමු රට නගමු හැබැයි වතුර නැතුව.මේකනම් මහා ආශ්චර්යයක්.ඊලගට රටේ මිනිස්සු කන බත් පතටත් වැඩේ කරන්න වගේ යන්නෙ...මේ මහ උතුමන්ලට දෙයියන්ගෙ හාල් කැවිලද මන්ද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලස්</author>
+            <date>2012-08-06 14:56:07</date>
+            <index>1</index>
+            <phrase>පිස්සෝ ඉන්න රටක් වෙලා. අමු කෙවිලද මේ වගේ කට්ටියට දෙන්න ඕන රජකාලේ දඩුවම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-08-06 15:06:41</date>
+            <index>2</index>
+            <phrase>එහෙම තමයි ඉන්න ඕනේ. තමන්ගේ චන්නද දායකයන්න්ට සල්ලක්කන්න එපා ඒහැටිම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-08-06 16:49:57</date>
+            <index>3</index>
+            <phrase>කෝ මේ පාන්පිටි ත්‍රස්තවාදීන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල-වෙරෝනා</author>
+            <date>2012-08-06 18:46:03</date>
+            <index>4</index>
+            <phrase>අපේ ජන්දෙ අරගෙන අපිටම කොකා පෙන්නන හෑටි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Aris</author>
+            <date>2012-08-06 22:05:50</date>
+            <index>5</index>
+            <phrase>අලුතින් වගා බිමක් හඳන්න බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-08-07 09:47:23</date>
+            <index>6</index>
+            <phrase>මේ ආසියාවේ සී ප්ලේන් ආශ්චර්යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-07 11:59:50</date>
+            <index>7</index>
+            <phrase>අපේ මිනිස්සුත් ඔක්කොම සිද්ධ වුණාට පස්සේ බොරුවට කෑ ගහනවා. ඕවා මුලින්ම සිද්ධ වෙද්දිම කෑ ගැහුවා නම් ඔහොම වෙන්නේ නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

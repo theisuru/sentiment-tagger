@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>472350</articleId>
+    <title>අලුත් සමීක්ෂණයෙන් හිලරි ඉදිරියෙන්</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ඔක්තෝබර් මස 25 09:42:15</date>
+    <body>ඇමරිකා ජනපතිවරණ සටන සම්බන්ධයෙන් ඒ.බී.සී සහ වොෂින්ටන් පෝස්ට් ආයතන පැවැත්වූ නවතම සමීක්ෂණයකින් මේ වනවිට ඩිමොක්‍රටික් පක්ෂ අපේක්ෂිකා හිලරි ක්ලින්ටන් ඉදිරියෙන් සිටින බව විදෙස් මාධ්‍ය වාර්තා පවසයි.
+සමීක්ෂණය මගින් තහවුරු වී ඇත්තේ හිලරි ක්ලින්ටන්ට 50%ක ජනප්‍රියත්වයක් හිමිව ඇති බවයි.
+රිපබ්ලිකන් පක්ෂ අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් ලබා සිටින්නේ 38%ක ජනප්‍රියත්වයක් බවද එම සමීක්ෂණ වාර්තා තහවුරු කරයි.
+මේ අතර පසුගියදා ට්‍රම්ප් සිය දින සියයේ වැඩපිළිවෙළක් ද ප්‍රකාශයට පත් කළේය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-10-25 04:40:50</date>
+            <index>0</index>
+            <phrase>මම නම් කැමති ට්‍රම්ප් ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-25 07:24:30</date>
+            <index>1</index>
+            <phrase>සමීක්ෂණ කෙසේවෙතත් අවසාන ඡන්ද විමසීම ට්‍රම්ප් දිනනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපසිංහ</author>
+            <date>2016-10-25 07:45:20</date>
+            <index>2</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2016-10-25 08:06:08</date>
+            <index>3</index>
+            <phrase>හිලරි ජනාධිපති වුනොත් ලෝක විනාශේ අත ළඟ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-25 10:01:46</date>
+            <index>4</index>
+            <phrase>ඇමරිකාවේ අවසානය තමා මෙය අවොත්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-10-25 11:23:07</date>
+            <index>5</index>
+            <phrase>අලුත් විතරක් නෙමෙ පරණ සමික්ෂණවලිනුත් ඇය ඉදිරියෙන් හිටියෙ. ට්‍රම්ප් කිසිම දිනක ඇයට ඉදිරියෙන් හිටියෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2016-10-25 11:34:21</date>
+            <index>6</index>
+            <phrase>අධික මාන්නය නිසා ඇමෙරිකානුවන් විසින් හිලරිව තෝරාගනු ඇත. එයම ඔවුන්ගේ අවාසනාවත් වනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන් සිල්වා</author>
+            <date>2016-10-25 11:56:49</date>
+            <index>7</index>
+            <phrase>මාත් කැමති ට්‍රම්ප් ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් නිශ්ශංක</author>
+            <date>2016-10-25 14:33:07</date>
+            <index>8</index>
+            <phrase>මෝඩ රාජපක්ෂ වාදීන් ට්‍රම්ප් දිනනවට කැමති වුණාට ඔලුවක් තියන ඇමෙරිකානු ජනතාව ට්‍රම්ප් පරදන බවට කිසි සැකයක් නැහැ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීම්</author>
+            <date>2016-10-25 16:42:16</date>
+            <index>9</index>
+            <phrase>ඇමරිකානුවෙක් ජනාධිපති වීම වැළැක්විය නොහැක. ඔහු හෝ ඇය ඇමරිකාවේ දියුණුව සහ අනෙක් රටවලට හිවල් න්‍යායෙන් සමීප වේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෞරියෙල්</author>
+            <date>2016-10-25 16:43:07</date>
+            <index>10</index>
+            <phrase>අනේ අපිට නම් මෙහේ කියන්න බැරිතරමට ප්‍රශ්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2016-10-26 09:14:37</date>
+            <index>11</index>
+            <phrase>අපි මෙහෙ ඉඳන් බොරුවට කාටවත් හුරේ දැම්මට වැඩක් නෑ. කවුරු ජනාධිපති වුනත් ඇමරිකාවෙ ප්‍රතිපත්ති වෙනස් වෙන්නෑ. ඇමරිකාවෙ ප්‍රතිපත්ති හදලා තියෙන්නේ දශක ගණනාවක් ඉදිරිය ගැන බලලා. ඒකයි ඇමරිකාව තාම ලෝකයේ සුපිරි බලවතා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් නිශ්ශංක</author>
+            <date>2016-10-26 14:37:56</date>
+            <index>12</index>
+            <phrase>මේ ඡන්දෙන් හිලරි දිනනවා පමණක් නොව ඇමෙරිකාවට ස්වර්ණමය යුගයක් උදා කරනවා! හිලරිගේ සැමියා බිල් ක්ලිනිටන් යුගය ඇමෙරිකාවේ හොදම කාලයක්! රැකියා මිලියන විසි එකක් එයාගේ අවුරුදු අටට බිහි කලා! ඇමෙරිකානු ජනතාවට අතීතය හොදට මතකයේ තියනවා! අර මොනිකා ලේව්නිස්කි එක්ක පැටලිලා නම සවුත්තු කර ගත්තාට බිල් ක්ලින්ටන් රටට හොදට වැඩ කරපු නායකයෙක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2016-10-27 00:32:39</date>
+            <index>13</index>
+            <phrase>අනේ මේ මිනිසුනේ තමන් නොදන්නා දේවල් නොකියා ඉන්න. ට්‍රම්ප් දිනුවොත් වනසන්නේ කාවද කියලා අමුතුවෙන් කියන්න දෙයක් නැහැනේ. කොහොමත් මේ දෙන්නම මහලු වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත්</author>
+            <date>2016-10-27 04:53:03</date>
+            <index>14</index>
+            <phrase>අජිත් නිස්සංක ඇමෙරිකාවේ ඉන්න හදනතාක් වගේ හිලරිට හුරේ දමන්නේ. අනේ පව් ඔය. ට්‍රම්ප් දිනනවා ගෙදර එන්න රෙඩි වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

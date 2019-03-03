@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507222</articleId>
+    <title>කොකේන් කිලෝ දෙකක් සමග තිදෙනෙක් දැලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 පෙබරවාරි මස 14 21:00:27</date>
+    <body>කොකේන් කිලෝ දෙකක් සමග නයිජීරියානු ජාතිකයන් දෙදෙනකු හා ලැට්‍වියානු ජාතිකයකු ගල්කිස්සේදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි. </body>
+    <comments>
+        <comment>
+            <author>මහී</author>
+            <date>2017-02-14 18:48:23</date>
+            <index>0</index>
+            <phrase>මෙච්චරකල් පකිස්තාන්කාරයෝ කරපු දේ දැන් නයිජීරියන්කාරයෝ බාර අරගෙන වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධීර</author>
+            <date>2017-02-15 08:33:30</date>
+            <index>1</index>
+            <phrase>තෙල් සම්පත තිබියදීත් නයිජීරියාව දැන් නොයෙක් ජාවාරම් සඳහා ප්‍රකට රටක් වෙලා, ඉතා සැපසේ ජීවත් විය හැකිව තිබියදීත් ජාතිවාදයත් දේශපාලනයත් නිසා රටක් වැනසෙන හැටි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

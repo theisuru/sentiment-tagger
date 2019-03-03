@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>338768</articleId>
+    <title>‘සුළඟේ වේගය වැඩි වේ‘</title>
+    <author></author>
+    <date>2015 අගෝස්තු මස 08 10:50:48</date>
+    <body>දිරි දින කිහිපයේදී ශ්‍රී ලංකාව සහ අවට මුහුදේ නිරිත දිග මෝසම් සුළං වේගයේ වැඩි වීමක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් තැනින් තැන වැසි ඇතිවේ. දහවල් 2 සිට රාත්‍රී 8 දක්වා කාලයේදී ඌව සහ නැගෙනහිර පළාත්වල ස්ථාන ස්වල්පයක ගිගුරුම් සහිත වැසි වර්ධනය විය හැකිය.
+විශේෂයෙන් මධ්‍යම කඳුකරය හරහා සහ වයඹ, ගිනිකොණ මුහුදු ප්‍රදේශවල නිරිත දෙසින් හමන මෝසම් සුළං වේගය විටින් විට පැයට කිලෝ මීටර් 60 පමණ දක්වා වැඩි වේ.</body>
+    <comments>
+        <comment>
+            <author>සුරන්</author>
+            <date>2015-08-08 05:48:09</date>
+            <index>0</index>
+            <phrase>එකනම් ඇත්ත මේ දවස්වල මහින්ද සුළග සැරේට හමනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-08-08 06:38:16</date>
+            <index>1</index>
+            <phrase>දේශපාලන සුළඟේ වේගය නම් දැන් වැඩිවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්දර කපුගේ</author>
+            <date>2015-08-08 07:13:37</date>
+            <index>2</index>
+            <phrase>මහින්ද සුළඟත් පහුගිය දවස්වල වැඩි වුන නිසා ස්වභාව ධර්මයටත් හිතෙන්න ඇති සුළං වේගය වැඩි කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.ස් කෙටකවෙල</author>
+            <date>2015-08-08 09:09:23</date>
+            <index>3</index>
+            <phrase>කොහොමත් මහින්ද සුළග ගොඩක් වැඩියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පන්සිලු</author>
+            <date>2015-08-09 05:51:54</date>
+            <index>4</index>
+            <phrase>මේවා දිහා බලලා කතානොකර හිටියොත් වැඩකුත් නැහැ. මහින්ද මහින්ද මහින්ද.... දැන් සමහරුන්ට සනීප නැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

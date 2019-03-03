@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494655</articleId>
+    <title>ව්‍යාපාරිකයාට තරු විසිවෙයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 දෙසැම්බර් මස 30 12:27:33</date>
+    <body>තම සේවකයකුගේ මගුල් ගෙදරකට ගොස් එද්දී අලුත්ගම ව්‍යාපාරිකයකුගෙන් බේරුවල දී  අද (30) අලුයම පුද්ගලයන් දෙදෙනෙකු ජිප් රිය බලෙන් නවත්වා  රුපියල් ලක්ෂ 31 ක් වටිනා රන්භාණ්ඩ සොරා ගත් බව අලුත්ගම පොලිසියට  පැමිණිලි කර  ඇත.
+පවුම් 20 ක රන්මාලයක්, පවුම් 20 අත් පලඳනාවක්, පවුම් 4 සුරයක් , මුදු කිහිපයක්, හා පන්ලක්ෂ විසිපන්දහස් පමණ වටිනා අත් ඔරලෝසුවක් ද  පැහැර ගෙන ඇතැයි පැමිණිල්ලේ දැක්වේ.</body>
+    <comments>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-12-30 07:22:12</date>
+            <index>0</index>
+            <phrase>සුරයේ බලය ඔප්පු වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-30 07:36:59</date>
+            <index>1</index>
+            <phrase>මිනිහෙකුට කරදරයක් වුණාම සංවේදී වෙන්න ඉගෙනගන්න සහන්. නම සහන් වුණාට, හිතේ කිසිම සහනයක් නැහැ වගේ. අපිට ඕනෑ දේවල් කරන්නේ නැහැ මිනිස්සු. කොහොමහරි හොරුන්ව අහුවෙන්න ඕනෑ අදම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-12-30 08:17:32</date>
+            <index>2</index>
+            <phrase>හොරා දැන් සුරයෙන් නියම ප්‍රයෝජනය ගන්නවා ඇති !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2016-12-30 09:29:22</date>
+            <index>3</index>
+            <phrase>මඟුල් ගෙදර ගැන දන්නා හොඳම හිතවතෙක් දුන්න වැඩක් වෙන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-12-30 12:08:43</date>
+            <index>4</index>
+            <phrase>බුදු අම්මෝ මේ මිනිස්සු ගෙවන ජීවිත වල තරම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ්</author>
+            <date>2016-12-31 07:25:26</date>
+            <index>5</index>
+            <phrase>කවුද කියන්නේ ලංකාව දුප්පත් කියලා..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

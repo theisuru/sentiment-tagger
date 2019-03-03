@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>304654</articleId>
+    <title>සභාපතිට වෙඩි තැබුවේ ළඟ ඉඳන්?</title>
+    <author>සජිව විජේවීර  හේමන්ත ද සිල්වා ජනත් ද සිල්වා සිරිමහ බෙල්ලන බිමල් ශ්‍යාමන් ජයසිංහ කමල් ශ්‍රී ලියනගේ</author>
+    <date>2015 මාර්තු මස 24 07:40:37</date>
+    <body>රත්ගම ප්‍රාදේශීය සභාවේ සභාපති මනෝජ් පුෂ්පකුමාර මෙන්ඩිස් ඝාතනය කරන්නට ඇත්තේ පිස්තෝලයකින් බවත් සමීපයේ සිට වෙඩි තබන්නට ඇති බවත් පොලිසිය කියයි. සිය මිතුරන් පිරිසක් සමග සභාපති හික්කඩුවේ හෝටලයක සිටිය දී සිවුදෙනකු එහි පැමිණ ඇති බව ද ඔවුන්ගෙන් කෙනෙකු වෙඩි තබන්නට ඇති බව ද පොලිසිය සැකකරයි. සැකකරුවන් කිසිවකු මෙතෙක් අත්අඩංගුවට ගෙන නැත.</body>
+    <comments>
+        <comment>
+            <author>සුරෙන්</author>
+            <date>2015-03-24 02:42:42</date>
+            <index>0</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නසිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2015-03-24 04:13:11</date>
+            <index>1</index>
+            <phrase>තරුණ ජීවිතයක්. දේශපාලන පළිගැනීමක් වෙන්න ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-03-24 04:15:10</date>
+            <index>2</index>
+            <phrase>අවි ගත්තන්ට ඡන්දය දුන්නේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් සිල්වා</author>
+            <date>2015-03-24 06:02:32</date>
+            <index>3</index>
+            <phrase>හිත හොඳ හැමට පක්ෂ බේදයකින් තොරව සලකන මනුස්සයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2015-03-24 07:54:14</date>
+            <index>4</index>
+            <phrase>මොහු ගැන රත්ගම ආසනේ දුප්පත් මිනිසුන්ගෙන් අසා දැන ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ති</author>
+            <date>2015-03-24 08:49:58</date>
+            <index>5</index>
+            <phrase>මොනවා කීවත් දැන් ඒ පන අපට ගන්න පුළුවන්ද. මින්ස්සු කරන නරකට වඩා හොද මතක තියා ගන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2015-03-25 11:31:03</date>
+            <index>6</index>
+            <phrase>ඔය දේ කරන්න ඇත්තේ ලගම මිතුරෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ් -ගාල්ල</author>
+            <date>2015-03-25 11:50:20</date>
+            <index>7</index>
+            <phrase>මනෝජ් කියනේ හිත හොඳ කොල්ලෙක්. ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික් කටාර්</author>
+            <date>2015-03-26 02:38:08</date>
+            <index>8</index>
+            <phrase>මනෝජ්, ඔබ මිනිසුන් අතර හොඳ මිනිහෙක්.දුප්පත් පොහොසත්,ජාතිබේද නැති, කුලබේද නැති,අහිංසක දුප්පත් මනුෂ්‍යයන්ට කළ දේවල්,කළ උදවු කවදාවත් හොඳ මිනිසුන්ට නම් අමතක වෙන්නේ නැත.රූපය දිරයි-නාමය නොදිරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත පෙරේර</author>
+            <date>2015-03-28 04:53:27</date>
+            <index>9</index>
+            <phrase>කලකිනි මිනිසත් බව ලබගන්නේ - සුරෙන් ඔබ හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නඳුන්</author>
+            <date>2015-03-31 02:09:00</date>
+            <index>10</index>
+            <phrase>යලි අපි අතරම ඉපදේවා මනෝජ් අය්යේ,ඔබට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>396623</articleId>
+    <title>පෙම් පටලැවිල්ලෙන් ලුතිනන් ගෙදර</title>
+    <author>නිලූක සදුන් බණ්ඩාරනායක</author>
+    <date>2016 මාර්තු මස 19 09:57:44</date>
+    <body>ඇමෙරිකා ගුවන් හමුදාවේ ජ්‍යෙෂ්ඨ ලුතිනන් ජනරාල්වරයෙකු කාන්තා ලුතිනල් කර්නල්වරියක සමඟ පවත්වාගෙන ගිය අයුතු සම්බන්ධයක් නිසා ඔහු එම ධුරයෙන් ඉවත් කළ බවට ඒ.බි.සි පුවත් වාර්තා කරයි.
+ලුතිනන් ජෙනරාල් ජෝන් හෙස්ටර්මන් නම් ඔහු මාණ්ඩලික ගුවන් හමුදා සහකාර ධුරයෙන් මෙලෙස ඉවත් කර තිබේ.
+මෙම සම්බන්ධය අවුරුදු ගණනාවක සිට පැවති ඇති අතර වසර පහකට පෙර හුවමාරු වූ ඊ-මේල් පණිවුඩ කිහිපයක් නිසා මෙය හසුව තිබේ.
+ගුවන් හමුදාව විසින් කරන ලද පරීක්ෂණයකදී මේ බව හෙළිදරව් වී ඇත.
+ගුවන් හමුදාව තුල රාජකාරියෙන් බැහැරව අයුතු සම්බන්ධයක් පවත්වාගෙන යාම ඔහුට ඇති චෝදනාවයි. ඔහු තරු තුනක නිලයකින් මෙලෙස ඉවත් කොට ඇති අතර ඔහුට එම නිලයෙන් විශ්‍රාම ගැනීමට ඉඩ දෙනවාද යන්න එරට ගුවන් හමුදාව මෙතෙක් තීරණය කර නැති බවද සදහන් වේ.</body>
+    <comments>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-03-19 05:03:02</date>
+            <index>0</index>
+            <phrase>අපේ රටේ එහෙම ජරා වැඩ වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2016-03-20 00:59:24</date>
+            <index>1</index>
+            <phrase>ආයතන වල ඉහළ නිලධාරීන් පහළ නිලධාරීවරියන් සමඟ පෙම් කරන්න ගත්තහම, මධ්‍යම පන්තියේ නිලධාරීන්ටත් පෙම්වතියන්ගේ බලපෑම් එල්ලවෙලා ආයතනයේ පාලනයට බාධා එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-03-20 04:43:07</date>
+            <index>2</index>
+            <phrase>සීමා මායිම් නැති ආදරය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-03-20 16:50:47</date>
+            <index>3</index>
+            <phrase>ලංකාවෙ නම් කොහොමද නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිත්</author>
+            <date>2016-03-21 21:29:28</date>
+            <index>4</index>
+            <phrase>රාජකාරිය බව ඇත්ත. මොනවා වුණත් සැබෑ ආදරයකට නම් අකුල් හෙලන එක නරක වැඩක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂන් දළුගම</author>
+            <date>2016-03-22 12:06:35</date>
+            <index>5</index>
+            <phrase>එහෙම වෙන්නේ ඇමරිකාවේ ඇමරිකාවේ...... ලංකාවේ එහෙම වෙන්නේ නැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>476706</articleId>
+    <title>පුංචි කෑලි ඇහිඳීමට එරෙහිව බස් වර්ජනයක්</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 නොවැම්බර් මස 07 10:30:00</date>
+    <body>දුරගමන් සේවා බස් හැම නැවතුමකම නවත්වා 101 මාර්ගයේ මගීන් නංවා ගනිතියි කියමින් 101 මාර්ගයේ බස් සේවකයෝ මාර්ගස්ථ මගී ප්‍රවාහන අධිකාරිය ඉදිරිපිට දැන් උද්ඝෝෂණයක් ඇරඹූහ.
+තමනට බස් නැවතුම්පොළක් නැතැයි ඔවුහු කියති.
+ </body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-11-07 05:29:16</date>
+            <index>0</index>
+            <phrase>මෙයාලා අවශ්‍ය වේගෙන් යන්නෙත් නැහැ. යන කෙනෙකුට යන්න දෙන්නෙත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-11-07 05:38:26</date>
+            <index>1</index>
+            <phrase>මොවුන්ට ඔහොම කරගෙන යන්න දෙන්න. මොරටුවේ සිට කො‍ළඹට යන්න පැයක් යනවා. මාතර සිට එන බසයක නැග්ගහම පැය භාගයෙන් යන්න පුළුවන්. දුම්රියේ රුපියල් 15 කින් විනාඩි 20 යන්නත් පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-07 05:41:44</date>
+            <index>2</index>
+            <phrase>රටේ නීතිය වල් වදිනකොට අහක ඉන්න අය නීති හදන්න එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල අමරසිංහ</author>
+            <date>2016-11-07 06:22:29</date>
+            <index>3</index>
+            <phrase>මේක ලේහෙසියෙන් විසඳන්න පුළුවන් ප්‍රශ්නයක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල් පෙරේරා</author>
+            <date>2016-11-07 06:30:42</date>
+            <index>4</index>
+            <phrase>මට තේරෙන විදිහට නම් වල්වෙලා තිබුණ නීතිය දැන් තමයි ටික ටික හැදීගෙන එන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සචිත්</author>
+            <date>2016-11-07 06:53:23</date>
+            <index>5</index>
+            <phrase>මෙයලගේම වැරැද්දෙන් තමා මිනිස්සු වෙන බස් වලට නගින්නේ. මිනිස්සු බස් වල යන්න ආසාවට නගිනවා නෙවෙයිනේ. මෙයාල කොට කොට යනකොට ඉතින් ඔෆිස් වලට හාෆ් ඩේ තමා යන්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-11-07 07:06:12</date>
+            <index>6</index>
+            <phrase>නියඟයටත් බන්නේ රජයට, ගංවතුරටත් රජයට. පොදු අපට නම් පෙනෙන විදියට දැන් තමයි අපි නිදහස කියන එක තියෙන්නේ. මීටපෙර ස්ට්‍රයික් දැකලා තිබුනද. අද හැම තැනම ස්ට්‍රයික් කරපු පළියට ඒවාට පිළිතුරු දෙන්න අවශ්‍ය නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-11-07 07:24:46</date>
+            <index>7</index>
+            <phrase>වල්වැදී තිබුණ නීතිය දැන් තමයි ටික ටික හැදීගෙන එන්නේ. ඒවාට පුරුදු වෙච්ච අයට අමාරුයි, කෑගහනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2016-11-07 07:30:18</date>
+            <index>8</index>
+            <phrase>ලංකාවේ බස් සේවාව අන්තිමයි. මේක වෙන්නේ සීටීබී සහ පුද්ගලික කියලා ජාති දෙකක් තියෙන නිසා ඇතිවන තරඟය නිසා. මේකට කරන්න තියෙන්නේ එක ආයතනයක් හදන්න ඕනෑ රජය 51% සහ කොම්පැනියට 49%. ඔක්කොම බස් මේක යටතේ. ලාබය බෙදා දෙනවා දෙගොල්ලන්ට. දැන් බස් තියෙන අයගේ බස් මේකට අරන් ඒ වෙනුවට කොටස් දෙනවා. හොඳට සැළසුම් කරලා හදන කාලසටහනකට සාමාන්‍ය වේගෙන් බස් දුවන එක විතරයි බස් රියදුරුට කරන්න තියෙන්නේ. මෙහෙම කළොත් ඔය බස් වලට හෝල්ට් වල කාලේ කන්න ඕනෑ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-11-07 07:38:47</date>
+            <index>9</index>
+            <phrase>100/101 යනවා නෙමෙයි බඩගානවා. ඒ මදිවට හැම හෝල්ට් එකකම විනාඩි 4-5ක් වගේ නතර කරගෙන ඉන්නවා. උදේට මොරටුවේ ඉඳලා දෙහිවලට එන්න පැයක් ගන්නවා. 400/2/32 විනාඩි 30න් එනවා. ඉතින් මිනිස්සු 400/2/32 වගේ බස් වල යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-11-07 09:27:34</date>
+            <index>10</index>
+            <phrase>කසුන්, ඔබ හරි. මොවුන් පුළුවන්තරම් පටවනකම් හිමින් යනවා. ඒකයි මිනිස්සු දුරගමන් බස් වලට කැමති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-11-08 04:19:30</date>
+            <index>11</index>
+            <phrase>මම අනන්තවත් දැකල තියෙනවා මේ කට්ටිය වැඩිපුර බස් එලවන්නේ ජනේලයෙන් ඔලුව දාල පිටිපස්ස බලාගෙන, අනිත් බස් එක එනවද කියලා. පාර හිස් වුනත් යන්නේ නෑ. මම නම් වැරදිලා වත් 101 යන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

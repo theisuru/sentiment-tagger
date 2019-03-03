@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>476855</articleId>
+    <title>සරත් කුමාර ගුණරත්නට ඇප</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 නොවැම්බර් මස 07 13:52:18</date>
+    <body>මීගමුවේ දී 2002 දී රිය අනතුරකින් පුද්ගලයකු මරා දැමීයැයි සැකපිට රිමාන්ඩ් කරනු ලැබ සිටි හිටපු ඇමැති සරත් කුමාර ගුණරත්න රුපියල් පනස් දහසක මුදල් හා රුපියල් පන් ලක්ෂය බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හරින ලෙස මීගමු මහාධිකරණ විනිසුරු පියසීලි වික්‍රමසිංහ මතුරට මහත්මිය නියෝග කළාය.
+හිටපු ඇමැතිවරයාගේ විදෙස් ගමන් තහනම් කැරිණි.
+සෑම මසකම තුන් වැනි ඉරිදා පොලිසියේ පෙනී සිටින ලෙස ද නියෝග කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-11-07 12:12:01</date>
+            <index>0</index>
+            <phrase>මේ දේශපාලුවෝ මොනවා කළත් ඇප දෙනවා ..නිදහස් වෙන්නත් ලේසියි ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-11-07 17:32:16</date>
+            <index>1</index>
+            <phrase>රිය අනතුරු සිතාමතා කරන දේවල් නෙමෙයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

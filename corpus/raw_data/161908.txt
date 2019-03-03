@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>161908</articleId>
+    <title>දේව භක්තියක තරම</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2013 අගෝස්තු මස 18 12:12:37</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සාරෝ</author>
+            <date>2013-08-19 08:50:20</date>
+            <index>0</index>
+            <phrase>තෙරුවන් සරණ පමණි එකම පිහිට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-08-20 12:52:50</date>
+            <index>1</index>
+            <phrase>භක්තියක් නැතුව කොමද කරන්නේ භක්තියි බලයි ධෛර්යයි දෙවියනගෙම පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා</author>
+            <date>2013-08-20 21:17:21</date>
+            <index>2</index>
+            <phrase>කද සුරිදුනි ඔබේ පිහිට ලැබේවා මගේ රට සව් සිරියෙන් සපිරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසන්</author>
+            <date>2013-08-28 11:17:41</date>
+            <index>3</index>
+            <phrase>අපිට දේව භක්තිය අනිවාර්යයෙන් තිබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

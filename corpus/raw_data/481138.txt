@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>481138</articleId>
+    <title>සුපිරි සඳ හන්තානට පායයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 නොවැම්බර් මස 17 14:18:11</date>
+    <body>පසුගිය ඉල් පෝදා ලෝකයටම පෑයු සුපිරි සඳ ශ්‍රී ලංකාවේ මහනුවර හන්තාන පෙදෙසට දිස්වූ අාකාරය.</body>
+    <comments>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-01-13 17:49:42</date>
+            <index>0</index>
+            <phrase>හන්තානට පැයූ සඳ ලස්සනයිද කියන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

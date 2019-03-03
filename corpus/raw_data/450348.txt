@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450348</articleId>
+    <title>දරුවන් රට යවන්න පොලියට සල්ලි  අරන්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 23 15:11:33</date>
+    <body>තම මුණුපුරා හා ඥාති පුත්‍රයා එතෙර රැකියාවට යැවීමට මහරගම රැකියා ඒජන්සියකට රුපියල්  එක්ලක්ෂ විසිදහස බැගින් වසර  එකහමාරකට පෙර  ගෙවු බවත්  ගමන නොයැවු නිසා ගෙවු මුදල් ඉල්ලා දඹානේ ඌරුවලිගේ  දෙමටල ඇත්තන් අද (23) මහරගම පොලිසියට  පැමිණිල්ලක් කළේය.
+රැකියාවට යාමට  සිටි  එක් අයකු වල් අලි පහරකින් මිය ගිය නිසා  ගමන අවලංගු කළ බවත් කුලියට  සල්ලි ගෙන රැකියා ඒජන්සියට  මුදල්  ගෙවු බවත්  ඔවුහු පොලිසියට  කීහ.
+පොලිසිය ඔවුන් ද සමඟ රැකියා  ඒජන්සියට  ගියේය. නොවැළැක්විය හැකි හේතුවක් නිසා දින දෙකක් ඒජන්සිය වසා තබන බවට  ඒජන්සි දොරටුවේ දැන්වීමක් අලවා තිබුණි.</body>
+    <comments>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-08-23 14:24:49</date>
+            <index>0</index>
+            <phrase>අපේ ගම්පොජ්ජේ අැත්තොනම් පරිසරය රැකගෙන ගොවිතැන් සමග ජීවත්වෙනවා කියලා තමා පරපුරේ වැඩට පික් අප් වාහනයක් ඉල්ලගත්තේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2016-08-23 14:35:19</date>
+            <index>1</index>
+            <phrase>පත්තරෙන් මේක කියෙව්වම ඒජන්සිය වහලම දායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-08-24 07:03:06</date>
+            <index>2</index>
+            <phrase>වැදි රැහේ අයටත් පිටරට ඌෂ්ණය ගහලා. සියළු දෙනාම රට ගියොත් ආදිවාසීන් කියලා පෙන්නන්නේ කාවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-08-24 11:13:56</date>
+            <index>3</index>
+            <phrase>ආදී වාසී ඇතොත් මෝඩි ෆය් වේගන එනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>317472</articleId>
+    <title>ඊජිප්තු ජනපතිට මරණ දඬුවම</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 මැයි මස 17 11:22:52</date>
+    <body>හිටපු ඊජිප්තු ජනපති මොහොමඩ් මොර්සිට මරණීය දණ්ඩනය පැනවීමට එරට අධිකරණය සෙනසුරාදා තීන්දු කළ බව විදෙස් ප්‍රවෘත්ති සේවා කියයි.
+2011 වසරේදී මොර්සි ඇතුළු හිරෙන් පළායාමට සම්බන්ධ 100 දෙනකුට එසේ දඬුවම් නියම වී ඇත. මොර්සිට විරෝධතාකරුවන් පිරිසකට වෙඩි තැබීමට අණ දුන්නැයි චෝදනාව මත සිර දඬුවම් හිමිව තිබිණි. ඔහු 2013 වසරේදී මුස්ලිම් සහෝදරත්වය සංවිධානයේ සහාය ලබා බලයෙන් පහ කෙරිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>තුවාන්</author>
+            <date>2015-05-17 06:47:48</date>
+            <index>0</index>
+            <phrase>මෙතුමා ඉන්න ඕන ලංකාවේ..... බලන්න අපේ අප්පච්චි,,,, තාම පොරකනවා බලයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-05-17 08:27:30</date>
+            <index>1</index>
+            <phrase>ඊජිප්තුවේ එහෙම උනාට ලංකාවේ එහෙම වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුරලි</author>
+            <date>2015-05-17 08:47:29</date>
+            <index>2</index>
+            <phrase>ඊජිප්තුවේ ඔබෙන් පසුව සිදුවන දෑ....... රටක විනාශය ඔවුන් විසින්ම කරගන්නා මෝඩකමක් බවට හොදම සාක්ෂි......බටහිරයන් රටකට කළ හදිය......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතු</author>
+            <date>2015-05-17 10:36:32</date>
+            <index>3</index>
+            <phrase>මෙයා තමා ඔය රට දැන් තියන තත්වයට ඇදල දැම්මේ බටහිරත් එක්ක එකතු වෙලා . ඒක එයාටම පරාවළල්ලක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනා</author>
+            <date>2015-05-17 10:39:40</date>
+            <index>4</index>
+            <phrase>අපේ ලංකාවේ ඉන්නේ විලි ලැජ්ජාවක් නැති අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2015-05-17 17:51:22</date>
+            <index>5</index>
+            <phrase>අපේ රටේ අය ගාවාගන්න මොකද්ද කළ වැරැද්ද? කොටි මරපු එක වෙන්න ඇති. මුල මතක නැති තුවාන්, කුමාර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2015-05-18 08:00:38</date>
+            <index>6</index>
+            <phrase>ජනකට මුල මතක තිබෙනවා වගෙයි හොඳට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-05-18 09:38:19</date>
+            <index>7</index>
+            <phrase>ඇමරිකාවට කීකරු නොවීමේ පාපය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමා රාජපක්ස යටියන</author>
+            <date>2015-05-18 13:34:01</date>
+            <index>8</index>
+            <phrase>ශෝක ''ජනක" කතාපුවතක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ලුගේ</author>
+            <date>2015-05-19 03:56:37</date>
+            <index>9</index>
+            <phrase>මම දන්නේ නැ මෙයාලට මොනවා වෙලාද කියල ,, කොහොම වුනත් මුල මතකයි කියල මේ රට කාල කාල විනාස කරන්න දෙන්න බැනේ ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>236276</articleId>
+    <title>සෞන්දර්ය ශිෂ්‍යාවගේ මරණය අභිරහසක්</title>
+    <author>ජනත් ද සිල්වා  චන්ද්‍රසිරි ගුණසේකර සුමංගල පුෂ්පකුමාර</author>
+    <date>2014 මැයි මස 24 09:25:51</date>
+    <body>ඇල්පිටියේ බස්නැවතුම්පොළ අසල පාළු නිවසක තරුණියක මරා දමා ඇතැයි පොලිසිය කියයි.
+ඇය සෞන්දර්ය විශ්ව විද්‍යාල ශිෂ්‍යාවක බව පොලිසිය පවසයි.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2014-05-24 10:11:38</date>
+            <index>0</index>
+            <phrase>අපරාදේ බුද්ධිමත් දරුවෙක්. හැබැයි අන්තරේට මගුල් වගේ ඇති. මොන හේතුමත සිද්ධිය වුනත් මුල් වටය රටේ මානව හිමිකම් කියන බිලට දාලා අහිංසක ද්‍රවිඩ මිනිස්සු විකුනගෙන කන ඩොලර් හොලවනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවි</author>
+            <date>2014-05-24 10:49:41</date>
+            <index>1</index>
+            <phrase>තවත්හික සම්පතක් අහිමි වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-05-24 10:53:59</date>
+            <index>2</index>
+            <phrase>මෙවැනි අපරාධ රටක නොවිය යුතුයි අද පත්තරේ බලන්ඩ මෙවැනි මරණ 2ක් සටහන් වී ඇත. රටේ විනය පිරිහි ඇති බවට සාදක මේවායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-05-24 10:54:30</date>
+            <index>3</index>
+            <phrase>අපරාධකරුවනි තොපට හෙඳක් නම් නොම වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජානි</author>
+            <date>2014-05-24 11:00:51</date>
+            <index>4</index>
+            <phrase>බුදුන් තුන්තෙවරක් වැඩි ලංකාද්වීපය දහම් සඟුන් සෙවනේ දරුවෝ හැදුනු දේශය. මොකද්ද ශ්‍රී ලංකාවට උණු විනාසය. තුට්ටු දෙකට මිනි මරනවා නැහැනේ කිසි බය. බළධාරින් නිදි නිසා රට විනාශයට ගිහින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2014-05-24 11:20:34</date>
+            <index>5</index>
+            <phrase>මේ මිනිමරුවන්ව ආයුධ පෙන්නන්න එක්ක යන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2014-05-24 12:26:14</date>
+            <index>6</index>
+            <phrase>ජනපතිතුමනි ඔබට පින් සිදුවෙයි එල්ලුම් ගහ ක්‍රියාත්මක කරන්න. ඔබට ඊට අත්සන් කරන්න බැරිනම් වෙනත් කෙනෙක් පත් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2014-05-24 12:38:16</date>
+            <index>7</index>
+            <phrase>මේවට වග කිව යුත්තගේ ඇසට යොමුවේව මරුන සරසවි සිසුවියට මින් මතුවට උපදින ආත්මකය මෙවන් අකල් මරණයක් නොමවේවා ඔබට නිවන්සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇනස්ලි</author>
+            <date>2014-05-24 12:45:36</date>
+            <index>8</index>
+            <phrase>අම්මෝ එපා,ඊලගට නිකන් ඉන්න අහිංසක අය එල්ලුම් ගස් යාවී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-05-24 13:31:46</date>
+            <index>9</index>
+            <phrase>හරි නීතියක්, හරි නීති මෙහෙවීමක් නැති අපරාද කාරයන් හොඳින් සුරකින රටට එල්ලුම් ගහෙන් පලක් වෙන්නේ නැහැ. අර තව මහත්තයෙක් මෙතෙන කියල තියන හැටියට අහිංසකයන් තම ඒ එල්ලුම් ගහට යන්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2014-05-24 13:31:56</date>
+            <index>10</index>
+            <phrase>ජනාධිපති තුමනි ඔබ තුමා තිස් වසරක් යුද්ධය නිම කලා ? දැන් අපේ රටේ පවතින මංකොල්ල කෑම් මිනීමැරුම් දූෂණ නිම කරන්නේ කවදද ඉක්මනින් පියවරක් ගන්න ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2014-05-24 13:33:43</date>
+            <index>11</index>
+            <phrase>අධිකරණයෙන් තීන්දුව දුන්නට පස්සේ ,ජනාධිපතිතුමනි ඇයි ඔබතුමා මේ තීන්දු වලට කරගහන්නේ ?අධිකරණයේ තීන්දුව අවසාන තීන්දුව ලෙස සලකා මිනිමරුවන් එල්ලා දමන්න අධිකරණයට ඉඩ දෙන්න .ඔබතුමාට බුදුබව අත් වෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2014-05-24 14:18:35</date>
+            <index>12</index>
+            <phrase>නිතිය පන මදි රටක මේවා බලාපොරොත්තු වෙන්න ....අර දිරල යන එල්ලුම් ගහේ මරන්න ඉන්න හරක් ටිකක් වත් එල්ලන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-05-24 14:19:23</date>
+            <index>13</index>
+            <phrase>බුදුන් වහන්සේ තුන් වරක් වැඩිය දේශයක් කියල නැත්නම් එල්ලුම් ගහ නැවත හඳුන්වා දුන්න කියල අපරාධ අඩු වෙන්නේ නැහැ. මොන ලොක්ක කිව්වත් මේ රටේ අපරාධ රැල්ලක් නැහැ කියල අපට හොඳටම පෙනෙනවා මොකද්ද වෙමින් යන්නේ කියල. සේවයේ යෙදිලා ඉන්න පොලිස් නිලධාරියාගේ ඉඳල උසාවියක් අසල නඩුවකට ඇවිත් ඉන්න කෙනෙකුටවත් අද ආරක්ෂාවක් නැහැ. ගැහැණු ළමයින්ට කොතනකදී කරදරේකට පත්වෙන්න සිදු වේවිද කියල නැත්නම් විදේශිකයෙකුට නිවාඩුවකට ඇවිල්ල ඉන්න තරමේ ආරක්ෂාවක් අද නැහැ. ඉතින් කුමන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2014-05-24 14:21:51</date>
+            <index>14</index>
+            <phrase>ජනපති තුමනි , ඔබට එල්ලුම් ගහ ක්‍රියාත්මක කරන්න බැරි නම් එය කරන්න පුළුවන් සරත් ෆොන්සේකාට බාර දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙළුම්</author>
+            <date>2014-05-24 14:22:24</date>
+            <index>15</index>
+            <phrase>හරිම කනගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-05-24 14:27:53</date>
+            <index>16</index>
+            <phrase>පව් අසරණ ළමයෙක්.., ජාති ජාතිත් මෙවන් අකල් මරණයකට ගොදුරු නොවේවා !! මිනීමැරුමක් නම්, ඔවුන් නීතියේ රැහැනට ඉක්මනින් කොටු වේවා ''</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටගල</author>
+            <date>2014-05-24 14:29:16</date>
+            <index>17</index>
+            <phrase>ජනතාව නීතිය අතට ගන්නා දිනය වැඩි ඇතක නොවේ. ඉවසුවා ඇති යයි ජනතාව ළඟදීම තීරණය කරනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජමන්</author>
+            <date>2014-05-24 14:35:28</date>
+            <index>18</index>
+            <phrase>අනේ දෙවියනේ! කාගේ හරි ආදරෙන් ඇති දැඩි කල සුරතල් දුවෙක් නේද මේ?පාලු ගේක මරා දාලා තියෙන්නේ? දෙවියනි ඔබ කොහිද? ( ගාමිණී ෆොන්සේකාගේ "උතුමාණනි" චිත්‍රපටය මට නැවතත් සිහියට නැගෙනවා) "යුක්තිය රජයන ලොවකට අප කැඳවා යන්න උතුමාණනි!"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2014-05-24 15:03:37</date>
+            <index>19</index>
+            <phrase>පාර්ලිමේන්තුවට බලය දී එල්ලුම් ගහ ක්‍රියාත්මක කරන්න. ජනාදි පතිතුමනි ඔබතුමාට පව් නෑ ලැබෙන්නේ පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝසා</author>
+            <date>2014-05-24 15:08:41</date>
+            <index>20</index>
+            <phrase>එල්ලුම්ගහ ගෙනාවොත් ඉස්සරවෙලාම එල්ලන්නවෙන්නේ රටේ පලකයෝනේ ජනදිපතිතුමත් කල්පනා කරන්නේ ගේනවද ? නැද්ද ? කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාතිම</author>
+            <date>2014-05-24 15:11:42</date>
+            <index>21</index>
+            <phrase>අජිත් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ග්‍රේඩ්</author>
+            <date>2014-05-24 15:13:08</date>
+            <index>22</index>
+            <phrase>ජනපතිතුමනි කරුණාකර මෙවැනි අපරාධ කරුවන්ට එරෙහිව එල්ලුම් ගස ගෙනෙන්න. එය ඔබ අසරණ ලංකික ජනතාවගේ ආරක්ෂාව වෙනුවෙන් කරන මහගු පින්කමක්. ඔබට හැර මේ දෙය කළහැකි වෙනත් කෙනෙක් කවදා ඒවි ද කියන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනකී</author>
+            <date>2014-05-24 15:18:04</date>
+            <index>23</index>
+            <phrase>දෙමාපියන් මිට වැඩිය ළමයිගේ ආරක්ෂාව ගැන හොයන්න ඕනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-05-24 16:10:34</date>
+            <index>24</index>
+            <phrase>අපරාද කාරයන්ට වෙන අපරාද ගැන තීරණ ගන්න බැරුව අුැති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර (මොදෙනා)</author>
+            <date>2014-05-24 16:16:42</date>
+            <index>25</index>
+            <phrase>ගව ගාතනය සම්බන්දව කතා කරන අය මනුස්ස ජීවිත සම්බන්ධව කතා කරනවා අඩුයි. නිතිය වල්වැදිලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-05-24 16:25:55</date>
+            <index>26</index>
+            <phrase>වටිනා ජීවිත නේද මේ පව් කාරයන් අතින් විනාශ වෙන්නේ.මෙහෙම ගියොත් අනාගතේ බාරගන්න වෙන්නේ කාටද.? නඩු අහ අහ හිර ගෙවල් පුරවන්නේ නැතිව එල්ලුම් ගහ නැවත ගේන්න ඕනේ මේවා නතර කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පටිගල</author>
+            <date>2014-05-24 16:29:34</date>
+            <index>27</index>
+            <phrase>සන්නද්ධ සේවා සාමාජිකයින් ජනතාව ප්‍රතික්ෂේප කරන්නේ මෙන්න මේ වගේ තිරිසනුන් නිසා තමයි.1989 දීත් හමුදාවේ සමහරු තිරිසනුන් ලෙස ක්‍රියා කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-05-24 16:34:15</date>
+            <index>28</index>
+            <phrase>මිනිසා හදා රට හදමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කළණ</author>
+            <date>2014-05-24 16:50:29</date>
+            <index>29</index>
+            <phrase>ඔන්න මේක තමයි අද හැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් සෞදි</author>
+            <date>2014-05-24 16:55:19</date>
+            <index>30</index>
+            <phrase>අවසන් සටනින් පසු සමාජයට එක්තු වුණේ පුනරුත්ථාපනය නොකළ සෙබළුන් මේ කට්ටිය ඕනෑම අපරාධයක් කිරීමට පසුබට නොවේ. එය අද අපි හොඳින් දකිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් සුරන්ජිත්</author>
+            <date>2014-05-24 18:17:51</date>
+            <index>31</index>
+            <phrase>කවුරු මොන විදියට හිතුවත් එක අත්තක් කියන්න ඕනේ අපේ හමුදාවේත් පොලීසියේත් තිරිසන් සහ මිලේච්ච වැඩ කරන අයත් ඉන්නවා අපි කොච්චර කිවත් රටේ ඉන්න පාලකයත් මේවට කිසිම පියවරක් ගන්නේ නැහැ එල්ලුම් ගහ ක්‍රියාත්මක කරන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-05-24 19:09:18</date>
+            <index>32</index>
+            <phrase>ජනාදිපති තුමනි, ආරක්ෂක ලේකම් තුමනි , ඔබ යූද්ධය ඉවර කලා. ඒක අපි කවදාවත් අමතක කරන්නේ නැහැ. කරුණාකරලා මේ අපරාද නැති කරන්න. මරණ දඩුවම සක්‍රිය කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන පනාගොඩ මිලානෝ</author>
+            <date>2014-05-24 19:35:25</date>
+            <index>33</index>
+            <phrase>යුධ හමුදාවේ සමහර අය දැන් රටටම ප්‍රශ්නයක් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාගොඩ හේමපාල ලියනගේ</author>
+            <date>2014-05-24 19:39:20</date>
+            <index>34</index>
+            <phrase>මෙවන් අපරාධ එල්ලුම් ගස ක්‍රියාත්මක කරන තුරු නතරවෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2014-05-24 20:07:52</date>
+            <index>35</index>
+            <phrase>මනුස්ස ජිවිත කිසි වටිනාකමක් නැහැ.සත්තු ගානට මිනි මරනනේ. ප්‍රශ්නයක් උන ගමන් පළමුවෙන් කරන්නේ මරන ඒක.අපරාද වැඩියි දැන් හරියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාල්</author>
+            <date>2014-05-24 21:09:06</date>
+            <index>36</index>
+            <phrase>මෙහෙම යනකොට අපේ රටේ දරුවන්ගේ අනාගතය කෙබඳු වේවිද? මේවා ඇසීම දැකීම මහත් කණගාටුවකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-05-24 21:09:08</date>
+            <index>37</index>
+            <phrase>එහෙනම් ලංකාවේ අපරාධ රැල්ලක් නැහැ කියලා කියන්නේ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතාරි</author>
+            <date>2014-05-24 21:10:40</date>
+            <index>38</index>
+            <phrase>ගැහැණුන්ට හිරිහැර කරන්නේ නියම පිරිමියෝ නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් ඩුබායි</author>
+            <date>2014-05-24 21:42:33</date>
+            <index>39</index>
+            <phrase>සිල්වා .හීනයක්වත් දැකලද ඇහැරුනේ? (අ0</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා</author>
+            <date>2014-05-24 21:43:28</date>
+            <index>40</index>
+            <phrase>කොහොම තිබුණ රටක්ද අම්මපා. 9අ)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2014-05-24 21:45:00</date>
+            <index>41</index>
+            <phrase>මේ අපරාධ රැල්ලට තිතක් තියන්න පුළුවන් එකම එක්කෙනයි ඉන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශීමාල්</author>
+            <date>2014-05-24 21:49:16</date>
+            <index>42</index>
+            <phrase>හමුදාවේ අයගේ ප්‍රශ්න දැන්නම් එන්න එන්නම වැඩිවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2014-05-24 21:50:38</date>
+            <index>43</index>
+            <phrase>මේ නංගි අපේ ගෙවල් පැත්තේ.අනේ පව්..මේ නංගිව අපි ඉස්සර ඉඳලම දන්නවා. හැමෝම එක්ක සුහදව හිටි කෙනෙක්. හිතාගන්නත් බැහැ මේ නංගිට මෙහෙම දෙයක් වුණා කියලා.ඇල්පිටිය ආනන්දේ නම බබළවපු දක්ෂ සිසුවියක්.ඔයාට නිවන් සුව පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2014-05-24 22:06:26</date>
+            <index>44</index>
+            <phrase>කවුරු වුණත් මෙහෙම මරලා දාන එක නම් හරිම වැරදියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් සුරන්ජිත්</author>
+            <date>2014-05-24 23:14:39</date>
+            <index>45</index>
+            <phrase>මොවුන් මිනි මරනවා විතරක් නෙමෙයි ඊට පස්සේ හරි ලස්සනට අපේම සල්ලිවලින් කාකා බිබී ජොලියේ බිත්ති හතරට වට වෙලා සැපසේ ඉන්නවා. පාලකයන්ට මොකද එකටත් මහජන සල්ලි නේ වියදම් කරන්නේ. තවත් සමහර වෙලාවට පලකයෝම ඔවුන් නිදහසුත් කරනවා බලාගෙන ගියාම මේක පුදුම රටක් නේ. නංගියේ ඔබට නිවන් සුව පතමි සසරේදී නැවතත් මෙවැනි අකල් මරණයකට ගොදුරු නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දසාර අකුරැටිය</author>
+            <date>2014-05-25 00:07:14</date>
+            <index>46</index>
+            <phrase>ලංකාවේ බොහෝ පුරුෂයින් වෘත්තිමය ඊර්ෂ්‍යාව සහ ලිංගික ඊර්ෂ්‍යාව යන කරුණු වලදී දියුණු මිනිසුන් විදියට හැසිරෙන්නේ නැතිබව මෙයින් පෙනීයනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2014-05-25 04:18:00</date>
+            <index>47</index>
+            <phrase>දැන් හැමතැනම මිනීමැරුම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2014-05-25 10:32:36</date>
+            <index>48</index>
+            <phrase>මරපු එක වැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2014-05-25 10:56:35</date>
+            <index>49</index>
+            <phrase>ජනපතිතුමනි මේකද රටේ ආශ්චර්ය, කවදද ලංකාව ශ්‍රී ලංකාවක් වෙන්නේ, බල්ලෝ මරනවා වගේ මරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනගාරික</author>
+            <date>2014-05-25 11:30:29</date>
+            <index>50</index>
+            <phrase>අද හෙටම අපිව මරල ගෙදර තියෙන බත් මුට්ටිය අරන් යනවා ,,,, මේ ලෝකයේ මනුස්සයත් , තිරිසන් සතුනුත් වෙන් වන්නේ බුද්ධියෙන් පමණක් නොවෙයි. නිතියෙනුත් විශාල වැඩ කොටසක් සිදු වෙනවා ,, ,, එය හරියට ස්වාධීනව තිබිය යුතුයි ,,, එහෙම නැති එකේ ප්‍රතිපල තමයි අද අපි මේ බුක්ති විදින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2014-05-25 15:43:17</date>
+            <index>51</index>
+            <phrase>මේ පාසල් කාලේ ආදරේ කරන්න යන එකේ ප්‍රතිඵල. කොල්ල ආමි එකට ගියා. කෙල්ල විශ්ව විද්යාලේ ගියා. දැන් දෙන්න අසමාන නිසා කොල්ලට සැකයි උගත් කෙනෙක් එක්ක යාලු වෙයි කියලා. කොල්ල කලේ කෙල්ලට එන්න කියල බහින් බස් වෙලා මරල දාන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂාන් චාමර</author>
+            <date>2014-05-26 08:19:19</date>
+            <index>52</index>
+            <phrase>මේවට හරියන්නේ ශරියා නීතිය ක්‍රියාත්මක කිරීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාර්ඩ් ප්‍රීනා</author>
+            <date>2014-05-26 09:23:21</date>
+            <index>53</index>
+            <phrase>දෙමව්පියන් දෙන අවවාද ගණන් ගන්නේ නැතුව හිතුමතේට වැඩ කරන්ට ගිහින් ජිවිතේ නැතිකර ගත්තා. මේවා අනෙත් දරුවන්ට හොඳ පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමීස්</author>
+            <date>2014-05-26 15:23:01</date>
+            <index>54</index>
+            <phrase>චින්තක මම නුඹ සමගයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-05-26 17:44:19</date>
+            <index>55</index>
+            <phrase>චින්තක, නුබ කියනදේ මමත් වෙන පුවත් පතකින් දැක්ක., නමුත් චින්තක ඒක එහෙම උනා කියල කෙල්ල මරල දාපු ඒක හරි කියලද ඔබ කියන්නේ.., කොහෙද ඉතින්.., ඔයත් පිරිමියෙක්නේ නේද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-05-30 18:48:26</date>
+            <index>56</index>
+            <phrase>ලංකාවෙ ජීවත්වෙන එකත් හරිම බයානකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

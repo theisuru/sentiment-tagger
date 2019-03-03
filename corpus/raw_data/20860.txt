@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20860</articleId>
+    <title>උසස් පෙළ නැවත සමීක්ෂණයෙන් රුපියල් කෝටියක්</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 ජනවාරි මස 07 11:58:45</date>
+    <body>අපොස උසස්පෙළ නැවත සමීක්ෂණය සඳහා ඉල්ලුම් කර ඇති සිසුන්ගෙන් ඊයේ වන විට ලැබුණු ආදායම රුපියල් කෝටිය ඉක්මවීය.
+කුරුණෑගලින් රුපියල් 742500 ක් ද, මහනුවරින් රුපියල් 419700 ක් ද, බදුල්ලෙන් රුපියල් 400000 ක්ද ලැබී ඇත.
+ලබන 17 වනදා දක්වා නැවත සමීක්ෂණය සඳහා අයදුම්පත් ඉදිරිපත් කළ හැකිය.</body>
+    <comments>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-07 12:40:35</date>
+            <index>0</index>
+            <phrase>මේක ආදායම් මාර්ගයක් කර ගනීවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14565</articleId>
+    <title>ගාලූ මුවදොරින් කෝටි 1440ක්</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 නොවැම්බර් මස 25 14:04:26</date>
+    <body>ගාලූ මුවදොරින් හෙක්ටෙයාර් 4.0496ක භූමි ප‍්‍රමාණයක් ඇමෙරිකා ඩොලර් කෝටි දොළහමාරකට (රුපියල් කෝටි 1400කට) ෂැංගරිලා හෝටල් සමාගමට දුන් බව පළාත් සභා ඇමැති ජනක බණ්ඩාර තෙන්නකෝන් මහතා එජාපයේ දයාසිරි ජයසේකර මහතාගේ ප‍්‍රශ්නයකට පිළිතුරු දෙමින් පාර්ලිමේන්තුවේදී කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නුවන් ගුණවර්ධන</author>
+            <date>2011-11-25 17:48:15</date>
+            <index>0</index>
+            <phrase>කීයක් ගත්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යුරේෂ්</author>
+            <date>2011-11-25 18:30:43</date>
+            <index>1</index>
+            <phrase>ඔක්කොම සුද්දට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2011-11-25 20:23:48</date>
+            <index>2</index>
+            <phrase>ස්වභාවික පරිසරය විනාශ කර කොන්ක්‍රීට් වනන්තර ඇතිකරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසනායක</author>
+            <date>2011-11-26 06:26:22</date>
+            <index>3</index>
+            <phrase>රට විකුණනන්න එපා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

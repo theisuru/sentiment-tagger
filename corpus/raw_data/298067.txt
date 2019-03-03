@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>298067</articleId>
+    <title>ගල්මඩුව පාලමෙන් ජීප් රිය කරණමක් ගහයි : අයෙක් මරුට</title>
+    <author>වසන්ත චන්ද්‍රපාල</author>
+    <date>2015 පෙබරවාරි මස 19 21:30:24</date>
+    <body>අම්පාර ගල්මඩුව පාලම උඩදී ජීප් රියක් අනතුරට ලක්වී පෙරළීමෙන් එක් අයකු මිය ගොස් තවත් අයකු බරපතල තුවාල ලබා ඇතැයි පොලිසිය කියයි.
+පාලමේ විශාල කොටසක් කඩාගෙන ජීප් රිය පහළට වැටී ඇතැයිද තුවාල ලැබූ දෙදෙනා අම්පාර රෝහලට ඇතුළු කිරීමෙන් පසු අයකු මිය ගිය බව රෝහල් ආරංචි පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2015-02-20 13:36:15</date>
+            <index>0</index>
+            <phrase>සිහියකින් ගියා නම් මේ නොවෙන්න තිබුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

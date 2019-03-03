@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36294</articleId>
+    <title>අත් බෝම්බයක් අවුරුද්ද කාලා</title>
+    <author>කේපී සුමනදාස</author>
+    <date>2012 අපේ‍්‍රල් මස 13 07:37:09</date>
+    <body>ඇඹිලිපිටිය හල්මිල්ලආරේදී ගැමියන් දෙපිරිසක් අතර බහින්බස් වීමක් දුර දිග ගොස් අත් බෝම්බ ප්‍රහාරයක් එල්ලවී 12ක් තුවාල ලබා ඇඹිලිපිටිය රෝහලට ඇතුලත් කරනු ලැබූහ.
+බෝම්බය ගැසූ බව කියන දෙදෙනා ද පොලිස් ආරක්ෂාව යටතේ ප්‍රතිකාර ලබති.</body>
+    <comments>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-04-13 07:47:33</date>
+            <index>0</index>
+            <phrase>මෙන්න තවත් ඡන්ද ප්‍රතිඵලයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකේශ්වර</author>
+            <date>2012-04-13 08:22:58</date>
+            <index>1</index>
+            <phrase>සුබ අලුත් අවුරුද්දක් කියලා කට පුරා කිව්වට, ලොකු ලොක්කෝ අලුත් තෙල් ඉහිරෙන අලුත් අවුරුදු පණිවිඩ නිකුත් කලාට පෙන්වා නේද අපේ රට අභ්‍යන්තරයේ තියෙන අනතුර. සාමාන්‍ය ගැටුමකදී පවා බෝම්බ පාවිච්චි කරන තැනට පුරවැසියෝ පත්වෙලා දලදා හාමුදුරුවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත</author>
+            <date>2012-04-13 09:28:25</date>
+            <index>2</index>
+            <phrase>පාලකයන්ගෙන් ලබාගත් ආදර්ශ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2012-04-13 10:03:23</date>
+            <index>3</index>
+            <phrase>අවුරුදු දවස් වලවත් හොදින් ඉන්න බැ මුන්ට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

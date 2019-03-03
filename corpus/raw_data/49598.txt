@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49598</articleId>
+    <title>කෘමීන් සමග චෙක් යුවළක් අත්අඩංගුවේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ  සජිව විජේවීර</author>
+    <date>2012 ජූනි මස 22 19:26:01</date>
+    <body>වැලිගම ප්‍රදේශයෙන් එකතු කළ බව කියන කෘමී සතුන් දස දෙනකු පමණ රසායනාගාර නළ වල දමා ඔවුන් නැවතී සිටි කොළඹ හෝටලයකට රැගෙන ගිය චෙක් රාජ්‍යයයේ යුවළක් අධිවේගී මාර්ගයේ කුරුඳුගහ මාර්ග බාධකයෙ දී අත්අඩංගුවට ගෙන ඇල්පිටිය පොලිසියට බාර දුන් බව අධිවේගී මර්ග පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>මධු</author>
+            <date>2012-06-22 21:07:23</date>
+            <index>0</index>
+            <phrase>ඒ අය ලංකාවේ නීති රීති දන්නැතිව ඇති .සමාව දෙන්න .ලංකාවේ මිනිස්සු අලි මරන්නේ. මේ පොඩි කුරුමිනියක් ඇල්ලුවට මක් වෙනවද .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-06-22 20:36:36</date>
+            <index>1</index>
+            <phrase>ලංකාවේ ඉන්න මැස්සොයි කාක්කොයි ටික යවන්න බැරිද දන්නෑ නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාලු කොලුවා</author>
+            <date>2012-06-22 22:02:43</date>
+            <index>2</index>
+            <phrase>අනේ මේකත් වැඩක්ද? දවසකට කොච්චර සත්තු මරණවද මේ මිනිස්සු...ඇයි එයාලව අල්ලන්නේ නැත්තේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-22 22:05:18</date>
+            <index>3</index>
+            <phrase>චෙක් කරද්දී චෙක් යුවලට කෘමින් නිසා මාර්ග බාධකය භාදකයක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර වත්තල</author>
+            <date>2012-06-22 23:18:46</date>
+            <index>4</index>
+            <phrase>චිකේ චිකේ චෙක්,,,,,,,,,,,,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරි</author>
+            <date>2012-06-23 01:40:06</date>
+            <index>5</index>
+            <phrase>දඩය රුපියල් 5 යි....අවවාදත් කරා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කයියා</author>
+            <date>2012-06-23 01:42:18</date>
+            <index>6</index>
+            <phrase>පොලිස් මාමට මොකටද චෙක් දෙන්න ගියේ... රැපියල් වලින් දුන්නනම් වැඩේ ගොඩින් බේරෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-06-23 06:48:29</date>
+            <index>7</index>
+            <phrase>මධු එයාල තියා ඔයාවත් ලංකාවේ නීතිය දන්නේ නැහැනෙ. සිහියෙන් ඉන්න. එයාලගෙ පොඩි දරුවෙක්ගේ ඉස්‍‍කෝලෙ හොම් වරක් එකට පොතේ අලවන්න මැරිච්ච සත්තු නෙවි. අපේ රටේ ජාන මංකොල්ලය ගැන කියන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ප්‍රියන්ත</author>
+            <date>2012-06-23 08:09:54</date>
+            <index>8</index>
+            <phrase>මධු පාතාලෙ කෙනෙක්ද මන්ද? කියන්නෙම වැරදිකරැවන්ට සමාව දෙන්න මයි.. අනේ මන්දා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරැණ</author>
+            <date>2012-06-23 08:17:38</date>
+            <index>9</index>
+            <phrase>කටගැස්ම හදන්නද දන්නෙ නැහැ.. අපේ අය මුවෝ ගොන්නු ගන්න එකේ කෘමියෝ ගැන මොන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූටික්කා</author>
+            <date>2012-06-23 08:57:55</date>
+            <index>10</index>
+            <phrase>සුපිරි රටවල කෘෂිකාර්මික පර්යේෂණ සඳහා විවිධ කෘමීන් වර්ග යොදා ගනු ලබනවා. "insects genetics " (කෘමි ජාන විද්‍යාව) යනුවෙන් හඳුන්වන මෙය ඉතා සංකීර්ණ ක්‍රියාවලියක්. සුවිසල් ප්‍රමාණික කෘෂි නිෂ්පාදනයේ යෙදී සිටින රටවල් මෙවැනි පර්යේෂණ සඳහා මහා ධනස්කන්ධයක් යොදවා වෙනම වූ පර්යේෂණාගාර සහ ජාන පර්යේෂකයන් යොදවා තිබෙනවා. භෝග වගාවේදී නානාප්‍රකාර කෘමී වර්ග හතුරුවීම් ද උපකාරී වීමද අඩු වැඩි වශයෙන් සිදුවන දෙයක්. එසේම කෘමීන් යනු කෘෂි නිෂ්පාදනයේදී සාර්ථකත්වය හෝ අසාර්ථකත්වය තීරණය කරන බලවත් සාධකයක්. දහස් සංඛ්‍යාත වූ කෘමී ප්‍රභේධ අතර නොයෙක් මට්ටමේ ශක්තීන්ගෙන් යුක්ත කෘමීන් සිටිනවා. යම් කෘමීන්ට දිගු කලක් ජීවත් වීමට හැකිවන විට තවත් කෘමියෙකුට වැඩි දුරක් පියාසර කිරීමේ ශක්තිය තිබෙනවා. එසේම තවත් කෘමියෙක් ප්‍රහාරාත්මක හෝ ආක්‍රමණික ශක්තියකින් යුක්ත විය හැකියි. තමන්ගේ රට තුලදී සොයාගත් නොහැකි එවන් කෘමීන් වෙනත් රටවලින් ලබාගෙන එම කෘමීන් තම පර්යේෂණාගාර තුළදී දීර්ගකාලීනව පර්යේෂණයන්ට ලක් කර ඉන් පසු ඔවුන්ගෙන් ලබා ගන්නා ජාන වැඩි දියුණු කර ප්‍රබල ගණයේ කෘමීන් බිහි කරන්නට මෙම පර්යේෂකයන් කටයුතු කරනවා. මෙවන් ආකාරයෙන් නිර්මාණිත කෘමීන් කෘෂිකර්මාන්තයේ වැඩිදියුණුවට යොදා ගන්නවා. එසේම විනාශයටත් යොදා ගන්නට පුළුවන්. උදාහරණයක් ලෙස එක්තරා සිදුවීමක් දෙන්නම්. චීනය හා රුසියාව වෙන්කරනා සීමාවෙහි දෙපැත්තේම දොඩම් වගාව ඇති විශාල භුමි භාග තිබෙනවා. එක් අවස්ථාවක රුසියානු ජාන පර්යේෂකයන් විසින් මෙම දේශ සීමාව ඉක්මවා පියාසර කල හැකි ශක්තිමත් මීමස්සෙකු නිර්මාණය කර ඔවුන්ගේ ශරීරයේ එක්තරා දිලීර වර්ගයක් තවරා චීන දොඩම් භුමි දෙසට මුදා හැරියා. එම දිලීරය චීන්නුන්ගේ දොඩම් වගාව සහමුලින් විනාශ කිරීමට සමත් උනා. ජාන තාක්ෂණයේ තරම එයින් තේරුම් ගන්නට පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-06-23 09:17:48</date>
+            <index>11</index>
+            <phrase>සූටික්කට ස්තුතියි. අපි කමෙන්ට් කියවීමෙන් බලාපොරොත්තු වන්නේ, මුල් පුවතට අමතරව අපේ දැනුමට මහෝපකාරී වන මෙවැනි අදහස් මිස, ' අනේ පවු, හොඳ වැඩේ, දෙයියෝ සාක්කි, වගේ වැඩක් නැති ඒවා නේමේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-06-23 10:03:12</date>
+            <index>12</index>
+            <phrase>සූටික්කා කියන කතාව සම්පූර්ණයෙන් ඇත්ත.. සොයානොගත් කෘමින් වර්ග දහස් ගණනක් අපේ රටේ ඉන්නවා.. මේවා සොයාගැනීම සහ පළ කිරීමට මේ සතුන්ට ‍පේටන්ට් බලපත්‍ර ලබාගත හැකිය.. මේ නිසා බොහෝ විද්‍යාඥයන් මේ සදහා අවස්ථාවක් ලැබෙන තුරු බලා සිටිනවා ලංකාවෙන් මේ සතුන් සොයාගන්න.. මතකනේ පසුගිය දිනක පිටරට විශ්වවිද්‍යාලයක මහාචාර්ය කෙනෙක් අත්අඩංගුවට ගත්තා මෙවැනි කෘමියන් අල්ලන අවස්ථාවකදී..සිංහරාජයේදි. මේ සොබා දහමේ පුංචි නිර්මාන අපගේ උරැමයන්.. කරැණාකර මෙම සතුන් නොසලකා හරින්න එපා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-06-23 10:08:15</date>
+            <index>13</index>
+            <phrase>සූටික්කා ස්තුතියි.. මේවගේ පුවත්වලට අදාළ යම් දේවල් දාන උදවිය මේ වගේ ප්‍රයෝජනවත් දේවල් දාන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුපා</author>
+            <date>2012-06-23 10:07:48</date>
+            <index>14</index>
+            <phrase>ස්තුතියි සූටික්කා ගොඩක් වැදගත් ‍තොරතුරැ රැසක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුර</author>
+            <date>2012-06-23 10:49:02</date>
+            <index>15</index>
+            <phrase>මේ‍ගොල්ල මේ කෘමින් අරං ගිහිල්ලා ‍‍ජාන විද්‍යාත්මකව ගොඩක් පර්යේෂණ සදහා යොදා ගන්නවා.. සූටික්කා ඔයා හරි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුප</author>
+            <date>2012-06-23 10:49:02</date>
+            <index>16</index>
+            <phrase>දයාබර සූටික්කා.. ඇයි අපිට බැරි කෘමියෙක් නිර්මාණ්‍ය කරන්න මදුරැවන් විනාශ කරන.. විශේෂයෙන් ඩෙංගු මදුරැවන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරා</author>
+            <date>2012-06-23 12:04:39</date>
+            <index>17</index>
+            <phrase>අනේ මදුරුවො නැති වුණාම මදුරුකොයිල් කම්පැනි වැහෙනවනේ.....අපේ ජොබ් වලට කවුද වගකියන්නේ ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූටික්කා</author>
+            <date>2012-06-23 11:49:10</date>
+            <index>18</index>
+            <phrase>විදුප, අහපු නිසා කියන්නම්. මදුරුවන්ගෙන් බේරෙන්න කෘමී නිෂ්පාදනයකට වඩා අලුත්ම සොයා ගැනීමක් තියෙනවා. එය "anti mosquito sound " නම් අති සුක්ෂම නාද රටාවක්. මේ වනවිට ලෝකය පුරා එය ජනප්‍රිය වෙමින් තිබෙනවා. මෙම නාද රටාව මුසු ශබ්ධ සංඛ්‍යාතය සම්පුර්ණයෙන්ම මදුරුවන් මිනිසාගෙන් දුරස් කරන්නට සමත් වී ඇති බව අන්තර්ජාලය කියනවා. සියුම් වුත් මිහිරි වුත් සංගීතයක් බඳු එය MP3 තාක්ෂණයෙන් ඔබට ලබාගත හැකියි. ඉන් පසු ඔබගේ ජංගම දුරකථනය හරහා හෝ පරිගණකය හරහා එය වාදනය කළ හැකි වෙනවා. මෙම නාද රටාව කෙතරම් පහත් හඬකින් වාදනය කළත් එය ඇසෙන තෙක් මානයට මදුරුවන් පැමිණෙන්නේ නැහැ. එය මදුරුවන්ගේ ශ්‍රවණ පද්ධතිය විනාස කර දමන්නට සමත්. එහෙත් මෙම ශබ්ධ සංඛ්‍යාත යෙන් මිනිස් ශ්‍රවණ පද්ධතියට කිසිදු හානියක් වන්නේ නැති බව එය නිපද වූ සමාගම පවසනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-06-23 11:54:50</date>
+            <index>19</index>
+            <phrase>සූටික්කාගේ පැහැදිළි කිරීමට ස්තුතියි.. මම ගල්ෆ් රටක සේවය කරන්නෙ. ඇපල්, Peach,Nectarine,Plums,Delum,Fig,Grapes ඇට වලින් පැල හදන්න මම උත්සාහ කළා.. ගල්ෆ්වල උෂ්ණත්වය සිසිර ඍතුවෙදි සෙන්ටිග්‍රේඩ් 50ට වැඩිවෙනවා වගේම ආර්ධතාවය අඩු වැඩි වීම සූළග දූවිලි කුණාටු තියනවා.. ඒත් ඇපල්, පීච්,ඉන්දියන් අඹ, දෙළුම් Nectarine,Fig,Grapes,Plums කියල පළතුරැ සාර්ථකව වගා කරන්න මට පුළුවං උනා.. මම උත්සාහ කරනවා Desert Jujube කියන කාන්තාරයේ සාර්ථකව වැවෙන පළතුරැ ගහට ඇපල් මුහුම් කරන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූටික්කා</author>
+            <date>2012-06-23 12:38:01</date>
+            <index>20</index>
+            <phrase>මෙම නාද තාක්ෂනය ඔස්සේ තව දුරටත් පර්යේෂණය කළ එම සමාගම එය මිනිසාගේ කණට නෑසෙන එහෙත් මදුරුවන්ට පමණක් ඇසෙන ආකාරයෙන්ද සකස් කළා. එහෙයින් දැන් එය වාදනය වීමේදී ඔබෙත් මගෙත් සුව නින්දට බාධාවක් වන්නේ නැහැ. මෙමෙ නාද ඛණ්ඩයේ මුළු ධාරිතාවය මෙගා බයිට් 3.4 ක් පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-06-23 14:05:45</date>
+            <index>21</index>
+            <phrase>ගොඩක් විදේශිකයො ලංකාවෙ නීති දන්නේ නෑ‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-06-23 14:08:40</date>
+            <index>22</index>
+            <phrase>අපේ රටේ අමුතුවෙන් කොල්ලකන්න දෙයක් තියනවද නුවන් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්</author>
+            <date>2012-06-23 14:47:29</date>
+            <index>23</index>
+            <phrase>ඉන්ද්‍රජිත් මමත් ඔබ සමගයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2012-06-23 15:48:23</date>
+            <index>24</index>
+            <phrase>ගොඩක් විදේශික අය රට නීති දන්නේ නෑ . ඒ වගේ පුංචි දෙයක් ලොකු වැරද්දක් විදිහට දකින්න හොද නැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විහඟ</author>
+            <date>2012-06-23 16:08:40</date>
+            <index>25</index>
+            <phrase>චෙක් වල ඉඳල මෙහේ හොරකමේ ඇවිද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකලබුජං</author>
+            <date>2012-06-23 15:44:16</date>
+            <index>26</index>
+            <phrase>දී කිරට බලල්ලුත් සාක්කිලු. කුරැමිනියට ජය...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකල බුජන්</author>
+            <date>2012-06-23 16:25:07</date>
+            <index>27</index>
+            <phrase>දී කිරට බළල්ලුත් සක්කිලු . කුරුමිනියට ජය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2012-06-23 17:41:18</date>
+            <index>28</index>
+            <phrase>ලංකාවේ කෘමීන්ට ඒරෝපපයේ ලොකු ඉල්ලීමක් තියනවා වගේ . ජොබ් එකක් නැති මට මේක හොඳ අදහසක් ලංකාවෙන් කෘමීන් export කොරන්න ඒරෝපපයේ .. thank u කට්ටියටම !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හීන් මැණිකා</author>
+            <date>2012-06-23 18:52:54</date>
+            <index>29</index>
+            <phrase>ගෙම්බෝ කරන්න ඕන දේ මෙයාල කරලා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2012-06-23 20:51:37</date>
+            <index>30</index>
+            <phrase>ජාන මං‍කොල්ල කන විදේශිකයින් අල්ලන එක හොදයි.. ඒ වගේම රටම මංකොල්ල කන අයත් අල්ලන්න කවුරැත් නැති එක තමයි දුක.. උඩ ඉන්න දෙවියන්ට බාරයි ඒවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය බණ්ඩාර කළුබෝවිල</author>
+            <date>2012-06-23 22:49:22</date>
+            <index>31</index>
+            <phrase>චෙක් ජෝඩුව මේ කාමන්ව අල්ලගෙන තියෙන්නෙ හුරතලේට ගෙදර ඇතිකරන්න නෙමෙයිනේ?? සූටික්කගෙ දැනුවත්කිරීම තුලින් අපි හැමෝගෙම දැනුමට යමක් එක් ක ගත හැකියි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-06-24 04:44:37</date>
+            <index>32</index>
+            <phrase>ජාන කොල්ලය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෘමියා</author>
+            <date>2012-06-24 18:11:34</date>
+            <index>33</index>
+            <phrase>කෘමීන් ටිකත් රාජසන්තකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

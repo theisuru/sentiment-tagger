@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55474</articleId>
+    <title>ටොරින්ටන් පිරිසකුත් විරෝධයේ</title>
+    <author>සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 ජූලි මස 26 17:02:05</date>
+    <body>කලමනාකරණ සහකාර සේවා ඒකාබද්ධ වෘත්තීය සමිති සන්ධානය ඉල්ලීම් ගණනාවක් මත ටොරින්ටන් පෙදෙසේ රාජ්‍ය පරිපාලන අමාත්‍යංශය ඉදිරිපිට දී උද්ඝෝෂණයක් කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-07-26 17:11:03</date>
+            <index>0</index>
+            <phrase>එකතුවෙන්න කාලය හරි.. එකතුවෙලා බලය පෙන්නලා ජයගන්න.. වැඩ කරන්නෙ ඔබලා නම යන්නේ වෙන අයගෙ.. ඔබලාට ජය...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරත්</author>
+            <date>2012-07-26 22:09:58</date>
+            <index>1</index>
+            <phrase>අපි එකතු වෙන්න කලේ ඇවිත් ..හරිම සතුටුයි ... අපේ සේවාව දියාරු කරලා අන්අයට ට වරප්‍රසාද දෙනවා ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-07-27 01:54:37</date>
+            <index>2</index>
+            <phrase>හැමෝම එකතු වෙන්න ඕනෑ මේ කාර්යයට. ඔබට ජයෙන් ජය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-27 07:29:46</date>
+            <index>3</index>
+            <phrase>රටේ සියළුම වෘත්තීය සමිති එක් ස්ථානයකට එක්රැස් වී හඩනගන්නට කාලය දැන් පැමිණ තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-07-27 07:36:18</date>
+            <index>4</index>
+            <phrase>හැම තැනම උද්ගෝෂණ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහානි</author>
+            <date>2012-07-27 07:38:51</date>
+            <index>5</index>
+            <phrase>අනේ පවු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාරංග</author>
+            <date>2012-07-27 13:40:43</date>
+            <index>6</index>
+            <phrase>ඉල්ලීම් දිනා ගන්නා තුරු අපි දිගටම සටනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

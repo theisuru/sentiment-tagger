@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465205</articleId>
+    <title>නිමල් ලෙව්කේ ජනපති ආරක්ෂක උපදේශකයෙක්</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 ඔක්තෝබර් මස 06 12:11:37</date>
+    <body>විශේෂ කාර්ය බළකායේ අණදෙන නිලධාරියෙකු වූ විශ්‍රාමික ජ්‍යොෂ්ඨ නියෝජ්‍ය පොලිස්පති නිමල් ලෙව්කේ ජනාධිපතිවරයාගේ ආරක්ෂාව සම්බන්ධ උපදේශකවරයා වශයෙන් පත්කර ඇති බව ජනාධිපති ලේකම් කාර්යාල ආරංචිමාර්ග සදහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-06 07:36:00</date>
+            <index>0</index>
+            <phrase>යුද්ධයට බයේ පැනල යන්නේ නැතුව විශ්‍රාම යනතුරුම දක්ෂකම් පෙන්නු මෙවන් නිලධාරීන්ගෙන් රටට ගත යුතු දේ බොහෝය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනෝජ් තෙන්නකෝන්</author>
+            <date>2016-10-06 07:41:34</date>
+            <index>1</index>
+            <phrase>සුබ පැතුම් ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්රජපක්ෂ</author>
+            <date>2016-10-06 07:43:46</date>
+            <index>2</index>
+            <phrase>මෙතුමාගේ පත්වීම සමඟ ඔබගේ ආරක්ෂාව ගැන අපට සැහීමකට පත්විය හැකිය. ගෞරවාන් විදියට විශ්‍රාම ගිය ඔබට අපේ ප්‍රණාමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-10-06 09:36:43</date>
+            <index>3</index>
+            <phrase>යුද සමයේ විශේෂ පොලිස් සේවයේ හිටපු දක්ෂ නිලදරුවෙක්.... නැවත සේවයේ පිහිටවීම සම්බන්ධයෙන් සතුටුයි.. ජයවේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-10-06 19:39:36</date>
+            <index>4</index>
+            <phrase>දුර්වර්ණ ලාංකික පොලිසියට පායා තිබු පිවිතුරු තරුවක්. දක්ෂ රගර් ක්‍රීඩකයෙක්. අවංක නිලධාරියෙක්. යහපාලනයේ හොඳ තෝරා ගැනීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටියුඩර්</author>
+            <date>2016-10-06 21:55:59</date>
+            <index>5</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

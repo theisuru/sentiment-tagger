@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>367785</articleId>
+    <title>ත්‍රස්තයෝ විප්ලවයේ නගරයෙන් යති</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 දෙසැම්බර් මස 09 13:10:03</date>
+    <body>අයිඑස්අයිඑස් ත්‍රස්තවාදීන් විප්ලවයේ නගරය ලෙස හැඳින්වූ හොම්ස් නගරයෙන් ඉවත්වෙමින් සිටින බව බීබීසී වාර්තා කරයි. එය මධ්‍යම සිරියාවේ නගරයකි. කැරළිකරුවන් අවසන්වරට අත්පත් කරගෙන සිටි මේ නගරයෙන් ඔවුන් පසුබසින්නේ සිරියා රජය සමග ඇතිකරගත් තාවකාලික සටන් විරාම ගිවිසුමේ කොන්දේසි ක්‍රියාත්මක කරමිනි.
+ජාත්‍යන්තර මාධ්‍ය පවසන්නේ එම ගිවිසුම් කොන්දේසි අනුව බදාදා ත්‍රස්තවාදීන් හා සිවිල් පුරවැසියන් 800ක් පමණ හොම්ස් නගරයෙන් ඉවත්වීමට නියමිතව තිබූ බවයි. කැරළිකරුවන් රැගත් පළමු බස් රථය අද හොම්ස් නගරයෙන් පිටත්ව ගිය බව නිරීක්ෂණ කටයුතුවල යෙදෙන සිරියාවේ මානව හිමිකම් සංවිධාන පවසයි.</body>
+    <comments>
+        <comment>
+            <author>අහමඩ්</author>
+            <date>2015-12-09 09:30:09</date>
+            <index>0</index>
+            <phrase>යන්නේ අයි. එස් ත්‍රස්තවාදීන් නොවේ.. වෙනත් කැරලිකරුවන්.. අයි එස් ලා සාමාන්‍යයෙන් මැරෙනකම් සටන් වදිනවා.. ඔවුන් ෂියා රජයක් එක්ක ගිවිසුම් වලට යන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆර්සාන්</author>
+            <date>2015-12-09 12:05:16</date>
+            <index>1</index>
+            <phrase>අහමඩ්, ඔයා කොහොමද හරියට දන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2015-12-09 14:05:50</date>
+            <index>2</index>
+            <phrase>බස් එකේ පිටකොටුව කියල ගහලා තිබුනද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2015-12-09 14:09:57</date>
+            <index>3</index>
+            <phrase>අහමඩ්ට දුක හිතිලා වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් - ඩුබායි</author>
+            <date>2015-12-09 14:59:34</date>
+            <index>4</index>
+            <phrase>අනේ පවු අහමඩ්ට දුකයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2015-12-09 15:13:32</date>
+            <index>5</index>
+            <phrase>කොහොමත් ‍සොබාදහමේ නීතියට අනුව දුබලයා ප්‍රභලයාට යටත්වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතුම්</author>
+            <date>2015-12-09 15:41:13</date>
+            <index>6</index>
+            <phrase>මෙය සටන් විරාමයක් වෙන්න බෑ. කැරළිකාරයෝ තවත් කුමකට හෝ සුදානම් වෙනවා. ඉදිරියේදී බලාගන්න පුළුවන් වේවි මොකාටද එන්න හදන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2015-12-10 00:20:23</date>
+            <index>7</index>
+            <phrase>අයි. එස් ත්‍රස්තවාදීන් යනු වීරයන් නොවේ. මේ ත්‍රස්තවාදීන් විසින් පැහැරගත් ගැහුණු ළමයි ලබාගැනීමේ ලොබ නිසා පහන් දල්ලට ඇදෙන සලබයන් මෙන් මරණයට ඇදෙන නිවට කොටසකි. ලොව සිටින නිවට අසහන කාරීන් අයි එස් සමග මරණයට එක්වන්නට එන්නේ මේ ගැහැණු ලොබ කම නිසා. අයි. එස් ත්‍රස්තවාදීන් යනු ගැහැණු ළමයෙකු සිගරට් පැකට්ටුවකට පවා හිලව් කරන පහත් නීච නොමිනිසුන් කොටසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2015-12-10 01:46:06</date>
+            <index>8</index>
+            <phrase>ඕවා ගණන්ගන්න එපා සම්පත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටානියා</author>
+            <date>2015-12-10 04:22:26</date>
+            <index>9</index>
+            <phrase>අහමද් අයිඑස්අයිඑස් කාරයෙක් ද කොහෙද..පොලීසිය කිවානම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

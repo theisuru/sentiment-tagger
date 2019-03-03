@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59541</articleId>
+    <title>දෙදෙනෙක් නායට බිලි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 අගෝස්තු මස 18 18:14:08</date>
+    <body>කෑගල්ල කුරුඳුඉන්නේ නායෙයාමකින් දෙදෙනෙකු මිය ගිය බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-18 18:47:12</date>
+            <index>0</index>
+            <phrase>තව තවත් මෙවැනි සිදුවීම් වෙන්න පුළුවං පරිස්සමින්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-18 20:30:25</date>
+            <index>1</index>
+            <phrase>ඕක නාය යාමක් නෙවි. ගල් බැම්මක් බදින කොට එ බැම්මම කඩා වැටුනේ. කොන්ත්‍රාත් කරැ වග කියන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමලනාථ</author>
+            <date>2012-08-18 23:39:32</date>
+            <index>2</index>
+            <phrase>කොන්ත්‍රාත්කරැ සහ එම ගෙයිහිමියාද වැරදිකරුවෝය.ඔවුන් ඒ දුප්පත් මැරුනු අයට වන්දිගෙවිය යුතුය.!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතුංග</author>
+            <date>2012-08-20 07:07:13</date>
+            <index>3</index>
+            <phrase>මේ සිද්ධිය සිදුවුණේ මගේ නිවස ආසන්නයේ. මට හරිම කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

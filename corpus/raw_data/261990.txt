@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>261990</articleId>
+    <title>නිදහස් උළෙල වීරකැටියේ</title>
+    <author></author>
+    <date>2014 සැප්තැම්බර් මස 10 16:03:23</date>
+    <body>ලබන වසරේ පැවැත්වීමට නියමිත 67 වැනි නිදහස් දින සැමරුම් ජාතික උත්සවය වීරකැටිය මධ්‍ය විද්‍යාලයයේ දී පැවැත්වීමට අද අග්‍රමාත්‍ය කාර්යාලයයේ දී පැවැති සාකච්ඡාවක දී තීරණය විය.
+හම්බන්තොට දිස්ත්‍රික්කයේ මෙවැනි උළෙලක් පැවැත්වෙන ප්‍රථම අවස්ථාව මෙයයි.</body>
+    <comments>
+        <comment>
+            <author>රසික</author>
+            <date>2014-09-27 15:04:46</date>
+            <index>0</index>
+            <phrase>අපේ ගමට කරන මේ දේවල් වලට ඔබ තුමාට බුදුබව ලැබෙනවා ජනාධිපති තුමනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් පියසේන</author>
+            <date>2014-12-02 06:50:08</date>
+            <index>1</index>
+            <phrase>පොළොන්නරුවට යන එකක් නෑ නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2015-01-16 18:18:49</date>
+            <index>2</index>
+            <phrase>මේක නම් බොහොම හොඳ තීරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

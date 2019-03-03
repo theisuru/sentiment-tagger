@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>80854</articleId>
+    <title>ඉරාකයේ ෂියා මුස්ලිම්වරුන් ඉලක්ක කරගෙන බෝම්බ පිපිරේ</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  බැග්ඩෑඞ් නුවරදීය</author>
+    <date>2012 නොවැම්බර් මස 30 09:07:35</date>
+    <body>ඉරාකයේ ෂියා මුස්ලිම්වරුන් බොහොමයක් ජීවත් වන නගරවලට ඊයේ (28) එල්ල වූ බෝම්බ ප‍්‍රහාරවලින් 38 දෙනෙක් ජීවිතක්ෂයට පත් වූහ. තුවාල ලබා රෝහල් ගත කළ ගණන 107 කට වැඩිය.
+ප‍්‍රහාර එල්ල වූයේ ෂියා මුස්ලිම් බැතිමතුන් අශූරා ආගමික උත්සවයට සහභාගී වෙමින් සිටිද්දී යැයි පොලිසිය පවසයි.
+මීට පෙර වසරවලදී ද මේ අයුරින්ම අශූරා ආගමික උත්සවය පැවැත්වෙද්දී ෂියා මුස්ලිම්වරුන් ඉලක්ක කර ගනිමින් ප‍්‍රහාර එල්ල විය. එම ප‍්‍රහාර එල්ල කළේ සුන්නි මුස්ලිම් සටන්කාමී කල්ලිය.
+බටහිර බැග්ඩෑඞ්, කර්බාලා සහ ෆලූජා යන නගරවලදී මෙම බෝම්බ ප‍්‍රහාර එල්ල වී ඇත. ඉකුත්  මාස දෙක තුළ එල්ල වූ දරුණුතම ප‍්‍රහාරය ලෙස මෙය සැලකේ.</body>
+    <comments>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-11-30 12:42:46</date>
+            <index>0</index>
+            <phrase>හොඳ පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-11-30 13:56:30</date>
+            <index>1</index>
+            <phrase>කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීක</author>
+            <date>2012-11-30 20:24:17</date>
+            <index>2</index>
+            <phrase>ලෝකම ගිනි ගොඩක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-12-01 00:17:54</date>
+            <index>3</index>
+            <phrase>ඉතාම කණගාටුදායක පුවතක්. සාමය උදාවේවායි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-12-01 14:19:33</date>
+            <index>4</index>
+            <phrase>හොඳයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-12-01 18:22:36</date>
+            <index>5</index>
+            <phrase>අවාසනාවන්ත පුවතක් නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉනෝකා</author>
+            <date>2012-12-01 22:16:22</date>
+            <index>6</index>
+            <phrase>කරන කලට පවු මිහිරිය මී සේ විදින කලට දුක් වැඩිවෙයි ගිනි සේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

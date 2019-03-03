@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37087</articleId>
+    <title>දඹුල්ලේ වැවක් කැඩෙන්න ළඟයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අපේ‍්‍රල් මස 17 14:37:03</date>
+    <body>දඹුල්ලේ පහළ වැව වැව් බැම්ම හා පාලම කැඞී යෑමේ තර්ජනයක් ඇතත් වහා පිළියම් යෙදීමට මුදල් සතයක්වත් නැතැයි මාතලේ ආපදා කළමනාකරන සම්බන්ධීකරණ නිලධාරී ඉන්දික රණවීර මහතා කීය. පෙරදින මහා වැස්සෙන් වැවට හානි සිදුවිය.
+දඹුල්ල ප‍්‍රාදේශීය ලේකම් ලක්‍ෂ්මී හේවාපතිරණ මහත්මියද එහි ගොස් සිදුවී ඇති හානිය පිරික්සුවාය.
+මේ වැව කැඞී ගියහොත් දඹුල්ල රෝහල, නගර හා ආර්ථික මධ්‍යස්ථානයටද හානි විය හැකියැයි නගර වැසියෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>කසුන් අමරනායක</author>
+            <date>2012-04-17 14:39:06</date>
+            <index>0</index>
+            <phrase>ශ්‍රී ලංකාව ආශ්චර්යයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-17 15:37:34</date>
+            <index>1</index>
+            <phrase>ඔවට ඉතින් සල්ලිනැතෙයි කියල හරියන්නෑ. කැඩුනට පස්සේ ලොකු විනාශයක්නේ වෙන්නේ. කොහොමත් හදන්ට එපායැ. ඔය මැති ඇමතිගොල්ල ලගතියෙන බිලියන ගණන් මුදල් මේවට ඉල්ලා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2012-04-17 15:58:19</date>
+            <index>2</index>
+            <phrase>ලෑජ්ජයි ....."සතයක්වත් නෑ"....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

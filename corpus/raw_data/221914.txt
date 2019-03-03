@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>221914</articleId>
+    <title>පත්තරෙන් බලාගන්නා තුරු සැනසීමක් නෑ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 මාර්තු මස 31 10:28:02</date>
+    <body>බස්නාහිර හා දකුණු පළාත් මැතිවරණයේ මානාප ගත් අපේක්ෂයන් කවුදැයි දැන ගැනීමට බොහෝ දෙනෙක් අද ලොකු උනන්දුවක් දැක්වුහ.
+කොතෙකුත් විද්‍යුත් මාධ්‍ය මගින් එම විස්තර ප්‍රචාරය වුවත් මුද්‍රිත මාධ්‍යයෙන් එය බලා ගන්නා තුරු  හිතට සැනසීමක් නැති බව බණ්ඩාරගම පුවත්පත් අලෙවි හලක් අසලට එක් වු පිරිස ඊට හොදම සාක්කියකි.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2014-03-31 10:50:17</date>
+            <index>0</index>
+            <phrase>ඡන්ද ප්‍රථිඵල බලන්න රටේ ජනතාව ඉවසුමක් නැතුව ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තබීතා</author>
+            <date>2014-03-31 11:26:37</date>
+            <index>1</index>
+            <phrase>ඔව් ඉතින් අනාගතය ගැන හිතා ගන්න හොඳයි මේ ප්‍රතිපල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2014-03-31 11:52:50</date>
+            <index>2</index>
+            <phrase>ඉස්සරනම් අපි නිදි වරාගෙන චන්දෙ ඇහුවා දැන් ඒක වෙනස් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලන</author>
+            <date>2014-03-31 12:31:33</date>
+            <index>3</index>
+            <phrase>මිනිස්සුන්ට ඕනේ අය පත් කරගෙන තියෙන්නේ... මේ ආණ්ඩුව මිනිස්සුන්ට හොඳයිලු, එහෙනම් කට්ටිය කතා නොකර ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලයනල්</author>
+            <date>2014-03-31 12:51:38</date>
+            <index>4</index>
+            <phrase>ආත්ත ඇත්ත මිනිස්සු දැන් පත්තරෙන් තමයි චන්දෙ බලන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්ත</author>
+            <date>2014-03-31 12:52:39</date>
+            <index>5</index>
+            <phrase>අපි ඉස්සර චන්දෙ ඇහුවේ කෑම ජාති හදාගෙන ගමේම කට්ටියත් එක්ක එකතු වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියසේන</author>
+            <date>2014-03-31 12:52:39</date>
+            <index>6</index>
+            <phrase>මිනිස්සුන් ඉස්සර තරම් චන්දෙ පස්සේ එලවන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2014-03-31 15:38:29</date>
+            <index>7</index>
+            <phrase>දැන් මිනිසුන්ට ජීවත්වෙන්න සටන් කරන්න වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමාල්</author>
+            <date>2014-03-31 17:41:34</date>
+            <index>8</index>
+            <phrase>මේ බණ්ඩාරගම දවස කඩේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමාල්</author>
+            <date>2014-03-31 17:44:10</date>
+            <index>9</index>
+            <phrase>ඉන්න ඔක්කොම බලන්නේ ලංකාදීපෙනේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2014-08-31 17:21:27</date>
+            <index>10</index>
+            <phrase>පවු දෙයියනේ මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58297</articleId>
+    <title>ඊරියගෙයි පැටවුන්ගෙයි දිවි දික්වෙයි</title>
+    <author>ජයරත්න වික‍්‍රමාරච්චි</author>
+    <date>2012 අගෝස්තු මස 12 12:13:35</date>
+    <body>ඉහළ පුලියන්කුලමේ අලුත්ගම අඩි 20ක් ගැඹුරු දිය සි﻿ඳුණු ළිඳකට වැටී සිටි ඊරියක හා පැටවුන් පස් දෙනා ලණු දැලක් වියා ගොඩට ගෙන කැලයට පළවා හැරීමට ගැමියෝ වනජීවි නිලධරයනට සහාය වූහ.</body>
+    <comments>
+        <comment>
+            <author>ලහි</author>
+            <date>2012-08-12 13:42:10</date>
+            <index>0</index>
+            <phrase>පුදුමයි මරාගෙන කාපු නැති එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-08-12 13:57:22</date>
+            <index>1</index>
+            <phrase>හොඳ වැඩක්. සාධු.. සාධු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා මල්ලී</author>
+            <date>2012-08-12 14:01:26</date>
+            <index>2</index>
+            <phrase>පුදුමයි කැලේට ඇරියා කිව්වාම. හොඳ වැඩේ තමා ඒ කරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී එම් කේ</author>
+            <date>2012-08-12 14:02:00</date>
+            <index>3</index>
+            <phrase>එම ගැමියන්ගේත් දිවි දික්වේවා කියා මා ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2012-08-12 19:22:15</date>
+            <index>4</index>
+            <phrase>සත්තු මරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙ</author>
+            <date>2012-08-12 20:14:11</date>
+            <index>5</index>
+            <phrase>පොලිසියෙන් එහෙම ආවේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-12 21:14:16</date>
+            <index>6</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-12 21:41:53</date>
+            <index>7</index>
+            <phrase>හොද වෙලාවට අහළ පහළ රාළහාමි කෙනෙක් නොහිටියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - ලන්ඩන්</author>
+            <date>2012-08-12 23:14:30</date>
+            <index>8</index>
+            <phrase>වල් ඌරු මස් කෑල්ලක් කාපු කාලයක් මතක නැහැ. කටට කෙල උනනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-08-12 23:36:05</date>
+            <index>9</index>
+            <phrase>ලොකු පිනක්. මේ පින මේ අයට අනිවාර්යයෙන්ම ලැබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න දේවපතිරාජ</author>
+            <date>2012-08-13 00:37:26</date>
+            <index>10</index>
+            <phrase>මෙවැනි මිනිසුන් තවමත් මේ රටේ ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-13 10:18:16</date>
+            <index>11</index>
+            <phrase>සන්තෝසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-08-13 13:53:44</date>
+            <index>12</index>
+            <phrase>මේ වගේ යහපත් ක්‍රියා අහන්න ලැබුනහම හිතට පුදුමාකාර සතුටක් දැනෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

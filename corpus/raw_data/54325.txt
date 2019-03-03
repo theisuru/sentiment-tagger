@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54325</articleId>
+    <title>සොඳුරු දඩබිම අඳුරුවේ</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජූලි මස 19 16:28:01</date>
+    <body>සොඳුරු දඩබිම චිත්‍රපටය ඊ.ඒ.පී. චිත්‍රපට සමාගමට රුපියල් ලක්ෂයකට විකුණා තිබිය දී තිස්ස නාගොඩවිතානට ද රුපියල් තුන් ලක්ෂයකට විකිණීමෙන් වංචාවක් කළැයි එහි නිෂ්පාදක ඩබ්ලිව්.ඒ.එස්.කේ. සමරවික්‍රම වරද පිළිගත්තේය. එම මුදල කොටස් වශයෙන් ගෙවීමට ද  බාර ගත්තේය. ඔහුගේ ඇඟිලි සලකුණු ගන්නැයි නියෝග කළ මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා නඩුව ලබන 23 වැනි දාට කල් තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2012-07-19 16:34:38</date>
+            <index>0</index>
+            <phrase>සොදුරු දඩ බිමේ දඩයක්කරුට පොට වරදී....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-19 17:37:06</date>
+            <index>1</index>
+            <phrase>මාර සොදුරු දඩයම් කරුවෙක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එච්.ජේ.කේ.</author>
+            <date>2012-07-19 18:32:00</date>
+            <index>2</index>
+            <phrase>සොඳුරුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුධාන නථ</author>
+            <date>2012-07-19 19:01:40</date>
+            <index>3</index>
+            <phrase>හිහ් හිහ් හිහ් හී.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2012-07-20 01:54:46</date>
+            <index>4</index>
+            <phrase>ඊ.ඒ.පී. දැන්වත් ඔය බිම වැටුණු සිනමාවෙ බොර දියේ මාලු බෑම කරැණාකරලා නවත්වන්න.. මේවා අහිංසක සිනමාවට ආදරය කරන මිනිස්ුන්ට කරන අපරාධයක්.. ඒ විතරක් නොව සිනමාව ඒකාධිකරණය වීමක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-20 09:02:16</date>
+            <index>5</index>
+            <phrase>අපෝ, චිත්‍රපටියටම ගෙවලා තියෙන්නේ 100000.00 ද? වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ</author>
+            <date>2012-07-20 09:53:01</date>
+            <index>6</index>
+            <phrase>ඒක ලක්ෂයක් වටින චිත්‍රපටියක්ද? ඊට වඩා මේ දිනවල තියෙන 'සිහිනය දිගේ එන්න' සිනමාත්මකයි මට නම් හිතෙන්නේ. අපේ මිනිස්සු හොඳ දේ බලනවා අඩුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-20 10:35:02</date>
+            <index>7</index>
+            <phrase>මේක මොකක් හරි ප්‍රාදේශීය සභාවක් ගැන හදපු චිත්‍රපටියක්ද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-07-20 11:43:44</date>
+            <index>8</index>
+            <phrase>හා හා හා හා..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද ජයලාල්</author>
+            <date>2012-07-20 15:39:02</date>
+            <index>9</index>
+            <phrase>බඩු මිල වැඩි වෙලානේ. කලාවත් විකුණනවා. සංගීතයත් ගන්න දෙකයක් නැ. සිනමාවත් දැන් ගන්න දෙයක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>70698</articleId>
+    <title>මුරුසි දිවයින් ජනපතිට වැරැදීමකින් වෙඩි ප‍්‍රහාරයක්</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  නෝක්චොට් නුවරදීය</author>
+    <date>2012 ඔක්තෝබර් මස 15 10:23:00</date>
+    <body>මුරුසි දිවයින් ජනපති මොහොමඞ් ඔල්ඞ් අබ්දෙල් අසීස් ගමන්ගත් රථ පෙළකට ඊයේ(14) එල්ල වූ වෙඩි ප‍්‍රහාරයකින් ජනාධිපතිවරයා සුළු තුවාල ලබා ඇතැයි එරට රජයේ ප‍්‍රකාශකයෙක් පැවැසීය.
+සුළු තුවාල ලැබූ ජනාධිපතිවරයා වහාම නෝක්චොට්හි පිහිටි හමුදා රෝහලකට රැගෙන ගොස් ඇති බව වාර්තා වේ.
+ජනාධිපතිවරයා ගමන්ගත් රථ පෙළට වෙඩි ප‍්‍රහාරය එල්ල කරන ලද්දේ එරට හමුදා භට පිරිසක් විසින් බවත් එය ජනාධිපතිවරයාගේ රථපෙළ බව හඳුනා නොගෙන වැරැදීමකින් එල්ල කළ වෙඩි ප‍්‍රහාරයක් බවත් එම ප‍්‍රකාශකයා වැඩිදුරටත් සඳහන් කළේය.
+මීට ඉහත අවස්ථාවකදී ද නිවාඩුවක් ගත කිරීම සඳහා යමින් සිටි ජනාධිපතිවරයාට යතුරුපැදියකින් පැමිණි අයකු වෙඩි තැබූ බව එරට ආරක්ෂක අංශ නිලධාරියෙක් පැවැසීය</body>
+    <comments>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-10-15 15:22:38</date>
+            <index>0</index>
+            <phrase>මේක කුමන්ත්‍රණයක් කියලමයි මට නම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-10-15 16:25:12</date>
+            <index>1</index>
+            <phrase>එහෙත් මෙහේ වගේ ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පනාගොඩ</author>
+            <date>2012-10-16 00:09:38</date>
+            <index>2</index>
+            <phrase>මෙහෙමත් වැරදිම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටාර් රසික</author>
+            <date>2012-10-18 14:22:55</date>
+            <index>3</index>
+            <phrase>අනේ මෙහෙමත් අවාසනාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2012-10-18 14:22:55</date>
+            <index>4</index>
+            <phrase>වැරදීම් සිදුවෙන එක සාමාන්‍ය දෙයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

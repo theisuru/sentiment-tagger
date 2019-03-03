@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>479740</articleId>
+    <title>ඉල් පුන් පොහෝ දිනය අදයි</title>
+    <author>උපුල් තම්මිට</author>
+    <date>2016 නොවැම්බර් මස 14 16:19:08</date>
+    <body>අදට යෙදී ඇති ඉල්පුන් පොහොය නිමිත්තෙන් අනුරාධපුර ඓතිහාසික ජයශ්‍රීමා බෝසමිදුන් අභියස උවැසි උවැසියන් විශාල පිරිසක් පෙහෙවස් සමාදන් වූහ.
+අටමස්ථානාධිපති පූජ්‍ය පල්ලේගම සිරිනිවාස නායක හිමිගේ අනුශාසකත්වයෙන් දාන ශීල භාවනා වැඩසටහන් රැසක් සංවිධානය කර තිබින.</body>
+    <comments>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-11-14 11:28:17</date>
+            <index>0</index>
+            <phrase>සාදු!සාදු!!සාදු!!! අපේ රටේ සැමට ජය ශ්‍රී මහා බෝධින් වහන්සේගේ පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයානි</author>
+            <date>2016-11-14 12:50:14</date>
+            <index>1</index>
+            <phrase>සාදු! සාදු!! සාදු!!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>66816</articleId>
+    <title>ඉන්දීය අගමැතිට 80 යි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  නවදිල්ලි නුවරදීය</author>
+    <date>2012 සැප්තැම්බර් මස 26 09:55:41</date>
+    <body>නව ආර්ථික ප‍්‍රතිසංස්කරණ පැකේජයක් හඳුන්වා දීමත් සමග ඉන්දීය ජනතාවගේ අප‍්‍රසාදයට ලක් වී සිටින එරට අගමැති ආචාර්ය මන්මෝහන් සිං අද (26) සිය 80 වැනි ඡුන්ම දිනය සමරයි.
+ඉන්දියාවේ ප‍්‍රථම සීක් අගමැතිවරයා ද වන සිං, ජනතා අප‍්‍රසාදයට පත් වූයේ ඔහුගේ කොංග‍්‍රස් පක්ෂය ප‍්‍රමුඛ සන්ධාන රජයේ දූෂණ වංචා සහ නව ආර්ථික ප‍්‍රතිසංස්කරණ පැකේජය නිසාය.
+නිර්මල දේශපාලනඥයකු ලෙස ප‍්‍රකට සිංට එරෙහිව ඉන්දියාව පුරා විරෝධතා රැළි පැවැත්වෙයි. 2014 දී පැවැත්වීමට නියමිත මහ මැතිවරණයේ දී අගමැති ධුරයට සමු දීමට ද සිං සූදානමින් සිටින බව ඉන්දීය පුවත් සේවා වාර්තා කරයි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-26 13:52:03</date>
+            <index>0</index>
+            <phrase>වෙන්න බෑ..තාම කොල්ලා වගේනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-09-26 16:59:09</date>
+            <index>1</index>
+            <phrase>ඔබට දීර්ඝායු ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-09-26 19:18:47</date>
+            <index>2</index>
+            <phrase>ඉන්දියාවේ ප්‍රථම සික් අගමැතිවරයා චරන් සිං නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

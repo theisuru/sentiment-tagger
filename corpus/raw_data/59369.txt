@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59369</articleId>
+    <title>පැරැණි කොටි අඩවියේ අවි පත්තුවේ</title>
+    <author>පි‍්‍රයන්ත හේවගේ</author>
+    <date>2012 අගෝස්තු මස 17 13:10:57</date>
+    <body>මුලතිව්හි බටහිර තන්නිඋත්තුවේ දී යතුරු පැදියකින් ආ නාඳුනන තුවක්කුකරුවකු බාලසුන්දරම් ගිරිදරන් (44) නම් වැසියකුට වෙඩි තබා පළාගිය බව මුල්ලාවේලි පොලිසිය කියයි. පිස්තෝලයක් වැනි කුඩා අවියකින් වෙඩි තබා ඇත. තුවාලකරු මංචෝලේ රෝහලට ඇතුළු කරනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>ඉශාන්</author>
+            <date>2012-08-17 13:40:55</date>
+            <index>0</index>
+            <phrase>ආයෙත් ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-17 21:37:49</date>
+            <index>1</index>
+            <phrase>සුළු කොට නොතැකිය යුතුය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-17 21:43:42</date>
+            <index>2</index>
+            <phrase>එල එල ඔහොම යන් .ඕක පිටින්දාලා හමුදා කදවුරු ටික ඔහොමම තියාගතහැකි ඔය පැත්තේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-08-18 14:16:36</date>
+            <index>3</index>
+            <phrase>ප්‍රවීන් හමුදා කදවුරු ඉවත් කර ගන්න කියලද තමුන් කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

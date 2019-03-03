@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>216710</articleId>
+    <title>කංසා හේන ගිනි දෙවියාට</title>
+    <author>එන් පියරත්න</author>
+    <date>2014 මාර්තු මස 13 12:09:23</date>
+    <body>යාල ජාතක වනෝද්‍යානයේ කොච්චිපතානේ කංසා හේනක් වටලා කංසා  කිලෝ පනහක් සොයා ගත් බව පොලීසිය  කියයි.
+කංසා හේනට ගිනි තැබු බවද කියති.
+ 
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>දේශාන්</author>
+            <date>2014-03-13 18:18:46</date>
+            <index>0</index>
+            <phrase>මේවා නම් කොච්චර ගිනි තිබ්බත් කමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

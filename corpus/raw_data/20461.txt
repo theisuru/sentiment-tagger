@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20461</articleId>
+    <title>නෙළුන්දෙණියේ ‘ඩීසල් ඇළක්‘</title>
+    <author>සීබී ගම්ලත්</author>
+    <date>2012 ජනවාරි මස 04 13:02:16</date>
+    <body>මුතුරාජවෙල සිට පේරාදෙණිය තෙල් ගබඩාවට ඩීසල් රැගෙන ගිය බවුසරයක් නෙළුන්දෙණිය බටපොදැල්ලේ දි පෙරැලී ඩීසල් ඇළකට ගලන්නට විය. ලීටර් තුන්දහසක් එහි තිබිණි. බවුසරය මාර ගසක වැදීමෙන් පියන් විවෘත වී තෙල් ගලා යන්නට විය.</body>
+    <comments>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-01-04 13:08:33</date>
+            <index>0</index>
+            <phrase>මේ මගේ ගම, ඉස්සර ඉදන්ම ඔන්න ඔය වංගුවේ හැමදාම රිය අනතුරු වෙනවා. රියැදුරන් මීට වඩා පරිස්සම් විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-01-04 13:14:47</date>
+            <index>1</index>
+            <phrase>හොද ළමයි ටික පොලිසිය ඉදිද්දීත් පෝලිමේ ගිහින් ඩිසල් ගන්නවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙමා</author>
+            <date>2012-01-04 13:54:53</date>
+            <index>2</index>
+            <phrase>තෙල් අරන් ඔයගොල්ලන් දූෂිතයෝ වෙන්න එපා. ඇළ දූෂණය කළාට දූෂිතයන්ගෙන් වන්දි ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>slinda.com</author>
+            <date>2012-01-04 14:02:25</date>
+            <index>3</index>
+            <phrase>අහල පහල අයට අවුරුදු සරු පාටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-01-04 14:10:29</date>
+            <index>4</index>
+            <phrase>හා හා වෙසක් දන්සැලක් වත් දෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනස්</author>
+            <date>2012-01-04 14:42:46</date>
+            <index>5</index>
+            <phrase>මෙහි පාඩුව ජනතාව දරන්න වෙයිද දන්නේ නෑ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-01-04 14:54:42</date>
+            <index>6</index>
+            <phrase>සම්පූර්ණයෙන් පිරුණු බවුසරයක් නිකන් පෙරළෙන්නේ නැහැ. මේ වගේ ලොකු සහ අනතුරුදායක වාහන පාරේ යන්නේ ත්‍රීවීල් වගේ. මේවා ධාවනය කරවන රියැදුරු මහත්තුරු මීට වඩා බොහොම සැලකිල්ලෙන් ධාවනය කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නවීර</author>
+            <date>2012-01-04 15:32:58</date>
+            <index>7</index>
+            <phrase>බවුසරය ගිනිගෙන පුපුරා යාමට පුලුවනි. මෙවැනි අවස්ථාවක කළ යුත්තේ එය වටා සලකුණු කොට ආරක්ෂිත ස්ථානයක් කිරීමයි. කිසිම පුද්ගලයකුට ඒ අසළට පැමිණීමට ඉඩ නොදිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-01-04 15:39:31</date>
+            <index>8</index>
+            <phrase>2012 අය වැයට ත්‍රීවීල් ඩීසල් සහන ඉවතට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

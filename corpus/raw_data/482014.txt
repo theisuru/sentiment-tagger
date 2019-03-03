@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>482014</articleId>
+    <title>විමල්ට එරෙහි නඩු විභාගය මාර්තු 10</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 21 11:55:39</date>
+    <body>‘නැත්ත වෙනුවට ඇත්ත‘ නමින් පොතක් මුද්‍රණය කිරීමෙන් බුද්ධිමය දේපළ පනත උල්ලංඝණය කළැයි පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතාට එරෙහිව ජනතා විමුක්ති පෙරමුණේ ලේකම් ටිල්වින් සිල්වා මහතා ගොනු කළ නඩුව ලබන වසරේ මාර්තු 10 සහ 15 දෙදින විභාගයට ගැනීමට කොළඹ වාණිජ මහාධිකරණ විනිසුරු ශිරාන් ගුණරත්න මහතා අද නියෝග කළේය.
+නඩුව අද විභාගයට ගැනීමට නියමිතව තිබූ අතර විමල් වීරවංශ මහතා අධිකරණයට දැන්වූයේ අද පාර්ලිමේන්තුවට සහභාගී වීමට ඇති නිසා වෙනත් දිනයක් ලබා දෙන ලෙසයි.</body>
+    <comments>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2016-11-21 07:31:03</date>
+            <index>0</index>
+            <phrase>වෙහෙර ගිල්ල අයෙකුට අග්ගලා ගෙඩිය ගිලීම අරුමයක්ද. රටේ දේපළ කොල්ලකෑ අයට බුද්ධිමය දේපළ සොරකම් කිරීම කජ්ජක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-11-21 15:29:44</date>
+            <index>1</index>
+            <phrase>විමල්ගෙ කාලය හොඳ මදි වගේ, මේ පොතේ ප්‍රශ්ණය, උප්පැන්නයේ ප්‍රශ්ණය, සල්ලි හම්බකල විදිය, ගෙදර මරණය... ප්‍රශ්ණ ගොඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-21 22:20:03</date>
+            <index>2</index>
+            <phrase>විමල් හිතාගෙන හිටියේ විමල්ගේ බඹරේත් වැල්ලේ වුණත් කරකැවෙනවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-11-22 03:14:16</date>
+            <index>3</index>
+            <phrase>අන්තර්ජාතික කුමන්ත්‍රණයක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

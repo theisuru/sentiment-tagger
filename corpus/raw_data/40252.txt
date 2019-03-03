@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40252</articleId>
+    <title>බීලා හෝටලේටත් හානි</title>
+    <author>ඞීජී සුගතපාල</author>
+    <date>2012 මැයි මස 03 13:40:27</date>
+    <body>උණවටුන සංචාරක හෝටලයේදී මත්පැන් බී ආරවුලක පැටලුණු විදේශිකයන් පිරිසකගේ පහරකෑමට ලක්වූ හෝටල් සේවකයෝ තිදෙනෙක් ගාල්ල කරාපිටිය රෝහලට ඇතුළු කරනු ලැබූහ. ඔවුන් හෝටලයට අලාභහානි කැර ඇත.
+යුක්රේන හා එංගලන්ත ජාතිකයෝ දෙදෙනෙක් අත්අඩංගුවට ගනු ලැබ සිටිති.
+මේ පිටරැටියන් සෝමාලියා මුහුදු කොල්ලකරුවන්ගෙන් නැව් ආරක්ෂා කිරීමේ යෙදී සිටින අය බව කියත.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-03 13:59:03</date>
+            <index>0</index>
+            <phrase>මෙ විදේශිකයන් මත්පැන් බීලා සුර්වුනාට පස්සේ මෙ හෝටල් සේවකයන්ව සෝමාලියා මුහුදු කොල්ලකරුවන් වගේ පෙවුනාද දන්නෑ. මේකත් ජාත්‍යන්තර කුමන්තුණයක් වෙන්නත් පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-05-03 15:06:35</date>
+            <index>1</index>
+            <phrase>අපේ අයගේ අත පය බැඳලද තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ලා</author>
+            <date>2012-05-03 15:19:24</date>
+            <index>2</index>
+            <phrase>පුදුම වැඩනේ වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ කේ</author>
+            <date>2012-05-03 15:55:24</date>
+            <index>3</index>
+            <phrase>මේ අයගෙත් මානව හිමිකම් කඩල කියයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බංදුල</author>
+            <date>2012-05-03 16:17:11</date>
+            <index>4</index>
+            <phrase>දැන් එන විදේශිකයන්ගේ තත්ත්වය ඕක තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-05-03 16:34:06</date>
+            <index>5</index>
+            <phrase>ඕකට තමයි කියන්නේ හොද හොටලයකින් කෑවා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

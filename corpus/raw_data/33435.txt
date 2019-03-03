@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33435</articleId>
+    <title>හොර වැඩක් කැර පොලිසියේ නවතී</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 මාර්තු මස 26 14:18:54</date>
+    <body>ජනපති ලේකම්වරයකු ලෙස පෙනී සිටිමින් මහනුවර ධර්මරාජ විදුහලට දරුවකු ඇතුළු කිරීමට රුපියල් ලක්ෂ පහක අල්ලසක් ගත්තැයි කියන පුද්ගලයකු සැකපිට අත්අඩංගුවට ගත් බව විශේෂ පොලිස් කණ්ඩායමක් කියයි. කථිකාචාර්යවරයකු ද ලේකම්වරයකු ද ලෙස පෙනී සිටි ඔහු කලක් මහණ වී සිටි බව ද පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>දයා</author>
+            <date>2012-03-26 15:01:43</date>
+            <index>0</index>
+            <phrase>බලපුවහම දැන් දැන් අපේ රටේ අපරාධ, මිනීමැරුම්, මංකොල්ලකෑම්වලට සම්බන්ධ කහසිවුරේ කලක් හිටපු අයමනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද</author>
+            <date>2012-03-26 17:44:25</date>
+            <index>1</index>
+            <phrase>හීරළුවන්ට ගිය කලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

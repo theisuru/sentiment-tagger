@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>31085</articleId>
+    <title>හොරු බැංකුවට පැන හිස් අතින් යති</title>
+    <author>ඇම්ඇස් පෙරේරා</author>
+    <date>2012 මාර්තු මස 12 14:59:46</date>
+    <body>බත්තරමුල්ල ලංකා බැංකුවේ ප‍්‍රධාන දොර කඩා සොරකු හෝ දෙන්නකු අද අලූයම එහි ඇතුළු වුවත් මුදල් කිසිත් රැගෙන යෑමට හැකිවී නැතැයි බැංකුව හා පොලිසිය කියයි.
+සැකකරුවන් සොයා ගැනීමට පොලිස් බල්ලන්ගේ සහාය ගැනෙයි.</body>
+    <comments>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-03-12 15:18:34</date>
+            <index>0</index>
+            <phrase>අපිට වෙග්ම අමාරුයි බැංකුවලටත්.. සල්ලි නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50617</articleId>
+    <title>උදේ කෑමෙන් පසුව 125 ක් රෝහලේ</title>
+    <author>ප‍්‍රසන්න පද්මසිරි</author>
+    <date>2012 ජූනි මස 28 11:55:42</date>
+    <body>හාලිඇල පාසලක  උදේ ආහාරයෙන් පසු සිසුහු 125 දෙනෙක් බදුල්ල රෝහලට ඇතුළත් කරනු ලැබුහ.</body>
+    <comments>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-06-28 12:52:06</date>
+            <index>0</index>
+            <phrase>ඇයි ඒ .?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-06-28 12:23:01</date>
+            <index>1</index>
+            <phrase>දැන් කැමත් වස විස වෙනවා වැඩියි‍. මෙවා බලධාරින් සොයා බැලිය යුතුයි ...........?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-06-28 13:52:39</date>
+            <index>2</index>
+            <phrase>ඇයි ඒ ?????????? කන්න දුන්නේ මොනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුලීප්</author>
+            <date>2012-06-28 14:06:02</date>
+            <index>3</index>
+            <phrase>කෝ අපේ PHI මහත්වරු .මේවා හොයන්නේ නැද්ද? මම දන්න ගොඩක් කඩ තියෙනවා මෙහෙම....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-06-28 13:45:20</date>
+            <index>4</index>
+            <phrase>පාසලේ දීපු කෑම වේලකින්ද මෙහෙම වුණේ. වැය පක්ෂය ඉතිරිකර ගන්න කල් පැනපු ආහාරයක් දෙන්න ඇති‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාශිනී</author>
+            <date>2012-06-28 14:26:33</date>
+            <index>5</index>
+            <phrase>ඇයි ඒ‍‍‍‍....හේතුවත් කිව්වනම් නේද හොඳ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලි ජිමා</author>
+            <date>2012-06-28 15:05:10</date>
+            <index>6</index>
+            <phrase>බදුල්ල රොහලේ ලෙඩ්ඩු අඩුයි... ඒකයි මේ වගේ කෑමක් දුන්නේ !!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-06-28 15:16:55</date>
+            <index>7</index>
+            <phrase>අනේ පව් පොඩි උන් ට ඔහොම කෑම දෙනවට වැඩිය හොදියි බඩගින්නේ මැරෙන්ඩ අරිනවා ඒක නම්බුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා සිරි</author>
+            <date>2012-06-28 15:28:14</date>
+            <index>8</index>
+            <phrase>උදේ කමෙන් පසු දරුවන් රෝහලට පාසල් චාරිකාවක් යන්ට ඇති . කලබල වෙන්ට වැඩියමක් කියල නැහැනේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-28 15:34:00</date>
+            <index>9</index>
+            <phrase>කට්ටියට කාපු කෑම එකේ බිල දැකලද දන්නේ නැ අසනීප උනේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-06-28 17:14:30</date>
+            <index>10</index>
+            <phrase>අපි ඔහොම කිවුවට ඒ ළමයින්ට ඔය කෑම වේල හරියට වටිනවා.කවුරුවත් මේ ලෝකේ සර්ව සම්පූර්ණ නෑනේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයන බණ්ඩාර</author>
+            <date>2012-06-28 17:45:31</date>
+            <index>11</index>
+            <phrase>ළමයින්ට දෙන්න පෙර කෑම හදපු අය කල වෙලාවක් ගත උනාට පස්සේ ළමයින්ට කෑම දුන්න නම් එක අයෙක් විතරයි රෝහලට යන්නේ මම නම් කලේ එහෙමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-06-28 18:35:42</date>
+            <index>12</index>
+            <phrase>දියවන්නාවේ පැත්තෙත් මෙහෙම වුනොත් කොහොමට තියෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-06-28 20:01:51</date>
+            <index>13</index>
+            <phrase>බොරු වැඩ වලට වායදම් නොකර දුප්පත් මිනිස්සුන්ගේ බඩගින්න නිවන්න මොකක් හරි කළොත් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-06-28 20:06:56</date>
+            <index>14</index>
+            <phrase>ජලයේ ප්‍රශ්නයක් ඇති ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-28 21:23:51</date>
+            <index>15</index>
+            <phrase>දරුවන්ට කෑම ලබා දෙනකොට ප්‍රවේශම් වෙන්න.මුදල් වාසි ලාභ ගැන පමණක්ම නොසිතා මුදලට ලබාගත නොහැකි අනාගත පරපුර පිළිබඳව දැඩි අවධාන යොමුකර ක්‍රියාකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-28 20:44:46</date>
+            <index>16</index>
+            <phrase>දරුවන්ට කෑම ලබා දෙනකොට ප්‍රවේශම් වෙන්න.මුදල් වාසි ලාභ ගැන පමණක්ම නොසිතා මුදලට ලබාගත නොහැකි අනාගත පරපුර පිළිබඳව දැඩි අවධාන යොමුකර ක්‍රියාකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ති</author>
+            <date>2012-06-29 09:38:25</date>
+            <index>17</index>
+            <phrase>ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බබා</author>
+            <date>2012-06-29 09:50:42</date>
+            <index>18</index>
+            <phrase>"හාලිඇල පාසලක උදේ ආහාරයෙන් පසු සිසුහු 125 දෙනෙක් බදුල්ල රෝහලට ඇතුළත් කරනු ලැබුහ." මොකෝ ඒ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2012-06-29 09:51:34</date>
+            <index>19</index>
+            <phrase>සියල්ල සිදු වන්නේ දෙවියන්ගේ කැමැත්ත අනුවය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-06-29 14:10:40</date>
+            <index>20</index>
+            <phrase>මාර කෑමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

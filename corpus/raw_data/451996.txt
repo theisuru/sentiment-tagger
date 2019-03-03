@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451996</articleId>
+    <title>උපාලි තෙන්නකෝන්ට පහර දුන් සැරයන් රිමාන්ඩ්</title>
+    <author>ටොන් කරුණානායක</author>
+    <date>2016 අගෝස්තු මස 29 10:57:56</date>
+    <body>රිවිර හිටපු කර්තෘ උපාලි තෙන්නකෝන් මහතාට පහර  දුන්නැයි කියන සිද්ධිය සම්බන්ධයෙන් යුද හමුදා  බුද්ධි අංශයේ හිටපු මාණ්ඩලික සැරයන් ප්‍රේම් ආනන්ද උදලාගම සැප්තැම්බර් 9 වැනි දා දක්වා රිමාන්ඩ් කිරිමට ගම්පහ ප්‍රධාන මහේස්ත්‍රාත් කාවින්දා නානයක්කාර මෙනවිය නියෝග කළාය.</body>
+    <comments>
+        <comment>
+            <author>අමර</author>
+            <date>2016-08-29 06:14:56</date>
+            <index>0</index>
+            <phrase>රණවිරුවන්ගේ නාමයෙන් අහිංසක මිනිසුන්ව මරන්නට පහරදීම හෙළා දකිනවා. මොවුන් අපේ ත්‍රිවිධ හමුදාවටම නින්දාවක්. මොවුන්ට දඬුවම් දී සත්‍ය හෙළි කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-29 08:50:29</date>
+            <index>1</index>
+            <phrase>මෙයාටත් කුට්ටියක් හම්බ වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-08-29 10:22:21</date>
+            <index>2</index>
+            <phrase>මේ කරන්නේ ඇත්තම පරික්ෂණයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

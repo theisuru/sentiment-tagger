@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49744</articleId>
+    <title>කාරය අධිවේගයේදී ඇළේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජූනි මස 24 07:48:41</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ කොට්ටාව පිටවීමේ දොරටුව අසල ඇළට අද අලුයම කාරයක් වැටුණු නමුත් එහි සිටි කිසිවකු තුවාල නොලබා බේරුණු බව පොලීසිය කියයි.
+අකුරැස්සේ සිට එමින් සිටි කාරයක් මේ අනතුරට පත් විය.</body>
+    <comments>
+        <comment>
+            <author>විහග</author>
+            <date>2012-06-24 08:22:56</date>
+            <index>0</index>
+            <phrase>තුවාල උනේ නැතිනම් අවුලක් නැ…~!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැන්ඩිබෝයි</author>
+            <date>2012-06-24 08:55:54</date>
+            <index>1</index>
+            <phrase>ආරක්ෂාවට දෙපැත්තෙ තියෙන යකඩ වැට නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2012-06-24 09:48:59</date>
+            <index>2</index>
+            <phrase>අපරාදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකල බුජන්</author>
+            <date>2012-06-24 09:15:36</date>
+            <index>3</index>
+            <phrase>නාන්න හිතිලා වෙන්නැති කාලෙකින් නැ වතුර ටිකක් දැක්කේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම</author>
+            <date>2012-06-24 10:12:18</date>
+            <index>4</index>
+            <phrase>තවම ලංකාවේ අයට අධිවේග මාර්ග ගැන දැනුමක් නෑ. තව වසර කිහිපයකින් මේ වගේ අනතුරු සිදුවීම අඩුවේවි කියල හිතෙනවා. කොහොම වුනත් රියපදවන අයත් මාර්ග නීති විතරක් නෙවෙයි එහි සදාචාරය ගැනත් හිතනව නම් තවත් හොද වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-24 12:25:43</date>
+            <index>5</index>
+            <phrase>තව පොඩ්ඩෙන් ඇළෙන් එගොඩ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-06-24 13:01:32</date>
+            <index>6</index>
+            <phrase>යකඩ වැටක් නැති උන එක හොදයි. නැත්තම් ඒකට ගෙවනකම් කාරෙක දෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-06-24 15:03:19</date>
+            <index>7</index>
+            <phrase>ඇළ වැඩිය ගැඹුරු නැති නාසා ඇති ඔයින් ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුප්පතා</author>
+            <date>2012-06-24 18:23:20</date>
+            <index>8</index>
+            <phrase>"ඇලියෝන්" වර්ගයේ කාර් එකක් වගේ පේන්නේ..අපරාදේ ලකෂ 60 අධික වාහනයක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී .රත්නායක</author>
+            <date>2012-06-24 22:16:56</date>
+            <index>9</index>
+            <phrase>ඔකතමයි කියන්නේ ආරක්ෂක පටි දන්න කියල , බේරුනේ එකයි. අනික අලුත් වාහන වලට වතුර යන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩ්‍රයිවර්</author>
+            <date>2012-06-25 01:16:42</date>
+            <index>10</index>
+            <phrase>කාර් එක වතුරේ ගියා, මඩ වතුර නාගෙන ගොඩ ආවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-06-25 01:30:05</date>
+            <index>11</index>
+            <phrase>අධිවේගී වුණාට ‍ආරක්ෂාවක් නෑ.කෝ වැටක්? පොඩ්ඩක් එහා මෙහා වුණොත් ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාෂිණි</author>
+            <date>2012-06-25 09:07:52</date>
+            <index>12</index>
+            <phrase>කමක් නෑ. මියගියේ නැත්නම් එච්චරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ්</author>
+            <date>2012-06-25 09:27:29</date>
+            <index>13</index>
+            <phrase>වේගය සහ නොසැළකිල්ල මාරයාට අත වැනීමකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-06-25 10:56:56</date>
+            <index>14</index>
+            <phrase>කොට්ටාව පිවිසුම් මාර්ගය කියන්නේ අධිවේගී මාර්ගයේ අවසානට හෝ ආරම්භයට...එතනදිත් වේගෙන් යනවනම්.......??????????/</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයියෝ සල්ලි</author>
+            <date>2012-06-25 12:55:06</date>
+            <index>15</index>
+            <phrase>කාරය නම් ප්‍රීමියෝ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2012-06-25 13:48:28</date>
+            <index>16</index>
+            <phrase>ඕවට කියන්නේ මෝඩ ඩ්‍රයිවින් කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

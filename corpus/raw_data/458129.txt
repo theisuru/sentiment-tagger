@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458129</articleId>
+    <title>පුත්තලමටත් නියඟ : වතුර සොයා ගිහින් කිඹුලා ළිඳේ</title>
+    <author>එච්චන්දන</author>
+    <date>2016 සැප්තැම්බර් මස 15 12:28:55</date>
+    <body>පුත්තලම හා අවට වැව් අමුණු රැසක  ජලය හි දී ඇත.
+17 කණුව - රඹෑව ප්‍රදේශයේ මෙලෙස ජලය සිඳී ගිය වැවක සිටි හැළ කිඹුලකු දිය සොයමින් ගොස්  ගැඹුරු ළිඳක වැටී සිටියදී  කරුවලගස්වැව වනජීවි නිලධාරීන්, ගැමියන්ගේ ද සහයෙන් කිඹුලා ගොඩ ගෙන විල්පත්තු වනයට මුදා හළහ.</body>
+    <comments>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2016-09-15 07:13:25</date>
+            <index>0</index>
+            <phrase>ඉතුරු ගස් ටිකත් කපන්න දීලා මුළු විල්පත්තුවම එළි කරන්න මහත්තයෝ. එතකොට පුත්තලමේ කට්ටියට විතරක් නොවේ මුළු රටටම මුහුදට පැනලා මැරෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකලංක</author>
+            <date>2016-09-15 07:22:01</date>
+            <index>1</index>
+            <phrase>පවු දෙයියනේ අහිංසක සත්තු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-15 07:45:46</date>
+            <index>2</index>
+            <phrase>අයියෝ ඕවා මොනවද? ඒ වගේද කැලේ කපලා ජනාවාස හදන එක (බ) </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනත් ජයවීර</author>
+            <date>2016-09-15 07:50:43</date>
+            <index>3</index>
+            <phrase>මම ඉන්න රටේ නම් ඔය සතා මරලා කාලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-09-15 08:17:25</date>
+            <index>4</index>
+            <phrase>පව් අසරණ සත්තු! කන්න බොන්න නැතුව උන් කෙට්ටුවෙලා. කැලේට මුදාහරින්නට පෙර ඌට කන්න දීලා යවන්න. නැත්නම් ඒ සතා මැරෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-09-15 10:26:18</date>
+            <index>5</index>
+            <phrase>මෙහෙම කැලෑ කැපුවොත් මිනිසුන්ටත් මේකම තමයි වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගන්ධි</author>
+            <date>2016-09-15 10:27:20</date>
+            <index>6</index>
+            <phrase>දැන් සතුනුත් අසරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිකී</author>
+            <date>2016-09-15 14:46:56</date>
+            <index>7</index>
+            <phrase>අනේ ඔය අසරණ සතාව දියවන්නාවට වත් ගෙනිහිල්ලා දාන්න!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

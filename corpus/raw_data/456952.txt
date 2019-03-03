@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456952</articleId>
+    <title>ත්‍රි'මලේ බසයක් පෙරැළේ : 11 ක් තුවාලයි</title>
+    <author>අමදෝරු අමරජිව</author>
+    <date>2016 සැප්තැම්බර් මස 13 10:31:50</date>
+    <body>ත්‍රිකුණාමල යාපනය ලංගම බස් රිය කන්නියා උණු වතුර  ළිං අසල මාර්ග බාධකයේ දී  පෙරැළි 11 දෙනෙක් තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-13 05:42:03</date>
+            <index>0</index>
+            <phrase>විග්නේෂ්වරන්ලාට නම් මේ පෙරළීමම ප්‍රමාණවත් වෙයි බාල්දියක් පෙරළන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකලංක</author>
+            <date>2016-09-13 07:40:04</date>
+            <index>1</index>
+            <phrase>තුවාලවූවන්ට ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29043</articleId>
+    <title>කොරියා ගිය ජෝඩුවක් ගින්නෙන් මරුට</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 පෙබරවාරි මස 27 15:13:43</date>
+    <body>දකුණු කොරියාවේ කිම්පෝ නුවර ගින්නකින් ශ්‍රී ලංකාවේ යුවලක් මිය ගිය බව එරට පොලීසිය කියයි. රාගම 35 හැවිරිදි පුද්ගලයකු හා 29 හැවිරිදි කතක මියගොස් ඇතැයිද, මරණයට හේතුව සොයාගෙන නැතැයි ද එම ගොඩනැගිල්ලේ තවත් කාමර වල සිටි ශ්‍රී ලංකිකයන් ගින්නෙන් බේරීමට සමත් වූ බව ද එරට පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-02-27 15:31:50</date>
+            <index>0</index>
+            <phrase>කොරියාවේ වෙසෙන ශ්‍රී ලාංකිකයන්ට අපල කාලයක් වගේ. තමන්තේ රටේ නිදහසේ මැරෙන්න තිබ්බ අවස්ථාව.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල් කුමාර</author>
+            <date>2012-02-27 17:19:17</date>
+            <index>1</index>
+            <phrase>හිදිසි මරණය පිළිබදව කඩිනමින් සොයා බලා, දෙන්නගෙන් යැපෙන්නන්ට වන්දි මුදල් ඉක්මනින් ලබා ගන්න පුළුවන්නම් වනා හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-02-27 17:35:29</date>
+            <index>2</index>
+            <phrase>රාගම නෙමේ. කඩවත රාගම පාරෙ ගෙවල් තියෙන්නේ. කාමරේක ගින්න වෙලා තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල් පෙරේරා</author>
+            <date>2012-02-27 17:44:05</date>
+            <index>3</index>
+            <phrase>සුසන්ත, මරණයට තමන්ගේ රටේ අනුන්ගේ රටේ කියලා බේදයක් නෑ.. වෙලාව ආවාම නිදහස පැත්තකින් තියලා යන්න ඒන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී කුෂාන්ත</author>
+            <date>2012-02-27 19:34:20</date>
+            <index>4</index>
+            <phrase>මේවා දැන් අනිත් අයට දැනගන්න ලැබීම හොදයි. මමත් කොරියාවෙ වැඩ කරන කෙනෙක් ලංකාදීපයට ස්තුතියි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>elakiri</author>
+            <date>2012-02-27 21:43:54</date>
+            <index>5</index>
+            <phrase>කණගාටුදායක සිදුවීමක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරි</author>
+            <date>2012-02-27 22:09:36</date>
+            <index>6</index>
+            <phrase>මේ ගින්න ඇතිවී තිබින්නේ ගොඩනැගිල්ලක නෙමේ. කන්ටේනර් කාමරයක...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියන්</author>
+            <date>2012-02-28 01:24:37</date>
+            <index>7</index>
+            <phrase>තව ජීවත් වෙන්න තිබ්බා. පව් අහංසක මිනිස්සු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේසිංහ</author>
+            <date>2012-02-28 06:20:38</date>
+            <index>8</index>
+            <phrase>කොරියාවෙ සිටින අයට අපල නැහැ. නමුත් මරණයට හේතුව කන්ටේනරයේ විදුලි කාන්දුවීමක්. තවම පරික්ෂන නිමවි නැතත් බදාදා දවස වන විට හරියටම විස්තරය දැනගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

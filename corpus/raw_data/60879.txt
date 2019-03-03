@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60879</articleId>
+    <title>බෙල්ලන්විල පෙරහර නිමවෙයි.</title>
+    <author>සුරංජිත් පෙරේරා</author>
+    <date>2012 අගෝස්තු මස 26 11:39:59</date>
+    <body>බොරලැස්ගමුව වේරස් ගං තොටුපොළේ දී දිය කැපීමත් සමග බෙල්ලන්විල රජමහා විහාරයේ 62 වෙනි ඇසල උළෙල අද අවසන් විය. උඩරට පහතරට හා සබරගමු  නැටුම් සියකට අධික සංඛ්‍යාවක් හා අලි ඇතුන් පනහකින් පෙරහර අලංකාර විය.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>බිම්සර</author>
+            <date>2012-08-26 16:00:45</date>
+            <index>0</index>
+            <phrase>මෙය අපිට බොහෝ වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැටවල</author>
+            <date>2012-08-26 16:08:08</date>
+            <index>1</index>
+            <phrase>හරිම ලස්සනයි. සාධු සාධු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

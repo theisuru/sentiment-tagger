@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>233504</articleId>
+    <title>වෙසක් දන්සල</title>
+    <author>දීපාල් ද සිල්වා</author>
+    <date>2014 මැයි මස 14 18:14:19</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-05-14 20:35:44</date>
+            <index>0</index>
+            <phrase>අම්බලන්ගොඩ පැත්ත කොහොමත් දනට පිනට ලැදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුෂි</author>
+            <date>2014-05-14 23:11:35</date>
+            <index>1</index>
+            <phrase>බොහොම පින් ආධාර දුන් සැමටත්, උදව් කල සියලු දෙනාටත් ...!!! ( කෝ මේවට අදහස් නැහැනේ )</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

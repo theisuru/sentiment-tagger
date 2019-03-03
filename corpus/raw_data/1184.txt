@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>1184</articleId>
+    <title>නොච්චියාගමට දැඩි ආරක්ෂාව</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 අගෝස්තු මස 24 15:56:40</date>
+    <body>මැර කල්ලියකට මැදි වී පුත්තලමේ දී ඝාතනයට ලක්වූ සැරයන් නවරත්න බණ්ඩාගේ මළගම නොච්චියාගම ජයගම සුසාන භූමියේ දී අද (24) පස්වරු තුනට පැවැත්වීමට නියමිතය. මේ ඝාතනය හෙළා දකිමින් නගරයට එමින් සිටි උද්ඝෝෂකයන් සිය ගණනක් නොච්චියාගම පොලිසිය අසල දී නතර කළ බව පොලිසිය කියයි. නගරයේ කඩසාප්පු වසා තිබේ. යුද හමුදාව හා පොලිස් විශේෂ කාර්ය බළකාය ද පොලිසියට අමතරව නගරයට කැඳවා ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2011-08-24 16:06:23</date>
+            <index>0</index>
+            <phrase>රටේ වැදගත් පත්තරයක් විදියට ඇත්තම කියන්නකෝ.............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ruwan</author>
+            <date>2011-08-25 12:55:14</date>
+            <index>1</index>
+            <phrase>තවත් විස්තර දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

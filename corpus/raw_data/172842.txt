@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>172842</articleId>
+    <title>දිනක් ගත කරන්න එන්න....කබරගල  රමණීය වන අරනට</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 සැප්තැම්බර් මස 28 15:05:58</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අසෝක</author>
+            <date>2013-09-29 14:51:42</date>
+            <index>0</index>
+            <phrase>මෙම ස්ථානයේ දීන දෙක තුනක් අපට භාවනා කිරීම සදහා නැවතීමට පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2013-10-01 01:09:04</date>
+            <index>1</index>
+            <phrase>ලංකාවට පැමිණි විට මෙම ස්ථානයේ භාවනා කිරීමට අවසර ගත යුත්තේ කාගෙන්දැයි කරුණාකර කියන්න. ස්තුතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2013-10-07 08:04:35</date>
+            <index>2</index>
+            <phrase>සිත නිවන දසුනක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

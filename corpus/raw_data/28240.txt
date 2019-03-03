@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28240</articleId>
+    <title>මළවුන්ටත් ඉන්න නොදේ</title>
+    <author>කුෂාන් ජයවර්ධන</author>
+    <date>2012 පෙබරවාරි මස 22 17:14:30</date>
+    <body>මඩාටුගම කොටාගල පොදු සුසාන භූමියේ පරණ සොහොන් හතරක් හාරා ඇඳුම් තැන තැන දමා ඇතැයි එහි සමගි අන්‍යොධාර සංගමය කැකිරාව පොලීසියට පැමිණිලි කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-02-22 17:51:08</date>
+            <index>0</index>
+            <phrase>කවද හරි ඔතනට යන්න වෙනවා. ගියාම කොහොමද ඉන්නෙ කියලා බලාගන්න හාරන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

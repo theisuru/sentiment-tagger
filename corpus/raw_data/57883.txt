@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57883</articleId>
+    <title>එජාප නීතිඥ සංගමයටත් වාරණයක්</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අගෝස්තු මස 09 12:26:22</date>
+    <body>එක්සත් ජාතික පක්ෂයේ ජාතික නීතිඥ සංගමයට නිලධරයන් පත් කිරීම බල රහිත කරමින් කොළඹ දිසා විනිසුරු ධම්මික ගනේපොළ මහතා අද අතුරු වාරණයක් නිකුත් කෙළේය. ලබන 23 වැනි දා උසාවියේ පෙනී සිටින ලෙස ද  එහි නිලධරයනට නියෝග කෙළේය. හිටපු මන්ත්‍රී මහේන් ගුණසේකර මහතා එම අතුරු වාරණය ඉල්ලා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>නෆ්හාන්</author>
+            <date>2012-08-09 13:04:21</date>
+            <index>0</index>
+            <phrase>එක්සත් ජාතික පක්ෂයම දේශපාලනයෙන් වාරණය වෙලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2012-08-09 13:31:46</date>
+            <index>1</index>
+            <phrase>නියමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්සාර්</author>
+            <date>2012-08-09 13:34:26</date>
+            <index>2</index>
+            <phrase>රනිල් මහත්තයා නැත්නම් මේ සියලුම ප්‍රශ්න ඉවර වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-09 14:07:56</date>
+            <index>3</index>
+            <phrase>ඇති වැඩකුත් නැහැ. ඒත් නිකන් ඉන්නෙත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Sahehar Dawood</author>
+            <date>2012-08-09 15:21:32</date>
+            <index>4</index>
+            <phrase>පක්ෂයටත් වාරණයකළොත් නිමයි.. විහිළු නෙමෙයි ප්‍රධාන පක්ෂයක් මෙහෙම වෙනවානම් අනේ මංදා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-09 17:04:53</date>
+            <index>5</index>
+            <phrase>රනිල්, නොසැළෙන නායකයෙක් වෙන්න හිතට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-08-09 17:32:25</date>
+            <index>6</index>
+            <phrase>රනිල් මහත්තයත් මහජන මතයට කන් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලිකා</author>
+            <date>2012-08-09 17:34:56</date>
+            <index>7</index>
+            <phrase>මේ ගොල්ලෝ ටික දවසකින් අධිකරණ නියෝග වලින් තමන්ට ඕනෑ අය නායකත්වයට පත්කරගනීවි. අපිට නම් පෙනෙන්නේ මේ දෙගොල්ලෝම ආණ්ඩුවට කැමතියි වගේ. මෙච්චර රටේ ප්‍රශ්න තියෙද්දී ඡන්දයක් වෙලාවේ පක්ෂය ඇතුළේ ගැටළු ඇතිකරනවා. සමහර මාධ්‍ය 'බ්රේකින් නිවුස්' දාලා රටට ම පෙන්නනවා. රටේ විපක්ෂයක් නැහැ. මහජනතාව මේ ප්‍රෝඩාකාර දේශපාලකයින් පන්නා දමා නව පාලනයක් බිහි කර ගන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරේශ්</author>
+            <date>2012-08-09 18:38:05</date>
+            <index>8</index>
+            <phrase>18 වාරයක් ජනතාව එපා කියද්දිත් නායකත්වය අත හැරලා ,ජන මතයට ගරු නොකර ඉන්නේ නියම මහත්වරු නම් නොවේ.තණ්හාව වේදනාවේන් කෙලවර වන්නේ වේදනාවෙනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-08-09 18:50:19</date>
+            <index>9</index>
+            <phrase>ගරු රනිල් මහත්තයාණෙනි, එක්සත් ජනතා පාක්ෂිකයන්ට කන් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

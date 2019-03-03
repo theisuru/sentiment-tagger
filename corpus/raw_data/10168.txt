@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>10168</articleId>
+    <title>හිරේට කුඩු යන තව පාරක් අසුවේ</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 ඔක්තෝබර් මස 22 18:58:48</date>
+    <body>හෙරොයින් කුඩු පැකට්ටුවක් සමග බොරැල්ල මැගසින් බන්ධනාගාරයේ සුළු සේවකයකු බොරැල්ල පොලිසිය අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප‍්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-10-22 20:04:21</date>
+            <index>0</index>
+            <phrase>මේ වගේ අය තමයි එල්ලුම් ගහට යවන්න ඔන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීන්</author>
+            <date>2011-10-23 11:28:49</date>
+            <index>1</index>
+            <phrase>. ලංකාදීප අන්තර්ජාල පුවත්පත වෙනදා විදියට පල කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

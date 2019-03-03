@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>438957</articleId>
+    <title>පිළියන්දල පැත්තේ වැට් විරෝධය උතුරයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ජූලි මස 20 11:45:03</date>
+    <body>කැස්බෑව, පිළියන්දල, බෝකුන්දර වෙළඳ ප්‍රජාව හා පාරිභෝගික එකමුතුව සංවිධානය කළ වැට් බදු විරෝධී උද්ඝෝෂණයක් අද (20) පිළියන්දල නගරයේ දී පැවැත් විණ.
+පිළියන්දල නගරයේ පොදු වෙළඳ සැල ඇතුළු සියලුම වෙළඳසල් උද්ඝෝෂණයට සහාය පළ කරමින් වසා තැබිණි.</body>
+    <comments>
+        <comment>
+            <author>සංක</author>
+            <date>2016-07-20 07:12:18</date>
+            <index>0</index>
+            <phrase>වැට් අඩුකළා නේද? එ්ක ගැන මිනිස්සු දන්නේ නැද්ද? නැත්නම් සංවිධානය කරපු එක ඔහේ දිගටම කළාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවරත්න</author>
+            <date>2016-07-20 07:14:11</date>
+            <index>1</index>
+            <phrase>මෙයාලා වැට් කියන්නේ මොකක්ද කියලා දන්නේ නැහැ වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-07-20 07:24:02</date>
+            <index>2</index>
+            <phrase>මේකෙනම පේනවා වැට් ගැන තියන අවබෝධය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-07-20 07:26:31</date>
+            <index>3</index>
+            <phrase>අනිල්, අඩුකළේ තාවකාලිකව. වැඩිකරලා තියෙන්නේ නිතිවිරෝධිව බව අධිකරණය තීන්දු කරපු නිසා, විමල්ගේ පෙත්සමෙන්. දැන් ආණ්ඩුවෙන් පනතක් ගෙන්නන්නේ ලෑස්තිය අාපහු වැට් වැඩිකරන්න. එ්ක වෙන්නැති උද්ඝෝෂණ කරන්නේ, ගෙනෙන්න යන පනතට එරෙහිව. තේරුනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2016-07-20 07:40:25</date>
+            <index>4</index>
+            <phrase>දේශපාලුවන්ගේ උවමනාවට පාරට බැස්සට මෙතන ඉන්න සමහරුන්ට මෙය අදාළත් නැහැ. වෙන්නේ මොනවද කියලා දන්නෙත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝරම වීරසිංහ</author>
+            <date>2016-07-20 08:00:58</date>
+            <index>5</index>
+            <phrase>මේකේ අදහස් දාන සමහරු දන්නා දෙයක් නැහැ. වැට් අඩුවුණේ නැහැ. වැඩිවීම නීතිවිරෝධී කියලා උසාවිය කිව්වා. ආණ්ඩුව දැන් පාර්ලිමේන්තුවට පනත දැම්මා. 21 විවාදයට ගන්නවා පනත. ඉතින් ඒ පනතට විරුද්ධව මේ විරෝධය හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-07-20 08:14:37</date>
+            <index>6</index>
+            <phrase>ජය වේවා , අපේ ගමේ විරෝදයට සුබ පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-07-20 08:16:27</date>
+            <index>7</index>
+            <phrase>වැට් එකට අපිත් විරුද්ධයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2016-07-20 08:17:08</date>
+            <index>8</index>
+            <phrase>ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-07-20 10:45:31</date>
+            <index>9</index>
+            <phrase>මෝඩ වැඩ.එක එක්කෙනාගේ උවමනාවට වෙන වැඩ තම මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ෂාන්</author>
+            <date>2016-07-20 12:55:33</date>
+            <index>10</index>
+            <phrase>මේ අය නිසා තමයි ජනතාව දුක් විඳින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-07-20 14:54:09</date>
+            <index>11</index>
+            <phrase>නොදන්නා මිනිස්සු මේවට අදහස් නොදා ඉන්න . මේ මිනිස්සුන්ට වැට් ගැහුවා කියල ප්‍රශ්නයක් නැහැ. එයාල ඒවා භාන්ඩ වල මිලට එකතු කරනවා කොහොම හරි. එතකොට කව්ද අන්තිමට ඒවා ගෙවන්නේ? දැන්වත් කට වහන් ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්</author>
+            <date>2016-07-21 12:06:16</date>
+            <index>12</index>
+            <phrase>වැට් පෙළපාලියට අපිත් එක් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

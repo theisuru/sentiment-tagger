@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>444819</articleId>
+    <title>බැරි වැඩ නොකරන් අබරෝ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 05 17:17:37</date>
+    <body>රියදුරා කෑමට ගිය අවස්තාවේ ක්ලීනර් ලොරිය පදවා, නවතා තිබූ වාහන 9 ක හප්පා ඇතැයි ද එක් අයෙකු තුවාල ලබා ඇතැයි ද පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>මොහමඩ් රිස්වාන් සව්දි අරාබිය</author>
+            <date>2016-08-05 13:00:48</date>
+            <index>0</index>
+            <phrase>මේක වෙලා තිබෙන්නේ ලංකාවේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-08-05 15:28:30</date>
+            <index>1</index>
+            <phrase>පවු! ආසාවට පදවන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-08-05 15:50:27</date>
+            <index>2</index>
+            <phrase>මොහමඩ් රිස්වාන්, මේක සෞදි අරාබියේ වුණා නම් ක්ලීනර්ගේ බෙල්ල කපා දැම්මා කියලත් තියේවි. මේක වුණේ ලංකාවේ හොඳේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-08-05 18:09:05</date>
+            <index>3</index>
+            <phrase>ක්ලීනර් ලොරිය පදවාගෙන යන්න හැදුවේ ආසාවටනේ. කවදාවත් වාහනයක් ගන්න වත්කමක් නැති අය අනුන්ගේ වාහනයක් පදවා හෝ සතුටු වෙනවානේ. එහෙම නැතුව ලොරිය හොරකම් කරන්න හැදුවා නම් මේකාට දඬුවම් දිය යුතුවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු</author>
+            <date>2016-08-05 21:02:47</date>
+            <index>4</index>
+            <phrase>බලපත්‍ර නොමැති අයකුට වාහනය පණගන්වන යතුර දීම රියදුරුගේ වරදකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-08-05 22:01:09</date>
+            <index>5</index>
+            <phrase>මොහමඩ් රිස්වාන්, ලොරියක "ක්ලීනර්" කියන රස්සාව නම් තියෙන්නේ ලංකාවේ විතරමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-08-06 00:07:47</date>
+            <index>6</index>
+            <phrase>ඇයි මොහොමඩ්, සෞදියේ ලොරිවලත් ක්ලීනර්ලා ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆර්සාන්</author>
+            <date>2016-08-06 10:45:29</date>
+            <index>7</index>
+            <phrase>ජයතු, ලංකාවේ රියදුරු රැකියාව කරන බොහෝ අය අත හුරු කරගෙන තියෙන්නෙ ඔහොම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු- සෞදි අරාබිය</author>
+            <date>2016-08-06 20:48:33</date>
+            <index>8</index>
+            <phrase>ෆර්සාන්, ඒ කතාවෙත් ඇත්තක් තියෙනවා. පෞද්ගලික බස් රථවල කොන්දොස්තර රැකියාවට එන අය ටික දවසකින් රියදුරු වෙනවා. එ්කනේ ලංකාවේ රිය අනතුරු වැඩි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

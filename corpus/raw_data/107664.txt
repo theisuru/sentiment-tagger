@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>107664</articleId>
+    <title>ඇමෙරිකා හමුදා ගුවන් ප‍්‍රහාරයට ඇෆ්ගන් දරුවෝ 11 ක් බිලිවෙති</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  කාබුල් නුවරදීය</author>
+    <date>2013 අපේ‍්‍රල් මස 09 00:00:44</date>
+    <body>ඇමෙරිකානු හමුදාව එල්ල කළ ගුවන් ප‍්‍රහාරයකින් ඇෆ්ගන් සිවිල් වැසියන් පිරිසක් පෙරේදා (7) ජීවිතක්ෂයට පත් වූ අතර එම පිරිස අතර කුඩා දරුවෝ 11 දෙනෙක් සිටිති. ප‍්‍රහාරයෙන් මියගියේ අවුරුදු 1 සිට 8 තෙක් වයස්වල දරුවන් බවත් එම ප‍්‍රහාරය තමන් තරයේ හෙළා දකින බවත් ඇෆ්ගන් ජනාධිපති හමීඞ් කර්සායි ඇමෙරිකාවට දොස් පවරමින් කියයි. පෙරේදා එම ගුවන් ප‍්‍රහාරය එල්ල වූයේ ෂිගාල් දිස්ති‍්‍රක්කයේ නැගෙනහිර කුනාර් පළාතේ ගම්මානයකටය.  ඇමෙරිකා හමුදාව කියා සිටියේ තමන් අල් කයිඩා සටන්කාමීන් ඉලක්ක කර ගනිමින් පහර දුන් බවය. ඇෆ්ගන් රජය පවසන්නේ සිවිල් වැසියන් මියගියත් ප‍්‍රහාරයෙන් අල් කයිඩා සටන්කාමීන් කිසිවකු මියගොස් නොසිටි බවය. සිදුවූයේ ඉතා අවාසනාවන්ත සිදුවීමක් යැයි ඇමෙරිකා හමුදාව පවසයි.</body>
+    <comments>
+        <comment>
+            <author>දම්</author>
+            <date>2013-04-09 06:29:38</date>
+            <index>0</index>
+            <phrase>කෝ මේ මානව හිමිකම්? පහත් තැනින් ජලය ගලා බසී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2013-04-09 06:59:57</date>
+            <index>1</index>
+            <phrase>කෝ දැන් මානව හිමිකම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනා</author>
+            <date>2013-04-09 07:22:58</date>
+            <index>2</index>
+            <phrase>කුඩා දරුවෝ මියගියත් ඇමෙරිකාව මානව හිමිකම් රකිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-04-09 08:38:23</date>
+            <index>3</index>
+            <phrase>ඇමරිකන් දෙවියන්ගෙයි, ඇප්ගන් දෙවියන්ගෙයි කැමැත්ත. අහිංසක ළදරුවන් පලි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහ පුත්‍ර</author>
+            <date>2013-04-09 09:50:25</date>
+            <index>4</index>
+            <phrase>ඇමරිකාවේ මේ කැත වැඩ පෙනෙන්නේ නැති අයට නම් හොදක් වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ රංග</author>
+            <date>2013-04-09 10:18:30</date>
+            <index>5</index>
+            <phrase>මේක අත්වැරැද්දක් අවාසනාවන්ත සිදුවීමක් අපේ රටේ උනේ මානව හිමිකම් කඩකිරීමක් මේවා මානව හිමිකම් කඩවීමක් නෙවේ ඔකටතමයි කියන්නේ අනුන්ගේ ගෙදර ප්‍රශ්න ගැන බලන්නැතුව තමන්ගේ ගෙදර ප්‍රශ්න හදාගන්න කියල දැන් ටී . එන් . ඒ එකට පුළුවන් ඇමරිකාවට විරුද්දව ජිනීවා යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2013-04-09 11:01:41</date>
+            <index>6</index>
+            <phrase>ජිනිවා ජිනිවා .....................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

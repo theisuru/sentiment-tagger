@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>277409</articleId>
+    <title>දඹුලු ගොවියෝ මහ පාරට ලුනු දමති</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2014 නොවැම්බර් මස 23 10:29:58</date>
+    <body>ඉන්දියාවෙන් හා පකිස්ථානයෙන් ලොකු ලුනු ගෙන්වා ඇතැයි කියමින් දඹුලු ලොකු ලූනූ ගොවියෝ හිටි ගමන් ආර්ථික මධ්‍යස්ථානය ඉදිරිපිට මහ පාරේ උද්ඝෝෂණක් ඇරැඹුහ.
+තම ලොකු ලුනු තොග පාරට හලමින් ඔවුහු මෙම උද්ඝෝෂණයේ නියැලී සිටිති. ලොකු ලුනු කිලෝව තොග ගණණේ රුපියල් 40 ටවත් විකුණා ගත  නොහැකි බව ගොවීහු කියති.
+කිලෝව සිල්ලර මිල රුපියල් 90-95 කි. ගොවියෝ තම ලුනු ලොරි වලින් හා ට්‍රැක්ටර වලින් බිමට දමා පාරේ අතුරමින් සිටිති.  
+ 
+
+ </body>
+    <comments>
+        <comment>
+            <author>දර්ශණ</author>
+            <date>2014-11-23 05:57:33</date>
+            <index>0</index>
+            <phrase>පුලුවන්නම් මහින්ද රාජපක්ෂව අාපහු ජනාදිපති කරන්න. මොකද කිසිම ඇමති කෙනෙකුට බැහැ එයාලට ඕනේ විදිහට වැඩ කරන්න. ඇමති වරු කියන්නේ නිකම් පඹයෝ විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක රළපනාව</author>
+            <date>2014-11-23 06:26:05</date>
+            <index>1</index>
+            <phrase>අනේ දෙවියනේ ගොවි පුතාව රජ කරවලා දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතුම්</author>
+            <date>2014-11-23 06:43:02</date>
+            <index>2</index>
+            <phrase>අපේ මෛත්‍රී මහත්තයා ගොවි මහතෙක්ගේ පුතෙක්. හැමෝම ඔහුව බලයට පත් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි දෝහා</author>
+            <date>2014-11-23 06:57:48</date>
+            <index>3</index>
+            <phrase>දැන් මහින්ද මහත්තයත් දෙපාරක්ම බලේ හිටියනේ. සිරිසේන මහත්තයටත් දීල බලන්න වෙනසකටත් එක්ක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පැරිස්</author>
+            <date>2014-11-23 06:57:48</date>
+            <index>4</index>
+            <phrase>දේශපාලකයින්ගේ උප්පරවැට්ටියක් මේක. මම දන්නවා දඹුල්ලේ ගොවියන්ගේ තරම දඹුල්ලේ හිටපු කෙනෙක් හැටියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2014-11-23 07:00:39</date>
+            <index>5</index>
+            <phrase>අපේ මෛත්‍රී මහත්තයා රජ වෙච්ච හැටියේ 250 ට කිලෝ එක විකුනන්න පුළුවන් පොඩ්ඩක් ඉවසන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පැරිස්</author>
+            <date>2014-11-23 08:36:23</date>
+            <index>6</index>
+            <phrase>"අපේ මෛත්‍රී මහත්තයා රජ වෙච්ච හැටියේ 250 ට කිලෝ එක විකුනන්න පුළුවන් පොඩ්ඩක් ඉවසන්න" අනේ එහෙනම් මෛත්‍රී මහත්තයා රජවෙන්න එපා. අපේ ගෙවල්වල ඉන්න අයට ළුණු ටිකක් තෙල් දාගෙන වේලක් පිරිමහගන්න තියෙන අවස්ථාවත් නැති වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2014-11-23 11:17:21</date>
+            <index>7</index>
+            <phrase>ඇසළ, මෛත්‍රී මහත්තය රජ වෙච්ච හැටියේ 250 ට කිලෝ එක විකුනපුවහම පාරිබෝගික අපිට කිලෝ එක ගන්න වෙන්නේ 300 ටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු අම්බලන්ගොඩ</author>
+            <date>2014-11-24 16:56:58</date>
+            <index>8</index>
+            <phrase>තොග මිල රුපියල් 40 වඩා අඩුයි. කිලෝවක සිල්ලර මිල රුපියල් 90-95යි. අතරමැදියාගෙ සාධාරණකම පෙනෙනවා නේද​? අහිංසක ගොවියාට සහ පාරිභෝගිකයාට අත්වන ඉරණම තේරුම් ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

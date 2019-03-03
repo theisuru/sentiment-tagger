@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58939</articleId>
+    <title>හෙල්ප්ඒජ් රන් සම්මානයක් දිනයි.</title>
+    <author></author>
+    <date>2012 අගෝස්තු මස 15 14:41:07</date>
+    <body>ද ලීග් ඔෆ් ඇමරිකන් කමියුනිකේෂන් ප්‍රොෆෙෂනල් විෂන් 2011-සම්මාන උළෙලේදී ලාභ නොලබන ආයතන සඳහා වූ රන් සම්මානය හෙල්ප්ඒජ් ශ්‍රී ලංකා 2011 වාර්ෂික වාර්තාවට හිමිවිය.
+2011 වර්ෂයේ මෙම ජාත්‍යන්තර සම්මාන තරගයට ලෝකයේ රටවලින් අයදුම්පත් 5500 ක් ලැබී තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-15 14:55:28</date>
+            <index>0</index>
+            <phrase>පාසල් යන කාලේ අපිත් හෙල්ප්එජ් ආයතනයට ආධාර කලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-15 15:03:49</date>
+            <index>1</index>
+            <phrase>ලංකාවට සම්මානය හිමිවිය යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දූමනී</author>
+            <date>2012-08-15 16:53:56</date>
+            <index>2</index>
+            <phrase>අපිත් පාසල් යන කාලේ හෙල්ප් එජ් ආයතනයට ආධාර කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-08-15 17:13:58</date>
+            <index>3</index>
+            <phrase>සම්මාන ගන්න ඇයි මෙයා ගියේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-15 22:44:59</date>
+            <index>4</index>
+            <phrase>ආයතනයෙන් වෙන සේවය පැසසිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් මැනිලා</author>
+            <date>2012-08-16 11:40:07</date>
+            <index>5</index>
+            <phrase>සුභ පැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-16 12:08:57</date>
+            <index>6</index>
+            <phrase>සම්මානයක් ලැබුණු එක ගැනනම් සතුටුයි. ඒත් මේ සම්මානය දීමේ මොකක් හරි යටි අරමුණක් ඇමරිකාවට තියෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

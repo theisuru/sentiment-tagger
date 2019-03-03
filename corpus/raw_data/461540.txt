@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461540</articleId>
+    <title>ගාල්ලත් අද උදේ ඩිංගක් හෙල්ලේ</title>
+    <author>සජීව විජේවීරඅමිල මධුශංකදීපාල් ද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 27 06:45:23</date>
+    <body>අද අලුයම පහයි හතලිස්පහට පමන ගාල්ල අවට හෙල්ලුම් කෑ බව වැසියෝ කියති.ගාල්ල,උණවටුන,තල්පේ වැනි ප්‍රදේශවල ගොඩනැගිලි හෙල්ලී ගිය බවත්  සුළු භූ කම්පන තත්වයක් මෙයට හේතුවන්නට ඇති බවත් බොහෝ දෙනෙක් කියති.
+මෙම භූ කම්පනයෙන් කිසිවෙකුට අනතුරක් සිදු වී නැතැයි වාර්තා වෙයි
+ 
+
+වීඩියෝ - දීපාල් ද සිල්වා</body>
+    <comments>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-09-27 01:50:58</date>
+            <index>0</index>
+            <phrase>සුනාමි තත්වයක්ද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-09-27 03:42:17</date>
+            <index>1</index>
+            <phrase>දැන්නම් විග්නේශ්වරම් දැනගනියි දකුණත් හෙල්ලෙන්න පටන් ගත්තා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2016-09-27 04:17:23</date>
+            <index>2</index>
+            <phrase>මොනවා වෙන්න යනවද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-09-27 05:53:29</date>
+            <index>3</index>
+            <phrase>සුනාමියක් නෙමෙයි ගයාන්. එහෙම එකක් නම් සන් තියන තාක්ෂණය ඇති කලින් දැනගන්න. නමුත් මේක දැනට අපට තියෙන සුළු, නමුත් අනාගතයේදී විශාල වෙන්න පුළුවන් ප්‍රශ්නයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-09-27 07:23:42</date>
+            <index>4</index>
+            <phrase>අනේ! අපේ රටටත් ලෝකේ අනෙක් රටවලටත් මෙවැනි ආපදාවන් නොමවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

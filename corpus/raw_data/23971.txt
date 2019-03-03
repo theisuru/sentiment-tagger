@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23971</articleId>
+    <title>‘රට ගිය පොලිස් සැකකරු අල්ලනු‘</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 27 18:55:32</date>
+    <body> 
+ 
+පොලිස් මත්ද්‍රව්‍ය නිවාරණ කාර්යංශයේ දී මියගිය දෙදරු පියාගේ මරණය සම්බන්ධයෙන් පොලිසියට අවශ්‍ය තෙවැනි සැකකරු ඩී.එම් රනිල් නම් පොලිස් නිලධරයා අත්අඩංගුවට ගන්නැයි කොළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා අද නියෝග කෙළේය. ඔහු මැද පෙරදිග සිටින බව උසාවියේ දී කියැවිණි. සැකකරුවන් වන  උප පොලිස් පරිකෂක රුවන් කුමාර හා කොස්තාපල් මනෝජ්  නෑහින්න පෙබරවාරි තුන් වැනිදා තෙක් යළි රිමාන්ඩ් කරනු ලැබූහ. මියගියේ මාලිගාවත්තේ දෙදරු පියෙකි.</body>
+    <comments>
+        <comment>
+            <author>gajan99</author>
+            <date>2012-01-28 09:04:50</date>
+            <index>0</index>
+            <phrase>ඇයි රට යනකම් බලාගෙන හිටියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-30 08:17:57</date>
+            <index>1</index>
+            <phrase>කාටද ඔය බොරු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

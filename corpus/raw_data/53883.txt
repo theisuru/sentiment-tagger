@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53883</articleId>
+    <title>බුලත් එපා කියා අලියාට  බුලත් දෙයි.</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජූලි මස 17 13:41:09</date>
+    <body>ඇඹිලිපිටිය ප‍්‍රාදේශීය සභාවේ සන්ධාන සභාපති විජය  විතානගේ මන්තී‍්‍රවරයා අද එක්සත් ජාතික පක්‍ෂයට එක්විය. එක්සත් ජාතික පක්‍ෂ නායක රනිල් වික‍්‍රමසිංහ මහතාගේ පිරිසිදු දේශපාලන ගමන ගැන ඇතිවු පැහැදීම නිසාත් තම  පක්‍ෂයෙන් තරුණ අදහස්වලට ඉඩ නැති නිසාත් එජාපයට එක්වූ බවත් ඉදිරියේදී බලංගොඩ ආසනයෙන් තරග කරන බවත් විතානගේ මහතා පැවැසීය.
+ඔහු  රනිල් වික‍්‍රමසිංහ මහතා අතින් අද එ.ජා.ප. සාමාජිකත්වයද ලැබීය. මහලේකම් තිස්ස අත්තනායක, රත්නපුර දිස්ති‍්‍රක් පාර්ලිමේන්තු මන්ති‍්‍රන් වන රංජන් රාමනායක හා තලතා අතුකෝරාල යන මහත්ම මහත්මීහුද මෙම අවස්ථාවට එක්වූහ.
+ </body>
+    <comments>
+        <comment>
+            <author>මාමා</author>
+            <date>2012-07-17 14:28:57</date>
+            <index>0</index>
+            <phrase>ආණ්ඩුවෙ පිරිහීමේ ආරම්භයද මේ...??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුරවැසියා</author>
+            <date>2012-07-17 14:29:32</date>
+            <index>1</index>
+            <phrase>වෙනසකට ආරම්භයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-17 13:51:42</date>
+            <index>2</index>
+            <phrase>මෙයාලා පාට මාරු කරහම අසරණ වෙන්නේ ගමේ ඉන්න ඡන්ද දායකයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-17 14:05:29</date>
+            <index>3</index>
+            <phrase>හරියට හරි ඔය තියෙන්නේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-17 14:48:21</date>
+            <index>4</index>
+            <phrase>ඉතිං ඒකනෙ කවුරුත් කියන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාද් ප්‍රීනා</author>
+            <date>2012-07-17 14:51:25</date>
+            <index>5</index>
+            <phrase>පැත්ත මාරැ ක්‍රමය ප්‍රජාතන්ත්‍රවාදී ප්‍රධාන ලක්ෂණයක් වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එලාරිස්</author>
+            <date>2012-07-17 15:00:20</date>
+            <index>6</index>
+            <phrase>නියමයි.. නියමයි.. ඔහොම යං...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2012-07-17 15:04:04</date>
+            <index>7</index>
+            <phrase>ආණ්ඩු පක්ෂයේ ඉදල විපක්ෂයට එන්න තරම් ආත්ම ශක්තියක් තියන එකට මගේ අචාරය. අනිවාර්යෙන්ම වංචා, දුෂණ, චෝදනා නැතුව ඇති,නැත්නම් මෙ වෙනකොටත් රිමාන්ඩ් කරලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-07-17 14:29:38</date>
+            <index>8</index>
+            <phrase>දැන් තමයි මොලේ වැඩකරන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-17 14:33:47</date>
+            <index>9</index>
+            <phrase>හුරුබුහුටි තරුණයෙක් නේද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-07-17 14:44:40</date>
+            <index>10</index>
+            <phrase>--------- ඡය වේවා !! ඡය වේවා !! ඡය වේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන්</author>
+            <date>2012-07-17 14:47:52</date>
+            <index>11</index>
+            <phrase>දැන් ඔය සින්දුව පරණයි වගේ...අලුත් සින්දුවක් නැද්ද ‍?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්ගි</author>
+            <date>2012-07-17 14:49:10</date>
+            <index>12</index>
+            <phrase>කාලෙකට පස්සේ හොඳ කමෙන්ට් එකක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝෂිත</author>
+            <date>2012-07-17 15:28:02</date>
+            <index>13</index>
+            <phrase>තරුන අදහස් වලට නියම තැන...නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තව නාකියෙක්</author>
+            <date>2012-07-17 15:40:56</date>
+            <index>14</index>
+            <phrase>මොකද වෙන්න යන්නෙ කියලා බලමු.. මේවා දෙපැත්තටම හොද පාඩම්.. දෙපැත්තෙම නාකි ටික ඉන්නෙ.. තරැණයිනට තැනක් දෙන්නෙම නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2012-07-17 15:09:14</date>
+            <index>15</index>
+            <phrase>මේක වෙන්න බැරි දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝලංකා</author>
+            <date>2012-07-17 15:50:30</date>
+            <index>16</index>
+            <phrase>ඇත්තටම විපක්ෂ නායක තුමාට පිරිසිදු දේශපාලන ගමන තියෙනව ද?, තරුණ අදහස්වලට ඉඩදුන්න නම් බෙරුවල රැස්විමේ දි නගරික මන්ත්‍රිවරයට ගහයිද? ඔහු තරුණ අදහස් වලට ඉඩදෙනවා නම් අද සජිත් නායකයා......විජය විතානට පෙරමුණෙන් නාම යෝජනා දිලා නැතිව ඇති.... මිණිස්සු මෝඩ නෑ මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසා</author>
+            <date>2012-07-17 15:54:29</date>
+            <index>17</index>
+            <phrase>රන්ජන් ඔයව‍ගේ තැන්වලට එනකොට ටිකක් වැදගත් විදිහට ඇදලා ආවනම් තමයි හොද නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-07-17 15:32:07</date>
+            <index>18</index>
+            <phrase>විපක්ෂ නායකතුමා ශක්තිමත් කරන්න කට්ටිය එකතු වෙන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-17 15:34:52</date>
+            <index>19</index>
+            <phrase>හරිදේ කරන්න හරි තැන ඉදලා.....ජය වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-07-17 16:29:13</date>
+            <index>20</index>
+            <phrase>තිසා, ඇදුමෙන් මිනිස්සු මනින්න බැහැ.. කොන්ඩෙ ‍පාටකරගෙන තරැණ පෙණුම අරගෙන සමහරැ කරන විනාශ පේනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-17 16:37:14</date>
+            <index>21</index>
+            <phrase>එහෙනම් වන් ෂොට්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-17 16:54:35</date>
+            <index>22</index>
+            <phrase>ඇයි මන්ත්‍රීතුමා මේ දුක හොයා ගෙන යන්නේ? ගිහි සැප ඇති වුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂා</author>
+            <date>2012-07-17 17:04:33</date>
+            <index>23</index>
+            <phrase>තානාන්තර දාලා විපක්ෂයට එනවානම් අනිවාර්යයෙන්ම පිරිසිදු දේශපාලනය කරන්න හිතලා ඇති... ජයවේවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් අල්ගේවත්ත</author>
+            <date>2012-07-17 17:20:10</date>
+            <index>24</index>
+            <phrase>අපේ ඈයෝ හිතන් ඉන්නේ බුලත් වගාවට ඉහෙන් බහින ලෙඩක් නෑ කියලා. නමුත් ඉතිං ඔන්න බබෝ බුලත් වලටත් ලෙඩේ බෝ වෙලා. හැමදාමත් නත්තල් නෑ මෙයා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රට වැසියෙක්</author>
+            <date>2012-07-17 16:48:27</date>
+            <index>25</index>
+            <phrase>සිසිර, අද කාලේ අපි වගේ ඡන්ද දායකයොත් අමාරුවේ වැටිලා ඉන්න වෙලාවක එතුමා කරන වැඩේ හරි කියල මම හිතන්නේ.ආණ්ඩු පක්ෂයේ ඉදල විපක්ෂයට එනවා කියන එක අද කාලේ හරි පුදුම දෙයක්.මම එතුමාට සුභ පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-17 17:38:58</date>
+            <index>26</index>
+            <phrase>විපක්ෂය සමග එක්උණ සරත් පොන්සේකට මොකද උනේ? අනේ මන්ද දැන දැන වලේ වැටෙනවා කියන්නෙ ඕකට තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිමන් සුවිසල්</author>
+            <date>2012-07-17 17:04:40</date>
+            <index>27</index>
+            <phrase>මෙන්න 2012 වසරේ ලොකුම බොරුව..... සන්ධානයේ තරැණයන්ට තැකක් නැත.. යූඑන්පී. හි තරුණයන්ට තැනක් ඇත... ඔය මන්ත්‍රීතුමාට අඩු අං විතරයි මයෙ හිතේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-17 17:04:44</date>
+            <index>28</index>
+            <phrase>පවු අනේ. යූ.එන්.පී. එක එන්නේ නැහැ ඩියර්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියතපාල</author>
+            <date>2012-07-17 17:13:30</date>
+            <index>29</index>
+            <phrase>රණසිංහ ප්‍රේමදාස ජනාධිපති කියන්නේ අපුර්ව නායකයෙක්. එතුමා විශේෂිත පුද්ගලයෙක්.ප්‍රේමදාසගේ පුතා කියන එක රටේ නායකයා වෙන්න තියන එකම සුදුසුකම නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-07-17 17:33:35</date>
+            <index>30</index>
+            <phrase>එහෙනං හොර බොරු නැති කෙනෙක් වෙන්න ඇති මොකද දූෂණ චෝදනා තියෙනවානම් කිසිම දාක මේවගේ තීරණයක් ගන්නෙ නැහැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-17 17:35:55</date>
+            <index>31</index>
+            <phrase>හොද තීරණයක්.රටේ හොද වෙනසක් වෙයි කියලා ඉදිරියේදී බලාපොරොත්තු තබා ගනිමු.සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-07-17 18:15:13</date>
+            <index>32</index>
+            <phrase>අනේ මෙහෙම සුපිරිසිදු නායකයෙක් ඔය කියන මහත්තය ඉපදුනේ ඊයේ වෙන්න ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුෂ්ක</author>
+            <date>2012-07-17 17:37:01</date>
+            <index>33</index>
+            <phrase>එක පක්ෂයකින් චන්දෙ ඉල්ලලා පැත්ත මාරු කරන එක වැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුණ</author>
+            <date>2012-07-17 17:48:36</date>
+            <index>34</index>
+            <phrase>ෂුවර් එකටම මොහුට දැන් දිගට හරහට දූෂන චෝදනා ඒවි. මොකද දැන් අනිත් පැත්තෙනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද ජයරත්න</author>
+            <date>2012-07-17 18:42:48</date>
+            <index>35</index>
+            <phrase>අපේ අනුරාධපුරේ එක්කෙනෙකුත් ඔය පිරිසිදු එක්කෙනාට එකතුවෙලා දැං අනාගෙන ගෙදර ඉන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-17 19:05:25</date>
+            <index>36</index>
+            <phrase>පනින එක තමයි හොද.එතකොට හැමදාම හොදම හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-17 19:15:41</date>
+            <index>37</index>
+            <phrase>කීයක් විතර තිබුනද දන්නෑ බ්‍රිෆ් කේස් එකේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>niranjan</author>
+            <date>2012-07-17 19:17:41</date>
+            <index>38</index>
+            <phrase>ජනතාවට දැන් නිදහසෙ ඉන්න පුලුවන්" මෙ වගෙ අය යු.ඵන්.පි.යට තමයි සුදුසු ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-07-17 18:48:13</date>
+            <index>39</index>
+            <phrase>......විජය විතානට පෙරමුණෙන් නාම යෝජනා දිලා නැතිව ඇති.... මිණිස්සු මෝඩ නෑ මහත්තයෝ මෙ සැරෙ මෙයා ගෙදර අරින්න ගුටි කාපු යු.ඵන්.පි කට්ටිය ලක ලැහැස්ති වෙලා ඉන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලා, singapore</author>
+            <date>2012-07-17 19:49:44</date>
+            <index>40</index>
+            <phrase>ගුත්තිල මූසිල තරගයෙන් මූසිලට වෙච්ච දේ ඔය කාට හරි වෙයි ඉදිරියේදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2012-07-17 19:32:54</date>
+            <index>41</index>
+            <phrase>මාර වැඩේ දැන් ආණ්ඩුව ඉවරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>gona</author>
+            <date>2012-07-17 19:36:36</date>
+            <index>42</index>
+            <phrase>මට නම් වචන නෑ මෙවට කියන්න දුක හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-07-17 21:14:09</date>
+            <index>43</index>
+            <phrase>අපරාදේ, මේ කොලු පැටියා දුවන කෝච්චියකට බෙල්ල තියලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2012-07-17 20:36:39</date>
+            <index>44</index>
+            <phrase>@ සිසිර,,,, අද වගේ ඉස්සෙල්ලම පාට මාරු කරනවා දැක්කේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-07-17 21:49:21</date>
+            <index>45</index>
+            <phrase>කට්ටියගෙ අදහස් දැක්කම නිකං ප්‍රාදේශිය සභා මන්ත්‍රීකෙනෙක් විපක්ෂෙට ගියාට මුළු ආණ්ඩුවම පෙරළුනාවගේනෙ.. පව් කියලත් හිතෙනවා ලබන සතු‍ට දැක්කම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියතපාල</author>
+            <date>2012-07-17 21:48:38</date>
+            <index>46</index>
+            <phrase>පෙරේරා මහත්තයෝ, ප්‍රාදේශීය සභා වල, ශාඛා සමිති වල ඉන්න මිනිස්සු තමයි මහා ලොකුවට ජීවත් වෙන ඇමතිලාව හදන්නේ. පාර්ලිමේන්තු විසුරවපුවහම ඔය ලොකු ලොකු ඇමතිලා ඉස්සෙල්ලාම එන්නේ ඔය ප්‍රාදේශීය සභා වල, ශාඛා සමිති වල ඉන්න මිනිස්සු හොයාගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-07-17 23:27:27</date>
+            <index>47</index>
+            <phrase>ලාල් ගලබඩ ඉතාලියේ සිට... විපක්ෂ නායක තුමා ඒ කාලේ දුන්නු, මල්ලිලාට බ්‍රේස්ලට් එකත් දාගෙනමයි ගිහින් තියෙන්නේ, ඊළගට නාමයෝජනා ඉල්ලා ගෙන එන්නේ චුයින්ගම් කන සීයා කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-07-17 23:00:17</date>
+            <index>48</index>
+            <phrase>තරුණයින්ට තැනක් දෙන නිසයි කියන්නේ යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-18 01:11:31</date>
+            <index>49</index>
+            <phrase>රනිල් කියන්නේ හොද නයකයක් . ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනොහරෙන්</author>
+            <date>2012-07-18 01:48:03</date>
+            <index>50</index>
+            <phrase>මම මේ ආණ්ඩුවේ පිරිහීම නොවෙයි රටේ ජනතාව කියන අයගේ පිරිහීම .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඕපාදුප ප්‍රනාන්දු පදොව</author>
+            <date>2012-07-18 02:40:14</date>
+            <index>51</index>
+            <phrase>යුගයක අවසානයේ අරම්බයද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරන්</author>
+            <date>2012-07-18 09:44:37</date>
+            <index>52</index>
+            <phrase>ඇත්තටම තරුණයන් ගැන හිතන් නැති පාලනයක් මේක . තරුණ රැකියා මෑන් පවර් වලට විකුණලා තරුණයන් අනාත කරනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-07-18 10:10:25</date>
+            <index>53</index>
+            <phrase>යූ.එන්.පී. එකේ කියන්න පුලුවන් පුද්ගලයෙක් අපේ පැත්තේ නම් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාවා</author>
+            <date>2012-07-18 11:33:21</date>
+            <index>54</index>
+            <phrase>මෝඩ වැඩක්ද මන්දා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වේළුසුමන</author>
+            <date>2012-07-18 11:57:02</date>
+            <index>55</index>
+            <phrase>පිරිසිදු දේශපාලනය ? විතානගේ පොඩ්ඩා මං ගැන අහල නැතුව ඇති - ගෝනවල සුනිල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-07-18 11:42:09</date>
+            <index>56</index>
+            <phrase>සියදිවි නසා ගන්නද යන්නේ ඔබතුමා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍‍කෝර‍ලේ</author>
+            <date>2012-07-18 11:50:03</date>
+            <index>57</index>
+            <phrase>නව ‍වෙනසක ආරම්භය බවයි ‍පෙනී යන්නේ.... ජය..ජය.. ජය.. ජය‍වේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-07-26 00:05:42</date>
+            <index>58</index>
+            <phrase>මෙවන් පක්ෂයකට මාරු වූයේ කිමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-07-26 07:59:02</date>
+            <index>59</index>
+            <phrase>මෙයාට පිස්සුද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

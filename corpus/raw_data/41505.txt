@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41505</articleId>
+    <title>දනුනගේ මවට එරෙහි නඩුව නොවැම්බරයේ</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මැයි මස 09 19:36:48</date>
+    <body>නීති විරෝධී ලෙස ඇමෙරිකා ඩොලර් 526ක් හා බ්‍රිතාන්‍ය පවුම් 100ක් තිඹිරිගස්යායේ බැංකු ලොකරයක තැන්පත් කැර තැබීයැයි දනුන තිලකරත්නගේ මව අශෝකා තිලකරත්නට එරෙහි නඩුව නොවැම්බර් පස් වැනි දා කොළඹ මහාධිකරණයේ දී විභාගයට ගැනීමට යයි. විනිසුරු සුනිල් රාජපක්ෂ මහතා නඩුවේ දින නියම කෙළේය. අශෝක තිලකරත්න යනු හිටපු යුද හමුදාපති සරත් පොන්සේකාගේ බෑන වන දනුනගේ මවයි.</body>
+    <comments>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-09 20:38:29</date>
+            <index>0</index>
+            <phrase>මහත්තයෝ, ඔයා ඇමෙරිකා ඩොලර් 526කට හා බ්‍රිතාන්‍ය පවුම් 100කට වඩා වටිකවා.පළිගැනීම දැන්වත් නවත්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-05-10 00:50:52</date>
+            <index>1</index>
+            <phrase>අනේ මන්ද මේ පළිගැනීම කවදා කෙළවරවෙයිද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-05-10 08:32:15</date>
+            <index>2</index>
+            <phrase>$ 526 මගේ ලග තියෙනවනේ.ඕකට නඩු මොකටද අනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2012-05-10 09:24:15</date>
+            <index>3</index>
+            <phrase>එතකොට ලොකු ලොකු අය කරන විනාශ වලට නඩු නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිණිමුතු</author>
+            <date>2012-05-10 09:47:22</date>
+            <index>4</index>
+            <phrase>මිනිහෙක්ට 526$ක් තියා ගන්න වත් බැරිද? නැත්නම් රුපියල් 60,000ක් වත් බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටුආන්</author>
+            <date>2012-05-10 10:15:03</date>
+            <index>5</index>
+            <phrase>එතකොට සුනාමි මුදල් නාස්ති කරපු අයටත් නඩු දානවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-10 11:16:56</date>
+            <index>6</index>
+            <phrase>අනේ මට බයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහලයා</author>
+            <date>2012-05-10 11:17:12</date>
+            <index>7</index>
+            <phrase>අපරාදේ $ මිලියන 526 ක් එක්ක පවුම් මිලියන 100 තිබුනනම්, නඩුත් නැ....හික්......හික්.....හික්, මොකුත් නැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේෂාණී</author>
+            <date>2012-05-10 22:15:27</date>
+            <index>8</index>
+            <phrase>සවුත්තු වැඩ මේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙන්ඩි</author>
+            <date>2012-05-11 12:07:35</date>
+            <index>9</index>
+            <phrase>යකාට ගිය නිතිය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

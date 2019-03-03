@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33791</articleId>
+    <title>අලූත්කඩේ අදත් උද්ඝෝෂණ</title>
+    <author>දසුන් රාජපක්ෂ  ඡායාරූප සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 මාර්තු මස 28 10:15:33</date>
+    <body>කෝට්ටේ රජමහා විහාරයේ හිමි දෙනම ඝාතනය කළැයි කියන සැකකරුවන් වෙනුවෙන් පෙනී සිටි නීතිඥයාට නුගේගොඩ මහේස්ත‍්‍රාත් අධිකරණය අසල පාරේ දී පහර දුන්නැයි කියන පිරිස් අත්අඩංගුවට ගන්නැයි බල කරමින් අලුත්කඩේ අධිකරණයේ නීතිඥවරු පිරිසක් අද එහි දොරටුව අවහිර කරමින් උද්ඝෝෂණයක් කළහ. මේ නිසා නඩු කටයුතුවලට එමින් සිටි මහජනයාට ද උසාවියට ඇතුළු විය නොහැකි විය.</body>
+    <comments>
+        <comment>
+            <author>කටාර් සිට, බණ්ඩාර</author>
+            <date>2012-03-28 11:21:51</date>
+            <index>0</index>
+            <phrase>කළු කෝට් එක දාපුහම නිති කඩන්න පුලුවන්ද ???? මහජනයාට හිරිහැර වෙන විධියට උසාවි ගේට්ටු වහල ???? ජනතාවගෙ ආයතන කළු කෝට් කාරයන්ගේ බුදලය වෙලාද????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදි</author>
+            <date>2012-03-28 12:06:28</date>
+            <index>1</index>
+            <phrase>ක්ෂණික කෝපය, සාධාරණයි පහරදීම. ඔය පිරිසෙම අයෙකුට ඔය විපත එසේම උනානම් ඒ අයගේ හැසිරීම ඔයිට වඩා උග්‍රවිය හැකියි නේද ? ක්ෂණික කෝපයට නඩු ගන්නට බැහැ නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනි</author>
+            <date>2012-03-28 12:14:39</date>
+            <index>2</index>
+            <phrase>මිනි මරණ අයට විතරමද රටේ තැන. මුදලට කෑදර පෙරේතයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරෝ</author>
+            <date>2012-03-28 12:56:15</date>
+            <index>3</index>
+            <phrase>මුදලට කෑදර පෙරේතයෝ සල්ලි ලැබෙනවනම් අම්මා තාත්තා මරපු උන් වෙනුවෙන් උනත් පෙනී ඉදීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

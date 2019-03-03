@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>125388</articleId>
+    <title>වෙස‍ක් අසිරිය රෝහලට</title>
+    <author>වේරගොඩගේ සජීව විජේවීර</author>
+    <date>2013 මැයි මස 21 23:00:25</date>
+    <body>වෙසක් උත්සවය නිමිත්තෙන් ගාල්ල කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරු අද බැති ගී ගායනා කළහ. වෛද්‍යවරු කණ්ඩායමක් බැති ගී ගයද්දී තවත් වෛද්‍යවරු පිරිසක් සංගීතය ලබාදුන්හ. රෝහලේ වාට්ටුවෙන් වාට්ටුව යමින් ඔවුහු ගී ගයමින් රෝගීන්ට සෙත් පැතූහ.</body>
+    <comments>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2013-05-21 23:22:41</date>
+            <index>0</index>
+            <phrase>නියම ඉසිවරු.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ.</author>
+            <date>2013-05-21 23:39:14</date>
+            <index>1</index>
+            <phrase>ඔය නෝනලාත් මහත්වරුත් කරන වැඩ දෙකෙන්ම කරන්නේ මනුෂ්‍යන්ගේ සිතත් ගතත් දෙකම සුවපත් කරන එකයි. ඔබලාට පින්!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-05-22 00:39:42</date>
+            <index>2</index>
+            <phrase>මේ වෙසක් සතියේ අගය කළ යුතු වැඩක්. සියළු දෙනාටම පින්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-05-22 01:26:26</date>
+            <index>3</index>
+            <phrase>ෂා! නියම දොස්තරලා ටිකක්නේ. අනේ වාසනාවන්, ලෙඩුන්ටත් හරි සතුටු ඇති නේද? අපිටත් සතුට දැනුනා. සුබ වෙසක් මංගල්‍යයක් වේවා, දොස්තර මඩුල්ලටත් ලෙඩුන්ටත් ලංකා වාසි සැමටත්!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රනුක ලසන්ත</author>
+            <date>2013-05-22 01:59:04</date>
+            <index>4</index>
+            <phrase>ගොඩක් වටිනා පිංවන්ත ක්‍රියාවක්. ගතින් රෝග වී සිටින අසරණ අයගේ සිත සුවපත් වේවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-05-22 02:03:57</date>
+            <index>5</index>
+            <phrase>කෝ වර්ජනයක් තියනව කිව්වට භක්ති ගී ප්‍රසංගයක්නෙ තිබිල තියෙන්නෙ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික</author>
+            <date>2013-05-22 05:14:31</date>
+            <index>6</index>
+            <phrase>උසස් ක්‍රියාවක් මහත්වරුනි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙරාඩ්</author>
+            <date>2013-05-22 06:52:45</date>
+            <index>7</index>
+            <phrase>ඉතා හොඳ වැඩක්. ඔබට තෙරුවන් සරණයි!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙයම්</author>
+            <date>2013-05-22 06:58:35</date>
+            <index>8</index>
+            <phrase>නියම ඉසිවරු.උසස් ක්‍රියාවක් මහත්වරුනි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2013-05-22 07:03:04</date>
+            <index>9</index>
+            <phrase>ආදර්ශමත් වැඩක්! අගය කළ යුතුයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-22 07:56:10</date>
+            <index>10</index>
+            <phrase>නමුත් හැමෝගෙම මුහුණු වල අවංක සිනාවක් තිබුනා නම් මේ කරපු දේ 100% සාර්ථක වෙනවා. මොකද ඒක රෝගීන්ටත් මානසික නැග්මක්, කරපු දෙය අගය කරනවා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-05-22 08:00:16</date>
+            <index>11</index>
+            <phrase>බොහොම පින් ක්‍රියාවක්. හරිම සන්තෝෂයි. ආදර්ශමත් වැඩක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-05-22 08:25:39</date>
+            <index>12</index>
+            <phrase>මේ කරුණා පෙරදැරි මානසිකත්වය වෙසක් සමයෙන් පසුවත් ඔබතුමන්ලා තුල පවතීවා!</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2013-05-22 08:57:18</date>
+            <index>13</index>
+            <phrase>ඉතාමත් ශ්‍රේෂ්ට දෙයක්. වෙදකම වගේම මානසික සහනය දීමත් ලොකු පිනක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිනුක</author>
+            <date>2013-05-22 09:14:18</date>
+            <index>14</index>
+            <phrase>පවු අහිංසක ලෙඩ්ඩු ටික</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරාන්</author>
+            <date>2013-05-22 09:29:39</date>
+            <index>15</index>
+            <phrase>මේ වගේ වැඩක් අන්‍ය ආගමකින් කලොත් නම් ඉවසන්නම බැරී වෙනවා අපේ ඇත්තන්ට</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-05-22 09:42:17</date>
+            <index>16</index>
+            <phrase>තෙරුවන් සරන ලැබේවා ඔබ සැමට!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2013-05-22 09:46:31</date>
+            <index>17</index>
+            <phrase>රෝගීන්ගේ සිත් සතන් සතුටු කරන්න මෙම ක්‍රියාව ඉතා අගෙයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-05-22 10:30:25</date>
+            <index>18</index>
+            <phrase>වෛද්‍යවරු බෙරගහනවා, වෛද්‍යවරියන් ගායනා කරනවා. නර්ස්ලා ඇටෙන්ඩන්ට්ලා නටනවා. තව කෙනෙක් රතු පටිය ඉනේ බැඳ තාලෙට අඩි තියමින් දුම්මල ගහනවා. බටහිර වෙදකම ලංකාවේ නොතිබුණු ඒ කාලෙත් ආතුරයන්ව සුවපත් කළේ ඔයවිදිහටම තමා. අපරාදේ මේ රටේ මිනිසුන්ගේ සල්ලි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2013-05-22 10:56:27</date>
+            <index>19</index>
+            <phrase>මේ ආදර්ශය උතුම් හොද වැඩක්. අනාගතයේ අපේ දරුවන් අම්මේ, වෙසක් කියන්නේ මොකක්ද , කියලා විමසන කාලයක් උදාවේවි .මේවා සැම වසරකම කලයුතු දේවල්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2013-05-22 10:59:43</date>
+            <index>20</index>
+            <phrase>මම මේ අපහාසයට කියනවා නෙමෙයි, මොකද මම කියන්නේ තිත්ත, අපි අහන්න පිළිගන්න කැමති නැති, එහෙත් ඇතුලාන්තයෙන් අපිට දැනෙන ඇත්ත. මේ මිනිස්සුන්ගේ කිසිම "ලස්සනක්" නැහැ. ඇහැට ප්‍රිය නැහැ. මේ තමයි මට තේරෙන විදියට මේ රටේ තියෙන ලොකුම ප්‍රශ්නේ. අපිට එක එකා නොරුස්සන්නෙත්, ඔය නෝනලා ඔහොම අද සින්දු කිව්වට හෙට ලෙඩ්ඩුන්ට බනින්නෙත් ඒක නිසා කියලා තමයි මට වැටහෙන්නේ. පැහැපත්, ලස්සන රුප ලක්ෂණ ලැබෙන්නේ පෙර කරපු පින්වල බලෙන් කියල තමයි බුදු බනේ තියෙන්නේ. මම හිතන්නේ අපි ඇවිල්ලා පෙර ආත්මවල පින් කරපු කට්ටිය නෙමෙයි. අපේ රූප ලක්ෂණ වලින් ඒක හොඳට පේනවා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්-නිකරවැරටිය</author>
+            <date>2013-05-22 11:07:40</date>
+            <index>21</index>
+            <phrase>මම දකින විදිහට දොස්තරවරු මිහිපිට දෙවියන්. අත්දැකීමෙන් කියන්නේ. විශේෂයෙන්ම නුවරඑලිය රෝහලේ මට උදව් කළ අයට මගේ හද පිරි ස්තුතිය. .දිර්ගායු වේවා! බොහොම පින්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් ඉතාලි</author>
+            <date>2013-05-22 11:50:12</date>
+            <index>22</index>
+            <phrase>වෛද්‍ය වරුන්ට ඔයිට වැඩිය කාලෝචිත වැඩක් තියනවා කරනවානම් ජාතික රුපවාහිනියේ ඉරිදට යන නිර්සත්වයෝ කියන උසස් ගනයේ ටෙලි නාට්‍යය බැලුවනම්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2013-05-22 11:50:20</date>
+            <index>23</index>
+            <phrase>නිලා වගේ අය ඉන්නේ මිනිසුන්ට ගරහන්න. අගය කළ යුතු අය අගය කරන්න නෙමෙයි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-05-22 13:59:49</date>
+            <index>24</index>
+            <phrase>මේ ඇතිවූ පහන් සිතුවිලි ,සේවා කාලය පුරාවටම අසරණ වූ ලෙඩුන් වෙනුවෙන් දෙන්න. එයයි නියම භක්ති ගීතය. සුබ වෙසක් මංගල්‍යයක් වේවා!</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-05-22 15:10:02</date>
+            <index>25</index>
+            <phrase>දොස්තරවරු මිහිපිට දෙවියන් ලෙස හැදින්විමට පුළුවන. ආයුරක්ඛන්තු ආවඩා! ඔබට ජය!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රුසිරු</author>
+            <date>2013-05-22 17:01:35</date>
+            <index>26</index>
+            <phrase>ටිරාන් මේක සිංහල බෟද්ධ රට. වෙසක් එකට භක්ති ගීත කියන්නේ නැතුව නත්තලට කියන්නද කියන්නේ. රෝහලේ ඉන්න බහුතරය බෞද්ධ නම් ඒ අය මේකට කැමතිනම් ඔයාට තියන ප්‍රශ්නේ මොකද්ද. සෞදිය මුස්ලිම්ලාගේලු, එංගලන්තේ ඉන්ග්රීසින්ගේලු. ඒ වගේ තමයි ලංකාව සිංහලුන්ගේ. අනිත් අයට සහයෝගයෙන් ඉන්න පුළුවන් හැබැයි අයිතිවාසිකම් කියන්න බැහැ. අන්න ඒක තේරුම් ගන්න.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මිගිද</author>
+            <date>2013-05-23 01:16:22</date>
+            <index>27</index>
+            <phrase>අර මාතරින් මාරු කරපු ලෙඩා මේ ගොල්ලෝ බාර ගන්න බැහැ කියලා පස්සේ කොළඹ යැවුවා. පස්සේ ඒ ළමයාගේ අතක් කපන්න වුණා. එදා ඒ දොස්තර නිවාඩු නැතුව ගමනක් ගිහිල්ලා. දැන් මේගොල්ලෝ සින්දු කියනවා ,බෙරගහනවා ,නටනවා. මිහිපිට දෙවියෝ ඉන්නේ ටිකයි .</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-05-23 11:08:58</date>
+            <index>28</index>
+            <phrase>වැරදියට වටහාගන්න එපා. මම මිනිසුන්ට ගරහන්නේ නැහැ, එහෙත් විවේචනය කළ යුතු තැන එසේ කරනවා. මගේ බිරිඳත් වෛද්‍යවරියක්. ඇය නම් වෙසක් දිනයේදීත් කරන්නේ රෝහලේ දැඩිසත්කාර ඒකකයේ රෝගීන් බලාගැනීම. මේ සිදුවීම තොවිලයකට උපමා කලේ වෛද්‍ය ක්‍ෂ්ත්‍රයේ අඩුපාඩු උපහාසයට ලක්කරන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සැම්</author>
+            <date>2013-05-23 12:14:15</date>
+            <index>29</index>
+            <phrase>සල්ලි මත පදනම් වූ ජීවිත මිහිපිට අපායක්</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2013-05-25 20:31:50</date>
+            <index>30</index>
+            <phrase>ඔබ වහන්සේලාට බොහොමත්ම පින්. වෛද්‍යවරු සදසේ බැබලේවා, දිනේවා!. ලෝකෙම දුක නිවන්න යෝධ බල විර්යය ලැබේවා. සියලුම දෙවි දේවතාවන්ගේ පිහිට ලැබේවා, ලෝකයේ ඉහලම තැන හදවතෙත් මොල්යෙත් ඉහලම තැන ඔබලාය. අපි ගොඩක් අදරෙයි. ඒ වගේම ගොඩක් ගරු කරනවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

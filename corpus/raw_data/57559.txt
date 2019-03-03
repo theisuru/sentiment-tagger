@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57559</articleId>
+    <title>අරක්කු බාගෙන් පොලිසියේ පහක වැඩ තහනම් වේ</title>
+    <author>රෝහණ චන්ද්‍රදාස</author>
+    <date>2012 අගෝස්තු මස 08 10:00:42</date>
+    <body>මිහින්තලේ පොලිසියේ නිලධරයකු සැරයන්වරයකු හා කොස්තාපල්වරුන් තිදෙනකුගේ වැඩ තහනම් කැර ඇත.
+රාත‍්‍රියේ ලොරියක් පිරික්සා රියැදුරු බලපත‍්‍රය  බාරයට ගෙන එය ආපසු දීමට අරක්කු බාගයක් හා බීර බෝතලයක් ගත්තැයි එම පස්දෙනාට විරුද්ධව පැවැති පරීක්‍ෂණයෙන් පසුව මේ පියවර ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-08-08 10:12:43</date>
+            <index>0</index>
+            <phrase>හාපෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-08-08 10:15:11</date>
+            <index>1</index>
+            <phrase>මහත්වරුණි, ඔබගේ රාජකාරියට අවංක වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-08-08 10:19:35</date>
+            <index>2</index>
+            <phrase>අල්ලස අල්ලසමයි. එහි පොඩි හෝ ලොකු කියා දෙයක් නැත. හොද දඩුවමක් දීලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධුෂාන්</author>
+            <date>2012-08-08 10:20:59</date>
+            <index>3</index>
+            <phrase>පොඩ්ඩොන්ට තමයි ඉතින් හැමෝම දඩුවම් කරන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-08 10:27:59</date>
+            <index>4</index>
+            <phrase>මේවට කියන්නේ අලියන් යන පාර තියෙද්දී කුම්බියන් යන පාර වහන්න උත්සාහ ගන්නවා කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත අබේරත්න</author>
+            <date>2012-08-08 10:37:25</date>
+            <index>5</index>
+            <phrase>ඔන්න නියම වැඩ ..මේ විදියට හැමෝටම නීතිය තියෙන්න ඕනේ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් -මැනිලා</author>
+            <date>2012-08-08 10:38:47</date>
+            <index>6</index>
+            <phrase>පහත් තැනින් යයි ගලා ජලේ ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලගේ</author>
+            <date>2012-08-08 10:45:34</date>
+            <index>7</index>
+            <phrase>ඔහොම කරනවානම් මුළු පොලිස් දෙපාර්තමේන්තුවම අයින් කරන්න වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙරිල් කරුණාජීව</author>
+            <date>2012-08-08 11:06:22</date>
+            <index>8</index>
+            <phrase>වස ලැජ්ජාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-08 11:17:31</date>
+            <index>9</index>
+            <phrase>ලංකාවට ගිය කලක් ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-08 11:30:59</date>
+            <index>10</index>
+            <phrase>සමාවක් දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්ලි</author>
+            <date>2012-08-08 11:34:09</date>
+            <index>11</index>
+            <phrase>පින්තුරත් එක්ක තමයි පත්තරේ දාන්න තිබ්බේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-08 11:38:19</date>
+            <index>12</index>
+            <phrase>අන්න නිලධාරින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-08-08 11:49:56</date>
+            <index>13</index>
+            <phrase>බෝතලයක් එහෙම තිබ්බනම් මොනවා වෙයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-08 12:02:45</date>
+            <index>14</index>
+            <phrase>මම ටිකක් අඳුනන පොලිස් කොස්තාපල් කෙනෙක් දවසක් මස් කඩේ ගාවදි හමුඋනා. මම මස් ගන්න යන බව තේරුම් අරන් මට කිව්වා මට දෙන්ඩ සල්ලි මම හොඳට මස්ටික අරන් දෙන්නම් කියල. මස් කඩේ හැටි දන්නවනේ. අපි ගන්න ගියහම තෙල් කැලි කටු බටු ඔක්කොම දාල අඩුවෙන් කිරල දෙන්නේ. මම කිලෝ දෙකකට සල්ලි රාලහාමිට දුන්න. එයා ඒ සල්ලිවලින් කිලෝ දෙක දෙක පාර්සල් දෙකක් අරන් මට එක පාර්සලයක් දුන්න. මස්ටික හොඳට තිබුන. ඔන්න අපේ රාළහාමිලාගේ වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-08 12:07:37</date>
+            <index>15</index>
+            <phrase>පුදුම වෙන්න දෙයක් නැහැ . පොලිසියේ බහුතරයක් ඔහොම තමයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆ්හාන්</author>
+            <date>2012-08-08 12:22:49</date>
+            <index>16</index>
+            <phrase>කෙසෙවෙතත් කනබොන මිනිස්සු ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ලා</author>
+            <date>2012-08-08 12:34:11</date>
+            <index>17</index>
+            <phrase>බෝතල් 2 - 3 ක් තිබ්බනම් රටේම පොලිසි ටික වහන්න තිබ්බ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-08 13:29:48</date>
+            <index>18</index>
+            <phrase>අයියෝ ඕක මොකක්ද කරන දේවල් එක්ක බලද්දි ??????????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-08-08 13:49:16</date>
+            <index>19</index>
+            <phrase>අයියෝ, මෙච්චරටම පල්ලෙහාට වැටිලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල-වෙරෝනා</author>
+            <date>2012-08-08 14:19:55</date>
+            <index>20</index>
+            <phrase>පොලිසිය අරක්කු බොන්නෙ නැහැ. මේක කට කතාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ</author>
+            <date>2012-08-08 15:10:28</date>
+            <index>21</index>
+            <phrase>රියදුරා දැන්නුව නිසා දැනගත්තා. නැත්නම් ඉතිං හැමදාම ඔහොම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-08-08 15:17:20</date>
+            <index>22</index>
+            <phrase>අනේ මේ අරක්කු භාගයකට මේ තරම් දගලන්න ඕනැද? ඔය මහ උදවිය කරන්නේ ඕවා මහා පරිමාණයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-08 15:29:02</date>
+            <index>23</index>
+            <phrase>මේ වගේ අය නිසා තමයි මිනිස්සුන්ට පොලීසිය ගැන ගෞරවයක් නැත්තේ . හොඳ වැඩේ වැඩ තහනම් කර එක නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-08 15:39:55</date>
+            <index>24</index>
+            <phrase>වැරැද්දට දඬුවම් දිය යුතුමයි. නමුත් පොලිස් නිලධාරියෙක් අරක්කු බාගයක් ගත්තට වැඩ තහනම් වෙනවා නම් කෝටි ගණන් කොමිස් ගහලා අහුවුණු අයට අඩු තරමෙ ඉල්ලා අස් වෙන්න කියන්නවත් එපැයි? අසාධාරණයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදිත</author>
+            <date>2012-08-08 15:50:28</date>
+            <index>25</index>
+            <phrase>ගල් ද? පොල් ද? ඉල්ලලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසේන</author>
+            <date>2012-08-08 16:09:02</date>
+            <index>26</index>
+            <phrase>පොලිසිය පොලිසියෙන්ම සුද්ද කෙරෙන පාටයි. අහන්නත් සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2012-08-08 16:22:27</date>
+            <index>27</index>
+            <phrase>ඒ කියන්නේ ඒ වෙලාවේ ලොරි රියදුරා ළග අරක්කුයි, බියරුයි දෙකම තිබුණා කියන එක නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2012-08-08 17:17:24</date>
+            <index>28</index>
+            <phrase>මේ අය බෝල් පොයින්ට් පෑන පවා ගන්නවා මෙහෙම. නැත්නම් රී-ලෝඩ් එකක් හරි දා ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2012-08-08 17:18:46</date>
+            <index>29</index>
+            <phrase>ඉල්ලලා තිබෙන ප්‍රමාණය නම් හොදටම මදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවී</author>
+            <date>2012-08-08 17:41:06</date>
+            <index>30</index>
+            <phrase>පොලිසියේ පහකට අරක්කු බාගයක් මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-08-08 23:41:28</date>
+            <index>31</index>
+            <phrase>පඩි අඩු හින්ද කමක් නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-09 08:30:54</date>
+            <index>32</index>
+            <phrase>පොලිසියේ කෙනෙක් බෝතල් බාගයක් ගත්තහම ලොක්කන්ට හරියට කේන්ති යනවා. හැබැයි පොලිස් ලොක්කන් බෝතල් ගණන් ගන්න ඒවා නම් කාටවත් පේන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2012-08-09 08:38:34</date>
+            <index>33</index>
+            <phrase>ඔය වගේ අය කොච්චර ඉන්නවද ?? නඩුත් හාමුදුරුවන්ගේ බඩුත් හාමුදුරුවන්ගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාවංස හාමුදුරැවෝ</author>
+            <date>2012-08-09 08:41:39</date>
+            <index>34</index>
+            <phrase>2015 දී මතට තිත කිව්වට ඒ සදහා නිසි වැඩ පිළවෙළක් හෝ උවමනාවක නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-08-09 12:12:07</date>
+            <index>35</index>
+            <phrase>දී කිරට බල්ලුත් සාක්කි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-08-09 12:53:10</date>
+            <index>36</index>
+            <phrase>ඕක නම් මොකක්ද? මිනී මරලත් අද ඔය කට්ටිය යස අගේට ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා සිල්වා</author>
+            <date>2012-08-09 12:56:00</date>
+            <index>37</index>
+            <phrase>මේ දඩුවම බෝතල් බාගයක් නිසා.. ලක්ෂ කෝටි ගණන් ගත්තනම් ඒ අයට ආරක්ෂාව පොලිසියෙන්ම දෙනවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන්</author>
+            <date>2012-08-09 13:30:45</date>
+            <index>38</index>
+            <phrase>සාමකාමී රටක් නේ මේක....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-08-09 14:58:00</date>
+            <index>39</index>
+            <phrase>පස්දෙනෙක් එක්ක භාගයක්ද අරන් තියෙන්නෙ.. ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

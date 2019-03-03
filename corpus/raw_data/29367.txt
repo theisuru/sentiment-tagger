@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29367</articleId>
+    <title>කොටියා නැතත් තවමත් යුද අවි</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2012 මාර්තු මස 01 14:04:46</date>
+    <body>මුලතිවු ඉරණපලෙයි හා සුගන්දිරපුරම් හි වළදමා තුබූ  කොටි අවි තොගයක් සෙයාගත් බව වවුනියා පොලිසිය කියයි.  ක්ලේමෝ බෝම්බ,  පීඩන බෝම්බ, මෝටාර් උණ්ඩ, පතුරොම්, තමිලන් ගුණ්ඩු, ජොනී බට්ටන් ආදිය එහි දී ගොඩ ගැනිණි. කොටි සංවිධානය පරාජය කැර මාස 34ක් ගත වී ගිය පසු ද තැන තැන තවමත් යුද අවි මතුවෙයි.</body>
+    <comments>
+        <comment>
+            <author>ජානක ජයසිංහ</author>
+            <date>2012-03-01 14:21:36</date>
+            <index>0</index>
+            <phrase>ජාත්‍යන්තර මාධ්‍ය මගින් මේවා ලෝකයට ඉදිරිපත් කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-03-01 14:30:04</date>
+            <index>1</index>
+            <phrase>මේවා මානවහිමිකම් කවුන්සිලයට යවන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ඩාර</author>
+            <date>2012-03-01 15:41:43</date>
+            <index>2</index>
+            <phrase>සොයාගත් සියලුම අවි මානව හිමිකම් අයටයි, එන්ජීඕ අයටයි පෙන්වන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

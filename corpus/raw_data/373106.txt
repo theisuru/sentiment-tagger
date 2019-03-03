@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>373106</articleId>
+    <title>වාහන වෙන්දේසියෙන් වරාය අධිකාරියට වාර්තාගත ආදායමක්</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2015 දෙසැම්බර් මස 31 17:05:21</date>
+    <body>භාවිතයෙන් ඉවත් කළ සංචිත වාහන 50ක් වෙන්දේසි කිරීමෙන් ශ්‍රී ලංකා වරාය අධිකාරිය රුපියල් මිලියන 40ක වාර්තාගත ආදායමක් උපයාගත් බව එම අධිකාරිය කියයි.
+අලෙවි කළ වාහන  බහුතරයක් පසුගිය ආණ්ඩුව යටතේ වරාය අධිකාරියට අගතියක් වනසේ මිලදී ගත් වාහන බව කියති.</body>
+    <comments>
+        <comment>
+            <author>යටවත්ත</author>
+            <date>2016-01-01 03:45:57</date>
+            <index>0</index>
+            <phrase>අළුත් අවුරුද්දේ සුබ ආරංචියක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලීන්</author>
+            <date>2016-01-03 16:36:58</date>
+            <index>1</index>
+            <phrase>ඒ කියන්නේ එක වාහනයක් ලක්ෂ 8ක් විතර...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-01-04 11:06:35</date>
+            <index>2</index>
+            <phrase>හොඳ වැඩක් කර ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-01-05 06:33:54</date>
+            <index>3</index>
+            <phrase>චූලානන්ද පෙරේරා කියන්නේ අවංක මත්තයෙක්. එතුමාගේ නායකත්වය වරාය අදීකාරිය අලුත් මාවතකට යොමු කරාවී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-01-05 06:42:33</date>
+            <index>4</index>
+            <phrase>චූලානන්ද පෙරේරා කියන්නේ අවංක මහත්මයෙක්. එතුමාගේ නායකත්වය වරාය අධිකාරිය අලුත් මාවතකට යොමුකරාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-01-05 16:11:07</date>
+            <index>5</index>
+            <phrase>ලලිත් ලක්ෂ / මිලියන දෙකේ වෙනස දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>210712</articleId>
+    <title>නුවරඑළියේ චෙරිමල් පිපිලා</title>
+    <author>ෂෙල්ටන් හෙට්ටිආරච්චි</author>
+    <date>2014 පෙබරවාරි මස 16 14:35:05</date>
+    <body>නුවරඑළියේ බොහෝ තැන්වල චෙරි මල් පිපී ඇත. චෙරිමල් පිපෙනුයේ වසරකට එක්වරක් පමණි.
+වික්ටෝරියා උයනේ ද චෙරි මල් පිපී තිබේ.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>සි. ගංගොඩ</author>
+            <date>2014-02-17 09:26:25</date>
+            <index>0</index>
+            <phrase>ශ්‍රී ලංකාව මොන තරම් සුන්දර රටක්ද. මෙම දසුන් අපට සොඳුරු ජපානය සිහි ගන්වයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2014-02-17 10:30:41</date>
+            <index>1</index>
+            <phrase>ඇත්තමයි. මාතර ඉදලා අපිත් ආවා චෙරි මල් බලන්න. සුන්දරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2014-02-17 17:33:44</date>
+            <index>2</index>
+            <phrase>මගේ රටේ සුන්දරත්වය මනින්න මිම්මක් නෑ.අවසනාවකට ඒක නොදන්නා පාපතරයින් ඒ සුන්දරත්වය වනසනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

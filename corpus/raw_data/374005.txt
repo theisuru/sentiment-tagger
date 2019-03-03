@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>374005</articleId>
+    <title>රිටිගල අසිරිය</title>
+    <author>එච්චන්දන</author>
+    <date>2016 ජනවාරි මස 04 16:33:25</date>
+    <body>'අනුරාධපුර  මරදන්කඩවල හරහා  හබරණ යන මාර්ගයේ පිහිටි  රිටිගල  කන්ද  ඇතුළත ඇති රමණීය පරිසරය හා  එහි පුරා විද්‍යා නටඹුන් පිළිබදවයි' </body>
+    <comments>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-03-17 18:55:04</date>
+            <index>0</index>
+            <phrase>රිටිගල ගැන තව ගොඩක් දේ අපිට ඉදිරියට දැනගන්න ලැබෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

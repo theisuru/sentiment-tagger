@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51058</articleId>
+    <title>ඉන්දියාවෙන් ආ ”ලෙඩක්” රේගුව්</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 ජූලි මස 01 14:07:24</date>
+    <body>කටුනායක ජාත්‍යන්තර ගුවන් තෙටුපොළේ පැමිණීමේ පර්යන්තයේ ස්ථාන අටක සඟවා තුබූ බව කියන දුම්කොළ කුඩු (ටොබැකෝ චුවිං) කිලෝ 100ක් සහ අධික සැර දුම්කොළ කුඩු කිලෝ 22ක් සහිත ගමන් මලූ අටක් රේගු මත්ද්‍රව්‍ය පාලනය විසින් සොයා ගනු ලැබීය.
+ඒවායේ වටිනාකම රුපියල් ලක්‍ෂ දොළහකට අධික බවත් රේගුව කියයි. ඉන්දියාවේ සිට මේ මත්ද්‍රව්‍ය ගෙන එන්නට ඇතැයි සැක කෙරේ.</body>
+    <comments>
+        <comment>
+            <author>අලි ජෙම්මා</author>
+            <date>2012-07-01 14:53:24</date>
+            <index>0</index>
+            <phrase>මටත් කිලෝවක් විතර දෙන්න බරිද ? පත්තරේට දාන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-01 15:58:25</date>
+            <index>1</index>
+            <phrase>ඉන්දියාවෙන් මොනවද නොඑන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-01 18:25:48</date>
+            <index>2</index>
+            <phrase>මේක ඉතින් ඉන්දියාවෙන් ආපු තවත් එක ලෙඩක් විතරනේ. මීට ඉස්සර ඉන්දියාවෙන් ලංකාවට ලෙඩ කීයක්නම් ආවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිශාන්</author>
+            <date>2012-07-01 17:57:15</date>
+            <index>3</index>
+            <phrase>හොඳයි. ඇයි අනිත් ලොකු මිනිස්සු අල්ලන්නෙ නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තක්කඩියා</author>
+            <date>2012-07-01 21:41:07</date>
+            <index>4</index>
+            <phrase>කව්රුවත් මහා භාරතයට විරුද්ධව කටක් අරින්නෑ... හරිද? කව්රුවත් මහා භාරතයට විරුද්ධව කටක් අරින්නෑ... හරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-07-02 03:31:41</date>
+            <index>5</index>
+            <phrase>ලෙඩ එන තරමක් එන්නේ ඉන්දියාවේ තමයි .මේක ඉතින් පළවෙනි එකත් නෙමෙයි අන්තිම එකත් නෙමෙයි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාශිනී</author>
+            <date>2012-07-02 09:13:13</date>
+            <index>6</index>
+            <phrase>මිනිස්සුන්ට ඕන බල්ලෝ මරල හරි සල්ලි හම්බ කරන්න .මේවගේ පල විපාක ගැන හිතන්නේ නෑ..මිනිස්සු ඇයි මේ තරම් දරුණු ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෝපාල්</author>
+            <date>2012-07-02 12:02:02</date>
+            <index>7</index>
+            <phrase>අඩ්ඩඩ්ඩා තණමල්විලටත් හරි එහෙනම්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිස්ටින්</author>
+            <date>2012-07-02 14:12:45</date>
+            <index>8</index>
+            <phrase>අනේ පව් කොල්ලෝ.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජය හේවා</author>
+            <date>2012-07-03 00:10:27</date>
+            <index>9</index>
+            <phrase>ඉන්දියාව නිසා ලංකාව කවද හරි විනාශවෙලා යනවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී. රත්නායක</author>
+            <date>2012-07-03 13:10:07</date>
+            <index>10</index>
+            <phrase>ආා ඕව මැදපෙරදිග හරියට තියනවා.. තහනම් මත්ද්‍රව්‍ය ඕවට කියන්නෙ තම්බකු TAMBAKU කියලා.. පිළිකා වලට මුල වැඩි වශයෙන් මුඛ පිළිකා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිරි</author>
+            <date>2012-07-07 14:22:05</date>
+            <index>11</index>
+            <phrase>ඉන්දියාව නිසා ඉතිහාසයේ කොතරම් ආක්‍රමණ ආවාද? කොච්චර විනාශ කරාද? ගොඩාක් අයට දැන් ඒවා අමතකවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයෝමි</author>
+            <date>2012-07-07 14:24:38</date>
+            <index>12</index>
+            <phrase>වැඩි දුර යන්න ඕනෑ නෑ. ප්‍රභාකරන් අපේ රට අල්ල ගන්න කොච්චරනම් වළි කෑවද? අපේ අහිංසකයින් කොච්චර විනාශ කරාද?ඉන්දියාවේ ඉන්න ඈයෝ අපිට උදවු කරයි කියලා විශ්වාස කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

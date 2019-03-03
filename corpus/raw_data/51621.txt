@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51621</articleId>
+    <title>සරණාගත වෙසින් මිනිස් ජාවාරමේ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 ජූලි මස 04 18:01:00</date>
+    <body>තමිල්නාඩු ප‍්‍රාන්තයේ සිට නීතිවිරෝධී මිනිස් ජාවාරම් මෙහෙයවීම් සම්බන්ධයෙන් හවුල් යැයි සැකකෙරෙන ලාංකික දෙමළ සරණාගතයෝ හය දෙනෙක් ඉන්දීය පොලිසියෙන් අත්අඩංගුවට ගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-04 20:25:52</date>
+            <index>0</index>
+            <phrase>සරණාගතයින් පිළිබඳව විදේශිකයින් දක්වන අනුකම්පාව දඩමීමා කර ගනිමින් මෙවැනි නොකටයුතු දේ කෙරෙහි යොමුවන අධම පුද්ගලයින්ට එරෙහිව උපරිම අන්දමින් නීතිය ක්‍රියාවේ යෙදවිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්එස්.</author>
+            <date>2012-07-05 16:12:25</date>
+            <index>1</index>
+            <phrase>යන්න ඕන රට කිට්ටුවටම ගිහිං බෝට්ටුව පෙරලනවා.. එතකොට බේරගෙන අරන් යන්නෙ ඒ රටටනෙ..දාන්නම් මේ කපටිකම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-05 16:15:06</date>
+            <index>2</index>
+            <phrase>අනේ දෙමළ නම් ඉතිං ඔන්න ඔහේ භාර අරන් පුරවැසිකම දීලා දාන්න මෙයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-05 19:04:19</date>
+            <index>3</index>
+            <phrase>ලන්කාවෙ කොටි කරපු ව්‍යාපාරයක් තමයි මේ.. ඉතුරු කොටිටික තමයි මේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

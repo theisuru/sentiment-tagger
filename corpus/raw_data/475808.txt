@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475808</articleId>
+    <title>මාල හොරා ඇල්වින්ට පරදියි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 03 15:19:24</date>
+    <body>කළුතර උතුර වස්කඩුවේ නිවසක පිටුපස දොරකඩා නිවසට ඇතුළු වී නිඳාසිටි තරුණියකගේ මාලය කඩාගෙන ගිය සැකකරුවකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+සැකකරු ස්ත්‍රී දුෂණයක් සම්බන්ධයෙන් වරෙන්තු ලබා සිටි අයෙකු බවත් ඔහු පැළඳ සිටි හිස්වැසුම ඉවකළ පොලිස් සුනඛ ‘ඇල්වින්‘සැකකරු සොයා ගත් බව ද කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලසිත්</author>
+            <date>2016-11-03 14:24:30</date>
+            <index>0</index>
+            <phrase>කොහෙම හොරකන් කරත් අහුවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2016-11-04 00:48:52</date>
+            <index>1</index>
+            <phrase>මන්ත්‍රී කෙනෙක්, ඇමති කෙනෙක් වෙන්න සුදුසුකම් පුරවන කෙනෙක් වගේ. ඇයි වස්කඩුව පැත්තේ ඔහොම රත්තරන් මාල කඩපු කෙනෙකුත් තවම ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

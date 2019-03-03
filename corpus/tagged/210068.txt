@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>210068</articleId>
+    <title>වැලිකන්ද වැසියෝ වීදී බසිති</title>
+    <author>නිමල් ජයරත්න</author>
+    <date>2014 පෙබරවාරි මස 13 12:20:18</date>
+    <body>අරක්කු හා සිගරට් අලෙවිය නවත්වන ලෙස ඉල්ලමින් වැලිකන්ද නගරයේ අද දැවැන්ත පෙළපාළියක් පැවිත්විණි.
+මොනරතැන්න පාසලේ සිට දිඹුලාගල රාහුලාලංකාර හිමියන් ඇතුළු මහා සංඝරත්නය ද  සිංහල ,දෙමළ,මුස්ලීම් ජනයාද පෙළපාළියට එක් වුහ.
+
+
+
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>රුහුණගේ</author>
+            <date>2014-02-13 12:30:13</date>
+            <index>0</index>
+            <phrase>අනේ පින්සිද්ද වෙන වැඩක්.. අපේ රටේ අනතුරු 99%කටම මුල මේවා... රිය අනතුරක් වුනත් එහෙමයි වෙන අනතුරක් වුනත් එහෙමයි..</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2014-02-13 12:34:25</date>
+            <index>1</index>
+            <phrase>අරක්කු සිගරට් බොන්න එපා ඒ සල්ලි වල දරුවන්ට ,බිරිදට තෑගි ගන්න .ඔවුන්ගේ සතුට දෙස බලන්න (දිල්).</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල සිංග</author>
+            <date>2014-02-13 12:55:01</date>
+            <index>2</index>
+            <phrase>ආදර්ශමත් වැඩක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් සිල්වා</author>
+            <date>2014-02-13 13:12:59</date>
+            <index>3</index>
+            <phrase>අපේ රට ධර්මද්වීපයක් වෙනවා මේ ජරා මත් වතුර සහ කුඩු වියාපාර විනාස කරනවානම්. ටිකෙන් ටික මේ වේ වැඩ සටහන් කිරීම ඉතාමත් හොඳ දෙයක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2014-02-13 13:23:06</date>
+            <index>4</index>
+            <phrase>බලන්න හෙල්මට් එකක් නැතිව යන හැටි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු</author>
+            <date>2014-02-13 13:24:31</date>
+            <index>5</index>
+            <phrase>රටෙ ලොකුම ප්‍රශ්නය මේක වෙන්න ඇති.. පුලුවන්නම් ඔවා රටට ගෙන්නන අයට විරුද්දව පෙළපාලි ගිහින් පෙන්වන්න.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2014-02-13 13:28:55</date>
+            <index>6</index>
+            <phrase>මොන පිස්සුවක්ද ? මේවා නැතුව කොහොමද නිදා ගන්නේ ?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2014-02-13 13:34:33</date>
+            <index>7</index>
+            <phrase>හොදමදේ ඔය දුම් කොළ සමාගම වහලා දාන්න / විනාශ කරලා දාන්න. නැත්තම් වෙන විසදුමක් නැහැ. අනෙක් එක අනාගත දරු පරපුර අනාගත විනාශ කරලා දායි ඔය කාලකණ්නි දුම් කොළ සමාගම හින්දා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2014-02-13 13:36:59</date>
+            <index>8</index>
+            <phrase>ඉදිරි පරම්පරාව බේරගන්න වැලිකන්දෙන් මුලුරටටම රැගෙන යන්න ඔබට ජය.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසන් සලාම් - කටාර්</author>
+            <date>2014-02-13 13:44:56</date>
+            <index>9</index>
+            <phrase>රටේ විවිධ පෙදෙස්වල කෙරෙන සමහර බොරු සහ පුස් උද්ඝෝෂණවලට වඩා යම් අර්ථාන්විත උද්ඝෝණයක් මෙය බව මගේ හැඟීමයි. මෙම සත්ක්‍රියාවට දායකවූ හිමිනම ඇතුළු සියළු අප සොයුර සොයුරියන්ට සුභපතා ආශීර්වාද කරන්නෙමු.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සාලමුල්ල</author>
+            <date>2014-02-13 13:48:12</date>
+            <index>10</index>
+            <phrase>සේනාවත් කලයුතු වන්නේ මෙයයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2014-02-13 13:56:09</date>
+            <index>11</index>
+            <phrase>කාටවත් කරදයක් නැතුව ටිකක් බිව්වට කමක් නැ.. ඇල්කොහොල් සරීරයට ඕනා මද පමණින්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජ. තිසර</author>
+            <date>2014-02-13 14:04:13</date>
+            <index>12</index>
+            <phrase>දුම් පානයට බෝතලයට මුදල් බෙදා.. දරුවන් සමග මුළු පවුලම කඩා බිඳා.. මොහොතක් සිතනු හොඳ පිරිසුදු සිත් පහදා.. ඇයි මේතරම් කෑදර බීමට සැමදා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2014-02-13 14:05:54</date>
+            <index>13</index>
+            <phrase>අදර්ශමත් වැඩ තමා මේවා. නිකම් බොරුවට ඡන්දේ ඉල්ලලා පාරට බහින්නේ නැතිව මේ වාගේ දේකට පාරට බැහැලා වැඩකරන එක ඉදිරි අනාගතයට වැදගත්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරෝමි- පිළියන්දල</author>
+            <date>2014-02-13 14:23:05</date>
+            <index>14</index>
+            <phrase>බොහොම හොඳ වැඩක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2014-02-13 14:24:24</date>
+            <index>15</index>
+            <phrase>රටම මෙහෙම එලියට බැස්ස නම් කොච්චර හොඳද?</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2014-02-13 14:25:43</date>
+            <index>16</index>
+            <phrase>අපිත් කැමතියි මේ අය සමග අත්වැල් බැඳගන්න.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2014-02-13 14:28:01</date>
+            <index>17</index>
+            <phrase>හොඳ ආදර්ශයක්. නමුත් දැන් මුළු රටම මත්කුඩු වලින් විනාශ වෙලා යනවා. ආයෙත් විරෝධතා කරන්න පෙලගැසෙමු.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2014-02-13 14:47:21</date>
+            <index>18</index>
+            <phrase>හෙල්මෙට් නැතිව යතුරු පැදියෙන් යන අයට නඩු දාන්න කරුණාකරලා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් ආනන්ද මිලානෝ</author>
+            <date>2014-02-13 14:53:49</date>
+            <index>19</index>
+            <phrase>බොහොම හොද වැඩක්. රටේ සියලුම නගර, ආගමික ස්ථාන මුල් කරගෙන සියලු දෙනා එකතුවී සියලුම මත් විස, අරක්කු, සිගරට්, කුඩු, ගංජා බිමට විරෝදය පලකිරීමට සුදුසු කාලයක්. නැතිනම් අපේ අනාගත පරපුර සම්පුර්ණයෙන් විනාස වෙනවා. මෙහෙමහරි විරෝදය පලකිරීමට ඉදිරිපත් වීම විශාල පින්කමක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2014-02-13 15:01:11</date>
+            <index>20</index>
+            <phrase>නසාර් මූණම වහගෙන ත්‍රස්තවාදී වගේ යන අය තමයි රටත් වනසන්නෙ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රංගන විරාජ් පාලිත</author>
+            <date>2014-02-13 15:23:33</date>
+            <index>21</index>
+            <phrase>නියමයි! නියමයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-02-13 15:26:23</date>
+            <index>22</index>
+            <phrase>රටට ආදායමක් එන්නේ මේ වගේ දේවල් වලින්. ඔයාල මොකද මේවා නවත්වන්නේ අපේ රට ලෝකයේ දියුණු තැනකට ගෙන්න නම් මේවාට සපෝට් දෙන්න පින්වතුනි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-02-13 16:32:50</date>
+            <index>23</index>
+            <phrase>නශාර්, මාරයිනේ ඔයාගේ ඉල්ලීම. මේ පෙළ ගැහුනා අය එකතු වෙලා තම තමන්ගේ ගෙවල්,අසල්වාසීන්,ගම තුල සංවිදානත්මකව මෙය තුරන් කරන්න උත්සාහ කරන්න. ඊට පසු අපි මුළු රටේම මතට තිත තියන්න උත්සාහ කරමු. හැමෝම මෙය ආදර්ශයට ගනිත්වා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් විමලසුරිය</author>
+            <date>2014-02-13 16:39:18</date>
+            <index>24</index>
+            <phrase>පහන්ගේ පහන් දැල්වෙන ශිරා කතාවක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2014-02-13 17:11:43</date>
+            <index>25</index>
+            <phrase>නියමයි! මමත් ඔබ සමගයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-02-13 19:25:48</date>
+            <index>26</index>
+            <phrase>නසාර් ,එතකොට ගබඩාවක් කියල කොලඹ ආගමික ස්ථානයක් අටවල බොරු කියපු ඔහෙලගෙ කෙනාගේ දිව කපමුද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ් දොම්පෙ</author>
+            <date>2014-02-13 19:36:06</date>
+            <index>27</index>
+            <phrase>අරක්කු ගේන එක නෙවෙයි ම්නිස්සු බොන එක නවත්තන්න ඉස්සෙල්ලා. පස්සෙ මන්ත්‍රීලට පුලුවන් ඒ බ්ස්නස් එකත් හොදට කරන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2014-02-13 19:45:26</date>
+            <index>28</index>
+            <phrase>වැඩේ නම් හොඳයි. ඒත් අපි හදිසියේ හරි වැලිකන්ද පැත්තේ ගියොත්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-02-14 04:21:45</date>
+            <index>29</index>
+            <phrase>නසාර් ගේ කතාව හරියට හරි වැදගත් විදිහට පෙන්නුවට ස්තුතී</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2014-02-14 04:26:58</date>
+            <index>30</index>
+            <phrase>හාමුදුරුන්ට කැපද මන්දා උද්ඝෝෂණය කරන එක</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-02-14 04:29:15</date>
+            <index>31</index>
+            <phrase>එම නරක පුරුද්ද කඩාගන්න උවමනානම් අත්හරින්න එවිට කැඩෙනවා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත මඩගමගේ</author>
+            <date>2014-02-14 10:51:41</date>
+            <index>32</index>
+            <phrase>ගොඩක් හොඳ වැඩක්</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රූපිකා උඩුවිට</author>
+            <date>2014-02-14 18:27:37</date>
+            <index>33</index>
+            <phrase>මිනිසුන්ගේ නිරෝගී කමට අනවශ්‍ය අන්දමින් බලපාන මෙවන් දේ නිසා ඇතිවන වැරදි නිසා නොයෙකුත් ලෙඩ රෝග වලින් මිදීමටද, දහසකුත් ආර්ථින ප්‍රශ්ණ මැද ජීවත්වන අපේ මුදල් ඉතිරිකරගැනීමටද, ගේ දොර ඇතිවන අනවශ්‍ය කරදරවලින් මිදීමටද, යහපත් දරුවන්ට ආදර්ශයක් වීම සදහාද මෙය අගය කරමි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2015-02-10 04:32:18</date>
+            <index>34</index>
+            <phrase>මේ මිනිස්සුන්ගේ ප්‍රශ්නය ගැන සොයා බලන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

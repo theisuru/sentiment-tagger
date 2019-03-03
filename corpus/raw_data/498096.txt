@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498096</articleId>
+    <title>ශ්‍රී පාද උඩමළුවේ සීතල අධිකයි</title>
+    <author>රංජිත් රාජපක්‍ෂ</author>
+    <date>2017 ජනවාරි මස 12 12:40:49</date>
+    <body>ශ්‍රී පාද උඩමළුවේ අධික සීතල කාළගුණ තත්ත්වයක් පවතින බැවින් ශ්‍රීපාද වන්දනාවට පැමිණීමේදී සීතලට ඔරොත්තු දෙන ඇදුම් ඇඳ එන ලෙස ශ්‍රී පාද උඩමළුව භාර දොරපනේ සුමණජෝති හිමියෝ වන්දනාකරුවන්ගෙන් ඉල්ලා සිටිති. ආගමික වතාවන් එලෙසම පැවැත්වෙන බවත් පවතින අධීක ශීතල  කාළගුණ තත්ත්වය වන්දනා කටයුතුවලට බාධාවක් නොවන බවත් සුමණජෝති හිමියෝ පැවසූහ.</body>
+    <comments>
+        <comment>
+            <author>සාගා</author>
+            <date>2017-01-12 09:30:40</date>
+            <index>0</index>
+            <phrase>වන්දනාවේ යන නඩවලට තෙරුවන් සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2017-01-12 11:13:41</date>
+            <index>1</index>
+            <phrase>සීතලට සුදානම්ව ශ්‍රී පාදය තරණය කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල ජයසේකර</author>
+            <date>2017-01-12 21:34:34</date>
+            <index>2</index>
+            <phrase>පරිස්සමින් ගිහින් එන්න. බුදු සරණයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2017-01-13 04:17:47</date>
+            <index>3</index>
+            <phrase>සාදු සාදු ! බෞද්ධ දර්ශනය පිළිපදිමු. සමන්දෙවි හාමුදුරුවන්ගේ පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2017-01-13 04:30:58</date>
+            <index>4</index>
+            <phrase>සමන් දෙවි පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

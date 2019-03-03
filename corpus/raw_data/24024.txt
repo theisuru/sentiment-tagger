@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24024</articleId>
+    <title>මුදලාලිලා  දෙන්නෙක් අත්අඩංගුවට</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2012 ජනවාරි මස 28 18:27:48</date>
+    <body>අවුරුදු  15 සහ 17 සහෝදරියන් දෙදෙනකු අප යෝජනය කළැයි සැකපිට නාවලපිටියේ ධනවත් ව්‍යාපාරිකයෝ දෙදෙනෙක් නාවලපිටිය පොලිසියේ ළමා හා කාන්තා කාර්යංශය විසින් සැකපිට අත්අඩංගුවට ගනු ලැබූහ.  දැරියන් දෙදෙනා ගණිකා වෘත්තියට යොමු කළ බව කියන මව ද අත්අඩංගුවට ගැනීමට යයි. දැරියෝ දෙදෙනා වෛද්‍ය පරීක්ෂණයකට යොමු කරනු ලැබූහ. ගම්පොළ සහකාර පොලිස් අධිකාරී ජි. විමලදාස, මුලස්ථාන පොලිස් පරීක්ෂක  උදය වික්‍රමසේකර මහත්වරු ද නාවලපිටිය පොලිසියේ ළමා හා කාන්තා කාර්යංශයේ පොලිස් පරීක්ෂිකා මාලනි මැණිකේ මහත්මිය ද සැකකරුවන් අත්අඩංගුවට ගත්හ.</body>
+    <comments>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-01-28 21:35:59</date>
+            <index>0</index>
+            <phrase>හෙන ගහන අපරාද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් චන්ද්‍රසිරි</author>
+            <date>2012-01-28 23:04:25</date>
+            <index>1</index>
+            <phrase>සල්ලි බලෙන් බේරෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>s.h.eric</author>
+            <date>2012-01-29 07:14:40</date>
+            <index>2</index>
+            <phrase>සියලු දෙනාටම හොද දඩුවම් ලබා දෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

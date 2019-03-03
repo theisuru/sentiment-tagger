@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>10404</articleId>
+    <title>බස් දෙකක් ගැටී අනූහයක්  තුවාලයි</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2011 ඔක්තෝබර් මස 24 17:30:47</date>
+    <body>ගොකරැල්ලේ බස් දෙකක් ගැටී ගිලන් රථ අටකින් තුවාල කරුවන් රෝහල් වලට රුගෙන යන බව ප‍්‍රදේශවාසීහු කියති.
+මගීන් අනූහයදෙනකු පමන තුවාල ලබන්නට ඇතැයි වාර්තාවේ.</body>
+    <comments>
+        <comment>
+            <author>ජානක</author>
+            <date>2011-10-26 14:23:57</date>
+            <index>0</index>
+            <phrase>very nice</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

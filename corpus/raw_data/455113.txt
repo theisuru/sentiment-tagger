@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>455113</articleId>
+    <title>වීරවංශගේ අයියා යළි රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 07 10:23:34</date>
+    <body>රජයේ වාහන අවභාවිත කළැයි සැකපිට සරත් වීරවංශ කොළඹ කොටුව මහේස්ත්‍රාත් ලංකා ජයරත්න මහත්මිය විසින් ලබන 21 තෙක් යළි රිමාන්ඩ් කරනු ලැබීය.
+ඔහු හිටපු ඇමැති විමල් වීරවංශගේ වැඩිමල් සහෝදරයාය.</body>
+    <comments>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2016-09-07 06:25:27</date>
+            <index>0</index>
+            <phrase>මෙය නම් ගෝලීය නව යටත්විජිතවාදී, ලිබරල් ධනවාදී ඇමරිකාව ඇතුළු ජාත්‍යන්තරයේ කුමන්ත්‍රණයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවි</author>
+            <date>2016-09-07 07:56:34</date>
+            <index>1</index>
+            <phrase>මේ අර පොලිසිය යන විට රෝද පුටුව උඩට වෙලා සිටින අයියද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-09-07 08:23:04</date>
+            <index>2</index>
+            <phrase>1977 සිට රජයට සම්බන්ධ අය කරන ලද රාජ්‍ය දේපල අවභාවිතාවන් ගැන සලකා බලනවිට මෙය තනිකරම පලිගැනීම උදෙසා කරන දේවල් බව පැහැදිලිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

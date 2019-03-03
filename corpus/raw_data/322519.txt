@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>322519</articleId>
+    <title>බයිසිකලය පොල් ගහේ</title>
+    <author>සරත් සිරිවර්ධන</author>
+    <date>2015 ජූනි මස 05 12:22:33</date>
+    <body>මුහුදුබඩ වැසිත් සමඟ පාරවල් යට වී අවහිර වී ගල්කොළන් ඇද වැටී ජන ජීවිතය අවුල් විය.
+බේරුවල මෙම තත්ත්වය වඩාත් බරපතල විය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සම්පත් තෙන්නකෝන්</author>
+            <date>2015-06-13 04:04:47</date>
+            <index>0</index>
+            <phrase>පොල් ගහ බයිසිකලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>
