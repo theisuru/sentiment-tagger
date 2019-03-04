@@ -56,4 +56,5 @@ def check_model_qulity(model, word):
     for s in model.most_similar(word):
         print(s[0])
 
+
 main()

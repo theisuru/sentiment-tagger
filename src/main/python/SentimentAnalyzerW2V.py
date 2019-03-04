@@ -1,7 +1,7 @@
 # coding: utf-8
 
 import SentimentCommons as Commons
-import W2vVectorizer
+import W2VVectorizer
 import pandas as pd
 import time
 from prettytable import PrettyTable
@@ -24,27 +24,27 @@ def run_holdout():
     print("Processing dataset: " + str(train_data.columns.values))
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_from_unlabeled_comments_all_300", False)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_from_unlabeled_comments_all_300", False)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V tfidf vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_from_unlabeled_comments_all_300", True)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_from_unlabeled_comments_all_300", True)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V tfidf vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300", True)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", True)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300_5", False)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300_5", False)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V tfidf vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300_5", True)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300_5", True)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     return
@@ -55,7 +55,7 @@ def run_holdout():
 #     comments = pd.read_csv("../../../corpus/analyzed/comments_tagged_remove.csv", ";")
 #
 #     pretty_table = PrettyTable(["Algorithm", "Accuracy", "Precision", "Recall", "F1_Score"])
-#     vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
+#     vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
 #     model_svm = make_pipeline(vectorizer, SVC(C=1, kernel="linear"))
 #
 #     predictions = cross_val_predict(model_svm, comments["comment"], comments["label"], cv=3)

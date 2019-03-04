@@ -5,7 +5,7 @@ import numpy as np
 from gensim.models import word2vec
 
 
-class W2vVectorizer:
+class W2VVectorizer:
     """vectorize the words using predefined W2V model"""
 
     def __init__(self, w2v_model_name, tfidf):

@@ -1,15 +1,14 @@
+import matplotlib.pyplot as plt
 import pandas as pd
+from prettytable import PrettyTable
 from scipy.sparse import csr_matrix
 from sklearn import preprocessing
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix
-import matplotlib.pyplot as plt
-from prettytable import PrettyTable
-
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, confusion_matrix
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
 
 
 def fit_models(vectorizer, train_data, test_data):
@@ -19,7 +18,8 @@ def fit_models(vectorizer, train_data, test_data):
     vectorized_test_comments = vectorizer.transform(test_data["comment"])
 
     # Logistic Regression model
-    model = LogisticRegression()
+    model = LogisticRegression(solver='liblinear')
+    # model = LogisticRegression(solver='lbfgs')
     model = model.fit(vectorized_train_comments, train_data["label"])
     predictions = model.predict(vectorized_test_comments)
     evaluation_metrics(test_data["label"], predictions, pretty_table, "Logistic Regression")
@@ -51,7 +51,6 @@ def fit_models(vectorizer, train_data, test_data):
     evaluation_metrics(test_data["label"], predictions, pretty_table, "SVM")
     print_confusion_matrix(test_data["label"], predictions)
 
-
     # Random forest model
     model = RandomForestClassifier(n_estimators=100)
     model = model.fit(vectorized_train_comments, train_data["label"])
@@ -61,6 +60,7 @@ def fit_models(vectorizer, train_data, test_data):
     print(pretty_table)
     print("")
     return
+
 
 def evaluation_metrics(true_sentiment, predicted_sentiment, pretty_table, algorithm):
     label_binarizer = preprocessing.LabelBinarizer()

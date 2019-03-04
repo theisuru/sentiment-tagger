@@ -1,7 +1,7 @@
 # coding: utf-8
 
 import SentimentCommons as Commons
-import W2vVectorizer
+import W2VVectorizer
 import pandas as pd
 import numpy as np
 import time
@@ -28,7 +28,7 @@ def run_holdout():
     print("Processing dataset: " + str(train_data.columns.values))
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
     fit_models(vectorizer, train_data, test_data)
 
     return
@@ -46,7 +46,7 @@ def run_cross_val():
     for train_index, test_index in kf.split(comments):
         train_data_comments, test_data_comments = comments["comment"][train_index], comments["comment"][test_index]
         train_data_labels, test_data_labels = comments["label"][train_index], comments["label"][test_index]
-        vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
+        vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
         predictions = fit_models(vectorizer, train_data_comments, test_data_comments, train_data_labels, test_data_labels)
         all_predictions = all_predictions + predictions.tolist()
 

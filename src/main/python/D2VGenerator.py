@@ -12,6 +12,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 from tqdm import tqdm
+import numpy as np
 
 trainData = pd.read_csv("../../../corpus/analyzed/train.csv", ";", quoting=3)
 testData = pd.read_csv("../../../corpus/analyzed/test.csv", ";", quoting=3)
@@ -19,11 +20,11 @@ unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all.csv", header=
 print("Read %d labeled train reviews, %d labeled test reviews, %d un-labeled reviews\n" %
       (trainData["comment"].size, testData["comment"].size, unlabeledData["comment"].size))
 
-num_features = 300
-context = 10
+num_features = 200
+window = 10
 cores = 8
 doc2vec_model = "../../../corpus/analyzed/saved_models/doc2vec_model_skipgram_" \
-                 + str(num_features) + "_" + str(context)
+                + str(num_features) + "_" + str(window)
 
 
 def main():
@@ -38,8 +39,7 @@ def generate_doc2vec_model():
 
     comments = [TaggedDocument(str(comment), [i]) for i, comment in enumerate(comments_list)]
 
-    # model = Doc2Vec(comments, vector_size=300, window=5, min_count=1, workers=8)
-    # model.save(doc2vec_model)
+    # model = Doc2Vec(comments, vector_size=num_features, window=window, min_count=2, workers=cores)
 
     # model = Doc2Vec(dm=0, vector_size=300, negative=5, hs=0, min_count=2, sample=0, workers=cores)
     # model.build_vocab(comments)
@@ -48,27 +48,30 @@ def generate_doc2vec_model():
     #     model.alpha -= 0.002
     #     model.min_alpha = model.alpha
 
-    model = Doc2Vec(dm=1, dm_mean=1, vector_size=300, window=10, negative=5, min_count=1, workers=5, alpha=0.065, min_alpha=0.065)
+    model = Doc2Vec(dm=1, dm_mean=1, vector_size=num_features, window=window,
+                    negative=5, min_count=1, workers=cores,
+                    alpha=0.065, min_alpha=0.065)
     model.build_vocab(comments)
     for epoch in tqdm(range(10)):
         model.train(utils.shuffle(comments), total_examples=len(comments), epochs=1)
         model.alpha -= 0.002
         model.min_alpha = model.alpha
 
+    model.save(doc2vec_model)
     # model = Doc2Vec.load(doc2vec_model)
     # # model.delete_temporary_training_data(keep_doctags_vectors=True, keep_inference=True)
     # vector = model.infer_vector(["නැහැ", 'ගෑණි', 'ඔබතුමන්ට'])
     # print(vector)
 
-    train_vector = []
-    for comment in trainData["comment"]:
+    train_vector = np.zeros((len(trainData["comment"]), num_features), dtype="float32")
+    for i, comment in enumerate(trainData["comment"]):
         comment_word_list = get_word_list(comment)
-        train_vector.append(model.infer_vector(comment_word_list))
+        train_vector[i] = model.infer_vector(comment_word_list)
 
-    test_vector = []
-    for comment in testData["comment"]:
+    test_vector = np.zeros((len(testData["comment"]), num_features), dtype="float32")
+    for i, comment in enumerate(testData["comment"]):
         comment_word_list = get_word_list(comment)
-        test_vector.append(model.infer_vector(comment_word_list))
+        test_vector[i] = model.infer_vector(comment_word_list)
 
     pretty_table = PrettyTable(["Algorithm", "Accuracy", "Precision", "Recall", "F1_Score"])
     # Logistic Regression model
@@ -94,6 +97,7 @@ def generate_doc2vec_model():
 
     print(pretty_table)
 
+
 # split a comment into sentences of words
 def get_word_list(comment):
     word_list = []
@@ -115,5 +119,6 @@ def evaluation_metrics(true_sentiment, predicted_sentiment, pretty_table, algori
     f1_score_str = str(f1_score(test_labels, predict_labels))
     pretty_table.add_row([algorithm, accuracy_str, precision_str, recall_str, f1_score_str])
     return
+
 
 main()

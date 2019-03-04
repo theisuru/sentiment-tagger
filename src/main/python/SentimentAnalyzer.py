@@ -1,21 +1,24 @@
 # coding: utf-8
 
-import SentimentCommons as Commons
-import W2vVectorizer
-import pandas as pd
 import time
+
+import pandas as pd
 from prettytable import PrettyTable
-from sklearn.pipeline import make_pipeline
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from sklearn.model_selection import train_test_split, cross_val_score, cross_val_predict
 from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split, cross_val_predict
+from sklearn.pipeline import make_pipeline
 from sklearn.svm import SVC
+
+import SentimentCommons as Commons
+import W2VVectorizer
+import D2VVectorizer
 
 
 def main():
     start_time = time.time()
-    # run_train_test_split()
-    run_holdout()
+    run_train_test_split()
+    # run_holdout()
     # run_cross_validation()
     end_time = time.time()
     print("Time taken for the process: " + str(end_time - start_time))
@@ -36,9 +39,14 @@ def run_train_test_split():
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer("../../../corpus/analyzed/saved_models/word2vec_model_from_unlabeled_comments_all_300", False)
+    vectorizer = W2VVectorizer.W2VVectorizer(
+        "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300_10", False)
     Commons.fit_models(vectorizer, train_data, test_data)
-    return
+
+    print("Extracting features with D2V vectorizer")
+    vectorizer = D2VVectorizer.D2VVectorizer(
+        "../../../corpus/analyzed/saved_models/doc2vec_model_skipgram_200_10")
+    Commons.fit_models(vectorizer, train_data, test_data)
 
 
 def run_holdout():
@@ -53,7 +61,7 @@ def run_holdout():
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with 2-gram count vectorizer")
-    vectorizer = CountVectorizer(ngram_range=(2,2), analyzer="word", tokenizer=lambda text: text.split())
+    vectorizer = CountVectorizer(ngram_range=(2, 2), analyzer="word", tokenizer=lambda text: text.split())
     Commons.fit_models(vectorizer, train_data, test_data)
     #
     print("Extracting features with tfidf vectorizer")
@@ -61,14 +69,15 @@ def run_holdout():
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_name, False)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_name, False)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V tfidf vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_name, True)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_name, True)
     Commons.fit_models(vectorizer, train_data, test_data)
 
     return
+
 
 def run_cross_validation():
     comments = pd.read_csv("../../../corpus/analyzed/comments_tagged_remove.csv", ";")

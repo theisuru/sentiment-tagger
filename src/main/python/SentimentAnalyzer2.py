@@ -17,7 +17,7 @@ from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 
 import SentimentCommons as Commons
-import W2vVectorizer
+import W2VVectorizer
 
 
 def main():
@@ -42,7 +42,7 @@ def run_holdout():
     # fit_models_logistic_regression(vectorizer, train_data, test_data)
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2vVectorizer.W2vVectorizer(w2v_model_name, False)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_name, False)
     fit_models_random_forest(vectorizer, train_data, test_data)
     fit_models_svm(vectorizer, train_data, test_data)
     fit_models_logistic_regression(vectorizer, train_data, test_data)

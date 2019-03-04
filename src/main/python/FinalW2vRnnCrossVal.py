@@ -1,7 +1,7 @@
 # coding: utf-8
 
 import SentimentCommons as Commons
-import W2vVectorizer
+import W2VVectorizer
 import pandas as pd
 import numpy as np
 import time
