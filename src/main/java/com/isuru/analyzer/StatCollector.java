@@ -98,7 +98,7 @@ public class StatCollector {
             fileWriter.write("number of comments: " + noOfComments + "\n");
             fileWriter.write("total number of article words: " + totalArticleWords + "\n");
             fileWriter.write("total number of comment words: " + totalCommentWords + "\n");
-            fileWriter.write("number of unique words in comments: " + articleWordSet.size() + "\n");
+            fileWriter.write("number of unique words in articles: " + articleWordSet.size() + "\n");
             fileWriter.write("number of unique words in comments: " + commentWordSet.size() + "\n\n");
             fileWriter.write("average article words: " + totalArticleWords / noOfArticles + "\n");
             fileWriter.write("average comment words: " + totalCommentWords / noOfComments + "\n");

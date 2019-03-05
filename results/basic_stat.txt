@@ -2,7 +2,7 @@ number of articles: 16840
 number of comments: 290189
 total number of article words: 4310193
 total number of comment words: 4587547
-number of unique words in comments: 262016
+number of unique words in articles: 262016
 number of unique words in comments: 237775
 
 average article words: 255
