@@ -2,10 +2,8 @@ package com.isuru.analyzer;
 
 import com.isuru.bean.Comment;
 import com.isuru.bean.NewsArticle;
-import com.isuru.bean.Sentiment;
 
 import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
 import java.io.File;
 import java.io.FileWriter;
@@ -13,16 +11,17 @@ import java.io.IOException;
 import java.util.*;
 import java.util.logging.Logger;
 
+import static java.util.Objects.requireNonNull;
+
 /**
  * Extract comments from NewsArticle.
  */
 public class StatCollector {
     private static final Logger logger = Logger.getLogger("StatCollector");
 
-    private static final String SEPARATOR = ";";
-    private static final String NEW_LINE = "\n";
-
     private static Unmarshaller jaxbUnmarshaller;
+    private static Set<String> articleWordSet = new HashSet<>();
+    private static Set<String> commentWordSet = new HashSet<>();
 
     private static long noOfArticles = 0;
     private static long noOfComments = 0;
@@ -32,14 +31,11 @@ public class StatCollector {
     private static List<Integer> articleCommentCountList = new ArrayList<>();
     private static Map<String, Integer> dateCommentCountMap = new HashMap<>();
 
-    private static long avgArticleWordCount = 0;
-    private static long avgCommentWordCount = 0;
-    private static long avgNoOfCommentsPerArticle = 0;
-
     public static void main(String[] args) throws Exception {
-        File folder = new File("./corpus/new");
+        File folder = new File("./corpus/raw_data");
         File[] listOfFiles = folder.listFiles();
-        StatCollector statCollector = new StatCollector();
+        requireNonNull(listOfFiles, "No data files to begin with");
+
         JAXBContext jaxbContext = JAXBContext.newInstance(NewsArticle.class);
         jaxbUnmarshaller = jaxbContext.createUnmarshaller();
 
@@ -47,18 +43,18 @@ public class StatCollector {
             articleCommentCountList.add(0);
         }
 
-        for (int i = 0; i < listOfFiles.length; i++) {
-            if (listOfFiles[i].isFile()) {
-                logger.info("File " + listOfFiles[i].getName());
-                statCollector.count(listOfFiles[i]);
-            } else if (listOfFiles[i].isDirectory()) {
-                logger.info("Directory " + listOfFiles[i].getName());
+        for (File file : listOfFiles) {
+            if (file.isFile()) {
+                logger.info("File: " + file.getName());
+                count(file);
+            } else if (file.isDirectory()) {
+                logger.info("Directory: " + file.getName());
             }
         }
-        statCollector.writeToFiles();
+        writeToFiles();
     }
 
-    private void count(File file) throws Exception {
+    private static void count(File file) throws Exception {
         NewsArticle newsArticle = (NewsArticle) jaxbUnmarshaller.unmarshal(file);
         String s;
         int commentsPerFile = 0;
@@ -67,17 +63,21 @@ public class StatCollector {
         ++noOfArticles;
         s = newsArticle.getBody().replaceAll("[\\s*(\\p{Punct})+\\s*]", " ");
         s = s.replaceAll("\\s+", " ");
-        totalArticleWords += s.split(" ").length;
+        String[] articleWords = s.split(" ");
+        articleWordSet.addAll(new HashSet<>(Arrays.asList(articleWords)));
+        totalArticleWords += articleWords.length;
 
         for (Comment comment : newsArticle.getComments()) {
             ++noOfComments;
             s = comment.getPhrase().replaceAll("[\\s*(\\p{Punct})+\\s*]", " ");
             s = s.replaceAll("\\s+", " ");
-            totalCommentWords += s.split(" ").length;
+            String[] commentWords = s.split(" ");
+            commentWordSet.addAll(new HashSet<>(Arrays.asList(commentWords)));
+            totalCommentWords += commentWords.length;
 
             ++commentsPerFile;
             commentDate = comment.getDate().substring(0, 10);
-            if(commentDate != null && !commentDate.equals("") && !commentDate.equals(" ")) {
+            if (!commentDate.equals("") && !commentDate.equals(" ")) {
                 if (dateCommentCountMap.containsKey(commentDate)) {
                     dateCommentCountMap.put(commentDate, dateCommentCountMap.get(commentDate) + 1);
                 } else {
@@ -88,22 +88,24 @@ public class StatCollector {
         articleCommentCountList.set(commentsPerFile, articleCommentCountList.get(commentsPerFile) + 1);
     }
 
-    private void writeToFiles() {
-        String basicStat = "./corpus/analyzed/statBasic.csv";
-        String commentCount = "./corpus/analyzed/statCommentCount.csv";
-        String commentDates = "./corpus/analyzed/statCommentDates.csv";
+    private static void writeToFiles() {
+        String basicStat = "./results/basic_stat.txt";
+        String commentCount = "./results/comments_count.csv";
+        String commentDates = "./results/comment_dates_count.csv";
 
         try (FileWriter fileWriter = new FileWriter(basicStat)) {
-            fileWriter.write("# articles: " + noOfArticles + "\n");
-            fileWriter.write("# comments: " + noOfComments + "\n");
-            fileWriter.write("total # article words: " + totalArticleWords + "\n");
-            fileWriter.write("total # comment words: " + totalCommentWords + "\n");
+            fileWriter.write("number of articles: " + noOfArticles + "\n");
+            fileWriter.write("number of comments: " + noOfComments + "\n");
+            fileWriter.write("total number of article words: " + totalArticleWords + "\n");
+            fileWriter.write("total number of comment words: " + totalCommentWords + "\n");
+            fileWriter.write("number of unique words in comments: " + articleWordSet.size() + "\n");
+            fileWriter.write("number of unique words in comments: " + commentWordSet.size() + "\n\n");
             fileWriter.write("average article words: " + totalArticleWords / noOfArticles + "\n");
             fileWriter.write("average comment words: " + totalCommentWords / noOfComments + "\n");
             fileWriter.write("average comments per article: " + noOfComments / noOfArticles + "\n");
             fileWriter.flush();
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.severe("Failed to write to the output file: " + e.toString());
         }
 
         try (FileWriter fileWriter = new FileWriter(commentCount)) {
@@ -113,7 +115,7 @@ public class StatCollector {
             }
             fileWriter.flush();
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.severe("Failed to write to the output file: " + e.toString());
         }
 
         try (FileWriter fileWriter = new FileWriter(commentDates)) {
@@ -125,7 +127,7 @@ public class StatCollector {
             }
             fileWriter.flush();
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.severe("Failed to write to the output file: " + e.toString());
         }
     }
 }
