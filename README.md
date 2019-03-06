@@ -1,5 +1,8 @@
 Sentiment Analysis of Sinhala News Comments
 ============================================
+contact
+- Surangika Ranathunga <surangika@cse.mrt.ac.lk>
+- Isuru Liyanage <theisuru@gmail.com> 
 
 ## Summary
 This project contains all submodules for building a sentiment classification workflow for Sinhala
