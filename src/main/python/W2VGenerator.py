@@ -27,7 +27,7 @@ def generate_word2vec_model():
 
     print("# of comments taken for building the model: " + str(len(comments)))
 
-    # num_features = 1000  # Word vector dimensionality
+    # num_features = 1000  # Word vector dimensionality1
     # context = 10  # Context window size
     downsampling = 1e-3  # Downsample setting for frequent words
     min_word_count = 1  # Minimum word count - if not occurred this much remove
@@ -39,6 +39,8 @@ def generate_word2vec_model():
     model.save(word2vec_model)
 
     check_model_qulity(model, 'නැහැ')
+    check_model_qulity(model, 'හොඳයි')
+    check_model_qulity(model, 'ඔබට')
     return
 
 
@@ -55,6 +57,8 @@ def to_separate_sentences(comment):
 def check_model_qulity(model, word):
     for s in model.most_similar(word):
         print(s[0])
+    # for s in model.wv.most_similar(positive=['ගෑණි', 'ඔබතුමන්ට'], negative=['මිනිහා']):
+    #     print(s[0])
 
 
 main()

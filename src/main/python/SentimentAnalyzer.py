@@ -17,8 +17,8 @@ import D2VVectorizer
 
 def main():
     start_time = time.time()
-    run_train_test_split()
-    # run_holdout()
+    # run_train_test_split()
+    run_holdout()
     # run_cross_validation()
     end_time = time.time()
     print("Time taken for the process: " + str(end_time - start_time))

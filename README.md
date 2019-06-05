@@ -35,10 +35,22 @@ Therefore they are stored in git-lfs. To download them you need to install [git-
 ```
 
 #### Dataset
-**corpus** directory contains dataset and analysed models.
-raw_data: This directory contains news articles with associating comments. These files contains original news articles before any of the preprocessing steps.
-analyzed: This directory contains the pre-processed file and generated models
-saved_models: Holds generated models (eg. word2wec model)
+##### Summary of dataset
+- Number of articles: 16840
+- Number of comments: 290189
+- Total number of article words: 4310193
+- Total number of comment words: 4587547
+- Number of unique words in articles: 262016
+- Number of unique words in comments: 237775
+
+```corpus``` directory contains dataset and analysed models.
+```raw_data```: This directory contains news articles with associating comments. These files contains original news articles before any of the preprocessing steps.
+```analyzed```: This directory contains the pre-processed file and generated models
+```saved_models```: Holds generated models (eg. word2wec model)
+
+##### Word2Vec Models
+Generated Word2Vec models can be found under ```/corpus/analyzed/saved_models```. These models were generated using only the comments of the articles
+(article content was not used for generating models).
 
 ### Results
 ```
@@ -52,6 +64,8 @@ saved_models: Holds generated models (eg. word2wec model)
 |      RNN LSTM       | 0.864583331347 | 0.891712707182	| 0.853146853147 | 0.861719167111 |
 +---------------------+----------------+----------------+----------------+----------------+
 ```
+
+
 
 #### Note
 Dataset used in this project is collected by crawling Sinhala online news sites, mainly www.lankadeepa.lk.

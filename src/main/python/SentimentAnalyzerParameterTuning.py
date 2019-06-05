@@ -29,8 +29,8 @@ def main():
 
 
 def run_holdout():
-    # w2v_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300"
-    w2v_model_name = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram"
+    w2v_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300_5"
+    # w2v_model_name = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram"
     comments = pd.read_csv("../../../corpus/analyzed/comments_tagged_remove_all_punc.csv", ";")
     train_data, test_data = train_test_split(comments, test_size=0.4, random_state=0)
     print("Processing dataset: " + str(train_data.columns.values))

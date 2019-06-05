@@ -10,8 +10,8 @@ import tensorflow as tf
 from sklearn.metrics import f1_score, precision_score, recall_score, confusion_matrix
 
 
-# word2vec_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300"
-word2vec_model_name = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram"
+word2vec_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300_5"
+# word2vec_model_name = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram"
 # word2vec_model_name = "/home/isuru/Downloads/wiki.si/wiki.si.vec"
 
 num_features = 300
@@ -27,7 +27,7 @@ data = tf.placeholder(tf.float32, [batchSize, max_sentence_length, num_features]
 
 
 def main():
-    # convert_to_vectors()
+    convert_to_vectors()
     train_data_vectors, train_data_labels, test_data_vectors, test_data_labels = load_vectors()
 
     print("Running tesnsorflow simulation.....")
@@ -139,16 +139,16 @@ def train_neural_network(loss, accuracy, optimizer, train_data, train_labels):
     writer = tf.summary.FileWriter(logdir, sess.graph)
 
     for i in range(iterations):
-        #Next Batch of reviews
+        # Next Batch of reviews
         next_batch, next_batch_labels = get_batch(batchSize, train_data, train_labels)
         sess.run(optimizer, {data: next_batch, labels: next_batch_labels})
 
-        #Write summary to Tensorboard
+        # Write summary to Tensorboard
         if (i % 50 == 0):
             summary = sess.run(merged, {data: next_batch, labels: next_batch_labels})
             writer.add_summary(summary, i)
 
-        #Save the network every 10,000 training iterations
+        # Save the network every 10,000 training iterations
         if (i % 9999 == 0 and i != 0):
             save_path = saver.save(sess, "models/pretrained_lstm.ckpt", global_step=i)
             print("saved to %s" % save_path)

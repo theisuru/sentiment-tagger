@@ -40,7 +40,7 @@ coeffdf = coeffdf.sort_values(['Coefficient', 'Word'], ascending=[0, 1])
 print(coeffdf.tail(10))
 print(coeffdf.head(10))
 
-coeffdf.to_csv("~/LR_Coefficients.csv", ",", encoding='utf-8')
+coeffdf.to_csv("../../../results/LR_Coefficients.csv", ",", encoding='utf-8')
 
 
 
