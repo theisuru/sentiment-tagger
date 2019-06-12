@@ -22,3 +22,6 @@ run.bat
 run.sh
 src/main/python/fasttext/
 src/main/python/resources/
+src/main/python/vectors/
+src/main/python/models/
+*.~lock*

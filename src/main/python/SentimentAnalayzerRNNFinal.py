@@ -5,14 +5,15 @@ import pandas as pd
 import datetime
 from random import randint
 from gensim.models import word2vec
+from gensim.models.fasttext import FastText
 from sklearn.model_selection import train_test_split
 import tensorflow as tf
 from sklearn.metrics import f1_score, precision_score, recall_score, confusion_matrix
 
 
-word2vec_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300_5"
-# word2vec_model_name = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram"
-# word2vec_model_name = "/home/isuru/Downloads/wiki.si/wiki.si.vec"
+word2vec_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300_10"
+# word2vec_model_name = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_300_10"
+# word2vec_model_name = "../../../corpus/analyzed/saved_models/wiki.si.bin"
 
 num_features = 300
 max_sentence_length = 50
@@ -27,7 +28,7 @@ data = tf.placeholder(tf.float32, [batchSize, max_sentence_length, num_features]
 
 
 def main():
-    convert_to_vectors()
+    # convert_to_vectors()
     train_data_vectors, train_data_labels, test_data_vectors, test_data_labels = load_vectors()
 
     print("Running tesnsorflow simulation.....")
@@ -61,7 +62,9 @@ def load_vectors():
 
 
 def comments_to_vectors(data):
-    model = word2vec.Word2Vec.load(word2vec_model_name)
+    model = word2vec.Word2Vec.load(word2vec_model_name)  #loading word2vec model, this is the correct old one
+    # model = FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/wiki.si.bin")  #loading word2vec model
+    # model = FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/fasttext_model_skipgram_300.bin")  #loading word2vec model
     comment_vectors = []
     comment_labels = []
     for comment in data["comment"]:
@@ -208,3 +211,50 @@ main()
 # ('Precision: ', 0.8967813540510544)
 # ('Recall: ', 0.8347107438016529)
 # ('F1 Score: ', 0.864633493846977)
+
+# skipgram 300_10
+# [852 100 160 808]
+# Accuracy:  0.8651041679084301
+# Precision:  0.8898678414096917
+# Recall:  0.8347107438016529
+# F1 Score:  0.861407249466951
+
+
+# gensim.fastext 300_10 homemade
+# [865  87 159 809]
+# Accuracy:  0.8697916679084301
+# Precision:  0.9029017857142857
+# Recall:  0.8357438016528925
+# F1 Score:  0.8680257510729613
+
+# [855  97 143 825]
+# Accuracy:  0.8750000044703483
+# Precision:  0.8947939262472885
+# Recall:  0.8522727272727273
+# F1 Score:  0.873015873015873
+
+# fasttext pretrained
+# [821 131 195 773]
+# Accuracy:  0.8333333313465119
+# Precision:  0.8550884955752213
+# Recall:  0.7985537190082644
+# F1 Score:  0.8258547008547009
+
+# [803 149 200 768]
+# Accuracy:  0.8192708320915699
+# Precision:  0.8375136314067612
+# Recall:  0.7933884297520661
+# F1 Score:  0.8148541114058356
+
+# fasttext homemade
+# [872  80 171 797]
+# Accuracy:  0.8703125007450581
+# Precision:  0.9087799315849487
+# Recall:  0.8233471074380165
+# F1 Score:  0.8639566395663957
+
+# [861  91 148 820]
+# Accuracy:  0.8770833320915699
+# Precision:  0.9001097694840834
+# Recall:  0.8471074380165289
+# F1 Score:  0.8728046833422033

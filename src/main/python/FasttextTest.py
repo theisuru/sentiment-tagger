@@ -1,48 +1,52 @@
-# coding: utf-8
+# encoding: utf-8
 
-from __future__ import print_function
-from gensim.models import KeyedVectors
-
-# Creating the model
-en_model = KeyedVectors.load_word2vec_format('wiki.en/wiki.en.vec')
-
-# Getting the tokens
-words = []
-for word in en_model.vocab:
-    words.append(word)
-
-# Printing out number of tokens available
-print("Number of Tokens: {}".format(len(words)))
-
-# Printing out the dimension of a word vector
-print("Dimension of a word vector: {}".format(
-    len(en_model[words[0]])
-))
-
-# Print out the vector of a word
-print("Vector components of a word: {}".format(
-    en_model[words[0]]
-))
-
-# Pick a word
-find_similar_to = 'car'
-
-# Finding out similar words [default= top 10]
-for similar_word in en_model.similar_by_word(find_similar_to):
-    print("Word: {0}, Similarity: {1:.2f}".format(
-        similar_word[0], similar_word[1]
-    ))
+import pandas as pd
+from gensim.models import word2vec
+from gensim.models.fasttext import FastText
+from prettytable import PrettyTable
+import fasttext
 
 
-# Test words
-word_add = ['dhaka', 'india']
-word_sub = ['bangladesh']
+num_features = 300
+context = 10
+fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_" \
+                 + str(num_features) + "_" + str(context)
 
-# Word vector addition and subtraction
-for resultant_word in en_model.most_similar(
-        positive=word_add, negative=word_sub
-):
-    print("Word : {0} , Similarity: {1:.2f}".format(
-        resultant_word[0], resultant_word[1]
-    ))
+
+def main():
+    pretty_table = PrettyTable()
+
+    # model = load_gensim_fastext()
+    # add_to_table(model, 'නැහැ', 'gensim fasttext', pretty_table)  #නැහැ, හොඳයි, ඔබට
+    model = load_homemade_fasttext()
+    add_to_table(model, 'නැහැ', 'homemade fasttext', pretty_table)
+    add_to_table(model, 'හොඳයි', 'homemade fasttext', pretty_table)
+    add_to_table(model, 'ඔබට', 'homemade fasttext', pretty_table)
+    # model = load_pretrained_fasttext()
+    # add_to_table(model, 'නැහැ', 'pretrained fasttext', pretty_table)
+
+    print(pretty_table)
+    return
+
+
+def load_gensim_fastext():
+    return word2vec.Word2Vec.load(fasttext_model)
+
+
+def load_homemade_fasttext():
+    return FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/fasttext_model_skipgram_300.bin")
+
+
+def load_pretrained_fasttext():
+    return FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/wiki.si.bin")
+
+
+def add_to_table(model, word, model_name, pretty_table):
+    similar_words = []
+    for s in model.most_similar(word):
+        similar_words.append(s[0])
+
+    pretty_table.add_column(model_name, similar_words)
+
+main()
 
