@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30561</articleId>
+    <title>පුත්තලමේ ඉස්සෝ සතුටින්</title>
+    <author>හිරාන් ප්‍රියංකර ජයසිංහ</author>
+    <date>2012 මාර්තු මස 09 12:26:01</date>
+    <body>පුත්තලම පරණ මන්නාරම් පාරේ ඉස්සන් ගොවිපොළ 300ක පමණ ඉස්සන් විකුණා ගැනීමට මගක් නැතැයි එහි සුභසාධක සංගමය කියයි. මාස පහකට රුපියල් 1000-1200ට අලෙවි වූ ඉස්සන් කිලෝව දැන් රුපියල් 750කටත් නොගනිතියි කියති. මෙට්‍රික් ටොන් 800ක පමණ ඉස්සන් එහි ඇති බවත් ඔවුහු සඳහන් කරති.
+ඉස්සකුට මාස පහ පිරෙන්නට පෙර විකුණා නොගතහොත් මුළු ආයෝජනය වතුරේ යතියි ඔවුහු කියති. මේ ඉස්සන්ට දැන් මාස හතර හමාරකි.</body>
+    <comments>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-03-09 12:34:00</date>
+            <index>0</index>
+            <phrase>ඕකට තමයි ඇඟේ මාළු ගගේ නටනවා කියන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දි සිල්වා</author>
+            <date>2012-03-09 13:21:16</date>
+            <index>1</index>
+            <phrase>ඉල්ලුමේ හැටියට තමයි වෙලඳපොල නිර්මාණය වෙන්නේ.. ඉල්ලුම 750 නම් ඒ ගානටම දෙන්නත් වෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-03-09 14:00:29</date>
+            <index>2</index>
+            <phrase>දැනට මේ ගැටඵවට පිළිතුරු වයඹ ධීවර අමාත්‍යාංශය හොයා ගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-03-09 15:09:45</date>
+            <index>3</index>
+            <phrase>ඕක තමයි අපි කියන්නේ මේ යන ක්‍රෙම් හරි යන්නේ නෑ කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-03-09 15:24:31</date>
+            <index>4</index>
+            <phrase>වැඩිගානට ගියොත් මිනිස්සු කියනවා ගනන් වැඩී කියලා. අඩු වුණොත් තව දෙයක් කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

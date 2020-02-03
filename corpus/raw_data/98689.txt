@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>98689</articleId>
+    <title>ඉන්දියා ප්‍රහාරයෙන් ලක්ෂ 22ක් වතුරේ</title>
+    <author>පද්මා කුමාරි</author>
+    <date>2013 පෙබරවාරි මස 18 11:26:57</date>
+    <body>ශ්‍රී ලංකා මුහුදු සීමාවේදී ඉන්දියා ධීවරයන්ගේ ප්‍රහාරයට ලක්වූ බහුදින යාත්‍රාව කල්පිටි ජැටියට ගෙන එනු ලැබීය. එහි බඳ, සීත කාමරය හා පියස්සට ද හානි කර තිබිණි.
+ඉන්දියා ධීවරයන් අපේ මුහුදට අවුත් දැල් කපා මාළු කොල්ලකතියි කල්පිටිය බහුදින යාත්‍රා සංගමයේ සභාපති ඇන්ටන් කුසුම් රෙක්ස් කියයි.
+තම බෝට්ටුවට සිදුවූ පාඩුව රුපියල් ලක්ෂ පහලොවක් බවත් රුපියල් ලක්ෂ 7ක පමණ දැල් කපා ඇති බවත්, දෙවියන්ට කීම හැර කළ යුතු වෙනත් දෙයක් නැති බවත් බෝට්ටු හිමිකරු සුරේෂ් සංජීව පවසයි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-02-18 11:52:30</date>
+            <index>0</index>
+            <phrase>ගෙදරට ඇවිත් ගහලා යනකම් බලා හිටියද? කමක් නැහැ ඉන්දියාව අපේ ලොකු අයියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-02-18 12:27:33</date>
+            <index>1</index>
+            <phrase>ඔච්චර හරියක් කරලා යනකම් අපේ අය අත පය බැදගෙන බලාගෙන හිටියද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාර්ක්</author>
+            <date>2013-02-18 12:27:46</date>
+            <index>2</index>
+            <phrase>කෝ! මේකට ප්‍රතිචාර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2013-02-18 12:31:30</date>
+            <index>3</index>
+            <phrase>මෙහෙමත් මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2013-02-18 12:38:45</date>
+            <index>4</index>
+            <phrase>කොටින්ගේ තවත් එක කුරුමානමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-02-18 13:25:27</date>
+            <index>5</index>
+            <phrase>මුහුද මැදදි ගහනකොට වෙන මොනවා කරන්නද වරුණ... මොකද අපි ගියේ මාළු අල්ලන්නනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර</author>
+            <date>2013-02-18 13:27:28</date>
+            <index>6</index>
+            <phrase>ඔයා විතරයි මේ ලිපිය කියවලා තියෙන්නේ ඒක කාගෙන්වත් ප්‍රතිචාර නැත්තේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-02-18 13:51:07</date>
+            <index>7</index>
+            <phrase>" මේක ජාත්‍යන්තර කුමන්ත්‍රණයක් " කෝ එහෙම කියන කෙනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාටින්</author>
+            <date>2013-02-18 14:18:51</date>
+            <index>8</index>
+            <phrase>මේක බහු දින තියා ලංකාවේ පොකුනකටවත් දාන්න බැරි බෝට්ටු කබලක්නේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලා</author>
+            <date>2013-02-18 14:25:29</date>
+            <index>9</index>
+            <phrase>කාටද මේ දුක කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-02-18 15:15:59</date>
+            <index>10</index>
+            <phrase>අපිට කොයින්ද මාළු අපි යනවද මුහුදු .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2013-02-18 15:40:41</date>
+            <index>11</index>
+            <phrase>ඉන්දියාවේ හරි ලංකාවේ හරි දෙගොල්ලොම කරන්නෙ සත්ත්ව ඝාතනයනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-02-18 17:44:27</date>
+            <index>12</index>
+            <phrase>ජනපතිතුමනි දැන්මම මේකට පිලියමක් යොදන්න .තමිල්නාඩු කොටින්ගේ වැඩද මේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-02-18 17:51:10</date>
+            <index>13</index>
+            <phrase>අල්ලපු පිටුව මුහුදේ අතරමං වුන පිරිසක් ගැන.නාවික හමුදාවට පින් ඔවුන්ව බේරාගත්තාට.බලපු අය පෝලිමට කමෙන්ට් කරලා නම් තියෙනවා.මේ පිටුවේ අපේම මිනිසුන්ට කරදරයක් වුන වෙලාවට අපිට ඇවිදින් ගහලා යන වෙලාවට ලියන්න දේවල් නෑ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-02-18 17:57:16</date>
+            <index>14</index>
+            <phrase>මාටින් මාලු කනකොට මොන බෝට්ටුවෙන්ද ඇල්ලුවෙ කියලා හොයනවද.ඒ මිනිසුන්ගේ රැකියාවට ගරහන්න එපා.යොහාන්ට නම් තමන්ගේ කමක් නෑ වගේ..මේ වගේ මිනිස්සු ඉන්නකොට අපිට රටටම ඇවිත් ගහලා යයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෆික්</author>
+            <date>2013-02-18 18:00:32</date>
+            <index>15</index>
+            <phrase>අපරාදේ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයන්ත</author>
+            <date>2013-02-18 22:33:47</date>
+            <index>16</index>
+            <phrase>අපේ රටේ ඉන්න සම'හරක්' හිතාගෙන ඉන්නේ ධීවරයො කියන්නේ පහළ පන්තියක් කියලා. මුහුද ආශ්‍රිතව ඉන්න මිනිස්සු මාලු අල්ලන්නේ නැතිව මූදෙ ගොයම් හිටවන්නද? මේ අදහස් වලිනුයි, අදහස් දාන්න තියෙන උනන්දුවෙනුයි පේනවා අපේ රටේ මිනිසුන්ගේ 'ඇත්ත' තත්වය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2013-02-19 07:12:10</date>
+            <index>17</index>
+            <phrase>අපේ නාවුක හමුදාව පිට මිනිසුන්ව බේර ගන්නවා. පිටින් ඇවිල්ලා ගහලා යන ඒවත් පොඩ්ඩක් බැළුවොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතිෂ්</author>
+            <date>2013-02-19 11:48:09</date>
+            <index>18</index>
+            <phrase>මොකද්ද ඒකට ගත්ත නිතිමය පියවර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත</author>
+            <date>2013-02-22 11:10:25</date>
+            <index>19</index>
+            <phrase>ගයන්ත‍ගේ කතාව මම අනුමත කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

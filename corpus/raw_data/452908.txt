@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452908</articleId>
+    <title>දඹුලු විරෝධතාවයට කඳුළු ගෑස්</title>
+    <author>ඡායාරූප - කාංචන කුමාර ආරියදාස</author>
+    <date>2016 අගෝස්තු මස 31 17:02:50</date>
+    <body>ශ්‍රී ලංකාව හා ඕස්ට්‍රේලියාව අතර දඹුලු ක්‍රීඩාංගනයේ පැවැත්වෙන අවසන් එක්දින තරඟය බැලීමට ටිකට් නැතැයි කියමින්  කුරුනෑගල - කොළඹ පාර හරස් කරගෙන විරෝධතා පැවැත්වූ පිරිස ඉවත් කිරීමට පොලිසිය කඳුළු ගෑස් හා ජල ප්‍රහාරයක් එල්ල කළේය.</body>
+    <comments>
+        <comment>
+            <author>දේවි</author>
+            <date>2016-08-31 12:02:17</date>
+            <index>0</index>
+            <phrase>මාර්ග තිබෙන්නේ ජනතාවට ගමන්කරන්නයි.එයට බාධා කරන්නන්ට තදබල දඩුවම් දිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-08-31 16:16:49</date>
+            <index>1</index>
+            <phrase>හොඳ වැඩේ , කඳුළු ගස් වලින් නෙමේ අසුචි වලින් නාවන්න ඕනේ,නඩුත් දන්නා ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-08-31 17:30:52</date>
+            <index>2</index>
+            <phrase>රටට\n බත දෙන ගොවියා දුප්පතා. මුන්ට ක්‍රිකට් උණ. හාල් කිලෝ එක දෙන්න ඕනි රුපියල් පන්සීයට. එතකොට තේරෙයි ක්‍රිකට්ද ඕනෙ බත්ද ඕනෙ කියල.\</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2016-09-01 02:16:58</date>
+            <index>3</index>
+            <phrase>ඕක තමයි යහපාලනය මේ රටට ගැළපෙන්නේ නැහැ කියන්නේ. හැම එකකටම මහපාර වහගෙන උද්ඝෝෂණ. පසුගිය රජය කාලේ ඕවා කළා නම් මීටවඩා වැඩ බලන්න තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසුන්දර</author>
+            <date>2016-09-01 03:32:23</date>
+            <index>4</index>
+            <phrase>මේවා නිසි කළමනාකාරිත්වයක් නැති එකේ විපාක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

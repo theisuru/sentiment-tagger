@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>87276</articleId>
+    <title>කන්තලේ වැව කිරි සයුරක් වේ</title>
+    <author>කේඞී විජේපාල</author>
+    <date>2012 දෙසැම්බර් මස 23 10:43:34</date>
+    <body>කන්තලේ වැවේ ජල මට්ටම අක්කර අඩි 113000 දක්වා ඉහළ යෑමත් සමග වාන් දොරටු දහයම අඩි තුන බැගින් විවෘත කළ බව වාරිමාර්ග ඉන්ජිනේරු ඩබ්ලිව් එන් එල් බුද්ධික මහතා පවසයි.
+ගිනි පෙට්ටි පාලම ද, පෙරාරු ජනපදයේ කොටසක් ද, කෙත්වතු අක්කර දහස් ගණනක් ද යටවී ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-12-23 11:32:57</date>
+            <index>0</index>
+            <phrase>කිරි සයුර ගැලුවට නම් කමක් නැහැ. හැබැයි රට ලේ විලක් නම් වෙන්න එපා කියලයි අපි ප්‍රාර්ථනා කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරොෂන්</author>
+            <date>2012-12-23 12:48:10</date>
+            <index>1</index>
+            <phrase>ආසයි බයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-12-23 13:21:24</date>
+            <index>2</index>
+            <phrase>හොඳයි...ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-12-23 14:22:08</date>
+            <index>3</index>
+            <phrase>ලංකාවේ වතුරත් හරියට බඩුමිල වගේනේ ? ලේසියෙන් අඩු වෙන්නෑ ජලමටිටම ඉහල ගියානම් පහලබහින්නේ පහල ඉන්න මිනිසුන්ගේ දේපල සියල්ල විනාස කර ගෙන .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-12-23 14:36:30</date>
+            <index>4</index>
+            <phrase>අපිට බැරිද මේ ලංකාවේ අපතේ යන ජලකඳ අරාබිකරයට ලබාදී අරාබියෙන් පැටිට්‍රල් ලබාගන්නා ක්‍රමයක් ගැන හිතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2012-12-23 15:32:30</date>
+            <index>5</index>
+            <phrase>පැරකුම් රජතුමනි, ඔබගේ වදන් වියැකෙන්න නොදී යලි උපදිනු මැනවි අප ලක්බිමේ! අහසින් වැටෙන ජලය ප්‍රයෝජනයට ගන්න, දැන් දියුණුයි කියන , නව තාක්‍ෂන ක්‍රම තියෙන මේ කාලයේදීවත්, පැරකුම් සමයේ මිනිස් මොලවල තිබූ දක්ශකම් නොමැති නිසා අහසින් වැටෙන මේ ජලයෙන් ජීවිත සරුකර ගන්නා සැටි පහදා දෙන්නට යලි උපදිනුමැන සුන්ඳර අපගේ මේ ලක්බිමේ!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

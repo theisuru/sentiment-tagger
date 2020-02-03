@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44232</articleId>
+    <title>පොන්සේකා දළදා මැදු‍රේ</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 මැයි මස 22 17:56:35</date>
+    <body>හිටපු යුධහමුදාපති සරත් පොන්සේකා අද සවස 6ට මහනුවර ශ්‍රී දළදා සමිදුන් වැද පුදා ගැනීමටත් ඉන් පසු මහානායක හිමිවරුන් හමුවීමටත් නියමිතය‍. රිය පෙරහරකින් මහනුවර බලා ගිය ඔහුට මග දිගට උණුසුම් පිලිගැනීමක් ලැබිණි. බොහෝ පිරිස් මග දිගට රැස්ව ඔහුට ආචාර කළහ. ඔහුද රථයෙන් යන ගමන්ම ඔවුනට ප්‍රතිචාර දැක්වීය. ‍</body>
+    <comments>
+        <comment>
+            <author>කැලුම්</author>
+            <date>2012-05-22 18:24:18</date>
+            <index>0</index>
+            <phrase>අපේ වීර තුමන් රට වටේම යන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-22 20:41:36</date>
+            <index>1</index>
+            <phrase>ඔවුන්ගේ උණුසුම් ප්‍රතිචාරයට මෙත්‍රමන්ගේ හෘද්‍යාංගම ආචාරය.... ප්‍රවේසමෙන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර</author>
+            <date>2012-05-22 21:27:28</date>
+            <index>2</index>
+            <phrase>ජය වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිදු දසුන්</author>
+            <date>2012-05-22 21:37:57</date>
+            <index>3</index>
+            <phrase>අපේ ජෙනරල් උතුමන්ට ජය වේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-05-23 09:05:23</date>
+            <index>4</index>
+            <phrase>පරිස්සමින් කට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොල්දාදුවා</author>
+            <date>2012-05-23 10:05:08</date>
+            <index>5</index>
+            <phrase>ලොකු ගෞරවයක් තියෙන අභීත සෙන්පතියෙක් දේශපාලනයට ගිහින් ඒක නැති කර ගත්තා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-05-23 10:24:08</date>
+            <index>6</index>
+            <phrase>ඔබතුමාට දළදා සමිඳු පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැලුම්</author>
+            <date>2012-05-23 13:53:04</date>
+            <index>7</index>
+            <phrase>අපේ වීර තුමන් කට පරිස්සමින් රට වටේම යන්න ඕන දළදා සමිඳු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්</author>
+            <date>2012-05-23 15:47:04</date>
+            <index>8</index>
+            <phrase>නම කැත කර ගන්න යළිත් දේශපාලනයට යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුටුගැමුණු</author>
+            <date>2012-05-23 16:32:35</date>
+            <index>9</index>
+            <phrase>තොවිලයක් නටල හරි කමක්නැහැ මහත්තයට බුද්ධිය ලැබෙනවනම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-24 17:54:32</date>
+            <index>10</index>
+            <phrase>දළදා සමිදුගෙ පිහිට ඔබට!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

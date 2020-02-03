@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60824</articleId>
+    <title>බස් සේවකයෝ උද්ඝෝෂණයේ</title>
+    <author>සුසිල් ප‍්‍රියන්ත</author>
+    <date>2012 අගෝස්තු මස 25 16:50:52</date>
+    <body>බළපිටියේ දී පෞද්ගලික බස් කොන්දොස්තරවරයකුට ගල් ගසා දත් කැඩූ බව කියන සැකකරුවන් අත්අඩංගුවට ගන්නැයි අම්බලන්ගොඩ පෞද්ගලික බස් සේවකයෝ අම්බලන්ගොඩ ඩිපෝවේ උද්ඝෝෂණයක් ඇරැඹූහ.  පොලිසිය කියනුයේ සැකකරුවකු අත්අඩංගුවට ගත් බවයි. එහෙත් බස් සේවකයන් කියනුයේ ප්‍රධාන සැකකරු අත්අඩංගුවට ගෙන නැති බවයි. මේ අතර ගල් පහර කෑ කොන්දොස්තර කොළඹට මාරු කරයවා ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-08-25 19:59:04</date>
+            <index>0</index>
+            <phrase>හැමදාම මෙහෙමනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2012-08-25 19:54:39</date>
+            <index>1</index>
+            <phrase>මහජනයා අමාරුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිංක</author>
+            <date>2012-08-25 21:58:47</date>
+            <index>2</index>
+            <phrase>හැමදාම එහෙමනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-25 22:02:47</date>
+            <index>3</index>
+            <phrase>අල්ලන්න. අල්ලන්න. නැත්නම් එයා තව හිටියොත් මෙයාලටත් දත් නැතුව බත් කන්න පුලුවන් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ක</author>
+            <date>2012-08-26 10:24:04</date>
+            <index>4</index>
+            <phrase>මොනවා වුණත් බස් හිමියන් නියම වැඩක් කළේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-08-26 12:06:59</date>
+            <index>5</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-26 12:41:10</date>
+            <index>6</index>
+            <phrase>මේ ගල ගැසූ පුද්ගලයා තවත් ගලක්ද සමගින් බස් සංගමයේ සභාපතිතුමා ළගට රැගෙන යන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-27 09:44:23</date>
+            <index>7</index>
+            <phrase>අබලන් සුඛෝපභෝගී බස් ටික පරණ යකඩ වලට විකුණන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

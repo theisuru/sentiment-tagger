@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>94139</articleId>
+    <title>ජවය ගත් පාපැදියට ජෙට් ඇන්ජිමක්</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 ජනවාරි මස 21 11:05:31</date>
+    <body>සිය මවුන්ටන් වර්ගයේ පාපැදියට රුමේනියා තරුණයෙක් කුඩා ජෙට් එන්ජිමක් සවි කළේය.
+‘පාපැදියෙන් ගමන් යාම තමයි දැනට අපේ ගමේ අයට තිඛෙන ලෙහෙසිම හා පහසුම විදිය. ඒත් වේගය තමයි අඩු. ඒ නිසාම තමයි මම මෙහෙම දෙයක් කරල බලන්න හිතුවේ‘, රාවුල් ඔයිඩියා නම් මේ 19 හැවිරිදි තරුණයා පවසයි.
+මේ ඇන්ජිම යානා වලට සවි කරන තරම්  විශාල   එන්ජිමක් නොවේ. එය රාවුල් විසින් සියතින්ම නිපදවාගත්තේය තැනිතලා පාරකදී පැයට සැතැපුම් 26 ක පමණ වේගයක් අත්කරගැනීමට ජෙට් එන්ජිමෙන් ජවය ලබාගන්නා මේ පාපැදියට හැකියි.
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>ජානා</author>
+            <date>2013-01-21 13:33:57</date>
+            <index>0</index>
+            <phrase>පිටිපස්සෙන් යන කෙනා පරිස්සමින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාරා</author>
+            <date>2013-01-21 16:32:56</date>
+            <index>1</index>
+            <phrase>ජෙට් එන්ජිමක් මිළට ගන්න බයිසිකලය විකුණන්න වේවිද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2013-01-21 18:11:01</date>
+            <index>2</index>
+            <phrase>අපෙ අයනම් බීක් එක අරන් සියයට යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2013-01-21 18:51:58</date>
+            <index>3</index>
+            <phrase>දැන් මේක පා පැදියක් නෙමෙයි ජෙට් පැදියක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින් ප්‍රසන්න</author>
+            <date>2013-01-21 22:38:51</date>
+            <index>4</index>
+            <phrase>අම්මෝ! ඕක නම් ලංකාවට ගෙන්නන්න එපා. එහෙම වුණොත් සෑහෙන විනාශයක් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-01-22 02:22:37</date>
+            <index>5</index>
+            <phrase>කොහොමද එයා ජෙට් එකක් ගෙදරදී හැදුවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැගියා</author>
+            <date>2013-01-22 10:20:51</date>
+            <index>6</index>
+            <phrase>මේ ජෙට් ඇන්ජිම කොහොමද හැදුවේ? වැඩේ නම් හොදයි. ලංකාවටත් ගැලපෙනවා මේ වැනි දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-01-22 11:59:40</date>
+            <index>7</index>
+            <phrase>හනුමට වුණු දේ වෙයිද දන්නේ නෑ පිටිපස්සේ යන කෙනාට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමා</author>
+            <date>2013-01-22 22:20:38</date>
+            <index>8</index>
+            <phrase>පරිස්සමට හිමින් ගියොත් නරකද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-01-22 22:26:39</date>
+            <index>9</index>
+            <phrase>අපිට නම් පයින් පාගන එක තරම් හොද නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරාන්</author>
+            <date>2013-01-23 04:32:33</date>
+            <index>10</index>
+            <phrase>ලංකාවට ගෙනාවොත් කියයි අපි හැදුවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-01-23 07:10:19</date>
+            <index>11</index>
+            <phrase>අයියෝ! මේක පිටිපස්සේ ඉදගෙන යන්න බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

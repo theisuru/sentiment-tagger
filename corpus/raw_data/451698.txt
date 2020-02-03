@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451698</articleId>
+    <title>ශ්‍රීලනිප කණ්ඩායම් දෙකක් දෙවරකට රැස්වෙයි</title>
+    <author>බුද්ධික කුමාරසිරි</author>
+    <date>2016 අගෝස්තු මස 28 13:21:40</date>
+    <body>හෝමාගම ශ්‍රීලනිප හිටපු සංවිධායක බන්දුල ගුණවර්ධනගේ ප්‍රධානත්වයෙන් පිටිපන දී හෝමාගම ශ්‍රීලනිප බලමණ්ඩලය නමින් රුස්වීමක් අද (28) කැඳවා තිබිණි.
+එහිදී ගත් තීරණයක් අනූව තමන් හා තම පිරිස ලබන 04 වැනිදා කුරුණෑගල පැවැත්වෙන් ශ්‍රීලනිප 65 වැනි සංවත්සර උළෙලට සහභාගී නොවන බව බන්දුල ගුණවර්ධන මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-08-28 08:41:19</date>
+            <index>0</index>
+            <phrase>නොඑන තරමටම හොඳයි .මෙයාලාගෙ කාලය දන් ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය රත්නායක</author>
+            <date>2016-08-28 10:03:13</date>
+            <index>1</index>
+            <phrase>රත්නායක තම ලජ්ජා නැතුව කඩේ යනවා නේද. දැන් බඩු මිල අඩු වෙලා රට සංවර්ධනය වෙලා වෙන්න ඇති නේද. ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-28 10:13:29</date>
+            <index>2</index>
+            <phrase>නොයන එක හරිම වැදගත්.ඕකට යන්නේ යුඇන්පී ,ශ්‍රීලංකා කලවම් වෙච්ච අයනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2016-08-28 13:26:28</date>
+            <index>3</index>
+            <phrase>බන්දුලගේ තරම හෝමාගම අපි දන්නවානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-08-28 14:09:01</date>
+            <index>4</index>
+            <phrase>උදය, රටක් සංවර්ධනය වෙලා වැඩක් නැහැ, මිනිසුන් තිරිසන් වගේ දුෂිතයෙන් පිරුණම. පළමුව රටේ නායකයින් හදාගෙන ඉන්න ඕනෑ පොඩි මිනිහව හදන්න කලින්. හොරකම් කරලා හිරේ යන කට්ටිය අලුතෙන් පක්ෂ හදනවා. ජනපති සමඟ හොරකම්, දුෂිත වැඩ කිසිම දෙයක් බැහැ. මහින්ද සමඟ මේ හැම දෙයක්ම කරන්න පුළුවන්. උසාවිය, පොලිසිය දෙකම එයාගේ යටතේ. පක්ෂය අපිට වැඩක් නැහැ. රටේ ජනතාව ගැන හිතන්න. හොරකමට ආයුෂ කොටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-08-28 14:44:32</date>
+            <index>5</index>
+            <phrase>රත්නායක, ඔහේට පුලුවන්ද එතුමාගේ කෙස් ගහකටවත් ළංවෙන්න? බොරුවට කයිවාරු ගහනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2016-08-28 21:40:16</date>
+            <index>6</index>
+            <phrase>ශ්‍රී ලංකා නිදහස් පක්ෂයේ අයයි රාජපක්ෂවාදියොයි කියන්නේ දෙගොල්ලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

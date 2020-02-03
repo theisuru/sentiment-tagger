@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18981</articleId>
+    <title>රනිල් පොන්සේකා බලන්න යයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 23 19:23:37</date>
+    <body>බන්ධනාගාර ගත කර සිටින හිටපු යුද හමුදාපති සරත් පොන්සේකා සුවදුක් බැලීම සඳහා විපක්ෂ නායක හා එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා අද සවස වැලිකඩ බන්ධනාගාරයට ගියේය. රවී කරුණානායක හා වෛද්‍ය ජයලත් ජයවර්ධන පාර්ලිමේන්තු මන්ත්‍රීවරු ද එක් වූහ.  වැලිකඩ බන්ධනාගාරය ඉදිරිපිටට පැමිණි මාධ්‍යවේදීන් ඉවත් කිරීමට බන්ධනාගාර අධිකාරිවරයකු හා ජේලර්වරයකුට අණ කළ නමුත් මාධ්‍යවෙදින් ඊට තදින් විරුද්ධවීම නිසා ඔවුනට එය කළ නොහැකි විය.</body>
+    <comments>
+        <comment>
+            <author>කිත්සිරි අබේසිංහ</author>
+            <date>2011-12-23 19:33:06</date>
+            <index>0</index>
+            <phrase>වෙන වැඩක් කියල තියෙනවැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2011-12-23 19:49:40</date>
+            <index>1</index>
+            <phrase>ෆොන්සේකා මහත්තයා නිසා ඔයාලට යන්න එන්න තැනක් වත් තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසා</author>
+            <date>2011-12-23 21:20:17</date>
+            <index>2</index>
+            <phrase>ෆොන්සේකා මහත්තයා සමග එකතු වෙලා මේ රට ගොඩගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාල්</author>
+            <date>2011-12-23 21:56:46</date>
+            <index>3</index>
+            <phrase>කොහොමද හොද තැනක් බලාගෙන ආවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2011-12-24 09:54:09</date>
+            <index>4</index>
+            <phrase>ජෙනරාල් ෆොන්සේකා එක්සත් ජාතික පක්ෂයට අරගෙන පක්ෂ නායකත්වය දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2011-12-24 10:39:50</date>
+            <index>5</index>
+            <phrase>ෆොන්සේකා මහත්තයා අමාරුවෙ දැම්මෙත් මේ අයමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2011-12-24 12:44:20</date>
+            <index>6</index>
+            <phrase>ඒ දෙන්නා සුහද මාරුවක් ගත්තනම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

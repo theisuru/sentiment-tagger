@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466047</articleId>
+    <title>ආරක්ෂක රැකවලාට තුවාලයි.</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ඔක්තෝබර් මස 09 13:35:58</date>
+    <body>කොළඹ යුනියන් පෙදෙසේ ජනප්‍රිය සමාජ ශාලාවකදී අද(10)අලුයම එහි ආරක්ෂක රැකවලාට පහර දී තුවාල සිදු කලැයි කියන කණ්ඩායමක් හඳුනා ගැනීමට පොලිසිය සී.සී.ටී.වී  ආරක්ෂක කැමරා පිරික්සයි. 
+මෙම  ප්‍රහාරයෙන් තුවාල ලැබු ආරක්ෂක රැකවලා කොළඹ ජාතික රෝහලට ඇතුල් කරනු ලැබ සිටිති.
+ඔහුගෙන් ප්‍රකාශ ලබා ගත් බවත් රාත්‍රී සමාජ ශාලාවේ වීදුරු  ජනේල වලටද පහර දී කඩා බිඳ දමා බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අශාන්</author>
+            <date>2016-10-09 08:21:21</date>
+            <index>0</index>
+            <phrase>මේක කළේ කවුද කියලා අපිටත් කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-10-09 08:25:32</date>
+            <index>1</index>
+            <phrase>මදැයි ආරක්ෂක රැකවලා තුවාලවෙලා බේරුනා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේශ්</author>
+            <date>2016-10-09 08:35:08</date>
+            <index>2</index>
+            <phrase>සමාජ ශාලාවට ආරක්ෂකයොත් එක්ක කඩා වැදිලා යකා නැටුවේ කවුද කියලා අපි දන්නවා. ගුටිකාපු සේවකයා ගැනත් අපිට හිතාගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔෂානි</author>
+            <date>2016-10-09 08:41:49</date>
+            <index>3</index>
+            <phrase>ආරක්‍ෂක රැකවලා නම කියලා තියෙනවාලු නේද? අපිටත් ඉදිරියේදී දැනගන්න ලැබෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රස්පී</author>
+            <date>2016-10-09 08:47:14</date>
+            <index>4</index>
+            <phrase>අපිට වුණා නම් කොහොමට තියෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2016-10-09 08:48:53</date>
+            <index>5</index>
+            <phrase>අපිට ආරංචි වුණා ඔය කණ්ඩායමේ වගතුග. නම් ගම් කියන්න යන්න අවශ්‍ය නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔස්කා</author>
+            <date>2016-10-09 08:49:24</date>
+            <index>6</index>
+            <phrase>ඔන්න යහපාලනයේ රඟ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂා</author>
+            <date>2016-10-09 09:43:27</date>
+            <index>7</index>
+            <phrase>සී.සී.ටී.වී ආරක්ෂක කැමරාවල දර්ශන මැකිලා තියේවිද දන්නේ නැහැ නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-10-10 00:27:47</date>
+            <index>8</index>
+            <phrase>මෙන්න දේශපාලක පුතෙකුගේ තවත් වික්‍රමයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-10-10 01:51:06</date>
+            <index>9</index>
+            <phrase>අනේ ඉතින් අපි නොදන්නවායැ මේවා අවසානයේ විසඳෙන හැටිත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-10-11 01:29:35</date>
+            <index>10</index>
+            <phrase>මට තේරෙන්නේ නැත්තේ ඇයි මේ අය මෙච්චර බලයෙන් උමතුවෙලා හැසිරෙන්නේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

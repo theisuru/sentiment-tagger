@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37605</articleId>
+    <title>ගැහැනුන් මරා පේස්ට්‍රි හදයි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 19 12:41:07</date>
+    <body>මිහිතලය පවිත්‍ර කිරීමට ලොව ජනගහනය අඩු කිරීම සඳහා වන  ගැහැනුන් මැරූ කල්ලියක්  ඊසාන දිග බ්‍රිසීලයෙන් අත්අඩංගුවට ගනු ලැබ සිටිති. ඒ වනවිට එම කල්ලියේ මිනිසකු, ඔහුගේ බිරිය, අනියම් බිරිය, ගැහැනුන් දෙදෙනකු මරා මස් වලින් පේස්ට්‍රි හදා අසල්වැසියනට විකුණා ඇතැයි පොලිසිය පවසයි.  ඔවුන් ද එම පේස්ට්‍රි ආහාරයට ගෙන ඇත. ජෝර්ජ් බෙල්ට්‍රාඩ් නෙග්‍රො මෙන්වේ (51) හා ඔවුගේ බිරිය එලිසැබෙත් පීරෙස් ද සිල්විරා (51) හා අනියම් බිරිය බෘනා ද සිල්වා සැකපිට අත්අඩංගුවට ගත් අයවෙති. කුඩා දරුවන් බලා ගැනීම සඳහා ආකර්ශනීය වැටුප් දෙන බව කියන ගැහැණුන් ගෙන්වා වසරකට තිදෙනකු බැගින් මරා දැමීම ‘කාර්ටෙල්‘ නම්  කල්ලියේ අරමුණ වී ඇත.</body>
+    <comments>
+        <comment>
+            <author>නාලක</author>
+            <date>2012-04-19 13:32:11</date>
+            <index>0</index>
+            <phrase>මෙයාලා මානසික රෝගයක් තියෙන අය වගේ නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-04-19 14:14:55</date>
+            <index>1</index>
+            <phrase>මන්ද මානසික මිනිස්සු,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-19 15:04:09</date>
+            <index>2</index>
+            <phrase>මෙවා පලකොරනකොට කියවන්නැතුවත් බෑ. මම හිතුවෙ ලංකාවෙ තමයි වාර්ථාව තියල තියෙන්නේ කියල. දැන් බලපුවහම පිටරටවල ඉන්නවනේ ඊට වඩා වාර්ථාකා‍රයෝ. මොකද ලංකාවේ අය හරිදක්ෂයි පිටරට දේවල් අනුකරණය කොරන්න. මෙදේත් අනුකොරණය කොරයිද දන්නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-04-19 16:49:48</date>
+            <index>3</index>
+            <phrase>කකුල් දෙකේ තිරිසන්නු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදු</author>
+            <date>2012-04-24 18:32:10</date>
+            <index>4</index>
+            <phrase>මේවා මන්ද මානසික වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2012-04-25 10:26:16</date>
+            <index>5</index>
+            <phrase>මේවා හරිම කැත වැඩ ලංකාවෙ දැනට ඉන්න උදේ ඉඳන් රෑ වෙනකන් ගෑනුන්ට බනින මිනිස්සු විතරයි.. දැන් බලාගෙන යනකොට තිරිසන් විදියට ගෑනු අය මරලා කෑමත් හදයිද දන්නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2012-04-26 08:38:26</date>
+            <index>6</index>
+            <phrase>මේ පේස්ට්‍රි වල රහ මොන වගේද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීක්</author>
+            <date>2012-04-26 10:33:28</date>
+            <index>7</index>
+            <phrase>මේවා ෆිල්ම් වල තියෙන දේවල්. ජනගහන අර්බුධයට ඔහොම කරල හරියන්නෙ නෑ. ධනවතුන්ගෙන් බදු අය කිරීම අඩු කරලා සමාජ සුභසාධන අඩු කර ලිබරල් ධනවාදී ක්‍රමයකට ගියොත් ජනගහනය අඩු කරගන්න පුළුවන් වගේම ඉක්මනින් රටවල් දියුනු කරන්නත් පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

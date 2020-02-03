@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443519</articleId>
+    <title>උපහාස රුසියෙක් සමුගනී</title>
+    <author></author>
+    <date>2016 අගෝස්තු මස 02 16:44:07</date>
+    <body>ශ්‍රී ලංකා පුවත්පත් කලාවේ පෙරළිකාරයකු වූ චින්තන ජයසේන (68) මහතා අභාවප්‍රාප්ත විය.
+කොලම නම් තීරු පුවත්පත මගින් ඔහු අලුත් පත්තර නැඹුරුවක් ඇති කළේය. සමාජ දේශපාලන කරුණු උපහාසාත්මකව ලියූ ඔහු ඊට ලක්වන්නවුන් දැඩි ලෙස විවේචනය කළේය.
+සිත්තර ඇතුළු අලුත් චිත්‍ර කථා පත්තර කිහිපයක් ඔහු හඳුන්වාදුන්නේය. තීරු පුවත්පත් කලාවේ පුරෝගාමියක වූ ඔහු ඊට නව ජවයක් හා නැම්මක් ලබාදුන්නේය.
+ජයසේන මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු බදාදා (3) ගල්කිස්ස පොදු සුසාන භූමියේ දී සිදුකිරීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2016-08-02 13:38:27</date>
+            <index>0</index>
+            <phrase>ඔබගේ රසිකයෙක් වුණේ අපි පුංචි කාලයේ මයි. ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2016-08-02 22:52:33</date>
+            <index>1</index>
+            <phrase>මම ඔහුව කෙටි කාලයක් ඉතා ළඟින්ම ඇසුරු කළා. හාස්‍යජනක කතා කියන්න හරිම රුසියෙක්. විනෝද සාගරයක්. හරිම නිර්මාණශීලීයි. ඔහුට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-08-03 01:05:31</date>
+            <index>2</index>
+            <phrase>පහුගිය කාලේ වැඩිපුර පෙනෙන්න හිටියේ නැති වුණත් මෙතුමා සැබෑ දක්ෂයෙක්. මෙතුමාට නිවන් සුව පතනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද කැලිෆෝර්නිය</author>
+            <date>2016-08-03 04:04:53</date>
+            <index>3</index>
+            <phrase>ඔබට නිවන් සුව ,ඔබගේ ලිපි අප පාසල් ගිය කාලයේ රසවින්දා තවම මතකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>208776</articleId>
+    <title>කොන්දොස්තර මාරු  නොකළ රුපියල් 1000  විරිදුකරු මාරු කරලා</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2014 පෙබරවාරි මස 07 10:38:41</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>දනුක</author>
+            <date>2014-02-07 11:40:07</date>
+            <index>0</index>
+            <phrase>එක සාධාරණ රැකියාවක් නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අලහකෝන්</author>
+            <date>2014-02-07 12:38:16</date>
+            <index>1</index>
+            <phrase>ඊළඟට විරිදු කියන්න එන්නේ ඇමතිවරු කියලා පත්තරවල තිබුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-02-07 16:36:14</date>
+            <index>2</index>
+            <phrase>ව්‍යාපාරයක් කරන කෙනෙක් තමනට මුහුණ දිය හැකි බරපතලම අවස්ථාවට සුදානම් වී සිටිය යුතුයි. ""මාරු සල්ලි නැහැ"" කියා කීම ලංකාව වගේ රටකට හරි ගියාට දියුණු රටවල එහෙම නැහැ, ඒක නිසා තමා ඒ රටවල් ""දියුණු"" රටවල් වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිලා</author>
+            <date>2014-02-07 17:03:33</date>
+            <index>3</index>
+            <phrase>අතටම විරිදු කියන එකශෝද ආදායම් මාර්ගයක්ද? එකට දක්ෂ කමත් තියෙන්න ඕනනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-02-08 05:26:53</date>
+            <index>4</index>
+            <phrase>බස් රථයට නැගීමට පෙර රුපියල් 1000 මාරු කරගෙන නැගීමට මගියකු බුද්ධිමත් වියයුතුයි . සමහරු මේවගේ සුළු දෙවල් හිතන්නේ නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-02-08 07:47:38</date>
+            <index>5</index>
+            <phrase>මේ සිද්ධිය වුණේ රත්නපුරේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපුමල් බණ්ඩාර</author>
+            <date>2014-02-09 01:58:23</date>
+            <index>6</index>
+            <phrase>බොහෝ "දියුණු" රටවල බස්වල කොන්දොස්ටරලා නෑ. මගියා මැෂිමට නියමිත මුදල දමා ටිකට් ගත යුතුය. සමහර රටවල ඉතිරි මුදල් දීමක් නැත. නියමිත මුදල රැගෙන ඊම මගියාගේ වගකීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2014-02-10 08:51:45</date>
+            <index>7</index>
+            <phrase>බස් කාඩ් ආවහම ඔය ප්‍රශ්න ඉවරයි(දිල්).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-02-10 18:39:40</date>
+            <index>8</index>
+            <phrase>විරිදු කීමේ වටිනාකම දන්නා නිසයි එක ඇමතිවරයෙක් කීවේ එයත් විරිදු කීම පටන් ගන්නවා කියලා. එයා දැනගත්තා බයිලා කියල වැඩක් නැති බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-02-10 18:41:57</date>
+            <index>9</index>
+            <phrase>"බස් කාඩ් ආවහම ඔය ප්‍රශ්න ඉවර" මොකද විරිදු කියන්නත් කාර්ඩ් එකෙන් සල්ලි එකතු කරන්න පටන් ගනීවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

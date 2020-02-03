@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447619</articleId>
+    <title>පරණ කෑම රත්කර කා රෝහලට යති</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2016 අගෝස්තු මස 14 17:19:19</date>
+    <body>බගවන්තලාවේ වත්තක 13 දෙනෙක් ආහාර විසවීමේ ලක්ෂණ සහිතව රෝහල් ගත කළ බව රෝහල් ආරංචි කියයි.
+පෙරදින ඉවූ බත්,කුකුළු මස්, පරිප්පු ඇතුළු ආහාර වර්ග අද උදේ රත්කර ආහාරයට ගත් පසු වමනය හා ක්ලාන්තය සෑදී රෝහල් ගත කළ බව කියති.</body>
+    <comments>
+        <comment>
+            <author>දීපානි</author>
+            <date>2016-08-15 05:57:52</date>
+            <index>0</index>
+            <phrase>ආහාර විසවීම ශ්‍රී ලංකාවේ සුලභව දැකිය හැකි දෙයක්. පිස ගැනීමෙන් පසු ආහාර පැය 2 කට වඩා එළියේ තැබීම නිසා මේ දේ වෙනවා. එම නිසා තමයි අපිරිසිදු හෝටල් වලින් කන්න එපා කියන්නේ. නීතිය හරි විදියට පිළිපදින්නේ නැති නිසා විදේශ සංචාරකයින්ට මෙය විශාල ප්‍රශ්නයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2016-08-15 06:07:37</date>
+            <index>1</index>
+            <phrase>පවු. කෑම රසට තිබුන නිසා කන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-08-15 06:13:13</date>
+            <index>2</index>
+            <phrase>ඔය කෙටි කෑම සහ ෆ්‍රයිඩ් රයිස් වලට දෙන සෝස් බෝතල් එළිමහනෙ තියෙන නිසා ඒවා තුළ සල්මනෙල්ලා බැක්ටීරියා හොඳට වර්ධනය වෙනවා. එම නිසා ආහාර විස වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රානි</author>
+            <date>2016-08-15 06:09:47</date>
+            <index>3</index>
+            <phrase>මිනිස්සු හිතන්නේ පිළුණු ආහාර රත්කළාම ඒවා පරිභෝජනයට සුදුසුයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

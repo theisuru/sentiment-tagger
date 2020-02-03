@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>173696</articleId>
+    <title>ගුරුගේ සතුටු උයන සතුට සයුරක් වේ</title>
+    <author>අශේන් එස්  සේනාරත්න</author>
+    <date>2013 ඔක්තෝබර් මස 01 16:16:10</date>
+    <body>ජා-ඇල ගුරුගේ සතුටු උද්‍යානයයේ පැවති ළමා දින උත්සවයේදී විවිධ වැඩහටහන් ක්‍රියාත්මක විය. වයස 15 පහළ සියලු දරුවන්ට නොමිලේ සතුටු වීමට අවස්ථාව සලසා දී තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-10-01 18:40:32</date>
+            <index>0</index>
+            <phrase>ගුරුගේ මහත්තයාට ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී - සිරි</author>
+            <date>2013-10-01 20:20:48</date>
+            <index>1</index>
+            <phrase>මැණික් ගුරුගේ හෝ වේවා, ඉඩම් වෙන්දේසි ගුරුගේ හෝ වේවා, ලෝක ළමා දිනය වෙනුවෙන් දරුවන් වෙනුවෙන් කළ සේවය ඉතා උතුම් ක්‍රියාවක්. ඔබතුමාට දිගාසිරි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීලාල්</author>
+            <date>2013-10-02 03:35:45</date>
+            <index>2</index>
+            <phrase>සෑම මිනිසෙකුම යම් කිසි පුණ්‍ය කටයුත්තක් කළ යුතු බව සෑම ආගමකම කියලා තියනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2013-10-02 10:33:43</date>
+            <index>3</index>
+            <phrase>ප්‍රාදේශීය සභා, පලාත් සභා අයට ඔය අහලකටවත් එන්න දෙන්න එපෝ! එයාලාට තහනම් කලාපයක් කරන්න...(නදී).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාන්ත</author>
+            <date>2013-10-02 12:10:04</date>
+            <index>4</index>
+            <phrase>මෙතුමා, දරුවන්ට මෙන්ම තරුණ අයටත් ගොඩාක් ආදරෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බනී</author>
+            <date>2013-10-02 20:13:26</date>
+            <index>5</index>
+            <phrase>මේක නම් ඇත්තටම ආදර්ශමත් ක්‍රියාවක්. ලංකාවේ ළමා උද්‍යාන කොච්චර තිබුනත් ඒවාට යන්න පුළුවන්කම තියෙන්නේ පොහොසත් දෙමව්පියන්ගේ දරුවන්ට විතරයි. ගුරුගේ මහත්තයා කළ දේ බොහොම අගය කළ යුත්තක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆීනා</author>
+            <date>2013-10-03 12:32:40</date>
+            <index>6</index>
+            <phrase>ළමා කාලය කොතරම් සුන්දරද. හොඳ වැඩක්, හැමෝටම ස්තුතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ</author>
+            <date>2013-10-04 12:57:11</date>
+            <index>7</index>
+            <phrase>ළමයින්ගේ ළමා ලෝකය ගැන සිතූ අයට තුති!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන්</author>
+            <date>2013-10-04 12:57:48</date>
+            <index>8</index>
+            <phrase>අනිත් ව්‍යාපාරිකයනුත් මෙතුමාව ආදර්ශයට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශම්මි බබා</author>
+            <date>2013-10-05 19:04:06</date>
+            <index>9</index>
+            <phrase>ගුරුගේ මාමා එදා අපි ආවට අපිට ටොපියක්වත් දුන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2013-10-07 05:33:01</date>
+            <index>10</index>
+            <phrase>මනුෂ්‍යයෙක් කරන හැම ක්‍රියාවක්ම හැමවිටම එකම කෝණයෙන් මැනීම මිනිස් කමට සුදුසු ක්‍රියාවක් නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ගුනවර්දන ස්විස්</author>
+            <date>2013-10-08 13:17:09</date>
+            <index>11</index>
+            <phrase>චේතනාව සහ කර්මය අනුව හොද කටයුත්තක් මෙතන සිදුවී ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියසේන</author>
+            <date>2013-10-09 20:46:53</date>
+            <index>12</index>
+            <phrase>මම කිහිප අවස්ථාවකම මගේ දරුවන් සමග නැරඹුව.ඉතාම සුන්දරයි.තමන් යහමින් මුදල් අරන් ගියොත් තම ළමයින්ට ඇතිවෙන්නම විනෝද වෙන්න පුළුවන්.බැලිය යුතු දේ එමටයි,නිවී හැනහිල්ලේ ගිහින් එන්න.ඒ වෙනුවෙන් දවසක් ගත කරන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-10-10 16:48:04</date>
+            <index>13</index>
+            <phrase>බලන්නකෝ අපේ පුංචි පැටවු ලස්සන සමනල රෑනක් වගේ හරිම ලස්සනයි නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත්</author>
+            <date>2013-10-12 08:13:00</date>
+            <index>14</index>
+            <phrase>ඔව් ඉතින්, ලංකාවේ අපට ගහ කොළ සතා සිව්පාවා බලන්න වෙන්නේ සල්ලි දීලා තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2013-10-12 13:35:11</date>
+            <index>15</index>
+            <phrase>ගුරුගේ මහත්මයාණෙනි ගම්පහ පැත්තෙත් මේ වගේ එකක් පටන් ගන්දකෝ. හොඳ සේවයක්, හොඳට සල්ලි හම්බ කරන්ඩත් පුළුවන් වේවි. කටාන පැත්තේ පටන් ගතහොත් විදේශිකයොත් එයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2013-10-20 11:33:33</date>
+            <index>16</index>
+            <phrase>ඒත් මේකේ ඉන්න සිව්පාවුන් විඳින දුක දැක්කානම් පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-10-23 00:35:08</date>
+            <index>17</index>
+            <phrase>සතුටු උයන අදහස හොඳයි. නමුත් උයනේ තත්ත්වය බාලයි කියලයි මට නම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්කැන්ඩි</author>
+            <date>2013-10-27 13:27:31</date>
+            <index>18</index>
+            <phrase>කෙනෙක් වෙළද පොළට යමක් හදුන්වාදී පළමු තොගය බොහොම අඩුවට දෙනවා නැතිනම් නිකන් දෙනවා ඒවායේ රස වැටුණම පාරිභෝගික ඉල්ලීම වැඩි වෙනවා ඊලගට බොහොම අපුරුවට වෙළදාම කරගෙන යනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2013-11-02 09:32:28</date>
+            <index>19</index>
+            <phrase>අපි ළගදීම බලන්න එනවා. දැක්කම කියන්නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2013-11-04 13:33:27</date>
+            <index>20</index>
+            <phrase>ලමයි උනාට මේකේ ඉන්න සත්තුනම් ගොඩක් දුක් විදිනවා . කුරුල්ලෝ කුඩුකරලා ඉන්නේ හුගක් පොඩි කුඩු වල . හරියට වාතයවත් ලැබෙන්නේ නෑ . මේවා ගැන බලන්න ආයතනයක් නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

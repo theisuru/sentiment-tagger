@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>97325</articleId>
+    <title>දහසකට නොමිලේ පොත්</title>
+    <author>වැලිගොඩගේ දීපාල් ද සිල්වා</author>
+    <date>2013 පෙබරවාරි මස 09 15:51:21</date>
+    <body>පාර්ලිමේන්තු මන්ත්‍රී සජින්වාස් ගුණවර්ධන මහතාගේ සජින් වාස් පදනම මගින් අම්බලන්ගොඩ පාසල් දරුවන් දහසකට අභ්‍යයාසපොත් බෙදා දුන්නේය.</body>
+    <comments>
+        <comment>
+            <author>රිස්මි</author>
+            <date>2013-02-15 11:17:58</date>
+            <index>0</index>
+            <phrase>ඉතා වටින ක්‍රියාවක් මෙවන් දේ හිතට ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2013-02-20 00:21:11</date>
+            <index>1</index>
+            <phrase>ලගදී ඡන්දයක් එහෙම එනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

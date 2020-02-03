@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57051</articleId>
+    <title>සීගිරි බඹරු හයවැනි වරටත් අනිති</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අගෝස්තු මස 05 16:03:13</date>
+    <body>සිගීරියේ බඹර ප‍්‍රහාරයකින් විදේශිකයන් හය දෙනෙක්ද ස්වදේශිකයන් හය දෙනෙක්ද රෝහල් ගත කළ සීගිරිය පොලිසිය තවත් පිරිස සොයා පර්වතය නගින්නට වූහ. මේ වසරේදී සිදුවූ හය වැනි ප‍්‍රහාරය මෙයයි.</body>
+    <comments>
+        <comment>
+            <author>අකිල</author>
+            <date>2012-08-05 16:27:01</date>
+            <index>0</index>
+            <phrase>කෝ අපේ ඇමතිතුමා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-05 19:34:23</date>
+            <index>1</index>
+            <phrase>සීගිරියට තද හුළංද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් පෙරේරා</author>
+            <date>2012-08-06 11:59:39</date>
+            <index>2</index>
+            <phrase>සිගිරිය කියන්නේ රාවනා රජුගේ පරණ මාලිගාවක් : රාවනා රජුගේ මලිගවලට ආරක්ෂාවට තමයි දෙබරු /බබරු ඉන්නේ : සීගිරියට පැමිණිය නොයුතුය ආවහම ඔහොම තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2012-08-20 21:04:50</date>
+            <index>3</index>
+            <phrase>සීගිරියේ රාවණා කියලා කෙනෙක් හිටියයි කියන කතාව මිත්‍යාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

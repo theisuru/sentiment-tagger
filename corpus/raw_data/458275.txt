@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458275</articleId>
+    <title>පියයි පුතායි රට සල්ලි හොරකම් කරලා</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 සැප්තැම්බර් මස 15 16:06:46</date>
+    <body>දුම්රියේ ගමන්ගත්  චීන ජාතිකයකු  සතු  රුපියල්  143500 ක් ඩොලර් 21 ක් සහ යෙන් 5 ක්  අඩංගු මුදල්  පසුම්බරියක්  සොරාගත්  පියකු  සහ පුතෙකු  දුම්රිය ආරක්ෂක හමුදාවේ  විශේෂ අපරාධ විමර්ශන ඒකකය විසින් අද (15) අත්අඩංගුවට  ගනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-09-15 13:24:55</date>
+            <index>0</index>
+            <phrase>මේ සංචාරකයා දැනගෙන ඉන්න නැතුව ඇති, ලංකාවේ තාත්තලයි පුත්තුයි එකතුවෙලා කරන අසමජ්ජාති වැඩ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2016-09-15 20:26:43</date>
+            <index>1</index>
+            <phrase>ඩබ්ලිව් ඒ සිල්වා ශූරීන්ගේ හිඟන කොල්ලා කතාවේ එන චරිත දෙකක් මට මතක්වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචින්ත</author>
+            <date>2016-09-16 04:33:51</date>
+            <index>2</index>
+            <phrase>ලොකු ගානක්ද ? හිඟන්නාගේ පාත්තරේට හෙනහුරා පාත් වෙලා වගේ ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2016-09-16 08:19:01</date>
+            <index>3</index>
+            <phrase>දුප්පත් කමට තමයි මේ හැමදේම කරන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

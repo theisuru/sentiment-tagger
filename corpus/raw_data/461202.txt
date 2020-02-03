@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461202</articleId>
+    <title>කූට ලේඛන නඩුවේ තිස්ස අත්තනායකට නොතීසි</title>
+    <author>ෂෙහාන් චාමික සිල්වාෆාරුක් තාජුඩීන්</author>
+    <date>2016 සැප්තැම්බර් මස 26 10:49:00</date>
+    <body>පසුගිය ජනපතිවරණ සමයේ කූට ලේඛන සැකසී යැයි  කොළඹ මහාධිකරණයේ පවරා ඇති නඩුවට ඔක්තෝබර් 19 වැනිදා පෙනී සිටින ලෙස එක්සත් ජාතික පක්ෂයේ හිටපු මහලේකම් තිස්ස අත්තනායකට කොළඹ මහාධිකරණ විනිසුරු කුසලා සරෝජිනී වීරවර්ධන මහත්මිය නියෝග කළාය.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2016-09-26 06:39:39</date>
+            <index>0</index>
+            <phrase>මේකට තමයි කියන්නේ නරක ආශ්‍රය හොඳ නැහැ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-09-26 07:30:49</date>
+            <index>1</index>
+            <phrase>දැන් හරියට නීතිය ක්‍රියාත්මක වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451597</articleId>
+    <title>ඉරානයෙන් අවුත් හොරකමේ.</title>
+    <author>ජූඩ් සමන්ත</author>
+    <date>2016 අගෝස්තු මස 27 10:12:24</date>
+    <body>වෙන්නප්පුව විදේශ මුදල් මාරුකරන ස්ථානයකින් රුපියල් ලක්ෂ හයකට ආසන්න විදේශ මුදල් තොගයක් සොරාගත්බව කියන ඉරාන ජාතිකයන් දෙදෙනෙකු අත්අඩංගුවට ගත්බව පොලිසිය කියයි.
+විදේශකයින් දෙදෙනා තමන් සතුව ඇති විදේශ මුදල් මාරුකර ගැනිමටයයි පවසා මෙම සොරකම සිදුකර ඇතැයි කියති</body>
+    <comments>
+        <comment>
+            <author>බටගල</author>
+            <date>2016-08-27 05:02:47</date>
+            <index>0</index>
+            <phrase>අනේ හැබෑට මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2016-08-28 00:35:44</date>
+            <index>1</index>
+            <phrase>මොවුන් සමහරු ගමේ එළුවෝ පවා හොරකම් කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

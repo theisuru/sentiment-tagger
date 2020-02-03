@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>350039</articleId>
+    <title>හජ්ජි උත්සවය ගාලු මුවදොරදී</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2015 සැප්තැම්බර් මස 24 10:22:46</date>
+    <body> 
+ලොව පුරා ඉස්ලාම් බැතිමත්හු අද (24) හජ්ජි උත්සවය සැමරීමට එක්වූහ. මහමද් නබි තුමන්ගේ ඉස්ලාම් ධර්මය ලෝ වැසියන් ඉදිරියේ තැබූ දිනය ලෙස හජ්ජි දිනය ඉතිහාසයට එක්වේ.
+ශ්‍රී ලංකා මේමන් සංගමය සංවිධානය කළ කොළඹ ප්‍රධාන හජ් යාඥා මෙහෙය කොළඹ ගාලු මුවදොර පිටියේදී අද පෙරවරුවේ පැවැත්විණි.
+හෆීස් මොහොමඩ් මොෂීන් රාෆීක් පූජකගේ ප්‍රධානත්වයෙන් යාඥා මෙහෙය පැවැත්විණි.
+ඉස්ලාම් බැතිමත්හු විශාල පිරිසක් ඊට එක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>රිස්වාන් සෞදි අරාබිය</author>
+            <date>2015-09-24 05:25:13</date>
+            <index>0</index>
+            <phrase>එසැණ පුවත් ප්‍රතිචාර දක්වන සහෝදර වරුන්ට මගෙන් හජ් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2015-09-24 05:25:51</date>
+            <index>1</index>
+            <phrase>මේ සිංහල බෞද්ධ රාජ්‍යය, ශ්‍රී ලංකාව හොදේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2015-09-24 05:32:32</date>
+            <index>2</index>
+            <phrase>සිංහල රාජ්‍ය වුණාට රටේ සියලු පුරවැසියන්ට ඕනෑම ආගමක් ඇදහීමට නිදහස ඇති බව ඔබ දන්නවාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2015-09-24 05:39:18</date>
+            <index>3</index>
+            <phrase>මොන උත්සව තිබුණත් අහිංසක සත්තු මරන්න එපා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලී ෆොන්සේකා</author>
+            <date>2015-09-24 06:17:49</date>
+            <index>4</index>
+            <phrase>ලෝකේ හැම රටකම පන්සල් පල්ලි කෝවිල් තියෙනවා හොඳේ ලංකා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංගා</author>
+            <date>2015-09-24 06:41:19</date>
+            <index>5</index>
+            <phrase>අඳුරු යුගයක් අත ළඟ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2015-09-24 06:41:15</date>
+            <index>6</index>
+            <phrase>සහජීවනය හොදයි එත් ප්‍රශ්නය තියෙන්නේ මුස්ලිම් මිනිස්සු එක්ක සහජීවනය මිත්‍යාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2015-09-24 15:59:25</date>
+            <index>7</index>
+            <phrase>වසන්තගේ කතාව ඇත්ත අනාගතේ බලාගන්න පුළුවන් සහජීවනේ තරම මේවා කියද්දී අපි ජාතිවාදී කියාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

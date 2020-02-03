@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61457</articleId>
+    <title>වසර 15කට පසු නිදහස</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අගෝස්තු මස 28 17:49:43</date>
+    <body>කලවානේ අනවසර මැණික් ගැරීම සඳහා සිරිසේන අමරසේකර නම් පතල් හිමියකුගේ 1997. 3. 5 වැනිදා රුපියල් 34000 අල්ලසක් ගත්තැයි චෝදනා ලැබූ කලවාන පොලිසියේ හිටපු පරීක්ෂක වී.ඒ. චන්ද්‍රපාල හා ඔහුට ආධාර හා අනුබල දුන්නැයි චෝදනා ලැබූ සැරයන්  ඕ.ඒ. ජයසේකර, කොළඹ මහාධිකරණ විනිසුරු සුනිල් රාජපක්ෂ මහතා විසින් නිදහස් කරනු ලැබීය. ඔවුනට එරෙහිව පැමිණිල්ල ඔප්පු කිරීමට පැමිණිල්ල අපොහොසත් විය.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-28 18:16:43</date>
+            <index>0</index>
+            <phrase>පොලිසියට පොලිසියෙන්ම තල්ලුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන් - සවුදි</author>
+            <date>2012-08-28 18:29:20</date>
+            <index>1</index>
+            <phrase>කොහොම වෙතත් විඳින ලද දඩුවම නම් අමතක වෙන්නේ නැතිවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-28 18:36:09</date>
+            <index>2</index>
+            <phrase>ඇති යන්තම් ඔයින් ගියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරාන්</author>
+            <date>2012-08-28 18:40:13</date>
+            <index>3</index>
+            <phrase>බොරු චෝදනා කරන්නන්ට නම් හොදක් වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-28 22:55:46</date>
+            <index>4</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-28 23:23:11</date>
+            <index>5</index>
+            <phrase>කහ දියරෙන් නාවලා අරගමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-08-29 13:37:46</date>
+            <index>6</index>
+            <phrase>අවුරුදු 15කට පෙර සිදුවූ මේ සිද්ධියේ මුදලේ වටිනාකම අද බැලුවොත් රුපියල් 340ක් විතර ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-29 16:02:18</date>
+            <index>7</index>
+            <phrase>ඇයි මේ තරම් කාලයක් ගියේ මේක විසඳන්න ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

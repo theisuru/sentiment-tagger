@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>345064</articleId>
+    <title>ඉඳල්ගස්ඉන්න දුම්රිය කටුගෙයක්</title>
+    <author>ප්‍රසාද් රුක්මාල්</author>
+    <date>2015 සැප්තැම්බර් මස 03 13:03:08</date>
+    <body>පොළවට වැළලි  ගිය  දුම්රිය අංගනයක් උඩරට  දුම්රිය මාර්ගයේ  ඉදල්ගස්ඉන්න දුම්රිය මාර්ගය අසලින් මතුකර ගත් බව ඔහිය  දුම්රිය මාර්ග අධික්ෂණ කළමණාකරණ ඇන්ටන් විරෝෂන් වික්‍රමරත්න මහතා පැවසුවේය.
+බ්‍රිතාන්‍ය  යුගයේ මේ දුම්රිය නැවතුම ඉදිකර  ඇතැයි සැළකේ.
+ </body>
+    <comments>
+        <comment>
+            <author>ඥානේන්ද්‍ර ප්‍රදීප් පතිරණ</author>
+            <date>2015-09-03 13:57:43</date>
+            <index>0</index>
+            <phrase>මෙතැන කලින් වතු වේදිකාවක් තිබී ඇත. ඉදල්ගස්හින්න බොඒයිස් නම් වත්තට සම්බන්ධ වතු වේදිකාව තිබී ඇත්තේ මෙතැනය. ඡායාරූපයේ පසුබිමෙන් පෙනෙන දුම්රිය බඩු පෙට්ටිය එහි කාර්යාලය ලෙස භාවිතා කළ එකක් ලෙස සැළකේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොඩ්නි</author>
+            <date>2015-09-06 01:00:36</date>
+            <index>1</index>
+            <phrase>තවදුරටත් පරීක්ෂණ කරලා බලමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

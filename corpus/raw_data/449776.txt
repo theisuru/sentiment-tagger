@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449776</articleId>
+    <title>සැරයන් තහනම් ගහේ නැගලා</title>
+    <author>අජිත්ලාල් ශාන්තඋදය  ජයන්ත නානායක්කාර</author>
+    <date>2016 අගෝස්තු මස 22 11:04:51</date>
+    <body>ගෑණු හබයක් මත කුට්ටිගල පොලිසියේ සැරයන්වරයකු අන්සතු කතකගේ නිවසේ සිටියදී පොරොවකින් ගැසී යැයි එම පුද්ගලයා ද සැරයන් ද ඇඹිලිපිටි මහේස්ත්‍රාත් නිල්මිණි විතාරණ මහත්මිය විසින් රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත මුදා හරිනු ලැබූහ.
+ඇඹිලිපිටි සහකාර පොලිස් අධිකාරී අනිල් ප්‍රියන්ත මහතා සැරයන්ගේ වැඩ තහනම් කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-08-22 07:01:36</date>
+            <index>0</index>
+            <phrase>හොඳම හොඳ වැඩේ. මේ පාපතර ලෝකේ කිසිවෙකුට සැනසීමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2016-08-22 07:09:42</date>
+            <index>1</index>
+            <phrase>සහකාර පොලිස් අධිකාරීතුමා සැරයන්ට නම් දඬුවම් දීලා තියෙනවා. එතකොට අර කාන්තාවට කවුද දඬුවම් දෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනෝලි</author>
+            <date>2016-08-22 09:48:09</date>
+            <index>2</index>
+            <phrase>ඕක ඉතින් පොලිසියේ ඉන්න සමහරුන්ට තියෙන උපන් ගතියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2016-08-22 10:54:48</date>
+            <index>3</index>
+            <phrase>ඔහොම දෙයක් කෙනෙක් එක්ක පටන් ගත්ත නම් වහාම තම සහකරුවා හෝ සහකාරියව දික්කසාද කිරීම පළමුවෙන් කළ යුතුයි . ඔහු හෝ ඇය සමග පවුල් කන ගමන් ඕවා කරගෙන යන්නේ රාගය වැඩි කමටයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

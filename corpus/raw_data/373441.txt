@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>373441</articleId>
+    <title>ත්‍රස්තවාදීහු ඉන්දියාවේ දී ඉල්ලන් කති</title>
+    <author>අරුණ ශාන්ත කුමාර</author>
+    <date>2016 ජනවාරි මස 02 09:52:24</date>
+    <body>ඉන්දු පාකිස්තාන දේශසීමාව ආසන්නයේ පිහිටි පතන්කොට් නගරයේ ගුවන් හමුදා කඳවුරේ දි සිදු වු වෙඩි හුවමාරුවකින්  ත්‍රස්තවාදීන් දෙදෙනකු ද ගුවන් හමුදා සාමාජිකයන් දෙදෙනකු ද මියගොස් ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි. ජම්බුකාශ්මීර සහ පතන්කොට් අතර අධිවේගී මාර්ගයේ දී මෙම වෙඩි හුවමාරුව සිදු  ඇතැයි කියැවෙයි.</body>
+    <comments>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-01-03 04:04:17</date>
+            <index>0</index>
+            <phrase>ලංකාවේදීත් කට්ටියක් ඉල්ලන් කෑවානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුචිර</author>
+            <date>2016-01-03 08:22:55</date>
+            <index>1</index>
+            <phrase>ඉන්දියන් ගුවන් හමුදාවටත් හානි සිදුවෙලානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

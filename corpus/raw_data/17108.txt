@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17108</articleId>
+    <title>දුම්රිය පීලි පනී</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 12 13:43:53</date>
+    <body>අනුරාධපුරයේ සිට කොළඹ බලා ආ දුම්රිය තඹුත්තේගම හා සෙනරත්ගම   අතරදී පීලිපැන ඇතත් කිසිවකුටවත් තුවාල සිදුවී නැතැයි දුම්රිය නිලධරයෝ කීහ.
+ </body>
+    <comments>
+        <comment>
+            <author>රමිල</author>
+            <date>2011-12-12 14:02:07</date>
+            <index>0</index>
+            <phrase>රේල් පාර නඩත්තු කරන්නෙ නැද්ද? මේ දවස්ටිකට කීයක් කියල අනතුරු වුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි මහේෂිකා අමරසිංහ</author>
+            <date>2011-12-12 14:42:07</date>
+            <index>1</index>
+            <phrase>මම හිතන්නේ ප්‍රවාහන ඇමැතිතුමාගේ සෙනසුරු කාළේ මේ දවස් වල අනික ඔය කෝච්චිවල යන පිරිසට වඩා කෝච්චි වලින් පඩි ගන්න අය ඉන්නවා සීටීබී එකේ වගේ නැතැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

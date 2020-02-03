@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>8450</articleId>
+    <title>නිල ඇඳුම නැත්නම්  ප‍්‍රභූ ආරක්ෂාව බෑ</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 ඔක්තෝබර් මස 11 12:01:18</date>
+    <body>අවි දරමින් ප‍්‍රභූ ආරක්ෂාව සලසන සියලූම පොලිස් සාමාජිකයන් වහාම ක‍්‍රියාත්මක වන පරිදි නිල ඇඳුමින් රාජකරී කළ යුතු යැයි පොලිස් මූලස්ථානය නියෝග කැර කරයි. ඇමැති ආරක්ෂක අංශය ද, පොලිසිය ද මින්පසු සාමාන්‍ය ඇඳුමින් ඒ රාජකාරියේ නොයෙදිය යුතු බව පොලිස් මූලස්ථානය කියයි.</body>
+    <comments>
+        <comment>
+            <author>Yatharthaya</author>
+            <date>2011-10-11 13:35:42</date>
+            <index>0</index>
+            <phrase>පාතාල අපරාධකාරයින්ට ප්‍රභූ කියන්නේ අපේ රටේ විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුබෝධ</author>
+            <date>2011-10-11 13:55:59</date>
+            <index>1</index>
+            <phrase>මෙයට අවුරුදු තිහකට කළින් කරන්න අවැසි දේ දැන්ද මතක් උනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2011-10-11 15:56:41</date>
+            <index>2</index>
+            <phrase>දැනුවත් කරපු එක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ ගුණසේකර -saudi arabia</author>
+            <date>2011-10-11 15:57:30</date>
+            <index>3</index>
+            <phrase>නිල ඇඳුම නැත්නම් ප‍්‍රභූ ආරක්ෂාව බෑ පමණක් නොව පොලිස් හමූදා සාමාජිකයන් පමණක් වහාම ක‍්‍රියාත්මක වන පරිදි මින්පසු රාජකරී කළ යුතු යැයි නියෝග කරන්න යැයි පොලිස් හමූදා මූලස්ථානය සහ ආරක්ෂකඇමැති යන සියලූ දෙනාට කියමූ. -</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු සමරකෝන්</author>
+            <date>2011-10-11 16:11:14</date>
+            <index>4</index>
+            <phrase>ඇයි නිල ඇදුමේ පිටුපස නම සහ හැදුනුම් අංකය ප්‍රදර්ශනය කරන්නට බැරි ක්‍රිකට් / පාපන්දු ක්‍රීඩකයිනගේ ඒ විදියට තිබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මසිරි ද සිල්වා</author>
+            <date>2011-10-11 16:57:49</date>
+            <index>5</index>
+            <phrase>ඉන්දු සමරකොන් කරුණාකරල වෙනත් මාතෘකාවක් තෝර ගන්නවද අදහස් එවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

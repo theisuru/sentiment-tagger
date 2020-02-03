@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451607</articleId>
+    <title>මීදුම නුවරඑළිය වහයි.</title>
+    <author>ෂෙල්ටන් හෙට්ටිආරච්චි</author>
+    <date>2016 අගෝස්තු මස 27 20:12:22</date>
+    <body>නුවරඑළියේ මේ දිනවල අධික මීදුමක් පවතී.අද අපරභාගයේ දැඩි මීදුම නිසා රියදුරෝ විදුලි පහන් දල්වාගෙන රිය පැදවූහ.
+ </body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-08-27 21:33:02</date>
+            <index>0</index>
+            <phrase>මීදුම් ගලා කන්දේ - ඉවසන්න බෑ සීතේ - ලංවී මට දැන් කියන්න ආදරේදෝ...මට ආදරේදෝ...ඕ..ඕ..ඕ...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-28 05:58:56</date>
+            <index>1</index>
+            <phrase>ලස්සන දසුනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

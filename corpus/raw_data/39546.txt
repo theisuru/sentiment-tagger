@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39546</articleId>
+    <title>ඔළුවිල් අවුරුදු උළෙලේ ජාතික සමඟිය ඉස්මතුවේ</title>
+    <author>දිගාමඩුල්ල කුමාර සී ලියනාරච්චි</author>
+    <date>2012 අපේ‍්‍රල් මස 29 20:45:17</date>
+    <body>නැගෙනහිර ඔළුවිල් විශ්ව විද්‍යාලයයේ අග්නි බක් මහා උළෙලට  සිංහල දෙමළ හා මුස්ලිම් සිසුහු එක්වුහ.ජනක්‍රීඩා හා සංස්කෘතිගාංග  රැසක් ද එහි විය .   ජාතික සමඟිය  හා සහජීවනය එම උළෙලේදී කැපී පෙණුනි.</body>
+    <comments>
+        <comment>
+            <author>විම්</author>
+            <date>2012-04-29 21:50:53</date>
+            <index>0</index>
+            <phrase>මෙවැනි දසුන් දැකීමත් සතුටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-04-29 23:20:14</date>
+            <index>1</index>
+            <phrase>මානව හිමිකම් ගැන මහ ඉහළින් කතා කරන අයට මේවා පෙන්නුවනම් ගොඩක් වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාමය</author>
+            <date>2012-04-29 23:55:00</date>
+            <index>2</index>
+            <phrase>මේවගේ දේවල් තමයි දැන් වෙන්න ඕනි. අපි සාමයෙන් රට ගොඩ නගන්න ඕනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-04-30 10:00:55</date>
+            <index>3</index>
+            <phrase>හරිම අපූරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර(Iraq)</author>
+            <date>2012-04-30 10:32:32</date>
+            <index>4</index>
+            <phrase>මේවා දකින්න අපි පිං කරලා තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මූසික</author>
+            <date>2012-04-30 10:42:54</date>
+            <index>5</index>
+            <phrase>මෙම දායකත්වයට අප ස්තූතිවන්ත වෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2012-04-30 14:57:54</date>
+            <index>6</index>
+            <phrase>අපිටත් ඕනේ මේ වගේ දේවල් රටටම පෙන්වන්න තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ෂාන්</author>
+            <date>2012-04-30 18:17:57</date>
+            <index>7</index>
+            <phrase>මෙවැනි උළෙලක් සංවිධානය කිරීමට ලැබීම සහ එය සාර්ථක කරගන්න ලැබීම ගැන නිහතමානි ආඩම්බරයක් විදගන්නවා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්හාර</author>
+            <date>2012-05-01 11:17:46</date>
+            <index>8</index>
+            <phrase>ඇත්තටම මේ වගේ දෙයක් රටටම පෙන්වන්න පුළුවන් නම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-05-01 20:34:13</date>
+            <index>9</index>
+            <phrase>අපේ වැඩේ මෙච්චර සාර්ථක උණු එකට සතුටුයි ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

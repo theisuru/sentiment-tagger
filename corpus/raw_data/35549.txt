@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35549</articleId>
+    <title>ගොවියාට පාන් කියන්නත් බෑ</title>
+    <author>වන්නි රොමේෂ් මධුෂංක</author>
+    <date>2012 අපේ‍්‍රල් මස 09 09:56:38</date>
+    <body>රජයේ නීතිරීති හා ගබඩා හිඟය නිසා මුලතිවු ගොවීන්ගේ වී අඩු මිලට පෞද්ගලික වෙළෙඳුනට විකිණීමට සිදුවී ඇතැයි ගොවියෝ කියති. වට්ටකච්චියේ හා තන්නිඉරිප්පුවේ රජයේ මධ්‍යස්ථාන ඇතත් ගබඩා පහසුකම් නැතැයි ගොවීහු කියති.
+එහි ගොවීහු හෙක්ටෙයාර 1219 ක වී වගා කළහ.
+බොහෝ ගොවීන් ළඟ වී කිලෝ දහදහසකට වඩා ඇතත් රජයේ සීමාව කිලෝ තුන්දහසකි. රජය කිලෝව රුපියල් 28x30ට ගනිතත් පෞද්ගලික වෙළෙන්දාගේ මිල රුපියල් 23x25කට
+නොවැඩිය</body>
+    <comments>
+        <comment>
+            <author>රම්ස්</author>
+            <date>2012-04-09 11:06:51</date>
+            <index>0</index>
+            <phrase>තාම මේ ප්‍රශ්නයට පිළිතුරක් නැහැනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-09 12:25:02</date>
+            <index>1</index>
+            <phrase>ප්‍රශ්නවලට උත්තර දෙන්න තරන් කවුරුත් නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>63092</articleId>
+    <title>ඡන්ද පෙට්ටි ඡන්ද පොළට</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2012 සැප්තැම්බර් මස 07 09:53:18</date>
+    <body>නැගෙනහිර, උතුරු මැද හා සබරගමුව ඡන්දයේ පෙට්ටි ඡන්ද පොළවල් කරා රැගෙන යෑම අද උදේ ඇරැඹිණි. අම්පාර හාඩි කාර්මික විද්‍යාලයයේ ද රත්නපුර කච්ඡේරියෙ සිට ද ඡන්ද පෙට්ටි ඡන්ද මධ්‍යස්ථාන 623කට මෙසේ පිටත් කැර හැරිණි.</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-09-07 10:45:05</date>
+            <index>0</index>
+            <phrase>උතුරු නැගෙනහිර ගිණිකොන බටහිර ඒක කොඩියේ සෙවනේ වැටුනත් නැගිටින් වැටි වැටි නැගිටින ඉදිරියටම යමු ලංකා -----------</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-07 11:42:13</date>
+            <index>1</index>
+            <phrase>ඕවා මගදි පුරවන්නේ එහෙම නෑ හො﻿ඳද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-09-08 09:35:53</date>
+            <index>2</index>
+            <phrase>දැනට පවතින ඡන්ද ක්‍රමය ඉතාම ඉක්මනින් වෙනස් කරන්න ඕන..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-09-08 10:30:19</date>
+            <index>3</index>
+            <phrase>ඔය ගෙනියන ජන්ද පෙටිටි සාධාරන ජන්ද පෙටිටිම වේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Cooray Nawalage Jude Yohan</author>
+            <date>2012-09-08 18:56:36</date>
+            <index>4</index>
+            <phrase>මෙන්න ඡන්ද පෙට්ටි උස්සන‍වෝ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

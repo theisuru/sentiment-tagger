@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17321</articleId>
+    <title>වාහන ණයෙන් මාධ්‍යවේදී වයස පහතට?</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 13 15:00:09</date>
+    <body>මාධ්‍යවේදීනට වාහන ණය දීමේදී වසර 25ක පළපුරුද්ද අඩුකිරීම කෙරෙහි මහින්ද රාජපක්‍ෂ ජනපතිගේ අවධානය යොමු වී ඇතැයි ජනමාධ්‍ය ඇමැති කෙහෙලිය රඹුක්වැල්ල මහතා පාර්ලිමේන්තුවේදී පැවැසීය.
+එම සීමාව පහත දමන ලෙස ජනපතිගෙන් ද ඉල්ලීම් ලැබී ඇතැයි ඇමැති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>එස්.කේ. කලුආරච්චි</author>
+            <date>2011-12-13 15:48:36</date>
+            <index>0</index>
+            <phrase>ඕක නම් හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී එම් ඩී සම්පත්</author>
+            <date>2011-12-13 19:34:03</date>
+            <index>1</index>
+            <phrase>අඩුවුණොත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

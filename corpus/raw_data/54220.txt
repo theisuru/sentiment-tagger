@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54220</articleId>
+    <title>සරසවි පිවිසුම් ලකුණු 25ට පෙර</title>
+    <author></author>
+    <date>2012 ජූලි මස 19 11:55:22</date>
+    <body>පසුගිය අපොස උසස් පෙළ විභාගයේ ඉසෙඩ් ස්කෝර් කඩඉම් ලකුණු ලබන 25 වැනි දිනට පෙර ඉදිරිපත් කරන බව විභාග කොමසාරිස් ශ්‍රේෂ්ඨාධිකරණයට අද දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>අමිත්</author>
+            <date>2012-07-19 12:24:43</date>
+            <index>0</index>
+            <phrase>ඔය කිව්වට 2012 A/L විභාගෙට පස්සෙ තමයි දාන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාඨකයෙක්</author>
+            <date>2012-07-19 12:45:55</date>
+            <index>1</index>
+            <phrase>අප හැමෝම දන්නා පරිදි විභාග දෙපාර්තමේන්තුවේ රාජකාරිය වන්නේ විභාග පැවැත්වීම හා ප්‍රතිපල නිකුත් කිරීමය. කඩඉම් ලකුණු තීරණය වන්නේ විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිසමට ලැබෙන ඉල්ලුම් පත්‍ර අනුවයි. z ලකුණු ගණනය කිරීම විභාග දෙපාර්තමේන්තුවේ කටයුත්තක් වන අතර කඩඉම් ලකුණු තීරණය කිරීම විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිසමේ කටයුත්තකි. විභාග කොමසාරිස් වෙනත් ආයතනයක කටයුතු ගැන ප්‍රකාශ නිකුත් කරාවි යයි සිතීම අසීරුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-19 13:41:17</date>
+            <index>2</index>
+            <phrase>නිදහස් අධ්‍යාපනයට විනකරන්නෝ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-07-19 14:32:32</date>
+            <index>3</index>
+            <phrase>කෝ අර ඇමතිතුමා...නිහඩවෙලාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-19 18:50:39</date>
+            <index>4</index>
+            <phrase>බලමු මේ පාර වත් හරියට කරයිද කියලා. ඒත්, ඔට්ටුයි මොනවා හරි අනාගන්නවාමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසුවා</author>
+            <date>2012-07-20 00:00:14</date>
+            <index>5</index>
+            <phrase>අද අධ්‍යාපන අංශ කැද හැලියක් වෙලා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-20 10:52:08</date>
+            <index>6</index>
+            <phrase>අපේ දරුවන්ගේ අනාගතය ගැන මීට වඩා සැලකිලිමත් වෙන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිෂ්‍ය</author>
+            <date>2012-07-20 13:17:50</date>
+            <index>7</index>
+            <phrase>වැරදි නැත්තම් ඇයි ආයේ ප්‍රථිඵල නිකුත්කරන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණුක</author>
+            <date>2012-11-22 18:20:21</date>
+            <index>8</index>
+            <phrase>පුලුවන් ඉක්මණීන් අපිව ඇතුළු කරගන්නවා නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

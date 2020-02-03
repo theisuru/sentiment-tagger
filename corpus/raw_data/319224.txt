@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>319224</articleId>
+    <title>ජයලලිතා යළි මහ ඇමැති පදවියට</title>
+    <author></author>
+    <date>2015 මැයි මස 23 13:02:45</date>
+    <body>දූෂණ චෝදනා එල්ලවී බන්ධනාගාර ගතව සිට නිදහස්වූ ඉන්දියාවේ තමිල්නාඩු ප්‍රාන්ත මහ ඇමැතිනී ජයලලිතා ජයරාම් අද සිය ධූරයේ නැවත දිවුරුම් දුන්නාය.
+අධිකරණයෙන් වරදකරුකොට බන්ධනාගාර ගතව සිටියදී ඒ.ඩී. එම්.කේ පක්ෂයේ පන්නීර් සෙල්වම් මහ ඇමැති ධූරයට පත්ව සිටි අතර ඔහු සිකුරාදා ඉල්ලා අස්විය.
+ජයලලිතා ජයරාම් පසුගියදා සියලු චෝදනාවලින් නිදොස් කොට නිදහස් කිරීමට එරට අධිකරණය තීන්දු කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>ශාන් සෞදි</author>
+            <date>2015-05-23 08:17:40</date>
+            <index>0</index>
+            <phrase>උඹ මොන දේකට පත් උනත් අපට කමක් නැ ලංකාවේ වැඩවලට අත දාන්න එන්න එපා. අවොත් උඹට වෙන්නෙත් රජීවූ උන්නැහැට උන දේමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-05-23 08:30:20</date>
+            <index>1</index>
+            <phrase>බලගතු ඉන්දියාවේත් නීතියේ හිඩැස් තියෙනවා එහෙනම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-05-23 08:33:49</date>
+            <index>2</index>
+            <phrase>ඒ ඉතින් ඉන්දියාවේ! ඒකට අපේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නඩරාජා</author>
+            <date>2015-05-23 09:48:00</date>
+            <index>3</index>
+            <phrase>ඉන්දියාවේ අධිකරණය ස්වාදීනයි කියලා අපි කෑගැහැව්වට එහෙත් මෙහෙ වගේමයි අප්පා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලී ෆොන්සේකා</author>
+            <date>2015-05-23 11:37:23</date>
+            <index>4</index>
+            <phrase>ආනේ! සිරි ලංකාවේ වගේමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒඩ්‍රීයන් ද මෙල්</author>
+            <date>2015-05-23 12:01:50</date>
+            <index>5</index>
+            <phrase>ලංකාවේ වගේමයි.කිසි වෙනසක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2015-05-23 12:48:16</date>
+            <index>6</index>
+            <phrase>හොරකම එහෙමමයි.ඔප්පුකර ගන්න බැරිවුණා. දේපළ වල වර්ධනය අවුරුද්දට 10% වැඩිවුණාට එය ඔප්පුකළේ නැහැනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී සිරිවර්දන</author>
+            <date>2015-05-23 16:43:54</date>
+            <index>7</index>
+            <phrase>එහෙනම් අපේ සමහරුන්ටත් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2015-05-24 01:37:36</date>
+            <index>8</index>
+            <phrase>කොහොමහරි මෙයාලා බේරෙනවා. හැබැයි එලොවදි බේරෙනවා බොරු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2015-05-24 02:58:19</date>
+            <index>9</index>
+            <phrase>අනවබෝධයෙන් හොරුන්ට ආවඩන කට්ටිය එහෙත් ඉන්නවා, මෙහෙත් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2015-05-24 03:03:19</date>
+            <index>10</index>
+            <phrase>දැන් අපේ සමහර කට්ටියත් පෝලිමේ යාවි මෙයා අල්ලපු පෙරකදෝරුවාව මුලිච්චි වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

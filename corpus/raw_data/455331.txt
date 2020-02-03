@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>455331</articleId>
+    <title>‘පුවත්පත් මණ්ඩලය/පැමිණිලි කොමිසම අහෝසි කරනවා‘</title>
+    <author>තරිඳු ජයවර්ධන  ඩයනා උදයංගනී ඡායාරූප හා වීඩියෝ - කෞශල්‍ය සමින්ද</author>
+    <date>2016 සැප්තැම්බර් මස 07 17:32:40</date>
+    <body>ජනමාධ්‍ය පිළිබඳ කොමිසම ස්ථාපිත කළ පසු ශ්‍රී ලංකා පුවත්පත් මණ්ඩලය හා ශ්‍රී ලංකා පුවත්පත් ආයතනය අහෝසි කරන බව ජනමාධ්‍ය නියෝජ්‍ය ඇමැති කරු පරණවිතාන මහතා පැවසීය.
+ඔහු මේ බව කීවේ ශ්‍රී ලංකා පුවත්පත් මණ්ඩලය ගැන ජනමාධ්‍යවේදියකු නැඟූ ප්‍රශ්නයකට පිළිතුරු වශයෙනි.
+පුවත්පත් මණ්ඩලය ගැන විවේචනය කළ උදවිය දැන් එය නඩත්තු කරමින් සිටින්නේ ඇයිදැයි ප්‍රධ්‍යවේදියා විමසීය.
+(එම වීඩියෝව පහතින්)
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-09-07 22:15:56</date>
+            <index>0</index>
+            <phrase>හොඳයි බලමුකෝ ඔය කියන දේවල් වෙයිද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-09-08 05:39:12</date>
+            <index>1</index>
+            <phrase>මට හරිම දුකයි මෙතුමාත් මේ දේශපාලන කුණුගොඩට වැටුණු එක ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2016-09-08 07:03:21</date>
+            <index>2</index>
+            <phrase>හොඳයි හොඳයි. ඔහොම යමුකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

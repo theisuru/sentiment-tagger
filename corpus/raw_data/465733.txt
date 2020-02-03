@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465733</articleId>
+    <title>දෙබරු දැරියකගේ දිවි උදුරා ගනිති</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 ඔක්තෝබර් මස 07 13:41:22</date>
+    <body>පාසල අවසන්ව පා පැදියකින් නිවසට යමින් සිටි තිරප්පනේ දැරියක (16) දෙබර ප්‍රහාරයකට ලක්වි අනුරාධපුර ශික්ෂණ රෝහලට ඇතුළත් කිරිමෙන් අනතුරුව මියගිය බව කැකිරාව පොලිසිය කියයි.
+මෙසේ මිය ගොස් ඇත්තේ මහකනුමුල්ල,තිරප්පනේ පදිංචිව සිටි දනරත්න විජේසිංහගේ තරුෂි නවෝද්‍යා නැමති පාසල් සිසුවියකි.
+ගසක් උඩ තිබු දෙබර කුඩයක් අැයගේ හිස මතට කඩා වැටි  දෙබරුන් විශාල ප්‍රමාණයක් ඇයට විද ඇති බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-10-07 09:54:09</date>
+            <index>0</index>
+            <phrase>පවු දෙයියනේ අහිංසකී!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-10-07 09:54:13</date>
+            <index>1</index>
+            <phrase>කණගාටුදායක සිද්ධියක්. දුවේ, ඔබට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>32703</articleId>
+    <title>පොලිස් දැල ඇඹිලිපිටියට</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මාර්තු මස 21 21:27:48</date>
+    <body>කෝට්ටේ රජමහා විහාරයේ හිමි දෙනමගේ ඝාතනය සම්බන්ධයෙන් වයඹ පළාතේ බස්නායක නිලමේවරයකු අධිවේගී මාර්ගයේ යමින් සිටියදී සැකපිට අත්අඩංගුවට ගත් බව කියන මිරිහාන පොලිසිය සිව්රු හැරගිය බව කියන පුද්ගලයකුද සොයන බව කියයි. ඔහු ඇඹිලිපිටියේ පදිංචිකරුවෙකියි තොරතුරු ලැබී ඇත.
+කොම්පඤ්ඤවීදිය පොලිසියේ ‘කැන්ඩි’ බල්ලාගේ ඉව ඔස්සේ ගිය පොලිසිය පෙදරේරුවෝ සිව් දෙනෙක් ද අත්අඩංගුවට ගනු ලැබූහ.
+සෙරෙප්පු දෙකක් ඉව කළ ‘කැන්ඩි’ ඔවුන් අත්අඩංගුවට ගැනීමට උදව් වී ඇත. බස්නායක නිලමේ හා සිව්රු හළ තැනැත්තා මිතුරන් බවද සොයාගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>උපුල් රාජපක්ෂ</author>
+            <date>2012-03-21 21:51:48</date>
+            <index>0</index>
+            <phrase>දෙන්න උපරිම දඩුවම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරදානේ නුවන්</author>
+            <date>2012-03-21 22:46:22</date>
+            <index>1</index>
+            <phrase>ආණ්ඩුවට සම්බන්ධ ප්‍රබලයකු නිසා නඩුත් හාමුදුරුවන්ගේ බඩුත් හුමුදුරුවන්ගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-03-21 23:49:26</date>
+            <index>2</index>
+            <phrase>ඇයි අපේ රටේ එල්ලුම් ගහ ක්‍රියාත්මක කරන්නේ නැත්තේ. මේ මිනී මැරුම් කරන එවුන් එල්ලා මැරිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2012-03-22 02:26:49</date>
+            <index>3</index>
+            <phrase>පව් අනේ එල්ලුම් ගස් යවන්න එපා. බුද්ධාගමේ කියල තියෙන්නේ නරක මිනිස්සුන්ව හොද කරනවා මිස මරණ එක නෙවෙයි. අංගුලිමාල කථාව දන්නවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-03-22 06:32:05</date>
+            <index>4</index>
+            <phrase>ජනාධිපතිතුමනි, දැන්වත් එල්ලුම් ගහ නියම කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-03-22 08:30:38</date>
+            <index>5</index>
+            <phrase>මේ ආත්මේ කෙසේ වෙතත් මෙයාලා කල්ප ගානක් අපායේ දුක්විදීවි. එතකොට කරපු පව් තේරේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

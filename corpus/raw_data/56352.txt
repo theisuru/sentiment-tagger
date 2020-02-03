@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56352</articleId>
+    <title>ජවිපෙ විරෝධයෙන් දඹුල්ල රතුවේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 ජූලි මස 31 11:29:29</date>
+    <body>දෙවිනුවර තුඩුවේ සිට මාතර, ගාල්ල, කොළඹ ගම්පහ කෑගල්ල පසුකැර   පැමිණි ජනතා විමුක්ති පෙරමුණේ රිය පෙරහර පේදුරුතුඩුව බලා යන ගමන් කුරුණෑගලට  අවුත් රජයේ වැඩපිළිවෙළට එරෙහිව උද්ඝෝෂණය කෙළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>ගිරිතලේ</author>
+            <date>2012-07-31 11:52:23</date>
+            <index>0</index>
+            <phrase>ඇයි පොලොන්නරුවට ආවෙ නැත්තෙ.. අපිව අමතක කරන්න එපා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-31 11:53:10</date>
+            <index>1</index>
+            <phrase>අතාරින්න එපා . ඔහොම යන් (දී).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදකලුම්</author>
+            <date>2012-07-31 11:55:45</date>
+            <index>2</index>
+            <phrase>විපක්ෂයක වගකීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය පෙරේරා</author>
+            <date>2012-07-31 11:56:52</date>
+            <index>3</index>
+            <phrase>ජයවේවා ජයවේවා ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-31 11:57:13</date>
+            <index>4</index>
+            <phrase>තව හයියෙන් තව හයියෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-07-31 11:56:48</date>
+            <index>5</index>
+            <phrase>විවේචනය හොදයි. නමුන් ඔයාලා විකල්ප වැඩ සටහනක් ඉදිරිපත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-07-31 12:00:48</date>
+            <index>6</index>
+            <phrase>ගොවියෝ අමුඩ ඇන්දෙ ඉස්සර... අනිත් අයත් ඇදගෙන එන්න තිබුණනෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-07-31 12:04:21</date>
+            <index>7</index>
+            <phrase>ලස්සනයි..!! අර රතු ඇදගෙන ඉන්නෙ රට ගොවියොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-07-31 12:05:47</date>
+            <index>8</index>
+            <phrase>දිගටම ගිහින්, පේදුරු තුඩුව පහු කරලා තමිල්නාඩුවට යන්න. එහෙ ගිහින් උද්ඝෝෂණ කරන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් අගලවත්ත</author>
+            <date>2012-07-31 12:12:04</date>
+            <index>9</index>
+            <phrase>ඒකාබද්ධ විපක්ෂයක් ඇතිව සංවිධානාත්මකව ආණ්ඩුව කරන්නාවු වැරදි ජනතාවට ප‍්‍රායෝගිකව පෙන්වා දිම තුළ මේ ආණ්ඩුව කරන්නා වු සමහර වැරදි ජනතාවට අවබෝධකර දිය හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාවණ</author>
+            <date>2012-07-31 12:12:32</date>
+            <index>10</index>
+            <phrase>මේ අය මාක්ස් වාදය අත අරිනවනම් විතරයි අපේ රටේ ජාතියේ විශ්වාසය දිනාගන්න පුලුවන් වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපරමාදු</author>
+            <date>2012-07-31 12:12:51</date>
+            <index>11</index>
+            <phrase>ඔයගොල්ලවත් මේ විදිහට මේ ආණ්ඩුවෙ දේවල් හෙළි කළේ නැත්නම් මොනවා කරයිද දන්නෙ නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-07-31 12:22:18</date>
+            <index>12</index>
+            <phrase>මේ ඔක්කොම හිතන්නෙ තමන් ගැන විතරයි.. තමන්ට වාසියක වෙන වැඩවලට විතරයි කතා කරන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-07-31 12:24:36</date>
+            <index>13</index>
+            <phrase>දිනන තුරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-31 12:28:46</date>
+            <index>14</index>
+            <phrase>මේ අයට ටික කාලයකට පාලනය දුන්නනම් හරි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-07-31 12:36:31</date>
+            <index>15</index>
+            <phrase>අර අමුඩේ ඇදගෙන යන ගොවි අනුරූ ටිකත් එක්ක කලිසන් ඇදගෙන යන්නේ රුසියන් විප්ලවේ මෙහෙයවපු මහ මොල කාරයො ටික දෙනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-07-31 12:40:52</date>
+            <index>16</index>
+            <phrase>අමු‍ඩෙ ඇදගෙන පාරට ඇවිල්ලනම් වැඩක් නැහැ.. කුඹුරට බැහැලා වැඩ පෙන්නන්න කියන්න.. හැමදාම ජේ.වී.පී එකනම් කළේ පාර දිගේ විරෝධතා පැවැත්වීම තමයි.. වෙන මොනවත් කරන්නත් බැහැනෙ.. රට ගැන හිතල වැඩක් කරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමා</author>
+            <date>2012-07-31 12:50:15</date>
+            <index>17</index>
+            <phrase>ඔය මයික් එකෙන් කෑගහන කෙනාටත් අමුඩයක් ඇන්දුවනාම් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දිකා</author>
+            <date>2012-07-31 12:51:27</date>
+            <index>18</index>
+            <phrase>ඔහොම පේදුරුතුඩුවට ගියාම නවතින්න එපා. කෙලින්ම තමිල්නාඩුවට යන්න.. එතකොට රට නිදහස්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-07-31 12:57:37</date>
+            <index>19</index>
+            <phrase>ඔයාල හැම සටනම පටන්ගන්නවා..... එත් එවර කරපු සටනක් නම් අපි තම දැක්කේ නැ.... හරි ඉතින් මේක පේදුරු තුඩුවෙන් එහාට යන්න තැනක් නැති නිසා එතනින් එවර වී වගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන්</author>
+            <date>2012-07-31 13:00:41</date>
+            <index>20</index>
+            <phrase>මේවත් මෙහෙම තියෙන්න ඕනෑ තමයි. එතකොට තමයි පාලනයක් ඇති වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-07-31 13:08:36</date>
+            <index>21</index>
+            <phrase>ගොවියෝ සෙරෙප්පුත් නැතවි පාරෙ යනකොට ඇයි සහෝදරයන්ට සපත්තු? මේකද සමාජවාදය..? ඔයාලත් අමුඩ ඇදගෙන ගියානම් තමයි හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-07-31 13:17:07</date>
+            <index>22</index>
+            <phrase>ඒ අය දන්නේ කාට හරි බණින්න විතරයි. කරන වැඩක් නම් නැහැ පේන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුලා</author>
+            <date>2012-07-31 13:28:03</date>
+            <index>23</index>
+            <phrase>කැකිරාව, කලාවැව හා ඒ අවට ඉන්න ජනතාවට 89 අවුරුද්දෙ උන දේවල් මතක් කරදෙනවා දැං හැමෝටම ඒවා අමතක වෙලානෙ ඉන්නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනාතේ</author>
+            <date>2012-07-31 13:29:37</date>
+            <index>24</index>
+            <phrase>ඔහොම යං ඔහොම යං.. ඇයි මතක නැද්ද? වැව් දහස, කිරි ඇතිලියෙන් ඔබ්බට.. මීළගට පැදුරුතුඩෙන් ඔබ්බට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගතපාල</author>
+            <date>2012-07-31 13:33:36</date>
+            <index>25</index>
+            <phrase>මේ කුරුණෑගල නේද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-07-31 13:56:40</date>
+            <index>26</index>
+            <phrase>අපරාදෙ මේ කෑගිහිල්ල...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-07-31 14:01:48</date>
+            <index>27</index>
+            <phrase>දඹුල්ල කුරුණෑගල වගේ වෙලාද?...මේකේ තියෙන්නේ කුරුණෑගල පේෂකර්ම එකයි,බස් නැවතුම ලඟ පින්තූරනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නසිරි</author>
+            <date>2012-07-31 14:19:19</date>
+            <index>28</index>
+            <phrase>කට්ටියකට නම් මේවා ගැන පොඩි ඉරිසියාවක් ඇති. ඉතින් ඒකට අපි මොනවා කරන්නද අනේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2012-07-31 14:20:24</date>
+            <index>29</index>
+            <phrase>මෙයාලා තමයි අපේ රට කෑවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-07-31 14:30:51</date>
+            <index>30</index>
+            <phrase>මෙය පමණයි මේ ගොල්ලන්ට කළ හැකි උපරිම දෙය...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාංචනා</author>
+            <date>2012-07-31 14:36:16</date>
+            <index>31</index>
+            <phrase>මම හිතන්නෙ වැඩිහිටි ගොවියෝ අමුඩ අදින්නෙ නැහැ.. ඒ ජේ.වී.පී. එකේම අය වෙන්න ඇති..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2012-07-31 14:56:39</date>
+            <index>32</index>
+            <phrase>ලෝකයේ ඉන්න ලොකුම මෝඩයෝ ටික ඉන්නෙ ලංකාවෙ බව ලෝකයටම හෙලිකිරීම ගැන ලාංකිකයෙකු වශයෙන් හරිම කණගාටුයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-31 15:35:38</date>
+            <index>33</index>
+            <phrase>ජයවේවා!! ජයවේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-07-31 15:44:08</date>
+            <index>34</index>
+            <phrase>අනේ හැමදාම විසිල් විතරයි බල්ටි නැ‍හැනෙ.. මේගොල්ල හැමදාම උත්සාහ කරන්නෙ ජනතාවට අමුඩ අන්දවන්න තමයි.. මේ ලණු කාලා තදට අමුඩ ඇදලා පෙරහැරේ යන්නත් කට්ටිය ඉන්නවානේ.. අනේ පව්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-07-31 18:43:57</date>
+            <index>35</index>
+            <phrase>අර මොඩ් ගොවියා කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද</author>
+            <date>2012-07-31 19:08:31</date>
+            <index>36</index>
+            <phrase>අමුඩෙත් ගලවාගෙන පේදුරුතුඩුවෙන් මුහුදට පනින්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-01 08:45:15</date>
+            <index>37</index>
+            <phrase>ඔන්න ඔහේ කරගත්තාවේ අනේ. මොකෝ ඒ මිනිස්සුන්ට කියලා නිදහසක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-01 10:38:24</date>
+            <index>38</index>
+            <phrase>හැමදාම ඔහොම තමයි ඉතිං. කවදාවත් අනාගතයක් ගැන හිතන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

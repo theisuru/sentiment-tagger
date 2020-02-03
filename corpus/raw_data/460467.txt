@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460467</articleId>
+    <title>'අපේ ගම තිරිහන් වෙයි'</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 සැප්තැම්බර් මස 22 17:35:07</date>
+    <body>වෛද්‍යවරුන්ගේ සංගමය පෞද්ගලිකව එල්ල කරන ක්‍රියාකාරකම්  වලට  තමන් නොසැලෙන අතර  තම අමාත්‍යාංශය විසින් ගන්නා  සෑම ක්‍රියාකාරකමක් ම ඉතාම විනිවිද භාවකින් සිදුකරන නිසා ඊට  විරුද්ධව කිසිම කෙනෙකුට  අභියෝග කළ නොහැකි  බව අකිල විරාජ් කාරියවසම්  ඇමැති  පැවසීය.
+මෙම ක්‍රියා වලට  බිය නොවී  ඉදිරියට  පැමිණිය යුතු  බවත්  මේ බමුණු  කුල කැඩිය යුතු බව ඇමැති කීවේය.
+බත්තරමුල්ලේ පිහිටි  ‘අපේ ගම’ පරිශ්‍රය නවීකරණ කටයුතු කරවා  මධ්‍යම සංස්කෘතික අරමුදල වෙත පැවරීම හා එහි  කටයුතු ආරම්භ කිරිමේ නිල උත්සවයේ දී ඇමැති  එසේ කීවේය.</body>
+    <comments>
+        <comment>
+            <author>භද්‍රානි</author>
+            <date>2016-09-22 13:30:44</date>
+            <index>0</index>
+            <phrase>ඔබතුමා නිවැරදි මතයක ඉන්නවා. රටේ බහුතරයක් ඔබතුමා දරන මතය පිළිගන්නවා සිකුරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසධ</author>
+            <date>2016-09-23 01:19:07</date>
+            <index>1</index>
+            <phrase>එහෙනම් එන්නකෝ ආයේ බමුණු කුල වලින් බෙහෙත් ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුපුල්</author>
+            <date>2016-09-23 04:31:15</date>
+            <index>2</index>
+            <phrase>නිදහස් අධ්‍යාපනයෙන් ඉගෙන ගත්ත සල්ලි දුප්පත් මහජනතාව තාමත් ගෙවනවා. ඇමති තුමෝ අපි ඔබ සමගයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-09-23 05:18:02</date>
+            <index>3</index>
+            <phrase>ඔය ඉස්කෝලේ ප්‍රශ්නේ මේ වෙලාවේ අැදලා ගත් එක මම නම් අනුමත කරන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2016-09-23 05:19:21</date>
+            <index>4</index>
+            <phrase>ඇමතිතුමනි, අපි ඔබ සමඟයි. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-09-23 05:33:14</date>
+            <index>5</index>
+            <phrase>හැමෝම බමුණෝ නෙමෙයිනේ. ඔය අතරේ අගමැතිතුමා කියපු එක හරි කියලා තේරුණ අයත් ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2016-09-23 06:52:30</date>
+            <index>6</index>
+            <phrase>කටක් තියෙන ඇමතියෙකුට මොනවා කියන්න බැරිද? වැඩක් කරන්න අවශ්‍ය නැහැ කටමැත දොඩමින් කොමිස් ගැහුවාම හරි. ඡන්දෙ දෙන්න ඇති තරම් හරක් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-09-23 08:31:52</date>
+            <index>7</index>
+            <phrase>එයාලට මවුන්ට් එළිසබෙත් තියෙනවනේ සිංගප්පූරුවේ. එ් නිසා බමුණු බෙහෙත් ඕනෑ නැහැලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

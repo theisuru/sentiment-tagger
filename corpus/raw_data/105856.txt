@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>105856</articleId>
+    <title>කතරගම අලියෙක් කුලප්පු වේ</title>
+    <author>කේ ඩී දේවප්‍රිය</author>
+    <date>2013 මාර්තු මස 31 16:11:24</date>
+    <body>කතරගම මැණික් ගඟේ දිය නෑමට රැගෙන ආ කතගරම දේවාලයේ බානු අලියා අද සවස 3.30ට පමණ දංවැල් කඩාගෙන නගරය පුරා දුවන්නට විය.
+වල්අලියකු පැමිණ ඇතැයි මහජනයා සිතූහ.
+දේවාලයේ ගොව්වන් දෙටගමුව වැව ළඟදී අලියා අල්ලා ගත්තේය.
+නගරයන් කිසිවකුටත් හානියන් නොවීය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>කේ.එච්.ආර්.කේ. දිසානායක</author>
+            <date>2013-03-31 16:29:41</date>
+            <index>0</index>
+            <phrase>එකෙක් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-31 16:23:02</date>
+            <index>1</index>
+            <phrase>මේකත් හරියට යූඑන්පී අලියෙක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබ්දුල් රහමාන්</author>
+            <date>2013-03-31 17:03:34</date>
+            <index>2</index>
+            <phrase>ඇත් ගෙව්වා ඇනපු පාර අලිය කුලප්පු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ ඉතාලියේ ලෙක්කෝ සිට</author>
+            <date>2013-03-31 17:12:59</date>
+            <index>3</index>
+            <phrase>මාතලේ සමූහ මිනිවලේ ප්‍රථිඵල එනකොට අලියෙක් දෙන්නෙක් කුලප්පුවෙලා අනිත් පැත්තට පනියිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2013-03-31 17:55:34</date>
+            <index>4</index>
+            <phrase>අයියෝ මේ මිනිස්සු කුලප්පු වුණ අලියාගෙන් දුරස් වෙන්නේ නැතුව ළඟට වෙලා ඉන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාරා</author>
+            <date>2013-03-31 19:04:54</date>
+            <index>5</index>
+            <phrase>අලියට අලි සබන් නැති නිසාද කුලප්පු වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2013-03-31 19:27:42</date>
+            <index>6</index>
+            <phrase>ඒ කියන්නේ දෙවියෝ මේ දවස්වල නිවාඩුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්සුදීන්</author>
+            <date>2013-03-31 20:19:36</date>
+            <index>7</index>
+            <phrase>මිනිස්සුන්ට සමහරු කරන අපරාධ වලට තව හොඳ දේවල් ඉස්සරහට බලාගන්න පුළුවන් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් ෆස්ලි</author>
+            <date>2013-03-31 21:01:33</date>
+            <index>8</index>
+            <phrase>සමහරු කීවේ බල සේනාවටද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කූමාර</author>
+            <date>2013-03-31 22:10:01</date>
+            <index>9</index>
+            <phrase>ආයෙත් කුලප්පු උනොත් පැනපුගමන් අපි කටීටීය මෙයාව අල්ලගන්නව හෙල්ලෙන්න ඛැර් වෙන්න ළුකයි වටවෙල ඛලාගෙන ඉන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ</author>
+            <date>2013-03-31 22:40:30</date>
+            <index>10</index>
+            <phrase>හා හා හා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-03-31 23:03:05</date>
+            <index>11</index>
+            <phrase>අවුරුදු උත්සවයට ගම හරහා දුවන්න පුරුදු වෙනවා ඇති. අලි රේස් තියෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජානි</author>
+            <date>2013-04-01 00:00:34</date>
+            <index>12</index>
+            <phrase>කතගරම නොවෙයි මුලු රටේම අලි කුලප්පු වෙලා. එඩේරෙක් සොයාගන්න ලෝකෙ වටේ දුවන්න පුරුදු වෙනවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2013-03-31 23:57:00</date>
+            <index>13</index>
+            <phrase>මට හිතෙන්නේ කැලෑ සත්තු කැලේටයි අයිති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-04-01 02:57:26</date>
+            <index>14</index>
+            <phrase>මම හිතන්නේ ඒ සිද්දිය එච්චර හොද පුවතක් නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-04-01 03:27:21</date>
+            <index>15</index>
+            <phrase>අපේ අලියව නම් කුලප්පු කරන්න තියා ඉස්සරහටවත් ගෙනියන්න බැහැ. පස්සටමයි යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-01 05:34:51</date>
+            <index>16</index>
+            <phrase>අලියට වැඩිය මිනිස්සුනේ කුලප්පු වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-01 08:03:23</date>
+            <index>17</index>
+            <phrase>ඇත් ගොවුවා හෙණ්ඩුවෙන්වත් ඇනලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ සම්පත්</author>
+            <date>2013-04-01 08:22:24</date>
+            <index>18</index>
+            <phrase>නියමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2013-04-01 08:31:57</date>
+            <index>19</index>
+            <phrase>නරකම නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-01 08:34:01</date>
+            <index>20</index>
+            <phrase>පොල්ලක් තියාගෙන මොකද මේ කරන්නේ, අලියා ළගට වෙලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-04-01 09:57:59</date>
+            <index>21</index>
+            <phrase>මේ අලින්ට මත්තල ගුවන් තොටුපළ අලි කරදරයක් වුණාද දන්නෙ නැහැ, මෙහෙම කුලප්පු වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-04-01 13:02:16</date>
+            <index>22</index>
+            <phrase>කුලප්පු වුණු අලියා ළඟට ගිහින් බලාගෙන ඉන්න ලස්සන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-04-01 12:57:28</date>
+            <index>23</index>
+            <phrase>මොකක් හරි වුනාම හරි සතුටුයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

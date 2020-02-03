@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>100834</articleId>
+    <title>ගාලු ඉසිවරයාට මහජන හරසර</title>
+    <author>සජිව විජේවීර  වේරගොඩගේ සජීව විජේවීර</author>
+    <date>2013 මාර්තු මස 03 22:56:03</date>
+    <body>ශ්‍රී ලංකාවේ ඉතා කීර්තිමත් මනෝ විද්‍යා විශේෂඥ වෛද්‍යවරයකු වූ ඩී.වී.ජේ.හරිස්චන්ද්‍ර මහතාගේ අවසන් කටයුතු අද ගාල්ල සමනළ ක්‍රීඩා පිටියේදී සිදුකැරුණි. ඒ මහතා පදිංචිව සිටි වුඩ්වඩ් මාවතේ නිවසින් අවමංගල්‍ය පෙරහැර සවස 3.00 ට පිටත් විය. මග දෙපස විශාල ජනකායක් වෛද්‍ය හරිස්චන්ද්‍ර මහතාට අවසන් ගෞරව දැක්වීම සඳහා එක්ව සිටියහ.
+
+
+
+
+
+ 
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>කුෂාන්</author>
+            <date>2013-03-03 23:08:42</date>
+            <index>0</index>
+            <phrase>ඉසිවරයාණනි, ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රී දේවි</author>
+            <date>2013-03-03 23:33:56</date>
+            <index>1</index>
+            <phrase>වෛද්‍යතුමනි, ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-03-03 23:34:10</date>
+            <index>2</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරාවිට</author>
+            <date>2013-03-03 23:58:38</date>
+            <index>3</index>
+            <phrase>අපට දරාගන්න බෑරි තරම් වෙදනාවක් වගේම ,විශාල පාඩුවක් අපේ මුලු ශ්‍රි ලන්කාවටම. කාරුනික වෙදදුරු තුමනි , ඔබ තුමාට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම්</author>
+            <date>2013-03-04 00:20:56</date>
+            <index>4</index>
+            <phrase>අපට වටිනා සම්පතක් අහිමි විය. ඔබට නිවන් සුව...!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීපා</author>
+            <date>2013-03-04 00:28:47</date>
+            <index>5</index>
+            <phrase>ඔබට නිවන් සුව අත්වේවා..!!!!! රටක් වටිනා මිනිස්සු සමුගෙන යන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිසල්</author>
+            <date>2013-03-04 00:30:11</date>
+            <index>6</index>
+            <phrase>සසර වසන තුරු නිවන් දකින තුරූ පින්කෙත හෙළ රන් දෙරනේ යලි උපදින්නට හේතු වාසානා වේවා//, හේතු වාසනා//</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-03-04 00:42:41</date>
+            <index>7</index>
+            <phrase>ලංකාවේ හිටියානම් මමත් අනිවාර්යෙන්ම අවසන් ගෞරවය දක්වන්න යනවා. ඔබ තුමාට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොස්වත්ත</author>
+            <date>2013-03-04 00:41:44</date>
+            <index>8</index>
+            <phrase>මෙලොව කිසිම දෙයක් සදාතනික නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-03-04 00:47:30</date>
+            <index>9</index>
+            <phrase>ඔබතුමාට අමා මහ නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල් - නාපොලි</author>
+            <date>2013-03-04 01:07:17</date>
+            <index>10</index>
+            <phrase>හරිම දුකයි. ඔබට නිවන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනීතා</author>
+            <date>2013-03-04 01:14:11</date>
+            <index>11</index>
+            <phrase>සිරිලක ආලෝකමත් කළ ඥානාලෝකයක් නිවී ගියා. ඔබට නිවන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2013-03-04 03:30:47</date>
+            <index>12</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-03-04 06:08:53</date>
+            <index>13</index>
+            <phrase>ඔබ අපේ හදවත් තුල ජීවත් වෙනවා. ඔබගේ සේවය ගැන ආඩම්බරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත - ඉතාලිය</author>
+            <date>2013-03-04 06:31:07</date>
+            <index>14</index>
+            <phrase>ඔබතුමා කරපු මෙහෙවර අනගිභවනීයයි. නිවන් සුව අත්වේවා..! බලවත් කණගාටුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමසර</author>
+            <date>2013-03-04 06:43:30</date>
+            <index>15</index>
+            <phrase>ඔබතුමාට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2013-03-04 07:02:51</date>
+            <index>16</index>
+            <phrase>ඔබ කුමා සහ සෝම හිමියන් කළ වැඩසටහන් තවම දෙසවන රැව් දෙනවා. ඔබට නිවන් සුව අත්වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්123</author>
+            <date>2013-03-04 07:13:55</date>
+            <index>17</index>
+            <phrase>ඔබ වැන්නෙකුගේ වියෝව අප රටට සුවිශාල පාඩුවකි. ඔබගේ දෙසුම් චිරාත් කාලයක් අප අතර පවතිනු ඇත. ඔබගේ සේවය ස්තුතිපූර්වකව අගයමු. ඔබ වටහාගත් නිවන් සුව ඔබට අයත් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-03-04 07:37:12</date>
+            <index>18</index>
+            <phrase>නිවන් දැකීමට පෙර ඔබ නැවතත් අප අතරම ඉපදේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2013-03-04 07:48:04</date>
+            <index>19</index>
+            <phrase>මේ දැවෙන්නේ ඔබතුමාගේ මෘත දේහය නොව අපේ අනාගතයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-03-04 08:01:07</date>
+            <index>20</index>
+            <phrase>නිවන් දැකීමට පෙර ඔබ නැවතත් අප අතරම ඉපදේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-03-04 08:03:25</date>
+            <index>21</index>
+            <phrase>ප්‍රවෘත්තිය බලද්දී ‍මගේ ඇස් වලට කදුළු ආවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවරත්න</author>
+            <date>2013-03-04 08:08:06</date>
+            <index>22</index>
+            <phrase>ඔබට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-03-04 08:16:42</date>
+            <index>23</index>
+            <phrase>පියාණෙනි, ඔබට නිවන් සුව! ඔබ කළ මෙහෙයේ වටිනාකම කියා නිමකළ නොහැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2013-03-04 08:24:14</date>
+            <index>24</index>
+            <phrase>ඔබගේ අඩුව කිසිවෙකුට පිරවිය නොහැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනිකා</author>
+            <date>2013-03-04 08:24:20</date>
+            <index>25</index>
+            <phrase>විශිෂ්ට හදවතක් ඇති විශිෂ්ට පුද්ගලයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2013-03-04 08:49:39</date>
+            <index>26</index>
+            <phrase>ඔබ නැවතත් අප අතරම ඉපදේවා! ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේශිකා</author>
+            <date>2013-03-04 08:48:21</date>
+            <index>27</index>
+            <phrase>ඉසිවරයාණෙනි, ඔබතුමාට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2013-03-04 08:55:27</date>
+            <index>28</index>
+            <phrase>උතුම් වූ මිනිසාණනි, මේ අනිත්‍ය වූ සන්සාරෙන් මිදී ඒ උතුම් වූ නිර්වා‍ණයම ඔබතුමාට ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-03-04 09:03:32</date>
+            <index>29</index>
+            <phrase>'සෙනරත්' සහතිකවම මටත් එහෙමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2013-03-04 09:13:46</date>
+            <index>30</index>
+            <phrase>ඔබතුමා උතුම් නිවනින් සැනසීම ලබත්වා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙනුර</author>
+            <date>2013-03-04 09:24:27</date>
+            <index>31</index>
+            <phrase>ඔබගෙන් ලැබුන සේවාව මිල කළ නොහැක... ඔබට නිවන් සුව !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුනේෂ්</author>
+            <date>2013-03-04 09:38:48</date>
+            <index>32</index>
+            <phrase>ඔබතුමාට අජරාමර නිවන් සුව... ! ඔබේ මෙහෙවර සදා අමරණීයයි... !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත</author>
+            <date>2013-03-04 09:41:30</date>
+            <index>33</index>
+            <phrase>ඔබට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2013-03-04 09:52:32</date>
+            <index>34</index>
+            <phrase>අපට වටිනා සම්පතක් අහිමි විය,ඔබතුමාට අමා මහ නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2013-03-04 09:57:49</date>
+            <index>35</index>
+            <phrase>ඔබේ පාඩුව අපට වඩාත් දැනෙන්නේ ඔබ වැනි වියතුන්ගෙන් නිසි ඵල අප ජාතියක් ලෙස ලබා නොගන්නා නිසයි... මෙවන් විද්වතුන්ගේ ඥාණයෙන් නිසිපල නෙලාගැනීම ජාතිය නගාසිටුවීමට දැන්වත් ඥානය පහළ වේවා! මහා ප්‍රාඥයා‍ණනි ඔබට අමා මහ නිවන්සුව අවබෝධ වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2013-03-04 10:00:13</date>
+            <index>36</index>
+            <phrase>මේ ප්‍රවෘත්තිය දුට කිසිවෙක් කදුළු නොසැළුවා නම් පූදුමයක්!ඉසිවරයාණනි, ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2013-03-04 10:06:00</date>
+            <index>37</index>
+            <phrase>ඔබගේ සේවය ගැන ආඩම්බරයි,ඔබතුමාට අජරාමර නිවන් සුව... !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-03-04 10:13:54</date>
+            <index>38</index>
+            <phrase>ගාලු පුරවරයම හඬා වැලපෙන, හදවතක් ඇති මිනිසකු අහිමි වූවට මිස.. මිනිසකු මළ නිසා නොවෙයි... ඔබේ මෙහෙවර සදාතනිකයි.. ‍නිවන් සුව ලැබේවා මැතිඳුනි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-03-04 10:17:06</date>
+            <index>39</index>
+            <phrase>ඔබතුමාට නිවන් සුව පතමු... !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීතාංජලී</author>
+            <date>2013-03-04 10:19:22</date>
+            <index>40</index>
+            <phrase>ඡායාරූප බලද්දී මගේ ඇස්වලටත් කඳුලු ආවා වෛද්‍යතුමනි ඔබට නිවන් සුව.. ! හිතට හරිම දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2013-03-04 10:23:37</date>
+            <index>41</index>
+            <phrase>සියල්ලෙහිම අවසාන මොහොත. කවරෙකුටවත් පොදුයි. ඔබ තුමාට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙනු</author>
+            <date>2013-03-04 10:27:50</date>
+            <index>42</index>
+            <phrase>ඔබතුමාට නිවන් සුව ! ඔබතුමා නැති එක දොරමඩලාවට හරිම පාඩුවක් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාලු සෙනෙවි</author>
+            <date>2013-03-04 10:45:09</date>
+            <index>43</index>
+            <phrase>ගාලු පුරවරයම හඬා වැලපෙන, හදවතක් ඇති මිනිසකු අහිමි වූවට මිස.. මිනිසකු මළ නිසා නොවෙයි... ඔබේ මෙහෙවර සදාතනිකයි.. ‍නිවන් සුව ලැබේවා මැතිඳුනි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්ජු</author>
+            <date>2013-03-04 10:46:49</date>
+            <index>44</index>
+            <phrase>ඔබ කළ සේවය අමිලයි.. ! ඔබට නිවන්සුව ලැබේවා.. !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-03-04 11:08:23</date>
+            <index>45</index>
+            <phrase>ආදර්ශමත් වෛද්‍යවරයකු ඔබතුමා මුදලට සේවය නොකරපු වෙදැදුරෙක්.. නැවතත් ඔබ අප අතර ඉපැදේවා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්ද</author>
+            <date>2013-03-04 11:16:22</date>
+            <index>46</index>
+            <phrase>ඔබතුමා සහ සෝම හිමියන් කළ වැඩසටහන් තවම දෙසවනෙහි රැව් දෙනවා. ඔබට නිවන් සුව අත්වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-03-04 11:20:09</date>
+            <index>47</index>
+            <phrase>ඔබතුම දේශනා කළ , ප්‍රාර්තනා කළ අජරාමර නිවන් සුව ලැබේවා! හිත හොද , බුද්ධිමත් , නිහතමානී ගුණ ඇති ශ්‍රේෂ්ඨ පඬිවරයෙක්. සෑම දේ ගැනම වගේ හසල දැනුමක් ඇති , ඒ සැමටම වඩා මහත්මා ගුණයෙන් පිරිසිදු , ශ්‍රේෂ්ඨ හදවතක් ඇති සැබෑ මිනිසකු අප රටට පමණක් නොව ලෝකයටම බිහිවන්නේ කලාතුරකිනි . මා බෞද්ධයකු නොවුවත් ඔබතුමාට නිවන් සුව අත්වේවායි නැවතත් ප්‍රාර්ථනා කරන්නෙමි. (නි).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2013-03-04 11:32:53</date>
+            <index>48</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2013-03-04 11:34:46</date>
+            <index>49</index>
+            <phrase>දැයක් හඬවා අමිල වස්තුවක් දැයෙන් සමුගෙන ගියෙමි... ඔබේ නාමය අමරණීයයි... සසර අවසන නිවන් සුව පතමි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන් දර්ශන</author>
+            <date>2013-03-04 11:47:18</date>
+            <index>50</index>
+            <phrase>පියාණෙනි ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2013-03-04 12:07:09</date>
+            <index>51</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-04 12:12:30</date>
+            <index>52</index>
+            <phrase>අපේ රටේ ඉන්න ඕන මිනිසෙක්... ඔබ තුමාට නිවන් සුව පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2013-03-04 12:10:34</date>
+            <index>53</index>
+            <phrase>ඔබට නිවන් සුව !!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලගේ</author>
+            <date>2013-03-04 12:56:30</date>
+            <index>54</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2013-03-04 13:00:37</date>
+            <index>55</index>
+            <phrase>ඔබ වැනි කෙනකු අපෙන් වියෝ වුයේ සමාජයට අවශ්‍යම මොහොතක ඔබතුමාට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-03-04 13:00:43</date>
+            <index>56</index>
+            <phrase>ඔබතුමාට නිවන් සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කතරගම සංජිව</author>
+            <date>2013-03-04 13:13:55</date>
+            <index>57</index>
+            <phrase>ඔබේ වියෝවින් සිදුවූ පාඩුව මිනිය නොහේ. ඔබට නිවන් සුව නිදුකාණනී!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2013-03-04 13:21:19</date>
+            <index>58</index>
+            <phrase>ඔබ විසින් රට වෙනුවෙන් සිදුකරන ලද සේවය අතිමහත්ය. ඔබ‍ගේ නික්ම යෑම රටේ අනාගත පරපුරට දැරිය නොහැකි පාඩුවකි. ඔබතුමාට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-03-04 13:33:57</date>
+            <index>59</index>
+            <phrase>ඔබතුමාට නිවන් සැප ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-04 13:40:09</date>
+            <index>60</index>
+            <phrase>ඔබගේ වියෝව දරාගත නොහැකියි. ඉසිවරයාණෙනි, ඔබට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-04 13:57:56</date>
+            <index>61</index>
+            <phrase>ඔබ තුමාට නිවන් සුව ඇත වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-03-04 14:18:34</date>
+            <index>62</index>
+            <phrase>සර් ඔබට නිවන් සුව ඇත වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2013-03-04 16:26:34</date>
+            <index>63</index>
+            <phrase>ඔබතුමාට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-03-04 16:36:08</date>
+            <index>64</index>
+            <phrase>ඔබ කල ඇති මහත් සේවයට අපේ ගෞරවය. ඔබතුමාට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2013-03-04 17:55:23</date>
+            <index>65</index>
+            <phrase>ඔබ තුමාට අජරාමර නිවන් සුව අත්වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බංඩාර</author>
+            <date>2013-03-04 19:19:25</date>
+            <index>66</index>
+            <phrase>ආයෙත් අප අතරේ ඉපදේවා. ඔබට නිවන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාන් තිලින කුමාර</author>
+            <date>2013-03-04 20:17:48</date>
+            <index>67</index>
+            <phrase>රටට විශාල මෙහෙවරක් කල මෙතුමාට නිවන් සැප ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2013-03-04 21:22:06</date>
+            <index>68</index>
+            <phrase>අපේ රටේ ඉන්න ඕන මිනිසෙක්. ඔබ තුමාට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2013-03-04 22:52:48</date>
+            <index>69</index>
+            <phrase>ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2013-03-05 08:24:25</date>
+            <index>70</index>
+            <phrase>වෛද්‍යතුමනි, ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාලිකා</author>
+            <date>2013-03-05 21:43:46</date>
+            <index>71</index>
+            <phrase>ඔබට නිවන් සුව..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2013-03-05 23:25:02</date>
+            <index>72</index>
+            <phrase>රටට ගොඩක් සේවයක් කර ඇති ඔබට නිවන් සුව පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-03-06 13:30:11</date>
+            <index>73</index>
+            <phrase>පියාණෙනි ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසන්</author>
+            <date>2013-03-06 16:25:48</date>
+            <index>74</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2013-03-07 15:17:01</date>
+            <index>75</index>
+            <phrase>වෛද්‍යතුමනි ඔබ තුමන්ට නිවන් සුව පතමු! ඇලවීෂියානුවෙක් වීම ගැන ආඩම්බරයි...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2013-03-07 22:39:38</date>
+            <index>76</index>
+            <phrase>ඔබ විශිෂ්ටයි. කියන්න වචන නැහැ ඒ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිශ්චන්ද්‍ර</author>
+            <date>2013-03-08 06:09:30</date>
+            <index>77</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංඛ</author>
+            <date>2013-03-08 10:39:28</date>
+            <index>78</index>
+            <phrase>ඔබ රටට ජාතියට කළ සේවය අනගිභවනීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-03-09 15:21:09</date>
+            <index>79</index>
+            <phrase>වෛද්‍යතුමනි, ඔබට නිවන්සුව අත්වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

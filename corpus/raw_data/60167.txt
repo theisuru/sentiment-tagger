@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60167</articleId>
+    <title>ලංකා මිරර් පරිගණක උසාවියෙන් නොදේ</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අගෝස්තු මස 21 18:17:42</date>
+    <body>පසුගිය ජූනි 29 වැනිදා පිටකෝට්ටේ දී ශ්‍රී ලංකා මිරර් හා එක්ස් නිවුස් වෙබ් කාර්යාල වටලා අත්අඩංගුවට ගත් පරිගණක කොන්දේසි සහිතව අයිතිකරුවනට දෙන ලෙස නීතිපති උපදෙස් දී තිබුණත් රහස් පොලිසිය ඊට විරුද්ධ බව කොළඹ වැඩබලන මහේස්ත‍්‍රාත්ට දැන්වීය.
+එම පරිගණකවල ඇති දත්ත මකා දැමීමට ඉඩ ඇති නිසා බාරදීමට එරෙහිවන බව රහස් පොලිසිය කියා සිටියේය.
+නඩුව ලබන හතර වැනිදාට කල් තැබිණි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-21 18:52:15</date>
+            <index>0</index>
+            <phrase>හොදම හොද වැඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-21 18:57:55</date>
+            <index>1</index>
+            <phrase>කැකිරාව ඩිපෝවේ බස් වලට වුණු දේම වෙයිද කියලත් සැකයි මට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-21 22:53:51</date>
+            <index>2</index>
+            <phrase>ඒවා නිල්ම නිල් පාටලුනේ, නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-08-22 08:43:27</date>
+            <index>3</index>
+            <phrase>පරිඝණක වල බැකප් එකක් ගත්තනම් ඉවරයිනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාශාන්</author>
+            <date>2012-08-22 10:25:57</date>
+            <index>4</index>
+            <phrase>ඇයි නොදෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුල්සි</author>
+            <date>2012-08-22 10:35:09</date>
+            <index>5</index>
+            <phrase>නිල් කැලිත් එක්ක පරිගණකයක් අපට හම්බ වුනා නම් ආපහු දෙන්න අපි වුනත් කැමති වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-22 12:12:09</date>
+            <index>6</index>
+            <phrase>නිල් දැම්මම රෙදි පිරිසිදු වෙනවා වගේ .නිල් බැලුවම හිත් පිරිසුදු වෙනවාලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යුනිකා</author>
+            <date>2012-08-23 11:03:17</date>
+            <index>7</index>
+            <phrase>මගේ පරිගණකය බැලුවනම් එහෙම එයලට කලන්තෙ දානවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

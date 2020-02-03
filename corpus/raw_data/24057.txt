@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24057</articleId>
+    <title>‘සීසර්ලා‘ බසයකට පනිති</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජනවාරි මස 29 12:01:02</date>
+    <body>ලීසිං වාරිකය නොගෙවූ පෞද්ගලික බසයක් මගීන්ද රැගෙන ධාවනය වෙද්දී සීසර්ලා පිරිසක් රියදුරාගෙන් බසය පැහැරගැනීමට තැත් කරද්දී බසය පසුපසට ධාවනය වී කාන්තාවක් ඊට යටවී මිය ගියාය. ඇය සමග සිටි පාසල් සිසුන් දෙදෙනා පාර අයිනට පැන පණ බේරාගත්හ. බසය පැහැර ගැනීමට තැත් කළ සීසර්ලා දෙදෙනා අත්අඩංගුවට ගෙන අධිකරණයට ඉතිරිපත් කරන්නැයි මාතර හදිසි මරණ පරීක්ෂක ටී.එම් ලලිත් ද සිල්වා මහතා මාතර පොලීසියට නියෝග කළේය.</body>
+    <comments>
+        <comment>
+            <author>සුසිල් ප්‍රියන්ත</author>
+            <date>2012-01-29 12:26:42</date>
+            <index>0</index>
+            <phrase>කවද හැදෙයිද මන්ද..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රශ්මි</author>
+            <date>2012-01-29 13:42:01</date>
+            <index>1</index>
+            <phrase>වැරදි කරුවන්ට උපරිම දඩුවම් ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-01-29 14:08:55</date>
+            <index>2</index>
+            <phrase>අනේ පව්....ළමයි දෙන්නා....මේ ළමයි දෙන්නාගේ අම්මනම් ඒ නැතිවුණේ, ලීසිං සමාගම ඒ වෙනුවෙන් මේ අසරණ ළමයි දෙන්නට ජීවිත කාලෙටම නඩත්තු ගෙවන්න කියලා අධිකරණ නියෝගයක් දෙන්න කියන්න ඕනේ.සීසර්ස් ලට ඔයිට වඩා හිතල ඔය වැඩේ කරන්න තිබුනා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-30 01:55:43</date>
+            <index>3</index>
+            <phrase>සුසන්තගේ කතාව හරි. වන්දි ගෙවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-01-30 09:23:22</date>
+            <index>4</index>
+            <phrase>සුසන්ත ඔබ හරියට හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>siri elapatha</author>
+            <date>2012-01-30 10:25:19</date>
+            <index>5</index>
+            <phrase>නීතිය කඩ වෙතියි, පොලිසිය බාල්දු කරල තියෙන මෙවන් රටක මේ වාගේ දේවල් නූනොත් තමා පුදුමේ. කප්පම් කාරයෝ මිනී මරුවෝ හොඳින් ඉන්න රටකට දැන් සීසර්ලත් ඇවිත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-01-30 13:56:03</date>
+            <index>6</index>
+            <phrase>සුසන්ත ඔබ හරියට හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

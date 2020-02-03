@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505282</articleId>
+    <title>කාබුල්  නුවර  මරාගෙන මැරෙන ප්‍රහාරයක්</title>
+    <author>සී එන් එන් පුවත් ඇසුරිනි - පරිවර්තනය - සිරංගිකා ලොකුකරවිට</author>
+    <date>2017 පෙබරවාරි මස 08 12:22:28</date>
+    <body>ඇෆ්ගනිස්ථානයේ කාබුල් නුවර ශ්‍රේෂ්ඨාධිකරණ සංකීර්ණය ආසන්නයේ සිදුවූ මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයකින් 20දෙනකු පමණ මියගොස් ඇතැයි වාර්තා වේ. ප්‍රහාරයෙන් 35ක් පමණ තුවාල ලබා ඇත.
+අධිකරණ සේවකයින් ඉලක්ක කරගෙන ප්‍රහාරය සිදුකරන්නට ඇතැයි කාබුල් නුවර පොලිසිය පවසයි. ප්‍රහාරයේ වගකීම කිසිවකු බාරගෙන නැත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-08 08:08:26</date>
+            <index>0</index>
+            <phrase>අපටත් ඔහොම අතීතයක් තිබුණා කියලා හුඟක් දෙනෙකුට අමතකයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-02-08 09:09:12</date>
+            <index>1</index>
+            <phrase>මේ ප්‍රහාරය එල්ලකර ඇත්තේ රටේ පුරවැසියන් විසින් ඇමෙරිකානු ආක්‍රමණයට එරෙහිව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2017-02-08 10:02:45</date>
+            <index>2</index>
+            <phrase>අනෙක් ආගම වලට ගරු කරමු. මනුෂ්‍යත්වයේ නාමයෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-02-08 11:46:20</date>
+            <index>3</index>
+            <phrase>අමෙරිකාවත් එක්ක යාලු වෙච්ච රටවල් හැම එකේම ඔහොම තමයි. අපිත් පරිස්සම් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2017-02-09 04:45:37</date>
+            <index>4</index>
+            <phrase>අසරණ මිනිස්සු ගැන දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-09 05:17:20</date>
+            <index>5</index>
+            <phrase>මේ වැඩ නිසා තමයි ට්‍රම්ප් නොයෙකුත් නීතිරීති ගේන්නේ. එයාට ඕනෑ පළමුවෙන්ම එයාගේ රට රකින්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

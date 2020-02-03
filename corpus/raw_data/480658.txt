@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>480658</articleId>
+    <title>දුම්රිය සේවක පිරිසක් පාරට බසිති</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 නොවැම්බර් මස 16 16:15:47</date>
+    <body>දුම්රිය දෙපාර්තමේන්තුවට  බඳවා ගත් අනියම් සේවකයන් 2000 කට අධික පිරිසක් වසරක් ගත වුවත් ස්ථිර නොකිරිමට විරෝධය පළ කරමින් දුම්රිය සේවක එකමුතුව අද (16) කොටුව දුම්රියපළ ඉදිරිපිට උද්ඝෝෂණයක නිරත වුහ.</body>
+    <comments>
+        <comment>
+            <author>ඩේවිඩ්</author>
+            <date>2016-11-16 11:16:38</date>
+            <index>0</index>
+            <phrase>මේකත් පෞද්ගලික කරන්න, අකාර්යක්ෂමතාවයට හොඳම විසඳුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-11-16 14:12:40</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා ඉතින්, ඔවුන්ගේ ඉල්ලීමේ අසාධාරණයකුත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත විමලගුණ</author>
+            <date>2016-11-16 17:56:23</date>
+            <index>2</index>
+            <phrase>යහපාලනේ ගෙදර යන්න කලින් වැඩේ කරගන්න බලන්න. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-11-17 06:40:39</date>
+            <index>3</index>
+            <phrase>යහපාලනෙන් මේවා දැම්ම කරගත්තොත් ලොකු දෙයක්. රණවිරුවන්ට විශ්‍රාම වැටුප් දෙන එකත් පෙබරවාරි වලට කල්ගියා. දැම්ම කරගත්තේ නැත්නම් ළඟදීම රැකියාවටත් අබ සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

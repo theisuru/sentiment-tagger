@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30187</articleId>
+    <title>අයි.පී ගේ අපලෙ මැණික් පෙට්ටියෙන් පනී</title>
+    <author>විමල් දිසානයක</author>
+    <date>2012 මාර්තු මස 07 12:20:05</date>
+    <body>ඇතිමලේ පොලිස් ස්ථානාධිපති පොලිස් පරීක්ෂක සරත්චන්ද්‍ර මහතාගේ වැඩ තහනම් කැර ඇත. 2008දී සියඹලාණ්ඩුව හෙළමුල්ලේ කුඹුරකින් ගැමියන් පිරිසකට හමුවූ බව කියන ඉපැරණි පෙට්ටියකින් සොයාගත් මැණික්ද, එම මැණික්වලින් කොටසක් විකුණා ලබාගත් මුදල් ද සම්බන්ධයෙන් නිසි ලෙස රාජකාරි නොකළැයි ඔහුට එරෙහිව පරීක්ෂණයක් පැවැත්වෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>ගීත්</author>
+            <date>2012-03-07 12:22:29</date>
+            <index>0</index>
+            <phrase>නීතිය ක්‍රියාත්මක කරන අය ආදර්ශයක් දෙන ආකාරයද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-03-07 14:26:35</date>
+            <index>1</index>
+            <phrase>නීතිය ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

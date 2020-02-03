@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>79760</articleId>
+    <title>අලි දෙන්නෙක් සීත මාලිගාවට එති</title>
+    <author>කග කරුණාරත්න</author>
+    <date>2012 නොවැම්බර් මස 25 17:21:59</date>
+    <body>පරාක‍්‍රම සමුද්‍රයේ දුපතේ පිහිටි සීත මාලිගාවට පීනා ආ අලි දෙදෙනකු වැව් රක්ෂිතයට පලවා හල බව වනජීවී නිලධරයෝ කියති. සීත මාලිගයේ පැරැුණි පාදම, ගඩොල් බැමි ආදියට මේ අලින් දෙදෙනාගෙන් හානි සිදුවී ඇතැයි කියති.
+පරාක‍්‍රම සමුද්‍රය රක්ෂිතයේ වල් අලි ගැවසෙති.
+පරාක‍්‍රමබාහු රජ කාලයේදී මේ සීත මාලිගය හදන්නට ඇතැයි ඉතිහාසයේ දැක්වේ.</body>
+    <comments>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-11-25 18:34:56</date>
+            <index>0</index>
+            <phrase>අලින්ට නිධානයක්වත් හාරන්න හිතිලද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-11-25 23:19:16</date>
+            <index>1</index>
+            <phrase>නිධන් හොරුන්ගෙන් බේරාගන්න වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-11-26 08:26:57</date>
+            <index>2</index>
+            <phrase>හොද වෙලාවට අලි වුණේ. ඇත්තු වුණා නම් ඉතිං සොරිම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-11-26 09:32:30</date>
+            <index>3</index>
+            <phrase>ගිය ආත්මේ රාජකීය පවුලේ දෙන්නෙක්ද දන්නේ නෑ !!??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-11-26 15:58:20</date>
+            <index>4</index>
+            <phrase>දළ නැති නිසා හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-12-06 08:35:45</date>
+            <index>5</index>
+            <phrase>හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

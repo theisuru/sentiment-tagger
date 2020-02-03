@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449798</articleId>
+    <title>වැඩිම සංචාරකයෝ යුරෝපෙන්</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 අගෝස්තු මස 22 11:52:28</date>
+    <body>විදෙස් සංචාරකයින් මෙරටට පැමිණිම ඉකුත් ජූලි මාසයේදී සියයට 19.1ක   ඉහළ වර්ධනයක් ලබා ඇති අතර දෙලක්ෂ නවදහස් තුන්සිය පනස් එක් දෙනෙකු දිවයිනට පැමිණ ඇතැයි ශ්‍රී ලංකා සංචාරක ප්‍රවර්ධන අධිකාරිය පවසයි.
+ජනවාරියේ සිට ජූලි  වැඩිම සංචාරකයන් පැමිණ ඇත්තේ   බ්‍රිතාන්‍ය, ජර්මනිය හා ප්‍රංශය ඇතුළු බටහිර රටවලිනි.</body>
+    <comments>
+        <comment>
+            <author>සනත් ගුනවර්දන ස්විස්</author>
+            <date>2016-08-22 17:06:07</date>
+            <index>0</index>
+            <phrase>මමත් මේ අවුරුද්දට කිහිප වතාවක්ම ලංකාවට ගියා , ස්විස් වලින් පැමිණෙන අය මෙහි සඳහන් කර නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-08-25 05:03:53</date>
+            <index>1</index>
+            <phrase>මේ කියන ඒවායේ ඇත්ත තත්වේ දැනගන්න පුළුවන් හෝටල් වල වැඩ කරන අය එක්ක කතා කළොත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

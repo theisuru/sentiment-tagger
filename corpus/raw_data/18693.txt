@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18693</articleId>
+    <title>එජාපයට ජනපතිගෙන් ඔවදන්</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 21 17:37:03</date>
+    <body>අන්තර්ජාතික මිතුරන් සතුටු කරනවාට වඩා ලංකාවේ ජනතාවට ළංවී රට නැංවීමට එන්නැයි මහින්ද රාජපක්ෂ ජනපති එක්සත් ජාතික පක්ෂයට ඇරියුම් කළේය. තමා ඉදිරිපත් කළ අයවැය හොඳ නැත්නම් පාර්ලිමේන්තුවේ බෝඞ් ලෑලි පෙන්වනවාට වඩා විකල්ප වැඩපිළිවෙලක් ඉදිරිපත් කරන්නැයිද ජනපති සිය අයවැය පිළිතුරු කථාව කරමින් එජාපයට කීවේය.</body>
+    <comments>
+        <comment>
+            <author>චන්දන</author>
+            <date>2011-12-21 18:31:34</date>
+            <index>0</index>
+            <phrase>නියම යෝජනාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2011-12-21 18:53:31</date>
+            <index>1</index>
+            <phrase>ඒක ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2011-12-21 20:26:44</date>
+            <index>2</index>
+            <phrase>ජනපතිතුමාගේ කතාව ඇත්ත. දැන්වත් රට ගැන හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහන සල්ගොන</author>
+            <date>2011-12-21 20:29:18</date>
+            <index>3</index>
+            <phrase>විරුද්ධත්වය මෙන්ම හරි වැඩ පිළිවෙලකුත් ඉදිරිපත් කළ යුතුයි. ජනපතිතුමාගේ කතාව හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2011-12-22 05:02:21</date>
+            <index>4</index>
+            <phrase>හොඳ කතාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාන්ත</author>
+            <date>2011-12-22 10:05:55</date>
+            <index>5</index>
+            <phrase>එජාපයේ දැන් හොද අය නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

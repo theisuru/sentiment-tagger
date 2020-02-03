@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>66465</articleId>
+    <title>ඇදුරු පාගමනට සජිත්/ සෝමවංශ එක්වෙති</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 සැප්තැම්බර් මස 24 11:19:17</date>
+    <body>වර්ජනයක යෙදී සිටින සරසවි අචාර්යවරුන් වැසි මැද ගාල්ලෙන් කොළඹ බලා එන පාගමනට එක්සත් ජාතික පක්ෂ නියෝජ්‍ය නායක සජිත් ප්‍රේමදාස, ජනතා විමුක්තිපෙරමුණේ නායක සෝමවංශ අමරසිංහ, සරත් ෆොන්සේකා, විජිත හේරත් යන මහත්වරු එක්වූහ.
+ </body>
+    <comments>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-09-24 11:42:14</date>
+            <index>0</index>
+            <phrase>පලක් වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුන</author>
+            <date>2012-09-24 11:43:16</date>
+            <index>1</index>
+            <phrase>වෙන වැඩ නැද්ද අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සල්ස්</author>
+            <date>2012-09-24 11:45:09</date>
+            <index>2</index>
+            <phrase>තව අවුරුදු ගාණක් රට පසු පස්සට.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-09-24 11:54:14</date>
+            <index>3</index>
+            <phrase>කවුද දැන් ඉස්සරහට ගිනි යන්නේ. අධ්‍යාපනයට 6% වෙන් කරන්න ආණ්ඩුවට බෑලු. ඒ වුනාට කෝප් වාර්තාවට අනුව නාස්ති කරපු ගාන 9% ක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-09-24 11:55:54</date>
+            <index>4</index>
+            <phrase>ඔක්කොම එක පයින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-09-24 11:56:13</date>
+            <index>5</index>
+            <phrase>ජයවේවා ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අත්තිඩිය</author>
+            <date>2012-09-24 12:03:45</date>
+            <index>6</index>
+            <phrase>ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-09-24 12:05:18</date>
+            <index>7</index>
+            <phrase>මේ ඔක්කොම 100,000/= වඩා පඩි ගන්න අය. මෙයාලට ඕනි 6% නෙමේ. 200,000/=. මහජනතාව මෝඩ නෑහෑ මේව නොතේරෙන්න තරම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-09-24 12:04:54</date>
+            <index>8</index>
+            <phrase>ඇයි මේ සියලු දෙනාටම එකතු වෙලා පොදු පෙරමුණක් යටතේ අරගල කරන්න බැරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2012-09-24 12:06:51</date>
+            <index>9</index>
+            <phrase>දේශපාලනය ගාගත්තා නම් ඉතින් කතන්දර ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගෙ</author>
+            <date>2012-09-24 12:15:12</date>
+            <index>10</index>
+            <phrase>දැන් කොහොමද සුනාමියක් එනවා කියලා රජය නිවෙදනය කළා නම්....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිසර්</author>
+            <date>2012-09-24 12:10:02</date>
+            <index>11</index>
+            <phrase>මේකෙන් හොදක් සිද්ධ වුණානම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-09-24 12:17:44</date>
+            <index>12</index>
+            <phrase>රනිල් මහතා විතරයි අඩු ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2012-09-24 12:27:30</date>
+            <index>13</index>
+            <phrase>‍සල්ලි වෙනුවෙන් අහිංසක මාපියන්‍‍‍ගෙ දරුවෝ අසරණ කරන්න එපා ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-09-24 12:30:48</date>
+            <index>14</index>
+            <phrase>සුමිත් මහතාණනි, නිකම් වගකීමක් නැතුව කොමෙන්ට් දාන්න හොඳ නැ නේද? . මන් දන්නේ නෑ කවුද මෝඩ කියලා. මම නම් දැක්ක පාර දෙපැත්තේම ජනතාව පුදුම උද්යෝගයකින් සහය පලකරනවා. සමහවිට ඔයා කියන ජනතාව වෙන රටක වෙන්න ඇති. මම කියන ජනතාව තවත් රටක වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-09-24 12:35:00</date>
+            <index>15</index>
+            <phrase>දේශපාලන වාසි තකා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-09-24 12:36:46</date>
+            <index>16</index>
+            <phrase>කාට කියන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂිත</author>
+            <date>2012-09-24 12:44:04</date>
+            <index>17</index>
+            <phrase>ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-09-24 12:44:17</date>
+            <index>18</index>
+            <phrase>අකිල, ජනපති තුමාට නේද කියන්න ඕන මේ ප්‍රශ්නේ විසඳන්න කියලා. සල්ලි වෙනුවෙන් මේක කරනවා කියලා නිකම්ම කියන්න කලින් අඩුම ගානේ පහුගිය මස දෙක තුනේ ගිය ලිපි ටිකවත් කියෙව්වා නම් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-09-24 12:51:14</date>
+            <index>19</index>
+            <phrase>ඇයි දරුවනේ ඔලුගෙඩි ටික මොට්ට වෙලා මහ මොල ටික අද පාරට බස්සවලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-09-24 12:57:38</date>
+            <index>20</index>
+            <phrase>එහෙනම් ඉතින් හොදට තියෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-09-24 12:57:14</date>
+            <index>21</index>
+            <phrase>ප්‍රසාද් සමග මම 100%ක් එකගයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණා</author>
+            <date>2012-09-24 13:03:54</date>
+            <index>22</index>
+            <phrase>අපි සැමදා ඔබ සමගයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-09-24 12:57:37</date>
+            <index>23</index>
+            <phrase>ඇවිද්ද පය දහස් වටී. ඉදිරියටම යන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ෂාන්</author>
+            <date>2012-09-24 12:58:51</date>
+            <index>24</index>
+            <phrase>ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-09-24 12:59:52</date>
+            <index>25</index>
+            <phrase>ඔබ සැමට ජය..සටන ඉදිරියටම ගෙනියන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-09-24 13:04:04</date>
+            <index>26</index>
+            <phrase>ප්‍රසාද් කියනවා වගේ පාට කණ්නාඩි නැතුව බලමු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිනාත්</author>
+            <date>2012-09-24 13:11:33</date>
+            <index>27</index>
+            <phrase>සුමිත් ඔයා කතාව නිවැරදියි. ආචාර්‍යවරු ලක්ෂ ගණන් වලි පඩි වැඞිකරගන්න 6% ඉස්සරහට දාගෙන පාගමන් යන වෙලාවේ බොරුවට කෑගහන්නත් අය ඉන්නවනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරතුංග</author>
+            <date>2012-09-24 13:05:52</date>
+            <index>28</index>
+            <phrase>ජය වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-09-24 13:08:12</date>
+            <index>29</index>
+            <phrase>ජය වේවා! අපේ ආශිර්වාදය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-09-24 13:08:30</date>
+            <index>30</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-09-24 13:12:15</date>
+            <index>31</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මයිකල්</author>
+            <date>2012-09-24 13:16:35</date>
+            <index>32</index>
+            <phrase>ගමගේ මහත්තයෝ, ඔබේ බියසුලුකම අනුන්ට ආදේශ කරන්න එපා. පා ගමනට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-09-24 13:36:06</date>
+            <index>33</index>
+            <phrase>සුමිත් මහත්තයා.. කරුණාකරලා කරුණු හරි හැටි දැනගෙන අදහස් දක්වන්න. ඉතා සීමිත පිරිසක් ඇරෙන්න 100000/= ගානේ හම්බ කරන විශ්වවිද්‍යාල ආචාර්යවරු ලංකාවේ නැත. නොදන්නා දේවල් ගැන කතා නොකර ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-09-24 13:29:44</date>
+            <index>34</index>
+            <phrase>සුමිත් මහත්තයා, කරුණාකරලා කරුණු හරි හැටි දැනගෙන අදහස් දක්වන්න. ඉතා සීමිත පිරිසක් ඇරෙන්න &gt;100000/= ගානේ හම්බ කරන විශ්වවිද්‍යාල ආචාර්යවරු ලංකාවේ නැත. නොදන්නා දේවල් ගැන කතා නොකර ඉන්න. අනිත් අතට දේශපාලඥයෝ පාගමනට එන්නේ නැතුව ඉන්නවා නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-09-24 13:34:38</date>
+            <index>35</index>
+            <phrase>සුමිත්, ශ්‍රීනාත්, උගත්කසේ හැටියට වැටුප් ගෙවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිපඩ්</author>
+            <date>2012-09-24 14:32:18</date>
+            <index>36</index>
+            <phrase>වර්ජනය ඉක්මනට ඉවර වෙනවා නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-09-24 14:34:12</date>
+            <index>37</index>
+            <phrase>හොද දේවල් වලට සල්ලි නැති වුනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2012-09-24 14:38:42</date>
+            <index>38</index>
+            <phrase>දේශපාලන සහයෝගිතාවය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතූ</author>
+            <date>2012-09-24 14:47:18</date>
+            <index>39</index>
+            <phrase>සුමිත්, මීට වඩා ලෝකය ගැන සෙවිල්ලෙන් ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-09-24 15:13:40</date>
+            <index>40</index>
+            <phrase>ජ්‍යෙෂ්ඨ ආචාර්යවරයාට හම්බවෙන්නේ 100,000 ට අඩු ගානක්. 100,000 වැඩි ගානක් හම්බ වෙන්නේ ජ්‍යෙෂ්ඨ මහාචාර්යවරුන්ට පමණි. ජ්‍යෙෂ්ඨ මහාචාර්යවරු ලංකාවටම ඉන්නේ 10කි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධුර</author>
+            <date>2012-09-24 15:21:49</date>
+            <index>41</index>
+            <phrase>සුමිත් වගේ අය දන්න තරම තමයි ඉතින්. මගෙ යාළුවෙක් ඉන්නවා, එයා සහය කතිකාචාර්ය කෙනෙක්. එයා ගන්නෙ 26000ක් වගෙ පඩියක්. යාළුවා ප්‍රථම පන්තියෙ උපධියක් තියෙන කෙනෙක්. ඒත් මට සාමාන්‍ය උපධියක් තියෙන්නෙ. එහෙම තියාගෙන පෞද්ගලික සමාගමක සේවය කරන මම ගන්නවා 60000කට වඩා පඩියක්. 100,000 ක පඩියක් ගන්නෙ ජ්‍යෙෂ්ඨ මහාචාර්යවරයෙක් විතර‍යි.එයාලා මෙහෙ උගන්නන්නෙ රටට සෙවයක් කරන්න මිසක්, සල්ලි බලපොරොත්තුවෙන් නෙමෙයි. වෙන රටකට ගියොත් එයාලට මිලියන ගණන් හොයන්න පුලුවන් මාසෙකට. දේශපාලුවො නම් ඉගෙන ගත්තෙ නැතිවුණාට හොදට හම්බකරනවා.සුමිත්, එයාලට ආවැඩුවා ඇති දැන්. ඔබේම දරුවා විශ්ව විද්‍යාලයක ඉගෙන ගන්න කාලෙක තේරේවි ඒකෙ තියෙන පහසුකම්. අපි ඉන්න කාලෙ පරීක්ෂණයක් කරන්න ගත්තම ඒකට සල්ලි නැහැ.එහෙම දේවල් ලංකාවෙ කෙරුනොත් තමයි අලුත් නිශ්පාදන බිහිවෙන්නෙ.ඒවා කරන්න සල්ලි ඕනෑ.කෝප් වාර්තාවෙ විදියට 9% ක් ගහනවා නම් 6% මේ සදහා වෙන් කරන එක මහ මෙරක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්-කටාර්</author>
+            <date>2012-09-24 15:26:24</date>
+            <index>42</index>
+            <phrase>අනේ මට කියනවද ඒ දෙන්නට තියෙන සුදුසුක්‍ම මොකක්ද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-09-24 15:34:29</date>
+            <index>43</index>
+            <phrase>ජය වේවා ! ජය වේවා ! ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-09-24 15:29:49</date>
+            <index>44</index>
+            <phrase>කට්ටිය නානවද ? ඇදෙගෙන නානවට වඩා ඔහොම නාන එක හොඳයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-09-24 16:16:54</date>
+            <index>45</index>
+            <phrase>අපේ දරුවන්ගේ අනාගතයට ජය වේවා .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-09-24 17:53:38</date>
+            <index>46</index>
+            <phrase>ඔහොම යන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-09-24 18:02:54</date>
+            <index>47</index>
+            <phrase>රටට අනාගතයක් රජයට වර්තමානයක් අපිට අතීතයක් සියල්ලන්ටම මරණයක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-09-24 18:26:24</date>
+            <index>48</index>
+            <phrase>මාලක සිල්වා ලංකාවේ අධ්‍යාපන ඇමති වෙන්නලු ඉන්නේ. එයාලා ඒවත් දැන්මම බුක් කරලාද තියෙන්නේ. එක අතකට මෙහෙම නොවී වෙන කොහොම වෙන්නද අප්පා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2012-09-24 19:06:29</date>
+            <index>49</index>
+            <phrase>තුන් හෙළේ කැළෑ තුළ සිංහ පැටවු උන් නැත රට අතැර ගොසින්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-09-24 21:03:00</date>
+            <index>50</index>
+            <phrase>ඔහොම යන්කෝ. සුභ පැතුම් අපෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-09-25 07:43:34</date>
+            <index>51</index>
+            <phrase>මගේ තාත්තත් ජ්‍යෙෂ්ඨ මහාචාර්යවරයෙක්. දැන් එයා අවුරුදු 30ක් වි.වි. ඉඳලා තමා ජ්‍යෙෂ්ඨ මහාචාර්යවරයෙක් උනේ. තව අවුරුද්දකින් දෙකකින් විශ්‍රාම යයි. ජ්‍යෙෂ්ඨ මහාචාර්යවරයෙක් විශ්‍රාම යාමට පෙර සේවයේ යෙදීමට හැකිවෙන්නේ අවුරුදු 5ක් විතර. පිටරට වි.වි. නිතර ඇරයුම් කරනවා එයාට, අවුරුද්දකට ඩොලර් 150,000 (රු මිලියන 21ක් පමණ )ක වැඩි පඩියට නමුත් රටට ළමයින්ට තියන කැක්කුමට තමා එයා ලංකාවේ ඉන්නේ. මගේ සහොදරයාට අවුරුදු 5ක් කතිකාචාර්ය කෙනෙක් හැටියට කොළඹ වි.වි. ඉඳලත් රු 35,000 නෑ සියලු දීමනා සමඟ. නිකං තත්ත්වය විතරයි. පරිඝණක ශිල්පියෙක්ට රු 150,000ක් ගන්න පුලුවන් අවුරුදු 7ක විතර පලපුරුදෙන්. හුඟක් වි.වි. ආචාර්‍යවරු පිටරට පදිංචියට යනවා. මම ඉන්න රටේ සෑහෙන්න ඉන්නවා ලංකවෙන් ආපු ආචාර්‍යවරු. මම මෙහෙ වැඩකරන සමාඟම ලංකාවේ හෝටලයක් හදන්න එක්තරා දේශපාලකයකුට ගෙවපු කොමිස් මුදලම රු.මිලියන 7000 (රු කෝටි 700) කට වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2012-09-25 09:07:54</date>
+            <index>52</index>
+            <phrase>වැලේ වැල් නැති උනාම ඔහොම තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-09-25 09:29:18</date>
+            <index>53</index>
+            <phrase>සුමිත්, ඔයා හරියටම හරි තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුරංග</author>
+            <date>2012-09-25 09:43:41</date>
+            <index>54</index>
+            <phrase>පවු අහිංසක ළමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-09-25 13:25:59</date>
+            <index>55</index>
+            <phrase>මට කිසිම පැහැදීමක් නැත.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රබෝධා</author>
+            <date>2012-09-25 13:56:46</date>
+            <index>56</index>
+            <phrase>සුමිත්, ඔයාගේ මෝඩකම තිබුණට ප්‍රදර්ශනට කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-09-25 14:39:08</date>
+            <index>57</index>
+            <phrase>රජයේ අදායම GDP එකෙන් 14%, රජයේ වියදම GDP එකෙන් 24% ක් විතර . එතකොට මේ ආචාර්යවරු 6% ක් ඉල්ලනේ මේ 24% තමා .එකියන්නේ රජය වර්ෂයකට වියදම් කරන මුදලින් 1/4 ක් විතර අධ්‍යාපනයට වෙන කරන්න කියල තමා මේ ආචාර්යවරුන් ඉල්ලන්නේ .මෙය කල නොහැකි දෙයක් බව අද මේවට සක්‍රීයව සහභාගී නොවන ආචාර්යවරු බොහෝ දෙනක් පිළිගන්නා බව විශ්වවිද්‍යාල සිසුවෙක් විදිහට දන්නවා .පඩි වැඩිකර ගැනීමට වැඩ වර්ජනය කිරීම පිළිබද අපට ගැටළුවක් නැ .නමුත් එම ඉල්ලීම් ජනතාව ඉදිරියේ සදාරනිකරණයට මෙවැනි බොරු රට හමුවේ නොතැබිය යුතුයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභ්ධ</author>
+            <date>2012-09-25 15:41:15</date>
+            <index>58</index>
+            <phrase>දේශපාලන වාසි ගන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභෝධ</author>
+            <date>2012-09-25 16:30:55</date>
+            <index>59</index>
+            <phrase>නිදහස් අධ්‍යාපනය රැක ගැනීමට ඔබ කරන කැපකිරීමට අපේ ප්‍රණාමය...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-09-25 22:10:49</date>
+            <index>60</index>
+            <phrase>වැටුප වෙනුවෙන් ආචාර්යවරු මහපාරේ ඉන්නවා කියලා හිතන්න තරම් පහත් තත්වයට සමහරු පත්වීම ගැන දුකයි. මේ අයගෙන් වැඩි දෙනකුට ඉතා පහසුවෙන් හෙට ඉඳල වුණත් ලක්ෂ ගණන් පඩියට පිටරට යන්න පුළුවන්කම තිබියදී මෙහෙම පාරවල් ගානේ ඇවිදින්නේ රට ගැන, දරුවන් ගැන,නිදහස් අධ්‍යාපනය ගැන තිබෙන කැක්කුමට වගේම මේ රටේ සිදුවන පරිහානියටත්, පාලකයන්ගේ ඇති උද්දච්චකම් නිසාත් බව ඔබලා තේරුම් ගන්නේ නම් මේ ප්‍රශ්නය මෙලහකටත් විසදා හමාරය. ඔබලා වැනි ඇමති මොළ වලින් සිතන අය සිටින තුරු මේ ප්‍රශ්නය විසදන්නේ කෙසේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-09-26 05:33:37</date>
+            <index>61</index>
+            <phrase>මම දන්නේ නැහැ ගමගේගෙ ගණන් කොහොමද කියලා. නමුත් 24% න් 6%ක් කියන්නේ 24%x6% = 1.44%. අනික මම හිතන්නේ නැහැ ආචාර්යවරුන්ට පිස්සු කියලා රජයේ ආදායමෙන් 25%ක් ඉල්ලන්න. අපේ සාමාන්‍ය ජීඩීපී එක බිලියන $60 ක් නම් ආචාර්යවරු ඉල්ලන්නේ මිලියන $850ක්. ඒ කියන්නේ ආරක්ෂක වියදමෙන් බාගයක් විතර. මම හිතන්නේ මේ ඉල්ලීම ඒ අයගේ පඩි පමණක් නොව, සමස්ථ අධ්‍යාපනයටම. සංඛ්‍යා ලේඛන නම් හරිද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-09-26 08:24:54</date>
+            <index>62</index>
+            <phrase>ජය වේවා ජය වේවා ! අද දවස කැප කරමු හෙට දවස වෙනුවෙන්. නුගතුන් කෙනෙහිලිකම් කරයි. ඉගෙන ගත්ත අය ආශිර්වාද කරනවා. රටේ වැඩියෙන්ම වැටුප දෙන්න ඕනේ මෙයාලට. ඒකත් අනාගත ආශ්චර්ය ගොඩනගන්න හේතු වෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-09-26 08:28:45</date>
+            <index>63</index>
+            <phrase>ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-09-26 20:00:18</date>
+            <index>64</index>
+            <phrase>ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුවාන් ෂෙරිෆ්</author>
+            <date>2012-09-26 20:13:28</date>
+            <index>65</index>
+            <phrase>දැං ඉන්නේ කට්ටියම එකතුවෙලා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-09-29 08:46:33</date>
+            <index>66</index>
+            <phrase>ජය වේවා ජය වේවා! වැටුප වෙනුවෙන් ආචාර්යවරු මහපාරේ ඉන්නවා කියලා හිතන්න තරම් පහත් තත්වයට සමහරු පත්වීම ගැන දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

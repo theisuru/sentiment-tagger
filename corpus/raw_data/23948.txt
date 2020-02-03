@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23948</articleId>
+    <title>උසස් පෙළ ප්‍රතිඵලය යළි ඉල්ලයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 ජනවාරි මස 27 17:31:39</date>
+    <body>උසස් පෙළ ව්‍යාකූල ප්‍රතිඵලය අහෝසිකර නැවත සමීක්ෂණයකින් නිවැරදි ප්‍රතිඵල ලබා දෙන්නැයි ඉල්ලමින් ලංකා ගුරු සංගමය සහ උසස්පෙළ සිසුන් 16 දෙනෙකු අද ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක් ගොනු කළේය.
+විභාග කොමසාරිස්, අධ්‍යාපන ඇමැති, විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිසම, නීතිපති සහ ඉසෙඩ් ස්කොර් ක්‍රමය උසස් පෙළ විභාගයට හදුන්වා දුන් මහාචාර්ය ආර් ඕ තටිල් යන අය මෙහි වගඋත්තර කරුවෝ වෙති.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-27 18:32:19</date>
+            <index>0</index>
+            <phrase>ළමයින්ට උසාවියෙන්වත් සහනයක් ලැබෙයිද? අපි සාධාරණ තීන්දුවක් බලාගෙන ඉන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>w.m.b.dhammika</author>
+            <date>2012-01-28 09:17:56</date>
+            <index>1</index>
+            <phrase>කලින් කරන්නයි තිබුණේ දැන්වත් තේරුණු එක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

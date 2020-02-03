@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>269792</articleId>
+    <title>අධ්‍යාපන අමාත්‍යාශයේ සේවයේ නියුතු උපුල් ප්‍රියන්ත අල්විස් හැකියාවන් යුතු අපූරු පුද්ගලයෙකි ඔහු සෞන්දර්ය විශ්ව විද්‍යාලයේ උපාධිධාරයෙකි.</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ඔක්තෝබර් මස 17 13:35:12</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අශෝකා</author>
+            <date>2014-10-27 10:09:40</date>
+            <index>0</index>
+            <phrase>ෂාහ්! හරිම අපුරුයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2014-11-12 05:17:07</date>
+            <index>1</index>
+            <phrase>සුපිරි මිනිසෙක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

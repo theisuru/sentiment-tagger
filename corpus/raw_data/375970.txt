@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>375970</articleId>
+    <title>අයිඑස් දෙවැනියා මරුට</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජනවාරි මස 11 11:09:32</date>
+    <body>අයිඑස්අයිඑස් ත්‍රස්තයන්ගේ දෙවැනියා ලෙස සැලකෙන අලි මොහොමඩ් නසාර් ඉරාක ගුවන් ප්‍රහාරයකින් මිය ගිය බව විදෙස් පුවත් සේවා පවසයි.
+බටහිර හා නැගෙනහිර සිරියාවේ අයිඑස් මෙහෙයුම් බාරව සිටි නසාර් ඉරාකයේ බර්වානාහිදී ප්‍රහාරයට ලක්ව ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-01-11 09:44:00</date>
+            <index>0</index>
+            <phrase>දැන් අර කන්‍යාවියෝ මෙයට ලැබේවිද අපායේ ඉන්නකොට??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

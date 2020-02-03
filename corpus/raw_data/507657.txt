@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507657</articleId>
+    <title>මොරටුවේදී ගුටි ඇනගත් තවත් සිසුන් 10 දෙනකුට ඇප</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2017 පෙබරවාරි මස 16 14:49:56</date>
+    <body>ජන ජය විදුහල් ක්‍රීඩාංගණයේ පැවති ක්‍රිකට් තරඟයෙන් ජයලැබූ රත්මලාන කොතලාවල විදුහලේ සිසුන්ට පහරදුන් සිද්ධියක් සම්බන්ධයෙන් මොරටු පොලිසිය විසින් අත්අඩංගුවට ගත්  බව කියන නුගේගොඩ සාන්ත ජෝන් විදුහලේ සිසුන් දහදෙනා රුපියල් 15,000 බැගින් වූ ශරීර ඇපමත මුදාහරින ලෙසත් නඩුව පෙබරවාරි 28 යලි කැඳවන ලෙසත් මොරටුව මහේස්ත්‍රාත් ඉවෝන් ප්‍රනාන්දු මෙනෙවිය අද (16) නියෝග කළාය   </body>
+    <comments>
+        <comment>
+            <author>අබය</author>
+            <date>2017-02-16 13:07:06</date>
+            <index>0</index>
+            <phrase>මේ ඇනකොටා ගන්නා සමයයි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2017-02-16 15:33:56</date>
+            <index>1</index>
+            <phrase>මේ ළමයින්ට දැන්මම ගඩොල් කැපීම, ගස් සිටුවීම, කුඹුරු වැඩ පුරුදු කරන එක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2017-02-17 01:48:07</date>
+            <index>2</index>
+            <phrase>වැරදිකරුවන්ට ඇප දීමේ ක්‍රමය නවත්වන්න ක්‍රමයක් ඇත්තෙම නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

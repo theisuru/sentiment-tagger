@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>431460</articleId>
+    <title>සුසානයේ ගැබ්බර ඉත්තෑවියත් මරලා</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ජූනි මස 28 10:57:53</date>
+    <body>මොරොන්තුඩුව මාවල සොහොන් බිමේ සිටි ඉත්තෑවකු හා ඉත්තෑවියක මරා මස් කළ බව කියන දඩයක්කරුවන් දෙදෙනෛකු සැක පිට අත්අඩංගුවට ගෙන ඇත.
+මෙම සතුන් දෙදෙනා මරණ බයේ තම ගුලේ ඈතටම ගොස් සිටිය දී එළියට ඇද මරා ඇතැයි ද ඉත්තෑවිය පිටවුන් පැවීමට ඇති බව ද කියති.</body>
+    <comments>
+        <comment>
+            <author>අජිත් - රියාද්</author>
+            <date>2016-06-28 06:31:23</date>
+            <index>0</index>
+            <phrase>මෙහෙමත් පව්කාරයො! පළදෙයි ඉතින් කවදාහරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-06-28 06:31:48</date>
+            <index>1</index>
+            <phrase>මේක නම් ඔය පළාතේ මිනිසුන්ට තිබෙන ලෙඩක්. අපේ ගමේ පන්සලේ වතු වැඩට ඔය පළාතේම අවුරුදු 60 ක විතර මනුස්සයෙක් අාවා. වත්ත පහළ මිනිහා හොරෙන්ම උගුල් අටවලා ලොකු ඉත්තෑවකු අල්ලලා වත්තේම මස් කරලා. එ්ක ඒ මිනිහගේ අවසාන ජොබ් එක. එදාම මිනිහා ඔය කියන ගමටම පිටත්කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2016-06-28 06:51:48</date>
+            <index>2</index>
+            <phrase>මෙහෙම දේවල් කරන අයට හොඳ දඬුවමක් දෙන්න, අායෙත් මේ වගේ දේවල් නොකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකුම්</author>
+            <date>2016-06-28 07:32:11</date>
+            <index>3</index>
+            <phrase>අනේ දෙවියනේ මෙහෙමත් අපරාධ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-06-28 08:11:43</date>
+            <index>4</index>
+            <phrase>මේ වගේ විලිලජ්ජා නැති අපරාධ කරන්නේ මොනවගේ අයද කියලා අපි දන්නවා. මෙහෙම අයට අමුතු දඬුවමක් ඕනෑ නැහැ. ස්වභාව ධර්මය විසින්ම ඒ ටික කරනවා ඒකාන්තයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-06-28 08:25:04</date>
+            <index>5</index>
+            <phrase>පැයකින් ඇප දීලා එවාවිද බලමු. සතුන්ට කන්න බොන්න දීලා හදාගත් අයව හිරේ දාන වැඩ තමා අපේ රටේ වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2016-06-28 08:50:55</date>
+            <index>6</index>
+            <phrase>අපේ මිනිස්සු මෙහෙම කරුම කරන නිසා තමයි අපේ රටට මෙහෙම වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-06-28 08:57:59</date>
+            <index>7</index>
+            <phrase>මගේ ඇස් දෙකට කඳුලක් ඉනුවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බලගෙදර</author>
+            <date>2016-06-28 09:13:06</date>
+            <index>8</index>
+            <phrase>මෙවන් මිනිසුන් රටට බරකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2016-06-28 10:17:14</date>
+            <index>9</index>
+            <phrase>හේමන්ත, ඔයත් කරලා තියෙන්නේ ලොකු වරදක්. වැරැද්ද දැකලා එය වසන්කිරිම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-06-28 10:58:03</date>
+            <index>10</index>
+            <phrase>කියන බණ බොහෝය, අසනා අය බොහෝය, රකිනා කෙනෙකු ගම හතකත් නැති සේය" කියලා අමරදේව මහතාගේ ගීතයක් තියෙනවා, මෙහෙමත් අපරාද, මේවා මොනතරම් අමානුෂික දේවල්ද ? කොයිතරම් අසරණ වෙන්න ඇතිද එම අහිංසක සතුන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-06-28 11:20:27</date>
+            <index>11</index>
+            <phrase>අනේ පවු අහිංසක සත්තු දෙන්නා! මෙහෙමත් නූගත් මිනිස්සු තවමත් මේ රටේ ඉන්නවනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2016-06-28 11:57:43</date>
+            <index>12</index>
+            <phrase>මෙහෙමත් කාලකන්නි පව්කාර මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2016-06-28 12:04:11</date>
+            <index>13</index>
+            <phrase>මෙවැනි අය හිරේ දමා වසර 20ක් තියනවනම් හොඳයි. හොඳ පොලු සංග්‍රහයකුත් දීල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2016-06-28 12:19:14</date>
+            <index>14</index>
+            <phrase>පව්කාර ගල් මුසලයෝ දෙන්නෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-06-28 14:26:29</date>
+            <index>15</index>
+            <phrase>මේවාට මරණීය දඬුවම දෙන්න ඕන , මේවා මිනිස්සු කරන දේවල් නොවේ මේවගේ අමානුෂික උන්ගෙන් සමාජයට වෙන්න තියෙන විපත් ඉතා භයානකයි ඊට කලින් මරලම දාන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-06-28 14:30:56</date>
+            <index>16</index>
+            <phrase>ඉත්තෑවා, වනජීවී සංරක්ෂණ පනත යටතේ ආරක්‍ෂිත සත්වයෙක් නෙමෙයි. ඒ නිසා මොවුනට නීතියෙන් ලොකු දඬුවමක් බලාපොරොත්තු වෙන්න බැහැ. නමුත් මරණ බයේ ගුල ඇතුලටම රිංගලා උන්න ගැබ්බර සතෙකුව මාරුවට සොබාදහමෙන් ලොකු දඬුවමක් ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2016-06-28 18:40:35</date>
+            <index>17</index>
+            <phrase>මොනතරම් ම්ලේච්ඡ මිනිසුන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2016-06-28 18:48:21</date>
+            <index>18</index>
+            <phrase>දෙවියනේ, ගැබ්බර සතෙක් මරන්න තරම් දරුණු සිතක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2016-06-28 20:39:10</date>
+            <index>19</index>
+            <phrase>මේ දෙන්නාගේ හම ගළවලා, ඇඟේ ලුණුයි මිරිසුයි ගාලා අව්වේ තියන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාමා</author>
+            <date>2016-06-28 23:17:09</date>
+            <index>20</index>
+            <phrase>රොමේෂ්, මෙතන බලන්න ඕනෑ සතා ආරක්ෂිතද නැද්ද කියලා නොවේ. අහිංසක සතෙක් මරාගෙන කන්න අපිට තිබෙන උවමනාව. මිනිස්සු තිරිසන් ගතිගුණ වලින් පිරිලා කියලා මේ දේවලින් හොඳින්ම පෙනෙනවා. නමට බුදුදහම අදහනවා. ඒ වුණාට අහිංසක සතෙකුට උගේ පාඩුවේ ඉන්න දෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-06-29 00:50:11</date>
+            <index>21</index>
+            <phrase>හරිම කණගාටුයි උදේ පාන්දරම මේ වගේ එකක් කියවන්න ලැබුන එක ගැන. මේවා කරපු අය පව්කරගත්තා වගේම මෙහෙම දුක්ඛිත මරණයක් හිමිවෙන්න සතුන් දෙදෙනාත් පව් කරලා තියෙන්න ඇති. අපිට දුත හිතෙන්නේ අපේ සිත් මෘදු නිසායි. සසර බියකරුයි කියන්නෙ නිකන් නෙමෙයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-06-29 01:39:51</date>
+            <index>22</index>
+            <phrase>රොමේෂ්, පනත් වලින් ආරක්ෂා කරන්න ඕනෑ නැහැ. සෑම සත්වයෙකුටම ජීවත්වීමේ අයිතිය තියෙනවා. කොහොම නමුත් මෙයාලට නීතියෙන් දඬුවම් ලැබුනේ නැත්තන් වැඩක් නැහැ. නීතියෙන් කෙසේවෙතත් වෙන දඬුවමක් හරි ලැබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදාර</author>
+            <date>2016-06-29 01:53:31</date>
+            <index>23</index>
+            <phrase>මේ අහිංසක සත්තු මොනතරම් වේදනාවක් උසුලන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-06-29 02:08:28</date>
+            <index>24</index>
+            <phrase>කපිල, මට තේරෙන්නේ නැහැ ඔයා මොකක්ද කියන්නේ කියලා. මම කළ වැරැද්ද මොකක්ද? ඒ පළාතේ අය වැරදි කරනවා කියලා කලින් මිනිස්සු දැනුවත් කළේ නැහැ කියන එකද? කොහොමද මම එ්ක කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-06-29 04:55:45</date>
+            <index>25</index>
+            <phrase>සාමයි, රොෂාන් දෙන්නම අදහස් ලියන්න කලින් තේරුම්ගන්න මොකක්ද ලියන්නේ කියලයි, මොකටද ලියන්නේ කියලයි. හැඟීම් වලින් මුසපත් වෙන්නේ නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2016-06-29 05:01:56</date>
+            <index>26</index>
+            <phrase>මොවුන් කළ දේ වැරදියි, මනුෂ්‍යත්වයේ නාමයෙන්. මම ලංකාවේ මස් කඩේක දැක්කා මස් කරපු එළදෙනෙකුගේ තන බුරුල්ලෙන් කිරි ගලනවා. හරියට වේදනා දෙන දසුනක්. එ්ත් එතනට ආපු මිනිස්සු ඒ සතාගේ මස් අරන් ගියා, අර කිරි දිහා බල බලා. මම එදා ඉඳලා මස් කන්නේ නැහැ. අපේ බුද්ධාගමේ රටට වැඩිය ක්‍රිස්තියානි බහුතරය වෙසෙන ඕස්ට්‍රේලියාව සත්තු දිහා අනුකම්පාවෙන් බලනවා. මේ ළඟදි ඕස්ට්‍රේලියාවෙන් පන පිටින් ඉන්දුනීසියාවට අරින ගවයින් මරන්නේ දස වද දීල කියලා ඕස්ට්‍රේලියානු ආණ්ඩුව දැනගත්තා. එවෙලේම ගවයින් ඉන්දුනීසියාවට යවන එක තාවකාලිකව නැවැත්තුවා, තත්වය දියුණු කර ඉන්දුනීසියානු රජයෙන් සහතිකයක් ලැබෙනතෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-06-29 05:51:02</date>
+            <index>27</index>
+            <phrase>යම් දෙයක් වැරදියි හෝ නිවැරදියි හෝ කියල දෙන්නේ ආගම/ ධර්මය විසින්. ඒ ඉගෙනගත්තු වැරදි දෙයට වැරදියි කියන්න හෝ වරද දැක දැක නොදැක්කසේ ඉන්න උගන්වන්නේ සමාජය විසින්. මේ වැරැද්ද කළේ මුස්ලිම් දෙන්නෙක්නම් අද මීට වඩා ගොඩක් අය අදහස් යොමුකරයි. මේ ක්‍රියාව පට්ට පතුරු ගහයි. ඒ නිසා හැමදෙයටම ආගම පටලවගන්න එපා. වෙනස් විය යුත්තේ සමාජ ක්‍රමයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-06-29 08:41:06</date>
+            <index>28</index>
+            <phrase>දුකයි මෙවැනි පුවත් බලද්දී. මේ පොෙළා් තලයේ ජිවත්වන හැම සත්වයෙක්ම මරණයට බියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2016-06-30 06:08:17</date>
+            <index>29</index>
+            <phrase>අපිට හරිම දුකයි ඒත් පොලිසියට නම් හරිම සතුටින් හිනාවෙන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන් ධම්මික ලියනාරච්චි.</author>
+            <date>2016-06-30 09:05:04</date>
+            <index>30</index>
+            <phrase>ඔබටත් මටත් මිහිතලය තුල ජිවත්වීමට අයිතිය ඇත්තාසේම සතා සිව්පාවන්ටත් තුරු ලතා වලටත් මේ මිහිපිට අයිතිය එකසේම ඇත.මන්ද මේ සැවොම ස්භාවදහමේ අංගයන් වන බැවිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවනෙක</author>
+            <date>2016-06-30 16:48:58</date>
+            <index>31</index>
+            <phrase>https://www.facebook.com/madusanka.jayasekara.1/photos?source_ref=pb_friends පොඩ්ඩක් බලන්න මේකේ ඉන්න මස් වැද්දන්ට මොනවාහරි කරන්න පුළුවන්ද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2016-06-30 17:26:19</date>
+            <index>32</index>
+            <phrase>ලොකුවට කුකුළු ගොවිපලවල් කරන අයත් එහෙනම් කරන්නේ මොනතරම් පාපයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

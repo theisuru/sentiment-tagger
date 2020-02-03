@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454678</articleId>
+    <title>රතුපස්වල රතු කළ කතාව තරිඳු ජයවර්ධන ලියයි</title>
+    <author>අමිල දර්ශන හේරත්</author>
+    <date>2016 සැප්තැම්බර් මස 06 11:30:41</date>
+    <body>ලංකාදීප එසැණ මාධ්‍යවේදී  තරිඳු ජයවර්ධන විසින් රචිත ‘‘ජන අරගලයක දිය සලකුණ රතුපස්වල‘‘ නම් කෘතිය එළි දැක්වීම සැප්තැම්බර් 13 වැනි අගහරුවාදා පස්වරු 3.00ට කොළඹ මහජන පුස්තකාල ශ්‍රවනාගාරයේදී සිදු කෙරෙයි.
+ශ්‍රි ලංකා තරුණ ජනමාධ්‍යවේදීගේ සංගමය උත්සවය සංවිධානය කරයි.
+ජ්‍යෙෂ්ඨ මාධ්‍යවේදී වික්ටර් අයිවන්, මහාචාර්ය සරත් විජේසූරිය, ආචාර්ය රවීන්ද්‍ර කාරියවසම් මහත්වරු දෙසුම් පවත්වති.
+මෙම පොත ගමගේ පොත් සමාගමේ ප්‍රකාශනයකි.</body>
+    <comments>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-09-05 12:57:33</date>
+            <index>0</index>
+            <phrase>තරිඳු සහෝදරයා ඔබට සුබපැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-09-05 13:28:43</date>
+            <index>1</index>
+            <phrase>මෙය ලැබෙන්න සළවන්න ඕනෑ තමන් කරපු දේවල් අමතකවෙලා ඇති අයටත්. ගම්පෙරළිය පොත වගේ මෙයත් මිනිසුන් අතර ප්‍රසිද්ධ කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-06 01:51:48</date>
+            <index>2</index>
+            <phrase>ඔබට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2016-09-06 07:00:18</date>
+            <index>3</index>
+            <phrase>මෙලහට පුංචි දේ ලොකු දෙයක් කරලා ලියල ඇති....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිනාත</author>
+            <date>2016-09-06 08:14:34</date>
+            <index>4</index>
+            <phrase>යහපාලනය ආපු ගමන් මේ අයට වතුර එපා වුනාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

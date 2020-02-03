@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505706</articleId>
+    <title>ලසිත් මාලිංග ඕස්ට්‍රේලියානු සංචාරයට එක්වෙයි</title>
+    <author></author>
+    <date>2017 පෙබරවාරි මස 09 12:37:09</date>
+    <body>ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ ඕස්ට්‍රේලියා තරග සංචාරය සඳහා වේග පන්දු යවන ක්‍රීඩක ලසිත් මාලිංග එක්වන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනයේ සභාපති තිලංග සුමතිපාල මහතා පවසයි.
+ආබාධයකට ලක්වීම හේතුවෙන් වසරකට ආසන්න කාලයක් ක්‍රිකට් පිටියෙන් ඈත්ව සිටි ලසිත් මාලිංග ඕස්ට්‍රේලියාව සමග පැවැත්වෙන විස්සයි විස්ස තරග තුනට එක්වීමට නියමිතය. පෙබරවාරි 17, 19 හා 22 දිනවල එම තරග පැවැත්වේ.</body>
+    <comments>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2017-02-09 08:23:15</date>
+            <index>0</index>
+            <phrase>අයිපීඑල් ළඟ ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-09 08:23:25</date>
+            <index>1</index>
+            <phrase>සුභ ආරංචියක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2017-02-09 08:39:36</date>
+            <index>2</index>
+            <phrase>සතුටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජාලිය</author>
+            <date>2017-02-09 09:59:02</date>
+            <index>3</index>
+            <phrase>සුදුසු අවස්ථාවේදී ක්‍රිකට් ආයතනය ගත් සුදුසු තීරණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2017-02-09 10:10:29</date>
+            <index>4</index>
+            <phrase>සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-02-09 11:40:22</date>
+            <index>5</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2017-02-09 11:36:42</date>
+            <index>6</index>
+            <phrase>ලංකාවේ කවුරුත් ඇත්තෙම නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2017-02-09 11:37:20</date>
+            <index>7</index>
+            <phrase>අයිපීඑල් ළඟ ළඟ ඇති .මුදල් පස්සේ හඹා යන ක්‍රීඩකයෙක් (බ).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

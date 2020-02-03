@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24661</articleId>
+    <title>රේගුව ලූනු වගාව බේරාගනී</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 පෙබරවාරි මස 02 12:06:17</date>
+    <body>ශ්‍රී ලංකාවේ ලොකු ලූනු වගාවම වනසා දැමීමට ප‍්‍රමාණවත් විදේශ බී ලූනු ඇට පැකට් 172 ක් (කිලෝ 172 ක්) ගෙනා ඉන්දියා ජාතිකයකු අත්අඩංගුවට ගත් රේගුව බීජ ඇට වහා වනසන ලෙස නියෝග කළේය.
+රෙදි වෙළෙන්දකු වන මොහු ගමන් මලූ පහකින් ගෙනා මෙම මගියාට තරයේ අවවාද කැර නිදහස් කළ බව රේගු අධ්‍යක්‍ෂ ජූඞ් නිලූක්ෂාන් පවයයි.</body>
+    <comments>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-02-02 12:22:37</date>
+            <index>0</index>
+            <phrase>ඇයි ඔහුව නිදහස් කළේ.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>w.w.s</author>
+            <date>2012-02-02 12:49:06</date>
+            <index>1</index>
+            <phrase>ඉක්මන‍ටම විනාශ කරන්න. නැත්නම් පෑල දොරින් එළියට යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2012-02-02 14:02:16</date>
+            <index>2</index>
+            <phrase>මේවා ජාත්‍යන්තර කුමන්ත්‍රණ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-02-02 14:05:29</date>
+            <index>3</index>
+            <phrase>මෙයාට කසෙකින් තලලා යවන්න තිබුනේ. ඔකුන්ගේ කිසි දෙයක් මෙහෙට ගෙන්න දෙන්න හොද නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-02-02 14:34:33</date>
+            <index>4</index>
+            <phrase>ආපහු පැකට් අරං එන්නද යැව්වේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-02-02 16:16:34</date>
+            <index>5</index>
+            <phrase>ඇත්තටම මේ අල්ලන දේවල් විනාශ කරනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ පී ජී පී පතිරණ</author>
+            <date>2012-02-02 21:54:59</date>
+            <index>6</index>
+            <phrase>ඔය ටික අහු වුණාට තව අහුනොවී රට ඇතුළට එන අනවසර ලොකුළූනු බීජ ප්‍රමාණයක් තියෙනවා. ඒවා එන්නේ ලංකාවේ සරුවත් බීම නිෂ්පාදනයට ගෙනෙන "කසකසා ඇට" මුවාවෙන්. දඹුල්ල පැත්තෙ භීජ වෙළෙන්දෙක් දෙන්නෙක් ගාවට ගියානම් මේ ගෙන්වීම ගැන වැඩි විස්තර දැනගත්තහැකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

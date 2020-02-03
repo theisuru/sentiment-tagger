@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41652</articleId>
+    <title>සමිති ලේකම්ට එරෙහිව ලංගම බස් කොට උඩ?</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2012 මැයි මස 10 17:41:11</date>
+    <body>වසර 18ක් තිස්සේ නිදහස් ජාතික ප්‍රවාහන සේවක සංගමයේ ප්‍රධාන ලේකම් ඉවත්කරන ලෙස විරෝධය පළ කරමින් අද (10) සවස 5 සිට ලංගම ඩිපෝ 71ක බස් ධාවනය නතර කළ බව එම සංගමයේ වයඹ ලේකම් හා විරෝධතාවයේ කැඳැවුම්කරු බන්දුල රත්නායක මහතා පැවැසීය. බස් සමාගම 11 ක ඩිපෝ පහළොවක් මේ ක්‍රියා මාර්ගයට එක් වී සිටියි. වසර අටකින් නිලවරණය නොපැවැත්වී යැයි ද රුපියල් විසි කෝටියක පමණ සාමාජික මුදල් ගැන ප්‍රශ්න ඇතැයි ද රත්නායක මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-10 18:50:10</date>
+            <index>0</index>
+            <phrase>ලංගම බස් කොට උඩ? ඒ වුනාට ප්‍රයිවට බස් ටයර් උඩනේ. ඒ නිසා පුශ්නයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-05-10 18:52:35</date>
+            <index>1</index>
+            <phrase>මොනවද අනේ මේ ඒ ගමන???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-10 19:01:01</date>
+            <index>2</index>
+            <phrase>කොරන දෙයක් අපිට වේලපහ කියල කොරන්න. එහෙනන්. ලංගම බස්කොට උඩ? ඒ වුනා පුශ්ණයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2012-05-10 19:35:45</date>
+            <index>3</index>
+            <phrase>චීනෙට විකුණලා දාන්න ඔන්න ඔහේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-10 20:06:39</date>
+            <index>4</index>
+            <phrase>මණ්ඩලේ කචල් වගේ ඒ ගමන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-10 23:12:46</date>
+            <index>5</index>
+            <phrase>කොට උඩ නම් යටින් ටයර් දාලා දුවමු.තෙල් වලට වඩා ලාභයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-12 20:24:56</date>
+            <index>6</index>
+            <phrase>හිසරදේට කොට්ටෙ මාරු කලාට වැඩක් තියේවිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-05-13 01:39:44</date>
+            <index>7</index>
+            <phrase>ළංගම කොට උඩ ගිහින් හැඟක් දවස් නේද? ළංගම මළගම අහෝ දුකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

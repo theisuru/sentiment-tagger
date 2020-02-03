@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>503745</articleId>
+    <title>කොළඹ සරසවියට නීති පර්යේෂණ ඒකකයක්</title>
+    <author>ගයාන් අමරසේකර</author>
+    <date>2017 පෙබරවාරි මස 02 18:15:20</date>
+    <body>අධිකරණ අමාත්‍යංශය හා කොළඹ විශ්ව විද්‍යාලයේ නීත පීඨයේ මූලිකත්වයෙන් නීති පර්යේෂණ ඒකකයක් පිහිටුවීම අධිකරණ ඇමැති විජයදාස රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් අද(2) සිදුකැරිණි.
+කොළඹ විශ්ව විද්‍යාලයේ උප කුලපති ලක්ෂ්මන් දිසානායක, නීතිපති ජයන්ත ජයසූරිය යන මහත්වරු ඇතුළු පිරිසක් ද එම අවස්ථාවට එක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-02-02 23:14:14</date>
+            <index>0</index>
+            <phrase>ඉදිරියට යන්න වාසනා වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලාන්</author>
+            <date>2017-02-02 23:19:38</date>
+            <index>1</index>
+            <phrase>හොඳයි හොඳයි ඔහොම යමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

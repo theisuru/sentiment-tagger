@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460807</articleId>
+    <title>ගාලු වෙරළ ලස්සන කරයි</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 සැප්තැම්බර් මස 23 15:19:00</date>
+    <body>සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරිය, වෙරළ සංරක්ෂණ දෙපාර්තමේන්තුව හා ගාල්ල දිස්ත්‍රික් ලේකම් කාර්යාලය විසින් සංවිධානය කරන ලද වෙරළ පවිත්‍රතා  වැඩසටහන ගාල්ල දෙවට දක්ෂිණ අධිවේගී පිවිසුම අසල වෙරළ තීරයේදී පැවැත්විණි.
+පාසැල් සිසුන්, ගාල්ල යොවුන් සේනාංකය, නාවික හමුදව, ගාල්ල මහ නගර සභාව සහ සිවිල් සංවිධාන රැසක් මේ සඳහා එක් වී සිටිනු දක්නට ලැබිණ.
+මේ අවස්ථාවට දකුණු පළාත් ප්‍රධාන ඇමැති ශාන් විජේලාල් ද සිල්වා මහතාද සමුද්‍රීය පරිසර ආරක්ෂණ අධිකාරියේ සභාපති රියර් අද්මිරාල් රෝහණ පෙරේරා මහතාද සහභාගි වී සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-09-23 10:30:18</date>
+            <index>0</index>
+            <phrase>අපේ අැමතිතුමාලට නම් නැමිලා කුණු අහුලන්න අමාරු ඇති. රේක්කයක්වත් දුන්නා නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-09-23 11:37:44</date>
+            <index>1</index>
+            <phrase>අපද්‍රව්‍ය පාරට, ගඟට විසිකරන මිනිසුන්,ආයතන වලට දඩ ගහන්න. ජපානේ සිංගප්පුරුව වගේ හොඳ කළමනාකරණයක් ගෙනෙන්න. අපි පොඩි කාලේ දැකපු, සෙල්ලම් කරපු ලස්සන වැවු, ගංගා දුෂණය වෙලා. දකිනකොටත් දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-09-23 12:01:16</date>
+            <index>2</index>
+            <phrase>ඕවා එක දවසක් කළාට වැඩක් නැහැ. අපේ අය තරම් පරිසරය ගැන නොසිතන ජාතියක් වෙන නැතුව ඇති. කොහේ ගියත් කාපු තැන ෂොපින් බෑග් විසිකරලා වනසලා යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරච්චිගේ</author>
+            <date>2016-09-23 13:43:58</date>
+            <index>3</index>
+            <phrase>ඉතා වැදගත් සමාජ මෙහෙවරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-09-23 14:02:54</date>
+            <index>4</index>
+            <phrase>අපේ රටේ කලාතුරකින් දකින්න ලැබෙන, අසන්න ලැබෙන ඉතාම හොඳ ක්‍රියාමාර්ගයක්. මේක රට පුරාම ව්‍යාප්ත වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2016-09-24 01:02:27</date>
+            <index>5</index>
+            <phrase>හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් පාසිල්</author>
+            <date>2016-09-24 02:57:54</date>
+            <index>6</index>
+            <phrase>කළයුත්තේ පොලිතින් ප්ලස්ටික් වැනි ද්‍රව්‍ය වලට නීති සම්පාදනය කිරිම මඟින් දුෂණය පාලනය කිරීමයි. ආදර්ශය හොඳයි. එ්ත් වියයුත්තේ තිරසාර පිළියමක් ගැනීමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-24 10:06:48</date>
+            <index>7</index>
+            <phrase>අනේ මෙහෙමත් සෝබන. මේවා ප්‍රදර්ශන පමණයි. කොළඹ නගරය ලස්සන කළා, මෙහෙම සංදර්ශන නැහැ. නමුත් අද කොළඹ වැසිකිළියක් කරලා හමාරයි. මිනිසුනේ ඇස් අැර බලපල්ලා, මොකක්ද මේ වෙන්නේ කියා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

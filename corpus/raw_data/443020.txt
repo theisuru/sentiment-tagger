@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443020</articleId>
+    <title>‘අපි යන්නේ ටවුන්හෝල්‘ - මහින්දානන්ද</title>
+    <author>තරිඳු ජයවර්ධන බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 01 14:18:38</date>
+    <body>පාද යාත්‍රාව බේස්ලයින් පාරෙන් හැරෙද්දී සංවිධායක මහින්දානන්ද අලුත්ගමගේ මහතා පැවසූයේ එය ටවුන්හෝල් පැත්තට යන බවයි.
+මේ අතර බුද්ධි අංශ තොරතුරු අනුව පාද යාත්‍රා කණ්ඩායම ලිප්ටන් වටරවුමට හෝ නිදහස් චතුරශ්‍රය දෙසට යෑමට ඉඩ ඇති බවයි.
+අද පස්වරු 2.55 පමණ වන විට පාද යාත්‍රාව මාලිගාවත්ත දෙසින් කොළඹට ගමන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>මුදිත්</author>
+            <date>2016-08-01 09:08:04</date>
+            <index>0</index>
+            <phrase>අයියෝ ටවුන්හෝල්නම් යන්න දෙන්න එපා!! අපිට ගෙදර යන්නේ වෙන්නේ රෑ10 වෙනකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-01 09:08:54</date>
+            <index>1</index>
+            <phrase>අහිංසක මිනිසුන්ට කරදරයක් උනත්, ආණ්ඩුව මෙවැනි බලු වැඩ කරද්දී වෙන මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-08-01 09:19:37</date>
+            <index>2</index>
+            <phrase>මේ අයට තැනක් දුන්නනම් කාටවත් කරදරයක් නැහැ නේද... මොකෝ මේ බොලද වැඩ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-08-01 09:27:08</date>
+            <index>3</index>
+            <phrase>ප්‍රජාතන්ත්‍රවාදය උපරිම බුක්ති විධිනවා එයයි යහපාලනය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2016-08-01 09:27:12</date>
+            <index>4</index>
+            <phrase>මහන්සි වෙලා වැඩ ඇරිලා ගෙදර යන ජනතාවට තමයි එකෙනුත් පීඩාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත්</author>
+            <date>2016-08-01 09:31:27</date>
+            <index>5</index>
+            <phrase>අහිංසක මිනිස්සු තමයි අමාරුවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-08-01 09:46:33</date>
+            <index>6</index>
+            <phrase>සිරි මහතා,මේ දිනවල දේශපාලකයන්ව අත්අඩංගුවට ගන්නේ මොන වගේ වැඩ වලටද අපට කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් පෙරේරා</author>
+            <date>2016-08-01 09:48:29</date>
+            <index>7</index>
+            <phrase>සිරි මහත්තයෝ ජනවාරි 8 ට ඉස්සර කාලේ තිබිච්ච වැඩ එක්ක මේ මොන බලු වැඩද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-01 09:56:36</date>
+            <index>8</index>
+            <phrase>යහපාලන ආණ්ඩුව ගොඩක් බයවෙලා ,බුද්ධි අංශ මොකටද මේ චුටි පාගමනට .ආ.... ඒක තමයි දැන් ආණ්ඩුවේ ලොකු ලොක්කෝ දගලන්නේ මිනිස්සුන්ගේ හිත දිනාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2016-08-01 10:08:48</date>
+            <index>9</index>
+            <phrase>පක්ෂයේ ප්‍රශ්න රටේ ප්‍රශ්න බවට පත්කරලා වැඩකරන ජනතාව නිකන් පාරේ රස්තියාදු කරන්න එපා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුරා</author>
+            <date>2016-08-01 10:06:21</date>
+            <index>10</index>
+            <phrase>ආණ්ඩුව බය වෙන්නේ මොකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්පොල ගෙදර</author>
+            <date>2016-08-01 10:14:08</date>
+            <index>11</index>
+            <phrase>ඔහොන්ම වැලිකඩට හැරෙව්වනම් වැඩේ ලෙහෙසියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2016-08-01 10:20:03</date>
+            <index>12</index>
+            <phrase>මහින්ද මහත්තයා පරදින්න කලිනුත් ජන ගංගාවල් ගොඩක් පෙන්නුවේ.. සමහර කට්ටියට ඉක්මනට අමතක වෙනවා නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත</author>
+            <date>2016-08-01 10:32:35</date>
+            <index>13</index>
+            <phrase>අපක්ෂපාතිව කියනවනම් මේක ඉතා හොඳ පාඩමක් පාලකයන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගැමුණු</author>
+            <date>2016-08-01 10:47:56</date>
+            <index>14</index>
+            <phrase>අතුරා, බය නිසා තමයි පළාත් සභා ඡන්දය පවත්වන්නේ නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-08-01 10:50:29</date>
+            <index>15</index>
+            <phrase>මොවුන්ට වෙන වැඩක් නැද්ද. අනුන්ගේ කලෙත් නාස්ති කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-01 11:37:57</date>
+            <index>16</index>
+            <phrase>පාද යාත්‍රාව යන අයට තෙරෙන්නේ නැද්ද මහින්දට ආයිත් ජනාධිපති වෙන්න බැහැ කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2016-08-01 11:54:18</date>
+            <index>17</index>
+            <phrase>බුද්ධි අංශ මොකටද මෙතනට අදාළ කරගන්නේ? අයිඑස් ලංකාවේ ඉන්නවා කියලා ඉන්දියානු ඔත්තුසේවා කියනවා. කොටි ඕස්ට්‍රේලියාවේ මෙල්බෝර්න් නුවර සල්ලි එකතු කරනවාලු. ඒවාට නැති බුද්ධි අංශ මේ පාගමනක් ආවරණය කරනවා. අනේ සංසාරේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-08-01 13:59:26</date>
+            <index>18</index>
+            <phrase>වශී බෝලෙ කොච්චර අතගගා හිටියත් උන්නැහේට ඔය වැටිලා ඉන්න වළෙන් ගොඩ එන්න පුළුවන් වෙයි කියලා මම නම් හිතන්නේ නැහැ. ඔහොම ජිල්මාට් දමන්න දමන්න තව තවත් මඩේ එරෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිකී</author>
+            <date>2016-08-01 13:57:43</date>
+            <index>19</index>
+            <phrase>ඉදිරි කාලයේදී සමහර විට වෙනත් හෝල් එකකට යන්න සිදුවේවි, කාලයක නිවාඩුවකුත් එක්ක!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

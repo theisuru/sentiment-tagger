@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>322981</articleId>
+    <title>වෑන් රිය වැවට නොවැටී නූලෙන් බේරෙයි</title>
+    <author>රවීන්ද්‍ර විරාජ් අබේසිංහ</author>
+    <date>2015 ජූනි මස 07 17:32:59</date>
+    <body>මාතලේ ඇල්කඩුව සෙම්බුවත්ත වැවේ අනතුරෙන් අඩු ගණනේ සිව් දෙනකු මිය ගොස් 13 දෙනකු රෝහල් ගත කළ බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලයය කියයි.
+මහ පාරේ සිට අඩි සියයක් පමණ පල්ලමට පෙරළී වැව් ඉවුරේ වාහනය රැඳිණි.
+ඔවුන් මාතර හිත්තටිය ධර්මරාජ මාවතේ සහ ඉසදීන් නගරයේ යෙහෙයියා මාවතේ සිට මහනුවර උපන්දින සාදයකට ගිය අය බව ද, මිය ගිය සිව් දෙනා අතර කාන්තාවන් දෙදෙනකු සිටින බව ද පොලිසිය පවසයි.
+(ඡායාරූප විරාජ් අබේසිංහ)
+
+(සෙම්බුවත්ත වැව)
+
+ </body>
+    <comments>
+        <comment>
+            <author>ධර්මසේන නවරත්න</author>
+            <date>2015-06-07 13:13:46</date>
+            <index>0</index>
+            <phrase>වෑන් එකේ කී දෙනෙක් හිටියද ? මේ කාලේ උපන්දින සාද වලට කී දෙනෙක් යනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනද බංඩා</author>
+            <date>2015-06-07 14:43:59</date>
+            <index>1</index>
+            <phrase>මේ ඇක්සිඩන්ට් වලට ප්‍රධාන හේතුව අධික වේගය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-06-07 14:47:39</date>
+            <index>2</index>
+            <phrase>එදා යුද්දෙන් මැරුනා ....අද මහා පාරේ මැරෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2015-06-07 17:12:36</date>
+            <index>3</index>
+            <phrase>සෙම්බුවත්ත වැවට බහින්නත් හොඳ නැහැ. ඒ තරම් භයානකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-06-07 23:15:07</date>
+            <index>4</index>
+            <phrase>පාරවල් කාපට් කරපු එක තමයි වරද.නැත්නම් මිනිස්සු කොට කොට හෙමින් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ග්‍රාම්‍යා</author>
+            <date>2015-06-08 02:27:05</date>
+            <index>5</index>
+            <phrase>සුක්කානම අතට ගත්තම අමුතු හැඟීමක් එනවා. හයියෙන් යන්න, වංගු ගන්න, වෙට්ටු දාන්න, වාහන පේලියේ පළමුවෙනිය වෙන්න වගේ දේවල්. නමුත් දැන් එන්න එන්න වාහන තදබදය වැඩියි. පුලුවන්නම් වාහන පෝලිමේ අන්තිමය වෙන්න. හෙමින් යන්න බලන්න. තමන්ගේ ජීවිතය රැක ගන්න. වාහනේ යන අනිත් අය ගැනත් හිතන්න. වම්පසට වෙන්නම වාහනය දාවනය කරන්න. තමනුත් රැකෙන්න - අනිත් අයත් රැකගන්න - ජීවිතය විඳින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

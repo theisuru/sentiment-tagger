@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>384753</articleId>
+    <title>ජපානයේ ලාංකිකයෝ ලේ දන්දෙති</title>
+    <author>නිලූක සඳුන් බණ්ඩාරනායක</author>
+    <date>2016 පෙබරවාරි මස 11 07:34:07</date>
+    <body>ජපානයේ වෙසෙන ශ්‍රී ලාංකික තරුණයෝ පිරිසක් ලේ දන්දීමේ වැඩසටහනක් පැවැත් වීය.
+ජපානයේ ෆුජිනෝමියා නගරයේ  ෆුජි විහාරයේ පැවැත්වූ මේ පිංකමට විශාල පිරිසක් සහභාගී වූහ.</body>
+    <comments>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-02-11 10:11:09</date>
+            <index>0</index>
+            <phrase>හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

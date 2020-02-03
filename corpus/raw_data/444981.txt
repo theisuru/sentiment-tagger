@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>444981</articleId>
+    <title>කෝටි දෙකහමාරක හොර බඩු අල්ලයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 07 13:01:48</date>
+    <body>කඩවත ගෝනහේන එස්ටීඑෆ් කඳවුරේ පිරිසක් කටුනායක ගුවන් තොටේ ප්‍රධාන පිවිසුම අතරදී අද අලුයම කළ වැටලීමක දී අනවසරයෙන් ගෙන්වූ ජංගම දුරකතන, ක්‍රීම්වර්ග හා දුම්වැටි තොගයක් අත්අඩංගුවට ගත්තේය.
+ඒවායේ වටිනාකම රුපියල් දෙකෝටි තිස් පන් ලක්ෂයක් පමණ වෙතියි අනුමාන කෙරෙයි.
+වෑන් රියකට පටවද්දී එම භාණ්ඩ තොගය අත්අඩංගුවට ගත් බවත්, පොලිස් විශේෂ කාර්ය බළකායේ 17 දෙනකු පමණ වැටලීමට සහභාගී වූ බවත් වාර්තා වේ.
+සැකකරුවේ හතර දෙනෙක් ද අත්අඩංගුවට ගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-08-07 11:05:51</date>
+            <index>0</index>
+            <phrase>නීතිය දැන් තමයි ක්‍රියාත්මක වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-08-07 11:00:35</date>
+            <index>1</index>
+            <phrase>දැන් තම රටේ නීතිය ක්‍රියාත්මක වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-08-07 11:07:47</date>
+            <index>2</index>
+            <phrase>දැන් මේ ජංගම දුරකතන වලට මොකද වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-08-07 11:14:23</date>
+            <index>3</index>
+            <phrase>මේවා මොන ක්‍රමයකින් හරි රේගුවෙන් පිට කරපු භාණ්ඩ . තව ටික දවසකින් රේගුවේ කට්ටිය එස්ටීඑෆ් එකට විරුද්ධව පාරවල් වහගෙන උද්ගෝෂණයක් කරයිද දන්නේ නැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2016-08-07 11:28:37</date>
+            <index>4</index>
+            <phrase>හොද වැටලීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-08-07 11:31:58</date>
+            <index>5</index>
+            <phrase>මේ ජංගම දුරකතන වලට කුමක් සිදුවේද යන්න ගැටලුවකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-08-07 11:56:41</date>
+            <index>6</index>
+            <phrase>රේගුවෙන් කොහොමද මේවා පරීක්ෂා නොකර එළියට ආවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-08-07 12:24:24</date>
+            <index>7</index>
+            <phrase>ලංකාවේ ලොකුම හොරු ටික ඉන්නේ රේගුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-08-07 12:31:33</date>
+            <index>8</index>
+            <phrase>හොඳ වැටලීමක් කරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිරි</author>
+            <date>2016-08-07 12:50:35</date>
+            <index>9</index>
+            <phrase>මේවා රේගුවේ නීති විරෝදී වැඩ. අල්ලස් ගත්ත අයවත් අල්ලගන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පෙරේරා</author>
+            <date>2016-08-07 12:53:52</date>
+            <index>10</index>
+            <phrase>අනේ මේ දන්නේ නැති නිසා අහන්නේ, රේගුවෙන් එලියට ආවේ කොහොමද ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-08-07 14:10:13</date>
+            <index>11</index>
+            <phrase>ලංකාවේ වෙළද පොලේ හොරෙන් ගෙන්වන සුවද විලවුන් ,හා ක්‍රිම් වර්ග කොපමණ තියෙනවද ,රජයට එ් නිසා නැතිවන අාදායම කොපමණද ,රජයට මේ නීති විරෝධි ආලේපන අත්අඩංගුවට ගන්න පුළුවන් ,වෙලදසල්වල තිබෙන ලංකාවට ගෙන්වන සමාගමේ මුද්‍රාව නැති දේවල් ගැන සොයා බැලුවා නම් වසරකට බිලියන ගන්නක බදු අය කර ගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-08-07 15:51:36</date>
+            <index>12</index>
+            <phrase>මොවුන් කළ දේ අගය කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-08-07 15:54:01</date>
+            <index>13</index>
+            <phrase>රේගුවේ සහයෝගයක් නැතිව කීයටවත් මෙවැනි බඩු තොගයක් පිට කරන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2016-08-07 16:12:47</date>
+            <index>14</index>
+            <phrase>මේ වගේ හොරකම් පහුගිය කාලේ කොච්චර වෙන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-08-07 16:43:02</date>
+            <index>15</index>
+            <phrase>අනුමානයක් නැහැ, චීන භාණ්ඩ. ඒගොල්ලො තමයි මේවාට දක්ෂ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-08-07 16:48:51</date>
+            <index>16</index>
+            <phrase>පොලිස්පති වැඩ පටන් අරගෙන වගෙයි. ළඟදීම රේගුවේ කට්ටිය උද්ඝෝෂණය කරයි. මේක තමයි ඒගොල්ලෝ කැමරා සවිකරනවට විරුද්ධ. කාලයක් වරායේ බහාලුම් නාවික හමුදාව දාලා පරික්ෂා කරන්න ගත්තා. ඒ කාලයේ විශාල වැඩ වර්ජනයකුත් කරලා ඒ වැඩපිළිවෙල නතර කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2016-08-07 19:37:51</date>
+            <index>17</index>
+            <phrase>රජයට ලැබිය යුතු ආදායම් ලැබෙන ලෙස පිටයන මාර්ග වසා, නීතිය හරියට ක්‍රියාත්මක කළොත් රට ගොඩ. මෙම වැරදි වලට අසුවන අයගේ වත්කම් සොයා බලා වැරදි ලෙස උපයාඇති සියල්ල රාජසන්තක කර එම ආදායම්ද රජයට ගතයුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-08-07 19:55:43</date>
+            <index>18</index>
+            <phrase>එස්.ටී.එෆ්. එකට අපේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2016-08-07 20:00:54</date>
+            <index>19</index>
+            <phrase>ඔත්තු ලබාදෙන අය ආරක්ෂා කිරීමට රජය වගබලා ගතයුතුය. එසේම එම අයට වටිනාකමේ හැටියට දිරි දීමනාවක් දීමද කළයුතුය. රට ගොඩ ගැනීමට නම් කළයුත්තේ මේවාය. හොරකම දුෂණය නැවතිය යුතුමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටී. බණ්ඩාර</author>
+            <date>2016-08-07 22:35:53</date>
+            <index>20</index>
+            <phrase>රේගු නිලධාරීන් සීසීටීවී කැමරා සවි කරනවාට විරුද්ධව උද්ඝෝෂණ කළ හේතුව දැන් අපට තේරෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-08-08 00:54:51</date>
+            <index>21</index>
+            <phrase>රේගුවේ හැටි පේනවා නේද? ඕවා රේගුවෙන් එළියට එන්නේ කොහොමද කියලා අපි දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-08-08 02:42:49</date>
+            <index>22</index>
+            <phrase>චන්ද්‍රාගේ අදහසේ හැටියට ඔත්තු ලබාදෙන අය ආරක්ෂා කිරීමට රජය වගබලා ගතයුතුය යන්නට මමද එකඟවෙමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඕමාර්</author>
+            <date>2016-08-08 02:38:39</date>
+            <index>23</index>
+            <phrase>මේවා එළියට එන විදිය ලංකා දන්නවා නම් කියන්න. එච්චර දෙයක් දන්නවා නම් දන්නවා ඇතිනේ ගුවන් යානයකින් පිටවෙන හැම මඟියෙක්ම පරික්ෂා කරන්න තරම් පහසුකම් සහ උපකරණ නැති විත්තියත්. අනික ඔය සේරම එක පුද්ගලයෙක් ගෙනාපුවා නෙමෙයි. අනිවාර්යයෙන් මිනිස්සු 6, 7 දෙනෙක්වත් එන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-08-08 03:31:54</date>
+            <index>24</index>
+            <phrase>අනිවාර්යෙන්ම මේකට දේශපාලන බලපුලුවන්කාරයෙක් සම්බන්ධ වෙන්නම ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණී</author>
+            <date>2016-08-08 04:26:39</date>
+            <index>25</index>
+            <phrase>පොලිස් වීරයින්ගේ වැඩක්. මගෙන් මල් මිටක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-08-08 05:23:07</date>
+            <index>26</index>
+            <phrase>පොලිසිය ස්වාධීන කරනවා නම් මේවා සුළු දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිලා</author>
+            <date>2016-08-08 05:52:47</date>
+            <index>27</index>
+            <phrase>අනිවාර්යෙන්ම මේක දේශපාලන බලපුළුවන්කාරයක්ගේ වැඩක් වෙන්න බෑ එහෙම වුණා නම් මේ විදියට අත්අඩංගුවට ගන්න දෙන්නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්තක</author>
+            <date>2016-08-08 06:26:55</date>
+            <index>28</index>
+            <phrase>මෙයයි අපි බලාපොරොත්තු වූ සැබෑ වෙනස!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-08-08 06:43:17</date>
+            <index>29</index>
+            <phrase>ගුවන්තොටුපල එළියේ මෙහෙම පරික්ෂා කරන ස්ථානයක් එස්ටීඑෆ් යටතේ දැම්මොත් ඔය කම්බා හොරු ටික අල්ල ගන්න පුළුවන් . රේගු අයියලගේ ජරාව නවත්තන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆීල්</author>
+            <date>2016-08-08 07:39:36</date>
+            <index>30</index>
+            <phrase>මේවා අද ඊයේ සිට සිද්ධවෙන දේවල් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-08 09:30:41</date>
+            <index>31</index>
+            <phrase>රේගුවෙන් කොහොමද පිටවු,ණායි කියලා පරීක්ෂණ කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2016-08-08 09:57:07</date>
+            <index>32</index>
+            <phrase>ලංකාවේ රේගුව කියන්නේ තෝරගත්ත හිතවතුන් කට්ටියකට ඕන තරම් හොරකම් කරන්න ඉඩදෙන කණ්ඩායමක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2016-08-08 10:01:19</date>
+            <index>33</index>
+            <phrase>මේ තරම් බඩු මලු තොගයක් ගුවන් තොටුපොළේ රේගුවෙන් පරික්ෂා නොකර පිට කරන්න හැකි එකම ක්‍රමය තමයි එම රේගු කණ්ඩායමේ මෙම බඩු ගෙනාපු කෙනාගේ ලොකු හිතවතෙක් හෝ ඥාතියෙක් සිටීම . එහෙම නැත්නම් මේ වගේ ලේසියෙන් මෙච්චර බඩු මලු ප්‍රමාණයක් නිකන් නම් පිටකරන්න දෙන්නේ නැහැ ගුවන් තොටුපොළේ රේගු කට්ටිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-08-08 14:29:19</date>
+            <index>34</index>
+            <phrase>අර සි සි ටි වී හයිකරන්න එපා කියලා කිවුව හේතුව මේකයි . පලවෙනි දෙවෙනි හරස් වීදිවල විකුණන්නේ ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිසමේ බලපත්‍රය තිබේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2016-08-08 21:24:14</date>
+            <index>35</index>
+            <phrase>කාගෙවත් අදහස් මොකටද? රජය මඟින් රට ජාතියේ අවශ්‍යතා අනුව සි සි ටි වී නොව ඕනෑම දෙයක් කිරීමට රජයට කොන්දක් තිබිය යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජේශ් ඛන්නා</author>
+            <date>2016-08-09 00:08:28</date>
+            <index>36</index>
+            <phrase>රේගුවේ හැම නිලධාරියාම එහෙම නැහැ. සමහර අය විදේශ රැකියා කර විදේශ විනිමයක් අප රටට ලබාදෙන අයගේ ගමන්මළු ගැන සෑහෙන පරීක්ෂාවක් කර අපහසුතාවලට පත්කරන අතර කූට ලෙස බඩු ගෙනෙන අයට පහසුවෙන් අවශ්‍යතාව ඉටුකර ගැනීමට ඉඩ සළසයි. මෙවැනි දේ අසුවීමෙන් පසු විදෙස් රැකියා කරන්නන් තවතවත් අපහසුතාවලට ලක්කිරීමට ඔවුන් කටයුතු කරනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

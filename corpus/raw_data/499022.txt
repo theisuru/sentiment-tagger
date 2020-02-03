@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499022</articleId>
+    <title>මන්ත්‍රී ගම්මන්පිලට එරෙහි නඩුව මාර්තු 16 දා</title>
+    <author>මනෝප‍්‍රිය ගුණසේකර</author>
+    <date>2017 ජනවාරි මස 16 17:59:10</date>
+    <body>ඔස්ටේ‍්‍රලියානු ජාතිකයෙකුගේ අත්සන ව්‍යාජ ලෙස යොදා ගනිමින් ඔහුට අයත් සමාගමක කොටස් විකූණා රුපියල් මිලියන ගණනක් වංචා කළැයි පාර්ලිමේන්තු මන්ත‍්‍රී උදය ගම්මන්පිල මහතාට එරෙහි නඩුව ලබන මාර්තු මස 16 වැනිදා විභාග කිරීමට කොළඹ මහාධිකරණ විනිසුරු ඒ.ඒ.ආර්. හෙයියන්තුඩුව මහතා අද (16) තීන්දු කළේය.</body>
+    <comments>
+        <comment>
+            <author>ටෝනි</author>
+            <date>2017-01-16 13:03:38</date>
+            <index>0</index>
+            <phrase>මෙයාවත් ඇතුළට ගත්තා නම් හරි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2017-01-16 13:58:12</date>
+            <index>1</index>
+            <phrase>මාර්තු මස 16 කල් වැඩි නැද්ද? රුපියල් මිලියන ගණනක් වංචා කරලා නම් ඉක්මනින්ම නඩු අහන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිරුල්</author>
+            <date>2017-01-16 14:51:44</date>
+            <index>2</index>
+            <phrase>ඇත්තටම මේ අයට තිබෙන නඩු ඉක්මනින් අවසන්කොට තීන්දු ප්‍රකාශ කරන්න ඕනෑ. කෙසේ නමුත් මෙවැනි චෝදනා තිබෙන නිසා අපි ඡන්දය දීමෙන් වැළකිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2017-01-16 17:52:24</date>
+            <index>3</index>
+            <phrase>පිවිතුරුකම රෙද්ද පල්ලෙන් බේරෙන්නේ ඔන්න ඔය වෙලාවට තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2017-01-16 20:05:41</date>
+            <index>4</index>
+            <phrase>බලනකොට නඩු නැති දේශපාලකයන් නැහැනේ මේ රටේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාරියවසම්</author>
+            <date>2017-01-17 02:28:47</date>
+            <index>5</index>
+            <phrase>කෝ මගේ රු 100? තාම ලැබුනේ නැහැ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2017-01-17 03:27:47</date>
+            <index>6</index>
+            <phrase>තවත් ලංකාවේ දේශපාලකයෙක් ගැන ඕස්ට්‍රේලියාවේ පත්තර වලත් ගියා නේද? ඒ ගැන පරීක්ෂණයක් නැත්තේ මොකද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණී</author>
+            <date>2017-01-17 06:12:05</date>
+            <index>7</index>
+            <phrase>මෙයා දිය රෙද්දෙන් බෙල්ල කපන්න පුළුවන් ජාතියේ පුද්ගලයෙක්. නියාලු හිනාවකුත් තියෙනවා මුහුණට ගැලපෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

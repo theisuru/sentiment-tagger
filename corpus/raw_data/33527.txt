@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33527</articleId>
+    <title>‘කල දුටු කල වළ ඉහගෙන‘</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 මාර්තු මස 26 18:56:58</date>
+    <body>ශ්‍රී ලංකා - එංගලන්ත ක්‍රිකට් තරග නරඹමින් බ්‍රිතාන්‍ය කණ්ඩායම දිරිගැන්වීමට ශ්‍රී ලංකාවට ආ බ්‍රිතාන්‍ය ක්‍රිකට් ලෝලියෝ ටිකට්පතේ මිල හිටිගමන් වැඩි කිරීම ගැන පැමිණිලි කරතියි බ්‍රිතාන්‍ය පුවත්පත් කියයි. මෙය කලදුටු කළ වළ ඉහ ගැනීමකියි ඔවුහු කියති.</body>
+    <comments>
+        <comment>
+            <author>සුගත් බණ්ඩාර ගොතටුව</author>
+            <date>2012-03-26 21:57:05</date>
+            <index>0</index>
+            <phrase>අයියෝ ඕක ඒ තරම් ගණන් ගන්න දෙයක් නෑ ඩොලර් එකට ගෙවන ගානේ හැටියට රු.5000 එච්චර ගාණක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහලයා</author>
+            <date>2012-03-26 22:46:12</date>
+            <index>1</index>
+            <phrase>හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

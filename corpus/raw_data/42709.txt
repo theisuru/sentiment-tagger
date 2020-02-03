@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42709</articleId>
+    <title>පාරෙ තාර ගොඩ මිනී මරයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 මැයි මස 17 12:52:37</date>
+    <body>බකමූණ හෙට්ටිගල පාර කාපට් කිරීම සඳහා ගෙන ආ තාර මිශ්‍රණ ගොඩ ගසා තුබූ තැන්වලදී දෙපැයකදී යතුරුපැදි හයක් අනතුරට පත්ව එක් අයකු මිය ගොස් අට දෙනෙකු තුවාල ලැබූ බව පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>faru</author>
+            <date>2012-05-17 13:07:09</date>
+            <index>0</index>
+            <phrase>මෙයා මැරුණ රෑ ද දහවල් ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-17 13:09:56</date>
+            <index>1</index>
+            <phrase>මාව දාන අයත් පාරේ යන අයත් සුපරික්ෂාකාරී විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල්</author>
+            <date>2012-05-17 13:10:41</date>
+            <index>2</index>
+            <phrase>අනේ! අනේ!!! පාරේ දාලා තියන තාර ගොඩ පෙන්නේ නැති අය ..ඉතින් කොහොම ද පාරේ ගමන් කරන මගීන් පෙන්නේ ...? මොකට ලයිසන් දුන්නද මන්දා ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල්</author>
+            <date>2012-05-17 13:16:05</date>
+            <index>3</index>
+            <phrase>අනේ! අනේ!!! පාරේ දාලා තියන තාර ගොඩ පෙන්නේ නැති අය ..ඉතින් කොහොම ද පාරේ ගමන් කරන මගීන් පෙන්නේ ...? මොකට ලයිසන් දුන්නද මන්දා ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-05-17 13:16:47</date>
+            <index>4</index>
+            <phrase>පාරවල් හදන්න ඕනා තමා.. ඒත් මාස ගනාක් තිස්සේ ඔහොම ගල් ගොඩවල් පාරේ තියන ඒකට පිලියමක් යොදන්න ඔනේ.. කැඩිච්ච පාරක දෙපැත්තේ ලොකු ගල් ගොඩවල් ගහාපුවාම වාහන යන්නේ කොහෙන්ද.. සැලසුම් සහාගත බව නම් අන්තිමයි.. නිසි බලධාරියෝ පිලියමක් කරත්වා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>polrilawa</author>
+            <date>2012-05-17 13:30:09</date>
+            <index>5</index>
+            <phrase>පොලිස්පති තුමනි මාර්ග නීති තද කරන්න. නිතිය ක්‍රියාත්මක කරන පාරේ ඉන්න සුදු පටි දාන අය සල්ලි ගන්න එකවලක් වන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-05-17 13:32:14</date>
+            <index>6</index>
+            <phrase>ඇස්පේන්නේ නැති අයට රියදුරැ බලපත‍් දුන්නහම ඔහොම තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-05-17 14:15:52</date>
+            <index>7</index>
+            <phrase>කාපට් දාන්න ඕනි රස්නෙ පිටමයි.නිවිල දාල වැඩක් නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-17 14:25:54</date>
+            <index>8</index>
+            <phrase>මේ හැමදේටම ප්‍රශ්ණේ වාහන ප්‍රශ්ණනේ? අපේ අත්තල මුත්තල ගියාවගේ පයින්යන්කො. එතකොට ඔය ප්‍රශ්න මුකුත් නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එන්</author>
+            <date>2012-05-17 14:49:47</date>
+            <index>9</index>
+            <phrase>පාරවල් හදන බඩු මෙහෙම දාන එක ආරක්ෂාවට තර්ජනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හනුමා</author>
+            <date>2012-05-17 14:50:13</date>
+            <index>10</index>
+            <phrase>මේවා හැමදාම වෙනවා.මේවාට නිසි පියවර ගන්න කියලා කොච්චර කිවුවත් වැඩක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-05-17 15:49:24</date>
+            <index>11</index>
+            <phrase>හපෝ මේක ඇත්ත තමයි.මාර්ග සංවර්ධනේ අයගේ නොසැළකිල්ල නිසා මේ වගේ ගල්,තාර ගෙනත් දානවා.මමත් දවසක් අනතුරකට ලක් වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ජී</author>
+            <date>2012-05-17 15:48:10</date>
+            <index>12</index>
+            <phrase>සුදු ඉර ලගට එනකන්ම කපට් ගොඩගහල.ඉතින් ඒ පැත්තෙන් යන අය අනතුරට පත්වෙන එක අහන්නත් දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමාල් තීක්ෂණ</author>
+            <date>2012-05-17 16:26:25</date>
+            <index>13</index>
+            <phrase>තාර දාල තියෙන්නෙ පාර මැද්දෙනෙ!! බලන්න සුදු ඉර තියෙන තැන. වැරද්ද රියදුරන්ගෙ විතරක් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-05-17 16:35:19</date>
+            <index>14</index>
+            <phrase>එලියක් තියෙන තැනක මේවා බෑවනම් ඉවරනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්-saudi</author>
+            <date>2012-05-17 16:47:53</date>
+            <index>15</index>
+            <phrase>මෙච්චර ඉඩ තියෙන පාරේ අනතුරු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා ගොයියා</author>
+            <date>2012-05-17 17:30:42</date>
+            <index>16</index>
+            <phrase>රෑට පාරේ තියෙන තාර පේන්නේ සත්තුන්ට විතරනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්ලෑරන්ස්-ඉතාලිය.</author>
+            <date>2012-05-17 19:42:41</date>
+            <index>17</index>
+            <phrase>අනතුරට පත්වෙච්ච අයගෙ කිසිම වරදක් නෑහෑ.මොන මෝඩයාද පාර මෑද්දට වෙන්න ගල් ගොඩ ගහන්නේ.මිනි මරන වෑඩ කරලා තියෙන්නෙ පාර හදන්න,ගල් ගෙනාපු මිනිස්සු.මෙතන ලයිසන් ඒකෙ ප්‍රශ්නයක් නෑහෑ.මේවා පිට රටක උනානම් ලක්ශ ගනන්,වන්දි ගෙවන්න වෙනවා අනතුරට පත්වෙච්ච අයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

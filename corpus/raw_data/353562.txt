@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>353562</articleId>
+    <title>මව කිඹූල් කටින් බේරූ පුතාට කතානායකගෙන් උපහාර</title>
+    <author>ඩයනා උදයංගනී</author>
+    <date>2015 ඔක්තෝබර් මස 09 18:34:52</date>
+    <body>කලාඔයේ දිය නාමින් සිටියදී කිඹුලකුට බිලිවීමට ගිය තම මව බේරාගත් අනුරාධපුර  සේනපුර පදිංචි රොමේෂ් මධුවන්ත තරුණයාගේ වීරක‍්‍රියාව අගය කරමින්  කතානායක කරු ජයසූරිය මහතා ඔහුට තෑගි පිරිනැමීය.  පාර්ලිමේන්තුව නැරඹීමේ විශේෂ අවස්ථාවක් ද ලබාදුන්නේය.
+ඔහුගේ මවගේ දකුණු පාදයට කිඹුලාගේ ග‍්‍රහණයෙන් හානි සිදුවීම නිසා එම පාදය ඉවත් කර මේ වන විට කුරුණෑගල රෝහලේ ප‍්‍රතිකාර ලබමින් සිටීයි.</body>
+    <comments>
+        <comment>
+            <author>සුමනපාල</author>
+            <date>2015-10-09 13:02:21</date>
+            <index>0</index>
+            <phrase>ඉතා හොඳ දෙයක්. මේ වගේ වීර ක්‍රියා ලංකාවේ අහන්න ලැබුනට වෙන රටවල වෙන්නේ නෑ. තවමත් සංස්කෘතිය ටිකක් හරි රැකිලා තියන එක ගැන සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදී</author>
+            <date>2015-10-09 13:18:54</date>
+            <index>1</index>
+            <phrase>පිට රටකට ගිහින් තියෙනවද? තමන්ගේ ජාතිය අගය කිරීම හොඳයි. නමුත් නොදන්නා දේ කියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2015-10-09 14:15:39</date>
+            <index>2</index>
+            <phrase>එම දරුවට රජයේ හොඳ රැකියාවක් ලබා දුන්නනම් තෑගි වලට වඩා වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2015-10-10 01:14:11</date>
+            <index>3</index>
+            <phrase>බුදු පුතෙක් ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

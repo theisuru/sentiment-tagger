@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>212318</articleId>
+    <title>දැයට කිරුළ දෙවන දිනය</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 පෙබරවාරි මස 23 01:54:21</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-02-27 03:52:06</date>
+            <index>0</index>
+            <phrase>දැයට කිරුළු පළන්දන්නේ කොහොමද ජාතියට ඔලුවක් නැති කොට? අමන දේශපාලකයන් විසින් හිස සිඳිනු ලැබූ ජාතියේ කවන්ධ රූපයට ඔටුනු පලන්ඳන අන්දම මුළු ලොවක් බලා සිටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක බණ්ඩාර</author>
+            <date>2014-02-28 13:16:37</date>
+            <index>1</index>
+            <phrase>නියමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

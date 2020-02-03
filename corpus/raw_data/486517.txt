@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486517</articleId>
+    <title>අ'පුර - බදුලු රියදුරෝ පාරට බසිති</title>
+    <author>ප්‍රසාද් රුක්මාල්දයාරත්න ඇඹෝගම</author>
+    <date>2016 දෙසැම්බර් මස 02 11:08:38</date>
+    <body>මෙවර අයවැයෙන් වැඩි කරන ලද රුපියල් 25000 ක දඩය ඉවත් කරන ලෙස ඉල්ලා  ත්‍රීරෝද,බස්,වෑන් හා ලොරි රියදුරෝ අද (2) බදුල්ල නගරයේ උද්ඝෝෂණයක් ඇරඹුහ. 
+අනුරාධපුර නගරයේ ද රියදුරෝ කළු පටි පැළද උද්ඝෝෂණයක් පවත්වති.
+
+ජායාරූප - ප්‍රසාද් රුක්මාල්
+
+ජායාරූප - දයාරත්න ඇඹෝගම</body>
+    <comments>
+        <comment>
+            <author>රවීන්</author>
+            <date>2016-12-02 05:58:20</date>
+            <index>0</index>
+            <phrase>සියලු පොදු ප්‍රවාහන සේවා ජනසතු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-12-02 06:13:04</date>
+            <index>1</index>
+            <phrase>බීමත්කම , ලයිසන් , රක්ෂණ වලට 25000 දඩ ගහන්න. වැරදි වලට තිත තබන්න . අනතුරු අඩු වෙලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-12-02 07:41:48</date>
+            <index>2</index>
+            <phrase>මුලික වැරදි 7ට 25000 ක මුදලක් දඩයක් කම් නැත. එය අපට වළක්වාගත හැකි වැරදි වේ. අවම දඩය රු25000 නුසුදුසු වන්නේ සමහර වැරදි අප නොදැනීම සිදුවන නිසාය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක සී</author>
+            <date>2016-12-02 09:22:48</date>
+            <index>3</index>
+            <phrase>අපේ රටේ ඉහලම අනතුරු , ත්‍රී වීලර් සහ පෞද්ගලික බස් රථ නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

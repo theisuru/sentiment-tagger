@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56734</articleId>
+    <title>බෙහෙත් නියෝජිතයනට උසාවියෙන් බෙහෙත්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අගෝස්තු මස 02 16:37:58</date>
+    <body>කොළඹ කොටුවේ වාහන හැසිරවීමේ රාජකාරියේ යෙදී සිටි කොස්තාපල්වරයාට පහරදී ගමන් කථනය පොලොවේ ගසා අලාභ හානි කළැයි ඖෂධ සමාගමක නියෝජිතයන් දෙදෙනකු වන වඩුගේ මධුෂ හා වඩුගේ ධනුෂ්ක යන දෙදෙනා ලබන 10 වැනිදා තෙක් කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා විසින් රිමාන්ඞ් කරනු ලැබූහ. ඔවුන් දෙදෙනා බීමත්ව සිටි බවට වෛද්‍ය වාර්තාවක්ද උසාවියට ඉදිරිපත් කැර තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-02 17:05:29</date>
+            <index>0</index>
+            <phrase>ඉතින් ඔය එක් කෙනෙකුට ගහපු එක හොදයිනේ. මේක වැරදි නම් අර කොහෙද කෙනෙක්ව මාරු කරපු වෙලාවේ රතිඤ්ඤා පත්තු කළ අයවත් හිරේ දාන්න ඕනැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ ජූඩ් යොහාන්</author>
+            <date>2012-08-02 18:57:19</date>
+            <index>1</index>
+            <phrase>උසාවියෙන් බෙහෙත් දෙනෙ එක හොදයි පොලිසියෙන් නොදී..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-08-02 19:04:31</date>
+            <index>2</index>
+            <phrase>දෑන් උන බෑහෑල ඈති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-02 22:01:01</date>
+            <index>3</index>
+            <phrase>අපි නොදන්න ‍පොලිසිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-08-02 22:39:03</date>
+            <index>4</index>
+            <phrase>අපරාදෙ පොලිසියට තිබුණේ මේ වගේ අයට හොද බෙහෙතක් දෙන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-03 09:19:03</date>
+            <index>5</index>
+            <phrase>අපි දන්නේ නැහැනේ රාළහාමි මොනවගේ වැඩක් කළාද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-03 13:56:38</date>
+            <index>6</index>
+            <phrase>සුදුසු දඩුවමක් නොදී නම් නිදහස් කරන්න එහෙම එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-03 15:27:54</date>
+            <index>7</index>
+            <phrase>ඖෂධ සමාගම්වල නියෝජිතයින් රජයේ රෝහල්වල නීති විරෝධී ලෙස රැඳී සිටිමින් වෛද්‍යවරුන්ට රෝගීන් වෙනුවෙන් ගතකිරීමට තිබෙන කාලය පැහැරගැනීම වැළැක්වීමට සෞඛ්‍ය අමාත්‍යංශය ළඟදී නීතියක් පැනවුවා. එහෙත් මොවුන් අනවශ්‍ය ලෙස රෝහල්වල බෙහෙත් මිලදී ගැනීමේ රාජකාරි වලට තවමත් මැදිහත් වෙමින් සිටින්නේ විශේෂඥ වෛද්‍ය වරුන්ගේද හයියත් රැගෙන බව කණගාටුවෙන් වුවද කිව යුතුයි. මෙයටත් උසාවියෙන්ම බෙහෙත් දීමට බලධාරීන් උනන්දුවේ නම් අගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

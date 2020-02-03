@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23733</articleId>
+    <title>රට නිළියගෙන් කෝටි 10ක් ඉල්ලයි</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 26 20:00:30</date>
+    <body>ජිලියන් ඇන්ඩර්සන් නම් හොලිවුඞ් නිලියගේ රුපියල් එක්කෝටි හැත්තෑ අට ලක්‍ෂයක් වංචා කළැයි නඩුවකට මුහුණ දෙන  ආබාධිත හා විශ‍්‍රාමික කපිතාන් යක්කල පදිංචි අනුර රත්න බණ්ඩාර  නිළියගෙන්ද ඇගේ සැමියාගෙන්ද ශ්‍රී ලාංකිකයකුගෙන්ද රුපියල් දස කෝටියක වන්දි ඉල්ලා කොළඹ වාණිජ  අධිකරණයේ නඩු පවරා ඇතැයි කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා ඉදිරියේදී අද සඳහන් විය.
+එම නිළියගේ පස්යාලේ වත්තට විදුලිය ගැනීම සඳහා දුන් මුදල් වංචා කළැයි කපිතාන්ට එරෙහිව එම නිළිය කොළඹ කොටුව උසාවියේ නඩු පවරා ඇත.</body>
+    <comments>
+        <comment>
+            <author>pereraaabp</author>
+            <date>2012-01-26 23:14:34</date>
+            <index>0</index>
+            <phrase>රජ බඩුවක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරුවින්</author>
+            <date>2012-01-27 09:15:57</date>
+            <index>1</index>
+            <phrase>විශ්වාසවන්තව බලාගන්ඩ දුන්නු දේපොළ වංචා කරලා රටේ නමත් කැත කරලා හිරබත් කන ගමන් ලැජ්ජා නැතුව තව වන්දි ඉල්ලලා නඩුවකුත් දාල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Chandirod</author>
+            <date>2012-01-27 16:47:55</date>
+            <index>2</index>
+            <phrase>තම්ගේ රටේ නම කන මේ වාගේ අයව රටින් පිට කරන්න ඕනේ. හාමුදාවේ හිටිය කියන එකටත් කැතයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2012-01-27 18:17:39</date>
+            <index>3</index>
+            <phrase>‘තම්ගේ රටේ නම කන මේ වාගේ අයව රටින් පිට කරන්න ඕනේ.‘ -කොයි රටටද???? ඇයි ඒ රටවලුත් කන්නද???-</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-01-28 07:50:42</date>
+            <index>4</index>
+            <phrase>හමුදාවේ නම කැත කරන්න කල දෙයක් වනේන පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

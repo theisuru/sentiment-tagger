@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>293540</articleId>
+    <title>වත්තල ප්‍රා සභා බිමේ ගුටි කෙළියක්</title>
+    <author></author>
+    <date>2015 ජනවාරි මස 30 13:57:27</date>
+    <body>වත්තල ප්‍රාදේශීය සභා රැස්වීම අවසානයේ සභාපති ඇතුළු මන්ත්‍රීවරු  සිව් දෙනෙක් වත්තල ප්‍රාදේශීය සභා භූමියේ දී පහර කෑමට ලක්වී රාගම රෝහලට ඇතුළත් කරනු ලැබූහ.
+වත්තල ප්‍රාදේශීය සභාවේ සභාපති ත්‍යාගරත්න අල්විස්, මන්ත්‍රීවරුන් වන සනත් පියසිරි, යොහාන් සජිත් ද සිල්වා සහ සංජීව නිශාන් ඊට ලක්වූහ.
+හිටපු පළාත් සභා මන්ත්‍රීවරයකුට සහ වත්තල ප්‍රාදේශීය සභා මන්ත්‍රීවරයකුට ප්‍රහාරය සම්බන්ධයෙන් චෝදනා එල්ල වී ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>නදීක</author>
+            <date>2015-01-30 09:00:44</date>
+            <index>0</index>
+            <phrase>මේ ඉන්න ඔක්කොම හොදම හොරු වගේ . ගමට දැනෙන කිසිම දෙයක් කරලා නැහැ. එක අතකින් මෙහෙම වෙන එක අහන්න දෙයක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2015-01-30 09:12:43</date>
+            <index>1</index>
+            <phrase>පුදුම වෙන්න දෙයක් නෑ මෙහෙම වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2015-02-03 07:20:18</date>
+            <index>2</index>
+            <phrase>මුන් ඔක්කොම හොරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

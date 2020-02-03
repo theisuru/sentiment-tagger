@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475232</articleId>
+    <title>ප්‍රදේශ කිහිපයකට විදුලිය නෑ</title>
+    <author></author>
+    <date>2016 නොවැම්බර් මස 01 21:13:58</date>
+    <body>දිවයිනේ ප්‍රදේශ කිහිපයකින් විදුලිය විසන්ධිවීම් වාර්තා වූ බව විදුලිබල මණ්ඩලය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-11-01 17:52:39</date>
+            <index>0</index>
+            <phrase>මොකක්ද දන්නෙ නැහැ නේද ප්‍රශ්නය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-11-02 00:54:01</date>
+            <index>1</index>
+            <phrase>අර නොරොච්චෝලේ ආපහු නැවතිලාද? අනේ මෙහෙම රටක්! ඕක ගත්ත හැටි, කොමිස් ගැන, ඕකේ තත්වය ගැන තියන කතා ඇත්ත වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-11-02 00:59:26</date>
+            <index>2</index>
+            <phrase>ආයෙමත් නොරොච්චෝලේ විදුලි උත්පාදන යන්ත්‍ර කොටඋඩද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-02 01:35:44</date>
+            <index>3</index>
+            <phrase>ඇමතිවරුන්ගේ ගෙවල් වලටත් මේ දිනවල විදුලිය විසන්ධි වෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල</author>
+            <date>2016-11-02 02:07:54</date>
+            <index>4</index>
+            <phrase>විදුලිබල මණ්ඩලයවත් හරියට කියන්න දන්නෙ නැතුව ඇති හේතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-02 07:38:39</date>
+            <index>5</index>
+            <phrase>ජයලත් ගිය ආණ්ඩුවෙන් කැඩෙන්න හරි නොරොච්චෝලේ හැදුවා. මේ ආණ්ඩුවෙන් කරන්නේ හදන ඒවා නවත්වන එකනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

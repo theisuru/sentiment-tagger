@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42415</articleId>
+    <title>ගෑස් නළය පිපිරී 23 රෝහලේ</title>
+    <author>රවීන්ද්‍ර ලියනගේ/ හියුබට් ප්‍රනාන්දු</author>
+    <date>2012 මැයි මස 15 16:47:57</date>
+    <body>දංකොටුව හාල්දඬුවන කම්හලක ගෑස් නළයක් පිපිරී සේවයෝ 23 දෙනෙක් රෝහල් ගත කරනු ලැබූහ.
+මේ කම්හල මුහුදු ආහාර එතෙර යවයි.</body>
+    <comments>
+        <comment>
+            <author>රංජිත් මංජුල, ඉතාලි සිට</author>
+            <date>2012-05-15 20:34:21</date>
+            <index>0</index>
+            <phrase>පවු කිසිම ගෑස් එකක් නැති අහිංසක නංගිලා ටිකක්. සියළු දෙනාටම ඉක්මන් සුවය පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 21:25:57</date>
+            <index>1</index>
+            <phrase>ගෑස් කියන්නේ වායුවක්.ඒක එක්ක කටයුතු කරන්න ඕන අර පරෙස්සමින් නැතිනම් අනිවාර්යෙන්ම විශාල ජීවිත හානි වුනත් සිදුවෙන්න පුළුවන්. දැන් කොහොම හරි මේ පිරිසට යම් කරදරයක් වුනා. ඒක හරිගස්සන්න දැන් නොහැකි වුනත් සිදුවී ඇති කරදරය වෙනුවෙන් සුදුසු වන්දියක් අදාළ ආයතනය මඟින් සේවක සේවිකාවන් වෙත ලබාදිය යුතු යැයි සිතේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2012-05-16 03:06:37</date>
+            <index>2</index>
+            <phrase>පේනවා නේද අපේ සෞඛ්‍ය සේවා වල තත්ත්වය.එක ඇදේ ලෙඩ්ඩු කී දෙනෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේම්-කොරියා</author>
+            <date>2012-05-16 05:38:23</date>
+            <index>3</index>
+            <phrase>අනේ අපොයි.අපේ රටේ ඉන්න පිටිසර දුප්පත් අක්කල ,මේවායේ ඇති අනාරක්ශාව ගැන බලධාරීන් සොයා බැලිය යුතුයි.ඔබලාට ඉක්මන් සුවය පතමි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-16 06:06:31</date>
+            <index>4</index>
+            <phrase>ගෑස් ගණන් කාලේ, හම්බවෙච්ච ගෑස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

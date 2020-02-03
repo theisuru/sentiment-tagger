@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53685</articleId>
+    <title>දිවි පිදුවෝ සැමරෙති</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජූලි මස 16 13:43:34</date>
+    <body>බන්ධනාගාර සේවයේ යෙදී සිටියදී මිය ගිය නිලධරයන් සිහිකිරීමේ ”බන්ධනාගාර දිනය” වැලිකඩ බන්ධනාගාරයේදී පුනුරුත්ථාපන හා බන්ධනාගාර ප‍්‍රතිසංස්කරණ අමාත්‍ය චන්ද්‍රසිරි ගජදීර මහතාගේ ප‍්‍රධානත්වයෙන් පැවැත්විණි.
+බන්ධනාගාර නිලධාරීන් එකොළොස් දෙනෙක් මේ වන විට රාජකාරිය වෙනුවෙන් දිවි පිදුහ. අමැති ද බන්ධනාගාර කොමසාරිස් පී. ඩබ්ලිව්. කොඩිප්පිලි මහතා ද දිවි පිදුවන්ගේ නෑදෑයෝ ද බන්ධනාගාර විරු ස්මාකරයට මල් තබා උපහාර දැක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-07-16 14:35:19</date>
+            <index>0</index>
+            <phrase>මිය ගිය නිලධාරින් විතරද? එතකොට මියගිය හිරකරුවන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-07-16 15:26:00</date>
+            <index>1</index>
+            <phrase>බන්ධනාගාර තුලදී සිරකරුවන් කීදෙනෙක් මැරෙන්න ඇතිද ? එම අයත් සිහිකරනම් හොඳ නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුන්ච</author>
+            <date>2012-07-16 16:22:37</date>
+            <index>2</index>
+            <phrase>ගොඩක් හොද දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2012-07-17 05:09:45</date>
+            <index>3</index>
+            <phrase>පාටියක් එහෙම දුන්නේ නැති එක ගැන පුදුමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-17 10:19:56</date>
+            <index>4</index>
+            <phrase>බොහොම හොඳයි ..මෙහෙම කරහම ඒ නිලධාරීන්ට උනත් අමුතු පණක් ලැබෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

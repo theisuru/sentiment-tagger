@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461192</articleId>
+    <title>වීරවංශ අදත් එෆ්සීඅයිඩියේ</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 සැප්තැම්බර් මස 26 10:31:03</date>
+    <body>මහින්ද රාජපක්ෂ පාලන සමයේ ජනාධිපති කාර්යාලයේ වාහන අවභාවිත කළැයි කියන සිද්ධියක් සම්බන්ධයෙන් හිටපු ඇමැති විමල් වීරවංශ අදත් (26) පොලිස් මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසයට කැඳවනු ලැබ සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-09-26 05:51:46</date>
+            <index>0</index>
+            <phrase>අද නම් වැඩේ කෙරෙයි වගේ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-09-26 05:56:19</date>
+            <index>1</index>
+            <phrase>වැරැදි කරානම් දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-09-26 06:36:05</date>
+            <index>2</index>
+            <phrase>අද නම් මෙයා හිර කුඩුවේ දාන්නම වෙනවා , මොකද උතුරේ මහ ඇමති ඊයේ ප්‍රකාශ කරපු ඉල්ලීම වලට විරුද්ධව කටයුතු කරන දකුණේ එකම ප්‍රබල නායකත්වය මොහු නිසා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-26 06:42:17</date>
+            <index>3</index>
+            <phrase>මට පේන විදියට නම් ඒකාබද්ධ විපක්ෂයේ කට්ටියට, ඔය කිට්ටුවෙන් ගෙවල් ලබා දුන්නොත් හොදයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-09-26 06:45:06</date>
+            <index>4</index>
+            <phrase>වාහන විතරමද අවභාවිතා කරලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-09-26 07:04:46</date>
+            <index>5</index>
+            <phrase>එදත් සූරයා අදත් සූරයා ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-09-26 07:25:55</date>
+            <index>6</index>
+            <phrase>රටට කිසිම සේවයක් නොකළ තමන්ට සේවයක් කරගත්ත පුද්ගලයෙකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2016-09-26 07:58:33</date>
+            <index>7</index>
+            <phrase>ඇතැම් හොරු සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක වන්නේ කෙසේදැයි ගැටලුවකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-09-27 00:54:12</date>
+            <index>8</index>
+            <phrase>අපි බලමු මොකද වෙන්නේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

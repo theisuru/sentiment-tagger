@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46809</articleId>
+    <title>විරෝධතා ගොනු කිරීමට අවසර</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 ජූනි මස 06 16:56:05</date>
+    <body>ලන්ඩනයේ ඔලිම්පික් ක්‍රීඩා උළෙල විකාශනය කිරීමේ අයිතිය සම්බන්ධයෙන් රූපවාහිනී සංස්ථාව එම්.බී.සී. හා එම්.ටී.වී. රූපවාහිනී ආයතනවලට එරෙහිව ලබාගත් අතුරු තහනම ගැන ප්‍රතිඋත්තර බැඳීමට කොළඹ වානිජ මහාධිකරණය අවසර දුන්නේය. ජුනි 8 වැනිදා විරෝධතා මතු කරන ලෙසත් ජුනි 13 වැනි දා ලිඛිත කරුණු දක්වන ලෙසත් වානිජ මහාධිකරණ විනිසුරු ගාමිණී අමරසේකර මහතා එම ආයතනවලට දැන්වීය.</body>
+    <comments>
+        <comment>
+            <author>රුහුණු පුතා</author>
+            <date>2012-06-06 21:27:15</date>
+            <index>0</index>
+            <phrase>සිරසට නම් දෙන්න එපා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-06 22:09:11</date>
+            <index>1</index>
+            <phrase>රූපවාහිනියේ පෙන්නවානම් අපිත් කැමතියි ලස්සනට බලන්න පුළුවන් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමා</author>
+            <date>2012-06-06 23:22:02</date>
+            <index>2</index>
+            <phrase>සිරසට නම් දෙන්න එපා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-06-06 23:27:30</date>
+            <index>3</index>
+            <phrase>කාට දුන්නත් රූපවාහිනියෙන් තමයි බලන්න වෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-07 06:50:08</date>
+            <index>4</index>
+            <phrase>අපිට කවුරු පෙන්නුවත් එකයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-06-07 07:02:16</date>
+            <index>5</index>
+            <phrase>රූපවාහිනියේ පින්තූර සහ හඩ වල කොලිටිය වෙන කිසිම නාලිකාවක නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2012-06-07 07:16:19</date>
+            <index>6</index>
+            <phrase>අපි හැමෝම ආස රූපවාහිනියෙන් බලන්න.සිරසට දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2012-06-07 07:19:39</date>
+            <index>7</index>
+            <phrase>මෝඩයි නේ........ දෙගොල්ලන්ටම සහයෝගයෙන් පෙන්නන්න තිබුණා.ගොඩක් ඉවෙන්ට්ස් තියෙනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාචාර්ය අජිත්</author>
+            <date>2012-06-07 07:34:27</date>
+            <index>8</index>
+            <phrase>මේ දෙකේම තියෙන්නෙ පරණ රූප තාක්ෂනයක්. අලුත් ටිවී වල පින්තූර බොඳ වෙනව. මේ දෙකටම දෙන්ඩ එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-06-07 10:10:26</date>
+            <index>9</index>
+            <phrase>මේක ව්‍යාපාරයක්.. සිරස ‍ලොකු ගානක් දීලා රෑපවාහිනියට වැඩිය.. ඒකයි අපිටනම් ‍තේරෙන දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-06-07 11:33:13</date>
+            <index>10</index>
+            <phrase>එතකොට CSN එකට තහනම නැද්ද?? අපි නොදන්න චෙස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනේ මන්ද..</author>
+            <date>2012-06-07 12:23:20</date>
+            <index>11</index>
+            <phrase>අනේ මන්ද.. අපේ එවුන්ට ඔලිම්පික් වලට ගිහින් එක පදක්කමක් ගන්න බෑ..ක්‍රීඩාව හැමදාම පිරිහෙනව.. අඩුම තරමෙ දැන් සාර්ක් එකේවත් හරියට සෙල්ලම් කරගන්න බෑ..ඒ උනාට ඔලිම්පික් පෙන්නන්නනම් පොරකනව..විලි ලැජ්ජාවෙ බෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

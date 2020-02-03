@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15629</articleId>
+    <title>ගේ‍්‍රරු ගියාට පොල් ගසති</title>
+    <author>රේඛා තරංගනී පොන්සේකා</author>
+    <date>2011 දෙසැම්බර් මස 02 16:17:36</date>
+    <body>එක්සත් ජාතික පක්ෂයෙන් රජයට ගිය කොළඹ දිසා මන්ත‍්‍රී මොහාන් ලාල් ගේ‍්‍රරු මහතාට විරෝධය පළ කිරීමේ උද්ඝෝෂණයක් රත්මලානේ ඔහුගේ පක්ෂ කාර්යාලය ඉදිරිපිට පැවැත්විණි.
+එක්සත් ජාතික පාක්ෂිකයෝ පොල් ගසා, පෙළපාළි ද ගොස් ඔහුට විරෝධය පළ කළහ. පොලිස් කැරැලි මර්දන අංශය ජල ප‍්‍රහාරක රථද සමග එහි පැමිණ සූදානමින් සිටියේය. මිනිත්තු හතළිස් පහකට පසුව උද්ඝෝෂකයෝ විසිර ගියහ.
+දෙහිවල ගල්කිස්ස නගර සභාවේ විපක්ෂ නායිකා සුනේත‍්‍රා රණසිංහ මහත්මිය ඇතුළු නාගරික මන්ත‍්‍රීවරු පිරිසක් ද ඊට එක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>අජිත්</author>
+            <date>2011-12-02 16:52:42</date>
+            <index>0</index>
+            <phrase>අන්තො ජඨා -බහි ජඨා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2011-12-02 16:53:18</date>
+            <index>1</index>
+            <phrase>මොන එහෙකටද මෙ "බුදු රැස් " කියන වචනෙ ගාව ගන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2011-12-02 20:26:07</date>
+            <index>2</index>
+            <phrase>මෙයාලට පිස්සු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂින්</author>
+            <date>2011-12-02 20:50:52</date>
+            <index>3</index>
+            <phrase>ගේ‍්‍රරු මහතාට ඕනැ රටට වැඩක් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2011-12-02 21:40:02</date>
+            <index>4</index>
+            <phrase>අනේ බුදුහාමුදුරුවන් මේකට ගාව ගන්න එපා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩිඑකා</author>
+            <date>2011-12-02 23:20:22</date>
+            <index>5</index>
+            <phrase>පොල්වලට වඩා ඔය වගේ හිත් අමාරුවලට හොද ගල්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆ්රාස්</author>
+            <date>2011-12-15 20:27:39</date>
+            <index>6</index>
+            <phrase>අලියගෙන් පනින පනින පාරට පොල් ගැහුවොත් තව කුරුණෑගලක් ඕන වෙනවා. පොල් ගහල වැඩක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

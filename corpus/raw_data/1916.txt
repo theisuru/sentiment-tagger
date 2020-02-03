@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>1916</articleId>
+    <title>දියමත ලිස්සා යන්න ආරුගම්බේට ඇවිත්</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 සැප්තැම්බර් මස 01 15:44:55</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>නලින්</author>
+            <date>2011-09-08 06:50:00</date>
+            <index>0</index>
+            <phrase>වටිනා පුවත් පළකරන්න වීඩියෝ දර්ෂන ඇතුල් කිරීම ඉතා අගයකොට සලකමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

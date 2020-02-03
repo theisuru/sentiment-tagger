@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>409039</articleId>
+    <title>සෞදි නැගෙනහිර ශ්‍රී ලංකා පාසලට අයදුම් පත් බාර ගැනේ</title>
+    <author>ලලිත් ප්‍රේමලාල්</author>
+    <date>2016 අපේ‍්‍රල් මස 26 16:22:18</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>යසපාල</author>
+            <date>2016-04-26 19:59:40</date>
+            <index>0</index>
+            <phrase>හොඳ දැනුවත් කිරීමක්. ලංකාදීපයට ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෆීර්</author>
+            <date>2016-05-03 01:10:43</date>
+            <index>1</index>
+            <phrase>සල්ලි තිබෙන ළමුන්ට කොහොමත් වරම් ලැබෙනවා. නමුත් රටේ බොහෝ උදවිය නැතිබැරිකම් වලින් මිදී නොමැත. ලංකාවේ සමහර සුපිරි රාජ්‍ය පාසල් පවා එහෙමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>188720</articleId>
+    <title>මෙන්න අමුත්තෙක් ඇවිත් මෙයා තමයි කරපිංචා කොළයා...</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 නොවැම්බර් මස 26 10:27:30</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-11-26 20:02:08</date>
+            <index>0</index>
+            <phrase>අපි නම් කියන්නේ දෙහි කොලය කියලයි මොකද හැඩයෙන් හා ප්‍රමාණයෙන් සමාන නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2013-11-26 20:05:16</date>
+            <index>1</index>
+            <phrase>මෙය කලාතුරකින් සිදුවන (විරල) දෙයකි . බොහෝවිට මුල් අවස්තාවේ මෙම සතාගේ අග කෙලවර (කුඩාකොලය) කරපිංචා ඉත්තෙ ලොකු නාරටියට සම්බන්ද වී පවතියි . කෙනෙකුට කීවත් විස්වාස නොකරයි . මුල් දිනවල ආහාර ගන්නේ කරපිංචා ගසෙනි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වන්නි තිලක්</author>
+            <date>2013-11-27 04:48:15</date>
+            <index>2</index>
+            <phrase>සමන්ති, ඔබේ නිරීක්ෂණය වැරදියි. මේ කෘමියා බිත්තර මගින් බෝ වෙන විලෝපීය හෙවත් වෙනත් කෘමීන් ආහාරයට ගන්න සැබෑ ජීවියෙක්. ගසකින් බිහිවෙන කතාව වැරදි විශ්වාසයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2013-11-27 19:47:17</date>
+            <index>3</index>
+            <phrase>තිලක් ඔබ "කලමිධමොනාස්" (කුලය- clamydomonadoceae , වර්ගය - clamidomonas ) දැක තිබේද? සුර්ය ආලෝකයෙන් ආහාර ලබාගන්නා නිසල ජලයේ පිහිනායන පැලෑටියකි පිහිනාගීයාට සතෙක් නොවේ . ඉතා කුඩාය. අන්වීක්ෂයකින් බැලිය යුතුය . අපි නොදන්නවාට පරිසරය පරීක්ෂා කිරීමෙන් බොහෝ දේවල් නිරීක්ෂනය කල හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වන්නිතිලක්</author>
+            <date>2013-11-28 00:06:50</date>
+            <index>4</index>
+            <phrase>ස්තුතියි සමන්ති! හැබැයි මේ රූපයේ සිටින කෘමියා සතෙක්. කොළ දුඹුරු වැනි වර්ණ කිහිපයකින් හා ලොකු පොඩි උප විශේෂ ගණනකින් යුතු සර්ව ව්‍යාප්ත සතුන් වර්ගයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩී දයාරත්න - ඕස්ට්‍රේලියාව</author>
+            <date>2013-12-01 15:39:03</date>
+            <index>5</index>
+            <phrase>මම පුංචිම දවස්වල නිමිනන් ගසක් තිබුනා මිදුලේ. ඒකේ ඔය සත්තු හිටියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2013-12-05 02:19:50</date>
+            <index>6</index>
+            <phrase>එක එක ගස් වර්ගවල ඒ ඒ ගස්වල කොළ වල හැඩයට මේ සතුන් හැදෙනවා. පේර කොළවල හැඩයට, දෙහිකොලේ හැඩයට, රඹුටන් කොළයේ හැඩයට. ඒ ඒ ගස්වල හැටියට. දෙළුම් ගස්වල නම් එහි නටුවේ හැඩයටත් හැදෙනවා.නමුත් කොහොමද හැදෙන්නේ කියන්න නම් අපි දන්නේ නැහැ. දැකලා තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

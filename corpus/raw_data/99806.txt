@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>99806</articleId>
+    <title>කොල්ලුපිටිය අනතුරෙන් කාරය පොඩි පට්ටම්</title>
+    <author>ඉන්දික හඳුවල</author>
+    <date>2013 පෙබරවාරි මස 25 13:42:17</date>
+    <body>කොළඹ කොල්ලුපිටියේ සමුද්‍රාසන්න පාරේදී කාරයක් මින් මද වේලාවකට පෙර අනතුරකට පත් වී පොඩි පට්ටම් වී ගියේය. එහි සිටි දෙදෙනාගෙන් එක් අයකු මිය ගිය බව රෝහල් ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>මෝරාළ</author>
+            <date>2013-02-25 14:14:03</date>
+            <index>0</index>
+            <phrase>ඔය කාර් එකේ නොම්මරය පෙන්නන්නකෝ. මොකද කාර් එකක් ගනිද්දී අපිට අනතුරට පත් කාර් එකක් ගැනීමේ අවදානමෙන් එතකොට මිදෙන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-02-25 14:30:11</date>
+            <index>1</index>
+            <phrase>ගෙදරට බොරු කරලා ආව ගමනක්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2013-02-25 14:48:26</date>
+            <index>2</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-25 14:45:35</date>
+            <index>3</index>
+            <phrase>තමන් ගැන විශ්වාසයක් නැති නිසයි මේ වගේ අනතුරු වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2013-02-25 14:50:45</date>
+            <index>4</index>
+            <phrase>මගී බස්වල තිරිංග ලෙඩේ දැන් කාර් වලටත් ඇවිල්ල වගේ ! හැප්පිලා තියෙන විදිහට හිටපු දෙන්නා හොඳ සනීපෙන් ඇති වගේ!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2013-02-25 14:47:53</date>
+            <index>5</index>
+            <phrase>ඕවා ඔහොම තමයි වාහන හැප්පෙනවා. වැඩිය ගණන් ගන්න එපා. ප්‍රවෘත්තිය බැලුවා අමතක කරා. ප්‍රශ්නයක් කරගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-02-25 14:51:53</date>
+            <index>6</index>
+            <phrase>මේකේ ගමන් කළ අයට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-02-25 15:15:14</date>
+            <index>7</index>
+            <phrase>මොරාල... ! ඔළුවට ගෝනියක් දාලා බලන්න එතකොට නොම්මරය පෙනෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-25 15:38:00</date>
+            <index>8</index>
+            <phrase>මෝරාළ අම්බලන්ගොඩද ගම අනේ මන්ද එතකොට ඇතුලේ හිටපු දෙන්නා ??? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූම්</author>
+            <date>2013-02-25 18:47:22</date>
+            <index>9</index>
+            <phrase>ගොඩක් හිමින් ඇවිල්ල වගේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-02-25 22:06:09</date>
+            <index>10</index>
+            <phrase>අනිත් පැත්තේ ආපු කෙනත් එක්ක ගොඩක් තරහින් ඉදල වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2013-02-25 23:01:09</date>
+            <index>11</index>
+            <phrase>දැන් ඉතින් වෙන්න ඕනෑ දේ වෙලා ඉවරනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-02-26 12:42:23</date>
+            <index>12</index>
+            <phrase>මෙතන මොකක් හරි රහසක් තියෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-02-26 13:08:33</date>
+            <index>13</index>
+            <phrase>කුමාරගේ කථාව ටිකක් විතර හරි වගේ දෙන්නා එක්ක ඇතුලේ වලියක් වත් ගිහින්ද දන්නේ නෑ.? කියන්න බෑ නේ අද කාලේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2013-02-26 19:21:19</date>
+            <index>14</index>
+            <phrase>එයාර් බෑග් වලට මොකද වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

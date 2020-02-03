@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20912</articleId>
+    <title>ජපුර සරසවියත් වහයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 ජනවාරි මස 08 08:53:27</date>
+    <body>ජයවර්ධනපුර සරසවිය දින නියමයක් නැතිව වැසීමට බලධරයෝ තීරණය කළහ. එසේමුත් තම සත්‍යග්‍රහය දිගටම කරගෙන යන බව එහි මහා ශිෂ්‍ය සංගමයේ සාමාජික කිඹුල්ලෑවේ චන්ද්‍රානන්ද හිමියෝ කීහ.</body>
+    <comments>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2012-01-08 09:19:09</date>
+            <index>0</index>
+            <phrase>බයවන්න එපා.නිදහස් අධ්‍යාපනය එහෙම ලේසියෙන් වනසන්න බෑ.මොකද ඒ වෙනුවෙන් පෙනී හිටින්නෙ මේ රටේ බුද්ධිමත්ම පිරිස​.. එයලව රවටන්න බෑ.බයත් නැ...........අපි ඔක්කොම ඔයාල එක්ක​..............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2012-01-08 09:30:12</date>
+            <index>1</index>
+            <phrase>නියමයි... සුභපැතුම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>illama..</author>
+            <date>2012-01-08 09:57:26</date>
+            <index>2</index>
+            <phrase>වසා දොරගුළු යදම් සිර කර පවුරු බැන්දත් අප වටා අද දනිව් සුවහස් ජපුර සිසු හද නැගෙන බව එක තත්පරෙන්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dalu bana</author>
+            <date>2012-01-08 10:33:35</date>
+            <index>3</index>
+            <phrase>මේ රටේ බුද්ධිමත් පිරිස හැසිරේන විදිය හොඳ නැහැ. ජනතා විමුක්ති පෙරමුණ ඉත්තො වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-08 10:40:26</date>
+            <index>4</index>
+            <phrase>බංකොළොත් දේශපාන පක්ෂවලට කඩේ යන අය ඉන්න කල් හරි කාල සීමාවකින් උපාධිය අරන් සරසවියෙන් පිට වෙන්න බැහැ, නිදහස් ලංකාවක් තියෙන තුරු නිදහස් අධ්‍යාපනය නැති වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධිමතා</author>
+            <date>2012-01-08 11:18:35</date>
+            <index>5</index>
+            <phrase>නිදහස් අධ්‍යාපනය ලබන අය මෙම ක්‍රියා නිසා ඉගෙන නොගනිති. කෙසේ වෙතත් පුද්ගලික අධ්‍යාපනය ලබන අය අමාරුවෙන් ඉගෙනගනිති. නිදහස් අධ්‍යාපනය ලබන අයට වඩා පුද්ගලික අධ්‍යාපනය ලබන අය ඉක්මනින් සහ වැඩි දැනුමකින් උපාධිය ලබාගනිති. එමනිසා රැකියා තරගයේ දී නිදහස් අධ්‍යාපනය ලබන අයට වඩා ඉක්මනින් පුද්ගලික අධ්‍යාපනය ලබන අය රැකියා ලබා ගනිති . නිදහස් අධ්‍යාපනය ලබන්නන් ගෙවල්වලම සිටිති .. අවසානය තිත්ත උනත් ඇත්ත එයයි .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2012-01-08 16:18:01</date>
+            <index>6</index>
+            <phrase>විශ්ව විද්‍යාලයෙන් දේශපාලනය ඉවත් කරන තුරු මේ ප්‍රශ්න වල ඉවරයක් දකින්න ලැබෙන එකක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-01-09 04:23:48</date>
+            <index>7</index>
+            <phrase>රටක් දියුණු කරන්න නම් වැවිය යුත්තේ රැවුල නොව එළවළුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

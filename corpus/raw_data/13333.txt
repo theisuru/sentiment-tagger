@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>13333</articleId>
+    <title>ලංකාවේ නමත් රකී</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 නොවැම්බර් මස 16 17:57:18</date>
+    <body>හාම්පුතාගේ ගෙදරින් ඇඳුම් හා ආහාර සොරකම් කළැයි චෝදනා ලබා සිටි ශ්‍රී ලාංකික ගෘහ සේවිකාවක බහරේන් අධිකරණයකින් නිදොස් කොට නිදහස් කැර ඇතැයි තානාපති ආරංචි මාර්ග කියයි.</body>
+    <comments>
+        <comment>
+            <author>bsam</author>
+            <date>2011-11-16 19:04:30</date>
+            <index>0</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

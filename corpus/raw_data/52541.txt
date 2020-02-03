@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52541</articleId>
+    <title>ඖෂධ දූෂණ ගැන දූෂණ කොමිසමේ පැමිණිල්ලක්</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජූලි මස 10 11:49:44</date>
+    <body>සෞඛ්‍ය සේවාවේ පරිපාලකයින් හා විවිධ අධ්‍යක්ෂවරුන් විසින් කරන ලදැයි කියන ගනුදෙනු සම්බන්ධයෙන් හා ඖෂධ හා වෛද්‍ය සැපයීම් මිලදී ගැනීමේදී සිදුවූ දූෂණ වංචා පිළිබඳ වහා සොයා බලා පරීක්ෂණයක් කරන ලෙස ඉල්ලා සෞඛ්‍ය සේවා වෘත්තීය සමිති සම්මේලනය අද අල්ලස් හා දූෂණ වංචා කොමිසමට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+තමන් මෙම පැමිණිල්ල ලිඛිත සාක්කිද සමග ඉදිරිපත් කරන බව රජයේ මුදල් මෙලෙස නාස්ති කිරීම නිසා අසරණ රෝගීන්ට ලැබිය යුතු සහන නැතිවී ගිය බවත් සම්මේලනය කියයි.
+සෞඛ්‍ය සේවා වෘත්තීය සමිති සම්මේලනයේ කැඳවුම්කාර මණ්ඩලය වෙනුවෙන් හරේන්ද්‍ර කුරුප්පු, නජිත් සුමනසේන, උදේනි දසනායක, පී.එච්.ජී. දයානන්ද ඇතුළු මහත්වරු පිරිසක් පැමිණිල්ල ඉදිරිපත් කිරීමට පැමිණියහ.</body>
+    <comments>
+        <comment>
+            <author>නිදිකුම්බා</author>
+            <date>2012-07-10 12:00:03</date>
+            <index>0</index>
+            <phrase>කළ යුතු හොද වැඩක්.. මේ රටේ සියලුම දෙනා දුෂණයට හා නාස්තියට විරැද්ධව හඩක් නැගිය යුතුයි.. එයයි ජාති හිතෛශීභාවය කියන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උජිත</author>
+            <date>2012-07-10 12:53:00</date>
+            <index>1</index>
+            <phrase>අසරණ රෝගීන් වෙනුවෙන් පෙරමුණ ගත්තාට මාගේ ප්‍රණාමය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උජිත</author>
+            <date>2012-07-10 12:15:08</date>
+            <index>2</index>
+            <phrase>අහින්සක රෝගීන් වෙනුවෙන් පෙරමුණ ගත්තාට අපගේ ප්‍රණාමය......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-10 12:27:42</date>
+            <index>3</index>
+            <phrase>වැරදි කරුවන්ට දඩුවම් දෙනතෙක්ම ඉදිරියට යන්න..ඔබට ජය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසීර්</author>
+            <date>2012-07-10 13:37:43</date>
+            <index>4</index>
+            <phrase>ලෝක හොරු......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-10 13:40:39</date>
+            <index>5</index>
+            <phrase>බොරු උද්ඝෝෂණ කරනවට වඩා මෙහෙම කෙලින් වැඩ කරන එක ගැන මට නම් සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-10 13:23:09</date>
+            <index>6</index>
+            <phrase>බයවෙන්න එපා...හොරුටික අල්ලල දෙන්න....නිදහස් සෞඛය බේරාගනිමු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-07-10 13:28:32</date>
+            <index>7</index>
+            <phrase>ජාවාරම්කරුවන්ගෙන් රටේ නිදහස් සේවාවන් බේරා ගන්න පෙරට පැමිණි සෞඛ්‍ය සේවා වෘත්තිය සමිති සම්මේලනයට අපගේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-07-11 00:13:31</date>
+            <index>8</index>
+            <phrase>ඒ ගමන මොකක්ද මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

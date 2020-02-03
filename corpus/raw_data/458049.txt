@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458049</articleId>
+    <title>හොරෙන් ඉන්දියාවට යන්න ගිහින් අහුවෙයි</title>
+    <author>සිරාජ් හසීම්</author>
+    <date>2016 සැප්තැම්බර් මස 15 10:26:48</date>
+    <body>කොටි සංවිධානයේ සාමාජිකයකු බව කියන උතුරේ 41 හැවිරිදි අරූල් ජයරත්තිනම් හෙවත් රාජන් ඉන්දියාවට හොරෙන් ඇතුළුවන්නට තැත් කරද්දී ඉන්දියා වෙරළාරක්ෂක නිලධාරීන් විසින් අත්අඩංගුවට ගෙන රාමේෂ්වරන් මහේස්ත්‍රාත් වෙත ඉදිරිපත් කිරීමෙන් පසු රිමාන්ඩ් කරනු ලැබ සිටී.
+ඇමරිකා ඩොලර් දස ලක්ෂයක් (රුපියල් 1,45,42789) ඔහු ළඟ තිබී ඇතැයි කියති.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-09-15 05:28:03</date>
+            <index>0</index>
+            <phrase>ඉක්මණින්ම හෙළිවේවි මේ සල්ලි කාගේද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-09-15 05:54:52</date>
+            <index>1</index>
+            <phrase>ඔව් ඔව්, ඉන්දියාවට කොහොමහරි රිංගාත්තම මාස එකහමාරක් ව්තර යද්දී නවතින්න පුළුවන් කැනඩාව පැත්තේ. ඊළඟට ඩයස්පෝරාවත් සමඟ මෙයාල දන්නවා තව අවුරුදු දෙකකින් විතර නැවතත් හොඳට වැඩේට බහින්න පුලුවන් කියලා, මේ තියන වර්ප්‍රසාද දැක්කහම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජීව</author>
+            <date>2016-09-15 07:18:20</date>
+            <index>2</index>
+            <phrase>පුදුමයි ඉන්දියාවෙන් අත්අඩංගුවට ගත් එක. හිටපු කොටි සාමාජිකයෙක්? අනික සල්ලිත් ගොඩක් තිබිලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-09-15 07:24:21</date>
+            <index>3</index>
+            <phrase>නැවතත් වැඩේ පටන්ගන්න වෙන්න ඇති. අපේම සමහර අය දැන් දැන් සියලු පහසුකම් සපයනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-09-15 07:26:45</date>
+            <index>4</index>
+            <phrase>දැන් කාලේ නීතියේ ඇස් වහලා බේරෙන්න හරි අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-09-15 08:07:09</date>
+            <index>5</index>
+            <phrase>නැවතත් වැඩේ පටන්ගත්තොත් මහින්ද ජනාධිපති කරලා සරත් ෆොන්සේකාව හමුදාපති කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-15 08:47:22</date>
+            <index>6</index>
+            <phrase>මෙච්චර ඩොලර් ඉතින් ඇමෙරිකාවෙන්ම මිසක් වෙන කොහෙන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-15 08:55:47</date>
+            <index>7</index>
+            <phrase>සජීව, දන්නවනේ ඉන්දියාවේ පොලිසිය, අපේ අයට හපන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

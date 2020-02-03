@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>32976</articleId>
+    <title>මන්ත්‍රී බිරියගේ රන්බඩු පිල්ලි ගිහින්</title>
+    <author>සම්පත් බාලසුරිය</author>
+    <date>2012 මාර්තු මස 23 12:52:38</date>
+    <body>කුරුණෑගල දිස්ත්‍රික් මන්ත්‍රී නිමල් විජේසිංහ මහතාගේ බිරියට අයත් රුපියල් දස ලක්ෂයක පමණ රන්බඩු සොරාගත් බව කියන මෙහෙකාරියක සැකපිට අත්අඩංගුවට ගත් බව රිදීගම පොලිසිය කියයි. රුපියල් තුන්ලක්ෂයක් පමණ රන්බඩු සොයා ගැනීමට ද පොලිසිය සමත්විය.</body>
+    <comments>
+        <comment>
+            <author>නදීක</author>
+            <date>2012-03-23 13:11:07</date>
+            <index>0</index>
+            <phrase>අහිංසක මිනිස්සුන්ගේ සල්ලි වලින් තමයි ඕවා ගන්න ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-03-23 13:13:02</date>
+            <index>1</index>
+            <phrase>රටේ සංවර්ධනය කෙසේ වෙතත් නෝනා සංවර්ධනය කරල හැදෙයි. ඔන්න අපේ රටේ මන්ත්‍රීලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-03-23 13:15:53</date>
+            <index>2</index>
+            <phrase>ඔය බඩු ඉතින් කොහොම හදා ගත්තද දන්නෙ නැහැ. මොනා වුනත් හොද වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

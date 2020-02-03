@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>212914</articleId>
+    <title>පාසල් බසය ඡන්ද වැඩට</title>
+    <author>තරිඳු ජයවර්ධන  මුදිතා දයානන්ද</author>
+    <date>2014 පෙබරවාරි මස 25 13:09:30</date>
+    <body>මරදානේ පාසලක විදුහල්පතිවරයකු පාසල් බස් රථයද රැගෙන සන්ධාන ප්‍රබලයකුගේ ඡන්ද වැඩකට ගියැයි කියන සිද්ධියකට විරෝධය පා එම විද්‍යාලයයේ ගුරුවරුන් ඉගැන්වීම් කටයුතුවලින් ඉවත්ව එළියට වී ඇතැයි ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා කීවේය.
+පළාත් අධ්‍යාපන ලේකම් එස් කොඩිකාර මහතා පැවසුවේ එවැනි තොරතුරක් තමාටත් ලැබුණු බවයි. ඒ ගැන සොයා බලමින් සිටින බව ද ඒ මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>අමන්දා</author>
+            <date>2014-02-25 14:20:04</date>
+            <index>0</index>
+            <phrase>මේවාට උපරිම නිසි දඬුවම් ලබා දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවක</author>
+            <date>2014-02-25 14:56:17</date>
+            <index>1</index>
+            <phrase>පාසලත් ඡන්ද වැඩවලට ගන්න නිසා බස් එක ගත්තම මොකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනනාත්</author>
+            <date>2014-02-25 15:00:30</date>
+            <index>2</index>
+            <phrase>මේ විදුහල්පතිට ටිකක් නෙමෙයි හොදටම පිස්සු වගේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-02-25 18:44:25</date>
+            <index>3</index>
+            <phrase>මේ ගුරුතුමාලා පිස්සු කෙලින්නේ නැතුව ගිහින් ළමයින්ට උගන්වන්න. ඕව ගණන් ගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2014-02-26 09:34:48</date>
+            <index>4</index>
+            <phrase>ඔය කියන විදුහල්පති තුමා කලින් හිටිය පාසලෙත් ලෙඩක් දා ගෙන තමයි ගියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>427191</articleId>
+    <title>දරුවා පියා ඉදිරිපිටදීම කිඹුලාට බිලි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජූනි මස 15 13:54:52</date>
+    <body>ඇමරිකාවේ ෆ්ලෝරිඩා ප්‍රාන්තයේ ඔර්ලෙන්ඩො හි ඩිස්නි නිවාඩු නිකේතනය ආසන්නයේ කලපුවකදී වයස අවුරුදු දෙකක දරුවකු කිඹුලකු විසින් ඩැහැගෙන යනු ලැබ ඇතැයි විදෙස් පුවත් සේවා පවසයි.
+දරුවා කලපුව අසල සිටියදී කිඹුලකු ඩැහැගෙන ජලය තුළට ගොස් ඇති බවත් දරුවා සමග සිටි පියා දරුවා කිඹුලාගෙන් බේරාගැනීමට දැරූ උත්සාහය අසාර්ථකවී ඇති බවත් කියති.
+පොලිසිය හා දරුවාගේ ඥාතීහු දරුවා සොයා මෙහෙයුම් ක්‍රියාත්මක කර ඇත.
+පසුගිය වසර 60ක පමණ කාලයේදී කිඹුල් ප්‍රහාරවලින් ෆ්ලොරිඩාහි 22 ක් පමණ ජීවිතක්ෂයට පත්ව ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-06-16 04:52:56</date>
+            <index>0</index>
+            <phrase>අනේ පවු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2016-06-16 10:21:28</date>
+            <index>1</index>
+            <phrase>දෙමව්පියන්ගේ නොසැලකිල්ල නිසා දරුවට වන්දි ගෙවන්න උනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒකනායක</author>
+            <date>2016-06-16 14:28:17</date>
+            <index>2</index>
+            <phrase>දෙමාපියන් දැන ගන්න ඕනි තමන්ගේ ළමයා අතේ දුරින් තියා ගන්න. අනේ පවු අහිංසක පොඩි එකා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

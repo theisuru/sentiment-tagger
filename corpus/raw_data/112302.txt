@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>112302</articleId>
+    <title>පුත්තලම රිය අනතුර</title>
+    <author>එච් චන්දන</author>
+    <date>2013 අපේ‍්‍රල් මස 25 21:36:50</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චින්තක</author>
+            <date>2013-04-26 11:08:43</date>
+            <index>0</index>
+            <phrase>කනගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

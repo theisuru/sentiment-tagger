@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41407</articleId>
+    <title>ඒ එන්නත රට යන අයට පමණයි</title>
+    <author>ඇම්ඇස් පෙරේරා</author>
+    <date>2012 මැයි මස 09 12:11:30</date>
+    <body>උණ සන්නිපාතයෙන් වැළැකීම සඳහා වන ටී.ඒ.බී. එන්නත 2006 වසරේ සිට පොලිසියට නොදෙතියි නිලධරයෝ කියති.
+පොලිස් මාධ්‍ය ප‍්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි අජිත් රෝහණ මහතා පැවසූයේ, එක්සත් ජාතීන්ගේ රාජකාරියට යන නිලධරයනට එම එන්නත අනිවාර්ය කැර ඇති බවයි. පොලිස් නිලධරයන් අද එදා මෙන් සාමූහිකව බැරැුක්කවල නොසිටින නිසාත්, වඩාත් දියුණු බෙහෙත් ඇති නිසාත් එවැනි එන්නතක අවශ්‍යතාව මතු නොවන බව ද හේ කියයි.</body>
+    <comments>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-05-09 14:03:44</date>
+            <index>0</index>
+            <phrase>මේක නිසා පොලීසියෙ අය බැනර් එල්ලගෙන පෙලපාලි යයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් - මෙල්බර්න් සිට</author>
+            <date>2012-05-09 14:14:41</date>
+            <index>1</index>
+            <phrase>නිදන් හාරන්න යන අයට විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-09 16:47:58</date>
+            <index>2</index>
+            <phrase>ඔවු ඉතිං... පොලිසියටනේ නැත්තේ.... ඉතිං???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

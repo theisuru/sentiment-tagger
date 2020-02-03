@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>478904</articleId>
+    <title>ජනතා නියෝජිතයෝ අයවැයෙන් පසු තේ සාදයට එක්වෙති</title>
+    <author>ඡායාරූප - රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 10 18:41:19</date>
+    <body>අය වැය ඉදිරිපත් කිරීමෙන් පසු පැවැත්වෙන සාම්ප්‍රදායික තේ පැන් සංග්‍රහය අද (10) පස්වරුවේ පාර්ලිමේන්තු සංකීර්ණයේ දී පැවැත්විණි.
+අගමැති රනිල් වික්‍රමසිංහ මහතා ඇතුළු පක්ෂ විපක්ෂ මන්ත්‍රීවරුද සිවිල් සංවිධාන නියෝජිතයෝ ද එම අවස්ථාවට එක්ව සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>සලීම්</author>
+            <date>2016-11-10 15:22:05</date>
+            <index>0</index>
+            <phrase>මේ වගේ කාකොටා ගන්නේ නැතුව සමගියෙන් ඉන්ඩ අපටත් පුලුවන්නම් දේශපලකයන් අපිව අසමගි කෙරුවට එයාල සමගියෙන් ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2016-11-10 17:07:53</date>
+            <index>1</index>
+            <phrase>බලන්නකෝ අන්තිම ෆොටෝ එක... මට නම් හතර හිනා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-10 18:51:20</date>
+            <index>2</index>
+            <phrase>මොන සමගියක්ද? මෙයාලා හැමදාම කළේ අවශ්‍යතාවයට අනුව කටයුතු කළ එකනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2016-11-10 20:47:41</date>
+            <index>3</index>
+            <phrase>පුරවැසි, අතවැසි හැමෝම ඉන්නේ!!! එයාලත් නොයන තැනක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-11-10 23:55:33</date>
+            <index>4</index>
+            <phrase>මෙතන විපක්ෂයේ අය සතුටින් ඉන්න බවක් නම් පෙනෙන්න නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේශ්</author>
+            <date>2016-11-11 02:25:18</date>
+            <index>5</index>
+            <phrase>ඒටීඑම් යන්ත්‍ර වලින් සල්ලි ගන්නකොට 10ක් කපනවා වෙනුවට හරි නම් 10ක් දෙන්න ඕනෑ අපිට. බැංකු වල පෝළිම අඩු කරනවට. හරිනම් ඒටීඑම් ජාලය තව පුළුල් කරන්න ඕනෑ කියන එක නම් මෝඩ යෝජනාවක්. බැංකු වල සල්ලි නොදා හිටියම හරිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-11-11 02:43:27</date>
+            <index>6</index>
+            <phrase>බලන්නකෝ අපිට ඉන්න ජනතා නියෝජිතවරියන්ගේ ලස්සන!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-11 03:06:27</date>
+            <index>7</index>
+            <phrase>පෙනුම ලස්සන වුණාට යෝනක සමහර වැඩ නම් කැතයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්</author>
+            <date>2016-11-11 12:17:12</date>
+            <index>8</index>
+            <phrase>මෙවුන්ට සුර සැප, ජනතාවනේ දුක් විඳින්නේ. මොවුන්ට මොකද? මහජන මුදලින් සැප විඳින හැටි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලුගොල්ල රාලලාගේ වීරසේන</author>
+            <date>2016-11-11 23:27:06</date>
+            <index>9</index>
+            <phrase>මේ කන්නේ බොන්නේ ජනතාවගේ බදුවලින් මිස දේශපාලකයන්ගේ මුදල් නොවේ. උන්ට රජ සැප ජනතවට රජදුක. මෙත ඉන්න ඔක්කොමදැන් කෝටිපතියෝ වෙලා ඩියුට ෆිරි වාහන විකුණාගෙන බදුවලින් තොර වාහ විකුණාගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-11-12 04:12:02</date>
+            <index>10</index>
+            <phrase>මේ රටේ හරියට තුන්වේල කන්න අමාරු පවුල් කීයක් නම් ඉන්නවාද? ඒ අයගේ ඡන්දෙන් පත්වෙලා නේද මේ කන්නේ බොන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

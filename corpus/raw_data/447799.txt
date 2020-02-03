@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447799</articleId>
+    <title>නාමල් එෆ්සීඅයිඩියේ</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 අගෝස්තු මස 15 12:57:28</date>
+    <body>පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ අද(15) පොලිස් මූල්‍ය අපරාධ කොට්ඨාසයට පැමිණියේය.
+හෙලෝකෝප් සමාගමේ රුපියල් කෝටි දොළහ හමාරක කොටස් නීති විරෝධීව මිලදී ගත්තැයි කියන සිද්ධියක් සම්බන්ධයෙන් සිදුකැරෙන පරීක්ෂණයක් සඳහා ප්‍රකාශයක් ලබාදීමට ඔහු එහි පැමිණි බව පොලිස් ආරංචි පවසයි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2016-08-15 07:50:51</date>
+            <index>0</index>
+            <phrase>බොරුවට අැවිද්දවන්නේ නැතුව ඔප්පුවෙලා තියෙන ඒවාට නීතිය ක්‍රියාත්මක කළා නම් ඉවරනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2016-08-15 09:06:01</date>
+            <index>1</index>
+            <phrase>නිතිය ක්‍රියාත්මක වීමේ පමාවට කඩිනම් පිළියම් අවැසියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

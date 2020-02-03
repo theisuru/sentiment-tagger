@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>229026</articleId>
+    <title>දුම්රිය දෙකටම බර හානි</title>
+    <author>(ඡායාරූප ඉෂාන් මධුෂංකපුෂ්පකුමාර ජයරත්න)අතුල බණ්ඩාරනායකරෝහණ චන්ද්‍රදාස</author>
+    <date>2014 අපේ‍්‍රල් මස 30 09:45:04</date>
+    <body>පොතුහැර දුම්රිය පොළේ නවතා තිබු රජරට රැජින දුම්රියේ තවත් දුම්රියක් ගැටීමෙන් අඩු ගණනේ 61දෙනෙක් තුවාල ලබන්නට ඇතැයි පොලීසිය කියයි.
+ඒ අතර අත දරුවන් ද හමුදා සෙබළකු හා දුම්රිය නියාමකයකු ද සිටින බව කියයි.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>අජිත්කරුණාරත්න ලියනගේ</author>
+            <date>2014-04-30 09:32:05</date>
+            <index>0</index>
+            <phrase>දුම්රිය දෙකක් එකට හැපිලා මෙහෙම බේරිච්ච එක ලොකු වාසනාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ වී අත්තනායක</author>
+            <date>2014-04-30 10:31:55</date>
+            <index>1</index>
+            <phrase>මෙවන් දෙයක් සිදු නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2014-04-30 10:11:43</date>
+            <index>2</index>
+            <phrase>දැන් අපි මගීන් හැටියට ස්ටයික් කරමු. අරගොල්ලෝ හැමදේටම ස්ටයික් කරනවනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනුෂ්ක</author>
+            <date>2014-04-30 11:02:45</date>
+            <index>3</index>
+            <phrase>මෙවන් දෙයක් සිදු නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2014-04-30 10:19:16</date>
+            <index>4</index>
+            <phrase>කෙනෙකුගේ අනුවන ක්‍රියාවක්,ඔහු සොයා නියමිත දඬුවම් දිය යුතුමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-04-30 10:21:13</date>
+            <index>5</index>
+            <phrase>මෙහෙම අනතුරක් වෙන්න හේතුව මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසිංහ</author>
+            <date>2014-04-30 11:07:48</date>
+            <index>6</index>
+            <phrase>මේ අවරුද්ද නම් මිනිසුන්ට හරිම අපලය. තුවාල උන අයට ඉක්මන් සුවය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීෂා</author>
+            <date>2014-04-30 10:23:05</date>
+            <index>7</index>
+            <phrase>අර කව්ද කෙනෙක් අදහසක් දල තිනවා දැන් අපි වර්ජනය කරමු කියල. එය මේ රටේ කෙනෙක් නොවෙයි . කොච්චි වලට පින් සිද්ද වෙන්න තමයි අපි රස්සාවලට යන්නේ. නැතිව බස් වල ගිහින් අපේ වැඩ කර ගන්න පුළුවන් ද. පොඩි පොඩි දුර්වලතා තිබුනට කෝච්චිය තමයි අපේ හොදම ගමන් සහයකයා. කොචිචි නැති වුන දට ඔය කෑගහන සේරගේම කට වල් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉස්මිල්</author>
+            <date>2014-04-30 10:25:34</date>
+            <index>8</index>
+            <phrase>සියලු දෙනාට ඉක්මන් සුවය පතමු. නැවත මෙවැනි දේ සිදු නොවීමට වග බල ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-04-30 11:12:22</date>
+            <index>9</index>
+            <phrase>සැමට ඉක්මන් සුව ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීවා</author>
+            <date>2014-04-30 11:25:43</date>
+            <index>10</index>
+            <phrase>අපේ ප්‍රවාහන දුරුවල කම් තමයි මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසුර්දින් නිසම්ඩින්</author>
+            <date>2014-04-30 11:28:24</date>
+            <index>11</index>
+            <phrase>ලංකා දැන් අපි මගීන් හැටියට ස්ටයික් කරමු. අරගොල්ලෝ හැමදේටම ස්ටයික් කරනවනේ.ලංකා ඔබගේ අදහස ලොකු අනුවන කතාවක් මේක මහා ඛේදවාචකයක් විහිලුවකට ගන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2014-04-30 11:29:18</date>
+            <index>12</index>
+            <phrase>මම හිතන විදිහට මේ අනතුරට ප්‍රධානම හේතුව පොල්ගහවෙල සහ කුරුණෑගල අතර ද්විත්ව දුම්රිය මාර්ගයක් නොමැතිකම. තුවාල ලැබූ සැමට ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් බණ්ඩාර</author>
+            <date>2014-04-30 10:44:15</date>
+            <index>13</index>
+            <phrase>පරීක්ෂණයක් පවත්වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටානියා</author>
+            <date>2014-04-30 11:37:03</date>
+            <index>14</index>
+            <phrase>අනේ පව් ඒ අසරණ මින්ස්සු ආයේ කවදාවත් මේ වගේ දෙයක් වෙන්නෙපා දෙවියෝ ඉන්න රටේ මිනුස්සුන්ට ඇයි මෙහෙම වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ප්‍රියන්ත</author>
+            <date>2014-04-30 11:40:16</date>
+            <index>15</index>
+            <phrase>මේවා ගැන සොයා බලා වැරදිකරුවන්ට දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ඵස් ලියනගේ -මුල්ලෙරියාව</author>
+            <date>2014-04-30 10:57:15</date>
+            <index>16</index>
+            <phrase>සියලු දෙනා හට ඉක්මන් සුවය ලැබෙිවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-04-30 11:44:44</date>
+            <index>17</index>
+            <phrase>සංනිවේදන ප්‍රශ්නයක් වෙන්න ඇති මහා ඛේදවාචකයක් වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-04-30 11:47:52</date>
+            <index>18</index>
+            <phrase>මෙච්චර ලොකු අනතුරක් වෙලත් මිනිස් ජීවිත වලට හානියක් නොවුණු එක පුදුම වාසනාවක්. සියලුම දෙනාට ඉක්මන් සුවය ලැබේවා.ලංකා,මේක දැක්කම කාටද අනේ අපොයි නොකිය වෙන්නේ එක නිසා මේ වගේ දෙයක් සැහැල්ලුවට හිතන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-04-30 11:49:12</date>
+            <index>19</index>
+            <phrase>මට හිතා ගන්න බැහැ දුම්රිය රියදුරන් දෙදෙනාගේ කොහොමද කියලා ඒ අවස්ථාවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2014-04-30 11:15:38</date>
+            <index>20</index>
+            <phrase>මේ අවුරුද්ද නම් මිනිසුන්ට හරිම අපලයි. ආයෙමත් මෙවන් දෙයක් සිදු නොවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්ගේවත්ත</author>
+            <date>2014-04-30 12:16:13</date>
+            <index>21</index>
+            <phrase>සියලු දෙනාටම ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්ත</author>
+            <date>2014-04-30 12:30:45</date>
+            <index>22</index>
+            <phrase>වගකිව යුතු අය සියලු දෙනාම අත්අඩංගුවට ගෙන දඩුවම් දිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-04-30 11:56:29</date>
+            <index>23</index>
+            <phrase>මැදිරි පොඩිපට්ටම් වෙලා තියන හැටියට තුවාල වෙලා බේරුනා ඇති. සැමට ඉක්මන් සුව. අර අවරුදු පනහක් විතර පරණ ඉතාම හොඳින් ධාවනය වන කැනේඩියන් ජී එම් එන්ජිම විනාස උන එකනම් විශාල පාඩුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-04-30 11:59:43</date>
+            <index>24</index>
+            <phrase>දුම්රිය අර්ද පුද්ගලික සමාගමක් බවට පත් කොට නිමිත ප්‍රමිතියට දුම්රිය දියුණු කල යුතුයි . දුම්රිය දෙපාර්තමේන්තුව පුර්ණ ප්‍රතිසන්වින්දනයක් කල යතු අතර. නව ආයෝජන කල යුතියි . දුම්රිය ගාස්තුවද සේවය අනුව වැඩි කලට කමක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රටවැසියා</author>
+            <date>2014-04-30 12:55:59</date>
+            <index>25</index>
+            <phrase>දුම්රිය සේවයට තවත් කෝටි ගණනක පාඩුවක්. දැන් ඉතින් කියයි දුම්රිය සිග්නල් පද්ධතියේ දෝෂයක් නිසා වුණා කියල. මේකට ප්‍රධාන හේතු දෙකක් තියෙනවා. වැදගත්ම දේ තමයි මෙතරම් වැදගත් ප්‍රධාන දුම්රිය මාර්ගයක අඩුම ගනනේ පොල්ගහවෙල සිට මහව හන්දිය දක්වාවත් ද්විත්ව දුම්රිය මාර්ගයක් නොමැති වීම. අනෙක නම් නවීන තාක්ෂනය අනුව වැඩි දියුණුකළ සිග්නල් පද්දතියක් නොමැතිවීම. දියුණු රටවල දුම්රිය නියමු මැදිරියේ ඇති කුඩා තිරයක් මත එම මාර්ගයේම ඉදිරියෙන් හා පසුපසින් ඇති අනෙක් දුම්රිය ඇති ස්ථානය හා ඊට ඇති දුර දැක ගත හැකිය. අපේ රටේ බොහෝ දුම්රිය ස්ථාන අතර තවමත් සුද්දගේ කාලේ භාවිත කල පරණ ටැබ්ලට් ක්‍රමය තමයි තියෙන්නේ. මේවා මහජන මුදල් නාස්ති කරන බලධාරීන්ගේ සහ රටේ සංවර්ධනය ගැන පුරසාරම් කියන දේශපාලකයන්ගේ වගකීම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවර්ධන</author>
+            <date>2014-04-30 13:04:57</date>
+            <index>26</index>
+            <phrase>මෙයට හේතුව කඩිනමින් සොයා බැලිය යුතුයි. නැවත මෙවන් දෙයක් සිදු නොවේවා. සැමට ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නජිත්</author>
+            <date>2014-04-30 13:10:25</date>
+            <index>27</index>
+            <phrase>මේ සම්භන්ධව විදිමත් පරීක්ෂණයක් කරන්න මෙය ලංකාවේ සිදුවූ මහා විනාශයක් අවනම්බුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-04-30 12:24:54</date>
+            <index>28</index>
+            <phrase>මේකේ වැරැද්ද දැන් කාට දමාවිද ? මගීන්ට දමාවිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චනිල්</author>
+            <date>2014-04-30 13:12:07</date>
+            <index>29</index>
+            <phrase>හැමදාම මොකක් හරි කරදරයක් . අනතුරට පත් අයට ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-04-30 13:18:03</date>
+            <index>30</index>
+            <phrase>අපේ ප්‍රවාහන ඇමතිට කියමු මේ නිසා ඉල්ලා අස්වෙන්න්නම් එපා කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2014-04-30 13:19:50</date>
+            <index>31</index>
+            <phrase>අපේ රටේ රාජ්‍ය සේවකයන් බොහෝදෙනෙකු ඔවුන්ගේ වෘතිය පිළිබඳ වගකීමක් නැතිකම තමයි මේවගේ සිද්ධි වලට හේතු වෙන්නේ. සුළු වැරද්දක් වූ විට පවා එය අනෙකා පිට පටවමින් තමන්ගේ ඇඟ බේරා කටයුතු කරනු විනා. කිසිදා වැරැද්ද අවබෝධ කරගෙන එය නිවැරදි කරගනු ගතියක් නොතිබීම, අවසානයේ මෙවන් ඛේදවාචක දක්වා වර්ධනය වී ඇත. වැරදිකරුවන්ට දඬුවම් දීම වෙනුවට ඔවුන් දෙස සානුකම්පිකව බැලීමට බලධාරීන් පසුබට නොවනු ඇත. අනතුරින් පිඩාවට පත් වුවන් හට ලැබිය යුතු වන්දි මුදල් ගැන, දුම්රිය දෙපාර්තමේන්තුවට සිදුවී ඇති අලාභය ගැන දින කීපයකින් අපට අමතක වී යනු ඇත. යහපත් සිතිවිල්ලෙන් හා වගකීමෙන් යුතුව තම වැටුපට සරිලන සේ රැකියාව කිරීමේ ආකල්පය අප සිත්තුලට කා වැදීමට නම්, තව බොහෝකල් ගතවනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2014-04-30 13:23:00</date>
+            <index>32</index>
+            <phrase>විශාල අනතුරක් තුවාල උන හැමටම ඉක්මන් සුවය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙවන්</author>
+            <date>2014-04-30 13:29:45</date>
+            <index>33</index>
+            <phrase>මේ අවාසනාවන්ත අවස්ථාවට මුහුණ දුන්නා වූ ඒ අහිංසක සියලු දෙනාටම තිසරණ සරණින් ඉක්මන් සහනය ලැබේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2014-04-30 13:45:18</date>
+            <index>34</index>
+            <phrase>දුම්රිය දෙකටම බර හානි උනාට මිනිසුන්ට ලොකු විනාශයක් නැහැ දෙවියන්ට ස්තුතියි වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවින්</author>
+            <date>2014-04-30 13:48:08</date>
+            <index>35</index>
+            <phrase>දුමරිය සංඥා පද්ධතිය නවීකරණය කිරීමට කාලය පැමිණ ඇත, අද වනවිට ජි පි එස් තාක්ෂනය මෙතරම් බහුල වී තිබියදී තාක්ෂනය භාවිතයට නොගැනීමේ වරද මෙවැනි අනතුරු සිදුවෙමෙන් පෙනෙයි. ජි පි එස් තාක්ෂනය භාවිතාකර දුම්රියක් කොතැන තිබේද, කොපමණ වේගයකින් ධාවනය කෙරේද, නිවැරදිව ගණනය කර අනතුරු අවම කර දේපල හා ජිවිත රැකගනිමු, බලධාරීන්ගේ ඇස යොමුවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල් ආර් බණ්ඩාර</author>
+            <date>2014-04-30 13:04:54</date>
+            <index>36</index>
+            <phrase>දුම්රිය පාලක මැදිරිය මේකට වග කියන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2014-04-30 13:11:20</date>
+            <index>37</index>
+            <phrase>මිනිසුන් මිනිසාට ආදරය නොකිරීම හා රාජකාරි නිසියාකාරව නොකරීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් බණ්ඩාර ජයරත්න</author>
+            <date>2014-04-30 13:12:04</date>
+            <index>38</index>
+            <phrase>මම හිතන්නේ මෙහෙම දේවල් වෙන්නේ අත් වැරදීමකින් නොවෙයි. තමන්ගේ රැකියාවේ වගකීම නොදන්නා අය රැකියාවේ යෙදීම තුලින්. මෙවැනි දේ ඉදිරියටත් අපිට අහන්න ලැබේවි. දුප්පත් අසරණ මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2014-04-30 14:00:37</date>
+            <index>39</index>
+            <phrase>තාක්ෂනය දියුණු කාලේ දුම්රියටත් ආදේශ කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනන්දන</author>
+            <date>2014-04-30 14:00:37</date>
+            <index>40</index>
+            <phrase>ඇයි දුම්රිය සේවයට ජි පි එස් තාක්ෂණයේ තියන පහසුකම් මගින් සංඥා පද්දතිය වැඩි දියුණු කරන්නේ නැත්තේ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-04-30 13:23:54</date>
+            <index>41</index>
+            <phrase>කොතනක හෝ ලොකු වැරැද්දක් වෙලා තියෙනවා. නිසි දඩුවම් ලබා දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද ආර්</author>
+            <date>2014-04-30 13:43:57</date>
+            <index>42</index>
+            <phrase>තුවාල වූවන්ට ඉක්මන් සුවය පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදුෂානි</author>
+            <date>2014-04-30 13:50:07</date>
+            <index>43</index>
+            <phrase>සමහරවිට කොරියාවේ අගමැතිතුමා වගේ අපේ ප්‍රවාහන ඇමති තුමත් රැකියාව අත හැරලා ගෙදර යයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දුල</author>
+            <date>2014-04-30 13:58:28</date>
+            <index>44</index>
+            <phrase>දැන් කොච්චි යනවද ඒ කොච්චි පාරේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2014-04-30 14:23:10</date>
+            <index>45</index>
+            <phrase>කසුම් ඔයා රාජ්‍ය අංශයේ නිලදරීන්ට බනින්නේ ඔය පුද්ගලික අංශයේ නිසාද. ඔයා මතක තිය ගන්න ඔය ඉපදුනෙත් ඔය තත්වෙට එන්න ඉගනගත්තත් රජයේ ඉස්පිරිතාලෙන් සහ ආණ්ඩුවේ ඉස්කෝලෙන් බව . මම පුද්ගලික අංශයේ ව්‍යාපාරික ආයතන සමග විශාල ගනුදෙනු වලට සම්බන්ද වෙන කෙනෙක් .ඉතා වගකීමෙන් කියන්නේ මේ ආයතනවලින් වැඩි ප්‍රමාණයක ඉන්නේ බොරු සහ වංචා කරුවන් . විවෘත ආර්ථිකයක් තියෙන රටක ආර්ථිකය ගෙනයන ඇන්ජිම තමයි පුද්ගලික අංශය .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-04-30 14:28:30</date>
+            <index>46</index>
+            <phrase>ගරු ඇමති තුමනි, ඉල්ලා අස්වෙන්න නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2014-04-30 14:31:56</date>
+            <index>47</index>
+            <phrase>මේ සියල්ලටම මුල මෙයාලගෙ නොසැලකිල්ල. නමුත් මගින්ගෙන් සුළු හෝ අත්වැරැද්දක් වුණොත් මෙයාලගේ සැර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහ</author>
+            <date>2014-04-30 14:36:26</date>
+            <index>48</index>
+            <phrase>දුම්රිය දෙකට හානි උනා , ඒක හරි .. ජිවිත විනාශ උනේ නැති එක ගැන සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2014-04-30 14:41:14</date>
+            <index>49</index>
+            <phrase>අපි තවමත් අලුත් තාක්ෂනය (ජි පි එස් ) පව්විච්චි කරන්නේ නැත්තේ මොකද කියල හිතෙනවා. ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවති</author>
+            <date>2014-04-30 14:51:46</date>
+            <index>50</index>
+            <phrase>මෙවැනි දේවල් නොවන්න වගකිව යුතු පුද්ද්ගලයන් සැලකිල්ලෙන් වැඩ කළ යුතුයි. මොකද මේ වගේ දේවලින් මිනිසුන්ගේ ජීවිතවලට හානියක් සිදුවුහොත් අසරණ වෙන්නේ මැරෙන හෝ ජීවිත කාලෙට ආබධිතයින් වන ඔවුන්ගේ දරු පවුල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2014-04-30 15:53:09</date>
+            <index>51</index>
+            <phrase>මොකද්ද මෙවන් දෙයක් වෙන්න හේතුව, කවදාවත් වෙලත් නැහැ අහලත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2014-04-30 15:35:08</date>
+            <index>52</index>
+            <phrase>මංජු, අපි අවශ්‍ය දේ අවශ්‍ය තැනට පමණක් කතා කරමුද? අනවශ්‍ය දේ අනවශ්‍ය තැන කතා නොකර ඉදිමුද? එහෙම නැති උනොත් අදාල වැදගත් කරුණ යටපත් වෙනවා. මා කියන්නේ,මේ අනතුර සම්බන්ද වගකිවයුතු නිලධාරීන්, බලධාරීන් මෙහි වගකීම භාරගැනීම හා ඔවුනට නිසි දඬුවම් ලැබිය යුතු බවයි. අනතුරෙන් අබාධයන්ට ලක්වූ අසරණ මගින් හට වන්දි ලබා දීමට ද පියවර ගත යුතු බවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල අබු ඩාබි සිට</author>
+            <date>2014-04-30 16:26:15</date>
+            <index>53</index>
+            <phrase>රාජා අදද පත්තර බලන්න ගත්තේ මේක ලංකාවේ උන පළමු දුම්රිය අනතුර නොවෙයි. මිට කලින් මීටත් දරුණු ගනයේ දුම්රිය අනතුරු සිද්ද වෙලා තියෙනවා. මෙදා වාසනාවකට කාගේවත් ජිවිත අහිමිවෙලා නැහැ. අනතුරෙන් තුවාල ලබා ප්‍රතිකාර ගන්න සියලු දෙනාට ත්‍රිවිධ රත්නයේ බලයෙන් සියලුදෙවියන්ගේ ආරක්ෂාවෙන් ඉක්මන් සුවය ලැබේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්ස්</author>
+            <date>2014-04-30 15:48:28</date>
+            <index>54</index>
+            <phrase>මේ වගේ දේවල් කොපමන වුනත් මෙතෙක් මොනවද මේවට කර තිබෙන්නේ අවුරුදු 50 වැඩ පරණ යල්පැනපු සිග්නල් ක්‍රම වෙනස් නොකර ලොකු කාර් තියන අයට යන්න ආදී වේගී මාර්ග හදල මදි ඊට පෙර අපේ තියනේ ප්‍රවාහන ක්‍රම දියුණු කරන්න ඕනේ සේවකයන්ට තමන්ගේ රැකියාවේ වැදගත් කම හා වැරදි කරන අයට තද දඩුවම් දෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන් බණ්ඩාර</author>
+            <date>2014-04-30 17:00:46</date>
+            <index>55</index>
+            <phrase>ඉක්මනට කුරුණෑගලට තවත් මාර්ගයක් යොදන්න. නැත්තම් අයෙත් මෙහෙම වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමයන්ත</author>
+            <date>2014-04-30 17:12:54</date>
+            <index>56</index>
+            <phrase>අතීත වැරදි වලට නිසි දඩුවම් නොදීම මෙවන් දේවල් නැවත නැවත සිදුවීමට හේතුවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2014-04-30 16:27:59</date>
+            <index>57</index>
+            <phrase>දුම්රිය එන්ජින්,පෙට්ටි,මාර්ග සියල්ල අබලන්. සේවකයින්ට කිසිම වුවමනාවක් නැහැ. දුම්රිය ඇමතිතුමනි, අපි ඔබේ පැත්තේ. දුම්රිය කරුණාකර නිසි ප්‍රමිතියකට දියුණු කරන්න. ජපන්,ජර්මන් හෝ ඉන්දියන් උපකරණ පාවිච්චියට ගන්න. චීන නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත්</author>
+            <date>2014-04-30 17:03:15</date>
+            <index>58</index>
+            <phrase>බොහොම ශෝචනීය පුවතක්. ජීවිත හානි අවම වීම නම් මහත් සැනසිල්ලක්. හෙටට නියමිත මැයි දිනයේදී ප්‍රධාන මාතෘකාව මෙය විය යුතුය. විපක්ෂය කියාවි වගකිවයුත්තන් ඉල්ලා අස්විය යුතුයි කියා. ආණ්ඩුව කියාවි පරීක්ෂණයක් තියනවා, කමිටුවක් දානවයි කියා. එසේත් නොමැති නම් තවත් සමහරු කුමන්ත්‍රණයක් යැයි කීමටද පුළුවන්. මා දකින විදියට නම් කවුරු ආණ්ඩු කළත් මෙය සිදුවීමට බොහෝ ඉඩ තිබුණා. මක්නිසාද යත් මෙය සිදුවීමට ප්‍රධාන හේතුව වූයේ අදාළ බලධාරීන්ගේ නොසැළකිළිමත්බවසහ වගකීම් විරහිතභාවයයි. මෙවැනි නුගුණ ලාංකිකයින් විසින් අත්හල කල එවැනි අනතුරු බොහොමයක් මඟහරවා ගත හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2014-04-30 18:01:45</date>
+            <index>59</index>
+            <phrase>මේ ගැන වහාම පරීක්ෂණයක් පවත්වා වැරදිකරුවන්ට දඩුවම් ලබාදෙන්න.ඒ මෙය කෙටි කාලයක් තුළදී සිද්ධ වුණ පළවැනි දුම්රිය අනතුර නොවන නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2014-04-30 17:37:47</date>
+            <index>60</index>
+            <phrase>ප්‍රවාහන ඇමතිතුමනි, මෙය ඔබගේ වරදක් නොවෙයි. අනේ! ඉල්ලා අස්වෙන්න නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත</author>
+            <date>2014-04-30 19:30:07</date>
+            <index>61</index>
+            <phrase>එක ළඟ අනතුරු කීයක් නම් දැන් වුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාසක්</author>
+            <date>2014-04-30 18:55:38</date>
+            <index>62</index>
+            <phrase>දුම්රිය සේවය තාක්ෂණය යොදා ගෙන නෙමෙයි තවම දුවන්නේ. පරණ සිග්නල් සිස්ටම් නිසානේ මේ ඔක්කොම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2014-04-30 20:28:08</date>
+            <index>63</index>
+            <phrase>ලංකාවේ අඩුම තරමේ වසරකට දුම්රිය අනතුරු එකක් හරි සිදුවෙනවා. ඒකට හේතුව වෙලා තියෙන්නේ අනතුරු වෙන්න තිබෙන දුර්වල තැන් හොයලා බලලා නැවත සිදුනොවන්නට අවශ්‍ය පිළියම් නොයෙදීමයි. සිද්ධියක් වුණාට පස්සේ වැරදිකරුවන්ට දඩුවම් දීලා විතරක් මදි. නැවත එවන් දෙයක් සිදු නොවන්නට අවශ්‍ය පිළියම් යොදන්නත් ඕනෑ. ඒ ටිකවත් තේරුම් ගන්න බැරි උදවිය තමයි බොහොමයක් ඉහළ පුටුවල ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2014-04-30 20:33:24</date>
+            <index>64</index>
+            <phrase>මොකද දැන් නිතරම අනතුරු? වරද කාගේද? මේවා ජාතික අපරාධ, ජාතික ධනයයි මේ විනාශ වන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත් ශ්‍රී</author>
+            <date>2014-04-30 20:15:18</date>
+            <index>65</index>
+            <phrase>දුම්රිය අනතුරු වලට කුරුණෑගල හරි ප්‍රසිද්ධයි. මට මතකයි 80 දශකයේ කුරුණෑගල දුම්රිය ස්ථානයේ එවැනි විශාල අනතුරක් සිද්ධ වුණා. ඊට පස්සෙ අලව්වෙ. දැන් පොතුහැර. අනෙක් දුම්රිය ස්ථානත් ටිකක් අවධානයෙන් සිටියොත් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2014-04-30 21:35:54</date>
+            <index>66</index>
+            <phrase>මෙයට පෙරත් මෙවැනිම අනතුරක් සිදුවුණා මට මතක විදියට.විදේශිකයෙකුත් මියගියා. එදත් සිදුවුණේ නවතා තිබුණු දුම්රියක තවත් දුම්රියක් ගැටීම. එදා සමහරු ඉන්දීය දුම්රිය වල වැරැද්දක් විදියට එය පෙන්වන්නත් හැදුවා. මොනවා වුණාද කියලා අපි නම් තවමත් දන්නේ නැහැ. මෙය එතරම් හොඳ දෙයක් නොවෙයි. වැරැද්දක් වුණ ප්‍රථම වතාවේම වැරදිකරුට උපරිම දඬුවම් දුන්නා නම් නැවත එසේ වන්නේ නැහැ. ඉස්සර සිටි සියලුම මට්ටමේ සේවකයින් සහ නිලධාරීන් හට ඉතාමත් භක්තියක් තමාගේ රැකියාව ගැන තිබුනා. නමුත් දැන්නම් එහෙම දෙයක් පෙනෙන්න නැහැ. පැරණි සංඥා ක්‍රමය නිවැරදි විදියට භාවිතා කරනවා නම් මෙවැනි අනතුරු වෙන්න කිසිම ඉඩක් නැහැ. මෙවැනි දේවල් මින්පසු අසන්නට නොලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2014-04-30 20:55:58</date>
+            <index>67</index>
+            <phrase>එකම මගේ දුම්රිය දෙකක් මුහුණට මුහුණලා ධාවනය වීමට අවසර දුන් කෙනා කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ති</author>
+            <date>2014-04-30 21:05:49</date>
+            <index>68</index>
+            <phrase>හදිසි අනතුරක් යනු හදිසි අනතුරකි.හිතාමතා මෙවැනි දෙයක් කිරීමට කාට හෝ ඇති වුවමනාව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2014-04-30 22:01:34</date>
+            <index>69</index>
+            <phrase>තුවාල ලැබු සැමට ඉක්මන් සුවය ප්‍රාර්ථනා කරන අතරම මේ අනතුරට ලක් වූ 570 කැනේඩියානු එන්ජිම අවසාන වරට යාල් දේවි දුම්රිය කන්කසන්තුරේ දක්වා ගෙනගිය දුම්රියයි.වසර ගණනාවක් කන්කසන්තුරේ ගාල්කොට තිබු මෙය දුම්රිය ලංකා මුදිත නෞකාවෙන් කොළඹට රැගෙනවිත් අලුත්වැඩියා කර ඉතා සාර්ථකව ධාවනයේ යෙදුනා.වසර පනහකටත් අධික කාලයක් අමිල මෙහෙවරක් කළ මේ එන්ජිම නැවත යථා තත්ත්වයට පත් කරන්නට දුම්රිය සේවකයින් කටයුතු කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2014-04-30 22:32:41</date>
+            <index>70</index>
+            <phrase>වරදකරුවන් සොයා දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවුෆල්</author>
+            <date>2014-04-30 23:09:24</date>
+            <index>71</index>
+            <phrase>සන්නිවේදනය සම්බන්ධ නිළධාරීන් මොනවද කරලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2014-04-30 22:56:48</date>
+            <index>72</index>
+            <phrase>කුරුණෑගගලට ද්විත්ව මාර්ගයක් හැදීමට ඉක්මන් පියවර ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2014-05-01 01:20:43</date>
+            <index>73</index>
+            <phrase>අසරණ මිනිස්සු විඳවනවා. කෝ අර සංවිධාන මෙවැනි දේවල් නැවත වෙන්න ඉඩ තියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-05-01 06:20:14</date>
+            <index>74</index>
+            <phrase>පරණ "ටැබ්ලට් " ක්‍රමය ඉතාමත් හොඳ ක්‍රමයක් . අනතුරක් වීමේ අවදානමක් ඇත්තෙම නැහැ . දුම්රියට ලැබුණු "ටැබ්ලට් "එක ඊළඟ දුම්රිය ස්ථානයට දෙනතුරු මාර්ගය තවත් දුම්රියකට විවෘත වන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2014-05-01 06:24:06</date>
+            <index>75</index>
+            <phrase>දුම්රිය වර්ජන අස්සේ පාරේ ගිය මගියෙකුට තඩිබාලා දෙවියන් කෝප කර ගත්තා. දැන් ඉතින් පවු ටික ගියේ මේ දුමිරිය වල ගිය අහිංසකයන් පිටින්. ගුවන් තොටුපල , අධිවේගී මාර්ග ප්‍රදර්ශන වලට පෙර, මිනිස්සු නිතර යන එන ප්‍රවාහන සේවා දියුණු කරන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2014-05-01 07:48:32</date>
+            <index>76</index>
+            <phrase>ඉතාමත් ඉක්මණින් මෙම මාර්ග යළි පිළිසකර කරන්න අවශ්‍යයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-05-01 08:06:29</date>
+            <index>77</index>
+            <phrase>තමන්ගේ රාජකාරිය හරිහැටි දන්නා වගකිවයුතු නිලධාරියෙක් මෙතෙනට ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2014-05-01 11:09:00</date>
+            <index>78</index>
+            <phrase>තමන්ට පැවරුණු රාජකාරිය හරියට කරනවා නම් කිසිම දවසක මේ වගේ දේවල් කවදාවත් වෙන්නේ නැති වේවි. සියලුම දෙනාට ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2014-05-01 10:39:11</date>
+            <index>79</index>
+            <phrase>හරියට පරිපාලනයක් තියේ නම් මෙවන් අනතුරු විමට නොහැක. දුමිරිය කළට වෙලාවට ධාවනය කළ හැක. මගින්ගේ පහසුකම් සැලකිය හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශා</author>
+            <date>2014-05-01 11:01:38</date>
+            <index>80</index>
+            <phrase>මේකට දුම්රිය දෙකේ රියදුරු මහත්වරුන්ට දඩුවම් දීලා කිසි තේරුමක් නැහැ.දැයට කිරුළේ යන අපියි දන්නේ ඔතන මොකක්ද වෙන්නේ කියලා. මෙම මාර්ග සංවර්ධනය කරන කල් අපිට ඔය වගේ අනතුරු අහන්න වෙයි.රියදුරු මහත්තය හින්දා තමා ඔහොමවත් බේරුනේ.සියලු දෙනාටම ඉක්මන් සුව ලැබේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-05-01 19:43:01</date>
+            <index>81</index>
+            <phrase>වගකිව යුත්තන්ගේ ඇස් ඇරේවා දැන්වත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2014-05-02 08:59:34</date>
+            <index>82</index>
+            <phrase>රජකාරිය නිසියාකාරව ඉටු නෙකිරීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජේස්</author>
+            <date>2014-05-05 07:23:28</date>
+            <index>83</index>
+            <phrase>දුම්රිය අනතුරින් තුවාල ලබා රෝහල්ගත කළ සියලුම දෙනාට මම ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2014-05-06 07:16:38</date>
+            <index>84</index>
+            <phrase>ආසියාවේ ආශ්චර්යය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2014-05-06 06:31:11</date>
+            <index>85</index>
+            <phrase>සංඥා පද්ධති වල දෝෂයක්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20282</articleId>
+    <title>රිස්ස යනතුරු මිරිස්සේ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජනවාරි මස 02 18:59:29</date>
+    <body>මිරිස්ස මුහුදු වෙරළ අද (2) සංචාරකයන්ගෙන් පිරී ගියේය. නත්තල් සමයේ තංගල්ල මැඩිල්ලේ දී බ්‍රිතාන්‍ය සංචාරකයකු මරා ඇගේ පෙම්වතියට පහරදීමේ සිද්ධියෙන් බලපෑමක් නැති බව සංචාරක අංශ කියයි.</body>
+    <comments>
+        <comment>
+            <author>ෂාම්ස්</author>
+            <date>2012-01-02 21:36:26</date>
+            <index>0</index>
+            <phrase>බොහොම සන්තෝසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කරුණානායක</author>
+            <date>2012-01-02 22:00:00</date>
+            <index>1</index>
+            <phrase>ඇති යාන්තම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-01-02 23:48:02</date>
+            <index>2</index>
+            <phrase>ඝාතනය සාධරණීය කරනය කරන්න හදන්න නම් එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-01-03 00:20:39</date>
+            <index>3</index>
+            <phrase>බොහොම සතුටුයි. නැත්නම් සංචාරක ව්‍යාපාරයෙන් ජීවත් වුන ප්‍රදේශවාසීන්ට යන එන මං නැති වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් සෝමතිලක</author>
+            <date>2012-01-03 05:58:22</date>
+            <index>4</index>
+            <phrase>අපිට හරිම ලැඡ්ජයි මේ වගේ දේශපාකයෝ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-01-03 09:33:22</date>
+            <index>5</index>
+            <phrase>මේ කාරණාව ගැන සැහැල්ලුවට හිතන්න එපා. අද විදේශික කාන්තාවන්ට මෙහෙම වෙන එකේ හෙට අපේ කාන්තාවන්ට කොහොම වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-01-03 10:07:51</date>
+            <index>6</index>
+            <phrase>යලි මෙවන් දේ සිදු නොවීමට වග බලා ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-01-03 10:11:29</date>
+            <index>7</index>
+            <phrase>යළි එවන් දේ සිදු නොවන ලෙස සියලු දෙනාම කටයුතු කළ යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-01-03 11:02:14</date>
+            <index>8</index>
+            <phrase>දැන්වත් හොදට හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිරංග සේනාරත්න</author>
+            <date>2012-01-03 11:31:13</date>
+            <index>9</index>
+            <phrase>මිරිස්සේ මිනිස්සුනම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජය</author>
+            <date>2012-01-03 13:27:40</date>
+            <index>10</index>
+            <phrase>මෙහෙම කියල තංගල්ල ඝාතනය යට ගයනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2012-01-03 13:35:07</date>
+            <index>11</index>
+            <phrase>විදේශිකයන්ට දෙන ආහාර ගැනත් හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-01-03 16:16:34</date>
+            <index>12</index>
+            <phrase>වෙන රටවලදි අපට කරන්න දේවල් වල හැටියට ගණන්ගන්නත් බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>226536</articleId>
+    <title>වෑන් රිය පෙරළී පහක් මරුට</title>
+    <author>තරිඳු ජයවර්ධන  කේඩීදේවප්‍රිය එන්කේ නන්දසේන</author>
+    <date>2014 අපේ‍්‍රල් මස 19 06:48:58</date>
+    <body>මහනුවර අඹතැන්නේ  සිට කතරගමට යමින් තිබූ වෑන් රියක් කතරගම තිස්ස පාරේ දෙටගමුව වැවට අද අලුයම  පෙරළී පස් දෙනකු මිය ගිය බව පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි.
+අවුරුදු පහක දරුවකු බේරා ගත් බව පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2014-04-19 07:40:48</date>
+            <index>0</index>
+            <phrase>අයියෝ මොකද මේ රටට වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාර්ඩ් ප‍්‍රීඩා</author>
+            <date>2014-04-19 08:08:15</date>
+            <index>1</index>
+            <phrase>රටට නම් මොකුත් වෙලා නැහැ. වාහන එලවන අයට මොකද වෙලා තියෙන්නේ ? එනිසා අනතුරු අවම කරගන්ට අදිටන්කර ක‍්‍රියාකරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2014-04-19 08:13:50</date>
+            <index>2</index>
+            <phrase>මේවගේ අනතුරු දැන් රටාවක් වෙලා. පරිස්සම් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඊ මනෝහරන්</author>
+            <date>2014-04-19 09:05:45</date>
+            <index>3</index>
+            <phrase>අතුල, රටට මොකුත් වෙලා නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුන්චිරලා</author>
+            <date>2014-04-19 09:08:21</date>
+            <index>4</index>
+            <phrase>මේ රටටනම් මොකුත්වෙලා නැ.............බිල යන්ට එපා කියනවනේ කොච්චරවත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක ආරච්චිගේ</author>
+            <date>2014-04-19 08:34:00</date>
+            <index>5</index>
+            <phrase>රටට මොකුත් වෙලා නැහැ ,පාරවල් හොද වැඩියි. අපේ වාහන එලවන අය කිසිම වගකීමකින් කටයුතු කරන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරා</author>
+            <date>2014-04-19 09:23:00</date>
+            <index>6</index>
+            <phrase>මේකට එක හේතුවක් තමයි කබල් වාහන පාවිච්චි කිරිම. සාමාන්‍ය කෙනෙකුට වාහනයක් ගන්නවා නම් 300%-400% බදුගහනවා. නමුත් දේශපාලුවන්ට බදු ගහන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්තා</author>
+            <date>2014-04-19 09:24:05</date>
+            <index>7</index>
+            <phrase>බුදු හාමුදුරුවෝ දේශනා කල දේවලට වඩා වෙනත් දේවල් දැන් ලංකාවේ සිදුවන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2014-04-19 09:01:16</date>
+            <index>8</index>
+            <phrase>නිශාර්ඩ් ප‍්‍රීඩා, පිටරට ඉන්න අය එහෙටම වෙලා ඉන්න හිත හදා ගන්න නිතර දෙවේලේ කියන මන්තරේ නේ ඔය අතුල කියලා තියෙන්නේ. එකට කට්ටිය කලබල වෙන්න ඔනෑ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2014-04-19 09:45:48</date>
+            <index>9</index>
+            <phrase>රටට මෙකවත් වෙලා නෑ පසිසේ පාරේ වාහන ගෙනියන්න දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නේ</author>
+            <date>2014-04-19 09:50:16</date>
+            <index>10</index>
+            <phrase>දුර ගමන් යදදී රියදුරු මහතා ගැන බලන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-04-19 09:21:10</date>
+            <index>11</index>
+            <phrase>රියදුරු බලපත් දීමේ දී වැරද්දක් වෙලා වත්ද? හරියට රියදුරු බලපත ලබා ගත්තා නම් අනතුරක් වලක්වා ගැනීමේ හැකියාව තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නොයෙල්</author>
+            <date>2014-04-19 10:10:52</date>
+            <index>12</index>
+            <phrase>මේක රටේ වරදක් නොවේ,නොදන්නා පළාත්වල යනකොට පරිස්සමන් රිය පදවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-04-19 10:15:57</date>
+            <index>13</index>
+            <phrase>පාරවල් හොඳ වැඩියි, පාර දිගේ ඉගිලෙනවා. ඉතින් මෙහෙම වෙන එක පුදුමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මජිනා</author>
+            <date>2014-04-19 09:41:51</date>
+            <index>14</index>
+            <phrase>නිදිමතට අමු සියඹලා කරලක් වාහනේ ඇතුලේ නිතරම තබා ගනන . නිදිමත එනවිටම එම කරල හපන්න එවිට නිදිමත නැතිවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර පෙරේරා</author>
+            <date>2014-04-19 10:47:28</date>
+            <index>15</index>
+            <phrase>අපේ මිනිසුන්ට තරුණ රියදුරන්ට වෙලා තියෙන දේ තමයි කල්පනාවෙන් රිය ධාවනය නොකිරීම. ඇඟට තෙහෙට්ටුවක්, නිදිමත ගතියක් වගේ අවොත් සුදුසු තැනක නවත්වලා විනාඩි කීපයක් ඇස් දෙක වහගෙන ඉඳල යන්න බලන්න. අමාරුකම් සේරම ඉවරයි. ඇතුලේ ඉන්න කට්ටිය නපුරක් හිතන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2014-04-19 10:26:41</date>
+            <index>16</index>
+            <phrase>රටක් සංවර්දනය කරද්දී මිනිස්සුන්ගේ බුද්ධියත් සංවර්දනය කරන්නේ කළ යුතුයි. බුද්ධිය ටිකෙන් ටික හීන වෙලා තියෙන්නේ මේ මිනිස්සුන්ගේ. ඒකයි මේ වගේ වලක්වාගත හැකි අනතුරු සිදුකරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙහාන් අමරසිංහ</author>
+            <date>2014-04-19 11:17:57</date>
+            <index>17</index>
+            <phrase>මේ වගේ අනතුරු වලට හේතුව බීමත්කම සහ නින්ද යාමයි. නින්ද යන්නේ අධික වෙහෙස සහ එක දිගටම වාහන පැදවීම නිසා. මේ වගේ දුර ගමන් යනවා නම් රියදුරන් දෙදෙනෙක් යන එක වැඩිය හොඳයි. එක්කෙනෙක් වෙහෙසට පත් වුනහම අනිත් කෙනා පදවන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත පද්මසිරි</author>
+            <date>2014-04-19 11:16:44</date>
+            <index>18</index>
+            <phrase>කතරගම දෙවියන් වත් මේක දැකල නෑ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2014-04-19 12:08:15</date>
+            <index>19</index>
+            <phrase>බුදුහාමුදුරුවන් දේශනා නොකළ දේවල් සමහර සංවිධාන වල නායකයන් දේශනා කරනවා. (නදී) ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිනේන්ද්‍ර</author>
+            <date>2014-04-19 11:56:25</date>
+            <index>20</index>
+            <phrase>අපිත් ඊයේ කතරගම ගිහින් ආවා ඔය පාරේම. බීමත්කම හා අධික වෙහෙස නිසා ඇතිවෙන නිදිමත තමා රිය අනතුරු වලට ප්‍රධානම හේතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද කුමාර</author>
+            <date>2014-04-19 12:23:09</date>
+            <index>21</index>
+            <phrase>රටේ පාලකයෝ වඩා වඩා ධර්මිෂ්ඨ විය යුතුයි නැත්නම් රට පිරිහෙනවා. හැම තැනම අනතුරු අපරාධ, මේ අවුරුදු දවස් ටිකට කී දෙනෙක් මැරුණද අනතුරු වලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-04-19 13:06:49</date>
+            <index>22</index>
+            <phrase>අනේ දෙවියනේ මේ මොන අපරාදයක්ද ? ඊයෙ 10 දෙනෙකු මිය ගියා අද 5 දෙනෙකු මිය ගිහින් , ඔබ සැමට නිවන් සැප ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි සුමිත් හේවාවසම්</author>
+            <date>2014-04-19 12:36:31</date>
+            <index>23</index>
+            <phrase>ෂුවර් එකටම බීලා වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2014-04-19 13:23:06</date>
+            <index>24</index>
+            <phrase>අවදානම් තැන ආරක්ෂක වැටවල් ඉදිකළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2014-04-19 13:35:17</date>
+            <index>25</index>
+            <phrase>මිය ගිය අය ගැන කණගාටුයිඅනතුරක් සිදුවූ ගමන් අපේ සිතට නැගෙන්නේල මෙය බිමත්කමෙන් සිදුවුන අනතුරක් බව තමයි නමුත් එ්ක සියයට සීයක්ම නිවැරදි නැහැමොකදල නොබිපු බොහෝ අය පවා මහපාරේදී රිය පදවන්නේ බිල මත්වෙලා වගේ කුලප්පු උන ගතියකින්නේ විනය හික්මීම කියන දේ අහලකවත් නැහැ ආත්මාර්ථකාමී බව කැපී පෙනෙනවා තමන් වෙනුවට අනෙක් වාහනයේ රියැදුරා ඔහුගේ වාහනයේ වේගය අඩුකර තමන් හට ඉඩ සලසා දේවී යයි සිතුවත් අනෙක් රියදුරත් තමන් වගේම කුලප්පු කාරයෙක් බව වැටහෙද්දි අනතුර සිදුවෙලා හමාරයි බොහෝ රියදුරන්ට කහ ඉර ළඟ සිටගෙන සිටින පුද්ගලයන් රැඳී ඉන්නේ පාර හරහා මාරු වීමටයි කියන සිතුවිල්ල ඇත්තෙම නැති තරම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානුක රණවීර</author>
+            <date>2014-04-19 13:02:24</date>
+            <index>26</index>
+            <phrase>උදය ඔබ නිවැරදි ... අවදානම් මාර්ගවල වැටවල් ඉදිකළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්-සාජා</author>
+            <date>2014-04-19 14:21:49</date>
+            <index>27</index>
+            <phrase>මෙහෙම අනතුරු උනොත් ලංකාවේ මිනිස්සු ඉතුරු වෙයිද දන්නේ නැහැ. හැමදාම අහන්න දකින්න වෙන්නේ මරණ ගැනමයි .මිය ගිය සැමට නිවන් සැප ලබේවා!(නදී).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ කෝනාර</author>
+            <date>2014-04-19 13:43:34</date>
+            <index>28</index>
+            <phrase>කතරගම-තිස්ස පාරේ දෙටගමුව වැව අසල මාර්ගය ඉතාමත් අනාරක්ෂිතයි. මීට පෙරදීද මෙම ස්ථානයේ වාහන අනතුරු කීපයක්ම සිදුවූවා. මෙම ස්ථානයේ ආරක්ෂක වැටවල් ඉදිකර යුතුයි. නැතිනමි ඉදිරියටත් මෙවැනි අනතුරැ සිදුවෙවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්‍යලතා</author>
+            <date>2014-04-19 13:56:22</date>
+            <index>29</index>
+            <phrase>අසේල , සමන්තා දැන් ලංකාවේ අය කරන දේවල් දෙවිවරු වුනත් ඉවසන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිදීමා</author>
+            <date>2014-04-19 14:42:03</date>
+            <index>30</index>
+            <phrase>කතරගම වගේ පූජනීය තැනකට යන්නෙත් මේ අය බීලද? එහෙනම් ඉතින් ලංකාවේ මින් ඉදිරියට වෙන රිය අනතුරු ඔක්කොම වෙන්නේ බීමත් කමින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුක</author>
+            <date>2014-04-19 14:45:13</date>
+            <index>31</index>
+            <phrase>රටට සාපයක් වැදිලාද තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමාලාල්</author>
+            <date>2014-04-19 14:36:49</date>
+            <index>32</index>
+            <phrase>වාහන එලවන කට්ටිය දැනගන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරෝමි- පිළියන්දල</author>
+            <date>2014-04-19 14:40:52</date>
+            <index>33</index>
+            <phrase>බලාගෙන ගියාම වාහන එලවන රියදුරන්නේ දැන් ත්‍රස්තවාදීන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2014-04-19 14:53:49</date>
+            <index>34</index>
+            <phrase>අනේ අපි හැමෝම එකතුවෙලා මිය ගිය අයට නිවන් සුව පතමු,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-04-19 15:48:17</date>
+            <index>35</index>
+            <phrase>වජිරගේ කතාව තමයි හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භානු</author>
+            <date>2014-04-19 16:37:01</date>
+            <index>36</index>
+            <phrase>රියදුරාට නින්ද ගිහින් ලු. දුර බැහැර ඉඳලා එනකොට රියදුරාට විවේකයක් දෙන එක හරිම වැදගත්. අපිත් වෑන් හයර් කරගෙන වන්දනා ගමන් විනෝද ගමන් ගිහින් තියනවා. උදේ පාන්දර නැතිනම් මහ රාත්‍රියේ යනවානම් අනිවාර්යයෙන්ම රියැදුරාව විවේක ගන්වලා තමා යන්නේ. අපි දන්නා පවුලක් හදිසි අනතුරකට ලක් වුන හැටි අහපු දවසේ ඉඳල අපිත් හරිම ප්‍රවේශම් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-04-19 16:05:49</date>
+            <index>37</index>
+            <phrase>නැවතත් කියන්න තියෙන්නේ අපේ වාහන වල තත්වය අන්තිමයි. කිසිම නඩත්තුවක් නැහැ. පාසැල් ළමුන් ගෙනියන වාහන සියයට 90 ම ඒ වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවිෂ්ක වත්තේගම</author>
+            <date>2014-04-19 17:38:48</date>
+            <index>38</index>
+            <phrase>රියදුරු මහත්තුරුන්ට කලබල වැඩි නිසයි මෙහෙම අනතුරු සිදුවන්නේ, හරියට දැන් ලෝකේ විනාස වෙන්න යනවා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිනී</author>
+            <date>2014-04-19 18:18:22</date>
+            <index>39</index>
+            <phrase>අලුයම් කාලයේ අනතුර වුනා නම් ඒ රියදුරුට නින්ද යාමෙන්. අනිත් පිරිස නිදා ගන්ට ඇති රියදුරුට තනියම බාර දීලා. එවැනි දුර ගමනකදී කවදාවත් රියදුරු තනි කරන්ට හොද නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීමා</author>
+            <date>2014-04-19 19:16:14</date>
+            <index>40</index>
+            <phrase>රටට මොනවත් වෙලා නැහැ. විනීත රියදුරු සේවයක් ,දාවනය කිරිමට සුදුසු තත්වයේ වාහන උනා නම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙනෝරා</author>
+            <date>2014-04-19 18:41:21</date>
+            <index>41</index>
+            <phrase>මිය ගිය අයට නිවන් සුව පතමු,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ ඉතාලිය</author>
+            <date>2014-04-19 18:51:20</date>
+            <index>42</index>
+            <phrase>පලවෙනි එක විනයක් නැතිඑක දෙක පරණ වාහන පාවිචිය.පරණ වාහන ඉවත් කරන ක්‍රමයක් රටට නැතිඑක . දියුණු රටවල පරණ වාහන දුවන්න බැහැ. අපේ රටේ පරණම වාහන සිට අලුත්ම වහනය දක්වා මිනිසුන් ප්‍රවාහනය කරනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිසීඩ්</author>
+            <date>2014-04-19 20:09:51</date>
+            <index>43</index>
+            <phrase>කතරගම දෙයියෝ ඉදලත් දෙවියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝසප් පෙරේරා</author>
+            <date>2014-04-19 21:02:58</date>
+            <index>44</index>
+            <phrase>මෙතන මම දකින විදිහට, කතරගම ගිහින් පඞුරු බැන්දම වාහනය ආරක්ෂා වෙන බවට කවුරුත් විශ්වාස කරනවා‍. එනිසා තමන්ගේ ආරක්ෂාවට තමන් විසින් කලයුතු වැඩකොටස අමතක කරනවා. දෙයිගොල්ලො කීදෙනෙක් හිටියත් මගේ වාහනේ ඉන්න සීට් බෙල්ට් දෙයියොයි තිරිංග දෙයියොයි මාව ආරක්ෂා කරයි කියලා විස්වාස කරනවා. ඒ වගේම මම හිතනවා බුදුන්ගේ ඉගැන්වීම අනුව ජීවත්වීමෙන්ත් අනතුරු අඩුවන බව. ඒ කියන්නේ මල් පූජා කිරීම හෝ බුදුන් වැඳීම නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආශා විජයසේකර</author>
+            <date>2014-04-19 21:23:47</date>
+            <index>45</index>
+            <phrase>අනේ දෙයියනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂා</author>
+            <date>2014-04-19 23:07:01</date>
+            <index>46</index>
+            <phrase>මේවගේ දේවල් අද හරියට අහන්න දකින්න ලැබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මලා</author>
+            <date>2014-04-19 23:08:10</date>
+            <index>47</index>
+            <phrase>අවාසනාවක මහත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-04-19 23:08:49</date>
+            <index>48</index>
+            <phrase>අනතුරු වලින් ඉවක් බවක් නැතිව මියැදෙන මිනිසුන්ව නිවනට යවන්න ඕනෑවටත් වඩා සෝ සුසුම් පිට කරන්න මිනිස්සු ලංකාවේ කොයි තරම් හිටියත් අනතුරු වලක්වන විධියක් ගැන කතා කරන මිනිසුන් වැඩි හරියක් ඉන්නේ පිටරට. ත්‍රස්තවාදය සීයයට සීයක් තුරන් කලයි කියා මැත දොඩවන මිනිස්සු මාර්ග අනතුරු ත්‍රස්තවාදයට සිතුසේ හිස ඔසවන්න ඉඩදීලා තියෙනවා. අකාලයේ රටට අහිමිවෙන මේ ජීවිත බේරගන්න පවතින රජයකට බැරිනම් කරන්න පුළුවන් පිරිසකට එක කරන්න ඉඩ දීල අයින්වෙන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාහීර්</author>
+            <date>2014-04-20 00:33:09</date>
+            <index>49</index>
+            <phrase>කතරගමේ දෙවියෙක් ඉන්නවද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන් රොෂාන් ද සොයිසා</author>
+            <date>2014-04-20 01:48:57</date>
+            <index>50</index>
+            <phrase>මියගිය අයට නිවන්සුවලැබේවා! තුවාල කරුවන්ට ඉක්මන් සුවපතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මා</author>
+            <date>2014-04-20 07:14:39</date>
+            <index>51</index>
+            <phrase>මේ අපරාධ වැඩි වෙන්න හේතුව මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිසී</author>
+            <date>2014-04-20 23:27:43</date>
+            <index>52</index>
+            <phrase>මොකද මේ රටට වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වඩුගේ</author>
+            <date>2014-04-21 10:03:52</date>
+            <index>53</index>
+            <phrase>පාරේ යන අයගේ ආරක්ෂාවට පිලියමක් කරනවා නම් ඒක ගොඩක් හොඳ දෙයක්. මොන ආරක්ෂක ක්‍රම තිබුණත් අපේ සමහර අයියල ඕව ගලවගෙන ගිහින් මැරෙනවා. මොනවා වුණත් නොසැලකිල්ල නිසා තමයි ගොඩක් අනතුරු වෙන්නේ. අඩුම තරමේ හානිය අවම කරගන්න හරි පුළුවන් වෙන්නේ අපි සැලකිල්ලෙන් හිටියොත් විතරයි නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2014-04-21 09:23:30</date>
+            <index>54</index>
+            <phrase>ඕවට ජනාධීපතිතුමා මොනවා කරන්නද? නිදිමත නම් නිදියල යන්න ඕනි. ඔය විදියට ඉස්සරහ ටයර් එක පිපුරුවත් වෙන රජයක් ඕනි කියයි නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2014-04-21 17:57:05</date>
+            <index>55</index>
+            <phrase>අනතුරක් වුණහම කිසිම කෙනෙකුට බැනලා වැඩක් නැහැ. කවුද සිතා මතා අනතුරු කරගන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

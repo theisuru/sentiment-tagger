@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461568</articleId>
+    <title>‘විග්නේෂ්වරන් වගකීම් විරහිතව ක්‍රියා කරලා‘</title>
+    <author>රෝහණ චන්ද්‍රදාස</author>
+    <date>2016 සැප්තැම්බර් මස 27 10:14:15</date>
+    <body>දෙමළ නැගිටීමේ ව්‍යාපාරය නමින් විරෝධතා පවත්වමින් උතුරු මහ ඇමැති සී.විග්නේෂ්වරන් වගකීම් විරහිතව ක්‍රියා කර ඇතැයිද එය හෙළා දකින බවද උතුරු මැද පළාත් මහ ඇමැති පේෂල ජයරත්න බණ්ඩාර මහතා අද පැවසීය.
+උතුරු මැද පළාත් ශ්‍රවණාගාරයේ අද පැවැති පළාත් සංචාරක දින සැමරුම් උළෙලකට එක්වෙමින් ඔහු ඒ බව කීවේය.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-27 05:07:51</date>
+            <index>0</index>
+            <phrase>හෙළාදැකීම හැමදේටම හරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-09-27 06:13:42</date>
+            <index>1</index>
+            <phrase>ඔහොම ටිකක් උඩ පැනපුවාවේ. ඔයිට වැඩිය උඩ පැන්න අයත් හිටිය නොවැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-09-27 06:35:19</date>
+            <index>2</index>
+            <phrase>හෙළා දැකල විතරක් මදි ඇමති තුමෝ, විග්නේෂ්වරන් රජයට විරුද්ධව කැරලි ගහනවා,ඒ වගේම රටේ සිංහල-දෙමල මිනිස්සු අතර යලි ගැටුමක් ඇති කරන්න කටයුතු කරන නිසා ඔහුට එරෙහිව නීතිමය කටයුතු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-09-27 07:10:57</date>
+            <index>3</index>
+            <phrase>දෙයක් වෙන්නට පෙරනේ ඕවා වළක්වාගන්න ඔබතුමාලා කතාකළයුත්තේ.වෙලා ඉවරවුණාට පසුව තමයි හැමෝම කුලප්පුවෙලා දඟලන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-28 07:32:50</date>
+            <index>4</index>
+            <phrase>ඔබතුමාවත් හෙළා දැක්ක එක ගැන සතුටුයි රටේ නායකයෝ දෙන්නා තාම නිහඩයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

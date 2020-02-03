@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>346352</articleId>
+    <title>දෑල යළිත් දියවඩන නිළමේ</title>
+    <author>චමිල් රූපසිංහ</author>
+    <date>2015 සැප්තැම්බර් මස 08 16:55:27</date>
+    <body>ප්‍රදීප් නිලංග දෑල මහතා ශ්‍රී දළඳා මාළිගාවේ දියවඩන නිළමේ ලෙස නැවත වරක් තේරී පත්වී ඇතැයි දළඳා මාළිගාවේ ආරංචි කියයි. 
+මුළු ඡන්ද සංඛ්‍යාවෙන් ඡන්ද 205ක් පමණ ඔහුට ලැබී ඇතැයිද කියති. දෙවැනි තැනට පත්ව ඇත්තේ ගයාන් හීන්කෙන්ද මහතාය. ඔහුට ඡන්ද 53 ක් හිමිව ඇති අතර නිශ්ශංක විජයරත්න මහතාට හිමිව ඇත්තේ ඡන්ද 31ක් පමණි.
+දියවඩන නිලමේ ලෙස තේරී පත්වූ නිලංග දෑල මහතා අද පස්වරුවේ සිය පවුලේ අය හා සමීපතමයන් සමග ශ්‍රී දළඳා මාළිගයට ගොස් දළඳා සමි﻿ඳුන් වැඳ පුදා ගත්තේය.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>විජේතුංග</author>
+            <date>2015-09-08 13:39:42</date>
+            <index>0</index>
+            <phrase>අපෙන් සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසුන්දර</author>
+            <date>2015-09-10 02:12:20</date>
+            <index>1</index>
+            <phrase>යහපත් වූ සේවයක් ඉටුකරන්න ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධාර</author>
+            <date>2015-09-10 16:20:49</date>
+            <index>2</index>
+            <phrase>ඔබට ජය වේවා! දළදා සමිඳු පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

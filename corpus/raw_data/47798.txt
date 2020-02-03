@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47798</articleId>
+    <title>කප්පම් කන්න ගියැයි ඇමැති ගෝලයකුට ඇප</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 ජූනි මස 12 17:17:24</date>
+    <body>බෞද්ධයා රූපවාහිනියේ මාධ්‍යවේදී ප්‍රසන්න  නාමල් බණ්ඩාර කුලතුංග මරා දමන බවට කප්පමක් ඉල්ලා රුපියල් ලක්ෂයක් ගනිද්දී සැකපිට අත්අඩංගුවට ගත් බව කියන වාද්දූව තල්පිටියේ ඩොනල්ඩ් රංජිත් පෙරේරා  රුපියල් ලක්ෂ 10ක ශරීර ඇප දෙකක් මත මුදා හැරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් නිශාන්ත පීරිස් මහතා නියෝග කෙළේය. ඔහු ඇමැති මර්වින් සිල්වාගේ සම්බන්ධීකරණ  ලේකම් වරයෙකියි අධිකරණයේ දී කියැවිණි. තවත් පුද්ගලයකු අත්අඩංගුවට ගැනීමට නියමිත නිසා ඔවුට ඇප නෙදෙන්නැයි පොලිසිය ඉල්ලා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>නිකම්</author>
+            <date>2012-06-12 17:42:35</date>
+            <index>0</index>
+            <phrase>කක්කුටු පවුලේ කෙනෙක් මෙයා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2012-06-12 17:43:05</date>
+            <index>1</index>
+            <phrase>අනේ අපේ රටට ගිය කළක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මංජුල</author>
+            <date>2012-06-12 17:44:18</date>
+            <index>2</index>
+            <phrase>අතින් නොකා ගෑරැප්පුවෙන් කන ඇමතිවරැ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්ත බබක්කා</author>
+            <date>2012-06-12 17:47:28</date>
+            <index>3</index>
+            <phrase>කවුද මගේ ගෝලයා අත්අඩංගුවට ගත්තේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෞෂාඩ්</author>
+            <date>2012-06-12 17:50:41</date>
+            <index>4</index>
+            <phrase>ඇමතිගෙ ගෝලයට ඇප...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2012-06-12 17:52:24</date>
+            <index>5</index>
+            <phrase>හොරුන්ගෙත් හොරු (කම්බා හොරු) ඇප මත නිදහස්, පොඩි මිනිහෙක් කලිසමක් වත් හොරකම් කලානම් කෙලින්ම හිරේ..ඇප නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-12 17:59:04</date>
+            <index>6</index>
+            <phrase>කප්පම් කොතනද එයා එතන එයා කොතනද කප්පම් එතන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>karolis</author>
+            <date>2012-06-12 18:42:15</date>
+            <index>7</index>
+            <phrase>හහ්.. හහ්...හා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-06-12 19:22:28</date>
+            <index>8</index>
+            <phrase>මෙයා දැන් රාජ්‍ය නොවන සංවිධානවලිනුත් කප්පම් ගන්නවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොරටු පාල</author>
+            <date>2012-06-12 19:33:24</date>
+            <index>9</index>
+            <phrase>රටේ වගකිවයුත්තෝ මේ නිවුස් එක දකින්න නෙතිව ඇති මගේ හිතේ. දැක්කත් නොදැක්ක වගේ ඉන්නවද මන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුල්ලියා</author>
+            <date>2012-06-12 18:56:10</date>
+            <index>10</index>
+            <phrase>ආසනේ දියුණුවට වෙන්න ඇති කප්පම් ගන්න ඇත්තෙ.. අනේ පව්.. ඇප දීපු එක හොදයි ඇමතිගෙ හයිය..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-06-12 19:00:48</date>
+            <index>11</index>
+            <phrase>ගෝලය එළියට දාපු එක හොදයි.. නැත්නම් ලොක්කා ජීවත් ‍වෙන්නේ කොහොමද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් සමරකෝන්</author>
+            <date>2012-06-12 19:00:51</date>
+            <index>12</index>
+            <phrase>හහ් හහ් හා.. දුක්වෙන්න එපා රට වැසියනි මේ කේවට්ටයා රටම හෙල්ලූ දුටුගැමු‍ණුගෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විර්මන් සිල්වා</author>
+            <date>2012-06-12 19:44:43</date>
+            <index>13</index>
+            <phrase>හැහ්.. හැහ්... හෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-12 19:56:05</date>
+            <index>14</index>
+            <phrase>ඕන් දැන් රූප පෙට්ටි අස්සටත් ගෝලයෝ ඇවිත්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-06-12 19:50:42</date>
+            <index>15</index>
+            <phrase>*හොරුන්ගෙත් හොරු (කම්බා හොරු) ඇප මත නිදහස්, පොඩි මිනිහෙක් කලිසමක් වත් හොරකම් කලානම් කෙලින්ම හිරේ..ඇප නෑ... *හහ් හහ් හා .....දුක්වෙන්න එපා රට වැසියනි *අනේ අපේ රටට ගිය කළක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුල්ලියා</author>
+            <date>2012-06-12 20:38:45</date>
+            <index>16</index>
+            <phrase>ලොකු අයගෙ අඩි පාරේ යන ගෝල බාලයෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනෝමා</author>
+            <date>2012-06-12 22:30:46</date>
+            <index>17</index>
+            <phrase>නඩුත් හාමුදුරැවන්ගෙ බඩුත් හාමුදුරැවන්ගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීඩී.</author>
+            <date>2012-06-12 22:31:45</date>
+            <index>18</index>
+            <phrase>100000ක් ගනිද්දි සැක පිට අත්අඩංගුවට කියන්නෙ.. ගන්නව දැක්කත් සැකයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-06-12 22:33:04</date>
+            <index>19</index>
+            <phrase>උඩ දෙවියෝ ඉන්නවනම් මේ අවනඩුව පෙනේවා.....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගා ශානි</author>
+            <date>2012-06-12 23:04:50</date>
+            <index>20</index>
+            <phrase>අද අපේ රටේ පිළිලයක් තරමට විශාලව වර්ධනය වුණ ප්‍රශ්නයක් තමයි මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-06-13 00:05:36</date>
+            <index>21</index>
+            <phrase>ඔය කියන ඇමති ආචාර්යවරයෙක් නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-06-13 00:41:04</date>
+            <index>22</index>
+            <phrase>බෞද්ධයා රූපවාහිනිය (සැම හිත සුව පිනිස)දම් සභා මණ්ඩපයක්.එහි සේවය කරන එකී නොකී සැමව ඇගයිය යුතුයි මේ කරන මෙහෙවරට. ඒත් අඳ බාල ගෝලයින්ට මිනිස් ජීවිත වල වටිනාකමක් නෑ.ඒකත් තවත් එක් කප්පමක් විතරයි.හොද වැඩ කරන්න බැරිනම් දැක බලා සතුටු වෙන්නවත් පිංනැති පාපතරයෝ.අහෝ..දෙව් දත් නොදුටු මොක් පුර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-06-13 01:55:35</date>
+            <index>23</index>
+            <phrase>ගස් බදින්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනුෂි නවරත්න</author>
+            <date>2012-06-13 06:21:26</date>
+            <index>24</index>
+            <phrase>ඇප දෙන්න පොලිසිය විරැද්ධ උනාට මහේස්ත්‍රාත් ඇප දුන්නෙ බයට වෙන්න ඇති.. දැන් වරෙන්තු උනාම අල්ලන්න යන්නෙ මහේස්ත්‍රාත් වෙන්න ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-13 06:30:39</date>
+            <index>25</index>
+            <phrase>ඇමතිතුමයි කප්පමයි හරියට ගහට පොත්ත වගෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-06-13 07:30:43</date>
+            <index>26</index>
+            <phrase>දවස්දෙක තුනකට කළින් මම දැක්කා මේ පත්තරේම ...කොන්දොස්තර ගෙන් රුපියල් 250 ක් පගාව අරගෙන කාවද මන්දා රිමාන්ඩ් කරලා කියලා .මෙතන මිණීමරණ තර්ජනයකුයි ,ලක්ෂ 10ක කප්පමකුයි හින්දා රිමාන්ඩ් කරන්න තරම් බරපතල නෑ ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකලබුජං</author>
+            <date>2012-06-13 08:47:35</date>
+            <index>27</index>
+            <phrase>බිංදු ගාන වැඩිකරල අපිව අමාරැවෙ දාන්න එපා.. බිංදුවට වටිනාකමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-06-13 08:40:19</date>
+            <index>28</index>
+            <phrase>ඇමතිට මේ දිනවල මුදල් හිඟ ඇති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීනා</author>
+            <date>2012-06-13 09:32:51</date>
+            <index>29</index>
+            <phrase>කැළණිය පැත්තේ කෙනෙක් වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-06-13 09:44:05</date>
+            <index>30</index>
+            <phrase>අපෝ ඔයිට වඩා ගරු කටයුතු කප්පම් තුමාලා අපේ පැත්තේ ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්දරේ</author>
+            <date>2012-06-13 09:08:57</date>
+            <index>31</index>
+            <phrase>අනේ කාලේ වනේ වාසේ ..සමහරු ගෙදරට වෙලා හිටියත් තමන්ගේ නම පල වෙනවා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාහෝ</author>
+            <date>2012-06-13 10:20:02</date>
+            <index>32</index>
+            <phrase>ලොක්කා ටීවී එකට පාට් දාන්න ගිහින් කෑවා.දැන් ගෝලයාත් හොදටම කාලා.අනේ මන්දා.මෙයාලට ටීවී ස්ටේෂන් ඇලජික්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන</author>
+            <date>2012-06-13 10:26:47</date>
+            <index>33</index>
+            <phrase>ගෝලයාගේ ලොක්කට විරුද්ධව විනය පරීක්ෂණ පවත්වන්න එපා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනබා</author>
+            <date>2012-06-13 11:25:05</date>
+            <index>34</index>
+            <phrase>අපි ඊළග පාරත් මෙතුමාව වැඩිම මනාපයෙන් පාර්ලිමේන්තුවට යවන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-06-13 11:39:48</date>
+            <index>35</index>
+            <phrase>අත්අඩංගුවට ගත් පොලිස් නිලධාරීන්ට නඩු.... සැකකරුවන්ට උසස් වීම්.... මෙයයි ආසියාවේ ආශ්චර්යය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-06-13 14:20:28</date>
+            <index>36</index>
+            <phrase>ඒ කියන්නේ ඇමතිගේ කටට ඉබ්‍බෝ දාලද?දැන් වැඩ කරන්නේ හස්ත මුද්‍රාවෙන්ද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

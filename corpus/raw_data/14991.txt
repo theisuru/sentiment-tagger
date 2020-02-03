@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14991</articleId>
+    <title>විදුලි මණ්ඩලේට බර පාඩු</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 නොවැම්බර් මස 28 18:33:43</date>
+    <body>සිකුරාදා සැඩ සුළඟින්  දකුණේ නිවාස පන් ලක්ෂ තිස් දහසකට පමණ විදුලිය විසන්ධි වූ බව විදුලි බල ඇමැති පාඨලී චම්පික රණවක මහතා කියයි. ට්‍රාන්ස් පෝමර් පහක්, අඩුසැර විදුලි මාර්ග කිලෝමීටර්  1050ක් පමණ ද අධිසැර කිලෝමීටර් 45ක් පමණ ද විදුලි කණු 1180ක් පමණ ද හානියට පත්විය. වැලිගමට,  හබරාදූවට හා අහංගමට වැඩිම හානි සිදුවිය. අද සවස් වන විටත් ගොවල් ඇතුළු ස්ථාන 76000ක පමණ විදුලිය ලැබී නැත. විදුලි සේවකයෝ 750 දෙනෙක් පමණ අලුත් වැඩියා කිරීම් වලට කැඳවනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>රංග dubai</author>
+            <date>2011-11-28 20:58:04</date>
+            <index>0</index>
+            <phrase>අනේ අපේ රටට තමයි පාඩුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2011-11-28 21:18:36</date>
+            <index>1</index>
+            <phrase>පරණ මළකඩ කාපු කනු ටිකවත් අලුත් වෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි</author>
+            <date>2011-11-29 04:25:58</date>
+            <index>2</index>
+            <phrase>රට ගැන හිතන්න පුරුදු වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kalu</author>
+            <date>2011-11-29 04:41:47</date>
+            <index>3</index>
+            <phrase>ගරු විදුලි බල ඇමති තුමනි,දැන්වත් බැරිද විදුලි රැහැන් පොලව යටින් ගෙනයන්න අනතුරුත් අඩුයි, අලාබත් අඩුයිනේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

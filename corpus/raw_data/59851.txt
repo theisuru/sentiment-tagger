@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59851</articleId>
+    <title>පිලිපීන අභ්‍යන්තර කටයුතු ඇමැති ගුවන් අනතුරින් මියයයි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  මැනිලා නුවරදීය</author>
+    <date>2012 අගෝස්තු මස 20 10:08:58</date>
+    <body>දුෂණ චෝදනාවලට ලක් ව සිටි පිලිපීන අභ්‍යන්තර කටයුතු අමාත්‍ය ජෙස් රොබ්රේඩෝ ගමන් කළ, ඔහුගේ පෞද්ගලික ගුවන් යානය පෙරේදා (18) අනතුරට පත්විය.
+අනතුරින් රොබ්රේඩෝ සහ යානයේ සිටි නියමුවන් දෙදෙනා ජිවිතක්ෂයට පත්වන්නට ඇතැයි පිලිපීන රජය පවසයි. යානය කඩා වැටුණේ මස්බාතේ නමැති දුපත අසලටය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-20 10:45:31</date>
+            <index>0</index>
+            <phrase>අයියෝ! මෙහේ ඇමතිලත් අපේ ඇමතිලා විදියමනේ. හැබැයි අපේ ඇමතිලාට පුද්ගලික ගුවන් යානා නැහැ තාම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-20 12:21:43</date>
+            <index>1</index>
+            <phrase>කල කල දේ පල පල දේ කියනවනේ ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-08-20 12:25:26</date>
+            <index>2</index>
+            <phrase>අයියෝ සල්ලි කියුවාලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-08-21 12:23:42</date>
+            <index>3</index>
+            <phrase>නියෝජ්‍ය ඇමතිට සතුටු ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-08-21 13:32:47</date>
+            <index>4</index>
+            <phrase>කාට කාටත් හොඳ පාඩම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2012-08-21 15:31:19</date>
+            <index>5</index>
+            <phrase>අපේ අය උඩින් යන්න බයයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙනුර</author>
+            <date>2012-08-22 08:06:59</date>
+            <index>6</index>
+            <phrase>ඔබට නිවන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

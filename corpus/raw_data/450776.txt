@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450776</articleId>
+    <title>හෙම්මාතගම මහ පාරේ තරුණයකුගේ සිරුරක්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 24 18:50:50</date>
+    <body>මාවනැල්ල හෙම්මාතගම මහ පාරේ තරුණයකුගේ සිරුරක් ඇතැයි පොලිසිය කියයි.
+ඩෙනිමක් ඇඳ සිටින මොහු හඳුනාගැනීමට පොලිසියට එහි ළඟා වෙමින් සිටී.
+කොළඹ සිට විශේෂ පොලිස් කණ්ඩායමක් එහි යවා ඇතැයි කියති.
+ </body>
+    <comments>
+        <comment>
+            <author>හේවාවසම්</author>
+            <date>2016-08-24 13:48:32</date>
+            <index>0</index>
+            <phrase>දැන් දැන් මිනීමැරුම් පිස්තෝල කල්ලි මංකොල්ලකෑම් පසුගිය කාලෙට වඩා වැඩියි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-08-24 14:09:11</date>
+            <index>1</index>
+            <phrase>මගේ රට මොන පැත්තකට ගමන්කරනවාද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොස්තා</author>
+            <date>2016-08-24 16:54:07</date>
+            <index>2</index>
+            <phrase>කට්ටිය වැඩ පටන් අරන් වගේ. එළිවෙන ජාමෙට හොඳ හොඳ සෙල්ලම් කිවුවලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-08-24 19:08:49</date>
+            <index>3</index>
+            <phrase>දෙවියනේ! අර පැහැරගත් තරුණයාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>329538</articleId>
+    <title>‘ඉන්ෆෝවී 2015‘ ජනපති අතින් විවෘත වෙයි</title>
+    <author>ගයාන් අමරසේකර</author>
+    <date>2015 ජූලි මස 03 14:53:43</date>
+    <body>සිසුන්ගේ තොරතුරු හා සන්නිවේදන තාක්ෂණ සාක්ෂරතාවය ප්‍රවර්ධනය කිරීමේ අරමුණින් කොළඹ විශාඛා විද්‍යාලය සංවිධානය කරන ‘ඉන්ෆෝවී 2015‘ තොරතුරු හා සන්නිවේදන තාක්ෂණික අධ්‍යාපන ප්‍රදර්ශනය කොළඹ ඩී.ආර්.විජයවර්ධන මාවතේ ශ්‍රී ලංකා ප්‍රදර්ශන හා සම්මේලන මධ්‍යස්ථානයේදී ජනපති මෛත්‍රිපාල සිරිසේන මහතා අතින් විවෘත විය.</body>
+    <comments>
+        <comment>
+            <author>ශිරන්ති</author>
+            <date>2015-07-12 02:18:52</date>
+            <index>0</index>
+            <phrase>අපේ එක්කෙනා තමයි යෝජනා කලේ හැම ඉස්කෝලේකටම බණ්ඩක්කා නොමිලයේ දෙන්න ඕනේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙලූ</author>
+            <date>2015-07-12 02:20:15</date>
+            <index>1</index>
+            <phrase>විශාඛාවන්ට අපේ සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

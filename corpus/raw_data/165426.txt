@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>165426</articleId>
+    <title>මර්වින් මුන්නේශ්වරමේදි කුකුලන් දෙදෙනකු මුදාහරි</title>
+    <author>ජූඩ් සමන්ත</author>
+    <date>2013 අගෝස්තු මස 31 20:25:21</date>
+    <body> 
+ </body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-09-03 12:55:09</date>
+            <index>0</index>
+            <phrase>කවුරු මොනවා කිවුවත් කොන්ද කෙලින් තියෙන දේශපාලකයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-09-03 14:20:24</date>
+            <index>1</index>
+            <phrase>මේවා සැලසුම් සහගත වැඩ මම හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-09-04 04:23:58</date>
+            <index>2</index>
+            <phrase>මෙන්න වැඩ ඔහොම තමා කරන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2013-09-04 13:13:06</date>
+            <index>3</index>
+            <phrase>මේවා බොරු ෂෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

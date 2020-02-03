@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16264</articleId>
+    <title>ජනපති ඉන්දුනීසියා යයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 07 11:29:30</date>
+    <body>ඉන්දුනීසියාවේ මාලි නුවර රාජ්‍ය නායක සමුළුවකට සහභාගි වීම සඳහා මහින්ද රාජපක්‍ෂ ජනපති අද ඉන්දිනීසියාව බලා ගියේය.</body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2011-12-07 13:41:14</date>
+            <index>0</index>
+            <phrase>කී දෙනෙක්ද 200? 300?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

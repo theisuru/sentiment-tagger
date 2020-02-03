@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494758</articleId>
+    <title>පින්නදූව පිවිසුම ළඟ මරණ දෙකයි</title>
+    <author>සිරංගිකා ලොකු කරවිට</author>
+    <date>2016 දෙසැම්බර් මස 31 09:17:14</date>
+    <body>පින්නදූව අධිවේගී පිවිසුම අසල මාර්ගයේදී අද(31) අලුයම යතුරුපැදි දෙකක් කාරයක ගැටීමෙන් යතුරුපැදිකරුවෝ දෙදෙනෙක් මරුමුවට පත් වූහ.
+ඔවුන් දෙදෙනා සංගීත සංදර්ශණයක් බලා ආපසු යමින් සිටියදී මෙම අනතුර සිදු වී ඇති බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>දේවින්ද</author>
+            <date>2016-12-31 07:34:14</date>
+            <index>0</index>
+            <phrase>නිදිමතේ ගියාද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-12-31 14:31:35</date>
+            <index>1</index>
+            <phrase>අපරාදේ! වටිනා ජීවිතනේ මේ නැතිවෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

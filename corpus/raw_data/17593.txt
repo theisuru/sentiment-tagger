@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17593</articleId>
+    <title>මොරටු පාලිකාව නිදහස්</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2011 දෙසැම්බර් මස 15 12:20:02</date>
+    <body>මොරටුවේ ප්‍රේම් ළමා නිවාසයේ පාලිකා මේරි එළිසැබෙත් නිදහස් කරන ලෙස නියෝග කළ කොළඹ අතිරේක මහේස්ත්‍රාත් ඉවොන් ප්‍රනාන්දු මහත්මිය ළමා අපචාර පරීක්ෂණ පරෙස්සමෙන් හා විධිමත්ව කරන ලෙස ජාතික ළමාරක්ෂක අධිකාරියට අවවාද කළාය. ළමයින් විකිණීම හා ළමයින් අපචාරයට යොදා ගත්තැයි පාලිකාවට එරෙහි චෝදාන දෙකෙන්ම ඇය නිදහස් කැරිණි. පාලිකාව වෙනුවෙන් පෙනීසිටි නීතිඥ නෙවිල් අබේරත්න මහතා කියා සිටියේ ළමාරක්ෂක අධිකාරියේ සභාපතිනිය ඉවක් බවක් නැතිව කළ සෝදිසියෙන් අස්ථාන චෝදනා නඟා එම ආයතනයට විශාල අපකීර්තියක් ගෙනදුන් බවයි. රොහන් පුෂ්පකුමාර නමැත්තාට එරෙහි පැමිණිල්ල ලබන 19 වැනි දාට කල් තැබිණි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2011-12-15 12:39:47</date>
+            <index>0</index>
+            <phrase>යුක්තිය ඉක්මණින් වීම සතුටක්. ඒත් අවිධිමත් භාවයට දඩුවමක් දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2011-12-15 12:41:37</date>
+            <index>1</index>
+            <phrase>ළමා ආරක්ෂක අධිකාරිය මීට වඩා සොයා බැලිය යුතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2011-12-15 13:31:41</date>
+            <index>2</index>
+            <phrase>සමහර පත්තර වලට බොරු ලියන ලේඛකයන්ටත් හෙඳ පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2011-12-15 15:27:05</date>
+            <index>3</index>
+            <phrase>ළමා ආරක්ෂණ අධිකාරියට එරෙහිව නඩුවක් ගොනුකරල කෝටි ගානක් වන්දි ඉල්ලන්න. ඒක ළමා නිවාසයේ සංවර්ධනයට යොදාගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවිකිලීක්ස්</author>
+            <date>2011-12-15 21:22:48</date>
+            <index>4</index>
+            <phrase>හෘද්ද ශාක්ෂිය කාටත් ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2011-12-15 23:14:35</date>
+            <index>5</index>
+            <phrase>අධිකාරිය පිටිපස්සෙන් හිටියෙ කවුද කියල හොයල බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2011-12-16 06:19:35</date>
+            <index>6</index>
+            <phrase>රජයේ ආයතන මීට වඩා බුද්ධිමත්ව කටයුතු කළ යුතුයි. කුමක් හෝ දෙයක් ගැන පණිවුඩයක් ලැබුණු ගමන් මාධ්‍යවලට දීල, ප්‍රසිද්ධියේ වටලන්න කලින් එහි ඇත්ත නැත්ත හොයල බලන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ud</author>
+            <date>2011-12-16 19:16:10</date>
+            <index>7</index>
+            <phrase>ඇත්ත හෙලි වෙනකොට අපහසුතාවයට පත් වෙලා එ නිසා යමක් කරන්න කලින් හොදට හෙව්වා නම් මොකද වෙන්නෙ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

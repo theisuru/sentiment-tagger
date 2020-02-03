@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42497</articleId>
+    <title>හෙළ වෙද මිණි පහනක් නිවේ</title>
+    <author>deeptha</author>
+    <date>2012 මැයි මස 16 10:16:38</date>
+    <body>ශ්‍රී ලංකාවේ කීර්තිමත් ආයුර්වේද වෛද්‍යවරයකු හා පාර්ලිමේන්තු මන්ත‍්‍රීවරයකු වූ විද්‍යානිධි වෛද්‍යාචාර්ය ඩබ්ලිව්. අයි. ප‍්‍රනාන්දු (95) මහතා අභාවප‍්‍රාප්ත විය. ඔහු ඉපැදුනේ 1917.10.25 වැනිදාය.
+අඩසිය වසකට වැඩි කාලයක් වෛද්‍ය වෘත්තියේ යෙදී සිටි ප‍්‍රනාන්දු මහතා රණසිංහ පේ‍්‍රමදාස ජනපති යුගයේදී (1989) පාර්ලිමේන්තුවට පත්කැරිණ.
+වාද්දුව මැලෑගම වෙද පරපුරේ සාමාජියකු වූ ඔහු 1976-94 කාලයේදී සමස්ත ලංකා ආයුර්වේද සම්මේලනයේ ප‍්‍රධාන සභාපතිවරයා විය.
+සර්වාංග වෛද්‍යවරයකු වූ ඔහු ඇස් වෙදකමේ විශේෂඥයෙක් ද විය. දේහය දෙහිවල පෙයාර්ලයින් පාරේ අංක 15 දරණ නිවසේ තැන්පත් කර ඇත. අවසන් කටයුතු ගල්කිස්ස සුසාන භූමියේදී බ‍්‍රහස්පතින්දා සිදුකිරීමට නියමිතය.
+ </body>
+    <comments>
+        <comment>
+            <author>කුසුමා</author>
+            <date>2012-05-16 10:45:55</date>
+            <index>0</index>
+            <phrase>ඔබට නිවන් සුව පතමි.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-16 11:27:23</date>
+            <index>1</index>
+            <phrase>ඔහු නියම ජනතා පුත්‍රයෙකි.මාගේ ශෝකය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-05-16 12:26:55</date>
+            <index>2</index>
+            <phrase>ඔබ තුමාට නවන් සුව ලැබේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2012-05-16 13:17:54</date>
+            <index>3</index>
+            <phrase>ඔබට අජරාමර නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පීරිස්</author>
+            <date>2012-05-16 14:36:16</date>
+            <index>4</index>
+            <phrase>ඔබ තුමාට නිවන් සුව ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-05-16 14:42:18</date>
+            <index>5</index>
+            <phrase>නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භක්ති</author>
+            <date>2012-05-16 14:47:10</date>
+            <index>6</index>
+            <phrase>ඔබ වෛද්‍ය වරයෙක් ලෙස ඉටුකළ මෙහෙය අතිවිශිෂ්ඨය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල ඩුබායි</author>
+            <date>2012-05-16 15:37:13</date>
+            <index>7</index>
+            <phrase>ඔබට නිවන් සුව පතමි.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිමල්</author>
+            <date>2012-05-16 16:27:46</date>
+            <index>8</index>
+            <phrase>ඔබට නිවන් සුව අත්වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2012-05-16 16:30:54</date>
+            <index>9</index>
+            <phrase>මගේ ආදරණීය වෙද මාමාට නිවන් සුව අත්වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතාරණ</author>
+            <date>2012-05-16 16:55:51</date>
+            <index>10</index>
+            <phrase>මමත් මෙතුමන්ගෙන් බෙහෙත් අරගෙන තියනවාත ඔබට නිවන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-16 17:27:05</date>
+            <index>11</index>
+            <phrase>ඔබ තුමාට නිවන් සුව...යළි අප අතරම ඉපදේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-05-16 17:35:35</date>
+            <index>12</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-16 22:01:07</date>
+            <index>13</index>
+            <phrase>වෙදැදුරුතුමනි, ඔබට නිවන් සුව.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2012-05-17 02:13:33</date>
+            <index>14</index>
+            <phrase>ඔබතුමාට නිවන් සුව පතමි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් කොබෝවත්ත</author>
+            <date>2012-05-17 07:47:47</date>
+            <index>15</index>
+            <phrase>ඔබ තුමාට නිවන් සුව ලැබේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආයුර්වේද වෛද්‍ය සුජීවා සමන්ති පස්යාල</author>
+            <date>2012-05-17 08:08:44</date>
+            <index>16</index>
+            <phrase>ශ්‍රී ලංකා වෛද්‍ය මහා මණ්ඩලය ආරම්භ කර ප්‍රමුඛ වෛද්‍ය විද්‍යාලයක් පවත්ව‍ාගෙන යමින් දහස් ගණනක් ආයුර්වේද වෛද්‍ය වරුන්ට පෙරමඟ සෑදු ඔබට අජරාමර නිවන් සුව අත්වේවා! මරණයෙන් පැය 24 කදී ආදාහනය සිදුකිරීමට ගත් තීරණය නිසා එම වෛද්‍ය විද්‍යාලයේ ආදි ශිෂ්‍යාවක හැටියට අවසන් කටයුතු වලට සහභාගී වීමට සිදු නොවීම ගැන කණගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-05-17 10:29:40</date>
+            <index>17</index>
+            <phrase>නිවන්සුව අත්වේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-05-17 11:31:07</date>
+            <index>18</index>
+            <phrase>ඔබට නිවන් සුව පතමි.! ඔබ වෛද්‍ය වරයෙක් ලෙස ඉටුකළ මෙහෙය අතිවිශිෂ්ඨයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

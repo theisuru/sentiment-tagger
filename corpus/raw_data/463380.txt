@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463380</articleId>
+    <title>මැටි වළ සොහොනක් වේ</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 සැප්තැම්බර් මස 30 21:17:15</date>
+    <body>කොච්චිකඩේ උඩංගාවේ මැටි වළක නාන්නට ගිය දරුවන් දෙදෙනකු අතුරුදන්වී ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2016-09-30 20:52:20</date>
+            <index>0</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුල</author>
+            <date>2016-10-01 02:22:33</date>
+            <index>1</index>
+            <phrase>මේවා හාරනවා වගේම මොනවා හරි දාල වහන්නත් නීති ගෙන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යශාන්ත</author>
+            <date>2016-10-01 16:17:41</date>
+            <index>2</index>
+            <phrase>මෙම ජීවිත වලට වගකිවයුත්තේ ප්‍රධාන පක්ෂ දෙකේම අනුග්‍රහය සහිතව මහා පරිමාණයෙන් මැටි සහ වැලි කැපීමේ නිරත වූ සහ වර්තමානයේ නිරතවෙමින්, වසර ගණනාවකට පෙර සුන්දර ගම්මානය අද ගැඹුරක් නොදත් මාරාන්තික මහා ජලාශයක් බවට පත්කළ අඥානයන් සහ ඔවුන්ගේ ක්‍රියාකාරකම් හමුවේ නිවටයන් මෙන් නිශ්ශබ්දව සිටි ගම්වාසීන් මෙන්ම මෙම ක්‍රියාකාරකම් වලට අනුග්‍රහය සහ අනුබල දුන් සියලු නිලධාරීන් සහ දේශපාලඥයන්ය. මෙම අහිංසක දරුවන් දෙදෙනාට නිවන් සුව පතමි! මෙවන් අකල් මරණ මින් මතු නොවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2016-10-02 01:38:38</date>
+            <index>3</index>
+            <phrase>මැණික් පතල් වලට තිබෙන නීතිය මෙම වළවල් වෙනුවෙනුත් ක්‍රියාත්මක කරන්න පුළුවන් නම් මෙවැනි විපත් වළක්වාගත හැකිවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

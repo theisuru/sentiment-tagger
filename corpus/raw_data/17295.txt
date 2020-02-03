@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17295</articleId>
+    <title>ගේ‍්‍රරෝ වැඩ බාරගනී</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 13 14:05:50</date>
+    <body>අධ්‍යාපන අමාත්‍යංශයේ අධීක්‍ෂණ මන්ත‍්‍රී ලෙස පත් කැරුණු පාර්ලිමේන්තු මන්ත‍්‍රී මොහාන් ලාල් ගේ‍්‍රරෝ මහතා බත්තරමුල්ලේ අධ්‍යාපන අමාත්‍යංශයේදී අද වැඩ බාරගත්තේය.
+මහා සංඝරත්නයේ ආශිර්වාද මැද ඔහු සුබ හෝරාවකදී රාජකාරි ලිපියට අත්සන තැබිය . අධ්‍යාපන අමාත්‍ය බන්දුල ගුණවර්ධන, නියෝජ්‍ය අමාත්‍ය විජිත් විජිතමුණි සොයිසා සහ ගේ‍්‍රරෝ මහතාගේ බිරිය හා දරු දෙදෙනාද එක්ව සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>සුධීර- වෙනිසිය</author>
+            <date>2011-12-13 15:18:35</date>
+            <index>0</index>
+            <phrase>සුදුස්සෙක්ට සුදුසු තැන හම්බවුනා කියලා වැඩ පටන්ගමු මන්ත්‍රීතුමා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්</author>
+            <date>2011-12-13 19:44:33</date>
+            <index>1</index>
+            <phrase>බලමු බලමු අධ්‍යාපනය දියුණු කරයිද කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2011-12-14 09:44:29</date>
+            <index>2</index>
+            <phrase>ඔහු හොද මහත්මයෙක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධර්මන් පිටිගල</author>
+            <date>2011-12-14 10:02:57</date>
+            <index>3</index>
+            <phrase>සුභපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

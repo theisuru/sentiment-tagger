@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447387</articleId>
+    <title>බංග්ලාදේශය මහා විනාශයක් වලකා ගනී</title>
+    <author>අරුණ ශාන්ත කුමාර</author>
+    <date>2016 අගෝස්තු මස 12 19:42:50</date>
+    <body>අයි.එස්.අයි.එස්. ත්‍රස්ත සංවිධානයේ සහාය ලබන බංග්ලාදේශ අන්තවාදී කණ්ඩායම සාමාජිකයන් පස් දෙනකු මරාගෙන මැරෙන ප්‍රහාරයකට සූදානම් වෙද්දී අද ඩකා අගනුවරදී අත්අඩංගුවට ගත් බව එරට මාධ්‍ය වාර්තා කරයි. </body>
+    <comments>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-08-12 23:30:25</date>
+            <index>0</index>
+            <phrase>කලබල වෙන්න එපා. ඒගොල්ලෝ, එ්ගොල්ලොමනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-13 02:32:51</date>
+            <index>1</index>
+            <phrase>කලබල වෙන්න එපා කියලා බැහැ. අපිත් මේ ත්‍රස්තවාදයෙන් බැටකාපු අය නිසා ලෝකේ කොහේවත් ත්‍රස්තවාදය වෙනවා නම් ඒ ගැන කණගාටු වියයුතුයි. මේවා වැළැක්වීමට ලෝක නායකයින් එකතුවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක්</author>
+            <date>2016-08-13 10:31:38</date>
+            <index>2</index>
+            <phrase>පානදුර සරික්කමුල්ල/ගොරකාන ප්‍රදේශයේ වාහන පේන්ට් ගරාජ වලට බංගලාදේශ ජාතිකයන් දෙදෙනා බැගින් සේවයට දුන් පුද්ගලයෙක් බංගලාදේශ ජාතිකයන් අත් අඩංගුවට පත්වූ බව මාධ්‍ය මගින් හෙළිවූ වහාම ඔවුන් රහසිගතව රැගෙනගොස් ඇත.මොවුන් ත්‍රස්තවාදීන් විය හැකියි .රහස් පොලිසියේ මහතුනි මේ ගැන සොයා බලන්න .අඩුමුදලට වැඩකළ මෙම සේවකයන් නැති නිසා සවදේශීය ගරාජ හිමිකරුවන් මැසිවිලි නගති .බංගලි ජාතිකයන් ශ්‍රීලාංකිකයන් වැනිම නිසා හඳුනාගැනීම අපහසුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2016-08-13 12:49:05</date>
+            <index>3</index>
+            <phrase>අපරාධේ කන්‍යාවියෝ හත් දෙනෙක් ලැබෙන්න තිබුන අවස්ථාව ගිලිහුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-14 05:00:51</date>
+            <index>4</index>
+            <phrase>අපේ රට තුලට පිවිසෙන විදේශිකයන් කෙරෙහි විශේෂ අවධානයක් යොමුකළ යුතුයි. මොවුන්ගෙන් වැඩි පිරිසක් ත්‍රස්ත කල්ලි වලට සම්බන්ධ පුද්ගලයන් වියහැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු ප්‍රසන්න</author>
+            <date>2016-08-14 12:40:33</date>
+            <index>5</index>
+            <phrase>මම හිතන්නේ ජනක් ඔය පැත්තේ සිංහලයෙකුට කට අරින්න්නත් බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

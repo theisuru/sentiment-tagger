@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22034</articleId>
+    <title>ප්ලාස්ටික් කූඩෙට පිට කොටු සැලැකිල්ල</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජනවාරි මස 15 15:00:32</date>
+    <body>එළවළු ප‍්‍රවාහනය කිරීමේදී ප්ලාස්ටික් කූඩ භාවිතා කිරීමේ නීතිය අද මැදියම රැයේ සිට නැවතත් රජය විසින් ක‍්‍රියාත්මක කිරීමට යතත් කොළඹ මැනිං වෙළෙඳ පොළේ ප්ලාස්ටික් කූඩ දැක ගැනීම අදඉතා දුලබ විය.
+වැඩිදෙනෙක් ගෝනි, ලී පෙට්ටි හා කාඞ්බෝඞ් අසුරණවල එළවළු රැගෙන ආහ. ලොරි රියැදුරෙක් හා වෑන් රීයැදුරෙක් ප්ලාස්ටික් කුඩා නීතිය අනුව එළවළු හා පළතුරු ප‍්‍රවාහනය කළහ.</body>
+    <comments>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-15 18:49:53</date>
+            <index>0</index>
+            <phrase>කූඩැල්ලා මෙට්ටෙ උඩ තියන්න බෑ කියලා කතාවක් තියනවානේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මසේන</author>
+            <date>2012-01-16 05:02:20</date>
+            <index>1</index>
+            <phrase>මේ ගැන ව්‍යාපාරිකයන් දැනුවත් කිරීම බොහොම මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-01-16 10:31:10</date>
+            <index>2</index>
+            <phrase>ප්ලාස්ටික් කූඩ භාවිතාකිරිම නිසා අත්වන ලාභය අපි සැමටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-01-16 14:41:06</date>
+            <index>3</index>
+            <phrase>කවුද කූඩැල්ලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>shan</author>
+            <date>2012-01-17 03:44:55</date>
+            <index>4</index>
+            <phrase>පරණ විදිහට හිතන ඔයගොල්ලෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

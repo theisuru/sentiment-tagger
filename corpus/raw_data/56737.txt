@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56737</articleId>
+    <title>දෙකෝටියක රන් වංචා කරති</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 අගෝස්තු මස 02 17:21:28</date>
+    <body>කාන්තාවන් සතු රන් භාණ්ඩ ලබාගෙන විවිධ ව්‍යාපාරවල යොදවා ලාභ ලබා දෙන බවට පොරොන්දු වී රුපියල් කෝටි දෙකකට ආසන්න මුදලක් වංචා කළැයි කියන දෙදෙනෙක් කොළඹ ප‍්‍රධාන මහේස්ත‍්‍රාත් රශ්මි සිංගප්පුලි මහතා විසින් ලබන 6 වැනිදා තෙක් රිමාන්ඞ් කරනු ලැබූහ.
+කොච්චිකඬේ අබ්දුල් මොහොමඞ් රම්සා සහ තාජුඞීන් මොහොමඞ් අරූස් ඔවුහුය.
+දෙමටගොඩ කාන්තාවන් 11 දෙනකු කොළඹ වංචා විමර්ශන ඒකකයට කළ පැමිණිල්ල අනුව පොලිසිය කි‍්‍රයාත්මක විය.</body>
+    <comments>
+        <comment>
+            <author>කුරේ නාවලගේ ජූඩ් යොහාන්</author>
+            <date>2012-08-02 18:55:58</date>
+            <index>0</index>
+            <phrase>මේක ඉල්ලගෙන ගිහිං තියෙන්නෙ.. හොරකමක් නෙමෙයි.. පාඩුඋනාම කොහෙන්ද සල්ලි දෙන්නෙ..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-08-02 19:03:57</date>
+            <index>1</index>
+            <phrase>ගෑනු මොලේ හැදි මිටේ කියන්නෙ නිකම්ම නෙමෙයි කියලා දැං නම් හිතෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිරෝ</author>
+            <date>2012-08-02 20:22:49</date>
+            <index>2</index>
+            <phrase>අනේ පව් මේ වගේ මෝඩයෝ තවත් ලංකාවේ ඉන්නවනේ...වෙන මුකුත් නෙමෙයි තන්හාව....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැතී</author>
+            <date>2012-08-02 21:01:44</date>
+            <index>3</index>
+            <phrase>මෙච්චර දේවල් වෙද්දිත් මිනිස්සු මෝඩ වැඩම කරනවා , කවුද අනේ තමන්ගේ රත්තරන් බඩු අනුන්ට දෙන්නේ...(ස) .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-02 21:49:55</date>
+            <index>4</index>
+            <phrase>අනේ පවු රත්තරං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්ලික්</author>
+            <date>2012-08-03 09:55:30</date>
+            <index>5</index>
+            <phrase>අනේ මේවට මිනිසුන් තවමත් අහුවෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

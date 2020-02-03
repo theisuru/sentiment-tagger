@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58787</articleId>
+    <title>‘‘රජයේ සම්පත් ඡන්දයට”</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 අගෝස්තු මස 14 16:36:47</date>
+    <body>උතුරුමැද, නැගෙනහිර හා සබරගමුව පළාත් සභා ඡන්දයට රාජ්‍ය සම්පත් යොදා ගැනීම වේගයෙන් ඉහළ යතියි මැතිවරණ නිරීක්‍ෂණ ජාලය කියයි.
+මහජන ආධාර, නිවාස ආධාර, උදලූ තල, උළු වැනි උපකරණ බෙදාදීමට රාජ්‍ය ආයතන උපයෝගී කර ගන්නා බවද සංධාන අපේක්‍ෂක ජය පතා එසේ අනිසි බලපෑම් කරතියිද දිගාමඩුල්ලේ දේශපාලකයකු සිවිල් ආරක්‍ෂක බළකායේ සෙබළුන් අමතා සන්ධානයට ඡන්දය ඉල්ලා ඇතැයිද එම නිරීක්‍ෂණ ජාලය පවසයි. මැතිවරණ ප‍්‍රචණ්ඩ කි‍්‍රයා නීති විරෝධී ප‍්‍රචාරක කටයුතු රාජ්‍ය බලය අයුතු ලෙස යොදා ගැනීම ආදී ඡන්ද නීති කඩ කිරීම් 78ක් එම ජාලය ලැයිස්තුගත කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-08-14 22:24:14</date>
+            <index>0</index>
+            <phrase>මෙන්න කවදාවත් වෙලා නැති අරුම පුදුම වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-08-15 02:48:01</date>
+            <index>1</index>
+            <phrase>මෙහෙම අයව පත් කරගත් අයටයි ගහන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-15 08:32:36</date>
+            <index>2</index>
+            <phrase>ඡන්දය ඉල්ලන්න අයිතිය ඔවුන්ට ඇතුවා සේම එය දීමේ හෝ නොදීමේ අයිතිය අපටද තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-15 11:59:30</date>
+            <index>3</index>
+            <phrase>ඕක හැමදාම වෙන දෙයක්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-08-15 19:05:16</date>
+            <index>4</index>
+            <phrase>එදා ඉදලා ගත්ත වැරදි තීරණ තමයි මේ විදියට දිගටම පවතින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-08-15 19:05:18</date>
+            <index>5</index>
+            <phrase>මේවා අද ඊයේ සිද්ධ වෙන දේවල් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේශිකා</author>
+            <date>2012-08-15 20:03:50</date>
+            <index>6</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

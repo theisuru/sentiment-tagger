@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>67661</articleId>
+    <title>1 වන විජයබාහු පාබල රෙජිමේන්තුව 24 වන සංවත්සර සමරයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 සැප්තැම්බර් මස 30 16:18:59</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-10-04 10:08:58</date>
+            <index>0</index>
+            <phrase>සුබ උපන්දිනයක් වේවා 1 වන විජයබාහු පාබල රෙජිමේන්තුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-10-05 22:33:36</date>
+            <index>1</index>
+            <phrase>මගෙන් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-10-18 09:43:31</date>
+            <index>2</index>
+            <phrase>ඔබ සැමට මාගේ උත්තමාචාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ග</author>
+            <date>2012-10-19 11:49:55</date>
+            <index>3</index>
+            <phrase>සුභ උපන් දිනයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-10-20 07:42:44</date>
+            <index>4</index>
+            <phrase>සුබ පැතුම් !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමරත්න</author>
+            <date>2012-10-21 11:27:02</date>
+            <index>5</index>
+            <phrase>මගේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

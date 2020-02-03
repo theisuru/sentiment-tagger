@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>86790</articleId>
+    <title>අඹන් ගඟ පවුල් තිහක් පාරට දමයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 දෙසැම්බර් මස 20 20:30:29</date>
+    <body>දින කීපයක වර්ෂාවත් සමග අඹන්ගඟ පිටාර ගලා උන්හිටිතැන් අහිමිවූ පවුල් තිහක් නාවුල සිට මොරගහකන්ද දක්වා ප‍්‍ර‍්‍රධාන මාර්ගය දෙපස සිටින බව දැක ගැනීමට හැකිවිය.
+ඔවුන්ගේ නිවාස සම්පුර්ණයෙන්ම ජලයට ගසාගෙන ගොස් ඇත. ඇඳිවත හා ජීවිත පමණක් ඉතිරිවී ඇත.
+පාසල් දරුවන්ගේ පොත්පත් ඇඳුම් පැළඳුම් සියල්ම විනාශ වී ගොසිනි. ඇතැම් නිවාස තිබූ තැනක්වත් සොයා ගැනීමට නොහැකිය.
+ඔවුහු දැන් අසල්වැසි නිවෙස්වල සිටිති.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-12-20 20:51:02</date>
+            <index>0</index>
+            <phrase>මෙන්න හොයලා බලන්න වටින තැන්. බලන්න මොනතරම් නම් අසරණද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-12-20 21:51:24</date>
+            <index>1</index>
+            <phrase>ලොකු මහත්වරුනි, මේ අසරණයින් ගැනත් අනුකම්පා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-12-20 22:16:58</date>
+            <index>2</index>
+            <phrase>අසරණ මිනිසුන්ගේ ජීවිත මුල ඉදන්ම පටන් ගන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-12-20 22:26:07</date>
+            <index>3</index>
+            <phrase>අපරාධ කළමනාකරන අමාත්‍යංශයට මේ කට්ටිය පෙනුනේ නැතුවාවද්ද? අ‍නේ පවු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-12-20 22:32:38</date>
+            <index>4</index>
+            <phrase>අ‍නේ අපොයි! බඩ පපුව ගැහෙනවා දැක්කහම. මොනතරම් අසරණ මිනිස්සුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත</author>
+            <date>2012-12-20 22:59:27</date>
+            <index>5</index>
+            <phrase>අනේ පවු! ඒත් මේ එක තැනකවත් දේශපාලඥයෝ නැහැ. ඡන්දෙකදී විතරයි මතක් වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-12-20 23:04:22</date>
+            <index>6</index>
+            <phrase>මේ ජාතියේ දරුවන් ගැන සොයාබලා කටයුතු කරනවා නම් කොපමණ පින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්-නෝර්වේ</author>
+            <date>2012-12-21 04:46:16</date>
+            <index>7</index>
+            <phrase>මම කැමතියි මේ පවුලකට උදවු කරන්න. ඒත් මම ඉන්නේ ලංකාවේ නෙමෙයි. ඒ නිසා ඒක කරන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම් පෙරේරා</author>
+            <date>2012-12-21 05:45:05</date>
+            <index>8</index>
+            <phrase>අපි එයාලට රාත්‍රී කාස් ‍රේස් පෙන්නමු. එයාලගේ දුක ඔක්කොම අමතක වෙයි මගෙ හිතේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලා</author>
+            <date>2012-12-21 08:55:42</date>
+            <index>9</index>
+            <phrase>ලැම්බෝගිනි වලට නෙමෙයි මහතුනේ, මේ අසරණයින්ගේ බඩගිනි නිවන්න බදු අඩු කළා නම් කෙතරම් අගනේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-21 09:15:33</date>
+            <index>10</index>
+            <phrase>"අපි අසරණ වෙලා වගේ හිතට දැනෙනවා බුදු හාමුදුරුවනේ " මේ අයට ඉක්මනින් සහය දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මපාල හිමි</author>
+            <date>2012-12-21 09:45:03</date>
+            <index>11</index>
+            <phrase>මේ අහිංසක මිනිසුන්ට ගෙයක් හදලා දෙනවා නම් සාංඝික දාන 100ක් දුන්නට වැඩිය පිනක් ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-12-21 12:49:27</date>
+            <index>12</index>
+            <phrase>තව තවත් ලැම්බොගිනි රේස් තිබ්බා නම් හරි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-12-22 10:13:33</date>
+            <index>13</index>
+            <phrase>මෙහේ දුප්පතුන් දුක් විදිද්දි කොළඹ අය විනෝද වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

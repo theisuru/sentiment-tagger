@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463553</articleId>
+    <title>පොලිසියට බෝම්බ ගහයි : පොලිසිය වෙඩි තියයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 02 12:39:50</date>
+    <body>අතුරුගිරියේ සීලවිමල මාවතේ දී අයිආර්සී සැකකරුවකු අත්අඩංගුවට ගැනීමට සැරසෙතියි ඔහු පොලිසියට අත් බෝම්බයක් ගසා ඇතැයි ද, පොලිස් වෙඩි පහර මැද්දේ ඔහු පලා ගොස් ඇතැයි ද, ඔහුගේ අත තුවාල වූ ලකුණු ඇතැයි ද පොලිසිය කියයි.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-10-02 08:18:18</date>
+            <index>0</index>
+            <phrase>හරිම අකාර්යක්ෂම පොලිස් ස්ථානයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-10-02 08:45:45</date>
+            <index>1</index>
+            <phrase>වෙඩි තියලත් එකක්වත් වැදුනේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-10-02 08:49:25</date>
+            <index>2</index>
+            <phrase>මේවා ප්‍රචාරය කරන්න එපා. පොලිස්පති කියන්නේ අපරාධ වැඩිවෙලා නැහැ. ප්‍රචාරයයි වැඩි වෙලා තියෙන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-02 09:29:43</date>
+            <index>3</index>
+            <phrase>මේක චිත්‍රපටියක සිදුවීමක් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-10-02 09:50:33</date>
+            <index>4</index>
+            <phrase>අල්ල ගන්න බැරි වුනානේ මොන දේ කරලවත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

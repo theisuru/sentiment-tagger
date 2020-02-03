@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42198</articleId>
+    <title>සපාරි ගමන රෝහලෙන් කෙලවර වේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 මැයි මස 14 10:27:22</date>
+    <body>හබරණදී හීලෑ අලියකු පිට නැගී කැලයේ සිරි නරැඹීමට යන්නට සූදානම් වූ ප්‍රංශ ජාතිකයෙක් අලියා පිටින් වැටී තුවාල ලබා දඹුල්ල රෝහලට ඇතුළු කරනු ලැබ සිටී.
+අලියා පිට කිලෝමීටර එක හමාරක් ගමන් කිරීම සඳහා රුපියල් 2500ක් අය කෙරේ.</body>
+    <comments>
+        <comment>
+            <author>සුභාශිනී</author>
+            <date>2012-05-14 11:06:38</date>
+            <index>0</index>
+            <phrase>ප්‍රංශයේ අලි නැහැනේ මහත්තයො. අලියගේ පිටේ යන එක අශ්වයගෙ පිටේ යනවට වඩා අමාරු බව දන්නේ නැතිව ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-14 13:21:34</date>
+            <index>1</index>
+            <phrase>එතකොට අලියට ප්‍රශ්ණයක් නෑනේ. එහෙනමි ප්‍රශ්ණයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවින්</author>
+            <date>2012-05-15 01:12:31</date>
+            <index>2</index>
+            <phrase>අලි බබෝ, ඔහොම කියන්න එපා.මට හිනා යනවා.පවු අර මනුස්සයා.ආයි නම් ලංකාව දිහා බලන එකක්වත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩි</author>
+            <date>2012-05-15 09:57:01</date>
+            <index>3</index>
+            <phrase>පන්සල් වල අලි ඔය වගේ බිස්නස් වලට දීලා හාමුදුරුවෝ සල්ලි ගන්නවා. පන්සල් ගරා වැනෙවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 13:56:50</date>
+            <index>4</index>
+            <phrase>අලියට ඉතින් කොහේද සපාරි..අලියා දන්න දේ තමයි ඔය කොලේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 15:50:02</date>
+            <index>5</index>
+            <phrase>ආර්ථික වාසි ලාභ තකා සංචාරයකින්ට අවදානම් ක්‍රියාවල ඔවුන් යොදවා මුදල් ඉපයීමේ කටයුතු ඉදිරියේ මෙරට සංචාරක කර්මාන්තයට හානිදායක නොවීමට වගබලාගත යුතුවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 20:18:35</date>
+            <index>6</index>
+            <phrase>අනේ මේ ලංකාවේ අලින්වත් පිටරට ඉන්න සුද්දන්ව අද්දන්න දාලානේ. පුදුමයි මේ අලි ඕවගේ වැඩ කරද්දී කුලප්පු නොවී ඉන්න එක. අලියා පිටින් වැටුනට හපන් වේවි අලියා කුලප්පු වෙලා පයින් අල්ලලා චප්ප කරලා දැම්මා නම්.මිනිස්සුන්ට සුද්දන්ගේ සාක්කුවලට බහින්න ඕනිම නම් ඒකට වෙනින් ක්‍රමයක් තිබුනේම නැද්ද මේ අලි ටිකට උන්ගේ පාඩුවේ ඉන්න ඉඩදීලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

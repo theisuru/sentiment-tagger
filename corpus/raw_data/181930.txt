@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>181930</articleId>
+    <title>රඹකැන් ඔය මංගල දියවර නිකුත් කරයි</title>
+    <author>වසන්ත චන්ද්‍රපාල සී ලියනආරචිචි</author>
+    <date>2013 නොවැම්බර් මස 01 19:15:07</date>
+    <body>මහඔය රඹකැන්ඔය ජලාශය විවෘත කිරීමෙන් අනතුරුව මහ කන්නයේ වී වගා කිරීමට  කුඹුරු අක්කර 300ක් සඳහා ජලය නිකුත් කිරීම අද ඇරැඹිනි.
+ජලාශය විවෘත කළ පසු මුලින්ම ජලය නිකුත් කළේ අදයි.
+රඹකැන්ඔය ව්‍යාපෘතියේ මහවැලි නේවාසික ව්‍යාපාර කළමනාකරු ප්‍රසන්න ගාමිණී ගුණවර්ධන සහ රඹකැන්ඔය ජලාශය බාර වාරිමාර්ග ඉංජිනේරු විදූර චන්ද්‍රසිරි මෙන්ඩිස් මහත්වරු අතින් දියවර නිකුත් කිරීම සිදූවිය.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-11-01 20:38:51</date>
+            <index>0</index>
+            <phrase>යහපතක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-11-01 21:33:45</date>
+            <index>1</index>
+            <phrase>දිගුකල් වැජඹේවා ..!! කට්ටිය කිරිබත් උයනවා වගෙයි. අපිට නැද්දෝ ....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් කාලිංග</author>
+            <date>2013-11-02 08:55:58</date>
+            <index>2</index>
+            <phrase>රටේ ඉන්න දේශපාලකයන්ට වඩා සිය දහස් ගුණයක් වැඩක් කරනවා ඉන්න මහවැලි නිලධාරීන්.කට්ටිය ලකුණු දාගත්තට මේ මිනිස්සු තමයි වෙහෙසෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජ මෑන්</author>
+            <date>2013-11-02 09:09:02</date>
+            <index>3</index>
+            <phrase>අපේ රටේ ලස්සන දුටුවම දුක හිතෙනවා. එකක් මෙච්චර ලස්සන රට මේ හොර දේශපාලුවෝ විනාශ කරනවා. අනික ලස්සන බල බලා තමන්ගේ රටේ ඉන්නවත් අපට වාසනාවක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2013-11-02 09:45:24</date>
+            <index>4</index>
+            <phrase>සාදු... සාදු.... සාදු......! වයඹ අපි බලා ඉන්නවා දැදුරු ඔයෙන් දියවර එන දිනයට ඇඟිලි ගනිමින්, ජනපතිතුමනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-11-02 09:58:01</date>
+            <index>5</index>
+            <phrase>ඉතාම හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

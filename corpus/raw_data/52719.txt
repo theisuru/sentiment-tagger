@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52719</articleId>
+    <title>ලන්ඩනයේදී විකුණන්න හැදූ ගාන්ධිගේ ඉපැරණි ලියකියවිලි ඉන්දීය රජය මිලදී ගනී</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  නවදිල්ලි නුවරදීය</author>
+    <date>2012 ජූලි මස 11 10:17:36</date>
+    <body>අහිංසාවාදයේ පියා ලෙස සැලකෙන මහත්මා ගාන්ධිතුමන්ගේ ඡායාරූප සහ ලිපි ලේඛන විශාල ප‍්‍රමාණයක් ලන්ඩන් නුවරදී ඊයේ (10) වෙන්දේසි කිරීමට නියමිතව තිබුණු නමුත් ඉන්දීය රජය ඊට හරස් වී ඒවා මිලදී ගත්තේය.
+එම ලිපි ලේඛන සහ ඡායාරූප ගාන්ධිතුමාගේ සමීපතම මිතුරකු වන හර්මාන් කැලෙනැබැච් සතුව තිබූ එකතුවකි.
+කැලෙනැබැච් ජර්මන් යුදෙව් කාය වර්ධන ශිල්පියකු මෙන්ම වාස්තු විද්‍යාඥයකු ද වෙයි. ඔහු සතු එකතුවේ වටිනාකම ඇමෙරිකන් ඩොලර් මිලියන 1.1 ක් පමණයැයි ඇස්තමේන්තු ගත කර තිබුණි.</body>
+    <comments>
+        <comment>
+            <author>මෙල්බන් වැසියා</author>
+            <date>2012-07-11 11:04:07</date>
+            <index>0</index>
+            <phrase>ඉන්දීය ආණ්ඩුවට ප්‍රණාමය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-07-11 12:50:53</date>
+            <index>1</index>
+            <phrase>අපේ රටේ කෙනෙක්නම් මේ ගරු කිරීම කරයිද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසේකර</author>
+            <date>2012-07-11 14:25:38</date>
+            <index>2</index>
+            <phrase>තම රටට ආඩම්බරයක් වූ පුද්ගලයෙකුට සැලකීමට ඉන්දියාව දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-07-12 19:01:50</date>
+            <index>3</index>
+            <phrase>මෙහෙ තියන එකත් හොරෙන් අරන් යයි අර ඉස්සර උනා වගේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-07-13 10:04:55</date>
+            <index>4</index>
+            <phrase>අපේ අය ගරුකරනවා නිදන් ටිකට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

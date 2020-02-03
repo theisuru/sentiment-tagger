@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>265590</articleId>
+    <title>රන්වැලි සේවකයෝ වෙරළ රකිති</title>
+    <author>චන්දන ප්‍රහාන්දු</author>
+    <date>2014 සැප්තැම්බර් මස 27 15:18:21</date>
+    <body>අදට (27)යෙදී ඇති ලෝක සංචාරක දිනය නිමිත්තෙන්, වයික්කාල රන්වැලි නිවාඩු නිකේතනයේ නිලධාරින් හා සේවක සේවිකාවෝ වෙරළ තීරය කිලෝ මීටර් දෙකක් දුරට  පිරිසිදු කළහ.
+ </body>
+    <comments>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2014-09-27 12:31:24</date>
+            <index>0</index>
+            <phrase>රන්වලියට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාගම ඉන්දික</author>
+            <date>2014-09-27 12:34:02</date>
+            <index>1</index>
+            <phrase>වෙරළේ වැඩියෙන්ම තියෙන්නේ බෝතල් හා ෂොපින් උර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2014-09-27 12:34:02</date>
+            <index>2</index>
+            <phrase>තමන්ගේ හෝටලයට අදාළ ප්‍රදේශය පමණක් පරිස්සම් කර ගන්නේ නැතුව සමස්ත වෙරලම පවිත්‍ර කරනවා කියන්නේ ඇත්තටම සත් ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්දදාස</author>
+            <date>2014-09-27 12:31:25</date>
+            <index>3</index>
+            <phrase>අපි අගේ අරනවා මේ සත් ක්‍රියාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2014-09-27 12:34:03</date>
+            <index>4</index>
+            <phrase>මේ වැඩේට සම්භන්ධ වූ සියල්ලන්ටමතෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2014-09-27 12:31:26</date>
+            <index>5</index>
+            <phrase>මේ වැඩේට කි විතර සම්භන්ධ උනාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයනජිත්</author>
+            <date>2014-09-27 12:34:05</date>
+            <index>6</index>
+            <phrase>පරිසරය ආරක්ෂා කරනවා කියන්නේ තව මනුස්සයෙක්ගේ දිවි බේරා ගන්නවාට වඩා පින් කමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිනර</author>
+            <date>2014-09-27 12:31:30</date>
+            <index>7</index>
+            <phrase>උතුම් සත් ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-09-27 12:31:45</date>
+            <index>8</index>
+            <phrase>කාලෝචිත අඩක් වෙරළට ගියාම සසර කලකිරෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-09-27 12:34:42</date>
+            <index>9</index>
+            <phrase>මම කැමතිම හෝටලයක් තමයි රන්වලි එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2014-09-27 12:32:09</date>
+            <index>10</index>
+            <phrase>අපොයි රන්වැලි හෝටලේ වැඩ කරන්න ඉන්නේ එක ගෑනු ළමයෙක්ද ?ඕක ප්‍රසිද්ද සංචාරක හෝටලයක් නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-09-27 12:33:01</date>
+            <index>11</index>
+            <phrase>මේක ප්‍රසිද්ධ සංචාරක හෝටලයක් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිවර්දන</author>
+            <date>2014-09-27 13:40:01</date>
+            <index>12</index>
+            <phrase>මේ හෝටලේ අයිතිකරු සිට සුළු සේවකයා දක්වා පැසසුම් ලබන වැඩක් කරලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2014-09-27 13:42:40</date>
+            <index>13</index>
+            <phrase>අපි කවදත් හොඳ වැඩකදී අත් දෙකම උස්සලා හොදයි කියනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී - සිරිවර්දන</author>
+            <date>2014-09-27 13:42:42</date>
+            <index>14</index>
+            <phrase>රන්වලි හෝටලයේ සත්භාවය ඉතාමත් අගය කල යුතුයි !අවට පරිසරය මෙහෙම පිරිසිදුව තබා ගන්නේ නම් තම පරිශ්‍රයේ පිරිසිදු භාවය සුරකින අන්දම පැහැදිලි කරුණක් .මුහුදුබඩ ,වැව්,ඇල ,දොළ ගංගා, ආශ්‍රිතව පවතින හෝටල් හිමියන්ද අවට පරිසරය ආරක්ෂා කිරීමට පෙළඹෙන්නේ නම් සංචාරක ව්‍යාපාරයට ඉමහත් රුකුලක් ! හෝටලයට අදායමක් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපොන්සු</author>
+            <date>2014-09-28 03:40:42</date>
+            <index>15</index>
+            <phrase>ලෝක පරිසර දිනයට මුළු ලංකාවම රට පිරිසිදු කිරීම නීති ගත කල යුතයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2014-09-28 03:40:48</date>
+            <index>16</index>
+            <phrase>සතියකට සැරයක් වත් මෙවන් සත් කාරයක් සියලුම දෙනා කල යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2014-09-28 03:48:05</date>
+            <index>17</index>
+            <phrase>මා මෙම ක්‍රියාව අගයමි එහෙත් මේ වෙරළේ තත්වය තව දින දෙකක් තුනක් යනකොට කෙසේද? එය තිරසාර ලෙස පවත්වගෙන යන්නේ කෙසේද ? යන්න සළකා වෙරල අපවිත්‍ර කරන වෙරළට පැමිණෙන අයව නිතිපතා දැනුම්වත් කරන වැඩ පිළිවෙලක් ක්‍රියාත්මක කලොත් වඩාත් හොඳ නොවේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2014-10-05 16:36:40</date>
+            <index>18</index>
+            <phrase>වසරකට එක්වරක් පමණක් මෙසේකරලා මදි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458640</articleId>
+    <title>හුණුපිටිය කර්මාන්තශාලාවක් ගිනිගනී</title>
+    <author>ලාල් එස්කුමාර මනෝප්‍රිය ගුණසේකර සරත් චින්තක</author>
+    <date>2016 සැප්තැම්බර් මස 18 09:59:55</date>
+    <body>වත්තල, හුණුපිටිය ප්ලාස්ටික් කර්මාන්තශාලාවක අද (18) අලුයම ගින්නක් හටගෙන ඇතැයි පොලිසිය කියයි.
+ගින්න පාලනය කිරීම සඳහා ගිනි නිවන රථ 6ක් එම ස්ථානයට යවා ඇතැයි කියති.
+අද අලුයම 4ට පමණ ගින්න හටගෙන ඇතැයි ද පැය පහක පමණ මෙහෙයුමකින් පසු ගින්න නිවා දැමූ බවත් පොලිසිය පවසයි. අලාභය මෙතෙක් ගණන් බලා නැතැයි ද වාර්තාවේ.
+
+ඡායාරූප - ලාල් එස්.කුමාර
+
+ඡායාරූප - සරත් චින්තක
+
+වීඩියෝ - ලාල් එස් කුමාර</body>
+    <comments>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-09-18 08:22:32</date>
+            <index>0</index>
+            <phrase>ලංකා ඉතිහාසයේ කිසිම කාලයක මෙතරම් ගිනිගැනීම් සිදුවෙලා නැහැ. කඩ සාප්පු, ගෙවල්, කර්මාන්ත ශාලා, වනාන්තර අක්කර දහස් ගණනින්, හමුදා කදවුරු, වරාය, විශ්ව විද්‍යාල ,.... එක පිට එක ගිනිගන්නවා. සමහරවිට මෙය යම්කිසි පිරිසකගේ කඩාකප්පල්කාරී ක්‍රියාවක් වීමටද පුළුවන්. රට ගිනිගන්නවට කැමති කට්ටියක් ඉන්නවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-09-18 09:25:47</date>
+            <index>1</index>
+            <phrase>රට ගිනි ගන්නවා කියන්නේ මේවට නෙවෙයි දර්ශන..ඒ අර්ථකථනය මේ ගිනි වලට අදාළ නැ..මේවා සමහරවිට නොසැලකිලිමත් කම නිසා වෙනවා ඇති..වැස්සත් අර කට්ටිය..පැව්වත් අර කට්ටිය.දැන් අලුත්ම එක ගිනි ගත්තත් අර කට්ටිය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-09-18 11:14:59</date>
+            <index>2</index>
+            <phrase>මොකද මේ හැමතැනම ගිනි ගන්නෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-18 12:05:49</date>
+            <index>3</index>
+            <phrase>මොකක්ද මේ රට පුරාම ගිනිගැනීම් වල තේරුම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-09-19 05:33:41</date>
+            <index>4</index>
+            <phrase>දර්ශන, ඒ අය රට ගිනිගන්නවට කැමති නම් අවුරුදු 30ක් තිස්සේ මේ රටේ තිබුන ලොකුම ගින්න නිවුවේ මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-09-19 07:57:44</date>
+            <index>5</index>
+            <phrase>මේ ගැන විදිමත් පරික්ෂණයක් සිදු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

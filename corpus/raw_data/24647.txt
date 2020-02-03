@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24647</articleId>
+    <title>අතවරයට එරෙහිව අපුර විරෝධයක්</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 පෙබරවාරි මස 02 09:56:00</date>
+    <body>සාත්තු සේවිකාවන් දෙදෙනකුට අතවර කරන්නට තැත් කළැයි කියන හෙද නිලධරයන් දෙදෙනකු අත්අඩංගුවට ගන්නැයි බල කරමින් අනුරාධපුර රෝහලේ සාත්තු සේවකයෝ අනුරාධපුර පොලිසියට පෙළපාළියකින් ගියහ.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියලාල්</author>
+            <date>2012-02-02 10:12:47</date>
+            <index>0</index>
+            <phrase>වහාම දඩුවම් දිය යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනීතා</author>
+            <date>2012-02-02 10:50:01</date>
+            <index>1</index>
+            <phrase>පහු ගිය කාලෙදි සූතිකාගාර වලටත් යන්න දෙන්න කියලා සට්‍රයික් කලේ ඔය අසහනයටම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

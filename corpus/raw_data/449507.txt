@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449507</articleId>
+    <title>රේල් බසයක් ඇත : ටිකට් දෙන්න කෙනෙක් නැත</title>
+    <author>චමිල් රූපසිංහ</author>
+    <date>2016 අගෝස්තු මස 19 16:51:49</date>
+    <body>මහනුවර හා පේරාදෙණිය රේල් බසයේ මහනුවර හා පේරාදෙණිය අතර පසුගිය මැයි  9 වැනිදා නව රේල් බස් සේවාවක් ඇරඹුවත් ගැටඹේ හා රජවත්ත උප දුම්රිය පොළ වලින් ටිකට් දීමට ගාඩ් වරුන් නැතැයි මගිහු කියති.
+මගීන්ට යම් ගැටළුවක් ඇති වුවහොත් ඕනැම අවස්තාවක දුම්රිය ප්‍රවාහන අධිකාරියේ 054 2222 305 අංකයට කතා කර එම ගැටලුවට පිළියම් ලබා දිමට කටයුතු කරන බව ප්‍රවාහන අධිකාරී පි.ඒ.එස් වර්නසුරිය මහතා පැවැසිය.
+ටිකට් නිකුත් කිරීමට කෙනෙකු ඉක්මනින්ම පත් කරන බව ද ඔහු කීවේය.
+ </body>
+    <comments>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-08-19 11:55:15</date>
+            <index>0</index>
+            <phrase>යුරෝපයේ ක්‍රමයට රියදුරු මහතාම ටිකට් නිකුත් කරනවා නම් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාපාල</author>
+            <date>2016-08-19 14:23:59</date>
+            <index>1</index>
+            <phrase>ටිකට් දෙන්න ඉද්දි ටිකට් නැතිව හොරට යන්න උත්සහ කරනවා. ටිකට් දෙන්න කවුරුත් නැතිව ඉද්දි ටිකට් අරන් යන්න පොරකනවා. ඒ අතින් හරිම පුදුම අවංක ජනතාවක් තමයි අපේ රටේ ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-08-19 23:12:45</date>
+            <index>2</index>
+            <phrase>ලංකාවේ දුම්රිය සේවය දියුණුවෙයිද ඉතින්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-08-20 00:20:01</date>
+            <index>3</index>
+            <phrase>ටිකට් දීමට ගාඩ්වරුන් ඉන්න ලෝකයේ එකම රට "ආසියාවේ ආශ්චර්ය" බව මම දැනගත්තේ අද තමා. කෝච්චිය ගාඩ් කරන්නයි, මඟීන්ට ටිකට් දෙන්නයි ගියාම කෝච්චි වෙලාවට යාවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-08-21 02:18:13</date>
+            <index>4</index>
+            <phrase>ටිකට් දෙන්න කෙනෙක් දානවට වඩා ටිකට් නැතුව යන එක ලාභ ඇති !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

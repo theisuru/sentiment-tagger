@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56850</articleId>
+    <title>දඹුලු උසාවියේ නඩු භාණ්ඩ සොරාගෙන</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අගෝස්තු මස 03 15:16:19</date>
+    <body>දඹුල්ල උසාවියේ නඩු භාණ්ඩ කාමරය අද අලුයම කඩා නඩු භාණ්ඩ සොරාගෙන ගොස් ඇතැයි පොලිසිය කියයි. සොරාගත් භණ්ඩ කවරේදැයි උසාවි නිලධාරීන්ගේ සහයෙන් පොලිසිය සොයා බලයි.</body>
+    <comments>
+        <comment>
+            <author>යාපා</author>
+            <date>2012-08-03 15:25:01</date>
+            <index>0</index>
+            <phrase>කවුද ඒ වෙලේ එතන හිටපු උසාවි නිලධාරියා. ඒ ගොල්ලගෙන් අහලා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-03 15:38:22</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා මෙහෙම ගියොත් ජනපති නිල නිවසවත් හොරුන්ගෙන් බේරගන්න බැරි වේවි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-03 15:49:50</date>
+            <index>2</index>
+            <phrase>ටක් ගාලා පින්තූරයක් ඇදලා පත්තරේ දාන්න. ඒ වගේ එක්කෙනෙක් දැක්කොත් අපි කියන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර</author>
+            <date>2012-08-03 17:14:25</date>
+            <index>3</index>
+            <phrase>මේ කාලේ සිද්ධවෙන දේවල් දැක්කම මේ වගේ ප්‍රවෘත්ති දැන් පත්තරේට දන්නා තරම් ලොකු දේවල් නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2012-08-03 18:41:01</date>
+            <index>4</index>
+            <phrase>පැට්රික්ගේ අදහස හොදයි. අපි හොරා අල්ලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල- වෙරෝනා</author>
+            <date>2012-08-03 18:45:31</date>
+            <index>5</index>
+            <phrase>අපේ ගෙවල් වලට හොරු පෑන්නට නම් හිතට දුකක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්-ලක්සම්බර්ග්</author>
+            <date>2012-08-03 20:38:59</date>
+            <index>6</index>
+            <phrase>කඩු එහෙම තියෙන්න ඇති මට හිතෙන විදියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-08-03 22:10:32</date>
+            <index>7</index>
+            <phrase>හොරුන්ගෙත් හොරු කම්බ හොරු කිවුවලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය පෙරේරා</author>
+            <date>2012-08-04 00:00:07</date>
+            <index>8</index>
+            <phrase>අද දඹුල්ලට ගොඩක් අය ආවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත - ඉබ්බාගමුව</author>
+            <date>2012-08-04 00:17:58</date>
+            <index>9</index>
+            <phrase>සමන් මහත්මයා ඔයා හරි. මේවා දැන් කා‍ලයේ හැටියට සාමාන්‍ය දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-04 00:28:20</date>
+            <index>10</index>
+            <phrase>හොරු අල්ලන්න බැරි වෙයි. මොකද ඇතුළෙම අය නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-08-04 13:39:32</date>
+            <index>11</index>
+            <phrase>කටුගෙයි සිද්ධියත් සමග බලද්දි හරිම සරලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2012-08-04 13:52:20</date>
+            <index>12</index>
+            <phrase>ෂෙරිෆ් , ජනපති නිල නිවස ගැන ප්‍රශ්නයක් නැහැ. ඒ ගැන කතා කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-04 14:06:30</date>
+            <index>13</index>
+            <phrase>අදම හොරු අල්ලන්න පුලුවන් වෙයි.ඉන්න ‍‍ට්කක් හොරුන්ගෙන් අහල කි‍යන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-04 14:24:06</date>
+            <index>14</index>
+            <phrase>අදම හොරු අල්ලන්න පුලුවන් වෙයි.ඉන්න ‍‍ට්කක් ඇතුළෙම හොරුන්ගෙන් අහල කි‍යන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-08-04 16:40:09</date>
+            <index>15</index>
+            <phrase>වහාම චිත්‍ර ශිල්පියකුයොදවා පින්තූරයක් අන්දවා පළකරන්න.. කඩු‍ හොරාගෙ එකත් හොදයි පොඩ්ඩක් පාට වැඩිකළානම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-08-04 17:56:30</date>
+            <index>16</index>
+            <phrase>ඔව ගැන කියලා වැඩක් නැහැ.අපි අසරණ වෙලා තමයි බුදුභාමුදුරුවනේ.!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-08-04 21:14:42</date>
+            <index>17</index>
+            <phrase>උසාවියටත් හොරු පැන්නනම් තවත් මොන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-06 07:50:45</date>
+            <index>18</index>
+            <phrase>මේකට දාලා තිබුණු පොලිස් ආරක්ෂාවට මොකද වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19807</articleId>
+    <title>මන්ත්‍රී සිරුර මෝහිණී පාළම යට</title>
+    <author>පුෂ්පකුමාර මල්ලවආරච්චි</author>
+    <date>2011 දෙසැම්බර් මස 29 16:19:33</date>
+    <body>මිනුවන්ගොඩ ප්‍රාදේශීය සභාවේ සන්ධාන මන්ත්‍රී හීනටියන මඩවල ඉන්දික දිනේෂ් චන්ද්‍රසිරි සිල්වා මහතාගේ (28) සිරුර කොටදෙනියාව දයගම්පොළ ඕලුස්සා පාලම (මෝහිණීගේ පාලම) යට තිබී සොයාගත් බව කොටදෙනියාව පොලිසිය කියයි. ඔහුගේ සිරුර ළඟ යතුරු පැදියක් ද පෙරැලී තිබූ බවත් යතුරු පැදිය පණ ගැන්වී තිබූ බවත් පොලිසිය කියයි. හිසට හා සිරුරේ තුවාල සිදුව තිබිණි. මෙය අනතුරක් ද යන්න ගැන පොලිසිය පරීක්ෂණ පවත්වයි.</body>
+    <comments>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2011-12-30 11:54:23</date>
+            <index>0</index>
+            <phrase>අනේ අපොයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>access</author>
+            <date>2011-12-31 21:44:04</date>
+            <index>1</index>
+            <phrase>කවුද මේවා කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් බී</author>
+            <date>2012-01-05 16:57:24</date>
+            <index>2</index>
+            <phrase>ශුවර් එකටම මෝහිනී බබා වඩාගන්න දෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

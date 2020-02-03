@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460231</articleId>
+    <title>ලංකාව නිවැරදි  පාරේ යන බව මහ බලවතා කියයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 22 13:40:22</date>
+    <body>ශ්‍රී ලංකාවේ නිවැරදි ගමන් මඟ පිළිබඳ ප්‍රසාදය පළ කරන බව අමෙරිකා රාජ්‍ය ලේකම් ජෝන් කෙරී  පවසයි.
+එසේම ශ්‍රී ලංකාවට අවශ්‍ය සහය දිගටම ලබාදීමට අමෙරිකාව සූදානම් බවද ඔහු කීවේය.
+එක්සත් ජාතීන්ගේ මහා මණ්ඩල සැසිවාරයට සහභාගීවීම සඳහා අමෙරිකාවේ නිව්යෝර්ක් නුවරට ගොස් සිටින ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සමඟ පැවති හමුවකදී රාජ්‍ය ලේකම්වරයා මේ බව ප්‍රකාශ කළේය. සංහිඳියාව සහ ආර්ථික සංවර්ධනය සඳහා තම රජය කැපවී සිටින බවත් ශ්‍රී ලංකාව සුබවාදී ප්‍රගතියක් ලබා ඇති බවත් සඳහන් කළ ජනාධිපතිවරයා මෙම වැඩපිළිවෙළ ශක්තිමත්ව ඉදිරියට ගෙන යන බව අවාධාරණය කළේය. සංහිඳියා වැඩපිළිවෙළ උදෙසා ඇතැම් අන්තවාදීන් බාධා සිදු කළ ද රජය අධිෂ්ඨානශීලීව සංහිඳියා අරමුණු ජයගැනීමට කැපවී සිටින බව ජනාධිපති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-22 08:26:22</date>
+            <index>0</index>
+            <phrase>අපිට දෙන්න පුලුවන් ලොකුම සහය තමයි අපේ රටෙන් ඈත්වෙලා ඉන්න එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2016-09-22 09:00:29</date>
+            <index>1</index>
+            <phrase>තනිව ජිවත් විය නෙහැකියි ඒම නිසා අපිත් ජාත්‍යන්තරය එක්ක හොදහිත දිනාගෙන බුදු දහමට අනුව ජිවත් විය යුතයි එයයි අපේ සංස්කෘතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-09-22 10:49:52</date>
+            <index>2</index>
+            <phrase>අපිට ජාත්‍යන්තරය ජයගත හැක්කේ සමගියෙන් සාමයෙන් ඔවුන් එක්ක සහයෝගයෙන් වැඩ කළොත් පමණයි. නැතුව හැලහැප්පීම් මගින් වෙන්නේ අපි වගේ කුඩා රටක් ඔය බලවතුන්ගේ ඈත් වී කොන්වීම පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-09-22 11:32:52</date>
+            <index>3</index>
+            <phrase>ඔව් ඉතින් ඔහොම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-09-22 12:05:11</date>
+            <index>4</index>
+            <phrase>රට හරි මාවතේ යන බව මේකෙන් පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-09-22 12:15:42</date>
+            <index>5</index>
+            <phrase>දැන් මේ යහපාලනය ඇවිල්ලා අවුරුදු එකහමාරයි. ඇමෙරිකාවට හොඳටම දෙකට නැමිලා හිටියට ශත පහක ආධාරයක් දුන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-09-22 12:27:58</date>
+            <index>6</index>
+            <phrase>හරි මාවත කියන්නෙ අැමෙරිකානු කොලනියක් බවට පත් වීමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-09-24 21:43:40</date>
+            <index>7</index>
+            <phrase>මොකක්ද ඔය සංහිඳියාව කියන්නේ උතරේ ජනය ඉල්ලන ඉල්ලලනා හැම දේම දීමද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

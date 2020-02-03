@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44896</articleId>
+    <title>මුස්ලිම් කොංග්‍රස් කාර්යාලයයට ගිනි තියලා</title>
+    <author>ජවුෆ්ර් ඛාන්</author>
+    <date>2012 මැයි මස 26 14:18:28</date>
+    <body>මුස්ලිම් කොංග්‍රසයට අයත් කාතන්කුඩි නගරයේ පිහිටි කාර්යාලයයකට කිසියම් පිරිසක් ගිනි තබා ඇතැයි කාතන්කුඩි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-26 15:02:58</date>
+            <index>0</index>
+            <phrase>හපෝ ජරමර අස්සේ බරකරත්ත කිවුවලු. පුශ්ණ එනකොට ඔක්කොම එකපිට එක තමයි එන්නේ. කොරේපිටට මරේ කිවුවලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිශාන්</author>
+            <date>2012-05-26 18:12:06</date>
+            <index>1</index>
+            <phrase>මොකක්ද හේතුව................?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෂාන්</author>
+            <date>2012-05-26 18:13:43</date>
+            <index>2</index>
+            <phrase>මොකද වුණේ, මොනවද ඔයාට ඕනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-26 18:13:47</date>
+            <index>3</index>
+            <phrase>ජිහාඩ් සංවිධානෙන් වත් මේක කලාද කියලා හොයලා බලන්න. මොකද දැන් ජිහාඩ් සංවිධානය බලවත් වෙලා එල්.ටී.ටී. එකේ අඩුව පුරවන්න පටන් අරගෙනලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසා</author>
+            <date>2012-05-26 18:17:05</date>
+            <index>4</index>
+            <phrase>සිම්පල්නේ මල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්නි</author>
+            <date>2012-05-26 19:46:08</date>
+            <index>5</index>
+            <phrase>ෂෝක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-26 20:48:17</date>
+            <index>6</index>
+            <phrase>අලිබබා ඒ හරියෙන් ගියේ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-05-26 21:37:20</date>
+            <index>7</index>
+            <phrase>ඔන්න මමනම් නෙමෙයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේනි</author>
+            <date>2012-05-26 21:57:08</date>
+            <index>8</index>
+            <phrase>කවුරු කරත් ඉතාමත් හොද වැඩක් කරල තියෙන්නෙ.ඉස්ලාම් ජාතිකයො ඉතාමත් ආත්මාර්තකාමී ජාතියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-05-26 21:57:15</date>
+            <index>9</index>
+            <phrase>රක්ෂණ වන්දි ගන්නවත් ගිණි තිබ්බද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-26 23:02:24</date>
+            <index>10</index>
+            <phrase>අපේ හනුමා නම් ඕවා කරන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-05-26 23:19:36</date>
+            <index>11</index>
+            <phrase>ඒක හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-05-27 05:24:46</date>
+            <index>12</index>
+            <phrase>හකීම්ගේ වීඩියෝවක් නිකුත් උනා කියලා ආරන්චියට අන්තවාදීන් කරන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතලේ රාල</author>
+            <date>2012-05-27 09:24:03</date>
+            <index>13</index>
+            <phrase>ඔහොම වෙලා මදි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>63883</articleId>
+    <title>තුන්පත් රෑන පනින්නට පෙර සිතා බලයි</title>
+    <author>මහින්දසිරි පේ‍්‍රමලාල්</author>
+    <date>2012 සැප්තැම්බර් මස 10 12:12:45</date>
+    <body>මවත් සමග හබරණ මින්නේරිය පාර පනින්නට සැරැසෙන මේ අලි පැටවා ඇතුළු රංචුව දිය සොයා යති. නියඟයෙන් වනාන්තරයේ සියලූ දිය කඩිති සිඳී ගොස් ඇත.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-10 12:44:42</date>
+            <index>0</index>
+            <phrase>මිනිස්සුන්ගේ ක්‍රියාකලාපය නිසා මෙවන් නියඟ ඇතිවී අසරණ සත්තුත් ඒවට වන්දි ගෙවනවා...(ස)‍‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-09-10 12:54:08</date>
+            <index>1</index>
+            <phrase>අලි ටික දැන් හොරෙන්ම පාර මාරු වෙන්න වගේ හදන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-09-10 13:18:09</date>
+            <index>2</index>
+            <phrase>මෙහෙම යනකොට පාර මාරු වෙන්න වෙන්නේ හොරෙන් තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණා</author>
+            <date>2012-09-10 13:41:45</date>
+            <index>3</index>
+            <phrase>තුන්පත් රෑනක්නම් ...බලාගෙන පාර මාරුවෙන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-09-10 14:18:12</date>
+            <index>4</index>
+            <phrase>විශාල නලළිං සහ කැලේ කැපීමේ ආදීනව තමයි..ඉදිරියේදී අපිටත් මුහුණ දෙන්න වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුන්පත් රෑන</author>
+            <date>2012-09-10 14:59:13</date>
+            <index>5</index>
+            <phrase>අපිට වඩා අලින්ට මොලේ තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගාර</author>
+            <date>2012-09-10 16:09:40</date>
+            <index>6</index>
+            <phrase>තුන්පත් රෑනට ආයේ හිතන්න දෙයක් නෑ. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පනාගොඩ</author>
+            <date>2012-09-10 16:39:16</date>
+            <index>7</index>
+            <phrase>ගණ දෙවි නුවණ කියන්නේ මේකට තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-09-11 05:58:43</date>
+            <index>8</index>
+            <phrase>වාහන එනවද කියලා නෙමෙයි, අලි පැටවු ටික හොරකම් කරන්න අපේ මහත්වරුන් එයිද කියලයි මේ බලන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-09-11 13:12:48</date>
+            <index>9</index>
+            <phrase>පේනවා නේද අම්මලා දරුවන් රකින හැටි? මේවා තැන් තැන් වල දරුවන් දමලා යන අම්මලාට හොද පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

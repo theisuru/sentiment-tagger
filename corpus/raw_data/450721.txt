@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450721</articleId>
+    <title>ස්පයිඩර් කෙල්ලක් වඳුරඹ</title>
+    <author></author>
+    <date>2016 අගෝස්තු මස 24 17:08:48</date>
+    <body>ගාල්ල වඳුරඹ මහා විද්‍යාලයේ තෙවැනි ශ්‍රේණියේ රඟමිණී යසස්නී පොන්නම්පෙරුම (07) ආධාරකයක් නොමැතිව බිත්තිය දිගේ නැග විනාඩ් 10 ක් 15 ක් සිටින බව කියයි. කුඩා කල සිටම බිත්තියේ නැගීමේ හැකියාවක් පැවති බවත් දැන් ඇය ජිම්නාස්ටික් හා කරාතේ කරන බවත් කියන්නීය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2016-08-24 12:08:26</date>
+            <index>0</index>
+            <phrase>දුවේ, බලාගෙන. පරිස්සමින්! බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ති</author>
+            <date>2016-08-24 12:43:49</date>
+            <index>1</index>
+            <phrase>ඔයාට තුණුරුවන්ගේ පිහිටයි පුතේ මේ ලැබුණු විශේෂ හැකියාව සමාජයේ යහපතටම යොදවන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-08-24 12:48:41</date>
+            <index>2</index>
+            <phrase>මේ දරුවා ගැන මන අවබෝදයකින් දෙමාපියන් සිටිය යුතුවේ මෙය සාමාන්‍ය ක්‍රියා කලාපයන් නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-08-24 12:55:17</date>
+            <index>3</index>
+            <phrase>දෙමාපියන් මේ ගැන අවධානයෙන් සිටින්න. මෙය අවධානම් වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුනි</author>
+            <date>2016-08-24 12:55:24</date>
+            <index>4</index>
+            <phrase>අපි පොඩි කලේ මීට වඩා දේවල් කරලා තියනවා;</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2016-08-24 13:00:58</date>
+            <index>5</index>
+            <phrase>දක්ෂ දරුවෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂිකා</author>
+            <date>2016-08-24 13:03:10</date>
+            <index>6</index>
+            <phrase>ඔයාට තියෙන්නේ සුවිශේෂී හැකියාවක්..බුදුසරණයි මගේ දුවේ ..පරිස්සමින්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2016-08-24 13:09:38</date>
+            <index>7</index>
+            <phrase>නිසියාකාර පුහුණුවක් නොලබා මෙවැනි දේ කිරීම ඉතාම අවදානම් සහිත ක්‍රියාවකි. දෙමවුපියන් මේ දරුවා සම්බන්ධයෙන් මිට වඩා සැලකිලිමත් වියයුතුයි කියලයි මම හිතන්නේ. නැත්නම් මතු යම් දිනයක අනතුරක් සිදුවිය හැකියි. සිනමාවේ රුපවාහිනියේ පෙන්වනදේ ඇත්ත නෙවේ. ප්‍රවේසමෙන් රුප ගත කරන ඇස්බැන්දුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක</author>
+            <date>2016-08-24 13:12:15</date>
+            <index>8</index>
+            <phrase>සුපිරි පුතා නියමයි.. !"කල නොහැක්කක් නොමැත"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසෝධරා</author>
+            <date>2016-08-24 13:43:31</date>
+            <index>9</index>
+            <phrase>මේ හැකියාවෙන් උපරිම ප්‍රයෝජන ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-08-24 13:53:38</date>
+            <index>10</index>
+            <phrase>සඳුනි, ඔබේ ඊර්ෂ්‍යාව සහ කුහකකම පොඩ්ඩක් ඉවතලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-08-24 14:02:42</date>
+            <index>11</index>
+            <phrase>බලධරයිනි, පොඩි උදව්වක් දුන්නොත් නරකද ඇයට ගිනස් පොතට යාමට (නි)?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියසිරි</author>
+            <date>2016-08-24 14:09:01</date>
+            <index>12</index>
+            <phrase>අනේ සඳුනි, මේ ළමයාගේ හැකියාව අගය කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-08-24 14:16:07</date>
+            <index>13</index>
+            <phrase>සඳුනි, ඔයා මොනවද පොඩි කාලේ කළේ? කියන්නකෝ බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවර්ධන</author>
+            <date>2016-08-24 15:34:01</date>
+            <index>14</index>
+            <phrase>කට්ටිය බයවෙන්න එපා - යටට මෙට්ටා දාලා ඇත්තේ !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-08-24 15:49:00</date>
+            <index>15</index>
+            <phrase>මේ දැරිවිගේ නමෙන්ම පේනවා, දැරිවිට අමුතු දේවල් කිරීමේ හැකියාවක් තිබෙන බව.\nපරෙස්සමින් යන්න දුවේ තව උඩටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු</author>
+            <date>2016-08-24 16:10:26</date>
+            <index>16</index>
+            <phrase>බලාගෙන පරිස්සමෙන් දුවේ! තමාගේ ආරක්ෂාව ගැනත් හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2016-08-24 16:20:14</date>
+            <index>17</index>
+            <phrase>මේ වැඩ නම් බොහොම අවදානම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-08-24 16:29:25</date>
+            <index>18</index>
+            <phrase>මගේ දුවේ, ඔබ දක්ෂයි. එ්ත් පැටියෝ මේවා කරන්නේ බලාගෙන. ඔබට තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැම්සන් දිලයිලා</author>
+            <date>2016-08-24 16:50:25</date>
+            <index>19</index>
+            <phrase>දෙවි පිහිටයි දුවේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-08-24 17:44:56</date>
+            <index>20</index>
+            <phrase>අනේ ඇත්තද සඳුනි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-08-24 18:18:22</date>
+            <index>21</index>
+            <phrase>සඳුනි, මොනවද ඔයා කරලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2016-08-24 22:40:57</date>
+            <index>22</index>
+            <phrase>පුංචි කාලේ ළමයි මේ විදිහට නගින්න දක්ෂයි. නමුත් අවදානම් නිසා දෙමව්පියන් මෙය වළකනවා. මෙය ඉතා අවදානම් වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-08-24 23:21:49</date>
+            <index>23</index>
+            <phrase>මේ දරුවාව ජිම්නාස්ටික් ක්‍රීඩාවට යොමු කරවන්න. වෙන රටවල් වල මෙවැනි දක්ෂතා තිබෙන අය මුලදීම හඳුනාගෙන ඒ අංශ වලට යොමු කරනවා. ඒ වගේ අය තමයි ඔලිම්පික් වැනි ඉහළ තල වලට යන්නේ. කරුණාකර ඊට දක්ෂ පුහුණුකරුවකු යොදවන්න. එ්ත් ලංකාවේ එවැනි සංස්කෘතියක් නැහැ. එ්ක තමයි ලොකුම දුක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-08-24 23:24:20</date>
+            <index>24</index>
+            <phrase>දෙමාපියන් මීටවඩා බුද්ධිමත්ව වැඩකළ යුුතුය. මෙවැනි කුඩා වයසකට මෙවැනි අවදානම් ක්‍රියා කිසිසේත්ම සුදුසු නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-08-25 00:15:33</date>
+            <index>25</index>
+            <phrase>මේ තත්ත්වය ගැන සොයාබැලිය යුතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනසිරි</author>
+            <date>2016-08-25 00:30:57</date>
+            <index>26</index>
+            <phrase>මෙය මේ දුවගේ පෙර භවයේ පුරුද්දක් විය නොහැකිද? මේ සටහන දුවගේ දක්ෂතාවය අවතක්සේරු කිරීමට නොවන බවද කරුණාවෙන් සළකන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුලාජ්</author>
+            <date>2016-08-25 02:53:03</date>
+            <index>27</index>
+            <phrase>සඳුනි,දෙයක් දැක්කහම අගය කරන්න දැනගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව රාජපක්ෂ</author>
+            <date>2016-08-25 02:51:19</date>
+            <index>28</index>
+            <phrase>මෙවැනි දක්ෂතා තියෙන ළමුන් ධෛර්යමත් කළයුතුයි නේද. ඒ සදහා රාජ්‍ය අනග්‍රහයත් ලබාදෙනවා නම් මේ දක්ෂතා තව වර්ධනය කරගන්න පුලුවන් මේ දරුවට. ඔබට තෙරුවන් සරණයි දුවේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-08-25 03:03:22</date>
+            <index>29</index>
+            <phrase>දනසිරි, මටත් ඔය කාරණාව ඔය විදියටම හිතුනා. අවාසනාවට අතීතයට ගිහින් බලාගන්න හැකියාවක් නැහැනේ. මොනවා වුණත් දරුවෝ පරෙස්සමට. දැක්කම ඇඟ හිරිවැටෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2016-08-25 03:05:04</date>
+            <index>30</index>
+            <phrase>මේ වගේ දරුවන් මුල සිට හොඳට පුරුදු පුහුණු කළා නම් ලංකාවට ඔලිම්පික් පදක්කම් ගන්න එක අමාරු වැඩක් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-08-25 03:24:48</date>
+            <index>31</index>
+            <phrase>පොඩි කාලේ ඔයිට වඩා දේවල් කළා. මගෙන් ඇහුවොත් මම කියන්නම් ඒ කරපු දේවල්. මේ වගේ දේවල් නම් නෙමේ. අමුතුම ඒවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නසිංහ</author>
+            <date>2016-08-25 04:35:50</date>
+            <index>32</index>
+            <phrase>දරුවා, ප්‍රවේශමෙන්! අනෙක් දරුවන් මේ දේවල් කරන්න ගිහින් අනතුරු කරගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-08-25 04:45:53</date>
+            <index>33</index>
+            <phrase>පුහුණුව අවැසිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණී</author>
+            <date>2016-08-25 05:14:45</date>
+            <index>34</index>
+            <phrase>සදුනි කියන්නේ ඇත්ත. බිත්ති දෙකක ආධාරයෙන් මෙහෙම නගින්න අමාරු නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලාන්</author>
+            <date>2016-08-25 06:29:29</date>
+            <index>35</index>
+            <phrase>මේ කුඩා දරුවා මොනතරම් නම් දක්ෂයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-08-25 06:29:33</date>
+            <index>36</index>
+            <phrase>සඳුනි ගැන මට නම් හිතාගන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-08-25 06:33:45</date>
+            <index>37</index>
+            <phrase>පද්මිණීට පුලුවන් නම් බිත්ති දිගේ මෙහෙම නැගලා ලංකාදීපයේ ෆොටෝ එකක් පළකරන්න, ඔයා කියන කතාව අපි පිළිගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2016-08-25 06:39:44</date>
+            <index>38</index>
+            <phrase>මෙහෙම දරුවන්ගේ දක්ෂතා වැඩිදියුණු කළොත් අනාගතයේදී අපිට ඔලිම්පික් පදක්කම් සිහිනයක් නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-08-25 07:01:34</date>
+            <index>39</index>
+            <phrase>සඳුනිගේ ඊර්ෂ්‍යාව දැකලා මිනිස්සු දොස් කියනවිට එයාම බොරුවට පද්මිණී නමින් අදහසක් දාලා වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-08-25 07:03:42</date>
+            <index>40</index>
+            <phrase>සඳුනි, පද්මිණි, ඔයාලට ඉනිමඟක් දිගේවත් උඩට යන්න පුලුවන්ද? ඊර්ෂ්‍යාව වහගන්න බොරු කියන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එදිරිවීර</author>
+            <date>2016-08-25 07:11:38</date>
+            <index>41</index>
+            <phrase>මෙවන් දරුවන් අපට වාසනාවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් පෙරේරා</author>
+            <date>2016-08-25 07:24:12</date>
+            <index>42</index>
+            <phrase>කුඩා දරුවෝ ඔය වගේ අවදානම් වැඩ කරවල වීරයෝ කරවන්න එපා සුළු මොහොතකින් ඔය වීර කම නැතිවී ඔය දරුවා සදාකාලික විදවන කෙනෙක් බවට පත්වෙන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-08-25 08:20:29</date>
+            <index>43</index>
+            <phrase>දුවේ කරන දෙයක් පරිස්සමින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-08-25 09:43:59</date>
+            <index>44</index>
+            <phrase>මේ සඳහා රජය පැත්තෙන් යම් දෙයක් කළොත් ලොවම දන්නා කෙල්ලක් වෙන්න පුළුවන්. දුවේ ප්‍රවේශමෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිනේන්ද්‍ර</author>
+            <date>2016-08-25 10:53:59</date>
+            <index>45</index>
+            <phrase>මේක ඕනෑම කෙනෙක් ට කරන්න පුළුවන් අැග බර නැත්තම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2016-08-25 10:54:44</date>
+            <index>46</index>
+            <phrase>හැමෝටම මේ දේ කරන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා</author>
+            <date>2016-08-25 13:46:20</date>
+            <index>47</index>
+            <phrase>දෙවියන්ගේ නාමෙන් මම මේ දරු පැටියාගේ දෙමවුපියන්ගෙන් ඉල්ලීමක් කරන්නේ බැරි වෙලාවත් මේ පුංචි කකුල ලිස්සුවොත් මේ පුංචි මැණිකගේ ජීවිතේම ඉවර වේවි. ඔයාලට ප්‍රසිද්ධිය ඕනිම නම් වෙන දෙයක් කරන්න. මේ දරුවා කිසිම විටක ආයේ මේ විදියට නග්ගන්න එපා. ක්‍රීඩා අමාත්‍යංශය වැනි කුමක් හෝ වගකිවහැකි ආයතනයකට මේ දරුවා ගැන කතා කරලා ආරක්ෂා සහිත ක්‍රමානුකුල පුහුණුවකට යොමු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසස්</author>
+            <date>2016-08-25 14:00:22</date>
+            <index>48</index>
+            <phrase>මේ හිතාමතාම මේ දරුවාගේ ජීවිතේ අවදානමේ දානවා. දරුවා මෙහි අවධානම දන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයෝමි</author>
+            <date>2016-08-25 15:23:25</date>
+            <index>49</index>
+            <phrase>මටත් ඉන්නවා මේ වයසේ දුවෙක් මේ විදියට බිත්ති උඩ නගින්න දෙන එක අනුමත කරන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්දි</author>
+            <date>2016-08-25 17:04:06</date>
+            <index>50</index>
+            <phrase>ළමයාගේ ජීවිත තර්ජනයක් තියනවා මෙතන. දරුවන් ගැන තියන නීති පිළිබඳ නැවත සිතාබැලිය යුතු යුගයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවනෙක</author>
+            <date>2016-08-25 20:24:30</date>
+            <index>51</index>
+            <phrase>ඔබට සුබ පැතුම් දුවේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-08-26 02:11:04</date>
+            <index>52</index>
+            <phrase>බුදුසරණ වේවා දුවට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2016-08-27 00:35:03</date>
+            <index>53</index>
+            <phrase>සඳුනි, ඔයා හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-08-28 06:18:38</date>
+            <index>54</index>
+            <phrase>සංජීව, ඉතින් කියන්නකෝ අපට දැනගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

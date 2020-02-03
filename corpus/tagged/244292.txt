@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>244292</articleId>
+    <title>සැකකරු අල්ලා දීලා ගිමන් හරී</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2014 ජූනි මස 22 13:15:41</date>
+    <body>ඇළහැර හීරටියේ පුණ්‍යවර්ධනාරාමාධිපති  ඝාතනය සම්බන්ධයෙන් සැකපිට ඒ හිමියන්ගේ රියදුරාගෙන්  පොලීසිය ප්‍රශ්න කැරගෙන යයි.
+පන්සලේ තිබු සෙරප්පු දෙකේ ඉව ඔස්සේ ගිය පොලිස් හබරණ පොලීසියේ නිල සුනඛ අංශයේ ‘නයිනා‘  තෙවරක්ම ඔහු ළඟට ගිය බව පොලීසිය කියයි.
+
+
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>තබුක් සිල්වා</author>
+            <date>2014-06-22 14:00:28</date>
+            <index>0</index>
+            <phrase>බුදුන් තුන්වරක් වැඩිය මේ දේශයට මොකද උනේ්?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2014-06-22 14:53:52</date>
+            <index>1</index>
+            <phrase>එයාව අත්අඩංගුවට ගන්න</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විනෝද්</author>
+            <date>2014-06-22 15:10:11</date>
+            <index>2</index>
+            <phrase>මේ මොනවාද මේවා කවදා නම් අහපු දේවල්ද</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2014-06-22 15:33:22</date>
+            <index>3</index>
+            <phrase>සියලුම පන්සල් වලට පොලිස් ආරක්ෂාව වගේම හිමි වරුන්ට රියදුරු බලපත් ලබා දිය යුතුයි , වෙන ආගම් වලට‍ තියෙන වරප්ප්‍රසාද ඇයි මේ අපිට නැත්තේ ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2014-06-22 16:09:47</date>
+            <index>4</index>
+            <phrase>බලන්නකෝ ඉන්න අපුරුව</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-06-22 16:16:22</date>
+            <index>5</index>
+            <phrase>සැපට හැදිලා තියෙනවා,</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කලන</author>
+            <date>2014-06-22 16:22:31</date>
+            <index>6</index>
+            <phrase>මේ තත්වය එන්න එන්නම වැඩි වෙනවා අඩුවක් දකින්න ලැබෙන්නේ නැහැ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-06-22 16:26:43</date>
+            <index>7</index>
+            <phrase>එයා හරිම ලස්සනයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-06-22 16:39:18</date>
+            <index>8</index>
+            <phrase>මිනිස්සු වෙනුවට මේ වගේ බල්ලෝ ටිකක් හැදුවනම් රටට වැඩක්වත් වෙනවා අප්පා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෛරූස්</author>
+            <date>2014-06-22 16:58:41</date>
+            <index>9</index>
+            <phrase>ඉක්මනින් සැකකරු අත්අඩංගුවට ගන්න නැත්නම් තවත් අලුතගමක් වෙයි</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මහරගම සෝමරත්න</author>
+            <date>2014-06-22 17:00:15</date>
+            <index>10</index>
+            <phrase>මෙයාට උසස්වීම් නැද්ද</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2014-06-22 17:33:05</date>
+            <index>11</index>
+            <phrase>ඉසුරන්දිට, මිනිස්සු වෙනුවට සමහර මිනිස්සු කියල දාන්න වෙනවා. සේරම බල්ලෝ උනා නම් ඔයාට මොකද වෙන්නේ? කොහොම උනත් බල්ල නම් එයාගේ වැඩේ හොදට කරලා. අනිත් අයගේ වැඩ තමයි දැන් තියෙන්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්දනී</author>
+            <date>2014-06-22 17:54:23</date>
+            <index>12</index>
+            <phrase>මේක පුද්ගලික ප්‍රශ්නයක් වෙන්න ඇති. හිමියන්ට නිවන් සුව !</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රස්පී</author>
+            <date>2014-06-22 17:56:05</date>
+            <index>13</index>
+            <phrase>මම හිතනේ වැරදි කරුවන් ඇල්ලු විදිය ප්‍රසිද්ද කිරීම වැරදියි කියලා. විශේෂයෙන් බල්ලෙක්ගේ ඉවෙන් ඇල්ලුවා කියල දැම්මා. ඊටපස්සේ මිනිස්සු බල්ලන්ගේ ඉවෙන් බේරෙන්න වෙන උපක්‍රම යොදයිද දන්නේ නැහැ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2014-06-22 18:07:18</date>
+            <index>14</index>
+            <phrase>ෆෛරූස්, අලුත්ගම වෙන සිද්දියක් උනේ අපේ හම්දුරුවන්ට පහර දුන්න නිසා. මෙතන ඒ වගේ දෙයක් නැ කියල සිතනවා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-06-22 19:00:52</date>
+            <index>15</index>
+            <phrase>මලකෙලි දෙකයි. ඇළහැරත් විනාශ කරයිද ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්-සාජා</author>
+            <date>2014-06-22 20:18:34</date>
+            <index>16</index>
+            <phrase>බල්ලොත් එක්ක බැහැ කියන්නේ එ්කනේ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2014-06-22 20:27:11</date>
+            <index>17</index>
+            <phrase>ඔබ වහන්සේට සසර වසන තුරු මෙවන් අකල් මරණයක් නොම වේවා ඔබ වහන්සේට නිවන් සුව</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-06-22 20:34:50</date>
+            <index>18</index>
+            <phrase>බලන්ඩ මේ වගේ අපරාදයක් කරන්ඩ හිතිච්ච පව්කාර කමක හැටි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෛරූස්</author>
+            <date>2014-06-22 21:20:53</date>
+            <index>19</index>
+            <phrase>මම තේරුම් ගත්තා මම කිව්වේ වැරදි දෙයක් කියල. මම වගේ ඉක්මන් තීරණ ගන්න අය නිසා තමා අද ලංකාවේ ප්‍රශ්න වැඩි වෙලා තියෙන්නේ. මට සමාවෙන්න.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2014-06-22 21:31:05</date>
+            <index>20</index>
+            <phrase>සමහර හාමුදුරුවෝ ජඩ වැඩ කරනකොට හොද අයටත් යන කල මේකද ? </phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2014-06-22 22:33:48</date>
+            <index>21</index>
+            <phrase>ස්වාමින් වහන්සේට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2014-06-22 22:33:49</date>
+            <index>22</index>
+            <phrase>උන්වහන්සේ ඉතා ගුණවත් සඟරුවනක් වුණත්, සමාජයේ ඇති වියරුව උන්වහන්සේ බිහිසුණු ලෙස අපවත් කළා.අනේක කරදර සහිතව පන්සල් රකින භික්ෂූන්ට මෙහෙම වෙනකොට මට හරි දුකක් ඇති වෙනවා. උන්වහන්සේට නිවන් සුව ලැබේවා! කිසිම කලක මෙවැනි දෙයක් සිදු නොවේවා!</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කළණ</author>
+            <date>2014-06-22 23:24:17</date>
+            <index>23</index>
+            <phrase>නිල සුනඛයින් ඉතා අවංකවම තම රාජකරිය කරනවා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2014-06-22 23:54:53</date>
+            <index>24</index>
+            <phrase>කොහොමත් මේ සතුන් ඉතා අවංකයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-06-23 05:27:09</date>
+            <index>25</index>
+            <phrase>'ඉහළින් එන බලපෑම්' වලට තීරණ වෙනස් නොකරන කට්ටියක් තමයි අපේ නිල සුනඛ අංශය</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2014-06-23 12:43:43</date>
+            <index>26</index>
+            <phrase>ඔය බල්ලෝ තමයි මේ රටට ඉන්න එකම අවංක නිලධාරී. කාගෙන්වත් පගාවක් ගන්නේ නැහැ. මැරුණත් ඉහලින් එන බලපෑම් වලට යටත් වෙන්නෙත් නැහැ. පාර්ලිමේන්තුවට යවන්න පුළුවන් වුනොත් කොච්චර හොඳද ?</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-06-23 12:59:44</date>
+            <index>27</index>
+            <phrase>ෆයිරූස්, ඔබගේ දෙවන වර අදහස් දැක්වීමට මම ගරු කරනවා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-06-23 13:25:23</date>
+            <index>28</index>
+            <phrase>ප්‍රියාන්ට, මම එහෙම තමයි හිතාගෙන ලිව්වේ. බලන්නකෝ අකුරක් එහා මෙහා උනාම වෙන නස්පැත්තිය නේද ? </phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අනෝමා</author>
+            <date>2014-06-23 15:34:55</date>
+            <index>29</index>
+            <phrase>තමන්ගේ වගකීම අකුරටම ඉටු කරලා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දු</author>
+            <date>2014-06-23 15:39:17</date>
+            <index>30</index>
+            <phrase>විශිෂ්ටයි, සතෙක් උනත් අගයන්න ඕනේ</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-06-23 17:50:50</date>
+            <index>31</index>
+            <phrase>තරිදුගේ අදහසින් හොඳ අරුතක් දී තිබෙනවා. ඉතාමත් අගෙයි තරිදු</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>225214</articleId>
+    <title>ඉන්ධන බවුසරය ගිනි ගනී</title>
+    <author>සනත් ගමගේකමල් ශ්‍රී ලියනගේ ආරියදාස කොඩිතුවක්කු</author>
+    <date>2014 අපේ‍්‍රල් මස 12 17:02:44</date>
+    <body>කොලොන්නාවේ සිට මත්තල ගුවන්තොටට ඉන්දන රැගෙන යමින් තිබූ බවුසරයක් මීගහජඳුරේදී නවතා තිබූ බසයක හැපී පෙරළී ගිනිගෙන දැඩි හානි සිදු වු බව පොලීසිය කියයි. ගුවන් යානා ඉන්ධන ලීටර් 33.000ක් බවුසරයේ කාමර තුනක ගබඩා කර තිබූ බවත් ඉන් කාමර දෙකක්ම සම්පූර්ණයෙන්ම විනාශ වී ඇති බවත් පොලිසිය කියයි.
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-04-13 00:41:50</date>
+            <index>0</index>
+            <phrase>අපරාදේ! ගුවන් යානයක යවන්නනේ තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-04-13 01:29:21</date>
+            <index>1</index>
+            <phrase>මත්තල පිත්තල වෙන වැඩක් නේද මෙයා කරලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂාන්ත</author>
+            <date>2014-04-13 01:34:18</date>
+            <index>2</index>
+            <phrase>රියදුරාට කොහොමද? ජාතික සම්පත් වනසන එක බොහොම නරකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2014-04-13 21:31:36</date>
+            <index>3</index>
+            <phrase>ප්‍රවේසම් වෙන එක කාටත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2014-04-13 21:33:54</date>
+            <index>4</index>
+            <phrase>තෙල් නිසා තමයි අලාබය වැඩි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2014-04-13 21:34:53</date>
+            <index>5</index>
+            <phrase>මොනවාද ඒ සුදු පාටට ගහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2014-04-13 21:37:28</date>
+            <index>6</index>
+            <phrase>ඉතින් මෙ එක බවුසරයක් විතරක් මොනවා කරන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉශාන්</author>
+            <date>2014-04-13 21:39:09</date>
+            <index>7</index>
+            <phrase>ඉක්මනින් ගින්න පාලනය කල එක නම් හොද දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිද්මා රත්නවීර</author>
+            <date>2014-04-13 22:44:11</date>
+            <index>8</index>
+            <phrase>අයියෝ සල්ලි...... කොච්චර අපරාධයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක උඩුවන</author>
+            <date>2014-04-13 22:47:06</date>
+            <index>9</index>
+            <phrase>මේ විනාශ වෙලා තියෙන දේවල් ඔක්කොම රජයේ දේවල්නේ අපරාදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වේරහැර</author>
+            <date>2014-04-13 23:31:14</date>
+            <index>10</index>
+            <phrase>මන් හිතුවේ මේ අපේ වාහනවලට ගහන එවා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2014-04-14 00:58:55</date>
+            <index>11</index>
+            <phrase>අයියෝ මහා අපරාධයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නසිරි</author>
+            <date>2014-04-14 01:55:30</date>
+            <index>12</index>
+            <phrase>සුභ අලුත් අවුරුද්දක් ලංකාදීපයේ සැමට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2014-04-14 13:38:37</date>
+            <index>13</index>
+            <phrase>එක බව්සරයක් යන එකෙන්ම තේරෙනවා එන ගුවන්යානා ගණන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තමිත්</author>
+            <date>2014-04-30 06:20:51</date>
+            <index>14</index>
+            <phrase>තෙල් නැවක් යවන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

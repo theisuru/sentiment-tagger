@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15987</articleId>
+    <title>බොදු වැඩ මුළුවක් ලන්ඩනයේ</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2011 දෙසැම්බර් මස 05 11:04:13</date>
+    <body>ජිවිත කලමනාකරණය පිළිබඳ වැඩමුළුවක් ලන්ඩන් නුවර දී පැවැත්වීණි. හත්තානේ ධර්මගවේෂී හිමියන් එම ගී කියා දුන්නේ බුදුන් වහන්සෙ දෙසූ ධර්මය අනුව අර්ථවත් ලෙස ජිවිතය හැඩ ගන්වා ගන්නා ආකාරයයි. භාවනා ධර්ම සාකච්ඡා ද ඇතුළු වූ මේ වැඩ සටහනේදී නිලක්ෂි ගුණතිලක මව්පිය ගුණ ගී ගැයුවාය.</body>
+    <comments>
+        <comment>
+            <author>කුමාර වල්පොළ</author>
+            <date>2011-12-05 12:18:43</date>
+            <index>0</index>
+            <phrase>ඉතා හොද ආරම්භයක්. මා ස්තූතිවන්ත වෙනවා සංවිධායක කමිටුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූජ්‍ය රූපහ ඥානරතන</author>
+            <date>2011-12-05 23:27:21</date>
+            <index>1</index>
+            <phrase>ගොඩක් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න බණ්ඩාර</author>
+            <date>2011-12-16 03:50:22</date>
+            <index>2</index>
+            <phrase>අද අපට අවශ්‍ය වන්නේ මෙවන් වටිනා වැඩසටහන්.............. අධ්‍යාත්මික ගුණවගාව දියුණු නොකර අපි මේ ගෙවන ජීවිතයෙන් පලක් තිබේද...... ? සංවිධානය කල ඔබ සැමට ස්තුති...|</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

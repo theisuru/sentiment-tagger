@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>482942</articleId>
+    <title>'අධිකරණ ඇමැති මතය ආණ්ඩුවේ මතය නොවේ'</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 නොවැම්බර් මස 23 13:11:32</date>
+    <body>අධිකරණ ඇමැති විජයදාස රාජපක්ෂ මහතා පාර්ලිමේන්තුවේ දී අයිඑස්අයිඑස් ත්‍රස්තවාදීන් ගැන හා මාධ්‍ය ගැන ප්‍රකාශ කළේ රජයේ මතය නොවන බව කැබ්නට් මාධ්‍ය හමුවේ දී දොස්තර රාජිත සේනාරත්න මහතා කීවේය.
+අයිඑස්අයිඑස් ත්‍රස්තයන් ගැන අධිකරණ ඇමැති කළ ප්‍රකාශය සත්‍යයක් නොවන බව මෛත්‍රීපාල සිරිසේන ජනපති තමාට කියු බව ඇමැති රාජිත සේනාරත්න මහතා පැවසීය.
+මෙම ප්‍රකාශයත් සමඟ මුස්ලිම් ජනයා තැති ගෙන ඇතැයි ද ඔහු කීවේය.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-11-23 08:33:56</date>
+            <index>0</index>
+            <phrase>කවුරු කොහොම වෙතත් , ඔබ තුමනම් ඉතා සත්‍යගරුක බව රටම දන්නවා ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරන්</author>
+            <date>2016-11-23 08:59:37</date>
+            <index>1</index>
+            <phrase>මෙතුමාගේ මතයත් රජයේ මතය නොවන බව හැමෝම දන්නවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂික</author>
+            <date>2016-11-23 12:03:16</date>
+            <index>2</index>
+            <phrase>අපොයි මෙතුමානේ ඇත්තම කතා කරන මිනිහා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

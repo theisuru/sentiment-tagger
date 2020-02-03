@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>211940</articleId>
+    <title>පුණ්ඬලුඔය ගින්නක්</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2014 පෙබරවාරි මස 21 07:51:44</date>
+    <body>පුණ්ඩලුඔය නාගරයේ අද අලුයම ඇතිවූ ගින්නකින් එයි කඩ සාප්පු 33ක් සම්පූර්ණයෙන්ම විනාශ වූ බව පුණ්ඩලුඔය පොලිසිය කියයි. සිල්ලර කඩයක් තුළ ඇති වූ ගින්න පැය කිහිපයක් ඇතුළත සීඝ්‍රයෙන් පැතිර ගිය බව නගරවාසීහු කියති. ගින්න පැතිරීම වැලක්වීම සඳහා කඩ කඩා ඉවත් කිරීමට සිදු වූ බව ද පොලිසිය පවසයි. නුවරඑළිය නගර සභාව, පොලිසිය, යුද හමුදාව සහ පොලිස් විශේෂ කාර්ය බලකාය ප්‍රදේශවාසීන්ගේ ද සහයෙන් ගින්න නිවා දැමීමට කටයුතු කළේය.</body>
+    <comments>
+        <comment>
+            <author>සනත්</author>
+            <date>2014-02-21 13:20:56</date>
+            <index>0</index>
+            <phrase>ලංකාවේ ප්‍රධාන නගරවල පරණ කඩ පේලි ගිනිගන්නේ මොකද? ඔය ඉඩම් ගොඩක් වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2014-02-21 21:31:31</date>
+            <index>1</index>
+            <phrase>පාර පලල් කරන්න හොද වෙලාව .......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2014-02-21 22:53:37</date>
+            <index>2</index>
+            <phrase>හැම මාසෙකම කොහේ හරි ටවුමක කඩයක් ගිනි ගන්නවාමයි නේද..? එකට හේතුව කියන්න පුළුවන් කෙනෙක් ඉන්නවද..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ලියනගේ</author>
+            <date>2014-02-22 09:51:46</date>
+            <index>3</index>
+            <phrase>රක්ෂණ වන්දී ලබාගැනීම සදහා , හැම කඩයක්ම රක්ෂණ ආවරණයක් ලබ ගෙනයි තියෙන්නෙ රක්ෂණ සමාගම් ඔවා ගෙවන්න වෙනවා .......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2014-02-22 09:58:12</date>
+            <index>4</index>
+            <phrase>ඔය මිනිසුන්ට පිළිවෙලකට කඩ ටික රජයෙන් මැදිහත්වීමකින් හදලා දෙනවනම් ලොකු දෙයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2014-02-22 18:23:07</date>
+            <index>5</index>
+            <phrase>අපිට හිත ගන්න පුළුවන් මේකත් කගේ වේදක්ද කියල. මම සනත්ගේ කීම අගයකරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

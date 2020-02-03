@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465384</articleId>
+    <title>මහ දවල් මිනි කෝප් සිටියක් කොල්ලකයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 06 15:51:56</date>
+    <body>කඩුවෙල පහළ බෝමිරියේ මිනි කෝප් සිටි සුපිරි වෙළඳහලට අද (6) අවි රැගෙන ආ කොල්ලකරුවන් දෙදෙනකු රුපියල් ලක්ෂයක් පමණ ද අයකැමිවරියගේ පවුම් එක හමාරේ රන් මාලය ද ජංගම දුරකථනය ද පැහැරගෙන පළා ගිය බව පොලිසිය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-07 00:58:30</date>
+            <index>0</index>
+            <phrase>ලංකාවේ ජනතාව සමගියෙන් ජීවත් වියයුතුයි. ආරක්ෂක අංශයට පමණක් ගිනි අවි භාවිතය නීතිගත කර සාමාන්‍ය ජනතාවට ගිනි අවි භාවිතය තහනම් කළයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-10-07 02:57:09</date>
+            <index>1</index>
+            <phrase>මිනි කෝප් එකේ සල්ලි තිබිලා නැද්ද කොහෙද අර මනුස්සයාගේ මාලේ අරන් පැනලා තියෙන්නේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

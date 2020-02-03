@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464585</articleId>
+    <title>ගුවන්ගමන් පාලක අකුරට වැඩ අවසන්</title>
+    <author>ටී කේ ජී කපිල</author>
+    <date>2016 ඔක්තෝබර් මස 04 18:53:49</date>
+    <body>ගුවන් ගමන් පාලකවරුන් පෙරදින සිට ක්‍රියාත්මක කළ අකුරට වැඩ කිරීමේ වෘත්තීමය ක්‍රියාමාර්ගය අද (04) සවස 6.30ට අවසන් කළ බව එම සංගමය කියයි.
+තම ඉල්ලීම් වලට සතියක් ඇතුළත පිළිතුරු ලබාදීමට අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා එකඟ වීම නිසා මෙම තීරණය ගත් බව ගුවන් ගමන් පාලකවරුන්ගේ සංගමය කියයි.</body>
+    <comments>
+        <comment>
+            <author>රාජසිංහ</author>
+            <date>2016-10-05 00:04:04</date>
+            <index>0</index>
+            <phrase>මොවුන්ට බීලා ගුවන් යානා පදවන්නවත් ඉල්ලනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංගොඩ ලාල්</author>
+            <date>2016-10-05 05:13:29</date>
+            <index>1</index>
+            <phrase>රාජසිංහ, ගුවන් ගමන් පාලකවරු ගුවන් යානා පදවන්නේ නැහැ. ගුවන් යානා පදවන්නේ ගුවන් නියමුවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-10-05 08:31:32</date>
+            <index>2</index>
+            <phrase>ගුවන් ගමන් පාලක (Air Traffic Controller ) අතර සහ ගුවන් නියමුවකු අතර තියන වෙනස දන්නේ නැති අය බක පණ්ඩිත කතා කියන එක නම් හරි නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

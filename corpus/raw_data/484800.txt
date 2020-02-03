@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484800</articleId>
+    <title>දුම්රිය - කාර් අනතුරින් පහක් බේරෙයි</title>
+    <author>ප්‍රසාද් රුක්මල්</author>
+    <date>2016 නොවැම්බර් මස 28 21:06:02</date>
+    <body>බදුල්ල සිට කොළඹ බලා ධාවනය වෙමින් තිබූ රාත්‍රී තැපැල් දුම්රියේ අද (28) උඩුවර දුම්රියපොළ ආසන්නයේ අනාරක්ෂිත දුම්රිය හරස් මාර්ගයක දී මෝටර් රියක් ගැටී ඇතැයි පොලිසිය කියයි.
+මෝටර් රියේ ගමන් කළ පස් දෙනකු තුවාල නොලබා බේරි ඇතැයි හාලිඇල පොලිසිය පවසයි. </body>
+    <comments>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-11-28 17:25:38</date>
+            <index>0</index>
+            <phrase>රට වටේම අනාරක්ෂිත දුම්රිය හරස් මාර්ග වැහි වැහැලා තියෙද්දී කවදාකවත් පොළොවේ පයගහලා ඇවිදලා නැති ඇමතිවරු රුපියල් 25,000 දඩ ගහන්න බලාගෙන ඉන්නවා. මිනිස්සු කෝච්චියට යටවෙලා පවුල් පිටින් මියගියත් කමක් නැහැ දඩය ගෙව්වා නම්. මේකයි ප්‍රතිපත්තිය. ඔක්කොටම කලින් මේ අනාරක්ෂිත තැන්වල රේල් ගේට්ටු සවිකරලා ඉන්න මහත්තයෝ. මිනිස්සු මරවන්නේ නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-11-28 19:23:50</date>
+            <index>1</index>
+            <phrase>ජීවිත බේරුන එක සතුටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මන්</author>
+            <date>2016-11-28 20:48:50</date>
+            <index>2</index>
+            <phrase>රු. 25000/- ලෑස්ති කරගත්තොත් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-11-29 02:52:04</date>
+            <index>3</index>
+            <phrase>අනවශ්‍ය විධියට මැති ඇමතිවරුන්ගේ සුවපහසුව සඳහා වාහන ගන්න වියදම් කරන කෝටි ප්‍රකෝටි ගණන් වලින් ක්‍රමවත් විදියට අනාරක්ෂිත දුම්රිය ගේට්ටු හදන්න යෙදෙව්වා නම් හොඳ නැද්ද? කලින් මැති ඇමතිවරු පාවිච්චි කළ වාහන වල යන්න බැරි ලෙඩක් තියෙනවද මෙයාලට? මොනවා නැතත් දඩ නම් ගහන්න බලාගෙන ඉන්නවා. දඩ ගහන්න කලින් පහසුකම් සළසලා ඉන්න අනවශ්‍ය වියදම් කපාහැරලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනන්ද</author>
+            <date>2016-11-29 03:22:39</date>
+            <index>4</index>
+            <phrase>කෝච්චිය එන්නේ හෝන් එක ශබ්ද කරගෙන ලොකු ශබ්දයක් එක්ක. මූලික හේතුව නොසැළකිල්ල....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීගන</author>
+            <date>2016-11-29 06:26:23</date>
+            <index>5</index>
+            <phrase>දඩය සහ මෙම අනතුර අතර කිසි සම්බන්දයක් නෑ, මෙයනම් නොසැලකිලිමත්කම නිසා සිදුවූ දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-11-29 07:15:59</date>
+            <index>6</index>
+            <phrase>කෝච්චියේ හැපුණත් ඇල්ටෝ කාර් එකේ මිනිස්සුත් බේරලා ටොයෝටා එකේ නම් පහක් මැරුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-29 07:21:04</date>
+            <index>7</index>
+            <phrase>දෙවියනේ ජිවිත බේරුණු එකනම් ලොකු දෙයක්. එ්ත් හිතට ගන්න එලවන කෙනාගේ නොසැලකිල්ල ප්‍රධාන වශයෙන් බලපානවා, හැමෝම මෙවන් තැනකදී තමන් ගැන හිතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-11-29 08:02:28</date>
+            <index>8</index>
+            <phrase>මේ පොඩි කාර් සහ ත්‍රීවීල් යන්නෙම මැරෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙනිස්</author>
+            <date>2016-11-29 12:46:31</date>
+            <index>9</index>
+            <phrase>පිස්සු බල්ලෝ වගේ වාහන පදින්නේ ටිකක් පාර බලල යන්නේ නැත්තේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-11-29 16:51:57</date>
+            <index>10</index>
+            <phrase>දුම්රිය අනාරක්ෂිත හරස් මාර්ග වලට විදුලි එළියක් සහ වැඩි දුරකට පෙනෙන ස්ටිකර් කිහිපයක් අලවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-12-01 11:42:50</date>
+            <index>11</index>
+            <phrase>25000 හේ දඩය 250000 කළොත් හොඳයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

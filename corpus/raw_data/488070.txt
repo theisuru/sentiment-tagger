@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488070</articleId>
+    <title>බැසිල්ගේ ලිත් නඩුව අලුත් කරයි</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 දෙසැම්බර් මස 07 13:12:55</date>
+    <body>පසුගිය රජය සමයේ දිවිනැඟුම සංවර්ධන දෙපාර්තමේන්තුවට  අයත් රුපියල් මිලියන 29 ක් වැය කර ගිය ජනපතිවරණ සමයේ ලිත් ලක්ෂ පනහක්  මුද්‍රණය කර  රජයට  පාඩු කළැයි හිටපු ආර්ථික සංවර්ධන ඇමැති බැසිල් රාජපක්ෂට එරෙහිව නිතිපති නව චෝදනා ගොනු කරයි.
+මෙම චෝදනාව සම්බන්ධයෙන් බැසිල් රාජපක්ෂට එරෙහිව පවරා තිබු නඩුව නිතිපති තාක්ෂණික දෝෂ ඇති බව පවසමින් අගහරුවාදා (6) ඉවත් කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-12-07 08:32:59</date>
+            <index>0</index>
+            <phrase>කට්ටියම "හොරු සමග හෙළුවෙන්" හිටගෙන කියායි අපිට හිතෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-12-07 08:32:54</date>
+            <index>1</index>
+            <phrase>සුනාමි ආධාර පවා හොරකම් කළ අය ඉන්න රටේ මේවත් හොරකම්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

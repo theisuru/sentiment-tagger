@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41026</articleId>
+    <title>යුරෝපීය ජාතිකයෝත් අටසිල් සමාදන් වෙති</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 මැයි මස 07 10:23:10</date>
+    <body>ලන්ඩන් බෞද්ධ විහාරාධිපති බෝගොඩ සීලවිමල නාහිමියන්ගේ හා නේවාසික භික්ෂූන්ගේ සංවිධායකත්වයෙන් දෙදින වෙසක් වැඩසටහනක් ලන්ඩන් බෞද්ධ පන්සලේ දී පැවැත්වණි.
+කැපී පෙනුණු ලක්ෂණය වූයේ ශ්‍රී ලාංකිකයන්ට අමතරව යුරෝපීය ජාතිකයන් ද අටසිල් සමාදන් වීමයි. එක් දිනක් වෙන්වූයේ දහම් පාසල් දරුවන් වෙනුවෙනි. දෙවැනි දිනයේ තාරකා විද්‍යා මහාචාර්ය චන්ද්‍ර වික‍්‍රමගමගේ විශ්වය, විද්‍යාව හා බුදුන් වහන්සේගේ උගැන්වීම් ගැන දේශනයක් පැවැත්වීය. ලන්ඩනයේ ශ්‍රී ලංකා මහ කොමසාරිස් දොස්තර ක‍්‍රිස් නෝනිස් ප‍්‍රධාන ආරාධතයා විය. මහා සංඝරත්නයේ සෙත් පිරිත් දේශනා මැද ඔහු ජාතික කොඩිය එසැවීය.</body>
+    <comments>
+        <comment>
+            <author>අනුර - ඉරාකය</author>
+            <date>2012-05-07 10:35:53</date>
+            <index>0</index>
+            <phrase>අහන්නත් සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-07 13:52:12</date>
+            <index>1</index>
+            <phrase>මාගේ ශ්‍රාවකයෝ පාරිශුද්ධ දැහැමි ජිවිතයක් මෙහෙයවන තාක්කල් ලෝකය අරහත් වරුන්ගෙන් කෙදිනකවත් හිස්නොවනු ඇත. (මහපරිනිර්වාන සුත්‍රය)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදුන්</author>
+            <date>2012-05-07 17:14:33</date>
+            <index>2</index>
+            <phrase>නියමයි....................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-05-07 18:45:07</date>
+            <index>3</index>
+            <phrase>යුරෝපීය ජාතික බෞද්ධයෝ අපිට වඩා හොදින් බුදු දහම අදහනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-05-08 19:23:48</date>
+            <index>4</index>
+            <phrase>ලංකාවෙ බෞද්ධයන්ට තමයි ධර්මාවබෝධය නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

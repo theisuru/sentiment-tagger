@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44704</articleId>
+    <title>වරෙන්තුකරු කරවටක් දියේ බැහැලා</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2012 මැයි මස 25 15:24:48</date>
+    <body>ඇඹිලිපිටියේ මහාධිකරණයේ විභාග වන ස්ත්‍රී දූෂණ නඩුවක වරෙන්තුකරුවකු අධිකරණය ඉදිරිපිට මහා ඇළට පැන කරවටක් ගිලී ගසක අත්තක එල්ලී ගොඩ ගන්නට ඉඩ නොදීම නිසා පොලිසිය යුද හමුදාවේ ද සහාය පැතීය.  මාතර ඇකුරැස්ස රොෂාන් කුමාර එසේ එල්ලී සිටි පුද්ගලයාය. ඔහුගේ  පියා ද ඇළ ඉවුරට වී පුතා දෙස බලා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2012-05-25 15:28:27</date>
+            <index>0</index>
+            <phrase>අනේ සබන් කෑල්ලක් දෙන්න</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-05-25 15:30:44</date>
+            <index>1</index>
+            <phrase>මේ පාපතරයින්ව දිය රකුසාට බිලි දෙන්න ඕනි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චූටි</author>
+            <date>2012-05-25 15:30:51</date>
+            <index>2</index>
+            <phrase>මහ උලු ගෙදෙද්දි කාලෙකින් නාන්න ලැබුණම මෙහෙම වෙනවා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-25 15:36:30</date>
+            <index>3</index>
+            <phrase>වැරදි කරනකොට තේරුනේ නැද්ද ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-25 15:42:30</date>
+            <index>4</index>
+            <phrase>ඇයි ගොඩට ගත්තේ ??</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-05-25 15:45:09</date>
+            <index>5</index>
+            <phrase>බෙල්ලට තොන්ඩුවක්දාල එල්ලන්න....</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ගලියා</author>
+            <date>2012-05-25 15:54:31</date>
+            <index>6</index>
+            <phrase>තාත්තෙක් විදියට කෙතරම් දුක ඇද්ද මේ වගේ පුතෙක් දිහා බලන් ඉන්න.අපි සමාජයක් විදියට කෙතරම් පිරිහිලාද?කෙතරම් දුකක්ද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-05-25 16:17:33</date>
+            <index>7</index>
+            <phrase>දියෙහි යන දණ්ඩට - පිහිටක් වෙතත් පෙර සිට දුදනන් හට පිහිට - නොවව් මිනිසුනි කිසි විට</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-05-25 16:19:29</date>
+            <index>8</index>
+            <phrase>ගඩොල් බාගෙකින් ඔලුවට ගහන්න</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල,</author>
+            <date>2012-05-25 16:20:43</date>
+            <index>9</index>
+            <phrase>ඔහොමම දිවියලෝකේ යන්න අරින්න....පාපතරයෙක් ‍බේරගන්න ගිහින් හොඳ මිනිහෙක් දියට බිලි වෙන්නෙ නැතිව.....</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සංගා</author>
+            <date>2012-05-25 16:29:36</date>
+            <index>10</index>
+            <phrase>පුඵවන්නම් මෙයා මුහුදට ගහගෙන යන්න අරින්න ...පාපතරයා, පව් අහිංසක තාත්ත‍‍....</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-25 16:32:09</date>
+            <index>11</index>
+            <phrase>අපි එහෙම පැන්න නම් මෙලහකටත් මලකද.මුන්ට සොබාව ධර්මයත් සපෝට්.ගෑණුන්ගේ කරුමේ තමයි</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-05-25 16:36:07</date>
+            <index>12</index>
+            <phrase>මොහු වතුරේ හිටපුදෙන්.නඩුව විභාග කර මරණීය දණ්ඩනය නියම කරන්න</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-05-25 16:35:29</date>
+            <index>13</index>
+            <phrase>එල්ලිලා හිටපු අත්ත කපන්න කෙනෙක් ඔතන හිටියේ නැද්ද ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්,</author>
+            <date>2012-05-25 16:44:27</date>
+            <index>14</index>
+            <phrase>අනේ පව් තාත්ත, දරුවො හදල ලොකු මහත් කරල, දැන් දුක් විදිනවා....</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-05-25 17:25:43</date>
+            <index>15</index>
+            <phrase>මෙහෙම අපරාධකරුවන්ට මරණ දඩුවම හෝ අවයව ඉවත් කර සමාජ ගත කිරීම නොකළහොත් තවත් කාන්තාවන් මොහුට බිලිවේවි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2012-05-25 17:44:33</date>
+            <index>16</index>
+            <phrase>හැගීම් පාලනය කර ගන්න බැරි බව සිද්ධි දෙකින්ම පැහැදිලියි</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-25 18:03:20</date>
+            <index>17</index>
+            <phrase>නාන්න පුතේ නාන්න. රටේ නීතයක් නැතිවුනාට අපේ මිනිස්සු එකතුවෙලා නුඔගේ අවයව කපල, කොටල, මරල එල්ලා කටින් කොරන්න ඕනි ඔක්කොම කොරල ඉවරයි. ආයේ නීතියක් ඕනිත් නෑ. උසාවි යන්න ඕනිත් නෑ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු නංගා</author>
+            <date>2012-05-26 03:06:49</date>
+            <index>18</index>
+            <phrase>මේ වගේ උන් ලේසියෙන් මැරෙන්නෙ නැති හැටියක්..</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රණවක</author>
+            <date>2012-05-26 06:52:44</date>
+            <index>19</index>
+            <phrase>මිනිසුන් ජීවත් වෙන මානසික පරිසරය තුළ ඔවුන් විවිධ වැරදි දේ කරති.ඒවා නීති විරෝධී හෝ වෙන යම් ඒවා හෝ විය හැක.අපි එවැනි පුද්ගලයින් කෙරෙහි අනුකම්පාව දැක්විය යුතුය. අපි හිතන්නේ මේ වන හැම දේටම ඔවුන් වැරදි බවයි.නැත.මේ සමාජයටද එහි වගකීම යම් තරමක් හෝ අයිති වේ.එවැනි පුද්ගලයින් හට ඔවුන් සතු වගකීම් ගැන අවබෝධයක් අප විසින් ලබා දිය යුතුය. එම පුද්ගලයින් හොද පුද්ගලයින් කර නඅවත මෙම සමාජයට රැගෙන ආ යුතුය.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-05-26 10:22:19</date>
+            <index>20</index>
+            <phrase>පුඵවන්නම් මෙයා මුහුදට ගහගෙන යන්න අරින්න ...පාපතරයා, පව් අහිංසක තාත්ත‍‍.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-05-26 11:28:34</date>
+            <index>21</index>
+            <phrase>බුද්ධිමත් පැහැදිලි කිරීමක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-26 12:31:05</date>
+            <index>22</index>
+            <phrase>ඔය වගේ එවුන් ගොඩට අරන් පෙති ගහලා පාරට දාන්න ඕනි බල්ලන්ට කන්න.පවු අහිංසක දෙමවුපියන්</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-26 12:45:43</date>
+            <index>23</index>
+            <phrase>රණවක මහත්තයා බුද්ධිමත්ව හිතලා තියෙනවා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මැක්ස්</author>
+            <date>2012-05-26 13:00:47</date>
+            <index>24</index>
+            <phrase>අනේ, මුන්ට මැරෙන්නෙ දෙන්න</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රෝයි</author>
+            <date>2012-05-26 15:20:28</date>
+            <index>25</index>
+            <phrase>සිත්‍රී දූෂකයන්ව බාගෙට මැරෙන්න දෙන්න ඕන....</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-05-26 15:27:04</date>
+            <index>26</index>
+            <phrase>මැරෙනකම් වතුරෙ තියන්න තිබුණෙ...</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෙයරෑස්</author>
+            <date>2012-05-26 15:27:01</date>
+            <index>27</index>
+            <phrase>පොලිසියේ වෙඩි උණ්ඩ පත්තුවෙන්නෙත් අහිංසකයන්ට විතරයි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රී ලංකා</author>
+            <date>2012-05-26 17:36:36</date>
+            <index>28</index>
+            <phrase>මුන්ට දෙන්න ඕනේ දඩුවම් ඇතුලේ තියෙනවා....(මම ඇතුලට ගිහින් නැහැ කවදාකවත්,යන්නෙත් නැහැ)</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-26 20:08:29</date>
+            <index>29</index>
+            <phrase>පිරිසිදු ජලය අපිරිසිදු කරන්න එපා ....</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මචන්</author>
+            <date>2012-05-29 16:28:30</date>
+            <index>30</index>
+            <phrase>රුහුණේ අභිමානය !!!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

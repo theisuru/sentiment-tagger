@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>455389</articleId>
+    <title>සැපර්ස් ජිම්පෝ ශනිදා තුංකමදී</title>
+    <author></author>
+    <date>2016 සැප්තැම්බර් මස 09 11:03:21</date>
+    <body>ශ්‍රී ලංකා යුද හමුදා ඉංජිනේරු බලකාය, ෆෝවීල් ධාවකයින්ගේ සංගමය හා ශ්‍රී ලංකා ධාවනපැදි කරුවන්ගේ සංගමය එක්ව 6 වැනි වරටත් පවත්වන 4 x 4  ශූරතාවය  හා යතුරුපැදි ධාවන තරගාවලිය 2017 සැප්තැම්බර් 17 වැනි දින ඇඹිලිපිටිය තුංකම යුද හමුදා ඉංජිනේරු 4 x 4 ධාවන පථයේ දී පැවැත් වේ.
+තරගය පෙරවරු 8.30 ට ආරම්භ වීමට කටයුතු යොදා ඇතැයි ශ්‍රී ලංකා යුද හමුදා ඉංජිනේරු බලකාය කියයි.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-09-09 13:57:04</date>
+            <index>0</index>
+            <phrase>මෙය කුමන භාෂාවක වැකියක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-09-10 02:14:12</date>
+            <index>1</index>
+            <phrase>නියමයි. සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-09-11 00:07:25</date>
+            <index>2</index>
+            <phrase>පිටිගල මිලානෝ, එක් වචනයක් ඉංග්‍රීසි භාෂාවෙන් ගත් වචනයක් තිබුනත් මෙය නිවැරදි යෙදුමකි. සෑම දෙයකම වැරදි සොයන්නන් සමඟ කටයුතු කිරීමේදී අනවශ‍්‍ය පැටළිලි ඇතිවීම සාමාන්‍ය දෙයකි. තේරුම් ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-09-11 09:53:11</date>
+            <index>3</index>
+            <phrase>පිටිගල මිලානෝ මටත් හිතා ගන්න බැරි උනා මේ පින්කම තියෙන්නේ කොහෙද කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-09-11 09:46:29</date>
+            <index>4</index>
+            <phrase>අපිට ලගයි අපිනම් යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-09-11 09:46:42</date>
+            <index>5</index>
+            <phrase>පිටිගල මිලානෝ මටත් හිතා ගන්න බැරි වුනා මේ පින්කම තියෙන්නේ කොහෙද කියලා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-09-11 09:54:08</date>
+            <index>6</index>
+            <phrase>හොඳ තරගාවලියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-09-11 09:54:09</date>
+            <index>7</index>
+            <phrase>ෂා මරුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසංසලා</author>
+            <date>2016-09-12 13:28:16</date>
+            <index>8</index>
+            <phrase>අපිත් මේ පින්කමට සහබාගි වෙන්නයි හිතාගෙන ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලේක්කෝ ගලබඩ</author>
+            <date>2016-09-12 13:22:26</date>
+            <index>9</index>
+            <phrase>කවුද මෙච්චර ලස්සන සිංහල අර්ථවත් හැමෝටම තේරෙන නමක් මේ පිංකමට තබපු ප්‍රඥාවන්තයා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2016-09-12 15:25:17</date>
+            <index>10</index>
+            <phrase>මේ පැත්තේ ව්‍යාපාරිකයින්ට, කඩ වලට, හෝටල් වලට ටිකට් පොත් පිටින් ගේනකොට තමයි ඉතින් ජිම්පෝ එකේ සැප දැනෙන්නේ. අපිත් යනවා සැපර්ස් ජිම්පෝ...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

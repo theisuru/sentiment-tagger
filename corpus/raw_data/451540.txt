@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451540</articleId>
+    <title>“අපිකා ලේකම් තිත්තවැල්ල නොවේ“</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 අගෝස්තු මස 26 20:20:33</date>
+    <body>සංහිඳියා යාන්ත‍්‍රණය පිළිබඳ සම්බන්ධීකරණ ලේකම් කාර්යාලයේ මහලේකම් මනෝ තිත්තවැල්ල මහතා අතුරුදන් වූවන්ගේ කාර්යාලයේ ලේකම්වරයා හෝ සාමාජිකයෙකු නොවන බවත් අතුරුදන් වූවන්ගේ කාර්යාලයේ සාමාජිකයින් පත් කිරීම ආණ්ඩුක‍්‍රම ව්‍යවස්ථාව සභාව විසින් සිදු කරනු ලබන්නක් සංහිඳියා යාන්ත‍්‍රණය පිළිබඳ සම්බන්ධීකරණ ලේකම් කාර්යාලය අද (26) නිතුත් කළ නිවේදනයක සඳහන් වේ.
+පසුගිය 24 වැනිදා පැවති කැබිනට් තීරණ දැනුම්දීමේ මාධ්‍ය හමුවේදී කැබිනට් ප‍්‍රකාශක අමාත්‍ය රාජිත සේනාරත්න මහතා කියා සිටියේ අතුරුදන් වූ තැනැත්තන් පිළිබඳ කාර්යාලයේ ප‍්‍රධානියා හෙවත් මහලේකම්වරයා ලෙස මනෝ තිත්තවැල්ල මහතා පත් කිරීමට රජය තීරණය කළ බවයි.</body>
+    <comments>
+        <comment>
+            <author>ශශික</author>
+            <date>2016-08-26 15:07:32</date>
+            <index>0</index>
+            <phrase>කොහොමත් දේශපාලකයන්ට හැමදාම ගොඩක් දේවල් වැරදුනානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-08-26 16:45:41</date>
+            <index>1</index>
+            <phrase>රාජිතට විතරක් නොවෙයි මේ ආණ්ඩුවට හැමදෙයක්ම පැටලිලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-08-26 17:25:19</date>
+            <index>2</index>
+            <phrase>යාන්තම් ඇති, සුබ ආරංචියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2016-08-26 22:38:39</date>
+            <index>3</index>
+            <phrase>හොරාට කලින් කෙහෙල්කැන වැට පනිනවා කියලා අපි කියන්නේ මෙන්න මේවට තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-08-27 02:08:04</date>
+            <index>4</index>
+            <phrase>ඔය තනතුරට එන්න කවුරුත් කැමති නැතුව අැති කියලයි මම නම් හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමණි</author>
+            <date>2016-08-27 03:00:33</date>
+            <index>5</index>
+            <phrase>හා හා කවුරුත් කලබල වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුසේනා</author>
+            <date>2016-08-27 10:17:31</date>
+            <index>6</index>
+            <phrase>පිටරටක සිට ලංකාව දෙස බලන කෙනෙකුට තමයි ලංකාව කොතරම් අවුල් සහගත දේශපාලන තත්වයක්ද කියලා තේරුම් යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-08-27 13:32:12</date>
+            <index>7</index>
+            <phrase>ඕකට "අපිකා " කියන්නේ නැතුව "අපි ඉල්ලන් කා " කියල දැම්ම නම් හොදට ගැලපෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2016-08-27 17:25:25</date>
+            <index>8</index>
+            <phrase>තිත්ත වැල දාල පැණි වැලකවත් එල්ලියෝ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-28 02:06:02</date>
+            <index>9</index>
+            <phrase>යහපාලනය නිසා මොනවට කලබල වෙන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

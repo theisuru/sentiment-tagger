@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>124516</articleId>
+    <title>ඔත්තු බැලූ දෙදෙනාට ඉරානයේදී මරණ දඬුවම</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  ටෙහෙරාන් නුවරදීය</author>
+    <date>2013 මැයි මස 20 10:31:12</date>
+    <body>ඇමෙරිකාව සහ ඊශ‍්‍රායලය වෙනුවෙන් ඔත්තු බැලූවේ යැයි චෝදනා ලැබ සිටි ඉරාන ජාතික තරුණයන් දෙදෙනකු එම චෝදනාවලට වරදකරුවන් වීමත් සමඟ ඊයේ (19) එල්ලා මරා දැමුණි. මරා දැමුණේ මොහොමඞ් හෙයිඩාර් සහ කොරෝෂ් අහ්මාදි නමැති තරුණයන් දෙදෙනාය.</body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-05-20 11:02:10</date>
+            <index>0</index>
+            <phrase>හොර වැඩ කරන්නේ නැත්නම් මොකෝ ඔත්තු බැලුවා කියලා බය වෙන්නේ. හොර වැඩ තියන නිසා තම බය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්සි ලංකා</author>
+            <date>2013-05-20 15:10:45</date>
+            <index>1</index>
+            <phrase>තමන් උපන් රටට විරුද්ධව කටයුතු කරන අයට දෙන්න ඕනෑ ලංකාවෙත් මේ දඬුවම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

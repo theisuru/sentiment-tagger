@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484672</articleId>
+    <title>වල්ලපට්ටා ගෙනියන්න ගිහින් පට්ට ගැහෙයි</title>
+    <author>ටිකේජිකපිල</author>
+    <date>2016 නොවැම්බර් මස 28 15:37:18</date>
+    <body>රුපියල් තිස්හතර ලක්ෂයක් වටිනා වල්පට්ටා කිලෝ 46 ක් හොරෙන්  ඩුබායි වෙත රැගෙන යාමට ආ තිදෙනෙකුට රුපියල් ලක්ෂය බැගින් දඩ ගැසු කටුනායක රේගුව වල්ලපට්ටා තොගය රාජසන්තක කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>නයන</author>
+            <date>2016-11-28 12:34:28</date>
+            <index>0</index>
+            <phrase>ඇයි ඕවා ඔච්චර වටිනවානන් වවලා නීත‍යානූකූලව පිටරට යවන්න දෙන්නෙ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2016-11-28 13:45:59</date>
+            <index>1</index>
+            <phrase>මේ අල්ලනවා අල්ලනවා කියන රුපියල් මිලියන ගණන්වටිනා වල්ලපට්ට වලට කරන දෙයක්නම් තවම කිසිම මාධ්‍යයකින් අපට දැන ගන්නට අවස්ථාවක් ලැබිල නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

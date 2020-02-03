@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26226</articleId>
+    <title>”අද මහින්ද එදා කැප්පිටිපොළයි”</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 පෙබරවාරි මස 12 14:23:48</date>
+    <body>‘‘වීර කැප්පිටිපොළ මේ ආත්මයේ මහින්ද රාජපක්‍ෂ ලෙස ඉපදී ඇති බව මගේ විශ්වාසයයි. මහින්ද රාජපක්‍ෂ ජනපතිතුමා පෙර ආත්මයක වීර කැප්පෙටිපොළ ලෙස උපදින්න ඇති.’’ සමාජ සුබසාධන ඇමැති මර්වින් සිල්වා මහතා එසේ පැවසූයේ පලාගල පරවහගම වීරකැප්පෙටිපොළ ස්මාරකය අසලදීය.
+බි‍්‍රතාන්‍ය ජාතිකයන් එදා ඔහු අත්අඩංගුවට ගත් ස්ථානයේ ඉදිකළ පිළිරුව හා අවට පෙදෙස තමන්ගේ හා මිතුරන්ගේ ධන පරිත්‍යාගයෙන් පිළිසකර කරන බව කී ඇමැති, දරුවන් පරිගණකයට හුරු පුරුදු වී සිටින මේ යුගයේදී අපේ වීරයන් ගැන ඔවුනට අවබෝධයක් දීමට ක‍්‍රියා කරන බව ද සඳහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>සරා</author>
+            <date>2012-02-12 15:07:19</date>
+            <index>0</index>
+            <phrase>ජනාධිපතිතුමාගේ ගුණ වර්ණනා කරන්නේ තමන්ගේ වැරදි වහගන්නනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-02-12 15:16:45</date>
+            <index>1</index>
+            <phrase>එදා අන්දරේ අද කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවරත්න</author>
+            <date>2012-02-12 15:26:03</date>
+            <index>2</index>
+            <phrase>එවුද මේ දුටුගැමුණු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-02-12 15:28:06</date>
+            <index>3</index>
+            <phrase>නුසුදුසු කතා කරන්න කියන්න එපා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-02-12 15:31:24</date>
+            <index>4</index>
+            <phrase>මර්වින් ඇමැතිතුමා දුටුගැමුණු වෙලා ජනාධිපතිතුමා නිකන් නිලමෙ කෙනෙක් කරන එක හොද නෑ නේද? ඒක මාරු කළා නම් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීලා</author>
+            <date>2012-02-12 15:32:39</date>
+            <index>5</index>
+            <phrase>ඔහු කැප්පෙටිපොල ගැන දන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හංසිකා</author>
+            <date>2012-02-12 16:50:50</date>
+            <index>6</index>
+            <phrase>ජාතික වීරවරයෝන්ට අපහස කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-02-12 16:56:08</date>
+            <index>7</index>
+            <phrase>පිළිසකර කරන්නෙ මොන සල්ලි වලින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහන රණතුංග</author>
+            <date>2012-02-12 20:26:44</date>
+            <index>8</index>
+            <phrase>අපේ සැබෑ වීරය අද හිරේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන් හසින්ත</author>
+            <date>2012-02-13 08:57:04</date>
+            <index>9</index>
+            <phrase>තමන්ට වෙච්ච අපහාස ඔක්කොම වහගන්ඩ මෙයා ලස්සනට රටේ ජනාධිපතිතුමාගේ ගුණ ගායනා කරනවා ඒ පාර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර දිනූෂ</author>
+            <date>2012-02-13 11:08:23</date>
+            <index>10</index>
+            <phrase>කැප්පෙටිපොළ වීරයාට අපහසකරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

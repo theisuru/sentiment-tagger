@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>131000</articleId>
+    <title>ජයලත් අවමඟුලට මහ පිරිසක්</title>
+    <author>අශේන් සේනාරත්න සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2013 ජූනි මස 02 19:02:52</date>
+    <body>එක්සත් ජාතික පක්ෂ නියෝජ්ය් සභාපති හා ජාතික සේවක සංගමයේ සභාපති දොස්තර ජයලත් ජයවර්ධනගේ අවමගුල වැලිගම්පිටිය ශාන්ත ආනා දෙව් මැදුරේදී කිතුනු ආගමික වතාවත්වලින් පසුව මිහිදන් කැරිණි. සමාජයේ විවිධ තරාතිරම්හි පිරිස් ඔහුට අවස් බුහුමන් දැක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>හර්ෂණ පෙරේරා</author>
+            <date>2013-06-02 19:31:36</date>
+            <index>0</index>
+            <phrase>ඔබට මොක් සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2013-06-02 19:51:31</date>
+            <index>1</index>
+            <phrase>ලංකාවට තවත් උගතෙකු අහිමි විය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහවැලි</author>
+            <date>2013-06-02 19:55:54</date>
+            <index>2</index>
+            <phrase>ජීවක තුමණි, ඔබ සදාකල් දේව මව් තුරුලේ සැතපේවා!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2013-06-02 20:01:47</date>
+            <index>3</index>
+            <phrase>කිතුණු ප්‍රජාවට හොද සේවයක් කරපු මන්ත්‍රීවරයෙක් නැති වුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2013-06-02 20:06:51</date>
+            <index>4</index>
+            <phrase>මහත් දයාවකින් මිනිස්සුන්ට ආදරේ කරපු ඔබතුමාට නියන් සුව පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙතුමි</author>
+            <date>2013-06-02 20:16:10</date>
+            <index>5</index>
+            <phrase>දෙවිඳුන් ළඟට යන්නට ලැබේවායි පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-06-02 20:21:32</date>
+            <index>6</index>
+            <phrase>රටට තවත් උගතකු ,වියතෙකු ,මහත්මා දේශපාලනඥයකු අහිමි විය. සමාදානයේ සැතපේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහේහාර්</author>
+            <date>2013-06-02 20:25:48</date>
+            <index>7</index>
+            <phrase>කවුරු මොනව කිව්වත් ගම්පහ මිනිස්සු ජයලත් මහත්තයාට ආදරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-06-02 20:36:24</date>
+            <index>8</index>
+            <phrase>හොඳ පුරවැසියෙක් නැති වුණා. ඔබට මොක් සුව පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිස්ටි</author>
+            <date>2013-06-02 21:49:25</date>
+            <index>9</index>
+            <phrase>ස්වාමිනි නිත්‍ය සැතපීම මොහුට දුන මෙනව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-06-02 22:46:20</date>
+            <index>10</index>
+            <phrase>ඔබට මොක් සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2013-06-02 22:51:14</date>
+            <index>11</index>
+            <phrase>ජනප්‍රිය චරිතයක් නැතිවුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2013-06-02 23:39:52</date>
+            <index>12</index>
+            <phrase>ඔබ දෙවියන් තුරුලට යන්න වරම් ලැබේවා. ජේසු පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිඩ්</author>
+            <date>2013-06-02 23:58:34</date>
+            <index>13</index>
+            <phrase>සෑම ප්‍රජාවකටම ඉමහත් සේවයක් කළා. රටට විශාල පාඩුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2013-06-02 23:58:44</date>
+            <index>14</index>
+            <phrase>ජනතාවට ප්‍රිය චරිත කිසිදා මිය නොයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-06-03 00:00:41</date>
+            <index>15</index>
+            <phrase>මිනිසුන් හඬවන්නේත් නළවන්නෙත් මිනිසාමය. ඒ දෙකම කළ මිනිහා අමරණීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂණ පැරිසිය</author>
+            <date>2013-06-03 00:06:37</date>
+            <index>16</index>
+            <phrase>ලංකාවේ දේශපාලනය කියන වචනයේ එක් සලකුණක් නැතිවීම දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-06-03 00:16:08</date>
+            <index>17</index>
+            <phrase>ඔබට නිවන් සුව පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2013-06-03 00:23:10</date>
+            <index>18</index>
+            <phrase>වටිනා වෙදෙක් , දිරිය චරිතයක් රටට නැතිවුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-06-03 00:38:43</date>
+            <index>19</index>
+            <phrase>ඔබට නිවන් සුව පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ද්‍යා දේශප්‍රිය</author>
+            <date>2013-06-03 00:55:22</date>
+            <index>20</index>
+            <phrase>අනේ මේ ඔක්කොටම ජයලත් උතුමාගේ අතීතය අමතක වූ හැටි . එංගලන්තයේ ඉන්න අපිනේ මෙතුමා කල කී දේවල් හොඳින් දන්නේ,.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තබුක් සිල්වා</author>
+            <date>2013-06-03 01:10:34</date>
+            <index>21</index>
+            <phrase>පිරිසිදු දේශපාලකයෙක්,බුද්ධිමත් ජනතා නායකයෙක්,එක්සත් ජාතික පක්ෂයේ මහපුරුකක් රටට අහිමි වීම ගැන හරිම කණගාටුවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දිරා නිසාර්</author>
+            <date>2013-06-03 02:03:25</date>
+            <index>22</index>
+            <phrase>ඔබ ඔබේ දරුවන්ට අහිමිවිය. අපිට අහිමිවිය. රටට අහිමිවිය.ඔබේ මතකය අප සැම අතරේ සදාකල් රැඳෙනු ඇත .ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි</author>
+            <date>2013-06-03 02:43:38</date>
+            <index>23</index>
+            <phrase>ඔබට මොක් සුව ලැබේවා නායකයාණෙනි. ඔබ අහිමිවීම රටට ලොකු පාඩුවකි ඔබගේ නාමය සදා අමරණීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල්</author>
+            <date>2013-06-03 03:22:28</date>
+            <index>24</index>
+            <phrase>මිනිහෙක් මියගියාම බොරු වර්ණනා නොකොට ඇත්ත කියන්න ඕනේ. ඉන්න මිනිස්සුන්ටත් හැදෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2013-06-03 04:43:25</date>
+            <index>25</index>
+            <phrase>දැන් වත් ශ්‍රී ලංකාවට හොඳ කාලයක් එවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරනාත්</author>
+            <date>2013-06-03 04:52:05</date>
+            <index>26</index>
+            <phrase>මොනවා උනත් මෙතුමා ජනතාවට සේවයක් කලා. මායිම් ගම්මාන වල ජීවත් උන දුප්පත් මිනිස්සු යුද්ද කාලේ මෙතුමා කරපු සේවය ගැන හොඳට දන්නවා. මේ මනුස්සයටත් පාර්ලිමේන්තුවේදී අර වනචාරී මන්ත්‍රීලා පහර දුන්නනේ. මෙතුමා පන්සල් පල්ලි දෙකටම එක වගේ වැඩ කරපු හොඳ උගත් දොස්තර කෙනෙක්. 1985 මගේ පියාට අසනීප වෙලා ඉන්දැද්දී ඩොක්ටර් මරදානේ පොඩි ඩිස්පෙන්සරියක් කරගෙන ගියා. අපි ගොඩක් අමාරුවෙන් ජීවත් වුන නිසා බෙහෙත් වලට සල්ලි නැහැ කිවම එදා ඉඳල තාත්තගෙන් කවදාකවත් සල්ලි ගත්තේ නැහැ. දුප්පත් අයගෙන් සල්ලි ගත්තේම නැහැ. තාත්තා ඊට වසර 20කට පස්සේ මැරෙන වෙලාවෙත් මෙතුමාගේ නම කියලා පින් දුන්න. මෙතුමා වැඩ කරේ ප්‍රසිද්ද වෙන්නවත් ඡන්ද ගන්නවත් නෙමෙයි හදවතින්මයි. මෙතුමාට නිවන් සුව පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2013-06-03 07:21:59</date>
+            <index>27</index>
+            <phrase>මා අදහන දහම අනුව, ඔබට සුගතිගාමී වී නිවන් සුව ලැබේවායි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2013-06-03 07:29:45</date>
+            <index>28</index>
+            <phrase>වැඩක් නැති මිනිස්සු කොච්චර ඉන්නවද? අපරාදේ උගත් බුද්ධිමත් මන්ත්‍රීතුමා නැතිවුණා. එතුමාට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-06-03 07:33:26</date>
+            <index>29</index>
+            <phrase>ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2013-06-03 07:45:55</date>
+            <index>30</index>
+            <phrase>කනගාටු දායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2013-06-03 07:46:03</date>
+            <index>31</index>
+            <phrase>මෙවන් රටකට ,අදවන් දවසක රටේ මහජනතාවගේ ඉල්ලුම ප්‍රජාතන්ත්‍රවාදී රටක්. අද ඒ ගැන කතා කිරීමට හිටි තවත් අපේ රටේ සිටිය උතුම් නායකයෙක් අද අපෙන් සමුගෙන අවසානයි.නැවතත් අප අතරට එන්න ප්‍රිය මිතුරාණනි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීරෝ</author>
+            <date>2013-06-03 07:49:30</date>
+            <index>32</index>
+            <phrase>රටට වැඩදායක උගත් පුද්ගලයෙක් නැති වුණා. ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිරි</author>
+            <date>2013-06-03 08:00:06</date>
+            <index>33</index>
+            <phrase>ජරාජීර්ණ දේශපාලනය තුල කලාතුරකින් දකින්න ලැබෙන ශ්‍රේෂ්ඨ උතුම් ගති ඇති නිහතමානි නායකයෙක්.ඔබට මොක්සුව පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2013-06-03 08:29:44</date>
+            <index>34</index>
+            <phrase>මිනිසා නොමිනිසා තේරුම් ගන්න හොද අවස්තාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2013-06-03 08:32:03</date>
+            <index>35</index>
+            <phrase>මමත් ඔබතුමා වෙනුවෙන් කනගාටු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2013-06-03 08:43:30</date>
+            <index>36</index>
+            <phrase>විනයගරුක, අනිසි මුදල් හම්බ නොකරපු අවංක,ගුණගරුක මහත්මයෙක්. ඒ වගේම ඉතා හොඳ දේශපාලකයෙක්. . ඔබට නිවන්සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2013-06-03 08:48:18</date>
+            <index>37</index>
+            <phrase>අහෝ...... මෙවන් විපතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-06-03 09:09:57</date>
+            <index>38</index>
+            <phrase>මට ඔබ තුමා ගැන කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-06-03 09:13:01</date>
+            <index>39</index>
+            <phrase>ඔබ තුමාට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2013-06-03 09:25:16</date>
+            <index>40</index>
+            <phrase>කාගේ අවාසනාවද මෙවන් මිනිසුන් මිය යන එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනා</author>
+            <date>2013-06-03 09:30:09</date>
+            <index>41</index>
+            <phrase>එක රටටම හොදක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-06-03 10:36:18</date>
+            <index>42</index>
+            <phrase>වටිනා මිනිහෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවේන්ද්‍ර</author>
+            <date>2013-06-03 10:46:53</date>
+            <index>43</index>
+            <phrase>රටට එරෙහි වීමට නම් සමාවක් නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.උපුල්</author>
+            <date>2013-06-03 10:57:26</date>
+            <index>44</index>
+            <phrase>අපේ ජීවත්ව ඉන්න දේශපාලකයෝ ගැන මට නම් හිනා. එදා මෙතුමාව කොටියෙක් ලෙස හංවඩු ගැසූ එයාල, අද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2013-06-03 11:40:40</date>
+            <index>45</index>
+            <phrase>ලංකාවේ බහුතරය හිතන විදිය ගැන හරිම කනගාටු හිතෙනවා. මෙතුමා හට උවමනා උනේ රටට යමක් කරන්න. ඔබ වෙනි කෙනෙක් නැවත බිහි වෙන්නේ නැහැ. දැන් පවතින සමාජ ක්‍රමය අනුව තමන්ගේ ගොඩ ලොකු කර ගන්න අය පමණි බිහි වන්නේ. ඔබට නිවන් සුව. ඔබ ලක් මෑණිට කල සේවය අපි අගයන්නෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩොමිනික්</author>
+            <date>2013-06-03 12:59:36</date>
+            <index>46</index>
+            <phrase>මන්ත්‍රී තුමා නැති උනහම දැනගත්තේ එයා හොද පුද්ගලයෙක් කියලා. සමහර මිනිස්සු දේශපාලන වාසි තකා එයා කොටියෙක් කියනවා හරියට කිසි දෙයක් දන්නේ නැතිව මෝඩයෝ වගේ දගලනවා. ඔය කියන අය තමා කොටි හොද මනුස්සයට අද තැනක් නැහැ ලංකාවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේන්ද්‍ර</author>
+            <date>2013-06-03 15:40:42</date>
+            <index>47</index>
+            <phrase>නිහතමානී චර්තයක් වන ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-06-03 17:30:34</date>
+            <index>48</index>
+            <phrase>එතුම ගැන තේරුම් ගන්න මිනිස්සුන්ට හැකි වුණේ මැරුනට පස්සේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2013-06-04 02:26:41</date>
+            <index>49</index>
+            <phrase>වටිනා මනුස්සයෙක් , ඔහු ඉපදෙන්න තිබුනේ යුරෝපයේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නොයෙල් පෙරේරා</author>
+            <date>2013-06-04 02:43:46</date>
+            <index>50</index>
+            <phrase>ආදර්ශමත් සරල මිත්‍රශීලි ජීවීතයක් ගතකළ, අවංක නායකයෙක් රටට අහිමි විය. මෙතුමාට මොක් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දු</author>
+            <date>2013-06-04 13:46:47</date>
+            <index>51</index>
+            <phrase>ඔබට මොක්සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

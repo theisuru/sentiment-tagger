@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61405</articleId>
+    <title>මෙහෙමත් පියෙක්</title>
+    <author>රේඛා තරංගනී පොන්සේකා</author>
+    <date>2012 අගෝස්තු මස 28 13:51:51</date>
+    <body>පියකු රත්කළ පිහියෙන් අවුරුදු පහක් වයසැති පුතා පිළිස්සී යැයි ගල්කිස්ස පොලිසිය කියයි. පිළිස්සුම් කැළල් ඔහුගේ බෙල්ලේ ද දැක ගත හැකිය. ‘පිහිය රත්කැරගෙන එන්නැයි තාත්තා කීවා. ආච්චි තේ හැදූ ලිපෙන්  පිහිය රත්කැර ගෙන ආවා. තාත්තා ඒ පිහියෙන් මල්ලිගේ අත පිළිස්සුවා යැ‘යි එම දරුවාගේ වැඩමහල් සොහොයුරිය (7)   පොලිසියේ කාන්තා කාර්යංශයට කියා ඇත. පියා අත්අඩංගුවට ගෙන නැති අතර මව පොලිසියේ රඳවාගෙන සිටියි.</body>
+    <comments>
+        <comment>
+            <author>Palitha Abeyratha</author>
+            <date>2012-08-28 14:05:47</date>
+            <index>0</index>
+            <phrase>මේවා අහනකොට සංසාරෙ එපා වෙනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-28 14:04:24</date>
+            <index>1</index>
+            <phrase>පියෙක්ද ඇත්තටම..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-28 14:31:18</date>
+            <index>2</index>
+            <phrase>තාත්තා අත්අඩංගුවට නොගෙන ඇයි අම්මව අල්ලුවේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-28 14:36:36</date>
+            <index>3</index>
+            <phrase>මානසික ලෙඩෙක්ද කොහෙඳ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-08-28 14:39:24</date>
+            <index>4</index>
+            <phrase>මෙයා තාත්තෙක් නෙමෙයි පාත්තයෙක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-08-28 14:39:42</date>
+            <index>5</index>
+            <phrase>මෙන්න මේවගේ අයටත් හොද දඩුවම් ලබා දෙන්න ‍ඕන.. මෙහෙම ගියොත් මේක ගන්න දෙයක් නැති වේවි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-08-28 14:37:04</date>
+            <index>6</index>
+            <phrase>වදාපු මවටත් ලැජ්ජයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-28 14:42:32</date>
+            <index>7</index>
+            <phrase>මේ ර‍ටේ මිනිස්සුන්ට මොනවා වේගන යනවාද කියලා හිතාගන්න බැහැ.. වෙලාවකට හිතෙනවා මේකටද ආශ්චර්ය කියන්නේ කියලා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-08-28 14:42:42</date>
+            <index>8</index>
+            <phrase>මේවගේ වැඩ කරන අයට හරි හමන් දඩුවමක් දෙන්නේ නැති එකේ කරුමේ..ලොක්කන්ට ,පොඩ්ඩන්ට මතක හිටින්න එකෙකුට දෙන්නෙකුට හොද දඩුවමක් දුන්නනම් ඕව ඉක්මනට අඩු වේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුප්</author>
+            <date>2012-08-28 14:55:53</date>
+            <index>9</index>
+            <phrase>අනේ මන්දා රටට වෙන දේ ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-28 14:59:16</date>
+            <index>10</index>
+            <phrase>පුතාගේ අම්ම ළඟ නෑ වගේ නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-08-28 15:05:22</date>
+            <index>11</index>
+            <phrase>පොඩි දරුවනට හිංසා පීඩා කිරීම සුලුවෙන් නොතකන්න.... මන්ද සමාජය තලා පෙලා දමනුයේ අහිංසක ජීවිතයක් පමනක් නොව රටක අනාගතයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-08-28 15:15:27</date>
+            <index>12</index>
+            <phrase>මෙයානම් පියෙක් වෙන්න බෑ..සුළු පියෙක්ද කොහෙද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත නාත්</author>
+            <date>2012-08-28 15:18:42</date>
+            <index>13</index>
+            <phrase>අනේ මෙහෙම තාත්තලා? මානසික ලෙඩ්ඩු මේ අය. ඒත් තාත්තට දඩුවම් දෙනකොට ළමයි දුක් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයශ්‍රී</author>
+            <date>2012-08-28 15:20:04</date>
+            <index>14</index>
+            <phrase>කරුණාකරලා මේවට නිසි දඩුවම් දෙන්න. මේ මිනිස්සු නෙවෙයි. මිනිසුන් ලෙසින් ජීවත් වෙන තිරිසන්නු. නැත්නම් අපිට මෙවැනි පුවත් තවත් අසන්න ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-08-28 15:25:53</date>
+            <index>15</index>
+            <phrase>ඇයි බුදු තාත්තේ මේ වගේ දුක් දෙන්නේ මොන හිතකින්ද පොඩි දරුවට දුක් දුන්නේ අසරණ මල් කැකුලු මේ ලොව වෙව්ලන්නේ මින් මතු ඔබට දරු සම්පත් නොලැබෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-28 15:28:29</date>
+            <index>16</index>
+            <phrase>පුවතේ සිරස්තලය දුටුවිට මම නිකමට මෙය සිදුකල මිනිසාගේ ජනවර්ගය අනුමාන කළා. මොහු බොහෝවිට ළමා සොල්දාදුවන් බිහිකළ ජනවාර්ගිකයෙක් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-28 15:37:38</date>
+            <index>17</index>
+            <phrase>ඇත්තටම මෙයා පියෙක්ද ?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.කුරේ</author>
+            <date>2012-08-28 15:38:49</date>
+            <index>18</index>
+            <phrase>තිරිසන් සමාජයක් සාතන්ගේ ලෝකයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-08-28 15:54:34</date>
+            <index>19</index>
+            <phrase>පියෙක්ද මේ මස් වැද්දෙක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-08-28 15:58:26</date>
+            <index>20</index>
+            <phrase>මේ තාත්තටයි ආච්චිටයි දැඩි දඩුවම් දිය යුතුයි..!! මෙවැනි අය සමාජයට විනාශයක්.. අනාගතයේදි මෙවැනි දරුණු වද හිංසාවන්ට ලක්වන ළමයි ඒ පළිය සමා‍ජයෙන් ගන්න පෙළබෙනවා..එදාට මේ ළමයට හැමෝම බනිනවා මිස ළමයා එ් තත්ත්වයට අදාල දාපු කෙනා ගැන හොයලා බලන්නේ නැහැ.. මේ ඇත්ත අපි තේරුම් ගන්න ඕන...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් ප්‍රදීපා</author>
+            <date>2012-08-28 16:17:56</date>
+            <index>21</index>
+            <phrase>‍අපේ ර‍ටේ ආනාගතයයි මේ විනාශ කරන්නෙ.. මෙහෙම විනාශකළොත් අපේ රටේ ආශ්චර්යය බලන්නෙ කවුද? අපි මේ ණය වීගෙන අනාගතය සදහා ගොඩනගන..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Sanjeewa Thushara Wijerathne</author>
+            <date>2012-08-28 16:11:28</date>
+            <index>22</index>
+            <phrase>මේ දරුවන් ඕනවට දරුවො හදලා නෙමෙයි මට නම් පේන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් ඕස්ට්‍රේලියා</author>
+            <date>2012-08-28 16:17:49</date>
+            <index>23</index>
+            <phrase>අපි දරුන් ළබා ගැනීමට නොයෙකුත් වෛද්‍ය ක්‍රියාකාකරකම්වලට දහස් ගණනින් ඩොලර් වියදම් කරනවා.. නිකම්ම දරුවන් දෙනකොට අගයක් නැහැ.. දෙවියනේ කරුණාකර මෙම දරුවන් ඇමරිකාවට තෑගි කරන්න. මේවගේ දෙමාපියන්ට දරුව්න් එදන්න එපා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-28 16:23:14</date>
+            <index>24</index>
+            <phrase>දැං ද මුන නොපෙන්නන්න මතක් උනේ..!! කට්ටියටම මොලේ කොලොප්පන්ද කොහෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශම්ස්</author>
+            <date>2012-08-28 16:24:21</date>
+            <index>25</index>
+            <phrase>මෙයා නම් මෙ ළමයාගේ පියා වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-08-28 16:36:14</date>
+            <index>26</index>
+            <phrase>මොකද්ද මේ රටට වෙලා තියෙන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-08-28 16:59:39</date>
+            <index>27</index>
+            <phrase>මු පියෙක් නොවෙයි ,පිංපියෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයශ්‍රී</author>
+            <date>2012-08-28 16:53:53</date>
+            <index>28</index>
+            <phrase>බණ්ඩාර, නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාද් ප්‍රීනා</author>
+            <date>2012-08-28 17:08:20</date>
+            <index>29</index>
+            <phrase>පියාටත් මේ විදියමට හංවඩු ගහන්න තියෙන්නෙ.. මූණ කණ්ණාඩියෙන් දකින වාරයක් ගණනේ සිහිවෙන්න.. !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙලනි</author>
+            <date>2012-08-28 17:13:35</date>
+            <index>30</index>
+            <phrase>රටේ අනාගත මල්කැකුළු නේද මේ විනාශ කරන්නෙ.... වගකිවයුත්තන්ට මේවා පේන්නෙ නැද්ද? මේවාට දඩුවම් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2012-08-28 17:22:26</date>
+            <index>31</index>
+            <phrase>මේයා තාත්තා කෙනෙක් නෙමෙයි...!! ඒවගේම තමයි මෙයාට පිහිය දීපු ආච්චිත්. මේ වගේ මල් කැකුළු වලට කරන අපරාධවලට නිසි දඩුවම් දිය යුතුයි..!! මේ ළමයි පරිවාස භාරයට ගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිවර්ධන</author>
+            <date>2012-08-28 17:22:41</date>
+            <index>32</index>
+            <phrase>මේ නම් නරුමයෙක්. තාත්තා කියා ඇමතීම පියවරුන්ට කරන අගෞරවයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමසිරි</author>
+            <date>2012-08-28 17:40:33</date>
+            <index>33</index>
+            <phrase>මොනතරම් නම් වේදනාවක් දැනෙන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ</author>
+            <date>2012-08-28 17:58:47</date>
+            <index>34</index>
+            <phrase>කාට දාව ඉපදුණු පියෙක්ද දන්නේ නැහැ මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-08-28 18:02:14</date>
+            <index>35</index>
+            <phrase>තිරිසන් පියෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2012-08-28 18:19:11</date>
+            <index>36</index>
+            <phrase>මෙයාට හොද දඩුවමක් දෙන්න. පවු අහිංසක දරුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-28 18:36:42</date>
+            <index>37</index>
+            <phrase>රාගය නිසා උපන් දරුවන්ට සමහර පියවරු තම කාමාසක්ත ජීවිත වලට ඔවුන් බාධාවක් වී යැයි, ඔවුන්ට වෛර කරයි. ඒ වගේ දරුවන්ට වෛර කරන පාපතරයෙක් කරපු වැඩක් මේ. දරුවන් තමන්ට එපානම් එයාලා භාර ගන්නා ආයතන ඕනෑ තරම් තියෙනවා. ඒ ආයතනයකට මෙයාගේ සියළුම දරුවන් දෙන්න. ගෑණු දරුවන් විශේෂයෙන්. නැත්නම් ඒ දරුවො යන්තම් ලොකු මහත්වෙන කොට මේ වගේ අය ඒ අහිංසක දැරිවියනුත් දූෂණය කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2012-08-28 18:32:01</date>
+            <index>38</index>
+            <phrase>මෙයාගෙත් මේ විදියටම එල්ලලා පුච්චන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-08-28 18:35:09</date>
+            <index>39</index>
+            <phrase>මෙයානම් පියෙක් නෙමෙයි....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-08-28 19:42:03</date>
+            <index>40</index>
+            <phrase>උපරිම දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනෝලි</author>
+            <date>2012-08-28 20:26:11</date>
+            <index>41</index>
+            <phrase>හොඳ බෞද්ධයෙක් වෙන්න ඇති. නැතිනම් හින්දු භක්තිකයෙක් වෙන්න ඇති.විපරිත ලෝකෙ මේවා අරුමයක් නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙහාන් අමරසිංහ</author>
+            <date>2012-08-28 20:35:21</date>
+            <index>42</index>
+            <phrase>අනේ මන්දා ලංකාවෙ දැන් වෙන්නෙ මොනවාද කියලා..!! එක තැනක පුතෙක් අම්ම තාත්තා නංගි වස දිලා මරලා දැං තාත්තා පුතාව පුච්චලා..අපි පිටරට රැකියා කරලා මහන්සි වෙලා ලංකාවට පදිංචිවෙන්න එන්න හිතාන හිටියත් උදේ හමස ලංකාවෙ පුවත්වලින් කියවෙන දේවල් බැලුවහම ඇත්තටම පුදුම කළකිරීමක් ‍ඇති වෙන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-08-28 20:45:20</date>
+            <index>43</index>
+            <phrase>තාත්තා කෙනෙක් නම් වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේපාල</author>
+            <date>2012-08-28 21:30:10</date>
+            <index>44</index>
+            <phrase>එල්ලන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-08-28 23:57:35</date>
+            <index>45</index>
+            <phrase>මේ බුද්ධෝත්පාද කාලයක්ද කියල හිතෙනවා වෙන දේවල් දැක්කම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-08-29 03:27:19</date>
+            <index>46</index>
+            <phrase>පිය පදවියට අවමන් කරන මේ වගේ අයට ඉහලම දඞුවම් දෙන්න.ඒක සමාජයටත් ආදර්ශයක් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dio</author>
+            <date>2012-08-29 07:00:15</date>
+            <index>47</index>
+            <phrase>තාත්තවත් ඔය විදියට පුච්චල දාන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-29 07:59:19</date>
+            <index>48</index>
+            <phrase>ඇයි මේ ව‍ගේ හිංසන රට ඇතුළේ සිද්ධ වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-29 08:03:51</date>
+            <index>49</index>
+            <phrase>පිය සෙනෙහසටත් නිගාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-08-29 09:45:35</date>
+            <index>50</index>
+            <phrase>තිරිසන්නු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-08-29 11:34:02</date>
+            <index>51</index>
+            <phrase>දරු සෙනෙහසක් නැති දේවදත්ත පරපුරේ තාත්තලා අපේ රටේ ඉන්නවද ?? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-08-29 11:37:48</date>
+            <index>52</index>
+            <phrase>අනේ පව්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-29 12:53:11</date>
+            <index>53</index>
+            <phrase>කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-08-29 14:42:38</date>
+            <index>54</index>
+            <phrase>පවු අහිංසක දරුවා. ඔබේ සහ සොයුරියගේ අනාගතය සුරක්ෂිත වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුභාරක්</author>
+            <date>2012-08-29 16:06:22</date>
+            <index>55</index>
+            <phrase>මේ වගේ පවුකාරයන්ට නිසි දඩුවම් දෙන්න...ළමයින්ගේ අගේ නොදන්න දෙමාපියන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-29 16:24:14</date>
+            <index>56</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-29 16:54:16</date>
+            <index>57</index>
+            <phrase>අයියෝ! අම්මාවත් හිටියේ නැද්ද මේ වෙලාවේ ගෙදර?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

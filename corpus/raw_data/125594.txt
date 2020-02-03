@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>125594</articleId>
+    <title>සිංහල මුස්ලිම් සමගිය දන්සලට එයි</title>
+    <author>පුෂ්පකුමාර මල්ලවආරච්චි</author>
+    <date>2013 මැයි මස 22 11:50:46</date>
+    <body>මීරිගම පල්ලෙවෙල මාතෘ සායනයේ සේවය ලබා ගන්නා ගැබිනි මවුවරුනට දිවා ආහාරය හා පෝෂණ මල්ලක් පිරිනැමීමට පල්ලේවෙල පොලිසිය සමග වෙළෙඳ සංගමය හා ශ්‍රී ලංකා ජමාත් ඒ ඉස්ලාම් මධ්‍යස්ථානයේ කල්එළිය කවය ද එක්විය. පොලිස් ස්ථානාධිපති දිල්රුක් පෙරේරා මහතා එම පින්කම සංවිධානය කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2013-05-22 11:55:45</date>
+            <index>0</index>
+            <phrase>ගොඩාක් වටිනා වැඩක් ඇත්තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිමාල්</author>
+            <date>2013-05-22 11:55:29</date>
+            <index>1</index>
+            <phrase>ඔන්න දැන් ඕකටත් අර සමහර කට්ටිය බුරන්න පටන් ගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2013-05-22 12:01:38</date>
+            <index>2</index>
+            <phrase>අර අහවල් බෙහෙත් දාලද දන්නේ නැහැ කෑම හැදුවේ....අම්මේ පරිස්සමෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහවැලි</author>
+            <date>2013-05-22 12:01:52</date>
+            <index>3</index>
+            <phrase>වෙසක් සමය තුල සියලු දෙනාගේ සිත් තුල දැහැමි සිතුවිලිම පහළ වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2013-05-22 12:04:45</date>
+            <index>4</index>
+            <phrase>මීරිගම දැන් හොද වැඩ කරනවා.අපේ ගමේ ඉස්සරනම් ඔය වගේ වැඩ කරන්නේ නැහැ පොලිස් ස්ථානාපති හොද කෙනෙක් නම් මේවා මහා ලොකු වැඩ නෙමෙයි.ඔබතුමන්ලාට තව තවත් ශක්තිය,ධෛර්ය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ගුමි</author>
+            <date>2013-05-22 12:08:06</date>
+            <index>5</index>
+            <phrase>හලාල් නෙමෙයි නේද...... ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2013-05-22 12:15:12</date>
+            <index>6</index>
+            <phrase>ඔය වගේ දේවල් දකින්න ලැබෙනකොට අපිට ගොඩක් සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2013-05-22 12:15:54</date>
+            <index>7</index>
+            <phrase>කෝ අර වෙනදා ලියන ජාතිවාදියෝ ටික?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-05-22 12:18:36</date>
+            <index>8</index>
+            <phrase>දෑන් ඉතින් මේ හොඳ වැඩේටත් අන්තවාදී ටික දිගට හරහට පහර දෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-05-22 12:17:33</date>
+            <index>9</index>
+            <phrase>මීරිගම, පල්ලෙවෙල පොලිසි ගැන ළඟ ළඟ යහපත් තොරතුරු අහන්න ලැබීම ලොකු සතුටක්. මේ භේද වපුරන කාලේ මෙන්න කරනවා නම් වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකු</author>
+            <date>2013-05-22 12:20:22</date>
+            <index>10</index>
+            <phrase>මේ වගේ දේවල් ඇහෙනකොට දකිනකොට මට නම් ගොඩක් ලොකු සතුටක් දැනෙනවා. ඇයි අපිට හැමදාම මෙහෙම සහයෝගයෙන් ඉන්න බැරි ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2013-05-22 12:31:11</date>
+            <index>11</index>
+            <phrase>ඉතාමත් අගයයුතු ක්‍රියාවක්. ලබන ජුලි මාසයේ නෝම්බි, මුස්ලිම් ජාතිකයන්ගේ උපවාස මාසය. බෞද්ධ ජනතාවත් එක්වෙලා මේ වගේ හොද ක්‍රියාදාමයක් පිළිපැද්දොත් ආගමික සමගිය ඉබේම ඇතිවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-05-22 12:33:36</date>
+            <index>12</index>
+            <phrase>බලන්න කොයිතරම් අගය කළ යුතු වැඩක්ද? අපි සියලු දෙනාම ලාංකිකයෝ. මුළු ලෝකෙටම පෙන්නවන්න අපේ සමගිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-05-22 12:38:53</date>
+            <index>13</index>
+            <phrase>ආගම අනුව කිනම් ප්‍රතිපත්ති දැරුවත්, එදා බුදු හිමියන් දේශනා කළේ උපාලි ගෘහපතිට මගේ ගෝලයෙක් වුණාට කමක් නැත, නිඝන්ටනාථට දානේ දෙන්න කියලයි. ඒක නිසා අපි හැමෝම සමගියෙන් සිටීම වැදගත් වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-05-22 12:36:48</date>
+            <index>14</index>
+            <phrase>ලංකාවේ ඉක්මනින් වෙනස් වුනු ප්‍රදේශ තමා මල්වාන, කරාබුගස් හන්දිය,මීරිගම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2013-05-22 12:46:13</date>
+            <index>15</index>
+            <phrase>වෙසගේ අරමුණත් එයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2013-05-22 12:51:30</date>
+            <index>16</index>
+            <phrase>මොවුන් කොහොමත් සිංහල තමයි. මොකද දෙමල නේ කතා කරන්නේ. අනිත් එක ලංකාවට මුස්ලිම් පිරිමි ආවට ගැහැණු ආවේ නැ නේ. ලංකාව බෞද්ධ රටක් බව හැමෝම මතක තියා ගත්තොත් තමයි හොඳ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමයන්ති</author>
+            <date>2013-05-22 13:04:53</date>
+            <index>17</index>
+            <phrase>මේ ගමේ මොන දේටත් සහබාගි වෙන හන්සගිරෙයි චිට්ටේ දසනායක මහතා කෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන් ඩුබායි</author>
+            <date>2013-05-22 13:03:06</date>
+            <index>18</index>
+            <phrase>නියමයි, සමගිය බලය වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-05-22 13:07:28</date>
+            <index>19</index>
+            <phrase>මේක ඉතා හොද වැඩක්. සියල්ලන්ටම ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2013-05-22 13:09:34</date>
+            <index>20</index>
+            <phrase>සිංහල මුස්ලිම් සමගියේ එකමුතුකම එදත් තිබුණා, අදත් තිබෙනවා, අනාගතයේත් එසේමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2013-05-22 13:10:26</date>
+            <index>21</index>
+            <phrase>සිංහල කට්ටිය නැහැ වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරුක්</author>
+            <date>2013-05-22 13:18:29</date>
+            <index>22</index>
+            <phrase>හොද ආරම්භයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2013-05-22 13:23:24</date>
+            <index>23</index>
+            <phrase>ඉතාමත් හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන්</author>
+            <date>2013-05-22 13:30:22</date>
+            <index>24</index>
+            <phrase>ජාති බේද නැතිව ඉන්න තමයි අපිටත් ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2013-05-22 13:34:13</date>
+            <index>25</index>
+            <phrase>මේ වන විට මෙම පුවත එක්දහස් ගණනක් කියවලා තිබෙනවා. දෙවියන්ගේ පිහිටෙන් කිසිවෙකු අපිට අපහාස කරලා ප්‍රතිචාර දාලා නැහැ. කසුන්, ධර්මවංස, මහේෂ්, සදරුවන් මෙයාලා තාම කියවලා නැතුව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෂී</author>
+            <date>2013-05-22 13:39:31</date>
+            <index>26</index>
+            <phrase>ඒක තමයි වෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේෂ්</author>
+            <date>2013-05-22 13:53:53</date>
+            <index>27</index>
+            <phrase>අන්න ලාංකික කම. ගොඩක් හොද සහජීවනය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-05-22 13:53:58</date>
+            <index>28</index>
+            <phrase>ජීවිත වල නවතාවයක් ඇති වීමත්, සාමය ,සමගිය ,සහ ජීවනය වැඩි දියුණුවීමත් , අගය කළයුතු ක්‍රියාවක්. සුබ වෙසක් මගුලක් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාෆික්</author>
+            <date>2013-05-22 13:54:47</date>
+            <index>29</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමින්ද</author>
+            <date>2013-05-22 14:04:55</date>
+            <index>30</index>
+            <phrase>අන්න නියම වැඩ. ජාති බේද නැති රටක් හදන්න නියම ආදර්ශයක්. සංවිදානය කරපු සියලු දෙනාට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇල්ප්‍රඩ සිල්වා</author>
+            <date>2013-05-22 14:06:32</date>
+            <index>31</index>
+            <phrase>දේශපාලකයො කිසිම කෙනෙක් නොමැතිව මේ වගේ යහපත් වැඩ ඉතාමත් හොදයි.පොලිසියෙ මහතුන් ඇතුලු ඉස්ලාම් බැතිමතුන්ටත් අපගේ ආචාරය! මුලු මහත් ජනතාවම පල්ලෙවෙල පොලිසියේ මහතුන්, ඉස්ලාම් බැතිමතුන් සහ ආධාර උපකාර කළ සැම දෙනාව අනුගමනය කරන්න.තෙරුවන් සරණයි ! අස්සලාම් අලෙයුක්කුම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනා</author>
+            <date>2013-05-22 14:07:12</date>
+            <index>32</index>
+            <phrase>කාරිය කෙරෙන තුරු බොරුවට දන් දීම... වගේ වෙයිද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම් පැරිස්</author>
+            <date>2013-05-22 14:15:23</date>
+            <index>33</index>
+            <phrase>මෙන්න අපේ සහෝදර මුස්ලිම් ජනයා. ජාති බේදය ආගම් බේදය අපේ රටින් තුරන් වුන දාට අපේ රටට ඉසුරුමත් අනාගතයක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල පොන්නමිපෙරුම</author>
+            <date>2013-05-22 14:19:00</date>
+            <index>34</index>
+            <phrase>පල්ලේවෙල පොලිසිය හා මුස්ලිමි ජනතාව එක්ව කරන මෙම කටයුත්ත අනෙකුත් ප්‍රදේශ වලත් කරනවනමි හොදයී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2013-05-22 14:21:41</date>
+            <index>35</index>
+            <phrase>සතුටුදායක පින්තූරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-22 14:36:03</date>
+            <index>36</index>
+            <phrase>රටේ ආන්දෝලනයක් ඇති වෙලාවේ සිංහල , මුස්ලිම් සමගිය ආරක්ෂා කරන්න ඉස්ලාම් මහතුන් , කළ දන්සැල ඉතාමත් වටිනවා අ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2013-05-22 14:45:38</date>
+            <index>37</index>
+            <phrase>බොහොම හොද වැඩක්. අප සමගිය සැමදා රැකේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-05-22 14:58:56</date>
+            <index>38</index>
+            <phrase>සිංහල මිනිස්සුන්ගේ හොද වැඩ ගැනත් මේ විදියෙම වර්ණනා තිබිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තමරා</author>
+            <date>2013-05-22 15:02:31</date>
+            <index>39</index>
+            <phrase>බොහොම හොද වැඩක්. මේ ගමේ සිංහල මුස්ලිම් අය හරිම සමාදානයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-05-22 15:04:25</date>
+            <index>40</index>
+            <phrase>සමගිය බලය වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙතුමි</author>
+            <date>2013-05-22 15:08:41</date>
+            <index>41</index>
+            <phrase>සිදුවිය යුත්තේද මෙලෙස සාමකාමීව එකමුතුව සිටීම නොවේද?රටක් හැටියට ශක්තිමත්ව ඉදිරියට යන්නටනම් සියලු දෙනාගේම සහයෝගය අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-05-22 15:11:43</date>
+            <index>42</index>
+            <phrase>සියුම්ව රවටන ක්‍රම වෙන්න පුළුවන්.අහුවෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දික</author>
+            <date>2013-05-22 15:15:27</date>
+            <index>43</index>
+            <phrase>සිංහල ජාතිය වැඩි වෙන දෙයක් ආහාර වලට දාලා ඇති නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2013-05-22 15:22:29</date>
+            <index>44</index>
+            <phrase>හා හා, වැඩිය කන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2013-05-22 15:20:56</date>
+            <index>45</index>
+            <phrase>හ්ම් හ්ම්... ඔහොම යන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆෛළෙර්</author>
+            <date>2013-05-22 15:28:04</date>
+            <index>46</index>
+            <phrase>ලංකාදීපය ඔයවගේ ඉමිහිරි ප්‍රවෘත්ති දැමීම පිළිබද අපේ සුබ පැතුම්! කවදත් අපි එකට තමයි.තරහ වෙලා මොනවා බෙදා ගන්නද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙයාම්</author>
+            <date>2013-05-22 15:27:54</date>
+            <index>47</index>
+            <phrase>කපන්න බැරි අත දැනට සිඹිමි වගේද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2013-05-22 15:29:22</date>
+            <index>48</index>
+            <phrase>හරිම සන්තෝෂයි. සමගිය බලය වේ. මෙයයි අවශ්‍ය කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසිංහ</author>
+            <date>2013-05-22 15:41:50</date>
+            <index>49</index>
+            <phrase>අනේ කරුණාකරලා මේවට මොකුත් කියන්න එපා. සමහරු කියයි මේවා කුමන්ත්‍රණ කියලා. පුළුවන් නම් ළිදෙන් ගොඩ එන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-05-22 15:45:17</date>
+            <index>50</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-05-22 15:56:26</date>
+            <index>51</index>
+            <phrase>නියමයි ,ඔන්න ඔහොම එකතු වෙලා වැඩ කරනවා නම් අපේ රට දියුණු වෙනවා නියතයි ඇත්තමයි. හරිම ආඩම්බරයි..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-05-22 15:59:58</date>
+            <index>52</index>
+            <phrase>ඉතාම හොද ක්‍රියාවක්. ඔබ සෑමට පින්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2013-05-22 16:08:41</date>
+            <index>53</index>
+            <phrase>මේකේ වැඩිපුර ඉන්නේ ඔළුව වහගත්ත කට්ටියනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවිදු කරුණාතිලක</author>
+            <date>2013-05-22 16:20:06</date>
+            <index>54</index>
+            <phrase>ඉස්සර පකිස්තානෙ දිනනකොට රතිඥ්ඤා දැම්මේ සිංහලයොම වෙන්න ඇති. මේවාගේ යටි අරමුණු තේරුම් ගන්න කාලෙ ඇවිල්ලා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-05-22 16:23:09</date>
+            <index>55</index>
+            <phrase>ජාති ආගම් භේද දුරලා සමගිව ලාංකිකයන් ලෙස වැඩ කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2013-05-22 16:21:19</date>
+            <index>56</index>
+            <phrase>කවුරුවත් නැද්ද මුස්ලිමුන්ට බනින්න?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2013-05-22 16:34:52</date>
+            <index>57</index>
+            <phrase>තුන්වෙනි ඡායාරූපයේ රාලහාමි ජයටම හරක් මස් බෙදාගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෙන්ගිෂ් ඛාන්</author>
+            <date>2013-05-22 16:37:35</date>
+            <index>58</index>
+            <phrase>මට නම් බයේ බැහැ කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2013-05-22 16:45:14</date>
+            <index>59</index>
+            <phrase>ඇයි රවිඳු මොකද්ද යටි අරමුණ එකත් කියල දාන්න තමුන්නාසේල වගේ නිවටයන් හින්ද තමයි ලංකාවේ ජාතිවාදය රජයන්නේ නිකම් මෝඩයෝ වගේ බෙරිහන් දෙන්නේ නැතුව සත්‍යය දකින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතපත්තු</author>
+            <date>2013-05-22 16:46:01</date>
+            <index>60</index>
+            <phrase>සමගිය කියන්නේ මොනතරම් සුන්දර දෙයක්ද? ඇස්වලට කටු අනින අය,මේකට මුකුත් ලියන්න එපා හොඳේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-05-22 16:48:44</date>
+            <index>61</index>
+            <phrase>හොද ක්‍රියාවක්. හැමදෙනාම එකමුතුව ඉන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසල්</author>
+            <date>2013-05-22 16:48:12</date>
+            <index>62</index>
+            <phrase>සජිත්, ඔහොමම පටන්ගන්න බනින්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්</author>
+            <date>2013-05-22 16:48:55</date>
+            <index>63</index>
+            <phrase>අනිවාර්යෙන් ඕකට තුන් වතාවක් කෙලගහලා, වස්දොස් ඇරලා, පෙරේතයෝ ගෙන්නලා තමයි බෙදන්නේ!!!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2013-05-22 16:55:50</date>
+            <index>64</index>
+            <phrase>මොකටද අප්පා මේ මිනිස්සු බඩදරු අම්මෙකුට දෙන කෑම වේලකටත් ජාතිවාදේ ඇදලා ගන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාලිඩ්</author>
+            <date>2013-05-22 16:55:55</date>
+            <index>65</index>
+            <phrase>කලක පකිස්තානෙ දිනනකොට රතිඥ්ඤා දාපු මෝඩයෝ හිටියා තමා. නැතුවා නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබු සහ අමල්</author>
+            <date>2013-05-22 17:03:23</date>
+            <index>66</index>
+            <phrase>සිංහලයෝ මොන තරම් දුප්පත්ද. සිංහලයනි පෝෂන මලු කිසිම කෙනෙක්ගෙන් නොගනිවූ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිනී</author>
+            <date>2013-05-22 17:10:54</date>
+            <index>67</index>
+            <phrase>අම්ම කෙනෙක් ඔය කාලෙට විදින දුක දන්නේ අම්මලම තමයි. මෙය ඉතාම උතුම් දානයක්. සහයෝගය දැක්වූ සිංහල,මුස්ලිම් සැමට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2013-05-22 17:16:17</date>
+            <index>68</index>
+            <phrase>ඉන්ස්පෙක්ටර් වැඩිය සැර දාන්න එපා. අම්මලාට බඩ දැවිල්ල හැදෙවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2013-05-22 17:21:40</date>
+            <index>69</index>
+            <phrase>සිංහලයා මොඩයා කැවුම් කන්න සූරයා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෆීන්</author>
+            <date>2013-05-22 17:27:04</date>
+            <index>70</index>
+            <phrase>යහපත යහපත් ලෙස දකින්න? මේක සංවිධානය කරලා තියෙන්නේ පොලිසියේ ස්ථානාධිපති මහතා. ඉස්සෙල්ලා ඒ මහතාට ස්තුති වන්ත විය යුතුයි. දැන්වත් එකට බෙදාගෙන කමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2013-05-22 17:35:18</date>
+            <index>71</index>
+            <phrase>ඔහොම යමුකෝ මොකද වෙන්නේ බලමුකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-05-22 17:56:05</date>
+            <index>72</index>
+            <phrase>හුඟක් හොඳ දෙයක්. සිංහල,දෙමල ,මුස්ලිම් හා සියලුම ආගම්වල සියලු දෙනා සමගියෙන් ඉන්නවා නම් කොපමණ සතුටුද? අපි සියලුදෙනාම මිනිසුන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්2</author>
+            <date>2013-05-22 18:04:27</date>
+            <index>73</index>
+            <phrase>ලංකාවේ අද කාලෙට දකින්න නොලබුනට මීට අවුරුදු විසිපහකට තිහකට කලින් අපි වෙසක් මාසෙට විශාල තොරණ්/දන්සල් ශ්‍රද්ධාවෙන් පළාතම එකතුවෙලා කළා.වෙසක් කුඩු අපේ ගෙවල්වල සරසලා තිබුණා,එසේම අපේ නෝම්බි මාසයේත් බෞද්ධ අය සමග අපි එකසේ බෙදා හආ ගත්තා.දැන් මේ වගේ දේවල් කාලෙකට පස්සේ අහන්න දකින්න ලැබෙන එකත් සතුටක්! මේ පොලිසියේ මහතුන්ටත් ප්‍රදේශවාසීන්ටත් ලොවපුරා බෞද්ධ බැතිමතුන්ටත් මේ වෙසක් තෙමගුල අසිරිමත් වේවායි හදින්ම පතමි!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2013-05-22 18:11:41</date>
+            <index>74</index>
+            <phrase>මා මුලින්ම ගෞරවනීය ස්තුතිය පුද කරන්නේ මීරිගම/පල්ලෙවෙල පොලිසියේ ස්ථානාධිපතිතුමාට. ඒ වර්තමානයේ අපේ රටට අත්‍යවශ්‍ය ආදර්ශමත් ක්‍රියාවක් සංවිධානය කිරීම පිළිබදව.අපි අතර වෛරයක් ඇතිකරන්න ගන්න සියලුම උත්සාහයන් සිංහල බෞද්ධ අපේම සහෝදරයන් විසින් නීෂ්ප්‍රභා කිරීම ඉතාමත් සතුටට කරුණක්. ලංකාවේ සෑම පලාතක මේ වැනි පුණ්‍ය කටයුතු සංවිධානය කලයුතුයි. ලංකාවේ වාසය කරන සියලුම මුස්ලිම් ජනතාවගෙන් මා ඉල්ලා සිටින්න කැමතියි මුස්ලිම් තරුණයින් එක්වී තවත් වෙසක් දන්සල් ඔබේ ගමෙත් සංවිධානය කරන්න. අපෙන් ඔබට හිමි විය යුතු සියලුම සහයෝගයන් ලබා දීමට අපි සූදානම්. රවිඳු කරුණාතිලක මහත්මයා, අපේ කිසිම යටි අරමුණක් නැහැ. මෙහි ප්‍රතිචාර දමා ඇති 99% බෞද්ධ සහෝදරයන් ඒක සනාථ කරලා තිබෙනවා. හර්ෂ මහත්මයා, උඩ බලාගෙන කෙල ගහන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2013-05-22 18:14:45</date>
+            <index>75</index>
+            <phrase>ඔය ප්‍රදේශ වල දැන් සිංහල අය අඩුවීගෙන යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්2</author>
+            <date>2013-05-22 18:19:33</date>
+            <index>76</index>
+            <phrase>හොඳ වැඩක් කරනකොටවත් තමුන්ගේ නුගත්කම ප්‍රදර්ශනය නොකර ඉන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-05-22 19:15:18</date>
+            <index>77</index>
+            <phrase>මම ඉස්ලාම් ආගම සහ මුස්ලිම් ජන විඥානය ගැන අවුරුදු 08 ක් හදාරලා තියෙනවා. ඔවුන්ගේ ආගම විසින් ඔවුන්ව අපට සිතා ගන්නට පවා අමාරු තරමින් කට්ට කපටි ජන කොට්ටාශයක් බවට පත් කොට තිබෙනවා. කවුරු කොහොම කිව්වත් එය තමා යථාර්තය. ඉස්ලාම් ආගම විසින් මුස්ලිමුන්ව හසුරුවන්නේ අනෙකුත් ජාතින් විනාශ කරලා එම ජාතින් සතු භූමිය (රට) ඉස්ලාම් දේශයක් කිරීම සදහායි. කවුරු හරි මම මේ කියන දෙය පිලිගන්නේ නැත්නම් , කරුණාකර තමාගේ දැනගැනීම පිණිස කුරානයේ ඉංග්‍රීසි පරිවර්තනය කියවන්න. සිංහල පරිවර්තනය වහලා ගහලා සිංහලයන්ව මුලා කිරීමේ අරමුණින්ම බොරු වචන යොදා ලියා ඇත. කුරානයේ සූරා 9:5 හේ තියෙන්නේ අල්ලා විසින් මුස්ලිමුන්ට පිළිම වන්දනාකරුවන් "දුටු තැන මර දමන්න " කියාය. එම නියෝගය මේ රටේ මුස්ලිමුන් බලය පිහිට වූ විගස මුස්ලිමුන් පිලි පැදිය යුතුමය. නැතිනම් ඔවුන් මුස්ලිමුන් නොවේ. ඒ සදහා ඔවුන් අල්ලට පොරොන්දු වී ඇත. සත්‍ය කරුණු මෙසේ සගවා ගෙන, තම බලය ව්‍යාප්ත කර ගන්නා තෙක් ඔවුන් විසින් මෙලෙස ස්වදේශී ජාතිය බොරුවෙන් සහ මුලාවෙන් මෝඩයාට ඇන්දීම ඔවුන් විසින් අල්ලාගන්නා ලද අනෙකුත් රටවල් වලද ක්‍රියාත්මක කොට ඇත. සිංහලයා ඉස්ලාම් ආගමේ සත්‍ය මුහුණුවර නොදන්නා තරමට ඔවුන්ට එය ඉතාම වාසිදායක ලෙස යොදා ගනිමින් ඔවුන්ගේ යටි කූට්ටු වැඩ පිළිවෙල ඉදිරියට ගෙන යනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලේක්කෝ ගලබඩ</author>
+            <date>2013-05-22 19:46:54</date>
+            <index>78</index>
+            <phrase>තම්බි අපිව තම්බනවද? නැත්නම් අපි තම්බින්ව තම්බනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-05-22 20:18:26</date>
+            <index>79</index>
+            <phrase>මෙයාලා බොදු බල සේනාවට බය වුනු තරම. මේකට සල්ලිදීපු අයගේ කඩවලට සිංහල අය එන්නේ නැතුව ඇති. පෝෂණ මල්ල ව්‍යාපාරික උපක්‍රමයක්ද? නැතිනම් මේවා කවදා කෙරුණ දේවල්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-05-22 20:26:28</date>
+            <index>80</index>
+            <phrase>මිලානෝ පිටිගල, මෙතන රාළහාමිලා නැහැ ,රාජ්‍ය ලාංචනය තියෙන්නේ සහකාර පොලිස් අධිකාරී තුමාට, තරු දෙකක් තියන නිලධාරී ලෙන්යාර්ඩ් එක පැලද සිටින්නේ ප්‍රධාන පොලිස් පරීක්ෂක තුමෙක් දෙදෙනාගේ පදක්කම් වලින් පෙනෙන්නේ දෙදෙනාම පොලිස් දෙපාර්තමේන්තුවේ දක්ෂ නිලධාරින් බවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-05-22 23:12:59</date>
+            <index>81</index>
+            <phrase>හොර එලි වෙනකොට ඇඟ බේරා ගැනීමට කරපු උප්පර වැට්ටියක් වගේ. කෝකටත් කලපනාවෙන්. ඊලග ගැටේ මොකක්ද දන්නේ නැහැ. මෙයාලා මී කඩන්නේ නැහැ අත ලෙවකන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2013-05-22 23:33:01</date>
+            <index>82</index>
+            <phrase>ෆස්රුල් ගෆූර් - කටාර් අපි කොයි වෙලාවකවත් ඔයාලට අපහාස කරලා අදහස් පල කරලා නැහැ. ඒත් මෙවැනි ක්‍රියා වලට අමතරව සිදුවන අන්තවාදයට අපි කවදත් විරුද්දයි. කුරගල , පොතුවිල් මුහුදු මහා විහාරයට අයත් ඉඩම් බලෙන් අල්ලා ගැනීම වැනි දේවල් කලේ අපිද? දැන් එතකොට අපේ උරුමයන් විනාශ කරන එක ගැන කතාකරන්න අපි තවත් බලාගෙන ඉන්න ඕනද? කරුණාකරලා පුලුවන්නම් කුරගල වැනි ස්ථාන වල මුස්ලින් අය බොදු උරුමය විනාශ කරේ නෑ කියලා ඔප්පු කරලා පෙන්නන්න. අන්න එදාට අපි කට පියාගන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතපත්තු</author>
+            <date>2013-05-22 23:55:49</date>
+            <index>83</index>
+            <phrase>"පිටිගල" මොකද මේ ?නිවට දේවල් ලියන්න එපා,ඔය කොහොමද කියන්නේ හරක් මස් ම කියලා? අනික මේ නිලධාරියා ගැබිණි මවකට බත් බෙදලා දෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2013-05-23 00:16:23</date>
+            <index>84</index>
+            <phrase>පිටිගල, ඔයාට තේරෙන්නේ නැද්ද ඒ පොලිස් නිලධාරියා බෙදන්නේ ඉස්සරහ ඉන්න නැගණියට බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2013-05-23 03:27:22</date>
+            <index>85</index>
+            <phrase>පහන් මහත්මයාණෙනි, නිල ලාංචන ගැන පැහැදිලි කිරීමට ස්තූතියි. පොලිසියේ බොහෝ දක්ෂ නිලධාරින් සිටිනවා. ඔවුන් දිවි පරදුවට තබා කරන සේවයට අප ස්තුතිවන්ත වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2013-05-23 07:43:28</date>
+            <index>86</index>
+            <phrase>අමතක කරලමු පැරණි කතා - එක්වෙමු ජාතික දියුණ පතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නොව්ෆෙල්</author>
+            <date>2013-05-23 09:18:23</date>
+            <index>87</index>
+            <phrase>ජාතිවාදී අදහස් ප්‍රකාශ කරන්න එපා. සිංහලයිනි බුදුන්ගේ තෙමගුල තියෙන මේ දවසේ හරි අනිත් ආගම්වලට ගරුකරන්න ඉගෙන ගන්න. මෙහි ජාතිවාදී අදහස් පල කරන සියළුම සහෝදරයින්ට දෙවියන් වහන්සේගේ සමාව දෙත්වා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාස්ලී</author>
+            <date>2013-05-23 10:55:39</date>
+            <index>88</index>
+            <phrase>මහේෂ් වගේ මිනිස්සු ලංකාවේ ඉන්නකම් කවදාකවත් බැහැ ජාතිවාදය නැති කරන්න. කරුණාකරලා බලන්න ඔහුගේ අදහස් දැක්වීම. කර්මය ගැන, කුරානය ගැන දන්නෙත් නැතුව බොරු අදහස් දක්වලා තියෙනවා. කවදාකවත් කිසිම ආගමක කියලා නැහැ අන් ආගම් වලට බනින්න හෝ වෙනස්කම් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාස්ලී</author>
+            <date>2013-05-23 11:03:03</date>
+            <index>89</index>
+            <phrase>මට මතකයි, මීට අවුරුදු 20 කට උඩදී ,වෙසක් මාසේ එනකොට සිංහල මිනිස්සු මෙන්ම අපිටත් කියන්න තේරෙන්නේ නැති සතුටක් දැනෙනවා. පාරවල් වල ලයිට් දාලා, හැම පැත්තෙන්ම කවි බන ,තෝරන් ,දන්සැල් ,නොයෙකුත් පළාත් වලින් මිනිස්සු දකින්න ලැබිම(වැරදී හිතකින් නෙමේ)මම මුස්ලිම් ජාතිකයෙක් වුනාට මමත් දන්සල් දීලා තියෙනවා. යාළුවන් සමග.පුදුම සතුටක් කියලා නිමකරන්න බැහැ. අපි හීනකින්වත් හිතුවේ ජාතිබේදයක් ගැන නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෆ්නාස්</author>
+            <date>2013-05-23 11:34:25</date>
+            <index>90</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2013-05-23 13:01:21</date>
+            <index>91</index>
+            <phrase>නියමයි.හැමෝටම බුදුසරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2013-05-23 13:47:37</date>
+            <index>92</index>
+            <phrase>මහේෂ් , ඔයා වගේ ජාතිවාදියෝ තමා බුදු දහමට නිග්‍රහ කරන්නේ. නොදන්නා බොරුව කතා කරනවාට වඩා දන්නා ඇත්ත පමණක් ලියන්න. මෝඩකමට සීමාවක් තියෙනවා. ඉස්ලාම් ධර්මයටත් මුස්ලිම් ජාතියටත් අපහාස කරන ඔයාලා වගේ ළිං මැඩියෝ කවදාහරි දවසක මැරෙන්න කලින් අනුන්ට ගරු කරන්න අන්‍ය ආගමට ගරු කරන්න පුරුදුවන්න. අපි ගැන අනවශ්‍ය දේවල් ලියන්න ලියන්න තමුන් සමස්ත බෞද්ධයන්ව අපහාස කරනවා කියන දේ මතක තබා ගන්න. අපි කිසි කෙනෙකුට බය වෙලා ජීවත් වෙන්න දෙවියන්ගේ පිහිටෙන් අපරාධ කාරයෝ නොවේ. අපරාධ කාරයෙක් තමා බයේ බයේ ජීවත් වෙන්නේ. අපි ඉතාමත්ව ගෞරවයෙන් ජීවත් වෙන අපේ ගමේ ඉන්න සිංහල බෞද්ධ සහෝදර ජනතාව සමග ඉතාමත් සමගියෙන් ජීවත් වන කොටසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරුක්</author>
+            <date>2013-05-23 13:52:27</date>
+            <index>93</index>
+            <phrase>බොහොම වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිහාන්</author>
+            <date>2013-05-23 14:00:08</date>
+            <index>94</index>
+            <phrase>ජාතිවාදී සුනඛයෝ ටික නම් මේක දැකලා කලබල වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2013-05-23 14:05:11</date>
+            <index>95</index>
+            <phrase>මගේ නමින් අදහස් පල කරලා තිබෙන සහෝදරගෙන් ඉල්ලා සිටින්නේ. කූරගල හෝ පොතුවිල් හෝ ලංකාවේ ඕනෑම ස්ථානයක බෞද්ධ සංස්කෘතිය/උරුමයට මුස්ලිම් මිනිසුන් විසින් යම් කිසි විනාශයක් සිදු කළා නම් ඒවාට විරුද්ධව නීතිමය පියවර ගැනීමට පුරා විද්‍යා දෙපාර්තමේන්තුව/ බෞද්ධ සංස්කෘතිය හා උරුමයන් පිළිබධ අමාත්‍යංශය පියවර ගනීවි. හනික ඒ ප්‍රදේශවල මුස්ලිම් ජනතාව පදිංචි වුනේ අද ඊයේ නොවේ. නිකන් අදාළ නැති බොරු බේගල් ලියන්නේ නැතිව වෙසක් මාසේ පුණ්‍ය කට‍යුතු වලට අවධානය යොමු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2013-05-23 14:55:33</date>
+            <index>96</index>
+            <phrase>මහේෂ් මහත්තයා, "ඉස්ලාම් ආගම සහ මුස්ලිම් ජන විඥානය" කොහෙදිද ඉගෙන ගත්තේ? ඔයා නම් මෝඩ ගොඩේ කෙනෙක් වෙන්න ඕනෑ. කුරානය හරියට තේරුම් කරගන්න බැරිනම් කාගෙන් හරි අහලා තේරුම් ගන්න. ඔය ඉංග්‍රීසි පරිවර්තන කියවලා තමයි ගොඩක් කට්ටිය ඉස්ලාමයට එන්නේ. ඔයා හිතනවද ඒ ගොල්ලෝ මෝඩයෝ කියලා? තමන්ගේ ආගම හරියට දන්නේ නැහැ. ඒත් අනුන්ගේ ආගම් වල විඥානය හොයන එක නම් මරේ මරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-05-23 16:05:44</date>
+            <index>97</index>
+            <phrase>මහේෂ් 100%ම නිවැරදියි. සජිත් මහත්තයෝ, පොත් කියවන්න ඕනෑ නැහැ. මහේෂ් කියන දේ ප්‍රායෝගිකව අද ලෝකයේ දකින්න ලැබෙනවා .බාමියන් බුදුපිළිම වලට මොකද කලේ .අද සිරියාවේ ඊජිප්තුවේ වෙන්නේ මොනවද ඇස් ඇරලා බලන්න සජිත් මහත්තයෝ .මහේෂ් ඔබගේ විවේචනය විශිෂ්ටයි නැවත ලියන්න, ස්තුතියි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාර්ක්</author>
+            <date>2013-05-23 20:37:46</date>
+            <index>98</index>
+            <phrase>සිංහල සහෝදරයිනි රැවටෙන්න එපා මොවුන්ගේ මේ බොරු වැඩ වලට. මෙහි සිංහල නම් වලින් මුස්ලිම් යම අදහස් පලකරලා තියෙනවා. ඒවාට අහුවෙන්න එපා. අද මට මගේ කාර්යාලයේදීම මුස්ලිම් අයෙක් එය කරනවා අහුවුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන් ධර්මවංශ</author>
+            <date>2013-05-23 20:40:41</date>
+            <index>99</index>
+            <phrase>පහන් ඔයා හරි. බාමියන් බුදු පිළිම, කුරගල, දෙවනගල විහාරස්ථාන විනාශ කලේ මුස්ලිම් අය මිසක් අපිද? මුස්ලිම් ජනතාව ආයුධ අරගෙන සටන් කළ යුතුයි කියා කිවුවේ අපේ අයද? මේ බොරු වැඩවලට අහුවෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන් ධර්මවංශ</author>
+            <date>2013-05-23 20:45:56</date>
+            <index>100</index>
+            <phrase>ෆස්රුල් ගෆූර් - කටාර්, දැන් ඔයා කියන්නේ මුස්ලිම් අය කුරගලට, පොතුවිල් විහාරයට හානි කලේ නැහැ කියලද? නිකන් බොරුවට කියන්න එපා. දැන් කුරගල කැනීම් වලින් සත්‍ය හෙළිවෙමින් පවතිනවා. එම ප්‍රදේශ වල මුස්ලිම් අය ඇවිත් තවම අවුරුදු 150ක් වත් නැහැ. එහෙත් සිංහලයන් වර්ෂ 2500ක් පුරාවට මෙහි ජීවත් වෙනවා. ප්‍රාග් එතිහාසික ස්ථාන විනාශ කරලා පල්ලි හදන ඔයාලද මෝඩයෝ? අපිද මෝඩයෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිත ප්‍රංශය</author>
+            <date>2013-05-24 00:19:41</date>
+            <index>101</index>
+            <phrase>මේක ඉතා හොද වැඩක්. සියල්ලන්ටම ආදර්ශයක්.පිටිගල මිලානෝ පිස්සු මෝඩ කතා ලියනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2013-05-24 13:23:17</date>
+            <index>102</index>
+            <phrase>බුදු පිළිම හා බුදුදහම අතර කිසිම සම්බන්ධතාවයක් නැහැ කියන එක තාම පහන් මහත්තයා දන්නේ නැහැනේ. බුදුහාමුදුරුවෝ කියලා නැහැ කවදාවත් එතුමාගේ බුදුපිළිම තියාගෙන වැද වැද එතුමා දේශනය කරපු දේවල් නොකර ඉන්න. ලංකාවේ වෙන්නේ බුදු දහම පිළිපදින එක මවා පාන එකක් විතරයි. ඒකයි බුදුපිළිම කඩපු ඒවම මහා අපරාදයක් විදිහට ගන්නේ. මෝඩ වෙන්න එපා පහන් මහත්තයෝ. ටිකක් හරි මොලේ පාවිච්චි කරන්න බුදුදහම හරියට දැනගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාම්</author>
+            <date>2013-05-25 18:14:29</date>
+            <index>103</index>
+            <phrase>ලෝකෙටම පේන්න දාන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2013-05-25 19:38:54</date>
+            <index>104</index>
+            <phrase>මහේෂ් ඔයා අනුගේ ආගම් ඉගෙනගන්න ගිහිල්ලා තමයි ඔය අනාගෙන ඉන්නේ. ඔයා අදහන ධර්මය පමණක් පිළිපදින්න. අනුන්ගේ දේවල් කරන්නේ මිනිසුන් නොවේ කියලා මතක තබා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මර්සි ලංකා</author>
+            <date>2013-05-25 23:32:11</date>
+            <index>105</index>
+            <phrase>මහේෂ්, ඔබ වැනි බොරුකාරයින් මම සෑහෙන්න දැක ඇත. ඉස්ලාම් ආගම ඉගෙනගත් අයෙක් කියන කතාවක් නෙමෙයි ඔබ කරලා තියෙන්නේ. ඉස්ලාම් සහ බයිබලය අතර බොහෝ සමාන දේවල් ඇත.එකම ආගම දෙකඩ බෙදිමක් සිදුවී ඇත. මම හිතන්නේ මහේෂ් වගේ බොරුකාරයෝ තමන්ගේ ආගමවත් දන්නේ නැතුව ඇති. කිසිම ආගමකට අපහාස කරන්න එපා. ආගම් වලින් මිනිසුන් යහ මගට යැවීම කරන්නේ. අන්තවාදී වුණොත් තමා වරද සිදුවන්නේ. එනිසා අන්තවාදී නොවී තමාට කැමති ආගමක් අදහන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2013-05-25 23:30:37</date>
+            <index>106</index>
+            <phrase>සජිත්, මම ඔබව දනිමි.ඔබත් මම වගේම මුස්ලිම් සහෝදරයෙක්. ඔබ වගේ අය තමා අද අපේ ඉස්ලාම් ආගමට නිගා කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

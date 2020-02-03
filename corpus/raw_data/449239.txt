@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449239</articleId>
+    <title>හොර පාරෙන් රට යවන කල්ලියට වැඩ වරදී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 18 21:36:53</date>
+    <body>නීති විරෝධී ලෙස කැනඩාවට පුද්ගලයින් විදේශගත කිරීමේ කල්ලියක පුද්ගලයන් හය දෙනෙකු ව්‍යාජ ගමන් බලපත්‍ර හා වීසා තොගයක් සමඟ අද (18) අත්අඩංගුවට ගත් බව ත්‍රස්ත විමර්ශන කොට්ඨාශය කියයි.
+සැකකරුවන් සමඟ ව්‍යාජ ගමන් බලපත්‍ර 200 කට අධික සංඛ්‍යාවක් පරිගනක යනුත්‍රයක්, මුද්‍රණ යන්ත්‍රයක්, ව්‍යාජ මුද්‍රා සහ තවත් උපකරණ කිහිපයක් අතුඅඩංගුවට ගෙන ඇත.
+සැකකරුවන්ගෙන් ප්‍රශ්න කිරීමේදී මෙම ව්‍යාජ වීසා ලබා දීමට එක් පුද්ගලයෙකුගෙන් රුපියල් එක්ලක්ෂ පනස්දහසකට අධීකමුදලක් ලබා ගන්නා බව හෙළි වී ඇතැයි ත්‍රස්ත විමර්ශන කොට්ඨාශය කියයි.</body>
+    <comments>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2016-08-18 16:33:39</date>
+            <index>0</index>
+            <phrase>මේ හොර විසා අරගෙන කී දෙනෙක් දැනටමත් ගිහින් අමාරුවේ වැටිලා ඉන්නවද කවුද දන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-08-18 16:46:49</date>
+            <index>1</index>
+            <phrase>නීති විරෝදී වැඩ නවත්වන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2016-08-18 16:42:36</date>
+            <index>2</index>
+            <phrase>ඇමරිකාවේ ඉන්න මිනිස්සු පවා ඒ රටට ආවේ හොර මාර්ග වලින් තමයි. කරුණාකර අපේ මිනිසුන්ගේ වල කපන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින් යහම්පත්</author>
+            <date>2016-08-18 19:56:59</date>
+            <index>3</index>
+            <phrase>ලංකාවේ ජීවත්වීම අමාරු නිසාත්, රැකියා නොමැතිකම නිසාත්, හොඳ ජීවිතයක් ගතකිරීමට ලැදිකම නිසාත්, මුළු සේසතම විකුණා හොර පාරෙන් හෝ මෙවැනි රටවලට යන්න බහුතරයක් ආසයි. හේතුව අපේ ලක්දිව අපිටම අපායක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆ්‍රෑන්ක් මාටින්</author>
+            <date>2016-08-18 21:01:29</date>
+            <index>4</index>
+            <phrase>සල්ලි ගත්තත් මොකද කැනඩාවට යවනවා නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත්</author>
+            <date>2016-08-18 23:04:14</date>
+            <index>5</index>
+            <phrase>සාධාරණ මනුස්සයෙක් මේ ගානට වීසා අරගෙන දෙනවා නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-08-19 06:29:59</date>
+            <index>6</index>
+            <phrase>නීති විරෝධීව යවන්න උදව් කරන්නේ ඔය ලංකාවේ ගුවන් තොටුපොළේ ඉන්න අයමයි නේ ඉතින් වෙන කව්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-08-19 11:30:22</date>
+            <index>7</index>
+            <phrase>නීති විරෝදී වුනත් , හොඳ සේවයක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2016-08-19 12:44:58</date>
+            <index>8</index>
+            <phrase>මෙහෙමහරි යන්න ලැබෙනවා නම් අපිත් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

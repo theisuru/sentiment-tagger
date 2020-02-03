@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>95224</articleId>
+    <title>පාර හදා මාසයයි</title>
+    <author>සනත් ගමගේ</author>
+    <date>2013 ජනවාරි මස 28 11:02:36</date>
+    <body>පවුල් සියයක ප්‍රයෝජනය සඳහා අම්බලන්තොට ලුණම රණවිරු ගමේ පාර මාසයකට පමණ පෙර හදා අවසන් කැරිණි.
+මෑතදී පැවැති මහා වැස්සට පාර සෝදාපාළු වී අඩි හයක වලක් හෑරී ඇත. දැන් පාරෙන් වාහනයක් ගමන් කළ නොහැකිය.  </body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-01-28 11:07:05</date>
+            <index>0</index>
+            <phrase>වැස්සට විරුද්ධව දොෂාභියෝගයක් ගෙන ආ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-01-28 11:35:16</date>
+            <index>1</index>
+            <phrase>තම තමන්ගේ ගෙවල් වලට යන පාරවල් නම් නොකැඩෙන විදියට හදාගන්න ඇති මේ කොන්ත්‍රාත් කරුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-28 11:46:53</date>
+            <index>2</index>
+            <phrase>හදපු හොද කම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ලේ සමන්</author>
+            <date>2013-01-28 12:36:05</date>
+            <index>3</index>
+            <phrase>කොන්ත්‍රාත් කාරයෝ කියල කීදෙනෙකුට නම් කොමිස් දෙන්න ද දෙයියනේ? ඉතින් මේව මෙහෙම වෙන එක අහන්න දෙයක් යැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2013-01-28 12:46:55</date>
+            <index>4</index>
+            <phrase>මේ කොන්ත්‍රාත් කරුට කියලා නොමිලේ පාර හදාවා ගන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2013-01-28 12:51:02</date>
+            <index>5</index>
+            <phrase>ආසියාවෙ ආස්චර්ය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-01-28 13:16:39</date>
+            <index>6</index>
+            <phrase>කියන්න‍‍ ලේසි වුවත් කරන්න අමාරු තමා ඒත්, පවුල් 100ක් ඉන්නවානම් ආර්ථික තත්වයයක් නැතත්, ගමෙන්ම ශ්‍රමයක් අරන් පස් ට්‍රැක්ටර 1/2 සිමෙන්ති කොට්ට කිහිපයක් අරන් මේක හදාගන්න පුලුවන් දෙයක් වගේ... හිත ඇත්නම් පත කුඩාද!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-01-28 13:18:45</date>
+            <index>7</index>
+            <phrase>හොදට හදලා තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-01-28 13:27:45</date>
+            <index>8</index>
+            <phrase>අයියෝ අපේ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල කටාර්</author>
+            <date>2013-01-28 13:37:01</date>
+            <index>9</index>
+            <phrase>මේක තමයි දරුවනේ ආසියාවේ ආශ්චර්යය කියන්නේ.. කොන්ත්‍රාත් දීලා කිසිම තත්ත්ව පරීක්ෂාවක් නැතිව මුදල් පාස් කරනවා.. මේවා ගොඩනගනකොට අදීක්ෂණය කරන්න නිලධාරීන් යොදවනවානම් මෙහෙම වෙන්නේ නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2013-01-28 14:29:22</date>
+            <index>10</index>
+            <phrase>රණවිරු ගමක් නම් ආමි එකේ අයට වුණත් එකතුවෙලා මේක හදන්න පුලුවන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-28 14:31:17</date>
+            <index>11</index>
+            <phrase>ජනක ඔබ හරි. මෙය මඩකලපුව,අම්පාර වැනි පළාත්වල උනානම් බලන්න තිබුනා වැඩේ .කොහොම උනත් කොන්ත්‍රාත් කරුවන් වගකිව යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංක</author>
+            <date>2013-01-28 16:16:00</date>
+            <index>12</index>
+            <phrase>මාසයකට කලින් හදපු පාරක් කියල නම් මේ පින්තුරයෙන් පෙන්නේ නැහැ. පාලම නම් සමහර විට අලුතෙන් හදන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බඩී</author>
+            <date>2013-01-28 16:58:58</date>
+            <index>13</index>
+            <phrase>ලංකාව යනු දූෂණයෙන් සහ වංචාවෙන් සන්නද්ධ වූ රටකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2013-01-28 17:21:50</date>
+            <index>14</index>
+            <phrase>කවුරු පාර හැදුවත් ගමේ අය ප්‍රමිතිය ගැන අවධානයෙන් සිටිය යුතුයි. එය ඔබේ මුදල් වලින් කරන්නේ. එය බැලීම ඔබේ යුතුකමයි. ප්‍රාදේශිය ලේකම්තුමාට වෑඩේ ඉවරවෙනකම් එතන ඉන්න බැහැ. කොන්ත්‍රාත්කරු හරියට වැඩේ කරනවාද කියලා බලලා හරියට කරවන්න ඔබට අයිතියක් තිබෙන බව අමතක කරන්න එපා. කඩාගියාට පසු උද්ඝෝෂණ කරලා වැඩක් නැහැ. මහජනයා වගකීම පැහැර හරිනකොට කොන්ත්‍රත්කරුවනුත් බියක් සැකක් නැතුව ඔවුන්ට ඕනෑ විදියට කරනවා. මින් පසු වෙනත් ගමක හරි පොදු වැඩකදී මහජනයාගේ අවධානයට යොමුවේවායි බලාපොරොත්තු වෙමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2013-01-28 17:53:53</date>
+            <index>15</index>
+            <phrase>පොළොවේ වැරැද්දක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලන්සූරිය</author>
+            <date>2013-01-28 19:31:29</date>
+            <index>16</index>
+            <phrase>ගාල්ලේ මීපාවල හන්දියේ සිට නරාවල පන්සල අසලින් වැටී ඇති කිලෝමීටර් දෙකක් වන පාර අලුත්වැඩියා කර තුන් මසක් ඇතුළත තිබුණු තත්වයටත් වඩා විනාශයට පත්වී ඇත. වළක නොවැටී එක මීටරයක දුරක් යා නොහැකිය. මේ කොන්ත්‍රාත්තුව ගත් පුද්ගලයාගේත් එය අනුමත කර මුදල් බෙදාගත් බලධාරීන්ගේත් අඹු දරුවන් දැන ගත යුතුයි ඔබ කනබොන දේවල් ඔබේ පියවරුන් මහජනතාවගේ සාක්කු වලින් හොරෙන් අරන් දෙන දේවල් බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2013-01-28 20:32:28</date>
+            <index>17</index>
+            <phrase>මේ වහින වැස්සට පාරවල් කඩාගෙන නොගියොත් තමයි පුදුමේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෑම්</author>
+            <date>2013-01-28 22:26:20</date>
+            <index>18</index>
+            <phrase>අඩි 10ක වළක් හෑරුණහම කොහොමද පාරේ වාහන යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෝහා</author>
+            <date>2013-01-28 22:28:47</date>
+            <index>19</index>
+            <phrase>මාසෙකට උඩදි නේද මේ පාර හැදුවා කිවුවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෝහා</author>
+            <date>2013-01-28 22:29:33</date>
+            <index>20</index>
+            <phrase>මේවට පාරවල් කිවුවොත් පාරවල් වලට මොනවා කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දාස්</author>
+            <date>2013-01-29 02:15:36</date>
+            <index>21</index>
+            <phrase>අනේ බණ්ඩෝ, වැස්ස වැටිලා කැඩෙන නිසා පාරවල් නොහදා ඉන්නද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් අම්බලන්ගොඩ</author>
+            <date>2013-01-29 04:30:09</date>
+            <index>22</index>
+            <phrase>ඇයි දැං ඕක විවෘත කරන්න ආපුඋත්තමයෝ රටේආශ්චර්යය ගැන කියපු දේවල් එක්ක මේවට මොකද කියනනේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙපර්ඩ්</author>
+            <date>2013-01-29 04:48:05</date>
+            <index>23</index>
+            <phrase>හදාපු අයවම දාලා ගොඩකරන්න තියෙන්නෙ ඕක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-01-29 06:00:23</date>
+            <index>24</index>
+            <phrase>අපරාදේ මිනිස්සුන්ගේ සල්ලි . මහාමාර්ග ඇමතිතුමා මොකද කියන්නේ මේවා ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-01-29 06:49:14</date>
+            <index>25</index>
+            <phrase>අපොයි දෙයියනේ ජනතාවගේ සල්ලිවලට යන කල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-01-29 09:06:46</date>
+            <index>26</index>
+            <phrase>කවුරු පාර හැදුවත් ගමේ අය ප්‍රමිතිය ගැන අවධානයෙන් සිටිය යුතුයි දැං සියල්ල අවසානයි.. මේ ගමේ අය එකතුවෙලා ප්‍රාදේශීය සභාවෙන් යන්ත්‍රයක් ලබාගෙන නැවත පිරවීමක් කරගන්න.. නිකං සිටීමෙන් ගැටලුව විසදෙන්නේ නැහැ.. ඔබට පුළුවං මෙය එක් දිනකින් සාදා ගන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද, ඩුබායි</author>
+            <date>2013-01-29 09:08:41</date>
+            <index>27</index>
+            <phrase>පුදුම විය යුතු නෑ. තව තව දේ ඉදිරියට අහන්න ලැබේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්සනුපාත්</author>
+            <date>2013-01-29 09:07:58</date>
+            <index>28</index>
+            <phrase>වාහන යන්න බැරි බව මෙයාලට පේන්නේ නැද්දක? මේකට පස් ටිකක් දාන්න බැරිද මේ ගමේ අයට..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අස්ලාන්</author>
+            <date>2013-01-29 16:22:45</date>
+            <index>29</index>
+            <phrase>අවශ්‍ය දෑ- රූපයේ ඉන්නා දෙන්නයි, තව එක්කෙනයි පස් ට්‍රේලර් දෙකයි( මෙතනින්ම වුණත් ගන්න පුලුවන්) උදලු දෙකයි ඇළෙන් වතුරයි ඇළෙන් වැලියි දවල් කෑමයි දවසින් වැඩේ ඉවරයි. සියල්ලන්ටම සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල කටාර්</author>
+            <date>2013-01-30 04:13:17</date>
+            <index>30</index>
+            <phrase>කොන්ත්‍රාත් දීලා බලාගෙන ඉන්නේ නැතිව ඒවා අධීක්ෂණය කරන් රජයේ වගකිවයුතු නිලධාරීන් පත්කරන්න,.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

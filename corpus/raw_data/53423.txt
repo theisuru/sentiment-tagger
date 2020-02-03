@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53423</articleId>
+    <title>දෙබරවැව කඩ හයක් ඉවරයි</title>
+    <author>රංජිත් ඩයමන්ඞ්</author>
+    <date>2012 ජූලි මස 15 13:35:24</date>
+    <body>දෙබරවැව වෙළෙඳ සංකීර්ණයේ අද අලූයම ඇති වූ ගින්නකින් යකඩ බඩු කඩයක් ඇතුළු කඩසාප්පු හයක් දැවී ගියේය.
+විදුලි කාන්දුවීමක් මීට හේතු වන්නට ඇතැයි අනුමාන කෙරේ.
+ </body>
+    <comments>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-15 14:21:11</date>
+            <index>0</index>
+            <phrase>කාගෙද වැරැද්ද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝහමෙඩ් රිස්වි කටාර්</author>
+            <date>2012-07-15 21:09:56</date>
+            <index>1</index>
+            <phrase>රක්ශනේ කරලද දන්නේ , අනේ පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

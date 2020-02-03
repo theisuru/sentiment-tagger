@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>410062</articleId>
+    <title>උතුරු කොරියාවේ තවත් මිසයිලයක් වරදී</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 අපේ‍්‍රල් මස 28 20:43:24</date>
+    <body>උතුරු කොරියාව අද තවත් මධ්‍යම දුර බැලස්ටික් මිසයිලයක් අත්හදා බැලූ බව දකුණු කොරියා මාධ්‍ය වාර්තා පවසයි.
+නමුත් ඔවුන් අද අත්හදා බැලූ මිසයිලය එරට යොන්හැප් ප්‍රදේශයේදී මුදාහැර තත්පර කිහිපයකදී මුහුදට වැටී විනාශ වූ බව කියති.
+උතුරු කොරියාව මේ වසරේදී මිසයිල 7ක් අත්හදා බැලූ බවත් එයින් හයක්ම අසාර්ථක වූ බවත් විදෙස් මාධ්‍ය වාර්තා කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-04-29 13:40:24</date>
+            <index>0</index>
+            <phrase>ඔහොම වුනාට පසුබට වෙන්න එපා හරිගියා දාට අපේ උතුරටත් එකක් එවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-04-29 13:41:49</date>
+            <index>1</index>
+            <phrase>එකක් සාර්ථකයිනේ එ්ඇති අපි කළානම් ඔක්කොම අසාර්ථකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-04-30 04:27:26</date>
+            <index>2</index>
+            <phrase>අපේ රට මොනතරම් පහත් තත්වයට දාලාද මේ බමුණු ලියන්නේ? ලංකාවේ ඉන්න බෑරි නම් ඔය වගේ අය වෙන රටකට ගියාට කමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

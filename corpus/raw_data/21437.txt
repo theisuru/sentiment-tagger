@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21437</articleId>
+    <title>රුහුණු සිසුනට තුන් පැත්තම වැසේ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජනවාරි මස 11 11:01:04</date>
+    <body>පෞද්ගලික සරසවි පිහිටැවීමට එරෙහිව රුහුණු සරසවියේ සිසුන් නාදුගල, නූපේ හා වැල්ලමඩමේ සිට තුන් පැත්තකින් මාතර නගරයට අවුත් උද්ඝෝෂණයක් පැවැත්වීමට යයි.
+පොලිසිය දහසක අතිරේක බල ඇනියක් කැරැුලි මර්දන පොලිස් භටයන් 200ක් හා සාමාන්‍ය ඇඳුමින් සැරැසුණු පිරිසද සීරුවෙන් තබා ඇත.
+ 
+.</body>
+    <comments>
+        <comment>
+            <author>ලසන්ත පෙරේරා</author>
+            <date>2012-01-11 11:33:57</date>
+            <index>0</index>
+            <phrase>1971-1988-89 දැන් 2012. තුන්වැනි පරම්පරාවත් බිල්ලට දෙන්නද හදන්නේ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>saman</author>
+            <date>2012-01-11 13:06:17</date>
+            <index>1</index>
+            <phrase>නියමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.එච්. සිරිනිමල් [dubai]</author>
+            <date>2012-01-11 14:53:23</date>
+            <index>2</index>
+            <phrase>විශ්ව විද්‍යාලවල ළමයින්ගෙ ඹලුව නරක්වේගෙන එනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංඡූල සමරනායක</author>
+            <date>2012-01-11 16:36:18</date>
+            <index>3</index>
+            <phrase>මුදල්ගෙවල විශ්ව විද්‍යාලවල ඉගණිම තිබුනන නම් ඔහොම වෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික සංජය</author>
+            <date>2012-01-20 12:29:47</date>
+            <index>4</index>
+            <phrase>ඇත්තටම ඉගෙන ගත්ත අය මෙහෙමද හැසිරෙන්නෙ? බුද්ධිමත් විදියට හිතල වැඩ කරන්න ඕන නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2012-01-26 11:10:45</date>
+            <index>5</index>
+            <phrase>කැම්පස් ගියපු අය තමයි ඒවායෙ ප්‍රශ්න දන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

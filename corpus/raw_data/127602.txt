@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>127602</articleId>
+    <title>අලි පැටවා ගොඩ ගනී</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2013 මැයි මස 26 12:46:30</date>
+    <body>ගල්ගමුව ඇහැටුවැව මාන්කුලියාගම වගා ළිදකට වැටුණු අලි පැටවෙකු අද උදේ ගොඩගත් බව ගල්ගමුව අඩවි වන කාර්යාලය කියයි.
+අලි පැටවා ගොඩ ගන්නට පැය තුනක් ගත විය. 
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>දමිත්-ඩුබායි</author>
+            <date>2013-05-26 12:51:30</date>
+            <index>0</index>
+            <phrase>පව්, පොඩි එකා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-05-26 13:00:34</date>
+            <index>1</index>
+            <phrase>අනාරක්ෂිත වගා ළිං වහාම තනම් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2013-05-26 13:16:23</date>
+            <index>2</index>
+            <phrase>බොහොම පින් සිද්ධ වෙන වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංක</author>
+            <date>2013-05-26 13:32:19</date>
+            <index>3</index>
+            <phrase>වෙසක් පෝයට කල හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-05-26 14:34:46</date>
+            <index>4</index>
+            <phrase>මේ දුක් විදින අලි ටික අල්ලල ලොකු කෑලෑතියන පිටරටවල් වලට දුන්නන්ම් මිනිස්සුන්ට කරදරයකුත් නෑ අලිත් නිදහසේ ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා-ඇමරිකාව</author>
+            <date>2013-05-26 14:40:35</date>
+            <index>5</index>
+            <phrase>වෙසක් එකට නියම පිනක් කරලා තියෙන්නේ. මෙසේ අලි ගොඩගන්න හාරන ලින් එහෙමම තියන්නයි තියෙන්නේ. එවිට ගොඩගන්න කරදරයත් ඉවරයි. , සත්තුත් කරදරයක් නැතිව වතුර බොයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2013-05-26 15:27:34</date>
+            <index>6</index>
+            <phrase>ෂෝ එක බලාගෙන ඉන්න කට්ටිය ඉන්නේ අවදානම් තැනක කියලා හිතෙන්නෙම නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදරුවන්</author>
+            <date>2013-05-26 16:35:59</date>
+            <index>7</index>
+            <phrase>චතුල වෙරෝනා,ගොන් අදහස් දාන්ඩ එපා.වෙන වැඩක් නැත්තන් නිදාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග ලක්මාල්</author>
+            <date>2013-05-26 22:28:28</date>
+            <index>8</index>
+            <phrase>අම්ම නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-05-27 06:48:15</date>
+            <index>9</index>
+            <phrase>මේ වැඩේ හැමදාම අහන්න ලැබෙන දුක්ඛදායක සිද්ධියක්. මේ වගේ ගැඹුරු වලකට එකපාරටම ඇදගෙන වැටුනාම අලින්ගේ කකුල් කැඩෙන්නේ හරි තුවාල වෙන්නේ හරි නැද්ද? ගොඩගත් සැනින් උන් දුවන බව නම් පේනවා. ඒ ඉතින් බයටනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-27 07:53:27</date>
+            <index>10</index>
+            <phrase>රටේ නොයෙක් බොරු විකාර වැඩ වලට නාස්ති කරන සල්ලි වලින් අලින්ගේ හා මිනිසුන්ගේ ගැටුම් වලට විසදුම් සොයා නිසි ක්‍රමවේදයකට අලි වැටවල් ටික සකස් කරනවානම් මේ වගේ ප්‍රස්න ඇතිවන්නේ නේ නැහැ නේද? පාලකයන් කවදා මේවා තේරුම් ගනීද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් ප්‍රියංකර</author>
+            <date>2013-05-27 11:07:29</date>
+            <index>11</index>
+            <phrase>අලි මල්ලි හොඳට මඩ නාලා. ඔය පැත්තේ ඡන්දයක් වත් තිබුනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලීල් ගුණවර්ධන</author>
+            <date>2013-05-28 01:13:40</date>
+            <index>12</index>
+            <phrase>අලි පැටියා බේරගත්ත අයට ගොඩාක් ස්තුතියි. කොහොමහරි පැටියාගේ අම්මා සොයාදෙන්න. ඒක තමා දෙවනුව කළයුත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

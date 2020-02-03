@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>27946</articleId>
+    <title>සනෝජාට කඩුවෙන් බෙහෙත් දෙන්න හදලා</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 පෙබරවාරි මස 20 17:40:56</date>
+    <body>කතරගම දී අසනීපයකට බෙහෙත් ගැනීමට ගිය අවස්ථාවේ වෛද්‍යවරියකගේ සැමියා කඩුවක් ද රැගෙන පහරදීමට ආ සිද්ධියක් ගැන සෞඛ්‍ය ඇමැතිටත්, පොලිස්පතිටත් පැමිණිලි කරන බව ජනප්‍රිය නිළි සනෝජා බිබිලේ කියන්නීය. කතරගම රෝහලේ ප්‍රධාන වෛද්‍යවරියගේ පෞද්ගලික සායනයෙන් දුන් බෙහෙත් තුණ්ඩුව බෙහෙත් නිකුත් කරන තැන සිටි ඇගේ සැමියාට දුන් පසු ඇතිවූ බහින්බස්වීමක් අවසන් වූයේ කඩුව රැගෙන ඈ පසු පස පැන්නු බව කියන සැමියාගෙන් බේරීමට ඇයට  වෛද්‍යරියගේ කාමරයට වැදී පොලිසිය එනතුරු දොර වසාගෙන සිටීමෙන් පසුවය. බෙහෙත් නිකුත් කිරීමට මොහුට සුදුසුකම් ඇද්දැයි සනෝජා අසයි.</body>
+    <comments>
+        <comment>
+            <author>චන්දන වැලිකල</author>
+            <date>2012-02-20 18:27:24</date>
+            <index>0</index>
+            <phrase>සමහරවිට මේක අලුත් කෙම් ක්‍රමයක්ද දන්නෙ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාවනා</author>
+            <date>2012-02-20 19:30:01</date>
+            <index>1</index>
+            <phrase>අපි නොදන්න "සනෝජාගේ කඩු පාර"!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-02-20 19:54:10</date>
+            <index>2</index>
+            <phrase>මෙතුමිය නිලි පාර්ට් දාන්ඩ ඇති.. බෙහෙත් දෙනම් ඉවසන්න නැතිව ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ කේ</author>
+            <date>2012-02-20 21:13:15</date>
+            <index>3</index>
+            <phrase>ලෙඩක් නැති නිසා තුවාල කරල බෙහෙත් දෙන්න වෙන්න ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-02-21 06:30:08</date>
+            <index>4</index>
+            <phrase>ඔය වගේ නිලියන්ටට ඔහොම තමයි සලකන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් බණ්ඩාර - දෝහා</author>
+            <date>2012-02-21 12:01:57</date>
+            <index>5</index>
+            <phrase>මෙයත් දේශපාලනයට එන්ඩ වගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-02-23 17:37:54</date>
+            <index>6</index>
+            <phrase>එයාට කඩුව වගේ ද දන්නේ නෑ පෙනුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

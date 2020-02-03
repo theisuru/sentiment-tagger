@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>94993</articleId>
+    <title>ගං වතුර අලි පැටවාට අරියාදු කරයි</title>
+    <author>කග කරුණාරත්න</author>
+    <date>2013 ජනවාරි මස 27 11:40:34</date>
+    <body>අඹන් ගඟේ ගංවතුරට ගසාගෙන විත් පොලොන්නරු, කලහගල වන ලැහැබක මඩේ එරී සිටි වයස අවුරුදු තුනහමාරක පමණ අලි පැටවකුගේ ජීවිතය බේරා ගැනීමට වනජීවී නිලධාරීහු සහ ප්‍රදේශවාසීහු එක්ව ක්‍රියා කළහ.
+නිරාහාරව සිටි මේ අලි පැටවා ගිරිතලේ වනජීවී කාර්යාලයේ වන ජීවී පශු වෛද්‍ය නිලධාරී ප්‍රමුදිත දේවසුරේන්ද්‍ර මහතා ප්‍රමුඛ   නිලධාරීහු කණ්ඩායමක් පැමිණ අලි ප්‍රතිකාර කැර රිටිගල ඇත් අතුරු සෙවනට බාර දීමට යයි.</body>
+    <comments>
+        <comment>
+            <author>ඉසුරංග</author>
+            <date>2013-01-27 11:49:43</date>
+            <index>0</index>
+            <phrase>අලි පැන්චාගේ වාසනාව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල කටාර්</author>
+            <date>2013-01-27 11:51:38</date>
+            <index>1</index>
+            <phrase>ලොකු පිනක් කරගෙන තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෑම්</author>
+            <date>2013-01-27 11:51:06</date>
+            <index>2</index>
+            <phrase>සැඩ පහර කොච්චර පළු ඇත්ද අලි බබෙක් උනත් ගගහෙන යන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-27 12:53:50</date>
+            <index>3</index>
+            <phrase>වන ජීවී පශු වෛද්‍ය නිලධාරීනට ස්තුති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොවුන්</author>
+            <date>2013-01-27 13:27:48</date>
+            <index>4</index>
+            <phrase>අනේ ඔබල සියලු දෙනාටම තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-01-27 13:41:52</date>
+            <index>5</index>
+            <phrase>හුරතල් අලි පැටියෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

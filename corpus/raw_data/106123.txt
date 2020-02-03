@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>106123</articleId>
+    <title>කල්වාරි ගමන</title>
+    <author>එච් චන්දන</author>
+    <date>2013 අපේ‍්‍රල් මස 01 17:53:43</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>උපේක්ෂා</author>
+            <date>2013-04-08 18:05:07</date>
+            <index>0</index>
+            <phrase>හොද වීඩියෝ එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>85913</articleId>
+    <title>අඹන්ගඟ ගම් හතක් කොටු කරයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 දෙසැම්බර් මස 17 18:39:58</date>
+    <body>අඹන්ගඟ පිටාර ගැලීමෙන් නාවුල, කොන්ගහවෙල මොරගොල්ල, කඹරව, දම්මන්තැන්න, හතේ කණුව, අඹන ආදි ගම් කිහිපයක පවුල් 150ක් පමණ ගංවතුරෙන් කොටුවී සිටිති . අද (17)ඔවුනට කැම් බිමක් පවා නොලබුණු බවත් උස්බිම් කිහිපයක කොටුවී සිටන බවත් දැන ගන්නට ඇත.1978න් පසු මෙවැනි ජල ගල්මක් නොදුටු බව ද ගැමියෝ කියති.
+ </body>
+    <comments>
+        <comment>
+            <author>මෝරා</author>
+            <date>2012-12-17 18:57:50</date>
+            <index>0</index>
+            <phrase>මිනිස්සුන්ව බේරා ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-17 19:12:16</date>
+            <index>1</index>
+            <phrase>ගම වල මිනිස්සු තමයි හැමතැනින්ම අසරණ වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිලා</author>
+            <date>2012-12-17 20:11:59</date>
+            <index>2</index>
+            <phrase>අපිට ඉක්මණින් පුවත් දැනගන්න පුලුවන් එසැණින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසී</author>
+            <date>2012-12-17 21:21:24</date>
+            <index>3</index>
+            <phrase>අපිට ඉක්මණින් පුවත් දැනගන්න පුලුවන් එසැණින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-12-17 22:13:23</date>
+            <index>4</index>
+            <phrase>උත්සව සමය කියලා සැණකෙළි පවත්වනවාට වඩා අවතැන් වන අපේම මිනිස්සුන්ට සහනාධාර ලබාදෙන්න හැමෝම එකතු වෙනවා නම් ගොඩක් වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-12-17 22:14:41</date>
+            <index>5</index>
+            <phrase>මිනිස්සුන්ගේ ආරක්ෂාව ගැන හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-12-18 07:37:03</date>
+            <index>6</index>
+            <phrase>මේ ගසාගෙන යන්නේ ජීවිත කාලයක්ම හම්බ කරපු සේසත නොවේද? මොවුන්ට ඉක්මන් සහනයක් ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

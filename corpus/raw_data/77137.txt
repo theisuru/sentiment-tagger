@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77137</articleId>
+    <title>එංගලන්තයේ පොලිස් ලොක්කන් ඡන්දෙන්</title>
+    <author>රත්නපාල ගමගේ සහ අජීවන් වීරකිර්ති ස්විට්සර්ලන්තයේ සිට</author>
+    <date>2012 නොවැම්බර් මස 14 23:12:34</date>
+    <body>බ්‍රිතාන්‍ය පොලිස් ඉතිහාසියේ ප්‍රථම වරට පොලිස් කොමසාරිස්වරුන් 41 දෙනකු මහජන ඡන්දයෙන් තෝරා ගැනීමේ ඡන්ද විමසූම බ්‍රහස්පතින්දා (15) පැවැත්වේ. බ්‍රිතාන්‍ය අගමැති ඩේවිඩ් කැමරුන්ගේ රජය නොබෝදා පාර්ලිමේන්තුවට ඉදිරිපත් කර සම්මත කරගත් පනත අනුම මෙම ඡන්ද විමසීම පැවැත්වේ.
+එංගලන්තයේ හා වේල්සයේ දිස්ත්‍රික්ක 41ක මෙම ඡන්දය පැවැත්වීමට නියමිතය. ප්‍රධාන පක්ෂ කිහිපයක් දැනටමත් තම නියෝජිතයන් ඉදිරිපත් කර ඇතත් ඊට විරුද්ධව අදහස් ප්‍රකාශ කරන්නෝද සිටිති. කොමසාරිස්වරුන් පත් කිරීමේ දී මෙතෙක් පැවැති ක්‍රමය වූයේ පළපුරුද හා සේවා දක්ෂතාවයන් අනුව  කලාපවල පොලිස් ප්‍රධානීන් රජය විසින් පත් කිරීමයි.</body>
+    <comments>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-15 08:11:48</date>
+            <index>0</index>
+            <phrase>අනේ අපේ රටේ ඕවා කරන්න බෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-11-15 14:17:15</date>
+            <index>1</index>
+            <phrase>කරන්න පුළුවන් , එහෙම ‍කලොත් දන්නවනේ ඊලඟට වෙන දේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-15 16:43:22</date>
+            <index>2</index>
+            <phrase>ලංකාවත් එක්ක බලද්දී ඕවත් වැඩද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-15 17:12:34</date>
+            <index>3</index>
+            <phrase>දයා, මතක් කරලා දුන්නට බොහොම පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

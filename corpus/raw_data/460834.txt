@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460834</articleId>
+    <title>වීරගුල ඕඅයිසීගේ කාමරයේ ගින්නක්</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 සැප්තැම්බර් මස 23 16:00:36</date>
+    <body>යක්කල වීරගුල පොලිසියේ ස්ථානාධිපතිගේ කාමරයේ හටගත් ගින්නක් නිවිමට ගිනි නිවන රථ එහි ළඟාවිය.
+ </body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-09-23 11:29:53</date>
+            <index>0</index>
+            <phrase>දැන් ඉතින් සාක්කිත් විනාශවෙලාද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-09-23 13:12:18</date>
+            <index>1</index>
+            <phrase>පොලිස් කාමරයේ ගින්න නිවන්න ගිනි නිවන රථ ඕනෑද? මෙහෙමත් අරුම පුදුම රටක්! ඕනෑම කාර්යාලයක ගින්නක් නිවීම සඳහා උපකරණයක්වත් නැතුව කොහොමද රටක් ඉදිරියට යන්නේ? අර පොලිස් ස්ථානයේ තිබුණ ලියකියවිලි, චෝදනා පත්‍ර එහෙම හොඳින් ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-09-23 14:00:46</date>
+            <index>2</index>
+            <phrase>ඕඅයිසී ට කරදරයක් නැත්නම් එච්චරයි. පොලීසියේ වුණත් මනුස්සයෙක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදාර</author>
+            <date>2016-09-23 15:03:10</date>
+            <index>3</index>
+            <phrase>ඒ ගමන පොලිසියත් ගිනිගන්න පටන් අරගෙනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-24 03:19:53</date>
+            <index>4</index>
+            <phrase>ගින්නක් නැති දවසක් නැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ් ප්‍රීනා</author>
+            <date>2016-09-24 04:34:45</date>
+            <index>5</index>
+            <phrase>නොයෙකුත් හේතුන් නිසා මිනිසුන්ගේ හැසිරීම් රටාව සමඟ සිදුවෙන දේවල් නිතරම සැකයට භාජනය වෙනවා. සමාජයේ දැඩි අවධානයට යොමුවන ආයතනයක මෙවැනි දෙයක් සිදුවීම බරපතල විවාදයට තුඩුදෙන කරුණක් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-09-24 13:32:56</date>
+            <index>6</index>
+            <phrase>මේක නම් ලෝක වාර්තාවක්. කවදාද මෙහෙම දේවල් වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2016-09-25 02:33:13</date>
+            <index>7</index>
+            <phrase>රට පුරාම ගිනි පොලිසියටත් ගිහින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

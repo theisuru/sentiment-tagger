@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486823</articleId>
+    <title>කුරණ උද්ඝෝෂකයින්ට පොලිසියෙන් කඳුළු ගෑස්</title>
+    <author>හියුබට් ප්‍රනාන්දුබිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 දෙසැම්බර් මස 02 20:22:34</date>
+    <body>මීගමුව , ගල්කන්ද රේල් ගේට්ටුව අසලින් පුත්තලම දුම්රිය පාර හා මීගමුව-කොළඹ මාර්ගය අවහිර කරමින් උද්ඝෝෂණය කළ පිරිස පොලිසියට ගල් මුල් ප්‍රහාර එල්ල කළ බවත් ඒ හේතුවෙන් පිරිස විසුරුවා හැරීමට කඳුළු ගෑස් එල්ල කළ බවත් පොලිසිය කියයි.
+සිද්ධියට සම්බන්ධ  දෙදෙනකු අත්අඩංගුවට ගත් බවද කියති.</body>
+    <comments>
+        <comment>
+            <author>විකුම් රංගන</author>
+            <date>2016-12-02 15:27:19</date>
+            <index>0</index>
+            <phrase>මොවුන්ට ගහන්න ඕනෑ කඳුළු ගෑස් විතරක් නෙමෙයි, අසුචි මිශ්‍ර වතුර. මේ අය නිසා මඟීන් මොනතරම් නම් අපහසුතාවයට පත්වුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-12-02 16:38:14</date>
+            <index>1</index>
+            <phrase>පොලිසිය අවම බලය පාවිච්චි කරලා වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්සිරි</author>
+            <date>2016-12-02 17:26:30</date>
+            <index>2</index>
+            <phrase>රතුපස්වල සළකපු විදිහට සැළකුවා නම් ප්‍රශ්නය ඉවරයි. අපේ රටේ මිනිසුන්ට ගැළපෙන්නේ ඒ ක්‍රමය තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

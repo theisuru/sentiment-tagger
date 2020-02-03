@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456075</articleId>
+    <title>රෝහිතට රට යන්න අවසර</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 09 12:16:47</date>
+    <body>අයථා ලෙස රුපියල් මිලියන 4.3ක ඉපැයූ බව කියමින් හිටපු ඇමැති රෝහිත අබේගුණවර්ධනට එතෙර යාමට පනවා තිබු තහනම තාවකාලිකව ඉවත් කරමින් සැප්තැම්බර් 25 සිට  ඔක්තෝම්බර් 25 දක්වා  එතෙර යාමට  මහාධිකරණ විනිසුරු  නිශ්ශංක බන්දුල කරුණාරත්න මහතා අද (9) ඔහුට අවසර  දුන්නේය.
+ </body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-09-09 13:01:22</date>
+            <index>0</index>
+            <phrase>රුපියල් දාහක් හොරකම් කරලා අහුවුණ පුද්ගලයෙකුට පොලිසියේ කූරු වලින් මෙපිටට එන්න අවසර නැහැ. ඉන්න කාලය දී ගුටි කකා ඉන්නත් සිදු වෙද්දී රුපියල් මිලියන් ගණන් වංචා කරපු මිනිසුන්ට පිටරට සවාරි යන්නත් අවසර. ලංකා ආණ්ඩුවෙන්ම ටිකටුත් අරන් දීල ඇරියා නම් තමයි යහපාලානේ නියම තේරුම එන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2016-09-10 06:33:49</date>
+            <index>1</index>
+            <phrase>මෙතුමා හරි දක්ෂ කෙනෙක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-09-12 10:06:09</date>
+            <index>2</index>
+            <phrase>යන්නේ ඉතාලියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2016-09-13 08:07:43</date>
+            <index>3</index>
+            <phrase>තමන්ගේ හෘද සාක්ෂිය තමන් නිවැරදිද යන්න දන්නවා ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්රුක්ෂි</author>
+            <date>2016-09-13 08:23:44</date>
+            <index>4</index>
+            <phrase>ඉවසීමෙන් බලාසිටිමුකෝ සිදුවෙන්නේ කුමක්ද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

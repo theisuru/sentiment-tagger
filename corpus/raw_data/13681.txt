@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>13681</articleId>
+    <title>අයි. පී. තහනම් ගහේ ගෙඩි කයි</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2011 නොවැම්බර් මස 19 12:54:45</date>
+    <body>මහනුවර පොලිස් පරීක්ෂකවරයකු සිය කාර්යාලයයේ දී උප පොලිස් පරීක්ෂකවරියක කෙළෙසී යැයි කියන සිද්ධියක් සම්බන්ධයෙන් පරීක්ෂණ ආරම්භ කැර ඇත. පොලිස් පරීක්ෂක සොයා ගැනීමට නැති බවත් ඔහුගේ වැඩ තහනම් කැර ඇති බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>sha</author>
+            <date>2011-11-19 14:05:02</date>
+            <index>0</index>
+            <phrase>දෙයියෝ සාක්කි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>galmola</author>
+            <date>2011-11-19 14:07:02</date>
+            <index>1</index>
+            <phrase>නීතිය රකින ඇත්තන්ගෙ වැඩ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>A.A</author>
+            <date>2011-11-19 14:46:32</date>
+            <index>2</index>
+            <phrase>වැටත් නියරත් ගොයම් කා නම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nasar</author>
+            <date>2011-11-19 15:23:00</date>
+            <index>3</index>
+            <phrase>ගහ තහනම්. ගෙඩිත් තහනම්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>titus</author>
+            <date>2011-11-19 15:37:22</date>
+            <index>4</index>
+            <phrase>වැටත් නියරත් ගොයම් කා නම් අප කුමක් කරන්න ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>titus</author>
+            <date>2011-11-19 15:57:36</date>
+            <index>5</index>
+            <phrase>අහෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදුන්</author>
+            <date>2011-11-19 16:17:30</date>
+            <index>6</index>
+            <phrase>පොලිස් කාන්තාවන්ට මෙහෙම නම් වෙන අයට කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-19 17:32:18</date>
+            <index>7</index>
+            <phrase>වරදි වැඩ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-19 17:21:37</date>
+            <index>8</index>
+            <phrase>අතුලෙම ගහක ගෙඩි නොකා පිට ගහක කන්න ගියානම් වැඩ ගොඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2011-11-19 18:02:28</date>
+            <index>9</index>
+            <phrase>මෙන්න තවත් පොලිස් පුවතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන ජයසේන</author>
+            <date>2011-11-19 19:12:05</date>
+            <index>10</index>
+            <phrase>කාට කියන්නද මේවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේන්</author>
+            <date>2011-11-19 19:47:40</date>
+            <index>11</index>
+            <phrase>ඔය එකක් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-11-21 13:20:11</date>
+            <index>12</index>
+            <phrase>මහනුවරටත් සයුරෙන් එතෙරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

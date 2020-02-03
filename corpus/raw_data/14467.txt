@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14467</articleId>
+    <title>මාතරට/ගාල්ලට සුළගෙන් හානි</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්  සජීව විජේවීර</author>
+    <date>2011 නොවැම්බර් මස 25 10:49:51</date>
+    <body>අද පෙරවරු නවයේ පමණ සිට මාතර, වැලිගම, ගාල්ල ඇතුළු වෙරළබඩ නගර රැසක ගස් කොළං, කටවුට්, කඩසාප්පු හා නිවෙස්හි වහළ ද සුළඟට ගසාගෙන ගොස් ඇත. මාතර පමණක් ස්ථාන සියයකට වඩා හානි සිදුවිය. පාරවල් ඇහිරී ඇත. මිනිසුනට සිදුවූ අනතුරු ගැන ක්‍ෂණිකව විස්තර ලැබී නැත.</body>
+    <comments>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2011-11-25 11:27:18</date>
+            <index>0</index>
+            <phrase>2012 ලෝක විනාෂෙ පෙරනිමිතිද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමින්ද</author>
+            <date>2011-11-25 12:21:10</date>
+            <index>1</index>
+            <phrase>ආශ්චර්යයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික</author>
+            <date>2011-11-25 12:45:35</date>
+            <index>2</index>
+            <phrase>මාතර ගැන අලුත්ම තොරතුරු දන්වන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන් ජුවන්</author>
+            <date>2011-11-25 13:08:38</date>
+            <index>3</index>
+            <phrase>සාපය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2011-11-25 13:14:45</date>
+            <index>4</index>
+            <phrase>පෙර දැනුම්දීමක් නොකළෙ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේසිංහ</author>
+            <date>2011-11-25 13:28:28</date>
+            <index>5</index>
+            <phrase>රුහුණට කාගෙ පිහිටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිමන්</author>
+            <date>2011-11-25 13:52:14</date>
+            <index>6</index>
+            <phrase>සාපය දැනුයි පටන් ගත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2011-11-25 14:04:04</date>
+            <index>7</index>
+            <phrase>තංගල්ලට ඔහොම වුණේ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේම්</author>
+            <date>2011-11-25 14:24:23</date>
+            <index>8</index>
+            <phrase>සාප වේවා කියපු අයගේ සාපය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>jayantha</author>
+            <date>2011-11-25 16:50:28</date>
+            <index>9</index>
+            <phrase>ස්වභාව ධර්මයට මුහුණ දී ඉදිරියට යන්න ජය නියතයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>409672</articleId>
+    <title>තුර්කියේ මරාගෙන මැරෙන ප්‍රහාරයක්</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 අපේ‍්‍රල් මස 28 09:46:29</date>
+    <body>තුර්කියේ බර්සා නගරයේ මුස්ලිම් දේවස්ථානයකට එල්ලවූ මරාගෙන මැරෙන ප්‍රහාරයකින් 13 දෙනකු තුවාල ලබා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කියයි.
+ප්‍රහාරය 25 හැවිරිදි කාන්තාවක විසින් සිදු කරන්නට ඇතැයි එරට ආරක්ෂක අංශ වාර්තා පවසයි.
+පොලිසිය ප්‍රහාරය සිදුවූ ප්‍රදේශයේ ආරක්ෂාව තර කර ඇති අතර එහි කිසිවකුට හෝ ඇතුළුවීම තහනම් කර ඇත. එරට පොලිසිය ප්‍රහාරය සම්බන්ධ පරීක්ෂණ සිදුකරමින් පවතින අතර මෙතෙක් එම ප්‍රහාරයේ වගකීම කිසිවකු බාරගෙන නැත.
+පසුගිය ග්‍රීෂ්ම ඍතුවේදී තුර්කියට එල්ලවූ මරාගෙන මැරෙන ප්‍රහාරයකින් බොහෝ පිරිසක් මිය ගිය අතර එම ප්‍රහාරයෙන් පසු එරට ආරක්ෂාවද දැඩි කර තිබිණි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-04-28 06:03:46</date>
+            <index>0</index>
+            <phrase>මදි මදි තව ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-04-28 13:07:27</date>
+            <index>1</index>
+            <phrase>මතකද ලංකාවෙත් ඔහොම තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-04-29 12:51:22</date>
+            <index>2</index>
+            <phrase>මදි මදි තව ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද දොඩන්ගොඩ</author>
+            <date>2016-04-29 19:35:47</date>
+            <index>3</index>
+            <phrase>එහෙ ඔහොම දේවල් වෙන එක සුළු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

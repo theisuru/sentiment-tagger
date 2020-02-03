@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458501</articleId>
+    <title>ජනපති එජාප සංවත්සරයට යාම අතේ ජයග්‍රහණයක්</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 16 15:10:31</date>
+    <body>එක්සත් ජාතික පක්ෂයේ 70 වැනි සංවත්සරයේ ප්‍රධාන ආරාධිතයා  ලෙස මෛත්‍රීපාල සිරිසේන ජනාධිපතිතුමනට  ආරාධනා  කිරිම, ශ්‍රී ලංකා නිදහස් පක්ෂයට  ගෞරවයක් බව පළෘත් සභා සහ පළාත් පාලන ඇමැති  ෆයිසර් මුස්තාපා මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-09-16 12:00:42</date>
+            <index>0</index>
+            <phrase>ඔරුව පෙරලුනාම කොල්ලෑව හොඳයි කිව්වලු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2016-09-16 13:06:50</date>
+            <index>1</index>
+            <phrase>අනේ මේ මොනවා කියනවද ඒ ගැන?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-09-16 13:07:47</date>
+            <index>2</index>
+            <phrase>ඔය ඉන්නේ සූ ගාලා සෙනඟ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක පෙරේරා</author>
+            <date>2016-09-16 17:34:04</date>
+            <index>3</index>
+            <phrase>මේකේ ඉන්න සෙනඟ ගණන් කරන්න මට ඉස්කෝලේ ගිහින් ගණන් ඉගෙනගන්න බැරි වුණානේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-09-16 20:36:51</date>
+            <index>4</index>
+            <phrase>මේ මුල්ගල තියන්නේ මොකටද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-16 21:33:59</date>
+            <index>5</index>
+            <phrase>කන්න ඕනෑ වුණාම කබරගොයත් තලගොයා කරගන්නවා කියලා අපි කියන්නේ මේවට තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2016-09-17 02:53:28</date>
+            <index>6</index>
+            <phrase>නරියත් මිදි තිත්තයි කිවුවලුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-17 02:48:14</date>
+            <index>7</index>
+            <phrase>දැන් ඉතින් එහෙමවත් කියලා හිත හදාගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-09-17 04:44:05</date>
+            <index>8</index>
+            <phrase>දැන් මේ අතේ ජයග්‍රහණය ගැන අලියගේ පැත්තේ සාමාජිකයෝ මොකද කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-09-17 07:21:53</date>
+            <index>9</index>
+            <phrase>අත, කකුල නෙමෙයි, දැන්වත් රට ගැන කතා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

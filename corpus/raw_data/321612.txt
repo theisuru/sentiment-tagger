@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>321612</articleId>
+    <title>ඉඩම මායිමේ රබර් ගසෙන් අයිය මලෝ සමගියෙන් කිරි කපාගෙන</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2015 ජූනි මස 02 10:59:17</date>
+    <body>(තිහගොඩ - උපසේන ලියනගම) තම පියාට අයත් අක්කර තුනක් වූ රබර් ඉඩමක් දෙකට බෙදීමේදී එක් රබර් ගසක් හරියටම ඉඩමේ මායිමට ආවිට දෙපස ඉඩමේ හිමිකරුවන් වූ පුතුන් දෙදෙනා එම රබර් ගසේ දෙපැත්තේ කිරි කපා ගැනීමේ අපූරු පුවතක් පසුගියදා අසන්නට ලැබුණේ කළුතර පළාතෙනි.
+රබර් ඉඩමේ මුල්හිමිකරුවා වූ පියාගේ උරුමය පිළිබඳව ආරවුල් කරගත් මේ පුතුන් දෙදෙනාට ඉඩම අක්කර එකහමාර බැගින් සමසේ බෙදීමේ දී මායිමට ආ රබර් ගස පිළිබඳව දෙදෙනා ආරවුල් නොකොට මෙසේ කිරි කපාගත් අතර පසු කලෙක මේ මුළු ඉඩමේ පැරණි රබර් ගස් ඉවත් කිරීමට ගස් මිලදී ගත් කොන්ත‍්‍රාත්කරු මේ රබර් ගසේ දෙපැත්තෙන් කිරි කපා ඇති ආකාරය දැක ඒ ගැන විමසූ විට මේ අපූරු පුවත දැනගෙන අසල්වාසීන්ට කියා තිබේ.
+මේ රබර් ගසත් එකගෙයි දීග කන කෙනෙක් වගේ කෙට්ටු වී ගොස් තිබූ බවද ඔහු පැවසුවාලූ.</body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2015-06-02 08:49:36</date>
+            <index>0</index>
+            <phrase>නොමැරෙන මිනිසුන් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2015-06-02 17:02:18</date>
+            <index>1</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා නන්දසිරි</author>
+            <date>2015-06-02 17:03:22</date>
+            <index>2</index>
+            <phrase>රබර් ගහටත් ඔහොම නම් අපිට අනෙක් හරිය හිතාගන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2015-06-02 23:15:38</date>
+            <index>3</index>
+            <phrase>එකගෙයි දීග කනකොට කෙට්ටු වෙනවා කියන්නේ ඇයි? මට නම් හිතාගන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙජි-සිඩ්නි</author>
+            <date>2015-06-03 01:57:04</date>
+            <index>4</index>
+            <phrase>කොහෙන් කැපුවත් කව්රු කැපුවත් රබර් ගහෙන් එක විදිහට කිරි ලැබෙන්න ඇති. එ්ක නිසා වෙන්න ඇති දෙන්නා සමාදානයෙන් කිරි කපා ගන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2015-06-03 03:02:24</date>
+            <index>5</index>
+            <phrase>රබර් ගහක් වුණ නිසා හොඳයි. කිරි එළදෙනක් වුණා නම් විනාශයි සහෝදරයෝද මේ වගේ අය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් හෙට්ටිආරච්චි - ලන්ඩන්</author>
+            <date>2015-06-04 07:36:26</date>
+            <index>6</index>
+            <phrase>ඇන කොටාගෙන ම්නිමරාගෙන විරසක වෙනවාට වඩා මේ ආකාරයට බේදා හදා ගැනීම කොච්චර දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2015-06-04 13:36:03</date>
+            <index>7</index>
+            <phrase>එක තමයි නිමල් ඒ දෙන්න කොච්චර හොඳට සමගියෙන් වැඩේ කරලා තියෙනවද? ගහ මරා ගන්නේ නැතුව. මම නම් ඒ ක්‍රියාව අගය කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

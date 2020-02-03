@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466518</articleId>
+    <title>කුවේට් ගිය අසල්වැසියෝ හවුලේ කසිප්පු පෙරති</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 10 17:19:57</date>
+    <body>ඉන්දියා ජාතිකයකුගේ කුලී නිවසක කසිප්පු පෙරූ බව කියන ශ්‍රී ලාංකිකයෝ තිදෙනෙක් ද ඉන්දියා ජාතිකයා සමග කුවේට් පොලිසියෙන් අත්අඩංගුවට ගනු ලැබ සිටිති.
+කුවේටයේ කෙයිෆාන් හි නීතිවිරෝධී මත්පැන් නිපදවීමේ කටයුතු වල නිරතව සිටි ඔවුන් සතුව තිබූ කසිප්පු නිෂ්පාදනය සඳහා යොදාගත් උපකරණ සහ බැරල් 152 ක් ද ආරක්ෂක අංශ භාරයට ගෙන ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>සුගන්දි</author>
+            <date>2016-10-10 12:56:17</date>
+            <index>0</index>
+            <phrase>ලංකාවේ බීම ටිකක් බිලා බලන්න තිබ්බා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෙහාන් මධුසංක</author>
+            <date>2016-10-10 13:09:10</date>
+            <index>1</index>
+            <phrase>ඔබ ආපසු දිවයිනට පැමිණ පෙර ඔබේ දක්ෂතා පුහුණු වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-10-10 15:17:56</date>
+            <index>2</index>
+            <phrase>සෞදි වල හොර මත්පැන් ඕනා තරම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-10-10 21:42:17</date>
+            <index>3</index>
+            <phrase>ලංකාවේ පෙරනකොට කසිප්පු කිව්වාට වෙනත් රටවලදී ඒවාට කසිප්පු කියන්නෙ නැහැ. ඇමරිකාවේ බර්බන්, ස්කොට්ලන්තයේ ස්කොච්, ජපානයේ සාකේ, රුසියාවේ වොඩ්කා, ජැමෙයිකාවේ රම්, ෆිජි ඇතුළු නැගෙනහිර ඕස්ට්‍රේලියානු දුපත් රටවල තියන කාවා කියන මේ සියල්ලමත් ඒ ඒ රටවල කසිප්පු තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-10-11 00:43:09</date>
+            <index>4</index>
+            <phrase>අපිත් කළා ඒ කාලේ. හැබැයි හැමෝම සහයෝගයෙන් කරපු නිසා ප්‍රශ්නයක් වුණේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-10-11 01:39:45</date>
+            <index>5</index>
+            <phrase>මේක මේ අපේ අයගේ ප්‍රසිද්ධ "සයිඩ්" බිස්නස් එකක්. වැඩේ තියෙන්නේ සමහර තැන්වල ප්‍රධාන ගැනුම්කරුවෝ වෙන්නේ සෞදියෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2016-10-11 02:52:28</date>
+            <index>6</index>
+            <phrase>කවුරු පෙරුවත් කසිප්පු කසිප්පුමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන්</author>
+            <date>2016-10-11 07:09:49</date>
+            <index>7</index>
+            <phrase>සෑම් කියන කතාව හරි, එ්ත් එ්ක කරන විදිහ වැරදියි .බර්බන් වුනත් ස්කොට්ච්, වොඩ්කා, සකේ මේ හැම එකක්ම නීතිගතව ප්‍රමිතියකට කරන්නේ (තමන් පෙරාගෙන බොන එක වෙනම කතාවක් ) ස්කාගාරයක් කරන එක නීති විරෝධී. අපේ උන්ට වඩා ඉන්දියන් කාරයෝ ජයට කරනවා මෙහෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

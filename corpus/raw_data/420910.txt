@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>420910</articleId>
+    <title>නුවර වැවේ සොරොව් දොරටුව නාවික හමුදාවෙන් හදයි</title>
+    <author>කිත්සිරි වනසිංහ</author>
+    <date>2016 මැයි මස 30 12:28:17</date>
+    <body>අනුරාධපුර නුවරවැවේ ප්‍රධාන සොරොව්වේ ක්‍රියා විරහිතවූ දොරටුවක් පිළිසකර කිරීමට නාවික හමුදා කිමිදුම්කරුවෝ කැඳවනු ලැබූහ. නාවික හමුදාව යොදවා එය නැවත සකස් කිරීමේ කටයුතු ඇරඹූ බව අනුරාධපුර ප්‍රාදේශීය වාරි ඉංජිනේරු ප්‍රසන්න තිලකරත්න මහතා පවසයි.
+එහි දොර පියන සහ එසවුම් ආධාරකය ක්‍රියා විරහිත වීම නිසා දොරෙහි පාලන කටයුතු අඩපණව පැවතීම මීට හේතුවයි.
+ඊට පිළියමක් ලෙස එහි හදිසි දොරටුව ලෑලි ආධාරයෙන් වසා දමා දැනට අක්‍රියව පවතින ප්‍රධාන දොරටුව යලි පිළිසකර කිරීමට හෝ එසේ නොහැකි වුව හොත් අලුතින් දොරක් සවි කිරීම වාරිමාර්ග දෙපාර්තමේන්තුවේ අරමුණ බව තිලකරත්න මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>සජිත් ප්‍රනාන්දු</author>
+            <date>2016-05-30 08:48:19</date>
+            <index>0</index>
+            <phrase>හමුදාව නැතිනම් රටක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2016-05-30 10:24:25</date>
+            <index>1</index>
+            <phrase>මම මේ නිකම් අහන්නේ ත්‍රිවිද හමුදාව නැති වුණොත් මේ රටට මොකක් වෙයිද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-05-30 10:35:01</date>
+            <index>2</index>
+            <phrase>මේ අය මේවට යොදවන්නෙ නෑ කියල කියනව පසුගිය දාක කිව්වනේද හැබෑට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිත්</author>
+            <date>2016-05-30 11:05:50</date>
+            <index>3</index>
+            <phrase>මේගොල්ල කවදත් වීරයෝ අපේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙහාන්</author>
+            <date>2016-05-30 11:13:40</date>
+            <index>4</index>
+            <phrase>නුවන් මේ අයව යොදා ගත්තේ හොඳ දෙකට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-05-30 14:31:39</date>
+            <index>5</index>
+            <phrase>අනේද කියන්නේ නුවන්? මහින්ද කරපුවම තමයි අන්තිමට කරන්නේ එතුමාට බැන බැනම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-05-30 16:32:32</date>
+            <index>6</index>
+            <phrase>මහින්ද කලේ කල යුතු දේ... යුද්ධ නැති රටවල හමුදාව ඕවා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-05-30 21:06:56</date>
+            <index>7</index>
+            <phrase>මේ වගේ අයව නේද පාණ්ඩු ආණ්ඩුව බාල්දු කරන්නේ???මෙයාල නැතිනම් කවුරු කවුරුත් නොහිටින්න තිබුන??????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-05-31 03:55:05</date>
+            <index>8</index>
+            <phrase>රටේ හැම වැදගත් වැඩක්ම හමුදව කරනවානම් දේශපාලුවෝ මොකටද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-06-01 07:30:53</date>
+            <index>9</index>
+            <phrase>ඔය කොන්ත්‍රාත්තුව වෙන කෙනෙකුට දුන්නා නම් අද කී දෙනෙක් ඕකෙන් ගසාකාලා තියෙයිද? ක්‍රමවත් ඉක්මන් වැඩක් කරගන්න හමුදාවට දෙනවා නම් මුදලුත් කාලයත් දෙකම ඉතුරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

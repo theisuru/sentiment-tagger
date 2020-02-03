@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24621</articleId>
+    <title>දුම්රිය වර්ජනය ඉවරයි.</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 පෙබරවාරි මස 01 21:00:31</date>
+    <body>ප‍්‍රවාහන ඇමති කුමාර වෙල්ගම මහතා සමඟ සාකච්ඡාවකින් පසු දුම්රිය වර්ජනය අද 8.30ට අවසන් වූ බව රජය කියයි. පැය හතර හමාරක් තිස්සේ පැවති වර්ජනයෙන් දුම්රිය මගීහු විශාල වශයෙන් අතරමං වූහ.</body>
+    <comments>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-02-01 22:27:16</date>
+            <index>0</index>
+            <phrase>අපොයි ඇති යාන්තන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-02-02 09:06:35</date>
+            <index>1</index>
+            <phrase>හැමදාම වර්ජනය කරන්නේ රජයේ සේවකයොනේ. හැබැයි මහ ජනතාව කසය අතට ගත්තොත් ඔක්කොම ඉවරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Kadera</author>
+            <date>2012-02-02 09:42:43</date>
+            <index>2</index>
+            <phrase>ඔය කට්ටියට දුවන්න දෙන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>V.Perubaharan</author>
+            <date>2012-02-03 10:46:42</date>
+            <index>3</index>
+            <phrase>මේවට මුල්වෙච්ච අයගේ අඬු කඩන්න තිබ්බේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29490</articleId>
+    <title>ඩීසල් බවුසරේට තව මොනවද දාලා?</title>
+    <author>එම්එස් පෙරේරා</author>
+    <date>2012 මාර්තු මස 02 10:36:37</date>
+    <body>කිසියම් දියරයක් කලවම් වී ඇතැයි කියන ඩීසල් ලීටර 6600 රැගත් බවුසරයක් ගාලු පාරේ තෙල් හලක් අසලදී සොයාගෙන පොලීසිය කැඳවා ඇත.
+එම බවුසරයේ තෙල් ඉන්ධනහලේ ටැංකිවලට පුරවන්නට පෙර ගත් සාම්පලය අනුව කිසියම් දියරයක් ඊට කලවම් වී ඇතැයි සැක කෙරේ.
+මේ බවුසරය සමග තවත් බවුසර 20ක් නැගෙනහිර සිට තවත් තැන්වලට යවා ඇතැයිද තොරතුරු ලැබී තිබේ.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-03-02 12:10:15</date>
+            <index>0</index>
+            <phrase>බය වෙන්න එපා. කලින් වතාවෙත් බාල තෙල් වලින් දුවල පුරුදු නිසා වාහන කැඩෙන්නේ නැති වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-03-02 15:52:39</date>
+            <index>1</index>
+            <phrase>තෙල් ගෙනාපු කෙනා අත්හදා බැලීම් කරන කෙනෙක්ද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

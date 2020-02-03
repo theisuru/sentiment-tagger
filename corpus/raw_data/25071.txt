@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25071</articleId>
+    <title>”කතරගම ඇඟිල්ලක් ගහන්න බෑ”</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 පෙබරවාරි මස 05 13:33:59</date>
+    <body>නිදහස් දා කතරගමට මහා සෙනගින් කිරි වෙහෙරත්, මහා දෙවොල් බිමත් පිරී ඉතිරී ගියේය.</body>
+    <comments>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-02-05 20:51:23</date>
+            <index>0</index>
+            <phrase>දැන් රට නිදහස්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

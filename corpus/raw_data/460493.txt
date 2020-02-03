@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460493</articleId>
+    <title>හුංගම කුඹුරක ගින්නක්</title>
+    <author>සනත් ගමගේ</author>
+    <date>2016 සැප්තැම්බර් මස 22 20:32:11</date>
+    <body>හුංගම කළමැටිය කුරුළු අභයභූමියට යාබදව ඇති කුඹුරු යායක් අද (22) පස්වරුවේ සිට ගිනි ගන්නා බව හුංගම පොලිසිය කියයි.
+ගින්න නීවිමට තංගල්ල නගර සභාවේ ගිනි නිවන රථ දෙකක් ගෙන්වා ඇතැයිද කියති.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-23 03:05:33</date>
+            <index>0</index>
+            <phrase>මෙහෙම හැමතැනම මෙහෙම ගිනිගැනීම් ඇතිවෙන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේශ්</author>
+            <date>2016-09-23 03:18:53</date>
+            <index>1</index>
+            <phrase>දැන් හැමතැනම ගිනි...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-24 10:23:35</date>
+            <index>2</index>
+            <phrase>ස්වභාව ධර්මය කාලෙන් කාලයට මෙවන් විපත් ගෙනදෙනවා. පාලකයනි, ධාර්මිෂ්ට වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

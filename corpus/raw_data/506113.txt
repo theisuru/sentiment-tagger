@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506113</articleId>
+    <title>නෑවා මදිවට දෙදාහක නෝට්ටු වේළන්නත් වෙලා</title>
+    <author>ගලගෙදර ජීජීඑම් රත්නායක</author>
+    <date>2017 පෙබරවාරි මස 10 11:39:52</date>
+    <body>රුපියල් දෙදහසක පමණ 20-50-100 මුදල් නෝට්ටු කලිසමේ සාක්කුවේ තිබියදීම රඹුකන්ඔයට බැස දිය නාගෙන ගොඩට පැමිණ තෙමී ගිය මුදල් නෝට්ටු අව්වේ වේලමින් සිටි පුද්ගලයකු ඉකුත්දා හතරලියද්ද නගරයේදී දක්නට ලැබිණි. මහමග ගමන් කරද් දී මිනිසුන් දෙන මුදල් මෙසේ එකතු කර ගෙන සිටි බවද හෙළිවී ඇත. හතරලියද්ද නගරයේ ත්‍රිරෝද රථ රියැදුරන් මුදල් නොට්ටු වේළා ගැනීමට උදව් වී තිබේ.
+(ගලගෙදර ජී.ජී.එම්. රත්නායක) ​</body>
+    <comments>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2017-02-10 12:14:45</date>
+            <index>0</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2017-02-10 16:25:04</date>
+            <index>1</index>
+            <phrase>ඔය පැත්තේ මහමඟ ගමන් කළාම සල්ලි දෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2017-02-10 16:35:44</date>
+            <index>2</index>
+            <phrase>හතරලියද්ද කියන්නේ තුම්පනේටනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2017-02-10 19:23:52</date>
+            <index>3</index>
+            <phrase>මෙයාලගේ දවසේ අාදායම හොඳයි අපිට වැඩිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-11 04:58:05</date>
+            <index>4</index>
+            <phrase>නාන්නත් ඕනෑ තමයි. හැබැයි සල්ලි පරිස්සම් කරගන්නත් ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

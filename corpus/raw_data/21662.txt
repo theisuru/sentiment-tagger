@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21662</articleId>
+    <title>රතුගල වැදි නායකට මරණ තර්ජන</title>
+    <author>ලූණුගල ප‍්‍රසන්න පද්මසිරි  නයනජිව බණ්ඩාර</author>
+    <date>2012 ජනවාරි මස 12 11:22:58</date>
+    <body>බිබිල රතුගල ආදිවාසී නායක මහබන්ඩියලාගේ සුදාවන්නිලා ඇත්තනට පහරදුන් බව කියන සිවිල් ආරක්ෂක භටයකු සැකපිට අත්අඩංගුවට ගත් බව ඉඟිනියාගල පොලිසිය කියයි. සිවිල් ආරක්ෂක සෙබළා රතුගල ජල පෝෂක ප්‍ර දේශයේ ඉඩමක හා ළිඳක ප්‍රශ්නයක් මත ඔහුට පහරදී තුන්දිනක් යන්නට පෙර වෙඩිතබා මරා දමන බවට තර්ජනය කළැයි ද සුදාවන්නියලා ඇත්තන් පොලිසියට කළ පැමිණිල්ලේ දැක්වේ.</body>
+    <comments>
+        <comment>
+            <author>වරාවිට</author>
+            <date>2012-01-12 11:58:00</date>
+            <index>0</index>
+            <phrase>අහිංසක මිනිසෙකුටවත් පාඩුවේ ඉන්න දෙන්නෙ නැති හැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>no name</author>
+            <date>2012-01-12 12:29:10</date>
+            <index>1</index>
+            <phrase>වැදි මිනිසුන්ටත් ඉන්න නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2012-01-12 15:00:08</date>
+            <index>2</index>
+            <phrase>මුලු ලෝක වාසීන්ම ගරු කරන, ලංකාවේ මුල්ම පදිංචිකරුවන් වන, අපේ ආදිවාසීන්ව සැමදා ආරක්ෂා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

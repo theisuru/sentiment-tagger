@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452371</articleId>
+    <title>විදුර ඇතුගල සමුළුවට නොයයි</title>
+    <author>එම් පීඩී ගුණවර්ධන</author>
+    <date>2016 අගෝස්තු මස 30 11:46:39</date>
+    <body>කුරුණෑගල පැවැත්වෙන ශ්‍රිලනිප 65 වැනි  සංවත්සරයට  නොයන බවත්  හොරණ ආසන සංවිධායක ධුරයෙන්  ඉවත්  නොවන බවත් කළුතර  දිස්ත්‍රික්  පාර්ලිමේන්තු  මන්ත්‍රී  විදුර  වික්‍රමනායක අද (30) පැවැති  මාධ්‍ය හමුවක්  අමතමින්  පැවසීය.
+එම තීරණය තමන්ගේ පෞද්ගලික තීරණයක්  නොවන බවත්  ශ්‍රිලනිප හොරණ මාධ්‍ය සංවිධානයේ  ශාඛා සමිති 122 ක්  හා අනුබද්ධ සංවිධාන වල ඒකමතික තීරණයක් බවත් වික්‍රමනායක සඳහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-08-30 08:07:40</date>
+            <index>0</index>
+            <phrase>ගියා කියලා වැඩක් තියනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් චන්ද්‍රසිරි</author>
+            <date>2016-08-30 08:39:03</date>
+            <index>1</index>
+            <phrase>විදුර කෙලින් කතාකරන අත් දැකීම් ඇති හොඳ මන්ත්‍රීවරයෙක්. මම ඔහුට ගරුකරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2016-08-30 09:34:38</date>
+            <index>2</index>
+            <phrase>විදුර හොදයි නම් තමයි නමුත් ඔය කරන වැඩ වලින් එයාට යන එන මන් නැති වෙන එක ෂුවර්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාපාල</author>
+            <date>2016-08-30 10:39:44</date>
+            <index>3</index>
+            <phrase>පක්ෂ හා පුද්ගල ප්‍රතිරුප වෙනුවෙන් කරන දේශපාලනයත්, රට වෙනුවෙන් කරන දේශපාලනයත් අතර වෙනස තේරුම් ගත හැකි බුද්ධිමත් ජනතාවක් මේ රටේ සිටිනවා. ජනතාවගේ ඡන්දෙන් පත් වුණ ජනාධිපති වරයෙක් කලින් හිටියා. ජනතාව එතුමාව ඡන්දෙන් පරාජයට පත් කරලා වර්තමාන ජනාධිපතිතුමා දැන් සිටිනවා. අනාගතයේදීත් අනිවාර්යයෙන්ම මේ රටේ පාලකයින් වෙනස් වෙනවා. එහෙම නැතිව, මේ රට දේශපාලකයින්ගේ හෝ ඒ අයගේ පරම්පරාවල බුදලයක් නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් පෙරේරා</author>
+            <date>2016-08-30 10:41:15</date>
+            <index>4</index>
+            <phrase>ජනවාරි 8 ට කලින් කට වාහන හිටපු විදුර මහත්තයල දැන් දගලනවා ඔය දැගලිල්ල එම කාලෙත් කළා නම් තාමත් ශ්‍රීලනිපේ ආණ්ඩුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-08-30 10:41:32</date>
+            <index>5</index>
+            <phrase>විදුර මන්ත්‍රීතුමා කියනදේ කරන කරනදේ කියන මන්ත්‍රී කෙනෙක් ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2016-08-30 11:09:35</date>
+            <index>6</index>
+            <phrase>පාර්ලිමේන්තු මන්ත්‍රීන් අතරේ අඩුපාඩු ගොඩක් අඩු මන්ත්‍රී වරයෙක් බව පෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසර</author>
+            <date>2016-08-30 13:27:13</date>
+            <index>7</index>
+            <phrase>මෙතුමා ඇත්තතටම ගොඩක් වැද ගත් මනුස්සයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2016-08-30 17:42:13</date>
+            <index>8</index>
+            <phrase>ඔබට මගේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-30 17:44:05</date>
+            <index>9</index>
+            <phrase>බලමු මෙහෙම වෙයිද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2016-08-30 22:36:23</date>
+            <index>10</index>
+            <phrase>තමන්ගේම රාමුවක් හදාගෙන එ්ක විකුණන්න බලන්න එපා. කකුල් දෙක දෙපැත්තක තබාගෙන, කරන වැඩ හරියන එ්වා නොවේ. තමා නායකයා වු‍ණොත් ඔන්න ඔයදේවල් කරන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2016-08-31 02:33:04</date>
+            <index>11</index>
+            <phrase>කරුණාකර හොරණ පැත්තට විත් විදුර ගැන සොයා දැනගන්නා මෙන් අදහස් දමන සමහරුන්ගෙන් කරුණාවෙන් ඉල්ලා සිටිමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>11448</articleId>
+    <title>සෞදි ගිය 19ක් හිර කැරගෙන</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 නොවැම්බර් මස 01 19:10:43</date>
+    <body>සෞදි අරාබියේ රැකියා සඳහා ගිය ශ්‍රී ලාංකික ශ‍්‍රමිකයන් 19 දෙනකු ගොඩනැගිල්ලක බලහත්කාරයෙන් රඳවා සිටින බවට වාර්තා වී ඇතැයි එරට ශ්‍රී ලංකා තානාපති කාර්යාල ආරංචි මාර්ග පවසයි. මෙරට පෞද්ගලික රැකියා එජන්සියක් මාර්ගයෙන් ඉකුත් 15 වැනි දාගිය මේ පිරිසට ආහාර හා පානීය ජලය ද ලැබී නැතැයි වාර්තාවෙයි.  රියාද් හි ශ්‍රී ලංකා තානාපති කාර්යලායට මේ ගැන තොරතුරු ලැබී ඇත.</body>
+    <comments>
+        <comment>
+            <author>zeenaa</author>
+            <date>2011-11-02 21:38:49</date>
+            <index>0</index>
+            <phrase>තානාපති ඉන්නේ රියාද්වල කිසි වැඩක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nasar</author>
+            <date>2011-11-03 13:29:47</date>
+            <index>1</index>
+            <phrase>තානාපති කාර්යලාය ගොඩනැගිල්ලක,තානාපතිතුමාවද බලහත්කාරයෙන් රඳවා සිටිනතැනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

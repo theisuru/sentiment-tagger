@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61011</articleId>
+    <title>ටෝකියෝ ලක් කවුළුව සැප්තැම්බර් මුල</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 අගෝස්තු මස 26 15:23:36</date>
+    <body>නවවැනි ශ්‍රී ලංකා උළෙල ලබන සැප්තැම්බර් 8x9 දිනයන්හිදී ජපානයේ ටෝකියෝ නුවරදි පැවැත්වීමට යයි.
+”අසිරිමත් සිරි ලංකා - ආසියාවේ අසිරිය”  මෙවර තේමාවයි. ජපානයේ ශ්‍රී ලංකා තානාපති  කාර්යාලය මේ උළෙල සංවිධානය කියයි.
+ශ්‍රී ලංකාවේ සංස්කෘතික, වෙළෙඳ, වාණිජ,සංචාරක, කාර්මාන්ත ප‍්‍රවර්ධනය  හා ශ්‍රී ලංකාව ලොව පුරා තවත් ප‍්‍රචලිත කිරීම අරමුණයි. මේ සම්බන්ධයෙන්  මාධ්‍ය හමුවට මාධ්‍යවේදීන් අසූ දෙනකුට වඩා පැමිණි බව වාර්තා විය. ගියවර උළෙලට 1,20,000 ආහ.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-26 22:13:44</date>
+            <index>0</index>
+            <phrase>ජපානේ මිනිස්සු ලංකාවට කොහොමත් ආදරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩියෝ</author>
+            <date>2012-08-27 07:45:11</date>
+            <index>1</index>
+            <phrase>නියමයි. පසුගිය වසරේත් හොදටම තිබුණා. ලාංකිකයෙක් වීම පිළිබදව සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයකාන්ත,</author>
+            <date>2012-08-27 09:54:50</date>
+            <index>2</index>
+            <phrase>මේ වගේ වැඩවලට අපේ උපරිම සහයෝගය දෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

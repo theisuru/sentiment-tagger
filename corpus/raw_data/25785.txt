@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25785</articleId>
+    <title>ශවේන්ද්‍රට මුක්තිය ලැබේ</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2012 පෙබරවාරි මස 09 13:59:32</date>
+    <body>ඇමෙරිකාවේ නිව්යෝක් නුවර එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ නියෝජ්‍ය නිත්‍ය නියෝජිත මේජර් ජනරාල් ශවේන්ද්‍ර සිල්වාට එරෙහිව ඇමෙරිකාවේ දෙමළ වැසියකු පවරා තිබූ නඩුව දකුණු නිව්යෝක් නුවර මහාධිකරණ විනිසුරු ජේ. පෝල් ඔටේකන් විසින් විභාගයට නොගෙනම ඉවත දැමිණි. තානාපති වරප්‍රසාද යටතේ ශවේන්ද්‍ර සිල්වාට මුක්තිය ඇති බව පිළිගනිමින් විනිසුරු එම තීරණයට එළැඹියේය. ශවේන්ද්‍ර සිල්වා යුද අපාරාධ කළැයි ඇමෙරිකාවේ පදිංචි දෙමළ ජාතිකයෙක් එම නඩුව ගොනු කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>නෙල්සන්</author>
+            <date>2012-02-09 14:51:43</date>
+            <index>0</index>
+            <phrase>පිටරටකදි ඔහුට මුක්තිය. විරු නායකයට සිර දඩුවම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-02-09 15:04:57</date>
+            <index>1</index>
+            <phrase>කවදා හෝ සත්‍ය ජය ගන්නවා. ඔබට ජය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dalu banda</author>
+            <date>2012-02-09 15:10:48</date>
+            <index>2</index>
+            <phrase>ශවේන්ද්‍ර මහත්තයට අපේ සුභපැතුම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල් විජේරත්න</author>
+            <date>2012-02-10 09:13:23</date>
+            <index>3</index>
+            <phrase>ඩයස්පෝරාවට මේ තීන්දුව හොද පහරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-02-10 11:58:43</date>
+            <index>4</index>
+            <phrase>ශවේන්ද්‍ර සිල්වා කියන්නේ අපිට ගොඩාක් වටින කෙනෙක්. ඒවගේ කෙනෙක් ඔයවගේ රටකට යවනවා කියන්නේ බිලිදෙනවා වගේ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

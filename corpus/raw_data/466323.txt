@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466323</articleId>
+    <title>ජර්මන් පොලිසියත් බෝම්බකරුවෙකු අල්ලයි</title>
+    <author>නිලුක සදුන් බණ්ඩාරනායක</author>
+    <date>2016 ඔක්තෝබර් මස 10 13:44:55</date>
+    <body>ජර්මනියේ ලෙග්පිග් නගරයේ ප්‍රහාරයක් සැලසුම් කරමින් සිටි බව කියන සැකකරුවෙකු පොලිසිය අත්අඩංගුවට ගත් බව විදෙස් මාධ්‍ය පවසයි.
+ඔහුගේ නිවසේ තිබී පුපුරණ ද්‍රව්‍ය රැසක් සොයගත් බව පොලිසිය කියයි.ඔහුගේ නිවස අයත් නිවාස සංකීර්ණය වැටලු පොලිසිය එහි සිටි 100 ක් පමණ නිවැසියන් ආරක්ෂක ස්ථාන කරා පිටත් කර රොබෝ තාක්ෂණය යොදාගෙන බෝම්බ නීශ්ක්‍රීය කළේය.ඔහුගේ හිතවතුන් යැයි කියන දෙදෙනෙක් ද පොලිසිය රඳවාගෙන සිටි බව වාර්තා වෙයි.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-10-10 08:47:51</date>
+            <index>0</index>
+            <phrase>අරාබි වසන්තයේ තවත් ප්‍රතිපලයක් !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-10-10 12:27:29</date>
+            <index>1</index>
+            <phrase>මේ අයි එස් අයි එස් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධිකා</author>
+            <date>2016-10-10 15:56:58</date>
+            <index>2</index>
+            <phrase>ලොකු විනාශයකින් බේරුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

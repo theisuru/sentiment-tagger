@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35825</articleId>
+    <title>දිමුතු ආටිගල මාදිවෙලින් මතුවේ</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2012 අපේ‍්‍රල් මස 10 10:42:47</date>
+    <body>පෙරටුගාමි සමාජවාදී පක්ෂයේ දිමුතු ආටිගල මෙනවිය අද පෙරවරු 10.35ට මාදිවෙල ඔවුන්ගේ කාර්යාලයට පැමිණියාය. ඇය එහි පැමිණියේ ත්‍රීරෝද රියකිනි. දැඩි වෙහෙසට පත්ව සිටි බව පෙනනු ඇය දම්පාට බ්ලවුසයක් හා කලිසමක් ඇද සිටියාය. කොන්ඩය අවුල් වී තිබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>Tharanga</author>
+            <date>2012-04-10 11:09:37</date>
+            <index>0</index>
+            <phrase>යන්තම් විදේශ මැදිහත්වීම නිසා මේ දෙන්න බේරුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි මහේෂිකා අමරසිංහ</author>
+            <date>2012-04-10 11:58:37</date>
+            <index>1</index>
+            <phrase>අපේ රටේ මිනිස්සුන්ට කෝ ඔඵවක් මේ රටේ යුද්ධයක් තිබුනද ඈ...මතකද කන්න නැතිව හිටි භීෂණ කාලය එල්ටීටී ඊ ත්‍රස්තවාදය ... සරත් ෆොන්සේකා කියන විරයා ... ක්‍රිකට් ජයග්‍රහණ... මොකුත්ම නැතිනම් ටෙලිවිෂන් එකේ මෙගා නාට්‍යක් ගැන ...කතා කරපල්ලා මේ වැඩකට නැති මාතෘකා ගැන අමතක කරලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් පී පෙරේරා</author>
+            <date>2012-04-10 12:21:44</date>
+            <index>2</index>
+            <phrase>රජයෙන් මේ ගැන ප්‍රකාශයක් නිකුත් කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

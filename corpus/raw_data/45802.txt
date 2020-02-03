@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45802</articleId>
+    <title>කළු යුවළට ”සුදු” පුතෙක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 මැයි මස 31 17:13:26</date>
+    <body>ඉතාලියේ පලේරමෝ නගරයේ පදිංචි නයිජීරියා ජාතිකයකුගේ නයිජීරියා බිරියට ”සුදු” පැහැ දරුවකු බිහි කළැයි කෝපයට පත් සැමියා බිරියටද රෝහල් කාර්ය මණ්ඩලයට බැන වැදුණේය. ලා රෝස පැහැයෙන් යුතු දරුවාගේ ඇස් ලා නිල්පාටය. කෙස් ද ලා රෝස පාටය. රෝහල් වෛද්‍යවරුන් කියනුයේ දාහතර දහසකින් එක්දරුවකු මෙලෙස උපදින බවයි.</body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-05-31 17:56:01</date>
+            <index>0</index>
+            <phrase>මෝඩ පියෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අත්ෂි තුරේරා</author>
+            <date>2012-05-31 23:16:29</date>
+            <index>1</index>
+            <phrase>ඉතිං මරැනෙ අප්පා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-06-01 01:19:14</date>
+            <index>2</index>
+            <phrase>ලෝක පුදුම සහගත වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

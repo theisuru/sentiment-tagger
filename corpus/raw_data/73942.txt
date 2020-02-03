@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>73942</articleId>
+    <title>ත්‍රිමල වැව් බැම්මක් කැඩේ</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ඔක්තෝබර් මස 31 13:45:55</date>
+    <body>දින කිහිපයක් තිස්සේ එක දිගටම පැවැති වර්ෂාව නිසා ගෝමරන්කඩවල වෙහෙර බැදි වැව කැඩි ගියේය.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-10-31 14:26:40</date>
+            <index>0</index>
+            <phrase>මේකට‍ වැලි කොට්ට ටිකක් දාලා අහකයන වතුර ටික නවත්වන්න . මිනිස්සු නැද්ද ගමේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-10-31 14:58:16</date>
+            <index>1</index>
+            <phrase>පස් හරියට තලල නෑ ඕක හදද්දි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතූ</author>
+            <date>2012-10-31 16:09:47</date>
+            <index>2</index>
+            <phrase>බැකෝ කෝ - කෝ බැකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-10-31 16:31:37</date>
+            <index>3</index>
+            <phrase>බැකෝ නෑ...කොහේද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත - ඉතාලිය</author>
+            <date>2012-10-31 16:47:25</date>
+            <index>4</index>
+            <phrase>ඒකනේ අහක යන වතුර ටිව වළක්වගන්න කවුරුත් නැද්ද..දැන් ලංකාවේ කාළගුණේ වෙනස් වෙලා...මතකද ගිය සැරෙත් මාස තුනක් විතර එකදිගට වැහැලා තමා නියගේ ඇල්ලුවේ...මේ සැරෙත් එහෙම තමා..ගොඩක් වැහැලා..නියගෙ අල්ලනවා. ගිය සැරේ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-10-31 16:46:25</date>
+            <index>5</index>
+            <phrase>කෝ බැකෝ එක?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටුආන්</author>
+            <date>2012-10-31 17:08:42</date>
+            <index>6</index>
+            <phrase>බැකෝ නිධන් හෑරීමේ ප්‍රතිපල....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-10-31 21:33:19</date>
+            <index>7</index>
+            <phrase>පතිරණ හරි. ආධාර අරන් රට ගොඩගන්න ක්‍රමයක් බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීව</author>
+            <date>2012-11-01 02:11:43</date>
+            <index>8</index>
+            <phrase>මේවයේ කරල තියෙන බොරු තමයි දැන් හෝදගෙන යන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-11-01 10:46:18</date>
+            <index>9</index>
+            <phrase>ගමුද මැණික් ඉල්ලම් ටිකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2012-11-02 15:09:57</date>
+            <index>10</index>
+            <phrase>ජල බිංදුවක් සාගරයට යන්න නොදී මහ පැරකුම් වැව් ඇළ දොළ තනන ලදී මේ වගෙ සිද්ධි සිටිතියි මතකයේ රැඳී නොමිලේ ලැබුණ දේ රකිනා වෙහෙස මදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-11-02 19:40:33</date>
+            <index>11</index>
+            <phrase>අහකයන ජයල ටික කොහොමහරි නවත්වාගත්තොත් වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

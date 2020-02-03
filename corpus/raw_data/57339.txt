@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57339</articleId>
+    <title>තෙල් ගැන විගණනයක්</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 අගෝස්තු මස 06 18:22:51</date>
+    <body>2011.08.01 x 2012.07.31 දක්වා ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ ක්‍ෂණික මිලදී ගැනීම් හා තොග කළමණාකරණය සම්බන්ධයෙන් විගණකාධිපති මගින් පූර්ණ පරීක්ෂණයක් පවත්වන බව ඛනිජ තෙල් කර්මාන්ත අමාත්‍ය සුසිල් පේ‍්‍රමජයන්ත මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>නිපුණ</author>
+            <date>2012-08-06 19:48:39</date>
+            <index>0</index>
+            <phrase>අවසානයේ, කිසිවක් සිදු වන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත්</author>
+            <date>2012-08-06 19:48:56</date>
+            <index>1</index>
+            <phrase>එතකොට ඇමතිතුමාවත් ඔඩිට් කරනවද? එහෙම කරනවා නම් ඒ කවුරුන් විසින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝෂිත</author>
+            <date>2012-08-06 23:01:17</date>
+            <index>2</index>
+            <phrase>දැන් මොන කතා කිවුවත් වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝෂිත</author>
+            <date>2012-08-06 23:04:00</date>
+            <index>3</index>
+            <phrase>හොද විපක්ෂයක අගය මට දැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ඉන්දික</author>
+            <date>2012-08-07 04:02:04</date>
+            <index>4</index>
+            <phrase>මටනම් කටින් නෙමෙයි අනිත් කොනින් හිනා...ඇමති තුමෝ මගේ ඔලුව අතගාල බලන්න ඉලිප්පිලද කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-07 05:56:15</date>
+            <index>5</index>
+            <phrase>හොදගානකට වැදුනට පස්සෙ තමයි පරික්ෂණ කරන්න අනකරන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-08-07 09:05:07</date>
+            <index>6</index>
+            <phrase>ඕක තෙල් ටැංකිවල වරදක්. අපේ ඇමතිතුමා අතේ වරදක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලාන්</author>
+            <date>2012-08-07 09:07:31</date>
+            <index>7</index>
+            <phrase>විගණනය කරවන්නේ කවුරුන් ලවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-08-07 11:11:01</date>
+            <index>8</index>
+            <phrase>දැන් පොඩි අයට වැරැද්ද පටවන්නද මන්දා හදන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආසි</author>
+            <date>2012-08-07 15:49:24</date>
+            <index>9</index>
+            <phrase>අනේ දැන් මේවට පරීක්ෂණ කරලා වැඩක් නැහැ. කලිනුත් උනානේ. කෙලින් තීරණයක් ගන්න කවුරු හරි ඉන්නවනම් තවත් මේවා නොවන්න වැඩ කරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරතන හිමි</author>
+            <date>2012-08-07 20:58:12</date>
+            <index>10</index>
+            <phrase>අශ්වයා පැන ගිය පසු ස්තාලය වසා කුමක් කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

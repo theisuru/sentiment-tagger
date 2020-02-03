@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35661</articleId>
+    <title>සංගීතෙට ගිහින් දෙන්නෙක් මැහුම් ගහගනිති</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 09 14:25:04</date>
+    <body>ක්‍රිකට් සමාජයකට ආධාර පිණිස ඉතාලියේ පාදෝවා නගරයේ පැවැති සංගීත සංදර්ශනයක් අවසානයේ ඇතිවූ ගුටි බැට හුවමාරුවකින් තුවාල ලැබූ ශ්‍රී ලාංකිකයෝ දෙදෙනෙක් රෝහලට ඇතුළු කරනු ලැබූහ. එක් අයකුට මැහුම් 35ක් ද, අනෙකාට මැහුම් 14ක් ද දමා ඇත. කැරිබ්නේරි පොලීසිය පරීක්ෂණ පවත්වයි. සංගීත සංදර්ශන භූමියට පිටින් සිටි පිරිසක් අතර මේ ගැටුම හටගෙන ඇත්තේ සංගීත සංදර්ශනය අවසන් වී පැය තුනකට පසුව බව වාර්තාවෙයි.</body>
+    <comments>
+        <comment>
+            <author>වීරසිරි</author>
+            <date>2012-04-09 14:47:23</date>
+            <index>0</index>
+            <phrase>අපේ අයට සාමදානෙන් සංගීත බලල පුරුදු නැහැනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංක</author>
+            <date>2012-04-09 15:35:25</date>
+            <index>1</index>
+            <phrase>ඇයි ලංකාවේ ඔයවගේ පුරුදු පිටරට ගෙනියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල් සමරවීර - මාලදිවයින</author>
+            <date>2012-04-09 15:37:38</date>
+            <index>2</index>
+            <phrase>මේ ආරවුල යන්න ඇත්තේ කාන්තාවක් මුල්කරගෙන වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපතිස්ස</author>
+            <date>2012-04-09 15:50:16</date>
+            <index>3</index>
+            <phrase>මේක ලංකාවේ නම් සාමාන්‍ය දෙයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

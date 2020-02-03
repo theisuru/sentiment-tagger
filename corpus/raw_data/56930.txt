@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56930</articleId>
+    <title>කොන්ක‍්‍රීට් මිශ‍්‍රනය මිනී මරයි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අගෝස්තු මස 05 12:11:23</date>
+    <body>චීනයේ ජියැංසි නගරයට අයත් ඉන්ධන පිරවුම්හලකදී මෝටර් රථයක් මතට කොන්ක‍්‍රීට් මිශ‍්‍රන පුරවාගත් බවුසරයක් ඇද වැටී දෙදෙනෙක් එතැනම මරුමුවට පත්වූහ. තවත් තිදෙනෙක් රෝහල් ගත් කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-08-05 18:17:17</date>
+            <index>0</index>
+            <phrase>අනේ පවු. අවාසනාවන්ත මරණ දෙකක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-05 21:43:56</date>
+            <index>1</index>
+            <phrase>අවාසනාවන්ත සිදුවීමක් වුවත් ඇත්ත කිව යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

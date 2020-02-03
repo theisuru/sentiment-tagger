@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21578</articleId>
+    <title>වෙරි වූ ගැහැණිය දඩ කයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජනවාරි මස 11 18:30:16</date>
+    <body>මත්පැන් බී ප‍්‍රසිද්ධියේ අශික්ෂිත ලෙස හැසුරුණු කතකට කොළඹ කොටුව මහේස්ත‍්‍රාත් කනිෂ්ක විජේරත්න මහතා රුපියල් 2500ක දඩ නියම කළේය.
+කොළඹ වොක්ෂෝල් වීදියේ ආ ගිය මිනිසුන්ට නොසරුප් ලෙස බැන වැදී ඇතැයි පැමිණිල්ල ඉදිරිපත් කළ කොම්පඤ්ඤවීදිය පොලිසිය උසාවියට කියා සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>ASAVI</author>
+            <date>2012-01-11 20:35:54</date>
+            <index>0</index>
+            <phrase>මතට තිත. දැන් කාන්තාවත් බීල පාරේ ජෝකි නටනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ. හේරත්</author>
+            <date>2012-01-12 07:38:48</date>
+            <index>1</index>
+            <phrase>ඉස්සර නම් ඔය වගේ දෙයක් වුණ ගමන් බැණුම් ඇහුවේ ප්‍රේමෙට දස කම් කරපු මහත්තයනේ. අනේ ඒකට දැන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මසිරි</author>
+            <date>2012-01-12 08:54:40</date>
+            <index>2</index>
+            <phrase>අරක්කු, සිගරැට් කොම්පැණිවලට නිදහස දුන්න හොදටම ඇති. අම්මලාව බේරා ගන්න ඉදිරිපත් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත් දයානන්ද</author>
+            <date>2012-01-12 09:15:44</date>
+            <index>3</index>
+            <phrase>අනේ අනේ මේක පුදුම සමාජයක් තමයි. දැන් කාලේ ගැහැණුත් බීලා පිස්සු නටනවා. අබුද්ධස්ස කාලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-01-12 12:48:20</date>
+            <index>4</index>
+            <phrase>උපරිම දඩුවම් දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

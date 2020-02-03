@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>65357</articleId>
+    <title>පාප්තුමන්ගේ ලෙබනන් සංචාරය අවසන්</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි</author>
+    <date>2012 සැප්තැම්බර් මස 18 16:08:21</date>
+    <body>ශුද්ධෝත්තම 16 වැනි බෙනඩික් පාප්තුමන්ගේ තෙදින ලෙබනන් සංචාරය පෙරේදා (16) සවස අවසන් වූ අතර එතුමන්ට සමුදීමට ලෙබනන් ජනපති මයිකල් ස්ලෙයිමාන් ද පැමිණ සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>හිරන්ත</author>
+            <date>2012-09-18 17:08:01</date>
+            <index>0</index>
+            <phrase>මේ දවස්වල ඇෆ්ගනිස්ථානයට පොඩ්ඩක් ගියානම් කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-09-18 21:49:33</date>
+            <index>1</index>
+            <phrase>වයසේ හැටියට මෙච්චර කල් පාප් පදවිය දැරුව එකත් පුදුමයි. ඔබ තුමාගේ උතුම් අරමුණු ඉටු වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-09-18 21:51:39</date>
+            <index>2</index>
+            <phrase>දරුණු ආගමික ප්‍රශ්නයක් පැන නැගී තිබියදීත් උන්වහන්සේ ලෙබනනයට වැඩි සේක!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

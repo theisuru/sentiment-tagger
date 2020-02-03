@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14443</articleId>
+    <title>නැ’හිර/රජරට ගංවතුර</title>
+    <author>අංජුල මහික වීරරත්න</author>
+    <date>2011 නොවැම්බර් මස 24 19:30:10</date>
+    <body>මහා වැස්සෙන් නැගෙනහිර හා උතුරු මැද පළාත් කිහිපයක ගංවතුර ගලා වැව් අමුණු පිරී මාර්ග කිහිපයක් ජලයෙන් යටවී ඇත.</body>
+    <comments>
+        <comment>
+            <author>චන්දි</author>
+            <date>2011-11-25 11:14:10</date>
+            <index>0</index>
+            <phrase>මොනව කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

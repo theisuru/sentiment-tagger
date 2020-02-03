@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28730</articleId>
+    <title>කතරගම තවත් ඉල්ලමක්</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 පෙබරවාරි මස 26 11:03:56</date>
+    <body>කතරගම පහළ තම්මැන්නාගම ද තවත් මැණික් ඉල්ලම් මතු වී ඇතැයි කියමින් සිය ගණන් ජනයා රක්ෂිත කැලයක් මැද මැණික් ගැරීම ඇරැඹූහ.
+රුපියල් විසි හත් කෝටියකට වෙන්දේසි කළ බිමට කිලෝමීටර් හතරක් පමණ ඈත මහා වන මැද මේ බිම පිහිටියේය.</body>
+    <comments>
+        <comment>
+            <author>නෙලුම්</author>
+            <date>2012-02-26 11:15:15</date>
+            <index>0</index>
+            <phrase>අනේ වාසනාවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයනි</author>
+            <date>2012-02-26 11:35:13</date>
+            <index>1</index>
+            <phrase>තණ්හාය ජායති සෝකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දවිමල හිමි</author>
+            <date>2012-02-26 11:43:49</date>
+            <index>2</index>
+            <phrase>රටේ නායකයන් ධර්මිෂ්ඨ වෙනකොට සම්පත් ඉබේ පෑදෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-02-26 11:59:16</date>
+            <index>3</index>
+            <phrase>අහිංසත දුප්පත් මිනිස්සුන්ටත් වාහනයක් ගන්න කාලය උදා වෙලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-02-26 12:18:24</date>
+            <index>4</index>
+            <phrase>මේ වෙන්දේසිවලින් හම්බෙන ආදායමෙන් වැඩි කොටසක් මේ ප්‍රෙද්ශයේ ජීවත් වෙන දුප්පතු මිනිස්සුන්ගේ පොදු සංවර්ධනය උදෙසා යොදවනවනම් කොච්චර හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානුක- ඉතාලිය</author>
+            <date>2012-02-26 12:39:44</date>
+            <index>5</index>
+            <phrase>මේවෙගේ වෙලාවක ඔහොම දේවල් ලැබෙන එක කොච්චර දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනාගත</author>
+            <date>2012-02-26 12:49:37</date>
+            <index>6</index>
+            <phrase>තන්හාව නිසා මේසේරම වෙන්නේ. ආන්ඩුවෙන් මේකට විසදුමක් ලෙස මේ පරිසර විනාසය නතර කරන්න ඔනේ. ආන්ඩුවට ඒක කරන්න බෑරිනම් ගෙදර යන්න ඔනේ පරිසර ඈමති. කරුනාකරල මෙම විනසය නතර කරන්න. නෑත්නම් අනාගතයට මොකුත් ඉතුරු වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus alavi</author>
+            <date>2012-02-26 16:55:10</date>
+            <index>7</index>
+            <phrase>මැනික් හම්බ වෙන්නේ වාසනාව තියෙන අයට විතරයි.හැම කෙනාටම හම්බ වෙනව නම් මොනව කරන්න බැරිද උන්නැහේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද-ඩුබායි</author>
+            <date>2012-02-26 17:20:50</date>
+            <index>8</index>
+            <phrase>මේක දෙවියන් දුන්නු තෑග්ගක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

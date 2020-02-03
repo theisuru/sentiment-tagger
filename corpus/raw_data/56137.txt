@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56137</articleId>
+    <title>හසාරේ යළි උපවාසයේ</title>
+    <author>ඡායාරූපය  ඒඑෆ්පී</author>
+    <date>2012 ජූලි මස 30 09:46:02</date>
+    <body>දුෂණ වංචා නැවැත්වීමට නීති සකස් කරන්නැයි ඉන්දීය රජයට බලකරමින් ගාන්ධි අනුගාමික අන්නා හසරේ ඊයේ (29) නවදිල්ලි අගනුවරදී යළිත් වරක් උපවාසයක් ආරම්භ කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-30 12:02:06</date>
+            <index>0</index>
+            <phrase>හසරේගේ වාසගම මොකද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ්</author>
+            <date>2012-07-30 13:51:10</date>
+            <index>1</index>
+            <phrase>හසාරේ මැතිතුමා වගේ අය අපේ රටෙත් ඉන්නවා නම් කොච්චර හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පත්මකුමාර</author>
+            <date>2012-07-30 21:13:16</date>
+            <index>2</index>
+            <phrase>රට ජාතිය වෙනුවෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2012-07-30 22:27:05</date>
+            <index>3</index>
+            <phrase>සංසාරේ හසාරේ උපවාසේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-31 02:38:06</date>
+            <index>4</index>
+            <phrase>මෙයාගේ ඇඟපත දිහා බැලුවමනම් මෙයා නිතරම උපවාස කරන කෙනෙක් කියල පෙනෙන්නේ නැහැ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-31 09:52:47</date>
+            <index>5</index>
+            <phrase>හසරේ ගේ වාසගම මම දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-07-31 16:53:31</date>
+            <index>6</index>
+            <phrase>සිංහලයෝ පගාව ඉගෙනගත්තේ ඉන්දියාවෙන්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

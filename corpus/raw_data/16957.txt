@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16957</articleId>
+    <title>අතුරුදන් දෙදෙනා ගැන ආරංචියක් නෑ</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2011 දෙසැම්බර් මස 11 17:16:43</date>
+    <body>යාපනයේ දී අතුරුදන් වූ ක්‍රියාකාරීන් දෙදෙනා ගැන  දින දෙකකට පසුව ද කිසිම තොරතුරක් නැතැයි ජනතා විමුක්ති පෙරමුණේ කැරලිකාර කණ්ඩායමේ පාර්ලිමේන්තු මන්ත්‍රී අජිත් කුමාර මහතා කියයි. ඔවුන් පාපැදියකින් යද්දී පැහැරගෙන ගොස් ඇතැයි පොලිසියට පැමිණිලි කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>අලවි</author>
+            <date>2011-12-11 17:35:38</date>
+            <index>0</index>
+            <phrase>ආරංචියක් නැත්නම් මුහුදු අයින් වල බලන්න.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ හේරත්</author>
+            <date>2011-12-12 09:53:15</date>
+            <index>1</index>
+            <phrase>අපිනම් දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

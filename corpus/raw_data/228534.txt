@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>228534</articleId>
+    <title>අවුරුදු නිවාඩුවේදී රජයේ ඉඩමක  නිවෙසක්  හදන්න හදලා</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2014 අපේ‍්‍රල් මස 28 09:37:21</date>
+    <body>පසුගිය අවුරුදු සමයේ එක දිගටම නිවාඩු දින පහක් තිබීම නිසා කාර්යාල වසා තිබීම ප‍්‍රයෝජනයට ගෙන දින පහෙන් රජයේ ඉඩමක අනවසර නිවසක් තනා එහි පදිංචි වීමට තැත් කළ පුද්ගලයකු පිළිබඳ අපූරු පුවතක් දකුණු පළාතේ උප නගරයකට ආසන්න ගමකින් වාර්තා වේ. මේ තැනැත්තා නිවාඩුවට පෙර දින සවස ජේ.සී.බී. යන්ත‍්‍රයක් යොදාගෙන රජයේ ඉඩමක ගෙපළක් කැපීම නිසා අවට වාසීහු කලබලයට පත් වූහ. තමා හමුදා නිලධාරියකු බවත් රජයේ නියෝගයක් මත මෙය තමාට පැවරී ඇති බවත් කී මේ තැනැත්තා නිවාස තැනීමේ කටයුතු කඩිනමින් කරගෙන ගියත් මේ ආරංචිය ලද පොලිසිය වටපිටාවෙන් තොරතුරු සොයාබලා මේ කටයුත්ත නිවාඩුව අවසන් වනතුරු නතර කළේ අමාරුවෙනි. නිවාඩුව අවසානයේ කාර්යාල මට්ටමින් කරන ලද විමසීමකදී මේ පුද්ගලයා කියා ඇත්තේ අමූලික බොරු බවත් දින පහෙන් නිවෙස තනා පදිංචිවීමට සැලැස්මක් තිබූ බවත් අනාවරණය වුණාලූ.</body>
+    <comments>
+        <comment>
+            <author>චන්දිමා</author>
+            <date>2014-04-28 10:50:37</date>
+            <index>0</index>
+            <phrase>බවලත් උදවියගේ අදහස් පරක්කුයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුබේ</author>
+            <date>2014-04-28 15:24:44</date>
+            <index>1</index>
+            <phrase>ඉතින් මොකද.. විල්පත්තුවේ ඔය ඕන තරම් ගෙවල් හැදිලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-04-28 17:24:17</date>
+            <index>2</index>
+            <phrase>වැඩියෙන් වැඩ කරන්නේ රජයේ පිරිස් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2014-04-28 18:35:05</date>
+            <index>3</index>
+            <phrase>අනේ ඉතින් ඕක මොකක්ද? දැන් කාලේ අනවසර ගෙවල් කීයක් නම් රක්ෂිත වල තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-04-28 19:16:16</date>
+            <index>4</index>
+            <phrase>මේක මේ මනුස්සයාම තනිව ගත්ත තීරණයක් වෙන්න බෑ.එක්කෝ ඉහලින් කෙනෙකුගේ මැදිහත් වීමක් මත කරපු දෙයක්.නැතිනම් රටේ වෙන දේවල් අදර්ශයට කරපු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන් රොෂාන් ද සොයිසා</author>
+            <date>2014-04-28 20:16:05</date>
+            <index>5</index>
+            <phrase>මඩකලපුවේ බලෙන් ඉඩම් අල්ලන් ගෙවල් හදලා. ඒවා හොඳද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේකර</author>
+            <date>2014-04-28 23:15:35</date>
+            <index>6</index>
+            <phrase>දෙයියෝ සාක්කි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-04-29 01:49:06</date>
+            <index>7</index>
+            <phrase>දැන් වැඩි පුරම ගෙවල් හදන්නේ බලෙන්ම ඉඩම් අල්ලාගෙන නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලයනල්</author>
+            <date>2014-04-29 03:16:18</date>
+            <index>8</index>
+            <phrase>මිනිස්සු මොනවාද මේ කරන අත්තනෝමතික වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-04-29 09:59:24</date>
+            <index>9</index>
+            <phrase>ඔව් ශාන්ති,එක දැන් රෑල්ලට කරන දෙයක් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-04-29 11:50:52</date>
+            <index>10</index>
+            <phrase>ඔව් නිලූ, මගෙත් ඉඩමක තාවකාලිකව අසරණ පවුලකට ඉන්න දුන්නා. පසුව ඒ අයව ඉන් ඉවත් කරන්න මගේ දුවට පොලිසිත් යන්න වුණා. මගේ දුව ජිවිතේ පළමු වතාවට තමයි එදා පොලිසියකට ගියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2014-05-01 03:16:54</date>
+            <index>11</index>
+            <phrase>කල දුටු කල වළ ඉහගන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>415342</articleId>
+    <title>කැලණි සිසුහු කිරිබත්ගොඩ වීදි බසිති</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2016 මැයි මස 13 14:20:03</date>
+    <body>කැලණි විශ්ව විද්‍යාල සිසුහු 400ක් පමණ කිරිබත්ගොඩ නගරයට පැමිණ සිය අයිතිවාසිකම් සුරැකින්නයි ඉල්ලමින් උද්ඝෝෂණය කළහ.
+සිසු මර්දනය නවත්වන ලෙසත් අත්අඩංගුවට ගත් සිසුන් මුදා හරින ලෙසත් ඔවුහු ඉල්ලති.
+මේ දිනවල කැලණි සරසවිය වසා ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-13 09:28:27</date>
+            <index>0</index>
+            <phrase>කැලණි සරසවිය විවෘතව ඇත කියලා අහන්න හරි ආසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2016-05-13 09:32:05</date>
+            <index>1</index>
+            <phrase>අයිතිවාසිකම කියන්නේ අනික් සිසුන්ගේ අයිතිවාසිකම් නැති කරන එක වෙන්න ඇති. අය්යෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-05-13 09:35:22</date>
+            <index>2</index>
+            <phrase>මේගොල්ලන්ට නේ කියන්න වෙන්නේ සිසු මර්දනය නවතන්න කියල, මොවුන්ට ඉස්සෙලම රටේ නීතියට ගරුකරන්න උගන්නන ඕනේ. කැම්පස් වල ඉන්න දේශපාලන අරමුණු සහිත කීප දෙනෙක් හින්ද මුළු කැම්පස් එකම අඩාල වෙනවා. මොවුන් වෙන්වෙන් කොපමණ මුදලක් වැය කරනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2016-05-13 09:37:01</date>
+            <index>3</index>
+            <phrase>වැරදි වැඩ නොකර හිටියනම් හරිනේ, වැරදි කරලා මදිවට, තව සද්දේ දාන්නත් එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයම්පති</author>
+            <date>2016-05-13 09:46:05</date>
+            <index>4</index>
+            <phrase>මමත් විශ්වවිද්‍යාල උපාධිධාරියෙක්. ඔය උද්ගෝෂණ කරන අයගෙන් වැඩි දෙනෙක් ඕවට සහභාගී වෙන්නේ බය නිසා. සිසුන් හිතාගෙන ඉන්නේ කරන ඕනම දෙයක් හරි කියල. රටේ පවතින නීතිය එයාලට අදාල නැහැ කියල. නීතියට අනුව කටයුතු කරන එක දකින්නේ සිසු මර්දනය කියල. දරුවනේ, හිතන්න හොඳට, රැවටෙන්න එපා අනිත් අයගේ බොරුවලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2016-05-13 09:54:42</date>
+            <index>5</index>
+            <phrase>පාරවල් අවහිර කරගෙන මහජනයාට වද දෙන සිසුන්ගේ අයිතිවාසිකම් ගැන අපට ඇති රුදාව මොකද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2016-05-13 10:00:49</date>
+            <index>6</index>
+            <phrase>මෙයාලා කුඩු ගහලද දන්නේ නෑ. මොරටුවේ සිසුන් අලුත් දේවල් හොයා ගන්නකොට මුන් ඉගෙන ගන්නේ නැතිව පාරේ. පිටරටවල වගේ සරසවි මුදල් දීලා ඉගෙන ගන්න තිබුණානම් හොඳයි නිකන්ම දෙන නිසා අගය නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භද්‍රානි</author>
+            <date>2016-05-13 10:46:37</date>
+            <index>7</index>
+            <phrase>එතකොට මෙයාලා මේ අයිතිවාසිකම් ඉල්ලන්නේ, රටේ අනිත් තරුණ ළමුන්ගේ අයිතිවාසිකම් අහිමි කරන්න කියලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2016-05-13 10:55:01</date>
+            <index>8</index>
+            <phrase>මමත් ජයම්පති එක්ක එකඟ වෙනවා. ගොඩක් ළමයි මේවට කැමති නැහැ වගේම ඒ ළමයින්ට මේවට වඩා ගොඩක් ගැටළු තියනවා. විශේෂයෙන්ම ආර්ථික ගැටළු. වැඩිදෙනෙක් ළමයි පොත්පත් ටික පවා ගන්නේ හරිම අමාරුවෙන්. වැඩි දෙනෙක් ඕවට සහභාගි වෙන්නේ බය නිසා. දේශපාලනය විශ්ව විද්‍යාල තුළින් අතුගා දැමිය යුතුමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2016-05-13 11:06:27</date>
+            <index>9</index>
+            <phrase>මුළු රටේම මිනිස්සු වැඩ කරන්න ඕන මෙයාලා කියන හැටියට ! තව ටික දවසකින් කියාවි රටේ මිනිස්සු කලිසම වෙනුවට ආරිය සිංහල ඇඳුම අඳිනවාද, බවලතුන් ඩෙනිම වෙනුවට රෙද්ද හැට්ට අඳින්න ඕනද කියලා තීරණය කරන්න ඕන අපි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංග</author>
+            <date>2016-05-13 11:18:19</date>
+            <index>10</index>
+            <phrase>හිරේ දැම්මේ වැරදි කරලා. හිරේ දැම්මේ උසාවියෙන්. ඉතින් මේ කරන වැඩ උසාවියට අපහාසයක් නෙමෙයිද කෝ මේ ආණ්ඩුවක් කියලා එකක් පත් කළා නේද? සරසවිවලට වෙනම නීතියක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-05-13 11:22:52</date>
+            <index>11</index>
+            <phrase>උද්දික ඔබ හරි, නීතියක් ඕන නෑ, අනුන්ට වද දෙන්න අපට අයිතියක් තියෙනවා කියන එකනේ මේ ගොල්ල වෙන වචනවලින් කියන්නේ. අයියෝ අපේ සල්ලි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප</author>
+            <date>2016-05-13 11:39:21</date>
+            <index>12</index>
+            <phrase>2001 දී මොරටුව විශ්ව විද්‍යාලයේ ඉංජිනේරු පීඨය නවකවදය සහමුලින් තුරන්කර අලුත් ගමනක් යනකොට සමහරු දඟලපු දැඟලිල්ල. දැන් පේනවනේ මොරටුව විශ්ව විද්‍යාලය සහ අනෙක් විශ්ව විද්‍යාල අතර වෙනස.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-05-13 12:10:18</date>
+            <index>13</index>
+            <phrase>ශිෂ්‍යයෝ හරිද විනය ගරුක ද කියල අහන්න ඉස්සරවෙලා පාලකයෝ යුක්ති සහගතද විනය ගරුක ද කියල අහන්න කොන්ද පණ තියෙන එකම කණ්ඩායමත් මේ අය වීමත් දෛවයේ සරදමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2016-05-13 12:24:01</date>
+            <index>14</index>
+            <phrase>මුන් කියන්නේ නවකවදය සාධාරණයි කියන එකනේ. ගමේ මිනිස්සු එකතුවෙලා හොඳට රිදෙන්ඩ ගැහුවොත් මොකද කියන්නේ. ඉගෙන ගන්න ආවනම් ඉගෙන ගෙන පළයල්ලා උද්ගෝෂණ ඔබේ දෙමාෙපියන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ</author>
+            <date>2016-05-13 12:26:51</date>
+            <index>15</index>
+            <phrase>ඊයේත් අදත් හෙටත් මේ රටේ නිදහස් අධ්‍යාපනය ලබන/ලබපු හැමෝම උඹලාට ණය ගැතියි. මේ සටන ජය ගන්න උඹලා හැමෝමටම ශක්තිය ධෛර්ය ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-05-13 12:55:25</date>
+            <index>16</index>
+            <phrase>විජය, විකෘති අධ්‍යාපන ක්‍රමයකින් ගුණාත්මක දරුවන් විශ්වවිද්‍යාලගත කෙරෙන්නෙ නෑ. විශ්වවිද්‍යාලයකින් කෙරෙන දේ මේ ළමයි දන්නෙ නෑ. ඉතින් අපි අනුකම්පා කරමු. ඒ ගමන් දුක්වෙමු අපේ අනාගතය ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත්</author>
+            <date>2016-05-13 13:03:17</date>
+            <index>17</index>
+            <phrase>මේ ඔක්කොම ගෙදර යැවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවරත්න බණ්ඩාර</author>
+            <date>2016-05-13 13:06:47</date>
+            <index>18</index>
+            <phrase>ආණ්ඩුව මෙයාලා මර්දනය කළ යුතුමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උමේෂ්</author>
+            <date>2016-05-13 13:49:50</date>
+            <index>19</index>
+            <phrase>මේ යක්කු කැම්පස් ඉන්නකල් ඉගෙන ගන්නේ නැතිව මෙහෙම උද්ගෝෂණ කර කර ඉදලා අන්තිමට කොහොම හරි උපාධිය අරගත්තයින් පස්සෙත් ආපහු ආණ්ඩුවට බැන බැන උද්ඝෝෂන කරනවා ජොබ් ඉල්ලලා. ඉස්සර වෙලා කැම්පස් සිලෙක්ට් වෙන අයට සම්පූර්ණ බ්‍රේන් වොෂ් එකක් දෙන්න ඕන ආණ්ඩුවෙන්ම. නැතිනම් ඇතුලට ගියහම පරණ හංකඩයන්ගේ උපදෙස් වලට උන් අහුවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංග</author>
+            <date>2016-05-13 14:01:40</date>
+            <index>20</index>
+            <phrase>සුබ සාධන අඩුපාඩු වෙනුවෙන් කථා කරද්දි..බොරුවට නවක වදය කියා අහිංසක ළමයි හිරේ දැම්මා...කොහොම හරි මේ සහෝදරියන් නිදහස් කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-05-13 14:07:27</date>
+            <index>21</index>
+            <phrase>අය්යෝ කැලණිය කැම්පස් කිවම නිකන් දුන්නත් යන්නේ නැහැ මොකද දැන් කවුරුවත් ගණන් ගන්නේ නෑ මෙයාලගේ උපාධිය . හැමදාම පාරේ . අනාගතේ ඔහොම්මම තමා . පව් අසරණ දෙමාපියෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල්</author>
+            <date>2016-05-13 15:08:06</date>
+            <index>22</index>
+            <phrase>මම ජපුර ඉගෙනගත්තේ , පළමු වසරේ මාස හයක් රැග් කළා. මාළු කටු, ඉදුල් වතුර පෙව්වා, පිට්ටනියේ දවල් දොළහට විතර රවුම් 10ක් දිව්වා, ඇදුම් නෙතුව අල්මාරි ඇතුලේ වහල හිටිය. දවස් 10ක් විතර උණ හැදුනා. කළුබෝවිල ඉස්පිරිතාලේ හිටිය දවස් 2ක්. මට දැනුනේ තරහක් පිරිමහනවා වගේ. මට එපා වුනා කැම්පස්. පළමු අවුරුද්දේ ගියේ මාස 4ක් විතර. මම මහන්සි වෙලා ඉගෙන්න ගත්ත ඒ හින්දම. මම අද ඉන්නේ ඇමෙරිකාවේ ටෙක්සාස් බෑන්ක් එකක මැනේජර් විදිහට. රැග් කළාට අතාරින්න එපා. තව බොහෝ දේ තියනවා මහන්සි වෙලා කරන්න. රටේ අනාගතය වලපල්ලේ . දැන්වත් මේ ක්‍රමය නවත්වන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ළහිරු</author>
+            <date>2016-05-13 15:21:21</date>
+            <index>23</index>
+            <phrase>නවකවදය ලබන අය ගැන හිතන්නට දැන් කාලය ඇවිත්...නවකවදය ලබන අය,ලද මානසිකව පීඩනයෙන් පසුව,හිත සන්සුන් කරගෙන අධ්‍යාපන කටයුතු කරගන්නේ කෙසේද කියා දැන්වත් සැවොම සිතා බැලිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බ්‍රයන්</author>
+            <date>2016-05-13 15:22:51</date>
+            <index>24</index>
+            <phrase>හැම මගුලකටම හාමුදුරුවරු පෙරට පැනගෙන. මෙතන එයාලට වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ත්‍රිෂූ</author>
+            <date>2016-05-13 15:27:37</date>
+            <index>25</index>
+            <phrase>මෙයාලව සීලාචාර කර ගත්තොත් හොඳ පුරවැසියෝ වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-05-13 15:34:39</date>
+            <index>26</index>
+            <phrase>මම හොඳ බෞද්ධයෙක්. අදහන්නේ බුද්ධාගම මිස සංඝාගම නොවෙයි. ඒ නිසා මම දැන් කිසිම සංඝයා වහන්සේ කෙනෙකු එක්කවත් කිසිම භජනයක් නැහැ. මම මැරුණම පාංශුකූලයක්වත් මටනම් ඕන නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ පෙරේරා</author>
+            <date>2016-05-13 16:20:30</date>
+            <index>27</index>
+            <phrase>මේ වගේ හාල්පාරුවන්ටද රටේ අනාගතය බාරගන්න වෙන්නේ! අපි හරිම අවාසනාවන්ත ජාතියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-05-13 16:40:47</date>
+            <index>28</index>
+            <phrase>මෝඩ ළමයිනේ, ඔය මොළ ගෙඩිවලින් කල්පනා කරලා බලාපල්ලා මීට පෙර ඔය විදිහට උද්ඝෝෂණය කළ කෙනෙක් ඕකෙන් එළියට ගියාට පස්සේ ඔය විදිහට හැසිරෙනවාද? පුතේ, උසස් පෙළ පාස් වුණාට හැමදේම තේරෙනවා කියලා හිතන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-05-13 16:45:37</date>
+            <index>29</index>
+            <phrase>මේ නවක වදය ගැන මට නම් අදහසක්වත් දාන්න හිතෙන්නේ නැහැ. මොවුන්ට ජීවිතාන්තය දක්වා සරසවිය තහනම් කරන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන් සමරකෝන්</author>
+            <date>2016-05-13 17:26:35</date>
+            <index>30</index>
+            <phrase>පතිරණ, ප්‍රියංග, නිදහස් අධ්‍යාපනය, සුභසාධනය කියන ප්‍රශ්න වෙනම කාරණා. අහිංසක ළමයින්ට රැග් කරන එක වෙන ප්‍රශ්නයක්. ඔය ළමයින්ට ඒ ගැන සානුකම්පිතව සාධාරණව කතාකරන්න ඕනෑ නම්, ඔය තුච්ච රැග් කෙරිල්ල කරුණාකර නවත්වන්න. නැත්නම් පොලිසිය නෙමෙයි, දෙමාපියන් හැටියට අපියි නුඹලට දුවන්න ගහන්නේ, බිව් රන්කිරි කටින් එන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-05-13 17:44:06</date>
+            <index>31</index>
+            <phrase>නවක වදයට එරෙහිව අපිත් පෙළගැසෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිම්-මොරටු ඉංජිනේරුවෙක්.</author>
+            <date>2016-05-13 18:06:37</date>
+            <index>32</index>
+            <phrase>නවක වදයට එරෙහිව සටන් කළ සිසුවියට ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-05-13 18:14:25</date>
+            <index>33</index>
+            <phrase>මගේ සහෝදරයට රැග් කළා පේරාදෙණියේදී, අමානුෂික විදියට. අපි එකතුවෙලා රැග් කළ ප්‍රධාන චරිත ටිකක් ගෙවල් වලටම ගිහින් අල්ලාගෙන අමතක නොවෙන පාඩමක් ඉගැන්නුවාත සහෝදරයාගේ විශ්ව විද්‍යාල ගමන එතනින් ඉවරයි. එයා විද්‍යා ශිෂ්‍යත්වයකින් රට ගිහින් උපාධිය ගත්තා. අද රජයේ වෛද්‍යවරයෙක්. මේ නරුමයින්ට බයවෙන්න එපා ළමයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්</author>
+            <date>2016-05-13 18:31:43</date>
+            <index>34</index>
+            <phrase>අනේ හැබෑට මෙහෙමත් මෝඩ ළමයි ටිකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-05-13 18:39:11</date>
+            <index>35</index>
+            <phrase>හොඳ වෙලාවට මම සරසවියට ගියේ නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනූ</author>
+            <date>2016-05-13 21:58:05</date>
+            <index>36</index>
+            <phrase>මේ අයට කැම්පස් එකේ නවක වදය නවතාගන්න බැහැ. ඒ වුණාට උද්ඝෝෂණය කරන්න පුළුවන්. ඉතින් යන්නකෝ නවකවදය නවත්තන්න උද්ඝෝෂණය කරන්න. එතකොට කව්රුවත් අත්අඩංගුවට ගන්නේත් නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුශ්කා</author>
+            <date>2016-05-13 22:04:42</date>
+            <index>37</index>
+            <phrase>මොවුන්ගේ වැඩේ හැමදාම උද්ඝෝෂණය කරන එක. අත්අඩංගුවට ගත් අය පරීක්ෂණ කරලා දඩුවම් දීලා එළියට දාන්න. එතකොට මොවුන් හැදේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2016-05-13 22:28:36</date>
+            <index>38</index>
+            <phrase>බලාගෙන යනකොට විශ්ව විද්‍යාලයට ගන්නේ රටේ ඉන්න නූගතුන් ටිකද කොහෙද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරච්චි</author>
+            <date>2016-05-13 22:44:09</date>
+            <index>39</index>
+            <phrase>ගම්වල මිනිස්සු එකතුවෙලා මොවුන්ට පාඩමක් උගන්වන එකතමයි හොඳම වැඩේ. මොවුන්ට ගෙවල්වල නවාතැන් දෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-05-14 00:42:05</date>
+            <index>40</index>
+            <phrase>ගිහියන්ට වඩා විනයක් තිබියයුතු හාමුදුරුවරු මොකද මේ කරන්නේ? අනුන්ට වදදීම හරි කියන මේ අයට පුළුවන් නම් යහමඟ කියාදෙනවා වෙනුවට ඒ පිරිසත් වදදීම හරි කියලා පෙළපාලි යනවා. අහෝ සංඝ ශාසනය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-05-14 01:12:40</date>
+            <index>41</index>
+            <phrase>අදාළ ඡායාරූපය අනුව ඔවුන් පෙන්වන්නේ පැමිණිල්ල දැමූ සිසුවියට විශ්ව විද්‍යාලයට එන්න ඉඩ නොදෙන බවයි. එහෙම වන්න ඉඩතියන්න එපා. මගේ ළමයෙකුට ඔය ටික කළොත් බලාගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-05-14 01:14:34</date>
+            <index>42</index>
+            <phrase>මොවුන්ට පොලිසිය බුරුල දෙනවා හොඳටම වැඩියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-05-14 01:25:18</date>
+            <index>43</index>
+            <phrase>අනේ කැලණිය පැත්තේ නැද්ද හොඳට අතපය හයිය පිරිමි ටිකක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2016-05-14 02:22:34</date>
+            <index>44</index>
+            <phrase>මේ කට්ටියත් එහෙනම් අධිකරණයටයි තර්ජනය කරන්නේ. අර කට්ටිය වගේමයි. වැරදි නොකළා නම් ඔහොම වෙන්නේ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත - කොළඹ විශ්ව විද්‍යාලය</author>
+            <date>2016-05-14 02:31:28</date>
+            <index>45</index>
+            <phrase>දහස් ගානක් ඉගෙනගන්න සරසවියේ මේ ටිකට තමයි නවක වදය ඕනෑවෙලා තියෙන්නේ. මේ ඔක්කොම කැම්පස් එකෙන් නෙරපලා දැම්මා නම් අනිත් සිසුන්ට නිදහසේ ඉගෙනගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-05-14 03:09:15</date>
+            <index>46</index>
+            <phrase>නවක වදය අනිවාර්යෙන්ම තුරන් කළයුතුයි. එය තරුණ තරුණියන්ගේ පෞරුෂ වර්ධනයට ඉතාමත්ම හානිකරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරන්</author>
+            <date>2016-05-14 03:47:06</date>
+            <index>47</index>
+            <phrase>දියුණු රටවල ශිෂ්‍යන්ගේ ආකල්ප හා සසඳන කල අපේ ශිෂ්‍යන් සිටින්නේ වැදි යුගයේ. දේශපාලන පක්ෂ විසින් ශිෂ්‍යන්ගේ අනාගතය උදුරාගෙන ඇත. ඉගෙනීමට ඇති කාලය මහමඟට වැයකරමින් අසරණ දෙමාපියන්ගේ, ජනතාවගේ මුදල් නාස්ති කරති. මෙම ශිෂ්‍යන්ගෙන් දේශපාලනයට පිවිසෙන පුද්ගලයෝ අනාගත ශිෂ්‍යයින් මර්දනය කරති. මෙම ක්‍රියාවලිය චක්‍රයක් මෙන් සිදුවේ. මෙහි අවසානයක් නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-05-14 04:12:07</date>
+            <index>48</index>
+            <phrase>මේ අය කියන්නේ වදදීමේ අයිතිය සුරකින්න කියලද? සරසවි වල නවක වදයට විරුද්ධව පෙළපාලියක් යමුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-05-14 04:22:48</date>
+            <index>49</index>
+            <phrase>නිදහස් අධ්‍යාපනය නැතිකරන්න ඕනෑ. නිකන් ලැබෙන හින්දා තමයි ඔය කෑගහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-05-14 04:21:19</date>
+            <index>50</index>
+            <phrase>රොත්ත පිටින්ම එළවන්න ඕනෑ. ඉගෙනගන්න නෙමෙයි එන්නේ අනුන්ගේ කලිසම් ගළවන්න...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙලනි</author>
+            <date>2016-05-14 04:27:43</date>
+            <index>51</index>
+            <phrase>වෙනත් රටවල් වල වගේ අර්ධකාලින රැකියා කරන ගමන් තමන් අතින් සල්ලි ගෙවාගෙන උසස් අධ්‍යාපනය ලබන්න තමයි සළස්වන්න තිබුනේ. හැමදේම නිකන් ලැබෙනකොට අගයක් නැහැ. දැන් මේගොල්ලන් රැකියාවට ගිය දවසටත් එතන ප්‍රධානියාගේ ඇඳුම වෙනස් කරන්නයි අලුතෙන් ආයතනයට එන උදවිය රැග් කරන්නයි යනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පකීර්</author>
+            <date>2016-05-14 04:37:35</date>
+            <index>52</index>
+            <phrase>එ්ක තමයි කියන්නේ, විශ්ව විද්‍යාල කඩ ඕනෑ කියලා. මොවුන්ට මිනිසුන්ගේ සල්ලි නිසා අගයක් තේරෙන්නේ නැහැ. මොවුන්ගේම සල්ලි නම් ඔහොම කරන්නේ නැහැ. දඟලලා ඉගෙනගන්නවා. රජය මේ වෙලාවේ බය නැතුව හරි දේ කරන්න ඕනෑ. බුරුලක් දෙන්නම එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2016-05-14 04:38:22</date>
+            <index>53</index>
+            <phrase>ළමයිනේ, බලන්න මොරටු සරසවියේ දක්ෂ සිසුන් දිහා. ඔවුන්ගේ හැකියාවන් වලින් රටට, ලෝකයට වැඩක් වෙන නව නිෂ්පාදන බිහිකරන හැටි. දැන්වත් ඔය මෝඩකම් අත්හැරලා දාලා රටට වැඩක් ඇති දරුවන් වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පකීර්</author>
+            <date>2016-05-14 04:41:33</date>
+            <index>54</index>
+            <phrase>ප්‍රේමදාස මහත්තයා ඉන්න තිබුනේ මේ වගේ වෙලාවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පා</author>
+            <date>2016-05-14 04:43:50</date>
+            <index>55</index>
+            <phrase>නවක වදය කියන්නේ "හීනමානයේ අමානුෂික නිරුවත" යි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පකීර්</author>
+            <date>2016-05-14 04:44:48</date>
+            <index>56</index>
+            <phrase>ප්‍රියංග, මනුස්සයෝ, කඳ බඩ තිබුනු පළියට මිනිහෙක් වෙන්නේ නැහැ. හිතලා බලලා කතා කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාෆික්</author>
+            <date>2016-05-14 05:03:04</date>
+            <index>57</index>
+            <phrase>අහිංසක දෙමුව්පියන්ගේ නාමෙන් නවක වදය තහනම් කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-05-14 05:26:42</date>
+            <index>58</index>
+            <phrase>ඔයගොල්ලොත් සරසවියට ගියා නම් ඔහොම කියන්නේ නැහැ. මේ රටේ කාටත් අයිතිවාසිකමක් තියෙනවා, ඉල්ලීම් දිනාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2016-05-14 06:06:22</date>
+            <index>59</index>
+            <phrase>මේ ප්‍රශ්නෙට අදාළ දැනට සිරබාරයේ සිටින අයට නිසි දඬුවම් දෙන්න. ඒ අයට විරුද්ධව පාරට බහින අයටත් ඒ ටිකම තමයි කළයුත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-05-14 06:44:03</date>
+            <index>60</index>
+            <phrase>සරසවි බොහොමයක් අද විනාශ මුකයට ඇදවැටී ඇත්තේ ඒ තුල ක්‍රියාත්මකවන දේශපාලනිකරණයේ හේතුවෙන් මතයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-05-14 07:02:33</date>
+            <index>61</index>
+            <phrase>සැම විශ්ව විද්‍යාලයකම කිසිම දේසපාලන පක්ෂයකට සම්බන්ද නැති එක ශිෂ්‍ය සංගමයක් තිබුනහම ඇති. අනිකුත් සේරම දේශපාලන සංගම් විසුරුවා හැරිය යුතුයි. බැරිනම් ඒවාට සම්බන්ද සිසුන් සරසවි වලින් නෙරපා දැමිය යුතුයි. මහජන මුදලින් නොමිලේ ලැබෙන අධ්‍යාපනය නිසි පරිදි කළමණාකරණය විශ්ව විද්‍යාල ආචාර්ය මණ්ඩලයට පවරා සිසුන් විසින් ආචාර්යවරු පාලනය කරන්න දරන උත්සාහය වහා නැවැත්විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබාදර ජයා</author>
+            <date>2016-05-14 07:23:51</date>
+            <index>62</index>
+            <phrase>පාලකයනි අපේ දරුවන්ට සවන් දෙනු.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-05-14 09:03:33</date>
+            <index>63</index>
+            <phrase>දෙමව්පියනි ඔබේ දරුවා වෙනුවෙන් පෙරට එන්න ,විශ්ව විද්‍යාල පද්දතියම අවුල් කරන මේ වගේ දේවලට විරුද්ධ වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරසිංහ</author>
+            <date>2016-05-14 09:53:03</date>
+            <index>64</index>
+            <phrase>එන්නකෝ බලන්න කැට හොල්ලන්න බස්වලට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම් පැරිස්</author>
+            <date>2016-05-14 10:13:30</date>
+            <index>65</index>
+            <phrase>මේවා සිදු වන්නේ 3 වන ලෝකයේ නොදියුණු රටවල ජිවත්වන නොදියුණු මනසක් තිබෙන සිසුන්ගෙන් , ඔවුන් මේවා වටහා ගන්නා විට ඔවුන් වයසට ගොස් හෝ මේවාට විරුද්ධ කොටස සමගය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2016-05-14 10:36:57</date>
+            <index>66</index>
+            <phrase>පාලකයින්ගේ වැරද්දක් නැහැ, ළමයින්ට තියෙන්නේ තමන්ගේ බාල සහෝදර සහෝදරියන්ට කරදර කිරීම නවත්වන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-05-14 11:22:08</date>
+            <index>67</index>
+            <phrase>අදහස් දක්වපු අය අනුව පේනවා දැන් ලෝකේ ඉස්සරට වඩා දියුණුයි කියන එක. ඉස්සර රැග් කරන අය වෙනුවෙන් කතා කරපු අය දැන් නැහැ. ඉස්සර නිදහස් අධ්‍යාපනය බේරා ගන්න කියමින් අහිංසක ළමයින්ට දස වද දුන්න අය බේරිලා හිටියා. අද මිනිස්සු දන්නවා මේ කරන්නේ මොකක්ද කියන එක. නවක වදයට එරෙහිව නීති පිහිට සෙවූ ඇයට අපේ උපහාරය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-05-14 11:22:00</date>
+            <index>68</index>
+            <phrase>නුවන් හරි. අමතක නොවෙන්න දඬුවම් දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-05-14 11:25:21</date>
+            <index>69</index>
+            <phrase>දෙමපියාණනි ; ඔබේ දරුවා ඔබට සම්පතක් එය රැක ගන්න පෙරට එන්න පාට පක්ෂ ඉවත දාලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2016-05-14 12:18:57</date>
+            <index>70</index>
+            <phrase>හොඳ වෙලාවට මම සරසවියට ගියේ නැත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමේධ</author>
+            <date>2016-05-14 12:23:52</date>
+            <index>71</index>
+            <phrase>මාගේ දියණිය ජපුර ඉගෙනගෙන උපාදිය අරගෙන වරලත් ගණකධිකාරිනියක් හැටියට සේවය කරනවා ඇය කිසිම දිනයක සුළු වදයක් හැරෙන්න ලොකු දෙයකට අහු වුනේ නැහැ එයාල අනිත් අයට වද දෙන්න ගියෙත් නැහැ ඉගෙනීම හොඳට අවසන් කරා වෙනසකට තිබුනේ හැමදාම උදේ ඈවිත් හවසට යන විදියට තමා බෝඩිම් හොයාගෙන හිටියේ,නේවාසිකව දිනක් වත් හිටියේ නැහැ මම ඒ අතින් වාසනාවන්ත වෙලා,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-05-14 12:28:10</date>
+            <index>72</index>
+            <phrase>පාලකයනි අපේ දරුවන්ට සවන් දෙනු නොවයි හොඳ හැටි පහර දෙනු. අපි පාලකයින්ගේ පැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-05-14 12:30:25</date>
+            <index>73</index>
+            <phrase>පාලකයනි අපේ දරුවන්ට සවන් දෙනු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-05-14 12:31:53</date>
+            <index>74</index>
+            <phrase>මට මෙතන එක ඩීසන් ළමයෙක් පෙනේනේ නැත ඔක්කොම රස්තියාදු කාරයෝ වගේ පෙනේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-05-14 12:34:58</date>
+            <index>75</index>
+            <phrase>දුකයි මේ දේවල් දකිනකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-05-14 12:36:54</date>
+            <index>76</index>
+            <phrase>බොරු වැඩ කරන්නේ නැතුව නිකන් වැඩක් බලා ගත්තා නම් නේද හොඳ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2016-05-14 12:42:44</date>
+            <index>77</index>
+            <phrase>ජනතා මුදල් වලින් ඉගෙන පාඩුවේ රැකියාවක් හොයාග්ග්න්නවා නෙවෙයි , ඔක්කොටම කලින් රට හදන්න අහනවා රටේ නිතිය අතට ගන්න හදනවා , මේ අය මේ වාදය නිසා කී දෙනෙක් මැරුණද කී දෙනක් සදාකලික් අබ්බගාත උනාද ? කී දෙනක් මානසික රෝගීන් උනාද ? මේකට උප සංස්කෘතිය කියන්නේ . ලෝකේ අනික් විස්වා විද්‍යාලවල නවකයෝ එනකොට වෙල්කම් කියලා සාදරයෙන් පිලිගන්නවා එකට මුන් නවකයෙක් ආවා ගමන් රෙදි ගලවන්න හදනවා මේ ගොල්ලන්ටදද මේ විද්ද්යර්තින් කියන්නේ ? විලි ලැජ්ජයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් සිල්වා</author>
+            <date>2016-05-14 13:31:10</date>
+            <index>78</index>
+            <phrase>කැලණිය නේද.? ගස් බදින්න වටිනවා. ඔය පළාතේ සිරිතක් නේ. ඔය වැඩ වලින් කැලණිය වටිනාකම නැතිවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් සිල්වා</author>
+            <date>2016-05-14 13:34:00</date>
+            <index>79</index>
+            <phrase>අපේ දරුවෙක් ජපුරේට තේරුනා නමුත් එකට යැව්වේ නැහැ. මොකද ඔය අරගල වල මූලස්ථානය එක. ඔය වගේ කැලණියට ළමුන් නැති වේවි. ඔක්කොම කොළඹ හරි මොරටුව හරි ඉල්ලාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදලිගේ</author>
+            <date>2016-05-14 14:27:24</date>
+            <index>80</index>
+            <phrase>මොරටුවේ විශ්ව විද්‍යාලයේ අපේ කොල්ලෝ ටික යමක් කරලා ලංකාවේ නම ලෝකයට ගෙනියන විට මේ අය අපේ රටේ නම කනවා විතරක් නෙමෙයි ඉගෙන ගන්න අහිංසක ළමයින්ගේත් ජීවිත විනාස කරනවා මගෙත් සහෝදරයෙක් දේපාලන පක්ෂයකට කත අදින්න ගිහිල්ලා තිබුන ආණ්ඩු පෙරලන්න ගිහිල්ල අද අධ්‍යාපනය කඩා ගෙන තැවෙනවා සහයෝගය දුන්නු දෙසපලුවෝ අද රජ ගෙවල්වල අපේ එක මහා පාරේ මේ ආණ්ඩුවට කොන්දක් තියෙනවනම් මේ ක්‍රමය වෙනස් කරන්න හැමදාටම අඩුම වසයෙන් අනාගත හොඳ බුද්දිමත් පරපුරක් කරලා අපේ රට ලෝකයේ බබළවන්න අපේ මොරටුවේ කොල්ලෝ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-05-14 14:54:43</date>
+            <index>81</index>
+            <phrase>ගම් වලින් එන ළමයින්ගේ හීනමානය සහ ඊර්ෂ්‍යාව තමයි මේ නවකවදය කියලා එළියට දාන්නේ. මොවුන්ට මඩු වලිගෙන් ගහන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලි ්</author>
+            <date>2016-05-14 15:04:42</date>
+            <index>82</index>
+            <phrase>මෙයාලා දරුවෝ නෙමෙයි මරුවෝ. දෙමාපියන්ගේ සල්ලි කකා පිස්සු නටනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් දයාදර</author>
+            <date>2016-05-14 17:39:44</date>
+            <index>83</index>
+            <phrase>මට නම් පෙනෙන්නේ මොළේ අමාරුකාරයින් වගයක් වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රණසිංහ</author>
+            <date>2016-05-14 18:46:41</date>
+            <index>84</index>
+            <phrase>තරුණ පරපුර රටේ ජීවනාලියයි. රටේ අනාගතයට බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත්</author>
+            <date>2016-05-15 00:42:51</date>
+            <index>85</index>
+            <phrase>මේගොල්ලන්ගේ වැඩ නිසා තමයි විශ්ව විද්‍යාල වහලා තියෙන්නේ. මේ අයට උවමනා තවත් විශ්ව විද්‍යාලය වහගන්න මිසක් ඇරගන්න නොවේ. ළමයි හත්අටදාහක් ඉන්න තැනකින් මහලොකු අන්තරේට ඉඳලා තියෙන්නේ හාරසීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-05-15 00:48:40</date>
+            <index>86</index>
+            <phrase>මම දන්නා විදිහට කැලණියේ තියෙන්නේ එක්තරා බංකොලොත් දේශපාලන පක්ෂයකට සම්බන්ධ ශිෂ්‍ය සංගමයක් පමණයි. වෙනත් මතයකට ඉඩක් කැලණියේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2016-05-15 00:55:25</date>
+            <index>87</index>
+            <phrase>මෙහෙ විශ්ව විද්‍යාලෙකට ගොස් පාරේ රස්තියාදු වෙන අතරේ පෞද්ගලික විශ්ව විද්‍යාලයක මෙරට හෝ පිටරට උපාධියක් ගත්තා නම් ලෝකයේ කොහේ හරි රැකියාවකට ගිහිල්ලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත්</author>
+            <date>2016-05-15 01:23:37</date>
+            <index>88</index>
+            <phrase>එකම අරමුණ නවක වදය සදහටම පවත්වාගෙන යාම, ශිෂ්‍ය සුභසාධනය දඩමීමා කරගෙන. මොවුන් කවුද මේ නීතිය හා සාමය බිඳලන්නට? ලෝකය ඉදිරියට යද්දී ,පිළුණු වූ දේශපාලන අදහස් හිස තබාගෙන කූට දෙස්පලුවන්ගේ ලණු ගිලපු, බිහිසුණු අඳබාලයින් වන මොවුන් ආපස්සට යන්නන්...! මොවුන් හඳුනාගෙන සරසවි සදහටම තහනම් කළයුතුයි. මේවා මර්දනය කළයුතුමයි. මේ කැළණි මණ්ඩපයේ අමිහිරි මතකයන් බොහොමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භානුමති - බොම්බේ</author>
+            <date>2016-05-15 01:24:41</date>
+            <index>89</index>
+            <phrase>මට නම් මොවුන්ව දකිද්දීත් අප්පිරියයි. පොලිසිය දාලා හොඳ පාඩමක් උගන්වන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-05-15 01:42:24</date>
+            <index>90</index>
+            <phrase>අනේ මෙහෙමත් මෝඩ ළමයි! මොවුන්ට වෙන්කරපු සල්ලි ජනතාවගේ වැට් බද්ද වෙනුවට යොදවා මොවුන්ට වෙන රටවල වගේ අධ්‍යාපන ණය අරන් ඉගෙනගන්න කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-05-15 01:51:42</date>
+            <index>91</index>
+            <phrase>මේගොල්ලන්ට අපේ උපාධියේ වටිනාකම තේරෙන්නේ නැහැ. මොකද නිකන්නේ දෙන්නේ. සල්ලි දීලා ඉගෙනගන්න වුණා නම් තේරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2016-05-15 02:46:52</date>
+            <index>92</index>
+            <phrase>මේ පාරේ පිස්සු නටන අයට හොඳ පාඩමක් උගන්වන්න තියෙන්නේ, මහජනයාට එකතුවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2016-05-15 02:53:35</date>
+            <index>93</index>
+            <phrase>අපරාදේ දුප්පත් අහිංසක දෙමාපියන්ගේ සල්ලි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-05-15 03:08:37</date>
+            <index>94</index>
+            <phrase>මේ ළමයින්ට නිකන් ලැබෙන අධ්‍යාපනයෙන් තමන්ට රටට වැඩක් කරගන්න දන්නේ නැහැ. සිසුන්ට ඉගෙනගන්න, බැරිමරගාතේ බදු ගෙවන අපිට තමයි මඩු වලිගෙන් ගහන්න ඕනෑ. කරුණාකර අනෙක් රටවල වගේ අර්ධකාලින රැකියා කරමින් හෝ සිසු ණය යටතේ උසස් අධ්‍යාපනය ලබා දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-05-15 04:06:56</date>
+            <index>95</index>
+            <phrase>දෙමාපියන්ගේ මුදල් කා, සරසවි පැමිණි මේ අය, රටේ මුදලින් ඉගෙනගෙන වැදගත් විදියට පැමිණෙන සිසුන් අපහසුතාවයට පත්කරන පළමු වරද්දෙන්ම වහාම අනිත් සිසුන්ගේ සුබසිද්ධිය සඳහා වහාම අයින් කරන්න. අනෙක සෑම අවුරුද්දකින්ම සරසවි මාරුකිරීම ඉතාම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-05-15 04:31:45</date>
+            <index>96</index>
+            <phrase>මේ ගොල්ලෝ කරන මෙවන් ක්‍රියා වහාම මර්දනය කළයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-05-15 04:37:14</date>
+            <index>97</index>
+            <phrase>කොහොමටත් රිමාන්ඩ් කරලා ඉන්න අයට ඇප දෙන්න හොඳ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-05-15 05:31:20</date>
+            <index>98</index>
+            <phrase>අපේ හැමෝම මේ ප්‍රශ්නය වැරදියට වටහාගෙන, මේක කැම්පස් එක ඇතුලින් සමාදානයෙන් බේරගන්න තිබුන දෙයක් ,දැන් පොලිසියයි ,උසාවියයි එකතුකරගෙන,ප්‍රශ්නයක් හදලා කැම්පස් එක වහගෙන පාරේ උද්ගෝෂණය කරනවා. මේක ඉක්මනින් නතර කරගන්න සාකච්ඡාවෙන් විසදගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත - කටාර්</author>
+            <date>2016-05-15 14:06:50</date>
+            <index>99</index>
+            <phrase>බලධාරී මහතුනි, යවන්නම එපා. අාවා නම් ඉගෙනගෙන යන්න රටට වැඩක් කරන්න. නොමිලේ දෙන පහසුකම් වලින් ගන්න ඉහළ ප්‍රයෝජනයක්. හරි ලොකු වැඩේනේ නවක වදය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-05-15 19:36:56</date>
+            <index>100</index>
+            <phrase>මගේ දරුවා ඉගෙනගන්නේ මොරටුව විශ්ව විද්‍යාලයේ ඉංජිනේරු පිඨයේ. විශ්ව විද්‍යාලයේ ඉගෙනගන්න අතරතුරදීත් උගත්කමෙන් මාසෙකට රුපියල් ලක්ෂ දෙකක් විතර හම්බ කරනවා. විශ්වා විද්‍යාලයෙන් උපාධිය අරගෙන එළියට ආවහම රැකියා 5 කින් පමණ ඉල්ලුමක් තිබෙනවා. රුපියල් ලක්ෂ 4-6 ක් උපයන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-05-16 06:19:49</date>
+            <index>101</index>
+            <phrase>මෙයාලා විශ්ව විද්‍යාලෙට යන්නේ ඉගෙනගන්න නොවෙයි, නවක වදය වගේ හිංසාකාරී වැඩ කරන්න. හැබැයි නීතිය ක්‍රියාත්මක වුණාම පෙළපාලි යන්නේ හරියට සාන්තුවරයන්ට මහා වැරැද්දක් කරලා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

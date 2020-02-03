@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54293</articleId>
+    <title>නැ’හිර ආසන 10ට හාරසීයක් පොර පිටියේ</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ජූලි මස 19 15:39:01</date>
+    <body>නැගෙනහිර පළාත් සභාවේ ත‍්‍රිකුණාමල දිසාවේ ආසන දහය සඳහා පක්ෂ 16ක් හා ස්වාධීන කණ්ඩායම් 16කින් අපේක්ෂකයෝ 416 දෙනෙක් ඉදිරිපත් වී සිටිති. නාමයෝජනා 33කින් එක්සත් ලංකා පොදුජන පක්ෂයේ නාමයෝජනාව ප‍්‍රතික්ෂේප විය. කණ්ඩායම් නායකයා අත්සන් නොකිරීම ඊට හේතුව විය.</body>
+    <comments>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-19 16:47:13</date>
+            <index>0</index>
+            <phrase>මක්කැයි කිරි අප්පට බල්ලෝ බුරපී කියලා දෙඩුවලු ආසන දහයට හාරසියක් ...................... දසමාර යුද්ධයක් තමයි ඉදිරියේ දි වෙන්නේ. බලන් ඉදිමු වෙන්නේ මොකන්ද කියලා. මේ දෑස මක්කටෙයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාවන</author>
+            <date>2012-07-19 17:18:37</date>
+            <index>1</index>
+            <phrase>මහජනතාවට සේවය කරන්න මෙයාලා පොරකන තරම.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-19 18:26:43</date>
+            <index>2</index>
+            <phrase>හිනා හිනා හිනා... පෝස්ටරයට වෙන්න හිනා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-19 23:23:18</date>
+            <index>3</index>
+            <phrase>නායකයට අත්සන් කරන්න අමතකයි නම් පාලනය බරගතොත් මාරුවට තියෙයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-07-20 01:23:32</date>
+            <index>4</index>
+            <phrase>මැරයෝ 416 ක් මදි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-07-20 01:24:42</date>
+            <index>5</index>
+            <phrase>පොර පිටියට එන්නේ පොර කුකුලොද.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-20 12:39:54</date>
+            <index>6</index>
+            <phrase>පොර පිටියේ කියන කොට අපේ ගෙදර ඇති කරන ඈයත් මතක් වෙනවා මට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

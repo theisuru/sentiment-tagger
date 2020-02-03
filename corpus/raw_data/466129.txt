@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466129</articleId>
+    <title>ජයන්ත / සරත් යළි රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 ඔක්තෝබර් මස 10 10:16:09</date>
+    <body>ජනාධිපති ලේකම් කාර්යාලයේ වාහන අවභාවිතා කිරිම සම්බන්ධයෙන් සරත් විරවංශ හා ජාතික නිදහස් පෙරමුණේ හිටපු මන්ත්‍රී ජයන්ත සමරවීර ඔක්තෝබර් 24 වැනි දා දක්වා යළි රිමාන්ඩ් කිරිමට කොළඹ කොටුව මහේස්ත්‍රාත් ලංකා ජයරත්න මෙනවිය අද (10) නියෝග කළාය.
+මොහොමඩ් මුසම්මිල්ට ඇති නඩුව ද එදිනට  කැඳවීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>රමණි</author>
+            <date>2016-10-10 07:55:44</date>
+            <index>0</index>
+            <phrase>එතකොට ෆවුසි? එයා වැරදි නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරගේ</author>
+            <date>2016-10-11 07:00:34</date>
+            <index>1</index>
+            <phrase>ෆවුසි කියන්නේ යහපාලන ඇමති කෙනෙක්. මුසම්මිල් කියන්නේ ඒකාබද්ධ විපක්ෂෙට සම්බන්ධ කෙනෙක්. අනික් දෙන්නත් එහෙමයි. රමනිට තේරෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

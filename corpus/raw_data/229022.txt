@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>229022</articleId>
+    <title>හමුදා රියයි ඝණ්ඨාර රියයි හැපේ</title>
+    <author>ජයරත්න වික්‍රමාරච්චිඑච් සී චන්දන හිරාන් ප්‍රියංකර ජයසිංහ</author>
+    <date>2014 අපේ‍්‍රල් මස 30 09:42:05</date>
+    <body>පුත්තලම කරුවලගස් වැව මාර්ගයේ දොළොස්වැනි සැතපුම් කණුව ළඟදී හමුදා රියක් හා වෑන් රියක් හැපී හමුදාවේ තිදෙනකු ඇතුළු හය දෙනෙක් තුවාල ලදහ.
+යාපනයට ඝණ්ඨාර රැගෙන යමින් සිටි වෑන් රිය හා වව්නියාවේ සිට එමින් සිටි හමුදා රිය මේ අනතුරට ලක් වී ඇත.
+
+
+
+
+
+ 
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>දිල්</author>
+            <date>2014-04-30 09:35:24</date>
+            <index>0</index>
+            <phrase>මේ දවස්වල හමුදාවේ අනතුරු වැඩියි. හේතුව සොයා බැලිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේසිංහ</author>
+            <date>2014-04-30 10:32:22</date>
+            <index>1</index>
+            <phrase>මේ කාලේ හැමෝගෙම වැඩ පොඩ්ඩක් පරිස්සමින් කොළොත් හොෙඳයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2014-04-30 11:54:26</date>
+            <index>2</index>
+            <phrase>නොසැලකිල්ල හැම කිල්ලකටම වැඩිය ලොකුයි කියනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් අපෝන්සු</author>
+            <date>2014-04-30 12:29:41</date>
+            <index>3</index>
+            <phrase>ඝණ්ඨාර අරන් ගියේ ජේවීපී එකට දෙන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-04-30 16:00:51</date>
+            <index>4</index>
+            <phrase>ඇත්තටම දිල්, හමුදාවට මේ දවස්වල වාතාවරණය හොඳ නැහැ වගේ. කොහොමත් පාන්දර ගමන් අනතුරු දායකයි. ඇයි සිතල සුළගත් එක්ක නිදිමත එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගන</author>
+            <date>2014-04-30 17:30:51</date>
+            <index>5</index>
+            <phrase>ඇයි මේ හැමදාමත් රිය අනතුරු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජලී</author>
+            <date>2014-04-30 18:51:59</date>
+            <index>6</index>
+            <phrase>දැන් එන්න එන්නම මේ වගේ ප්‍රවෘත්ති වැඩියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජානි</author>
+            <date>2014-04-30 18:51:59</date>
+            <index>7</index>
+            <phrase>රථ වාහන පොලිසිය තදින් නීතිය ක්‍රියාත්මක කරනවා නම් මේ වගේ අනතුරු අඩු කරගන්න පුළුවන්. ඒත් එහෙම වෙන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොස්චින්ද සොයිසා</author>
+            <date>2014-05-01 01:23:12</date>
+            <index>8</index>
+            <phrase>කොටින්ගේ අලුත් දෙයක් වෙන්න පුලුවන් රිය අනතුරු මගින් ඝාතන සැලසුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2014-05-01 07:35:42</date>
+            <index>9</index>
+            <phrase>යාපනයට ඇයි ඝණ්ඨාර?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

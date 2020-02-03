@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468440</articleId>
+    <title>බදුල්ලේ නියඟයත් හමාරයි</title>
+    <author>ප්‍රසාද් රුක්මාල්</author>
+    <date>2016 ඔක්තෝබර් මස 14 19:16:38</date>
+    <body>මාස හතරකට පමණ පසු නියඟය හමාර කරමින් බදුල්ල, බණ්ඩාරවෙල, දෙමෝර, ලුණුගල, පස්සර ආදී ප්‍රදේශ කිහිපයකට අද සවස මහ වැසි ඇද හැලෙන්නට පටන් ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2016-10-14 16:10:00</date>
+            <index>0</index>
+            <phrase>අනේ වාසනාවන්. රටේ අනෙක් පැති වලටත් මේ විදියටම වහින්න ඕනෑ. වතුර නැතුව පුදුම දුකක් අපි විඳින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා-ප්‍රංශය</author>
+            <date>2016-10-14 17:04:41</date>
+            <index>1</index>
+            <phrase>ඊට පස්සේ මාස හතරක පමණ කාලයක් තිස්සේ මහ වැසි ඇද හැලෙන්නට පටන් අරගෙන ගංවතුර ඒවිද? හිරු දෙවියන්ට බැනලා ඉවර වුණාම, වැස්ස වලාහක දෙවියන්ට බනින්න පටන් ගනීවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයෝමි</author>
+            <date>2016-10-14 23:34:37</date>
+            <index>2</index>
+            <phrase>හරිම සතුටුයි. අපේ රටේ තියෙන සුන්දරම කලාපය. කලට වැස්ස නැතිකමින් ලස්සන ස්භාවික සුන්දරත්වය විනාශවෙලා යනවා. පිටරටකින් මේ රටට එන විදේශිකයෝ පවා ඉතාම ඇලුම් කරන ප්‍රදේශයක්. ඒ සුන්දරත්වය සදා රැකෙනවා නම් තමා වටින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2016-10-15 06:07:57</date>
+            <index>3</index>
+            <phrase>රටේ පවතින දේශපාලන න්‍යාය ගැන එක ප්‍රකාශයයි කළේ, වැස්ස පටන්ගත්තා. ඒ කියන්නේ රාජා භවතු ධම්මිකෝ නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියානි</author>
+            <date>2016-10-15 12:05:14</date>
+            <index>4</index>
+            <phrase>අහන්නත් සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-10-16 00:16:38</date>
+            <index>5</index>
+            <phrase>හැමදා නියන් එකදා වැහි වලාවේ කිවුව වගේ වැස්සවලාහක දෙවියොත් දෙයිද දන්නේ උතුරලා දොරේ ගලන්නම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන් ජයසිංහ</author>
+            <date>2016-10-16 00:58:51</date>
+            <index>6</index>
+            <phrase>නාත්තන්ඩියටත් වහිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරගේ</author>
+            <date>2016-10-16 02:52:07</date>
+            <index>7</index>
+            <phrase>රූපා හරියටම හරි. දේවෝ වස්සතු කාලෙන තමයි වුනේ. එකනේ පොලොන්නරුවෙන්ම වැස්ස පටන්ගත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

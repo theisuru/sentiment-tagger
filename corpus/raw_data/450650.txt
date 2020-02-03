@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450650</articleId>
+    <title>ටිපර් රියෙන් මරුවා  එයි</title>
+    <author>පුෂ්පකුමාර ජයරත්න</author>
+    <date>2016 අගෝස්තු මස 24 12:30:33</date>
+    <body>කුරුණැගල ගැට්ටුවානේ දී ට්‍රිපර් රියක් වෑන් රියක හැපී වෑන් රියදුරා එතැනම මිය ගිය බව පොලිසිය කියයි. විදුලි බල මණ්ඩලයට මෙම රියදුරාගේ සිරුර එළියට  ගැනීමට පැයක් පමණ ගත විය.</body>
+    <comments>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-08-24 08:11:19</date>
+            <index>0</index>
+            <phrase>මෙහෙම වාහන එලවන අයගේ බලපත්‍ර සදාකාලික ලෙස අවලංගු කරන්නේ නම් මීටවඩා විනයක් ඇතිව වාහනයක් එලවයි. විනය හැදෙන්නේ දඩුවම තුළින් බව අද සමාජයට අමතක වී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-08-24 10:38:39</date>
+            <index>1</index>
+            <phrase>අනේ දෙවියනේ මෙහෙමත් විනාශයක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-08-24 11:17:50</date>
+            <index>2</index>
+            <phrase>ටිපර් වලින් තමයි වැඩියෙන්ම අනතුරු වෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2016-08-24 16:01:56</date>
+            <index>3</index>
+            <phrase>රියදුරු මාරයන් මුදල් සෙවීම සඳහා අමනයන් සේ රිය පදවති. මුදලට එවැනි මාරයින් බේරාගැනීමට උගතුන් යැයි කියාගන්නා පිරිසක්ද වෙති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙරිල්</author>
+            <date>2016-08-25 00:57:03</date>
+            <index>4</index>
+            <phrase>මේකට හේතුව බාල වාහන ලංකාවට ගෙන්වීම. ගුණාත්මක ජපන් වාහන සහ බටහිර රටවල් නිපදවන වාහන පමණක් ලංකාවට ගෙන්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19021</articleId>
+    <title>පොලිස් වෙඩි වැදී දෙන්නෙක් මරුට</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2011 දෙසැම්බර් මස 24 10:41:44</date>
+    <body>මිද්දෙණිය ජුලම්පිටියේ පාළු ගෙයක දී පොලිසිය හා යතුරු පැදිකරුවන් දෙදනකු අතර ඇතිවූ වෙඩි හුවමාරුවකින් පසු යතුරු පැදිකරුවෝ දෙදෙනෙක් මරුමුවට පත් වූහ. යුද හමුදා නිල ඇඳුමට සමාන ඇඳුම් ඇඳ සිටි තවත් යතුරු පැදිකරුවන් දෙදෙනකු පළා ගිය බව පොලිසිය කියයි. අපරාධ කිහිපයකට සම්බන්ද බව කියන පිරිසක් ගැන ලැබුණු තොරතුරක් අනුව පොලිසිය මෙම වැටලීම කැර ඇත. මැරුම් කෑ සැකකරුවන් ළඟ තිබි ටී. 56 ගිනි අවියක් සොයාගත් බව පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>පාලි</author>
+            <date>2011-12-24 17:33:56</date>
+            <index>0</index>
+            <phrase>රට හදන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2011-12-24 20:37:39</date>
+            <index>1</index>
+            <phrase>අපරාධකාරයො නැති කරන එක හොදයි. ඒ මුවාවෙන් අහිංසක අයනම් මරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2011-12-24 22:00:11</date>
+            <index>2</index>
+            <phrase>පොලිස් මහත්තරුන්ට අපේ උත්තමාචාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

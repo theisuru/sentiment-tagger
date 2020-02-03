@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>120770</articleId>
+    <title>පුංචි කර්මාන්තයට අතහිත</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 මැයි මස 12 12:49:15</date>
+    <body>සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් වෙනුවෙන් රුපියල් ලක්ෂ 3000 ක් වෙන් කිරීමට මහා භාණ්ඩාගාරය සැරසේ.
+මේ සදහා වන කැබිනට් පත‍්‍රිකාවකට පසුගියදා කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිවුණි.ජපානයේ අන්තර්ජාතික සබඳතා සදහා වන ජපන් බැංකුව හා ශී‍්‍ර ලංකා රජය අතර ඇතිකරගෙන තිබෙන ගිවිසුමකට අනුව ශ‍්‍රීලංකාවට ලැබීමට නියමිත ණයක් මෙසේ කුඩා හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් වෙනුවෙන් වෙන් කිරීමට නියමිතය.
+ඔවුනට අවශ්‍ය ණය පහසුකම් සැළැසීම මෙහි අරමුණයි.</body>
+    <comments>
+        <comment>
+            <author>රංජනී</author>
+            <date>2013-05-13 00:06:33</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්, මේවා කාගෙ හරහාද දෙන්න යන්නේ? අපි නම් ඒ ගැන දන්නේ නැහැ.සුලු කම්කරුවන්ගේ අතටම පත්වන්න කියලා ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිඳු</author>
+            <date>2013-05-13 10:53:44</date>
+            <index>1</index>
+            <phrase>කොහොමද ඒවා ලබාගන්නේ.. ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූකිරි</author>
+            <date>2013-05-13 10:54:05</date>
+            <index>2</index>
+            <phrase>කියක් වමටද.... ඉතුරු වෙන සොච්චම දෙන්නෙත් පෝස්ටර් ගහන, වන්දිබට්ට කම් කරන අයටද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධිර</author>
+            <date>2013-05-13 10:54:19</date>
+            <index>3</index>
+            <phrase>ඔකෙනුතත් වංචා කරාවිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මා</author>
+            <date>2013-05-13 10:55:21</date>
+            <index>4</index>
+            <phrase>හැමෝම බනින්නේ දේශපාලකයන්ට.එයාලා හොදයි කියලා නෙමෙයි කියන්නේ, නමුත් බහුතර නිලදාරියොත් හොරු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-05-14 04:48:01</date>
+            <index>5</index>
+            <phrase>පොට වැරැද්ද ගන්න එපා, මේවට කියන්නේ එස්.එම්.අයි. ණය කියල. අන්තිමට දෙන්නේ බැංකු වලින්. දන්නවනේ බැංකු ණයට දෙන්නේ කොහොමද කාටද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-14 12:54:05</date>
+            <index>6</index>
+            <phrase>සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන්ගේ අවශ්‍යතා හඳුනාගෙන ,කර්මාන්තය කරගෙන යාමට අවශ්‍ය උපකරණ ජපන් ආධාර යටතේ බදු සහන මුදලකට ලබා දීමට කඩිනමින් කටයුතු කරන්නේ නම් ඔවුන් දිරි ගැන්වීමක් වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-14 12:54:07</date>
+            <index>7</index>
+            <phrase>සුළු හා මධ්‍යම කර්මාන්ත කරුවන්ගේ අවශ්‍යතා හඳුනාගෙන, කර්මාන්තය කරගෙන යාමට අවශ්‍ය උපකරණ ජපන් ආධාර යටතේ බදු සහන මුදලකට ලබා දීමට කඩිනමින් කටයුතු කරන්නේනම් ඔවුන් දිරිගැන්වීමක් වෙනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2013-05-16 21:43:34</date>
+            <index>8</index>
+            <phrase>හොද වැඩක්. වැඩේ හරියට අවශ්‍ය කෙනාට ණය දේවිද දන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2013-05-17 11:07:13</date>
+            <index>9</index>
+            <phrase>කාර්මික ජනපද වල බිම් කුලිය අඩුකර දෙන්න. කාර්මික සංවර්ධන මණ්ඩලය නඩත්තු කරන්න විශාල මුදල් කර්මාන්ත කරුවන්ගෙන් අසාධාරන ලෙස ලබා ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2013-05-18 21:21:37</date>
+            <index>10</index>
+            <phrase>හොඳ වැඩක්. ඒත් බැංකුව මෙම ලෝන් එක දෙන්නම් කියලා මගේ ලක්ෂ 3 නාස්ති කලා. එක ශතයක් දුන්නේ නැහැ. රජයේ බැංකු වලට හරිහැටි දැනුමක් නැහැ මෙම ලෝන් එක ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

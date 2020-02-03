@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>311604</articleId>
+    <title>ගායක අනිල් භාරතී සෞදියට</title>
+    <author>ලලිත් ප්‍රේමලාල් සෞදි අරාබියේ සිට</author>
+    <date>2015 අපේ‍්‍රල් මස 24 13:03:31</date>
+    <body>බක් මහේ අසිරිය සෞදියේ වෙසෙන ශ්‍රී ලාංකික ජනතාවට පිළිගන්වමින් ප්‍රවීන ගායක අනිල් භාරති ගී මියැසිය සමග “රස සරණිය”ප්‍රසංගය මැයි (1) පළමු වැනි දින නැගෙනහිර දමාම් සෆුවා ෆාර් හවුස් හිදී පැවැත්වෙන බව සංවිධායක මණ්ඩලය පවසයි.
+ශ්‍රී ලාංකික අනන්‍යතාවය ඇති විවිධ ආහාර පාන ද  එහි ඇති බවටත් සවස 3.00 සිට රාත්‍රී 10.00 දක්වා පැවැත්වෙන බවත් සංවිධායකයෝ කියති.
+ලංකා බැංකුව, ටෙලේ මනි , ශ්‍රී ලන්කන් ගුවන් සේවය,පී.සී කාගෝ  සම අනුග්‍රහය දක්වයි.
+විස්තර
+0508534689
+0502166799</body>
+    <comments>
+        <comment>
+            <author>චන්න</author>
+            <date>2015-04-24 10:30:56</date>
+            <index>0</index>
+            <phrase>මීට කලිනුත් බෙග් එනවා කියලා එයාගේ සින්දු අහන්න අපි ගියා. මේ වතාවේවත් එයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2015-04-24 11:47:52</date>
+            <index>1</index>
+            <phrase>මේක විදේශීය කුමන්ත්‍රණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2015-04-24 15:03:55</date>
+            <index>2</index>
+            <phrase>මමත් ඔහු ගැන අහලා තිබෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2015-04-25 01:11:25</date>
+            <index>3</index>
+            <phrase>අපිට ඉතින් බලන්න යන්න බැහැනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරච්චිගේ</author>
+            <date>2015-04-25 10:36:22</date>
+            <index>4</index>
+            <phrase>කව්ද අප්පා මේ නමක් ගමක් දන්නැති කෙනා? මාස්ටර්ගේ පුතා උස්මාන් බෙග් වගේ අය ඇවිල්ල තාත්තගේ සින්දු කිව්වානම් නියමයිි,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500072</articleId>
+    <title>ඇමරිකාවේ 45 වැනි ජනපති අද දිවුරුම් දෙයි</title>
+    <author>සීඑන්එන්/නිව්යෝක් ටයිම්ස් ඇසුරෙනිපරිවර්තනය-නිලුක සදුන් බණ්ඩාරනායක</author>
+    <date>2017 ජනවාරි මස 20 15:55:55</date>
+    <body>ඇමෙරිකාවේ නව ජනපති ලෙස තේරී පත්වූ ඩොනල්ඩ් ට්‍රම්ප් මහතා ශ්‍රී ලංකාවේ වේලාවෙන් අද(20) රාත්‍රී 10.30ට දිවුරුම් දීමට නියමිතය.
+http://www.lankadeepa.lk/index.php/articles/500070</body>
+    <comments>
+        <comment>
+            <author>ගෝකුල</author>
+            <date>2017-01-20 11:28:14</date>
+            <index>0</index>
+            <phrase>ජයවේවා ඔබතුමාට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2017-01-20 11:30:49</date>
+            <index>1</index>
+            <phrase>සුබ පැතුම් මැතිතුමනි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2017-01-20 11:32:21</date>
+            <index>2</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2017-01-20 12:42:43</date>
+            <index>3</index>
+            <phrase>ට්‍රම්ප් මැතිතුමාට මගේ සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2017-01-20 12:47:05</date>
+            <index>4</index>
+            <phrase>එතුමාට සුභ පැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2017-01-20 14:11:49</date>
+            <index>5</index>
+            <phrase>මට හිතෙනවා සමහරවිට අැමරිකාවට මේ පළදෙන්න යන්නෙ 1991 සෝවිට් දේශය අැතුලු මේ දක්වා රටවල් කඩා දැමිමේ ප්‍රධාන කුමන්ත්‍රණකරුවා විමේ පාපයදෝ කියා. එ්ත් අපි බලමු නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-01-21 03:55:41</date>
+            <index>6</index>
+            <phrase>ජය වේවා! අපේ සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

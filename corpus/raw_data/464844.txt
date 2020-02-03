@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464844</articleId>
+    <title>‘ගුරු දිනයේ ගුරුවරු ගිනි අව්වේ‘</title>
+    <author>ගයාන් අමරසේකර</author>
+    <date>2016 ඔක්තෝබර් මස 05 15:26:53</date>
+    <body>‘අද ආණ්ඩුව නෙළුම් පොකුණේ සීතල ශාලාවක ගුරු දිනය සමරන විට අපට සිදුවෙලා තියෙන්නේ ගිනි අව්වේ හයිඩ් පිටියේ උද්ඝෝෂණය කරන්න‘ යැයි ලංකා ගුරු සේවා සංගමයේ ලේකම් ජෝශප් ස්ටාලිං හයිඩ් පිටියේ සිට ජනපති ලේකම් කාර්යාලය දක්වා පාගමනකට එක්වෙමින් පැවසීය.
+ගුරු සහායකයින් ලෙස දහ දාහකට වැඩි පිරිසකට රුපියල් හය දහසේ සොච්චම් දීමනාවකට සේවය කිරීමට සිදුවී ඇති බවත් මේ අය සුදුසුකම් මත ස්ථිර කරන ලෙස ඉල්ලන බවත් ඔහු කිවේය.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-05 15:24:43</date>
+            <index>0</index>
+            <phrase>ටික කාලෙකට පස්සේ මුහුණ පෙන්නාගන්න ඉඩක් ලැබුනා නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්වර්</author>
+            <date>2016-10-06 01:38:01</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා මෙහෙමත් දේවල්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53431</articleId>
+    <title>රිය අනතුරින් 11 රෝහලට</title>
+    <author>නිමල් අල්ගෙවත්ත</author>
+    <date>2012 ජූලි මස 15 13:44:27</date>
+    <body>ගාල්ල දඩල්ලේදී ලංගම බසයක් හා වෑන්රියක් ගැටී භික්‍ෂූන්වහන්සේලා සිවු නමක් ඇතුළු 11 දෙනෙක් තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-07-15 14:31:44</date>
+            <index>0</index>
+            <phrase>සියල්ලෝම ඉක්මන් සුවය ලබත්වා..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-15 22:56:56</date>
+            <index>1</index>
+            <phrase>ලංගම බසේයකනේ වැදිලා තියන්නේ බය වෙන්න එපා මේවට නඩු නැහැ නීතිත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්ටර්</author>
+            <date>2012-07-16 00:12:21</date>
+            <index>2</index>
+            <phrase>නුවමනා හදිසිය , ඉවසීමෙන් වාහන පදවනවානම් මෙවැනි අනතුරු සිදුවෙන්නේ නැහැ. රියදුරෙනි කරුණාකර මේ ගැන සිතාබලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2012-07-16 03:52:08</date>
+            <index>3</index>
+            <phrase>ඕවර්ටේක් කරන කට්ටිය අන්ඩර්ටේකර්ස්ලාට කැමතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-17 10:23:38</date>
+            <index>4</index>
+            <phrase>වැරැද්ද කාගේද දන්නෙත් නැහැ.බණිනවා ලංගමටයි, රජයටයි.අනේ මෙහෙමත් මිනිස්සු........???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

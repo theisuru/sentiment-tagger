@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>103603</articleId>
+    <title>නව පාප්තුමාගෙන් ආශිර්වාද</title>
+    <author>ඡායාරූපය  රොයිටර්</author>
+    <date>2013 මාර්තු මස 19 00:05:15</date>
+    <body>ශුද්ධෝත්තම පළමු වැනි ෆ‍්‍රැන්සිස් පාප්තුමන් ඉකුත් ඉරිදා (17) වතිකානයේ ශාන්ත ඈන් දෙව් මැදුරේ පැවැත් වූ විශේෂ දේව මෙහෙයට බැතිමතුන් දහස් ගණනක් පැමිණ සිටි අතර, දේව මෙහෙයෙන් අනතුරුව රැස්ව සිටි පිරිස වෙත ගොස් ඔවුන්ට ආශිර්වාද කිරීමට ද පාප්තුමෝ අමතක නොකළහ.  </body>
+    <comments>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2013-03-19 02:28:09</date>
+            <index>0</index>
+            <phrase>ජය වේවා ඔබ තුමට දීර්ඝායුෂ ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙතුමි</author>
+            <date>2013-03-19 08:07:54</date>
+            <index>1</index>
+            <phrase>සුභ ගමනකට ආසිරි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-03-19 08:32:26</date>
+            <index>2</index>
+            <phrase>සුභපැතුම් ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2013-03-19 08:48:20</date>
+            <index>3</index>
+            <phrase>උත්තරීතර පදවියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලින්ද</author>
+            <date>2013-03-19 12:54:51</date>
+            <index>4</index>
+            <phrase>ඔබවහන්සේට තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2013-03-20 05:07:25</date>
+            <index>5</index>
+            <phrase>අපිට ඔබතුමා ගැන හරිම ආඩම්බරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

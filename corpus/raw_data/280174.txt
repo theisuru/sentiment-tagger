@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>280174</articleId>
+    <title>කොටියාට අසුවූ දරුවන් ඉල්ලා උතුරේ උද්ඝෝෂණයක්</title>
+    <author>ප්‍රදීප් කුමාර</author>
+    <date>2014 දෙසැම්බර් මස 05 13:03:13</date>
+    <body>තම සැමියා වන හිටපු කොටි ප්‍රබලයකු වන එලීලන් සොයා දෙන ලෙස ඉල්ලා ඔහුගේ බිරිය උතුරු පළාත් සභා මන්ත්‍රීනි ආනන්දි ශෂිදරන් මුලතිව් දිස්ත්‍රික් උසාවියට එන ආරංචිය අනුව පිරිසක් පුවරු රැගෙන උද්ඝෝෂණයක් කළහ.
+තම සැමියාට වූ දේ පිළිබඳ ශෂිදරන් ක්‍රියාකරන්නා සේ කොටි සංවිධානයෙන් පැහැරගත් තම දරුවන්ට වූයේ කුමක්දැයි සෙවීමට තමනට අයිතියක් ඇතැයි විරෝධතා කරුවෝ කීහ.
+ශෂිදරන් අධිකරණයට නොපැමිණි නිසා නඩුව ජනවාරි 22 ට කල් ගියේය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අැඩ්රියන් ද මෙල්</author>
+            <date>2014-12-05 08:53:44</date>
+            <index>0</index>
+            <phrase>එළ එළ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් කාන්</author>
+            <date>2014-12-05 09:01:06</date>
+            <index>1</index>
+            <phrase>සාධාරණ ඉල්ලීමක් හොයා බැලුවොත් නේද හොඳ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2014-12-05 09:09:47</date>
+            <index>2</index>
+            <phrase>ඕක තමා වෙන්න ඕනේ, මේ අයගේ ස්වාමියා දරුවෝ මනුස්සයන් නොවේද,කවද හරි සත්‍යයමයි ජයගන්නේ, ඔබේ අය වෙනුවෙන් තව තවත් හඩ නගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරේ(ගාල්ල)</author>
+            <date>2014-12-05 09:35:39</date>
+            <index>3</index>
+            <phrase>කොටින්ට විතරද මානව හිමිකම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල් දළුගම</author>
+            <date>2014-12-05 09:39:57</date>
+            <index>4</index>
+            <phrase>ශ්‍රී ලාංකිකයන් වශයෙන් අපි ඔවුන්ට උදව් කළ යුතුයි. කොටි වෙනුවෙන් ඇමරිකාව, යුරෝපීය රටවල් සහ යූඑන් එක මහන්සි වෙනවනම් මේ අයටත් කවුරු හරි උදව්කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2014-12-05 09:47:30</date>
+            <index>5</index>
+            <phrase>කේපී ගෙන් හරි කරුණාගෙන් හරි පිල්ලයාන් ගෙන් හරි ඉල්ලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2014-12-05 09:48:56</date>
+            <index>6</index>
+            <phrase>ඇත්ත එයාලටත් ඒ අයිතිය දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2014-12-05 15:01:52</date>
+            <index>7</index>
+            <phrase>දරු දුක කොයි තරම්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

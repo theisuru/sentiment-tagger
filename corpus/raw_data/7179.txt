@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7179</articleId>
+    <title>කිඹුලෙක් පාසල් එයි</title>
+    <author>අමදෝරු අමරජීව  නිරෝෂන් සමරසූරිය</author>
+    <date>2011 ඔක්තෝබර් මස 04 12:53:59</date>
+    <body>මූතූර් පට්ටිකිඩාල් මහ විදුහලේ පන්ති කාමරයකට ආ කිඹුලකු අල්ලා සෝමාවතී රක්‍ෂිතයට මුදා හරින තුරු සිසුන්ගේ ආරක්‍ෂාව පතා පොලීසිය කැඳැවිණි.</body>
+    <comments>
+        <comment>
+            <author>ඩබ්.ජයසිරි</author>
+            <date>2011-10-04 13:46:46</date>
+            <index>0</index>
+            <phrase>දැන් පාසල් එන ළමුන්ගෙත් කිඹුලන්ගෙත් වැඩි වෙනසක් නෑනෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2011-10-04 14:35:55</date>
+            <index>1</index>
+            <phrase>ප්‍රින්සිපල්ගෙන් උපදේශයක් ගන්න වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන රූපසිංහ</author>
+            <date>2011-10-04 15:38:56</date>
+            <index>2</index>
+            <phrase>ළමයින්ව ඉස්කොලේට දාගන්න අයදුම්පතක් ගන්න ඇවිල්ලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2011-10-04 18:17:38</date>
+            <index>3</index>
+            <phrase>කිඹුල බනිස් කන්න වෙන්න ඇති?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස් ගමගේ</author>
+            <date>2011-10-05 09:09:25</date>
+            <index>4</index>
+            <phrase>කිඹුලියක් ඉස්කෝලේ ඉන්නවද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සසංක</author>
+            <date>2011-10-05 10:47:58</date>
+            <index>5</index>
+            <phrase>පව් අනේ එයාට ඉගෙන ගන්න ආ හිතිල වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙශාන්</author>
+            <date>2016-06-06 12:06:04</date>
+            <index>6</index>
+            <phrase>මින්සිස්සුන්ට පොලිසිය මතක් වෙන්නේ මෙන්න මේ වගේ වෙලවට තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

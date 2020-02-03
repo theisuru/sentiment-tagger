@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>284215</articleId>
+    <title>ඉන්දු යාත්‍රාවට ලංකාවේ හිත</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2014 දෙසැම්බර් මස 21 14:48:03</date>
+    <body>සමුද්‍ර නිරීක්ෂක යාත්‍රා දෙකක් සදහා ශ්‍රී ලංකාවෙන් ඇනවුමක් ලැබී ඇතැයි ඉන්දියාවේ ආරක්ෂක උපකරණ නිෂ්පාදක කටයුතු පිළිබඳ ඇමති රාවෝ ඉන්ද්‍රජිත් සිං කියයි.
+මේ යාත්‍රා දෙකෙහි ඉදිකිරීම් කටයුතු මේ වන විටත් අරඹා තිබෙන බවද එම කටයුතු සිදුවන්නේ ගෝවහි පිහිටා ඇති නෞකාංගනයකදී බවද සඳහන්ය.
+ඇමතිවරයාට අනුව මෙම යාත්‍රා දෙක සම්පූර්ණයෙන්ම ඉන්දියාවේ නිපදවෙන අතර කිසිඳු විදෙස් හවුල්කරුවෙක් ඒ සඳහා සහභාගී කර නොගැනේ.
+මෙය ඉන්දියාව සමුදුරු යාත්‍රා අපනයනය කිරීමට යන ප්‍රථම අවස්ථාව බවත් එවැනි යාත්‍රා තැනීමට තරම් ඉන්දියාවේ තාක්ෂණය දියුණුවී තිබීම සමස්ථ ඉන්දියා ජනතාවටම ආඩම්බරයක් බවත් ඔහු පවසයි.</body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2014-12-21 19:39:52</date>
+            <index>0</index>
+            <phrase>ඉන්දියා යාත්‍රාවට ලංකා හිත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-12-22 04:30:31</date>
+            <index>1</index>
+            <phrase>අන්තෝ ජටා බහි ජටා වාගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් පියසේන</author>
+            <date>2014-12-22 07:45:01</date>
+            <index>2</index>
+            <phrase>හිතවත් රටක ආරක්‍ෂිත නිෂ්පාදනයක් අසල්වැසි රටක් මිලදී ගැනීම ආඩම්බර වගේම අප රට ගැන විස්වාසයක් තැබීම ගැන ඉන්දීය රජයට ස්තුති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් පියසේන</author>
+            <date>2014-12-22 07:45:30</date>
+            <index>3</index>
+            <phrase>හිතවත් රටක ආරක්‍ෂිත නිෂ්පාදනයක් අසල්වැසි රටක් මිලදී ගැනීම ආඩම්බරයි වගේම, අප රට ගැන විස්වාසයක් තැබීම ගැන ඉන්දීය රජයට ස්තුතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - එස්.එල්</author>
+            <date>2014-12-22 14:12:11</date>
+            <index>4</index>
+            <phrase>යන්නේ කොහෙද මල්ලේ පොල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2014-12-22 15:23:48</date>
+            <index>5</index>
+            <phrase>අනේ මන්ද මේවට මොනවා කියන්නද කියලා මටම තේරෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2014-12-23 05:30:00</date>
+            <index>6</index>
+            <phrase>හොරාගේ අම්මගෙන් පේන ඇසීම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-12-23 06:28:23</date>
+            <index>7</index>
+            <phrase>සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2014-12-23 08:01:20</date>
+            <index>8</index>
+            <phrase>අපිට මෙත් යුගයෙන් වත් ගොඩ යන්ද පුළුවන් වේවිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමා</author>
+            <date>2014-12-23 08:01:22</date>
+            <index>9</index>
+            <phrase>අැයි අපිට මේවා නිපදවන්න බැරි ? අපි කිරෙන් බාල වෙලාද මහත්තයෝ? අපිට මෙත් යුගයෙන් වත් ගොඩ යන්ද පුළුවන් වේවිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2014-12-24 04:29:37</date>
+            <index>10</index>
+            <phrase>අවුරුදු 30 ක යුද්දේ ඉවරවෙලා අවුරුදු 4 යි. එක පාර බුදු වෙන්න බෑ. ඔයාල නිකම් තොත්ත බබාල වගේනේ කතා කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි හර්බට් විජේසිංහ</author>
+            <date>2014-12-24 04:43:04</date>
+            <index>11</index>
+            <phrase>අවුරුදු 30ක් යුද්ධ කළා. දැන් යුද්ධය අවසන් වෙලත් අවුරුදු 4 ක් නම් තාමත් අපිට ගොඩ එන්න බැරිද? යුද්ධ කරනකොටම අපි මේවා හදන්න උනන්දු වෙන්න ඕනෑ. යුද්ධ කියා කියා හැමදේම අතපසු කළොත් මොකද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2014-12-26 09:35:18</date>
+            <index>12</index>
+            <phrase>කොළඹ නැව් තටාකාංගනය ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-12-27 01:24:00</date>
+            <index>13</index>
+            <phrase>ඉස්සර නම් කොළඹ නැව් හැදුවා වගේ මතකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2014-12-27 21:37:36</date>
+            <index>14</index>
+            <phrase>නිව්ස් දාන්ඩ කලින් ලියපු එක හරිද කියලා නැවත කියවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2014-12-27 21:36:54</date>
+            <index>15</index>
+            <phrase>නිව්ස් දාන්ඩ කලින් ලියපු එක හරිද කියලා නැවත කියවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lal</author>
+            <date>2014-12-27 21:37:36</date>
+            <index>16</index>
+            <phrase>නිව්ස් දාන්ඩ කලින් ලියපු එක හරිද කියලා නැවත කියවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lal</author>
+            <date>2014-12-27 21:36:55</date>
+            <index>17</index>
+            <phrase>නිව්ස් දාන්ඩ කලින් ලියපු එක හරිද කියලා නැවත කියවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2014-12-27 21:36:55</date>
+            <index>18</index>
+            <phrase>නිව්ස් දාන්ඩ කලින් ලියපු එක හරිද කියලා නැවත කියවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දාවිත්</author>
+            <date>2014-12-29 06:13:28</date>
+            <index>19</index>
+            <phrase>ඉන්දිය යාත්‍රාවට ලක් හිත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2014-12-30 06:21:13</date>
+            <index>20</index>
+            <phrase>මේ දේ හදිස්සියක් නෙවෙයිනෙ ? ලංකාවේ ඉංජිනේරුවන්ගෙන් වැඩක් ගන්න තිබුණු හොඳ අවස්ථාවක් ගිලිහුනේ. අනිවාර්යෙන්ම අපේ රටේ ඉන්නවා නැව් හදන්න පුළුවන් උදවිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-12-31 04:41:01</date>
+            <index>21</index>
+            <phrase>අපේ රටට අවශ්‍ය දේවල් ඇයි අපේ රටේම නිෂ්පාදනය කරන්න උත්සහ කරන්නේ නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2015-01-08 03:52:57</date>
+            <index>22</index>
+            <phrase>මේවා අපේ රටේ හදන්න පහසුකම් තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-01-08 12:08:21</date>
+            <index>23</index>
+            <phrase>අවරුදු 30 තිබුන යුද්දය දැන් ඉවරයි.දැන් තියෙන්නේ ජය මාවත .එක ජය ගමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2015-01-10 22:35:43</date>
+            <index>24</index>
+            <phrase>අපේ ඉංජිනේරුවන්ට බැරිද නැව් දෙක නිෂ්පාදනය කරන්න අපේ බුද්ධිමත්කම ඇති නේද අවශ්‍ය අමුද්‍රව්‍ය රටින් ගෙන්න ගන්න පුළුවන් නේද සමහර විට අපේ දැනුම ඉන්දියාවට වඩා හොඳවෙන්න පුළුවන් නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2015-01-10 22:37:19</date>
+            <index>25</index>
+            <phrase>අපේ ඉංජිනේරුවන්ට බැරිද නැවි දෙක නිෂ්පාදනය කරන්න . අපේ බුද්ධිමත්කම ඇති නේද අවශ්‍ය අමුද්‍රව්‍ය රටින් ගෙන්න ගන්න පුළුවන් නේද ? සමහර විට අපේ දැනුම ඉන්දියාවට වඩා හොදවෙන්න පුළුවන් නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොළඹ නැව් තටාකාංගනය</author>
+            <date>2015-01-11 05:26:36</date>
+            <index>26</index>
+            <phrase>අපි නැව් තටාකාංගනයේ උදවිය, අපි දැනටමත් ඉන්දියාවට මගින් 400 ගෙනියන්ඩ පුළුවන් නැව් 2 හදන්ඩ බාර අරගෙන 1 ක් හදල දීල ඉවරයි. අනෙක 2015 බාරදෙනවා. ඒ අපි අපේ ලංකාවේ, නැව් තටාකාංගනයේ හදපු 229 සහ 230 වන යාත්‍රා දෙක. ඔයහොල්ලෝ මේවා දන්නේ නැ නේද. ඕවට අමතරව අපි හදන අනෙක් ඒවා ගන්නේත් ඉන්දියානු සම්භවයක් තියෙන සින්ගපූර් සමාගමක්. අපේ උදවියට කියන්ඩ තියෙන්නේ ඔය ඉන්දියාවේ හදනවා කියපු දෙකත් අපිට පුළුවන්. ඒ වගේම මේක අපිට අභියෝගයකුත් නෙවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොළඹ නැව් තටාකාංගනය</author>
+            <date>2015-01-14 06:33:56</date>
+            <index>27</index>
+            <phrase>අපි නැව් තටාකාංගනයේ උදවිය, අපි දැනටමත් ඉන්දියාවට මගින් 400 ගෙනියන්ඩ පුළුවන් නැව් 2 හදන්ඩ බාර අරගෙන 1 ක් හදල දීල ඉවරඊ අනෙක 2015 බාරදෙනවා. ඒ අපි අපේ ලංකාවේ, නැව් තටාකාංගනයේ හදපු 229 සහ 230 වන යාත්රා දෙක ඔයහොල්ලෝ මේවා දන්නේ නැ නේද. ඕවට අමතරව අපි හදන අනෙක් ඒවා ගන්නේත් ඉන්දියානු සම්භවයක් තියෙන සින්ගපූර් සමාගමක්. අපේ උදවියට කියන්ඩ තියෙන්නේ ඔය ඉන්දියාවේ හදනවා කියපු දෙකත් අපිට පුළුවන් ඒ වගේම මේක අපිට අභියෝගයකුත් නෙවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2015-01-16 18:25:53</date>
+            <index>28</index>
+            <phrase>මම දන්නා තරමට අපි නැව් හදලා ඉන්දියාවට විකුණනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාත්</author>
+            <date>2015-01-19 02:40:53</date>
+            <index>29</index>
+            <phrase>ඉස්සර මේ වගේ යාත්‍රා අපි ඉන්දියාවට හදලා විකුණුවා නේද? ආශ්චර්යය තමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

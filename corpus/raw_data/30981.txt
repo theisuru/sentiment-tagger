@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30981</articleId>
+    <title>විෂ්ණු ක‍්‍රාන්තිය</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මාර්තු මස 12 11:03:02</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>තරිදු</author>
+            <date>2012-03-13 10:56:09</date>
+            <index>0</index>
+            <phrase>හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

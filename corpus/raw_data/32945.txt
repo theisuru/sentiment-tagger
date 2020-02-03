@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>32945</articleId>
+    <title>නොර්වේ ලාංකිකයෝත් වීදි බසිති</title>
+    <author>පැරිසියේ සුනිල් ආනන්ද</author>
+    <date>2012 මාර්තු මස 23 12:01:14</date>
+    <body>නෝර්වේ පදිංචි සිංහල, දෙමළ හා මුස්ලිම් සියලුම දෙනාගේ එකමුතුවෙන් සංවිධානය වූ ශ්‍රී ලාංකිකයෝ ජිනීවා නුවර  යෝජනාවට විරෝධය පෑම සඳහා ඔස්ලෝ නුවර පිහිටි එම පාර්ලිමේන්තු සංකීරණයේ උද්ඝෝෂණයක් පැවැත්වූහ. එම යෝජනාව සම්මත වීමට කලින් පැවැති මේ උද්ඝෝෂණයේ දී ඔවුහු ශ්‍රී ලංකාවේ ස්ථාවරය සඳහන් පෙත්සමක් ද නෝර්වේ මන්ත්‍රීවරුනට පිළිගැන්වූහ.</body>
+    <comments>
+        <comment>
+            <author>දහනායක</author>
+            <date>2012-03-23 12:07:08</date>
+            <index>0</index>
+            <phrase>දැන් මොනවා කියන්නද ලංකාවට අත දාන්න ඇවිත් ඔය තියෙන්නේ ප්‍රතිඵල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිනාදරී</author>
+            <date>2012-03-23 12:14:51</date>
+            <index>1</index>
+            <phrase>ශ්‍රී ලංකා රට වැසියනි. දැන් විරුද්ධ වුනා ඇති. රජයට කියමු මානවහිමිකම් කඩ නොවීමට ඉදිරියේදීවත් වගබලාගන්න කටයුතු කරන්න කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේනි</author>
+            <date>2012-03-23 12:26:46</date>
+            <index>2</index>
+            <phrase>ජිනාදරී අද ද ඉපදුනේ. පහුගිය අවුරුදු තිහේ කාටද අද තියෙන තරම්වත් හිමිකම් ලැබුණේ. එක දවසට කොල්ලෝ කීයක් මැරුණද ? මේ රටේ එක දවසකට අහිංසක දෙමාපියෝ කී දෙනෙක් ඇඩුවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-03-23 12:55:10</date>
+            <index>3</index>
+            <phrase>ඉතා හොදයි ජිනාදරී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

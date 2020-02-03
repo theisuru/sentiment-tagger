@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43026</articleId>
+    <title>බස් කොන්දොස්තර දුම් බී දඩකයි</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මැයි මස 18 20:01:21</date>
+    <body>කොල්ලුපිටියේ බස් නැවතුමේදී දුම්වැටියක් බිව් බස්කොන්දොස්තරවරයකුට කොළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා රුපියල් 2000ක දඩ නියම කෙළේය.  පොදු ස්ථානයක දුම්බීම වරදකි. වරදපිළිගත් කොන්දොස්තර වූයේ ඉන්දික චමින්ද කුමාරයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්ත ධම්මික</author>
+            <date>2012-05-18 21:20:30</date>
+            <index>0</index>
+            <phrase>දැන් බස් විතරක් නෙමෙයි...කොන්දොස්තරවරුන්ගෙත් දුම් පරික්ෂා කරන්න වෙනවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-18 22:14:18</date>
+            <index>1</index>
+            <phrase>එය අනිත් අයටද කරදරයකි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-05-19 03:40:00</date>
+            <index>2</index>
+            <phrase>අලුත්ම පාඨය " දුම් බොමු - දඩ කමු "</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-05-19 08:22:56</date>
+            <index>3</index>
+            <phrase>හොර මැරකම් කරන,නිදන් හාරන,ක‍ටුගේ සුද්ද කරන අයටග් නම් සඳහන් කරන් නැත්තෙ ඇයි???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-05-19 11:58:42</date>
+            <index>4</index>
+            <phrase>ඒකනම් හොඳයි.....ඒත් පොඩි මිනිස්සුන්ටනේ මේ හැම දේම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-19 22:38:04</date>
+            <index>5</index>
+            <phrase>කවරු නීතිය කැඩුවත් ඊට නිසි දඬුවම හිමි විය යුතුමයි..බස් කොන්දොස්රට එත විදිහකටත් මඟියට තව විදිහකටත් නීතිය ක්‍රියාත්මක විය යුතු නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මන්ජුල</author>
+            <date>2012-05-20 02:52:02</date>
+            <index>6</index>
+            <phrase>විවෘත්තයි....ඇතුල්වීම තහනම්‍‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

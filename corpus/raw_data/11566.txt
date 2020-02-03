@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>11566</articleId>
+    <title>ලැප්ටොප් බෑගයෙන් ඩොලර් මතුවේ</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2011 නොවැම්බර් මස 02 18:40:17</date>
+    <body>ඇමෙරිකා ඩොලර් අනු දහසක් හෙවත් රුපියල් අනූ ලක්ෂයකට අධික මුදලක් පාකිස්තානයේ කරච්චි නුවරට රැගෙන යාමට තැත් කළ පාකිස්තාන ජාතිකයෝ දෙදෙනෙක් අවසන් පර්යන්තයේදී අද සවස සැකපිට අත්අඩංගුවට ගනු ලැබූහ.
+ලැප්ටොප් බෑග් දෙකක මේ සල්ලි තිබූ බව රේගුව කියයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රබෝධ මදුසංක</author>
+            <date>2011-11-03 09:41:35</date>
+            <index>0</index>
+            <phrase>මෙය කුමක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nasar</author>
+            <date>2011-11-03 12:14:31</date>
+            <index>1</index>
+            <phrase>මුදල් ටික අරගෙන මොහුව නිදහස් කළානම් ගොඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිරි සංකල්පනී</author>
+            <date>2011-11-03 14:39:36</date>
+            <index>2</index>
+            <phrase>කොහොමටවත් මේ අයට ගැලවීමක් නොදිය යුතුයි අපේ මිනිස්සු රට රටවල් වල ගිහින් මහන්සියෙන් අපෙ රටට එන කොට මොන තරම් පරීක්ෂාවට ලක්කරනවද නීති හැම කෙනෙකුටම එක විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

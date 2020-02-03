@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>188770</articleId>
+    <title>රුහුණෙ කොල්ලෙක් මූර්තියෙන් කතා කරයි</title>
+    <author></author>
+    <date>2013 නොවැම්බර් මස 26 12:40:29</date>
+    <body>දෘෂ්‍ය කලා ශිල්පී චමිල ගමගේ සිය හය වැනි මූර්ති ප්‍රදර්ශනය දෙසැම්බර නව වැනි දා සිට 11 වැනි දා දක්වා ලයනල් වෙන්ට් කලාගාරයේ දී පැවැත්වීමට යයි.
+ආත්ම භාෂණය (තනිවම කතා කිරීම) තේමාව යටතේ නිර්මාණ 20ක් හා මූර්ති හයක් මේ ප්‍රදර්ශනයට ඇතුළත් කැරිණි.
+චිත්‍ර මූර්ති කලා ක්ෂේත්‍රයේ 18 වසරක අත්දැකීම් ඇති ඔහු මූර්ති කලා විශේෂවේදී උපාධි ධරයෙකි.
+මාතර බෙලිඅත්තේ සිට කොළඹ ආ ගමනේ දී පරිභෝජන වාදී සමාජයක ගොඩ නැගෙන සමාජ සබඳතා දෘෂ්‍ය කලාවෙන් ඉදිරිපත් කිරීම ඔහුගේ උත්සාහයයි.</body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-11-26 14:03:16</date>
+            <index>0</index>
+            <phrase>ඉතා හොද නිර්මාණ. සුබ පතනවා ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාලික</author>
+            <date>2013-11-26 14:21:24</date>
+            <index>1</index>
+            <phrase>අැත්තටම හොද දෙයක්. සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශා</author>
+            <date>2013-11-26 14:57:18</date>
+            <index>2</index>
+            <phrase>ඔබ ජාත්‍යන්තර ප්‍රදර්ශන වලටත් සහභාගි වන්න,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසේන</author>
+            <date>2013-11-26 19:55:16</date>
+            <index>3</index>
+            <phrase>ඔබට සුබම සුබ අනාගතයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපීක්</author>
+            <date>2013-11-27 10:30:03</date>
+            <index>4</index>
+            <phrase>ජාත්‍යන්තර ප්‍රදර්ශන වලටත් සහභාගි වන්න උත්සහ කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460170</articleId>
+    <title>උදය දේවීට  අමාරුයි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 සැප්තැම්බර් මස 22 11:25:09</date>
+    <body>මඩකලපුව සිට  කොළඹ බලා  ධාවනය වීමට  නියමිතව තිබු  උදයදේවී  දුම්රියේ තවත්  දුම්රිය එන්ජිමක්  මඩකලපුව දුම්රියපොළේ දී  අද (22) අලුයම ගැටී උදයදේවී  මැදිරි  දෙකක් පීලි පැන ඇතැයි  දුම්රිය පාලන කාර්යාලය පවසයි.
+ </body>
+    <comments>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-09-22 07:46:05</date>
+            <index>0</index>
+            <phrase>හැප්පුනේ මඩකලපුවේ නේ.විකල්ප දේවී කෙනෙක් තියාගත්තා නම් මගීන් අමාරුවේ වැටෙන්නේ නැහැ නේද.අනික ඔතන ප්‍රධාන දුම්රිය පොලක් නේද.නරකද අර දෙමටගොඩ නවත්තල ඔහේ දිරන්න දාලා තියෙන එකක් වත් හදලා හැම ප්‍රධාන දුම්රිය පොලකම ගාල් කරලා තිබ්බා නම් මේ වගේ හදිස්සි වෙලාවක වුනාම විකල්පයක් වශයෙන් ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා</author>
+            <date>2016-09-22 07:57:50</date>
+            <index>1</index>
+            <phrase>උදය දේවීට විතරක් නෙවි අමාරු වෙලා තියෙන්නේ.කලක සිටම දුම්රිය දෙපාර්තමේන්තුවත් පීලි පැනලා තියෙන නිසා මගීන්ටත් හොඳටම අමාරු වෙලයි ඉන්නේ ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමාලි</author>
+            <date>2016-09-22 09:00:26</date>
+            <index>2</index>
+            <phrase>මොකක් හරි ප්‍රශ්නයක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

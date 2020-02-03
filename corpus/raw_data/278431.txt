@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>278431</articleId>
+    <title>නාවුල බුලතට හෙනහුරා</title>
+    <author>ඉන්දික අරුණ කුමාර</author>
+    <date>2014 නොවැම්බර් මස 27 12:41:24</date>
+    <body>නාවුල  බුලත් පුවක් අලෙවිය අඩු වී ඇතැයි තොග හා සිල්ලර වෙළෙන්දෝ කියති.
+මාසයකට පමණ පෙර ශත පනහකට තිබු පුවක් ගෙඩියක් අද රුපියල් තුනකි.මාසයකට පමණ පෙර රුපියල් දෙකක් වු බුලත් කොලයක් අද ශත පනහකි.වැස්සත් සමඟ බුලත් වගාවෙන් සරු අස්වැන්නක් ලැබී ඇතැත් තොග වෙළෙඳුන් පවසනුයේ වෙළෙදාම අඩු වී ඇති බවයි.
+නාවුල තොග වෙළෙන්දෝ 25 ක් පමණ සිටිති.වෙනදා බුලත් කොළ පනස්දහසක් පමණ අලෙවී වු බව ඔවුහු පවසති.
+පැකැටි කළ බුලත් විට විවිධ නම් වලින්  විවිධ රස ගැන්වා පකිස්තානයෙන් ද  ගෙන්වේ
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>මහින්ද කේ</author>
+            <date>2014-11-27 07:32:49</date>
+            <index>0</index>
+            <phrase>බුලත් සහ පුවක් පිළිකා කාරක දේවල්. මේවා කන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2014-11-27 07:58:32</date>
+            <index>1</index>
+            <phrase>ඉන්දියාවෙන් පකිස්තානෙන් ගේන ඒවා කෑවට කමක් නැහැ අපේ දේශීය ආර්ථිකය නගිනවානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2014-11-27 09:50:38</date>
+            <index>2</index>
+            <phrase>බුලත් වලට දුම්කොළ දාන්න එපා. ඒකෙන් තමා පිළිකා එන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනායක</author>
+            <date>2014-11-28 07:31:03</date>
+            <index>3</index>
+            <phrase>මොන රටේ වේවා බුලත් කන්න එපා. මුක පිළිකා වලට ප්‍රධාන හේතුවක් බුලත් කෑම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේරත්න</author>
+            <date>2014-11-28 08:32:56</date>
+            <index>4</index>
+            <phrase>කොහොමත් දැන් බුලත් කොලේ මාකට් එක අඩුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

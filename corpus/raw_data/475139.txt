@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475139</articleId>
+    <title>හිටපු උප ඇමති සරත් යළි රිමාන්ඩ්</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 නොවැම්බර් මස 01 15:59:48</date>
+    <body>හිටපු නියෝජ්‍ය ඇමති සරත් කුමාර ගුණරත්න ලබන 08 වැනි දා දක්වා යළි රිමාන්ඩ් කරන ලෙස මීගමුව අතිරේක මහේස්ත්‍රාත් කපිල දුෂ්මන්ත මහතා නියෝග කළේය.
+2001 නොවැම්බර් 17 වැනි දා මීගමුව තිල්නන්දූවේදී රිය අනතුරක් කර පුද්ගලයෙකු මරා දැමීයැයි කියන සිද්ධියක් සම්බන්ධයෙන් පසුගිය 24 වෙනිදා මුලින්ම රිමාන්ඩ් කර තිබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-11-01 14:32:34</date>
+            <index>0</index>
+            <phrase>පුදුම යහපාලනයක්නේ. රිටර්න් එක එනකොට ටිකක් අමාරුවෙයි හොඳේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-11-01 18:22:03</date>
+            <index>1</index>
+            <phrase>හිටපු ජනාධිපතිතුමාට ජනපති පදවිය අහිමිවීමේ පාඩුව අපේ සරත් මැතිතුමාට හොඳට දැනෙනවා ඇති දැන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-11-02 02:20:43</date>
+            <index>2</index>
+            <phrase>ඇමති පුතෙකුගේ වාහනයට යටවෙලා මැරුණහම 15,000ක් ගෙවලා ගෙදර යනකොට, මෙයා මාස ගණනක් හිරේ.... නීතිය දෙවිදියකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

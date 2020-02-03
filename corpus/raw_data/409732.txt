@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>409732</articleId>
+    <title>හිඟුරක්ගොඩදී ගුවන් හමුදා යානයක් අනතුරක</title>
+    <author>ඩබ්ලිව්ඒපියතිලක නිමල් ජයරත්න</author>
+    <date>2016 අපේ‍්‍රල් මස 28 11:55:14</date>
+    <body>හිඟුරක්ගොඩ ගුවන් හමුදා පුහුණු කඳවුරේ දී ගුවන් හමුදාවට අයත් හෙලිකොප්ටර් යානයක් අනතුරට ලක්ව ඇතැයි ගුවන් හමුදා ආරංචි කියයි.
+පුහුණුවකට යොදා ගත් යානයක් ගොඩබැස්සවීමට යාමේදී අනතුර සිදුව ඇතැයි කියති. අනතුරින් කිසිවකුටවත් හානියක් සිදුව නොමැත.
+මෙම යානයේ නියමුවකු හා පුහුණු නියමුවකු සිටි බවත් යානය ගුවන් පථයේ තදින් වැදී ඇති බවත් කියති. ගුවන් හමුදාව පවසනුයේ නියමුවන් දෙදෙනා තුවාල නොලබා බේරුණු බවයි.</body>
+    <comments>
+        <comment>
+            <author>චානක</author>
+            <date>2016-04-28 07:05:48</date>
+            <index>0</index>
+            <phrase>කටත් හානි නැත්නම් එච්චරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-04-28 10:44:22</date>
+            <index>1</index>
+            <phrase>මෙතනත් දේශපාලන වාසිගන්න උත්සාහකරාවී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2016-05-09 10:18:52</date>
+            <index>2</index>
+            <phrase>පුහුනු‍‍‍වෙදි ඔහොම වෙනව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

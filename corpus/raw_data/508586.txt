@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508586</articleId>
+    <title>ත්‍රීරෝද රිය ටිපර් රථයේ ගැටී දෙදෙනෙක් මරුට</title>
+    <author>ඡායාරූප චන්ද්‍රසේන ගමගේ සහ සනත් ගමගේ</author>
+    <date>2017 පෙබරවාරි මස 20 18:43:57</date>
+    <body>වීරකැටිය රන්න මාර්ගයේ  කිරිමැටි කන්ද ප්‍රදේශයේ දී අද සවස සිදු වූ අනතුරකින් පුද්ගලයින් දෙදෙනෙක් මිය ගොස් එක් අයෙක් තුවාල ලැබූහ.
+ටිපර් රථයක් හා ත්‍රී රෝද රථයක් ගැටීමෙන් අනතුර සිදු ව තිබේ. 
+මියගොස් හා තුවාල ලබා ඇත්තේ ත්‍රී රෝද රථයේ ගමන් ගත පුද්ගලයන්  බව පොලිසිය කියයි.
+  </body>
+    <comments>
+        <comment>
+            <author>විදුවර</author>
+            <date>2017-02-20 13:39:52</date>
+            <index>0</index>
+            <phrase>දඩය වැඩි කරමුද. අපි දඩේට අකමැති වුනත් ටික දවසක් මිනිස්සු ප්‍රවේසමින් ගියා මේක ගැන කතා කල දවස්වල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලණ</author>
+            <date>2017-02-20 18:15:58</date>
+            <index>1</index>
+            <phrase>මේ වගේ ත්‍රිරෝද රථ තහනම්කල යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2017-02-21 02:23:21</date>
+            <index>2</index>
+            <phrase>මෙම ජරා රථ ලංකාවෙන් සම්පුර්ණයෙන් අතුගා දැමිය යුතුය. එවිට ඒ හා බැඳුනු ඉතා හානිකර උප සංස්කෘතියද ඉවර වනු ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-02-21 09:25:33</date>
+            <index>3</index>
+            <phrase>අතිබිහිසුණු දර්ශනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2017-02-21 12:33:20</date>
+            <index>4</index>
+            <phrase>මේ වගේ අනාරක්ෂිත රථ ලංකාවේ තහනම් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

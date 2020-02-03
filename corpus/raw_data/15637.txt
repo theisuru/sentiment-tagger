@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15637</articleId>
+    <title>බංගලි ජාතිකයා විහින් හිරේ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 02 16:59:56</date>
+    <body>බහරේනයට ගිය ශ්‍රී ලාංකික ගෘහ සේවිකාවකට බලහත්කාරකම් කිරීමට තැත් කළැයි වැරදිකරුවූ බංගලිදේශ ජාතිකයකුට එරට අධිකරණය වසරක සිර දඬුවමක් නියම කර ඇතැයි එරට ශ්‍රී ලංකා කොන්සියුලර් කාර්යාල ආරංචි පවසයි. දඬුවම අවසානයේ ඔහු පිටුවහල් කැරේ.</body>
+    <comments>
+        <comment>
+            <author>ranga shani</author>
+            <date>2011-12-02 17:30:26</date>
+            <index>0</index>
+            <phrase>අවුරුද්දක් මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමා</author>
+            <date>2011-12-03 00:36:11</date>
+            <index>1</index>
+            <phrase>මේ දඩුවම් ලිහිල් වැඩියි.....ගල් ගහන්නයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2011-12-03 11:34:48</date>
+            <index>2</index>
+            <phrase>අපෝ පව් අහින්සකයා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2011-12-03 16:54:50</date>
+            <index>3</index>
+            <phrase>බන්ගලියාට හොඳ වැඩේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>367705</articleId>
+    <title>බස් දෙක ගැටී 36 ක් රෝහලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2015 දෙසැම්බර් මස 09 07:28:50</date>
+    <body>ගාලූ පාරේ කටුකුරුන්දේදී පෞද්ගලික බස් දෙකක් එකිනෙක ගැටී සෙබළුන් 15 දෙනෙක් හා කාන්තාවන් තිදෙනෙක් ඇතුළු 36 දෙනෙක් රෝහල්ගත කළ බව පොලිසිය කියයි.
+එක් බසයක් හක්මන සිට කොළඹ බලා ධාවනය වෙමින් තිබූ බව දැනගන්නට ඇත.
+ගැටීමෙන් පසු එක් බසයක් මාර්ගය පසෙක තිබූ කඩයක්ද කඩාගෙන ගොස් නිවසක සාලයේ නතරවී තිබෙන බව වාර්තා වන අතර නිවැසියන් නිවසේ පිටුපස කොටසේ නිදා සිටි නිසා දිවි ගලවාගෙන ඇති බව පැවසේ.
+අනෙක් බසය විදුලි කණුවක ගැටී නතරවී ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2015-12-09 05:49:15</date>
+            <index>0</index>
+            <phrase>තුවාල ලැබූවන්ට ඉක්මන් සුවය ප්‍රාර්ථනා කරන අතරම ඈසිය යුතුම කාරණාවක් ඈත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්තක</author>
+            <date>2015-12-09 20:54:30</date>
+            <index>1</index>
+            <phrase>නොසැළකිලිමත්කම තමයි මූලිකම හේතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2015-12-10 03:14:54</date>
+            <index>2</index>
+            <phrase>දුර ගමන් සේවා බස් ඔක්කොම වගේ යන්නේ පොළොවට උඩින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2015-12-10 06:18:38</date>
+            <index>3</index>
+            <phrase>වරද කරපු රියදුරු එල්ලා මැරීමට නියෝග දිය යුතුයි. මෙය සත පහ කටවත් ගණන් නොගන්නා මනුස්ස ජීවිත වක්‍රව ඝාතනය කිරීමකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

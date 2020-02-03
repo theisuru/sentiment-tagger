@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>249285</articleId>
+    <title>ඇසළ පොහෝය අදයි</title>
+    <author>දීපාල් සිල්වා</author>
+    <date>2014 ජූලි මස 11 20:45:06</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-07-12 12:58:00</date>
+            <index>0</index>
+            <phrase>පෝයක් නොමැති රටක සිටියත් මේ උතුම් පෝය දවසේ බණ පදයක් අහන්න සලස්වා දුන් ලංකාදීපයට ගොඩක් පින් අත්වේවා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

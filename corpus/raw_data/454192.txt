@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454192</articleId>
+    <title>තෙරේසා මව්තුමිය ශාන්තුවරියක් වෙයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 සැප්තැම්බර් මස 04 15:26:09</date>
+    <body>වතිකානයේ අද (4) පැවැති උත්සවයකදී ශුද්ධෝත්තම පාප් වහන්සේ විසින් තෙරේසා මව්තුමිය ශාන්තුවරියක ලෙස නම් කරනු ලැබීය.
+කාදිනල් ඇන්ජලෝ ආමටෝ තෙරේසා මව්තුමියගේ ජීවිතයේ තොරතුරු සාරාංශගතව වතිකානයේ පැවැත්වෙන උත්සවයේදී සභාවට ඉදිරිපත් කළේය.
+ඉන්දියාවේ කල්කටා නගරයේ දුප්පත් වැසියන් වෙනුවෙන් ඇය කළ මෙහෙය උදෙසා මෙසේ ශාන්තුවර පදවියට පත් කර ඇතැයි කියති. තෙරේසා මව්තුමිය සමාජ සේවය කරමින් සිටියදී 1997 වසරේදී මෙලොවින් සමුගත්තාය.</body>
+    <comments>
+        <comment>
+            <author>රෝහිණී මොල්ලිගොඩ</author>
+            <date>2016-09-04 12:27:10</date>
+            <index>0</index>
+            <phrase>එතුමිය මෙලොවට මහගු සේවයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රියන්සි විජේරත්න</author>
+            <date>2016-09-04 12:53:46</date>
+            <index>1</index>
+            <phrase>උතුම් දෙයක් ඇය සියල්ලන්ට ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනුක පෙරේරා</author>
+            <date>2016-09-05 05:47:13</date>
+            <index>2</index>
+            <phrase>කිතුණු දහමේ ආදර්ශය මේ ලොව තුළ පැතිරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ ප්‍රියංකර</author>
+            <date>2016-09-05 08:32:50</date>
+            <index>3</index>
+            <phrase>ලෝක වාසීන්ගේ ඇස් ඉදිරිපිටම අහිංසක ජනයාට ඇපකැපවූ ශාන්තුවරිය තෙරේසා මව් තුමිය ගෙ ආදර්ශය මොහොතින් මොහොත ආවර්ජනය කිරීම මිනිස් කම් ඇත්තෝ සිත් අවදි කරන්නේ නම් මනුෂ්‍යත්වයෙ ගමනට ඉලක්කයක් කර ගනිමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-09-05 09:34:50</date>
+            <index>4</index>
+            <phrase>මම මුලින් හිතුවේ මේ පත්වීම් දෙන්නේ දෙයියෝ කියලා. බලනකොට එහෙම නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-09-06 05:53:40</date>
+            <index>5</index>
+            <phrase>එතුමිය තම ජීවිත කාලෙදිම සාන්තුවරියක් වී සිටියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලි ප්‍රනාන්දු</author>
+            <date>2016-09-06 06:56:38</date>
+            <index>6</index>
+            <phrase>අබේරත්නගේ කතාව මසුරන්.එහෙම සන්තුවරයක් ජීවත් වෙලා ඉන්න කෙනෙකුට(පාප් වහන්සේට) දෙන්න පුළුවන්ද. මගේ අම්මත් ආගමේ කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගරිකා</author>
+            <date>2016-09-06 07:37:32</date>
+            <index>7</index>
+            <phrase>සාන්ත තෙරේස තුමිය දිළින්දන් ලෙඩුන් වෙනුවෙන් එතුමියගේ මුළු ජිවිතයම කැප කාලය. කළ සේවය පමණක් නොව ප්‍රාතිහාර්යද සිදුකළාය මේ සියලු කරුණු බලා එතුමියට සාන්තුවරය දානය කරන ලදී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-07 13:10:51</date>
+            <index>8</index>
+            <phrase>සෝවාන් සහතිකය දෙන තැන් දැන් ලංකාවේ තියෙනවා. මෙයත් එවැන්නක්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38996</articleId>
+    <title>වෙසක් ළඟයි පහන් එළියත් ළඟයි</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 අපේ‍්‍රල් මස 26 11:38:01</date>
+    <body>මදුරාගල අම්පිටිගල  සකපෝරු මේ දිනවල කරකැවෙනුයේ   මැටි පහන් නිපදවීමටයි.වෙසක් සමයේ මැටි පහන් වලට  ඇත්තේ ලොකු ඉල්ලුමකි . මැටි පහනක තොග මිල රුපියල් 1.75 කි. සිල්ලර මිල රුපියල් 2.50 කි. දිනකට එක් අයකුට මැටි පහන් සහසක් පමණ නිපදවිය හැකි අතර  එසේ සැකසු මැටි පහන්  වියලා පුළුස්සා ගැනිමට දින දෙකක් පමණ ගතවේ
+ඡායාරූප- විශ්ව ගැමුණු ප්‍රියංකර
+ </body>
+    <comments>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-04-27 00:37:25</date>
+            <index>0</index>
+            <phrase>මේක නම් හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>SACHITHRA</author>
+            <date>2012-05-01 14:36:28</date>
+            <index>1</index>
+            <phrase>මැටි පහන් වලින් ආලෝකය විහිදුනට මැටි පහන් හදන මිනිස්සුන්ගේ ජීවිතවල ආලෝකයක් දකින්න අමාරුයි. කාලෙන් කාලෙට උඩට එන ඒත් ප්‍රගතියක් නැති පුවතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

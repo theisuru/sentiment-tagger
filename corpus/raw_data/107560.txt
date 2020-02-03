@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>107560</articleId>
+    <title>ස්කෑනරයෙන් සිහින තෝරයි ?</title>
+    <author>අශේන් සේනාරත්න</author>
+    <date>2013 අපේ‍්‍රල් මස 08 14:31:10</date>
+    <body>එම්.ආර්.අයි ස්කෑන් යන්ත්‍රයේ ආධාරයෙන් මිනිසුන්ගේ සිහින කියවීමට ජපාන පරීක්ෂකවරු මේ දිනවල පරීක්ෂණ පවත්වති . ඔවුන් පවසන ආකාරයට 60% නිවැරදි බාවයකින් මෙම කටයුත්ත කළ හැකිය. සිහින පමණක් නොව නින්දේදී ඇතිවන හැගීම් , චිත්තවේග ආදියද මෙමගින් නිරීක්ෂණය කළ හැකි බව ඔවූහු කියති.තිදෙනෙක් යොදාගෙන කළ පළමු පරීක්ෂණය සාර්ථක වූ බවත් ඉදිරියේදී තවත් පරීක්ෂණ කරමිනිසුන්ගේ සිහින කියැවීමසීයට සීයක් සාර්ථක කර ගැනීම අරමුණ බව ඔවූහු කියති.</body>
+    <comments>
+        <comment>
+            <author>දයා</author>
+            <date>2013-04-08 15:29:55</date>
+            <index>0</index>
+            <phrase>තාක්ෂණයේ දියුණූව කොතරම් නම් අගනේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-04-08 19:38:44</date>
+            <index>1</index>
+            <phrase>මම ඔ්‍යගැන නිතර දෙවේලේ කල්පනා කර කර සිටියේ. සිහින කියවීමට පමණක් නෙමෙයි, ඡායාරූප පෙන්වීමටත් ජපනුන්ට හැකිවෙනවා නොඅනුමානයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-04-08 22:10:45</date>
+            <index>2</index>
+            <phrase>හැැබයි එම්. ආර්.අයි. ස්කෑනර් යන්ත්‍ර ගැන තියෙන කතා නම් එච්චර හොද නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2013-04-09 00:04:22</date>
+            <index>3</index>
+            <phrase>හොර තක්කඩි සාස්තර කාරයෝ මෙහෙ පැටවූ ගහයි මේවා ආවොත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

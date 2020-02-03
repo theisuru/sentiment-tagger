@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>368078</articleId>
+    <title>‘ජීවිතේ තේ කෝප්පයක් වගෙයි‘</title>
+    <author>එච් ඒ ගයාන් මධුසංඛ</author>
+    <date>2015 දෙසැම්බර් මස 10 20:00:05</date>
+    <body>ජාතිවාදය හා  ජීවිත  ගැන කියැවෙන කෙටි චිත්‍රපටයක් කැලණිය සරසවියේ ශිෂ්‍ය පිරිසක් නිපදවූහ. ජීවිතය තේ කොප්පයකට සමාන කර පෙන්වන මේ චිත්‍රපටය තේ කෝප්පය හදන තැනැත්තා අනුව රසයේ පොඩි පොඩි වෙනස්කම් තිබුණත් තේ එක තේ එකක්ම  බව කියයි. ජාතීන් අතර භාෂාව වෙනස් වුවද ජීවිතය ගෙවන ආකාරය සමාන බව පෙන්වීමට මේ වීඩියෝවෙන් උත්සාහ දරා ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>පොලුවංශ</author>
+            <date>2015-12-10 15:58:56</date>
+            <index>0</index>
+            <phrase>මේ වගේ අය තමයි කැලණියේ වැඩි හරියක්ම ඉන්නේ .ඕකට විශ්ව විද්‍යාලය කියලා නම දාපු අය කවුද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2015-12-10 16:21:58</date>
+            <index>1</index>
+            <phrase>"කෝප්පය මොකක් වුනත් තේ එක තේ එකමයි.." ආදරයත් එහෙමයි..ජාති ආගම කුල මල ..මොනවා වුනත් ආදරය හැමදාමත් ආදරයමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැටවල</author>
+            <date>2015-12-10 18:45:23</date>
+            <index>2</index>
+            <phrase>සාර්ථක උත්සාහයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2015-12-10 20:53:13</date>
+            <index>3</index>
+            <phrase>හොඳ උත්සාහයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්මු</author>
+            <date>2015-12-11 03:14:46</date>
+            <index>4</index>
+            <phrase>සමහරු නම් දන්නේ අනුන්ගෙ උත්සාහයට ගරහන්න විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2015-12-11 04:33:45</date>
+            <index>5</index>
+            <phrase>මේව විශ්ව විද්‍යාල නිර්මාණද?කැලණියෙ විශ්ව විද්‍යාල මට්ටමේ නිර්මාණ කරන්නෙ ඇකඩමික් ප්ලේයර්ස්ල විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේන්</author>
+            <date>2015-12-11 06:03:39</date>
+            <index>6</index>
+            <phrase>අපි මොන තරම් වෙනස් වෙන්න හැදුවත් ,සමහර අය ඉන්නවා තේ කෝප්පයේ රහ ඒ ගොල්ලොනට ඕනේ විදිහටම තියෙන්න ඕනේ කියලා ,සිංහල අපේ තේ කෝප්පේ රස වෙනස් කරන්න නම් ලොකුවට කතා කරයි ,එ්ත් අනික් අය ගැන කව්රු කතා කරයිද ?දැන් ඉතින් ඒ ගැන අපි කළොත් ජාතිවාදී වෙනවානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපි</author>
+            <date>2016-01-15 03:51:55</date>
+            <index>7</index>
+            <phrase>මටනම් හිතෙන්නේ ජිවිතේ 'තේ කෝප්පයක් ' වගේ නෙමෙයි කියලයි ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

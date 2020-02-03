@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16850</articleId>
+    <title>ශි‍්‍ර ලංකාවේ ප‍්‍රථම බ්‍රේල් පුවත් පත දොරට වැඩිය වගයි.  2 කොටස</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 11 11:47:01</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-01-28 02:21:56</date>
+            <index>0</index>
+            <phrase>ඔබේ මේ ප්‍රිය වදන් සනසාවි සිමුදු සිත් බලාපොරොත්තු හෙට දවසට. නැගී සිටින්න තම දෙපයන්. සුදු සැරයැටි තනමු අපි සැම දිරියෙන් දිරිය පරපුරට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ ශාන්ත කුමාර</author>
+            <date>2012-01-28 11:11:12</date>
+            <index>1</index>
+            <phrase>කමල ඔබගේ ප්‍රතිචාරය පැහැදිලි නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

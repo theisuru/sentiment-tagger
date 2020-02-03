@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>95432</articleId>
+    <title>සාමුවන් එළවන්න ‘දිවියෝ‘ ගස්වල එල්ලෙති</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2013 ජනවාරි මස 29 12:29:08</date>
+    <body>කතරගම පූජා නගරයේ හා අවට වඳුරන් හා රිලවුන් පළවා හැරීම සඳහා ‘දිවියන්‘ ගස්වල එල්ලා ඇත.
+දිවියන් දුටු විට සාමුවන් පළා යතියි වැසියෝ කියති.
+රෙදි කැබලිවලින් හැදූ දිවියන්ගෙන් හොඳ ප්‍රතිඵල ලැබෙතියි ද ඔවුහු කියති.
+කතරගම දේවාලයේ පළතුරු, පොල් ආදිය කෑමට ද වන්දනාකරුවන් දෙන ආහාර බලාපොරොත්තුවෙන් ද මේ සත්තු සිය ගණනින් තැන තැන රැඳී සිටිති. ඇතැම් විට ඔවුහු ආක්‍රමණකාරී වෙති.</body>
+    <comments>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2013-01-29 12:37:26</date>
+            <index>0</index>
+            <phrase>"සාමුවන්" කියන්නේ මොකුන්ටද...? රිලවුන්ටද...? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-01-29 12:46:36</date>
+            <index>1</index>
+            <phrase>මෙන්න මේක නම් නියම මොලේ ඇති වැඩක්.. අපරාදෙ වියදමක් කරන්නෙ විදුලි වැටවල් ගහලා.. මේ විකියට කටුස්සො එල්ලුවානම් අලිත් බයවෙයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-29 13:02:27</date>
+            <index>2</index>
+            <phrase>කොහොමද ටිකිරි මොලේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-01-29 13:26:24</date>
+            <index>3</index>
+            <phrase>"හාමුවන්" කිව්වනම් වලවුවල අය අමනාපවෙන නිසා "සාමුවන්" කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෝහා</author>
+            <date>2013-01-29 13:30:43</date>
+            <index>4</index>
+            <phrase>තව ටිකදවසකින් රිළවුන්ට තේරෙයි මේක ප්‍රෝඩාවක් කියලා.. උන් තම්බන්න බැහැ මොන දේ කළත්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-01-29 13:38:41</date>
+            <index>5</index>
+            <phrase>දිවියා උනාට පේන්නේ කොටියා වගේ අපේ සමහර අය ඕක දැක්කොත් කොටි අවතාර කියයි නැත්නම් කොටින්නට උල්පන්දම්දෙන විජාතික බලවේගයක් කියලා කියයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ඒ.සංජීව</author>
+            <date>2013-01-29 13:40:03</date>
+            <index>6</index>
+            <phrase>ජීවන් ඔයා ලංකාවෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ.ආර්.ජේ.</author>
+            <date>2013-01-29 13:44:48</date>
+            <index>7</index>
+            <phrase>මේ සතුන්ට අයිති තැන් මිනිසුන් උදුරාගෙන.. කන්න පුළුවං දෙයක් හැදෙන ගහක් කොලක් මේ සතුන්ට නැහැ.. ඒ නිසා මෙහෙම වෙලා වෙන්නේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-29 13:49:02</date>
+            <index>8</index>
+            <phrase>ටික දවසකින් රිලවුත් රෙදි කොටින්ට හුරු වෙයි..ඒත් උත්සාහය හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2013-01-29 15:00:35</date>
+            <index>9</index>
+            <phrase>දිවි හම ගන්න කියලා ඕකත් දඩයම් කරයිද දන්නේ නැහැ.. කල්පනාවෙන් ඉන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-01-29 15:11:16</date>
+            <index>10</index>
+            <phrase>වදුරට ගිය කල, කතරගම දෙවියන්ගේ වාහනේ දැන් එයාලා පාවිච්චි කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2013-01-29 15:29:09</date>
+            <index>11</index>
+            <phrase>හේමන්ත, නෑ ඒ හනුමා දඩු මොනරෙන් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-01-29 15:31:46</date>
+            <index>12</index>
+            <phrase>වදුරන් කෙසේ වෙතත් රිලව් ටික ඔය එල්ලලා තියෙන කොටියට වැඩක් දේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිරාජ්</author>
+            <date>2013-01-29 16:17:22</date>
+            <index>13</index>
+            <phrase>රිලවුන්ගේ බෝවීම වැඩියි... ලෝකයේම එක්තරා ජන කොටසක ජනගහනය වැඩිවෙනවා වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2013-01-29 16:18:47</date>
+            <index>14</index>
+            <phrase>සාමුවන් කියන්නේ ශාක මෘග කියන එකනේ... එත් සෙල්ලම් බදු වලට රැවටෙන්න තරම ඔය අය මෝඩයි කියල හිතන්න අමාරුයි... ටික දවසකින් දැනගෙන අපහු එයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත</author>
+            <date>2013-01-29 16:25:25</date>
+            <index>15</index>
+            <phrase>දැං කතරගම රිළවුන් නැතිව යයිද දන්නේ නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාන්ත</author>
+            <date>2013-01-29 16:59:25</date>
+            <index>16</index>
+            <phrase>වදුරන්ව හැමදාම රවටන්න බැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2013-01-29 17:24:02</date>
+            <index>17</index>
+            <phrase>සාමුවන් කියන්නෙ හාවන් සහ මුවන්ට නෙමෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2013-01-29 17:24:11</date>
+            <index>18</index>
+            <phrase>කිත්සිරි, සාමුවන් කියන්නේ ඉතාම සරලව සාවුන් සහ මුවන් [ හාවෝ සහ මුවෝ ] කියන එකයි. මේක මොන්ටිසෝරියේදී උගන්වන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2013-01-29 19:16:09</date>
+            <index>19</index>
+            <phrase>ඡන්දදායකයින් වගේ හැමදාම රිලවු වදුරො රවටන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2013-01-29 19:17:06</date>
+            <index>20</index>
+            <phrase>බෙනට්, 10 වෙනි පන්තියේ සිංහල දැනුමට අනුව කිත්සිරි නිවැරදියි. දන්න කියන සිංහල ගුරුතුමෙකුගෙන් අසා දැන ගත හැකියි. සාවුන් සහ මුවන් ගස් නොනගින බව මොන්ටිසෝරි දරුවෝද දනිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද</author>
+            <date>2013-01-29 19:22:56</date>
+            <index>21</index>
+            <phrase>කැළණිය පැත්තේ කාගේහරි ෆොටෝ එකක් එල්ලුවා නම් කවුරුවත් එන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රියාල්</author>
+            <date>2013-01-29 19:29:33</date>
+            <index>22</index>
+            <phrase>රිළවු බෝවෙන විදිය ගැන කියන්නේ, ළගදි සංගණනයක්වත් කරලද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2013-01-30 05:24:50</date>
+            <index>23</index>
+            <phrase>මේව මළ කෝලම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීති</author>
+            <date>2013-01-30 05:39:41</date>
+            <index>24</index>
+            <phrase>බෝ වීම වළක්වන මොනවා හරි කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2013-01-30 13:57:42</date>
+            <index>25</index>
+            <phrase>මාරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

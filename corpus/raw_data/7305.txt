@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7305</articleId>
+    <title>වික‍්‍රමබාහුට මරණිය තර්ජන</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2011 ඔක්තෝබර් මස 05 10:19:18</date>
+    <body>කොළඹ මහා නගර සභාව අසලදී පිරිසක් තමාට ආයුධ පෙන්වා මරණීය තර්ජනය කළ බව ප‍්‍රජාතන්ත‍්‍රවාදී මහජන පෙරමුණෙන් දෙහිවල ගල්කිස්ස මහා නගර සභාවට තරග කරන ආචාර්ය වික‍්‍රමබාහු කරුණාරත්න පවසයි.</body>
+    <comments>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2011-10-05 10:41:21</date>
+            <index>0</index>
+            <phrase>මෙයා හරි හොද කෙනානෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>farzan</author>
+            <date>2011-10-05 11:19:16</date>
+            <index>1</index>
+            <phrase>විකුමබාහු හොද ‍යහපත් කෙනෙක් අනේ එහෙම කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2011-10-05 12:50:16</date>
+            <index>2</index>
+            <phrase>ඕවායින් වෙන්නේ කබ්බෝ ‍ෆෝම් වෙන එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි මහේෂිකා අමරසිංහ</author>
+            <date>2011-10-05 13:12:35</date>
+            <index>3</index>
+            <phrase>මේ වගේ මොළේ නරක් වෙච්ච මිනිස්සු සමාජයට වැඩක් නැති බව තර්ජනය කරපු මහත්මයා දැනගෙන ඇති. රස්තාදුකාරයා වගේ කමිස බොත්තම් ඇරගෙන ගිරිය පුපුරන්න කෑ ගහන මේ මිනිස්සු කොහොමද රට හදන්නේ අපේ සංස්කෘතියට ගැලපෙන නායකයා මොකා හරි දැක්කම පිරියක් වෙන්න ඕන අපේ දරුවන්ට පෙන්වන්න පුඵවන් පෞරෂයක් හදාගෙන ඉන් පස්සේ වයස තිබුනොත්...............?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2011-10-05 13:18:58</date>
+            <index>4</index>
+            <phrase>ආගම් කුළ බේද නැති මනුස්සයා මම කැමති මොහුට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-10-05 13:33:45</date>
+            <index>5</index>
+            <phrase>තොත්ත බබාගේ කිරි බෝතලේ කොහේද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනා</author>
+            <date>2011-10-05 14:02:47</date>
+            <index>6</index>
+            <phrase>මේක මතිවරණ කාලෙනේ. අනුකම්පා චන්ද ගන්න ගොතන බොරු මේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2015-10-27 06:50:27</date>
+            <index>7</index>
+            <phrase>මෙතැන ඉන්න ගොඩක් අයට මේ ඉගන ගත්තු මිනිස්සුන්ගේ අගයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකි</author>
+            <date>2016-04-04 13:42:01</date>
+            <index>8</index>
+            <phrase>ගිය ආත්මේ මෙතුමා ප්‍රභාකරන්ගේ බාප්පා කෙනෙක් වන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-10-03 11:17:27</date>
+            <index>9</index>
+            <phrase>කවුද අප්පේ මේ අයට මරණ තර්ජන කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494793</articleId>
+    <title>නව වසරට මුතියංගණයට මහ සෙනඟක්</title>
+    <author>ප්‍රසාද් රුක්මාල්</author>
+    <date>2017 ජනවාරි මස 01 10:34:20</date>
+    <body>2017 නව වසර උදාවත් සමඟ බදුල්ල ඓතිහාසික මුතියංගන රජමහා විහාරස්ථානය වැද පුදා ගැනීමට බැතිමත්හූ විශාල මුතියංගන පුද බිමට අද (01) පැමිණියහ.
+මුතියංගණ රජමහා විහාරස්ථානයේ භාරකාරධුර මුරුද්දෙනියේ ධම්මරතන හිමියන්ගේ අනුශාසනා පරිදි මුතියංගන ශ්‍රී සුමන තිස්ස දහම් පාසලේ ප්‍රධාන ආචාර්ය මලගල චන්දිම හිමියන්ගේ ප්‍රධානත්වයෙන් ආගමික වතාවත් සිදු කෙරුණි.</body>
+    <comments>
+        <comment>
+            <author>නයනා</author>
+            <date>2017-01-01 06:03:25</date>
+            <index>0</index>
+            <phrase>වාසනාවන්! වාසනාවන්ත සුබ නව වසරක් වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-01-01 07:03:51</date>
+            <index>1</index>
+            <phrase>සාධු ! සාධු !! සාධු!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2017-01-01 09:30:34</date>
+            <index>2</index>
+            <phrase>නව වසරේ සැමටම කිරි ඉතිරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

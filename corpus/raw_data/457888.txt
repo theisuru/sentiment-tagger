@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457888</articleId>
+    <title>අයිආර්සීකාරයා අයකැමිවරියගේ පා පහරින් බිම වැටේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 14 18:04:15</date>
+    <body>ඇපමත සිටි දිවයිනේ නම ගිය අපරාධකරුවකු බව කියන පුද්ගලයකු ඉංගිරියේ තේ කම්හලක අයකැමිවරියකගේ මාලය කොල්ලකා පැන ගොස් 24 පැයක් යන්නට පෙර අත්අඩංගුවට ගැනීමට හැකිවූ බව ඉංගිරිය පොලිසිය කියයි.
+යතුරුපැදියකින් ආ බව කියන සැකකරු ලේන්සුවකින් මුහුණ බැඳගෙන අයකැමිවරියට පහර දී ඇතැයි ද ඇය ද ඔහුට පා පහරක් එල්ල කර ඇතැයි ද එම පහරින් ඇද වැටුණු ඔහු යළිත් නැගිට මාලය කඩාගෙන පැන දිවූ බවද පොලිසිය පවසයි. එහෙත් ඔහුගේ යතුරුපැදිය හා මුදල් පසුම්බියේ තිබූ හැඳුනුම්පතින් ඔහු අත්අඩංගුවට ගත් බවත් පානදුර ගල්කිස්ස හා කොළඹ සොරකම්, කොල්ලකෑම් හා හෙරොයින් කුඩු ජාවාරම් ඇතුළු අපරාධ 39කට ඔහු සම්බන්ධ බවත් පොලිසිය පවසයි.
+ </body>
+    <comments>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-09-14 13:13:20</date>
+            <index>0</index>
+            <phrase>අහිංසක මිනිස්සුන්ගේ මේ වගේ දේවල් ගන්න එවනවා සදාකාලිකවම හිරේ යවන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-14 14:49:20</date>
+            <index>1</index>
+            <phrase>හොරා පැනලා ගියත් දුන්න පා පහර ගැන නම් හරිම සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-09-14 15:25:44</date>
+            <index>2</index>
+            <phrase>පයින් නොවෙයි ඔලුවට්යි කුඩුවෙන්න ගහන්න තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-09-14 21:34:52</date>
+            <index>3</index>
+            <phrase>ගැහැණුන්ගෙනුත් ගුටිකන මොවුන්ට හොරු කියනවා නම් නියම හොරුන්ට කියන්නේ මොකක්ද කියලයි මේ කල්පනා කළේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2016-09-15 02:02:13</date>
+            <index>4</index>
+            <phrase>මෙන්න නියම යුගයේ එඩිකර කතක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාන්</author>
+            <date>2016-09-15 02:02:13</date>
+            <index>5</index>
+            <phrase>අපේ කාන්තාවන්ට හොඳ අාදර්ශයක්. හැමෝම මේ වගේ බය නැතුව ක්‍රියාකළොත් අපරාධ ගොඩක් අඩුවේවි. හැම කාන්තාවකටම ඒ ධෛර්යය ලැබේවා කියලා ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-09-15 03:45:54</date>
+            <index>6</index>
+            <phrase>පොලිසිය මැදිහත් වී ජනතාවට මේවගේ ආත්මාරක්ෂක ක්‍රම ඉගැන්නුවනම් මොකද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

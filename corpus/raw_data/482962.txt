@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>482962</articleId>
+    <title>කොස්තාට අවසන් ගෞරව</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 නොවැම්බර් මස 23 13:30:16</date>
+    <body>අභාවප්‍රාප්ත ප්‍රවීණ රංගධර විමල් කුමාර ද කොස්තාගේ දේහය අද (23) කොළඹ සුදර්ශි කලායතනයට ගෙන එනු ලැබීය.
+පස්වරු 3ට දේහයට අවසන් ගෞරව දැක්වීමෙන් පසු බොරැල්ල කනත්තේදී සවස 5ට අවසන් කටයුතු සිදුකිරීමට නියමිතය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අමිත්</author>
+            <date>2016-11-23 08:23:57</date>
+            <index>0</index>
+            <phrase>අපේ කාලයේ දක්ෂ නළුවෙක්...එතුමාට නිවන් සුව !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුකිරි</author>
+            <date>2016-11-23 11:38:49</date>
+            <index>1</index>
+            <phrase>නිවන් සුව සහෝදරයා. ඉතාමත් දක්ෂ නළුවෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2016-11-23 11:53:54</date>
+            <index>2</index>
+            <phrase>විජයකුමරතුන්ගගෙන් පසුව තනි වුණ බවක් තමා දැක්කේ, කලාකරුවන් හා ඔබෙන් සේවය ලබාගත් උදවිය ඔබව තනිකල බවක් පෙනේ, ඔබගේ චක්ෂතා වලට දනය ඉදිරියේ ජය නොලැබුන බව දැනුන. රටක් වටිනා ඔබ පැතු බෝධියකින් නිවන් දකිත්වා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-11-23 12:08:38</date>
+            <index>3</index>
+            <phrase>රංගධරයාණනි,ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ නිමල්</author>
+            <date>2016-11-23 14:49:38</date>
+            <index>4</index>
+            <phrase>අග්‍රගණ්‍ය චරිතාංග නළුවානෙනි, ඔබට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-11-23 15:00:45</date>
+            <index>5</index>
+            <phrase>70 ව දශකයේ සිට මේ දක්වා උපරිම සේවයක් කලාවට කළ අසහාය කලාකරුවාණනි, ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-11-23 15:25:16</date>
+            <index>6</index>
+            <phrase>ඔබට නිවන් සුව කොස්තා මහත්මයාණනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2016-11-23 15:43:11</date>
+            <index>7</index>
+            <phrase>මමත් තරුණ වියට පාතැබූ කාලයේ හිටිය මගේ ප්‍රියතම නළුවන් දෙන්නාගෙන් එක්කෙනෙක්. අනෙකා අමරසිරි කලන්සූරිය. විමල් කුමාර ද කොස්තා මහතාණෙනි, ඔබතුමාට නිවන් සුව ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද ලියනගේ</author>
+            <date>2016-11-24 05:21:09</date>
+            <index>8</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

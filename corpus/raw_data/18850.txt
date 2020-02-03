@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18850</articleId>
+    <title>දුම්රියට ගල්</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 22 17:58:31</date>
+    <body>වවුනියා කොළඹ නගරාන්තර දුම්රියට හා කාර්යාල දුම්රියකට අනුරාධපුර මල්වතුඔය කළුපාලම අසලදී අද ගල් ගැසීමෙන් කිහිප දෙනකු තුවාලවී දුම්රිය ජනේල වීදුරු කැඞී ඇතැයි තලාව පොලිසිය කියයි.
+එක් කතකට මැහුම් හයක්  දැමු බව රෝහල පවසයි.
+ගල් ගැසූ කොල්ලන් සොයා තලාව හා අනුරාධපුර පොලිසිය පරික්‍ෂණ පවත්වයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි (kuwait)</author>
+            <date>2011-12-22 19:24:12</date>
+            <index>0</index>
+            <phrase>තලාවේ ඉන්නෙ ගල් වැද්දො වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනස්</author>
+            <date>2011-12-22 19:25:28</date>
+            <index>1</index>
+            <phrase>පාසල් නිවාඩු කාලයේ වැඩක් එපැයි කරන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහයා</author>
+            <date>2011-12-22 20:31:39</date>
+            <index>2</index>
+            <phrase>ඒ කොල්ලන්ට ඉහමොල රත්වෙනකම් ටොකු අනින්නයි තියෙන්නෙ.... :)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යස්මාල් නෙරංජා</author>
+            <date>2011-12-22 21:36:59</date>
+            <index>3</index>
+            <phrase>මානසික ලෙඩ්ඩුද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2011-12-22 22:24:48</date>
+            <index>4</index>
+            <phrase>අත කපලා දාන්න ඕනා සවුදියේ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලොක්කා මල්ලි</author>
+            <date>2011-12-22 23:02:23</date>
+            <index>5</index>
+            <phrase>ගල් ගහපු අය හොයනවට වඩා පළාතේ පැරදුන දේශපාලුවෝ හොයා ගත්තනම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2011-12-23 06:45:03</date>
+            <index>6</index>
+            <phrase>පිරිහිණු විනය සමාජ ගැටලුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලූෂන්</author>
+            <date>2011-12-23 08:18:29</date>
+            <index>7</index>
+            <phrase>මෙහෙමත් රටක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2011-12-23 13:13:45</date>
+            <index>8</index>
+            <phrase>අනුරාධපුරේදි දුම්රියක් මංකොල්ල කාල අන්තිමට පරණ කෝන්තරත් පිරිමහන් ඉවර වුනේ යුද්දෙකින්. මේ පාරත් ගල් ගහලා. මේවා අඩන්න ඉන්න මිනිහට ඇගිල්ලෙන් අනිනවා වගේ වැඩ.. මහලොකුවට කියනවා ලංකාවේ සාක්ෂර තාවය ඉහල අගයක් කියලා මේ අය දන්නේ ඉතින් ඇත්තටම කියන්න ලියන්න මිසක් හිතන්න නෙවේනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

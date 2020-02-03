@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>491219</articleId>
+    <title>තුර්කියේ රුසියා තානාපති වෙඩි තබා මරලා</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 දෙසැම්බර් මස 20 09:00:32</date>
+    <body>තුර්කියේ රුසියා තානාපති අන්ද්‍රේ කාලොෆ් ඝාතනයට ලක්ව ඇතැයි විදෙස් මාධ්‍ය වාර්තා පවසයි.
+තුර්කියේ හිටපු කැරලි මර්දන භටයකුගේ වෙඩි පහරට ලක්ව ඔහු මියගොස් ඇති අතර 62 හැවිරිදි කාලොෆ් රුසියාවේ ප්‍රවීණ රාජ්‍ය තාන්ත්‍රික නිලධරයකු ලෙස හැඳින්වේ.
+අන්කාරා නුවර පැවැති ඡායාරූප ප්‍රදර්ශනයකට සහභාගීවී සිටියදී කාලොෆ් වෙඩි ප්‍රහාරයට ලක්ව ඇතැයි කියති.
+වෙඩි තැබූ පුද්ගලයා වෙඩි ප්‍රහාර එල්ල කරන අතරතුර ‘දෙවියන් ශ්‍රේෂ්ටයි‘, ඇලෙප්පෝ නගරය අමතක කරන්න එපා, සිරියාව අමතක කරන්න එපා‘ යනුවෙන් කෑ ගසා ඇතැයි ද වාර්තාවේ. වෙඩි තැබූ පුද්ගලයා 22 හැවිරිදි අයකු බවත් තානාපතිවරයා ඝාතනය සඳහා එක දිගට වෙඩි ප්‍රහාර 8ක් පමණ එල්ල කර ඇති බවත් කියති.</body>
+    <comments>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-12-20 09:20:19</date>
+            <index>0</index>
+            <phrase>ලොව සෑමතැනම එකයි බලනකොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂිත</author>
+            <date>2016-12-20 12:47:56</date>
+            <index>1</index>
+            <phrase>හරිනේ ඔය සෑම තැනකින්ම මතුවෙන්නේ තුන්වැනි ලෝක යුද්ධයේ පෙර නිමිති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-20 19:28:50</date>
+            <index>2</index>
+            <phrase>අද කාලේ මිනිසුන් අනුකම්පාව හඳුනනන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-12-21 02:16:13</date>
+            <index>3</index>
+            <phrase>දෙවියනි, මේ අපරාධ නවතින්නේ කවදාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>481429</articleId>
+    <title>පරාජයෙන් පසු හිලරි කරළියට</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 නොවැම්බර් මස 18 10:16:44</date>
+    <body>ඇමරිකා ජනපතිවරණයෙන් පසු පළමු වරට මාධ්‍ය හමුවේ පෙනී සිටි හිලරි ක්ලින්ටන් තමාගේ මනස නිදහස් වනතුරු නිවසින් පිටනොවන බව ප්‍රකාශ කර ඇතැයි විදෙස් පුවත් සේවා පවසයි.
+ළමා ආරක්ෂක පදනමක උත්සවයකට එක්වෙමින් ඇය එසේ කියා තිබිණි.
+ඇමරිකානුවන් වෙනුවෙන් කිසිදු දිනක තමා සටන අත්නොහරින බවද ඇය කියා සිටි අතර ජනපතිවරණ ප්‍රතිඵලය සම්බන්ධයෙන් බලාපොරොත්තු නොවූ තත්ත්වයක් ඇතිවූ බවද ඇය කියා සිටියාය.
+ඇය එසේ ප්‍රසිද්ධ මාධ්‍ය ඉදිරියට පැමිණියේ පරාජයෙන් සතියකට පසුව වීම ද විශේෂත්වයකි.</body>
+    <comments>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-11-18 07:52:14</date>
+            <index>0</index>
+            <phrase>මෙයට දිනන්න බැරිවුණු පලියට ..මුළු ඇමරිකාවම අවුල්කරන්න හදන්නේ ගේ ඇතුලට වෙලා ඉගෙන ට්‍රම්ප් ට බයයි එ්දවස් වල කියපු කතාවලට ස්ටේජ් එකේ ..? ලෝක යුද්දයක් බැරි හින්ද ඇමරිකාවටම ගිනිතියල බලන්නයි මෙයාගේ දහස ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් - බහරේන්</author>
+            <date>2016-11-18 09:12:31</date>
+            <index>1</index>
+            <phrase>මගේ අදහස නම් තුන්වන ඡේදයේ මුලට "තමා ගැන විතරක් හිතන "යන්න ලිවිය යුතුමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-11-18 15:12:25</date>
+            <index>2</index>
+            <phrase>ලංකාවෙත් මේ වගේම කෙනෙක් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපි</author>
+            <date>2016-11-18 17:26:44</date>
+            <index>3</index>
+            <phrase>ඔය හදන්නේ හිමිහිට ට්‍රම්ප් මහත්තයට කටුව ගහන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-11-18 23:37:30</date>
+            <index>4</index>
+            <phrase>මේ නෝනා ආවා නම් මුළු ලෝකෙම ඉවරයි. තුන්වරක් බුදුන් වැඩිය රටට අත තිබ්බොත් ඉවරෙටම ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2016-11-19 04:41:48</date>
+            <index>5</index>
+            <phrase>අපේ හිටපු කෙනාට වැඩිය චුට්ටක් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-11-19 11:12:07</date>
+            <index>6</index>
+            <phrase>අපේ රටේ හැටි මට මතක්වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458661</articleId>
+    <title>කෝටි ගණනක රට සල්ලි ගුවන්තොටින් පන්නන්න බැරිවෙයි</title>
+    <author>ටීකේජීකපිල</author>
+    <date>2016 සැප්තැම්බර් මස 18 10:39:45</date>
+    <body>රුපියල් එක්කෝටි විසිතුන් ලක්ෂයක් පමණ වටිනා විදේශ මුදල් තොගයක් සමග ඉන්දියන් ජාතිකයකු කටුනායක ජාත්‍යන්තර ගුවන්තොටුපළේ දී අත්අඩංගුවට ගත් බව ගුවන්තොටුපළ පොලිසිය කියයි.
+ඇමරිකන් ඩොලර්, යූරෝ, ස්ටර්ලින් පවුම් සහ කැනඩා ඩොලර් ඔහු සතුව තිබූ බවත් ඒවා රැගෙන ඉන්දියාවේ චෙන්නායි බලා යාමට පැමිණ ඇති බවත් කියති.</body>
+    <comments>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා</author>
+            <date>2016-09-18 07:38:52</date>
+            <index>0</index>
+            <phrase>එට්කා එන්නත් ඉස්සරම සමහර හොරුන් "නිදහස් වෙළඳ කලාපයක්" වගේ වැඩ පටන් ගෙනලා වගෙයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-09-18 11:41:17</date>
+            <index>1</index>
+            <phrase>නැව ගිලුනත් බෑන් චූන්! මේ රටේ ලේ උරන මෙම කූඩැල්ලන්ට උපරිම දඬුවම් දියයුතුයි. එ සමඟ මෙවැනි අය අත්අඩංගුවට ගත් රේගු නිළධාරින්ට ත්‍යාග මුදලින් ලැබිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-19 02:37:11</date>
+            <index>2</index>
+            <phrase>දැන් හොරට ගියාට එට්කා අාවහම නම් ප්‍රසිද්ධියේම යන්න පුලුවන්වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

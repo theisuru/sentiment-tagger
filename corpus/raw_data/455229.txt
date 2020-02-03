@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>455229</articleId>
+    <title>රජයේ කාර්මික  නිලධරයෝ පාරට බසිති</title>
+    <author>ළහිරු හර්ෂණ</author>
+    <date>2016 සැප්තැම්බර් මස 07 15:52:31</date>
+    <body>කාර්මික නිලධාරීන්  සඳහා  වෙන් වු  ඒකාබද්ධ දීප ව්‍යාප්ත සේවයක්  ඇති කරන ලෙසත්, තාක්ෂණ විෂය නොදන්නා අධීක්ෂකයින්ගේ අධික්ෂණයෙන් ඔවුන්ගේ රැකියාව ඉවත් කරන ලෙසත් ඔවුන්ට උසස් අධ්‍යාපනය සඳහා වෘත්තීය ආයතනයක් ඇති කරන ලෙසත් ඉල්ලමින් රජයේ ආයතන කාර්මික නිලධරයෝ අද (7) කොළඹ කොටුව දුම්රියපළ ඉදිරිපිට දී උද්ඝෝෂණයක් පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2016-09-07 15:54:26</date>
+            <index>0</index>
+            <phrase>ඔබ සැමට මගේ ප්‍රසාදය! ඉතාම වැදගත් පිරිසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2016-09-07 15:59:15</date>
+            <index>1</index>
+            <phrase>පොදු ජනතාවගේ දෛනික ජන ජීවිතය අඩාල කරන මෙවැනි උද්ඝෝෂණ නතර කිරීමට රජය අවදානය යොමු කළයුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමලරත්න</author>
+            <date>2016-09-08 03:59:07</date>
+            <index>2</index>
+            <phrase>අපගේ උණුසුම් සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

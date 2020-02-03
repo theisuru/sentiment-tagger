@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>77451</articleId>
+    <title>ගම්පොල  අසාත්මික තාවයට ලක්වූ සිසුන් රෝහලේ</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2012 නොවැම්බර් මස 15 22:00:44</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-11-16 15:32:34</date>
+            <index>0</index>
+            <phrase>මේක රාජ්‍ය නොවන සංවිධානයක වැඩක්ද ?? ජාතිය වඳ කිරීමේ කූට ව්‍යාපාර වලින් පරිස්සම් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>64127</articleId>
+    <title>ලංඩනයේ ලාංකිකයනට ජංගම සේවයක්</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 සැප්තැම්බර් මස 12 09:53:33</date>
+    <body>එංගලන්තයේ ලිස්ට්ර්, මැනචෙස්ටර් හා බර්මින්හෑම් පෙදෙස්හි වාසය කරන ශ්‍රී ලංකිකයන්ගේ ගමන් බලපත්, උපත් ලියා පදිංචිකැරවීම් ආදී කොන්සියුලර් සේවා වෙනුවෙන්, මහා බ්‍රිතාන්‍යයේ  ශ්‍රී ලංකා මහා කොමසාරිස් කාර්යාලයයේ කොන්සියුලර් සේවකයෝ ස්වේච්ඡාවෙන් ජංගම සේවයක් පැවැත්වූහ. ජජ්මිඩෝ  විදුහලේ පැවැති මේ ජංගම සේවයේ විශේෂාංගය වූයේ ශ්‍රී ලංකාවේ සිංහල දෙමළ හා මුස්ලිම් පිරිස් අතර පැවැත්වූ ක්‍රිකට් තරගයි.  මහා කොමසාරිස් දොස්තර ක්‍රිස් නෝනිස්, කොන්සියුලර් අංශ ප්‍රධානී චමින්ද කුලරත්න යන මහත්වරු මෙම දෙවැනි ජංගම සේවය සංවිධාන කළහ.</body>
+    <comments>
+        <comment>
+            <author>ක්‍රිෂාන්ත</author>
+            <date>2012-09-12 11:13:54</date>
+            <index>0</index>
+            <phrase>ලංකාවේ අය කොතනද,.ක්‍රිකට් එතන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-09-12 11:26:34</date>
+            <index>1</index>
+            <phrase>ඒක තමයි දැන් අපේ ලේ වල තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-12 11:51:02</date>
+            <index>2</index>
+            <phrase>හොඳ වැඩක්..ක්‍රිකට් වලින් තමයි ලංකාවේ නම රැදිලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

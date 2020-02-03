@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>415376</articleId>
+    <title>දෝංකාරය ශනිදා  ලන්ඩනයේ</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2016 මැයි මස 13 15:06:57</date>
+    <body>ශ්‍රී ලාංකික උරුමය, සංස්කෘතිය හා කලා සම්ප්‍රදායයන් එක්තැන් කෙරෙන සුවිශේෂි කළා උළෙලක් ලබන 14 වැනි සෙනසුරාදා ලන්ඩන් නුවරදී පැවැත්වෙයි.
+බ්‍රිතාන්‍යයේ විවිධ නගරවල මෙන්ම ඉතාලියේ සහ ඇමෙරිකා එක්සත් ජනපදයේ ජිවත්වන ප්‍රවීන සිංහල නර්තන ශිල්පින් බොහෝ දෙනෙකුගේ සහභාගිත්වයෙන් ඉදිරිපත් කරන මෙම කලා උළෙල නම් කොට ඇත්තේ "දෝංකාර" නමිනි.
+සංවිධායකයින් වෙනුවෙන් මෙම කලා උළෙල පිළිබඳ අදහස් දැක්වූ සශි, අරුණ සහ ඒ.පී.අත්තනායක යන ප්‍රවීණ කලාකරුවන් පැවසුවේ ලන්ඩන් නුවරදී මිට පෙර ඉදිරිපත් නොකෙරුණ අන්දමේ ශ්‍රී ලාංකික කාටත් ආඩම්බර විය හැකි නිර්මානාත්මක නර්තන හා වාද්‍ය අංගයන්ගෙන් සමන්විත උසස් වැඩසටහනක් ඉදිරිපත් කිරීම ඔවුනගේ බලාපොරොත්තුව බවයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-13 13:36:27</date>
+            <index>0</index>
+            <phrase>මටත් පවුම් පනහේ ටිකට් දෙකක්, වීසා සහ ගුවන් ටිකට් දෙකක් එවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2016-05-15 23:11:53</date>
+            <index>1</index>
+            <phrase>සාර්ථක වේවා කියා පතනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-05-18 11:38:07</date>
+            <index>2</index>
+            <phrase>මමත් බලන්න ගියා හරිම ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින් යහම්පත්</author>
+            <date>2016-05-18 11:36:19</date>
+            <index>3</index>
+            <phrase>දෝංකාරය සිතපු තරම් ශබ්දයක් කලේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත ජයසිරි</author>
+            <date>2016-05-24 04:51:24</date>
+            <index>4</index>
+            <phrase>බොහොම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2016-05-26 12:14:48</date>
+            <index>5</index>
+            <phrase>හොඳ වැඩසටහනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිත</author>
+            <date>2016-05-26 12:12:44</date>
+            <index>6</index>
+            <phrase>අපේ අයට අපේ කියන හැගීමක් දැනෙන වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-05-26 12:15:31</date>
+            <index>7</index>
+            <phrase>ලංඩනයේ සුන්දර ප්‍රසංගය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2016-05-26 12:15:58</date>
+            <index>8</index>
+            <phrase>අපිත් එනවා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සසිත</author>
+            <date>2016-05-26 12:13:55</date>
+            <index>9</index>
+            <phrase>බ්‍රිතාන්‍යයේ ජීවත් වෙන ලංකීක පුරවැසියන්ට හොඳ අවස්ථාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-05-26 12:16:23</date>
+            <index>10</index>
+            <phrase>ව්දේශ රටක ඉඳගෙන මේ වාගේ කාර්යයක් කරනවා කියන්නේ බොහෝම අමාරු දෙයක්. සාර්ථක වේවා කියා ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

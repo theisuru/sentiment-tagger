@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>217712</articleId>
+    <title>ගැබිනි මව්වරුන් සියයකගේ බරට තෑගිබෝග</title>
+    <author>ලලිත් වලිසුන්දර</author>
+    <date>2014 මාර්තු මස 17 17:06:37</date>
+    <body>උඩුගම බුද්ධරක්ඛිත අස්ගිරි මහා නා හිමියන්ගේ 85 වැනි ජන්ම දිනය නිමිත්තෙන් ගැබිනි මව්වරුන් සියයකගේ බරට තෑගිබෝග පිරිනැමීට.
+මහනුවර අස්ගිරි විහාරයේ පැවැති මේ උත්සවයට කොළඹ සම්බන්ධි විහාරාධිපති දරනාගම කුසලධම්ම නාහිමි හා අස්ගිරි නියෝජ්‍ය ලේඛකාධිකාරී නාරම්පනාවේ ආනන්ද හිමිවරු ද වැඩම කළ සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2014-03-17 17:30:56</date>
+            <index>0</index>
+            <phrase>ඔබ වහන්සේට දීර්ඝායු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමරුද්දීන් හලල්දීන්</author>
+            <date>2014-03-17 17:35:39</date>
+            <index>1</index>
+            <phrase>ආදර්ශමත් උපන් දින සැමරීමක්. ඔබ වහන්සේට දීර්ඝායු පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ.</author>
+            <date>2014-03-17 17:51:30</date>
+            <index>2</index>
+            <phrase>අති ගවුරවනීය මහා නා හිමියනි, මේකත් මහා පිංකමක්.ඒ වගේම දරුවන් දෙදෙනෙකුට වැඩි ආධාර උපකාර අවශ්‍ය සිංහල පවුල් වලට, දෙස් විදෙස් වාසය කරන ශ්‍රී ලාංකිකයන්ගේත් සහයෝගය ඇතිව පිහිට වීමට ක්‍රමවේධයක් මේ උපන් දිනේ සිටම සකස් කලොත් ඔබ වහන්සේගේ සසර ගමනේ මහත්ඵල මහානිසංස ලැබේවි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-03-17 19:29:49</date>
+            <index>3</index>
+            <phrase>අගය කළ යුතු ක්‍රියාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2014-03-17 20:07:17</date>
+            <index>4</index>
+            <phrase>සාධූ සාධූ සාධූ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් කාලිංග</author>
+            <date>2014-03-17 21:07:56</date>
+            <index>5</index>
+            <phrase>නිදුක් නිරෝගිමත් වාසනාවන්ත දරුවන් ලැබීමට මේ පින් හේතු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2014-03-17 21:23:36</date>
+            <index>6</index>
+            <phrase>අරුම පුදුම පිංකමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමපුර සිරි සුධම්ම හිමි</author>
+            <date>2014-03-19 07:45:04</date>
+            <index>7</index>
+            <phrase>උතුම් කටයුත්තක් සාදු සාදු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භානු</author>
+            <date>2014-03-19 08:11:18</date>
+            <index>8</index>
+            <phrase>උතුම් පින් කමක්. සාධු සාධු !! අපිත් පින් අනුමෝදන් වෙන්න කැමතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

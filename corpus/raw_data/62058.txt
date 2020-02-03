@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>62058</articleId>
+    <title>දෙන්නෙක් මරුට</title>
+    <author>පුෂ්පකුමාර මල්ලවආරච්චි</author>
+    <date>2012 අගෝස්තු මස 31 16:30:45</date>
+    <body>පල්ලවෙල බොකළ ගම දී යතුරු පැදියක් ලොරියක ගැටීමෙන් මවත්  පියාත් මිය ගිය අතර නව හැවිරිදි පුතා තුවාල ලැබීය. දුවගේ විවාහයට ගෙනා මල් කළඹ හා ඇඳුම් බාරදීමට යද්දී මේ අනතුර සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>ආනන්ද ජයරත්න</author>
+            <date>2012-08-31 21:03:21</date>
+            <index>0</index>
+            <phrase>මොකක්ද මේ ගැටීමෙන් මවත් පියාත් මියගිය අතර - එතොකොට කවුද දන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-31 22:06:05</date>
+            <index>1</index>
+            <phrase>'සතුටක අවසානය'</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෝකිත</author>
+            <date>2012-09-01 01:22:05</date>
+            <index>2</index>
+            <phrase>ඔය පාර හොදට හදලා තියෙන්නෙ.. යතුරුපැදි යන්නේ හරිම වේගෙන්.. වංගු වැඩි නිසා නලාව වත් නාදකරන්න පුරුදු වෙන්න.. හොදම වේගය පැයට කිලෝමීටර් 40</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අල්විස්</author>
+            <date>2012-09-01 10:21:00</date>
+            <index>3</index>
+            <phrase>නිවන් සුව ලැබේව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසූරිය හිරිවල</author>
+            <date>2012-09-01 10:42:41</date>
+            <index>4</index>
+            <phrase>ඔය පාරෙ මමත් යනවා අනතුරු හොටම වැඩියි.. පාර කාපට් කරලා හොදට හදලා තියෙන්නෙ.. ටිකක් වේගය අඩුකරනවා නම් හොදයි තමයි කාටත්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

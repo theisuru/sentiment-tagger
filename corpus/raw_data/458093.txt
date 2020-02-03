@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458093</articleId>
+    <title>සුපිරි පාරේ ගිය බර ගණනක් රෝහලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 15 12:03:43</date>
+    <body>දක්ෂීණ අධිවේගී මාර්ගයේ නවතා තිබු ලොරියක් හා මාතර යමින් සිටි මගීන් පිරිසක් යමින් සිටි බසයක් හැපී කාන්තාවන් 14 දෙනෙක් ඇතුළු 26 ක් තුවාල ලබා ඇතැයි පොලිසිය කියයි.
+අධිවේගී මාර්ගයේ සේවකයන් ගමන් කළ ලොරිය නතර කර තිබු බවත් පාරේ ගමන් කළ බසය වැටක හැපී විසි වී ලොරියේ වැදී ඇතැයි ද එහි සිටි සේවකයන් කිහිප දෙනෙක් බරපතල තුවාල ලබා ඇතැයි  මාර්ග සංවර්ධන අධිකාරිය කියයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-15 07:08:35</date>
+            <index>0</index>
+            <phrase>දැන් මේකටත් මහින්ද මහත්තයාගේ වරදක් කියයිද දන්නෙ නැහැ, පාර හදපු නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-15 08:45:39</date>
+            <index>1</index>
+            <phrase>හරියට හරි සජි, මහින්දත් දැන් කරනවා වගේ සහ හිටි අය කළා වගේ කිසි සංවර්ධනයක් නොකර තමන්ගේ පාඩුවේ, කොටින් එක්කත් සහයෝගයෙන් ඔවුන්ට ඒ පළාත් වල පාලනය ලියාදිලා හිටියා නම් මෙහෙම අනතුරු වෙන්නේ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-09-15 09:37:41</date>
+            <index>2</index>
+            <phrase>ඔවු ඉතින්, පාර හරි නැති හින්දයි එහෙම වු‍ණේ කියලා කියයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-09-15 10:12:13</date>
+            <index>3</index>
+            <phrase>සජී, මහින්ද මහත්තයාගේ සහ පවුලේ අයගේ වැරදි රාශියක් මේ වනවිට හෙළිවෙමින් පවතිනවා. ප්‍රවෘත්ති බැලුවොත් අවම වශයෙන් දිනකට එකක් හරි හෙළිවෙමින් පවතිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-09-15 11:29:52</date>
+            <index>4</index>
+            <phrase>ඔය අධිවේගයේ යන බස් වල වැරදි නම් පොලිසියට පේන්නෙම නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2016-09-15 12:23:45</date>
+            <index>5</index>
+            <phrase>වේගය තමයි මේ හැමදේටම මුල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-09-15 13:45:51</date>
+            <index>6</index>
+            <phrase>ඔයින් ගියා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2016-09-16 13:04:48</date>
+            <index>7</index>
+            <phrase>සජි සහ සුසන්ත මහින්දට කඩේ යන අය වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-09-16 22:04:04</date>
+            <index>8</index>
+            <phrase>මේ ඉන්දියන් කබල් අධිවේගේ යාම තහනම් කළයුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-17 03:13:46</date>
+            <index>9</index>
+            <phrase>රෝහණ, අපි කළගුණ දන්නවා ඔයා දන්නේ නැතිවුණාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

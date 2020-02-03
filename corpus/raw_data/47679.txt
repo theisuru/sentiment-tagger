@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47679</articleId>
+    <title>‘කිසිම භූමිකම්පාවක් නෑ‘</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 ජූනි මස 11 20:04:37</date>
+    <body>ටෙලිකොම් ගොඩනැල්ල සෙලවූයේ එහි යම් කිසි දෝශයක් නිසා විය හැකි බවත්, ඒ ගැන ඉන්ජිනේරු සහ භූවිද්‍යා හා පතල් කැනීම් කාර්යංශයේ සහායෙන් පරීක්ෂණ පවත්වන බවත්, කිසිදු භූකම්පන තත්ත්වය ඇති වී නැති බවත් අපදා කලමනාකරණ මධ්‍යස්ථානය කියයි.</body>
+    <comments>
+        <comment>
+            <author>රාළ</author>
+            <date>2012-06-11 20:18:53</date>
+            <index>0</index>
+            <phrase>ගොඩනැගිල්ලට හිතුනද දන්නේ නැහැ ඒක ඇතුලේ දැන් වෙන වැඩ වල හැටියට වෙන තැනකට දුවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-11 21:24:31</date>
+            <index>1</index>
+            <phrase>භුමි කම්පාවෙ නම් කිසිම අනුකම්පාවක් නෑ, හෙට අනිද්දා බිල් වලින් අපිව කම්පා කරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-11 20:54:29</date>
+            <index>2</index>
+            <phrase>මණ්ඩලේ පොඩි කචල් එකකුත් තියනවානේ මේ දවස්වල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්සරා</author>
+            <date>2012-06-11 21:54:31</date>
+            <index>3</index>
+            <phrase>අපදා කලමනාකරණ මධ්‍යස්ථානය කියන එකේ වැඩකරනව කිව් කෙනාද දන්නේ නැහැ මේක කිව්වේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-11 22:00:28</date>
+            <index>4</index>
+            <phrase>ටෙලිකොමි කියන්නේ නිතරම සෙලවෙන ගොඩනැගිල්ලක්. ඒක ඇතුලේ සිදුවෙන සිදුවීමි නිසා ගොඩනැගිල්ලේ සෙලවීම භූවිද්‍යා හා පතල් කාර්යංශයට තියා අපදා කලමනාකරණ මධ්‍යස්ථානයටවත් සොයාගන්නට බෑ. ඇතුලේ සිදුවෙන සෙලවීමි ඉතා පුබලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙනහඩ</author>
+            <date>2012-06-11 22:02:48</date>
+            <index>5</index>
+            <phrase>පොලව හෙලවෙනවට බයේ...මොකෝ කට්ටිය හැංගිලාද .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-06-11 22:45:06</date>
+            <index>6</index>
+            <phrase>අනේ අපේ රට.....භූමියත් කම්පාවෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-06-12 01:46:48</date>
+            <index>7</index>
+            <phrase>මේ දවස්වල ටෙලිෆොනේ ටැප් කරන එක වැඩි වෙලා දරාගන්ඩ බැරුවද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්-dubai</author>
+            <date>2012-06-12 02:21:21</date>
+            <index>8</index>
+            <phrase>එතනත් මැණික් ගරනවද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හනුමා</author>
+            <date>2012-06-12 07:25:37</date>
+            <index>9</index>
+            <phrase>මණ්ඩගේ ගිලා බහින්න යනවද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-12 07:07:12</date>
+            <index>10</index>
+            <phrase>ඕක නොහෙල්ලී තියේවිද? බිල් වලට ගන්න ගාස්තු වල හැටියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-06-12 08:31:07</date>
+            <index>11</index>
+            <phrase>නැත්නම් කමක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිරිගෝරිස් අප්පුහාමී</author>
+            <date>2012-06-12 09:46:49</date>
+            <index>12</index>
+            <phrase>කෝ මේ කොලුවා......ආගිය අතක් නෑ නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩාක් ඒන්ජල්</author>
+            <date>2012-06-12 09:58:56</date>
+            <index>13</index>
+            <phrase>ටෙලිකොම් එක හොල්ලන්න ලේසියෙන් බැහැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලා</author>
+            <date>2012-06-12 10:28:26</date>
+            <index>14</index>
+            <phrase>ඉක්මනටම මේක ගැන හොයල බලල අවශ්‍ය ක්‍රියා මාර්ග ගනු මැනව .බැරිවෙලාවත් මේක කඩ වැටුනොත් ඔක්කොම ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-06-12 10:08:50</date>
+            <index>15</index>
+            <phrase>ටෙලිෆෝන් බිල්වල තියෙන ගණන් වලට හෙලවෙන්න ඇති‍‍්‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-06-12 11:26:18</date>
+            <index>16</index>
+            <phrase>හැබැයි හෙල්ලිලි කෙසේ වෙතත් හෙණ ගහනවා මෙහෙම ගියොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-06-12 11:10:12</date>
+            <index>17</index>
+            <phrase>ඔවු ඔවු. 5.30ට විතර මොකක්ද වුණෘ.මටත් දැනුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනියන්</author>
+            <date>2012-06-12 12:22:52</date>
+            <index>18</index>
+            <phrase>මෙහෙම ගියොත් හෙල්ලිලා විතරක් නවතින්නේ නෑ.අනේ ජනාධිපතිතුමනි, ඔබේ අවධානය යොමු කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-12 14:22:53</date>
+            <index>19</index>
+            <phrase>නොහෙල්ලී හිටියිද ...................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-06-12 14:48:23</date>
+            <index>20</index>
+            <phrase>ටෙලිකොම් එකෙන් කියනවා පොලව හෙල්ලුණා කියල. අපදා එකෙන් කියනවා පොලොව හෙල්ලුනේ නෙහැ කියල. එහනම් සුවර් එකටම ලොකු නැවක් එවීල්ල වරායේ වැදෙන්න ඇති . .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-06-12 14:29:40</date>
+            <index>21</index>
+            <phrase>වෙන දේවල් හැටියට තමයි හෙලවෙන්නේ...???????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mr දොන්</author>
+            <date>2012-06-12 20:22:50</date>
+            <index>22</index>
+            <phrase>ටෙලිකොම් එක මහජනයා ගසා කන හැටි නිසා මහ පොළොව උහුලන්නේ නැහැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-13 06:59:46</date>
+            <index>23</index>
+            <phrase>බණ්ඩාර 2012-06-12 11:10:12 ඔවු ඔවු. 5.30ට විතර මොකක්ද වුණෘ.මටත් දැනුනා බණ්ඩාර අයියේ, ඔයාට කොහේටද දැනුනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපෝ....</author>
+            <date>2012-06-13 09:14:29</date>
+            <index>24</index>
+            <phrase>ටෙලිකොම් එක කවදද ගසාකෑවේ ? මහජනතාව ගැන වැඩිපුර හිතන එහෙම ආයතන වලට මුකුත් කියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-13 17:33:31</date>
+            <index>25</index>
+            <phrase>‘කිසිම භූමිකම්පාවක් නෑ‘ ඇත්ත නේන්නම්.බිග්ඩිමනේ කම්පාවෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

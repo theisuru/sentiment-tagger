@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9329</articleId>
+    <title>බොලිවුඩ් තරුවක් සිගීරියට පායයි</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2011 ඔක්තෝබර් මස 17 10:07:07</date>
+    <body>බොලිවුඩ් සිනමාවේ නැගි එන තරුවක් වන සොනාක්ෂි සිංහ සීගීරියේදි සී එන් එන් රූපවාහිනී පටිගත කිරීමක් සඳහා කටුනායකින් අද දිවයිනට පැමිණියාය
+සංචාරක මණ්ඩලයේ අනුග‍්‍රහයෙන් ආ ඇය එහි ලා ඔපීෂල් සඟරාවේ ඉන්දීයා මුද්‍රණයේ මංගල කලාපයේ මුල් පිටුවේ ඡායා රූපයකට කසුප් රජුගේ බල කොටුවේදී පෙනී සිටිනු ඇත.
+සිනමා නඵවකු හා දේශපාලකයකුවන සත්රූගන් සිංහ හා පුනාම් සිංහගේ දියණියක වන සොනාක්ෂි පිල්ම් පෙයාර් සම්මාණ උළෙලේදී හොඳම සහය නිළියද වූවාය 2011 අන්තර්ජාතික ගැහැනිය වශයෙන්ද තේරී සිටින්නීය</body>
+    <comments>
+        <comment>
+            <author>අසංක මනෝජ්</author>
+            <date>2011-10-17 13:02:49</date>
+            <index>0</index>
+            <phrase>අපේ කෙල්ලො කොල්ලෝ රටට රන් පදක්කම් අරන් එනවෙලාවට ඔහොම පිලිගන්න කවුරුවත් ඉන්නවද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල ප්‍රියාන්</author>
+            <date>2011-10-17 14:06:47</date>
+            <index>1</index>
+            <phrase>මම සීයයට සීයයකම අසංකට එකගයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාලි මහේෂිකා අමරසිංහ</author>
+            <date>2011-10-17 14:25:20</date>
+            <index>2</index>
+            <phrase>අපේ අය රන් පදක්කම් අරගෙන එනවෙලාවට මෙහෙම පිළිනොගත්තට ලංකාවේ අපි ආගන්තුක සත්කාරය අතින් ඉහළින් සිටින බව මේ වගේ කටයුතු වලදී පේනවා‍ ‍ පෙනෙනවා අපි අපිට ලැබෙන දේවල් වලදී උදම් ඇනුවේ නැති උනාට අපෙන් ලබා දෙන දේ වලට මුල් තැන දීපු ජාතියක් ජාතියේ ගෞරවය අපි රකිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනේත්‍රා</author>
+            <date>2011-10-17 14:48:29</date>
+            <index>3</index>
+            <phrase>ලැජ්ජාවේ පන යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනන්ද</author>
+            <date>2011-10-17 14:52:10</date>
+            <index>4</index>
+            <phrase>අසංක මනෝජ් කතාව ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු වාස් ගුණසේකර</author>
+            <date>2011-10-17 15:01:14</date>
+            <index>5</index>
+            <phrase>ලංකාවට ගිය කලක් කොහොම උනත් .................................ක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2011-10-17 14:50:23</date>
+            <index>6</index>
+            <phrase>අපේ සංස්කෘතික නැටුම මේ තරම් බාල්දු වෙලාද මගේ රටට දළදා හිමි සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාල්</author>
+            <date>2011-10-17 15:13:00</date>
+            <index>7</index>
+            <phrase>අපේ රංගන ශිල්පියෙක් ඔය බටහිර රටකට ගියොත් එහේ සංචාරක මණඩලයේ අය ඔය සැළකිලි කරනවද අපේ රටේ අය තවමත් සුදු හමට ඇඵම් කරනවා දුකයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂීණි</author>
+            <date>2011-10-17 15:33:56</date>
+            <index>8</index>
+            <phrase>ඇය විශිෂ්ඨ නිළියකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2011-10-17 15:44:05</date>
+            <index>9</index>
+            <phrase>අපේ සංස්කෘතික දෙවල් මේ දේ වලින් බාල්දු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2011-10-17 16:19:03</date>
+            <index>10</index>
+            <phrase>සුභාෂිණි විශිෂ්ඨ බව පින්තූර බැඵවම පේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිප්ති හෙට්ටිආරච්චි</author>
+            <date>2011-10-17 16:15:27</date>
+            <index>11</index>
+            <phrase>අනෙක් රටවල අය අපිව එහෙම පිළි නොගත්තට අපි එමෙහ කළයුතු නෑ ආගන්තුක සතුකාරය කියන්නේ අපිට උරුම දෙයක් අනෙක් රටවලට වඩා .....දේශපාලන කෝණ වලින් බලන එකයි මෙතන වැරැද්ද අපි දැක්කානේ පහුගිය කාලේ තිබුණු ජාතාක හැගිම ....හිමාලිගේ කතාව ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්වාණ</author>
+            <date>2011-10-17 16:32:08</date>
+            <index>12</index>
+            <phrase>සල්ලි තියන මිනිසුන්ට හැමදාම කොතනත් මුල්තැන, දුප්පත් එකා හැමදාම කොන් වෙනවා. උතුරේ යුද්දයේදී මැරුනෙ දුප්පත් සිංහල දෙමළ කොල්ලො. කවදා හරි මෙටික තෙරුම් ගත්ත දවසට මේවා නැතිවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Madumalee</author>
+            <date>2011-10-17 16:33:37</date>
+            <index>13</index>
+            <phrase>ලංකාවට ගිය කලක් කොහොම උනත් ...............සුදු .................ක් සංචාරක මණඩලයේ අය ඔය සුදු හමට ඇඵම් කරනවා සැළකිලි කරනව,ලැජ්ජාවේ පන යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>361018</articleId>
+    <title>ප්‍ර‍ංශ දුම්රියක් පීලි පනී</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 නොවැම්බර් මස 15 15:01:46</date>
+    <body>ප්‍රංශයේ අධිවේගි දුම්රියක් නව දුම්රිය මාර්ගයක පරීක්ෂණ ධාවනයක යෙදෙමින් තිබිය දී පීලි පැන පාලමක් කඩාගෙන ඇළ මාර්ගයකට වැටීමෙන් එහි ගමන්ගත් හත් දෙනකු මියගොස් දහදෙනකු තුවාල ලබා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි. ටීවීජී ලෙස නම්කර ඇති මෙම දුම්රිය අධික වේගයෙන් ගමන් කරමින් තිබිය දි මෙලෙස පීලි පැන ඇත.
+අනතුර සිදුව ඇත්තේ පැරිස් නගරයේ සිට ස්ට්‍රැස්බර්ග් දක්වා ධාවනය වෙමින් තිබිය දී ය. දුම්රියේ 49 දෙනකු ගමන් කරමින් සිටි බව එරට මාධ්‍ය වාර්තා කරයි.</body>
+    <comments>
+        <comment>
+            <author>චින්තක පෙරේරා</author>
+            <date>2015-11-15 11:30:23</date>
+            <index>0</index>
+            <phrase>මේ දිනවල අනතුරු වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මි</author>
+            <date>2015-11-15 15:05:32</date>
+            <index>1</index>
+            <phrase>වේගය මරු කැඳවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

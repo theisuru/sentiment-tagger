@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>441700</articleId>
+    <title>කොළඹ කොටස් වෙළඳපොළ අරී</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 ජූලි මස 28 13:33:11</date>
+    <body>ශ්‍රී ලංකා මහ බැංකුවේ නව අධිපති ඉන්ද්‍රජිත් කුමාරස්වාමි මහතා කොළඹ කොටස් වෙළඳපොළේ නව ගනුදෙනු කිරීම කොළඹ ලෝක වෙළද මධ්‍යස්ථානයේ දී අද (28) ඇරඹීය.
+මහබැංකු නියෝජ්‍ය අධිපති නන්දලාල් වීරසිංහ, ශ්‍රී ලංකා සුරැකුම්පත් හා විනිමය කොමිසම් සභාවේ අධ්‍යක්ෂ ජනරාල් වජිර විජේගුණවර්ධන, කොළඹ කොටස් වෙළදපොළේ සභාපති වජිර කුලතිලක,මාලදිවයින ප්‍රාග්ධන වෙළදපොළ සංවර්ධන අධිකාරියේ ප්‍රධාන විධායක නිලධාරි අහමඩ් නසීර්, කොළඹ කොටස් වෙළදපොළ ප්‍රධාන විධායක නිලධාරි රජිව බණ්ඩාරනායක මහත්වරු ඊට සහභාගී වුහ.  </body>
+    <comments>
+        <comment>
+            <author>ආනෝලඩ් ගුණවර්ධන</author>
+            <date>2016-07-28 10:38:40</date>
+            <index>0</index>
+            <phrase>අනේ හරියට කරගෙන යන්න , ආර්ථිකයට ලොකු හයික්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-07-29 23:10:05</date>
+            <index>1</index>
+            <phrase>ඔබතුමාලා මහන්සිවෙලා මහන්සිවෙලා ආර්ථිකය හසුරුවල රටට කියක් හරි ඉතුරු කළාම අපේ තුමාලා එ්කට ඩියුටි ෆ්‍රී කාර් ලොට් එකක් ගෙනෙයි. වෙන මොනවා වෙන්නද? අපි හැමදාමත් වළේ තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-08-02 03:44:40</date>
+            <index>2</index>
+            <phrase>අපගේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-08-02 03:49:51</date>
+            <index>3</index>
+            <phrase>අපගේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

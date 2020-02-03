@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>374818</articleId>
+    <title>කැති තැන්ඩා විල ජලයෙන් පිරෙයි</title>
+    <author>ජීඩබ්ලිව්කේප්‍රේමතිලක ද සිල්වා</author>
+    <date>2016 ජනවාරි මස 07 07:51:00</date>
+    <body>ඔස්ට්‍රෙලියාවේ කාන්තාරයක පිහිටා ඇති කැති තැන්ඩා විල මේ දිනවල එම ප්‍රදේශයට පතිත වන ධාරානිපාත වර්ෂාව හේතුවෙන් පිරී ඉතිරීගොස් ඇතැයි ඕස්ට්‍රේලියානු මාධ්‍ය වාර්තා කරයි. මෙය දශක කිහිපයකට වරක් දැකිය හැකි  දුර්ලබ දසුනක් බව විචාරකයෝ පවසති. මේ හේතුවෙන් කාන්තාර ප්‍රදේශය ජිවි බවින් පිරිමට පටන් ගෙන තිබේ.
+ගුවන් නියමුවකු වු ට්‍රෙවර් රයිට් විසින් ලබාගන්නා ලද ඡායාරූප වලින් පෙන්නුම් කරන්නේ  ඇඩිලේඩි වලට කිලෝ මීටර් 700  ක් උතුරින් පිහිටි වියලි ලුනු සහිත වු කලාපය ජලයෙන් පිරි යන ආකාරයයි.
+දීර්ඝ නියං කාලයකින් පසු මෙම ප්‍රදේශයට පසුගිය සතියේ මිලිමීටර් 150 ක වර්ෂාවක් පතිත වි  ඇත.
+කැති තැන්ඩා විල ජලයෙන් පිරියන්නේ ශතවර්ෂයකට කිපවරක් පමණි. එවිට මෙම විල ඔස්ට්‍රෙලියාවේ විශාලම විල බවට පත්වේ.</body>
+    <comments>
+        <comment>
+            <author>සොපි</author>
+            <date>2016-01-07 04:38:50</date>
+            <index>0</index>
+            <phrase>හැමදා නියං එකදා වැහි වළාවේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවීර</author>
+            <date>2016-01-07 07:23:04</date>
+            <index>1</index>
+            <phrase>බලන්න හරි ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙන්තර මහේෂ්</author>
+            <date>2016-01-07 12:01:31</date>
+            <index>2</index>
+            <phrase>හිතාගන්නත් බෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-01-07 23:02:44</date>
+            <index>3</index>
+            <phrase>"කැති තැන්ඩා" නම් ඇබෝරිජින් ව්‍යවහාරයේ පැවතුනු ඕස්ට්‍රේලියාවේ විශාලතම විල 1840 දී එඩ්වර්ඩ් ජෝන් අයර් නමැති යුරෝපියයා පළමුවරට දුටු නිසා වර්තමානයේ "ලේක් අයර්" නමින්ද හඳුන්වයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2016-01-08 08:00:44</date>
+            <index>4</index>
+            <phrase>අබය, ස්තුතියි. මම යමක් ඉගෙන ගත්තා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

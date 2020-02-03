@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44972</articleId>
+    <title>කැලණි ගඟේ රන් සොයන්න ගම් තුනකට බලපත්</title>
+    <author>උපාලි රණවීර</author>
+    <date>2012 මැයි මස 27 13:48:20</date>
+    <body>කැලණි ගඟේ රන් ගැරීමට පූගොඩ, කුමාරමුල්ල, ඕවිටිගම ගම් තුනේ පවුලකට එක බැගින් බලපත් නිකුත් කරන බව භූවිද්‍යා හා පතල් කැණීම් කාර්යංශය කියයි.
+වසරක බලපත්‍රයක් සඳහා රුපියල් දෙදහසක් අය කෙරේ.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-27 14:16:57</date>
+            <index>0</index>
+            <phrase>තව කට්ටියකට තවත් ඉල්ලමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-05-27 14:42:39</date>
+            <index>1</index>
+            <phrase>දැන් ඉතින් සල්ලි තියෙන මිනිහම පෝසත් වෙයි ,අහිංසක දුප්පත් ගැමියොන්ට කොහෙන්ද වෙන්දේසි වලින් දිනන්න සල්ලි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-27 20:40:18</date>
+            <index>2</index>
+            <phrase>එතකොට කැළණි ගග ගලා බහින්නේ ඔය ගම් තුනෙන් විතරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-28 00:49:13</date>
+            <index>3</index>
+            <phrase>ඒ ගම් තුනට බලපත්‍ර දෙනකොට රත්තරං ටික වෙන ගම් තුනකට ගහ ගෙන යයිද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2012-05-28 00:50:12</date>
+            <index>4</index>
+            <phrase>ඇමතිවරු බලේ පෙන්නලා අහිංසකයින්ගේ බලපත්‍ර ටික තුට්ටුවට දෙකට ගනීද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-05-28 03:35:39</date>
+            <index>5</index>
+            <phrase>මූධට ගලා යන මේ සම්පත් හොයන්න හැමෝටම ඉඩ තිබිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් ඉන්දික</author>
+            <date>2012-05-28 10:29:30</date>
+            <index>6</index>
+            <phrase>වැ‍ඩේ හොදයි දැන් ලංකාව දියුණු වෙයි....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-05-28 11:10:12</date>
+            <index>7</index>
+            <phrase>කැළණි ගගත් ඉවරවෙයි වගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 12:01:31</date>
+            <index>8</index>
+            <phrase>බලන්න ඔය ගොඩේ අපේ අහවල් රජතුමාගේ ගෝලයෝත් ඉන්නවද කියලා.. මොකද මිනිහා මේ දවස්වල මිනිහගේ පම්පෝරි ගහන්න දෙයක් නැතිව වේලි වේලි ඉන්නේ.මිනිහටත් ඕන මේ වගේ දෙයක් බයිට් එකට අරගෙන වීරයා වගේ පොඩ්ඩක් කෑ ගහලා ලකුණු දා ගන්න.ගැලරි ටොක්ස් දෙක තුනක් අත ඇරලා තමන්ගේ චන්ද පදනම වැඩි කරගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-28 15:29:30</date>
+            <index>9</index>
+            <phrase>බලපත්‍ර නිකුත් කරනු ලබන්නේ අහවල් නූතන රජුගේ පක්ෂ ලේකම් කාර්යාලයීය කවුන්ටරයෙනි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

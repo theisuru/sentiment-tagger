@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18968</articleId>
+    <title>මා දැල සල්ලි උල්පතක් වෙයි</title>
+    <author>හේමන්ත ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 23 19:00:51</date>
+    <body>බලපිටිය මාදැල්වරාය ඇරඹීමත් සමග වතුරේගම මා දැලකට රුපියල්  ලක්ෂ ගණනක පරවුන්මාගුරුවන් හා ඵලනාවුන් අසුවූ බව ධීවරයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2011-12-23 19:33:56</date>
+            <index>0</index>
+            <phrase>එහෙනම් උත්සව දවස් වලට මාලු ගොඩාක් ලාභ වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනස්</author>
+            <date>2011-12-23 21:53:46</date>
+            <index>1</index>
+            <phrase>මේකටත් සෙස් බද්දක් ගහයිද දන්නේ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>slt</author>
+            <date>2011-12-23 21:59:34</date>
+            <index>2</index>
+            <phrase>බොහොම සන්තෝෂයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනයා</author>
+            <date>2011-12-23 22:02:31</date>
+            <index>3</index>
+            <phrase>පිටරට සමාගමකට බද්දට දෙයිද දන්නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනනන්ද ගමගේ</author>
+            <date>2011-12-23 22:40:45</date>
+            <index>4</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් ධර්මප්‍රිය</author>
+            <date>2011-12-24 02:26:31</date>
+            <index>5</index>
+            <phrase>මේ තරම් මාලු ඉන්නවද බලපිටියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>KGR</author>
+            <date>2011-12-24 04:38:34</date>
+            <index>6</index>
+            <phrase>මේ දැන් අල්ලපු මාලු, ලාබයි ගන්නකො යාලු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>neil gallage</author>
+            <date>2011-12-24 17:25:08</date>
+            <index>7</index>
+            <phrase>හරිම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදනු</author>
+            <date>2011-12-25 05:54:24</date>
+            <index>8</index>
+            <phrase>රට වට කර සාගරයයි. එහි සම්පත් ආකරයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂා මල්කාන්ති</author>
+            <date>2011-12-26 09:57:56</date>
+            <index>9</index>
+            <phrase>නත්තලට හොඳ තෑග්ගක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nirosha malkanthi</author>
+            <date>2011-12-26 09:58:34</date>
+            <index>10</index>
+            <phrase>එහෙනම් මාළු ලාබ වෙයිනේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන් දිනුෂ</author>
+            <date>2011-12-31 11:12:11</date>
+            <index>11</index>
+            <phrase>එයාලට වාසනාව අපිට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

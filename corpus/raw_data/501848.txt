@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501848</articleId>
+    <title>බැඳුම්කර ගනුදෙනුව : ජනාධිපති කොමිසම පත්කරයි</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 27 15:45:10</date>
+    <body>බැඳුම්කර ගනුදෙනුව ගැන සොයන ජනාධිපති කොමිසමට  ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන  කේ ටී චිත්‍රසිරි, පී එස් ජයවර්ධන සහ විශ්‍රාමික නියෝජ්‍ය විගණකාධිපති කේ වේලුපිල්ලෙයි යන මහත්වරුන් පත් කර තිබේ.
+මෛත්‍රීපාල සිරිසේන මහතා පසුගිය දා  අභයාරාමයේදී පැවසුවේ බැඳුම්කර ගනුදෙනුව ගැන සොයා බලා වැරදිකරුවන් දඬුවම් දීම ඉක්මන් කිරීම පිණිස ජනාධිපති කොමිසමක් පත් කරන බවයි.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2017-01-27 11:02:13</date>
+            <index>0</index>
+            <phrase>වැට් එක වගේ ෆ්ලැට් වෙයි ද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිත</author>
+            <date>2017-01-27 11:12:01</date>
+            <index>1</index>
+            <phrase>එක්කෙනෙක් ගැන නම් ටිකක් මොකක්ද වගේ දැනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2017-01-27 11:57:55</date>
+            <index>2</index>
+            <phrase>හොඳයි ඒ කළ දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2017-01-27 13:04:14</date>
+            <index>3</index>
+            <phrase>මේ දවල් හොරුන්ට නිසි දඬුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2017-01-27 14:50:09</date>
+            <index>4</index>
+            <phrase>කොමිසමේ අවසන් ප්‍රතිපලය. මහා බැංකු ගනුදෙනුවෙන් කිසිම වැරද්දක් සිදුවී නැත. මිලදී ගැනීම නිතියානුකුලව සිදුවී ඇත. සියලුම වැරදි කරුවන් චෝදනාකරන අය නිවැරදි කරුවන් සේ සළකා නිදොස්කොට නිදහස් කරමු. කොමිසමේ ගාස්තු ඒකාබද්ධ විපක්ෂයෙන් අය කරගන්න නිර්දේශ කරමු. එම මුදල් ගෙවීමට නොහැකිනම් ඒකාබද්ධ විපක්ෂ කණ්ඩායම 2020 වෙන තෙක් රිමාන්ඩ් බන්ධනාගාරයේ තැබීමට නිර්දේශ කරමු. කේස් ක්ලොස්ඩ් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2017-01-27 14:59:12</date>
+            <index>5</index>
+            <phrase>අන්තිමට කොහෙවත් හිටපු පියන්කෙනෙක් වැරදිකාරයාවෙයිද ,දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-01-28 02:55:33</date>
+            <index>6</index>
+            <phrase>ජනාදිපති කොමිසමක් පත්කරන්න තරම් දෙයක් මෙතන තියනවද? හොරකම් කරලා මදිවට මිනිසුන්ගේ සල්ලි තවත් විනාශ කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2017-01-28 08:31:18</date>
+            <index>7</index>
+            <phrase>හැමදේම නීතියට අනුවම සිදුවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

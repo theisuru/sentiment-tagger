@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447236</articleId>
+    <title>රංජන්ට විරෝධතා දක්වන්න කල් දෙයි</title>
+    <author>ෆාරුක් තාජුඞීන්</author>
+    <date>2016 අගෝස්තු මස 12 15:18:37</date>
+    <body>දකුණු පළාත් ඇමැති ඩී.වී.උපුල්ට අපහාස කළැයි පාර්ලිමේන්තු මන්ත්‍රී රංජන් රාමනායකට එරෙහිව ඇති නඩුවේ විරෝධතා ගොනු කිරීම සඳහා ඔහුට නොවැම්බර් 25 දක්වා කල් ලබාදීමට කොළඹ දිසා අධිකරණ විනිසුරු අයේෂා ආබ්දීන් මහත්මිය නියෝග කළාය.
+2016 ජනවාරි 20 වැනිදා කොළඹ පැවැති මාධ්‍ය හමුවකදී රංජන් රාමනායක තමාට අපහාස වන පරිදි කළැයි කියන ප්‍රකාශයකින් තම කීර්ති නාමයට කැළලක් ඇතිවූ බව කියමින් රුපියල් මිලියන 500ක වන්දි ඉල්ලා පළාත් ඇමැති මෙම නඩුව ගොනු කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජනිත</author>
+            <date>2016-08-12 15:29:23</date>
+            <index>0</index>
+            <phrase>කාටත් අපහස කිරීම හොඳ නෑහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-12 15:34:58</date>
+            <index>1</index>
+            <phrase>අසීමිතව කාටත් අපහස කරනවානෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-08-12 16:37:26</date>
+            <index>2</index>
+            <phrase>අනේ ඩී.වී උපුල්, ඔයාට තියෙන්නේ මොන කීර්ති නාමයක්ද.පොඩ්ඩක් කියන්නකෝ බලන්න අපිට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-13 01:04:36</date>
+            <index>3</index>
+            <phrase>රන්ජන් හොට පටළවාගත් හැඩයි. දැන්වත් රන්ජන් නළුකමත් සැබෑ ජීවිතයත් වෙන්කර හඳුනාගනියිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-08-13 04:01:29</date>
+            <index>4</index>
+            <phrase>අනුරාධ, අනුන්ගේ කිර්තිනාම ගැන හිතන්න කලින් අනුන්ට අපහාස කිරීම කොතරම් නිවැරදිද කියලා හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්රුක්ෂි</author>
+            <date>2016-08-13 07:07:41</date>
+            <index>5</index>
+            <phrase>හොඳයි හොඳයි ඔහොම යමුකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-13 10:06:39</date>
+            <index>6</index>
+            <phrase>බොහොම ළඟකදි කෙසෙල් ගහට කොටයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-08-13 17:23:15</date>
+            <index>7</index>
+            <phrase>සමන්, අනුන්ට අපහාස කිරීම වැරදි තමයි. එ්ත් කීර්ති නාමය ගැන කෙසේවෙතත් මතකද මෙතුමා මෑතකදී එක රැස්වීමකදී නිලධාරීන්ට තර්ජනාත්මක වන පරිදි කතාවක් පැවැත්වුවා. ඔබට මතකද දන්නේ නැහැ ඒ සිදුවීම. ඒ දේවල් හරිද එතකොට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2016-08-14 03:48:41</date>
+            <index>8</index>
+            <phrase>රන්ජන් මහතා ඇත්ත කතාකරන නිර්භීත කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

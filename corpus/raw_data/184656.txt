@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>184656</articleId>
+    <title>බෝගොඩ පාලමෙන් එගොඩ වෙන්න මේ පන්සලට</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 නොවැම්බර් මස 16 21:59:28</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>නිමා</author>
+            <date>2013-11-13 14:07:32</date>
+            <index>0</index>
+            <phrase>කෝ අනේ අනිත් අය. මොනවත්ම හිතෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2013-11-16 18:06:30</date>
+            <index>1</index>
+            <phrase>ඊළග සැරේ නම් මෙතනට ගිහින් දවසක්වත් භාවනා කරන්න හිතාගත්තා. ස්තුතියි මේවා පළ කරනවට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයනා</author>
+            <date>2013-11-18 00:53:22</date>
+            <index>2</index>
+            <phrase>ලංකාවට අාවම මම හැමසැරේම මෙතැනට යනවා.හරිම නිසංසලයි.ඒත් යන පාර නම් කියලා වැඩක් නැහැ.වාහන යන්න බැහැ.හන්දියෙන් ත්‍රී වීලර් එකක් අරන් තමා යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2013-11-18 09:07:13</date>
+            <index>3</index>
+            <phrase>අනේ අර අහවලාගේ පුතාට මෙතන නිදන් හාරන්න නම් දෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

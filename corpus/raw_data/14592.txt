@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14592</articleId>
+    <title>සිරිපා ඡන්දෙට පොලිස් රැකවරණ.</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2011 නොවැම්බර් මස 25 16:34:58</date>
+    <body>ශ්‍රී පාදස්ථානාධිපති හිමියන් තෝරා ගැනීමේ ඡන්දය සබරගමු පළාත් සභාවේදී දැඩි ආරක්ෂාව මැද්දේ දැන් සිදුවෙයි.ග</body>
+    <comments>
+        <comment>
+            <author>උපාසක</author>
+            <date>2011-11-25 17:36:13</date>
+            <index>0</index>
+            <phrase>මේ බුද්ධාගමද අපි තවත් ඉවසමුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2011-11-25 17:47:12</date>
+            <index>1</index>
+            <phrase>ශ්‍රීපතුලටයි, සමන් දෙයියන්ටයි මොන ඡන්දද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-25 18:09:30</date>
+            <index>2</index>
+            <phrase>පන්සලටත් ඡන්ද.. ධර්මද්වීපය ගැන දුකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුෂාන්</author>
+            <date>2011-11-25 22:01:38</date>
+            <index>3</index>
+            <phrase>දැඩි ආරක්ෂාවක් දෙන තරමට අද රටේ භික්ෂූන් වහන්සේලාගෙ පරිහීමයි පේන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

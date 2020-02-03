@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60298</articleId>
+    <title>”යළි කණුවල උස නොබලනු”</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අගෝස්තු මස 22 14:46:35</date>
+    <body>ජාතික ස්වර්ණාභරණ අධිකාරිය කතරගම පිහිටි තම ඉඩම මැණික් ගැරීම සඳහා පවරාගත් නමුත් තමාට කිසිම ප‍්‍රතිලාභයක් නොවීයයි කියමින් කොළඹ කොම්පඤ්ඤවීදියේ ගුවන් හමුදා කඳවුර අසල අඩි 200ක් උසැති කුළුනක නැඟ සිටි කතරගම රුවන් චන්දන නම් ගොවියා ශරීර ඇප මත මුදාහල කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා යළි කුළුනු මතට නොනගින ලෙස තරයේ අවවාද කෙළේය.
+පොලිසිය ඔහු උසාවියට ඉදිරිපත් කරමින් කීවේ ගුවන් හමුදාව අසල කුළුනකට නැඟ සිටින ඔහු ජංගම දුරකථනයෙන් කතා කරමින් ජාතික ආරක්‍ෂාවට තර්ජනයක් විය හැකි දේ කරතියි සැකපිට අත්අඩංගුවටගත් බවයි.</body>
+    <comments>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-22 15:08:12</date>
+            <index>0</index>
+            <phrase>අහිංසක ගොවියන්ටමනේ අරියාදු වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-08-22 15:18:32</date>
+            <index>1</index>
+            <phrase>අපි ගරමු රට නගමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන්</author>
+            <date>2012-08-22 15:25:57</date>
+            <index>2</index>
+            <phrase>ඔහුගේ සින්නක්කර ඉඩමක් නොවෙයිලු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-22 16:52:22</date>
+            <index>3</index>
+            <phrase>ගොවියා? වෙන්න බැහැ. ගොවියෙක් නම් ඔය ඉඩම ඒකාන්තයෙන්ම කොටනවා. එහෙම කළා නම් මැණික් හම්බ වෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-08-22 17:55:28</date>
+            <index>4</index>
+            <phrase>ගොවියාට තියෙන්නේ වෙන ඉඩමක් සොයාගෙන ගොවිතැන් කර ගන්නනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාරු</author>
+            <date>2012-08-22 18:28:31</date>
+            <index>5</index>
+            <phrase>ඔක්කොම සිංහල ගොවියන්ට පමණයි. කවුරුන් හෝ එය දුටුවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-22 19:17:10</date>
+            <index>6</index>
+            <phrase>මේක ඉස්සර ඉදන් ආපු ප්‍රශ්නයක් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-08-22 22:04:25</date>
+            <index>7</index>
+            <phrase>ස්වර්ණාභරණ අධිකාරියට හසුවේ යැයි බියෙන් බලපත් ගෙන වවන ඉඩම් වල මැණික් හමුවුවත් ඒවා ප්‍රසිද්ධ නොකර සිටීමට ගොවීහු ප්‍රවේශම් වෙති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-08-23 07:16:54</date>
+            <index>8</index>
+            <phrase>පොලිසියත් නියම චෝදනාවක් තමයි ඉදිරිපත් කරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-23 15:24:45</date>
+            <index>9</index>
+            <phrase>අනේ ඒ මනුස්සයට ඉඩමක් දෙන්න බලන්න. අනවශ්‍ය දේශන වලින් වැඩක් නෑ..දුප්පතාටමයි හැමදේම‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

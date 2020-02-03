@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>420101</articleId>
+    <title>මලයාසියාවෙන් රැකියා 5000ක්</title>
+    <author>ළහිරු හර්ෂණ විනීතා එම්ගමගේ</author>
+    <date>2016 මැයි මස 27 09:49:08</date>
+    <body>මලයාසියාවේ විශාලතම කෘෂි කර්මාන්ත ආයතනයක්  වන සයිම් ඩර්බි සමාගමේ රැකියා 5000 ක් ශ්‍රී ලංකාවට ලබා ගැනීමේ ගිවිසුමට විදේශ රැකියා ඒජන්සි සමාගමේ සභාපති ලක්ෂ්මන් අබේගුණරත්න මහතා හා සයිම් ඩර්බි ආයතනයේ උප සභාපති නජීබ් වහබ් මහතා විදේශ සේවා නියුක්ති කාර්යාංශයේ දී අත්සන් කළහ. ඒ අනූව මුල් අදියරෙන් රැකියාලාභීන් 500 කට රැකියා හිමිවේ.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-27 07:41:51</date>
+            <index>0</index>
+            <phrase>අගමැතිතුමාගේ රැකියා දහදාහෙන් පන්දාහක් නම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-27 07:44:03</date>
+            <index>1</index>
+            <phrase>අගමැතිතුමාගේ රැකියා දහ දාහෙන් පන්දාහක් නම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2016-05-27 12:58:15</date>
+            <index>2</index>
+            <phrase>මලයාසියාවේ අය හරිම කම්මැලි මිනිස්සු. නයි වගේම පිඹුරොත් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2016-05-27 14:46:14</date>
+            <index>3</index>
+            <phrase>සම්පුර්ණ ඇත්ත.ගෙවන්නෙත් ඉතා අඩු වැටුපකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩ්</author>
+            <date>2016-05-28 05:03:16</date>
+            <index>4</index>
+            <phrase>කොහොමත් අපි අකමැති නම් යන්න ඕනෑ නැහැනේ. කොරියාවට යවද්දීත් කිව්වේ එහෙමයි. අපේ රටේ ඉන්න පණ්ඩිතයෝ අඩුගණනේ මලයාසියාව දැකලවත් තියෙනවද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්</author>
+            <date>2016-05-29 08:47:11</date>
+            <index>5</index>
+            <phrase>අපේ රටේ පණ්ඩිතයෝ ඕන තරම්. එත් රැකියාවක් හොයල දෙන්න ඕනිත් රජයෙන්මයි. තමන්ට කියල මොකුත් කරගන්න හෝ උත්සාහයක්වත් නැහැ. හැබැයි අදහස් වලින් කිසිම අඩුවක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>480849</articleId>
+    <title>සුපිරි මග මීදුමින් වැසෙයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2016 නොවැම්බර් මස 17 06:42:14</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ දොඩංගොඩ සිට ගැලනිගම දක්වා ද කහතුඩුව, කොට්ටාව හුවමාරු ආසන්න ප්‍රදේශයේ ද අද උදෑසන දැඩි මීදුම් තත්ත්වයක් පැවතිණ.
+අධිවේගී මාර්ග බලධාරීන් පවසන්නේ දැඩි මීදුමි තත්ත්වයක් පවතින විට මාර්ගයේ උපරිම ධාවන වේගය පැයට කිලෝමීටර් හැට දක්වා අඩු කළ යුතු බවයි.</body>
+    <comments>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2016-11-17 04:17:21</date>
+            <index>0</index>
+            <phrase>උදයට කොපමණ ලස්සනද ලංකාවේ අසිරිය? වාහනයක් පැදවීමට හොඳම වෙලාව. ලංකාවේ දේශගුණය නිතරම යහපත් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2016-11-17 04:30:10</date>
+            <index>1</index>
+            <phrase>මේකටත් යහපාලන ආණ්ඩුව කියයිද දන්නේ නැහැ මහින්ද හදපු අධිවේගී මාර්ග වලිනුත් වැඩක් නැහැ කියල. එ්කත් විකුණයි. දැන් ඔක්කොම රජයේ දේපල විකුණගෙන කනවනේ. ඔබට සතුටුයිද දැන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2016-11-17 07:00:38</date>
+            <index>2</index>
+            <phrase>ලංකාවේ අධිවේගී මාර්ග දැන් ඉවරෙටම ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරසිංහ</author>
+            <date>2016-11-18 05:33:30</date>
+            <index>3</index>
+            <phrase>දැන් කියයිද දන්නෙ නැහැ මේක නිසි ප්‍රමිතියට නැහැ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28190</articleId>
+    <title>හලාවත ධීවරයෝ අදත් මූදු නොයති</title>
+    <author>ප්‍රදීප් ප්‍රනාන්දු</author>
+    <date>2012 පෙබරවාරි මස 22 10:33:45</date>
+    <body>රජයේ රුපියල් විසි පහේ භූමිතෙල් සහනාධාරය බොරුවක් බව කියමින් හලාවත ධීවරයෝ අදත් මුහුදු නොගියහ.
+ඇතැමුන් විරෝධයට එක් නොවී කුඩා ඔරුවලින් ගොස් මසුන් අල්ලාගෙන ගොඩබිමට එද්දී තවත් ධීවරයෝ පිරිසක් එම මසුන් මුහුදට විසිකළැයි ද කියති.
+ධීවර ඇමැති දොස්තර රාජිත සේනාරත්න නිසි විසඳුමක් දෙනතුරු මුහුදු නොයන බව හලාවත ධීවරයෝ කියයි. අද ඔවුන් මුහුදු නොයන්නේ අටවැනි දිනටයි.</body>
+    <comments>
+        <comment>
+            <author>අබුඩාබි කොල්ලෙක්</author>
+            <date>2012-02-22 10:45:09</date>
+            <index>0</index>
+            <phrase>ඔහොම ඉන්න දෙන්න. අපිට පාඩු වෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-02-22 11:37:07</date>
+            <index>1</index>
+            <phrase>හලාවත විතරද එඩිතර මිනිස්සු ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුචිත</author>
+            <date>2012-02-22 11:51:00</date>
+            <index>2</index>
+            <phrase>හලාවත ජනතාවට අපේ අචාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-02-22 11:59:29</date>
+            <index>3</index>
+            <phrase>"ඇතැමුන් විරෝධයට එක් නොවී කුඩා ඔරුවලින් ගොස් මසුන් අල්ලාගෙන ගොඩබිමට එද්දී තවත් ධීවරයෝ පිරිසක් එම මසුන් මුහුදට විසිකළැයි ද කියති." ඒ කියන්නේ මෙතන තියෙන්නේ මාෆියා එකක්ද ? මෙයාලා පහුගිය දවස් වල කිවුවේ මේක ප්‍රජාතන්ත්‍රවාදී රටක්. අපි උද්ගෝෂණය කලාම අපිට වෙඩි තියලා මැරුවා කියලනේ. එතකොට මිනිස්සුන්ට කැමති නම් විරෝධයට එන්නත් පුලුවන්. බැරි නම් මූදු යන්නත් පුලුවන්. එහෙම අයගේ මාලු විසි කරන්නේ කොහොමද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් - සෞදි අරාබි</author>
+            <date>2012-02-22 12:20:54</date>
+            <index>4</index>
+            <phrase>ඔහොම ඉන්න දෙන්න බඩගිනි එනවිට ඔවුන් මුහුදු යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-02-22 13:59:59</date>
+            <index>5</index>
+            <phrase>මාළු නැතිව අපි මැරෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

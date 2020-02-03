@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461014</articleId>
+    <title>බෙන්තොට කුණුවළ ගිනි ගනී.</title>
+    <author>ජේඉඳුරුවගේ</author>
+    <date>2016 සැප්තැම්බර් මස 24 20:50:01</date>
+    <body>බෙන්තොට කුණුවළ අද ගිනි ගත්තේය.කුණුවළ ඉබේ ගිනි ගත්තාද කිසිවකු ගිනි තැබුවාද යන්න පැහැදිළි නැතැයි මහජනයා කියති.
+ක්‍රීඩා පිටියට කුණු දැමීමට එරෙහිව ගැමියෝ මීට පෙර සිය විරෝධතාව පළ කලහ.</body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-24 16:08:41</date>
+            <index>0</index>
+            <phrase>කවදද අපේ රටට කුණු ප්‍රතිචක්‍රියකරණය කරන, ඒවායින් පලක් ප්‍රයෝජනයක් ගන්නා, ජිව වායුව සහ තාපය නිපදවන වැඩ පිළිවෙලක් එන්නේ? කවදද අපි කුණු කඳු ගොඩගසා පරිසරයත් වනසා අපිත් වැනසෙන නින්දකාරී පිළිවෙතින් ගොඩ එන්නේ? මොන ව්‍යපෘතියෙනුත් බලයේ ඉන්න දෙසපලකයින් 10% කොමිස් ගන්නා එකේ, මෙවැනි ව්‍යපෘවලිනුත් ඊටත් වඩා කොමිස් ගන්නත් හැකියාව තිබියදීත්, අයි එවැනි පලක් ඇති වැඩක් නොවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශිකා</author>
+            <date>2016-09-24 17:04:49</date>
+            <index>1</index>
+            <phrase>මේ කුණු වළවල් වල පීවීසී, රසායනික හා කාර්මික අපද්‍රව්‍ය තිබුනොත් ගින්න මුළු පළාතටම අහිතකරයි. විශේෂයෙන්ම දරුවන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-09-25 05:57:27</date>
+            <index>2</index>
+            <phrase>මේ ප්‍රශ්න වලට ස්ථිරසාර විසඳුමක් අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2016-09-25 06:25:52</date>
+            <index>3</index>
+            <phrase>නිලධාරීන් නිදනවිට ජනතාව පිබිදෙන බව මෙයින් සනාථ වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

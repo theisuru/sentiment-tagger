@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>195868</articleId>
+    <title>කුණු අල කිලෝ පන්දහසක් දඹුල්ලෙන් අල්ලයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2013 දෙසැම්බර් මස 21 14:03:29</date>
+    <body>දඹුල්ල ආර්ථික මධ්‍යස්ථානය අසල පෞද්ගලික ගබඩාවක තිබී පනුවන් ගැසූ කුණු අර්ථාපල් කිලෝග්‍රෑම් පන් දහසක් සොයා ගත් බව නිලධරයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>සුමංගල ඇල්පිටිය</author>
+            <date>2013-12-21 14:42:11</date>
+            <index>0</index>
+            <phrase>එළවලු රොටි වලට දෙන්නද තියන් ඉඳලා තියෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන් ජයවර්ධන</author>
+            <date>2013-12-21 14:42:59</date>
+            <index>1</index>
+            <phrase>විසි කරන්න තිබුන ඒවා වෙන්න ඇති නේද..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂමන් ජයවර්ධන</author>
+            <date>2013-12-21 14:46:08</date>
+            <index>2</index>
+            <phrase>නිව්ස් එක පිට කොටුවේ පදික අල වෙළෙන්දෝ දැක්කොත් කටට කෙලත් උනාවී. පනුවෝ පිට පනුවෝ හිටියත් කමක් නැහැ කියාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-12-21 15:21:51</date>
+            <index>3</index>
+            <phrase>මේ විදිහට කෑම නරක් වෙන එක අපරාධයක්. අල වලින් තමයි වොඩ්කා පෙරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිත්</author>
+            <date>2013-12-21 15:37:45</date>
+            <index>4</index>
+            <phrase>හරිම කණගාටුයි. හැමදාමත් මෙවැනි ප්‍රවෘති කාලයක සිටම ඇහෙනවා. තවමත් නිසි විසඳුමක් දීමට බලධාරීන් අපොහොසත්. මෙය සුළුවෙන් නොතැකිය යුතුයි. එකපැත්තකින් අසරණ ගොවියා, අනෙක් පැත්තෙන් අසරණ පාරිභෝගිකයා අපහසුතවයට පත් වෙලා. මෙය අලවලටම සීමවු දෙයක් නොවෙයි. ධාන්‍ය, එළවළු, පළතුරු සියල්ලටම මේ අවිධිමත් දාමයා බලපාලා තිබෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චනක</author>
+            <date>2013-12-21 16:10:40</date>
+            <index>5</index>
+            <phrase>ඔය අල තොගය එවන්න කොළඹ කඩ වලට කොත්තු දන්නා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-12-21 16:25:47</date>
+            <index>6</index>
+            <phrase>මෙයට ප්‍රධාන හේතුව තොග වෙළෙන්දන්ගේ මිල ඒකාධිකාරයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2013-12-21 18:23:31</date>
+            <index>7</index>
+            <phrase>ඔය කියන තරම් යකා කළු නැහැ. මේවා ගබඩාවේම කුණුවෙන්න ඇරලා ඇති නියමිත දීමනා සම්පුර්ණ වෙනකල්. කාට කාටත් තේරෙනවා ඇතිනේ මොනවද මේ දීමනා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2013-12-21 19:59:17</date>
+            <index>8</index>
+            <phrase>අම්මෝ බයේ බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් කාලිංග</author>
+            <date>2013-12-21 23:11:06</date>
+            <index>9</index>
+            <phrase>මෙහෙම ආහාර නාස්ති කිරීම මහා අපරාදයක්, ලෝකෙ කි දෙනෙක් නම් දිනකට මියැදෙනවද කුසට අහරක් නැතුව , මෙවැනි අකටයුතු කම් වැටලීම් කරන අතරේම නාස්තිය අවම වෙන වැඩ පිළිවෙළක් හැදුවත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලු</author>
+            <date>2013-12-22 04:20:10</date>
+            <index>10</index>
+            <phrase>අල වගේද ගෝව ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

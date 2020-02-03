@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44559</articleId>
+    <title>ලාංකික 27ක් භූමිකම්පාවෙන් අවතැන් වෙති</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 මැයි මස 24 15:56:47</date>
+    <body>පසුගිය ඉරිදා ඉතාලියේ ඇති වූ භූමිකම්පාවෙන් මෝදනා නුවර ආසන්නයේ සන් සෙලිනෝ සුල් පනාරෝ නගරයේ ජීවත් වූ ශ්‍රී ලාංකික පවුල් හතක විසි හය දෙනෙක් අවතැන් වී සිටිති. ඔවුනට ලැබුණු කූඩාරම් දෙක තුන ද දරුමල්ලන්ට දී පිරිමි කාර්වල රැුය ගත කිරීමට පුරුදු වී සිටියහ. බදාදා සිට ඔවුනට අසල ගෘහස්ත ක‍්‍රීඩාංගනයක නවාතැන් ලැබී ඇත. මේ ප‍්‍රදේශයේ තවත් ශ්‍රී ලාංකිකයන්ගේ ගෙවල් කැඞී ඇති බව දැනගන්නට ඇතැයි එහි පදිංචි හලාවත අජිත් ප‍්‍රනාන්දු මහතා කියයි. ශ්‍රී ලාංකිකයන්ගෙන් කෑම බීම ලැබෙන බව ද ඔහු පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-05-24 16:30:53</date>
+            <index>0</index>
+            <phrase>සැමට කායික මානසික සහනය ලැබේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ....</author>
+            <date>2012-05-24 17:00:20</date>
+            <index>1</index>
+            <phrase>හැකි අයුරින් උපකාරී වන්න,මේ වේලාවේ මෝදනා අවට ඉන්න අය ඒ අය ගැන සොයා බලන්න.අපි ඉන්නේ ගොඩක්‌ දුරනේ ඒකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-24 17:38:39</date>
+            <index>2</index>
+            <phrase>අනේ ඔයාලට ඉක්මන් සහනයක් ලැබේවායි පතනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2012-05-24 18:57:51</date>
+            <index>3</index>
+            <phrase>ඔබලාට වෙලා තියන විපත ගැන හරිම කණගාටුයි. හැකි අය මේ අයට පිහිටවෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

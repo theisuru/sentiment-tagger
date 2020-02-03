@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42848</articleId>
+    <title>කොටි හිතවාදී හෙරණෑවක් එයි?</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 මැයි මස 18 10:48:44</date>
+    <body>ඇමෙරිකාවේ නිව්යෝක් නුවර පදිංචි විශ්වනාදන් රුදුකුමාරන් විසින් එතෙරදී ඉබේම පිහිටුවා ගැනුණු ‘දෙමළ ඊළාම් සංක්‍රාන්ති රජයේ‘ ගුවන් විදුලිය ශ්‍රී ලංකාව, ඉන්දියාව, මලයාසියාව, හා සිංගප්පූරුව යන රටවල දෙමළ ජනයා වෙනුවෙන් විකාශනයක් අරඹන බව ප්‍රකාශ කර ඇත. දෙමළ ජනයාගේ ශෝක දිනය වශයෙන් අද නම් කාර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-18 10:51:31</date>
+            <index>0</index>
+            <phrase>මේක පුදුම වැඩක්නේ......මේකට මොකක් හරි කරන්නම වෙනවා‍................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-05-18 11:08:09</date>
+            <index>1</index>
+            <phrase>මාර වෑඩක් මේක..ලෝකෙ මොන තරම් රටවල් තිබුනත් ඈයි මේ හෑම එකාම මේ පුංචි රටටම එක එක දේවල් කරන්නේ. අපේ රට ඒ තරම් වටිනව.... ඒක වෙන්න ඈති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-05-18 12:21:17</date>
+            <index>2</index>
+            <phrase>මැලේසියාවෙත් මෙහෙමමයි අනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-18 12:41:54</date>
+            <index>3</index>
+            <phrase>මූදේ තිබුණු පාවෙන ගබඩා වලටත් වැඩක් දුන්න නම්, රට හිටි නායකයින්වත් අල්ලන් ආවා නම් මේකත් නවත්වමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන් රංගන</author>
+            <date>2012-05-18 14:38:52</date>
+            <index>4</index>
+            <phrase>ඉන්දියාවේ වෙනම තමිල්නඩු රටක් හදන්න අපිත් එකපයින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>rg.neel</author>
+            <date>2012-05-18 15:34:15</date>
+            <index>5</index>
+            <phrase>වෛරය ක්‍රොදය සදහටම තියාගෙන ඉන්න ජාතියක් කවදාවත් විශ්වාස කරන්න හොඳ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2012-05-18 16:26:55</date>
+            <index>6</index>
+            <phrase>තමිල් නාඩුවේ ඊළමක් පිහිටවන්න අපිත් උදවු කරමු.නැත්නම් අපිටම තමයි කරදර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-18 19:35:47</date>
+            <index>7</index>
+            <phrase>ඌරන් කැකුණ ගලනකොට හබන් කුකුළන්ට මඟුල් ලු..ප්‍රධාන දේශපාලන ධාරාවල නායකයින්,ප්‍රධානීන් පිල් බෙදී ඇණ කොටා ගන්නා විට පරාජයවී ගිලිහී ගොස් ඇති කොටි මවිල් ගස්වලට ප්‍රාණය පිඹ නැවත ජීවය ලබා දීමට වෑයම් කරන මෙබඳු යටිකූට්ටු වැඩපිළිවෙලවල් ඇතිවීම වළක්වන්න බැහැ.ඒවා පරාජය කරන්න නම් සිංහල බෞද්ධ ජන නායකයින් පළමුව එක්සත් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2012-05-19 02:08:30</date>
+            <index>8</index>
+            <phrase>පොඩි එකාගේ ආසාවනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

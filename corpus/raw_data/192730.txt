@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>192730</articleId>
+    <title>සළු පාළිය ....දෙවන  ගෙන හැර දැක්ම</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 දෙසැම්බර් මස 10 00:48:11</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2013-12-11 05:01:07</date>
+            <index>0</index>
+            <phrase>අප අතුරින් මැකීයන,සංකෘතික අංගයක් වන සළුපාලිය ,දහඅට සන්නිය ,කොහොඹා කංකාරිය වැනි ශ්‍රේෂ්ඨ දායාද රැක ගන්නට දරනා ප්‍රයත්නයට අපේ උණුසුම් සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>354319</articleId>
+    <title>සීල සුව අරණ (1)</title>
+    <author>වීඩියෝ - ශාන්ත රත්නායක</author>
+    <date>2015 ඔක්තෝබර් මස 14 16:19:54</date>
+    <body>‘සීල සුව අරණ‘ භික්ෂු ගිලන් මධ්‍යස්ථානය - හොරණ (පළමුවැනි කොටස)</body>
+    <comments>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2015-10-17 18:16:53</date>
+            <index>0</index>
+            <phrase>අපේ හාමුදුරුවනේ, නිවන් දකින්නට පතන්නෙමි ඔබවහන්සේ මේ ආත්මයේදීම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2015-10-17 18:20:41</date>
+            <index>1</index>
+            <phrase>අපේ හාමුදුරුවනේ, ඔබ වහන්සේට සියළු වීර්යය බලය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2015-10-19 08:55:39</date>
+            <index>2</index>
+            <phrase>ලබන සැරේ ලංකාවට ආවාම අනිවාර්යයෙන්ම බලන්න යනවා' ලංකාදීපයෙන් මෙවන් දේ ඉදිරිපත් කිරීම ගැන අපේ ස්තුතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2015-10-20 02:04:46</date>
+            <index>3</index>
+            <phrase>ඔබ වහන්සේට නිදුක් නිරෝගී සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2015-10-20 02:11:29</date>
+            <index>4</index>
+            <phrase>ඔබ වහන්සේට මෙවන් දෙයක් ශාසනයට කිරීමට තව තවත් ආයුෂ බලය වැඩිවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2015-10-20 21:18:38</date>
+            <index>5</index>
+            <phrase>පළමුවෙන්ම ලංකාදීප කතෘතුමාට මගේ ස්තුතිය., මෙවැනි පුවත් ලොවටම ගෙන දෙනවාට ., හාමුදුරුවනේ ඔබට දීර්ඝායුෂ වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2015-10-22 05:10:34</date>
+            <index>6</index>
+            <phrase>මට මේ බික්ෂු ගිලන් හල තියෙන තැන ලිපිනය දෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2015-10-26 03:06:11</date>
+            <index>7</index>
+            <phrase>මේ භික්ෂු ගිලන්හල තිබෙන තැන ලිපිනය ලබාදෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2015-10-27 23:06:24</date>
+            <index>8</index>
+            <phrase>සිත පහන්වෙන ප්‍රවෘත්තියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2015-10-27 23:03:58</date>
+            <index>9</index>
+            <phrase>මම දෙසැම්බර් මාසේ ලංකාවට ගියාම මෙතැන හොයාගෙන යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදිනී</author>
+            <date>2015-10-29 06:23:57</date>
+            <index>10</index>
+            <phrase>මේ භික්ෂු ගිලන්හල තියෙන තැන ලිපිනය හා අපිට උදවු කරන්න පුළුවන් විදියක් දැනගැනීමට සලස්වන්න! ඔබලාට පින්සිදු වෙනවා මේ පිළිබද පළ කළාට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2015-11-02 02:18:41</date>
+            <index>11</index>
+            <phrase>මම ලංකාවට නැවත ගියාම මම කැමතියි මෙතනට ආධාර කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප් ද සිල්වා</author>
+            <date>2015-11-04 02:13:30</date>
+            <index>12</index>
+            <phrase>මෙතනින් තවත් තොරතුරු ලබාගන්න පුළුවන් http://healthcaremonastery.com/</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප් ද සිල්වා</author>
+            <date>2015-11-04 02:20:29</date>
+            <index>13</index>
+            <phrase>හොරණ නගරයේ සිට පාදුක්ක පාරේ කි.මී.1ක් ගොස් දකුණට දික්හේනපුර පාර කි.මී.2ක් ගොස් බස්එක හරවන තැනින් වමට හැරී වෙල මැදින් පාර ඔස්සේ යන්න. ( ආරාමයට යනතෙක් හැරෙන තැන්වල දැන්වීම් පුවරු දමා ඇත) හොරණ නගරයෙන් දික්හේනපුර බස්යේ ගියවිට ආරාමය ළඟටම යා හැකිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2015-11-21 18:03:37</date>
+            <index>14</index>
+            <phrase>හොඳ ප්‍රවෘත්තියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2015-12-07 20:45:56</date>
+            <index>15</index>
+            <phrase>මෙන්න සැබෑ බෞද්ධයන්ට අවස්ථාවක් පින්කරගන්න. මේවා තමයි මහත්ඵල මහානිසංස කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>469571</articleId>
+    <title>ඖෂධ මිල අඩුකරන ගැසට්පත සිකුරාදා</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 ඔක්තෝබර් මස 18 18:15:57</date>
+    <body>ඖෂධ 48 මිල අඩු කිරීමිට නියමිත ගැසට් පත්‍රය ලබන සිකුරාදා නිකුත් කරන බව සෞඛ්‍ය අමාත්‍යංශය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-18 17:33:18</date>
+            <index>0</index>
+            <phrase>ගිය ආණ්ඩුවේ සෞඛ්‍යය ඇමතිතුමා මේ වෙනකොට හිටියා නම් ඖෂධ ප්‍රඥප්තිය ක්‍රියාත්මකයි. අපේ අවාසනාවට එතුමාගේ හිත වෙනස්වුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-10-19 02:39:50</date>
+            <index>1</index>
+            <phrase>බාලගිරි දෝෂය අද නොවෙයි හෙට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-10-19 11:08:32</date>
+            <index>2</index>
+            <phrase>තවමත් නැහැනේ අර අතුරුදහන් වුනා කිව්ව ඖෂධ ප්‍රතිපත්තිය ක්‍රියාවට නැගුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර</author>
+            <date>2016-10-19 12:08:10</date>
+            <index>3</index>
+            <phrase>මේ සමග බෙහෙත්වල ප්‍රමිතියත් අඩුවේවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණුක</author>
+            <date>2016-10-19 17:49:14</date>
+            <index>4</index>
+            <phrase>සිකුරාදා නැකැත් දවසක්ද? නැකත වැරදුනොත් අහිංසක ලෙඩුන්ගේ කටේ බෙහෙත් නෙමෙයි පස් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

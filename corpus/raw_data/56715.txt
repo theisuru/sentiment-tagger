@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56715</articleId>
+    <title>බෙහෙත් සමාගම පෙරහර සත්කාරයේ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 අගෝස්තු මස 02 14:25:15</date>
+    <body>ග්ලැක්සෝ ස්මිත් ක්ලයින් සමාගම මහනුවර මෙවර ඇසළ පෙරහර සමයේ දස වැනි වතාවටත් වන්දනා සේවය පැනඩෝල් ප‍්‍රථමාධාර සේවා සැලැසීය. ශ්‍රීපාද, මඩු නල්ලූර්, අනුරාධපුරයේ, තන්තිරිමලේ හා මිහින්තලේ පොසොන් පිංකම සමයේද මෙවැනි ප‍්‍රථමාධාර කණ්ඩායම් නොමිලයේ සේවය කරන බව සමාගම කියයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-02 15:00:13</date>
+            <index>0</index>
+            <phrase>මේවා අගය කළ යුතු දේවල්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-08-02 14:58:58</date>
+            <index>1</index>
+            <phrase>පත්තර වල දන්නා වටින පුවත් පිංචක්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල...</author>
+            <date>2012-08-02 15:30:14</date>
+            <index>2</index>
+            <phrase>ශත 25 ට ලබා ගත හැකි පැරසෙටමෝල් පෙත්ත රු.2,50 ට අපට විකිනෙන්නේ මේ නිසානේ.. මෙහෙම කලා කියල පාඩුවක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-08-02 16:01:58</date>
+            <index>3</index>
+            <phrase>මෙම උතුම් ක්‍රියාවට එම සමාගමට ස්තුති පුදකරන්නෙමු..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරසිංහ</author>
+            <date>2012-08-02 18:16:17</date>
+            <index>4</index>
+            <phrase>මේවා ආණ්ඩුවෙන් බදු සහන ගන්න කරන වැඩනෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2012-08-02 18:17:40</date>
+            <index>5</index>
+            <phrase>මේවා කළාම බදු නොගෙවා ඉන්න පුළුවං..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ ජූඩ් ‍යොහාන්</author>
+            <date>2012-08-02 19:00:48</date>
+            <index>6</index>
+            <phrase>කපිල, මාරසිංහ ඔයාලට කොයි වැඩෙත් වැරදියට පේන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්ලික්</author>
+            <date>2012-08-02 23:51:22</date>
+            <index>7</index>
+            <phrase>මාරසිංහ, රංජනී වෙත, මෙම සමාගම මේවා නොකර බදු ගෙව්වාය කියලා කියමුකෝ. ඒ බදු සල්ලි යොදවලා රජය මෙහෙම දෙයක් කරයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-03 09:13:59</date>
+            <index>8</index>
+            <phrase>ලංකාවේ සමාගම් කොච්චර නම් තියෙනවාද? ඒත් මෙහෙම දෙයක් කරන්න කාටවත්ම හිතුණේ නෑනේ. ඒ නිසා මෙම ක්‍රියාව අගය කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

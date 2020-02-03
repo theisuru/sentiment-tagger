@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>3192</articleId>
+    <title>තලවාකැලෙන් අලුත් තේ පැළයක්</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2011 සැප්තැම්බර් මස 11 12:31:59</date>
+    <body>පලදායිතාව වැඩි නව තේ ප‍්‍රබේදයක් තලවාකැලේ තේ පර්යේෂණායතනයේ ප‍්‍රධානී ආචාර්ය කුමුදිනී ගුණසේකර මහත්මිය හඳුන්වාදෙන්නීය.
+බීජ රෝපණයෙන් සොයාගත් මේ නව ප‍්‍රබේදයේ තේ පැලයේ මුල පොළොවේ යටි ස්ථරය දක්වා විහිදී යන බවත් ජලය රඳවා ගැනීමේ හැකියාව ඇති නිසා වියළි කාලගුණය ඇති ප‍්‍රදේශවලට ද එය යෝග්‍ය බවත් මේ පර්යේෂණය සාර්ථක කැර ගැනීමට පර්යේෂණායතනයේ අධ්‍යක්ෂ ආචාර්ය සරත් අබේසිංහ දායක වූ බවත් ආචාර්ය ගුණසේකර කියන්නීය. තේ ගස ශ්‍රී ලංකාවට පැමිණියේ වසර 140කට කලිනි.
+ටී.කේ 3000-4000 නමින් හැඳින්වෙන මේ තේ ප‍්‍රබේදයෙන් හෙක්ටෙයාරයකට කිලෝ 2500 ක අස්වැන්නක් නෙළාගත හැකි බවද ආචාර්ය ගුණසේකර කියන්නීය.</body>
+    <comments>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2011-09-11 14:22:06</date>
+            <index>0</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිලක</author>
+            <date>2011-09-11 14:37:21</date>
+            <index>1</index>
+            <phrase>බොහොම අපූරු සොයා ගැනීමක්. මේ වගේ දේවල් තව තව පර්යේෂණ මගින් සොයා ගන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2011-09-11 15:13:54</date>
+            <index>2</index>
+            <phrase>සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ ඩී ඒ .ජයරත්න</author>
+            <date>2011-09-12 09:19:27</date>
+            <index>3</index>
+            <phrase>මේ සොයා ගැනීමට සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

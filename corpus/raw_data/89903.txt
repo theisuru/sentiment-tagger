@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>89903</articleId>
+    <title>ගුරුවරයා මුදලාලිගේ කනෙනුත් රිංගලා</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2013 ජනවාරි මස 02 09:26:07</date>
+    <body>දකුණු පළාත් රාජ්‍ය ආයතන කීපයක් අසල වූ තේ කඩයකි. මුදලාලි සාමාන්‍ය තේ එකක් හදන විට එය ජෝගුවෙන් කෝප්පයට හෙමින් වත් කළත්කිරි තේ කොප්පයට දමන විට ජෝගුව අඩි දෙක තුනක් ඔසවා ඉහළ සිට වත් කළේ කපටිකමටය. එවිට කෝප්පයෙන් අඩක්ම පෙනවලින් වැසෙන බව ඔහු දනී. කාර්යාලයේ වැඩ කීපයක් කරගත් ගුරුවරයකු කඩයට ගොඩ වී කිරි තේ එකක් ඉල්ලූවේය. මුදලාලි සුපුරුදු පරිදි පෙනවලින් පිරුණු තේ එක මේසය මත තැබීය. තම සමීපයට ආ හිතවතකු සමග මොහොතක් කතා කළ ගුරුවරයා තේ එක බීමට බලන විට දුටුවේ පෙන නැතිවගොස් තේ බාගයකි. තේ බී කවුන්ටරයට ගිය ඔහු රුපියල් පහළොවක් දුන්නත් මුදලාලි කීවේ තේ එක රුපියල් විස්සක් බවකි. ”නෑ ගාන හරි මුදලාලි, තේ බාගෙට රුපියල් දහයයි. පෙන ටිකට රුපියල් පහයි” කී ඔහු කඩයෙන් එළියට බැස්සේය.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-01-02 10:18:05</date>
+            <index>0</index>
+            <phrase>මේ වගේම තමයි සුපිරි හෝටල් වල දෙන ජූස් වීදුරුව. වීදුරුවේ අඩිය ඇතුල් පැත්තෙන් උඩට නෙරලා තියෙන්නේ. ජූස් තියෙන්නේ වීදුරුවෙන් භාගයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2013-01-02 10:50:04</date>
+            <index>1</index>
+            <phrase>දකුණේ මිනිස්සු ඔහොම තමයි. එයාලට ආසාධාරණය හමුවේ නිහඩව ඉන්න බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-02 11:00:27</date>
+            <index>2</index>
+            <phrase>දකුණේ ඉන්නේ ගොඩක් මොලේ තියෙන මිනිස්සුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2013-01-02 11:06:37</date>
+            <index>3</index>
+            <phrase>ඔක ලංකාවෙ ගොඩක් කඩවල වෙන දෙයක්. සමහර වෙලාවට කිරිතේ එක තියෙන්නෙ බාගයකටත් වඩා අඩුවෙන්. හොඳ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2013-01-02 11:13:41</date>
+            <index>4</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් - බේරැවල</author>
+            <date>2013-01-02 11:18:48</date>
+            <index>5</index>
+            <phrase>දැන් හැම දෙයකම වියදම සැරයි... ව්‍යාපාරිකයාට බැනලා වැඩක් නැහැ.... මුදල් අඩුවෙන් දීල ව්‍යාපාරිකයාගේ ශාප වලට අහුවෙන්නත් එපා. මෙතන දෙන්නම අසරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2013-01-02 11:24:00</date>
+            <index>6</index>
+            <phrase>කොහොමද ටිකිරි ‍මොලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේග - සත්‍ය ජයගනී</author>
+            <date>2013-01-02 11:30:09</date>
+            <index>7</index>
+            <phrase>දමිත් දකුණෙ අය අසාධාරනයට නිහඩව ඉන්නෙ නැත්තම් ‍දේශපාලනික අසාධාරනකම් වලට කටපියාගන ඉන්නෙ මොකද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-02 11:58:45</date>
+            <index>8</index>
+            <phrase>කොහොමද දකුණේ මොලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-01-02 12:14:33</date>
+            <index>9</index>
+            <phrase>බාගෙට කිරි තේ දුන්නෙත් දකුණේ මුදලාලි කෙනෙක් නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-02 12:22:15</date>
+            <index>10</index>
+            <phrase>ගුරුතුමා දකුණේ නිසා තැනට සුදුසු ගණදෙවි නුවන පාවිච්චි කරා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාෆික්</author>
+            <date>2013-01-02 12:49:02</date>
+            <index>11</index>
+            <phrase>ඒ මුදලාලි දකුණේ‍‍ කෙනෙක් නෙමෙයි. පදිංචි වෙලා ඉන්නේ දකුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනුෂ්ක</author>
+            <date>2013-01-02 13:03:59</date>
+            <index>12</index>
+            <phrase>මට හිනා යනවා ඇත්තට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2013-01-02 13:27:22</date>
+            <index>13</index>
+            <phrase>රැවටිල්ලට හොද පාඩමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2013-01-02 13:38:56</date>
+            <index>14</index>
+            <phrase>ඒ අතින් දකුණට වඩා උතුර කොච්චර හොදද? කිරි වීදුරුව පුරවලා දෙනව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2013-01-02 13:41:07</date>
+            <index>15</index>
+            <phrase>මටනම් ඉතාමත්ම සතුටුයි ගුරුවරයා ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රිකා</author>
+            <date>2013-01-02 15:16:40</date>
+            <index>16</index>
+            <phrase>ඒකනේ කියන්නේ බෙන්තර ගගෙන් මෙහාට පූස් පැටියෙක්වත් ගේන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-01-02 15:17:41</date>
+            <index>17</index>
+            <phrase>දකුණේ කියලා උඩ පනින්න එපා. මුදලාලිත් දකුණෙනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-01-02 15:36:08</date>
+            <index>18</index>
+            <phrase>මෙතන තියෙන්නේ දෙන්නගේම කූට බුද්ධිය මිස වෙන කිසිවක් නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2013-01-02 15:57:31</date>
+            <index>19</index>
+            <phrase>දකුණේ මිනිස්සු නම් අහුවෙයි මුදලාලිලාගේ ගැට වලට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේෂ්</author>
+            <date>2013-01-02 16:01:25</date>
+            <index>20</index>
+            <phrase>එන්නකෝ නුවර.... තේ එක දෙන්නේ කොහොමද බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගාර</author>
+            <date>2013-01-02 16:14:39</date>
+            <index>21</index>
+            <phrase>දකුණේ අන්දරේලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2013-01-02 16:28:21</date>
+            <index>22</index>
+            <phrase>දාන අදහසක් මාතෘකාවට අදාලව දන්න. දකුණ දකුණ දකුණ.... මේක දැන් විකාරයක් වේගෙන යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-02 17:35:45</date>
+            <index>23</index>
+            <phrase>කෝ රොෂාන් සහ ලහිරු? ඔන්න එයාලගේ පැත්ත ගැන මොනවද තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමුක්ති</author>
+            <date>2013-01-02 18:07:54</date>
+            <index>24</index>
+            <phrase>අනේ මන්දා, කට්ටියට දකුණත් එක්ක තරහක් තියෙනවද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-01-02 19:21:29</date>
+            <index>25</index>
+            <phrase>පෙණ ටිකටත් ඉතින් සල්ලි ගෙවලනේ...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-01-02 19:29:29</date>
+            <index>26</index>
+            <phrase>ඕකට තියෙන්නේ කිරි තේ නොබී ඉන්න එකයි. ඇගටත් ගුණයි. සාක්කුවටත් ලෙහෙසියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2013-01-02 19:46:13</date>
+            <index>27</index>
+            <phrase>මිනිස්සුන්ට වංචා කරනවාට හොද වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්මි</author>
+            <date>2013-01-02 19:45:30</date>
+            <index>28</index>
+            <phrase>හෝටල් මුදලාලිලා කාටත් හොද පාඩමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2013-01-02 20:20:58</date>
+            <index>29</index>
+            <phrase>ගුරු තුමාගෙන් හොද පාඩමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-01-02 20:24:32</date>
+            <index>30</index>
+            <phrase>අපි අපිම මේ විදියට බෙදුනහම නැවත කොටියට ලේසියෙන්ම ඒකෙන් වාසි ගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2013-01-02 20:45:56</date>
+            <index>31</index>
+            <phrase>පෙරේරා ඔබ නිවැරදියි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරිල්</author>
+            <date>2013-01-02 22:31:50</date>
+            <index>32</index>
+            <phrase>මුදලාලිට, අනේ පව්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-01-02 23:36:09</date>
+            <index>33</index>
+            <phrase>දන්නවද? මේක ගාල්ලේ වෙච්ච දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-01-03 02:42:59</date>
+            <index>34</index>
+            <phrase>මේක අපිට ආවේ ඉන්දියාවෙන්. තේ එකේ රස වැඩිවෙන්නයි එහෙම කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2013-01-03 04:56:37</date>
+            <index>35</index>
+            <phrase>ඒක තමයි මිනිස්සු කියන්නේ දකුණු පැත්තෙන් පූස් පැටියෙක්වත් ගේන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-01-03 07:58:10</date>
+            <index>36</index>
+            <phrase>කෝ මේ රටේ නැද්ද ප්‍රමිති ආයතන?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්ද්‍ර</author>
+            <date>2013-01-03 09:06:28</date>
+            <index>37</index>
+            <phrase>සිල්වා හරි. මේක තේ රසවත් කරන විදියක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත</author>
+            <date>2013-01-03 09:36:06</date>
+            <index>38</index>
+            <phrase>මුලින් දකුණෙ ප්‍රවෘත්ති, පසුව දකුණෙ නොවුනත් දකුණේ ගමක් ගැන සදහන් වන ප්‍රවෘත්ති, ඊට පස්සෙ දකුණෙ නොවන ඒවටත් දකුණේ වුණ දෙයක් කියල අදහස් දානව. සියල්ල විහිලුවට නොගෙන කරුණාකර මෙය නවත්වන්න,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-03 10:14:37</date>
+            <index>39</index>
+            <phrase>නිමන්ත ඔයා කොහොමද ඔච්චරටම දන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද</author>
+            <date>2013-01-03 10:29:10</date>
+            <index>40</index>
+            <phrase>කපටිකමයි - රසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මයුමි</author>
+            <date>2013-01-03 10:38:48</date>
+            <index>41</index>
+            <phrase>හරිනෙ ඉතිං මුදලාලිත් දකුණු පළාතෙමනේ.. මොකද ඉතිං කරන්නෙ.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2013-01-03 10:48:54</date>
+            <index>42</index>
+            <phrase>ඔය ගොල්ලෝ ටින්කිරි ‍බොන්න එපා. ඊලඟට සේරටම දියවැඩියාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-01-03 12:11:33</date>
+            <index>43</index>
+            <phrase>මානසික රෝගීන්ගේ අදහස් දැන්වත් නවත්ත ගත්තොත් හොඳයි නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-03 12:33:15</date>
+            <index>44</index>
+            <phrase>ඔව් මට එහෙම තමයි... මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2013-01-03 13:22:35</date>
+            <index>45</index>
+            <phrase>දෙන්නාම එක වගේ කපටියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-01-03 15:02:46</date>
+            <index>46</index>
+            <phrase>අන්න එහෙම තමයි කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2013-01-03 15:08:14</date>
+            <index>47</index>
+            <phrase>පෙරේරට තේරෙන දේ සමහර අය‍ට තේරෙන්නෙ නැති එකනෙ පුදුමෙ. මේක විහිළුවක් කියල හිතන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2013-01-03 20:40:48</date>
+            <index>48</index>
+            <phrase>පෙරේරා හරි....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලූ</author>
+            <date>2013-01-03 20:46:16</date>
+            <index>49</index>
+            <phrase>පෙරේරට මාත් එකගයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලූ</author>
+            <date>2013-01-03 20:44:24</date>
+            <index>50</index>
+            <phrase>පෙරේරා මම ඔයා සමඟ එකඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන්</author>
+            <date>2013-01-03 23:33:18</date>
+            <index>51</index>
+            <phrase>කොහොමහරි අන්තිමට පෙණ වලටත් සල්ලි ගෙවලා නිසා ඔය පැත්තේ කට්ටිය ගැන අපිට හිතාගන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-01-04 10:36:16</date>
+            <index>52</index>
+            <phrase>මේවා දන්න නිසා අපි බොන්නේ කිරි පැකට්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2013-01-04 13:01:37</date>
+            <index>53</index>
+            <phrase>ප්‍රවෘත්තිය හරියට තේරුම් අරගෙන අදහස් පල කරන්න තුෂාන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-01-04 14:59:58</date>
+            <index>54</index>
+            <phrase>කඩේ මුදලාලි පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2013-01-04 20:27:48</date>
+            <index>55</index>
+            <phrase>මුදලාලිට වඩා ගුරුතුමා කපට්යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-01-04 22:00:13</date>
+            <index>56</index>
+            <phrase>දකුණේ මිනිස්සු පෙණ වලටත් සල්ලි ගෙවනවද? මෙහේ වුණා නම් ගෙවන්නේ රුපියල් 10ක් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගාර</author>
+            <date>2013-01-05 18:41:45</date>
+            <index>57</index>
+            <phrase>දකුණට ඊර්ෂ්‍යා කරන අය සෑහෙන්න ඉන්න පාටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-01-06 01:54:04</date>
+            <index>58</index>
+            <phrase>ගුරු තුමාට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෆික්</author>
+            <date>2013-01-06 01:54:04</date>
+            <index>59</index>
+            <phrase>අසාධාරණයට අසාධාරනයෙන්ම පිළිතුරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෆීක්</author>
+            <date>2013-01-06 01:54:08</date>
+            <index>60</index>
+            <phrase>නියම වැඩේ ඒක, ගුරු තුමා හරියටම හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2013-01-07 00:49:34</date>
+            <index>61</index>
+            <phrase>මට හිතා ගන්නවත් බැරි උනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-01-07 15:30:37</date>
+            <index>62</index>
+            <phrase>ඊර්ෂාවයි පිළිකුලයි අතර ලොකු වෙනසක් තියෙනවා මිගාර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2013-01-07 18:27:48</date>
+            <index>63</index>
+            <phrase>එහෙම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2013-01-07 20:31:50</date>
+            <index>64</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්මි</author>
+            <date>2013-01-08 11:46:48</date>
+            <index>65</index>
+            <phrase>අයියෝ .....අයියෝ .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

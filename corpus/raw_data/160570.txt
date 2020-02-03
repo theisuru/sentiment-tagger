@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>160570</articleId>
+    <title>අම්පාර ගොවියාගේ හිතත් පිරේ</title>
+    <author>කුමාර සි ලියන ආරච්ච්</author>
+    <date>2013 අගෝස්තු මස 12 19:15:26</date>
+    <body>2013 යල කන්නයේ වී මේ‍ට්‍රික් ටොන් 20000 (කිලෝ ලක්ෂ 200ක්) මිල දි ගන්නා  බව වී අලෙවී මණ්ඩලයේ අම්පාර  කාලපයේ ප‍්‍රාදේශිය කළමණකරු ආර්. එම්. ඒ.රත්නායක මහතා කියයි. පෞද්ගලික වෙළෙන්දෝ වී මිලට ගනිති. ගොවියකුගෙන් වී කිලෝ 5000ක් මිලදි ගන්නා අතර නාඩු වී කිලෝවක් රුපියල් 32කට හා සම්බා කිලෝවකට රුපියල් 35ක් ගෙවන බව ද ඔහු සඳහන් කරයි. පසුගිය වසරේදි යල කන්නයෙදි අම්පාර දිස්ත‍්‍රික්කයෙන් වී මෙට්‍රික් ටොන් 7800 මිලට ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>දම්</author>
+            <date>2013-08-12 20:39:01</date>
+            <index>0</index>
+            <phrase>අන්තිම හොර වෙළෙන්දත් වී අරන් ගියාට පස්සේ නම් වී ගන්න කියාගෙන එන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2013-08-12 20:57:23</date>
+            <index>1</index>
+            <phrase>සතුටට කල් වැඩිද මන්දා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2013-08-12 22:13:13</date>
+            <index>2</index>
+            <phrase>ඔය සතුට වී විකුණන කාලේ දීත් පවතීවා!. තාම ගන්න පටන් ගත්තෙත් නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-08-13 02:29:15</date>
+            <index>3</index>
+            <phrase>ලසන්ත, පිටිගල, ඔබ කියනවා වගේ සතුටට හොඳටෝම කල් වැඩියි. අර දඹුල්ලේ ලොකු ලුණු ගොවීනුත් සතුටු වෙනකොට මට නම් සතුටටත් වඩා බයක් ඇති වුනේ. මේ අහිංසකයන්ට පාරට එන්න නම් සිද්ධ නොවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2013-08-13 03:26:03</date>
+            <index>4</index>
+            <phrase>ගොවීන් රැකගැනීම අප සැමගේ යුතුකමකි.ගොවීන්ට නව තාක්ෂණය ගැන දැනුම ලබාදීම ගැන වැඩපිළිවෙලක්සකස්කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරල්</author>
+            <date>2013-08-13 10:19:23</date>
+            <index>5</index>
+            <phrase>දෙවන පින්තුරය වී වෙළන විදියද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2013-08-13 11:25:00</date>
+            <index>6</index>
+            <phrase>2 වන පින්ත්රය වියට්නාම එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2013-08-13 21:42:06</date>
+            <index>7</index>
+            <phrase>හිත විතරක් පිරිලා නවතින්නේ නැතුව ගොවියන්ගේ පසුම්බ්ත් පිරුනොත් තමයි නියම පිරීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

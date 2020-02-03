@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>474251</articleId>
+    <title>ෆොන්සේකාගේ පිරිසක් එජාප සංවිධායක තනතුරු ලබති</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 ඔක්තෝබර් මස 30 10:25:11</date>
+    <body>ප්‍රාදේශීය සංවර්ධන අමාත්‍ය ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා නියෝජනය කළ ප්‍රජාතන්ත්‍රවාදී පක්ෂයේ සිට එක්සත් ජාතික පක්ෂයට එකතුවූ සංවිධායකවරු පිරිසක් එක්සත් ජාතික පක්ෂයේ සංවිධායකත්වය ලැබූහ.
+එජාප මහ ලේකම් කබීර් හෂීම් විසින් පත්වීම් ලිපි ප්‍රදානය කළ අතර ප්‍රාදේශීය සංවර්ධන ඇමැති ෆීල්ඩ් මාෂල් ෆොන්සේකා ද මෙම අවස්ථාවට එක්විය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-10-30 05:23:42</date>
+            <index>0</index>
+            <phrase>නැතුව නැතුව ඒගොල්ල ගත්ත ඡන්ද ප්‍රමාණය අනුව ඒගොල්ලන්ට ඇමතිකම් දුන්නත් කමක් නැත. ඒගොල්ලොත් හම්බකර ගන්න එපැයි. මහේන්ද්‍රන් ලා හම්බකරගෙන ඉවරයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-10-30 08:58:36</date>
+            <index>1</index>
+            <phrase>ගමනක අවසානය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංදීප්</author>
+            <date>2016-10-30 09:06:47</date>
+            <index>2</index>
+            <phrase>එතකොට ඒ ප්‍රදේශවල මෙච්චර කල් හිටිය පරණ යු එන් පී සංවිධායකයන් ගෙදරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නජීඩ්</author>
+            <date>2016-10-30 10:24:46</date>
+            <index>3</index>
+            <phrase>අප්‍රමාන සන්තෝසයි.තමන් විතරක් ගොඩ ගිහින් නවතින්නේ නැතිව තමන්ගේ පස්සෙන් ආව මී හරක් රැලටත් සැලකීම ගැන ඔබතුමාට අපේ උපහාරය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක</author>
+            <date>2016-10-30 10:59:20</date>
+            <index>4</index>
+            <phrase>කොහොමද යහපලානේ. ජය වේවා. රටට වැඩකරන්න ඉවසිල්ලක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-10-30 12:48:05</date>
+            <index>5</index>
+            <phrase>ලංකාවේ සාර්ථක දේශපාලකයෙක් වීමට අවශ්‍ය මහජනමතය නොවේ තමාතුල ස්ථිර ප්‍රතිපත්ති නොමැතිකම සහ හැමදෙයක්ම ඉක්මනින්ම අමතක කිරීමේ හැකියාවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-10-30 15:25:54</date>
+            <index>6</index>
+            <phrase>එජාපයේ අවසානය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලාලිත</author>
+            <date>2016-10-31 01:58:57</date>
+            <index>7</index>
+            <phrase>බමුණු ඔබ හරි. මේ වෙල් මාර්ෂල් ජනපති කමට ඉදිරිපත්වූ වෙලාවේ මමත් මෙයාට දරදිය ඇද්ද නිසා , අපේ සංවිධායකත් ඉන්නවද කියල බැලුව..හොද වෙලාවට ඔහු නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>68231</articleId>
+    <title>කාසල්රී පැත්තේ ගින්නක්</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 ඔක්තෝබර් මස 02 16:33:31</date>
+    <body>කාසල්රී ජලාශය අසල නිව්වැලි ප‍්‍රදේශයේ ගින්නකින් ත‍්‍රිරෝද වැඩපොලක් හා රාජ්‍ය නොවන සංවිධාන කාර්යාලක් ගින්නට අසුවී යැයි නෝර්වුඞ් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>කණීෂ්ක</author>
+            <date>2012-10-02 18:13:03</date>
+            <index>0</index>
+            <phrase>අනේ මගෙ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-10-02 18:31:18</date>
+            <index>1</index>
+            <phrase>සීතල පළාතකින් උණුසුම් පුවතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහිංසා</author>
+            <date>2012-10-02 20:07:52</date>
+            <index>2</index>
+            <phrase>අපේ රටේ ගිනිතැබීම දැන් කලාවක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-10-02 22:03:48</date>
+            <index>3</index>
+            <phrase>මේ ගින්නෙන් කී දෙනෙකුගෙ හදවත් ගිනි ගන්න ඇතිද? පව්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-10-02 23:47:32</date>
+            <index>4</index>
+            <phrase>ත්‍රීවිල් වැඩපළ පවු. අහිංසකයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

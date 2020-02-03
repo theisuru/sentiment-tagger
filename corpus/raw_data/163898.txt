@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>163898</articleId>
+    <title>වතුකරයේ මහ සමිති නායකයෝ අද උසාවියේ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2013 අගෝස්තු මස 26 10:28:07</date>
+    <body>ජාතික කම්කරු පෙරමුණේ එස් රාජදොරේ හා පලනී දිගම්බරම් ඇතුළු පාර්ලිමේන්තු මන්ත්‍රීවරුන් දා හතර දෙනකුද ආරුමුගම් තොණ්ඩමන්ගේ ලංකා කම්කරු කොංග්‍රසයේ පළාත් සභා මන්ත්‍රීන් දෙදෙනකු ඇතුළු හත් දෙනකුද  අද (26) හැටන් මහෙස්ත්‍රාත් උසාවියට පැමිණ සිටිත්
+පසුගිය 19 වැනිදා හැටන් කොටගල පැවති ගැටුමක් සම්බන්ධයෙන් අද අධිකරණයේ පෙනී සිටින ලෙස දිඹුල පොලීසිය මොවුන්ට දන්වා ඇත.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසනන</author>
+            <date>2013-08-26 12:08:20</date>
+            <index>0</index>
+            <phrase>කාල තෙලද කොහෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-08-26 12:12:40</date>
+            <index>1</index>
+            <phrase>ඇයි මෙහෙම කා ගන්නෙ,මේකෙ රස දන්න නිසා..අනේ අපේ රටට ගිය කලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-08-26 13:51:47</date>
+            <index>2</index>
+            <phrase>තව ටික දවසකින් කරට අත දාගෙන ප්‍රවෘර්ති සාකච්චා තියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

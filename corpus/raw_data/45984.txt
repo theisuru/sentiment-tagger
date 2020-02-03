@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45984</articleId>
+    <title>ඉතාලියේ සුළු චලන 1000ක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 ජූනි මස 01 13:50:02</date>
+    <body>රිච්ටර් මාපංකයේ 4.3ක ප‍්‍රබලත්වයේ භූමිකම්පාවකින් ඉතාලියේ මෝදනා නගරය බ‍්‍රහස්පතින්දා යළි හෙල්ලූම් කෑවේය. පසුගිය විසි වැනිදා සිට අද වනවිට සුළු චලන දහසක් පමණ වාර්තා විය. පහළොස් දහසක් පමණ අවතැන් වී විස්සකට වැඩි පිරිසක් මියගොස් 350 දෙනකු පමණ තුවාල ලබා සිටින බවත් වාර්තා විය. වාසස්ථාන අහිමි වූවන්ට නිවාස ඉදිකැර දීම සඳහා යුරෝ කෝටි 250ක් (රුපියල් කෝටි 41250ක්) වෙන්කැර ඇත. ශ්‍රී ලාංකිකයන් කිසිවකුටත් අනතුරුක් වී නැත.
+අවතැන් වූ ශ්‍රී ලාංකිකයෝ 35 දෙනෙක් කූඩාරම්වල ජීවත් වෙති</body>
+    <comments>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-06-01 17:28:51</date>
+            <index>0</index>
+            <phrase>අනේ අපොයි අපේ අසරණ ළමයි .ඔය වගේ දෙයක් උනහම කවුරුත් අසරණයි .බුදු සරණයි හැමෝටම .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ඉන්දික ඉතාලිය</author>
+            <date>2012-06-01 19:01:45</date>
+            <index>1</index>
+            <phrase>ඉබ්බ දියේ දැම්මම ඇන්නෑවේ කිව්වලු· මෙයාල කවදාවත් කූඩාරම් දාල යයි කියල හිතන්න බැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-06-01 22:14:18</date>
+            <index>2</index>
+            <phrase>දැන්නම් ටිකක් හොඳ අතට හැරිල, ඒත් ටික ටික සෙලවෙකවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු</author>
+            <date>2012-06-02 08:07:48</date>
+            <index>3</index>
+            <phrase>ලෝක අවසානයද දන්නෙනැ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදූ</author>
+            <date>2012-06-02 08:47:57</date>
+            <index>4</index>
+            <phrase>ලෝක අවසානයද දන්නෙනැ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-06-02 10:56:24</date>
+            <index>5</index>
+            <phrase>මොකද මේ ඉතාලියට වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේව‍ගේ</author>
+            <date>2012-06-02 21:05:15</date>
+            <index>6</index>
+            <phrase>සුභිෂීණී මමත් ඔබ වගේම මේ සිදුවීම පිළිබඳව කණගාටු වෙමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

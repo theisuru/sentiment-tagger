@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>485040</articleId>
+    <title>මාල හොරාට විරේක බේත් දෙයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 29 13:28:08</date>
+    <body>කොළඹ පිටකොටුවේදී බිරියගේ පවුම් දෙක හමාරේ මාලය කඩාගෙන දිවු කොල්ලකරු මහජන සහයෙන් අල්ලා ගැනීමට රත්නපුරයේ පොලිස් සැරයන්වරයෙක් සමත් විය.මාලය ගිල දැමු සැකකරු බඩ විරේකයක් සඳහා රෝහල්ගත කර පොලිසිය මුරට සිටියි.
+ </body>
+    <comments>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-11-29 10:11:17</date>
+            <index>0</index>
+            <phrase>අපේ රටේ දේශපාලකයන්ටත් මොලේ විරේකයක් කරන්න විදිහක් තිබුනානම් කොච්චර හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-29 18:58:53</date>
+            <index>1</index>
+            <phrase>බඩ කැපුවා නම් ඉවරනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

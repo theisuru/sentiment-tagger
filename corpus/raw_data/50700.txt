@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50700</articleId>
+    <title>වව්නියා හිරේ විදුලිය කපයි</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2012 ජූනි මස 29 10:23:12</date>
+    <body>වව්නියා බන්ධනාගාරයේ විදුලිය මිට මොහොතකට පෙර විසන්ධි කෙරිණි
+ </body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-29 10:54:32</date>
+            <index>0</index>
+            <phrase>කලුවරේ ජරමරේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතලන්</author>
+            <date>2012-06-29 10:57:00</date>
+            <index>1</index>
+            <phrase>විදුලිය වතුර කැමත් නැති කරන්න ඕනේ.. </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදිත</author>
+            <date>2012-06-29 12:31:14</date>
+            <index>2</index>
+            <phrase>දෙන්න හදන්නේ දොඹෙන් !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-06-29 15:39:55</date>
+            <index>3</index>
+            <phrase>කපන්න.කපන්න.හෙට අනිද්දට කොහොමත් රටේම කපයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-06-30 12:43:28</date>
+            <index>4</index>
+            <phrase>ගහන්න ඕනි ගහන්න පුලුවන් හැම පැත්තෙන්ම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

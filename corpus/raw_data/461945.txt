@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>461945</articleId>
+    <title>දෙවියන් පලතුරු කඩයට වඩිනු දැක සාදුකාර දීලා</title>
+    <author>දූනගහ බටේපොළ විජයසිරි</author>
+    <date>2016 සැප්තැම්බර් මස 28 12:56:02</date>
+    <body>මිනිසුන්  පෝලිමේ යන දේවාලයක පසුගිය දිනෙක රැයේ අපූරු සිදුවීමක් දැකගත හැකිවිය.
+දේවාලයට මදක් ඉහළින් නිල් පැහැයට හුරු ආලෝකයක් දිස්වන්නට විය. දෙවියන් කෙරේ බැතිමත් වූ පිරිස් දෙවියන් වඩිනවා යයි හදපිරි බැතියෙන් සාදුනාද පැවත්වූහ. ඇතැමුන් හඳුන්කූරු දල්වා පෙදෙස සුවඳ කරද්දී නිල් පැහැති එළිය තව තවත් බැබළෙන්නට විය.
+දේවාලයේ සීනු නාදය ද නොකඩවා හැඬවෙන්නට වූ අතර නිල් ආලෝකය කෙමෙන් කෙමෙනේ පහත් වන්නට වූයේ අසලවූ පලතුරු වෙළෙඳසලක් මතටය. “දෙවියන් පලතුරු වෙළෙඳසලට වඩිනවා” ඇතැම්හු කීහ.
+තවත් පහත්වූ අලේකය පලතුරු කඩයේ වහල මතට වැටෙද්දී කාන්තාවෝ සාදු නාද දුන්හ.
+පසුව පිරිස් පලතුරු වෙළෙඳසල  අසලට ගොස් බලද්දී පැහැදිලි සත්‍යය හෙළිවූයේය.
+සිදුවී ඇත්තේ කුඩා දරුවකු බල්බයක් සවිකොට අහසට නැංවූ සරුංගලයක් පලතුරු වෙළෙඳසලේ වහල මතට පතිත වීමය. 
+(දූනගහ බටේපොළ විජයසිරි)
+ </body>
+    <comments>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-09-28 10:04:44</date>
+            <index>0</index>
+            <phrase>සාදු...සාදු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-09-28 19:01:10</date>
+            <index>1</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2016-09-29 00:40:46</date>
+            <index>2</index>
+            <phrase>මට නම් හිනාව නවත්වා ගන්න බැරිවුණා මේක කියවලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-09-29 02:30:05</date>
+            <index>3</index>
+            <phrase>චානක, කෙනෙකුගේ නොදැනුවත්කමට හිනාවෙන්නේ ඔයා හැමදේම දන්න නිසා වෙන්න ඇති නේද? ඔයා ගැන මට අනුකම්පා හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-09-29 03:51:07</date>
+            <index>4</index>
+            <phrase>අවාසනාවට කට්ටිය දැක්කේ සරුන්ගලයක් කියල , නැත්නම් ඉතින් පලතුරු කඩේ මුදලාලිගේ කරලා පැහෙනවා , දෙවියන්ගේ කඩෙන්ම පලතුරු ඉල්ලලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2016-09-29 10:02:26</date>
+            <index>5</index>
+            <phrase>ජයා ගේ කතාව හරි නැත්නම් හෙට දවසේම දෙවියන්ගේ පලතුරු මිනිසුන්ට කවන්න තිබුනා, මුදලාලි ගොඩ ගියා එහෙනම් ඉතින් මොනවා කරන්නද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිපෙ</author>
+            <date>2016-09-29 18:06:52</date>
+            <index>6</index>
+            <phrase>මම මේ කතාව විශ්වාස කරමි. එක්වතාවක් පුජා කරපු පලතුරු නැවත වරක් විකිණීම ගැන දෙවියන් කෝපවී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2016-09-30 22:29:57</date>
+            <index>7</index>
+            <phrase>පේනවා නේද මිනිස්සු කොච්චර අනුවණද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

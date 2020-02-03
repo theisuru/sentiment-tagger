@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44721</articleId>
+    <title>අගලවත්ත ප්‍රාදේශිය ලේකම් කාර්යාලයේදී පැවැති මව් පිය වන්දනා වැඩසටහන පළමු කොටස</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 25 17:09:24</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>තිලංගනී</author>
+            <date>2012-05-27 21:46:30</date>
+            <index>0</index>
+            <phrase>බටුවංගල රාහුල හිමියනි, ඔබවහන්සේ එහිදි කළ දර්ම දේශනයට නැවතත් සවන් දීමට කැමැත්තෙමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංගනී</author>
+            <date>2012-05-27 21:59:35</date>
+            <index>1</index>
+            <phrase>හැකිනම් බටුවංගල රාහුල හිමිගේ ලිපිනය ලබා දෙනු මැනවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එල්. අධිකාරී</author>
+            <date>2012-05-28 11:39:34</date>
+            <index>2</index>
+            <phrase>කිවිමට වචන නැත... ගොඩක් හොදයි. මේකෙ දෙවන කොටසක් බලන්න පුළුවන්ද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

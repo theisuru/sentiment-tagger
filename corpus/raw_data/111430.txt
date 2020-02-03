@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>111430</articleId>
+    <title>අල් කයිඩා ළමා සොල්දාදුවෝ</title>
+    <author>ඬේලිමේල් ඇසුරිනි</author>
+    <date>2013 අපේ‍්‍රල් මස 24 10:04:16</date>
+    <body>අල් කයිඩා සංවිධානය ළමා සොල්දාදුවන් පුහුණු කරන වීඩියෝ දසුන් පෙළක් ඊයේ (23) බි‍්‍රතාන්‍යයේ ඬේලිමේල් වෙබ් අඩවිය මගින් ප‍්‍රසිද්ධියට පත් කෙරුණි. මරාගෙන මැරෙන බෝම්බකරුවන් ලෙස මෙම දරුවන් පුහුණුව ලබන්නේ පාකිස්තාන/ඇෆ්ගන් දේශසීමාවේ වසිරිස්තානයේ රහස් කඳවුරක.</body>
+    <comments>
+        <comment>
+            <author>සුප්‍රා</author>
+            <date>2013-04-24 11:37:29</date>
+            <index>0</index>
+            <phrase>මුස්ලිම් ජනගහනය වැඩි ඕනෑම රටක් පිරිහිලා යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-04-24 12:43:29</date>
+            <index>1</index>
+            <phrase>ඇත්තටම මේ මිනිස්සු මේ ලෝකෙට බරක්. ඔවුන්ට උගන්නන්නේ ආගම පතුරුවන්නත්(ඕනෑම ක්‍රමයකට) තම වර්ගයා බෝ කරන්නත් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2013-04-24 17:03:36</date>
+            <index>2</index>
+            <phrase>මුස්ලිම් අය දන්නේ ආගම පතුරවන්නයි, යුද්ධ කරන්නයි, ළමය හදන්නයි විතරද? අනේ මන්දා. මට නම් තේරෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලහකෝන්</author>
+            <date>2013-04-24 18:05:01</date>
+            <index>3</index>
+            <phrase>මෙවැනි දේවලට යන්න ඉඩදෙන දෙමාපියන් මොන ආකාරයේ අයද කියලා හිතාගන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2013-04-24 23:35:10</date>
+            <index>4</index>
+            <phrase>මේ පොටෝ ඩ්‍රෝන යානා වලින් ගිහින් අරන් වගේ හරියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝයි</author>
+            <date>2013-04-25 02:04:55</date>
+            <index>5</index>
+            <phrase>මෙතන කට්ටිය මුස්ලිම් අයට බැන්නට චාන්ද්වේ දුම්රිය බොම්බේ ගැන ඔත්තුව දීලා තියෙන්නෙත් මුස්ලිම් කෙනෙක්මලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2013-04-25 13:35:38</date>
+            <index>6</index>
+            <phrase>මොකද මුස්ලිම් කට්ටිය නිහඬ?? මේවට උත්තර නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

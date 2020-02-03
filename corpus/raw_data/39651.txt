@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39651</articleId>
+    <title>පැල්මඩුල්ල උසාවියෙන් වාර්තාකරුවනට අවවාද</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2012 අපේ‍්‍රල් මස 30 12:28:06</date>
+    <body>කහවත්ත ද්විත්ව මිනී මරුම් නඩුව වාර්තා කිරීමට ගිය මාධ්‍යවේදීන් මහජනයාගේ කොටසක් බව පවසමින් අධිකරණ කටයුතු වලට බාධාවක් නොවන පරිදි තම කටයුතු කැර ගන්නා ලෙස අවවාද කළාය.</body>
+    <comments>
+        <comment>
+            <author>ලක්ෂාන්</author>
+            <date>2012-04-30 12:36:31</date>
+            <index>0</index>
+            <phrase>මේකද මාධ්‍ය නිදහස කියන්නේ? මේක මිනිසුන්ගේ තොරතුරු දැන ගැනීමට ඇති අයිතියට බාධා කිරීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-04-30 13:44:38</date>
+            <index>1</index>
+            <phrase>හ්‍රී ලංකාවේ නීතියට ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-04-30 13:50:23</date>
+            <index>2</index>
+            <phrase>ප්‍රජාත්‍රන්තවාදය යනු මෙයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේගා</author>
+            <date>2012-04-30 14:21:33</date>
+            <index>3</index>
+            <phrase>ඒ නීති විග්‍රහයේ හැටියට මහේස්ත්‍රාත්තුමිය සහ නීතිඥයොත් මහජනතාවටම අයිති කොටසක් නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එන්.බී.</author>
+            <date>2012-04-30 14:21:03</date>
+            <index>4</index>
+            <phrase>අනේ සංසාරේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්රික්</author>
+            <date>2012-04-30 15:32:12</date>
+            <index>5</index>
+            <phrase>මාධ්‍යවේදීන් කියන්නේ මහජනතාවගේ කොටසක් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේන්ද්‍ර</author>
+            <date>2012-04-30 16:38:26</date>
+            <index>6</index>
+            <phrase>උසාවියේ වැඩ වලට කිසිවෙකුත් බාධා නොකළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2012-04-30 17:05:51</date>
+            <index>7</index>
+            <phrase>ඇයි මාධ්‍යවේදියො කිවුවද ඒ අය ආවේ සුර ලොවින් කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-04-30 17:47:42</date>
+            <index>8</index>
+            <phrase>මාධ්‍යවේදීන් කියන්නේ ජනතාවම නම් එතකොට මාධ්‍ය නිදහස කියන්නේ මොකද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-04-30 18:06:17</date>
+            <index>9</index>
+            <phrase>මාධ්‍යවේදියා කියන්නේ රටක කීවැනි පුරුෂයා ද කියලා අහන්නත් හිතෙනවා..එක අතකට මොකට ද එහෙම ස්ථානයක් දීලාත් මේ වගේ වේලාවට සළකන්නේ මෙහෙම නම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-04-30 19:25:42</date>
+            <index>10</index>
+            <phrase>මාධ්‍යවේදීන් නිසා තමයි පිටරට ඉන්න අපිත් තොරතුරු දැන ගන්නේ.ඔවුන්ට මෙහෙම සළකන එක වැරදියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-04-30 21:57:35</date>
+            <index>11</index>
+            <phrase>මහේස්තාත්තුමිය දෙව්ලොවින් ආ අයෙක්ද?..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැලුම්</author>
+            <date>2012-05-01 03:45:28</date>
+            <index>12</index>
+            <phrase>රට දැන් මොකාට ගිහින්ද මන්දා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

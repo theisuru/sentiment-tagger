@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>12412</articleId>
+    <title>කඳුළු මැදින් මැදවච්චිය ලස්සන කරයි</title>
+    <author>රඹෑව මනුල වික‍්‍රම</author>
+    <date>2011 නොවැම්බර් මස 10 11:29:23</date>
+    <body>දැයට කිරුළ වැඩ පිළිවෙළ යටතේ මැදවච්චි නගරයේ පාර දෙපස අඩි පනහක් දක්වා පුළුල් කැරගෙන යයි. මේ නිසා නිවාස හා කඩ සාප්පු රැසක් කඩා ඉවත් කර ගැනීමට සිදුවෙතියි ව්‍යාපාරිකයෝ මැසිවිලි නඟති.
+ඔවුන් කැමැත්තෙන් ඊට ඉඩදෙතියි නාගරික සංවර්ධන අධිකාරියේ උතුරු මැද පළාත් අධ්‍යක්ෂ ඞී. එම්. බී. රණතුංග මහතා කියයි.
+එහෙත් මැදවච්චි වෙළෙඳ සංගමය කියනුයේ කැකිරාව වැනි දියුණු නගර පවා එලෙස තිබියදී මැදවච්චියට මෙවැනි තීන්දුවක් ගැනීම අසාධාරණ බවයි.</body>
+    <comments>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2011-11-11 09:15:59</date>
+            <index>0</index>
+            <phrase>රට දියුණු කරන්නේ කොහොමද මේ වගේ මින්ස්සු ඉන්න කොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nuwan</author>
+            <date>2011-11-11 10:39:31</date>
+            <index>1</index>
+            <phrase>රට වෙනුවෙන් අපේ දේවල් කැප කරන්න සිද්ධ වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>asanka</author>
+            <date>2011-11-11 14:12:11</date>
+            <index>2</index>
+            <phrase>සිංහල අපේ මිනිසුන් හැම දේකම දකින්නේ වැරදි පැත්ත හරියට j.v.p කාරයෝ වගේ රට ගැන හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

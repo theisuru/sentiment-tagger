@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22278</articleId>
+    <title>නවුසර් පවුසි අල්ලන්න කල් ඉල්ලයි</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 ජනවාරි මස 16 16:56:12</date>
+    <body>බම්බලපිටියේ ව්‍යාපාරික මුෂ්කාන් අලි මෙහොමඩ් මහතාට පිස්තෝලයක් පෙන්වා මරණීය තර්ජනය කළැයි හිටපු බස්නාහිර පළාත් සභා මන්ත්‍රී නවුසර් පවුසි අත්අඩංගුවට ගැනීම සඳහා  කොළඹ ප්‍රධාන මහේස්ත්‍රාත් රශ්මි සිංගප්පුලි මහතා අද කොළඹ අපරාධ කොට්ඨාසයට කල් දුන්නේය. සැකකරු හා පිස්තෝලය අත්අඩංගුවට ගැනීම සඳහා කල් අවශ්‍ය බව ප්‍රධාන පොලිස් පරීක්ෂක කුලරත්න මහතා ඉල්ලීමක් කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>Yoonus alavi</author>
+            <date>2012-01-16 23:02:13</date>
+            <index>0</index>
+            <phrase>ඇයි කල් ඉල්ලන්නේ? බයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>niroshan sri kandage-jamburaliya.</author>
+            <date>2012-01-17 19:07:11</date>
+            <index>1</index>
+            <phrase>ඉක්මනට ඔහුව අත්අඩංගුවට ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

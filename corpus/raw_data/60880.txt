@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60880</articleId>
+    <title>වී මෝලේ ඝාතනයට සෙබලෙක් සැකපිට</title>
+    <author>කග කරුණාරත්න</author>
+    <date>2012 අගෝස්තු මස 26 11:24:55</date>
+    <body>ඇලහැර අත්තනකඩවල සහල් මෝලක පිරිමි ළමයකු (16) වසර හතරකට පෙර මරා පිළිස්සී යැයි සැකපිට හමුදා සෙබළෙක් හා ඔහුගේ බිරිය මින්නේරිය පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබීය. බිරිය සමග අනියම් සබඳතාවක් පවත්වාගෙන ගිය බව කිය සිද්ධියක් මෙම ඝාතනයට හේතුව දැයි පොලිසිය සොයයි. වී මෝල් හිමියාද මේ සෙබළා බව කියති.</body>
+    <comments>
+        <comment>
+            <author>විජේ</author>
+            <date>2012-08-26 12:14:42</date>
+            <index>0</index>
+            <phrase>ඕක තිබුනේ තමන්ගේ බිරිඳට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-26 12:38:48</date>
+            <index>1</index>
+            <phrase>බිරිදවනේ පුච්චන්න තිබුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙහාර් ඩේවුඩ්</author>
+            <date>2012-08-26 14:53:25</date>
+            <index>2</index>
+            <phrase>ලංකාවේ තියෙන්නේ වැඩ පෙන්නන පොලිසියක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2012-08-26 15:29:34</date>
+            <index>3</index>
+            <phrase>හැම දේකටම මුල ඔය කියන කාන්තාව කියන එකයි මගේ නම් අදහස.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-27 07:39:16</date>
+            <index>4</index>
+            <phrase>දැන් මේ හාදයා කාගේ බිරය එක්කද අනියම් ඇසුර පවත්වලා තියෙන්නේ? ආමි ‍කාරයගේද? මෝල් කාරයගේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්ලවාරච්චි</author>
+            <date>2012-08-27 08:59:37</date>
+            <index>5</index>
+            <phrase>කවුද මේ ආමි කාරයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

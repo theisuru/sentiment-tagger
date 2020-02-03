@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40934</articleId>
+    <title>බැල්කනිය කඩා වැටී 13 ක් රෝහලේ</title>
+    <author>ෂේන් සෙනෙවිරත්න  ලලිත් වලිසුන්දර</author>
+    <date>2012 මැයි මස 06 17:19:51</date>
+    <body>මහනුවර මහයියාවේ හින්දු කෝවිලේ තේරු උත්සවය බැලීමට අසල ගෙයක බැල්කනියකට නැග සිටි පනස් දෙනකු සමග බැල්කනිය කඩා වැටී ළමයින් ඇතුළු 13 දෙනෙක් සුළු තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>අනුර, ඉරාකයේ සිට</author>
+            <date>2012-05-06 17:39:09</date>
+            <index>0</index>
+            <phrase>මේසන් බාස්ගේ හොදකම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-06 18:47:46</date>
+            <index>1</index>
+            <phrase>ඇති ඔයින්ගියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2012-05-06 21:32:12</date>
+            <index>2</index>
+            <phrase>මේසන් බාස්ගෙ වරදක් වෙන්නේ කොහොමද ඒක.. ටොන් දෙක හමාරක විතර බරක් දරන්න පුලුවන් විදියට මොන ගෙදරද බැල්කනි හදන්නේ.... ඒකට නැගපු මිනිස්සු 50 දෙනාගෙයි වැරැද්ද..:)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග පතිරගේ</author>
+            <date>2012-05-06 23:07:55</date>
+            <index>3</index>
+            <phrase>බැල්කනි එකට ඔරොත්තු නොදෙන බරක්.... 50 නගින්න කලින් හිතන්න බැරිද ? ඔය තරම් බරක් උස්සන් පුළුවන්ද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික කිෂාන්ත</author>
+            <date>2012-05-06 23:21:28</date>
+            <index>4</index>
+            <phrase>බාස්සුන්නැහේගේ වරදක් නැහැ. බැල්කනියට නගින්න දුන්නු කෙනාව එල්ලන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපා</author>
+            <date>2012-05-07 00:58:20</date>
+            <index>5</index>
+            <phrase>බාල සිමෙන්ති නිසා කැඩෙන්නත් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2012-05-07 02:03:45</date>
+            <index>6</index>
+            <phrase>මේ තැන්වල අනවසර ඉදිකිරීම් තියෙනවා. ඒවායේ ප්‍රමිතියක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.එම්.එස්.</author>
+            <date>2012-05-07 03:53:05</date>
+            <index>7</index>
+            <phrase>අපේ රටේ හිතල වැඩක් කරන අය අනිත් රටවලට වඩා ඉන්නවා. නමුත් තියෙන නොසැලකිල්ල නිසා සැම දෙයක්ම විනාශ වෙනවා. නොසැලකිල්ල නිසා අහිංසක ජීවතත් මරණය කරා ගෙන යනවා. ඔබෙත් මගෙත් නොසැලකිල්ල නිසා අද මම හෙට ඔබ විය හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.එම්.එස්.</author>
+            <date>2012-05-07 03:55:24</date>
+            <index>8</index>
+            <phrase>බාල සිමෙන්තිවල ප්‍රතිඵල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජොන්සන්</author>
+            <date>2012-05-07 06:27:02</date>
+            <index>9</index>
+            <phrase>මේවා ඇමතිතුමාගේ සිමෙන්ති ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2012-05-07 09:13:27</date>
+            <index>10</index>
+            <phrase>අනේ අම්මේ මෙහෙව් කතා ! කවුද මේ සුනෙත් කියලා කෙනෙක් නේද මනුස්සයෝ පනස් දෙනාගෙම වරද වෙන්නේ කොහොමද ? අන්තිමට නැගපු විසිපස් දෙනාගෙයි වරද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-05-07 09:16:40</date>
+            <index>11</index>
+            <phrase>එස්.එල්.එස්. සහතික සිමෙන්ති වලින් තමයි බැල්කනි එක හැදුවේ. නමුත් බර වැඩිවුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලා.</author>
+            <date>2012-05-07 10:05:00</date>
+            <index>12</index>
+            <phrase>ඒකටත් රජයට බැනපු නැති එකනෙ පුදුමෙ? ඇති ඔයින්ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුදීප්-Dubai</author>
+            <date>2012-05-07 10:16:57</date>
+            <index>13</index>
+            <phrase>වැරැද්ද හැමෝගෙම නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්බි බාස්</author>
+            <date>2012-05-07 12:05:28</date>
+            <index>14</index>
+            <phrase>ඉදිකිරීමේ ප්‍රශ්නයක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-05-07 22:44:28</date>
+            <index>15</index>
+            <phrase>අන්තිමට නගින්න හිටපුකෙනාට නගින්න බැරිඋනා ඵයා හිටියේ 101 වැනියාට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-05-08 09:38:00</date>
+            <index>16</index>
+            <phrase>ඕකට දරන්න පුළුවන් ප්‍රමාණයක් තියෙනවා කියලා දන්නේ නැද්ද? පොඩි ළමයින්වත් අරන් ගිහිල්ලද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

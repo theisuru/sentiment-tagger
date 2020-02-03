@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24672</articleId>
+    <title>හොර නීතිඥයා අනංග රජෙක්</title>
+    <author>ෂෙල්ටන් හෙට්ටිආරච්චි</author>
+    <date>2012 පෙබරවාරි මස 02 13:50:27</date>
+    <body>නීතිඥයකු ලෙස පෙනී සිටිමින් විවාහ කිහිපයක් කැරගෙන තවත් කතුන් 35 දෙනකු විවාහ කරගන්නා පොරොන්දුව මත රුපියල් හැට ලක්ෂයක් වංචා කළැයි කියන ගලිගමුව ගම්ලත් ආරච්චිගේ අශෝක ශාක්‍ය (36) නුවරඑළිය මහේස්ත‍්‍රාත් සමන් ශ්‍රී කාරියවසම් මහතා විසින් ලබන අටවැනිදා තෙක් රිමාන්ඞ් කරනු ලැබීය.
+භාෂා ගණනාවක් කතා කරන මොහු කෑගල්ල වාකිරිගල, බද්දේගම, අම්බලන්ගොඩ හා බුලත්සිංහල ගුරුවරියන්, ධනවත් වැන්දඹුවන් විවාහ කැරගෙන ඇතැයිද හඟුරන්කෙත, රිකිල්ලගස්කඩ, මහනුවර, කඩුගන්නාව, මඩවල, කෑගල්ල, පේරාදෙණිය, හසලක, අවිස්සාවේල්ල, යටියන්තොට, වරකාපොල, ඇල්පිටිය, මාතර, කඹුරුපිටිය, ගාල්ල, කුරුණෑගල, නිට්ටඹුව, වේයන්ගොඩ, ජාඇල, කළුතර හා රත්නපුරයේ කතුන්ද මොහුගේ වංචාවලට හසුවී ඇතැයි පැමිණිලි ලැබී ඇත.</body>
+    <comments>
+        <comment>
+            <author>නීල් කොබේගනේ</author>
+            <date>2012-02-02 14:28:08</date>
+            <index>0</index>
+            <phrase>කොහොමත් ඉතින් ශ්‍රී ලාංකිකයෝ කොයි දේටත් දක්ෂයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>w.w.s</author>
+            <date>2012-02-02 15:12:27</date>
+            <index>1</index>
+            <phrase>ගෑනු ඔච්චර මෝඩද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝසල</author>
+            <date>2012-02-02 18:19:44</date>
+            <index>2</index>
+            <phrase>මේක ලෝක වාර්තාවක් වෙන්න ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන් රස්ත්</author>
+            <date>2012-02-03 09:10:33</date>
+            <index>3</index>
+            <phrase>ගැහැණු ප්‍රවේශම් විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

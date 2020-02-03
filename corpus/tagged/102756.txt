@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>102756</articleId>
+    <title>චාරිකාවේ ජොලියට මවුපියන්ට දරුවත් අමතක වෙලා</title>
+    <author>මාතලේ විශේෂ නිමල් ඇස් බෝගහවත්ත</author>
+    <date>2013 මාර්තු මස 15 09:23:28</date>
+    <body>චාරිකාවකින් පසු තම කුඩා දරුවා කුලී රියේ දමා නිවෙසට ගොස් නිදාගත් ඥාතීන් පිරිසක් පිළිබඳව මාතලේ යටවත්තෙන් වාර්තා වෙයි. පවුල් දෙක තුනක ඥාතීන් පිරිසක් යටවත්තේ සිට මහනුවර ප‍්‍රදේශයේ තවත් ඥාති නිවෙසකට ගොස් ඇත්තේ පෞද්ගලික කරුණකටය. මේ පිරිස ආපසු එද්දී ගමන් මහන්සිය නිසා හෙම්බත් වී සිටියහ. රාත‍්‍රි දහයද පසුවී තිබුණ නිසා ඔවුන්ට අධික නිදි මතක්ද දැනුණි. අතර මගදී සිය නිවෙස් අසලින් මේ අය වාහනයෙන් බැස ගත්හ. අවසානයේ මේ තරුණ රියදුරා සිය නිවෙසට පැමිණ රාත‍්‍රි ආහාර ගෙන වෑන් රිය පිරිසුදු කිරීමට එහි දොරවල් විවර කර ඊට ගොඩවිය. පුදුමයකි. වාහනයේ පිටුපස අසුනේ නිදා සිටි වයස අවුරුදු පහක් පමණ වූ දරුවකු දැක මේ තරුණයා මහත් තැති ගැන්මකට පත්විය. ලහි ලහියේ වාහනය මාර්ගයට ගත් ඔහු  කුලී ගමන ගිය අය සොයා පිම්මේ වාහනය පැදවීය. ඔහු යනවිටත් එම නිවසේ ගේට්ටුව ඉබි යතුරු දමා තිබුණි. ඒ අසල සිටි ත‍්‍රිරෝද රථ රියදුරකුට කාරණය පවසා ළමයා භාරදීමට උත්සාහ කළත් නිවසේ ගේට්ටුවේ යතුර සොයා ගැනීමට නිවැසියන්ට අපහසුවිය. සමහරු මර නින්දේය. කෙසේ හෝ ගේට්ටුව නො ඇරම ළමයා ඔසවා ගේට්ටුව උඩින් අයිති කරුවන්ට භාරදී සිරන්ත පෙරේරා තම සිත නිදහස් කර ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>ශශීමාල්</author>
+            <date>2013-03-15 10:31:12</date>
+            <index>0</index>
+            <phrase>රියදුරා උතුම් කෙනෙක්. නමුත් දරුවා‍ගේ දෙමාපියන්?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-03-15 10:55:51</date>
+            <index>1</index>
+            <phrase>හොද වැඩක් රියදුරු මහතා කරලා තියෙන්නේ, හැබැයි ආයේ යනකොට පොලීසිය දැනුවත් කරලා යන්න, වදින්න යන දේවාලේ ඔළුවට කඩන් වැටෙන්න බැරි නැහැ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2013-03-15 10:55:55</date>
+            <index>2</index>
+            <phrase>119 එකට කිවුවා නම් හරිනේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-03-15 11:04:48</date>
+            <index>3</index>
+            <phrase>ඔය ළමයාව ආපහු අරගෙන එද්දී පොලිසියට එහෙම අහුවුණා නම් පුදුම ප්‍රශ්නයක් තමයි වෙන්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-03-15 11:42:40</date>
+            <index>4</index>
+            <phrase>අම්මයි තාත්තයි ගැන ලියන්න මට හිතෙන දේ මම මෙතන ලියන්නෙ නැහැ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල</author>
+            <date>2013-03-15 11:46:35</date>
+            <index>5</index>
+            <phrase>නොසැළිකිලිමත්කමේ උපරිමයටම ගිය දෙමවුපියෝ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-03-15 12:46:46</date>
+            <index>6</index>
+            <phrase>ඔයාලා කලබල වෙන්න එපා. අපි ඒ දරුවට තනියට සෙල්ලම් කරන්න මල්ලියෙක් හදන්න කියලා ඒ දෙමවුපියන්ට කියමු.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2013-03-15 13:29:45</date>
+            <index>7</index>
+            <phrase>රියදුරු මහතාට මගේ ස්තුතිය! රථයේ ගමන් කළ අය නිදිමතේ නොවේ ඉඳලා තියෙන්නෙ. මට පෙනෙන්නේ නම් වෙරිමතේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2013-03-15 14:21:06</date>
+            <index>8</index>
+            <phrase>ඒ ළමයට ඔවැනි දෙමවුපියන් ලැබෙන්න ඇත්තේ ළමයගේ පවකට වෙන්න ඇති.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග ප්‍රියශාද්</author>
+            <date>2013-03-15 14:32:12</date>
+            <index>9</index>
+            <phrase>මම හිතාගෙන හිටියේ බොරු කතාවක් කියලා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2013-03-15 14:31:38</date>
+            <index>10</index>
+            <phrase>වාහන ඇතුළෙත් ළමා දූෂණ වෙන මේ කාලයේ රියැදුරාගේ ක්‍රියාව අගය කළ යුතුයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිස්ස</author>
+            <date>2013-03-15 17:38:55</date>
+            <index>11</index>
+            <phrase>මොන නාඩගමක් නැටුවත් තමන්ගේ දරුවො අමතක වෙනවද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-15 17:45:05</date>
+            <index>12</index>
+            <phrase>මේ ඇත්තටම දෙමවුපියොද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2013-03-15 18:11:53</date>
+            <index>13</index>
+            <phrase>ඒ අම්මයි තාත්තයි කොයිතරම් නම් උතුම්ද?</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල්</author>
+            <date>2013-03-15 19:12:34</date>
+            <index>14</index>
+            <phrase>නින්දට යනකොටත් තමන්ගේ දරුවා නැති අඩුව නොදැනුනානම්.................. මට අදහාගන්නත් බෑ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත්</author>
+            <date>2013-03-15 20:45:30</date>
+            <index>15</index>
+            <phrase>පුදුම දෙමව්පියෝ....!</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරෝමි</author>
+            <date>2013-03-15 22:42:45</date>
+            <index>16</index>
+            <phrase>මෙහෙම දෙමව්පියනුත් ඉන්නවද ?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2013-03-16 01:16:42</date>
+            <index>17</index>
+            <phrase>ගණන් ගන්න එපා. ගුණගරුක දෙමාපිය යුවළකට වූ පොඩි අතපසුවීමක්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-03-16 03:19:39</date>
+            <index>18</index>
+            <phrase>මොන නින්දක් ගිහින්ද මෙයාලට?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-03-16 04:39:39</date>
+            <index>19</index>
+            <phrase>කාටවත් අම්මාව අමතක නොවුණූ එකත් පුදුමයක්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අලහපෙරුම</author>
+            <date>2013-03-16 08:40:06</date>
+            <index>20</index>
+            <phrase>දැන් ඉන්න දෙමාපියන්ට තමන්ගේ දරුවන් අමතක වෙන හැඩයි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රජීව්</author>
+            <date>2013-03-16 09:15:26</date>
+            <index>21</index>
+            <phrase>දෙමව්පියන්ට තරු පෙන්නේ අර මනුස්සය වාහනේ පිරිසිදු කරන්න නොගියානම්.හුස්ම ගන්න බැරිව මොනවා හරි වෙලා උදේ වෙනකොට එහෙනම්...</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-03-16 09:24:28</date>
+            <index>22</index>
+            <phrase>ඔයා එහෙම විතරක් හිතන්න එපා නිස්සංක . ඒ වෑන් රියදුරා සිටියේ එම දරුවාගේ වාසනාවට කියන එක ඔයාට හිතුනේ නැද්ද . මම හිතන්නේ ඔහු හොද රියදුරෙක් පමණක් නොව සැබෑම පියෙක් කියලයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-16 09:43:09</date>
+            <index>23</index>
+            <phrase>රියදුරු මහත්මයගේ ක්‍රියාව ඉතාම උතුම් . තමන් වැරදි නැත්නම් පොලීසියට බය වෙන්න දෙයක් නෑනේ</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2013-03-16 12:34:26</date>
+            <index>24</index>
+            <phrase>මෙහෙමත් දෙමවුපියෝ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-03-16 13:35:25</date>
+            <index>25</index>
+            <phrase>කට්ටියටම පොඩ්ඩක් පැටලිලා වගේ. ඔහොම තමයි</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>වන්නි</author>
+            <date>2013-03-16 17:12:31</date>
+            <index>26</index>
+            <phrase>ඔන්න දෙමවුපියෝ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-03-16 18:04:02</date>
+            <index>27</index>
+            <phrase>අපි කොහොමද අනුමත කරන්නේ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2013-03-18 09:52:25</date>
+            <index>28</index>
+            <phrase>අම්මා කියන වචනේ තේරුම දානවාද</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2013-03-18 14:03:50</date>
+            <index>29</index>
+            <phrase>අයියෝ මෙවන් දෙමව්පියන්</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2013-03-18 20:49:22</date>
+            <index>30</index>
+            <phrase>මේක පුදුම වෙන්න දෙයක් නැහැ , මේ සම්භන්ධව හදපු ළමා චිත්‍රපටිත් තියෙනවා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ විජිත් ප්‍රසන්න</author>
+            <date>2013-03-19 06:01:33</date>
+            <index>31</index>
+            <phrase>ආදරයේ උල්පත වූ අම්මා. ප්‍රේමකීර්ති මහත්තයා හිටියානම් මොන වගේ මවුපිය ගීයක් රචනා කරයි ද දන්නේ නෑ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2013-03-19 11:12:06</date>
+            <index>32</index>
+            <phrase>මේවට නම් ඉතින් කියන්න වෙන්නේ දෙයියෝ සාක්කි කියලා තමයි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ති</author>
+            <date>2013-03-19 21:56:25</date>
+            <index>33</index>
+            <phrase>මෙන්න මිනිස්සු</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

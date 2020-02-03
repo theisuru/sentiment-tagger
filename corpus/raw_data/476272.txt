@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>476272</articleId>
+    <title>ලංකාපුත්‍ර හිටපු ලොක්කාට එරෙහිව පැමිණිල්ලක්</title>
+    <author>ඉෂාන් සංජීව</author>
+    <date>2016 නොවැම්බර් මස 04 19:58:06</date>
+    <body>ලංකාපුත්‍ර බැංකුවේ හිටපු සභාපති ලසන්ත ගුණවර්ධන මහතාට එරෙහිව පිවිතුරු හෙළ උරුමයේ  ජාතික සංවිධායක මදුමාධව අරවින්ද, ප්‍රචාරක ලේකම් නීතිඥ තුෂාර දිසානායක, පරිපාලන ලේකම් උපුල් කෝනාර යන මහත්වරු අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව වෙත අද(03) පැමිණිල්ලක් භාරදුන්හ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-05 00:53:36</date>
+            <index>0</index>
+            <phrase>ඇයි ඊටත් වඩා හිටපු ලොක්කෙක් පවුලේ නඩයත් එක්ක එකතුවෙලා කරපු දේවල් ගැන පැමිණිල්ලක් දාන්න බලාපොරොත්තුවක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-11-05 03:07:24</date>
+            <index>1</index>
+            <phrase>අහෝ චෝදනාවක් බාරදීලා'වොයිස් කට්' එකක් දෙන එක දැන් 'ෆැෂන්' එකක්වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2016-11-05 06:21:27</date>
+            <index>2</index>
+            <phrase>මේ කතා කරන අය ගැන පැමිණිලි තියෙනවනම් කරන්නේ කාටද? මට ඒක පොඩ්ඩක් කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-11-05 09:03:35</date>
+            <index>3</index>
+            <phrase>තමුන්ගේ බිරිදව මෙල්ල කරගන්නේ බැරුව අනිත් අයව හදන්න යන්නේ මුන්ගේ දේවල් කවුද අහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-11-05 10:52:48</date>
+            <index>4</index>
+            <phrase>ඔහොම යමුකෝ ඔය කාගේත් කරපු හොර වැඩ එළිවෙයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-11-06 03:13:27</date>
+            <index>5</index>
+            <phrase>අනුන්ගේ කුණු අදින්න පෙර, තම තමන්ගේ තිබුන කුණු ඇදලා පිරිසිදු කරගත්තා නම් කාටත් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

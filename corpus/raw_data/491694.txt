@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>491694</articleId>
+    <title>ඖෂධවේදී ලෙඩේට තාම බෙහෙත් නෑ</title>
+    <author>මනෝජ් හර්ෂික ඡායාරූප හා වීඩියෝ - ඉෂංක සුනිමල්</author>
+    <date>2016 දෙසැම්බර් මස 21 14:20:25</date>
+    <body>අවිධිමත් පත්වීම් නතර කරන ලෙසත් උසස්වීම් හා අතිකාල දීමනා විධිමත් කරන ලෙසත් ඉල්ලමින් රජයේ ඖෂධවේදීන්ගේ සංගමය සෞඛ්‍ය අමාත්‍යංශය ඉදිරිපිට අද (21) කෑම පැයේ උද්ඝෝෂණයක් ඇරඹූහ.
+මෙම උද්ඝෝෂණය නිසා ඇස්වාට්ටුව - බොරැල්ල පාරේ වාහන තදබදයක්ද ඇතිවිය.
+සංගමයේ සභාපති අජිත්.පී.තිලකරත්න පැවසූයේ සතියකින් ඉල්ලීම් නොලැබුණහොත් දැඩි ක්‍රියාමාර්ගයක් ගන්නා බවයි.</body>
+    <comments>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-12-21 10:18:44</date>
+            <index>0</index>
+            <phrase>දැන් මේක රැල්ලක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංක</author>
+            <date>2016-12-21 10:18:44</date>
+            <index>1</index>
+            <phrase>මේ රටේ කවදද උද්ඝෝෂණ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජස්ටින්</author>
+            <date>2016-12-21 11:02:07</date>
+            <index>2</index>
+            <phrase>කොච්චර නම් ප්‍රශ්න තිබිලා තියනවද දෙයියනේ. වසර ගණනාවක් කියා ගන්න බැරුව ඉඳලා තියනවා. පව්. ඔක්කොම පව් ඉතින් අනේ යහපාලන ආණ්ඩුවට කර ගහන්න වෙලා. මොනවා කරන්නද බැඳගත්තු බෙරේ ගහන්න එපායැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502164</articleId>
+    <title>තෙල් නලයක කාන්දුවක්</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2017 ජනවාරි මස 28 14:45:28</date>
+    <body>කොළඹ වරායේ සිට කොලොන්නාව තෙල් ගබඩා සංකීර්ණය දක්වා තෙල් පොම්ප කෙරෙන ප්‍රධාන නල 4 න් නලයක සියුම් කාන්දුවක් ඇතිවී තිබේ. මේ නිසා එම කාන්දුව ඇතිවූ නලයෙන් තෙල් පොම්ප කිරීම තාවකාලිකව නතර කර ඇති බව ශ්‍රී ලංකා ඛණිජ තෙල් නීතිගත සංස්ථාවේ ප්‍රකාශකයෙක් පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-28 10:03:34</date>
+            <index>0</index>
+            <phrase>එක කාලයක සමහරු මෙම නල සිදුරුකර හොරෙන් තෙල් ගත් සිදුවීමක් මට මතක් වෙනවා. හැබැයි පරීක්ෂණ වාර්තාව කිව්වේ වරායෙන් පිටකළ තෙල් ප්‍රමාණය පිරිපහදුවට ලැබිලා තියෙනවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-29 00:34:27</date>
+            <index>1</index>
+            <phrase>ඔය තෙල් නලේට හරි අපලයි. එක්කෝ හිල්කරනවා නැත්නම් හිල්වෙනවා. ඕක හිල්කරලා තෙල් ඇදලා කෝටිපතියන් වුණ කට්ටියත් ගැනත් පහුගිය කාලේ බොහොම කතා තිබුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩේමියන්</author>
+            <date>2017-01-29 07:38:41</date>
+            <index>2</index>
+            <phrase>අනේ අපි නම් මේවට උත්තර බඳින්න යන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

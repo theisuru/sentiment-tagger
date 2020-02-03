@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>457507</articleId>
+    <title>තව හොරෙක් කැමරාවෙන්  නිරුවත් කරයි</title>
+    <author>ඩීඑන්සෙන්දනායක</author>
+    <date>2016 සැප්තැම්බර් මස 14 11:31:59</date>
+    <body>නෑබඩ  සීඩි තැටි සහ ජංගම දුරකතන හා ජංගම දුරකතන කාඩ්වෙ අලෙවි සැලකට  රාත්‍රී කාලයේ  ජනේලයකින් ඇතුළු වු සොරෙකු  රුපියල්  15000 පමණ වටිනා  ජංගම දුරකතන කාඩ තොගයක්  සොරා ගෙන ඇති බව තෙබුවන පොලිසිය කියයි.
+කඩේ සීසීටීවී කැමරා වලින් හොරකම මෙසේ වාර්තා කරයි.</body>
+    <comments>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-09-14 06:28:15</date>
+            <index>0</index>
+            <phrase>සීසීටීවී වඩාත් ප්‍රචලිත කිරීම සඳහා පොලිසිය වෙත ලබාදෙන සීසීටීවී වීඩියෝ සඳහා යම්කිසි ගෙවීමක් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-09-14 07:03:12</date>
+            <index>1</index>
+            <phrase>මේ පුංචි හොරෙක් ,මේ පුංචි හොරාගේ පුවතට උඩින් ඉන්නවා ලොකු හොරෙක් ,ඔහුව කාටවත් පෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් මෙන්ඩිස්</author>
+            <date>2016-09-14 09:31:13</date>
+            <index>2</index>
+            <phrase>දැන් ඔය කැමරා වලින් කීදෙනක් අල්ලා ගත්තාද කියන්නකෝ අපිට දැනගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

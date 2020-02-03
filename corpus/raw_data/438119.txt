@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>438119</articleId>
+    <title>සාලාවේ 50% කට වන්දි සතියකින් ?</title>
+    <author>ඩයනා උදයංගනී</author>
+    <date>2016 ජූලි මස 17 16:32:42</date>
+    <body>සාලාව යුද හමුදා කඳවුරේ පතරොම් ගබඩාවෙහි සිදුවූ පිපිරීමෙන් හානියට පත් දේපොළ ඇස්තමේන්තු සියයට 90ක් අවසන් කර ඇතැයි මුදල් අමාත්‍ය රවී කරුණානායක මහතා පවසයි.
+සියයට 50කට පමණ වන්දි ඉදිරි සතියේදී දෙන බව ද ඇමතිවරයා කියයි.
+මෙම පිපිරීම නිවාස හා දේපොළ 237 කට රුපියල් මිලියනයකට වැඩි හානි සිදුව ඇති අතර තවත් ස්ථාන 1794කට රුපියල් මිලියනයකට අඩු හානියක් සිදුව ඇතැයි මුදල් අමාත්‍යාංශය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-07-17 14:33:12</date>
+            <index>0</index>
+            <phrase>ඔබ කී කිසිම දෙයක් මේ වනතුරු හරිගියේ නැත. බජට් එක හොඳම උදාහරණයයි. කෝ ජ්‍යෙෂ්ඨ පුරවැසියන්ට ලක්ෂ 5 තැන්පතුවට දෙනවා කී 15%?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2016-07-17 17:17:55</date>
+            <index>1</index>
+            <phrase>තවම ගෙවලා නැද්ද? අපි හිතුවේ දැන් ඒ කටයුතු අවසානයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් විමලසිරි</author>
+            <date>2016-07-18 04:15:39</date>
+            <index>2</index>
+            <phrase>ඉක්මනින් ගෙවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-07-18 08:09:22</date>
+            <index>3</index>
+            <phrase>පුපුරපු දවසෙත් මේකමනේ කිවුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

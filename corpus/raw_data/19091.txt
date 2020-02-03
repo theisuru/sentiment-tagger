@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19091</articleId>
+    <title>හොරු දෙවිවරුන් දෙදෙනා හොරකම් කරති</title>
+    <author>උපුල් හේරත්</author>
+    <date>2011 දෙසැම්බර් මස 25 11:31:57</date>
+    <body>කහටගස් දිහිලිය කෝන්ගස් වැව වසර තුන්සියයක් පැරණි පුංචි කතරගම දෙවොලේ විෂ්ණු හා ගණදෙවි ප්‍රතිමා ද, කඩුවක් හා පිත්තල පහන් තුනක් ද සොරාගෙන ගොස් ඇතැයි එහි කපුවා කහටගස්දිහිලිය පොලීසියට පැමිණිලි කර ඇත. ත්‍රිශූලය සොරාට අසුවී නැත.</body>
+    <comments>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2011-12-25 11:51:44</date>
+            <index>0</index>
+            <phrase>දැන් ඉතින් මොන දෙවියන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල් පෙරේරා</author>
+            <date>2011-12-25 14:02:57</date>
+            <index>1</index>
+            <phrase>දෙවියන්ටම තමා දැන් මේක කියන්න තියෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50972</articleId>
+    <title>නියඟයෙන් පුත්තලමටත් අමාරුයි</title>
+    <author>හිරාන් ප‍්‍රියන්ත ජයසිංහ</author>
+    <date>2012 ජූලි මස 01 11:59:37</date>
+    <body>පුත්තලම දිසාවේ ආණමඩුව, නවගත්තේගම, මහකුඹුක්කඩවල, වනාතවිල්ලූව හා මුන්දලමේ නියං සාය උග‍්‍රවීම නිසා දෙලක්ෂයක් පමණ ජල  හිඟයකට මුහුණපා සිටිති. වැව් අමුණු, ළිං ආදිය සිඳී ගොස් තිබේ.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-01 12:14:27</date>
+            <index>0</index>
+            <phrase>කෝ අනේ දෙනවා කිව්ව නියන් සහනාධාර ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-01 13:02:53</date>
+            <index>1</index>
+            <phrase>අපේ රන් මැණිකා පව් අප්පා .....අදවත් වහින්න දෙවියනේ ..මෙයාල පව් ..මොනවද මේ රටට වෙන්න හදන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-07-01 13:01:56</date>
+            <index>2</index>
+            <phrase>අනේ අහින්සකයන්ට දිය පොදක් දෙන්න දෙවියනේ. දෙවියෝ හරිම අසාධාරණයි. දෙවියෝ කිරි දෙන්නේ කොළඹට විතරයි....අපට වතුරවත් නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ ~ මුල්ලෙරියාව</author>
+            <date>2012-07-01 13:41:28</date>
+            <index>3</index>
+            <phrase>එක කොටසක් තව පැත්තක‍ දුක් විදිනවා - එක කොටසක් තව පැත්තක සැප විදිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2012-07-01 13:52:43</date>
+            <index>4</index>
+            <phrase>තියෙන වතුර ටිකෙන් රෙදි සෝදල හරියනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ...</author>
+            <date>2012-07-01 13:38:58</date>
+            <index>5</index>
+            <phrase>මේ වැව් ටික දැක්කම පේනවා මොනතරම් ගොඩ වෙලාද කියලා,ජනාදිපතිගෙන් අහ අහ ඉන්නැතුව,ඇමතිතුමාට බැරිද ඉක්මනින් වැව් ටික හාරවන්න දැන්වත්.වහින්න කලින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙල්බන් වැසියා</author>
+            <date>2012-07-01 15:32:45</date>
+            <index>6</index>
+            <phrase>තමන්ගේ වතුර කෝප්පය ගැන විතරක් හිතල වෙන්න ඇති ඉන්නේ........ වතුර තියන පැත්තකින් බෞසර කීපයක් දිනපතා එම ප්‍රදේශ වලට යවන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිරිගෝරිස්</author>
+            <date>2012-07-01 15:02:46</date>
+            <index>7</index>
+            <phrase>මේවා දකිනකොට හරිම කණගාටුයි. ඉක්මනින් වැසි වසීවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-01 15:54:31</date>
+            <index>8</index>
+            <phrase>වැස්ස වළාහක දෙවියනේ, දිවැස් හෙළනු මැන හෙළ දෙරණට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-01 15:36:48</date>
+            <index>9</index>
+            <phrase>වහින්නට හැකිනම් ගිගුම්දී....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-01 16:19:43</date>
+            <index>10</index>
+            <phrase>බත් කෙතම සනසා වසිනු වැසි රජින්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූත්තර පුංචා</author>
+            <date>2012-07-01 15:44:05</date>
+            <index>11</index>
+            <phrase>පවු අසරන ජනතාව.කොළඹ පැතිවල අයට නම් වතුර වල අගයක් නෑ.මේ අයට බොන්නවත් වතුර නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භක්ති</author>
+            <date>2012-07-01 16:58:00</date>
+            <index>12</index>
+            <phrase>ජනාධිපතිතුමනි, වියළි කලාපයේ මේ අහිංසක මිනිස්සුන්ට ස්ථිර ජල යෝජනා ක්‍රමයක් සාදා දෙන්න ඔබතුමාට හැකිවුවහොත් එය ඔවුන් සදාකල්ම සිහි කරාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-01 18:22:57</date>
+            <index>13</index>
+            <phrase>අහිංසක ජනතාව මේ විදින දුක් පාලකයින්ට පේන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංකා</author>
+            <date>2012-07-01 20:00:34</date>
+            <index>14</index>
+            <phrase>ගොඩක් පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරන්ගනී</author>
+            <date>2012-07-01 21:39:13</date>
+            <index>15</index>
+            <phrase>අනෙපව් දුප්පත් මිනිස්සු මඩ වතුර ද බොන්නේ .චන්ද කාලෙට අරව දෙන්නම් මීව දෙන්නම් කියන අය කෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනි</author>
+            <date>2012-07-01 23:08:42</date>
+            <index>16</index>
+            <phrase>අනේ මේ අසරණ මිනිසුන්ට වතුර තියෙන පැති වලින් බව්සර් වලින්වත් වතුර ගෙනත් දෙන්නකෝ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-07-01 22:50:10</date>
+            <index>17</index>
+            <phrase>බහුබූත නවත්වල මේ මිනිස්සුන්ට වතුර ටිකක් දෙන්න ක්‍රමයක් යොදන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-07-02 01:09:12</date>
+            <index>18</index>
+            <phrase>පුත්තලමට අතුරු මැතිවරණයක් හරි, පළාත්සභා ඡන්දයක් හරි ලෑස්ති කරන කෙනෙක් ඉන්නවනම් ගොඩක් පින්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශී</author>
+            <date>2012-07-02 02:27:14</date>
+            <index>19</index>
+            <phrase>පව් දෙවියනේ මේ අපේ මිනිස්සු නේද ? දකිනකොට පපුව පිච්චෙනවා ..ඇයි මේවා ගැන සැලකිලිමත් නොවෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමින්ද</author>
+            <date>2012-07-02 04:37:27</date>
+            <index>20</index>
+            <phrase>මේකට නම් ඉක්මන් විසඳුමක් රජය දෙන්න වේවි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-07-02 09:29:59</date>
+            <index>21</index>
+            <phrase>සැණකෙළි පවත්වන වෙලාවේ මේ ගැනත් අවධානය යොමු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2012-07-02 10:04:27</date>
+            <index>22</index>
+            <phrase>පුත්තලමට අතුරු මැතිවරණයක් හරි, පළාත්සභා ඡන්දයක් හරි ලෑස්ති කරන කෙනෙක් ඉන්නවනම් ගොඩක් පින්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තත්සර</author>
+            <date>2012-07-02 11:19:41</date>
+            <index>23</index>
+            <phrase>ඡන්දක් තියන්නම ඕන මිනිස්සුන්ව මතක් වෙන්න නම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තත්සර</author>
+            <date>2012-07-02 10:40:44</date>
+            <index>24</index>
+            <phrase>මේ පැත්තේ මැතිඇමතිවරු කවුරුවත් පේන්නවත් නෑනේ.කෝ ඒ ගොල්ලෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-07-02 10:47:15</date>
+            <index>25</index>
+            <phrase>පාලකයින් දැහැමි වූ විට කලට වැසි ලැබේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩඩ්ලි</author>
+            <date>2012-07-02 12:46:38</date>
+            <index>26</index>
+            <phrase>රටට වැසි වසීවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501017</articleId>
+    <title>විදුහල්පතිට පහරදුන් ගුරුවරයා අත්අඩංගුවට</title>
+    <author>රෝහණ චන්ද්‍රදාස</author>
+    <date>2017 ජනවාරි මස 25 15:50:54</date>
+    <body>අනුරාධපුර කළුවිල සේන විද්‍යාලයේ  විදුහල්පතිට පහරදුන් බව කියන ගුරුවරයකු අත්අඩංගුවට ගත් බව පොලිසිය කියයි. ස්ථාන මාරුවක් සම්බන්ධයෙන් මෙම පහරදීම සිදුවී ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-26 02:51:24</date>
+            <index>0</index>
+            <phrase>සර්ට සාධාරණ හේතුවක් තිබුනාමයි කියමුකෝ. ඒ වුණාට ක්‍රමය වැරදියිනේ. දැන්නම් ඉතින් නොසිතූ තැනකට මාරුවක් ලැබෙන්නත් ඉඩ තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

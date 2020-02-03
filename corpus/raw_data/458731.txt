@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458731</articleId>
+    <title>බදුල්ලෙත් බොන වතුර හිඟයක්</title>
+    <author>ප්‍රසාද් රුක්මල්</author>
+    <date>2016 සැප්තැම්බර් මස 18 14:04:37</date>
+    <body>බදුල්ලේ හිඟුරුගමුව, උදයගම ඇතුළු ගම් කිහිපයක වැසියෝ බීමට ජලය ඉල්ලා අද (18) බදුල්ල ජල සම්පාදන මණ්ඩලයේ පොම්පාගාරය අසල උද්ඝෝෂණයක් පැවැත්වූහ.
+නල ජල සබඳතා ඇතත් දින 10ක සිට ජලය නොලැබුණු බවත් බවුසර මගින් ජලය බෙදා දෙන නමුත් එය ප්‍රමාණවත් නොවන බවත් වැසියෝ කියති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ආර්.සම්පත්</author>
+            <date>2016-09-18 09:23:50</date>
+            <index>0</index>
+            <phrase>ඇයි අර ඩිජිටල් එක්කෙනත් ඉන්නවා කියන්නේ ඔය පැත්තේ නේද ? යහපාලනයට අඩිතාලම දැම්මෙත් එතුමා නේද බදුල්ලෙන් ඉතින් දෙයියනේ මෙහෙම කරන්න හොදයිද ...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-09-18 09:26:58</date>
+            <index>1</index>
+            <phrase>ජල පෝෂක ප්‍රදේශ ගැන අද ජනතාවගේ කිසිම තැකීමක් නැහැ. වතුර අපි ආරක්ෂා කර ගන්න ඕනි මිලකළ නොහැකි වස්තුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්වර්</author>
+            <date>2016-09-18 15:12:36</date>
+            <index>2</index>
+            <phrase>මේ කරන වනාන්තර විනාශයේ හැටියට මෙහෙම නොවුණොත් තමයි පුදුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-09-19 04:36:39</date>
+            <index>3</index>
+            <phrase>මමත් මේ ප්‍රදේශයේ මේක අවුරුදු ගානක සිට පවතින ප්‍රශ්නයක්. බදුල්ල නගරයට කි.මී 4 දුරින් හිටියත් වතුර එන්නේ දවස් 4 ට සැරයක්. සමහර කාලයට සති ගණන් වතුර එවන්නේ නෑ. එ්කත් එන්නේ පැය 2 ක් විතර කාලයක් උදේ පාන්දර 4 ට විතර. කොපමණ පෑමිණිලි කළත් වැඩක් වුනේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

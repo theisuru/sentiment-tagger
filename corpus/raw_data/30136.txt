@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30136</articleId>
+    <title>මාතර බෝධිය නහවා සමාව ගනී</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 මාර්තු මස 06 18:34:28</date>
+    <body>දිනකට සිය දහස් ගණනකගේ වන්දනාවට පාත්‍රවන මාතර ඓතිහාසික බෝධියට නැඟ එය අපවිත්‍ර කළ මිනිසා වෙනුවෙන් සමාව අයැදීමේ හා බෝධිරාජයා පිරිසුදු කිරීමේ  වතාවත් අද පැවැත්විණි. මහා සංඝරත්නය පිරිත් දේශනා කැර බෝධිය නහවා එම වතාවත් ඉටු කරද්දී තෙල් මල් පහන් රැගෙන බෝධිය වන්දානා කළ පිරිසගේ සාධු හඬින් මුළු පෙදෙසම හිඟුම් දුන්නේය.</body>
+    <comments>
+        <comment>
+            <author>Nirandana Attygalle</author>
+            <date>2012-03-06 19:09:45</date>
+            <index>0</index>
+            <phrase>ඉතාමත් වටින කටයුත්තක්. ඔබට අපේ ආචාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බී ජී ගුණවර්ධන</author>
+            <date>2012-03-07 06:58:43</date>
+            <index>1</index>
+            <phrase>ඒක හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය ප්‍රභාත්</author>
+            <date>2012-03-07 10:10:13</date>
+            <index>2</index>
+            <phrase>බෝධිය නැගපු පුද්ගලයාට හොද දඩුවමක් දිය යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිටිගල ජයසේන</author>
+            <date>2012-03-07 10:51:24</date>
+            <index>3</index>
+            <phrase>මං හිතන්නෙ මෙයාට වෙන්න ඇත්තෙ නගරය මැදදී දරුනු අවශ්‍යතාවයක් එන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන් ජානක</author>
+            <date>2012-03-07 10:55:05</date>
+            <index>4</index>
+            <phrase>සාදු....සාදු....සාදු....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ජයසිංහ</author>
+            <date>2012-03-07 12:52:41</date>
+            <index>5</index>
+            <phrase>මහ වනාන්තරවල ගස් කපන අයට සමාව කවුද පිරිනමන්නෙ? විහිලු කරන්න ඒපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විම්</author>
+            <date>2012-03-07 16:11:23</date>
+            <index>6</index>
+            <phrase>බෝධිය නහවා සමාව ගනී ? විහිලු වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

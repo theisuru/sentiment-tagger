@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50873</articleId>
+    <title>මාතලේ දරුවනට ලංකාදීපෙන් මාධ්‍ය පාඩමක්</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 29 19:26:11</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කාංචන</author>
+            <date>2012-07-18 20:26:40</date>
+            <index>0</index>
+            <phrase>හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

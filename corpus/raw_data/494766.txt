@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494766</articleId>
+    <title>උමා ඔය නිවාස හතරක් ගිලී</title>
+    <author>සමන් පාලිත නානායක්කාර</author>
+    <date>2016 දෙසැම්බර් මස 31 19:53:24</date>
+    <body>වැල්ලවාය දක්වා ඉදිකෙරෙන උමා ඔය උමග කපා ඇති ගමන් මගේ  උඩපේරුව අරාව වත්තේ ගෙවල් හතරක් අඩි දෙකක් ගිලාබැස ඇතැයි ආපදා කළමණාකරන නිලධරයෝ කියති.
+මෙම නිවාසවල පදිංචිකරුවෝ වෙනත් තැන්හී රැකවරණය ලබති.
+නිවාස ගිලා බැසීමෙන් කිසිදු ජීවිත හානියක් සිදු වී නැත</body>
+    <comments>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2016-12-31 14:46:53</date>
+            <index>0</index>
+            <phrase>කොන්ත්‍රාත්කරු මෙන්ම රජයේ ඉංජිනේරුවන් මේවට වගකිව යුතුයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2017-01-01 04:43:15</date>
+            <index>1</index>
+            <phrase>සිරිලක දේ සිරි සැප දේ!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-01 04:54:46</date>
+            <index>2</index>
+            <phrase>උමඟ යන ගමන් මාර්ගය සැළසුම් කරඇත්තේ මීට බොහෝ කලකට පෙර. ඊට සමගාමීව එම ගමන් ම‍ඟේ ඇති නිවාස පදිංචිකරුවන්ටත් ඉවත්වීමට දැනුම් දෙනවා. ඉතින් ඒ පදිංචිකරුවන් ඉවත් නොවුණා කියා උමගේ ගමන් මඟ එකිනෙකාට ඕනෑ විදියට වෙනස් කරන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2017-01-01 07:07:01</date>
+            <index>3</index>
+            <phrase>මහපරිමාන ඉදිකිරීම් වලදි ඔය වගේ දේවල් සිදුවෙනව.එහෙම වුනාම ඒවට ස්තිර විසදුම් ලබාදෙනව අායෙ ඒවගේ නොවන්න.අනික උමන් මාර්ග අවට පිරිස් ඉවත් කරල තමයි උමන් හෑරීම සිදුකරන්නෙ.හොදම දේ තමයි ඉදිකිරීම් සිදුවන ස්ථාන අවටින් ජනතාව ඉවත්වී සිටීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

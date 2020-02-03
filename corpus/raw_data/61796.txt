@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61796</articleId>
+    <title>ලූනු ගොවියෝ සීගිරියේ විරෝධය</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අගෝස්තු මස 30 13:36:37</date>
+    <body>රජයේ ගොවියන්ගේ ලොකුලූනු මිලට නොගෙන මුදලාලිලාගේ ලූනු මිලට ගනිතියි චෝදනා කරමින් සීගිරි ලූනු ගොවියෝ සීගිරිය කිඹිස්ස පාර හරස් කැර උත්ඝෝෂණයක් ඇරැඹූහ. මේ නිසා දෙස් විදෙස් සංචාරකයනට සිය ගමන් බිමන් යා නොහැකි විය.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-30 13:51:35</date>
+            <index>0</index>
+            <phrase>අපි ගොවියන්ව කවදාවත්ම අමතක කළේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2012-08-30 14:01:24</date>
+            <index>1</index>
+            <phrase>මේ ලූනු ගත්තම මහත්තුරුන්ගේ සාක්කුවටත් කීයක්හරි වැටෙනව ඇතිනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-30 14:02:53</date>
+            <index>2</index>
+            <phrase>වවන්නත් කරදරයි.. විකුණන්නත් ඊට වඩා කරදරයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-08-30 14:14:25</date>
+            <index>3</index>
+            <phrase>මුදලාලිලා කියන්නේ කයමක් කමක් කරන්න පුළුවං අයනේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2012-08-30 15:29:54</date>
+            <index>4</index>
+            <phrase>පොඩ්ඩක් ඉවසන්න ගොවි මහතුණි.. මේ දවස්වල ඡන්දෙ තියෙන පැත්තේ බඩු ගන්නවා.. සැප්තැම්බර් අට වැනිදායින් පස්සෙ ඔයගොල්ලන්ගෙ බඩු ගන්නවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-30 15:35:49</date>
+            <index>5</index>
+            <phrase>ගහමු මල්ලි කතිරේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලුපහන</author>
+            <date>2012-08-30 15:35:43</date>
+            <index>6</index>
+            <phrase>අමුවෙන්ම ලූණු කන්නේ නැතුව අධිශිතකරණ වල දාලා කල් ති‍යාගෙන, ඒ වගේම සෝස් වර්ග හදලා වෙළද පොළට එවන්න වගේ ක්‍රම පාචිච්චියට ගත්තොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-30 15:43:30</date>
+            <index>7</index>
+            <phrase>ඔයපැත්තටත් ඡන්දය තිබුණොත් බඩු ගනීවි... නැතිනම් ඉතිං නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාද් ප්‍රිනා</author>
+            <date>2012-08-30 15:45:41</date>
+            <index>8</index>
+            <phrase>රජයේ බලධාරීන් ගොවි මහතුන් ගැන මීට වඩා වගකීමක් ඇතිව වැඩකළොත් තමා හොද? මොකද මේ අහිංසක ගොවි මහතුන් හුගක් ණයවෙලා තමයි වගා කටයුතු කරන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-08-30 15:50:01</date>
+            <index>9</index>
+            <phrase>අමුවෙන් ලූනු කෑම වකුගඩු රෝගයට හොද බෙහෙතක් ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-30 16:04:09</date>
+            <index>10</index>
+            <phrase>අපරදෙ ඔය පැත්තට ඡන්දයක්වත් නැහැනේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-08-30 16:20:35</date>
+            <index>11</index>
+            <phrase>පාතාලයේ ඡන්දයක් තිබුණා නම් ඉවරයි වැඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-30 17:15:14</date>
+            <index>12</index>
+            <phrase>රජය මෙවන් පාරිභෝගික භාණ්ඩ වලට නිසි මිළක් ලබා දෙන ආකාරයට සැකසූ වැඩ පිළිවෙළක් හැදිය යුතුයි. නොඑසේනම් මෙවන් ප්‍රශ්න ඉදිරියටත් සිදුවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමසිරි</author>
+            <date>2012-08-30 17:55:04</date>
+            <index>13</index>
+            <phrase>අලුතෙන් කාපට් කරපු පාරවල් තියෙන්නේ ලොකු ලූණු විකුණන්න නම් පොඩි ලූණු වලට මොන පාරවල්ද හරියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-08-30 18:05:45</date>
+            <index>14</index>
+            <phrase>බලන්න, මෙතන විදේශිකයනුත් ඉන්නවා. ඒ අය ‍මොනවා හිතනවා ඇද්ද ලංකාව ගැන?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-30 18:29:03</date>
+            <index>15</index>
+            <phrase>පාරේ නිදාගෙන ඉන්න කෙනා දිහා බලපු ගමන් කියන්න පුලුවන් මේක විරුද්ධ පක්ෂ වල කුමන්ත්‍රණයක් කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2012-08-30 18:59:13</date>
+            <index>16</index>
+            <phrase>බණ්ඩාරගේ කතාව හරියටම හරි. මේක ඒ අයගේ කුමන්ත්‍රණයක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-08-30 20:31:58</date>
+            <index>17</index>
+            <phrase>දැන් නියම ක්‍රමයක් හොයාගෙන. මොනවා හරි ඕනෑ වුණහම පාර වහගෙන උද්ඝෝෂණය කරනවා. අනේ මෙහෙමත් රටක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-08-30 20:27:03</date>
+            <index>18</index>
+            <phrase>අහිංසක ගොවියන් දුක් මහන්සි වී වගා කරනවා. නමුත් ලාභ ලබන්නේ ව්‍යාපාරිකයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-30 20:54:22</date>
+            <index>19</index>
+            <phrase>බණ්ඩාර, ඔයා නම් සාස්තර කියනවා වගෙයි. හරියට හරි තමයි. පිටරට වල අය හිනා වෙනවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-08-30 22:46:52</date>
+            <index>20</index>
+            <phrase>බණ්ඩාර බලාපොරොත්තු වෙන්නේ පාරේ නිදාගෙන ඉන්න කෙනා කොහොම කෙනෙක් වෙනවටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-30 22:53:15</date>
+            <index>21</index>
+            <phrase>දයා, මුදලාලිලා බලන්නේ තමන්ගේ ගොඩ ලොකු කර ගන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවෙයිට්</author>
+            <date>2012-08-31 03:23:52</date>
+            <index>22</index>
+            <phrase>ආනන්ද, ඔබ හරි. ප්‍රධාන ඉලක්කය විදේශිකයින්ට මේ බව දැන්වීම. නැත්නම් මෙම උත්ඝෝෂණය ප්‍රධාන පාර හරස් කරලා කරන්නම අවශ්‍යද? වෙන තැන් නැතුවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-31 06:08:57</date>
+            <index>23</index>
+            <phrase>බිලි පූජා වලට කලබල වෙන දේශපාලකයන් මේ මිනිසුන්ගේ ප්‍රශ්න වලට මැදිහත් වෙන පාටක් නැහැ ව‍ගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-08-31 09:16:19</date>
+            <index>24</index>
+            <phrase>බිලි පූජාව නැවැත්තුවා වගේ සීගිරිය‍ට ඇවිල්ලා මේකත් විසදන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-08-31 10:55:54</date>
+            <index>25</index>
+            <phrase>අපිට ඉන්නවා සිය ගණනක් ඇමතිවරු. ඒත් මේ ක්‍රමය වෙනස් වෙන්න ඕනෑ. අපිත් ඇමෙරිකාවේ ක්‍රමය අනුගමනය කරන්නයි ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිත</author>
+            <date>2012-09-01 13:30:56</date>
+            <index>26</index>
+            <phrase>සීගිරිය බලන්ඩ බැරි වුණාට විදේශිකයන්ට ලංකාවේ තියෙන උද්ඝෝෂණ බලාගන්න පුළුවන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

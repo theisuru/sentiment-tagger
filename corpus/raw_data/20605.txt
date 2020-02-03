@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20605</articleId>
+    <title>ජපුර සිසුහු අරලිය මැදුර දෙසට</title>
+    <author>ඉන්දික සෙනෙවිරත්න  සෝ විජයවර්ධන</author>
+    <date>2012 ජනවාරි මස 05 13:46:53</date>
+    <body>ජයවර්ධනපුර සරසවි සිසුහු දෙදහසක් පමණ මීට මඳ වේලාවකට පෙර බම්බලපිටිය හන්දියේ ගාලූ පාරට පිවිස අරලියගහ මැදුර දෙසට ගමන් කිරීමත් සමග ගාලූ පාරේද අවට මාර්ගවලද දැඩි තදබදයක් ඇති විය. කැරැලි මර්දන පොලිසිය, කඳුළුගෑස්, ජලප‍්‍රහාර රථ හා යකඩ මාර්ග බාධක සූදානමින් තබා ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-01-05 15:01:29</date>
+            <index>0</index>
+            <phrase>ඇයි භික්ෂුන් වහන්සේලා පිටිපස්සෙන් තියාගෙන පෙළපාළි යන්නෙ? කවුද එහෙම කියල දුන්නෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-01-05 15:00:42</date>
+            <index>1</index>
+            <phrase>අරලියගහ මන්දිරය හම්බන්තොටට ගෙන ගියානම් හොදයි. එවිට මෙම කරදර නැතිවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2012-01-05 15:12:20</date>
+            <index>2</index>
+            <phrase>මේවා ජේ.වී.පී.යේ කඩාකප්පල්කාරී වැඩ. නීතිය ක්‍රියාත්මක කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන් ජයකොඩි</author>
+            <date>2012-01-05 16:48:21</date>
+            <index>3</index>
+            <phrase>අනේ අපේ අනාගත පරපුර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-01-05 17:07:30</date>
+            <index>4</index>
+            <phrase>අරලිය ගහ මන්දිරයට යන්න ඇත්තෙ දවල් කෑමට වෙන්න ඇති. කන්න දෙන්න තමා තිබුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2012-01-05 17:32:00</date>
+            <index>5</index>
+            <phrase>අමාරුවෙන් කැම්පස් යන්නෙ විරෝධතා දක්වන්න? අනේ මෙහෙමත් ලංකාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-01-05 18:19:49</date>
+            <index>6</index>
+            <phrase>ඔවුන් කිසි සැළකිල්ලක් දක්වන්නේ නැහැ. ඔවුන්ට අවශ්‍ය නිදහස් අධ්‍යාපනය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-01-05 18:28:24</date>
+            <index>7</index>
+            <phrase>ජ'පුර සිසුන් වළපල්ලට යවන ජේ.වී.පී.යේ තවත් එක් උගුලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2012-01-05 21:07:20</date>
+            <index>8</index>
+            <phrase>මේ අයට පිස්සු. අපරාදේ දෙමාපියන්ගේ මහන්සියත් ගිය විදයමත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-01-05 22:10:29</date>
+            <index>9</index>
+            <phrase>පිස්සුද මේ ළමයින්ට? ඉගෙන ගන්න කාලේ ඉගෙන ගන්නෙ නැතිව පිස්සු නටනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-05 22:54:56</date>
+            <index>10</index>
+            <phrase>ඔයාලම තමයි 2005 දී පෝස්ටර් ගහලා උදව් කළේ. ඉතින් ජනාධිපතිතුමාට කියන්න යන එක වරදක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලයාන් චතුරංග</author>
+            <date>2012-01-06 00:17:13</date>
+            <index>11</index>
+            <phrase>අද දෙවෙනි අවුරුද්දෙදි කැම්පස් එක ගැන තියෙන කැක්කුම, අවුරුදු 12-13 හිටපු ගමේ ඉස්කෝලෙටත් තිබුනානම් තමා හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-06 08:48:30</date>
+            <index>12</index>
+            <phrase>රටම විනාශ කරන්න හදනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පි</author>
+            <date>2012-01-06 08:58:09</date>
+            <index>13</index>
+            <phrase>බණ්ඩා කොළඹ ගියා වගේ තමා මානසික ලෙඩුන් විශ්වවිද්‍යාලවලට ගියාම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-01-06 11:34:44</date>
+            <index>14</index>
+            <phrase>කොහොම උනත් හැමදේ ගැනම සාධාරණව හිතන්න ඕන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-06 11:56:30</date>
+            <index>15</index>
+            <phrase>නිදහස් අධ්‍යාපනය රැක ගන්න ඔබ කරන උත්සහය අනිත් අයට තේරෙන්නේ නෑ. ඒ නිසා බනින්නේ. අපේ දරුවන්ගෙ නිදහස් අධ්‍යාපනය රැකේවා. ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන්ගල</author>
+            <date>2012-01-06 15:20:53</date>
+            <index>16</index>
+            <phrase>අපේ මහනායක හාමුදුරුවරුනේ සංඝයාවහන්සේලා හෑසිරෙන්නෙ මෙහෙමද? ශාසනේ විනාශ කරන්න දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැලුම් සඳරුවන්</author>
+            <date>2012-01-07 10:43:50</date>
+            <index>17</index>
+            <phrase>මම හිතන්නේ විය යුත දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

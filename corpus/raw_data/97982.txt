@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>97982</articleId>
+    <title>ගොහොරු මඩ ගොඩක් මැද මැවෙන සුරපුර අරුම</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2013 පෙබරවාරි මස 13 11:02:19</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චාමි</author>
+            <date>2013-02-24 14:55:18</date>
+            <index>0</index>
+            <phrase>ඇත්තටම ලස්සනයි අපේ ලංකාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

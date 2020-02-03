@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>232810</articleId>
+    <title>පෑලියගොඩ නාගරික මන්ත්‍රී වෙඩි තියා මරයි</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2014 මැයි මස 12 12:55:09</date>
+    <body>දළුගම පරණ නුවර පාරේ සිය වාහනයෙන් ගමන් කරමින් සිටිය දී, පෑලියගොඩ නගර සභා මන්ත්‍රී චමිල සඳරුවන් වෙඩි තබා මරා දමා ඇතැයි පොලිසිය කියයි.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>අශෝක බණ්ඩාර</author>
+            <date>2014-05-12 12:12:35</date>
+            <index>0</index>
+            <phrase>මේ බුදුන් වැඩි දේශය නේද මිනිසුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-05-12 12:18:51</date>
+            <index>1</index>
+            <phrase>මියගිය අය ගැන කණගාටු වුණත් මේ ගැන මම පුදුම වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන පනාගොඩ මිලානෝ</author>
+            <date>2014-05-12 12:20:30</date>
+            <index>2</index>
+            <phrase>ඔන්න ආශ්චර්යය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2014-05-12 12:23:08</date>
+            <index>3</index>
+            <phrase>වෙසක් එකට තව දවසයි? දෙයියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-05-12 12:39:25</date>
+            <index>4</index>
+            <phrase>දැන් මිනිස් ජීවිත වල වටිනාකම ගොඩක් අඩුයි. සඳරුවන් මහතාණනි ඔබට නිවන් සුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2014-05-12 12:54:29</date>
+            <index>5</index>
+            <phrase>මෙහෙම දේවල් ද ලංකාවේ වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් නිරංජන්</author>
+            <date>2014-05-12 13:02:44</date>
+            <index>6</index>
+            <phrase>මේ බුදුන් වැඩිය දේශය නේද මිනිසුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි සුමිත්</author>
+            <date>2014-05-12 13:13:57</date>
+            <index>7</index>
+            <phrase>කණගාටුයි මේ වගේ වැඩ ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2014-05-12 13:18:26</date>
+            <index>8</index>
+            <phrase>ලංකාවට වුණ දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2014-05-12 13:21:20</date>
+            <index>9</index>
+            <phrase>පලවෙනි පින්තුරේ බැලුවම හිතුණා මිනීමැරුමක් කියන එක මිනිස්සුන්ට කිසිම ගානක් නැහැ වගේ කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම්</author>
+            <date>2014-05-12 13:31:08</date>
+            <index>10</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නසිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2014-05-12 13:33:44</date>
+            <index>11</index>
+            <phrase>ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2014-05-12 13:43:31</date>
+            <index>12</index>
+            <phrase>අපේ රටේ මේ අපරාධකාරන්ට එල්ලුම් ගහ නැතිව බැහැ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2014-05-12 13:44:32</date>
+            <index>13</index>
+            <phrase>එල්ලුම්ගහ ඕන රටට දැන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත නිශ්ශංක</author>
+            <date>2014-05-12 13:45:36</date>
+            <index>14</index>
+            <phrase>අපේ රටට එල්ලුම් ගහ ඕනි කාලයක් දැන්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප කුමාර</author>
+            <date>2014-05-12 13:58:43</date>
+            <index>15</index>
+            <phrase>ඹබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉස්මිල්</author>
+            <date>2014-05-12 14:16:49</date>
+            <index>16</index>
+            <phrase>හරිම සෝචනියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2014-05-12 14:33:03</date>
+            <index>17</index>
+            <phrase>සේරම්, ඔයා දැක්කද මරුණ කෙනා අවි අරගෙන ඉන්නවා. හරියට දන්නේ නැතුව එක පාරටම කටට ආපු පලියට එහෙම කියන්න එපා. එයා නිවැරදිකරුවෙක් වෙන්නත් පුළුවන්.දිට්ඨ ධම්ම වේදනීය කර්ම වෙන්නත් පුළුවන්. ඒත් අපි හරියටම දන්නේ නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2014-05-12 14:44:08</date>
+            <index>18</index>
+            <phrase>බුදුන් වැඩිය දේශය කියල මෙහෙම ඒවා වෙන්න එපාද? අනේ මෙහෙම බෞද්ධයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාර්ඩ් ප්‍රීනා</author>
+            <date>2014-05-12 14:56:23</date>
+            <index>19</index>
+            <phrase>මෙවැනි ඝාතන වහාම නැවැත්වීමට කවදා හැකි වේදෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දික</author>
+            <date>2014-05-12 15:09:44</date>
+            <index>20</index>
+            <phrase>මේක මාර රටක් වෙලා. මිනිස්සු මරන්නේ ගාණක්වත් නැතුව. මේ තරමට පිරිහුණ මිනිස්සුද ඉන්නෙ. අනිවාර්යෙන්ම එල්ලුම් ගහ ගේන්නම ඕනේ. එකෙක් දෙන්නෙක් එල්ලන කොට ඉබේම මේ අපරාධ නවතිවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2014-05-12 15:18:43</date>
+            <index>21</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නැසෙති කියන එක ඇත්තක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-05-12 15:48:51</date>
+            <index>22</index>
+            <phrase>මොකද්ද මේ රටට වෙන්නේ..?මේවා කවදද නතර කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුනවර්දන</author>
+            <date>2014-05-12 16:11:06</date>
+            <index>23</index>
+            <phrase>නීති විරෝධී අවි නිෂ්පාදනයත් , නීති විරෝධී ලෙස අවි ළඟ තබා ගැනීම නිසාත් දැන්, දැන් ලංකාවේ නිතරම ඇහෙන්නේ මනුස්ස ඝාතන ගැන තමයි .ඒ නිසා වගකිවයුතු බල ධාරීන් මිට වැඩ මේවා ගැන සැලකිලිමත් විය යුතු බවයි මගේ හැඟීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2014-05-12 16:44:34</date>
+            <index>24</index>
+            <phrase>පොලිස් නිලධාරීන් නිරුවත් කර මරා දමන රටේ මේකත් එක ශෝචනීය මරණයක් පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයේ</author>
+            <date>2014-05-12 17:14:12</date>
+            <index>25</index>
+            <phrase>චමල්, ඇයි මේ වගේ දේවල් වෙන්න ඕනෑ කියලද කියන්නේ? හැබැයි සමහර කට්ටිය කියන්නේ මේක සිංහල බෞද්ධ රටක් කියලා. අරහෙන් පිළිම වහන්සේලා වඩම්මවනවා මෙහෙන් මිනීමරනවා. සඳරුවන් මහතාණනි,ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2014-05-12 17:16:22</date>
+            <index>26</index>
+            <phrase>මහජන නියෝජිතයන්ටවත් ආරක්ෂාව නැති තැන අන් අය ගැන කවර කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2014-05-12 17:49:09</date>
+            <index>27</index>
+            <phrase>අන්න අනෙක් පැත්තේ ශ්‍රී සිද්ධාර්ථ ගෞතම චිත්‍රපටියට සම්මාන ලැබිලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුල</author>
+            <date>2014-05-12 18:00:33</date>
+            <index>28</index>
+            <phrase>තිස් වසරක් තිබුන යුද්ධය නිසා මිනිසුන්ගේ හිත උණුවෙන්නේ නැහැ දැන්. මිනීමරන එක සුලුදෙයක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මලාල්</author>
+            <date>2014-05-12 18:16:33</date>
+            <index>29</index>
+            <phrase>සාමාන්‍ය දෙයක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2014-05-12 18:16:53</date>
+            <index>30</index>
+            <phrase>මෙවැනි අපරාධ මැඩලිමට නමි ලංකාව තුළ එල්ලුම් ගස ක්‍රියාත්මක කල යුතුයි.නමුත් එය බිත්ති හතරට සීමා නොවි ඡනතාව ඉදිරි ක්‍රියාත්මක කලයුතුයි එය දකින අපරාධ කරුවන් බියවිය යුතුයි.රජකාලේ දෙතිස්වදය බිත්ති හතරට කොටුනොවි ජනයා ඉදිරියේ සිදුකෙරුනේ අපරාධ කරුවන් බියවි අපරාධ නොකරන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-05-12 18:21:32</date>
+            <index>31</index>
+            <phrase>මේවට අපි මොනවා ලිවුවත් ඵලක් නැහැ, නීතිය තද නින්දේ. මිනීමරුවන් අපරාධකරුවන් නිදැල්ලේ.උන්ට ඕනෑ ඕනෑ වෙලාවට ඕනෑ ඕනෑ කෙනා මරලා දානවා. මංකොල්ලකනවා. පාලකයිනි, දෑස් හැර බලවු නින්දෙන් නැගිටිවු අපේ මවුබිම රැකදෙවු! එල්ලුම් ගහ ක්‍රියාත්මක කර එක මිනීමරුවෙක් එල්ලා දමවු!සත්තයි, සහතිකයි , අපේ රටේ මිනීමරන්න ‍මිනීමරුවෝ බය වෙයි.රට දියුණු වෙනවිට ඒ රටේ ජිවත් වෙන්න මිනිස්සු නැත්නම් රටේ පාරවල් දියුණු වෙලා ඵලක් වේද?ගුවන් පාලම් කා වෙනුවෙන්ද?ගුවන් තොටුපළවල් හා වරායන් කා වෙනුවෙන්ද.? මේ සියල්ලට උත්තර ඇත්තේ කා ළඟද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝර්ජ්</author>
+            <date>2014-05-12 18:34:59</date>
+            <index>32</index>
+            <phrase>මෙවන් රටක මේවා කොපමණ සිදු වුණත් වගකිවයුත්තෝ ඇස් කන් වසා ගනිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2014-05-12 18:36:54</date>
+            <index>33</index>
+            <phrase>පහන්දී,ඔබේ අදහස් හා සමාන අදහසක් මමද පළකෙළෙමි. පහන්දී ,ඔබේ වේදනාව හා ඉල්ලීම සමඟ මා ද එකඟ වෙමි. දිනෙන් දින ඉහළ යන අපරාධ මැඩලිමට නොහැකි රටක, මැරයින්, ජාතිවාදීන්, ස්ත්‍රී දූෂකයින් රජකරන රටක පාරවල් දියුණුවී කුමටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරා</author>
+            <date>2014-05-12 18:40:22</date>
+            <index>34</index>
+            <phrase>පවු! මොනවා වුණත් මේත් මිනිසෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-05-12 18:46:21</date>
+            <index>35</index>
+            <phrase>පහන්දී තම එතරම් මෝරපු කෙනෙක් නෙමෙයි වගේ.අඩියක් අඩියක් ගානේ පොලිසියෙන් හිටියත් හමුදාව හිටියත් මොන නීති තිබුනත් මිනීමරන එකා මිනීමරනවා.පොලිස් භාටයෙකුව මැරුවොත් අත්වන නියත ඉරණම දැන දැනත් කට්ටිය පොලිස් භටයෙක් මරා දාලා තිබුනේ ඊයේ පෙරෙයිදා?නීතිය තද වුණාට මේවා නතර කරන්න බැහැ. බලන්නකෝ ඉංග්‍රීසි දෙමළ හින්දි චිත්‍රපටියක්.මිනීමරාගන්න හැටි බලන්න.සැබෑ ලෝකෙත් ඒ වගේම තමයි.සේරම් කියපු දේම තමයි මටත් කියන්න වෙන්නේ.මෙහෙම මරණයක් බෝධිසත්වයෙකුට අයිති වෙන්නේ නැහැ.මොනවා හරි මේකට හේතු ඇති සාධාරණ හෝ අසාධාරණ.වපුරන විදියට තමයි අපිට අස්වැන්න ලැබෙන්නේ.තල වපුරලා මුං පතලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-05-12 18:56:47</date>
+            <index>36</index>
+            <phrase>අනේ බන්දුල, දැන්වත් ඔය කන්ණාඩිය ගළවලා බැලුවොත් නරකද? පාට කණ්ණාඩිය අස්සෙන් දැන් චුට්ටක් විතර එළිය බලන බව පෙනුනත් අතේ තියෙන 'මල්ල' තවම බර වැඩියි වගේ නේද? (තිරිසනෙකුට අයපතක් වුවත් ශෝක වන්නට තරම් හදවත් තිබු ජාතියක් වශයෙන් මෙම මියගිය තැනැත්තා කව්රුන් වුවත් සසර වසන තුරු මෙවන් අකල් ශෝචනීය මරණයකට පත් නොවේවායි පතමු..)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒඩිවින්</author>
+            <date>2014-05-12 18:57:26</date>
+            <index>37</index>
+            <phrase>බන්දුල පෙරේරලා වැනි පුද්ගලයන් මෙවැනි දේවලට සම්බන්ධදැයි සැකයක් මතුවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිෆාන්</author>
+            <date>2014-05-12 18:59:21</date>
+            <index>38</index>
+            <phrase>පෑලියගොඩ ජනතාවට වෙසක් එකට මේ මොනවද ලැබුණේ? දෙයියනේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිල්</author>
+            <date>2014-05-12 19:00:55</date>
+            <index>39</index>
+            <phrase>අනිවාර්යයෙන් මේක අහවලුන්ගේ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විල්සන්</author>
+            <date>2014-05-12 19:04:44</date>
+            <index>40</index>
+            <phrase>මේ බන්දුල පෙරේරා කියන්නේ දෙපැත්ත කන පුද්ගලයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2014-05-12 19:16:53</date>
+            <index>41</index>
+            <phrase>බන්දුල පෙරේරා නමැති අයට දිව දෙකක් තිබෙන බව අද අපි තේරුම් ගත්තා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2014-05-12 19:20:05</date>
+            <index>42</index>
+            <phrase>අපේ ජාතිය ටිකෙන් ටික වඳ වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-05-12 19:21:21</date>
+            <index>43</index>
+            <phrase>ඒක තමා බන්දුල මමත් කියන්නේ.මේ රටේ නීතියක් නැහැ කියලා. මේ මියගිය කෙනා අත වරදක් තිබුනා නම්, නීතියකුත් තිබුනා නම්, මෙලෙස මහා පාරේ වෙඩි කාලා මැරෙන්න වෙන්නේ නැහැනේ. නේද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆස්රුල් ගෆූර් - කටාර්</author>
+            <date>2014-05-12 19:37:04</date>
+            <index>44</index>
+            <phrase>බන්දුල පෙරේරා මහත්මයා, මමත් මේ රජයට පක්ෂපාති පුද්ගලයෙක්. නමුත් සිදුවෙන සෑම දෙයකටම, සෑම මොහොතකම අපිට කඩේ යන්න බැහැ. වැරදි නම් වැරදි තමා. හොඳ නරක දෙකේදීම අපිට වෙනස් ආකාරයෙන් ප්‍රතිචාර දැක්වීම අනිවාර්යයි. නීතිය ක්‍රියාත්මක නොවීම තමා මේවාට ප්‍රධාන හේතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2014-05-12 19:37:27</date>
+            <index>45</index>
+            <phrase>අර පොලිසියේ මහත්තුරු මොකද අර උණ්ඩ වටේ රවුම් අඳින්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2014-05-12 19:45:11</date>
+            <index>46</index>
+            <phrase>බන්දුල හරියටම හරි. කොච්චර පොලිසිය හිටියත් රටේ මිනීමරනවා. මොකද නීතියක් නැහැනේ. පොලිසියටත් ඔහේ බලා ඉන්න වෙනවා. අර පිස්තෝලයක් අරන් දඟලපු කෙනාගේ ප්‍රශ්නයේදී වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිලෝ</author>
+            <date>2014-05-12 19:58:41</date>
+            <index>47</index>
+            <phrase>බුදුන් වැඩිය දේශය වූණාට ලංකාව බුද්ධ දර්මය රකින රටක්ද? පන්සිල් පද පහ රකිනවා නම් ලොවේ තිබෙන උතුම්ම රට ලංකාව.(බුදු බණ දෙසුවා නිරන්තරේ ...බුදු බණ ඇසුවා නිරන්තරේ.....ගතිගුණ අතින් අපි තවමත් වනන්තරේ ....) මුල් බුදු දහම යනු බුද්ධ වචනයෙන් දෙසු දහමයි.නමුත් දැන් පවතින්නේ පුද පුජා සහිත බෞද්ධ ආගමයි.එය අදහන ආගමක් බවට පත්වී ඇති හෙයින් ආමිස පුජාවට මුල්තැන දී ප්‍රතිපත්ති පුජාව දුරස් වී ගතිගුණ අතින්ද පිරිහී ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේතං</author>
+            <date>2014-05-12 20:15:33</date>
+            <index>48</index>
+            <phrase>හා හා රාළහාමි,බලාගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජසීම්</author>
+            <date>2014-05-12 20:38:18</date>
+            <index>49</index>
+            <phrase>මොනවද මේ වෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-05-12 20:43:59</date>
+            <index>50</index>
+            <phrase>සියල්ලටම පෙර මේකේ තවමත් කඩේ යන බන්දුල පෙරේරාට මේ වගේ දඩුවමක් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-05-12 20:56:44</date>
+            <index>51</index>
+            <phrase>ඔය ඝාතනය කරයි කියලා අපිට සැකයක් තිබුනත්,ඒවා දැන් වැඩක් නැහැ. මනුස්සයෙක් මැරිලා ඉවරයි දැන්. අපේ රටේ ඉතින් ලොකු අයට නීති අදාල නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2014-05-12 21:13:05</date>
+            <index>52</index>
+            <phrase>වැඩ වගයක් ඉවර කරන්න තියනවා කියලා කිවුවා නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනාදීර</author>
+            <date>2014-05-12 21:16:13</date>
+            <index>53</index>
+            <phrase>ඕක තමා මල්ලියේ කියන්නේ නරක මිතුරන් ආශ්‍රය කරන්න එපා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශී</author>
+            <date>2014-05-12 21:16:37</date>
+            <index>54</index>
+            <phrase>ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීනා</author>
+            <date>2014-05-12 21:19:13</date>
+            <index>55</index>
+            <phrase>සාමය රටේ රජයනවා කිවුවට අනේ මන්දා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-05-12 21:43:20</date>
+            <index>56</index>
+            <phrase>අනේ මම නම් විල්සන්ගේ එක පැත්තක්වත් කෑවේ නැහැ.වැරදි වැටහීමක්.පහන්දි මෝරලා නැහැ කියපු එක දෙවන අදහසින් හොඳින්ම ඔප්පු වුණා.පහින්දී මැරෙනවා, මරනවා, මැරිලා ඉන්නවා, මරලා ඉන්නවා දැකලා තියෙන්නේ අද ඊයේ...70 දශකයේ ඉඳලා අපි නම් මේ වගේ ඒවා ඕනෑ තරම් දැකලා තියෙනවා.මිනීමරා ගැනිල්ල නතර කරන්න නීති රීති වලට බැහැ.එදත් ඒ දේ වුණා. ඊට සාපේක්ෂව සුළු වශයෙන් අදත් ඒ දේ වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උද්දික</author>
+            <date>2014-05-12 21:43:26</date>
+            <index>57</index>
+            <phrase>තමන් වපුරන දේවල් තමා නෙලාගන්න වෙන්නේ. දේශපාලකයන් තමා ඉතින් ඕවා ගොඩක් වපුරන්නේ. ඉතින් මට නම් හිතෙන්නේ නීතියේ තියෙන දුර්වලකම කියලයි. දැඩි දඩුවම් දුන්නත් වැරදි කරන කෙනා කරනවා. එත් එය ඉතා අඩුවෙන්. ඒත් ඒ එක්කම ප්‍රධාන නගරවල කැමරා පද්ධති තව වැඩි කළා නම් හොදයි කියලා හිතෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-05-12 21:45:58</date>
+            <index>58</index>
+            <phrase>එල්ලුම් ගහ ගැන බීරි අලින්ට කියලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසී</author>
+            <date>2014-05-12 21:54:12</date>
+            <index>59</index>
+            <phrase>අනේ මෙහෙමත් අපරාධ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හංසි</author>
+            <date>2014-05-12 21:54:12</date>
+            <index>60</index>
+            <phrase>ඉස්සා කියනවලුනේ මම සුදනා මම සුදනා කියලා. මම නම් අහලා නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-05-12 22:01:30</date>
+            <index>61</index>
+            <phrase>මේක සෙල්ලම් පිස්තෝලයකින් කරන ලද සාහසික මිනී මැරුමක් ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිපෙ</author>
+            <date>2014-05-12 22:09:18</date>
+            <index>62</index>
+            <phrase>ඕවා ඔහොම තමයි.බුදුහාමුදුරුවන්ට ගල් පෙරලුවා. ජේසු තුමාට ඇණ ගැහුවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මසුහුඩ්</author>
+            <date>2014-05-12 22:18:23</date>
+            <index>63</index>
+            <phrase>අපේ අදහස් හරියට ගඟට ඉනි කපනවා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2014-05-12 22:24:12</date>
+            <index>64</index>
+            <phrase>තව මොනවද මේ ශ්‍රී ලංකාවේ වෙන්න ඉතුරුවෙලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් ආනන්ද මිලානෝ</author>
+            <date>2014-05-12 22:28:34</date>
+            <index>65</index>
+            <phrase>අපේ රටේ නීති කොපමණ තිබුනත් ඒ නීතියක් අද හරියට ක්‍රියාත්මක නොවෙන නිසා මෙවැනි අපරාධ එන්න එන්න ම වැඩි වෙනවා. යම් කෙනෙක් වරදක් කලානම් ඒ අයට දඩුවම් දෙන්න තමා අදීකරණයක් තිබෙන්නේ. කැලණිය හිටපු මන්ත්‍රී මඩවල මහතාට මොකද උනේ ? කෝ තාමත් ඒ අයව අල්ලලා ඒ අයව නීතියේ හමුවට ගේනාවාද ? තිරිසන්නු වගේ . බල්ලෝ බළල්ලු ගානටවත් ගන්නේ නැති ගානට මිනිස් ජිවිත වැටිලා. නීතියක් නැති රටක මෙවැනි දේවල් සිදුවීම අහන්න දෙයක්ද ? පොලිසි හිටියට ඇති වැඩක් තියෙනවද ? පොලිසියේ අයවත් උස්සන් ගිහින් මරල දාන කාලයක් මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-05-12 22:29:51</date>
+            <index>66</index>
+            <phrase>පොලිසියෙන් හැමතැනම හිටියට වැඩක් නැහැ නීතිය ක්‍රියාවේ යොන්නේ නැතිනම්. මිනි මැරුවට දඬුවම් නොලැබෙන බව දන්නා නිසා සුළු දේටත් මිනී මරන්න ජනතාව පෙළඹිලා. එල්ලුම් ගහ ගැන වැඩි වැඩියෙන් කතා කෙරුවට ලොකු තැන්වල කිසි කෙනෙක් එ්ක ක්‍රියාත්මක කරන්නේ නැහැ. ඒ නිසා මැරෙනකල් ජීවත් වෙන්න හැම දෙනාම සුදානම් වෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාදා</author>
+            <date>2014-05-12 23:42:41</date>
+            <index>67</index>
+            <phrase>ෂරියා නීතිය අවශ්‍ය සෞදි අරාබියාවට නෙමෙයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොහාන්</author>
+            <date>2014-05-13 01:09:11</date>
+            <index>68</index>
+            <phrase>මෙවැනි අපරාධ වලට වගකිවයුතු අය කවුද?අපරාදේ තරුණ කොල්ලෙක්ගේ ජීවිතේ!දේශපාලනය නොකළා නම් අද හොඳ තැනක රැකියාවක් කරලා ඉන්න තිබුණා. ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදජිත් වික්‍රම</author>
+            <date>2014-05-13 01:36:12</date>
+            <index>69</index>
+            <phrase>රටට මොකක් ද මේ වෙලා තියෙන්නේ. සත්තු මරණවා වාගේ මිනිස්සු මරණවා. දඬුවම් වැඩිකර නීති හදන්න ඕනේ. ඒවා හරියට ක්‍රියාත්මක කරන්නත් ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියකුමාර</author>
+            <date>2014-05-13 01:45:54</date>
+            <index>70</index>
+            <phrase>සෙල්ලම් පිස්තෝලයකින් කරපු වැඩක් ගණන් ගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2014-05-13 02:05:50</date>
+            <index>71</index>
+            <phrase>බන්දුල මහතාගේ ප්‍රකාශය හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-05-13 02:39:33</date>
+            <index>72</index>
+            <phrase>කැලණිය පැත්තේ සිදුවෙන දේවල් වලට වග කියන්නේ කවුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත - ඉතාලිය</author>
+            <date>2014-05-13 03:37:38</date>
+            <index>73</index>
+            <phrase>නිවන් සුව නම් පතන්නම් ! වැරැද්දක් නැති මිනිසෙකුට ජීවිත් වීමේ බියක් ඇති නොවේ. ඒ අනුව. .. .. . . . . . . ??? (සිතීමට යමක් ඉතිරි කරමි)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි පීරිස්</author>
+            <date>2014-05-13 03:43:38</date>
+            <index>74</index>
+            <phrase>ඇත්තටම ඇයි මේ ජිවිත හානිය සිදු කලේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුක ජීවන්ත</author>
+            <date>2014-05-13 04:30:46</date>
+            <index>75</index>
+            <phrase>ඔබට නිවන් සැප ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2014-05-13 05:46:10</date>
+            <index>76</index>
+            <phrase>මේ සිංහල ධර්මද්වීපයේ වෙන දේවල්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගැමුණු</author>
+            <date>2014-05-13 06:12:37</date>
+            <index>77</index>
+            <phrase>තමන්ගේ පිස්ටල් එකෙන් තමන්ම වෙඩි තියාගෙනද දන්නෙ නැහැ. මෙයාලට තේරෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-05-13 06:56:28</date>
+            <index>78</index>
+            <phrase>එල්ලුම් ගහෙන් කරන්න පුළුවන් එකම දේ අපරාදයක් කළ අපරාධකාරයාගේ ජිවත් වීමේ අයිතිය අහිමි කරලා නීතිගරුක පුද්ගලයින්ගේ බදු මුදල් වලින් ජීවිතාන්තය දක්වා නඩත්තු කිරීම වළක්වන එක විතරයි..ඒකෙන් අපරාධ අඩු කරන්න බැහැ.හොඳම උදාහරණය කුරුණෑගල පොලිස් භටයාගේ මරණය.මෑත කාලේ පොලිසියට අත තියපු සෑම කෙනෙකුටම නියතව මරණ දඩුවම ලැබුනා අනියම් ආකාරයෙන්.කාවවත් උසාවි ගානේ ගෙනිච්චේ නැහැ.උසාවි වලින් දඩුවම් දෙන්න උත්සාහ කළේ නැහැ.එහෙම මරණා දඩුවම අනිවාර්යය බව දැන දැනත් පොලිසියට අත තිබ්බා නම් ඔවුන් මරණ දඩුවමට බයයි කියලා හිතනවා නම් එය විහිළුවක්.අපරාධයක් කරන කෙනා අපරාධය කරලා ඉවර වෙලා තමයි එකෙන් වෙන ප්‍රතිවිපාක බලන්නේ. මේ මරණ ස්ථිරව පාතාලය ,දේශපාලනය,මුදල් තණ්හාව,නීති විරෝධී ජාවාරම් හා සම්බන්ධ මරණ.මේවට දුක්වෙන්න එපා.කලිනුත් කිව්වා වගේ වපුරන දේවල් අනුව තමයි අස්වැන්න ලැබෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2014-05-13 08:18:44</date>
+            <index>79</index>
+            <phrase>දැන් නම් එල්ලුම් ගහ ඕනමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උමේෂ්</author>
+            <date>2014-05-13 08:26:08</date>
+            <index>80</index>
+            <phrase>හැමදේටම රජය අල්ලගෙන නිකන් දොස් කියලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2014-05-13 08:30:21</date>
+            <index>81</index>
+            <phrase>අතීතයේදී ඉතා සාමකාමීව තිබූ මේ කැලණියට දැන් මොකද වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2014-05-13 08:31:39</date>
+            <index>82</index>
+            <phrase>මමත් බන්දුල පෙරේරා සමගයි. එල්ලුම් ගහ මෙයට විසඳුම නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකි</author>
+            <date>2014-05-13 08:57:32</date>
+            <index>83</index>
+            <phrase>අනේ මන්ද ඉතින් නඩුත් හාමුදුරුවන්ගේ බඩුත් හමුදුරුවන්ගෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2014-05-13 09:07:46</date>
+            <index>84</index>
+            <phrase>බන්දුල පෙරේරා මහත්තයාගේ කතාව සම්පුර්ණ ඇත්ත. වපුරන දේවල් වලින් තමයි අස්වැන්න ලැබෙන්නේ. ඒකම තමයි රටේ ජනතාවටත් අද වෙලා තියෙන්නේ. කෙසේ නමුත්, තවත් අසුබ අනාගතයක පෙර නිමිති තමයි දැන් පහළ වෙමින් තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2014-05-13 09:10:17</date>
+            <index>85</index>
+            <phrase>චමිල සහෝදරයා ඔබට නිවන් සුව පතමි. නැවත අපේ රටේ නොයිපද ලෝකයේ ඕනෑම රටක ඉපෙදේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත</author>
+            <date>2014-05-13 09:31:11</date>
+            <index>86</index>
+            <phrase>රටේ පිරිහීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2014-05-13 09:44:46</date>
+            <index>87</index>
+            <phrase>රටේ වැරැද්දක් නෙමේ තියෙන්නේ. මේ රටේ ඉන්න මිනිස්සුන්ගේ ආකල්ප වල වැරැද්දක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බී.එස්</author>
+            <date>2014-05-13 09:48:37</date>
+            <index>88</index>
+            <phrase>අවි ගත්තො අවියෙන්ම නසි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2014-05-13 10:00:07</date>
+            <index>89</index>
+            <phrase>මෙවන් අකල් මරණය ගැන දුකක් ඇතිවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර</author>
+            <date>2014-05-13 10:16:33</date>
+            <index>90</index>
+            <phrase>අහිංසක අම්ම කෙනෙකුගේ පුතෙක් නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාමිල්</author>
+            <date>2014-05-13 10:24:24</date>
+            <index>91</index>
+            <phrase>ඔබට නිවන් සුව පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2014-05-13 10:38:15</date>
+            <index>92</index>
+            <phrase>මට නම් මගේ රටේ ඇති වී තියෙන තත්වය ගැන කනගාටුවක් දැනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2014-05-13 10:44:10</date>
+            <index>93</index>
+            <phrase>කැලණියට මෙහෙම වුණේ ඇයි. කවුද මේ තත්වේ ඇති කළේ. මම දන්නේ නැති නිසා අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.</author>
+            <date>2014-05-13 12:07:23</date>
+            <index>94</index>
+            <phrase>ජයසිංහ, එහෙම අහන්න ඔයාට අැති අයිතිය මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2014-05-13 12:35:12</date>
+            <index>95</index>
+            <phrase>මෙහෙම ඕනෑම කෙනෙක් මරන්න පුළුවන් නම් අපේ රටෙයි අනෙක් රටවලයි තිබෙන වෙනස මොකක්ද? මේ රට පින්බිමක් කියනවා. කට්ටියක් කියනවා දකුණේ තමයි පාතාලය තියෙන්නේ කියලා. ලංකාවේ දේශපාලනය හඳුන්වන්න පුළුවන් ක්‍රමයක් මම හොයනවා. සමහරු නම් ඉස්සර ලංකාව හොඳයි කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-05-13 12:48:21</date>
+            <index>96</index>
+            <phrase>මේවා කාගේ දක්ෂතාද කියලා අපිට හිතාගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම්</author>
+            <date>2014-05-13 17:16:21</date>
+            <index>97</index>
+            <phrase>ජයසිංහ, කරුණාකරලා ඔයා ලියූ දේ නැවත කියවලා බලන්න. ඔයාටම උත්තරය හමුවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්දී</author>
+            <date>2014-05-13 18:32:43</date>
+            <index>98</index>
+            <phrase>අමිල, අපේ රටෙයි අනෙක් රටවලයි තිබෙන වෙනස මොකක්ද දන්නවද? මේ රටවල අපේ රටේ තරම් මිනීමැරුම් නැති එක. මොකද මේ රටවල නීති තදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-05-14 02:10:53</date>
+            <index>99</index>
+            <phrase>"මිනීමරා ගැනිල්ල නතර කරන්න නීති රීති වලට බැහැ.......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-05-14 05:02:10</date>
+            <index>100</index>
+            <phrase>"මේ බුදුන් වැඩි දේශය නේද මිනිසුනේ" කව්ද කියන්නේ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුනු</author>
+            <date>2014-05-14 05:06:15</date>
+            <index>101</index>
+            <phrase>"මිනීමරා ගැනිල්ල නතර කරන්න නීති රීති වලට බැහැ.......!" ලස්සනට නවතී සෞව්දි අරාබියේ වගේ මහපාරට හෝ ගෝල්පේස් පිට්ටනියට ගෙනල්ල බෙල්ල කපන්න පටන් ගත්තදාට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-05-14 05:14:17</date>
+            <index>102</index>
+            <phrase>"කැලණියට මෙහෙම වුණේ ඇයි. කවුද මේ තත්ත්වය ඇති කළේ. මම දන්නේ නැති නිසා අහන්නේ." මේ තත්ත්වය ඇති වුණේ දේශපාලුවෝ කියන විදිහට රටේ බුද්ධිමත් ජනතාව නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-05-14 05:17:13</date>
+            <index>103</index>
+            <phrase>"මට නම් මගේ රටේ ඇති වී තිබෙන තත්ත්වය ගැන කණගාටුවක් දැනෙනවා". මට නම් ඔබේ රටට ඇති වී තිබෙන තත්ත්වය ගැන සන්තෝෂයක් ඇති වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-05-14 05:19:28</date>
+            <index>104</index>
+            <phrase>"අහිංසක අම්මා කෙනෙකුගේ පුතෙක් නේද?" ‍ අපි ඉතින් කොහොමද දන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-05-14 07:02:42</date>
+            <index>105</index>
+            <phrase>"වෙසක් එකට තව දවසයි" ඒ හින්දා කලින්ම එකලාසයක් කරලා ව‍ගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2014-05-14 23:14:22</date>
+            <index>106</index>
+            <phrase>මේගොල්ලන්ගේ අපිනොදන්නවට මොනවා හරි කේස් ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2014-05-15 13:30:46</date>
+            <index>107</index>
+            <phrase>ඇයි මේ හැමෝම බන්දුල පෙරේරාට බනින්නේ?එයාද දැන් වෙඩිතිබ්බේ. හැමදාම රටේ කොහේ හරි මිනිසෙක් දෙන්නෙක් තුන්දෙනෙක් මරනවා, මැරෙනවා. බන්දුල පෙරේරා ඇත්ත කිවුව නිසා එයාව පෙනෙන්න බැහැ.අපේ අයට ඇත්ත තිත්තයි ..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉයන්</author>
+            <date>2014-05-19 11:07:33</date>
+            <index>108</index>
+            <phrase>චන්ඩි වෙන්න ගිහින් අපරාදේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

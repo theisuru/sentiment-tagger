@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446093</articleId>
+    <title>චම්පිකගේ නඩුව කල් යයි</title>
+    <author>නිරංගි අබේවික්‍රම</author>
+    <date>2016 අගෝස්තු මස 10 13:33:17</date>
+    <body>ඇමැති පාඨලී චම්පික රණවක ගේ නිල රිය රාජගිරියේ දී අනතුරට ලක්වීමේ නඩුව අරුණි ආටිගල කොළඹ අතිරේක මහේස්ත්‍රාත්වරිය හමුවේ අද (10) කැඳවිණි.
+ඇමැතිගේ රියදුරු දිලුම් ප්‍රසන්න පැමිණ සිටියේය. නඩු විභාගය ලබන 31 වැනිදා තෙක් කල් තැබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-08-10 08:48:26</date>
+            <index>0</index>
+            <phrase>අනතුරක් වෙලා තියෙද්දී මෙයා නෙවේ නම් වෙන කෙනෙක් ගැන හොයන්නේ නැති එක ගැන මට නම් ප්‍රශ්නයක් ? ඒ කියන්නේ කරලා තියෙන්නේ මෙයාම වුනත් ඔප්පු කරන්ට බැරි විදිහට සාක්ෂි නැති කරලද සිසිටිවී සාක්ෂිත් ඩිලීට් වෙලාලුනේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි</author>
+            <date>2016-08-10 08:52:57</date>
+            <index>1</index>
+            <phrase>මේ නඩුව ගැන මුළු රටම බලාගෙන ඉන්නවා සාධාරණ වන්න ඔය ඇමතිතුමා හත්පොලේ ගාගෙන තියෙන්නේ ඔය සිද්ධිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-08-10 10:35:16</date>
+            <index>2</index>
+            <phrase>හැමදාම නඩුව කල් යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-08-10 11:12:43</date>
+            <index>3</index>
+            <phrase>ජනාධිපතිට පුළුවන්නේ නිදොස්කොට නිදහස් කරන්න ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-10 14:08:42</date>
+            <index>4</index>
+            <phrase>අපට අමතක වෙනකල්ම කල් යවන්නද ලෑස්තිය. ඒ වුණාට අපි අමතක කරන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

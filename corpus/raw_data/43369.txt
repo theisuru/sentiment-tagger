@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43369</articleId>
+    <title>යතුරුපැදියේ ගිය දෙන්නාම මරුට</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 මැයි මස 20 17:17:43</date>
+    <body>ගාල්ලේ පිලානේදී සිදුවූ යතුරුපැදියක් හා ට්‍රක්රියක් ගැටීමෙන් යතුරුපැදියේ ගමන් කළ දෙදෙනෙක් මරුමරුවට පත්වූහ.</body>
+    <comments>
+        <comment>
+            <author>රයිඩර්</author>
+            <date>2012-05-20 18:43:44</date>
+            <index>0</index>
+            <phrase>මේ දවස් වල මෝටර් බයික් එලවන අය පිස්සු හැදිලා වගේ එලවන්නේ , පුදුම තදියමක් . ඒක හින්ද කවුරුත් පරිස්සමින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවි</author>
+            <date>2012-05-20 19:22:00</date>
+            <index>1</index>
+            <phrase>කොයි වාහනෙත් පාරේ යන්නෙ බොහොම තදියමින්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-20 21:11:59</date>
+            <index>2</index>
+            <phrase>යතුරු පැදිය රෝද දෙකක් මත යන අවදානම් ගමනක්. රෝද හතරේ වාහනයක ඇති සුරක්ෂිත බව යතුරු පැදිවල දක්නට නැහැ.බොහෝ දෙනෙකු රෝද හතරට වඩා යතුරු පැදිවලට ප්‍රියතාවය දක්වන්නේ එය මාර්ග තදබද අවස්ථාවන්හිදී පවා පහසුවෙන් ගමන්බිමන් යෑමට හැකි නිසයි. නමුත් එබඳු අවස්ථාවන්ම ඒ යතුරු පැදිකරුවන්ට මාරක මොහොතක්වී ඇති බව ඉහත සිදුවීම අනුව පැහැදිලි වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

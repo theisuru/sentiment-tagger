@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475764</articleId>
+    <title>තිස්ස වැව පිට්ටනියක් වගේ</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2016 නොවැම්බර් මස 03 14:22:34</date>
+    <body>තිස්සමහාරාම වැව පාසි පිරී අවලස්සන වී ඇත.බැලු බැල්මට එය තණ පිටියක් සේ දිස්වෙයි.</body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-11-03 09:18:41</date>
+            <index>0</index>
+            <phrase>මෙන්න කරනවා නම් වැඩ. පස්සේ රැකියා දෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-11-03 09:31:01</date>
+            <index>1</index>
+            <phrase>දැන් බලන්නකෝ කොළඹ අසිරිය. බලන්න දුකයි. රටකට ගිය කල!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2016-11-03 11:30:15</date>
+            <index>2</index>
+            <phrase>පරිසරයට ආස කළ හිටපු ජනපති ප්‍රේමදාස මහතාගේ පුතා දැන් මේ පළාත බාරව සිටි .සජිත් මහතාණනි ,ඔබගේ කාරුණික අවධානය යොමු කර මෙහි සුන්දරත්වය රැක දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා</author>
+            <date>2016-11-03 12:35:04</date>
+            <index>3</index>
+            <phrase>ළඟදීම මේක ෆුට්බෝල් පිටියක් කරන්න බැරි වෙන එකක් නැහැ, මෙහෙම ගියොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-11-03 12:42:47</date>
+            <index>4</index>
+            <phrase>මේ පරිසර පද්ධතිය රැක දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

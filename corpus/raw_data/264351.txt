@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>264351</articleId>
+    <title>පිං අතේ වැඩ ගොඩක් කරයි</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 සැප්තැම්බර් මස 21 14:51:18</date>
+    <body> ජපානයේ ඉටොචු සමාගමට අනුබද්ධිත ක්වන්ටම් ඉන්ටිමේට් ආයතනය  15 වැනි සංවත්සරය සමරමින් හොරණ  රෝහ‍ලේ දැඩි සත්කාර ඒකකයේ  වාට්ටු අංක 8 ප්‍රතිසංස්කරණය කළේය .
+ ප්‍රතිසංස්කරණය අවසානයේදී   සංඝයාවහන්සේ 50 නමක් උදෙසා සාංඝික දානයක්ද පිරිනැමීය
+සේවකයින්  සහ ඔවුනගේ දූ දරුවන් වෙනුවෙන් බහුවිධ සායනයක් ද  ලබන 26 වැනි දා පැවැත්වේ
+ ජාත්‍යන්තර සිංහ සමාජ කිහිපයක් ඊට එක් වෙයි</body>
+    <comments>
+        <comment>
+            <author>රංගන</author>
+            <date>2014-09-22 08:57:05</date>
+            <index>0</index>
+            <phrase>අන්න හොඳ වැඩක්. රෝහලකට උදව් කරනවා කියන්නේ කියලා නිම කරන්න බැරි පිනක්. මොකද එතනට එන්නේ අසරණ වුනු මිනිස්සු නිසා. ගොඩක් පින් ඔබතුමාලට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2014-09-23 11:54:45</date>
+            <index>1</index>
+            <phrase>හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2014-09-23 19:06:39</date>
+            <index>2</index>
+            <phrase>මගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ධ්‍යා</author>
+            <date>2014-09-27 07:51:48</date>
+            <index>3</index>
+            <phrase>මේ වග අනෙත් මුදල් තියෙන අය පොතේ පතේ දාන් නැතිව පින් අතේ වැඩක් කරන පිං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංධ්‍යා</author>
+            <date>2014-09-27 08:13:01</date>
+            <index>4</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24398</articleId>
+    <title>විශ්‍රාම ශාලාවේ බෝම්බයක්</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 ජනවාරි මස 31 10:35:51</date>
+    <body>කතරගම විශ්‍රාම ශාලාවක තිබී බෝම්බ ඇඳුම් කට්ටලයක් සොයා ගත් බව පොලිසිය කියයි
+අට දෙනෙක් සැක පිට අත් අඩංගුවට ගනු ලැබූහ</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියාල්</author>
+            <date>2012-01-31 12:27:56</date>
+            <index>0</index>
+            <phrase>විවිධ බලවේග වලින් අනාගතයේ විය හැකි ව්‍යසන වලක්වා ගැනීමට සැම දෙනාගේම අවධානය යොමු වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

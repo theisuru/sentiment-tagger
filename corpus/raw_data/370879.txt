@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>370879</articleId>
+    <title>තේක්ක ගස් කැපුවාට මොරටු සබේ ළඟ බෝඩ් උස්සති</title>
+    <author>රේඛා තරංගනී ෆොන්සේකාබිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2015 දෙසැම්බර් මස 22 11:25:54</date>
+    <body>මොරටුව නගරාධිපතිට  එරෙහිව විපක්ෂ නායක කුලරත්න පිරිස් ඇතුළු පිරිසක්  නගර සභාව ඉදිරිපිට අද (22) උද්ඝෝෂණයක් පවත්වති.
+රාවතාවත්ත සුසානයේ තේක්ක ගස් කිහිපයක් කැපීම ද මේ උද්ඝෝෂණයකට හේතු වී  ඇත.
+
+ජායාරූප - බිමල් ශ්‍යාමන් ජයසිංහ</body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2015-12-22 07:41:45</date>
+            <index>0</index>
+            <phrase>ලංකාවේ වැඩ කරන හොද අවංක මනු‍සස්යෝ හොයන්න හරි අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2015-12-22 07:44:24</date>
+            <index>1</index>
+            <phrase>මේවට තමයි කියන්නේ මාධ්‍ය සංදර්ශන කියලා.පොලිසියෙන් ඔය ගස් කැපීම නැවැත්තුවේ නැත්තම් ලස්සනට වෙඩේ කෙරෙනවා ඒ වෙනකම් මේ අය නිදාගන ඉදලා දැන් පාරට ඇවිල්ල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2015-12-22 08:20:05</date>
+            <index>2</index>
+            <phrase>ගහට ගහක් මොරටුවේදී හමුවෙන එක ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2015-12-22 09:39:20</date>
+            <index>3</index>
+            <phrase>අශ්වයා ගියාට පස්සේ ස්ථාලය වහල වැඩක් තියනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

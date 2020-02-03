@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507553</articleId>
+    <title>ලක්ෂය බැගින් ඇප නියම කර සිසුන් 10 ක් මුදාහරී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 පෙබරවාරි මස 16 10:35:16</date>
+    <body>කොළඹ ආනන්ද හා නාලන්ද විදුහල්වල සිසුන් පිරිසක් අතර ගැටුමකින් පසු අත්අඩංගුවට ගත් සිසුන් 10 දෙනකු ඇප මත මුදාහැරීමට මාළිගාකන්ද මහෙස්ත්‍රාත් දුලානි වීරතුංග මහත්මිය අද (16) නියෝග කළාය. මරදාන පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබ අධිකරණයට ඉදිරිපත් කළ සිසුන් 10 දෙනකුට ඇප දීමෙන් පසු ඔවුන්ගේ දෙමාපියන් ගෙන්වා දැනුවත් කර සිසුන්ට දැඩි අවවාද කර මුදා හරින ලදි. එක් අයකුට රුපියල් ලක්ෂය බැගින්වූ ශරීර ඇප නියම කෙරිණි.</body>
+    <comments>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2017-02-16 05:26:55</date>
+            <index>0</index>
+            <phrase>මොනවා කියන්නද නම විතරයි ලොකු හැදියාව බින්දුවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-02-16 07:49:21</date>
+            <index>1</index>
+            <phrase>ලංකාවේ ලොකුම බෞද්ධ පිරිමි විද්‍යාල දෙක නේද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඈෂ්ලි</author>
+            <date>2017-02-16 08:01:16</date>
+            <index>2</index>
+            <phrase>පාරිලිමේන්තුව, පළාත් සබාව, නගර සබාව, විශ්ව විද්‍යාලය , දැන් පාසැල . ලෝකය ඉසරහට යයි , අපි පස්සට යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

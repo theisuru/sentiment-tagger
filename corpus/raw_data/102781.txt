@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>102781</articleId>
+    <title>ගල්ගමුවට සුළි සුළං</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2013 මාර්තු මස 15 10:01:57</date>
+    <body>ගල්ගමුව කරඹෑවේ සුළි සුළඟකින් බ්‍රහස්පතින්දා සවස නිවාස 30ක අලාභ වී ගස් කඩා වැටී විදුලිය ද අවහිර වී ජන ජීවිතය බරපතල ලෙස අවුල් වී ඇත. ජීවිත හානි කිසිවක් වාර්තා වී නැත.</body>
+    <comments>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-03-15 10:55:51</date>
+            <index>0</index>
+            <phrase>තවමත් අපේ රටේ හරි ප්‍රමිතියට වහළ ගහන්න දන්නෙ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2013-03-15 12:05:49</date>
+            <index>1</index>
+            <phrase>මිනිස්සු මේවා අටෝ ගන්නෙත් බොහොම අමාරුවෙන්. මෙහේ සමහරු ප්‍රමිති ගැන කතාකරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-15 12:45:13</date>
+            <index>2</index>
+            <phrase>සුනිල්, ප්‍රමිතියට වහල ගහන්න මිනිසුන්ට සල්ලිත් ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-03-15 14:48:20</date>
+            <index>3</index>
+            <phrase>දුප්පත් මිනිස්සුන්ට සාධාරණයක් ඉටුවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2013-03-15 15:40:23</date>
+            <index>4</index>
+            <phrase>සුළි සුළං සහ භූමිකම්පා වලට මොන ප්‍රමිති තිබුණත් වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිත</author>
+            <date>2013-03-15 16:10:55</date>
+            <index>5</index>
+            <phrase>සොබාදහම මේ තරම්ම මිනිසුන්ව අසරණ කල යුතු නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-16 09:27:19</date>
+            <index>6</index>
+            <phrase>බඩට නොකා හදන ගෙවල් වලට මෙහෙම වෙන්නේ ඇයිද මන්දා, බලධාරීන්ගේ අවධානය යොමු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රහීම්</author>
+            <date>2013-03-19 12:20:11</date>
+            <index>7</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

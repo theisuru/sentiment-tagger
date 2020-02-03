@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486616</articleId>
+    <title>කොළඹම ඇඟිල්ලක් ගහන්න බෑ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 දෙසැම්බර් මස 02 12:39:24</date>
+    <body>අයවැයෙන් පැනවූ මාර්ග නීති කඩකිරීමේ වැරදි හතකට පැනවූ රුපියල් 25000 දඩයට එරෙහිව වර්ජනයේ නියත ත්‍රී රෝද රියදුරන්ගේ සංවිධානයක් අද (2) ජනපති ලේකම් කාර්යාලයට සංදේශයක් බාරදීමට ත්‍රී රෝද සිය ගණනකින් ගමන් කිරීම නිසා ඇස්වාට්ටුවේ සිට කොටුව දක්වා දැඩි වාහන තදබදයක් පවතී.
+ඇස්වාට්ටුවේ සිට කොටුවට යාමට අඩු ගණනේ මිනිත්තු 45ක්වත් ගතවූ බව කිහිප දෙනෙක්ම පැවසූහ.
+ත්‍රී රෝද රිය 200ක් පමණ පුවරු ප්‍රදර්ශනය කරමින් කොටුව දෙසට ගමන් කරති.</body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-12-02 07:26:42</date>
+            <index>0</index>
+            <phrase>මොවුන්ට සංදේශය බාරදීමට ජනාධිපති කාර්යාලය දෙසට එන්න දීමෙන් සාමාන්‍ය මිනිසුන්ගේ වැඩ වලට කරදරයක් වන නිසා එය අවලංගු කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-12-02 08:01:03</date>
+            <index>1</index>
+            <phrase>අනේ ඇයි පින්තූරයක් දැම්මේ නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-12-02 08:24:15</date>
+            <index>2</index>
+            <phrase>පොලිසිය කදුළු ගෑස් ගහලා මෙයාලව නවත්වනද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-12-02 08:30:02</date>
+            <index>3</index>
+            <phrase>දඩ ගහන්නේ නීති කඩන අයට නේද? ඉතින් හරියට පාරේ ගියා නම් දඩ නැහැනේ. මේගොල්ලෝ ඉල්ලන්නේ නීති කඩන්න ඉඩ දෙන්න කියලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැමුවෙල්</author>
+            <date>2016-12-02 08:32:08</date>
+            <index>4</index>
+            <phrase>මම නම් කියන්නේ මේ දෙය හරි. මුළු රටම ත්‍රීවීර් වලින්ම පුරවන්න ඕනෑ. එතකොට කාර් තිබෙන අයට කොළඹට එන්න බැරිවෙනවා. වාහන තදබදයත් අඩු වෙනවා. ඉන්දියාව ආදර්ශයට ගමු. දියුණු වෙමු. ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-02 08:37:07</date>
+            <index>5</index>
+            <phrase>ඉවසුවා ඇති, සියලු ත්‍රී රෝද රථ කොළඹින් ඉවත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2016-12-02 08:46:30</date>
+            <index>6</index>
+            <phrase>යහපාලනේ ඉල්ලා බහුතර ඡන්දය දුන් නුඹලා විඳවපල්ලා දැන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-12-02 09:30:47</date>
+            <index>7</index>
+            <phrase>ත්‍රී වීල් යන විදියට දඩ එකට දෙකක් ගහන්න ඕනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

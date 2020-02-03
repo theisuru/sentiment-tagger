@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>474228</articleId>
+    <title>පොලිසිය මරුවා සමග වාසේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 30 09:03:28</date>
+    <body>පානදුර පොලිසියේ පැරණි ගොඩනැගිල්ලේ කොන්ක්‍රීට් තට්ටුවේ කොටසක් රාජකාරි කරමින් සිටි කොස්තාපල්ගේ හිස මතට කඩා වැටී බරපතල තුවාල ලබා රෝහල්ගතකල බව පොලිසිය කියයි.
+පාවිච්චියට නොගත යුතුයැයි නිර්දේශ කළ ගොඩනැගිල්ලක උතුරු පානදුර කෙසෙල්වත්ත පොලීසියේ තවත් නිලධරයෝ රැසක් සිටිති.
+කඩාවැටීමට ආසන්න මෙම ගොඩනැගිල්ලේ ඡායාරූපයක් ගැනීමට යෑම පවා ඉහල පොලිස් නිලධාරියෙකුගේ අනින් තහනම් කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-10-30 04:44:25</date>
+            <index>0</index>
+            <phrase>කෝ දැන් අර නිතිය නවන උන්දැ? මේවා එයාට පේන්නේ නැත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-10-30 04:53:15</date>
+            <index>1</index>
+            <phrase>දැනදැන අනතුරේ බව දන්නවනම් ඔතන සේවය කරන සැමට දෙයියන්ගේම පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-10-30 05:50:54</date>
+            <index>2</index>
+            <phrase>ඇත්ත නේන්නම් පොටෝ එක ගහනකොට ෆ්ලෑෂරේ එලියට කැමරාමන්ගේ ඔලුවටත් කෑල්ලක් වැටුනොත් කව්ද වග කියන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

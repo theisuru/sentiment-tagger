@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>132396</articleId>
+    <title>‘අල්කයිඩාවට ඇමෙරිකාව කිරි පොවලා‘</title>
+    <author>අශේන් සේනාරත්න</author>
+    <date>2013 ජූනි මස 05 10:29:42</date>
+    <body>අල් කයිඩා සංවිධානය නිර්මාණය කළේත් ඊට මූල්‍යය අනුග්‍රහය දැක්වූයේත් ඇමරිකාව බව එක්සත් ජනපද රාජ්‍ය ලේකම් හිලරි ක්ලින්ටන් ප්‍රකාශ කරන වීඩියෝ පටයක් ලොව පුරා ප්‍රචලිත වෙමින් පවතියි.
+ඉහත වීඩියෝ පටය සී.එන්.එන් ප්‍රවෘතියක කොටසක් වන අතර එය යූ ටියුබ් වෙබ් අඩවිට‍ මුදා හැරීමෙන් පසු ලොව පුරා පැතිර ගොස් ඇත.
+එහි ඇය කියා සිටින්නේ සෝවියට් තර්ජනය හමුවේ සෝවියට් හිතවාදී ඇෆ්ගනිස්ථානයේ ආණ්ඩුවට එරෙහිව සටන් වැදීම සඳහා වසර 30කට කලින් අල් කයිඩා ත්‍රස්ත සංවිධානය පිහිටවූ බවයි.
+රේගන් ජනාධිපතිවරයා කොංග්‍රසයේ සහයද ඇතිව මෙම කටයුත්තට මැදිහත් වූ බව ඇය පිළිගනී.</body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-06-05 11:19:42</date>
+            <index>0</index>
+            <phrase>කොටින්ට කිරි පොවලා ඊළඟට කන්නේ උන්ගෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-06-05 12:16:06</date>
+            <index>1</index>
+            <phrase>බළලා මල්ලෙන් එළියට පනියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදරුවන්</author>
+            <date>2013-06-05 15:35:59</date>
+            <index>2</index>
+            <phrase>ඉර හද හා සත්‍ය දීර්ඝ කාලයක් ලොවෙන් වසන් කළ නොහැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2013-06-05 15:38:50</date>
+            <index>3</index>
+            <phrase>ඉර හඳ සහ සත්‍යය දීර්ගකාලයක් ලොවෙන් වසන්කළ නොහැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිරාම්</author>
+            <date>2013-06-05 15:52:19</date>
+            <index>4</index>
+            <phrase>ඇමරිකාව කවද්ද ලෝකෙට හොද දෙයක් කලේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරුක්</author>
+            <date>2013-06-05 18:46:56</date>
+            <index>5</index>
+            <phrase>මොකද්ද මේ කතාවේ තේරුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2013-06-05 20:53:06</date>
+            <index>6</index>
+            <phrase>එල්.‍ටී.ටී එකටත් කොහොම හරි කිරි පොවා ශක්තිමත් කරන්න. එතකොට තව අවුරුදු 30 පස්සේ කනවෝ කනවෝ කිය කියා ලෝකය වටේ දුවමින් ලෝකේ පෙරලන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල්</author>
+            <date>2013-06-06 00:24:35</date>
+            <index>7</index>
+            <phrase>අපේ අහවල් මහත්තයත් දැන් කියයිද මන්දා එල් ටී ටී යී එක හැදුවේ ඒගොල්ලෝ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

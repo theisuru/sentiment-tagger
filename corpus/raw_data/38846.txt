@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38846</articleId>
+    <title>ලන්ඩන් මහ කමිසුරුට ආසියා සම්මානය</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 25 10:55:17</date>
+    <body>2012 වසරේ ආසියාවේ තානාපති ලෙස ලන්ඩනයේ සිටින ශ්‍රී ලංකා මහ කොමසාරිස් දොස්තර ක‍්‍රිස් නෝනිස් සම්මාන ලැබීය. අඟහරුවාදා ලන්ඩන් නුවර ලැංහැම් හෝටලයේ පැවැති දැකුම්කළු උළෙලේ දී ඔහුට මෙම සම්මානය පුද කැරිණි. ලන්ඩනයේ සිටින තානාපතිවරු හා මහ කොමසාරිස්වරු 85 දෙනෙක් එක්ව මේ උත්සවයට ආහ.
+”ඩිප්ලොමට්” සඟරාව වසරක් පාසා ලන්ඩනයේ වෙසෙන රාජ්‍ය තාන්ත‍්‍රික නිලදරයන්ගේ ඡන්දයෙන් වසරේ විශිෂ්ටතම තානාපති තෝරා ගැනේ. මෙම ජනප‍්‍රිය සම්මානය හිමිවීම ගැන සොම්නස් සහගතව මවිත වූ බව දොස්තර නෝනිස් කියයි.</body>
+    <comments>
+        <comment>
+            <author>රමනි</author>
+            <date>2012-04-25 16:23:25</date>
+            <index>0</index>
+            <phrase>ගොඩක් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද මංගල හිමි</author>
+            <date>2012-04-26 11:17:19</date>
+            <index>1</index>
+            <phrase>කලකට පසු ඒංගලන්තයට ලැබුනු දක්ෂ ශ්‍රී ලාංකා මහා කොමසාරිස් තුමාට සුභ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-04-26 11:40:55</date>
+            <index>2</index>
+            <phrase>සුදුස්සන් සුදුසු සෑම තනතුරකටම පත්කළ යුතුයි, අපේ සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

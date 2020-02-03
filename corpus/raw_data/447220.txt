@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447220</articleId>
+    <title>දුම්රියට ගැසූ ගලක් වැදී තව මගියකු රෝහලට</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 අගෝස්තු මස 12 14:26:18</date>
+    <body>මඩකලපුව - කොළඹ මීනගයා දුම්රියට වාලච්චේන හා පුනානි දුම්රිය ස්ථාන අතර පිහිටි ඕට්ටමාවඩි පාලම අසල දී පෙර දින රාත්‍රියේ ගැසූ ගල් පහරකින් මගියකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කරනු ලැබීය.
+දුම්රියට ගැසූ ගල් වැදී මෑතදී තිදෙනකු තුවාල ලැබූ අතර නියෝජ්‍ය අධ්‍යාපන අධ්‍යක්ෂවරයකු මිය ගියේය.</body>
+    <comments>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-08-13 06:52:09</date>
+            <index>0</index>
+            <phrase>මේවා කවුරු කරනවා ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-08-13 07:28:18</date>
+            <index>1</index>
+            <phrase>වේගයෙන් ගමන් කරන දුම්රියට විරුද්ධ අතට ගලක් වැදුනත් සිදුවෙන ප්‍රතිඵලය භයානකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිප්</author>
+            <date>2016-08-13 16:31:06</date>
+            <index>2</index>
+            <phrase>අවිස්සාවේල්ල මාර්ගයේ නාවින්න හා මහරගම දුම්රිය ස්ථාන අතරත් මෙය කලක සිට සිදුවෙනවා. මාද පෞද්ගලිකවම අනතුරකට මුහුණදුන් අයෙක්. දුම්රිය ආරක්ෂක අංශ වලට හා දුම්රිය ස්ථාන වලට මෙන්ම පොලිසියට පැමිණිලි කළත් කිසිදු ප්‍රගතියක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>474384</articleId>
+    <title>කාසල්රි ජල මට්ටම පහතට</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2016 ඔක්තෝබර් මස 30 17:05:33</date>
+    <body>ජාතික විදුලි බලපද්ධතියට ජල විදුලි උත්පාදනයට විමලසුරේන්ද්‍ර, ලක්‍ෂපාන, නව ලක්‍ෂපාන, පොල්පිටිය යන ජල විදුලි බලාගාර වලට ප‍්‍රධාන වශයෙන් ජලය සපයන කාසල්රි ජලාශයේ ජල මට්ටම පිටාර මට්ටමේ සිට අඩි 15 දක්වා පහළ බැස ඇතැයි විදුලි බල මණ්ඩලය පවසයි.
+එම ජලාශයට ප‍්‍රධාන වශයෙන් ජලය සපයන කෙසෙල්ගමුඔය ඇතුළු ජල පෝෂක ප‍්‍රදේශවල මේ දිනවල පවතින වියළි කාලගුණයත් සමග ජලාශයේ ජල මට්ටම අඩුවි ඇතැයි කියති.
+පවතින ජල මට්ටමත් සමග විමලසුරේන්ද්‍ර ජල විදුලි බලාගාරයේ  එක් විදුලි ජනක යන්ත‍්‍රයක පමණක් විදුලිය උත්පාදනය කරන බව විදුලි බලමණ්ඩලය සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-30 22:08:43</date>
+            <index>0</index>
+            <phrase>දේවෝ වස්සතු කාලෙන.....! රාජා .......කෝ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-10-31 01:23:22</date>
+            <index>1</index>
+            <phrase>දැන් ජල පෝෂක ප්‍රදේශ වලට වෙන දේවල් වලට ජලය හිගයි තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2016-10-31 18:49:54</date>
+            <index>2</index>
+            <phrase>අපි තව කැලෑ එහෙම කපමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

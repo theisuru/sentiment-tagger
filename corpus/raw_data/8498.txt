@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>8498</articleId>
+    <title>සංජය ලීලාරත්න ලංකාවේ නම තියයි</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2011 ඔක්තෝබර් මස 11 14:37:40</date>
+    <body>මලයාසියාවේ ක්වාලලම්පුර් අගනුවර පැවැති යු.ඩී.සී. චිත‍්‍රපට උළෙලේ දී ලොව නැඟී එන හොඳම චිත‍්‍රපට අධ්‍යක්ෂ ලෙස සම්මාන දිනූ ‘සෙල්වම්’ අධ්‍යක්ෂ  සංජය ලීලාරත්න එහි නිෂ්පාදක මොහොමඩ් මුජායිස් අද (11) දිවයිනට පැමිණියේය. රටවල් 18ක් මේ  තරගයට ඉදිරිපත්වී සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2011-10-11 16:21:06</date>
+            <index>0</index>
+            <phrase>සංජය ඔබේ සියඵ දේ යහපත්වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර සිල්වා</author>
+            <date>2011-10-11 16:41:52</date>
+            <index>1</index>
+            <phrase>සියලු කටයුතු සපඵ වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2011-10-11 17:58:28</date>
+            <index>2</index>
+            <phrase>විශිෂ්ඨයි ගුරුතුමනි සුබ පැතුම් ඔබ අපුරු අධ්‍යක්ෂවරයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත් කණහැර ආරච්චි</author>
+            <date>2011-10-11 18:18:50</date>
+            <index>3</index>
+            <phrase>සුබ අනාගතයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

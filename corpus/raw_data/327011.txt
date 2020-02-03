@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>327011</articleId>
+    <title>බොදු බලෙන් අදත් පැමිණිල්ලක්</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2015 ජූනි මස 24 10:51:49</date>
+    <body>ආහාර සම්බන්ධයෙන් ඇතිවී ඇති බලපෑම් සම්බන්ධයෙන් පැමිණිල්ලක් සිදුකිරීමට බොදු බල සේනාවේ හිමිවරු අද (24) කොළඹ පාරිභෝගික කටයුතු අධිකාරියට පැමිණියහ.
+බොදු බල සේනාවේ මහ ලේකම් ගලගොඩඅත්තේ ඥානසාර සහ විතාරන්දෙණියේ නන්ද යන හිමිවරු ඇතුළු පිරිසක් අද පෙරවරුවේ එහි ගියහ.</body>
+    <comments>
+        <comment>
+            <author>තිසේරා</author>
+            <date>2015-06-24 10:30:19</date>
+            <index>0</index>
+            <phrase>තෙරුවන් සරණයි අපේ හාමුදුරුවනේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්</author>
+            <date>2015-06-24 14:32:33</date>
+            <index>1</index>
+            <phrase>මිනිස්සු ගැන අනුකම්පාවක් තියෙන්නේ මේ හාමුදුරුවන්ට පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගවුස්</author>
+            <date>2015-06-28 06:32:18</date>
+            <index>2</index>
+            <phrase>අරක්කුවලටයි කසිප්පුවලටයි විරුද්දව කවදා පැමිණිලි දායිද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දරේ</author>
+            <date>2015-07-07 19:07:04</date>
+            <index>3</index>
+            <phrase>අනේ ඕවා හොඳ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

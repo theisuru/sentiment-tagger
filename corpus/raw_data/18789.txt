@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18789</articleId>
+    <title>මැනිං මාකට්ටුවත් පෑලියගොඩට</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 දෙසැම්බර් මස 22 11:57:43</date>
+    <body>කොළඹ මැනිං වෙළෙඳ පොළ පෑලියගොඩට ගෙන යෑමට ඇමැති මණ්ඩල අනුමැතිය ලැබේ.</body>
+    <comments>
+        <comment>
+            <author>ඉන්දිකා</author>
+            <date>2011-12-22 11:57:12</date>
+            <index>0</index>
+            <phrase>මේක හොද දෙයක්. අපි නිකන් නාස්ති කරනවා මේ වගේ වටිනා ස්ථාන තබාගෙනත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමේ කොල්ලා</author>
+            <date>2011-12-22 12:00:57</date>
+            <index>1</index>
+            <phrase>අනේ අපූරුයි ලොකු දෙයක් ඕවා අයින් කරලා කොළඹ ලස්සන කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැමී</author>
+            <date>2011-12-22 12:12:23</date>
+            <index>2</index>
+            <phrase>මේකෙන් ගොඩාක් උපයන්න පුලුවන් වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2011-12-22 12:32:02</date>
+            <index>3</index>
+            <phrase>වැඩේ හොදයි. ඒත් මෙතන ගොඩක් ප්‍රායෝගික ප්‍රශ්න ඇති වෙන්න පුළුවන්. කොළඹ ලස්සන වියයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2011-12-22 12:32:14</date>
+            <index>4</index>
+            <phrase>වැඩේ හොදයි. ඒත් මෙතන ගොඩක් ප්‍රායෝගික ගැටළු ඇතිවෙන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2011-12-22 12:34:15</date>
+            <index>5</index>
+            <phrase>සමහර දේශපාලනඥයන්ට සතුටු ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන පෙරේරා</author>
+            <date>2011-12-22 12:36:33</date>
+            <index>6</index>
+            <phrase>පිරිසිදු එළවළු ලන්න එතන හොද සුපිරි වෙළදසලක් හදන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2011-12-22 12:37:40</date>
+            <index>7</index>
+            <phrase>අනිවාර්යෙන්ම කරන්න ඕන වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2011-12-22 13:06:42</date>
+            <index>8</index>
+            <phrase>මේකේ මොකක් හරි යටි අරුතක් ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2011-12-22 13:10:04</date>
+            <index>9</index>
+            <phrase>පදිකවේදිකාවේ තියන කඩ ටිකත් වෙන තැනකට ගෙනියනව නම් හොදයි. මිනිසුන්ට නිදහසේ පාරේ යන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමිල</author>
+            <date>2011-12-22 13:18:28</date>
+            <index>10</index>
+            <phrase>පරක්කු වෙලා හරි ගත්තු හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ල</author>
+            <date>2011-12-22 13:31:03</date>
+            <index>11</index>
+            <phrase>හොඳ වැඩක්. පිටකොටුවේ වාහන තදබදෙත් අඩුවෙයි. එත් එක්කම සමහර දේශපාලනඥයන්ගේ සතුටුත් ඇති මේක අහලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩ්</author>
+            <date>2011-12-22 13:48:22</date>
+            <index>12</index>
+            <phrase>ප්ලාස්ටික් කූඩ වගේ අවුල් කරගන්නෙ නැතිව කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් කිත්සිරි</author>
+            <date>2011-12-22 13:49:26</date>
+            <index>13</index>
+            <phrase>සමහර දේශපාලනඥයන්ට සතුටු ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>dalu banda</author>
+            <date>2011-12-22 14:11:27</date>
+            <index>14</index>
+            <phrase>දේශපාලනඥයන්ට වෙන වැඩත් කරගන්න පුළුවන් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2011-12-22 14:24:16</date>
+            <index>15</index>
+            <phrase>සුජීව, ඔව් ඒකේ යටි අරුතක් තියනවා. ඒක තමයි එම ඉඩෙන් වැඩක් ගන්න එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන් - සෞදිඅරාබිය</author>
+            <date>2011-12-22 14:40:29</date>
+            <index>16</index>
+            <phrase>පරණ එකේ අයිතිය කාට යයිද දන්නෙ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2011-12-22 14:40:31</date>
+            <index>17</index>
+            <phrase>විපක්ෂයට මේකත් මාතෘකාවක් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Raja</author>
+            <date>2011-12-22 14:41:52</date>
+            <index>18</index>
+            <phrase>මේකෙන් වැරදි වැඩ ගන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2011-12-22 14:44:32</date>
+            <index>19</index>
+            <phrase>හොඳ වැඩක් නමුත් ප්ලාස්ටික් කූඩ වැඩේ වගේ නැතුව පිළිවෙලට සැමට සාධාරණයක් වන අයුරින් ක්‍රියාත්මක කරන්න.අගනුවර ලස්සන කර වාහන තදබදය අඩුවුනාම මහජනතාවටමය් පහසුව..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2011-12-22 15:19:36</date>
+            <index>20</index>
+            <phrase>බොහොම හොදයි. කොළඹින් දකුණට හරි මාළඹේ, අතුරුගිරිය පැත්තට හරි, තව මාකට් එකක් දානව නම් වාහන තදබදය බෙදිල යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක විතානගේ</author>
+            <date>2012-01-02 19:06:56</date>
+            <index>21</index>
+            <phrase>වැඩේ හොද දෙයක් නමුත් ගැටළු අවම වෙන විදිහට හොද සැලැස්මක් ඇතුව කරන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

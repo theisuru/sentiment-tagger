@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>476634</articleId>
+    <title>කුඩු කිලෝ දෙකට දස වසරයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 06 16:14:34</date>
+    <body>චෙන්නායි ගුවන් තොටුපලදී 2010 දී කිලෝ දෙකක හෙරෝයින් මත් කුඩු සමඟ අත්අඩංගුවට ගත් මොහොමඩ් රිකාස්ට චෙන්නායි අධිකරණයෙන් දස වසරක සිර දඩුවමක් හා ඉන්දියා රුපියල් දෙලක්ෂයක දඩ නියම කළ බව ටයිම්ස් ඔෆ් ඉන්දියා පුවත්පත කියයි.
+රිකාස් ශ්‍රී ලංකීකයකි. මත් කුඩු සමඟ ඔහු සමඟ කොළඹ එමින් සිටි තවත් ලංකීකයෝ දෙදෙනෙක් නිදහස් කරනු ලැබූහ.
+තිළිණි ද සිල්වා
+ </body>
+    <comments>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-11-06 11:19:22</date>
+            <index>0</index>
+            <phrase>අර පිලිපීනෙ වගේ කරන්න ඕනේ හිරගේ අතුලේදීම වෙඩි තියලා මරණ නීතියක් සම්පාදනය කරන්නයි ...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-07 00:54:17</date>
+            <index>1</index>
+            <phrase>අපේ රටේ නම් කුඩු කන්ටේනර් ප්‍රමාණයෙන් ගෙන්වූ අයට ඉහළම තනතුරු වගේම ආරක්ෂාවත් ලැබුනා. මොහුට පාර වැරදිලාද කොහේද ඉන්දියාවට ගිහින් තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබ්දුල්</author>
+            <date>2016-11-07 09:35:28</date>
+            <index>2</index>
+            <phrase>මත්කුඩු වලට නම් උපරිම දඬුවම් හිමිවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

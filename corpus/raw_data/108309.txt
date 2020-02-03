@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>108309</articleId>
+    <title>තමිල්නාඩු කලාකරුවන්ට ලක් කලාකරුවන්ගෙන් උත්තර</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2013 අපේ‍්‍රල් මස 11 20:41:57</date>
+    <body>ඉන්දියාවේ තමිල්නාඩු නළු නිළියන් පිරිසක් එක්ව පසුගිය දා  ශ්‍රී ලංකාවට එරෙහිව එරට දී  සිදු කළ උපවාසයට  විරෝධය දක්වමින් ශ්‍රී ලංකා කලාකරුවන්ගේ සංගමය සංවිධානය කළ අධිෂ්ඨාන පූජාවක් කොළඹ නිදහස් චතුරශ්‍රයේ දී අද සවස පැවැත්විණි. මාලනී පොන්සේකා, රවීන්ද්‍ර රන්දෙණිය, ගීතා කුමාරසිංහ ඇතුළු ප්‍රවීන නළු නිළියෝ රැසක්ම මෙම අවස්ථාවට එක් වූහ. සිංහල, දෙමළ, හින්දි හා ඉංග්‍රීසි භෂින් අධිෂ්ඨාන වදන් කිවූහ.</body>
+    <comments>
+        <comment>
+            <author>රන්ජි</author>
+            <date>2013-04-13 04:58:08</date>
+            <index>0</index>
+            <phrase>හරි ප්‍රශ්ණයක් වෙලා තියෙන්නේ. චෙන්නායි වල ඉන්දීය කලාකරුවෝ බය වෙලා. රගපාන්න කට්ටිය නැතුව සිනමා කර්මාන්තය කඩා වැටිලලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2013-04-13 11:11:45</date>
+            <index>1</index>
+            <phrase>හොද වැඩක් තමයි. හැබැයි මේක හොදට අර්ථවත් වෙන්නේ අපි ඉන්දියානු චිත්‍රපටි බැලීම නැවැත්‍තුවොත් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2013-04-13 14:19:47</date>
+            <index>2</index>
+            <phrase>ලස්සන පින්තූර ටික.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

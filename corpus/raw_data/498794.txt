@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>498794</articleId>
+    <title>සීමා නිර්ණ වාර්තාවට එජාප නියෝජිතයා සඳුදා අත්සන් කරයි</title>
+    <author>ජයන්ත සමරකෝන්</author>
+    <date>2017 ජනවාරි මස 15 15:33:35</date>
+    <body>පළාත් පාලන කොට්ඨාස සීමා නිර්ණ අභියාචනා කමිටුවේ අවසන් වාර්තාවට එක්සත් ජාතික පක්ෂයේ නියෝජිත ඒ.එස්.එම්.මිස්බර් මහතා අත්සන් කිරීම සඳුදා (16) සිදුකරන බව කමිටු සභාපති අශෝක පීරිස් මහතා පැවසීය. ඒ අනුව සීමා නිර්ණ වාර්තාව මේ මස 17 වැනිදා පළාත් පාලන හා පළාත් සභා ඇමැති ෆයිසර් මුස්තාපා මහතාට බාරදීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2017-01-15 10:39:49</date>
+            <index>0</index>
+            <phrase>අපි මොක්කු කියලද මුන් හිතන් ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2017-01-15 11:37:29</date>
+            <index>1</index>
+            <phrase>කියූ දේ ඒ අයුරින්ම ඉටු කරන, කලට වෙලාවට අකුරට රාජකාරිය කරන ෆයිසර් ගරු ඇමතිතුමාට ශුද්ධ වූ අල්ලා දෙවියන් වහන්සේගේ ආශීර්වාදය නිබඳව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2017-01-15 16:34:40</date>
+            <index>2</index>
+            <phrase>මොකද මෙච්චර කල්ගත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2017-01-15 16:37:20</date>
+            <index>3</index>
+            <phrase>අසෝක පීරිස් වගේ කොන්ද පන තියන සිංහලයෝ 10 දෙනෙක්වත් මේ රටේ හිටියා නම් මේ සිංහලයා මෙච්චර අගාධයට යන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-01-15 18:48:45</date>
+            <index>4</index>
+            <phrase>තව කල්අරන් හිමින් කළා නම් මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2017-01-15 19:18:55</date>
+            <index>5</index>
+            <phrase>නියමයිනේ! අනේ මගේ කට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-15 20:00:20</date>
+            <index>6</index>
+            <phrase>කොහේ ගිහින් හිටියද මෙච්චරකල්? මෙවැනි මිනිසුන්ට ජනතාව නිසි පිළිතුරු දේවි, එන ධන්දයේදී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2017-01-15 23:53:21</date>
+            <index>7</index>
+            <phrase>මේ වාර්තාවට අත්සන් කිරීමට මෙච්චර කල් ගන්නවා නම් වෙන වැඩකට කොහොම කල් ගනීද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2017-01-16 02:50:53</date>
+            <index>8</index>
+            <phrase>අලුත් සීමා ජනතාවට බලාගන්න ප්‍රසිද්ධ කරන්නේ කොහේද කවදාද කියා කවුරුහරි දන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2017-01-16 03:35:45</date>
+            <index>9</index>
+            <phrase>මේ මාසේ අග විතර ඕක කළා නම් හොඳයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2017-01-16 10:56:00</date>
+            <index>10</index>
+            <phrase>ඕක අත්සන් කරන්න මොකෝ ප්‍රමාද අත පය වෙවුලනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

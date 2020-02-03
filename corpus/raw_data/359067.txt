@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>359067</articleId>
+    <title>කුරුණෑගල ඒදණ්ඩාවල ආරණ්‍යය සේනාසනයේ කඨින පිංකම</title>
+    <author>විඩියෝ ගයාන් අමරසේකර</author>
+    <date>2015 නොවැම්බර් මස 05 18:01:32</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>චම්පික</author>
+            <date>2016-01-20 06:16:12</date>
+            <index>0</index>
+            <phrase>බොහොම පින් පිරෙන අවස්ථාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>127508</articleId>
+    <title>සම්බෝධි පෙරහර විදි සංචාරයේ</title>
+    <author>සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2013 මැයි මස 25 22:04:23</date>
+    <body>වෙසක් පොහෝය නිමිත්තෙන් කොළඹ සම්බෝධි විහාරයේ පෙරහර අද විදි සංචාරය කළේය. ආරක්ෂක ලේකම් ගෝඨාභය රාජපක්ෂ මහතා සධාතකු කරඬුව මංගල හස්තිරාජයා මත තැබීමෙන් පසු පෙරහැර ආරම්භ කෙරිණි.
+
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>උවජිත්</author>
+            <date>2013-05-25 23:29:08</date>
+            <index>0</index>
+            <phrase>සාදු සාදු සාදු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ.</author>
+            <date>2013-05-25 23:33:20</date>
+            <index>1</index>
+            <phrase>සාදු! සාදු!! සාදු!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-05-26 02:08:08</date>
+            <index>2</index>
+            <phrase>අලි පවු දමිවැල්වලින් ගැටගහලා කැලේ තියෙන නිදහස උන්ට නෑ. සත්ව හිංසාව කියන්නේ මේවාට තමයි. බෞද්ධයින් ලෙස අපි මේවාට විරුද්ධ විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-05-26 03:07:50</date>
+            <index>3</index>
+            <phrase>සම්බෝධි විහාරයෙන් මහඟු සේවාවක් බුද්ධ සාසනය වෙනුවෙන් කෙරෙනවා. මේ තවත් අංගයක්. සාදු සාදු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජේශ්</author>
+            <date>2013-05-26 07:31:51</date>
+            <index>4</index>
+            <phrase>අපි නම් මේ වැඩේ ඉහළින්ම පිළිගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජිත</author>
+            <date>2013-05-26 08:34:33</date>
+            <index>5</index>
+            <phrase>ඉතා විශිෂ්ටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල ප්‍රියංකර</author>
+            <date>2013-05-26 09:07:33</date>
+            <index>6</index>
+            <phrase>ගරු මැතිදුනි මේ පින් බලයෙන් ඔබ තුමා මේ රටේ මීළඟ ජනාදිපති වේවා. මගේ පරම පැතුමයි. ඔබට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-05-26 10:04:31</date>
+            <index>7</index>
+            <phrase>බුදු සරණයි ඔබ සැමටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් ප්‍රියංකර</author>
+            <date>2013-05-26 11:26:45</date>
+            <index>8</index>
+            <phrase>සහන්, වනන්තරේ අලි තමා වැඩිපුර පීඩාවට පත් වන්නේ.වෙඩි තියනවා නැත්නම් හක්කපටස්. මෙතන අලින්ගේ ජීවිතේ රැකෙනවා කිසිම සත්ව හිංසාවක් නැහැ.අලි පෙරහරේ යන එකට නෙමෙයි, සතුන් මරණ එකට විරුද්ධ වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2013-05-26 12:35:43</date>
+            <index>9</index>
+            <phrase>ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුවිසල් රන්දෙනිය</author>
+            <date>2013-05-26 14:58:54</date>
+            <index>10</index>
+            <phrase>එහෙන් ගිනි තියා ගන්නවා මෙහෙන් අලුතින් පෙරහැර පටන්ගන්නවා. 2013 මේ වෙසක් කාලය ඉතිහාස ගතවෙයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහවැලි</author>
+            <date>2013-05-26 21:20:58</date>
+            <index>11</index>
+            <phrase>කෝ මේ අපේ සරත් ෆොන්සේකා මැතිතුමා සහ සරත් නන්ද සිල්වා මැතිතුමා යන ප්‍රදාන දායක උපාසක ඇත්තෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

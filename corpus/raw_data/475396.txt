@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475396</articleId>
+    <title>‘ශ්‍රී ලංකා පොදුජන පෙරමුණ‘ බිහිවෙයි : නායකයා තාම නෑ</title>
+    <author></author>
+    <date>2016 නොවැම්බර් මස 02 13:22:42</date>
+    <body>‘ශ්‍රී ලංකා පොදුජන පෙරමුණ‘ නමින් නව පක්ෂයක් මැතිවරණ කොමිසමේ ලියාපදිංචි කළ බවත් එහි සභාපතිත්වය පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය ජී.එල්.පීරිස් මහතා දරණ බවත් ඒකාබද්ධ විපක්ෂයේ නායකයකු කියයි.
+නම හෙළි නොකිරීමේ පදනම යටතේ ඔහු කියා සිටියේ පක්ෂයක් ලියාපදිංචි කිරීමේ අවශ්‍යතාවය අනුව මේ පියවර ගත් බවයි.
+නව පක්ෂයට නායකයකු තවම පත්කර නැතැයි ද ඔහු කීවේය. එහි ලේකම් නීතිඥ සාගර කාරියවසම් මහතාය.
+නව පක්ෂයේ නායකයා බොහෝ දුරට හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා විය හැකි බවත් මේ පක්ෂය ඒකාබද්ධ විපක්ෂය වෙනුවෙන් පිහිටවූ බවත් දේශපාලන ආරංචි කියයි.
+නව පක්ෂයේ ලාංඡනය මල් පොහොට්ටුවයි.
+මෙම පක්ෂය හිටපු ජනපති මහින්ද රාජපක්ෂ මහතාගේ උපන් දිනය යෙදෙන නොවැම්බර් 18 වැනිදා අනුරාධපුරයේ දී එළි දැක්වීමට නියමිත බව ද දේශපාලන ආරංචි සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-11-02 08:10:32</date>
+            <index>0</index>
+            <phrase>ජය වේවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-11-02 08:12:24</date>
+            <index>1</index>
+            <phrase>කන්දක් විළිලා මී පැටියෙකු වැදූ වගයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-02 08:18:48</date>
+            <index>2</index>
+            <phrase>රට ජාතිය ආගම රැකගැනීම නව පක්ෂයේ මූලික අරමුණ වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොඩන්ගොඩ ආනන්ද</author>
+            <date>2016-11-02 08:26:12</date>
+            <index>3</index>
+            <phrase>රට යන ප්‍රපාතයෙන් ගොඩ ගැනීමට මෙම නව පක්ෂයට බලය දිරිය ලැබේවා පතමි , මාගේ සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරනායක</author>
+            <date>2016-11-02 08:26:33</date>
+            <index>4</index>
+            <phrase>අපගේ හද පිරි උණුසුම් සුභපැතුම් මහින්ද මහතාණෙනි, ඔබට සිහල ජාතිය වෙනුවෙන් ගියවර කළ වැඩ කොටසට වැඩි වැඩක් කිරීමට ආණ්ඩුව නිර්මාණය කර ඇත. ජාතිය වෙනුවෙන් වගකීම කරට ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ්</author>
+            <date>2016-11-02 08:32:02</date>
+            <index>5</index>
+            <phrase>ලාංචනය පොපි මල් පොහොට්ටුව නම් හොඳට ගැලපෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැක්ස්</author>
+            <date>2016-11-02 08:34:31</date>
+            <index>6</index>
+            <phrase>හෙට එච්චර කලුවර නෑ! ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදිප් ක්‍රිෂාන්ත</author>
+            <date>2016-11-02 08:40:52</date>
+            <index>7</index>
+            <phrase>ඔන්න අව දැන් වැඩ පටන්ගමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසිරි</author>
+            <date>2016-11-02 08:52:31</date>
+            <index>8</index>
+            <phrase>ජනතා විමුකිති පෙරමුණට පසු ලංකාවෙන්ම වැඩිම ජන්ද ප්‍රමාණයක් අරගෙන සිව්වැනි බලවේගය ලෙස මේ පක්ෂය ලංකා ඉතිහාසයේ කාලයක් බැබළෙනු ඇත. සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2016-11-02 08:54:19</date>
+            <index>9</index>
+            <phrase>මෙම රජය අවුල් ගොඩකි .බලාපොරොත්තු දියවී ඇත .නව පාලනයක් ඇතිවිය යුතුය .කෙසේවෙතත් දැන් වැටී ඇති වලෙන් ගොඩ ඒම නම් ලෙහෙසි නොවනු ඇත .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-11-02 08:58:28</date>
+            <index>10</index>
+            <phrase>රට බේරාදුන් ඔබ සමග සැමදා අපි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-11-02 09:04:36</date>
+            <index>11</index>
+            <phrase>ජය ජය ජයම වේවා! රට ජාතියට අත්වී තිබෙන අවාසනාවෙන් බේරා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2016-11-02 09:07:15</date>
+            <index>12</index>
+            <phrase>ජනතාව බලාසිටි දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-11-02 09:09:10</date>
+            <index>13</index>
+            <phrase>තණ්හාය ජායතී සෝකෝ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-11-02 09:10:00</date>
+            <index>14</index>
+            <phrase>අපිට තියෙන ආදරයටනේ ඉතින් ඔය සේරම කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමු</author>
+            <date>2016-11-02 09:12:49</date>
+            <index>15</index>
+            <phrase>ජයම වේවා උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-11-02 09:13:03</date>
+            <index>16</index>
+            <phrase>ඔය මොන මලෙන් ආවත් ආයි බලයට එනවා බොරු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-11-02 09:24:23</date>
+            <index>17</index>
+            <phrase>ජයවේවා අපි සැමදා ඔබ සමඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2016-11-02 10:22:54</date>
+            <index>18</index>
+            <phrase>තණ්හාය ජායතී සෝකෝ!!! අපිට තියෙන ආදරයටනේ ඉතින් ඔය සේරම කරන්නේ, ඔය මොන මලෙන් ආවත් ආයි බලයට එනවා බොරු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රණසිංහ</author>
+            <date>2016-11-02 10:29:50</date>
+            <index>19</index>
+            <phrase>ජයවේවා! නව යුගයක පෙරනිමිති, මගේ රටට දළදා හාමුදුවන්ගේ සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-11-02 10:36:22</date>
+            <index>20</index>
+            <phrase>නොදන්නා යකාට වඩා දන්න යකා හොදයි !! මගෙනුත් සුභ පැතුම් !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන - ඔස්ට්‍රේලියා</author>
+            <date>2016-11-02 10:36:47</date>
+            <index>21</index>
+            <phrase>තණ්හාවක මහත. දැන් ඉතින් රට පුළුවන් තරම් අවුල් කරන්න බලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-11-02 10:44:18</date>
+            <index>22</index>
+            <phrase>උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-11-02 10:48:48</date>
+            <index>23</index>
+            <phrase>මහින්ද මැතිදුනි, ඔබයි අපේ අනාගත බලාපොරොත්තුව.රට බේරා ගන්න පෙරට එන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-11-02 10:51:47</date>
+            <index>24</index>
+            <phrase>ජය වේවා . රටේ සංවර්දනය වේගවත් කරන්න , බදු බර නැතිකරන්න ඔබලාට ශක්තිය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ පෙරේරා</author>
+            <date>2016-11-02 10:59:05</date>
+            <index>25</index>
+            <phrase>පොහොට්ටුවම තමා, කවමදාවත් පිපෙන්නේනම් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිව</author>
+            <date>2016-11-02 11:20:41</date>
+            <index>26</index>
+            <phrase>උණුසුම් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජ්</author>
+            <date>2016-11-02 11:22:34</date>
+            <index>27</index>
+            <phrase>මගේ රටට දළදා සමිඳු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නජීව</author>
+            <date>2016-11-02 11:22:34</date>
+            <index>28</index>
+            <phrase>උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2016-11-02 11:34:22</date>
+            <index>29</index>
+            <phrase>චන්දන ඔස්ට්‍රේලියාවටම වෙලා ඉන්න අවුල් වෙන්නේ නැතුව. ප්‍රභාකරන්ගේ දුක්ගන්නා රාලලා තාමත් අඩුවක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-11-02 11:37:03</date>
+            <index>30</index>
+            <phrase>බණ්ඩාරණායක මහත්ත එ.ජා.ප. යෙන් කැඩිල අැවිත් ශ්‍රී.ල. නි.ප.ය පිහිටෙව්ව.මෙෙත්‍රී මහත්තය නැවත එ.ජා.ප.ය සමඟ එකතුවෙලා ශ්‍රී.ල.නි.ප.ය දෙකඩ කල නිසා ශ්‍රී ලංකා පෙදුජන පෙරමුණ බිහිවුණා , ඔන්න දැන් ජේ.වී.පි. එකටත් අලුත් වෙන්න කාලේ අැවිල්ල.අපි සහ අපේ දෙමව්පියන් පක්ෂ දෙකක් බදාගෙන දුක්වින්දට අලුත් පරපුර එහෙම වෙන්නෙ නැහැ.ශ්‍රී.ලංකා පොදුජන පෙරමුණ අපේ රට ලෝකයේ දියුණුම රටක් බවට පත්කරන වැඩපිළිවෙලක් සහිත එකක් වනුඅැතැයි අපි බලාපොරොත්තුවෙනව.එහෙම නොවුණහොත් ඊලඟ පරම්පරාව අපිටත් වඩා දුක්වීඳීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2016-11-02 11:37:47</date>
+            <index>31</index>
+            <phrase>හොරුටික නිදහස් , රටම ගොන්බස් , අනාගතය පස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2016-11-02 11:38:31</date>
+            <index>32</index>
+            <phrase>අපේ ප්‍රශ්න වලින් භාගයක්ම විසදුනා.දිනමු. ආයෙත් නුවර රේස් පදිමු.තව ණය වෙලා වාරයවල් දෙකක්වත් හදමු.ගුවන් තොටක් තනාගමු .ණයට.රට ජාතිය නගා සිටවමු. එකවුන්ට් එකේ සල්ලි ටික ආයෙම ගමු...මල්වානත් ආයෙම ගමු.කොහොම හරි චාස්න් එක පටන් ගමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 11:44:10</date>
+            <index>33</index>
+            <phrase>වනචර දශකයේදී කාපුවා තවම වමාරන්න බැරිවයි ඉන්නේ.තව අවරුදු දෙකක් කෑවනම් අපිට,අපේ දරුවන්ට රටක්නම් ඉතිරි වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-11-02 11:44:44</date>
+            <index>34</index>
+            <phrase>ගමනක් යන්න ලෙහෙසි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-11-02 11:47:51</date>
+            <index>35</index>
+            <phrase>ඉතිහාසයේ මිනිසුන් අතින් සිදුවු වැරදි වර්තමානයේදී මිනිසුන් විසින් නිවැරදි කළයුතුයි. මහින්ද මහත්මා රටට කළ දේ අපමණයි. දෙවන ජනාධිපතිධූර කාලය තුලදී ඔබ වටාසිටි අය කළ වැරදි නිසා ඔබටත් රටටත් සිදුවු වැරදි නිවැරදි කරන්න ඹබට කාලය නැවත උදාවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-11-02 11:48:06</date>
+            <index>36</index>
+            <phrase>අවුරුදු 10 යක් කාලත් ඉවරයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරේ</author>
+            <date>2016-11-02 11:50:07</date>
+            <index>37</index>
+            <phrase>අපේ බලාපොරොත්තුව ගෝඨාභය මුල් පුටුවට එයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2016-11-02 11:52:55</date>
+            <index>38</index>
+            <phrase>මහින්ද එනවා නම් අපි පණ වුණත් දෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංග</author>
+            <date>2016-11-02 11:53:05</date>
+            <index>39</index>
+            <phrase>නියමයි. දැන්නම් අනාගතය ගැන විශ්වාසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2016-11-02 11:55:43</date>
+            <index>40</index>
+            <phrase>ජය වේවා! අපි හැමෝමත් ඉන්නවා සහයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-11-02 11:56:43</date>
+            <index>41</index>
+            <phrase>ජය වේවා! ඔන්න දැන් කට්ටිය බයවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 11:57:37</date>
+            <index>42</index>
+            <phrase>රාජපක්ෂලා කියද්දීත් මගේ අැඟේ මවිල් කෙළින් වෙනවා. ඒ ගසාකෑම කොහොමද කියලා අැමරිකාවත් පුදුම වෙලා ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රිකා</author>
+            <date>2016-11-02 11:58:03</date>
+            <index>43</index>
+            <phrase>ජනාධිපතිකමෙන් සමුගත් රජතුමා හොරු සමඟ නැගිටින්න හැදුවට අඬන්න තමයි වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-11-02 11:59:10</date>
+            <index>44</index>
+            <phrase>ඉතාම හොඳ ආරංචියක්. අපිට ඕනෑ කොන්දක් තියෙන කෙනෙක්. වැරදි තිබුනා තමයි. නමුත් සාපේක්ෂව ඔබ තමයි අපට අවශ්‍ය. මේ රට දැන් හොඳටම කැඳහැලියක්. නායකයා කව්ද කියලා කවුරුවත් දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලි ප්‍රියන්ත හේරත්</author>
+            <date>2016-11-02 12:00:59</date>
+            <index>45</index>
+            <phrase>ජයවේවා!ජයවේවා!ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2016-11-02 12:18:12</date>
+            <index>46</index>
+            <phrase>ඉන්න එවුන් හරියට රාජකාරි කලානම් පොහොට්ටු නෙමේ පැලයක්වත් හිටවන්න වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2016-11-02 12:26:30</date>
+            <index>47</index>
+            <phrase>තවත් ලොකු පරාජයකට මුල තමයි මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාරග</author>
+            <date>2016-11-02 12:29:24</date>
+            <index>48</index>
+            <phrase>අපේ බලාපොරොත්තු මල් පලගන්වෙන දවසක් ළඟ එන හැඩය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-11-02 12:30:34</date>
+            <index>49</index>
+            <phrase>එයා ජනාධිපති , අයියා කතානායක , මල්ලි ආරක්ෂක ලේකම් ( ඇමති වගේ) අනික් මල්ලි ආර්ථික සංවර්දන ඇමති (හැමෝම එයට යටයි ), පුතා පාර්ලිමේන්තු මන්ත්‍රී ( අගමැති වගේ ) අනික් පුතා නාවික හමුදාවේ ( නාවික හමුදාපතිත් බයයි ) අයියාගේ පුතා මහා ඇමති/ බස්නායක නිලමේ ,අනික් නෑදැ පරපුර 361 දෙනෙක් ආයතන සභාපති වරුන් , තානතිපති වරුන්, හෙන්චියන් ටික රටේ ඉන්න හොර මැරයන් ....අනේ මට මතක නැනේ ..මහින්ද මැතිදුනි, ඔබයි අපේ අනාගත බලාපොරොත්තුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2016-11-02 12:38:04</date>
+            <index>50</index>
+            <phrase>උණුසුම් සුබ පැතුම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 12:44:35</date>
+            <index>51</index>
+            <phrase>ලෝකයේ දුෂිතම මල පිපෙන්න කලින් පොහොට්ටුවෙදීම කඩලා විසි කරපියව්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අඟුල ද සිල්වා</author>
+            <date>2016-11-02 12:55:34</date>
+            <index>52</index>
+            <phrase>මරු සභාපති !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානියක</author>
+            <date>2016-11-02 13:08:45</date>
+            <index>53</index>
+            <phrase>අපි ඔබ සමගයි. ජය වේවා. නැවත රටට හොඳ කාලයක් එයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-11-02 13:11:26</date>
+            <index>54</index>
+            <phrase>මේ රටේ ප්‍රායෝගික දේශපාලනය මෙයයි. බලයට එන්න නම් බොරු කරන්න,බොරු කියන්නම ඕනෑ. ඇත්ත කියන අයට ඇත්ත කිය කියා හැමදාම ඉන්න පුළුවන් කවුරුවත් ඡන්දේ දෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2016-11-02 13:28:17</date>
+            <index>55</index>
+            <phrase>කාටත් සාමයෙන් විසිය හැකි එහෙත් සිංහලයාගේ අයිතිය රකින මේ රටට එදා සිටම විනකළවුන්ගේ සුරතලුන් නොවන ප්‍රතිපත්ති ඇති නායකයක් ඇති පක්ෂයක් බිහි වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2016-11-02 13:36:01</date>
+            <index>56</index>
+            <phrase>ජයවේවා ඔබ සැමටම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2016-11-02 13:40:13</date>
+            <index>57</index>
+            <phrase>ජයෙන් ජයම වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-11-02 13:52:59</date>
+            <index>58</index>
+            <phrase>මේකේ නම ශ්‍රී ලංකා පොදුජන පෙරමුණ නොවේ, ශ්‍රී ලංකා හොරු රකින පෙරමුණ ලෙස වෙනස් වියයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-11-02 13:54:43</date>
+            <index>59</index>
+            <phrase>මා දන්නා අන්දමට ලංකාවේ තියෙන්න පුළුවන් පක්ෂ දෙකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2016-11-02 13:56:28</date>
+            <index>60</index>
+            <phrase>මහා ගසක් ලෙස හිටපු මහින්ද රාජපක්ෂ වැලේ වැල් නැතුව සිටියදී යන්තම් තුත්තිරි ගහක් හම්බවෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර -කැකිරාව</author>
+            <date>2016-11-02 13:57:42</date>
+            <index>61</index>
+            <phrase>රටට හෙණ ගැහුනත් තම මව්රට ගැන නොසිතන, ජනතාව මහපාරේ මැරුණත් ජනතා කදුළු නොදකින, පිටරටට වී දිවිගෙවන, තමුන්ගේ මල්ල පුරවාගන්න පිටරට සිට තප්පුලන, දේශපාලුවන්ට කඩේ යන තිලක් ඩුබායි, චන්දන-ඕස්ට්‍රේලියා වැනි මිනිසුන්ට අපේ සිංහල රට ගැනවත්, සිංහල ජාතිය ගැනවත්, අපේ රණවිරුවෝ ගැනවත්, අපේ කම්කරුවෝ ගැනවත් අබමල් රේණුවක තරම්වත් කිසිම හැඟීමක් නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-11-02 14:25:17</date>
+            <index>62</index>
+            <phrase>ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 14:25:48</date>
+            <index>63</index>
+            <phrase>දර්ශන.ඔබගේ වටිනා අදහස ෆොටෝ කොපි කරලා රටේ අසරණ මිනිස්සු අතර බෙදන්න පුලුවන්නම් මම කර ගන්න ලොකුම පින ඒක තමයි.ඒ අසරණ මිනිසුන්ගේ ඇස් අරවන එක තරම් තවත් පුණ්‍ය කර්මයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් ඩුබායි</author>
+            <date>2016-11-02 14:26:23</date>
+            <index>64</index>
+            <phrase>ඔබ තුමා රට බේරා දුන් නායකයා ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 14:26:02</date>
+            <index>65</index>
+            <phrase>හර්ෂ ඔබ හරි. නීතිය ක්‍රියාත්මක වුණා නම් පොහොට්ටු පිපෙන්නේ හිර ගෙදරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-11-02 14:27:41</date>
+            <index>66</index>
+            <phrase>බැංකු හොරු පන්න දන්නා ඔබ තුමා එන්න ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 14:26:43</date>
+            <index>67</index>
+            <phrase>මට පුදුමේ මේ තරම් දුෂිතයෙක් හොදයි කියල කියන බත් කන ගවයන් සිටින ඒක ගැනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 14:31:41</date>
+            <index>68</index>
+            <phrase>අපි පත් කර ගත්තු දෙන්නට පින් සිද්ද වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-02 14:32:01</date>
+            <index>69</index>
+            <phrase>ඊට කලින් මම දැනට ලියාගෙන යන "රාජපක්ෂලා රටම ගසාකෑමේ පන්සිය පනස් ජාතක කතා වස්තුව" එළිදක්වන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-11-02 14:36:00</date>
+            <index>70</index>
+            <phrase>රට බේරාගන්නද රට නැවත සූරාකන්නද මේ හදන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-11-02 14:47:29</date>
+            <index>71</index>
+            <phrase>අනේ තිලක්, ඔහෙටම වෙලා ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2016-11-02 14:58:49</date>
+            <index>72</index>
+            <phrase>අයියෝ මහින්ද!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2016-11-02 14:59:10</date>
+            <index>73</index>
+            <phrase>තිලක් - ඩුබායි, දැන් මොකද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-11-02 15:56:06</date>
+            <index>74</index>
+            <phrase>නායකයා මහින්ද මහතාම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන - ඕස්ට්‍රේලියා</author>
+            <date>2016-11-02 16:21:27</date>
+            <index>75</index>
+            <phrase>දසුන් ඔයාට තරහ ගියාට මම කියපු දේ තමයි වෙන්න යන්නේ. මේ මිනිස්සු තමන්ගේ හොරකම් වහගන්න ඕනෑ වැඩක් කරයි. රට ජාතිය පාවාදීලා හරි නැවත බලය ගන්න හදන්නේ තමන්ගේ වාසියට. ඒ වුණාට කතාකරන්නේ නම් මහා දේශප්‍රේමියෝ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-11-02 16:32:04</date>
+            <index>76</index>
+            <phrase>තිලක් ඩුබායිට හොඳටම වැදිලා වගේ. කොහොමද මහ දවල් සිද්ධවෙච්ච බැඳුම්කර මංකොල්ලය... ඒවත් හොරකම් තමයි. කොහොමත් මේ යන විදියට රටක් ඉතිරිවෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවින්ද</author>
+            <date>2016-11-02 17:04:12</date>
+            <index>77</index>
+            <phrase>ශ්‍රී ලංකා නිදහස් පක්ෂය බලයට එනවට මහින්ද පාර්ෂවය කැමති නැහැ. මොකද ඵතැන ඔවුන් නැති නිසා‍. මහින්දලා පක්ෂයක් පිහිටුවා කරන්නට හදන්නේ තමන් නැත්නම් ශ්‍රී ලංකා එකක් නැහැ කියලා පෙන්වන්න. එ්කෙන් වෙන්නේ යූඑන්පී එක අවුරුදු විස්සක්වත් බලයේ ඉන්න එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2016-11-02 17:12:46</date>
+            <index>78</index>
+            <phrase>ජය වේවා! අපි මේ පාලනයට එරෙහිව ඔබ සමඟ එක්වන්නෙමු. මව්බිමට ජය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-11-02 17:26:59</date>
+            <index>79</index>
+            <phrase>දර්ශන, කට තිබුනට මෝඩ කතා කියන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසධ</author>
+            <date>2016-11-02 17:30:37</date>
+            <index>80</index>
+            <phrase>තිලක් ඩුබායි, සුරේශ්, හර්ෂ, බොහොම කලබලවෙලා වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-11-02 17:33:02</date>
+            <index>81</index>
+            <phrase>මේ හොරු සමඟ පරණ හොරු ජය ගන්නද යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් පැරිස්</author>
+            <date>2016-11-02 17:34:07</date>
+            <index>82</index>
+            <phrase>ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-11-02 17:35:46</date>
+            <index>83</index>
+            <phrase>මහින්ද රාජපක්ෂ මහතාට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-11-02 17:48:46</date>
+            <index>84</index>
+            <phrase>ජයෙන් ජයම වේවා!! තිස් වසරක ශාපලත් යුද්ධයෙන් අපිව බේරාගත්තාක් මෙන්, දැන් රට පවතින උවදුරෙන් බේරා සැනසුම උදා කරන්නට ශක්තිය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-11-02 18:15:16</date>
+            <index>85</index>
+            <phrase>නියම සංකේතයක්නේ තෝරගෙන තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-11-02 18:46:50</date>
+            <index>86</index>
+            <phrase>මේ රටේ විතරක් නෙමෙයි ලෝකයේ බොහෝ රටවල ප්‍රායෝගික දේශපාලනය ධම්ම කියන දේ වැනියි. ජනතාවගේ අතේ වැරැද්ද. වැඩියෙන්ම බොරු පොරොන්දු දෙන කෙනාට කතිරය ගහන්න ජනතාව හරි දක්ෂයි. මොහොතකටවත් හිතන්නේ නැහැ දෙන පොරොන්දු ඉටු කරන්න ශක්තියක් ඇද්ද කියා. මේ පදනම වෙනස්කර ගත්තොත් අපිට අලුත් ඉරක් පායනවා දකින්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2016-11-02 18:53:45</date>
+            <index>87</index>
+            <phrase>පවතින මර උගුලෙන් අපේ රට බේරාගන්න හැකිවේවායි පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-11-02 18:54:22</date>
+            <index>88</index>
+            <phrase>සතුටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනවි</author>
+            <date>2016-11-02 19:09:22</date>
+            <index>89</index>
+            <phrase>පැරැන්නෝ වෙස්මුහුණු බැඳගෙන. බලයට තියෙන කෑදරකමද, එහෙම නැත්නම් සිල්රෙද්දෙන් හොරු වහගන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමා</author>
+            <date>2016-11-02 19:10:01</date>
+            <index>90</index>
+            <phrase>තිලක් ඩුබායි සහ ඒ සමාන අදහස් ඇති උදවිය මහින්දට බනින්න කලින් ඔබ ඉල්ලා ලබාගත් නව ආණ්ඩුවේ වැඩ ගැන හිතන්න. ඔවුන් හරියට වැඩ කළා නම් අද වෙන මල් පොහොට්ටු පිපේවිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙරමි</author>
+            <date>2016-11-02 19:15:54</date>
+            <index>91</index>
+            <phrase>මල පිපෙයිද, මල පනියිද දන්නේ නැහැ. එකෙදෙයක් විශ්වාසයි. ඔය මල් පොහොට්ටුව පිපෙන්නෙ නැහැ ඔය හොරු ඉන්නකම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2016-11-02 21:06:25</date>
+            <index>92</index>
+            <phrase>සමහරු මේකේ අදහස් දාලා තියෙන්නේ මේ අද ඊයේ ඉපදුනා වගේ. පව්! මෙයාලා මේ එන්නේ රට ජාතිය ආගම බේරගන්න නෙමෙයි. එයාලගේ හොර වැඩ, බඩගෝස්තරය හදාගන්න. තාම නායකයෙකුත් නැහැ. පව් මෙයාලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලාන්</author>
+            <date>2016-11-02 21:13:07</date>
+            <index>93</index>
+            <phrase>"ගමනක අවසානය" දෙවන සංස්කරණය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගිද</author>
+            <date>2016-11-02 21:50:29</date>
+            <index>94</index>
+            <phrase>"ගමනක අවසානය" සේ මෙසේ සනිටුහන් කරමි. කපාගත් වළටම භූමිගතවීම වැළැක්විය නොහැක! මේ සාමාජිකයින්ගෙන් පක්ෂයේ අභිමානය තක්සේරු කළහැකිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-11-02 21:54:09</date>
+            <index>95</index>
+            <phrase>රට ගොඩගන්න තියෙන එකම ක්‍රමය මහින්ද විතරයි. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-11-02 22:12:31</date>
+            <index>96</index>
+            <phrase>අපේ උපරිම සහය නව පක්ෂයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2016-11-02 22:19:14</date>
+            <index>97</index>
+            <phrase>පරාජයේ සංකේතය පොහොට්ටුව ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-11-02 22:20:42</date>
+            <index>98</index>
+            <phrase>අයියෝ ඇපත් නැහැ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-11-02 22:47:59</date>
+            <index>99</index>
+            <phrase>ඔය අද බය නැතුව උඩපනින උදවිය 2009 කලින් අන්ධයෝ, ගොළුවෝ සහ බීරෝ වෙන්න ඇති කියලා හිතෙනවා. යුද්ධය දිනන්න බැහැ කිව්වා වගේ තමයි දැනුත් බැහැ බැහැ කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමන්</author>
+            <date>2016-11-02 23:09:44</date>
+            <index>100</index>
+            <phrase>දර්ශන, හැබැයි අයියලා මල්ලිලා ටික එකතුවෙලා කොටියව එළවනකොට ඔයා එපා කිව්වේ නැහැ නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සවනත්</author>
+            <date>2016-11-02 23:10:48</date>
+            <index>101</index>
+            <phrase>දර්ශන, 2005 - 2009දි එතුමා තමයි අපේ බලාපොරොත්තුව ඉටු කරන්න මුල්වුණේ. නැත්නම් ප්‍රභාකරන්ව ඉවරකරන්න මුල්වුණේ ඔයාගේ වෙන කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-11-02 23:22:05</date>
+            <index>102</index>
+            <phrase>ඔය තිස් අවුරුදු යුද්ධය රටේ මිනිසුන්ට ප්‍රශ්න තිබුන නිසා ඇතිවුණු දෙයක්. ඒවා අැතිකළෙත් දේශපාලකයෝ ඒවා නැතිකළෙත් ඔවුන්මයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-11-02 23:42:38</date>
+            <index>103</index>
+            <phrase>නායකයා මහින්දමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොරවක</author>
+            <date>2016-11-02 23:52:11</date>
+            <index>104</index>
+            <phrase>නියමයි. ඉතාම සතුටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2016-11-03 00:10:17</date>
+            <index>105</index>
+            <phrase>ජයවේවා! අපි සැමදා ඔබ සමඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චූලක</author>
+            <date>2016-11-03 00:12:49</date>
+            <index>106</index>
+            <phrase>අපි මේ පක්ෂය චෞර පෙරමුණ කියලා හඳුන්වමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2016-11-03 00:15:34</date>
+            <index>107</index>
+            <phrase>පාරම්පරික නිදහස් පාක්ෂිකයෝ වෙන අපිට නිදහස් පක්ෂය පළමුවත් දෙවනුව මහින්ද මහත්තයත් වටිනවා. මහින්ද මැතිතුමනි, ඊළඟ නිදහස් පක්ෂ ආණ්ඩුවේ අගමැති ඔබයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-11-03 00:15:55</date>
+            <index>108</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2016-11-03 00:16:26</date>
+            <index>109</index>
+            <phrase>සුබ ගමන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-03 00:25:42</date>
+            <index>110</index>
+            <phrase>වැඩි කල් යන්න කලින් පොහොට්ටුව බිමට හැළෙයි. මොකද කට්ටියගේ වෛරයේ තේජස වැඩියිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-03 00:38:34</date>
+            <index>111</index>
+            <phrase>මොකද නායකයෙක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-11-03 00:40:16</date>
+            <index>112</index>
+            <phrase>බණ්ඩාර, හෙණ ගහනවා කියන්නේ ස්වභාව ධර්මයේ ක්‍රියාවක්. ඒත් පසුගිය කාලේ අපේ රටට න්‍යෂ්ට්ක බෝම්බයක් තමා දැම්මේ රාජපක්ෂ පරපුර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීම්</author>
+            <date>2016-11-03 00:52:11</date>
+            <index>113</index>
+            <phrase>සතුටක් දැනෙනවා. නමුත් බයකුත් හිතනවා. මහින්ද මහතා ගියවර පරාජය කළ ජාතිමාමක අය ළංකර ගනීද කියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-11-03 01:09:39</date>
+            <index>114</index>
+            <phrase>හිරේ විලංගුවේ වැටෙන්න ඉන්න තම සගයෝ බේරාගැනීමට තෝරාගත් මාර්ගය! මිනිසුන්ගේ හිතේ රට ජාතිය බේරාගන්නලු. රටේ බේරාගන්න දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-11-03 01:16:12</date>
+            <index>115</index>
+            <phrase>හොර මැර පංච මහා බලවේගයේ පක්ෂ ලාංඡනය ලෙස ඊටම සරිලන අපූරු ලකුණක් තෝරාගෙන තිබේ. එනම් මල් පොහොට්ටුවයි. එනම් කිසිදා පිපෙන්නේ නැති එකකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2016-11-03 01:16:56</date>
+            <index>116</index>
+            <phrase>කාලා කාලා තවත් තණ්හාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2016-11-03 01:24:31</date>
+            <index>117</index>
+            <phrase>හොරු ටික බේරාගන්න දඟලන දැඟලිල්ල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-11-03 01:29:54</date>
+            <index>118</index>
+            <phrase>ලංකාවේ කවදාකවත් නැතිවුණ හොරුන්ගේ පක්ෂයක් බිහිවෙනවා .දැන් ඉතින් හිරේ ඉන්න අයටත් යන අයටත් රටේ තැනක් එනවා. සෑම හිරගෙදරක් ගානෙම ගිහින් සාමාජිකයන් එකතුකර ගන්න. සුබ අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-11-03 01:30:39</date>
+            <index>119</index>
+            <phrase>මහින්ද මහත්තයාට පුලුවන් නම්, දිනේෂ් ගුණවර්ධන වගේ මිනිස්සු ටිකක් එක්ක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2016-11-03 03:20:22</date>
+            <index>120</index>
+            <phrase>මල් පොහොට්ටුව අපූරු ලකුණකි. කිසිදා පිපෙන්නේ නැති එකකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2016-11-03 04:03:26</date>
+            <index>121</index>
+            <phrase>මල් පොහොට්ටුව පිබිදී ලස්සන මලක් වේවා ! ලොව පුරා එහි සුවඳ විහිදේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිහාන්</author>
+            <date>2016-11-03 17:32:32</date>
+            <index>122</index>
+            <phrase>ජයවේවා! සදා දිනේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-11-03 17:36:28</date>
+            <index>123</index>
+            <phrase>මල් පොහොට්ටුව පිබිදී ලස්සන මලක් වේවා! ලොව පුරා එහි සුවඳ විහිදේවා! ඩුබායි බැංකු 9 යක අපේ මුදල් රුපියල් කෝටි 46,500 ක් සුවඳ දෙනවා! තවත් ලෝකයේ රටවල් ගණනාවක අපේ මුදල් රුපියල් කෝටි ප්‍රකෝටි ගණනින් සුවඳ දෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

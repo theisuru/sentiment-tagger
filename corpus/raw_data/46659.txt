@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46659</articleId>
+    <title>කැනඩා කෝවිල් දෙකකට දඩ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 ජූනි මස 05 18:28:06</date>
+    <body>පුණ්‍යායතන මුවාවෙන් කොටි සංවිධානයට මූල්‍යධාර සැපයූ බවට චෝදනා ලැබූ කැනඩාවේ හින්දු කෝවිල් දෙකකට එරෙහිව එරට ආදායම් බදු දෙපාර්තමේන්තුව කැනඩා ඩොලර් ලක්‍ෂ 4 1/2 ක (රුපියල් කෝටි 5.67) නියම කර ඇතැයි තානාපති ආරංචි කියයි.
+ටොරොන්ටෝ නගරයේ රිච්මන්ඞ් හිල් ප‍්‍රදේශයේ පිහිටි හින්දු කෝවිල් දෙකකට එරෙහිව එක් කෝවිලකට කැනඩා ඩොලර් ලක්ෂ තුනක්ද අනෙක් කෝවිලට කැනඩා ඩොලර් ලක්‍ෂ 1 1/2 ක්ද වශයෙන් දඩ නියම කර තිබේ.</body>
+    <comments>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-06-05 19:49:12</date>
+            <index>0</index>
+            <phrase>ඔ‍‍හොම ඒව ලංකාවෙත් නැත්තෙම නැහැ හොදට හොයල බැලුවොත්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-06-05 20:30:00</date>
+            <index>1</index>
+            <phrase>දේව වරමින් කොටියට මුදල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-05 21:04:10</date>
+            <index>2</index>
+            <phrase>ඔන්න ඔන්න දැන් අහිංසක කොටියට කැනඩාවත් මඩ ගහන්න හදනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-06-05 20:43:28</date>
+            <index>3</index>
+            <phrase>අනේ පව් කැනඩාවත් දැන් කොටීන්ට එරෙහි වෙලා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-05 21:25:00</date>
+            <index>4</index>
+            <phrase>ම්... මේ මොනවද වෙන්නේ හත් දෙයියනේ..කොටින්ට හුලං ගහන්නේ මුන්ට දෙයියන්ගේ හාල් කැවිලා වත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-06-05 21:47:26</date>
+            <index>5</index>
+            <phrase>දෙයියෝ කොටිය දිහා බලල තියෙන තරම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-06-06 05:07:47</date>
+            <index>6</index>
+            <phrase>කැනඩාවේ විතරක් නෙමෙයි.තව රටවල් ගණනාවකින් මේ වැඩේ වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-06-06 09:38:44</date>
+            <index>7</index>
+            <phrase>ඇයි අපේ ලස්සන ලංකාවේ මෙහෙම දේවල් නොවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-06 19:19:45</date>
+            <index>8</index>
+            <phrase>මේ කැනඩාවේ ටැක්ස් මල්ලිලා, දෙයියෝ කෝප කර ගන්න නම් එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

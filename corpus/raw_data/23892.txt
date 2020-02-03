@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23892</articleId>
+    <title>දුම්රිය ඉංජිනේරුවාට වරෙන්තු</title>
+    <author>පැට්‍රික් මාකස්</author>
+    <date>2012 ජනවාරි මස 27 13:02:18</date>
+    <body>ඩෙංගු මදුරු කීටයන් බෝවන පරිදි රත්මලාන දුම්රිය දෙපාර්තමේන්තු වැඩ බිම පවත්වාගෙන ගියැයි කියන සිද්ධියක් සම්බන්ධයෙන් අද අධිකරණයට නොපැමිණි නිසා එහි යාන්ත‍්‍රික ඉංජිනේරු අත්අඩංගුවට ගෙන ඉදිරිපත් කරන්නැයි ගල්කිස්ස අතිරේක මහේස්ත‍්‍රාත් රුචිර වැලිවත්ත මහතා වරෙන්තු නිකුත් කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-01-27 15:54:29</date>
+            <index>0</index>
+            <phrase>දුම්රිය වර්ජනයක් වෙයි වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශා</author>
+            <date>2012-01-30 01:15:02</date>
+            <index>1</index>
+            <phrase>තමුන් වැඩ කරන තැන පිරිසිදුව තියාගන්න බැරි අය කොහොමද දුම්රිය දෙපාර්තුමේන්තුව සංවර්ධනය කරන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

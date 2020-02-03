@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>28337</articleId>
+    <title>කලාවැව දැව සංහාරයක්</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 පෙබරවාරි මස 23 13:55:42</date>
+    <body>කලාවැව හා  බලලූවැව රක්‍ෂිතයේ පස් කැපීමේ මුවාවෙන්  ගස් කැපීම නිසා එහි සිටින 200කට ආසන්න වල්අලි රංචුව ගම්වැදි සිටිතියි ගැමියෝ කියති. පලූ වීර, කළුවර වැනි රූක්‍ෂ  වනය පිහිටි ජලපෝෂක ප‍්‍රදේශය දැන් මුඩුබිම් බවට පත්කර ඇත.  යන්ත‍්‍ර සූත‍්‍ර යොදා එහි ගස් කැපෙයි. ඊට විරුද්ධවන ගැමියනට තර්ජනයද එල්ලවෙයි.කැලෑ කපන්නවුනට දේශපාලන අනුග‍්‍රහය  නොමඳව ලැබෙතියි කියති.</body>
+    <comments>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-02-23 14:54:03</date>
+            <index>0</index>
+            <phrase>මේ දේශපාලකයන්ට මේව පළ දෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>suranga</author>
+            <date>2012-02-23 17:03:31</date>
+            <index>1</index>
+            <phrase>මිනිස්සු තිරිසන්නු වෙලාද? තිරිසන්නු මිනිස්සු වෙලාද? කියල හිතාගන්න බැහැ පරිසරයෙන් ලැබෙන ආශ්වාදය ලබන්න තරම් පින් නැති වසලයෝ ඒවා අනාගත පරපුරටත් නැති කරල දානව ඉක්මනට ලෝක විනාශෙ වෙනවනම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇලෙක්ස් ප්‍රනාන්දු</author>
+            <date>2012-02-23 19:29:03</date>
+            <index>2</index>
+            <phrase>ජනපතිතුමනි, මේවට ඉඩ දෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

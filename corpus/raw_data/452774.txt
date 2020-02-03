@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452774</articleId>
+    <title>ඕස්ට්‍රේලියා පුවත ගැන විමර්ශන සීඅයිඩියට</title>
+    <author>තරිඳු ජයවර්ධන  ඩයනා උදයංගනී ඡායාරූප හා වීඩියෝ - කෞශල්‍ය සමින්ද</author>
+    <date>2016 අගෝස්තු මස 31 13:34:14</date>
+    <body>මෛත්‍රිපාල සිරිසේන මහතා ඇමැතිවරයකු සමයේ විදෙස් සමාගමකින් කොමිස් ඉල්ලූ බවට ඕස්ට්‍රේලියා පුවත්පතක් කළ චෝදනාව සම්බන්ධයෙන් පරීක්ෂණ පැවැත්වීමට රහස් පොලිසියට බාරදී ඇතැයිද කැබිනට් ප්‍රකාශක ඇමැති  රාජිත සේනාරත්න ඇමැතිවරයා කීවේය.
+‘සිඩ්නි මෝර්නිං හෙරල්ඩ්‘ වෙබ් අඩවියේ පළවූ එම සිදුවීමට තමාගේ කිසිදු සම්බන්ධයක් නැතැයි මෛත්‍රීපාල සිරිසේන මහතා කියා තිබිණි.
+එම විමර්ශනය සඳහා අවශ්‍ය වුවහොත් විදෙස් සහායද ලබා ගනු ඇතැයි ඇමැති සඳහන් කළේය.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>කවි බෙල්බර්න්</author>
+            <date>2016-08-31 10:38:00</date>
+            <index>0</index>
+            <phrase>අපරාදේ කියන්න බැහැ අපිට ඔසියන්ගෙන් හොදට මේ දවස්වල අපේ ගුණ ගයනවා. අපිට සතුටුයි දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරා</author>
+            <date>2016-08-31 10:36:57</date>
+            <index>1</index>
+            <phrase>නැහැ කියන ඔක්කොම ඔවු. ඔවු කියන ඔක්කොම නැහැ. අපිට යහපාලනය ගැන තියෙන්නේ එවන් වැටහීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-08-31 10:49:25</date>
+            <index>2</index>
+            <phrase>හරියටම පරීක්ෂණය කෙරේවි. අපේ සී.අයි.ඩී එකේ හැටි අපි දන්නවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-08-31 11:47:03</date>
+            <index>3</index>
+            <phrase>වෙබ් අඩවි වල විතරක් නෙමෙයි ඕස්ට්‍රේලියානු පත්තර වල පොල් ගෙඩි අකුරෙන් දාල තිබුනේ. අපේ රහස් පොලිසියට කරන්න දෙයක් නැහැ. ඕස්ට්‍රේලියානු ෆෙඩරල් පොලිසිය ගානට වැඩේ කරයි තව ටික දවසක් යන කොට. ඕනේ නම් කියල ප්‍රසිද්ධ කර ගන්නේ නැතිව ඉන්න සපෝට් එකක් ඉල්ලන එක විතරයි කරන්න තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2016-08-31 13:15:02</date>
+            <index>4</index>
+            <phrase>මේ විමර්ශනය කරන්න යන්නේ පුවතේ ඇති කරුණු ගැනද නැත්නම් පුවත ප්‍රචාරය කළ පුද්ගලයන් ගැනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්</author>
+            <date>2016-09-01 09:03:20</date>
+            <index>5</index>
+            <phrase>ගින්නක් නැතුව දුමක් නගින්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

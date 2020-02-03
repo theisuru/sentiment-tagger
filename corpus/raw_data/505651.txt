@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505651</articleId>
+    <title>රට හාල් මෙරට මලුවල පුරවා මෝල් හිමියෝ ජාවාරමක</title>
+    <author>කගකරුණාරත්න</author>
+    <date>2017 පෙබරවාරි මස 09 10:22:01</date>
+    <body>ආනයනික සහල්  දේශිය සහල්  අසුරනවල බහා  වෙළඳපොළට  නිකුත්  කිරිමේ දී මහා  පරිමාණ ජාවාරමක්  සිදු කෙරෙන බව පොළොන්නරුව දිස්ත්‍රික්කයේ  ක්‍රියාකාරි සුළු හා  මධ්‍ය පරිමාණ සහල්  මෝල්  සංගමය පවසයි.
+සහල්  අසුරණ  මාරු කිරිම මගින්  එක් සහල්  කිලෝවකින්  රුපියල්  30 ක පමණ ලාභයක්  උපයන බවද  පාරිභෝගිකයා  මුලා  කරන බව ද මෙම ජාවාරම සිදු කරනු  ලබන්නේ  මෙරට  මහා  පරිමාණ සහල්  නිෂ්පාදකයකු විසින් යැයි ද පොළොන්නරුව දිස්ත්‍රික්කයේ  ක්‍රියාකාරි  සුළු හා මධ්‍ය  පරිමාණ සහල්  මෝල් සංගමයේ  සභාපති ගාමිණි  කුමාරසිංහ මහතා  ප්‍රකාශ කළේය.</body>
+    <comments>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2017-02-09 05:25:35</date>
+            <index>0</index>
+            <phrase>මෙරට සහල් නිපදවන ප්‍රදේශ වලට ආනයික සහල් යැවීම සීමාකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2017-02-09 05:43:33</date>
+            <index>1</index>
+            <phrase>ලංකාදීපයට තුති මෙවන් පුවත් වලට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-09 05:59:30</date>
+            <index>2</index>
+            <phrase>එකත් එකටම අර මලක නමක් තියන හාල් වෙන්න ඇති. මෙම සහල් පුද්ගලික අංශයෙන් විකිණීම සපුරා තහනම් කළයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2017-02-09 07:19:15</date>
+            <index>3</index>
+            <phrase>කන්න හාල් නැතත් මලේ, හාල් නම් ගෙදර පැත්ත පළාතේ ගේන්නේ නැහැ. හාල් මාෆියාව ඉස්සර තිබුනේ නැහැ. එය ඇතිවීමට මෙය බලපෑවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවිඳු</author>
+            <date>2017-02-09 07:32:04</date>
+            <index>4</index>
+            <phrase>අන්න එහෙම තමයි අපේ රටේ වැඩකරන්න ඕනෑ. ඕක තමයි රටට ගැළපෙන තියරිය. ජයවේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2017-02-09 08:02:06</date>
+            <index>5</index>
+            <phrase>ඔය පැත්තේ ඉන්නේ කොහොමත් ඔය වගේ අයනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-09 08:13:24</date>
+            <index>6</index>
+            <phrase>ගාමිණී මහත්තයෝ, මහාපරිමාණ හාල් මෝල් හිමිය කවුද?දේශපාලන හස්තයන් 2ක් තමයි සහල් මාෆියාව ගෙනියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2017-02-11 02:05:07</date>
+            <index>7</index>
+            <phrase>හාල් මාෆියාවට එරෙහිව දැඩි විරෝධතා ව්‍යාපාරයක් ගෙන යාම සුදුසුය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

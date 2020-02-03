@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>298595</articleId>
+    <title>මධු සමයේ ලංකාවට හිත ගිහින්</title>
+    <author>පද්මා කුමාරි</author>
+    <date>2015 පෙබරවාරි මස 23 10:19:58</date>
+    <body>චොකොස්ලෝවැකියාවේ දී විවාහ වූ නව යුවලක් මධු සමය ගත කිරීමට ශ්‍රී ලංකාවට පැමිණ ඉන්දීය ඇඳුමකින් සැරසී කල්පිටියේ පලතුරු මිලදී ගැනීමට පැමිණියහ. ඔවුන් කියා සිටියේ ඉතා සුන්දර දිවයින්ක වූ ශ්‍රී ලංකාවට පැමණීමට හැකිවීම සතුටක් බවයි.</body>
+    <comments>
+        <comment>
+            <author>සුනිල් ගීකියනගේ</author>
+            <date>2015-02-23 05:07:31</date>
+            <index>0</index>
+            <phrase>ඒ අයට කියන්න ලෝකාන්තයට යන්න එපා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-02-23 05:29:41</date>
+            <index>1</index>
+            <phrase>ඔය පැත්තේ කෘමිනාශක වැඩි එළවලු , පළතුරු වැඩිය කන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2015-02-23 05:33:27</date>
+            <index>2</index>
+            <phrase>කෙසෙල් කැනක්ම කන්න පුලුවන්ද අප්පේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසනා</author>
+            <date>2015-02-23 06:30:40</date>
+            <index>3</index>
+            <phrase>සුබ පැතුම් ඔබ දෙපළට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපී</author>
+            <date>2015-02-23 06:32:49</date>
+            <index>4</index>
+            <phrase>ඔය දෙන්නා ලෝකාන්තය බලන්න නම් යන්න එපා හොඳේ ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොමාල්</author>
+            <date>2015-02-23 07:57:49</date>
+            <index>5</index>
+            <phrase>කෙසෙල් කැනක් පිටින්ම අරගෙන නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැටිපහන</author>
+            <date>2015-02-23 08:31:10</date>
+            <index>6</index>
+            <phrase>අර තංගල්ලේ සභාපති වගේ අය නැත්නම් කොහේ ගියාම මොකද නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

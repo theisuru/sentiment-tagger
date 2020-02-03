@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>444182</articleId>
+    <title>නෝර්වේ අගමැතිනීය ලංකාවට</title>
+    <author>ටීකේජීකපිල</author>
+    <date>2016 අගෝස්තු මස 04 11:29:19</date>
+    <body>නෝර්වේ  අගමැතිනී  අර්නා සොල්බර්ග් ඇතුළු දුත පිරිස අද (04) පෙරවරුවේ  දිවයිනට පැමිණියාහ.</body>
+    <comments>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-08-04 07:15:19</date>
+            <index>0</index>
+            <phrase>ආවා අවා රට බෙදන්න ආවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-08-04 07:43:46</date>
+            <index>1</index>
+            <phrase>බටහිර රටවලින් මේ එන්නේ කුමක් සඳහාද ? අපිට ආදරේටද ? විව්‍යස්ථා හරහා උ/නැ ට බලය ලබා දෙන ලෙස එන හැමෝම ඉල්ලයි .කැනඩාවෙන් ආව. ඔක්කොම උතුරට යනවා .සිංහල මෝඩයා කුලල් කාගන්නවා ,බලපල්ලා 2020 දී වෙනදේ .හරක් රැලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-08-04 10:42:41</date>
+            <index>2</index>
+            <phrase>දැන් කෙලින්ම යයි උතුරු රාජ්ජය පිහිටුවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2016-08-04 12:12:22</date>
+            <index>3</index>
+            <phrase>කොටි නියෝජිතයෝ තමා මේ එන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-08-05 14:54:02</date>
+            <index>4</index>
+            <phrase>දිමුත්,ගයාන්,කුමාර්, දිල්ශාන් හතර දෙනාටම දිවස් තියනවා වගේනෙ.රට බෙදන්න හැන්දත් අරගනමද එන්නේ! අම්මෝ , තියන දැනුම? ඔයාලා දේශපාලනය පිලිබඳ විශේසඥයන් වෙනවට වඩා හොඳයි ආරූඩෙන් සාස්තර කියන්න පටන් ගත්තානම්! අනේ මෙහෙම බය ගුල්ලන් ඉන්න රටකනේ අපි ජීවත් වෙන්නේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-08-06 15:05:07</date>
+            <index>5</index>
+            <phrase>පිටරැටියෝ එනවා අපේ රටේ දිග පළල මනින්න. අපි රටවැසියෝ. අපිට අයිතියක් නැහැ මේවාට හරස් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

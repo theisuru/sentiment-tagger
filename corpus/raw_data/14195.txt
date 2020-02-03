@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14195</articleId>
+    <title>සුදුකොඩි සිද්ධිය තාම තියෙනවා</title>
+    <author>දුෂ්‍යන්ත සමරසේන</author>
+    <date>2011 නොවැම්බර් මස 22 19:59:52</date>
+    <body>සුදු කොඩි රැගෙන ආ අයටත් වෙඩි තැබූ බවට කළ අසත්‍ය  චෝදනාවේ බලපෑම අප මව් බිමට තවමත් ඇති බව ජනපති මහින්ද රාජපක්ෂ මහතා ජෝන් කොතලාවල ආරක්ෂක විශ්ව විද්‍යාලයයේ උපාධි ප්‍රදානෝත්සවයේ දී අද ප්‍රකාශ කෙළේය. සරත් පොන්සේකා වැරැදිකරු කර තුන් අවුරුදු සිර දඬුවම් නියම වූයේ සුදුකොඩි නඩුවෙනි.  2009 මැයි මාසයේ සිදු වූයේ යැයි කියන එම සිද්ධිය ගැන ජනපති මෙවැනි සඳහනක් කෙළේ මුල්ම වරටය. එදා ත්‍රස්තවාදීන් සාමාන්‍ය ජනතාවට මුවා වී හමුදාවට හා රජයට පහර දුන්නා. අද කොටි ත්‍රස්තවාදීන් මානව හිමිකම් වලට මුවාවී මුදල් එකතු කරන්නේ යැයි ද කීය.</body>
+    <comments>
+        <comment>
+            <author>රැජිනකාන්ත්</author>
+            <date>2011-11-22 22:28:26</date>
+            <index>0</index>
+            <phrase>අනේ මන්ද අපට තේරෙන්නෙ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-11-23 01:21:11</date>
+            <index>1</index>
+            <phrase>අනේ අනේ කියන ලැජ්ජ නැති කතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>M.S.P</author>
+            <date>2011-11-23 08:00:23</date>
+            <index>2</index>
+            <phrase>සුදු කොඩි රැගෙන ආ අයටත් වෙඩි තැබූ බවට කළ අසත්‍ය චෝදනාවේ බලපෑම පිලිබදව අපට බොහෝදෙ කල යුතුව ති‍යෙනවා. නමුත් කොපමණ එ පිලිබදව අවශ්‍ය පුද්ගලයන්ට හැකි පමණ දැන් වුවත් ප්‍රතිපලයක් තියා පිළිතුරක්වත් නැති වීම නිසා කණගාටු වෙමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යය</author>
+            <date>2011-11-23 08:24:00</date>
+            <index>3</index>
+            <phrase>තමන් නොකළ වරදකට මේ තරම් කිපෙන්නේ ඇයි? එහෙම වුණාම මුලු ලෝකයාම හිතන්නේ වැරැදි කරපු නිසා බය වෙලා කෑ ගහනවා කියලා. "පනින්න පෙර සිතා බලන්න"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-23 09:25:11</date>
+            <index>4</index>
+            <phrase>ජනාධිපති ගොඩක් හොදයි... ෆොන්සේකා නරකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2011-11-23 15:14:50</date>
+            <index>5</index>
+            <phrase>තීන්දුවෙන් පෙන්නල දුන්නේ එහෙම දෙයක් වුනා කියන එකනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

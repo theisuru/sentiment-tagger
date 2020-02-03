@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500600</articleId>
+    <title>බාල්කයේ එල්ලා සිසුවාට ගැසීයැයි රගර් උපදේශකත් සැකපිට</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2017 ජනවාරි මස 24 11:53:44</date>
+    <body>දෙමටගොඩ පිරිම පාසලක 10 ශ්‍රේණියේ ඉගෙනුම ලබන සිසුවකුට පහර දුන්නේයැයි සැකපිට එම විදුහලේ රගර් ක්‍රීඩා උපදේශක ඇතුළු තිදෙනකු අත්අඩංගුවට ගත් බව දෙමටගොඩ පොලිසිය කියයි.
+රගර් කාමරයේ බාල්කයක එල්ලා සිසුවාට පහර දුන් බවට  පැමිණිලි ලැබුණු බව පොලිසිය පවසයි.
+පහරකෑ සිසුවා කොළඹ ජාතික රෝහලේ නේවාසිකව ප්‍රතිකාර ලබයි.</body>
+    <comments>
+        <comment>
+            <author>නිශාර්ඩ්</author>
+            <date>2017-01-24 09:09:07</date>
+            <index>0</index>
+            <phrase>එහෙනම් තියෙන්නේ ඔය තුන්දෙනාවත් කකුල් දෙකෙන් එල්ලලා පැය 5ක් විතර තියල හොඳට තඩි බාන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2017-01-24 09:34:10</date>
+            <index>1</index>
+            <phrase>නීතිය තදින් ක්‍රියාත්මක කළ යුතුයි. ජරා යක්කු වාගේ හැසිරීමට කාගේ හයියක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2017-01-24 10:19:13</date>
+            <index>2</index>
+            <phrase>රගර් ක්‍රීඩකයන්ට අපලයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2017-01-24 15:14:50</date>
+            <index>3</index>
+            <phrase>“පිහිනුම් උපදේශක සිසුවියක් අපයෝජනයක, ක්‍රීඩා උපදේශක සිසුවියක් වනයට ගෙනයයි, රගර් උපදේශක සිසුවා බාල්කයේ එල්ලා පහරදෙයි....“ අනේ හැබෑට, මේ පාසල්වල ප්‍රධාන ගුරුවරයෙක් හෝ ගුරුවරියක් නැද්ද? අකිල මහත්මයෝ, පාසල් වලට විනයක් සහිත ගුරුවරුන් පත්කරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිපෙ</author>
+            <date>2017-01-24 16:48:31</date>
+            <index>4</index>
+            <phrase>මේ කතාවේ සැඟවුණ යමක් තිබෙන්නට පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

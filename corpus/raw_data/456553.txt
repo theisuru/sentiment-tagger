@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456553</articleId>
+    <title>ජනපති මහ සමුළු දෙකකට යයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 11 16:30:20</date>
+    <body>ලබන සති අන්තයේ (17,18) වෙනිසියුලාවේ පැවැත්වීමට නියමිත නොබැඳි ජාතීන්ගේ සමුළුවට සහභාගී වීම සඳහා මෛත්‍රීපාල සිරිසේන ජනපති වෙනිසියුලාව බලා යෑමට නියමිතය.1961 දී පිහිට වූ නොබැඳි සමුළුවට සාමාජික රටවල් 120 ක් අයත් වේ.
+වෙනිසියුලා සමුළුවෙන් පසු ජනපති එක්සත් ජාතීන්ගේ 71 වැනි මහා මණ්ඩල සැසි වාරයට සහභාගී වීම සඳහා ඇමරිකාවේ නිව්යෝර්ක් නුවර බලා පිටත් වීමය නියමිතය. සැප්තැම්බර් 21 වැනිදා ජනපති සමුළුව ඇමතීමට නියමිතය.
+ </body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-09-11 12:02:10</date>
+            <index>0</index>
+            <phrase>සුබ පැතුම් ජනපති තුමනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-09-11 15:47:49</date>
+            <index>1</index>
+            <phrase>වෙනිසියුලාවට යනවා නම්, හාල් තුනපහ කෑම ජාතිත් අරගෙන යන්න වෙයි. රට සමාජවාදෙට ගිහිල්ලා මිනිස්සු පාරේ පොරකනවා එදිනෙදා ජීවිතයට අවැසි දේ සොයාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-09-11 22:20:33</date>
+            <index>2</index>
+            <phrase>ඇමරිකාව ඇතුළු අනිත් ධනවාදී රටවලට කරන බැණවැදීම් වල හැටියට මම හිතුවේ නොබැඳි ජාතීන්ගේ සාමාජිකත්වයෙන් ලංකාව ඉවත්වෙලා ඉන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-12 02:54:40</date>
+            <index>3</index>
+            <phrase>ජාත්‍යන්තරය දිනාගන්න තවත් අවස්ථාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප</author>
+            <date>2016-09-12 05:44:38</date>
+            <index>4</index>
+            <phrase>මම නම් කියන්නේ සිංහල භාෂාවෙන් කතාකරන්න පරිවර්තක කෙනෙක් එක්කගෙන යන්න. නොදන්නා භාෂා අපට මොකටද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-09-12 05:52:05</date>
+            <index>5</index>
+            <phrase>ධම්ම, හැබැයි කලින් වතා වලින් වැඩක්වුණේ නැහැ. කවුරුවත් මොකුත් දුන්නේ නැහැ චීනය හැරුනම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2016-09-12 11:12:51</date>
+            <index>6</index>
+            <phrase>කවුරුත් මේ රටට මොනවත් දෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-13 05:24:52</date>
+            <index>7</index>
+            <phrase>තමන්ගේ රටේ ඇති සම්පත් ආරක්ෂා ‍නොකර වෙන රටවලින් ආධාර ඉල්ලලා වැඩක් නැහැ. මේවට හිනාවෙන්නද අඬන්නද කියලා තේරෙන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

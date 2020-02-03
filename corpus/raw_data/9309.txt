@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9309</articleId>
+    <title>සංචාරක පැමිණීමට 34% කින් නගී</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 ඔක්තෝබර් මස 16 18:41:19</date>
+    <body>මේ වසරේ ජනවාරි සැප්තැම්බර අතර විදෙස් සංචාරකයින් 5,98,006 දෙනකු මෙරටට පැමිණ ඇතැයි ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+එය ඉකුත් වසර හා සසඳනවිට සියයට 34.3කින් වර්ධනය වීමක් යැයි ද එම අධිකාරිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුදත් ද සිල්වා</author>
+            <date>2011-10-16 23:06:31</date>
+            <index>0</index>
+            <phrase>මේ අයගෙන් බාගයක්ම අනුමානයක් න ශ්‍රී ලංකා ජාතිකයෝ පිටරට passport අරන් ඉන්න මේ අයත් ගන්නන් ගන්නේ විදෙසිකයෝ ලෙසනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

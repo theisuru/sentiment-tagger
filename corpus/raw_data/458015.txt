@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458015</articleId>
+    <title>මගමරුවා උතුරටත් පනී : හතරක් මරුට</title>
+    <author>තරිඳු ජයවර්ධන ජායාරූප හා වීඩියෝ රොමේෂ් මධුෂංක</author>
+    <date>2016 සැප්තැම්බර් මස 15 07:46:48</date>
+    <body>කිලිනොච්චියේ පෙලෙයිහිදී බස් රථයක් හා වෑන් රියක් ගැටී හතර දෙනකු මියගොස් ඇතැයි පොලිසිය කියයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-09-15 05:23:59</date>
+            <index>0</index>
+            <phrase>දැන් අපේ 'අන්තර්ජාල පොලිස් නිලධාරීන්' ටික මේ අනතුර සිදුවූ ආකාරය සහ වැරදිකරුවන් කවුද යන්නත් සොයා මෙතන අදහස් පළකරයි. මම මේ බලාගෙන ඉන්නේ ඒ අදහස් ටික බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-09-15 05:37:25</date>
+            <index>1</index>
+            <phrase>වේගය මරු කැඳවයි. මියගිය අයට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-09-15 06:32:34</date>
+            <index>2</index>
+            <phrase>තියෙන විදිහට මුහුණට මුහුණ හැප්පීමක්. කවුද විරුද්ද දිශාවට ආවේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-09-15 06:33:49</date>
+            <index>3</index>
+            <phrase>මංතීරු හතරේ පාරවල් ඉක්මනින් හදන්න. කවුද කැමති පැය 2 ගමන පැය 4ක් යන්න.අන්තිමෙන්ට ඉක්මනින්ම පරලොව යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-09-15 06:51:30</date>
+            <index>4</index>
+            <phrase>මම රියදුරෙක්. අඩමානයක් නෑ රියදුරුට නින්ද යන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරකෝන්</author>
+            <date>2016-09-15 07:46:50</date>
+            <index>5</index>
+            <phrase>අනේ දෙවියනේ, මෙහෙම දේවල් අපිට අහන්න වුණානේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-09-15 07:54:19</date>
+            <index>6</index>
+            <phrase>රියදුරු මහත්වරුනි, රිය පැදවීමට ඉගෙනගැනීමට පෙර මිනිස් ජීවිතයක වටිනාකම ඉගෙනගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-09-15 08:27:43</date>
+            <index>7</index>
+            <phrase>යුද්ධයෙන් බැටකමින් ජීවිත බේරාගෙන හිටිය මිනිසුන් වාහන වලට වහල්වෙලා ජීවිත 4 ක් නැතිවුණා. ඔබට නිවන්සුව ලැබේවා ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-09-15 08:54:20</date>
+            <index>8</index>
+            <phrase>දවසින් දවස අනතුරු වෙනවා වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

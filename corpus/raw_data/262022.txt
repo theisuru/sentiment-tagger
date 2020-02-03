@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>262022</articleId>
+    <title>ජංගමයේ නව පිම්මක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2014 සැප්තැම්බර් මස 11 08:11:45</date>
+    <body>ඇපල් සමාගමේ අළුත්ම සාමාජිකයෝ දෙදෙනා වන අයි ෆොන් 6 සහ අයි ෆෝන් 6+ පසුගියදා එලිදක්වනු ලැබුහ.
+ඇපල් සමාගමේ ප්‍රධාන විධායක නිලධාරී  ටින් කුක් මහතා ඉතා සරළ ඇඳුමකින් සැරසී එම උත්සවයට සහභාගී වු අතර ඔහු ඔවුන්ගේ අළුත්ම සාමාජිකයින් ගැන තොරතුරු හරි අපුරුවට ඉදිරිපත්  කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>සරත් අතාවුද</author>
+            <date>2014-09-11 03:04:33</date>
+            <index>0</index>
+            <phrase>සිංහලෙන් හඩ කැවිම හොඳ දෙයක් මගේ සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2014-09-11 17:05:10</date>
+            <index>1</index>
+            <phrase>ෂා නියමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුන අබේකෝන්</author>
+            <date>2014-09-12 10:56:21</date>
+            <index>2</index>
+            <phrase>ටින් කුක් නෙමෙයි. ටීම් කුක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ළහිරු දිසානායන</author>
+            <date>2014-09-12 12:28:31</date>
+            <index>3</index>
+            <phrase>සුපිරි අලුත් දේවල් ලෝකේ පූරා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමේෂ</author>
+            <date>2014-09-12 14:09:12</date>
+            <index>4</index>
+            <phrase>ඉතා හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමේෂා</author>
+            <date>2014-09-12 15:01:46</date>
+            <index>5</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2014-09-13 05:31:36</date>
+            <index>6</index>
+            <phrase>නියම වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2014-09-20 14:03:12</date>
+            <index>7</index>
+            <phrase>ස්පීච් එකත් තිබුනා නම් ගොඩක් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

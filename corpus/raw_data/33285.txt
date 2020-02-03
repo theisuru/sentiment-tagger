@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33285</articleId>
+    <title>ඇමැති රියේ හැපී යතුරුපැදිකරු රෝහලේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 මාර්තු මස 26 10:23:44</date>
+    <body>ජල සම්පාදන ඇමැති දිනේෂ් ගුණවර්ධන මහතා ගමන් කළ රථයේ හැපී වරකාපොළදී යතුරුපැදි කරුවකු තුවාල ලැබී යැයි පොලිසිය කියයි.
+අනතුරට පත් රථය පොලිස් පරීක්ෂණ සඳහා බාරදී ඇමැති වෙනත් රියකින් දඹුල්ලට ගිය බව ද පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>දහනායක</author>
+            <date>2012-03-26 10:40:11</date>
+            <index>0</index>
+            <phrase>ඇයි එයාල අත් අඩංගුවට ගන්නේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිස්සා</author>
+            <date>2012-03-26 10:57:13</date>
+            <index>1</index>
+            <phrase>ඇයි වාහනය අත්අඩංගුවට ගත්තේ, ඇමති අත්අඩංගුවට ගන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරි</author>
+            <date>2012-03-26 11:10:53</date>
+            <index>2</index>
+            <phrase>පොලීසියෙ නීති පොඩි මිනිසුන්ට විතරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-03-26 11:30:44</date>
+            <index>3</index>
+            <phrase>මේකෙ රියදුරාගෙ ලකුනුවලට මොකද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-03-26 11:52:42</date>
+            <index>4</index>
+            <phrase>බයිසිකලයේ තිරිංග නෑ කියලා අහිංසකයන්ටම වරද වැටෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-03-26 12:25:53</date>
+            <index>5</index>
+            <phrase>අපිට තියෙන් බලන් ඉන්න විතරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

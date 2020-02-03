@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>366133</articleId>
+    <title>දකුණු ඉන්දියාවේ ලක්ෂ ගණනක් අවතැන්</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2015 දෙසැම්බර් මස 02 19:13:51</date>
+    <body>දකුණු ඉන්දියාවේ චෙන්නායි නගරය හා අවට ප්‍රදේශවලට දින දෙකක් තිස්සේ ඇද හැළුණු මහ වැසි හේතුවෙන් දැඩි ගංවතුර තර්ජනයක් හටගෙන ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+ප්‍රදේශය පුරා විදුලිය ඇණහිට ඇති අතර දුම්රිය ධාවනය නවතා දමා ඇති අතර ගුවන් ගමන් ද අවලංගු කර ඇත. ගුවන් ගමන් යාමට පැමිණි 400ක පමණ පිරිසක් චෙන්නායි ගුවන් තොටුපොළේ අතරමංව සිටිති.
+විපතට පත්වූවන් බේරාගැනීමට දහස් සංඛ්‍යාත සහන සේවකයන්, පොලිසිය හා යුද හමුදාව දැඩි වෙහෙසක් ගන්නා බව ද ඉන්දීය රජය පවසයි. බෙංගාල බොක්කේ හටගෙන ඇති අවපාතයක් හේතුවෙන් මේ අහිතකර කාලගුණ තත්ත්වය ඇතිවී තිබේ.
+පසුගිය මාසයක කාලයක් පුරා ගංවතුර හා දැඩි සුළං හේතුවෙන් 188 දෙනකු මිය ගියහ.
+ </body>
+    <comments>
+        <comment>
+            <author>සමීර</author>
+            <date>2015-12-03 01:58:03</date>
+            <index>0</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියානි</author>
+            <date>2015-12-03 08:10:22</date>
+            <index>1</index>
+            <phrase>එහෙන් ලෝක යුද්ධ. මෙහෙන් ස්වාභාවික විපත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2015-12-03 11:13:28</date>
+            <index>2</index>
+            <phrase>අනේ දෙවියනේ මේ මිනිසුන්ව ගලවාගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2015-12-03 17:42:16</date>
+            <index>3</index>
+            <phrase>දැන් මේ බලන්න අපේ අය මේ අය වෙනුවෙන් දුක් වෙනවා. අපි හැකි පමණ උදව් කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකීල්</author>
+            <date>2015-12-04 09:50:41</date>
+            <index>4</index>
+            <phrase>මේ අයට වියලි ආහාර බෙදමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

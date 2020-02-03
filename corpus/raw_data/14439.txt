@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14439</articleId>
+    <title>ආණ්ඩු විරෝධී රැල්ලට  රනිල් තාමත් අත වනයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 නොවැම්බර් මස 24 19:27:15</date>
+    <body>පක්ෂ ජාති හා ආගම්බේද දුරැර ආණ්ඩු විරෝධී ජාතික විරෝධතාවට එක්වන්නැයි විපක්ෂ නායක රනිල් වික‍්‍රමසිංහ මහතා ජනතාවගෙන් අද ඉල්ලීමක් කෙළේය.
+ලබන අඟහරුවාදා කොළඹ හයිඞ් පිටියෙන් විරෝධතාව අරඹන බවත් හිටපු හමුදාපති සරත් පොන්සේකා මහතා නිදහස් කරන ලෙසද සිංහල ව්‍යාපාරිකයන් රකින ලෙසද, අවනීතිය, ඒකාධිපතිවාදය, පිටු දැක ජීවන බර සැහැල්ලූ කරන ලෙසද රජයෙන් ඉල්ලන බව වික‍්‍රමසිංහ මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>පි එල් පැලිපන</author>
+            <date>2011-11-24 20:54:58</date>
+            <index>0</index>
+            <phrase>ජය ජය වේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2011-11-24 23:58:09</date>
+            <index>1</index>
+            <phrase>පළමුව එජාපය තුළ පවතින ඒකාධිපතිත්වය නැති කළොත් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

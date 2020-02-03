@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>509946</articleId>
+    <title>වැව බද්දට දී දැදුරු ඔයට දත නියවීම</title>
+    <author>ඡායාරූප හිරාන් ප්‍රියංකර ජයසිංහ</author>
+    <date>2017 පෙබරවාරි මස 26 12:03:18</date>
+    <body>ආරච්චිකට්ටුව දෙමටපිටිය බෝම්බිවිල වැව මසුන් ඇල්ලිට    බදු දිම    නිසා කිරි වදිමින් තිබේන කුඹුරු අක්කර 100 කට ආසන්න ප්‍රමානයක්  බේරා ගැනිමට  ගොවීහු දැඩි වෙහෙසක් දරති. ඒ සඳහා දැදුරු ඔයෙන් ජලය පොම්ප කිරිමට ඔවුනට සිදුව තිබේ. වැව  බදු ගත් පුද්ගලයින්  වැවේ ජලය සුළු ප්‍රමානයක් පමණක් තබා ඉතිරි සියලුම ජලය පොම්ප යොදා ගනිමින් ඉවත් කිර තිබේ. ඡායාරූපවල දැක්වෙන්නේ වැවට අත්වී ඇති අරණමයි.</body>
+    <comments>
+        <comment>
+            <author>විජිත</author>
+            <date>2017-02-26 07:11:54</date>
+            <index>0</index>
+            <phrase>අනේ මොකක් හරි හොඳට වෙන දෙයක් කියන්නකෝ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙලනිකස්</author>
+            <date>2017-02-26 07:21:33</date>
+            <index>1</index>
+            <phrase>කවුද මේක බද්ද ට දීල තියෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-26 08:11:30</date>
+            <index>2</index>
+            <phrase>මේකනම් මහා පුදුම ආණ්ඩුවක්.වැවත් විකුණගෙන කාල.හෙට අනිද්දට දාගැබත් විකුණා ගෙන කයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ් ඩුබායි</author>
+            <date>2017-02-26 10:09:51</date>
+            <index>3</index>
+            <phrase>අනේ අපොයි මෙහෙම රටක්. පුදුම මිනිස්සු ඉන්නේ. ගෙදර ඉන්න මිනිස්සුනවත් විකුණයි මේ අදම පාලකයෝ . රටකට සුගතියක් තියෙයිද ඉතින්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්විදු</author>
+            <date>2017-02-26 12:10:40</date>
+            <index>4</index>
+            <phrase>පොම්ප දාල වැවක් හින්දල මාළු අල්ලනවා කියන එකනම් මල්ලියේ විශ්වාස කරන්න අමාරුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

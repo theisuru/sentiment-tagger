@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20260</articleId>
+    <title>අයාලේ ගිහින් පනහක් දඩ</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 02 17:00:33</date>
+    <body>බේරේ වැව තෙර ඉබාගතේ යමින් සිටි තරුණියකට කොළඹ කොටුව මහේස්ත්‍රාත් කනිෂ්ක විජේරත්න මහතා රුපියල් පනහක දඩ නියම කෙළේය. ඇය එහි සිටියේ කුමක් සඳහා දැයි කීමට ඇයට නොහැකි විය.</body>
+    <comments>
+        <comment>
+            <author>රෝයි එඩ්වින්</author>
+            <date>2012-01-02 18:57:24</date>
+            <index>0</index>
+            <phrase>ඒකට දඩ ගැහන්නැතුව ඒකට වඩා මානසික මට්ටම සොයා බැලුවනම් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක වීරසේකර</author>
+            <date>2012-01-02 20:27:18</date>
+            <index>1</index>
+            <phrase>දඩ ගැහිල්ලට කීයක් වියදම් වුනාද දන්නේ නෑ... රු. 200ක්? 300ක්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kool</author>
+            <date>2012-01-03 01:23:56</date>
+            <index>2</index>
+            <phrase>පාඩුවෙ පයින් යන්නත් බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙනත්</author>
+            <date>2012-01-03 04:55:12</date>
+            <index>3</index>
+            <phrase>නිදහසේ පොදු ස්ථානයක සැරිසැරීමට හේතුවක් ඕනමද? කම්මැලිකම නිසා ඉන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරන්යා</author>
+            <date>2012-01-03 09:13:25</date>
+            <index>4</index>
+            <phrase>ලංකාවෙන් යල් පැනගිය නීති ඉවත් කරන්න කාලය ඇවිදින් ඇත. මනුෂ්‍යයෙක්ට නිදහසේ ඇවිදීමට ඉඩ තිබීම මුලික මානව හිමිකමක්. අපි ඒකට උසාවියට කරුණු දක්වන්න ඕනද? මේ අසාධාරණ නීති ගෑනුන්ට විතරක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ikp</author>
+            <date>2012-01-03 10:15:58</date>
+            <index>5</index>
+            <phrase>තමන්ගෙ කැමැත්තට ඇවිදින්නවත් බැරි රටක්නෙ. රට පුරාම අපරාද වෙනවා මේ වගේ සුලු දේවල් වලට තමයි දඩ ගහන්නෙත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>so.kegalla</author>
+            <date>2012-01-03 12:38:29</date>
+            <index>6</index>
+            <phrase>"සරා ගොයියා හරි මිනිහා" දෙපාරක් නිදහස ලබාගත් රටෙත් නිදහසේ පාරක තොටක යන්න බැරිද???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ. සුදරිකා</author>
+            <date>2012-01-03 14:05:05</date>
+            <index>7</index>
+            <phrase>දඩ ගහන එක නෙමේ වෙන්න ඕනා. තරුණියක් හැටියට ඇයි එහෙම කළේ කියලා මානුෂික විදියට හොයල බලන එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල්</author>
+            <date>2012-01-03 15:13:43</date>
+            <index>8</index>
+            <phrase>අපේ රට ඇත්තටම නිදහස්ද කියලා හිතෙනවා මේවා අහනකොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>rm</author>
+            <date>2012-01-03 16:00:43</date>
+            <index>9</index>
+            <phrase>දඩ ගැහිල්ල නරකයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>181610</articleId>
+    <title>මාපිය වන්දනාව</title>
+    <author>ජූඩ් සමන්ත</author>
+    <date>2013 ඔක්තෝබර් මස 18 14:09:46</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ශාදමල් සිල්වා</author>
+            <date>2013-10-31 23:26:05</date>
+            <index>0</index>
+            <phrase>අද ලංකාවේ ජිවත් වන පිරිමින්ට වන්දනාවක් හදලා ඔවුන්ගේ පහත්මානසික කාමුක අදහස් නැතිකරන්න කෙනෙක් ඉදිරිපත් වෙන්නේ කවද‍ාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2013-11-02 16:40:15</date>
+            <index>1</index>
+            <phrase>මේ "මවුපිය වන්දනාව"වරින් වර සුළු කොටස් ඔබ පුවත්පතින් ප්‍රචාරය කරනවා.එයට තුති.මීට පෙරත් පුජ්‍ය බටුවන්ගල රාහුල හිමියන්ගේ මවුපිය වන්දනාව කොටසක් දැම්මා. කතුතුමනි,සම්පුර්ණ "මවුපිය වන්දනාව" මේ වෙබ් අඩවියේ දාන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙටී</author>
+            <date>2013-11-04 03:23:39</date>
+            <index>2</index>
+            <phrase>සැමට ඉස්තුතියි...පින්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

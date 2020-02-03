@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>72934</articleId>
+    <title>අලියාත් අසරණ වේ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 ඔක්තෝබර් මස 26 15:18:51</date>
+    <body>සීගිරි දිගම්පතහ අවුඩංගාවේ අඩි 250ක ළිඳකට වැටුණු එකැස් අලියෙක් දින දෙකක්ම එහි ගත කළේය. අවුරුදු 28ක් වයසැති මේ අලියා ගොඩගැනීමට මින්නේරිය හා සීගිරියේ වන නිලධරයෝ පැය හතක සාර්ථක මෙහෙයුමක් කළහ. නිරාහාරව සිටි අලියා ඉතා අමාරුවෙන් සිය වාසස්ථානය සොයා ගියේය.</body>
+    <comments>
+        <comment>
+            <author>පොතුපිටිය</author>
+            <date>2012-10-26 15:42:03</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-10-26 15:45:49</date>
+            <index>1</index>
+            <phrase>අලි අසරණ වෙලා වගේ හිතට දැනෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංගා</author>
+            <date>2012-10-26 16:02:25</date>
+            <index>2</index>
+            <phrase>අඩි 250 ක් ..? මෙයා මෙහෙම ඉන්න එක හරි පුදුමයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2012-10-26 16:03:15</date>
+            <index>3</index>
+            <phrase>සද් ක්‍රියාව කල සැමට පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2012-10-26 16:32:29</date>
+            <index>4</index>
+            <phrase>අඩි 250 ක් කියලා විශ්වාසද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-10-26 16:27:01</date>
+            <index>5</index>
+            <phrase>පුලූවන් නම් කවුරුත් එක්ක එක්කාසු වෙලා වළේ වැටුණු අනිත් අලි ටිකත් ගොඩට දාන්නකෝ. ඔබලාට ගොඩක් පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත මහින්ද ඉතාලියේ මිලානෝ නගරයේ සිට</author>
+            <date>2012-10-26 17:06:23</date>
+            <index>6</index>
+            <phrase>අහිංසක සතා ගොඩගැනීමට දායක වූණු සියලුම දෙනාට තුති!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමිල</author>
+            <date>2012-10-26 17:03:03</date>
+            <index>7</index>
+            <phrase>අලි දැන් ඇත්තටම අසරණ වෙලා .මෙ හැම දේටම වගකියන්න ඕනි මිනිසා කියන සත්වයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල්</author>
+            <date>2012-10-26 17:28:14</date>
+            <index>8</index>
+            <phrase>අසරණ සතාගේ ජීවිතය බේරාගත් සැමට ගොඩක් පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2012-10-26 17:50:02</date>
+            <index>9</index>
+            <phrase>අඩි 250 ලිඳක්? වර්ග අඩි වෙන්න ඇති නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකේෂ්වර</author>
+            <date>2012-10-26 18:18:58</date>
+            <index>10</index>
+            <phrase>ගෙම්බෝ කවදද අලීන්ගේ පිටේ ගියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-10-26 18:38:31</date>
+            <index>11</index>
+            <phrase>අම්මෝ! අලියා කොහොම ගොඩ ගත්තද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහිංසා</author>
+            <date>2012-10-26 18:51:15</date>
+            <index>12</index>
+            <phrase>හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙනි</author>
+            <date>2012-10-26 18:52:01</date>
+            <index>13</index>
+            <phrase>අනේ අසරණ සත්තු... වනජීවි නිලධාරින්ට ගොඩාක් පිං. වනය, සතා සිවුපාවා රැකුණොත් තමා අපිත්, අපේ රටත් රැකෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-10-26 20:39:02</date>
+            <index>14</index>
+            <phrase>2012 වසරේදී අපේ රටේ අලියන් පුදුම විදියට අසරණ වුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-10-26 22:19:09</date>
+            <index>15</index>
+            <phrase>මේ සතාගේ ජීවිතය බේරන්න වෙහෙස වූ සැමට තෙරුවන් සරණයි..ඔබ සැමට දීර්ඝායු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-10-27 11:08:32</date>
+            <index>16</index>
+            <phrase>උතුම් ක්‍රියාවක්...කකුල් දෙකේ අලි නම් කොහේ හිටියත් එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-10-28 13:27:48</date>
+            <index>17</index>
+            <phrase>පරාජය නම් වූ ප්‍රපාතයට වැටී සිටින අපේ අලිත් ගොඩගන්න ක්‍රමයක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

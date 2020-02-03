@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>8493</articleId>
+    <title>ජම්බුගහ දෙව්දත් මඟේ යයි</title>
+    <author>ජනත් ද සිල්වා</author>
+    <date>2011 ඔක්තෝබර් මස 11 14:21:24</date>
+    <body>කරන්දෙණියේ බෝගහමුල්ලේ නිවෙසක් අසල අඩි 15ක් උසැති ජම්බු ගහක් එක්වරම පොළොවේ ගිළී ගිය බව ගැමියෝ කියති. ඉස්සර මේ පෙදෙසේ මිනිරන් හාරා ඇති බවත් ජාතික ගොඩනැගිලි පර්යේෂන ආයතනය ලවා පරීක්ෂණයක් කරන තුරු එම ප‍්‍රදේශයේ නිකරුනේ නොගැවසිය යුතු බවත් ගාල්ල දිස්ත‍්‍රික් ආපදා කලමනාකරණ සහාකාර අධ්‍යක්ෂ අසිත රණසිංහ මහා ගම්වැසියන්ට උපදෙස් දෙයි.</body>
+    <comments>
+        <comment>
+            <author>උදාර</author>
+            <date>2011-10-11 15:32:12</date>
+            <index>0</index>
+            <phrase>කරන්දෙනියට රාහු ලබල වාගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නොනිමි දිවිය</author>
+            <date>2011-10-11 17:56:31</date>
+            <index>1</index>
+            <phrase>ආගම සංවේදි මාතෘකාවක් .එහි එන දෙවල් හාස්‍ය ඉපදවීමට යොදා ගැනිම ගැන දෙවරක් සිතනවානම් අගය කරමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2011-10-12 13:09:34</date>
+            <index>2</index>
+            <phrase>ලෝක විනාශය අත ලඟම වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

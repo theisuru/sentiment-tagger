@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458245</articleId>
+    <title>නව ගුවන් හමුදාපති ජනපති හමු වෙයි</title>
+    <author></author>
+    <date>2016 සැප්තැම්බර් මස 15 15:41:00</date>
+    <body>ගුවන් හමුදාපති එයාර් මාර්ෂල් කපිල ජයම්පති අද (15) මෛත්‍රීපාල සිරිසේන ජනපති  හමු විය.</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-09-15 11:50:14</date>
+            <index>0</index>
+            <phrase>ඔබට ජය බුදු සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිදු</author>
+            <date>2016-09-15 15:06:05</date>
+            <index>1</index>
+            <phrase>රටට හිතැති නිලධරයෙකු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුම්</author>
+            <date>2016-09-16 07:07:06</date>
+            <index>2</index>
+            <phrase>නාලන්දාවෙන් බිහිවූ තවත් හමුදාපතිවරයෙක්. ඔබට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

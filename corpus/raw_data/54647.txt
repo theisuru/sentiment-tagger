@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54647</articleId>
+    <title>තිසා වැව පතුළෙන් බෝම්බ ගොඩගනී</title>
+    <author>සනත් ගමගේ</author>
+    <date>2012 ජූලි මස 22 11:19:12</date>
+    <body>තිස්සමහාරාමයේ තිසා වැවේ නාන තොටුපොළක් පතුළේ තිබී බෝම්බ දෙකක් ගොඩගැනීමට ජීවිතාරක්ෂක කණ්ඩායම් සහ පොලිස් විශේෂ කාර්ය බළකාය සමත් විය. කතරගම ඇසළ උළෙල සමයේදී රුහුණේ ප‍්‍රධාන වැව් පිරීක්සීම යටතේ කළ සෝදිසියකදී සොයාගත් මේ බෝම්බ යුද හමුදාව සතු බෝම්බවලට සමාන බව කියති.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-22 12:05:32</date>
+            <index>0</index>
+            <phrase>විශේෂ කාර්ය බළකායේ උතුම් රණවිරුවන්ට රටේත්,ජාතියේත්,සම්බුද්ධ ශාසනයේත්,රටේ මහ ජනතාවගේත් ආශිර්වාදය නොමඳව හිමිවේ.ඔබ වැනි විරුවන් ඉපදුන මේ මහ පොළව පින්බරය.උතුම් හෙළ පුතුනි දැයේ අනාගතය ඔබයි.ඔබ සියළු දෙනාටම තේරුවන් සරණයි !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-22 12:06:11</date>
+            <index>1</index>
+            <phrase>හමුදාව සතු බෝම්බ හා කොටි සතු බෝම්බ හැර තවත් බෝම්බ තිබේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-22 12:58:03</date>
+            <index>2</index>
+            <phrase>එම බෝම්බ හැර වෙනත් බෝම්බ තිබේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nuwan</author>
+            <date>2012-07-22 13:25:23</date>
+            <index>3</index>
+            <phrase>ඔව් සුවාමිනි..ඒ මේ බොම්බයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-07-22 13:49:06</date>
+            <index>4</index>
+            <phrase>බෝම්බ නාන්න ගිහින්ද ? නැත්නම් නාන්න ආපු කෙනෙකුගෙන් වැටිලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2012-07-22 14:00:55</date>
+            <index>5</index>
+            <phrase>සුවාමීනි , කොටින්ගේ බෝම්බත් රජයේ බෝම්බත් අමරේලාගේ බෝම්බත් හැර වෙනත් බෝම්බ නොතිබේ .තිබේ නම් එය අශ්චර්යක්ම වෙයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-22 14:15:11</date>
+            <index>6</index>
+            <phrase>වතුරෙන් රන් මතු වෙනවා ගල් මතු වෙනවා ,දෙන බෝම්බත් මතු වෙනවා . නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හනුමා</author>
+            <date>2012-07-22 18:08:38</date>
+            <index>7</index>
+            <phrase>තව මොනවා මොනවා හම්බ වෙයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

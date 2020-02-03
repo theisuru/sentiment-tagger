@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40168</articleId>
+    <title>ලක්ෂ 50ක රට සල්ලි පස්ස පැත්තෙන් එළියට</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 මැයි මස 03 07:32:43</date>
+    <body>රුපියල් ලක්ෂ 50ක රට සල්ලි සිරුරේ සඟවාගෙන කටුනායක ගුවන්තොටින් සිංගප්පූරුවට යාමට ආ ඉන්දියානු ජාතිකයකු(49) පොලිස් මත්ද්‍රව්‍ය කාර්යංශය මගින් අත්අඩංගුවට ගෙන ප්‍රශ්න කිරීමෙන් පසු ගුවන්තොට වැසිකිළියේදී මුදල් එළියට ගෙන ඇත.
+ඇමරිකා හා සිංගපූර් ඩොලර්, ස්විස් ෆ්රෑන්ක් සහ යුරෝ මෙලෙස සඟවාගෙන යන්නට තැත් කළ අතර වැඩිදුර පරීක්ෂණ සඳහා සැකකරු ගුවන්තොට රේගුව බාරයට පත්කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>මරුවින්</author>
+            <date>2012-05-03 09:35:10</date>
+            <index>0</index>
+            <phrase>මෙයා ගුද මාර්ගය ආදායම් මාර්ගයක් කරගෙන වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-05-03 09:36:33</date>
+            <index>1</index>
+            <phrase>සල්ලි වැඩි වෙලා වාගේ. කෑමට ගන්නෙත් සල්ලිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-03 13:06:49</date>
+            <index>2</index>
+            <phrase>හපෝ ඔය විදිහට ගුද මාර්ගය අධෝ මාර්ගය කරගන්න එපා ළමයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්-rome italy</author>
+            <date>2012-05-03 18:00:07</date>
+            <index>3</index>
+            <phrase>අපෝ මේවා අහන කොට සල්ලි එපා වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-05-03 21:13:05</date>
+            <index>4</index>
+            <phrase>ඔය පැත්ත ඔච්චරම විශාලද බොලේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොනිකා</author>
+            <date>2012-05-04 00:48:51</date>
+            <index>5</index>
+            <phrase>කෑමට කොළ නැති නිසා සල්ලි කොළ හරි කන්න ඇති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටී.එස්.</author>
+            <date>2012-05-04 11:22:31</date>
+            <index>6</index>
+            <phrase>අම්මෝ ලක්ෂ පනහක් රෝල් කලාම උනත් සෑහෙන මහත ඇතිනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

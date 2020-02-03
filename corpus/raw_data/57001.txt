@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57001</articleId>
+    <title>පළාත් සභා මන්ත‍්‍රී අත්අඩංගුවට</title>
+    <author>ජනක් ද සිල්වා / ඞීජී සුගතපාල</author>
+    <date>2012 අගෝස්තු මස 05 14:23:40</date>
+    <body>පොලිසියේ රාජකාරියට බාධා කළැයි දකුණු පළාත් සභා මන්ත‍්‍රී ක‍්‍රිෂාන්ත පුෂ්පකුමාර (රත්තරං) අක්මීමන පොලිසියෙන් අත්අඩංගුවට ගනු ලැබීය.
+මඟුල් ගෙදරකට ආ ප‍්‍රාදේශීය සභා මන්ත‍්‍රීවරයකුගේ රියැදුරු බලපත‍්‍රයක ප‍්‍රශ්නයකට ඔහු අනවශ්‍ය ලෙස මැදිහත් වී යැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-08-05 15:03:51</date>
+            <index>0</index>
+            <phrase>දකුණෙද? ආ එහෙනම් කමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2012-08-05 16:22:04</date>
+            <index>1</index>
+            <phrase>කරන කලට පව් මිහිරිය මී සේ.... විඳින කලට දුක් දැඩිවෙයි ගිනි සේ.... ඕක හොඳ පාඩමක් ඔලුව ඉදිමිච්ච හැමෝටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-05 21:54:40</date>
+            <index>2</index>
+            <phrase>මගුල් ගෙදරින් කෑවා මදිවට පොලිසියෙනුත් කන්න වෙලා වගෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ් ප්‍රීනා</author>
+            <date>2012-08-06 12:07:29</date>
+            <index>3</index>
+            <phrase>වරහන් ඇතුළේ (රත්තරන්) කියල දාල තිබුණේ, ඉස්තරම්ම රත්තරන් වෙන නිසාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

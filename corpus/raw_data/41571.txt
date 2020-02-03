@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41571</articleId>
+    <title>බසය පල්ලමේ</title>
+    <author>මහේෂ් කීර්තිරත්න</author>
+    <date>2012 මැයි මස 10 12:49:51</date>
+    <body>මාතලේ ඕවිලිකන්ද දඬුහෙළ පීහිල්ල වංගුවේදී බසයක් පල්ලමකට පෙරැළී එහි ගමන් කළ ඇඟළුම් සේවිකාවෝ 13 දෙනෙක් තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-10 13:22:16</date>
+            <index>0</index>
+            <phrase>දාන්න කාපට්.තියන්න උත්සවයක්.විවෘත කරන්න පාර.ඉවරනේ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-05-10 14:51:01</date>
+            <index>1</index>
+            <phrase>රියදුරු අසුනේ සිටිනා විට ඉවසීමෙන් කටයුතු කරන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-10 20:16:53</date>
+            <index>2</index>
+            <phrase>පවු අහිංසකයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පෙරේරා. (වෙරොනා)</author>
+            <date>2012-05-10 23:05:45</date>
+            <index>3</index>
+            <phrase>රියදුරු මහත්වරුන් අතින් අනතූරු සිදුවන්නේ විනයක් නැති කමින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහනුවර</author>
+            <date>2012-05-11 10:53:41</date>
+            <index>4</index>
+            <phrase>හවසට බොන්න එපා ඩ්රයිවර් මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

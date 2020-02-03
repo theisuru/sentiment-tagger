@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>481360</articleId>
+    <title>සපුගස්කන්ද ආරක්ෂක විද්‍යාලයට සුබසාධක මධ්‍යස්ථානයක්</title>
+    <author>ඩික්සන් වසන්ත</author>
+    <date>2016 නොවැම්බර් මස 17 19:56:07</date>
+    <body>බියගම සපුගස්කන්ද ආරක්ෂක  මාණ්ඩලික විද්‍යාලයයේ සුබසාධක මධ්‍යස්ථාන ගොඩ නැගිල්ල අද ආරක්ෂක රාජ්‍ය අමාත්‍ය රුවන් විජයවර්ධන මහතා අතින් විවෘත විය.
+ආරක්ෂක රාජ්‍ය අමාත්‍යංශයේ ලේකම් ඒ පී ජී කිත්සිරි, ආරක්ෂක සේවා මාණ්ඩලික විද්‍යාලයයේ අණ දෙන නිලධාරී මේජර් ජනරාල් උදය පෙරේරා මහත්වරු ඇතුළු පිරිසක් ද ඊට එක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>විකුම්</author>
+            <date>2016-11-17 22:49:08</date>
+            <index>0</index>
+            <phrase>ආරක්ෂක රාජ්‍ය ඇමතිතුමා මෙලෙස මහත් අභිමානයකින් සිටිනු දැකීම අපිටත් ආඩම්බරයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-11-18 02:25:15</date>
+            <index>1</index>
+            <phrase>ඔබට අපෙන් සුබපැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>505890</articleId>
+    <title>වැඩි මිලට හාල් විකිණු 30 හසුවෙයි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2017 පෙබරවාරි මස 09 16:23:14</date>
+    <body>උපරිම සිල්ලර  මිලට  වඩා වැඩියෙන්  සම්බා, නාඩු සහ කැකුළු සහල් අලෙවි  කළ වෙළෙදුන්  30  දෙනෙකු  පමණ අද (9) අල්ලා ගත් බව පාරිභෝගික අධිකාරිය පවසයි.
+පිටකොටුව සහ මිනුවන්ගොඩ යන ප්‍රදේශ වලදී අල්ලා ගනු ලැබු  මෙම වෙළෙදුන්ට විරුද්ධව ඉදිරි දිනවල නඩු පවරන බවද අධිකාරිය පවසයි.
+ </body>
+    <comments>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-09 21:08:44</date>
+            <index>0</index>
+            <phrase>සහල් වලට පාලන මිලක් ගැසට් කරලා නැතුව කොහොමද දඬුවම් කරන්නේ? මේක තනිකරම කැඳ හැලියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නප්‍රිය</author>
+            <date>2017-02-10 03:45:03</date>
+            <index>1</index>
+            <phrase>ඊට කලින් ගිහින් බලන්න. සුපිරි වෙළඳ සැල් වල තාම හාල් මිල 92 යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2017-02-10 06:35:01</date>
+            <index>2</index>
+            <phrase>දැන් හැම තැනම හාල් විකුණන්නේ වැඩි මිලට. මෙහෙම නම්, වෙළඳුන් හැමෝම අත් අඩංගුවට ගන්න සිදුවේවි. ඔක්කොටම පළමුවෙන් හාල් මාෆියාව මෙහෙයවන `නිපුන නයා` වගේ නායකයන්වයි, අත් අඩංගුවට ගත යුතු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

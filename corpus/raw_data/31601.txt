@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>31601</articleId>
+    <title>ජොන්ස්ටන් කඩේ යයි</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 මාර්තු මස 15 16:13:16</date>
+    <body>ජාත්‍යන්තර පාරිභෝගික දිනය වෙනුවෙන් ජනතාව දැනුවත් කිරීම උදෙසා සමූපකාර හා අභ්‍යන්තර වෙළඳ අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා නුගේගොඩ  වෙළඳ සංකිර්ණයේ  නිරීක්ෂණ චාරිකාවක නිරත විය
+පාරිභෝගික අධිකාරියේ සභාපති රූම් මර්ෂුක් මහතා ඇතුළු අමාත්‍යාංශ නිලධාරියෝ රැසක්ද මේ සඳහා එක්වූහ</body>
+    <comments>
+        <comment>
+            <author>අරුණ උඩුගොඩ</author>
+            <date>2012-03-15 18:18:21</date>
+            <index>0</index>
+            <phrase>හැමදාම කඩේ තමයි ගියේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-03-15 18:42:00</date>
+            <index>1</index>
+            <phrase>යූ එන් පී අය කොහොමත් කඩේ යන එක තමයි කරන්නේ. ඒකේ නායකයත් එහෙමෙනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

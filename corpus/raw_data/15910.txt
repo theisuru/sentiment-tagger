@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15910</articleId>
+    <title>පාතාලේ තව දෙන්නෙක් පැහැර ගැනෙති</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 04 17:45:00</date>
+    <body>නේවි රුවන් හෙවත් දෙමටගොඩ රුවන් සහ නේවි ධම්මික යන දෙදෙනා කතරගම වන්දනාවේ ගොස් වරකාපොල නිවසට එමින් සිටියදී පැහැරගෙන ගොස් ඇතැයි ඔවුන්ගේ සමීප නෑයෝ කියති.
+වරකාපොල පොලීසියට දුරකතනයෙන් මේ බව දැනුම්දුන් නමුත් පොලීසියට පැමිණ පැමිණිලි කරන්නැයි ඔවුන්ට පවසා ඇතැයිද ඔවුහු කියති.
+නාදුනන සන්නද්ධ කණ්ඩායමක් වෑන් රියකින් පැමිණ නේවි රුවන් සහ ධම්මික පැහැරගෙන ඇත්තේ රුවන්ගේ බිරිය ඉදිරිපිටදී බව ද පැවසේ. ඔවුන් රැගෙන ගිය වාහනයේ බව කියන අංකයද පොලීසියට දී ඇත.
+පාතාලයේම ආරවුලකින් පසු නේවි රුවන් පවුලේ සාමාජිකයන් සමග වරකාපොල අප්‍රකට ස්ථානයක මාස කිහිපයක් පදංචි වී සිටි බව කියති.</body>
+    <comments>
+        <comment>
+            <author>සංජීව</author>
+            <date>2011-12-04 18:21:03</date>
+            <index>0</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නසී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්න</author>
+            <date>2011-12-05 19:36:13</date>
+            <index>1</index>
+            <phrase>පාතාලය නැතිවිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2011-12-06 16:14:35</date>
+            <index>2</index>
+            <phrase>පාතළය රටෙන් නැත්තට නැති කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465138</articleId>
+    <title>පවුලකට මැර ප්‍රහාරයක්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 06 08:14:43</date>
+    <body>හොරණ මොරගහ හේනේ නිවෙසකට අද (6) උදෑසන කඩා වැදුනු මැර පිරිසක් තාත්තාටත් පුතුන් දෙදෙනාටත් තියුණු අවි ආයුධ පලින් පහර දී කපා කොටා දමා ඇතැයි ද එක් පුතෙකු මිය ගොස් ඇතැයි ද පොලිසිය කියයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2016-10-06 03:26:10</date>
+            <index>0</index>
+            <phrase>බලනකො ඔය ඇවිල්ලා පහරදීපු කට්ටියගෙන් අඩුමගානේ එක්කෙනක්වත් කලින් ස්ත්‍රී දුෂණයකට හෝ මනුෂ්‍ය ඝාතනයකට අසුවී මාස කිහිපයකින් ඇප පිට නිදහස් වෙලා අා කෙනක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-10-06 03:42:45</date>
+            <index>1</index>
+            <phrase>දෙවියනේ කියලා උදේ තේ කෝප්පෙත් අරගෙන වාඩිවුණේ පත්තරේ කියවන්නයි. මොකක්ද මේ රටේ පාලකයෝ කරන්නේ? එකාට එකාව කපලා කොටලා මරාගෙන ඉවරවෙනකම්ද?ඇයි එල්ලුම් ගහ ගෙනෙන්නේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත</author>
+            <date>2016-10-06 04:18:31</date>
+            <index>2</index>
+            <phrase>රටකට ගිය කලක්. හැමදාම මොකක් හරි වෙලා තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-10-06 08:55:16</date>
+            <index>3</index>
+            <phrase>පොලිස්පතිතුමනි, මෙවැනි දේ සිදුවද්දීත් රටේ අපරාධවල වැඩිවීමක් නැතැයි කියනේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු ප්‍රසන්න</author>
+            <date>2016-10-06 08:57:03</date>
+            <index>4</index>
+            <phrase>දැන් ලංකාවේ මේවා සුලබ වේගෙන යනවා. මිනිසාට මිනිසා ගරු කරන කාලය ඉවරයි. නීති ප්‍රතිපාදන වල දුර්වලතාවය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

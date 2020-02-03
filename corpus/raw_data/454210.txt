@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454210</articleId>
+    <title>අර්බුද හමුවේ එජාපය නොසැළී ඉදිරියට</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2016 සැප්තැම්බර් මස 04 15:59:18</date>
+    <body>ප්‍රශ්න හා අර්බුද හමුවේ නොසැළී එක්සත් ජාතික පක්ෂය වසර 70 ක් ඉදිරියට ගෙන ගිය අයුරින් ශ්‍රී ලංකාව අනාගත දියුණු ලෝකයට රැගෙන යාම සඳහා මූලික වී ක්‍රියා කරන බව පක්ෂ නායක අග්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ බියගම මල්වානේ දී අද (04) පැවසීය.
+ප්‍රථම අගමැති ඩී.එස්. සේනානායක මහතා සියළු ජාති ආගම් ඒකරාශී කරමින් බිහි කළ පක්ෂයේ ඉදිරි ගමන කිසිදිනක නොනවත්වන බව කී වික්‍රමසිංහ මහතා එම ඉිදිරිගමන තවත් ශක්තිමත් කිරීම සඳහා වසර දෙකක් ඇතුළත් පක්ෂය දැවැන්ත ප්‍රතිසන්ධානයකට ලක් කරන බව ද අවධාරණය කළේය.
+එක්සත් ජාතික පක්ෂයේ බියගම - මල්වාන ප්‍රවර්ධන වැඩසටහනට එක් වෙමින් අගමැති මේ බව පැවසීය.
+ආරක්ෂක රාජ්‍ය ඇමැති රුවන් විජයවර්ධන මහතා ද එහි විය.</body>
+    <comments>
+        <comment>
+            <author>උදය</author>
+            <date>2016-09-04 16:28:23</date>
+            <index>0</index>
+            <phrase>ඔහොම යමු! ඉදිරිය සුබයි. ජය නියතයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2016-09-04 18:36:49</date>
+            <index>1</index>
+            <phrase>ඉදිරියටම යන්න වාසනා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-09-04 21:21:44</date>
+            <index>2</index>
+            <phrase>අපිත් ඔබ සමඟයි මැතිඳුනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2016-09-04 23:42:07</date>
+            <index>3</index>
+            <phrase>නියමයි. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2016-09-05 03:14:54</date>
+            <index>4</index>
+            <phrase>ඉදිරියට යමු. අපිත් එනවා. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසින්ත</author>
+            <date>2016-09-05 03:50:35</date>
+            <index>5</index>
+            <phrase>ඉදිරියට යමු. අපි සුබ පතනවා. පක්ෂය ආරක්ෂා කරගෙන ඉදිරියට අාවේ රනිල් මැතිතුමා තමා. මැතිඳුනි, ප්‍රශ්ණ මැඩගෙන රට ගොඩනඟමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවුෂි</author>
+            <date>2016-09-05 04:24:47</date>
+            <index>6</index>
+            <phrase>රටේ සහ ජනතාවගේ දියුණුව සඳහා ඔබ ගන්න වැඩ සටහන් සාර්ථක වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2016-09-05 06:26:33</date>
+            <index>7</index>
+            <phrase>පෙරටම යන්න අගමැති තුමනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-09-05 07:00:19</date>
+            <index>8</index>
+            <phrase>ඉදිරියට යන්න රටක් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසු</author>
+            <date>2016-09-05 07:56:01</date>
+            <index>9</index>
+            <phrase>කොහොමත් වැඩිම වුනොත් අවුරුදු දෙකක් තමා යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-09-05 09:30:30</date>
+            <index>10</index>
+            <phrase>අපි බලාගෙන ඉන්නේ ඉදිරියටද,පිටුපසටද ,යන්නේ කියල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

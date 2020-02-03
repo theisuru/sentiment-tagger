@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>78605</articleId>
+    <title>ඔබමා සපත්තු ගලවා පන්සල් යයි.</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 නොවැම්බර් මස 20 18:31:54</date>
+    <body>මියන්මාර,තායිලන්තය සහ කාම්බෝජයේ නිල සංචාරයක යෙදෙන ඇමරිකා ජනාධිපති බරක් ඔබාමා එම රටවල බෞද්ධ සිද්ධස්ථාන දැකබලා ගැනීමට ඉමහත් උනන්දුවක් දැක්වීය. ඇමරිකා විදේශ ලේකම් හිලරික් ක්ලින්ටන් සමග සපත්තු ගලවා ඔහු පන්සල්වලට ගියේ ආරක්‍ෂක නිලධරයන් නොමැතිවය.
+මියන්මාරයේදී ඔබාමා විපක්‍ෂනායිකා අවුන්සාන් සුකීද හමුවීය. ඔබමා ඇයට ආසියා සිරිතට දෑත් එක්කර ආචාර කළේය.</body>
+    <comments>
+        <comment>
+            <author>හසිත්</author>
+            <date>2012-11-20 18:58:33</date>
+            <index>0</index>
+            <phrase>ඔබාමා මහත්තයට ඔය නිල් පාට ටයි එක විතරමද තියෙන්නේ ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-20 19:27:08</date>
+            <index>1</index>
+            <phrase>ඔය ඔක්ෙකාම රගපෑමි ඒ රටටත් දෙයියන්ගෙම පිහිටයි.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-11-20 19:21:10</date>
+            <index>2</index>
+            <phrase>බුදුදහම සත්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල</author>
+            <date>2012-11-20 19:34:42</date>
+            <index>3</index>
+            <phrase>අගය කල යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාපාවල කටාර්</author>
+            <date>2012-11-20 20:00:08</date>
+            <index>4</index>
+            <phrase>මියන්මාරයේ වර්තමාන නායකයා ඇමරිකාවට ගොට්ට අල්ලන්නේ නැහැ . ඇමරිකාවට ගොට්ට අල්ලන අවොන්සන් සුකී ඊලග පාර පුටුවේ ඉන්ධන්නයි හදන්නේ .ඔය පැමිණීම අනතුරක පෙරනිමිති .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-11-20 21:05:49</date>
+            <index>5</index>
+            <phrase>ඒක හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-11-20 22:42:50</date>
+            <index>6</index>
+            <phrase>ඔබාමත් ලඟදිම බුදු දහම වැලඳගනීවිද !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-21 00:28:34</date>
+            <index>7</index>
+            <phrase>අනෙක් අය ඇයි හිනහාවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-11-21 01:04:11</date>
+            <index>8</index>
+            <phrase>ඔය කුරුමානම අල්ලන්නේ හොඳකට නම් නෙමෙයි , පරිස්සම් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-11-21 04:08:48</date>
+            <index>9</index>
+            <phrase>ආදර්ශමත් වැඩක් නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-21 08:09:37</date>
+            <index>10</index>
+            <phrase>හිනා යනවා අනේ මට. ඒ වුණාට හොද ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-11-21 09:26:03</date>
+            <index>11</index>
+            <phrase>ආගම් වලට ගරු කරන්න එතුමා දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-11-21 09:35:28</date>
+            <index>12</index>
+            <phrase>හොඳයි , හොඳයි මොන අරමුණකින් උනත් මෙය හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-21 09:48:19</date>
+            <index>13</index>
+            <phrase>සුබවාදීව සිතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-21 09:51:18</date>
+            <index>14</index>
+            <phrase>බුදු දහම සියලු දෙනාටම පොදු දහමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිර්ති</author>
+            <date>2012-11-21 11:03:59</date>
+            <index>15</index>
+            <phrase>අපි අගය කරන්න ඕනේ ඒ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2012-11-21 12:44:34</date>
+            <index>16</index>
+            <phrase>ඔව් ෂෙරිෆ් ඔයාට එක ප්‍රශ්නයක්ද ?ඔබාමාත් ක්ලින්ටන් මහතා මෙන් බුදුදහම වලදගනීවී .කෙනෙකුට බුදුදහම වැලදගැනීම හරිම පහසුයි .පන්සිල් ගන්න විතරයි තියෙන්නේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-11-21 12:58:32</date>
+            <index>17</index>
+            <phrase>නිහතමානී නායකයෙක් .. ඒ වගේම ලබන අවුරුද්දේ හිලරි ජනාධිපති වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-11-21 13:34:49</date>
+            <index>18</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2012-11-21 13:44:53</date>
+            <index>19</index>
+            <phrase>නිහතමානීකම !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-11-21 14:15:46</date>
+            <index>20</index>
+            <phrase>ඔබාමා මහත්තයෝ කරුණාකර බංගලාදේශය හා ටිබෙටයේ බෞද්ධයන් ගැනත් සොයා බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2012-11-21 15:02:09</date>
+            <index>21</index>
+            <phrase>මේක අපේ රටට හොඳ ආදර්ශයක්. ටිකක් වැඩිපුර සල්ලි ලැබුණම පන්සලේදි, පල්ලියෙදි, කෝවිලේදි, හැසිරෙන්නෙ කොහොමද කියල දැනගත්තත්,ඒව නොදන්න ගානට සපත්තුදාගෙන, තොප්පිදාගෙන ළමයින්ටත් විකාර ඇඳුම් අන්දගෙන යන ඉහලපැලැන්තියෙ කියාගත්ත, බොහොමයක් මහත්(හො)රු ඕනෙ තරම් ලංකාවෙ දැකල තියෙනව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-11-21 15:21:47</date>
+            <index>22</index>
+            <phrase>ඇයි ඔබාමා මහත්තයා බුදු පිළමයට වතුර කෝප්පයක් දික් කරන්නේ ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද</author>
+            <date>2012-11-21 19:24:10</date>
+            <index>23</index>
+            <phrase>නාපාවලගේ කතාව හරි. සමහර අදහස් දමන අය කතාවවත් හරියට දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-11-21 19:41:00</date>
+            <index>24</index>
+            <phrase>නිහතමානී උතුම් නායකයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2012-11-21 19:41:25</date>
+            <index>25</index>
+            <phrase>අපේ රටට එනවා නම් අපේ අය කොන්දේසි දෙයි ඔබාමාට ඕනෑ විදියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-21 22:38:00</date>
+            <index>26</index>
+            <phrase>පන්සල් වලට යනකොට ඔහොමතමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-21 23:48:09</date>
+            <index>27</index>
+            <phrase>මොනවා වුණත් බුදුපිළිමය ඉදිරියේ හැසිරෙන විදිය මම නම් අනුමත කරන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-22 00:03:46</date>
+            <index>28</index>
+            <phrase>හතරවෙනි පින්තූරයේ විදිහට ලංකාවේ අයෙක් කළා නම් මෙලහටත් ප්‍රශ්නයක්ම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලිංග</author>
+            <date>2012-11-22 00:04:17</date>
+            <index>29</index>
+            <phrase>කවුරු හරි කියන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-11-22 00:29:09</date>
+            <index>30</index>
+            <phrase>සතුටට කාරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අත්තනායක</author>
+            <date>2012-11-22 08:47:00</date>
+            <index>31</index>
+            <phrase>ඔබතුමා කතෝලික උනත් කල වැඩේ වටිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-11-22 10:40:27</date>
+            <index>32</index>
+            <phrase>මුතුකුඩ මම එකගයි ඔබත් සමග බලන්න මොකද කරන්නේ එයා ගිලන්පස පූජා කරලා ඉවර වෙලා කියලා..!(නු) http://www.bbc.co.uk/news/world-asia-20389931</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකරත්න</author>
+            <date>2012-11-22 12:03:40</date>
+            <index>33</index>
+            <phrase>හතරවන ඡායාරූපයේ තේරුම මොකක්ද? මම මේ දන්නේ නැති නිසයි අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-11-22 13:25:25</date>
+            <index>34</index>
+            <phrase>මේවාට කියන්නේ දේශපාලන ජෝක් කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-11-22 13:55:03</date>
+            <index>35</index>
+            <phrase>හතර වෙනි පිංතුරය දැක්කහම ඇත්තටම හදවතට ඒකඟවම කේන්තියක් ඇති වෙනවා . ඇයි කවුරුත් මේවට එරෙහි නොවන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-11-22 14:27:16</date>
+            <index>36</index>
+            <phrase>මෙයා ගිය රටවල් ඔක්කොම විනාසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජබා</author>
+            <date>2012-11-22 15:56:04</date>
+            <index>37</index>
+            <phrase>හතරවෙනි ඡායාරූපයෙන් පෙන්වන්නේ ඔහු බුදුපිළිමය නාවන බවයි. මෙය මියන්මාරයේ සිරිතක් බව බොහෝ දෙනෙක් නොදන්නා හැඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2012-11-22 16:36:59</date>
+            <index>38</index>
+            <phrase>අශෝක හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-22 19:06:08</date>
+            <index>39</index>
+            <phrase>මධුලට ඉතින්මේ වගේ අය තමයි හරි. ඇයි මධුලගේ අදහසුත් ඒ වාගෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-22 19:06:49</date>
+            <index>40</index>
+            <phrase>හතරවැනි පින්තුරයට විරුද්ධව කථාකරන කෙනා මම විතරයි වගෙයි පෙනෙන්නේ. කාටත් ඒ ගැන වැඩි හැගීමක් නැහැ. ලංකාවේ ඔහොම තමයි. යමිදෙයක් නිවැරදි කළත් ඔක්කොමලා හා...හු...ගායි. අන්තිමට මම මමම තමයි ඉතුරු වෙන්නේ. මේවාට කියන්නේ ඌ මට ගහනවා, මට ඌ ගහනවා කියලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-11-22 19:36:41</date>
+            <index>41</index>
+            <phrase>මෙතුමා බුදු රුවකට ගරුකරන ආකාරය වැරදියි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාපාවල කටාර්</author>
+            <date>2012-11-22 20:27:16</date>
+            <index>42</index>
+            <phrase>මුතුකුඩ, මධූලාගේ කට්ටියනේ ඔබාමා. ඒ නිසා ඔබාමා බුදුපිළිමයට මොනවා කළත් ඒක ගානක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-22 22:30:01</date>
+            <index>43</index>
+            <phrase>චින්තක ඔයා මාත් එක්ක එකග වුණාට අනිත් අය එකග නෑනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-11-22 23:04:24</date>
+            <index>44</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-22 23:07:46</date>
+            <index>45</index>
+            <phrase>ඇත්තෙන්ම මොනයම්ම හෝ ආගමකට අපහාස කිරීම රටක නායකයකුගේ යුතුකමක් නොවන්නේය. ඇත්තටම එහි ඇති ඡායාරූප දැකීමෙන් සිත්වේදනා ගෙන දෙන අතර මෙවැනි දේ හෙලා දැකීම අපකාගේත් වගකීම වන්නේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-11-23 01:15:53</date>
+            <index>46</index>
+            <phrase>මුතුකුඩ, ඔයා ළිදේ හිටියට මම මක්කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ඩාර</author>
+            <date>2012-11-23 07:50:22</date>
+            <index>47</index>
+            <phrase>බුදු පිළිමෙට පැන් වක්කරන ක්‍රමයක් බුරුමේ තියනවා . ඒක ඔය කරන්නේ . කලබල වෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2012-11-23 08:02:00</date>
+            <index>48</index>
+            <phrase>පහන්, පන්සිල් ගැනීම බුදු දහම වැළඳ ගැනීම වෙන්නේ නැහැ මම දන්නා තරමට. බුදුරජාණන් වහන්සේට පෙරත් සිල් සමාදන් වීම තිබුණා. තෙරුවන් සරණ යාම තමයි බෞද්ධ වීම ලෙස සැළකෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

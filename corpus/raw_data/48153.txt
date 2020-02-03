@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48153</articleId>
+    <title>රවිනාථ යුරෝපා හවුලේ සභාපති හමුවේ</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 ජූනි මස 14 15:29:43</date>
+    <body>ශ්‍රී ලංකා යුරෝපා සබඳතා හා සංවර්ධන තවත් තර කිරීමේ අරමුණින් යුරෝපා හවුලේ ශ්‍රී ලංකා තනාපති රවිනාථ ආරියසිංහ බ්‍රසල්හි දී යුරෝපා හවුලේ සභාපති හර්මන් වෑන් රොම්පි මුණ ගැසුනේය. උතුරු නැගෙනහිර යුද්ධයෙන් පසුව ඇති වූ ප්‍රගතිය ගැන ද ශ්‍රී ලංකා තානාපති යුරෝපා හවුලේ සභාපතිට කරුණු දැක්වීය.  කොටි සංවිධානයේ  ශේෂ ගත එතෙර කොටස් ශ්‍රී ලංකාවට හානිදායක දේ කළ හැකි බව ද ඔහු කීවේය.</body>
+    <comments>
+        <comment>
+            <author>හසන්ති දිසානායක</author>
+            <date>2012-06-14 17:15:29</date>
+            <index>0</index>
+            <phrase>රවිනාථ කියන මහත්තය දන්නේ පත්තර කාරයෝ ටිකක් ගෙන්නලා "මීඩියා සංදර්ශන" තියන්න විතරයි. එයාට ඕනි බොරුවට ප්‍රතිරූපේ පුම්බගන්න විතරයි. ඔය මනුස්සය දැන් අවුරුදු 25 විතර විදේශ සේවයේ ඉන්නවා, ඒත් මේ වෙනකල් කරපු දෙයක් නැහැ. කරපු එකම දේ තමයි ආණ්ඩුවට විරුද්ධව නඩු දාල පරාද වෙච්ච එක. තමන්ගේ පුද්ගලික ප්‍රශ්න විසඳගන්න බැරිව උසාවි යන මිනිස්සු "රටක ප්‍රශ්න විසඳන්නේ කොහොමද?"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-14 17:25:06</date>
+            <index>1</index>
+            <phrase>ඒ ගොල්ලන්ට කියන එක බීරි අලින්ට වීණා වයනවා වගේ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>rmsk</author>
+            <date>2012-06-14 17:30:43</date>
+            <index>2</index>
+            <phrase>මේවට තමයි නරි නාටක කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-14 19:23:53</date>
+            <index>3</index>
+            <phrase>රවිනාථ හෙරලි කතේ, මදුලු කතේ, ඇට නොකතේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-15 03:50:05</date>
+            <index>4</index>
+            <phrase>සංවර්ධනය කෙසේ වෙතත් එයාලා නම් තර වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

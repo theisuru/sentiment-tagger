@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>344218</articleId>
+    <title>රිලව් මෝටර් සයිකල් යති</title>
+    <author>චමින්ද මඩවල මුම්බායි නුවර සිට</author>
+    <date>2015 අගෝස්තු මස 31 13:39:26</date>
+    <body>ටයිම්ස් ඔෆ් ඉන්දියා පුවත්පතේ මාධ්‍ය වේදිනියක වන මොනිකා කිමානි පසුගිය සෙනසුරාදා සිය මෝටර් රථයෙන් ජායපුර් නගරය ඔස්සේ ගමන් ගන්නා විට ගත් අපුරු ඡයාරුපයකි. රිලවුන් දෙදෙනෙකු පසුපස හිදුවා ගත් තරුණයින් දෙදෙනෙක් ඉතා අධීක වේගයෙන් යතුරු පැදිය ධාවනය කරද්දී කිසිදු බියක් නොමැතිව රිලවුන් දෙදෙනා සිටි යුරු අපේ කැමරා කාචයේ මෙසේ සටහන් විය. </body>
+    <comments>
+        <comment>
+            <author>වන්නි චමින්ද</author>
+            <date>2015-08-31 10:10:10</date>
+            <index>0</index>
+            <phrase>අපෝ ඕක මොකක්ද? ටයිම් ඔෆ් ඉන්දියා මාධ්‍යවෙදිනියට දියවන්නාව ගාවට එන්න කියන්න. පුදුම හිතෙන ඡයාරුප ගන්න පුළුවන්. අන්ත දුෂිතයි කියලා ඡන්දෙදි හංවඩු ගහපු අය, අධිකරණ නියෝග කුණු කුඩේට දානවා කියලා අධිකරණය හැල්ලු කරපු ලොකු ලොක්කෝ ඇමති කම් අරගෙන හෙට අනිද්දා පාර්ලිමේන්තු යන්නේ. අන්න එ්වයි ලෝකෙට පුදුම ෆොටෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2015-08-31 11:23:34</date>
+            <index>1</index>
+            <phrase>කට්ටියකට මෝටර් සයිකල් පදින්න පුළුවන්, අනෙක් අයට බැහැ ඒකයි වෙනස.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලි</author>
+            <date>2015-08-31 11:28:52</date>
+            <index>2</index>
+            <phrase>හෙල්මට් දාගෙන යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2015-08-31 15:26:11</date>
+            <index>3</index>
+            <phrase>වන්නි චමින්ද එල එලම තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

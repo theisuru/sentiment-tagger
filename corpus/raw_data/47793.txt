@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47793</articleId>
+    <title>ලක්ෂ 22ක් වතුරේ</title>
+    <author>එච් චන්දන</author>
+    <date>2012 ජූනි මස 12 16:45:47</date>
+    <body>මුලතිව් තරැව්කරුවකට රුපියල් දෙලක්ෂය බැගින් ගෙවා යාත්‍රාවකින් පුත්තලමේ සිට ඕස්ට්‍රේලියාවට යෑමට සිටි බව කියන මඩකළපු තරුණයෝ 11 දෙනෙක් පුතතලම පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගනු ලැබූහ. උඩප්පුව හෝ දළුව ප්‍රදේශයේ සිට ඩිංගි බෝට්ටු මඟින් ඈත මූහුදට ගොස් එතැන් සිට නැවකට මාරුකර ඕස්ට්‍රේලියාවට රැගෙන යෑමට සූදානම සිටි බවට පොලිසිය සැක කරයි.</body>
+    <comments>
+        <comment>
+            <author>චමල්</author>
+            <date>2012-06-12 16:58:07</date>
+            <index>0</index>
+            <phrase>මේ අය ගිහින් පස්සේ ලංකාවට විරැද්දව උද්ඝෝෂණත් කරනවා.. හිරේ දාන්න තියෙන්නේ අවුරැදු 2 - 3ක් විතර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇමතිතුමා</author>
+            <date>2012-06-12 17:39:10</date>
+            <index>1</index>
+            <phrase>යන්ඩ දෙන්ඩ නේ තිබුනේ ඔය කොල්ලෝ රට ගිහිල්ලා හම්බකරලා එව්වම රටට නේ හොඳ. දැන් පොලිසියේ වේල් 3 කන්ඩ දෙන්න සල්ලි කොහෙන්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩි මල්ලි</author>
+            <date>2012-06-12 20:31:03</date>
+            <index>2</index>
+            <phrase>මම පොඩි කතාවක් කියන්නම්,හැබයි ජාති වාදි කතාවක් කිව්වා කියල නම් කියන්න එපා,මට ගිය අවුරුද්දෙදි හමු උනා ලන්කාවෙන් සරනාගතයින් ලෙස විවිද ක්‍රම මගින් ඔස්ට්‍රෙලියවට ගිය පිරිසක්,එහි සිටි බහුතරයකගේ පළමු බස දෙමල වු අතර සිංහල බස වු අයද විය.ඇත්තෙන්ම ඔවුන් සියලු දෙනාටම ලංකාව යනු අපායක් සහ ඔවුන් එවැනි වැරදි සහගත දේවල් ඔවුන්ගේ වාසියට පැතිරවීම මහත් කනගාටු තත්වයක්.අපේ රටේ පවතින අයුක්ති සහගත දේශපාලනය නැතිනම්,අපි ඕස්ට්‍රේලියාවටත් වඩා ඉහලින් ඉන්න පුලුවන් රටක් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-12 20:29:26</date>
+            <index>3</index>
+            <phrase>පුත්තලම් බූරුවෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීනා</author>
+            <date>2012-06-13 08:57:02</date>
+            <index>4</index>
+            <phrase>ගහපු බෙරේකුත් නෑ බෙරේ පලුවකුත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-06-13 10:42:58</date>
+            <index>5</index>
+            <phrase>පොඩි මල්ලි හරි. ජේ.ආර්.ගෙන් පටන් දේශපාලනය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් කුමාර</author>
+            <date>2012-06-13 11:12:36</date>
+            <index>6</index>
+            <phrase>ඕස්ට්‍රේලියාවට යන්න ඕන තරම් නිත්‍යානුකුල ක්‍රම තිබිලත් ඇයි මෙහෙම වැඩ කරන්නේ. නිත්‍යානුකුලව ගියොත් ප්‍රතිලාභත් ලැබෙනවා. හොරෙන් ගියොත් ජොබ් එකක්වත් දෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16671</articleId>
+    <title>වැනිසියේ රිදී බඩු හොරා ලංකාවෙන්</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2011 දෙසැම්බර් මස 09 15:28:30</date>
+    <body>ඉතාලියේ වැනීසියේ නිවසකින් රිදී හැඳි ගෑරුප්පු හා පිගන් බඩු තොගයක් සොරකම් කළැයි තිස් දෙහැවිරිදි ශ්‍රී ලාංකිකයකු වැනිස් පොලීසිය අත්අඩංගුවට ගත් බව ඉතාලි පුවත්පතක් කියයි. ඔහු එම ගෙදර මුරකරුය.</body>
+    <comments>
+        <comment>
+            <author>සුනිල් ගුණරත්න</author>
+            <date>2011-12-09 18:19:18</date>
+            <index>0</index>
+            <phrase>මේවගේ මිනිස්සු හින්ද අපි ඉතාලියේ ජීවත් වෙලා ඉවරයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාලිංග</author>
+            <date>2011-12-09 19:05:24</date>
+            <index>1</index>
+            <phrase>වැනීසියේ වෙළෙන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus Alavi</author>
+            <date>2011-12-09 19:24:32</date>
+            <index>2</index>
+            <phrase>කන්න දීපු අත සපා කෑම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mohamed fazly</author>
+            <date>2011-12-10 16:59:26</date>
+            <index>3</index>
+            <phrase>ලංකාවේ නම රකින මිනිස්සු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>jma</author>
+            <date>2011-12-11 05:41:34</date>
+            <index>4</index>
+            <phrase>මෙවැනි වැරදි ක්‍රියා හේතුවෙන් ඉතාලි ඡාතිකයන් තුල ශ්‍රී ලාංකිකයන් කෙරෙහි ඇති පැහැදීම නැති වෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොමිදු</author>
+            <date>2011-12-11 12:08:11</date>
+            <index>5</index>
+            <phrase>ලංකාවෙ නමත් කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

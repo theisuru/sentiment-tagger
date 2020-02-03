@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>387886</articleId>
+    <title>රෝහිත මංගල ගීතය එළිදක්වයි</title>
+    <author>අශේන් සේනාරත්න</author>
+    <date>2016 පෙබරවාරි මස 22 13:53:51</date>
+    <body>හිටපු ජනාධිපති මහින්ද රාජපක්ෂගේ බාල පුත්‍රයා වන රෝහිත රාජපක්ෂ ගීතයක් ලියා ගායනය කරයි. එහි තනුව ද ඔහු සතුවේ.
+'මං මුලා වෙලා' නමින් මේ ගීතය එළිදක්වා ඇත.
+ගීතයේ වීඩියෝව පහතින්...</body>
+    <comments>
+        <comment>
+            <author>නිල්මිණි-ජපානය</author>
+            <date>2016-02-22 08:27:36</date>
+            <index>0</index>
+            <phrase>ඇත්ත. කල් ගිහින් හරි තේරිලා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාශ්‍රී</author>
+            <date>2016-02-22 08:28:36</date>
+            <index>1</index>
+            <phrase>කලට ඔබින සින්දුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇල්ෆ්‍රඩ් සිල්වා</author>
+            <date>2016-02-22 08:36:32</date>
+            <index>2</index>
+            <phrase>අති විශිස්ටයි රෝහිත ඔබට ජය. තව නිර්මාණ ගෙනෙන්න. අපේ සුභ පැතුම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-02-22 08:58:17</date>
+            <index>3</index>
+            <phrase>ඕක විතරයි අඩුවකට තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-02-22 08:58:16</date>
+            <index>4</index>
+            <phrase>අති විශිෂ්ටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-02-22 09:02:23</date>
+            <index>5</index>
+            <phrase>ඔබට මාගේ සුබ පැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලානෝ</author>
+            <date>2016-02-22 09:10:21</date>
+            <index>6</index>
+            <phrase>ඔබ දැන් එක රැයකින් ගායකයෙක් වී ඇති බවක් පෙනේ. රාජපක්ෂ දරුවන්ගෙන් ස්ව හැකියාවකින් යමක් කර ඇත්තේ ඔබ පමණි. නමුත් ලාංකික හදවතට කතා කල හැක්කේ ඔබේ ඔය ශෛලයෙන් නොව ස්වභාවික සංගීතයෙන් පමණි. එබැවින් මෙම උත්සාහයද නිෂ්ඵල දෙයක් නොකරගෙන ගායන හැකියාවක් ඇති ඔබ ස්වභාවික සංගීතය දෙසට යොමුවී ලාංකික හදවතට කතා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-02-22 09:22:04</date>
+            <index>7</index>
+            <phrase>ලංකාවේ හොද මිනිස්සු අතර කොච්චර ඊර්ෂියා සහ කුහක මිනිස්සු ඉන්නවද කියල පෙන්නේ මේ කොමෙන්ට්ස් වලින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාජ</author>
+            <date>2016-02-22 09:24:09</date>
+            <index>8</index>
+            <phrase>රෝහිත, ගීතය හොඳයි. එය අද ඇති රිද්මයට සහ තාරුණ්‍යයට ගැලපෙනවා. සංගීතය හදාරමින් ඉදිරියට යන්න. ඔබට මගේ සුබ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2016-02-22 09:28:12</date>
+            <index>9</index>
+            <phrase>දැන් සල්ලි කොහෙන්ද කියල හොයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම් දල්පදාදු</author>
+            <date>2016-02-22 09:30:55</date>
+            <index>10</index>
+            <phrase>රෝහිතට හැකියාවක් තියෙනවා කියල පේනවා. ඊටවඩා පේනවා "මිනිස්සුන්ගේ තියෙන කුහකකම" කෙසේ වෙතත් ඔබට ජය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-02-22 09:33:05</date>
+            <index>11</index>
+            <phrase>මං මුලා වෙලා රොකට් එකක් නිසා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2016-02-22 09:33:02</date>
+            <index>12</index>
+            <phrase>මිලානෝ කියන්නේ නම් කුහකයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2016-02-22 09:48:17</date>
+            <index>13</index>
+            <phrase>මිලානෝ, ඔබගේ අදහස් හරිම මලානිකයි. මේ කතාවට ඔහුගේ පියාගේ දේශපාලනය ගාව ගත යුතු නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි-ජපානය</author>
+            <date>2016-02-22 09:53:23</date>
+            <index>14</index>
+            <phrase>'මං-මුලා වෙලා'.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංකල්ප</author>
+            <date>2016-02-22 10:02:36</date>
+            <index>15</index>
+            <phrase>හදවතින් කතා කරන අයද සිටි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාහේෂ්</author>
+            <date>2016-02-22 09:59:09</date>
+            <index>16</index>
+            <phrase>අපේ උණූසුම් සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-02-22 10:06:42</date>
+            <index>17</index>
+            <phrase>මේවගේ සින්දු, මුහුදේ නාන පින්තුර වගේ එ්වා වලින් පෙනෙන්නේ මානසිකව වැටුන බව හංගන්න දරන බොළඳ උත්සහයක් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2016-02-22 10:14:16</date>
+            <index>18</index>
+            <phrase>මේ රෝහිතගේ කුළුඳුල් ප්‍රයත්නය. මෙයාගේ පැටිකිරිය අපිට වැඩක් නැහැ. තරුණයෙක් හැටියට ඔහුගේ උත්සාහයට අපි ඒ වෙනුවෙන් සුභ පැතුම් පළකිරීම අපේ යුතු කමක් නේද? මෙහි ධනාත්මක නොවන අදහස් පළකරන්න ඇත්තෙන්ම ඒ අයට නිදහස ක් තිබෙනවා නමුත් අද පොහොය දවසේ ඒ අයට මම මෙහෙම කියනවා." කසල සිත් අසල කසල මිස නැත කුසල" කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-02-22 10:18:56</date>
+            <index>19</index>
+            <phrase>දැන්නම් ඇත්ත වමාරන්නම වෙලා වගෙයි...අර රජසැප බලය නැතිව ඉද්දි තේරෙන්නේ මුලා වෙලා වගේමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-02-22 10:29:42</date>
+            <index>20</index>
+            <phrase>ඔබගේ ලස්සන ගීතයට අපේ සුබපැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිචි බාලසුරිය</author>
+            <date>2016-02-22 10:43:26</date>
+            <index>21</index>
+            <phrase>දේශපාලන මත අතහැර කියනවනම් , රෝහිත රාජපක්ෂගේ ගීතය අති විශිස්ටය , පවුලේ දේශපාලන ක්‍රමයෙන් බෙහැරව ගී කලාව පැත්තෙන් යනවනම් හොඳ බැබේලෙන අනාගතයක් තිබෙන බව පෙනෙනවා මගේ සුබපැතුම් ඔබට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-02-22 11:02:58</date>
+            <index>22</index>
+            <phrase>ඔබගේ සින්දුව ලස්සනයි.ඉදිරියට යන්න.ඔබ වාසනාවන්තයෙකි.ජය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර සිල්වා</author>
+            <date>2016-02-22 11:01:41</date>
+            <index>23</index>
+            <phrase>දුමින්ද කියන්නේ ඇත්ත මේ වගේ දේවල් ලියන්න ගොඩක් අයගේ හොද එකමුතු පවුල් පසුබිමක් නැති අය එකයි මෙච්චර කුහක , අපෙ සුබ පතුම් ඔබ උතුම් පියෙකුගේ දරුවෙක් ඔබට වරදින්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2016-02-22 11:31:53</date>
+            <index>24</index>
+            <phrase>අර චීන රොකට් එකට සල්ලි ගෙවලා ශ්‍රී ලංකා නම ගැහුවට වැඩිය මේ වැඩේ හොඳයි.සමහරු නම් ගීතය අසා රසඥතාවයෙන් මුසපත් වෙලා වගෙයි. අනික අපේ රටේ ගායකයෙක් වීම අනාගතයේදී දේශපාලනයටත් හොඳ සුදුසුකමක් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කල්‍යානි ජයවික්‍රම</author>
+            <date>2016-02-22 11:47:57</date>
+            <index>25</index>
+            <phrase>ගල් ශිඛර මැදින් උල්පතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2016-02-22 11:57:58</date>
+            <index>26</index>
+            <phrase>මේ වගේ ගීත දහස් ගණනක් අපේ ගීත අතරේ තිබෙනවා ඒ අතරින් තවත් ගීයක් මේ ගීතයත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2016-02-22 12:21:43</date>
+            <index>27</index>
+            <phrase>ඔබගේ හෝ පියාගේ දේවල් හෝ ඔහුගේ අධ්‍යාපනික දේවල් මේවට ගාව ගත යුතු නැත. එසේ ගාව ගන්න අය නියම කුහකයන්ය.ඔවුන් අධ්‍යයාපනය ලැබුවන් විය නොහැක.ඔබේ නිර්මාණය ගොඩක් හොඳයි. ඔබට සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-02-22 12:18:31</date>
+            <index>28</index>
+            <phrase>මිලානෝ එලි දක්වල තියෙන්නේ ඔහුගේ හදවතේ තියන පැසවීම සහ සින්දුව අහල ගායකයා ගැන ඔහුට හිතුන දේවලුයි. ඇත්තටම එයින් අපිට රෝහිත හෝ ඔහුගේ ගායනය කෙසේවෙතත් මිලානෝ කවුද කියල පෙනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන - ඕස්ට්‍රේලියා</author>
+            <date>2016-02-22 12:26:41</date>
+            <index>29</index>
+            <phrase>මෙය අති විශිෂ්ටයි කියන කෙනෙක් කරුණාකරලා කියනවද මෙම ගීතය අති විශිෂ්ටයි කියන්නේ මොකද කියලා. මටනම් හිතුනේ කතාවක් කියනවා වගේ මියුසික් එක්ක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-02-22 12:34:21</date>
+            <index>30</index>
+            <phrase>ඔය සින්දුව වැලිකඩ හිරගෙදර සැමට අහන්න සලස්වන්න ,අද වගේ දවසක පියා ජනාධිපති. වෙලා හිටියනම් රුපවාහිනියේ ,ගුවන්විදුලියේ සියලුම දේ නතරකර ඔබගේ සින්දුව රජකරන්න. තිබුන හැම දේම වෙන්නේ හොඳටයි පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්-ඇමෙරිකා</author>
+            <date>2016-02-22 13:04:05</date>
+            <index>31</index>
+            <phrase>මෙහි ගායනය තනුව හා එහි රසය දේශපාලන පක්ෂග්‍රාහිවී බලන අයට පෙනෙන්නේ නැහැ. ඔවුන්ට පෙනෙන්නේ ගායකයාගේ පියා ගේ දේශපාලනය විවේචනය කිරීම පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමාල් පෙරේරා</author>
+            <date>2016-02-22 13:09:30</date>
+            <index>32</index>
+            <phrase>හරිම ලස්සනයි. අපේ සුබ පැතුම්. දේශපාලන කන්නාඩියෙන් නොබලමි. රෝහිතගේ හැකියාව අගයමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොඩගේ</author>
+            <date>2016-02-22 13:18:11</date>
+            <index>33</index>
+            <phrase>රජබල නැතිකළ සුළු මිනිසුන් මෙන්, ඔබලා දැන්නම් දුප්පත් අයමෙන්, කෝපය නොවී දෙවියනි ඔවුනට, දෙනු මැන නැවතත් රජ,බල. අප හට දැක්මට විස්කම් පෙරසේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන පනාගොඩ මිලානෝ</author>
+            <date>2016-02-22 13:30:19</date>
+            <index>34</index>
+            <phrase>මෙයා ඒ දවස්වල සින්දු කියන්න ගත්තනම් ඉතින් අනෙක් ගායකයන්ට නිවාඩු යන්න තමයි වෙන්න තිබුනේ අර ඒ දවස්වල රගර් ක්‍රීඩාවට වුනා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-02-22 13:52:18</date>
+            <index>35</index>
+            <phrase>පවුලේ අනිත් අයගේ කෙරුවාවල් ගැන හිතනකොට නම් මේකත් මුන්නැහෙගේම වැඩක්ද කියන එක විස්වාස කරන්න අමාරුයි. කාපු මකුනත් නොකාපු මකුනත් අතරේ වෙනස හොයන්න අමාරුයිනේ. තරහ වෙන්න එපා කිවුවට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීමාලි</author>
+            <date>2016-02-22 14:10:58</date>
+            <index>36</index>
+            <phrase>නන්දන පනාගොඩ ඔයාගේ කතාව නම් සම්පූර්ණ ඇත්ත .මෙයා ඒ දවස්වල සින්දු කියන්න ගත්තනම් අපි රුපවාහිනියක් බලලා හරි රේඩියෝවක් අහල හමාරයි.අනික මෙයා ලංකාවේ හොඳම ගායකයාත් වෙයි. හැබැයි දැන් කලේ සින්දු දිහා බැලුවම මේකෙත් වරදක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-02-22 14:06:13</date>
+            <index>37</index>
+            <phrase>ඉස්සර නම් මෙයා කාර් රේස් ගිහිල්ල දින්නා වගේ සුපර්ස්ටාර් තරඟ සියල්ලමයි, සරසවි සම්මානයි ඔක්කොම ගනියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-02-22 14:39:39</date>
+            <index>38</index>
+            <phrase>ඉතාම අගෙයි. මේක තවත් කොපියක් නෙමෙයි නේද අර සසිකගේ කොපි (බංගලාදේශ්) සින්දුව වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලියද්ද</author>
+            <date>2016-02-22 15:03:42</date>
+            <index>39</index>
+            <phrase>ඔයාට පුළුවන්නේ එඩ්වර්ඩ් ජයකොඩිගෙනුයි රෝහණ වීරසිංහගෙනුයි සංගීතය ඉගෙන ගන්න. ඒ අය මේ සින්දුවට උදව් කළේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2016-02-22 15:23:16</date>
+            <index>40</index>
+            <phrase>මඩ ගහන්න නියම වෙලාව ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-02-22 15:35:35</date>
+            <index>41</index>
+            <phrase>මෙයාට තාත්තාගේ කලා හැකියාව පිහිටලාා තියෙනවා තාත්තත් ඉස්සර රගපැවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2016-02-22 15:57:03</date>
+            <index>42</index>
+            <phrase>අයියා හිරේ ඉඳිද්දී මල්ලි සින්දු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-02-22 16:23:26</date>
+            <index>43</index>
+            <phrase>පුදුමයි. එකපාරටම කලා හැකියාවන් ඉස්මතුවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2016-02-22 16:25:23</date>
+            <index>44</index>
+            <phrase>මෙයා ජනවාරි අටවෙනිදට කලින් සින්දු කිව්වා නම් ඉතින් අපේ විශාරද ගායකයන්ට දෙවියන්ගේම පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-02-22 16:41:55</date>
+            <index>45</index>
+            <phrase>මේ පින්වත් පුත්‍ර රත්නයගේ ඉතිහාසත් එක්ක බැලුවහම මම නම් ඇසින් දකිමින් කණින් ශ්‍රවණය කරනතෙක් මෙය විශ්වාස නොකරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් ජයමාන්න මිලානෝ</author>
+            <date>2016-02-22 16:45:56</date>
+            <index>46</index>
+            <phrase>මහින්ද දැන් හිටියා නම් අයි.ටී.එන්. එකෙයි, රූපවාහිනියෙයි විකාශන ආරම්භයට යන්නේ ජාතික ගීය වෙනුවට මේ ගීතය වෙන්නත් තිබුණා. සියලු රජයේ සේවකයන් මේ ගීතය රිගින් ටෝනය වශයෙන් භාවිත කළයුතු අතර, අවශ්‍ය නම් කාර්යාල වෙලාව තුළ, රජයේ කාර්යාලවල මෙය වාදනය කළ හැකිවනවා ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-02-22 16:54:47</date>
+            <index>47</index>
+            <phrase>හොද සින්දුව. දෑන් පවුලම ඉන්නෙ මංමුලවෙලා වගෙ තමා. බලය තියෙනකල් රොකට් යවනවා, සැටලයිට් යවන්නේ පොඩි එවුන් සරුංගල් අරිනවා වගේ,රේස් පදිනවා,රගර් ගහනවා, සුදු වෑන් යවනවා. බලය නෑතිවුනාම සින්දු කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් - ප්‍රංශය</author>
+            <date>2016-02-22 17:13:29</date>
+            <index>48</index>
+            <phrase>කමල්, මොකද ඉස්සර කියන්නේ? වයසට ගියත් ඒ මනුස්සයා තාමත් හොඳට රඟපානවානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාලිත</author>
+            <date>2016-02-22 17:20:30</date>
+            <index>49</index>
+            <phrase>යෝෂිත හිරේ සිටිද්දී රෝහිත වීණා වාදනය කරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-02-22 17:34:23</date>
+            <index>50</index>
+            <phrase>පද රචනයත් මෙයාගේ, තනුවත් මෙයාගේ, ගායනයත් මෙයාගේ. බලාගෙන යනකොට නූතන තරුණ ගායකයින් කැලේනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2016-02-22 17:51:42</date>
+            <index>51</index>
+            <phrase>ඇයි දැන් රොකට් හැදිල්ල අතරමඟ නැවතිලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඈන්</author>
+            <date>2016-02-22 18:04:27</date>
+            <index>52</index>
+            <phrase>මේක මේ පොඩි කොල්ලො කියන එකම අච්චුවේ විරහ ගීතයක්නේ. ඔය වගේ සිංදු ලංකාවේ ඕන තරම් තියෙන්නේ දවසින් දෙකෙන් අමතක වෙලා යන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2016-02-22 19:18:32</date>
+            <index>53</index>
+            <phrase>ඔබට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2016-02-22 20:16:21</date>
+            <index>54</index>
+            <phrase>මේකේ අදහස් දාල තියෙන සමහර අයගේ කුහක ගතිය හොඳට පෙනෙනවා ඔය එක්කෙනෙක් වත් වැරදි කරලා නැතුව ඇති නේද? පොඩි එකෙක්ගේ සින්දුවක් දැකල සතුටු වෙන්න බැරි අය ඉන්න රටක ඉපදුන එක ගෙන දුකකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන - ඕස්ට්‍රේලියා</author>
+            <date>2016-02-22 20:51:40</date>
+            <index>55</index>
+            <phrase>සමන්-ඇමෙරිකා, ගායනය, තනුව, රසය හා ඔබගේ ඒ පිළිබඳව ඇති දැනුම ඉතාමත් ළදරු ලාබාල නොමේරූ අවස්ථාවේ ඇති බවයි මට නම් පෙනීයන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන - ඕස්ට්‍රේලියා</author>
+            <date>2016-02-22 20:59:57</date>
+            <index>56</index>
+            <phrase>කමල්, ඉස්සර නෙමෙයි තාමත් රඟපානවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලිකා</author>
+            <date>2016-02-22 21:05:13</date>
+            <index>57</index>
+            <phrase>විශිෂ්ටයි. ඔබට හැකියාවන් දියුණු කරගැනීමට වාසනාව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවනෙක</author>
+            <date>2016-02-22 21:48:24</date>
+            <index>58</index>
+            <phrase>දුප්පත් මිනිස්සු වෙනුවෙන් මොනවාහරි කරන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-02-22 21:50:31</date>
+            <index>59</index>
+            <phrase>නන්දන පනාගොඩ, පිටිගල මිලානොලා ඒ කාලේ ඉඳලා මේ තීරයට හරවත් අදහස් ලියන අය. ඒ නිසා අපි ඒ අදහස් පිළිගන්න ඕනෑ. ඒ අය වපුරපු දේවල පල අද නෙළනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසාදර</author>
+            <date>2016-02-22 21:59:00</date>
+            <index>60</index>
+            <phrase>ගොඩක් ලස්සන සින්දුවක්. සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-02-22 23:06:14</date>
+            <index>61</index>
+            <phrase>සාගර ඔබ හරියට හරි ඔබ ලියු නිසා මම නොලියමි. සාගර මේවා සිංහලයාගේ ජරා ගති. ඕව වෙනස් කොරන්න සක්කරයටවත් බැරිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-02-22 23:15:49</date>
+            <index>62</index>
+            <phrase>ගොඩගේ රාජබල නැති වුනාට ඒගොල්ල දුප්පත් නැත එ්ක මතක තියා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-02-22 23:10:09</date>
+            <index>63</index>
+            <phrase>හර්ෂ මඩනම් මොකෝ මේගොල්ලෝ අනික් ඒවත් හොඳට අනල ගනී ගහන්න ඕනේ වුනාම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක</author>
+            <date>2016-02-23 00:52:17</date>
+            <index>64</index>
+            <phrase>ඔය දරු තිදෙනාම දක්ෂයින්. ඔබට සුබ පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2016-02-23 00:52:39</date>
+            <index>65</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක</author>
+            <date>2016-02-23 00:53:35</date>
+            <index>66</index>
+            <phrase>කමල්, එයාගේ තාත්තා රඟපෑවේ නැත්නම් ඔයාට දඟලන්න රටක් ඉතුරුවෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරච්චිගේ</author>
+            <date>2016-02-23 00:50:26</date>
+            <index>67</index>
+            <phrase>සමහරුන්ට නම් හිතට අමාරුයි වගේ කියන කතාවලින් පේනවා. හොඳ මහත්මයෙකුගේ දරුවෙක්නේ. පියාණන් වගේ තැබු පය ඉදිරියටම යන්න. අපගේ සතුට සමඟ ඉදිරි ගමනට ආශීර්වාද කරමු . ඔබට පමණක් නොවේ ඔබ පියාණන්ටත් එසේමයි. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-02-23 00:59:26</date>
+            <index>68</index>
+            <phrase>දැන් ඇහෙන සමහර සින්දු වලට වඩා නම් හොඳයි. තරුණ අය නම් සෑහෙන කැමතිවෙයි. එහෙත් කටහඬ තව පුහුණු කරගන්න පුලුවන් නම් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-02-23 01:30:58</date>
+            <index>69</index>
+            <phrase>ඕස්ට්‍රේලියාවේ චන්දන කියන්නේ තිලක් ඩුබායි සහ පිටිගල මිලානෝ සමාගමේ තවත් පුරුකක් වගේ. එක් කෙනෙටවත් ලංකාවට ඇවිල්ලා සින්දුවක් කියන්න බැරිද අනුන්ට බැන බැන ඉන්නකම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2016-02-23 02:56:19</date>
+            <index>70</index>
+            <phrase>ඔහුට සියුම් කටහඬක් ඇත. එහි ගැඹුරු ස්වභාවයක් නැත.කෙසේ නමුත් ඔහුට සුබ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි</author>
+            <date>2016-02-23 03:26:49</date>
+            <index>71</index>
+            <phrase>ඔබගේ ඉදිරි ගමනට මාගේ සුබ පැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2016-02-23 03:42:15</date>
+            <index>72</index>
+            <phrase>සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2016-02-23 03:44:38</date>
+            <index>73</index>
+            <phrase>අභ්‍යාවකාශයට යන අදහස අතැරලා වගේ. ගායනයෙන්වත් ඉස්සරහට යන්න පුළුවන් නේ සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-02-23 03:55:01</date>
+            <index>74</index>
+            <phrase>අවසාන පෝරකේ.... දැක පේන මානයේ............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-02-23 03:55:16</date>
+            <index>75</index>
+            <phrase>හරි හමන් නීතියක් රීතියක් තිබෙන රටකනම් මෙයාගේ දක්ෂ කම් බලන්න තිබුනේ හිරේ ඇතුලේ ඉදලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-02-23 03:58:32</date>
+            <index>76</index>
+            <phrase>රෝකට් රෝහිත හිතල තියෙන්නේ චන්ද්‍රිකාවක් යවනවා කියන්නෙත් හරියට අහස් කුරක් අහසට යවනවා වගේ සුළු දෙයක් කියලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල් ගලප්පත්ති</author>
+            <date>2016-02-23 05:22:33</date>
+            <index>77</index>
+            <phrase>අනේ මන්දන්නෑ.... මේ දරුව එක වෙලාවකට රොකට් යවනව. තව වෙලාවකට සින්දු කියනව..... කොහොම උනත් හොඳ හඩක් තිබෙනවා. සුබ පැතුම්..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.උපුල්</author>
+            <date>2016-02-23 05:24:40</date>
+            <index>78</index>
+            <phrase>රොකට් ඇරිය වගේ නැතිව මේකවත් හරියට කරගන්න බේබි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2016-02-23 05:29:40</date>
+            <index>79</index>
+            <phrase>සුබ පැතුම් රෝහිත අයියේ තවත් ගීත එළිදක්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

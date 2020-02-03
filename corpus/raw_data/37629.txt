@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37629</articleId>
+    <title>කිඹුලාට ගොඩ එන්න  මූදු රැල්ල ඉඩ නොදේ</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 අපේ‍්‍රල් මස 19 15:10:22</date>
+    <body>මාතර නිල්වලා ගං  මෝයෙන් මූහුදට ගසාගෙන ගිය කිඹුලකු ගොඩට ඒමට පැය ගණනාවක් තිස්සේ සටන් කළත් වේගවත් රැල්ල ඊට ඉඩ දුන්නේ නැත. මන්දක් ගසා කිඹුලා ගොඩට ගෙන මුදාහැරීමට නියමිතය මීට වසරකට පෙර ද කිඹුලෙක් මූහුදට ගසාගෙන ගියේය.
+නිල්වලා ගගේ ඉන්නා ගැට කිඹුලන්ට මුහුදට යාමේ හැකියාව ඇතැයි ලෝක කිඹුල් විශේෂඥ කමිටුවේ උප සභාපති ඇන්ස්ලම් ද සිල්වා මහතා පවසයි. විද්‍යාත්මකව ක්‍රොකඩයිලස් පොරෝසස් ලෙස හදුන්වන මේ කිඹුලා ඉංග්‍රීසි බසින් සෝල්ට් වෝටර් ක්‍රොකඩයිල් ලෙස හදුන්වන්නේ මුහුදේද වඩදිය අවස්ථාවේදී මුහුදු ජලය සහිත මෝය ආශ්‍රිතව ද ජීවත් වීමේ හැකියාව ඇති බැවිනි.</body>
+    <comments>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-04-19 15:51:42</date>
+            <index>0</index>
+            <phrase>ලස්සන කිඹුලෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-04-19 15:53:36</date>
+            <index>1</index>
+            <phrase>කිඹුලටත් ගිය කලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොමි කොල්ලා</author>
+            <date>2012-04-19 15:59:32</date>
+            <index>2</index>
+            <phrase>මුහුදු රැල්ල ඔස්සේ කිමුලෙක් ඇදී යනවෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වේමා</author>
+            <date>2012-04-19 16:23:11</date>
+            <index>3</index>
+            <phrase>මීට කාලයකට කලින් කොළඹ වැල්ලවත්ත ප%දේශයෙනුත් මේ වගේ දෙයක් වාර්තා වුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගා ශානි.</author>
+            <date>2012-04-19 18:40:25</date>
+            <index>4</index>
+            <phrase>ලුණු වතුර ටිකක්වත් නාගන්න දෙන්නේ නැද්ද අපේ මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

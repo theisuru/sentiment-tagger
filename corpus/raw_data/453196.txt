@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>453196</articleId>
+    <title>බිම් බෝම්බ ඉවත් කරන්න ජපන් ආධාර</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 01 13:50:13</date>
+    <body>ශ්‍රී ලංකාවේ උතුරේ බිම් බෝම්බ ඉවත් කිරීමේ මෙහෙයුමට ජපන් රජය රුපියල් 86,399,929 ක ආධාර දීමට තීරණය කර ඇත.
+‘ද හෙලෝ ට්‍රස්ට්‘ බිම්බෝම්බ ඉවත් කිරීමේ ව්‍යාපෘතිය ඔස්සේ මෙම ආධාර මුදල් මෙරටට පිරිනැමේ.</body>
+    <comments>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-09-01 10:07:58</date>
+            <index>0</index>
+            <phrase>ඇමෙරිකන් වැඩක් වගෙයි. උතුරේ බිම්බෝම්බ දැන් කොහෙද තියෙන්නේ? අපේ රණවිරුවෝ ඒවා ඉවත් කරලා ඉවරයි. ඒවා කරන කාලේ මොවුන් කොහෙද හිටියේ. මේ මොකක්හරි මගඩියකට අර ඇදීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්තනි</author>
+            <date>2016-09-01 10:18:04</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා! ජපානයටත් දැන් යන එන මං නැති කාලේ ඔහොමහරි කීයක්හරි දෙන එක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

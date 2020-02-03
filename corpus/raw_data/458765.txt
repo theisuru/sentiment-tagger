@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458765</articleId>
+    <title>පුත්තලම - හලාවත පාරේ විරෝධයක්</title>
+    <author>ජුඩ් සමන්ත ක්‍රිස්පිල් ප්‍රනාන්දු</author>
+    <date>2016 සැප්තැම්බර් මස 18 15:05:16</date>
+    <body>මුන්දලම - බරනන්කට්ටුව මාර්ගය කඩිනමින් ප්‍රතිසංස්කරණය කර ලෙස  ඉල්ලමින් ගම්වැසියෝ අද(18) සිදුකළ විරෝධතාවයක් හේතුවෙන් පුත්තලම - හලාවත මාර්ගයේ ගමනාගමන කටයුතු වලට බාධා ඇති විය.
+බරනක්කට්ටුව රජයේ විද්‍යාලය අසලට එක්වූ ගම්වාසීහු  අබලන් මාර්ගය ඔස්සේ  සැතපුම් 05 ක් පමණ දුරක් ගෙවමින් මුන්දලම නගරයට පැමිණ විරෝධය පෑහ.
+විරෝධතාවයට එක්වී සිටි ස්වාමීන් වහන්සේ නමක් හා වයඹ පළාත් මාර්ග සංවර්ධන අමාත්‍ය ගුණදාස දෙහිගම මහතා අතර පැවති දුරකථන සංවාදයකින් පසු ඉදිරියේදී සාකච්ඡාවක් ලබාදී ගැටලුවට විසඳුම් ලබාදීමට පොරොන්දු වීමත් සමග විරෝධය අවසන් කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-09-18 12:18:51</date>
+            <index>0</index>
+            <phrase>මේක නම් වසංගතයක්. ප්‍රශ්න වලට විසඳුම් නම් අවශ්‍යයි. නමුත් මේ උද්ඝෝෂණ වලට යම් නීතියක් ගෙන ආ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2016-09-18 12:35:27</date>
+            <index>1</index>
+            <phrase>පාර හදාගන්න ඕනෑනම් එකට සම්බන්ධ රාජ්‍ය ආයතනයට යන්න ඕනෑ. අහිංසක මිනිස්සු යන මහපාරේ නිදාගන්නේ නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂා</author>
+            <date>2016-09-18 14:36:59</date>
+            <index>2</index>
+            <phrase>දැන් දවස ගානේම උද්ඝෝෂණයක් නැති දවසක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජස්ටින්</author>
+            <date>2016-09-18 15:53:39</date>
+            <index>3</index>
+            <phrase>උද්ඝෝෂණ ලංකාවේ විලාසිතාවක් වෙලා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිවංක</author>
+            <date>2016-09-19 03:45:04</date>
+            <index>4</index>
+            <phrase>අවුරුදු 50ක් තිබුණ පාර හදාගන්න දැන් තමා මතක්වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2016-09-19 04:18:48</date>
+            <index>5</index>
+            <phrase>කිසිම විශේෂ වරප්‍රසාදයක් මේ අයට දෙන්න එපා, අපේ පාරත් කැඩිලා තියෙන්නේ....මේගොල්ලන්ට විතරක් හොඳ පාරවල් එපා,අපිටත් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිවංක</author>
+            <date>2016-09-19 05:54:57</date>
+            <index>6</index>
+            <phrase>අප්පච්චිගේ කාලේ නම් මේ එක උද්ඝෝෂණයක්වත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්ති</author>
+            <date>2016-09-19 06:34:12</date>
+            <index>7</index>
+            <phrase>එ්ක නම් ඇත්ත. මේක දැන් විලාසිතාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්ති</author>
+            <date>2016-09-19 06:43:24</date>
+            <index>8</index>
+            <phrase>මහින්ද රාජපක්ෂ නම් ඕවට ඉඩ තිබ්බේ නැහැනේ. කරන්න යද්දීම වුණේ මොකක්ද කියලා කට්ටිය දන්නවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

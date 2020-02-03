@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>421783</articleId>
+    <title>මොරටු  සරසවිය රොබෝ පිම්මත් පනී</title>
+    <author>ගයාන් සූරියආරච්චි</author>
+    <date>2016 ජූනි මස 01 12:00:40</date>
+    <body>විදුලි හා ඉලෙක්ට්‍රෝනික ඉංජිනේරුවන්ගේ ආයතනය සංවිධානය කරන ලංකා රොබෝ තාක්‍ෂණ වැඩමුළුව අද (01) පස්වරු 5.30 ට දෙමටගොඩ වර්චුසා ශ‍්‍රවණාගාරයේදී පැවැත්වේ.
+මොරටුව විශ්ව විද්‍යාලයේ ඉංජිනේරු පීඨයේ මහාචාර්ය රොහාන් මුණසිංහ සහ කථිකාචාර්ය නලින් කරුණාසිංහ, ආචාර්ය සනත් ජයවර්ධන,  හේෂාන් පෙරේරා,අනුරාධ වීරමන් යන මහත්වරුන් දේශන පැවැත්වීමට නියමිතය.
+පළමුවරට සංවිධානය මෙම රොබෝ තාක්‍ෂණ වැඩමුළුව ශ්‍රී ලංකා රොබෝ තාක්‍ෂණයේ ඉදිරි ගමනට මහත් රුකුලක් වන බවත් මේ පිළිබඳව උනන්දුවක් දක්වන සියලූ දෙනාට මෙම අවස්ථාවට නොමිලයේ සහභාගිවිය හැකි බවත් සංවිධායක මණ්ඩලය කියයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2016-06-01 23:26:14</date>
+            <index>0</index>
+            <phrase>ඇයි දෙයියනේ ඔය ළමයිත් කැළණියේ හොඳ, පින්වත් දූ දරුවෝ වගේ ස්ට්‍රයික් කරලා රට තව ටිකක් පස්සට තල්ලු කරන්න උනන්දු වෙන්නේ නැත්තේ? මොරටු දරුවන්ට මගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-06-02 06:30:02</date>
+            <index>1</index>
+            <phrase>මගේ ප්‍රණාමයත් මොරටු සරසවියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2016-06-02 08:28:59</date>
+            <index>2</index>
+            <phrase>මොරටුව සරසවියෙන් සෑම අවුරුද්දකම වෘත්තිකයින් අතරට ඉංජිනේරුවන් එකතු වුනත් රටේ ඉදිකිරීම් වලට විදේශික ඉංජිනේරුවන්ගේ සහය ලබාගෙන අපේ සල්ලි ටික පිටරට යවන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කර්තිනි</author>
+            <date>2016-06-02 08:41:27</date>
+            <index>3</index>
+            <phrase>මගේ ප්‍රණාමය වර්චුසා ආයතනයට ! ඔවුන් ලංකාවේ තාක්‍ෂණයේ ඉදිරි ගමනට මහත් රුකුලක් විය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්ප</author>
+            <date>2016-06-02 11:56:24</date>
+            <index>4</index>
+            <phrase>මේ විශ්ව විද්‍යාලයේ ළමයි විතරයි රටට වැඩක් කරන දෙයක් ඉගන ගන්නේ. ගොඩක් කට්ටිය රටට බරක් වන වැඩ තමයි කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි පෙරේරා</author>
+            <date>2016-06-03 04:26:28</date>
+            <index>5</index>
+            <phrase>මගේ ප්‍රණාමයත් මොරටු සරසවියට......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2016-06-04 12:31:55</date>
+            <index>6</index>
+            <phrase>ශාන්ත මහත්තයෝ අපේ රටට පිටරට ඉංජිනේරුවන්ගේ සහයෝගය ලබාගන්න සිද්දවෙන්නේ ආදාර දෙන රටවලින් දාන කොන්දේසි නිසා මිසක් අපේ ඉංජිනේරුවන්ට වැඩ බැරි නිසා නෙවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

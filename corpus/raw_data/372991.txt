@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>372991</articleId>
+    <title>කිරි ඉතිරැවීමත් ලේසි නෑ</title>
+    <author>කාංචන කුමාර ආරියදාස  එච්චන්දන</author>
+    <date>2015 දෙසැම්බර් මස 31 11:07:06</date>
+    <body>ජනවාරි 1 වැනිදා කිරි ඉතිරවීමට නැවුම් මුට්ටි ගැනීමට බොහෝ දෙනෙක් අද කඩපිල්වලට ගියහ.
+ගිය වසරට වඩා මේ වසරේ මුට්ටි මිල දෙගුණයකටත් වඩා ඉහළ ගොස් තිබිණි. මැටි සොයා ගැනීමේ අපහසුවත් බොහෝ දෙනකු එම කර්මාන්තයෙන් ඈත්වීමත් මිල ඉහළයාමට හේතුව බව කියති.
+ගිය වසරේ රුපියල් 20ක් වූ මුට්ටිය දඹුල්ලේදී අද අලෙවි වූයේ රුපියල් 50 - 75 අතර ගණනකටය. පුත්තලමේ එදා අද මුට්ටි මිල මෙසේය.
+2015 කිලෝවේ මුට්ටිය රුපියල් 60 - 2016 රුපියල් 100
+2015 කිලෝ 2 මුට්ටිය  රුපියල් 120 - 2016 රුපියල් 200
+2015 කිලෝ 3 මුට්ටිය රුපියල් 150 - 2016 රුපියල් 300
+ගිය වසරේ මුට්ටි තුනක් ගත් කතක කීවේ මෙවර රුපියල් 100 මුට්ටියක් ගත් බවයි.
+අයියනායක දෙවියන් වෙනුවෙන් කිරි ඉතිරවීම සම්ප්‍රදායක් බව ජනයා කියති.
+
+ජායාරූප - ඒච් චන්දන
+
+ජායාරූප - කාංචන කුමාර ආරියදාස
+ </body>
+    <comments>
+        <comment>
+            <author>පත්මබන්දු</author>
+            <date>2015-12-31 07:08:43</date>
+            <index>0</index>
+            <phrase>මුට්ටි අල්ලන්න නම් එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2015-12-31 07:09:17</date>
+            <index>1</index>
+            <phrase>මේවා හදන අය විතරයි දන්නේ මහන්සිය. අඩුම ගන්නේ රුපියල් 300ක් වත් වෙන්න ඕම ඔය මුට්ටියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-12-31 08:53:22</date>
+            <index>2</index>
+            <phrase>අයවැයේදී මුට්ටි බිඳ ගැනීමේ ප්‍රතිපලද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2015-12-31 11:45:20</date>
+            <index>3</index>
+            <phrase>හේමන්ත, ඇත්තටම ඔය දේ අපේ කීයෙන් කි දෙනෙකුටද තේරෙන්නේ. පිට රටක වුනා නම් දෑත හුරු කර්මාන්තයකට මොන පිළිගැනීමක්ද තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-01-02 13:51:08</date>
+            <index>4</index>
+            <phrase>කිරි උතුරවන දවසට පමණයි මැටි මුට්ටි මතක් වෙන්නේ. අනිත් දවස්වල සිලින්ඩර වායුවෙන් වායු ළිපෙහි ඇලුමිනියම් වළං වලනේ උයන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-01-02 18:27:55</date>
+            <index>5</index>
+            <phrase>දැන් මොනදේද ගණන් නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

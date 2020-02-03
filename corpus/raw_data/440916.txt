@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>440916</articleId>
+    <title>ආයුර්වේද උපාධිධාරිහූ රැකියා ඉල්ලා පාරට බසිති</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 ජූලි මස 26 12:30:50</date>
+    <body>රැකියා විරහිත ආයුර්වේද වෛද්‍ය උපාධිධාරීහු අද (26) රාජගිරිය ආයුර්වේද වටරවුමෙන් විරෝධතා පාගමනක් ඇරඹූහ.
+ආයුර්වේද වෛද්‍ය උපාධිධාරීන්ට රැකියා ලබාදෙන්නැයි කියමින් ඔවුහු විරෝධය දක්වමින් මුදල් අමාත්‍යංශය කරා පාගමනින් යෑමට නියමිතය. ආයුර්වේද වෛද්‍ය සිසුවෝද ඊට සහාය පළ කරමින් පාගමනට එක්ව සිටිති.</body>
+    <comments>
+        <comment>
+            <author>ආර්නෝල්ඩ්</author>
+            <date>2016-07-26 07:23:33</date>
+            <index>0</index>
+            <phrase>මෙච්චර සංඛ්‍යාවක් රැකියා නැතුව අවුරුදු 6 ක් නිකන් සිටීම ලොකු අපරාධයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2016-07-26 08:24:59</date>
+            <index>1</index>
+            <phrase>ආයුර්වේද උපාධියක් තියෙනවනම් වෛද්‍ය මධ්‍යස්ථානයක් ගෙදර හරි දාගන්න බැරි ඇයි? මහජන මුදලින් නොමිලේ අධ්‍යාපනය දීල රජයෙන්ම රැකියාත් සපයල දීල රජය මගින් තව මොනවද දෙන්න තියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි</author>
+            <date>2016-07-26 08:35:09</date>
+            <index>2</index>
+            <phrase>ඔහෝ මේ අපේ වෙද්දු ටිකනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලික්</author>
+            <date>2016-07-26 10:16:47</date>
+            <index>3</index>
+            <phrase>සමහරු හිතන්නේ මේ රටේ ඉපදුනා නම් අධ්‍යාපනය රස්සාව විතරක් නෙවෙයි පරස්තාවටත් රජය සහ මහජනයා කර ගහන්න ඕන කියලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-07-26 13:36:11</date>
+            <index>4</index>
+            <phrase>මොවුන්ට මේ රටේ රැකියා අවස්ථා නැත්නම් මොකටද මේවා උගන්වන්නේ හා ඉගෙනගන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-07-26 16:25:46</date>
+            <index>5</index>
+            <phrase>රජය විසින් ලක්ෂ 20 කට වඩා මුදලක් වැයකර උපාධිය ලබා දී ඔවුන්ගෙන් නිසි ප්‍රයෝජන නොගන්නේ ඇයි? පුද්ගලික එකක් කරගෙන ඔවුන්ට පාඩුවේ ඉන්න පුලුවන්. ඒත් එ්කෙන් රට වෙනුවෙන් ඔවුන්ට සේවයක් කරන්න පුලුවන්ද? නොමිලේ බෙහෙත් කරන්න පුලුවන්ද? රජයේ රැකියා ඉල්ලන්න හේතු ගොඩක් තියෙනවා. ඔවුන් වසර 6ක් රජයේ මුදල් වලින් ඉගෙනගන්නේ රජයේ සේවයට නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිල්ෂාන්</author>
+            <date>2016-07-27 06:19:56</date>
+            <index>6</index>
+            <phrase>පුද්ගලික වෛද්‍ය මධ්‍යස්ථාන ආරම්භ කළොත් ඒකෙනුත් තැලෙන්නේ අසරණ ලෙඩ්ඩු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉම්රාන්</author>
+            <date>2016-07-27 09:31:16</date>
+            <index>7</index>
+            <phrase>අනේ මන්දා, රටේ හැමතැනම ප්‍රශ්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

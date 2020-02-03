@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15411</articleId>
+    <title>පෙළපාළි ගියේ රස්සා ඉල්ලන්නයි</title>
+    <author>සමන්ත පෙරේරා</author>
+    <date>2011 නොවැම්බර් මස 30 19:33:36</date>
+    <body>රැකියා ලබාදෙන්නැයි රජයට බල කරමින් ජනතා විමුක්ති පෙරමුණට හිතවත් සමාජවාදී ශිෂ්‍ය සංගමය අද සවස කොළඹ කොටුවේ සිට මුදල් අමාත්‍යාංශයට ගිය ගමන පොලිසිය විසින් අවහිර කැරිණි.කොටුවේ පොලිස් මාර්ග බාධක පෙරලා දමා පරණ පාර්ලිමේන්තුව දෙසට යන්නට උත්සාහ කළ අවස්ථාවේ පොලිසිය කඳුළු ගෑස් ගැසූවත් වැස්ස නිසා එහි බලපෑම බෙහෙවින් අඩු විය.</body>
+    <comments>
+        <comment>
+            <author>samantha</author>
+            <date>2011-11-30 20:10:49</date>
+            <index>0</index>
+            <phrase>ඉදිරියටම යමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>titus</author>
+            <date>2011-11-30 20:18:31</date>
+            <index>1</index>
+            <phrase>මෙහෙම ගියාම රැකියා ලැබෙනවාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-30 20:53:09</date>
+            <index>2</index>
+            <phrase>කොල්ලන්ගෙන් ඉගෙන ගන්න පොළපාළියක් යන හැටි. මෙම පිරිසට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sarath</author>
+            <date>2011-11-30 20:50:45</date>
+            <index>3</index>
+            <phrase>තරුණ අරගලයට ජය වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ranga shani</author>
+            <date>2011-11-30 21:19:23</date>
+            <index>4</index>
+            <phrase>රට කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ratne de silva</author>
+            <date>2011-11-30 21:55:58</date>
+            <index>5</index>
+            <phrase>අනේ මේගොල්ලන්ට ඉගෙන ගන්න කාලයක් තියෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2011-12-01 12:33:28</date>
+            <index>6</index>
+            <phrase>ඉතිහාසේ සියලු මිනිස් අයතිවාසිකම් ලබාගෙන අරගලවලින් පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවිදු</author>
+            <date>2011-12-01 12:37:38</date>
+            <index>7</index>
+            <phrase>තරුණයන්ගෙ උත්සාහය උපහාසයෙන් බලන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2011-12-01 13:12:58</date>
+            <index>8</index>
+            <phrase>මේ අයගෙ ප්‍රශ්නය තේරුම්අරං විසදුමක් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2011-12-01 13:36:57</date>
+            <index>9</index>
+            <phrase>ඉගන ගන්න අයගෙ අනාගතය කා දමනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>CK</author>
+            <date>2011-12-01 15:09:54</date>
+            <index>10</index>
+            <phrase>මල්ලිලා ගෙදර ඉඳන් හොඳට පාඩම් කලා නම් හොඳ රස්සාවක් ලැබෙයි. ඔය කරන වැඩෙන් ලැබෙන්න තියෙන රස්සාවත් නැති වේවි. කවුද කැමති වැඩවර්ජන කරන අයට රස්සා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2011-12-01 16:50:14</date>
+            <index>11</index>
+            <phrase>ඇය අනුන්ගෙන් රැකියා ඉල්ලන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2011-12-01 18:26:45</date>
+            <index>12</index>
+            <phrase>උගත්කම තිබ්බට මනුස්සයෙක් වෙන්න බැහැ. හොද බුද්ධියක් තියෙන්නත් ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

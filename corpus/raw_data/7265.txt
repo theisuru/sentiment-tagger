@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7265</articleId>
+    <title>පොලිස් වෙසින් ලක්‍ෂ 380 රන් කොල්ල කයි</title>
+    <author>පාරුක් තාජුඞීන්</author>
+    <date>2011 ඔක්තෝබර් මස 04 17:38:42</date>
+    <body>පොලිස් බුද්ධි අංශයේ සාමාජික වෙසින් වැඩිහිටි කතුන්ගේ රන් අබරණ සොරා ගත්තැයි කියන තුන්දෙනකු සැකපිට අත් අඩංගුවට ගත් බව දෙමටගොඩ පොලිසිය කියයි.
+පරීක්‍ෂා කිරීම සඳහා පොලිසියට යා යුතු බව කියමින් ඔවුන් ත‍්‍රීරෝද රියකට නංවා ගන්නා කල්ලිය රන් ආබරණ ගලවා බෑගයකට දමා ගන්නා ලෙස පවසා එම බෑගය පැහැර ගන්නා බව කියති. ඔවුන් මරදාන, දෙමටගොඩ, වැල්ලවත්ත, දෙහිවල, වැල්ලම්පිටිය හා කොලොන්නාවේ වසර කීපයක් පුරා රුපියල් තුන්කොටි අසූ ලක්‍ෂයක රන් බඩු පැහැරගෙන විකුණා එය උගස්කැර ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ඉන්දික රුශාන්ත</author>
+            <date>2011-10-04 18:16:16</date>
+            <index>0</index>
+            <phrase>නරක වැඩ කරලා පෝසත් වෙන සිතන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2011-10-04 18:23:14</date>
+            <index>1</index>
+            <phrase>මේ අයවත් කොහේ හරි වතුරක ඔබලා මරලා දැම්මනම් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2011-10-05 09:40:39</date>
+            <index>2</index>
+            <phrase>ඔය වගේ වෑඩ කරන උන්ට හොද මතක හිටින දඩුවම් දෙන්න ඕනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

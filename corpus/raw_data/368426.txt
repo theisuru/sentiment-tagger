@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>368426</articleId>
+    <title>කබ්රාල්ගෙන් පැය පහක් ප්‍රශ්න කෙරේ</title>
+    <author>ඉන්දිකා රාමනායකඡායාරූප ලහිරු හර්ෂණ</author>
+    <date>2015 දෙසැම්බර් මස 11 17:22:36</date>
+    <body>කොළඹ කොටුවේ මහබැංකු ගොඩනැගිල්ල 2013 දී ටෙන්ඩර් පටිපාටියෙන් තොරව පිළිසකර කළැයි කියන සිද්ධියක් සම්බන්ධයෙන් හිටපු මහබැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතාගෙන් මූල්‍ය අපරාධ විමර්ෂණ කොට්ටාසය අද (11) පැය පහකට ආසන්න කාලයක් ප්‍රශ්න කළ බව පොලිසිය කියයි.
+ඔහුගේ ප්‍රශ්න කිරීම සිදුවූයේද පොලිස් මූල්‍ය අපරාධ විමර්ෂණ කාර්යාලයට පිහිටා තිබෙන එම ගොඩනැගිල්ලේදීමය.
+‘පොලිස් මූල්‍ය අපරාධ කොට්ටාසය පිහිටි මේ ගොඩනැගිල්ල මහ බැංකුවට අයත්.මේ ගොඩනැගිල්ල ප්‍රතිසංස්කරණය කිරීම පිළිඹඳ ප්‍රශ්න කිහිපයක් ඇතිවී තිබෙනවා.ඒ ගැන ප්‍රකාශයක් ලබාගන්න මූල්‍ය අපරාධ විමර්ෂණ කොට්ටාසයට පැමිණෙන ලෙස දැනුම්දීමක් කර තිබුණා.ඒ අනුව පැමිණ ප්‍රකාශයක් ලබාදුන්නා.‘ යැයි හිටපු මහ බැංකු අධිපතිවරයා පැවසීය.
+ </body>
+    <comments>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2015-12-11 13:14:33</date>
+            <index>0</index>
+            <phrase>මේ ගොල්ලන්ගෙන් ප්‍රශ්න කරලා ආපසු ගෙදර යන්න ඉඩ තියන්න නරකයි. දැනට කී දෙනෙක්ගෙන් ප්‍රශ්න කළත් කරපු තොවිලයකුත් නැහැ. බෙරේ පලුවකුත් නැති ගානයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2015-12-11 13:42:04</date>
+            <index>1</index>
+            <phrase>දැන් ඊළඟට වෙන්නේ මොකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2015-12-11 16:16:16</date>
+            <index>2</index>
+            <phrase>ප්‍රශ්න කරලා විතරක් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුලෝචන</author>
+            <date>2015-12-12 10:02:01</date>
+            <index>3</index>
+            <phrase>ප්‍රශ්න කිරීමෙන් පමණක් ඇති වැඩක් නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2015-12-12 13:58:17</date>
+            <index>4</index>
+            <phrase>මහබැංකු ගොඩනැගිල්ලට බෝම්බ ගහපු අය නිදහස් කරනවා. ප්‍රතිසංස්කරණය කළ අය අල්ලාගන්නවා. වෙනස අපූරුයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2015-12-12 16:26:00</date>
+            <index>5</index>
+            <phrase>බලන්නකෝ සිනාවෙන ලස්සන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

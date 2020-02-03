@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>269682</articleId>
+    <title>අත් සෝදා චීනය පරදවයි</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ඔක්තෝබර් මස 16 20:12:30</date>
+    <body> 
+
+ලෝක දෑත් සේදීමේ දිනේදි චීනය සතුව තිබු ගිනස් වාර්තාව බිඳ දමමින්  එක් දිනක වැඩිම දෑත් සේදීමේ  පිරිස ඇති රට වශයෙන් මෙම වසරේ වාර්තාව ශ්‍රී ලංකාවට හිමි විය.
+ජනාධිපති ආර්යා ශිරන්ති රාජපක්ෂ මහත්මියගේ ප්‍රධානත්වයෙන් දොඩන්ගොඩ ඇලදුව දෙමළ විද්‍යාලයයේදී පැවැති උත්සවයකදී ගිනස් වාර්තා කමිටුවේ සභාපති ජැක් බ්‍රොක් බෑන්ඩ් මහතා  ඒ සඳහා හිමි සහතිකය යුනිලිවර් සමාගමේ අලෙවි අධ්‍යක්ෂ සිද්ධාර් බෙනර්ජි වෙළෙද නාම කළමණාකරු සාලිත අලහකෝන් යන මහත්වරුන්ට පිරි නැමීය.
+බස්නාහිර පළාතේ සෞඛ්‍ය, දේශීය වෛද්‍ය පරිවාස සහ ළමාරක්ෂක සභා කටයුතු අමාත්‍ය රංජිත් සෝමවංශ මහතා, පලාත් සභා මන්ත්‍රි සෙනල් වෙල්ගම යන මහත්වරු ඇතුළු ආරාධිතයෝ විශාල පිරිසක් මේ සඳහා එක්ව සිටියහ
+චීනයේ එක් දිනකදී තබා තිබු වාර්තාව දෙසීයකි ශ්‍රී ලංකාව එය අභිබවා යමින් හයසීය දෙනෙක් දෑත් සේදූහ
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>හේරත්</author>
+            <date>2014-10-17 00:47:30</date>
+            <index>0</index>
+            <phrase>හරිම ලස්සන උත්සවයක්!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2014-10-17 02:13:02</date>
+            <index>1</index>
+            <phrase>අපේ රටේ අය මොනදේටත් දක්ෂයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2014-10-17 03:10:16</date>
+            <index>2</index>
+            <phrase>මේක ඉතින් අතීත රජකාලේ ඉඳලම තිබෙන වැඩක්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>තරිදු</author>
+            <date>2014-10-17 06:42:02</date>
+            <index>3</index>
+            <phrase>කලින් කිව්වානම් අපිත් එනවා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාජීව</author>
+            <date>2014-10-17 06:42:09</date>
+            <index>4</index>
+            <phrase>අපේ මාමත් ගිනස් වාර්තාවක් තියලා තියෙනවා කඩේ ගිහිල්ලම.නැන්දා කියන පරක්කුවට මාමා කඩේ යනවා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සුමේධ</author>
+            <date>2014-10-17 06:42:10</date>
+            <index>5</index>
+            <phrase>මේ වගේ තවත් ගිනස් වාර්ථා ටිකක් තියන්න පුළුවන් නම් ගොඩක් හොදයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2014-10-17 06:42:09</date>
+            <index>6</index>
+            <phrase>ගිනස් වාර්ථාවට සහභාගී වූ සියළු දෙනාටම ජය වේවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2014-10-17 06:42:10</date>
+            <index>7</index>
+            <phrase>තවත් මේ වගේ අදහසක් පහළ වේවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2014-10-17 06:42:11</date>
+            <index>8</index>
+            <phrase>ලාංකීකයන් විදියට ලොකු ආඩම්බරයක්.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාජීව</author>
+            <date>2014-10-17 06:42:11</date>
+            <index>9</index>
+            <phrase>සතුටුයි, අපිත් ගිනස් වාර්ථාවක් තිබ්බා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2014-10-17 15:15:58</date>
+            <index>10</index>
+            <phrase>දාල තියෙන අදහස් දැක්කම ඇඩෙනවා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මැක්ෂි ලියනාරච්චි</author>
+            <date>2014-10-17 20:56:56</date>
+            <index>11</index>
+            <phrase>ඉතාලියේ අපි හෝදන හේදිල්ල කවදාවත් තාම කරන්න බැහැ. දැන් අය හෝදන්න දන්නේ නැහැ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මැක්ෂි ලියනාරච්චි</author>
+            <date>2014-10-17 21:24:03</date>
+            <index>12</index>
+            <phrase>චින්ටා අත හෝදන එකක් නැහැ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ධනවංශ</author>
+            <date>2014-10-18 01:28:23</date>
+            <index>13</index>
+            <phrase>තව මාම කෙනෙක් නැන්දා නොකිව්වත් ගිනස් වාර්තාවක් තියන්න මෙතන කඩේ යනවා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2014-10-18 05:00:22</date>
+            <index>14</index>
+            <phrase>අත සෝදා ගැනීමට කවදත් දක්ෂ දේශපාලකයිනුත් අපි අතර ඉන්නවනේ!</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2014-10-20 02:07:08</date>
+            <index>15</index>
+            <phrase>හොඳ වැඩක්</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2014-10-20 10:08:59</date>
+            <index>16</index>
+            <phrase>මට බය කවදා හරි දවසක අපිට චීනාගේ පස්ස හෝදන්න වෙයිද කියලා?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2014-10-21 03:00:50</date>
+            <index>17</index>
+            <phrase>කොහොමද මේ අත් සේදීම සිද්ධ වෙන්නේ? සියලු දෙනාම එකම තැනකදී එකට අත් සොදනවද? නැතිනම් දවසකට කිහිප සැරයක් අත් සොදන්නේ නැති කෙනෙකු ලංකාවෙන් සොයාගන්නත් අමාරු නිසා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2014-10-22 07:02:38</date>
+            <index>18</index>
+            <phrase>මඩ සොදා ගත් කළ ගොවියා රජකමට වුවද සුදුසුයි කියපු ශ්‍රී ලංකාවේ අත සොදා ගත් කළ පාතාලයා දේශපාලනයට සුදුසුයි කියලා වෙනස් කරන්න කාලේ ඇවිල්ලා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2014-10-22 07:12:32</date>
+            <index>19</index>
+            <phrase>අපිටත් ගිනස් වාර්ථාවක්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2014-10-22 08:45:33</date>
+            <index>20</index>
+            <phrase>මම හිතන්නේ ලෝකයේ විශාලතම කැබිනට් මණ්ඩලය ලංකාවේ තියනවා කියන්නේ බොරුවක්?, නැත්නම් ඒක ගීනස් වාර්තා පොතට ඇතුලත් විය යුතුයි නේද? කරුණාකර කවුරු හරි කියලා දෙන්න</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2014-10-22 10:14:53</date>
+            <index>21</index>
+            <phrase>අරය කලත් මමනම් ඕවට නැහැ කියල අත් සෝදා ගත්තද ? නැතිනම් ලංකාවේ අපි හොඳට කාල ඉන්න බව පෙන්නන්න අත් සෝදා ගත්තද ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2014-10-22 19:40:50</date>
+            <index>22</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-10-23 00:32:02</date>
+            <index>23</index>
+            <phrase>අර රෙදිසෝදන කට්ටිය නම් තවම හෝදනවා ඇති</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2014-10-23 10:23:08</date>
+            <index>24</index>
+            <phrase>අපේ රටේ වගේ කුණු හෝදන( රෙදි අපුල්ලන) ඇමතිලා ලෝකයේම නැහැ එ්කත් ගිනස් වාර්තාවක් වෙයි නේද ඒ මහත්තුරුන්ට කිව්වා නම්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>වාසනා</author>
+            <date>2014-10-25 05:54:13</date>
+            <index>25</index>
+            <phrase>අපි කොහොමත් මේ වැඩේට දක්ෂයිනේ!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>යශෝධා</author>
+            <date>2014-10-25 05:56:22</date>
+            <index>26</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2014-10-25 05:57:19</date>
+            <index>27</index>
+            <phrase>අපි ඉතින් කොහොමත් අතහෝදලා පැත්තකට වෙන කට්ටියනේ!</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂමන්</author>
+            <date>2014-10-25 05:58:49</date>
+            <index>28</index>
+            <phrase>අපි කොහොමත් අත හෝදල පැත්තකට වෙන ජාතිය නේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2014-10-25 05:58:59</date>
+            <index>29</index>
+            <phrase>අපි කොහොමත් අතහොදල පැත්තකට වෙන ජාතිය නේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2014-10-25 05:59:12</date>
+            <index>30</index>
+            <phrase>අපි කොහොමත් අතහොදල පැත්තකට වෙන ජාතිය නේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නේහා</author>
+            <date>2014-10-26 08:56:22</date>
+            <index>31</index>
+            <phrase>ගිනස් මහත්තුරුන්ට වාර්තා කරන්න බැරිද දන් නැහැ අපේ රටේ තියෙන හොදම හෝදන තුන පර්ලිමෙන්තුව ,ජාතික රුපවහිනියි ,ස්වාදීන රුපවහිනියි ගැනත්</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නේහා</author>
+            <date>2014-10-26 09:12:44</date>
+            <index>32</index>
+            <phrase>ගිනස් මහත්තුරුන්ට වාර්තා කරන්න බැරිද දන්නේ නැහැ. අපේ රටේ තියෙන හොදම හෝදන තුන පර්ලිමෙන්තුවයි, ජාතික රූපවාහිනියයි, ස්වාදීන රූපවාහිනියයි ගැනත්</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ</author>
+            <date>2014-10-26 13:18:06</date>
+            <index>33</index>
+            <phrase>හොඳ වැඩක්</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

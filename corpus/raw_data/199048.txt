@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>199048</articleId>
+    <title>නව වසරට සෙත්පතා ගංගාරමයේ පිංකම්</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2014 ජනවාරි මස 01 11:30:26</date>
+    <body>2014 නව වසරට සෙත් පතා හුණුපිටිය ගංගාරමයේ පිංකම් පැවැත්විණි.
+නව වසරට ආශිර්වාදය ලබා ගැනීමට විශාල පිරිසක් අද උදේ ගංගාරාමයට ආහ.
+
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-01-01 12:15:25</date>
+            <index>0</index>
+            <phrase>අතිගරු ජනාදිපති තුමාටත් රණවිරුවන්ටත් 2014 නව වසර සුබ නව වසරක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2014-01-01 18:51:24</date>
+            <index>1</index>
+            <phrase>මව් බිමේ රණවිරුවන් ඇතුලු ලක් වාසි සියලු දෙනාට 2014 නව වසර සුබ නව වසරක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

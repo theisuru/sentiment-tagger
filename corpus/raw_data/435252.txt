@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>435252</articleId>
+    <title>ඩලාස් විරෝධතාවයට වෙඩි : පොලිසියේ හතරක් මරුට</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජූලි මස 08 10:57:46</date>
+    <body>පොලිස් වෙඩි තැබීම්වලට එරෙහිව ඇමරිකාවේ ඩලාස් නුවර පැවැති සාමකාමී පෙළපාළියකට ස්නයිපර් තුවක්කුකරුවකු එල්ල කළ වෙඩි පහරින් පොලිසියේ සිව් දෙනකු මිය ගොස් 11 දෙනකු තුවාල ලැබූ බව එරට ආරංචි කියයි.
+තුවාල ලැබූ හත් දෙනකු රෝහල් ගත කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-07-08 06:56:00</date>
+            <index>0</index>
+            <phrase>ඇමරිකාව තරම් අනාරක්ෂාකාරී ජීවත්වීමම බියකට තුඩුදෙන රටක් තවත් නැහැ. මුළු යුරෝපා ඕස්ට්‍රේලියා මහද්වීප එකට ගත්තත් මෙවන් භයන්කාරී ලෙස මිනිස් ඝාතන සිදුවන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-07-08 07:22:52</date>
+            <index>1</index>
+            <phrase>මේ තුවක්කුකරුවා පොලීසියට වෙඩි තිබ්බා... නමුත් පොලීසිය ඉතා වෘත්තීය විදිහට තමන්ගේ ආරක්ෂාව නොතකමින් සාමාන්‍ය වැසියන් බේරමින් රාජකාරී කළා.. ලංකාව වගේ රටක උනානම් පොලීසිය මෙලහකට ප්‍රතිප්‍රහාර එල්ලකරලා විරෝදතාකරුන් 6-7 කට වග කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-07-08 12:06:59</date>
+            <index>2</index>
+            <phrase>පිටිගල මිලානෝ, දන්නා දෙයක් කතාකරන්න. මම මේ රටේ අවුරුදු 20 ජීවත් වෙනවා. ඔබ කියන බියක් අපට හෝ අප දන්නා ඇමරිකානුවන්ට නම් නැහැ. මෙය ඉතා සාමකාමීම රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-07-08 12:55:42</date>
+            <index>3</index>
+            <phrase>අනේ මන්දා මේවට මොනවා කරන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාපා</author>
+            <date>2016-07-08 12:57:01</date>
+            <index>4</index>
+            <phrase>අපි අපේ රට ගැන සතුටුවෙන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2016-07-08 14:34:51</date>
+            <index>5</index>
+            <phrase>තමන්ගේ රට පහත් කරලා කතා කළාම වීරයෝ කියලා තමයි සමහරු හිතාගෙන ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-07-08 15:14:50</date>
+            <index>6</index>
+            <phrase>නාමල්, මෝඩ කතා කියන්න එපා. හොයලා බලන්න ඇමෙරිකාවේ පොලිසිය කොච්චර මිනිස්සු මරනවද කියලා අවුරුද්දකට සහ කොහොමද අායුධ නැති මිනිසුන්ට වෙඩිතියලා මරාදාන්නේ කියලා. ලංකාවේ පොලිසිය මීට වඩා දස දහස් ගුණයක් හොඳයි. ඔයාලට ඉතින් අැමෙරිකාවෙන් හම්බ වෙනවා නම් ලෙඩක් වුණත් හොඳයි කියයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2016-07-08 20:31:04</date>
+            <index>7</index>
+            <phrase>ඇමරිකාවේ තුවක්කු තිබුණත් පාරවල් ගානේ තුවක්කු අරන් යන්න බැහැ කියලා තමා නීතිය තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-07-08 21:01:36</date>
+            <index>8</index>
+            <phrase>නාමල්, ඔබේ කීමට මම එකඟ වෙනවා. එ්ත් ඇමෙරිකාවේ කළු ජාතිකයන්ට එරෙහිව ඇමෙරිකානු පොලිසිය ඉතාම බරපතල ලෙස මර්දනකාරී ක්‍රියාපිළිවෙතක් ගෙනයනවා. මෑතකදී නිරායුද කළු ජාතිකයන් දෙදෙනෙක් වෙඩි තබා ඝාතනය කළා. මෙය තමා මෙම විරෝධතාවයට හේතුව. මෙය ඉතා භයානක තත්ත්වයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-07-08 21:48:54</date>
+            <index>9</index>
+            <phrase>ලංකාවේ පොලිසියට දියුණු රටක පොලිස් සේවයක් ලබා දියයුතුමයි. ඔවුන්ට නිසි කාය වර්ධන ව්‍යායාම් ලබා දියයුතු අතර බුලත්විට කෑම, මත්පෑන් බීම, පගා ගැනීම සම්පුර්ණයෙන් තහනම් කළයුතුයි. ඔවුන්ගේ නිල ඇඳුම පවා වෙනස් වෙන්න කාලයකි මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-07-09 01:28:52</date>
+            <index>10</index>
+            <phrase>නැහැ නාමල්, ඔබ කියන කතාව වැරදියි. ඇමරිකාවේ එහෙම මර්දනයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-07-09 03:10:52</date>
+            <index>11</index>
+            <phrase>චානක, නිව්යෝර්ක් වල ඉන්න ලාංකිකයෝ කරන්නේ වැඩ කරන එක. ඔබලා මොනවාද එළියේ වෙන දේවල් ගැන දන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2016-07-09 08:11:27</date>
+            <index>12</index>
+            <phrase>දැන් හීනෙන් නැගිටලා වගේ නිදහසේ තුවක්කු අලෙවිකිරීමේ හා ඒවා පාවිච්චි කිරීමේ ප්‍රතිපත්ති වෙනස් කලයුතුයැයි ඔබාමා කියනවා. වාර දෙකකක් ලැබිලත් පොල් ගෑවද මෙච්චර කාලයක් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බටුගෙදර</author>
+            <date>2016-07-09 10:42:02</date>
+            <index>13</index>
+            <phrase>සාමකාමී රටක් බවට ඔප්පුවුණා. හිනාත් යනවා !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

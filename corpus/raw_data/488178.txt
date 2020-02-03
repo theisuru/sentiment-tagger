@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488178</articleId>
+    <title>රජය රක්නා ලංකා ඈවර කරයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 දෙසැම්බර් මස 07 16:13:15</date>
+    <body>සීමාසහිත රක්නා ආරක්ෂක ලංකා සමාගම ඈවර කිරීමට කැබිනට් මණ්ඩලය අනුමැතිය හිමි විය.
+එහි ගොඩබිම් ආරක්ෂණ කටයුතු සිවිල් ආරක්ෂක බළකායටත්, මුහුදු ආරක්ෂණ කටයුතු නාවික හමුදාවටත් පැවරීමට තීරණය වී ඇත.
+නීතිපතිවරයාගේ නිර්දේශ අනුව මෙම යෝජනාව ජනාධිපතිවරයා කැබිනට් මණ්ඩලයට ඉදිරිපත් කර තිබේ.</body>
+    <comments>
+        <comment>
+            <author>ඉරාන්</author>
+            <date>2016-12-07 19:22:42</date>
+            <index>0</index>
+            <phrase>රක්නා ලංකා නම් මොකක්ද ලංකාවම ඈවර කරපු සමහරුන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-12-07 20:38:13</date>
+            <index>1</index>
+            <phrase>මෙයාලට කොහොමත් මේවා හොඳට පුරුදුයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2016-12-08 04:54:51</date>
+            <index>2</index>
+            <phrase>හොද දේවල් හොද ලෙසත් නරක දේවල් නරක ලෙසත් දකින්න තරම් දර්ශනයක් නැති යහපාලනය.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-12-08 06:06:50</date>
+            <index>3</index>
+            <phrase>යහපාලනය සැපද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-12-08 07:25:00</date>
+            <index>4</index>
+            <phrase>සතොස ඈවර කරපු එකේ මේක මොකද්ද. ජනතාවගේ පසුම්බිය ඈවර කරලයි නවතින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-08 08:24:56</date>
+            <index>5</index>
+            <phrase>ඈවරයි දෑවරයි තුන්ඈවරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

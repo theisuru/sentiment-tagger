@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>98943</articleId>
+    <title>දකුණු කොරියාව යුද අභ්‍යාසයක් අරඹයි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  සෝල් නුවරදීය</author>
+    <date>2013 පෙබරවාරි මස 20 10:44:22</date>
+    <body>උතුරු කොරියාවේ දැඩි විරෝධය මැද, දකුණු කොරියාව ඊයේ (19) ඇමෙරිකා සමඟ එක් වී නාවික අභ්‍යාසයක් ආරම්භ කළේය. එම නාවික අභ්‍යාසය දින 6 ක් පුරා පැවැත්වෙන බවත් ඊට යුද නැව් සහ සබ්මැරීන යොදා ගන්නා බවත් දකුණු කොරියානු ආරක්ෂක අමත්‍යාංශය නිවේදනය කරයි. තම සතුරා වන උතුරු කොරියාවෙන් එල්ල විය හැකි තර්ජනවලට මුහුණ දීමේ අරමුණින් නැගෙනහිර ජපන් මුහුදේ දී එම යුද අභ්‍යාසය ආරම්භ කළ බව ද ආරක්ෂක අමත්‍යාංශය වැඩි දුරටත් කියා සිටී.</body>
+    <comments>
+        <comment>
+            <author>කසුන්</author>
+            <date>2013-02-20 15:39:00</date>
+            <index>0</index>
+            <phrase>තත්වය ටිකක් බරපතලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මීන්</author>
+            <date>2013-02-20 17:00:54</date>
+            <index>1</index>
+            <phrase>අයියෝ චංගුමී!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-02-21 18:29:52</date>
+            <index>2</index>
+            <phrase>අප්පච්චියේ, ඔයා තරමින් නවත්තා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

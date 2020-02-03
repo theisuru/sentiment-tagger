@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>295062</articleId>
+    <title>ජීව වායුවෙන් ජීවය ලැබූ රෝහිතගේ ගොවිපොළ</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2015 පෙබරවාරි මස 05 23:08:52</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2015-02-07 18:56:20</date>
+            <index>0</index>
+            <phrase>සුන්දර අපේ සිරි ලක්බිම රැකගන්න......‍ නුඹ වැනි පුතුන් තව තව මෙහි බිහිවෙන්න........ තනිවම ඇරඹූ මේ සේවය රැකගන්න...... පෙරමුණ ගනිමු සැමදෙන මෙහි එක්වන්න....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-02-10 05:28:46</date>
+            <index>1</index>
+            <phrase>චීනයේ ග්‍රාමීය බල ශක්ති උත්පාදනයෙන් 90 % ක් ජීව වායුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2015-02-11 12:20:26</date>
+            <index>2</index>
+            <phrase>අන්න වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2015-04-09 14:56:07</date>
+            <index>3</index>
+            <phrase>නියමයි. මේ සාර්ථක වෑයම ගැන සමාජය තව තවත් දැනුවත් කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

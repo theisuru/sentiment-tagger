@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>73830</articleId>
+    <title>බලන්න ලස්සනයි මේ දළඹුවා</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 ඔක්තෝබර් මස 30 17:33:57</date>
+    <body>ඕස්ට්‍රේලියාවේ වැසි වනාන්තර වේගයෙන් අඩු වී යාමත් සමග කපාල දළඹුවාගේ පැවැත්මට තර්ජනයක් වී ඇත. විලෝපිතයන් පළවා හරීම සඳහා ස්වභාවයෙන්ම මේ දළඹුවාගේ ඇස් ගෙඩි ලොකුවට පිහිටා ඇත.</body>
+    <comments>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-10-30 20:08:11</date>
+            <index>0</index>
+            <phrase>සමනළයෙක් වෙනකල් තමයි අපිව බයකරන්නේ. හොරා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මයුරි</author>
+            <date>2012-10-30 21:47:20</date>
+            <index>1</index>
+            <phrase>වෙස්වලාගෙන ඔස්ට්‍රෙලියාවට පැනපු අම්බලන්ගොඩ දලඹුවෙක් ද කොහෙද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්සාඩ්</author>
+            <date>2012-10-31 05:36:40</date>
+            <index>2</index>
+            <phrase>අනේ එයා හරිම අහිංසකයි. හරිම ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-10-31 08:35:16</date>
+            <index>3</index>
+            <phrase>ඩයිනෝසර් කෙනෙක් වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනලි</author>
+            <date>2012-10-31 08:49:29</date>
+            <index>4</index>
+            <phrase>මට වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-10-31 11:19:44</date>
+            <index>5</index>
+            <phrase>මේකගේ කටයි, ඇසුයි කොහෙද තියෙන්නේ කියලා මට හොයාගන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-10-31 18:13:10</date>
+            <index>6</index>
+            <phrase>මේ වගේ පරිසර හිතකාමී සතුන් මෙහෙමහරි බලන්න ලැබීම වාසනාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2012-10-31 19:17:54</date>
+            <index>7</index>
+            <phrase>එතකොට එයා දළඹූවෙක්ද? නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-11-02 01:41:26</date>
+            <index>8</index>
+            <phrase>දළඹූවෙක් නෙමෙයි බුවෙක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රී</author>
+            <date>2012-11-02 11:27:15</date>
+            <index>9</index>
+            <phrase>හරිම ලස්සනයි..මම කවදාවත් දැකලා තිබුණේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු</author>
+            <date>2012-11-02 14:11:43</date>
+            <index>10</index>
+            <phrase>මේ නිකන් දළඹුවෙක් ටැටූ එකක් දාලා පොර වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දුල</author>
+            <date>2012-11-03 08:05:39</date>
+            <index>11</index>
+            <phrase>මේවා ඉතින් අපිට මැජික් නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමී</author>
+            <date>2012-11-03 11:31:19</date>
+            <index>12</index>
+            <phrase>අපොයි කොහොම උනත් දලඹුවෙක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-11-03 14:15:59</date>
+            <index>13</index>
+            <phrase>කොච්චර ලස්සන උනත් ඇගේ ගෑවුනොත් කසනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2012-11-04 21:09:28</date>
+            <index>14</index>
+            <phrase>කොම්පියුටර් ජිල්මාට් එකක් නෙමෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

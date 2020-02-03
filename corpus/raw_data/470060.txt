@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>470060</articleId>
+    <title>දිල්රුක්ෂි යළි පරණ පුටුවට</title>
+    <author></author>
+    <date>2016 ඔක්තෝබර් මස 20 10:15:37</date>
+    <body>අල්ලස් කොමිසමේ අධ්‍යක්ෂක  ධුරයෙන් ඉල්ලා අස් වු දිල්රුක්ෂි ඩයස්  වික්‍රමසිංහ මහත්මිය අද (20) අතිරේක සොලිසිටර් ජනරාල් ධුරයේ වැඩ බාර ගත්තාය.</body>
+    <comments>
+        <comment>
+            <author>කරුණාරත්න ගම්පොල.</author>
+            <date>2016-10-20 08:28:51</date>
+            <index>0</index>
+            <phrase>ගරු මැතිනියනි, ඔබතුමියගේ රාජකාරි ජීවිතය කැළඹීමක් සිදුවුවත්, එයද බල්ලොබිරුවට තවලම යන්නාසේ, අමතක කර දමන්න. ඔබතුමියට ඉතාමත් පැහැබර අනාගතයක් ඇතිබව පමණක් සිතන්න. දීර්ගායු වේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2016-10-20 13:18:47</date>
+            <index>1</index>
+            <phrase>රටට වැඩක් කරන චරිතයක් ආඩම්බරයි මෙතුමිය ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

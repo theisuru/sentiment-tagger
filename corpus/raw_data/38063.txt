@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38063</articleId>
+    <title>මීටර හැටේ ළිඳට වැටිලත් බේරේ</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 22 12:05:31</date>
+    <body>සෞදි අරාබි කාන්තාරයේ මීටර හැටක් ගැඹුරු ළිඳකට වැටුණු ටොයොටා වී8 ලෑන්ඩ් කෘසර් ජිප්රියක රියදුරා සුළු සීරීමක් පමණක් ඇතිව දිවි බේරාගත්තේය.
+කාන්තාරයේ ජලය සොයා මෙවැනි ළිං හාරයි. විනෝදයට කාන්තාරයේ රිය පදවමින් සිටියදී අනතුරටලක්විය. ඔහුගේ හිස වාමුවාවේ වැදීමෙන් සුළු සීරීමක් පමණක් ඇතිව ඔහු බේරුනේය.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-22 12:30:30</date>
+            <index>0</index>
+            <phrase>මෙ අයට සල්ලිත් වැඩියි. තෙලුත් වැඩියි. ලංකාවෙ වගේ අරබිකරයෙත් හොද වැඩකාරයෝ ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලවි</author>
+            <date>2012-04-22 12:44:50</date>
+            <index>1</index>
+            <phrase>මැරෙන්නත් වේලාව ආ යුතු බව මෙය හොදම උදාහරණයයි......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

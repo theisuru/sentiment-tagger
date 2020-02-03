@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16507</articleId>
+    <title>පෙළපාළි ගියොත් සාකච්ඡා නෑ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 08 18:07:06</date>
+    <body>පෙළපාළිවලින් හෝ පා ගමනින් උසස් අධ්‍යාපන අමාත්‍යංශයට හෝ විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාවට එන අයගේ ප්‍රශ්න සාකච්ඡා කිරීමට ඉඩ නොදීමට අධ්‍යාපන ඇමැති තීරණය කළැයි අමාත්‍යංශයේ ලේකම් ආචාර්ය සුනිල් ජයන්ත නවරත්න කියයි. ලිඛිතව හෝ දුරකතනයෙන් සාකච්ඡා සඳහා දින ලබාගත හැකි බව ද ඔහු පවසයි.
+මේ අතර පේරාදෙණිය විශ්ව විද්‍යාලයයේ පළමු වසරේ ශිෂ්‍යයකු නවක වදය දුන් බව කියන සිසුනට එරෙහිව ක්‍රියා කරන බවද ඔහු සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2011-12-08 19:07:15</date>
+            <index>0</index>
+            <phrase>ශිෂ්‍ය ව්‍යාපාර මර්ධනය කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්වි</author>
+            <date>2011-12-08 22:29:10</date>
+            <index>1</index>
+            <phrase>හොද තීරනයක් හොද ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2011-12-09 03:20:21</date>
+            <index>2</index>
+            <phrase>ඔහොම තමියි ඉන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ හේරත්</author>
+            <date>2011-12-09 04:15:56</date>
+            <index>3</index>
+            <phrase>ඇයි පෙළපාලි යනවට බයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්වවිද්‍යාල සිසුවෙක්</author>
+            <date>2011-12-09 11:11:38</date>
+            <index>4</index>
+            <phrase>ඇමතිතුමනි, ඔබතුමත් විශ්වවිද්‍යාල ශිෂ්‍යයෙක් විදියට හිටිය නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2011-12-09 11:23:52</date>
+            <index>5</index>
+            <phrase>සල්ලි දීල ඉගෙනගන්න තිබුණානනම්, අපූරුවට ඉගෙනගනියි. නිකන් දෙන නිසා අගයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>thu</author>
+            <date>2011-12-09 13:21:45</date>
+            <index>6</index>
+            <phrase>හොදයි. ඔහොම තමයි කරන්න ඕන. නිකන් ඉගෙනගන්නවා මදිවට පෙලපාලි යනවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2011-12-09 12:49:31</date>
+            <index>7</index>
+            <phrase>ඇමතිතුමන්ලගේ කාලේ පෙලපාලි ගියේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

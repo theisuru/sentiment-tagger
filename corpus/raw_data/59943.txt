@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59943</articleId>
+    <title>නුගේගොඩ ගින්න නිවයි</title>
+    <author>ඇම්ඇස් පෙරේරා</author>
+    <date>2012 අගෝස්තු මස 20 17:41:50</date>
+    <body>නුගේගොඩ මංසන්ධියේ ඉදිකැරෙන දොළොස් මහල් ගොඩනැගිල්ල වටේ එල්ලා ඇති ගොනී ගිනි ගැනිමෙන් පසු දෙහිවල ගල්කිස්ස නගරසභා ගිනි නිවන රථ පැමිණ ගින්න නිවා දැමීය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-21 08:33:13</date>
+            <index>0</index>
+            <phrase>දොලොස්මහ පහන වගේ තියෙන්න ඇති ඒ වෙලේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2012-08-21 10:58:07</date>
+            <index>1</index>
+            <phrase>මම එතන හිටියා ..ගින්න නිකම්ම නිව්නා .ගින්න අරන් පැයකට විතර පස්සේ ගිනි නිවන්න ආවේ.එතකොට ගින්න නිවිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පේ</author>
+            <date>2012-08-21 12:47:22</date>
+            <index>2</index>
+            <phrase>අනේ මෙහෙමත් ගිනි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

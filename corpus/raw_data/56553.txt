@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56553</articleId>
+    <title>ජුලියේදී වරෙන්තු කරුවනට ජූලි 7යි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 අගෝස්තු මස 01 14:05:25</date>
+    <body>ජුලි මාසයේදී වරෙන්තු කරුවන් 28,000ක් රට පුරා පොලිසි වලින් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප‍්‍රකාශක පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි. මෙයින් වැඩිම පිරිස වූ 7000ක් අත්අඩංගුවට ගෙන ඇත්තේ බස්නාහිරිනි.</body>
+    <comments>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-08-01 14:17:13</date>
+            <index>0</index>
+            <phrase>එතකොට අර අල්ලන්නෙම නැතුව ඉන්න ලොකු ලොක්කටත් මේ නීතිය වලංගුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-01 14:19:56</date>
+            <index>1</index>
+            <phrase>අර ඕන තරම් කට්ටිය තව එළියේ ඉන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-01 14:21:44</date>
+            <index>2</index>
+            <phrase>මම දන්න තරමට මේ අල්ල ගත්ත ගණන ව‍ගේ දෙගුණයක් විතර තාමත් එළියේ ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇරිස්</author>
+            <date>2012-08-01 15:19:00</date>
+            <index>3</index>
+            <phrase>කෝ සමහරුන් අහු වෙලත් අල්ලන්නේ නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-01 15:54:16</date>
+            <index>4</index>
+            <phrase>මළ ජූලියයි..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2012-08-01 16:16:36</date>
+            <index>5</index>
+            <phrase>බස්නහිර පළාතෙත් පොලිසියට පෙනි පෙනී ඔය ඉන්නෙ කවුරුත් දන්න අය. බලමුකෝ අල්ලයිද කියලා ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2012-08-01 17:25:25</date>
+            <index>6</index>
+            <phrase>වරෙන්තුකරුවන් කියන මහා සාගරයේ ඉන්න හාල්මැස්සන් ටික අල්ලා ගෙන පාරම් බාන්න එපා .. පුලුවන්නම් එක මෝරෙක් අල්ලලා පෙන්නන්න.. ඔය මුහුදෙ ඉන්න තල්මස්සු මෝරු කාගෙ කාගෙත් ඔලුවටත් උඩින් කරණම් ගහනවා කියල රටම දන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-08-01 20:33:18</date>
+            <index>7</index>
+            <phrase>දැන් මේ කට්ටියට මොකද කරන්නේ? හිර කූඩු පිරිලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-01 22:14:27</date>
+            <index>8</index>
+            <phrase>හාල් මැස්සෝ වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

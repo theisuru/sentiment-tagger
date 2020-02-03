@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>120224</articleId>
+    <title>නිවුන් දරු උපත ගෙදරදී</title>
+    <author>රත්නපාල ගමගේ</author>
+    <date>2013 මැයි මස 10 18:27:05</date>
+    <body>කඳින් පහළ කොටස් එකිනෙකට බද්ධ වූ නිවුන් දරු උපතක් ඉන්දියාවේ රයිගාඩ් දිස්ත්‍රික්කයේ පන්වේල් ග්‍රාමයෙන් වාර්තා විය.
+මෙම කාන්තාව දරු ප්‍රසූතිය සිදු කළේ ඇගේ නිවසේදීය.
+දරුවාගේ පාද නැත.
+මේ බද්ධ නිවුන් දරු උපත පිළිබඳව නාරි හා ප්‍රසව වෛද්‍ය විශේෂඥයෝ බලවත් සේ විමතියට පත්ව සිටිති.
+අනිවාර්යෙන්ම රෝහලකදී වෛද්‍යවරුන්ගේ නිරීක්ෂණය යටතේ සිසේරියන් සැත්කමක් මගින් දරු උපත සිදු කළ යුතු බව වෛද්‍ය විශේෂඥයන්ගේ මතයයි.
+නමුත් උග්‍ර දිළිඳු බව නිසා අඩුම වශයෙන්ම මාතෘ සායනයකට හෝ යා ගත නොහැකිව මෙම දරු ප්‍රසූතිය නිවසේදී සිදු කළ බව ඇගේ ස්වාමිපුරුෂයා පවසයි. ඔහු කම්කරුවෙකි.</body>
+    <comments>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-10 21:30:24</date>
+            <index>0</index>
+            <phrase>අපේ රටේ දේවලට ඇගිලි ගහන ජයලලිතාට, මවක් වශයෙන් මේ වගේ රටේ දුක් ගැනවිලි පෙනෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-05-11 01:22:33</date>
+            <index>1</index>
+            <phrase>පාද නැහැ කියලා තිබුනට,පොටෝ එකේ ඉන්න බද්ද දරුවට පාද තිබෙන බවකුයි මට පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා-පැරිස්</author>
+            <date>2013-05-11 11:59:55</date>
+            <index>2</index>
+            <phrase>මෙන්න ඉන්දියාවේ දියුණුවේ තරමින් බිදක්. අපේ රටේ දේවලට ඇගිලි ගහන ජයලලිතාගේ තමිල්නාඩුව ගැන තව කුමන කථාද.(නදී) </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමි</author>
+            <date>2013-05-11 12:09:01</date>
+            <index>3</index>
+            <phrase>වෙන වෙන දේවල් ගැන ඕනෑවටත් වැඩිය හොයනවා. එත් තමන්ගේ රටේ තියෙන අන්ත අසරණ කම ගැන ටිකක්වත් හිතන්නේ නැතුව ඉන්න එක තමයි මනුස්සයෝ කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-05-11 17:05:20</date>
+            <index>4</index>
+            <phrase>දරුවට පාද නැහැ කිව්වට ඔය තියෙන්නේ. එක දරුවෙක් නෙමේ දෙන්නෙක් නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2013-05-11 21:49:37</date>
+            <index>5</index>
+            <phrase>පව් දුප්පත් අයටම මෙහෙම දරුවෝ උපදින්නේ පෙර කරපු පව් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිළ</author>
+            <date>2013-05-11 21:59:53</date>
+            <index>6</index>
+            <phrase>හිතා ගන්නවත් බැහැ. දියුණු වෙන්න වෙන්න තමයි ප්‍රශ්ණ වැඩි වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නොයහ්ර්</author>
+            <date>2013-05-14 13:50:25</date>
+            <index>7</index>
+            <phrase>කෝ අපේ ජයලලිතා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

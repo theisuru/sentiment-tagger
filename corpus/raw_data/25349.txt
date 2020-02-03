@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25349</articleId>
+    <title>කුඩු කත එල්ලුම් ගස්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 පෙබරවාරි මස 06 15:11:09</date>
+    <body>හොරායින් කුඩු ග්‍රෑම් 40.8ක් ළඟ තබා ගැනීමට හා විකිණිමට වැරැදිකාරිය වූ බොරැල්ලේ බී.එන්. නිල්මිණී සමන්ත නොහොත් නිලුකාට කොළඹ මහාධිකරණ විනිසුරු පී.පද්මන් සුරසේන මහතා මරණ දඬුවම නියම කෙළේය. 2003 අගෝස්තු මාසයේ දී ඇය මේ වරද කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-02-06 15:27:04</date>
+            <index>0</index>
+            <phrase>මරණ දඩුවම දුන්නට වැඩක් නැහැ. එල්ලුම් ගස නැහැනේ. මුලින්ම එල්ලුම් ගස ක්‍රියාත්මක කරලා ඉන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-02-06 17:22:51</date>
+            <index>1</index>
+            <phrase>අරාබියෙ වාගේ ගල් ගහලා මරන්න ඔනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-02-06 19:24:55</date>
+            <index>2</index>
+            <phrase>කවද්ද එල්ලන්නෙ? නියම වුණ අයනම් ඕන තරම් ඉන්නෙ. එල්ලන දවසනෙ ප්‍රශ්න තියෙන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-02-06 20:16:13</date>
+            <index>3</index>
+            <phrase>පව් මේ පාර සමාවක් දෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2012-02-07 00:04:04</date>
+            <index>4</index>
+            <phrase>ජනපතිතුමනි හැකි ඉක්මනින් ඉල්ලුම් ගස ක්‍රියාත්මක කරන්න. නැතිනම් මේ අපරාධ දිනෙන් දින වැඩි වෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-02-07 02:25:45</date>
+            <index>5</index>
+            <phrase>දරුවන් 3ක් ඉන්න අම්මා කෙනෙක්. සමාව දෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>gajan99</author>
+            <date>2012-02-07 06:48:31</date>
+            <index>6</index>
+            <phrase>කුඩු කිලෝ ගණන් පිටරටින් ගේන අයට මොකක්ද දඩුවම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-02-07 09:26:33</date>
+            <index>7</index>
+            <phrase>එල්ලුම් ගහ ක්‍රියාත්මක කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-02-07 09:32:38</date>
+            <index>8</index>
+            <phrase>එල්ලුම් ගහ ක්‍රියාත්මක කරන්න දැන් කාලය හරි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-02-07 14:17:57</date>
+            <index>9</index>
+            <phrase>හැමදාම බිලි වෙන්නේ පොඩි පොඩි අය. ලොක්කො සැපට ඉන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2012-02-07 15:26:51</date>
+            <index>10</index>
+            <phrase>අරාබි නීතිය ඕන නැහැ. සිංහල රජ කාලේ දඩුවම් දුන්න නම් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

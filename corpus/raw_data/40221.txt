@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40221</articleId>
+    <title>ගින්නෙන් ගෙවල් 22ක් විනාශයි</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 මැයි මස 03 12:38:15</date>
+    <body>මස්කෙළිය මොකා වතුයායේ වතු නිවාස පේළියක අද පෙරවරුවේ ඇති වූ ගින්නකින් නිවාස 22ක් සම්පූරණයෙන්ම විනාශ වී ඇතැයි මස්කොලිය පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-03 12:43:17</date>
+            <index>0</index>
+            <phrase>මෙයට පෙරත් වතුකර ප්‍රදේශවල මෙවැනි ගිනි ඇතිවුනා. මෙය යමිකිසි පිරිසකගේ සැලසුමි සහගතව ක්‍රියාවක්ද කියා සැකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්සිටු</author>
+            <date>2012-05-03 13:03:21</date>
+            <index>1</index>
+            <phrase>අලි බබාට තියෙන්නේ නමටම හරියන අදහස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර - ඉරාකය</author>
+            <date>2012-05-03 13:13:07</date>
+            <index>2</index>
+            <phrase>අවංකවම මේක කාගේ හරි වැඩක්. දැන් ආණ්ඩුවට දොස් කියාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හොරු බබා සහ අලි හතලිහ</author>
+            <date>2012-05-03 13:58:03</date>
+            <index>3</index>
+            <phrase>වෙලාව තමයි ඉතින්.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>justice</author>
+            <date>2012-05-03 14:48:43</date>
+            <index>4</index>
+            <phrase>ගින්නක් නැතිව දුමක් නගින්නේ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

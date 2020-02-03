@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>453017</articleId>
+    <title>ව්‍යාපාරිකයා ඝාතනයේ සුලමුල හෙළිවේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 31 21:00:36</date>
+    <body>බම්බලපිටිය ව්‍යාපාරික මොහොමඩ් සුලෙයිමාන් (29) ඝාතනය කළැයි කියන පුද්ගලයා ද, මාවනැල්ල හෙම්මාතගමට කුලී රියකින් සිරුර රැගෙන යෑමට ඉදිරිපත් වූ බව කියන නාට්ටාමිලා පිරිසක් ද ඇතුළු හත් දෙනෙක් සැකපිට අත්අඩංගුවට ගනු ලැබ සිටිති.
+රෙදිපිළි ව්‍යාපාරිකයාගේ ගනුදෙනුවලට සම්බන්ධ බව කියන ඔහුගේ සේවකයකු ඔහුගේ පියාගෙන් කප්පම් ගැනීම සඳහා ව්‍යාපාරිකයා මරා දමා ඇති බවට ප්‍රභල සාක්කි ලැබී ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සමුරි</author>
+            <date>2016-08-31 15:54:34</date>
+            <index>0</index>
+            <phrase>පුදුමයි එ්ත් ඇත්තයි සමහර විටකදී සිය දිවි නසා ගැනීමක් විය හැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-08-31 22:08:17</date>
+            <index>1</index>
+            <phrase>ආයුධ පෙන්වීම සඳහා ගෙනියන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-31 22:52:52</date>
+            <index>2</index>
+            <phrase>එතකොට මොකක්ද දන්නෙ නැහැ මේකට හේතුව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2016-08-31 23:24:23</date>
+            <index>3</index>
+            <phrase>අපගේ පොලිසියටයි මේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-09-01 01:55:21</date>
+            <index>4</index>
+            <phrase>සමහරුන්ට නම් දැන් සතුටු ඇති. මොකද එයාලා උත්සාහ කළේ මේකත් ජාතිවාදී වැඩක් කියලා පෙන්වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-09-01 02:13:03</date>
+            <index>5</index>
+            <phrase>ඒ ඝාතනය නම් ඉක්මනට විසඳුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරාන්</author>
+            <date>2016-09-01 03:04:18</date>
+            <index>6</index>
+            <phrase>දැන් මොනවා හෙළිකර ගත්තත් වටිනා ජීවිතයක් නැතිවී හමාරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-09-01 03:00:43</date>
+            <index>7</index>
+            <phrase>කොටකෙතන සේයා ඝාතනයේ දෙවන කොටසක් නම් නොවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-09-01 03:12:05</date>
+            <index>8</index>
+            <phrase>සීසීටීවී කැමරා තිබෙනතුරු දැන් හොරුන්ට බේරෙන්න වෙන්නේ නැහැ. ජනාධිපතිතුමනි, මේවාට උපරිම වශයෙන් බදු නිදහස් කර පුළුවන් සියලුම සහනයන් ලබාදෙන්න. මෙමඟින් හොරු නැතිකරන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-09-01 03:18:43</date>
+            <index>9</index>
+            <phrase>උපාලි, ඕවා කියපු ගමන් ඊළග අවුරුද්දේ ඉඳලා බදු වැඩි කරන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2016-09-01 04:23:22</date>
+            <index>10</index>
+            <phrase>ඉස්සරනම් මේවා මෙහෙම වෙන්නේ නෑ ආයුද පෙන්නන්න අරන් යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-09-01 05:40:28</date>
+            <index>11</index>
+            <phrase>වරදක් කර සැඟව සිටිය නොහැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-09-01 05:50:00</date>
+            <index>12</index>
+            <phrase>අර පේරාදෙණිය පැත්තෙත් ව්‍යාපාරිකයෙක් මියගියා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2016-09-01 05:44:58</date>
+            <index>13</index>
+            <phrase>මේක මේ තරම් ඉක්මනින් විසඳෙන්නේ ප්‍රධාන හේතු 2ක් නිසා. පළමුවැන්න මරණකරු කෝටිපතියකු වීම. දෙවැන්න මරණකරු මුස්ලිම් ජාතිකයකු වීම. අන්න එහෙමයි ලංකාවේ නීතිය සැමට සමානව සළකන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-09-01 07:52:52</date>
+            <index>14</index>
+            <phrase>උපාලි සීසීටීවී හැමතැනම හයි කරන්න කතා කරනවා. ගුවන් තොටුපලේ හයි කරන්න ගියා විතරයි, ආගමන විගමන, රේගු නිලධාරීන් විරුද්ධ වෙලා වැඩ වර්ජනය කළා මතක නැද්ද. හොරකම් දුෂණ එළිවෙයි කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2016-09-01 08:12:27</date>
+            <index>15</index>
+            <phrase>රවී කියන කතාවත් වැරදි නැහැ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

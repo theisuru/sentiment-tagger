@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24724</articleId>
+    <title>ඊජිප්තු පාපන්දු පිටියේ ලේ ගලයි</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 පෙබරවාරි මස 02 21:57:26</date>
+    <body>ඊජිප්තු පෙට්සෙඩ් නගරයේ පාපන්දු පිටියක බදාදා ඇති වූ ගටුමකින් 73දෙනෙක් මිය ගිය අතර අඩු ගණනේ 1000ක් පමණ තුවාල ලදහ. පිරිසක් පාපාන්දු පිටියට කඩා වැදීම නිසා මෙම ගැටුම ඇති විය. ආරක්ෂක හමුදා මේ සිද්ධියට වගකිව යුතුයැයි  කිහිප දෙනෙක් චෝදනා කරති. මියගිය අය අතර පොලිස් සාමාජිකයෝ ද වෙති. ඊජිප්තු රජය විසින් එහි පාපාන්දු සම්මේලනය විසිරැවීය.</body>
+    <comments>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-02-02 22:46:23</date>
+            <index>0</index>
+            <phrase>එහෙත් එහෙමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-02-02 23:02:34</date>
+            <index>1</index>
+            <phrase>ලංකාව තව හොදයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල් විජේරත්න</author>
+            <date>2012-02-03 10:05:55</date>
+            <index>2</index>
+            <phrase>කොහේ වුණත් මිනිස් ජීවිත නේද මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

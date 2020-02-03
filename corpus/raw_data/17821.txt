@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17821</articleId>
+    <title>ඉතාලි හොරු ලක් නිවසක් කොල්ලකති</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2011 දෙසැම්බර් මස 16 16:16:15</date>
+    <body>මුහුණ ආවරණය කැරගත් අවිගත් සොරුන් සිවුදෙනකු ඉතාලියේ මෙසිනා නුවර ශ්‍රී ලාංකික පවුලක් වාසය කරන ගෙදරකට පැන ඉතාලියේ තෑග්ගකින් හිමිවූ යුරෝ 26000ක් (රුපියල් 39 ලක්ෂයක්) පැහැරගත් බව පොලසියට පැමිණිලි කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>එම්.ජේ. ෆෙනෑන්ඩු</author>
+            <date>2011-12-16 17:08:50</date>
+            <index>0</index>
+            <phrase>මේවාට නීතියේ පිහිට පතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශේන්</author>
+            <date>2011-12-16 18:47:48</date>
+            <index>1</index>
+            <phrase>හොරුන්ගෙත් හොරු කබ්බ හොරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

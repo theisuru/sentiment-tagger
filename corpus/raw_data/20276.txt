@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20276</articleId>
+    <title>පොලිස් සැකකරු රට පනී</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 02 18:03:24</date>
+    <body>කොළඹ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ දී මියගිය දෙදරු පියාගේ මරණය සම්බන්ධයෙන් සැකපිට ප්‍රශ්න කිරීමට අවශ්‍යව සිටි පොලිස් නිලධරයකු රට හැරගොස් ඇතැයි කොළඹ කොටුව මහේස්ත්‍රාත් අධිකරණයේ දී අද (2) සඳහන් විය. උප පරීක්ෂක රුවන් කුමාර හා කොස්තාපල් මනෝජ් නෑහින්න මේ සම්බන්ධයෙන් සැකපිට රිමාන්ඩ් කරනු ලැබූහ.  ඔවුන් ගැන නීතපති උපදෙස් ගන්නැයි මහේස්ත්‍රාත් කනිෂ්ක විජේරත්න මහතා පෙලිසියට නියෝග කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>ජනයා</author>
+            <date>2012-01-02 19:28:49</date>
+            <index>0</index>
+            <phrase>රට ගිය අය එන තුරැ අත්අඩංගුවට ගත් අයට ඇප නොදී සිටියානම් ඔවුන් ඉබේම එයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>xson</author>
+            <date>2012-01-02 22:51:37</date>
+            <index>1</index>
+            <phrase>රට පැන්නම අල්ලන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී එච් ශ්‍රීමාල්</author>
+            <date>2012-01-03 02:29:43</date>
+            <index>2</index>
+            <phrase>අපරාධයක් කරලා රට යන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

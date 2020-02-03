@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47317</articleId>
+    <title>කතකට තම නිවස දර සෑයක් වේ</title>
+    <author>සනත් ගමගේ</author>
+    <date>2012 ජූනි මස 10 10:32:02</date>
+    <body>අම්බලංතොට මාමඩලේ ගෙයක් අද අළුයම ගිනි ගැනීම නිසා 65 හැවිරිදි කතක මියගිය බව පොලිස් මාධ්‍ය ප්‍රකාශක පොලිස් අධිකාරී අජිත් රෝහණ කියයි. මෙම කත හුදකලාව එහි ජීවත්වන්නට ඇතැයි ද පොලීසිය විශාවස කරයි.</body>
+    <comments>
+        <comment>
+            <author>පොතේ ගුරා</author>
+            <date>2012-06-10 10:37:28</date>
+            <index>0</index>
+            <phrase>අයියෝ පවු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-10 11:45:03</date>
+            <index>1</index>
+            <phrase>සීබාට තව ජොබ් එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-10 12:36:03</date>
+            <index>2</index>
+            <phrase>හුදකලාවේ ඉන්න අයව ඉවත් කරන්න කොන්ත්‍රාත් එකක් දීලද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-06-10 14:57:24</date>
+            <index>3</index>
+            <phrase>ඕකත් එළි වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-06-10 15:46:09</date>
+            <index>4</index>
+            <phrase>කහවත්තේ සෙල්ලම මෙහෙත් පටන් අරන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-10 16:01:54</date>
+            <index>5</index>
+            <phrase>හුදකලාව ජීවත්වීම සමිපුර්ණයෙන් තහනමි. මන්දයත් හුදකලාව ජීවත්වන අයට මරණකලාව පැමිණීමෙන් මරණය කෙසේ සිදුවුනේදැයි පරික්ෂා කිරීමේදී බොහෝ කලාවන් යොදාගනිමින් කාලය යෙදවීමටත් කටයුතුකිරීමට සිදුවන බැවිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

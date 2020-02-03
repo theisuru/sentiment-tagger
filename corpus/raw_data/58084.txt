@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58084</articleId>
+    <title>උතුරු මැද හිටපු මහා ඇමැතිටත් නොතීසි</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2012 අගෝස්තු මස 10 11:57:41</date>
+    <body>උතුරු මැද පළාත් සභාවේ වාහන දෙසීයකට අධික ප්‍රමාණායක් එහි හිටපු මහා ඇමැති ඇතුළු පිරිසකගේ ඡන්ද වැඩට යොදා ගනිතියි කියමින් ‘අනුරාධපුර අපි පුරවැසියෝ සංවිධානය ගොනු කළ පෙත්සමක් සලකා බැලූ උතුරු මැද අභියාචනාධිකරණ විනිසුරු සුනන්ද කරුණාරත්න මහතා හිටපු මහා ඇමැති බර්ටි ප්‍රේමලාල් දිසානායක මහතා ඇතුළු 13 දෙනකු ලබන 22 වැනි දා  උසාවියට කැඳැවමින් නියෝගයක් නිකුත් කෙළේය. ආණ්ඩුකාර ලේකම්, මහා ඇමැති ලේකම් ඇතුළු ප්‍රධාන නිලධරයෝ අධිකරණයට කැඳැවනු ලැබ සිටිති. අපි පුරවැසි සංවිධානය වෙනුවෙන් ජ්‍යෙෂ්ඨ නීතිඥ කරුණාරත්න හේරත් මහතා මේ පෙත්සම ගොනු කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>සූරි</author>
+            <date>2012-08-10 12:16:45</date>
+            <index>0</index>
+            <phrase>එයාලට අයිති වාහන එයාලා පාව්ච්චි කරන එක වරදක්යැ. නෑ වරදක් නෑ. මම හිතුව මම හිතුවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-08-10 12:21:28</date>
+            <index>1</index>
+            <phrase>කරුණාරත්න හේරත් නීතිඥතුමාට මගේ උපහාරය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-08-10 12:48:48</date>
+            <index>2</index>
+            <phrase>නඩුත් හාමුදුරුවන්ගේ. බඩුත් හාමුදුරුවන්ගේ.වෙන දේ බලාගෙන ඉන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-08-10 22:21:30</date>
+            <index>3</index>
+            <phrase>මොනවා නැතත් නඩු දාපු එකත් ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණේ</author>
+            <date>2012-08-11 00:41:57</date>
+            <index>4</index>
+            <phrase>වැඩක් වෙන්නේ නැහැ. එතුමාට මතක නැතුව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-11 14:31:08</date>
+            <index>5</index>
+            <phrase>උතුරුමැද ඡන්දය කියන්නේ අලුත්ම අත්දැකීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-11 22:22:33</date>
+            <index>6</index>
+            <phrase>ලංකාදිප, අපිට මෙ රටින් හොරු තුරන් කරන්න උදවු වෙන්න. ඒ ඹබ කරන උදාර මෙහෙවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2012-08-12 00:34:49</date>
+            <index>7</index>
+            <phrase>වසර ගානක් තිස්සේ මහජන මුදල් විනාශ කල මෙයාව කොහොම හරි මේ පාරත් මහ ඇමති කරන්න හොදේ. එතකොට ඉතිරි කාලෙදි උතුරු මැද පලාතම නැති කරලම දාන්න පුලුවනෙනේ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

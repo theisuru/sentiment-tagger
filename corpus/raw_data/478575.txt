@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>478575</articleId>
+    <title>මාර්ග අනතුරු වැඩි වෙලා</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 නොවැම්බර් මස 10 10:38:55</date>
+    <body>මාර්ග අනතුරුවලට ලක්ව විපතට පත්වූවන්ගේ ලෝක දිනයට සමගාමීව නොවැම්බර් 15 සිට අනතුරු නිවාරණ පිළිබඳ ජාතික සතියක් ක්‍රියාත්මක කිරීමට තීරණය කළ බව සෞඛ්‍ය අමාත්‍යංශය කියයි.
+ලංකාවේ හදිසි අනතුරු නිසා පීඩාවට පත්වන සහ මිය යන සංඛ්‍යාව දිනෙන් දින වැඩිවන බවත්, වාර්ෂිකව මාර්ග අනතුරු නිසා පුද්ගලයන් 37000ක් පමණ විපතට පත් වන බවත්, මාර්ග අනතුරු නිසා මිය යන සංඛ්‍යාව මේ වසරේ 2800කින් පමණ ඉහළ ගොස් ඇති බවත් සෞඛ්‍ය අමාත්‍යංශය සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2016-11-10 06:12:50</date>
+            <index>0</index>
+            <phrase>නියමිත ප්‍රමිතියක් නැතුව රියදුරු බලපත්‍ර දෙනකොට ඕවා වැඩිවෙනවා තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-11-10 13:21:26</date>
+            <index>1</index>
+            <phrase>බොරු කියන්න එපා. ඇක්සිඩන්ට් අඩුයි කලින් වසරට වඩා. පොලිසියේ සංඛ්‍යා ලේඛන බලන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-11-11 01:08:52</date>
+            <index>2</index>
+            <phrase>රාත්‍රී කාලයේ රිය අනතුරු අඩුකරන්න හැම කහ ඉරක්ම පාර ළඟ තියන ලයිට් කණුවක් ළඟ දාන්න. එතකොට රියදුරාට පේනවා පාර පනිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2016-11-11 04:14:55</date>
+            <index>3</index>
+            <phrase>බය වෙන්න දෙයක් නැහැ. දඩ මුදල් අඩු කරලා මාර්ග නීති කඩන්න දෙන්න කියන අය ලංකාවේ ඕනෑතරම් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

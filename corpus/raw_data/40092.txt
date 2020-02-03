@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40092</articleId>
+    <title>ලන්ඩන් පුරපති අපේක්ෂකගෙන් ප්‍රතිඥාවක්</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 මැයි මස 02 14:41:51</date>
+    <body>තමන් ලන්ඩන් නුවර නගරාධිපති වුවහොත් ලන්ඩනයේ පදිංචි සිංහලයන්නේ උතසව සඳහා ට්‍රැෆල්ගාර් චතුරස්‍රය දෙන බව කම්කරු පක්ෂ අපේක්ෂක කෙන් ලිවින්ස්ටන්, හන්ස්ලෝ  ජනහඬ පදනම සමග කීවේය. එම පදනම පසුගිය දා ඔහු සමග සාකච්ඡාවක් පැවැත්වීය.</body>
+    <comments>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-05-02 17:16:45</date>
+            <index>0</index>
+            <phrase>මෙයා ලන්ඩන් වල ඉන්න දෙමළ අයට මොනවා දෙනවද කියලා කිවුවේ. මෙවට කියන්නෙ "කාරිය කෙරෙන තුරු කාගෙත් රැවටිල්ල"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලී</author>
+            <date>2012-05-02 18:48:23</date>
+            <index>1</index>
+            <phrase>මෙයත් බොරු පොරොන්දු දෙන්න දක්ෂයි වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-05-02 20:13:51</date>
+            <index>2</index>
+            <phrase>බොරු එපා බොස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-05-02 23:58:21</date>
+            <index>3</index>
+            <phrase>සාදරයෙන් පිළිගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙවිල්</author>
+            <date>2012-05-03 00:48:58</date>
+            <index>4</index>
+            <phrase>http://www.youtube.com/watch?feature=player_embedded</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2012-05-03 01:31:39</date>
+            <index>5</index>
+            <phrase>මෙයාලත් ලංකාවෙන් පුරුදු වෙලා , බොරදියේ මාළු බෑම කියන්නේ මේවට තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන්</author>
+            <date>2012-05-03 10:47:30</date>
+            <index>6</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-05-04 12:15:41</date>
+            <index>7</index>
+            <phrase>අපේ අයගේ ඡන්ද පොරොන්දු වගේ නොවුනොත් හොඳයි........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

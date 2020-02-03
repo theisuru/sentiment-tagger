@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30587</articleId>
+    <title>මිනිහෙක් දෙවරක් පෝරකේට නියම වේ</title>
+    <author>ජයසේන මිල්ලර</author>
+    <date>2012 මාර්තු මස 09 13:13:02</date>
+    <body>1975දී කෑගල්ල මහාධිකරනයේ මිනීමැරුම් නඩුවකින් පෝරකයට නියම වූ විත්තිකරුවකු තවත් මිනීමැරුම් නඩුවකින් පෝරකයට නියම කරමින් කෑගල්ල මහාධිකරණ විනිසුරු මේනකා විජේසුන්දර මෙනවිය තීන්දුවක් ප්‍රකාශයට පත් කළාය.
+ඩී.ජී සරත් වල්පොලට දෙවැනි වරට මරණ දඩුවම නියමවූයේ 2002 ඝාතනයක් සම්බන්ධයෙනි.</body>
+    <comments>
+        <comment>
+            <author>ශිහාන් දිසානායක</author>
+            <date>2012-03-09 15:29:50</date>
+            <index>0</index>
+            <phrase>දෙපාරක් මරණ දඩුවම නියම වුණේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රට වැසියා</author>
+            <date>2012-03-09 15:36:50</date>
+            <index>1</index>
+            <phrase>මරණ දඩුවම ක්‍රියාත්මක නැති නිසානෙ දෙපාරක් පෝරකේට නියම වෙලා තියෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2012-03-09 15:38:05</date>
+            <index>2</index>
+            <phrase>දහ පාරක් මරණ දඩුවම දුන්නත් මරන්න බෑ.. මරණ දඩුවම ක්‍රයිත්මක නැහැනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2012-03-09 15:56:50</date>
+            <index>3</index>
+            <phrase>මරණ දඩුවම ඉක්මනින් ක්‍රියාත්මක කරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංග</author>
+            <date>2012-03-09 16:30:32</date>
+            <index>4</index>
+            <phrase>පළවෙනි නඩුවේ තීන්දුව ඉක්මනවින් දුන්නනම් අද අනිත් කෙනා ජීවතුන් අතර නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

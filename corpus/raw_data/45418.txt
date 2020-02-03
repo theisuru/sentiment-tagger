@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45418</articleId>
+    <title>ඉතාලි භූමි කම්පාව 5.8 යි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 මැයි මස 29 13:25:56</date>
+    <body>උතුරු ඉතාලිය අද උදේ හෙල්ලූ භූමි කම්පාවේ ප්‍රභලත්වය රිච්ටර් මාපකයේ 5.8 ක් විය. පාදෝවා ප්‍රදේශයේ ගෙවල් දැඩි ලෙස හෙල්ලුම් කෑ බව එහි ශ්‍රී ලාංකිකයෝ කියති. ජීවිත හානි පිළිපඳ කිසිවක් ක්ෂණිකව වාර්තා වූයේ නැත. පසුගිය 20 වැනිදා අලුයම සිදුවූ භූමි කම්පාවෙන් ඉතාලි වැසියෝ අට දෙනෙක් මරුමුවට පත්වූහ.
+උතුරු ඉතාලියේ කිලෝ මීටර් 9.6ක් පොළොව යට මේ භූමි කම්පාව සිදුවූ බව ඇමෙරිකාවේ භූවිද්‍යා සමීක්ෂණ ආයතනය කියයි. ඉතාලියේ බොලෝනියා නගරයට කිලෝමීටර් 40ක් දුරින්ද, පාර්මා නගරයට කිලෝමීටර් 59ක් දුරින්ද, වෙරෝනා නගරයට කිලෝ මීටර් 70ක් දුරින්ද, රෝමයට කිලෝමීටර් 343ක් දුරින්ද තිරස් අතට මේ භූමි කම්පාව සිදුවී ඇත.</body>
+    <comments>
+        <comment>
+            <author>චානක</author>
+            <date>2012-05-29 13:34:31</date>
+            <index>0</index>
+            <phrase>ලංකාදීප ඔබේ සේවය විශිෂ්ඨයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක -මිලානෝ</author>
+            <date>2012-05-29 13:37:20</date>
+            <index>1</index>
+            <phrase>එසැනින් ගෙනෙන නිව්ස් ඉතා අගයමි..ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-29 13:39:06</date>
+            <index>2</index>
+            <phrase>අනේ අපොයි.. වෙච්ච දේ.. ඉතින් මම නම් මරණානුස්සති භාවනාව වඩමින් ඉන්නේ මේ දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-29 13:47:25</date>
+            <index>3</index>
+            <phrase>චානක,ලංකාදීප අන්තර්ජාල පුවත්පත කරනා සේවය මමද අගයමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-29 14:59:41</date>
+            <index>4</index>
+            <phrase>මනුෂ්‍යයාට තමාව මැවු දෙවියාව සිහිකරමින් තමාගේ මරනය සමිබන්ධව නිනැතින්ම අවදිව සිටීමට කාලය එලඔඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-05-29 14:26:45</date>
+            <index>5</index>
+            <phrase>සියළුදෙනා ආරක්ෂාවෙත්වා. ඉතාලිය හොද රටක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ...</author>
+            <date>2012-05-29 15:28:04</date>
+            <index>6</index>
+            <phrase>දැනට අවුරුදු 06 කට විතර කලියෙන් හොද රටක්‌ මිතුරාණනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිසිනි</author>
+            <date>2012-05-29 16:35:17</date>
+            <index>7</index>
+            <phrase>නවසීලන්තයේ වෙන භූමි කම්පා ගැන දැනුම් දෙන්නෙ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-05-29 17:17:53</date>
+            <index>8</index>
+            <phrase>ලංකාදීප ඔබ කරන ‍උතුම් සේවයට මල් මිටක්...! ස්තුතියි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-05-29 17:25:53</date>
+            <index>9</index>
+            <phrase>ලෝකයේ කිසිම තැනක කිසිම අනතුරක් උවදුරක් නොවේවා... එයයි මගේ පැතුම..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

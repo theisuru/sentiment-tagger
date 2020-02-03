@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447534</articleId>
+    <title>දුම්රියට ගල් ගැසූ හතරකට වැඩ වරදී</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 අගෝස්තු මස 14 12:41:22</date>
+    <body>කොළඹ කොටුව - ගල්කිස්ස දුම්රියකට අද (14) උදේ කොල්ලුපිටියේ දී ගල් ගැසූ බව කියන හතර දෙනෙක් කොටුව දුම්රිය ආරක්ෂක හමුදාව මගින් අත්අඩංගුවට ගනු ලැබූහ.
+මාළු අල්ලමින් සිටි මොවුහු කොල්ලුපිටිය පොලිසියට බාර දෙනු ලැබ සිටිති.
+ </body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-14 07:55:44</date>
+            <index>0</index>
+            <phrase>මොවුන් මානසික ලෙඩ්ඩුද කොහෙද. ඉක්මනට ප්‍රතිකාර කළොත් හරියාවි. විශේෂයෙන් දුම්රියෙන් ගමන් කරන මගීන් පවා මාර්ගයේ දෙපස සිටින පුද්ගලයන්ට උසුළු විසුළු කිරීමෙන් වැළකි සිටිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-08-14 08:26:48</date>
+            <index>1</index>
+            <phrase>අඬු කඩන්න ඕන. දැන් කෝච්චිවලට ගල් ගහන එක රැල්ලකට ගිහින්. කෝච්චියේ පා පුවරුවේ අමාරුවෙන් එල්ලීගෙන යන මනුස්සයෙක්ට ගලක් වැදුනොත් කාට කියන්නද. අහිංසක මිනිස්සු, දවසම වැඩ කරලා මහන්සිවෙලා ගෙදර යන්නේ කොයිතරම් දුකක් විඳගෙනද දන්නේ ඒ මිනිස්සු විතරයි. මේ මානසික ලෙඩ්ඩු සෙල්ලමකට අරන් තියෙන්නේ ඒ මිනිස්සුන්ගේ ජීවිත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-14 08:57:43</date>
+            <index>2</index>
+            <phrase>ගල් ගැසූ අයට විරුද්ධව අපි පොල් ගසමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2016-08-14 10:30:16</date>
+            <index>3</index>
+            <phrase>ගෝත්‍රික සමාජයක ගති ලක්ෂන තමයි මේ පෙන්නුම් කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-08-14 10:36:06</date>
+            <index>4</index>
+            <phrase>දිය හැකි උපරිම දඬුවම් දෙන්න තියෙන්නේ, ගහන්න බලන් ඉන්න එවුන්ටත් උණ ගැනෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-08-14 10:56:43</date>
+            <index>5</index>
+            <phrase>අරාබි දේශයේ නම් ගල් ගසාම දඬුවම් කරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

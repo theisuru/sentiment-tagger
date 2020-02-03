@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34552</articleId>
+    <title>නැ‘හිර අවිගත් කල්ලි අල්ලයි</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අපේ‍්‍රල් මස 02 14:42:44</date>
+    <body>නැගෙනහිර සන්නද්ධ කල්ලි, කොටි සැකකරුවන් හා අවි සොයා යුද හමුදාව හා පොලිසිය මෙහෙයුමක් අනුරාධපුර හන්දියෙන් ඇරැඹීය. සරණාගතයන් ලෙස රටින් පිට වී සිටි කොටි සාමාජිකයන් පිරිසක් යළි පැමිණ ප්‍රචණ්ඩ ක්‍රියා කරන්නේ දැයි ආරක්ෂක අංශ සැකකරයි. ඩග්ලස් දේවානන්ද ඇමැතිගේ ඊ.පී.ඩී.පී. පක්ෂයේ සාමාජිකයකු පසුගිය දා ඝාතනයට ලක්විය.</body>
+    <comments>
+        <comment>
+            <author>නිරෝෂාන් දිසානායක සෞදි අරාබියේ රියාද් නුවර සිට​</author>
+            <date>2012-04-02 17:28:36</date>
+            <index>0</index>
+            <phrase>මේක කලෝචිත ක්‍රියාවක් මක් නිසාද යත් එතෙර සිටි කොටි සාමජිකයින් ලක්බිමට නැවත පැමිණෙමින් සිටී. 100% විශ්වසයෙන් කිව හැකියි නැවතත් ඔවුන්ට ඕන ඔවුන්ගේ බොද වී ගිය ඊලාම් සිහිනය සැබැ කර ගැනීමට. මෙම හේතුන් නිසා මෙම කාරුණ සම්බන්ධව විශේෂ අවධානය යොමු කරන ලෙස ජනාධිපති තුමා සහා ආරක්‍ෂක ලේකම් තුමාගෙන් ඉල්ලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉනෝකා</author>
+            <date>2012-04-02 19:25:07</date>
+            <index>1</index>
+            <phrase>නියපොත්තෙන් කඩන්න තියන දේ පොරවෙන් කපන්න තියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-04-02 19:52:24</date>
+            <index>2</index>
+            <phrase>වහා ක්‍රියාත්මක වීම ප්‍රසන්සනීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද ජයසූරිය</author>
+            <date>2012-04-03 01:34:28</date>
+            <index>3</index>
+            <phrase>අවිගත්තෝ අවියෙන්ම නසී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

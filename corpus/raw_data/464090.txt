@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464090</articleId>
+    <title>කතරගම ගිහින් සීඅයි එස්අයි අතරමං</title>
+    <author>සිරාජ් හසීම්</author>
+    <date>2016 ඔක්තෝබර් මස 03 16:42:20</date>
+    <body>කතරගම නිවාඩු නිකේතනයක අසෝබන ලෙස හැසිරුණු බව කියන උතුරු මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂකවරයකු සහ උප පොලිස් පරීක්ෂකවරයකු පොලිස්පති පූජිත් ජයසුන්දර මහතා විසින් වහාම ක්‍රියාත්මක වන පරිදි මඩකලපුව හා මුලතිව් කොට්ඨාසවලට මාරු කර යවා ඇතැයි පොලිස් ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-10-04 01:29:24</date>
+            <index>0</index>
+            <phrase>කතරගම ගිහින් මෙහෙම හැසිරුනු අය මඩකළපු මුලතිව් යැව්වා කියන්නේ ඉබ්බා දියේ දැම්මා වාගේ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2016-10-04 02:32:30</date>
+            <index>1</index>
+            <phrase>"අසෝබන ලෙස" කිව්වේ? පැහැදිලි නැති නිසයි ඇහුවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

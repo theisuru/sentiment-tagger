@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>38301</articleId>
+    <title>බේරුවල දුම්රිය පාරට ගල් පර්වතයක්</title>
+    <author>සරත් සිරිවර්ධන</author>
+    <date>2012 අපේ‍්‍රල් මස 23 07:56:49</date>
+    <body>ත්‍රී රෝද දෙකක ප්‍රමාණයේ කළු ගලක් බේරුවල මාගල් කන්දේ දුම්රිය පාරට වැටී ඇත. මේ ගලේ ගෑවී නොගෑවී දුම්රිය ගමන්කරයි.</body>
+    <comments>
+        <comment>
+            <author>නිල්මිනි සේනාදීර</author>
+            <date>2012-04-23 09:03:37</date>
+            <index>0</index>
+            <phrase>"ගෑවී නොගෑවී" කියනවට තනි වචනයක් හදන්න කියල පන්ඩිත කෙනෙකුට ආයාචනයකරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-04-23 11:49:36</date>
+            <index>1</index>
+            <phrase>මේ වචන බොහෝමයක් සිංහල භාෂාවේ තියෙන ඒවා. ඒවට තව වචන හදන්න බෑ. උදාහරණ ‘‘කට්ට කළුවර, කට්ට කළු, තට්ට තනියම, නොමර මරණව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

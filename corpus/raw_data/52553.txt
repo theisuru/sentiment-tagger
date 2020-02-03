@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52553</articleId>
+    <title>පැනගිය හිරකරු වෙඩිකයි</title>
+    <author>බිනාල් එම් හිරිපිටිය/ ජයන්ත සමරකෝන්</author>
+    <date>2012 ජූලි මස 10 12:19:25</date>
+    <body>හෝමාගම උසාවියට රැගෙන එමින් සිටි සිරකරුවකු බන්ධනාගාර බසයෙන් පැන දුවද්දී බන්ධනාගාර නියාමකයෝ ඔහු ලූහුබැඳ ගොස් වෙඩි තැබූහ.
+වෙඩි කෑ සිරකරු පාරේ ඇද වැටුණේය. මෙම සැකකරුට එරෙහිව මංකොල්ල නඩු තිහක් ඇතැයි බන්ධනාගාර අරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-10 12:25:35</date>
+            <index>0</index>
+            <phrase>මේ දේම විය යුතු තවත් සැක කරුවන් ඉන්නවා..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්‍ලෙරියාව</author>
+            <date>2012-07-10 13:06:49</date>
+            <index>1</index>
+            <phrase>දිව්වනමි ඉතින් සොරිම තමයි ආයි දෙකක් නැහැ ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-10 13:09:06</date>
+            <index>2</index>
+            <phrase>හන්ගපු ආයුධ සොයන්න යනවට වඩා මේ ක්‍රමය ලේසියි වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්සි</author>
+            <date>2012-07-10 13:24:07</date>
+            <index>3</index>
+            <phrase>හිරේ ඉන්න ඕන අය එළියේ....එළියේ ඉන්න ඕන අය ඇතුලේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-10 12:47:31</date>
+            <index>4</index>
+            <phrase>දැන් හිර කරුට කොහොමද ? මැරිලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-10 13:03:33</date>
+            <index>5</index>
+            <phrase>මෙයා පැනල දිව්වද ? නැත්නම් " පැනල දුවන්න " කියලා කිව්වද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2012-07-10 13:57:47</date>
+            <index>6</index>
+            <phrase>හොඳ වැඩේ පනින්න හැදුවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-10 13:19:24</date>
+            <index>7</index>
+            <phrase>දූෂණ නඩුවක කෙනෙක් නම් ඔළුවටමයි තියන්න තිබුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-07-10 13:20:33</date>
+            <index>8</index>
+            <phrase>නියමයි.මෙවන් දේවල් තවත් ඉදිරියට කරගෙන යාමට ශක්තිය සහ ධෛර්යය ලැබේවා! මොකද නීතිය හරියට වැඩ කරන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-07-10 14:23:58</date>
+            <index>9</index>
+            <phrase>ෆොන්සේකා මහත්තය ඒ කාලෙ පෑනල දිව්වෙ නෑත්තෙ මොකද දන්නේ නෑ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-07-10 14:31:07</date>
+            <index>10</index>
+            <phrase>එල්ලුම්ගහත් නැති එකේ මේවගේවත් වෙන එක හොදයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-07-10 15:04:11</date>
+            <index>11</index>
+            <phrase>අනේ , අර පොඩි ළමයි පෙන්නන්න බැරුව ඇතු‍ළට ගිය කට්ටියටත් ඔය දේම කරන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් හේරත්</author>
+            <date>2012-07-10 15:04:12</date>
+            <index>12</index>
+            <phrase>අර ඇතුලෙ ඉන්න පොඩි ළමයි පෙන්නන්න බැරි අයට පැනල යන්න අදහසක් එහෙම නැද්ද දන්නෙ නැහැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-07-10 14:25:41</date>
+            <index>13</index>
+            <phrase>අවි ගත්තෝ අවියෙන්ම නසී...!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූසා</author>
+            <date>2012-07-10 14:44:09</date>
+            <index>14</index>
+            <phrase>මොන කුණු ගොඩක් උනත් ජෙනරල් ෆොන්සේකව සම්බන්ධ කරල ඒ මනුස්සයව අල්ල ගන්නවා....ඒ මනුස්සය රට වෙනුවෙන් තුන් සැරයක් තුවාල ලබල මරු පෙනි පෙනී ජීවත් උන වීරයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>M.සිරා</author>
+            <date>2012-07-10 14:47:38</date>
+            <index>15</index>
+            <phrase>කෝ, මාංචුවත් දාලා නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරා</author>
+            <date>2012-07-10 15:27:51</date>
+            <index>16</index>
+            <phrase>පූසා..දාන්න පහක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-10 14:56:57</date>
+            <index>17</index>
+            <phrase>පූසා, ඔයාට ඇත්ත පෙනුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බටු මුදලාලි</author>
+            <date>2012-07-10 15:39:56</date>
+            <index>18</index>
+            <phrase>වෙඩි තිබ්බා කිව්වට මැරිලා කියලා කොහේවත් කියලා නෑනේ...මට නම් පේන්නේ නිදි වගේ‍‍‍.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මීයා</author>
+            <date>2012-07-10 15:13:53</date>
+            <index>19</index>
+            <phrase>එතුමා ඡන්දේ ඉල්ලන්න කලින් ඔහේලට මෝඩයෙක්.ඉන්පස්සේ අනික් කට්ටියට මෝඩයෙක්.අනේ මොකටද මගේ කට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්කල්</author>
+            <date>2012-07-10 15:15:59</date>
+            <index>20</index>
+            <phrase>හොඳ වැඩේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-10 15:55:31</date>
+            <index>21</index>
+            <phrase>චතුර වෙරෝනා වගේ කට්ටිය නිසා තමයි අපේ මිනිසුන් භේද වෙන්නෙ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-10 15:38:19</date>
+            <index>22</index>
+            <phrase>කටුස්සන් කෑවනම් විදවපන් බළලෝ දුක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩිඑකා</author>
+            <date>2012-07-10 15:55:12</date>
+            <index>23</index>
+            <phrase>එත‍කොට හිරගෙදරදි මොයාලට හොද සැප පහසුවට තියෙනවා කියන්නේ බොරැද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වලහා</author>
+            <date>2012-07-10 16:46:38</date>
+            <index>24</index>
+            <phrase>පොලිසියෙන් වෙඩි තිබ්බනම් ‍හිරකරැත් පැනල ගිහිං පාරෙ යන හත් අට දෙනෙකුටත් වැදිල මහා විකාරයක් කරනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීති</author>
+            <date>2012-07-10 16:31:44</date>
+            <index>25</index>
+            <phrase>අමරෙ අයියත් පැනල යන්න හදයිද දන්නෙ නැහැ‍ නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-10 17:19:43</date>
+            <index>26</index>
+            <phrase>ෆොටෝ එක ගත්තේ හොරෙන් නේද? මෙන්න නියම වැඩකාරයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2012-07-10 19:48:30</date>
+            <index>27</index>
+            <phrase>මෙයා පැනල දුවනකම් පොලීසිය කොහෙද හිටියේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>aaa</author>
+            <date>2012-07-10 21:30:00</date>
+            <index>28</index>
+            <phrase>මැරිලා නෑ, තුවාල වෙලයි කියලයි අපිට නම් ආරංචි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත්</author>
+            <date>2012-07-10 21:45:16</date>
+            <index>29</index>
+            <phrase>ඇත්තටම එල්ලුම් ගහට වඩා මේ ක්‍රමය හොදයි.අනේ අනික් පාතාල කාරයෝ ටිකවත් දොර ඇරපු බස් එකකින් එක්ක යන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-07-10 23:40:24</date>
+            <index>30</index>
+            <phrase>නියම ෂොට් එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2012-07-10 23:57:28</date>
+            <index>31</index>
+            <phrase>පැනලා යන්න පුලුවන් විදියට සිරකරුවන් රැගෙන යන අයටයි වෙඩි තියන්න ඕනි.මේවා නරක පූර්වාදර්ශ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-11 02:44:05</date>
+            <index>32</index>
+            <phrase>වෙඩි තියන්න ඕන.. ‍ගොඩක් දෙනෙක් එලියට එනව..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියෝමාල්</author>
+            <date>2012-07-11 03:21:35</date>
+            <index>33</index>
+            <phrase>වලහා.. ඔයාගෙ අදහසට මට හොදටම හිනා ගියා.. එත් කතාව ඇත්ත..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-07-11 07:27:44</date>
+            <index>34</index>
+            <phrase>ඇතුළේ ඉන්න ඕනි ඔක්කොම ලොක්කෝ එළියේ.මොකද පොලිසියට දැන් වෙඩි තියන පුහුණුව දෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

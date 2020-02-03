@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>100720</articleId>
+    <title>අවුකන පිළිමයේ ‘පුස්‘ ඉවත් කරයි</title>
+    <author>අතුල බණ්ඩාර නෙළුම්පත්ගම</author>
+    <date>2013 මාර්තු මස 03 12:49:08</date>
+    <body>කාලයක් තිස්සේ වැස්සට තෙමීම නිසා ඇතිවූ ඇල්හී ඉවත් කර ඓතිහාසික අවුකන බුදු පිළිමය පිරිසිදු කිරීමට පුරා විද්‍යා නිලධරයෝ කටයුතු කළහ.
+විහාරාධිපති ශ්‍රාස්ත්‍රවේල්ලියේ ධම්මකිත්ති හිමියන්ගේ අනුශාසනා පරිදි පුරාවිද්‍යා සංරක්ෂණ සහකාර ගාමිණී උඩකන්දගේ මහතාගේ අධීක්ෂණයෙන් දායක සභාවේ සහ ගල්නෑව පොලීසියේ සහායෙන් කලා වැවේ ජලයෙන් සිරිදු කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>ඩබ්. ‍ටී. 37262</author>
+            <date>2013-03-03 13:49:05</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මලා</author>
+            <date>2013-03-03 13:51:56</date>
+            <index>1</index>
+            <phrase>නරකද කම්කරුවන් අතින් මේ දේ කරන්නේ නැතිව ඔය ලොකු මහත්තුරු වැඩේ කළානම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-03 13:55:04</date>
+            <index>2</index>
+            <phrase>මෙම සත්ක්‍රියාවට ඔබවහන්සේ ඇතුලු දායක සභාවට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-03-03 14:23:21</date>
+            <index>3</index>
+            <phrase>පොලිසිය ගියේ වැඩි ආරක්ෂාවට වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම</author>
+            <date>2013-03-03 14:57:22</date>
+            <index>4</index>
+            <phrase>මහා පුණ්‍යකර්මයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2013-03-03 15:08:12</date>
+            <index>5</index>
+            <phrase>අනේ මටත් සහභාගිවෙන්න තිබුණා නම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2013-03-03 15:17:21</date>
+            <index>6</index>
+            <phrase>මනහර මැවුමකි හෙළ ගල් වඩුවාගේ... අවුකන පිළිමේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-03 15:21:14</date>
+            <index>7</index>
+            <phrase>සියලු දෙනාටම පින්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-03-03 15:19:15</date>
+            <index>8</index>
+            <phrase>සියලුම පුරා වස්තු, වැව් පොකුණු, පිළිම මෙලෙස අපි ප්‍රතිසංස්කරණය කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2013-03-03 15:19:21</date>
+            <index>9</index>
+            <phrase>මොනතරම් නම් කාලෝචිත වූ දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2013-03-03 15:51:12</date>
+            <index>10</index>
+            <phrase>මල් ගද සුවදින් පිදියයුතු පිළිමයේ වුණත් පුස් අල්ලනවා. මෙය අනිත්‍යයේ සත්‍ය ස්වභාවය නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවක</author>
+            <date>2013-03-03 15:55:26</date>
+            <index>11</index>
+            <phrase>කලාවැවේ වතුර නම් කියන තරම් පිරිසිදු නැහැ. මමනේ දන්නේ මිනිස්සු ඔය වැවේ හෝදන්නේ නැති දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීව</author>
+            <date>2013-03-03 16:07:11</date>
+            <index>12</index>
+            <phrase>ඉතාමත් හොඳ වැඩක්,අගය කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීව</author>
+            <date>2013-03-03 16:11:05</date>
+            <index>13</index>
+            <phrase>ඉතාමත් හොඳ වැඩක්,අගය කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-03-03 16:14:05</date>
+            <index>14</index>
+            <phrase>සාදු..සාදු..//</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2013-03-03 16:27:17</date>
+            <index>15</index>
+            <phrase>වටිනාකම ලියන්න බැරි තරම් වටිනා පිලිමයක්. සහයවෙන හැමෝටම අමරණීය අත්දැකීමක් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2013-03-03 17:41:15</date>
+            <index>16</index>
+            <phrase>උතුම් ක්‍රියාවක්. ඒ සැමට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම්</author>
+            <date>2013-03-03 18:38:30</date>
+            <index>17</index>
+            <phrase>සාදු....සාදු.... ඉතා වටින ක්‍රියාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්-දෝහා</author>
+            <date>2013-03-03 18:53:15</date>
+            <index>18</index>
+            <phrase>උතුම් ක්‍රියාවක්. සැදැහැවත් ජනතාවගේ නොමද සහයත් ලැබෙන බව පේනවා. තුනුරුව්නගේ සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2013-03-03 18:55:25</date>
+            <index>19</index>
+            <phrase>ඉතාමත්ව හොද කාරියක් පින් සිදු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ. හේමසර තෙර</author>
+            <date>2013-03-03 19:24:27</date>
+            <index>20</index>
+            <phrase>අපේ උරුමය ආරක්ෂා කරන ඔබට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගාසනී</author>
+            <date>2013-03-03 19:29:06</date>
+            <index>21</index>
+            <phrase>සාදු, සාදු, සාදූ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-03-03 21:18:55</date>
+            <index>22</index>
+            <phrase>අගේ කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2013-03-04 08:59:30</date>
+            <index>23</index>
+            <phrase>මම ගියා අවුකන බුදුන්ටත් දෑස් දුන් මිනිසා සොයා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-03-04 10:11:22</date>
+            <index>24</index>
+            <phrase>වන හිස මුදුනේ අවුකන පිළිමේ නිසසල දෑසින් බලා සිටී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-03-04 15:12:15</date>
+            <index>25</index>
+            <phrase>මේ අපේ ජාතික උරුම ඒවා රක ගන්න එක අපේ වගකීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සශීමාල්</author>
+            <date>2013-03-05 11:18:06</date>
+            <index>26</index>
+            <phrase>සාදු සාදු සාදු !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2013-03-05 16:23:43</date>
+            <index>27</index>
+            <phrase>අද සමහරක් අැත්තන් ක්‍රියාවෙන් කරන්නේත් පුස්වැඩය. ඉතින් නිත්‍ය දේ පැමිනිය කල අනිත්‍ය දේවල් පුස්බැදීම නොවැලැක්විය හැකි කරුණකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

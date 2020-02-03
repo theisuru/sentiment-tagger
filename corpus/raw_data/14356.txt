@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14356</articleId>
+    <title>රත්වත්තේ අභාවප‍්‍රාප්ත වෙයි</title>
+    <author>ෂේන් සෙනෙවිරත්න</author>
+    <date>2011 නොවැම්බර් මස 24 12:18:24</date>
+    <body>හිටපු ආරක්ෂක නියෝජ්‍ය ඇමැති ජනරාල් අනුරුද්ධ රත්වත්තේ(73) මහනුවර රෝහලේදී මීට මද වේලාවකට කලින් අභාවප‍්‍රාප්ත විය.</body>
+    <comments>
+        <comment>
+            <author>මංගල රාජපක්ෂ</author>
+            <date>2011-11-24 13:14:08</date>
+            <index>0</index>
+            <phrase>ඔබට නිවන් සුව මැකිකුමනි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමා- අබුඩාබි</author>
+            <date>2011-11-24 14:23:23</date>
+            <index>1</index>
+            <phrase>එතුමාට නිවන් සැප</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>pg</author>
+            <date>2011-11-24 15:44:00</date>
+            <index>2</index>
+            <phrase>නිවන් සැප ලැබේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත් ශානක</author>
+            <date>2011-11-24 16:14:51</date>
+            <index>3</index>
+            <phrase>මහනුවරට පාඩුවක්. එතුමන්ට නිවන් සුව ලැබේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2011-11-24 16:50:27</date>
+            <index>4</index>
+            <phrase>රත්වත්තේ මැතිතුමාට නිවන් සැප ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂිනි</author>
+            <date>2011-11-25 08:26:53</date>
+            <index>5</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506303</articleId>
+    <title>ඉබ්බන්කටුව සුසාන භූමිය සංරක්ෂණය කරයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2017 පෙබරවාරි මස 12 10:55:30</date>
+    <body>වසර 2,700 ක් පැරණි මෙගලිතික යුගයේ මහා ශිලා සුසාන භූමියක් ලෙස හඳුනාගෙන ඇති ඉබ්බන්කටුව මෙගලිතික සුසාන භූමිය වසර කිහිපයක් තිස්සේ විනාශ වෙමින් පැවති අතර මේ පිළිබද විශේෂ අවධානය යොමු කළ අධ්‍යාපන අමාත්‍ය අකිල විරාජ් කාරියවසම් මහතා ලෝක උරුම කළමනාකරණ වැඩසටහනක් ලෙස එය සංරක්ෂණය කිරීම ඇරැඹීය. ඒ අනුව සංරක්ෂණය කරන ලද ඉබ්බන්කටුව මෙගලිතික සුසාන භූමිය සංචාරකයන් සඳහා විවෘත කරනු ලැබිණ. </body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-02-12 05:55:20</date>
+            <index>0</index>
+            <phrase>අනේ කාලේ වනේ වාසේ......! මට මතකයි 88 / 89 කාලවල ලංකාවේ සෑම තැනම සුසාන භූමි තිබුනා. ඒවත් සංචාරකයන් ඇදගන්න ස්ථාන කළොත් මොකද...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක ලක්සිරි</author>
+            <date>2017-02-12 07:31:04</date>
+            <index>1</index>
+            <phrase>හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුචී</author>
+            <date>2017-02-12 18:55:54</date>
+            <index>2</index>
+            <phrase>කනත්තේ ඕපනින් එකටත් දේශපාලකයෝ. අනේ මෙහෙමත් රටක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

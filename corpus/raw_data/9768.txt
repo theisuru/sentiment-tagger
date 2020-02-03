@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9768</articleId>
+    <title>උඩවළවේ ඝාතක වං හුං සොයාගනී</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2011 ඔක්තෝබර් මස 19 14:29:47</date>
+    <body>උඩවලව පනහඩුවේ බස් හිමියා ඝාතනය කරන්නට ඇත්තේ වස්තුව කොල්ලකෑමට බව පෙනේ යැයි පොලිසිය කියයි. නිධානයකින් ලැබුණු ලොකු වස්තුවක් ඇතැයි සිතා ව්‍යාපාරිකයා මරන්නට ඇතැයි ද අඹුදරුවන් මරන්නට ඇත්තේ ඔවුන් කොල්ලකරුවකු හඳුනා ගැනීම නිසා විය හැකි යැයි ද ප‍්‍රාදේශීය දේශපාලනඥයකුගේ ගෝලයකු ද කොල්ලකරුවන් අතර සිටින්නට ඇතැයි ද පොලිසියට තොරතුරු ලැබී ඇත.</body>
+    <comments>
+        <comment>
+            <author>කසුන්</author>
+            <date>2011-10-20 08:48:47</date>
+            <index>0</index>
+            <phrase>හොද හොද සෙල්ලම් එලිවෙන ජාමෙට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂා ද සිල්වා</author>
+            <date>2011-10-20 12:28:00</date>
+            <index>1</index>
+            <phrase>තන්හාය ජායතී සෝකෝ.... අහිංසක පොඩි එවුන් දෙන්නගේ ජීවිත අපරාදේ!......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

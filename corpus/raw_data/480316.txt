@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>480316</articleId>
+    <title>පේරාදෙණියේ ගුටි කෙළියෙන් 4 ක් රෝහලේ</title>
+    <author>සෙනරත් බණ්ඩාර</author>
+    <date>2016 නොවැම්බර් මස 16 09:45:33</date>
+    <body>පේරාදෙණිය  විශ්වවිද්‍යාලයේ  සිසුන් දෙපිරිසක් අතර අඟහරුවාදා (15) රාත්‍රියේ ඇති වු ගැටුමකින්  සිව්දෙනෙකු තුවාල ලබා පේරාදෙණිය රෝහලට ඇතුළත් කළ බව විශ්වවිද්‍යාල ආරක්ෂක අංශය සදහන් කරයි.
+අවසන් වසර සිසුන්ට සමුගැනීමේ සාදයදීම  දෙවැනි වසර සිසුන් විසින් සිදුකළ යුතු බවත් එහෙත් එම සාදයට ආරාධනාව ලබාදීම ප්‍රමාද වීම ගැටුමට හේතුව වේ.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-16 06:23:17</date>
+            <index>0</index>
+            <phrase>ඕවද දැන් සරසවියේ උපාධියට තියෙන්නේ. මගේ හිතේ ප්‍රැක්ටිකල් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-16 07:01:33</date>
+            <index>1</index>
+            <phrase>දැනුම පිරී ඉතිරුනත් හදවත් හිස් මිනිසුන්ගෙන් රටට සෙතක් නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-11-16 09:56:15</date>
+            <index>2</index>
+            <phrase>හිස්වූ මොළයක් සහ හදවත් වලින් තොරවූ ශරීරයන් විශ්ව විද්‍යාල නමින් හැඳින්වෙන කොන්ක්‍රීට් ගොඩනැඟිල්ලක් තුළ වසර කිහිපයක් ගොජ වූ පසුව රටට දායාද කරන ලද අපේ රටේ මොළකරුවන් යැයි හඳුන්වන පිරිසක් ගැන කුමන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454119</articleId>
+    <title>උතුරට ආර්ථික මධ්‍යස්ථාන දෙකක්</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 සැප්තැම්බර් මස 04 11:59:43</date>
+    <body>මුලතිව් හි මාන්කුලම් නගරයේ සහ වව්නියාවේ මාතවෛතලවෙන්තු හි ආර්ථික මධ්‍යස්ථාන දෙකක් ඉදි කිරීමට රජය අනුමැතිය ලබාදී ඇත.
+දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ සිට එකම මාර්ගයක එළවළු වෙළඳාම සඳහා ඉඩකඩ සැලසීම මෙහි අරමුණුවී ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-09-06 00:09:03</date>
+            <index>0</index>
+            <phrase>ඔය වගේ හදපු ආර්ථික මධ්‍යස්ථානයක් හඟුරන්කෙත කන්දෙහන්දියේ දැන් අවුරුදු ගණනක් තිස්සේ වසා දමා තිබෙනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

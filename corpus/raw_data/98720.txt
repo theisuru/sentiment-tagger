@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>98720</articleId>
+    <title>පාසලට ගුරුවරුන් නැතැයි දෙල් ගහට නගිති</title>
+    <author>පද්මසිරිද සිල්වා</author>
+    <date>2013 පෙබරවාරි මස 18 13:35:53</date>
+    <body>කටුවන හිඟුරකන්ද මැදි විදුහලට චිත්‍ර,  කෘෂිකර්ම හා වාණිජ ගුරුවරුන් ඉල්ලමින් ගැමියෝ දෙදෙනෙක් දෙල් ගසක අඩි තිහක ඉහළින් අට්ටාලයක් බැඳ උපවාසයක් ඇරැඹූහ.
+මේ පාසලේ ළමෝ 360ක් සිටිති. ගුරුවරු 20ක් ද සිටිති.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-02-18 13:48:36</date>
+            <index>0</index>
+            <phrase>අට්ටාලේ කොහොම හිටියත් කන්නනම් එපා හොඳේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-02-18 14:01:57</date>
+            <index>1</index>
+            <phrase>කොළඹට කිරි ගමට කැකිරි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-02-18 14:07:29</date>
+            <index>2</index>
+            <phrase>වැඩේ දෙල්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාන්</author>
+            <date>2013-02-18 14:16:40</date>
+            <index>3</index>
+            <phrase>ගුරුවරු නැත්නම් කොහෙන් දෙන්නද ? ගෙදර අමතර පන්ති ගිහිල්ලා ඉගෙන ගන්න කියන්න.. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-02-18 14:21:51</date>
+            <index>4</index>
+            <phrase>දෙල් ගහ නම් නියමයි කපන්න දෙන්න එපා ගමටම කන්න පුළුවන්‍ දෙල්ගහෙන් බැහැලා ඉස්කෝලේ ළඟට ගියොත් නරකද? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශා</author>
+            <date>2013-02-18 14:51:12</date>
+            <index>5</index>
+            <phrase>වෙන මොනවා කරන්නද,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාෂ්</author>
+            <date>2013-02-18 16:14:18</date>
+            <index>6</index>
+            <phrase>අවංකව උත්සාහ කරන ඔබලාට බොහොම පින්... සියලු දෙවි රැකවරන පිහිට ලැබේවා... දරුවන්ගෙ ජීවිත රැක ගන්න ඔබ කරන මේ උත්සාහයට මගේ අවංක ප්‍රණාමය... රටට කැක්කුමක්, දරුවන්ට ආදරයක් ඇති ඇමතිවරු, නිලධාරීන් ඉන්නවා නම් මේ දුක දැකලා පිහිට වෙන්න පරක්කු නෑ මහත්තයෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2013-02-18 16:52:14</date>
+            <index>7</index>
+            <phrase>අනේ කාලේ වනේ වාසේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2013-02-18 17:11:18</date>
+            <index>8</index>
+            <phrase>ඔය මදි. තව උඩට නගින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-02-18 17:34:28</date>
+            <index>9</index>
+            <phrase>මමනම් ඒ වැඩේ වැරද්දක් දකින්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2013-02-18 17:34:32</date>
+            <index>10</index>
+            <phrase>කටේ කෙල හිදෙනකල් ඉල්ලන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2013-02-18 17:34:32</date>
+            <index>11</index>
+            <phrase>ඔය එකපාරක් ඉල්ලලා දුන්නේ නැති නිසා නැග්ගා නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2013-02-18 17:38:14</date>
+            <index>12</index>
+            <phrase>මේ වෑඩේ ඔයාලා කළාට කමක් නැහැ. හැබැයි තරුණ කොල්ලන්ට බෝ වුණොත් විනාසයි. මොකද යාළු කෙල්ලගේ ගේ ළග ගහකට නැගලා දුවව දෙන්න කියා උපවාස කරන්නත් බැරි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2013-02-18 17:53:53</date>
+            <index>13</index>
+            <phrase>දැන් ගස් වලට නගින එක පුරුද්දක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-02-18 17:53:54</date>
+            <index>14</index>
+            <phrase>අන්න ඒක තමයි එකම විසදුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෆ්ක්</author>
+            <date>2013-02-18 17:59:55</date>
+            <index>15</index>
+            <phrase>නියම විසදුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2013-02-19 14:38:33</date>
+            <index>16</index>
+            <phrase>රම්පෙ ගහේ දෙල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2013-02-20 08:16:34</date>
+            <index>17</index>
+            <phrase>වෛද්‍යපීඨ වලින් ජොබ් නැති කීදාහක් එලියට එනවද. ඒ අයට පත්වීම් දීලා ඔය පාසැල් වලට දාන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2013-02-23 00:37:59</date>
+            <index>18</index>
+            <phrase>තියෙනවා නම් ‍පොඩි ඉඩක් දෙන්නකෝ මටත් නගින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බොතේජු</author>
+            <date>2013-03-18 02:07:35</date>
+            <index>19</index>
+            <phrase>උපවාසයක් සාර්ථක වෙන්න නම් උඩකට නගින්නම ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

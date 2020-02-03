@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>409118</articleId>
+    <title>සුදුනෙළුම්ගමට වැසි: සුළඟින් නිවාස 23 කට හානි</title>
+    <author>නිමල් ජයරත්න</author>
+    <date>2016 අපේ‍්‍රල් මස 26 17:37:05</date>
+    <body>පොළොන්නරුව සුදු නෙලූම්ගම හා සුවසෙතගම ගම්මාන වලට අද (26) වැස්සත් සමග හමාගිය තද සුළඟකින් නිවාස 23 කට පමණ දැඩි අලාභ සිදු වි ඇති බව පොලොන්නරුව පොලිසිය කියයි.
+විදුලි රුහැන් , දුරකතන රුහැන් හා නිවාස වල වහලවල් වලටද හානි සිදු වි ඇති බව ගම්වාසිහු පවසති.
+නිවාස හානි වුවන්ගේ තොරතුරු ලබාගෙන ඔවුන් සදහා වන්දි ගෙවිමට අවශ්‍ය කටයුතු කරන බව පොළොන්නරුව දිස්ත‍්‍රික් ආපදා කළමණාකරන සහකාර අධ්‍යක්ෂ උපුල් නානායක්කාර මහතා පවසයි. </body>
+    <comments>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-04-26 12:32:10</date>
+            <index>0</index>
+            <phrase>මේ අහිංසක මිනිසුන්ටමයි ඔක්කොම වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තබුක් සිල්වා</author>
+            <date>2016-04-26 13:10:35</date>
+            <index>1</index>
+            <phrase>කොළොඹට කිරි ගමට කැකිරි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2016-04-26 19:59:18</date>
+            <index>2</index>
+            <phrase>රට කාබාසිනියා කරන දේශපාලුවන්ගේ ගෙවල් වලට මේවා කඩා වැටෙන්නේ නැහැනේ. එ්කත් වෙන්නේ ආසරණ මිනිස්සුන්ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-04-26 20:20:28</date>
+            <index>3</index>
+            <phrase>ගමේ නම සුදුනෙළුම්ගම වුණාට බලන්නකෝ ගෙවල් වල හැටි. මිනිසුන්ගේ ජීවන චර්යාව සහ ආර්ථිකය එයින්ම කියන්නට පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කස්තුරි</author>
+            <date>2016-04-26 23:50:29</date>
+            <index>4</index>
+            <phrase>ඇත්ත මනෝජ්, පවු ඒ මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-04-27 05:09:58</date>
+            <index>5</index>
+            <phrase>අහිංසක මිනිස්සු , පව් ස්වභාවධර්මය එයාලට වින කලාට , බලන්න ඒ මිනිස්සු මොනතරම් පරිසරයට ආදරේද කියල , ගෙදර බිත්තියේ එල්ලලා තියෙන මුට්ටිය , ගේ කුරුල්ලන්ට දරු සුරතල් බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

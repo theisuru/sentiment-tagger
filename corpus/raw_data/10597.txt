@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>10597</articleId>
+    <title>පොන්සේකාට ස්කෑන් පිරික්සුමක්</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 ඔක්තෝබර් මස 25 19:38:07</date>
+    <body>හිටපු යුද හමුදාපති සරත් පොන්සේකා අද පෞද්ගලික රෝහලකදී සී. ටී. ස්කෑන් පිරික්සුමකට ලක් කළ බව ඔහුගේ බිරිය අනෝමා පොන්සේකා මහත්මිය කියන්නීය. ඔහුගේ උදරය පිරික්සීමට මේ පරීක්ෂණය පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>s.k.g.c.p.k.කරුණාරත්න</author>
+            <date>2011-10-26 10:43:39</date>
+            <index>0</index>
+            <phrase>දීර්ඝායුෂ හා ඉක්මණින් නිදහස පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2011-10-26 13:42:14</date>
+            <index>1</index>
+            <phrase>මව්බිමට යමක් කළ හැකි ඔබට දීර්ඝායුෂ හා ඉක්මන් නිදහස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2011-10-26 14:45:18</date>
+            <index>2</index>
+            <phrase>දීර්ඝායුෂ හා ඉක්මණින් නිදහස පතමි jaya wewa...........!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2011-10-26 15:32:59</date>
+            <index>3</index>
+            <phrase>දීර්ඝායුෂ............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sathya</author>
+            <date>2011-10-28 18:38:42</date>
+            <index>4</index>
+            <phrase>කෝටියක් ජනතාවගේ සුභාසිංසන යෙන් හා ප්‍රර්ථනා වලින් ඔබ තුමා ඉක්මනින් සුවපත් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

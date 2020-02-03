@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>302138</articleId>
+    <title>‘මම ආපසු එනවා‘</title>
+    <author>මංජුල සේනානායක අජිත් ප්‍රියන්ත</author>
+    <date>2015 මාර්තු මස 12 11:56:06</date>
+    <body>හිටපු ජනපති මහින්ද රාජපක්ෂ මහතා අනුරාධපුරයේ සංචාරයක නිරතවෙමින් එහි පිරිස හමුවිය. ජය ශ්‍රී මහ බෝ සමිඳුන් වැඳ පුදා ගැනීමටද එක්වූ හිටපු ජනපතිවරයා දැක ගැනීමට විශාල පිරිසක් එහි එක් රැස් වූහ.
+තමන් නැවත දේශපාලනයට එන බවත්, කලබල නොවී සිටින ලෙසත් එහි සිටි පිරිස අමතා මහින්ද රාජපක්ෂ මහතා පැවසීය.
+
+ 
+ඡායාරූප - මංජුල සේනානායක</body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2015-03-12 07:19:46</date>
+            <index>0</index>
+            <phrase>ඔබ එන තුරු අපි බලන් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොයිසා</author>
+            <date>2015-03-12 08:10:42</date>
+            <index>1</index>
+            <phrase>අාවට වැඩක් වෙන්නේ නෑ.දැන් තැනක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2015-03-12 20:35:33</date>
+            <index>2</index>
+            <phrase>ඔහොම යමුකෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2015-03-17 13:17:56</date>
+            <index>3</index>
+            <phrase>ඔබතුමා අපිට දෙවි කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

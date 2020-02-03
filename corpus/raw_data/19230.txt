@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19230</articleId>
+    <title>සුනාමිය සිහිකරන්න මිනිත්තු දෙකක් නිහඩවන්න</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 25 17:56:15</date>
+    <body>2004 සුනාමියෙන් මියගිය පිරිස් සිහිපත් කිරීමට හෙට (26) පෙරවරු 9.25 සිට පෙරවරු 9.27 දක්වා විනාඩි දෙකක නිශ්ෂබ්දතාවයක් පවත්වන්නයි ආපදා කළමනාකරණ අමාත්‍ය මහින්ද අමරවීර මහතා ඉල්ලායි. හත් වසරකට පෙර සිදුවූ මේ විපතින් අඩු ගණනේ හතලිස් දහසක් පමණ මරමුවට පත්ව දස ලක්ෂයකට පමණ උන් හිටි තැන් අහිමි විය.</body>
+    <comments>
+        <comment>
+            <author>lucky</author>
+            <date>2011-12-25 18:06:27</date>
+            <index>0</index>
+            <phrase>මෙය මතක් වුණ එක ගොඩක් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

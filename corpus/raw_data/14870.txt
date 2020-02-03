@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14870</articleId>
+    <title>රජරට උපකුලපති හිර කරති</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 නොවැම්බර් මස 28 12:46:01</date>
+    <body>තම ඉල්ලීම් ගැන සාකච්ඡා ප්‍රතික්ෂේප කළැයි රජරට සරසවියේ පුලියන්කුලම වෛද්‍ය පීඨ සිසුහු පන්සියයක් පමණ උපකුලපති මහාචාර්ය කේ.ඒ. නන්දසේන හා පීඨාධිපති මහාචාරිනී මාලනී උඩුපිහිල්ල අද පෙරවරු 10.30ට පමණ අතුරු වෛද්‍ය ගොඩනැගිල්ලේ රඳවාගනු ලැබ සිටිති. පොලිසිය කැඳැවීමට උපකුලපති සූදානම් වුවත් පීඨාධිපතිනිය ඊට විරුද්ධවූ බවත් පසුව සිසුන් හා සාකච්ඡා කිරීමට උපකුලපති එකඟ වූ බවත් සරසවි ආරංචි කියයි. අවසන් වසරේ විභාගයට සූදානම් වීම සඳහා මහාචාර්ය ඒකකය පිහිටැවීමට හත් මාසයක් ගත වීම ගැන සාකච්ඡා කිරීම සිසුන්ගේ උත්සහාය විය.</body>
+    <comments>
+        <comment>
+            <author>ඉන්දිකා</author>
+            <date>2011-11-28 13:14:12</date>
+            <index>0</index>
+            <phrase>ලංකාවේ අධ්‍යාපනයේ අගය තමයි ඔය පෙන්නන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලූෂන්</author>
+            <date>2011-11-28 14:56:24</date>
+            <index>1</index>
+            <phrase>පුද්ගලික වෛද්‍ය විද්‍යාලවලට විරුද්ධ වන මෙවන් සිසුන්ගේ කතා පිළිගත යුතුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැමී</author>
+            <date>2011-11-28 15:27:59</date>
+            <index>2</index>
+            <phrase>අසාධාරණ මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිත්</author>
+            <date>2011-11-28 22:52:04</date>
+            <index>3</index>
+            <phrase>පුද්ගලික වෛද්‍ය විද්‍යාලවලට පක්ෂව කථා කරන අයට රජරට වෛද්‍ය පීඨයේ අනතුර නොපෙනෙන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2011-11-29 00:47:57</date>
+            <index>4</index>
+            <phrase>ලංකාවෙ නිකන් අධ්‍යාපනය දෙන එකේ රග තමයි මේ. මෙයාලට අධ්‍යාපනය දෙන්න වියදම් වෙන්නෙ සාමාන්‍ය ජනතාවගේ බදුවලින් ගන්න දලලි කියල තාම දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>lama</author>
+            <date>2011-11-29 09:58:40</date>
+            <index>5</index>
+            <phrase>ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2011-11-29 10:41:24</date>
+            <index>6</index>
+            <phrase>ලංකාවේ කඩවල් අරින එකට නම් මම විරුද්දයි. බලන්න IT රැකියාවල් දිහා ඒ ඔක්කොම කඩවල් නිසා තමයි. රැකියාවක් හොයාගන්න බැරිතරමට ලංකාවෙ IT කරපු අය දැන් බිහිවෙලා. වෙනත් රැකියා අවස්ථා අඳුන ගන්න කාලය ඇවිත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2011-11-29 11:57:45</date>
+            <index>7</index>
+            <phrase>අහිංසක මිනිසුන්ගෙ සල්ලිවලින් නිකන් ඉගෙන ගනිමින් කරන දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

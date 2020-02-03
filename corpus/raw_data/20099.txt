@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20099</articleId>
+    <title>දෙබරවැවම රතු වෙයි</title>
+    <author>රංජිත් ඩයමන්</author>
+    <date>2012 ජනවාරි මස 01 15:25:31</date>
+    <body>කැරලිකාර පාර්ශ්වයේ කිසිවකුගේ ද සහභාගීත්වයක් නොමැතිව ජනතා විමුක්ති පෙමුණේ විශේෂ මහා සමුළුව තිස්සමහාරාමයේ දෙබරවැව පොදු ක්‍රීඩාංගනයේදී දැන් පැවැත්වේ. හදුනාගැනීමෙන් පසුව 3200 පමණ පිරිසක් රැස්වීමට ඇතුළු කර ගනු ලැබූහ.
+රතු ධජ පතාක ළෙල දෙද්දී, ඔල්වරසන් මැද, නායක සෝමවංශ අමරසිංහ මහතා පැමිණියේය. ලේකම් ටිල්වින් සිල්වා මහතා ඊට කලින් අවුත් රැස්වීම ඇමැතීය. කැරලිකරුවන් කිසිවකු එහි නැතැයි පක්ෂයේ තිස්ස සංවිධායක යාපා චන්ද්‍රෙස්කර මහතා කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නිෂාන්</author>
+            <date>2012-01-01 15:26:15</date>
+            <index>0</index>
+            <phrase>ජය වේවා... ජනතා විමුක්ති පෙරමුණ දිගුකල් වැජබේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-01 15:32:12</date>
+            <index>1</index>
+            <phrase>සිරිකොතේ තිබ්බ වගේ එකක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමරාල</author>
+            <date>2012-01-01 15:34:17</date>
+            <index>2</index>
+            <phrase>එයාල කැරලි කාරයෝ. මෙයාල කවුද? දෙගොල්ලම එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අපේ රට</author>
+            <date>2012-01-01 15:52:28</date>
+            <index>3</index>
+            <phrase>පක්ෂයේ තිබෙන ජවය, අවංක බව සහ එඩිතර බවෙන් ඉදිරියට යන්න ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2012-01-01 16:04:07</date>
+            <index>4</index>
+            <phrase>බැරිකමට මොනව කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-01-01 16:16:20</date>
+            <index>5</index>
+            <phrase>ජනතා විමුක්ති පෙරමුණට සාමජිකයො මෙච්චරද ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පු</author>
+            <date>2012-01-02 09:54:39</date>
+            <index>6</index>
+            <phrase>ලංකාවේම දැන් ඉන්නේ ජවිපේ සමාජිකයෝ 3225 පමණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-01-02 15:08:27</date>
+            <index>7</index>
+            <phrase>වමේ නැති ජේවීපී සමාජවාදය නැති ජේවීපී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂා</author>
+            <date>2012-01-02 16:43:55</date>
+            <index>8</index>
+            <phrase>ඊළඟ මහා සමුළුවට සාමජිකයො 32 විතරක් ඉඳියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-01-02 22:15:01</date>
+            <index>9</index>
+            <phrase>කෙනෙක් ජවිපෙට ඡන්දය දුන් පමණින් සාමාජිකයෙක් වෙන්න බෑ. මොන බාධක ආවත් ජවිපෙ හොල්ලන්නවත් බෑ කියලා ඔප්පු කරලා තියෙනවා. ජේවීපීය දිගුකල් දිනේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-01-03 12:35:47</date>
+            <index>10</index>
+            <phrase>තවත් 3225 ක් ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

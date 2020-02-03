@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>352391</articleId>
+    <title>විග්නේෂ්වරන් ජනපති පිළිගනී</title>
+    <author>රොමේෂ් මධුෂංක</author>
+    <date>2015 ඔක්තෝබර් මස 05 10:58:01</date>
+    <body>ජාතික ආහාර සම්පාදන සතිය ආරම්භ කිරීම සඳහා මෛත්‍රිපාල සිරිසේන ජනපති අද කිලිනොච්චියේ වඩ්ඩකච්චියට ගියේය.
+කොටි නායක ප්‍රභාකරන්ගේ බලකොටුවක්වූ වඩ්ඩකච්චිය අද රජයේ සංවර්ධන රැල්ලට හසුවී ඇත්තේය. උතුරු මහ ඇමැති සී.වී.විග්නේෂ්වරන් ජනපති පිළිගත්තේය.
+
+
+  </body>
+    <comments>
+        <comment>
+            <author>නිර්මල</author>
+            <date>2015-10-06 00:29:42</date>
+            <index>0</index>
+            <phrase>මේ කන්නයේ අස්වැන්නෙන් මෝටර් රථයක් ගන්න ගමේ ගොවි මහත්තයටත් පුළුවන් වෙන විදිහට වාහන බදු ඉවත්කරන්න තියලයි මම නම් ඉල්ලන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2015-10-06 02:52:19</date>
+            <index>1</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-10-06 03:17:25</date>
+            <index>2</index>
+            <phrase>ඉදිරියටම යන්න වාසනා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2015-10-06 03:43:13</date>
+            <index>3</index>
+            <phrase>මම විදේශ රටක වසර 3 ක කාලයක් ජීවත් වෙලා ආවේ. අපේ රටේ මේ පවතින බදු ක්‍රමය නිසා බොහෝදෙනෙක් අධික ලෙස පැරණි කසිකබල් වාහන පාවිච්චි කරනවා. විදේශ රටවල බදු නොමැති නිසා ඉතා අඩු මුදලකට නවීන වාහන ඔවුන් පාවිච්චි කරනවා. මේ බදු වහාම ඉවත් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40562</articleId>
+    <title>බුද්ධෝත්පත්තිය</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 05 17:03:48</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජයකාන්ති</author>
+            <date>2012-05-08 15:02:18</date>
+            <index>0</index>
+            <phrase>ගොඩක් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>211268</articleId>
+    <title>ගිං ගඟ දිය කඩිත්තක් වේ</title>
+    <author>රංජිත් හේවගේ- සනත් ගමගේ</author>
+    <date>2014 පෙබරවාරි මස 18 14:02:29</date>
+    <body>දිවයින පුරා පවතිනා නියඟය  දකුණේ ප්‍රධාන ගංගාවක් වන ගිංගඟටද බලපා ඇත
+මාඳුගැටේදි ගිංගඟ දිය කඩිත්තක් වි ඇත
+අම්බලන්තොට වළවේ ගඟේ ජල මට්ටම ද බෙහෙවින්ද පහළ බැස ඇත</body>
+    <comments>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2014-02-18 14:23:24</date>
+            <index>0</index>
+            <phrase>ගින් ගඟ හිදෙන්නේ පෑවිල්ල නිසාම නෙවෙයි ප්‍රධාන හේතුව කැලේ කැපීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2014-02-18 17:57:10</date>
+            <index>1</index>
+            <phrase>තව වනාන්තාර කපන්න.... රටට ම්නවා උනත් කමක් නැහැ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොචින්ද සොයිසා</author>
+            <date>2014-02-19 03:29:58</date>
+            <index>2</index>
+            <phrase>වැලි ගොඩදාන්න හරිම පහාසුයි නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2014-02-19 09:37:54</date>
+            <index>3</index>
+            <phrase>ගාමිණීගේ අදහස හරි. අපි කුඩා කාලයේ මළු අල්ලපු ඇල පාරවල් දැන් තිබුණු තැනක් වත් හොයා ගන්න නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2014-02-19 12:11:51</date>
+            <index>4</index>
+            <phrase>අනේ මගේ ගිං ගං කොමලිය.., සිදී ඇති අයුරු.......?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස් ගොඩගේ</author>
+            <date>2014-02-25 10:32:08</date>
+            <index>5</index>
+            <phrase>තව-තවත් වනාන්තර කපා විනාශ කරන්න, වැඩිකල් යන්න කලින් කාට කාටත් ඇගට දැනේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

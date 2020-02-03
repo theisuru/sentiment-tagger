@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56295</articleId>
+    <title>පා පැදිකරු මරුට</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජූලි මස 30 19:54:44</date>
+    <body>තිස්සමහාරාම කාසින්ගම දී වැන් රියක ගැටුණු පා පැදිකරුවකු මියගිය අතර වෑන්රිය බෝක්කුවක හා විදුලි කණුවක ගැටී පෙරැලීමෙන් එහි සිටි 13 දෙනකු තුවාල ලබූ බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-30 21:51:14</date>
+            <index>0</index>
+            <phrase>අයියෝ දෙයියනේ, ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-07-30 23:31:29</date>
+            <index>1</index>
+            <phrase>පව් දෙවියනේ ,...පාපැදියේ යන්නේ නැතිබැරි මිනිස්සුනේ....වෑන් රථ රියදුරු පලපුරුදු නැති කෙනෙක් වෙන්න ඇති‍‍‍ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-07-31 05:55:31</date>
+            <index>2</index>
+            <phrase>දකුණේද? පුදුම වෙන්න දෙයක් නැහැනේ එහෙනම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2012-07-31 07:46:40</date>
+            <index>3</index>
+            <phrase>ලංකා, ඔබතුමාට දකුණේ අයත් එක්ක මාර තරහක් තියෙනවා නේද? ඕකට කියන්නේ හීන මානය කියො. බෙහෙත් ටිකක් ගන්න බලන්න. මිනිස්සුන්ට පළාත්බදව ගරහන්න එපා. හදිසි අනතුරු ඕනෙම රටක වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-31 08:36:19</date>
+            <index>4</index>
+            <phrase>මුදිත - ඇත්තද? ලංකා - දකුණ ටිකක් වැඩීනම් තමයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-07-31 09:20:25</date>
+            <index>5</index>
+            <phrase>අමිල, ඇයි‍ දෙවියන්ට නිවන්සුව පතන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-07-31 09:26:18</date>
+            <index>6</index>
+            <phrase>මේ රට බේරගත්තේ දකුණේ අය කියලා හැමෝම මතක තියාගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-31 10:24:52</date>
+            <index>7</index>
+            <phrase>අයියෝ ........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-07-31 11:17:39</date>
+            <index>8</index>
+            <phrase>මොනවා උනත් මිනිස්සුනේ, ඔබට නිවන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-07-31 12:27:28</date>
+            <index>9</index>
+            <phrase>අධික වේගය..මරු කැදවයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-07-31 12:27:18</date>
+            <index>10</index>
+            <phrase>නිවන් සුව ලෑබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-07-31 12:49:19</date>
+            <index>11</index>
+            <phrase>දකුණට මොකද මේ වෙලා තියෙන්නෙ..??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය පෙරේරා</author>
+            <date>2012-07-31 14:55:45</date>
+            <index>12</index>
+            <phrase>මමනම් දකුණෙ නෙමේ..ඒත් මේවගේ කතා කියන්න එපා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-31 22:43:06</date>
+            <index>13</index>
+            <phrase>ෆාරු, කවුරුහරි මගේ නම දාලා විහිළුවක් කරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

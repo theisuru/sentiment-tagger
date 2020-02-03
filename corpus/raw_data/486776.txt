@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486776</articleId>
+    <title>තව මුහුදු ඌරෙක් අකාලයේ මරුට</title>
+    <author>ගයාන් සූරියආරච්චි</author>
+    <date>2016 දෙසැම්බර් මස 02 16:48:38</date>
+    <body>තලේමන්නාරමට දකුණු දෙසින් නඩුකුඩා මුහුදු තීරයට අද (02) මියගිය මුහුදු ඌරකු ගොඩගසා තිබේ.
+මුහුදු ඌරන් ශ්‍රී ලංකා මුහුදු තීරයට දුර්ලභ මුහුදු ජීවියකු වන අතර ශ්‍රී ලංකාව අවට මුහුදු තීරයේ 7-8 දෙනකු පමණක් ජීවත්වන බවට සැක පළකෙරේ.
+ඩයිනමයිටයකට හසුවූ බවට සැකකෙරන තවත් මුහුදු ඌරකු පසුගිය මාසයේ මන්නාරම තාවිල්පාඩු මුහුදු තීරයට ගොඩගසා තිබුණි.
+
+(ඡායාරූප නාවික හමුදාව අනුග‍්‍රහයෙනි)</body>
+    <comments>
+        <comment>
+            <author>ජීවන්ත බණ්ඩාර</author>
+            <date>2016-12-02 11:56:07</date>
+            <index>0</index>
+            <phrase>තව ටිකකලකින් මේ සතා මුලු ලංකාවෙන්ම වඳ වෙලා යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-12-02 11:58:01</date>
+            <index>1</index>
+            <phrase>පව් මුහුදු ඌරා... බඩ නම් හරියට අපේ ඇමති කෙනෙක්ගේ වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධසුන්</author>
+            <date>2016-12-02 12:24:20</date>
+            <index>2</index>
+            <phrase>පවු ප්‍රියාන්, මුහුදු ඌරට අපහාස කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-12-02 13:50:08</date>
+            <index>3</index>
+            <phrase>දේශපාලකයෝත් කවදා හෝ මේ විදියට වෙරළට ගොඩ ගසාවිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-12-03 01:11:59</date>
+            <index>4</index>
+            <phrase>දුර්ලභ සතෙක්. ජාතික සම්පතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2016-12-04 13:13:07</date>
+            <index>5</index>
+            <phrase>පවු අහිංසක සතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

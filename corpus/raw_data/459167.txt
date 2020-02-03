@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>459167</articleId>
+    <title>කැන්ගරු දේශෙන් ගාල්ලට සම්මානයක්</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 සැප්තැම්බර් මස 19 16:31:59</date>
+    <body>ගාල්ලේ තරුණයෙකුගේ නිර්මාණයක් ඕස්ට්‍රේලියාවේ කෙටි චිත්‍රපට උළෙලකදී ජාත්‍යන්තර වශයෙන් ජනප්‍රියම කෙටි චිත්‍රපටය හිමි සම්මානය දිනාගෙන ඇත. 
+විශේෂ අවශ්‍යතා ඇති ළමයින් පදනම් කරගත් මෙම සම්මානනීය චිත්‍රපටය නිර්මාණය කරන ලද්දේ හසන්ත දිසානායක නැමැති ගාල්ල කිතුලම්පිටියේ පදිංචි තරුණයෙකි. ගාල්ල රිච්මන්ඩ් විද්‍යාලයයේ ආදි සිසුවකු වන හසන්ත නාට්‍ය හා රංගකලා අංශයෙන් උසස්පෙළ හදාරා සරසවි වරම් ලබා සිටී.
+විනාඩි පහක කාලයක් පුරා දිවෙන මෙම චිත්‍රපටය උපතින්ම ආබාධිත දරුවන් යොදාගනිමින් නිපදවා ඇත. ඕස්ට්‍රේලියාවේ නෝවා සේවා නියුක්ති ආයතනය නම් රාජ්‍ය නොවන සංවිධානය විසින් පවත්වනු ලැබූ ෆෝකස් ඔන් ඇබිලිටි නම් ජාත්‍යන්තර කෙටි චිත්‍රපට උළෙල සඳහා ඉදිරිපත් කළ හසන්තගේ නිර්මාණය ලෝකයේ රටවල් 18ක නිර්මාණකරුවන් පරදවා ජයග්‍රහනය ලබාගැනීම විශේෂත්වයකි. 
+සම්මාන ප්‍රදානෝත්සවය ඕස්ට්‍රේලියාවේ සිඩ්නි නුවර පැවත්වුණු අතර රිච්මන්ඩ් විද්‍යාලයෙන්ද හසන්තගේ කුසලතා අගයමින් උපහාර උත්සවයක් සංවිධානය කර තිබුණි.</body>
+    <comments>
+        <comment>
+            <author>අරුණ පෙරේරා.</author>
+            <date>2016-09-19 11:29:50</date>
+            <index>0</index>
+            <phrase>ජයවේවා!!! සුබ පැතුම්!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවති</author>
+            <date>2016-09-19 11:32:10</date>
+            <index>1</index>
+            <phrase>ඔබට ලොවම ජයගන්න වරම් ලැබේවා ....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරසේන</author>
+            <date>2016-09-19 11:51:10</date>
+            <index>2</index>
+            <phrase>ඔබට අපගේ සුබ පැතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-09-19 12:44:47</date>
+            <index>3</index>
+            <phrase>ඔබට සුභ පැතුම් හසන්ත! ඔබගේ හැකියාවන් සහ දක්ෂතා තව දුරටත් වැඩිදියුණු කරගනිමින් ඉදිරියට යෑමට ලැබේවා කියා පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2016-09-19 12:40:00</date>
+            <index>4</index>
+            <phrase>ආඩම්බරයි, ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරේෂ්</author>
+            <date>2016-09-19 13:19:47</date>
+            <index>5</index>
+            <phrase>බොහම සතුටුයි. හැබැයි මේ සමහරුන්ටනම් රාජ්‍ය නොවන සංවිධාන කියන්නේ අන්‍යාගමික දෙයක් වගේ. කියන්න ලැජ්ජයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-09-20 04:28:57</date>
+            <index>6</index>
+            <phrase>ඔබට සුභ පැතුම් හසන්ත! ඔබගේ හැකියාවන් සහ දක්ෂතා තව දුරටත් වැඩි දියුණුවේවායි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-09-20 05:13:53</date>
+            <index>7</index>
+            <phrase>ගොඩක් ආඩම්බරයි අපේ ගමේ කෙනෙක් වීම ගැන සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේෂල අමන්දා</author>
+            <date>2016-09-20 07:38:01</date>
+            <index>8</index>
+            <phrase>සුභපැතුම් දන්නවානේ දකුණේ කෙල්ලෝ දක්ෂ බව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-09-20 07:54:46</date>
+            <index>9</index>
+            <phrase>ජයවේවා!!! මම හිතුවේ ලංකාවට සම්මානය කියලයි. ඒත් බලනකොට ගාල්ලට සම්මානේ හම්බවෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2016-09-20 08:35:53</date>
+            <index>10</index>
+            <phrase>සුබ පැතුම් සොයුර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

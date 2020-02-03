@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>86101</articleId>
+    <title>රිජ්වේ ආර්යා ළමා රෝහලට ලස්සන ශල්‍යාගාරයක්</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 දෙසැම්බර් මස 18 14:03:24</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2012-12-21 16:23:02</date>
+            <index>0</index>
+            <phrase>ආදර්ශවත් ක්‍රියාවක්. සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්.පී.ඩබ්.එම්. ආනන්ද ගුණතිලක</author>
+            <date>2013-01-02 01:53:32</date>
+            <index>1</index>
+            <phrase>උතුම් අදහසක්.. ගොඩක් පිං.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

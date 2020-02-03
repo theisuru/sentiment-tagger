@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>412098</articleId>
+    <title>චීන - ලංකා වෙළඳ ගිවිසුම ජූනියේ ?</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 මැයි මස 04 16:44:59</date>
+    <body>චීන - ශ්‍රී ලංකා නිදහස් වෙළඳ ගිවිසුම පිළිබඳ තුන් වන වටයේ සාකච්ඡා මේ වසරේ ජුනියේ දී පැවැත්වීමට නියමිතය.
+එම සාකච්ඡාවලදී විශේෂයෙන් අවධානයට යොමුවනු ඇත්තේ ඇඟලූම් ක්ෂේත්‍රයයි. අන්තර් පැසිෆික් සහයෝගීතා ගිවිසුම යටතේ ඇමරිකාව, ජපානය සහ වියට්නාමය වැනි රටවලින් තීරු බදු රහිත ඇඟලූම් අපනයනයට ඉඩ සැලසෙන බව කර්මාන්ත හා වානිජ අමාත්‍යාංශය සදහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2016-05-05 05:01:51</date>
+            <index>0</index>
+            <phrase>මෙහි ප්‍රතිඵල පසුවට දැකගත හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයේෂා</author>
+            <date>2016-05-05 05:02:53</date>
+            <index>1</index>
+            <phrase>ශ්‍රී ලංකාව හා චීනය අතර දැනට සිදුවන ද්විපාර්ශවීය වෙළඳාමේදී චීනය පාර්ශවයෙන් විශාල වෙළඳ අතිරික්තයක් තිබුණද ලංකාව පැත්තෙන් තිබෙන්නේ විශාල වෙළඳ හිඟයකි. මෙවැනි තත්ත්වයක් තුළ මෙවැනි වෙළඳ ගිවිසුමක් ඇති කරගත් පසුව ලංකාව පැත්තේ වෙළඳ හිඟය තව තවත් වැඩිවනු ඇති බවත් එය ලංකාවට අවාසියක් විය හැකියැයිද මත ඉදිරිපත්වී තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයේෂා</author>
+            <date>2016-05-05 05:06:31</date>
+            <index>2</index>
+            <phrase>චීනෙත් එක්ක කරන දේවල් පරිස්සමින් කරන්න වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-05-05 23:15:45</date>
+            <index>3</index>
+            <phrase>ගයේෂා, නොදන්නා දේ වලට කටදාන්නේ නැතුව ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-05-06 02:34:38</date>
+            <index>4</index>
+            <phrase>අනේ මන්දා. කෙකර ගානවා විතරයි. බිත්තරය වැටෙන පාටක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60024</articleId>
+    <title>ජේලර්ලා ගාඩ්ලා කුලියට කහිති</title>
+    <author>ජනක් ද සිල්වා හේමන්ත ද සිල්වා</author>
+    <date>2012 අගෝස්තු මස 21 10:02:41</date>
+    <body>පාතාලය සමග සබඳකම් පවත්වමින් සොරකම් සහ කොල්ලකෑම් වලට ආධාර සහ අනුබල දුන්නැයි සැකපිට අත්අඩංගුවේ සිටින මිගෙට්ටුවත්තේ සුමිත්ත හිමි ඇතුළු පිරිස අද බලපිටිය උසාවියට ගෙන එද්දී රැගෙන ආ බන්ධනාගාර නිලධරයෝ පුවත්පත් වාර්තාකරුවන්ට බැණ වදිමින් ඔවුන්ගේ රාජකාරියට අවහිර කළහ. සැකකරුවන්ගේ ඡායාරූප නොගන්නා ලෙස ද තර්ජනය කළහ.</body>
+    <comments>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-21 10:14:12</date>
+            <index>0</index>
+            <phrase>බන්ධනාගාර නිලධාරීන් දැං පාතාලය කොටස් භාර ගෙනවත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත ඩුබායි</author>
+            <date>2012-08-21 10:22:18</date>
+            <index>1</index>
+            <phrase>අද කාලෙ කීයක් හරි ලැබෙනවානම් මිනිස්සු ඕනම දෙයක් කරනවා.. අපේ රට ගැන හරිම දුකයි.. අපේ දරුවොත් ජීවත් වෙන්න ඕන මේ රටේනෙ.. මිනිස්සුන්ගෙ මනුසස්කම් නැතිව මොනවා තිබුණත් මොකටද? මගෙ අම්මට වගේම මම ලංකාවට ආදරෙයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-21 10:31:05</date>
+            <index>2</index>
+            <phrase>හැමෝම නෙමෙයි, බොහොම අතළොස්සයි මෙහෙම හිතලා වැඩ කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුගම</author>
+            <date>2012-08-21 10:42:51</date>
+            <index>3</index>
+            <phrase>දැන් ලංකාවට ආදරය කරල වැඩක් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2012-08-21 10:41:02</date>
+            <index>4</index>
+            <phrase>සිසිර, විනිසුරුවන්ට ගල් ගහන කාලයක් මේක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-21 10:48:42</date>
+            <index>5</index>
+            <phrase>බමුණුගම:ලංකාවට ආදරය කරලා වැඩක් නෑ කියන්නේ මොකද ? ලංකාවට ආදරය නොකර ඇමරිකාවට ආදරය කරන්න කියලද කියන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2012-08-21 11:17:42</date>
+            <index>6</index>
+            <phrase>සුමිත්ත, ඔයා යන්න යුරෝපයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-08-21 11:23:52</date>
+            <index>7</index>
+            <phrase>බමුනුගමගේ නෙවෙයි වැ‍රැද්ද . ඕකට කියන්නෙ ජන්මේ වැ‍රැද්ද කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-21 11:24:17</date>
+            <index>8</index>
+            <phrase>හැමදේම අනිත් පැත්තට වේගන එන්නෙ.. මොනවද මේ ආණ්ඩුව කරන්නෙ.. අපේ ළමයි කොහොමද ඉස්සරහට ජීවත් වෙන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාද් ප්‍රීනා</author>
+            <date>2012-08-21 11:26:22</date>
+            <index>9</index>
+            <phrase>ඔය මන්ත්‍රී ඇමති පදවි සාමාන්‍ය රජයේ සේවයෙකුගෙ තත්ත්වයට පත් කරලා..පරිපාලයේදී දිසාපතිගෙ තීරණයට ඉහළින් යන්න බැරි ක්‍රමයක් ඇතිකළ දාට රටට හොදක් වෙයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පවුල්රාජ්</author>
+            <date>2012-08-21 11:45:20</date>
+            <index>10</index>
+            <phrase>මම බමුණුගේ කීමට කැමතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-21 11:46:21</date>
+            <index>11</index>
+            <phrase>මේකේ වැරැද්ද කාගෙවත් නොවෙයි. අපි සියලු දෙනාගේම. රටේ නීතියක්, විනයක් නැතිවී ගෙන යද්දිත් අපි කිසිම ගානක් නැතිව හොරුන්ට, මැරයන්ට සහ අමනයන්ට තැන දීල බලාගෙන ඉන්නවා. ඒ විතරක් නොවෙයි ඒ අයට සැලකුම් කරනවා. අධ්‍යාපනය විනාශ වෙද්දී, දේශපාලකයන් නීතිය තමන්ගේ අතට අරගෙන යකා නටද්දී, මානව අයිතිවාසිකම් නැතිවෙද්දී, පත්තර කාරයන්ට මරණ තර්ජන එල්ල වෙද්දී අපි මොනවද කලේ? නිකම් බලා ගෙන උන්න. තව ටිකක් බලාගෙන ඉන්න මේ රට කොයි වගේ වෙයිද කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-21 11:46:53</date>
+            <index>12</index>
+            <phrase>ෂුවර් එක‍ටම ජේලර්ලා ගාණක් ගන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-21 12:10:43</date>
+            <index>13</index>
+            <phrase>නිශාද් ප්‍රීනා, ඔය ක්‍රමය සිරිමාවෝ බණ්ඩාරණායක අගමැතිතුමියගෙ මුල් කාලෙ තිබුණා.. ඒත් අන්තිමට නැතිවුණා.. 77 න් පස්සේ තවත් නැතිවුණා.. 2005 පස්සේ නැත්තටම නැතිවුණා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-21 12:36:06</date>
+            <index>14</index>
+            <phrase>හැමදෙනාම එකයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2012-08-21 12:58:14</date>
+            <index>15</index>
+            <phrase>අප කළයුත්තේ කුමක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා</author>
+            <date>2012-08-21 13:16:25</date>
+            <index>16</index>
+            <phrase>සල්ලිවලට ඕනෑම දෙයක් කරන අයනෙ ඉන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-08-21 14:24:42</date>
+            <index>17</index>
+            <phrase>බන්ධනාගාර නිලධාරීන්ගේ සහයෙන් තමයි මේක ඇතුලෙ සියලුම දේවල් වෙන්නෙ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-21 14:24:42</date>
+            <index>18</index>
+            <phrase>සමහර නිලධාරීන් බන්ධනාගාරයේ ඉන්න රැදවියන්ට උදව් කරනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරතන හිමි</author>
+            <date>2012-08-21 14:28:44</date>
+            <index>19</index>
+            <phrase>අපරාධකාරයන්ගෙන් යැපෙන අය කොහොමත් කුලියට කහිනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-08-21 14:33:52</date>
+            <index>20</index>
+            <phrase>ආගම දහමට පවා නිගරු කරමින් මේ අය හෑසිරෙන ආකරය ගැන හරිම කනගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-21 14:40:28</date>
+            <index>21</index>
+            <phrase>ලුම්බිණි, කියන්න තිබෙන දේ කෙළින්ම කිවුවා නම් ඉවරයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-08-21 14:52:34</date>
+            <index>22</index>
+            <phrase>මේ අයට මේක කරන්න බැහැ මේ පිටුපස කුමක් හෝ බලපෑමක් තියෙනවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2012-08-21 19:19:17</date>
+            <index>23</index>
+            <phrase>මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-21 19:36:38</date>
+            <index>24</index>
+            <phrase>මාතෘකාව ඉතා‍ හොදයි. අප අමුතුවෙන් මොනවත් ලිවීම අනවශ්‍ය යැයි හැගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-08-21 19:58:41</date>
+            <index>25</index>
+            <phrase>මාධ්‍යවේදීන්ට තිබුණේ ඒ නිලධාරීන්ගේ ඡායාරූප අරන් ඒවා පත්තරේ දාලා රටටම පෙන්නන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2012-08-21 22:24:40</date>
+            <index>26</index>
+            <phrase>බන්ධනාගාර නිලධාරීන්ටත් වෙනමම සිර මැදිරි ටිකක් හදන්න වෙයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-21 23:15:21</date>
+            <index>27</index>
+            <phrase>තව මොන කතාද ? මෙ අයට කියන්නෙ දැන් හිමි අහිමි කියලයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂණ</author>
+            <date>2012-08-22 01:43:54</date>
+            <index>28</index>
+            <phrase>මෙන්න මේ කාලේ තමා ටයර් සෑය තියෙන්න තිබුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

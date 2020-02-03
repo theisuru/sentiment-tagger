@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>476757</articleId>
+    <title>පොලිසියේ ඉල්ලීම ඉවතට</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 07 12:42:54</date>
+    <body>ආබාධිත හමුදා සාමාජිකයන්ගේ විරෝධතා පාගමනක් වළක්වන නියෝගයක් නිකුත් කරන ලෙස කොටුව පොලිසිය අද කළ ඉල්ලීමක් කොළඹ කොටුව මහේස්ත්‍රාත් ලංකා ජයරත්න මෙනවිය ප්‍රතික්ෂේප කළාය.
+ඔවුන් පෙළපාළියෙන් ජනාධිපති ලේකම් කාර්යාලයය අසලින් යෑමට නියමිත නිසා ඉන් මහජන පීඩනයක් ඇති විය හැකි බව පොලිසිය අධිකරණයට දැන්වීය.
+එවැනි මහජන පීඩාවක් ඇති වුවහොත් පොලිස් ආඥා පනත යටතේ සහ මංමාවත් පනත යටතේ අවශ්‍ය පියවර ගැනීමට පොලිසියට බලය ඇතැයි කී මහේස්ත්‍රාත්වරිය පොලිසිය ඉල්ලීම ප්‍රතික්ෂේප කළාය.</body>
+    <comments>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2016-11-07 07:54:54</date>
+            <index>0</index>
+            <phrase>මේකද අප පැතූ යහපාලනය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-11-07 08:07:18</date>
+            <index>1</index>
+            <phrase>එතුමියට මගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-11-07 08:10:44</date>
+            <index>2</index>
+            <phrase>ලැජ්ජයි! අහෝ අපේ නීතිය නමන පොලිසිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-11-07 08:17:45</date>
+            <index>3</index>
+            <phrase>පොලිසියට ඕනෑ ඕනෑ විදියට නීතිය නමන්න ඉඩ නොදීම පිළිබඳව අධිකරණයට අපේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-11-07 08:19:55</date>
+            <index>4</index>
+            <phrase>ආබධිත රණවිරුවන් පෙළපාලි යනකොට මහජන පීඩනයක්ලු. අනේ මෙහෙමත් කතා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂි</author>
+            <date>2016-11-07 08:28:57</date>
+            <index>5</index>
+            <phrase>දේශපාලනයට යටවී තීන්දු තීරණ ගන්නා රටක අපක්ෂපාතීව ඔබ දුන්නා වූ උසාවි නියෝගයට අපගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණුක</author>
+            <date>2016-11-07 09:01:32</date>
+            <index>6</index>
+            <phrase>සමබර තරාදිය සුරතට ගත් ධවල කන්‍යාවිය ඉදිරියේ ශ්‍රී ලංකා පොලිසිය දණ නමා ආචාර කරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-11-07 11:35:34</date>
+            <index>7</index>
+            <phrase>පූජිත් දැන් අජූත වෙලා කුජීත වෙලා ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-11-07 13:01:38</date>
+            <index>8</index>
+            <phrase>බයක් නැතිව තීරණ ගන්න අධිකරණයට ඉඩදෙන ඒවාට හිස නමා කටයුතු කරන්න පොලීසියට සිදුවන වාතාවරණයක් ඇති කළ යහපාලනයට අපේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය එඩ්වර්ඩ් පෙරේරා ජර්මනිය</author>
+            <date>2016-11-07 14:53:06</date>
+            <index>9</index>
+            <phrase>මහජන නියෝජිතයෝ ඉන්නවා කියා පාර්ලිමේන්තුව සියලුම ආයතනවල ට ඉහළින් සිටිනවා කියන මිත්‍යාවෙන් අප එළියට එන්න ඕනේ. හොඳම උදාහරණය හිටපු අගවිනිසුරු ශිරානි බණ්ඩාරනයක මහත්මියට විරුද්ධව "උත්තරීතර" පාර්ලිමේන්තුවේ 8 පාස් මන්ත්‍රීවරුන්ගේ හැසිරීම. එහිදී ප්‍රකට වුනේ ජනතා ආධිපත්‍යයක් නොව ජනතාවට නිගරු කරන තුච්ච හැසිරීමක්. අධිකරණයට කවදාවත් 8 පාස් නැති පුද්ගලයන් පත් නොවන්නා සේම නිවැරදි හා එඩිතර තීන්දු දීම පිලිබඳ දීර්ඝ සම්ප්‍රදායක් අපේ අධිකරණයට තිබීම ජනතාවට අස්වැසිල්ලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

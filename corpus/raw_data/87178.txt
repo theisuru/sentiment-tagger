@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>87178</articleId>
+    <title>මුහුදු යන්නත් බෑ; මාළු මිලත් වැඩී</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 දෙසැම්බර් මස 22 11:28:08</date>
+    <body>මහවැසි සහ මුහුදු රළුවීමත් නිසා ත්‍රිකුණාමලය ධීවර කටයුතු වලට බාධා එල්ල වී ඇතැයි ධීවරයෝ පවසති. මේ නිසා මාළු මිල ද ඉහළගොස් ඇත. පරා වැනි මාළු කිලෝව වෙනදා රුපියල් 220 වැනි මිලට අලෙවි වුවද අද වන විට රුපියල් 100කින් පමණ වැඩි වී තිබේ.
+ </body>
+    <comments>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-12-22 13:18:33</date>
+            <index>0</index>
+            <phrase>මාළු නොකා ඉඳිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-12-22 13:28:56</date>
+            <index>1</index>
+            <phrase>දැනට මාළු කෑම අඩු කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනිල්</author>
+            <date>2012-12-22 13:55:26</date>
+            <index>2</index>
+            <phrase>මාළු කන්නම ඕන නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-22 14:38:48</date>
+            <index>3</index>
+            <phrase>මේකට අපි කාටද බනින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-22 14:52:09</date>
+            <index>4</index>
+            <phrase>තමන්ගේ ආරක්ෂාව ගැන හිතපු එක ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා තබුක්</author>
+            <date>2012-12-22 15:31:36</date>
+            <index>5</index>
+            <phrase>මුහුදේ යමු මසුන් මරන්න.. අඹු දරු රැක ගන්න අපට මාළු ලබා දෙන්න දෙවියනේ.. අප රැක ගන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-12-22 15:37:55</date>
+            <index>6</index>
+            <phrase>අපේ මිනිස්සුන්ගේ අදහස් හරීම නූගත් පාටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එසෑම්</author>
+            <date>2012-12-22 16:41:09</date>
+            <index>7</index>
+            <phrase>රටේ ලෝකෙ වෙන දේවල් මදිවටද? මුහුදු යන්න ටිකක් ඉවසන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-12-22 18:13:19</date>
+            <index>8</index>
+            <phrase>අසරණ මිනිස්සු තමයි හැමදාම තැලෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-12-22 23:54:12</date>
+            <index>9</index>
+            <phrase>මාලු නැති නිසා විකල්පයක් ලෙස මස් අනුභව කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-12-23 10:22:27</date>
+            <index>10</index>
+            <phrase>අනේ ලකී ඔය හිතන්නේ මේ ලෝකේ ඉන්න හොඳම නුවනක්කාරයා ඔයා කියලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

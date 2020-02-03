@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>93676</articleId>
+    <title>තරහකාරයන්ගේ පෝස්ටරයට සභාපතිට තරුපෙනිලා</title>
+    <author>වැල්ලම්පිටිය ශාන්ත සෙනෙවිරත්න</author>
+    <date>2013 ජනවාරි මස 18 08:36:51</date>
+    <body>සංගමයකින් ඉවත් වූ පිරිසක් එහි සභාපතිට හොරෙන් ඔහුගේ දුරකථන අංකය යොදා නොමිලේ පාසල් පොත් ගන්න එන්න යැයි කියමින් ගම් පුරා පෝස්ටර් ඇලවීම නිසා සභාපති දැඩි දුෂ්කරතාවට පත්වූ සිද්ධියක් කොළඹට ආසන්න ප‍්‍රදේශයකින් අසන්නට ලැබිණි. ගමේ ප‍්‍රසිද්ධ තැන්වල නොමිලයේ පාසල් පොත් දෙන බව කියා පෝස්ටර් අලවා තිබී ඇත. අවශ්‍ය අය පහත දුරකථන අංකයට අමතන ලෙස ද එහි සඳහන් කර තිබිණි. එය දුටු ගමේ නැතිබැරි අය කතාකර අනේ මහත්තයෝ අපිත් දුප්පත් අය. ඒ නිසා අපේ ළමයින්ටත් පොත් දෙන්නකෝ කියා ඉල්ලීමක් කර තිබේ. එවිට සභාපති මම කොතනකවත් නොමිලයේ පාසල් පොත් දෙන බව කියලා නෑ. ඔයාලාට වැරදීමක් වෙලා යැයි පවසා තිබේ. එහෙනම් මේ පෝස්ටර් ගහලා තියෙන්නේ ඒක බොරුවක්ද කියා ඔවුන් විමසා තිබේ. මේගැන සොයා බැලූ සභාපතිට කාරණය වැටහී තමා සමග අමනාප වූ කොටසක් කළ නොසන්ඩාල වැඬේ ගැන පොලිසියට ගොස් පැමිණිල්ලක් කර ඒ පිළිබඳ සොයන්නැයි ඉල්ලීමක් කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-01-18 08:52:27</date>
+            <index>0</index>
+            <phrase>සභාපතිතුමාට තිබුණා එක පෙත ගානේ හරි දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-01-18 09:46:06</date>
+            <index>1</index>
+            <phrase>මේ කොයි පළාතේ වෙච්ච දෙයක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-01-18 10:51:45</date>
+            <index>2</index>
+            <phrase>එයාට හතුරුකම් කරපු අයට පාඩමක් උගන්වන්න තිබුණේ පොත් ටිකක් බෙදලා දුන්නානම් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2013-01-18 11:12:30</date>
+            <index>3</index>
+            <phrase>අන්න ඒ වැඩේ නම් නියම වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2013-01-18 14:06:23</date>
+            <index>4</index>
+            <phrase>ඒක මාර වැඩක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිස්ස</author>
+            <date>2013-01-19 11:41:18</date>
+            <index>5</index>
+            <phrase>සභාපතිතුමා පුලුවන් විදියට පොත් ටිකක් බෙදුවා නම් හරිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-01-19 15:19:31</date>
+            <index>6</index>
+            <phrase>කාගේ හරි කැත වැඩක්. අසරණ ජනතාව මුලානොකර කරන දෙයක් කරගන්න තිබුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිස්ස</author>
+            <date>2013-01-19 15:39:39</date>
+            <index>7</index>
+            <phrase>මේවා කාගේ උවමනාවට කරත් කැත වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2013-01-19 17:33:19</date>
+            <index>8</index>
+            <phrase>සරත් නිවැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන</author>
+            <date>2013-02-07 04:48:31</date>
+            <index>9</index>
+            <phrase>අයියෝ සල්ලි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

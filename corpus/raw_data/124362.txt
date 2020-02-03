@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>124362</articleId>
+    <title>හිඟුරාන සීනි පැණිරස වැඩි වෙයි</title>
+    <author>වසන්ත චන්ද්‍රපාල</author>
+    <date>2013 මැයි මස 19 19:05:09</date>
+    <body>ගල් ඔය වැවිළි සමාගම විසින් යළි ආරම්භ කැරුණු හිගුරාන සීනි කම්හලේ දෙවැනි උක් ඇඹරුම් වාරය ආගමික වතාවත් මැද අද අරැඹිණි.
+මෙවර සීනි මෙට්‍රික් ටොන් 15000ක් නිෂ්පාදනය කිරීමට අදහස් කරයි. මේ සඳහා උක් ටොන් 165000ක් අවශ්‍ය වෙතියි ගණන් බලා ඇත.
+ගල් ඔය වැවිලි සමාගම දැනට උක් අක්කර 3500ක් වගා කර තිබේ.
+තවත් අක්කර 3500ක් වගා කිරීමට අදහස් කරන බව විධායක අධ්‍යක්ෂ ලලිත් ගමගේ මහතා කියයි.
+දැනට සෘජු රැකියා දහසක් ලබා දී ඇතැයි ද වක්‍ර රැකියා 5000කට පමණ අවස්ථා උදා වී ඇතැයි ද ගමගේ මහතා පවසයි.
+ </body>
+    <comments>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2013-05-20 14:50:35</date>
+            <index>0</index>
+            <phrase>ගල්,පොල් එහෙමත් නිපදවයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-20 15:01:07</date>
+            <index>1</index>
+            <phrase>රටේ මුදල් පිටරටවලට ඇදී යන කාලයේ ,ටිකක් පාඩු වුණත් කමක් නැහැ, අපේ අය‍ට රැකියා ටිකක් හරි ලැබෙන නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩ්</author>
+            <date>2013-05-20 23:16:43</date>
+            <index>2</index>
+            <phrase>සිනි ඇමති කෙනෙකුත් ඉන්නවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මා</author>
+            <date>2013-05-21 08:16:12</date>
+            <index>3</index>
+            <phrase>ගාමිණි කොහෙද ඉස්කෝලේ ගියේ. කඩේ යන්න ඕනා නම් යන්න. ආර්ථික විද්‍යාවට කොලේ වහන්නේ නැතිව. පාඩු උනත් කමක් නැහැ කිවේ අපිටම තමයි කැරකෙන්නේ. පිටට ගියත් එකයි ඇතුලට පාඩු උනත් එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමකුමාර</author>
+            <date>2013-05-21 19:23:03</date>
+            <index>4</index>
+            <phrase>පැණිරස වැඩි වෙලා? එහෙනම් ෂුවර් එකටම සැකරින් දාලා. අහු වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2013-05-21 23:59:55</date>
+            <index>5</index>
+            <phrase>හැම දේම ම හොද පැත්ත බලන්න පුරුදු වෙමු. හරි ගියොත් හොද අපිටනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2013-05-22 08:30:42</date>
+            <index>6</index>
+            <phrase>ගෙන තිබෙන උත්සාහයට සතුටුයි. අර කන්තලේ සීනි කර්මාන්ත ආයතනයත් ඔයවගේ පටන් ගන්න බැරිද? මම ගිය ඒ ෆැක්ට්‍රිය බලන්න.දුක හිතෙනවා වෙලා තියෙන විනාශය දකින්න. වාහන මැෂින් දිරනවා. අක්කර දසදහස් ගණනක් කැළෑවට ඇරිලා. සීනි ඇමතිතුමනි, ඔබගේ අවදානය පිණිසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-05-22 16:51:07</date>
+            <index>7</index>
+            <phrase>සීනි පැණි රස වැඩි වෙලා නම් කුඹි වහයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

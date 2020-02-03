@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>387691</articleId>
+    <title>ආසියා සංවර්ධන බැංකුවෙන් ලොකු ආධාරයක්</title>
+    <author>තිලිණි ද සිල්වා</author>
+    <date>2016 පෙබරවාරි මස 21 16:43:38</date>
+    <body>2016 වසරේ ශ්‍රී ලංකාවට ඇමෙරිකා ඩොලර් මිලියන 505 (රුපියල් කෝටි 7261.39) ලබා දීමට ආසියා සංවර්ධන බැංකුව තීරණය කර තිබේ.
+පුද්ගලික අංශයේ සංවර්ධනය දැනුම විසඳුම් සහ උසස් යටිතල පහසුකම් සංවර්ධනය යන අංශවලට එම මූල්‍යාධාර හිමිවනු ඇති අතර ඉහළ මැදි ආදායම් ලබන රටක් ලෙස ශ්‍රී ලංකාව පරිවර්තනය කිරීම සඳහා ක්‍රියාකාරී ලෙස දායක වන බව එම බැංකුව සඳහන් කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>කුමාර් මෙන්ඩිස්</author>
+            <date>2016-02-22 05:37:24</date>
+            <index>0</index>
+            <phrase>ඔව් එදා ඉඳලම ලංකාවට ලොකුවට ආධාර දුන්නේ මේ බැංකුව.ඔය පාරවල් හදන්නේ (රට සංවර්ධනය කරන්න)නැතිව මේ කිසිම දේශපාලකයෙක් රට හැදුවේ නැ.කියන්නේ නම් එයාලගේ බුදලෙන් හැදුවා වගේ.දෙන ආධාර වලිනුත් කොමිස් අරගෙන තමයි රටේ දේවල් කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පා</author>
+            <date>2016-02-22 09:10:52</date>
+            <index>1</index>
+            <phrase>මේක ලොකු අධාරයක්ද නැත්නම් ලොකු ණයක්ද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-02-22 09:04:14</date>
+            <index>2</index>
+            <phrase>මේ මොනා උනත් මේවා ඉතින් මහජනතාව ගෙවන්න එපැයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රියාස්</author>
+            <date>2016-02-22 09:11:48</date>
+            <index>3</index>
+            <phrase>ඔය බැංකුවෙන් දෙන්නේ ආධාර නොව සහන පොලිය මත දීර්ගකාලීන ණය. ඕවගෙන් තමා අපි දැන් මිරිකිලා ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ් රියාස්</author>
+            <date>2016-02-22 09:04:18</date>
+            <index>4</index>
+            <phrase>ඔය බැංකුවෙන් දෙන්නේ ආධාර නොව සහන පොලිය මත දීර්ගකාලීන ණය. ඕවගෙන් තමා අපි දැන් මිරිකිලා ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියාස්</author>
+            <date>2016-02-22 09:15:11</date>
+            <index>5</index>
+            <phrase>ආධාර නොවෙයි සහන පොලිය මත දීර්ගකාලීන ණය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් මෙන්ඩිස්</author>
+            <date>2016-02-28 10:01:38</date>
+            <index>6</index>
+            <phrase>ආධාරයක් කියන්නේ ආධාරයක්. ණයක් කියන්නේ ණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

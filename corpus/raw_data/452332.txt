@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452332</articleId>
+    <title>ලන්ඩනයේදී සර්වරාත්‍රි පිරිත් දේශනයක්</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2016 අගෝස්තු මස 30 10:29:23</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අජිත් අබේරත්න</author>
+            <date>2016-08-30 15:09:55</date>
+            <index>0</index>
+            <phrase>සැමට තෙරුවන් සරණි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

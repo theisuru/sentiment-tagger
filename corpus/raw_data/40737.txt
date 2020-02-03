@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40737</articleId>
+    <title>තුන් සූත්‍රය</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 05 20:54:07</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජයකාන්ති</author>
+            <date>2012-05-08 14:38:41</date>
+            <index>0</index>
+            <phrase>ඉතා හොද පිරිත් දේශනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැණිකේ</author>
+            <date>2012-05-09 09:30:49</date>
+            <index>1</index>
+            <phrase>මේක අපි හැමෝටම හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2012-05-11 18:52:02</date>
+            <index>2</index>
+            <phrase>බුදු දහම පතුරුවන සැම දෙනාටම බොහොම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-05-14 00:45:45</date>
+            <index>3</index>
+            <phrase>ඉතා හොදයි.මට ගොඩක් ප්‍රයෝජනවත් උණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2012-05-19 12:12:58</date>
+            <index>4</index>
+            <phrase>පින්සිදු වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

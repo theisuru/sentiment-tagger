@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41358</articleId>
+    <title>මග මරුවා තවත් පහක් රැගෙන යයි.</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 මැයි මස 09 06:52:06</date>
+    <body>උදෑසන පහට අවසන් වූ විසි හතර පැයේදී මගීන් දෙදෙනකු, යතුරුපැදි කරුවන් දෙදෙනකු සහ රියදුරකු අනතුරුවලින් මියගොස් ඇතැයි පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී අජිත් රෝහණ මහතා පවසයි. අගුණුකොළපැලැස්ස, කුරුණෑගල, සපුගස්කන්ද, හුංගම සහ මාදම්පේ දී මෙම අනතුරු සිදුව ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-05-09 08:18:16</date>
+            <index>0</index>
+            <phrase>කට්ටියක් යුද්ධෙන් අරන් ගියා. දැන් මග මරුවන් අරන් යනවා. දෙවියන්ට පේන්නේ නැද්ද මන්ද මේ දුක?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-09 10:22:23</date>
+            <index>1</index>
+            <phrase>මේක තමයි ඉරණම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51349</articleId>
+    <title>වතුර සොයා</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 ජූලි මස 03 12:04:15</date>
+    <body>දැඩි නියඟයත් සමග වන සත්තු ද වසර සොයා යති. කතරගම -බුත්තල පාර අසලට මේ මුවන් පැමිණ ඇත්තේද බීමට වතුර සොයමිනි.</body>
+    <comments>
+        <comment>
+            <author>sanju79</author>
+            <date>2012-07-03 13:03:14</date>
+            <index>0</index>
+            <phrase>මස් වැද්දන්ගෙන් දිවි රැකගනීද කියල සැකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ ~ මුල්ලෙරියාව</author>
+            <date>2012-07-03 12:35:48</date>
+            <index>1</index>
+            <phrase>* මෙ සත් කාරය කරන්න පුලුවන් අපෙ හමුදාවෙ මහත් වරෑන්ට මෙ ක දැකලවත් අපේ හමුදාවෙ මහත්වරෑන්ට වතුරට ටිකක් දෙන්න පුලුවන් කමක් ලෑබෙයි .... ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-03 14:10:53</date>
+            <index>2</index>
+            <phrase>අර ගාල්ලෙ යකඩ වැට කපපු එක්කෙනා දැක්කොත් නම් විනාශයි.. පව් අහිංසක සත්තු ටික...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-07-03 13:40:16</date>
+            <index>3</index>
+            <phrase>මුවන්ට වතුර ලබා දෙන්න.. මේ අය රැක ගැනිම අපේ යුතුකමක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් පෙරේරා ප්‍රංශය</author>
+            <date>2012-07-03 14:51:38</date>
+            <index>4</index>
+            <phrase>මේ අහිංසක සත්තුන්ට බොන්නට වතුර ටිකක්වත් දෙන්න ‍‍ක්‍ර‍මයක් භදල දෙන්නවත් බැරිඳ ? නමුත් උදේ සවස පිරිත් අහනව ! පිරිත් නූලක් නොබැදපු දේසපාලන අතක් සොයා ගන්න වත් නැහැ ! කොයි වෙලාවෙ බැලුවත් පන්සල් වලට දේවාලවලට කෝවිල් වලට ගස් ගල් වලට වාහන වලට වදින පුදින මේ වගේ මිනිස්සු ලෝකේ කොහේ වත් නැතිව ඇති : නමුත් මේ සියලුම අය බලන්නේ තමන් ගැන පමනයි අනිත් මිනිසුන්ට මොනවා උනත් කමක් නැහැ ඉතිං මේ අහිංසක වන සතුන් ගැන මොන කතාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිතා</author>
+            <date>2012-07-03 18:54:10</date>
+            <index>5</index>
+            <phrase>ඔබ හරි අජිත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-07-04 00:11:43</date>
+            <index>6</index>
+            <phrase>අහිංසක සත්තුන්ගේ සාපිපාසාව වැස්ස වළාහක දෙවියන්ට පෙනීයන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා අයිරංගනී</author>
+            <date>2012-07-03 23:52:52</date>
+            <index>7</index>
+            <phrase>ටැංකි ටිකක් බැදල වතුර පිරෙව්වනම් ‍හොදයි නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-04 09:35:41</date>
+            <index>8</index>
+            <phrase>අමර කියපු වැඩේ නම් හොඳයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

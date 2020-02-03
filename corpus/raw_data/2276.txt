@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>2276</articleId>
+    <title>ආඥාපති ‘සෙනෙහස් මෙහෙයුමේ’</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2011 සැප්තැම්බර් මස 05 10:42:58</date>
+    <body>නැගෙනහිර නව ආඥාපති මේජර් ජනරාල් ලාල් පෙරේරා සාම්පූර් සුබ සාධක මධ්‍යස්ථානයේ පවුල් 900ක සුවදුක් බැලීමට ගියේය. මේ වැසියන් ආදරයෙන් රැකබලා ගන්නා බව ඔහු කීවේය.</body>
+    <comments>
+        <comment>
+            <author>මාටින් වඩුගේ</author>
+            <date>2011-09-05 10:55:27</date>
+            <index>0</index>
+            <phrase>අපි අපේ ආරක්ෂක හමුදාවනට ආදරය කරමු ඔවුන්ගේ යහපත් වැඩ අගය කරමු ඔවුන්ට යේසු සාමිදරුවන්ගේ පිහිටයි එතුමෝ ඔවන් රැකදෙත්වා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2011-09-08 10:01:14</date>
+            <index>1</index>
+            <phrase>බොහොම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

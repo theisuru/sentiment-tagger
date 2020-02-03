@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>403394</articleId>
+    <title>වනවාසල අනතුරින් අයෙක් මරුට : පහක් රෝහලේ</title>
+    <author>ලාල් එස් කුමාර  බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අපේ‍්‍රල් මස 07 09:37:17</date>
+    <body>කැළණිය වනවාසල දුම්රිය හරස් මාර්ගයේ දී කොළඹ කොටුව බලා ධාවනය වු දුම්රියක ටිපර් රථයක් ගැටීමෙන් එක් අයකු මිය ගොස් පස් දෙනෙකු තුවාල ලබා රෝහල් ගත කළ බව පොලිසිය කියයි.
+දුම්රියේ පාපුවරුවේ ගමන් කරමින් සිටි බව කියන කොළඹ අපරාධ වාර්තා කොට්ඨාසයේ සේවය කරන පොලිස් කොස්තාපල්වරයකු (34) මිය  ගිය බව පොලිසිය පවසයි.
+
+ජායාරූප - බිමල් ශ්‍යාමන් ජයසිංහ</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2016-04-07 08:10:16</date>
+            <index>0</index>
+            <phrase>ටිපර් රියදුරු ගේ ජීවිතය බේරිලාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-04-07 08:31:30</date>
+            <index>1</index>
+            <phrase>අනෙක් රේල් පාරේ දුම්රියක් අවොත් බොහොම දෙනෙක් අනතුරේ ඉක්මනින් ඉවත් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2016-04-07 08:55:30</date>
+            <index>2</index>
+            <phrase>ඇයි මෙතන ආරක්ෂක ගේට්ටු නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ ගල්ගමුව</author>
+            <date>2016-04-07 08:58:05</date>
+            <index>3</index>
+            <phrase>මම හැමදාමත් එන තැන. මම නැති දවසට ඔබ ආවා මගේ වෙලාවේ හොඳකමට මන්දා අද මට කලින් කෝච්චියෙ එන්න හිතුනා. ඒ නිසා උඹ එතන ආවා මට යන්න තිබුණ ගමන උඹ ගියා.හැමදාමත් විහිළු කරමින් සිංදු කියමින් ගිය දුම්රියෙන් ආයෙත් උඹ කොළඹ නොයනවා වගේම මමත් ඒ දුම්රියෙන් ආයෙත් එන්නේ නෑ.කකුල් දෙකම කැඩුන පොල්ලේ මාමත් ඒ වගේමයි උඹට ඉක්මන් සුවය ලැබේවා වගේම විකී උඹටත් නිවන් සුවය ලැබේවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2016-04-07 09:08:56</date>
+            <index>4</index>
+            <phrase>ටිපර් රථ රියදුරන් හිතන් ඉන්නේ පාර අයති ඒගොල්ලන්ට විතරයි කියලා. රේල් පාරත් ඒ අයගේ කියලා හිතන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාණි කොඩිකාර</author>
+            <date>2016-04-07 09:23:25</date>
+            <index>5</index>
+            <phrase>මෙතන ගේට්ටුවක් නෑ හරියට අනතුරු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2016-04-07 12:35:52</date>
+            <index>6</index>
+            <phrase>මෙතන .. ගේට්ටුවක් තිබුනත් ... රේල් පාරක් තිබුනත් .. අලියෙක් හිටියත් ... දිගටම එලවාගෙන යනවා ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-04-07 13:59:13</date>
+            <index>7</index>
+            <phrase>පුදුමාකාර අවාසනාවන්ත සිදුවීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2016-04-09 18:27:43</date>
+            <index>8</index>
+            <phrase>පන්සල පැත්තෙන් තාප්පය නිසා එන දුම්රිය පෙනෙන්නේ නැහැ. අනතුරු බොහොම වෙලා තියනවා මෙතන. යන කෙනා පරෙස්සමෙන් ගියොත් මෙහෙම වෙන්නේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18513</articleId>
+    <title>බස් - ජිප් ගැටී පොලිසියේ හතරක් රෝහලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2011 දෙසැම්බර් මස 20 15:08:13</date>
+    <body>ඉංගිරිය මා ඉංගිරියේ දී පොලිස් ජිප් රියක් හා පෞද්ගලික බසයක් ගැටීමෙන් පොලිසියේ සිවු දෙනෙක් තුවාල ලබා හොරණ රෝහලට ඇතුළු කරනු ලැබූහ. පොලිසිය වරෙන්තුකරුවන් පිරිසක් අත්අඩංගුවට ගැනීමට යමින් සිටියේය.</body>
+    <comments>
+        <comment>
+            <author>ලකි</author>
+            <date>2011-12-20 15:32:35</date>
+            <index>0</index>
+            <phrase>වරද පොලීසියෙ කට්ටියගෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි - කුවේට්</author>
+            <date>2011-12-20 17:55:32</date>
+            <index>1</index>
+            <phrase>රියදුරා වැරදිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

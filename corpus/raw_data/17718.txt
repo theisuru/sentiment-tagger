@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17718</articleId>
+    <title>උගත් පාඩම් කොමිසමේ වාර්තාව මැතිසබේට</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 16 11:03:39</date>
+    <body>උගත් පාඩම් හා ප්‍රතිසංධාන කොමිසමේ වාර්තාව පාර්ලිමේන්තුවේදී අද සභාගත කැරිණි. හිටපු නීතිපති සී ආර් ද සිල්වා මහතා කොමිසමේ සභාපති වරයා විය.</body>
+    <comments>
+        <comment>
+            <author>නිවන්ත.</author>
+            <date>2011-12-16 11:04:32</date>
+            <index>0</index>
+            <phrase>විපක්ෂයේ අය කෑගැහුවේ මේ වාර්තාව හංගන් ඉන්නවා කියලා..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

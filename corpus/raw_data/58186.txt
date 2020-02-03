@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58186</articleId>
+    <title>මගේ පැතුමේ සත්කාරයක් මහරගම</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2012 අගෝස්තු මස 10 19:01:16</date>
+    <body>‘මගේ පැතුම පදනම‘ මහරගම ජාතික පිළිකා ආයතනයේ නේවාසික ප්‍රතිකාර ලබන දරුවන්ගේ උපන් දින සැමැරීමට එක්විය. ළමා වාට්ටු හතරටම උපන් දින කේක්, තෑගි සහ රසකැවිලි මෙන්ම කුඩා දරුවන් කැමැති බෝහෝ දේ රැසක් පරිත්‍යාග කෙළේය.  මගේ පැතුම පදනමේ සභාපතිනි නෙළුම් ආරච්චිගේ මහත්මියගේ අදහසක් අනුව මේ වැඩ පිළිවෙළ ඇරැඹිණි.</body>
+    <comments>
+        <comment>
+            <author>ගයා</author>
+            <date>2012-08-10 20:11:31</date>
+            <index>0</index>
+            <phrase>මෙන්න මිනිස්සු .උතුම් වැඩක් .. උදාර සේවයක් ගැන රටට කිව්ව‍ ගොඩක් ස්තූතියි.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-08-10 20:16:03</date>
+            <index>1</index>
+            <phrase>උතුම් ක්‍රියාවක්..රටට ආදර්ශයක්‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-10 20:21:54</date>
+            <index>2</index>
+            <phrase>හරිම ආදර්ශමත් වැඩක්..සියළු දෙනාටම ගොඩක් පින්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-10 20:25:32</date>
+            <index>3</index>
+            <phrase>මෙම උතුම් ක්‍රියාවට අපගේ ප්‍රණාමය පුද කරන්නෙමු...සැමටම වාසනාවන්ත හෙට දිනක් පතමු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රිමේසි</author>
+            <date>2012-08-10 20:36:13</date>
+            <index>4</index>
+            <phrase>ඉතිමත්ම හොද වැඩක්. ඔවුන් සුව කිරීමට හැකි වේවායි පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2012-08-10 21:07:24</date>
+            <index>5</index>
+            <phrase>ඒත් හොඳ වැඩක් අහිංසක දරුවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-08-10 21:13:43</date>
+            <index>6</index>
+            <phrase>කොයි ඡන්දෙටද ඔයා එන්න හදන්නෙ.. මමත් තනියම දානයක් දුන්නා. ඒක මොකකවත් දැම්මෙ නම් නැහැ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-10 22:44:42</date>
+            <index>7</index>
+            <phrase>අනේ පැටවුනේ, මට ඔයාලා ගැන ඇති හැගීම විස්තර කරන්න වචන එන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේසන්</author>
+            <date>2012-08-10 22:51:49</date>
+            <index>8</index>
+            <phrase>ගොඩක් අය මේ වගේ දේවල් කරනවා ප්‍රසිද්ධියක් නැතිව.. මේක මෙතන කරන ලද පළමු ආහාර ලබාදීම නෙමෙයිනෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුරංග විතානගේ</author>
+            <date>2012-08-10 23:03:10</date>
+            <index>9</index>
+            <phrase>අගය කළ යවුතු වැඩක්.. සල්ලි නාස්තිකරන කාටත් ආදර්ශයක්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-11 01:18:48</date>
+            <index>10</index>
+            <phrase>ඉතා අගය කළයුතු වැඩක්.මහා පින්කමක්.මේ අසරණ දරුවන්ට උපන්දිනේට මොනවාහරි ලැබෙනවිට කොච්චර සතුටු වෙන්න ඇතිද? අනෙක සමහර දෙමාපියන් මාස ගණනක් ළමයාව තියාගෙන වාට්ටුවේ ඉන්නවා. එහෙම වෙලාවට තමන්ගේ දරුවාගේ උපන්දිනේට මොකුත් කරගන්න බැරිව කොච්චර අසරණ වෙනවා ඇත්ද? ඒවගේ අම්මලාට මේක ලොකු සතුටක්. මගේ උපන් දිනේටත් මේ වාට්ටු හතරේම දරුවන්ට තෑගි සහ පළතුරු දෙන්න කැමතියි. එම උතුම් කටයුත්ත කරන සංවිධානයේ තොරතුරු පළකරන්නේ නම් ඔබටත් ඉතා පින් සිදුවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරකෝන්</author>
+            <date>2012-08-11 01:27:19</date>
+            <index>11</index>
+            <phrase>මෙම වැඩේට මගෙන් සුභපැතුම්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-08-11 04:47:36</date>
+            <index>12</index>
+            <phrase>ඔබ සියලු දෙනාටම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුරි ටොරොන්ටෝ</author>
+            <date>2012-08-11 06:23:49</date>
+            <index>13</index>
+            <phrase>මම උත්සාහ කළා මගේ පැතුම සංවිධානයේ තොරතුරු ලබාගන්න.. කරුණාකර සම්බන්ධවිය හැකි ආකාරයක් දක්වන්න.. මට අවශ්‍යයි ඒ අයට උදව් කරන්න..සෑම ළමයෙක්ම එයාගේ උපන්දිනයට කැමතියි.. තෑගිත් ඒ සමගම බලාපොරොත්තු වෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආසිරු මීගහතැන්න</author>
+            <date>2012-08-11 07:24:41</date>
+            <index>14</index>
+            <phrase>ඉතා අගය කළයුතු වැඩක් මේ වගේ දරුවන් වෙනුවෙන් කරන්න තියෙනේ මේ වගේ දේවල් තමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2012-08-11 07:51:29</date>
+            <index>15</index>
+            <phrase>වැඩේනම් ගොඩක් හොදයි. ප්‍රසිද්ධිය බලගෙන නැතුව මේ වගේ වැඩ කරන අය ගොඩක් ඉන්නවා. මෙයා දේශපාලනයට එන්නද හදන්නේ. එහෙම නැත්තම් වටිනා වැඩක්. ප්‍රසිද්ධිය නොදී කලානම් ගොඩක් වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-08-11 07:50:05</date>
+            <index>16</index>
+            <phrase>පව් අනේ පුංචි පැටව් ටික..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙතුල්</author>
+            <date>2012-08-11 07:57:07</date>
+            <index>17</index>
+            <phrase>මැක්ස්......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-11 08:37:35</date>
+            <index>18</index>
+            <phrase>අපිටත් ආසයි මේවගේ දෙයක් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් -නුවර</author>
+            <date>2012-08-11 08:41:28</date>
+            <index>19</index>
+            <phrase>ඇත්තටම අගය කල යුතු වැඩක් . එත් දරුවන්ගේ දෙමුපියෝ කොයි තරම් දුකක් උහුලනවා ඇද්ද . හැම දරුවෙක්ම ඉක්මනින්ම සුව වේවා !!!!!!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ගනී</author>
+            <date>2012-08-11 09:39:25</date>
+            <index>20</index>
+            <phrase>ආදර්ශමත් වැඩක් . තවත් මේ වගේ දේවල් කරන්න ශක්තිය ලැබේවා.!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරේෂා එස් කුමාර</author>
+            <date>2012-08-11 09:55:33</date>
+            <index>21</index>
+            <phrase>ආදර්ශමත් වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-11 10:59:35</date>
+            <index>22</index>
+            <phrase>ජීවිත කාලේ කරන්න පුළුවන් මහඟු පින්කම් මේවා .පිනට ප්‍රසිද්ධිය ගාවා නොගන්නවානම් තවත් හොඳයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-08-11 11:04:56</date>
+            <index>23</index>
+            <phrase>මේ අපේ පබා ළමයත් ඉන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-11 11:05:01</date>
+            <index>24</index>
+            <phrase>පින් අතේ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-11 11:06:36</date>
+            <index>25</index>
+            <phrase>රත්තරන් චූටි පැටවුන් හා රෝගීන් සුවපත් වෙත්වා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත සපුආරච්චි</author>
+            <date>2012-08-11 11:10:55</date>
+            <index>26</index>
+            <phrase>හැම දරුපැටියකුටම නිරෝගී සුව ලැබේවා..!! අපිට පුළුවං විදියට අපි මේ දරුවන් සතුටින් තියන්න ඕන.. මමත් මේ වගේ දෙයකට උදව්වක් කරන්න ඕන.. කරුණාකර විස්තර පළ කරන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියානි</author>
+            <date>2012-08-11 11:16:43</date>
+            <index>27</index>
+            <phrase>පින්සිදු වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-08-11 11:47:46</date>
+            <index>28</index>
+            <phrase>අහිංසක දරුවෝ ටිකක්. ලොකු පිනක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2012-08-11 12:24:11</date>
+            <index>29</index>
+            <phrase>ඔබලාට උතුම් වූ නිවන් මගට යාමට මෙයම හේතු වාසනා වේවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-11 12:36:41</date>
+            <index>30</index>
+            <phrase>මේ ගැන කියන්න වචන නෑ.‍...නියමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-11 12:39:17</date>
+            <index>31</index>
+            <phrase>මේ උතුම් කට යුත්ත දිහාත් ඉරිසියාවෙන් සහ ද්වේශයෙන් බලන අය ඉන්නවනේ.අනුන් කල හොඳ දේවල් දිහා බලා සතුටුවීමත් පින්කමක්. ඒවා දෙස ද්වේශයෙන් බැලුවහම අපේ සිත් දුෂණය වෙනවා. අපිට සිත් සතුටු කර ගන්න පුළුවන් කම තියෙද්දී මොකටද සිත් දුෂණය කර ගන්නේ. තමන්ට දෙයක් කරන්න බැරි නම් ඉරිසියා නොකර ඒවා බොරුවට විවේචනය නොකර ඉන්න පුළුවන් නම් එකත් හොඳ මිනිස් ගුණයක්. මම මේ සංවිධානය ගැන හොයා බැලුව. මේ අය නිහඬව පිළිකාවෙන් මිය යන දරුවන්ට සහ එම දරුවන්ගේ දෙමාපියන්ට බොහෝ උදව් කර තිබෙනවා. මෙතන ජරා දේශපාලනයක් නැති බව පේනවා. හැම ආගමකම පුජක තුමන්ලා ඉන්නවා.කුඩා දරුවෝ කැමතියි එයාල ටී. වී එකේ දකින අයව හැබවින්ම දකින්න.විශේෂයෙන් ලෙඩවෙලා දුකින් ඉන්නකොට කවුරු ආවත් කොච්චර සතුටුද? අනෙක තමන්ගේ උපන් දිනය දවසේ. ඔයාල මේ උතුම් පිංකම තව දුරටත් කරගෙන යන්න. අපිත් හැකි හැම ලෙසටම උදව් කරනවා.එහෙම උදව් කරන්න බැරි නම් ඉරිසියා කොකර බොරු විවේචන නොකර ඉන්නම්. ගිලනුන්හට උදව් කරන්නා බුදුන්ට උවැටන් කලා හා සමාන පිනක් ලබා ගනී. ඔබ සැමට බුදු සරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-11 12:49:50</date>
+            <index>32</index>
+            <phrase>මේවගේ ලිපි පල කරනවට ලංකාදීපෙට ස්තුති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-08-11 12:58:52</date>
+            <index>33</index>
+            <phrase>හැම දරුවෙකුගෙම ලෙඩ සනීප වෙන්න ඕන ඉක්මනටම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-08-11 13:05:11</date>
+            <index>34</index>
+            <phrase>දෙවියන්ගේ බැල්ම ලැබෙන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-11 13:28:55</date>
+            <index>35</index>
+            <phrase>මනුරි , මම තොරතුරු සොයා ගත්තා. http://www.facebook.com/MyWishFoundation වෙබ් අඩවිය- www.mywishcharity.org</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-08-11 14:41:00</date>
+            <index>36</index>
+            <phrase>මේවගේ කට්ටියටයි සම්මාන දෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-08-11 14:54:17</date>
+            <index>37</index>
+            <phrase>ත්‍රිවිධ රත්නයේ පිහිටින් දරුවන් සියළු දෙනාම සුවපත් වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගත්</author>
+            <date>2012-08-11 14:51:31</date>
+            <index>38</index>
+            <phrase>අහිංසක දරුවන්ට ඉක්මන් සුවය ප්‍රර්ථනා කරනවා. ඒ වගේම අහිංසකයන් වෙනුවෙන් කරපු මේ සත් ක්‍රියාවට ඔයගොල්ලෝන්ට ‍ගොඩක් පින්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමේෂා</author>
+            <date>2012-08-11 15:15:53</date>
+            <index>39</index>
+            <phrase>ඔබ සියලු දෙන මතු බුදු වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ශණී දිසානයක</author>
+            <date>2012-08-11 19:53:55</date>
+            <index>40</index>
+            <phrase>ජේසන් මැතිතුමනි, මේක ඔබ හිතනවාට වඩා වෙනස් දෙයක්. ඕනෑතරම් අය පිලික රෝහලට දානේ දෙනවා.ඒක ඇත්ත . එත් මෙතන ක්‍රියාදාමය වෙනස්.මම එදා මේ වැඩසටහනට ගියා. මේ අය කරන්නේ වාට්ටුවල නේවාසිකව සිටින ඕනම ළමයකුගේ උපන් දිනයක් පැමිණි විට එම ළමයා මගින් වාට්ටුවේ සිටින සියලුම අහිංසක දරුවන්ට රසකැවිලි,පලතුරු සහ තෑගි බෙදා දෙනවා.එම ළමයින්ගේ දෙමාපියන්ටත් රසකැවිලි දෙනවා. මේක එකදවසක් විතරක් කරන එකක් නොවෙය්. කීමෝ තෙරපි ගන්න ළමයෙක් විඳින දුක ඔබ දන්නේ නැහැ.ඒවගේ දරුවෙකුට මේ වගේ දෙයක් කොච්චර වටිනවද? ඒවගේම මුළු සේසතම වියදම් කරන දෙමාපියන්ට දරුවාගේ උපන්දිනේට තෑග්ගක් අරන්දෙන්න වත්කමක් නැහැ.ඔබටත් දරුවන් ඉන්නවානම් වැටහේවි. අපිත් අපේ උපන් දිනයට පුළුවන් විදිහට එම අහිංසක දරුවන්ට උදව් කරමු.එදා එම අහිංසක දරුවන් ලබපු සතුට දැකල මගේ ඇසටත් කඳුළු ආවා. ඇත්ත හරියට නොදැන බොරු ලියන්න එපා. මිනිසුන් නොමග යැවීම ලොකු පවක්. ඔබට සතුටු වෙන්න බැරිනම් නිහඩව ඉන්න. බලන්න අනෙක් අය කොච්චර මේ පින්තුර දැකලා සතුටු වෙනවාද? හැම විටකම දුර්වලකම් දැකීම දුර්වල චරිතවල ස්වභාවයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් අබේවර්ධන</author>
+            <date>2012-08-11 20:17:04</date>
+            <index>41</index>
+            <phrase>මෙය උතුම් පින්කමක් !!! ඉතා අගය කළයුතු වැඩක් හැමටම ඉතා හොද ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක ඉතාලිය</author>
+            <date>2012-08-11 21:12:27</date>
+            <index>42</index>
+            <phrase>මෙම වැඩේට මගෙන් සුභපැතුම්.!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සර්ෆාස්</author>
+            <date>2012-08-11 22:07:27</date>
+            <index>43</index>
+            <phrase>මේ ළමයි දිහා බලනකොට කදුළු ‍එනවා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරනිමල</author>
+            <date>2012-08-12 00:48:05</date>
+            <index>44</index>
+            <phrase>මේ දරුවන්ගේ සිනහව දකින විට අපේ සිත් තුලද ඇතිවෙන්නේ අපමණ සතුටකි .සුළුවෙන් හෝ උදව්වක් කිරීම ලොකු කුසලකි .අපේම දරුවනට පිවිතුරු සිතකින් සේවය කිරීමට මගේ පැතුම සංවිධානයට ශක්තිය සහ දිරිය ලැබේවා.මගේ පැතුම වෙබ් අඩවිය http://www.mywishcharity.org/</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-12 02:32:30</date>
+            <index>45</index>
+            <phrase>http://www.facebook.com/handto.hand.355?ref=tn_tnmn</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරි</author>
+            <date>2012-08-12 08:23:43</date>
+            <index>46</index>
+            <phrase>මෙහෙම හොද මිනිස්සුත් ඉන්නවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණි</author>
+            <date>2012-08-12 12:30:46</date>
+            <index>47</index>
+            <phrase>'මගේ පැතුම' මගින් තවත් දරුවන් දෙදෙනකුගේ උපන්දින පිළිකා රෝහලේ ළමා වාට්ටුවේදී පසුගියදා සැමරුවා.මේ දෙන්නගෙම උපන් දිනේ එකම දවසේ. හාමුදුරුනමක් වැඩම කරලා ඒ දරුවෝ දෙන්නට විතරක් නෙමෙයි වාට්ටුවේ සිටි හැම දරුවකුටම පිරිත් කියා සෙත් පැතුවා. තෑගිත් බෙදුවා. හාමුදුරුවොත් ඇස්වල කදුළු වහගන්න ලොකු උත්සහයක් ගත්තා. හැමෝටම හරිම සතුටුයි. එතනට ගිය මට හිතුණේ ජීවිතයේ කරපු ලොකුම පිංකම කරගත්තේ එදා කියලා.මේ ලින්ක් එකෙන් පින්තුර බැලුවොත් ඔයාලත් එක තේරුම් ගනීවි . http://www.facebook.com/MyWishFoundation වාටුවේ සිටින හැම ළමයකුගේම උපන් දිනයකට මෙහෙම කරන්න පුළුවන් ඔයාලගේ උපන් දිනේට ඔයාලත් තෑග්ගක් මේ අසරණ දරුවෙකුට යැවුවොත්. ලබන උපන් දිනේ අපි අලුත් විදිහට සමරමු. 'මගේ පැතුම' ඔයාල වෙනුවෙන් එය සංවිධානය කරාවි. මේ කටයුත්තට සහභාගී වූ සැමට බොහොම පිං. අනේකවාරයක් පින් සිදු වේවා.!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමා</author>
+            <date>2012-08-12 16:14:24</date>
+            <index>48</index>
+            <phrase>ඇයි දෙයියනේ, මේකටත් මේ දේශපාලනය ගාව ගත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලී</author>
+            <date>2012-08-12 16:12:03</date>
+            <index>49</index>
+            <phrase>දේශපාලනය නැතුව ඔයාලට කිසිම දෙයක් කරන්න බැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිෂාඩ්</author>
+            <date>2012-08-12 16:12:50</date>
+            <index>50</index>
+            <phrase>මෙච්චර හොද දෙයකටත් දේශපාලනය නැතුව බැරි වුණා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2012-08-12 22:53:56</date>
+            <index>51</index>
+            <phrase>ලොවේ උතුම්ම රටේ සිදුවන අපරාධයන් සැමදා අසන දකින අපට මෙම ක්‍රියාව මහගු තිළිණයකි. මෙය ආරම්භ කළ උතුම් ඔබ ඇතුළු අනෙකුත් සැමදෙනාට ශ්‍රී ලංකික අපගේ උපහාරය! මෙය මුළු ලොවටම හඬ ගා කිය යුතු උතුම් ක්‍රියාවකි. අප සැම වැඩියෙන් ප්‍රසිද්ධිය දිය යුත්තේ මෙවැනි ක්‍රියාවන් හටයි. අප වැඩි වැඩියෙන් මෙවැනි ක්‍රියාවන් අගය කළ යුතුයි. මෙවැනි ක්‍රියාවන්ට මුල්වන සහා දායකවන දරුවන් මෙලොවට බිහි කළ දෙමාපියන්ටත් මෙය පිනක් සහ ආඩම්බරයක්. අපෙත් ආයුෂ ගෙන ඔබ සැම දෙන බොහෝ කල් ජීවත් වේවා! මෙවැනි ක්‍රියාවන් තවත් මෙරට තුල කරගෙන යාමට දිරිය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික නිස්සංක</author>
+            <date>2012-08-12 23:08:07</date>
+            <index>52</index>
+            <phrase>සිනහව කඳුල අතරේ ලොව කැරකෙනවා.මල් වැනි කැකුළු අකලට පරවී යනවා.හදවත කඩා විසි කෙරුමට සිත් වෙනවා.මගෙත් ආයු ගෙන ඔබෙ දිවි සුරැකේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2012-08-12 23:15:20</date>
+            <index>53</index>
+            <phrase>මෙම ආයතනයේ සභාපතිනිය පිට රටක වාසය කරන තමන්ගේ රටට ආදරය කරන කෙනෙක් බව දැනගත්තා. ඇය පිට රට වාසය කරන සැමට හොඳ ආදර්ශයක්. ඇය හා සමඟ එකතු වී සිටින අනෙකුත් සියලුම සාමාජිකයින්ට අපගේ ආදරය සහ ගෞරවය හිමි විය යුතුය. ඔබ සැමට දෙවි රැකවරණය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-08-13 08:10:41</date>
+            <index>54</index>
+            <phrase>අනේක වාරයක් පින්. අහිංසක දරුවන් වෙනුවෙන් කළ අගය කළ යුතු වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-08-13 08:15:12</date>
+            <index>55</index>
+            <phrase>ඔබ සියලු දෙනා මතු බුදුවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත් විතාරණ</author>
+            <date>2012-08-13 11:52:47</date>
+            <index>56</index>
+            <phrase>වාසල "නමෝ බුද්ධාය !!!" මෙයට දායක වූ සියලුම දෙනාට "තෙරුවන් සරණයි !!!!!!!"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙකුයුරිටි ළමයා-ළමා වාට්ටුව.</author>
+            <date>2012-08-13 12:34:42</date>
+            <index>57</index>
+            <phrase>දේශපාලනය මේවගේ උතුම් දේවලින් ඇත්විය යුතුය.එත් එයාලට මේ වගේ පින්කම්වලට සහභාගිවෙන්න තහනම් නොකළ යුතුයි . මෙතැන ඉන්න මේ නෝනලා දෙන්නම කාන්තාවන් සහ දරුවන් ගැන කතා කරලයි මනාප අරගෙන පාර්ලිමේන්තු ගියේ.දැන් අපි බලමු මේ දෙන්නා මේ වැඩේට ඇවිත් එතන ඉන්න අසරණ අම්මල සහ දරුවන් වෙනුවෙන් මොකද කරන්නේ කියලා. අඩුම වශයෙන් එයාලගේ උපන්දිනේටවත් මේ දරුවන්ට කෙසෙල් ඇවරියක්වත් ගෙනිහින් දුන්නොත් මේ අයගේ පැමිණීමෙන් වැඩක් තියෙනවා.එතොකොට අපි දන්නවා මෙයාල එතනට ඇවිත් තියෙන්නේ හිත උණුවෙන කාන්තාවන් දෙදෙනෙකු ලෙස කියා. නැත්නම් ඔයාල කියනවාවගේ තමන්ගේ නමට ලකුනු දාගන්න. අනේ එහෙම නම් "මගේ පැතුම" සංවිධානය එයාලහේ "පැතුම්" ඉටුකරන සංවිධානයක් වේවි. සභාපති නෝනේ ප්‍රවේසමෙන්.!!!! ඔයත් මෙයාලගේ ඇසුරට වැටිලා මනාප පොරයට යනවා එහෙම නෙමෙයි .!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්තා පල්ලියගුරු</author>
+            <date>2012-08-13 14:47:03</date>
+            <index>58</index>
+            <phrase>මගේ පැතුම මගින් අගෝස්තු මස 01 වන දින සංවිධානය කරන ලද උපන්දින සාදයට මමත් සහභාගිවුනෙමි. මට ඒ අවස්ථාවේදී පුදුම සතුටක් ඇතිවුනේ හාමුදුරුවරු තුන්නමක් වැඩම කරලා හැම රෝගී දරුවකුටම සෙත් පැතුවා. රෝගී දරුවන්හරිම සතුටකින් එම අවස්ථාව සැමරුවේ.ඒයාලගේ රෝගී තත්වයත් අමතක වෙලා ගිහින්.මේ රෝගී දරුදැරියන් සියළු දෙනාටම ඉක්මන් සුවය ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර සිල්වා</author>
+            <date>2012-08-13 16:12:22</date>
+            <index>59</index>
+            <phrase>ඔබට හැකි නම් ; ඔබගේ උපකාරය මොවුන් සදහාත් ලබාදෙන්න ..විස්තර මෙතනින් බලන්න http://www.facebook.com/handto.hand.355?ref=tn_tnmn</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

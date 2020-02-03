@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52504</articleId>
+    <title>ඉදිරි පැය හතරෙත් තද සුළං</title>
+    <author>තරිඳු ජයවර්ධන  සජීව විජේවීර</author>
+    <date>2012 ජූලි මස 10 02:49:36</date>
+    <body>සක්‍රීය නිරිතදිග මෝසම් කාළගුණ තත්ත්වය යටතේ දිවයිනේ හා අවට මුහුදු ප්‍රදේශවල පවතින තද සුළුං තත්ත්වය ඉදිරි පැය හතර ඇතුළත තව දුරටත් අපේක්ෂා කරන බව කාළගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.
+දිවයින වටා මුහුදු ප්‍රදේශ තරමක් රළු ස්වභාවයක් ගනු ඇති බවද කාර්යයේ නියුතු කාළගුණ විද්‍යාඥ පී ජී යසරත්න මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>චන්දි</author>
+            <date>2012-07-10 06:56:12</date>
+            <index>0</index>
+            <phrase>අපිට සජීවීව දැනුම් දෙන එක හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-10 08:51:41</date>
+            <index>1</index>
+            <phrase>වෙනදේවල් වල හැටියට කුණාටු නාවොත් තමයි පුදුමේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-07-10 12:11:45</date>
+            <index>2</index>
+            <phrase>කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අපිව දැනුවත් කරනවා.ඉතින් අපි අවධානයෙන් ඉමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

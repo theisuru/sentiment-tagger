@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>184436</articleId>
+    <title>බල ජව සවිය වැඩුමට ඔසු ගුණ බලලා.... කොළ කැඳ  බොන්න කොට දිඹුලා මුසු කරලා</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 නොවැම්බර් මස 11 07:48:02</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>වන්නි තිලක්</author>
+            <date>2013-11-11 10:11:16</date>
+            <index>0</index>
+            <phrase>ගෙඩි නම් මාලුව කාලා තියෙනවා.කොළ නම් හරිම රළුයි. බූව සහිතයි. වෙනත් කොළ වර්ගයක් එක්ක මිශ්‍ර කරලා හදලා බලන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙත්තා</author>
+            <date>2013-11-12 01:09:26</date>
+            <index>1</index>
+            <phrase>අදමයි ඇහුවේ. සොයලා බලන්න ඕනෑ.කන්න ආසා හිතුනා. ගෙඩි මාළුව කොහොමද හදන්නේ.මොන රසද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීප්ති</author>
+            <date>2013-11-12 17:22:06</date>
+            <index>2</index>
+            <phrase>මම ඉතාමත් උනන්දුවෙන් බලන වීඩියෝ එකක් තමයි මේ. නමුත් මේක තව ටිකක් විස්තර අපිට දැනගන්න විනාඩි 3 ක්වත් දානවා නම් වඩාත් සතුටුයි. කොට දිඹුලා වඩාත් ගුණ දෙන්නේ මොන අසනීප තත්ත්වයකටද? ඕනෑ තරම් දැක තිබුනත් මෙහි ගුණ අගුණ දැනගෙන හිටියේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වන්නි තිලක්</author>
+            <date>2013-11-13 19:44:00</date>
+            <index>3</index>
+            <phrase>ගෙඩි හැදෙන්නේ ගහේ කඳ පහළ හරියේ. කොළපාට අත්තික්කා වගේ ගෙඩියක්. ගෙඩිය පලා මැද ඇට ඉවත් කරලා කොස් ඇට ටිකක් දාලා කිරට ඉව්වම රසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

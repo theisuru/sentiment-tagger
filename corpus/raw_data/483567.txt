@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>483567</articleId>
+    <title>පස්ස කැපූ මිනිහා රිමාන්ඩ්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 24 17:08:03</date>
+    <body>ගැබිනියක ඇතුළු තිදෙනකුගේ නිතඹ කැපී යැයි අත්අඩංගුවට ගත් රක්වානේ පදිංචි සනත් කුමාරතුංග (39) දෙසැම්බර් 7 වැනිදා තෙක් රිමාන්ඩ් කරන ලෙස නුගේගොඩ මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා අද (24) නියෝග කළේය.
+එදිනට ඔහු හඳුනාගැනීමේ පෙරට්ටුවකටද ඉදිරිපත් කිරීමට නියමිතය.
+ගැබිනියකගේ, නිවේදිකාවකගේ සහ නීති සිසුවියකගේ නිතඹ පෙදෙස බ්ලේඩ් තලයකින් කැපී යැයි ඔහුට එරෙහිව පැමිණිලි ලැබී ඇත. </body>
+    <comments>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-11-24 12:32:18</date>
+            <index>0</index>
+            <phrase>මානසික ලෙඩෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු</author>
+            <date>2016-11-24 18:29:44</date>
+            <index>1</index>
+            <phrase>අනේ මෙහෙමත් මානසික අසහනකාරයින්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-11-24 23:04:55</date>
+            <index>2</index>
+            <phrase>අැපපිට නිදහස් කළොත් තව කී දෙනෙක්ගේ කපයිද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-25 01:56:49</date>
+            <index>3</index>
+            <phrase>මොහුට එක්වරම දඬුවම් නොකර මොහුගේ මෙම ශිල්ප ඥානය ප්‍රයෝජනයට අරගෙන මේ යහපාලන කාලය තුළ අනුකම්පාවට ලක්වී නැවත ඡන්දය සිඟාගෙන දොරින් දොරට යන තක්කඩි දේශපාලුවන්ගේ ඇඳිවත ඔවුන් නොදැනීම බ්ලේඩ් තලයකින් කපන්න මොහුව යොදාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

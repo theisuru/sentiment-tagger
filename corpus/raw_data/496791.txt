@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>496791</articleId>
+    <title>“මාගම්පුර විකුණන්න එපා“</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2017 ජනවාරි මස 06 14:52:16</date>
+    <body>හම්බන්තොට වරාය පෞද්ගලිකකරණය නොකරන ලෙස ඉල්ලා සමස්ථ ලංකා වරාය පොදු සේවක සමිතිය අද (06) කොළඹ කොටුව වරාය පිවිසුම ඉදිරිපිටදී උද්ඝෝෂණයක් කළේය..</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2017-01-06 10:58:23</date>
+            <index>0</index>
+            <phrase>විකුනනේ නෑ කියලා නේද කියන්නේ? පාරවල් දිගේ රස්තියාදුවෙන්නේ වෙන දෙයක් හිතේ තියාගෙන නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ තංගල්ල</author>
+            <date>2017-01-06 11:38:16</date>
+            <index>1</index>
+            <phrase>මහත්වරුනේ බොරු රඟපෑම් එපා... වරාය පාඩු ලබනවා කියලා දවල් ආහාරයට කරවල බැදුම අඩු කරපුවම වැඩවර්ජනය කලෙත් ඔය මහත්වරුම නේද ..... ඒ රටට ආදරේටද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල් ප්‍රේමලාල්</author>
+            <date>2017-01-06 15:27:11</date>
+            <index>2</index>
+            <phrase>අරුණ, ඔයා වරායේ සේවකයින්ගේ කරවල කෑල්ල ගැන කියනවා. මන්ත්‍රී සෙට් එක පාර්ලිමන්ට් එකේ කෑම එකේ තත්වය වැඩි කරගන්නවා දහස් ගණනක් අපිට ගෙවන්න කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2017-01-06 16:22:40</date>
+            <index>3</index>
+            <phrase>විකුණනවාද? බදු දෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමණි</author>
+            <date>2017-01-06 21:48:50</date>
+            <index>4</index>
+            <phrase>මේ උද්ඝෝෂණය කරන්න ඇවිල්ලා ඉන්නේ පඩි සහිත නිවාඩු දාලද, පඩි රහිත නිවාඩු දාලද නැත්නම් පඩි අරගෙන වැඩ නොකර උද්ඝෝෂණය කරනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපසේන</author>
+            <date>2017-01-07 03:25:54</date>
+            <index>5</index>
+            <phrase>කරුණු කාරණා හරිහැටි සොයානොබලා විරුද්ධවීම ඵලක් නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2017-01-07 08:35:16</date>
+            <index>6</index>
+            <phrase>ඇත්ත කතාව නම් මෙතන ඉන්න වැඩි දෙනෙක් දන්නෙ නැහැ ඇයි එයාලා මෙතන මේ විදියට ඉන්නෙ කියලා. අර පාර්ලිමේන්තු මන්ත්‍රීතුමා පිටිපස්සෙ ඉන්නවා කියල දන්නෙත් නැතුව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2017-01-07 11:47:43</date>
+            <index>7</index>
+            <phrase>රට දියුණුවෙනවා නම් අපිට ඕනෑ එච්චරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2017-01-07 15:45:30</date>
+            <index>8</index>
+            <phrase>ගෝල් ෆේස් ඉස්සරහා හමුදා මූලස්ථානය, හමුදා ඉස්පිරිතාලය, ගුවන් හමුදා ක්‍රීඩාංගනය ඒවාට ගිය රජය මොකද කළේ? චීනෙත් සමඟ ඔය හැම ගිවිසුමක්ම ගහලා රට ණය කරලා දැන් ලිහාගන්න බැහැ. ඇයි මේ රජය මහජනයා දැනුවත් කරන්නේ නැත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්. වික්‍රම</author>
+            <date>2017-01-08 04:16:40</date>
+            <index>9</index>
+            <phrase>අනුර, ඔය විශ්වාස කරනවද තාමත් එයාලගේ කතා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

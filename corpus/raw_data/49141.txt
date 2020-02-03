@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>49141</articleId>
+    <title>සරසවි සේවකයෝ අදත් වීදි බසිති.</title>
+    <author>සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 ජූනි මස 20 14:02:16</date>
+    <body>විශ්ව විද්‍යාල අනධ්‍යන සේවකයෝ අද කොළඹ විශ්ව විද්‍යාලයේ සිට වෝඞ් පෙදෙසේ විශ්ව විද්‍යාල ප‍්‍රතිපාදන කොමිෂන් සභාව දක්වා විරෝධතා පාගමනින් පැමිණියහ. සියලූම විශ්ව විද්‍යාල අනධ්‍යන සේවකයෝ ඊට එක්වූහ. වැටුප් වැඩිවීම් ඇතුළු ඉල්ලීම් තුනක් මත ඔවුන් වැඩවරා අදට දින 16කි.</body>
+    <comments>
+        <comment>
+            <author></author>
+            <date>2012-06-20 14:41:40</date>
+            <index>0</index>
+            <phrase>ඇයි මේ අය හැමදාම පාරට බහින්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුරුගේ</author>
+            <date>2012-06-20 15:00:37</date>
+            <index>1</index>
+            <phrase>අද පොල් නැද්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-06-20 15:33:28</date>
+            <index>2</index>
+            <phrase>දැන් තමයි මිනිස්සු පාරට බහින්න තීරණය කරල තියෙන්නේ .පරක්කු වෙලා හරි ඇස් ඇරිච්ච එක හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-06-20 15:40:00</date>
+            <index>3</index>
+            <phrase>නෑ ගුරුගේ ..........අද ගල් ගහලනේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනායක</author>
+            <date>2012-06-20 16:59:18</date>
+            <index>4</index>
+            <phrase>ගිවිසුම් අත්සන් කර අය පොරොන්දු ඉටුකරානම් මේ සේවකයෝ අද වැඩනේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොම්පේ මල්ලී</author>
+            <date>2012-06-20 17:03:07</date>
+            <index>5</index>
+            <phrase>මේ අයගේ ඉල්ලීම් වලට මොනවද දෙන තීන්දු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-06-20 17:27:57</date>
+            <index>6</index>
+            <phrase>මේ කපේනම් පඩි වැඩි කර ගන්නවා බොරු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිරෝ</author>
+            <date>2012-06-20 17:00:44</date>
+            <index>7</index>
+            <phrase>ලොකු තැන කෝ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-06-20 17:46:55</date>
+            <index>8</index>
+            <phrase>බොහොම සාමකාමී පා ගමනක්.මේ අයගේ ඉල්ලිම් දෙන්න පුලුවන් නම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>hanuma</author>
+            <date>2012-06-20 17:50:49</date>
+            <index>9</index>
+            <phrase>හරි තීරණයක් දෙන්න බරිලු ....??????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-06-20 17:17:54</date>
+            <index>10</index>
+            <phrase>මෙයාලට ‍රැකියාව කරන්න බැරිනම් අයින් කරල අලුත් අය ගන්න තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ්</author>
+            <date>2012-06-20 18:59:14</date>
+            <index>11</index>
+            <phrase>දේශපාලන පොරොන්දු පසු පස යාම හරියට මිරිගුවක් පසු පස යාම හා සමානයි කියලා දැන්වත් තේරුම් ගන්නවා නම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතිර</author>
+            <date>2012-06-21 18:24:41</date>
+            <index>12</index>
+            <phrase>ප්‍රගීත් 2012-06-20 17:17:54 "මෙයාලට ‍රැකියාව කරන්න බැරිනම් අයින් කරල අලුත් අය ගන්න තියෙන්නෙ." නිකන් මෝඩ කතා කියන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

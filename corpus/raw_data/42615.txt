@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42615</articleId>
+    <title>පුදන කොටම කාපි යකා</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 මැයි මස 16 17:54:59</date>
+    <body>ඩුබායිහිදී ඩිරාම් තුන්ලක්‍ෂයකට වැඩි වටිනාකමින් යුතු මුදල් හා රන් භාණ්ඩ සොරකම් කිරීමේ චෝදනාවකට වරදකරු වූ ශ්‍රී ලාංකික සේවිකාවකට ඩුබායි අධිකරණය මාස හයක සිර දඬුවම් නියම කර ඇතැයි එරට ශ්‍රී ලංකා කොන්සල් කාර්යාල ආරංචි කියයි.
+තිස් එක් හැවිරිදි වියේ ගෘහ සේවිකාවකට දඬුවම් නියම වී ඇත.
+සේවයට ගිය මුල් දිනයේදීම ඇය මේ සොරකම කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>අසෝක</author>
+            <date>2012-05-16 18:39:17</date>
+            <index>0</index>
+            <phrase>ගිය දවසෙම මෙහෙම වුණා කියලා පිළිගතහැකිද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-05-16 20:00:50</date>
+            <index>1</index>
+            <phrase>විශ්වාස කරන්නත් අමාරුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-17 10:20:30</date>
+            <index>2</index>
+            <phrase>රටේ නම කැත කර තව අවස්ථාවක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-17 10:57:16</date>
+            <index>3</index>
+            <phrase>අපේ අයගේ ආර්ථික අඟහිඟකම් තියෙන එක ඇත්ත නමුත් පිටරටවලට ගිහින් මේ වගේ සොරකම් කරන විට අපේ රට ගැන ඒ රටවල මිනිස්සු මොනවද හිතන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්සරා</author>
+            <date>2012-05-17 12:00:41</date>
+            <index>4</index>
+            <phrase>ඩුබායි වල ඉන්න ලංකාවේ අයගේ තත්වේ නැති කරන්නේ මෙන්න මේ වගේ කට්ටිය තමා, ඊට පස්සේ කියනවා හිරිහැර කරා අරක කරා මේක කරා කියල ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-17 23:01:37</date>
+            <index>5</index>
+            <phrase>අප්සරාට හිතුනේ නැති එක පුදුමයි ඩුබායි ගිහින් රැකියාවක් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2012-05-18 13:02:22</date>
+            <index>6</index>
+            <phrase>හරි නරකයි මෙයා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

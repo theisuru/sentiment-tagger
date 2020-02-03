@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>197140</articleId>
+    <title>උතුරු වැසියෝ නත්තල සමරති</title>
+    <author>රොමේෂ් මධුෂංක</author>
+    <date>2013 දෙසැම්බර් මස 25 11:27:37</date>
+    <body>නත්තල සමරමින් උතුරේ කිතුනුවෝ  දේවස්ථානවලට ගොස් දේව පුඡා පැවැත්වුහ.
+වව්නියාවේ ශාන්ත අන්තෝනි දේවස්ථානයේදී මැදියම් රැයේත් අද උදෑසනත් විශේෂ දේව මෙහෙයන් පැවැත්විණි.
+කාන්තා සහභාගීත්වය ඒ අතර විශේෂයෙන් කැපී පෙනිණි.
+
+
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>තිළිණි</author>
+            <date>2013-12-25 13:37:26</date>
+            <index>0</index>
+            <phrase>එසැණ කිතුනු මිතුරු මිතුරියන් සැම දෙනාටම සුභ නත්තලක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-12-25 14:25:08</date>
+            <index>1</index>
+            <phrase>මුළු රටටම සුබම සුබ නත්තලක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2013-12-25 14:57:23</date>
+            <index>2</index>
+            <phrase>සියලුම කිතුනුවන්ට සුබ නත්තලක් වේවා.....! මේ සෑම දෙයක්ම නිදහසේ කරගන්න පුලවන් වුනේ කුරිරු යුද්දය අවසන් උන නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලී</author>
+            <date>2013-12-25 20:16:08</date>
+            <index>3</index>
+            <phrase>මගේ රටට සාමය උදා වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

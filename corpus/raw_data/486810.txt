@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486810</articleId>
+    <title>බැසිල්ගේ පෙත්සම පොසොන් මාසයට කල් යයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 දෙසැම්බර් මස 02 19:05:07</date>
+    <body>දිවිනැඟුම දෙපාර්තමේන්තුවේ සිදු වී යැයි කියන අයථා මුදල්  පරිහරණය  සම්බන්ධව මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසය තමන් අත්අඩංගුවට ගැනීමට එරෙහිව හිටපු ආර්ථික සංවර්ධන අමාත්‍ය බැසිල් රාජපක්ෂ ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමේ විභාගය  ලබන වසරේ  ජූනි 19 තෙක් කල් දැමීමට ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2016-12-02 17:53:12</date>
+            <index>0</index>
+            <phrase>නියමයිනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2016-12-03 01:35:55</date>
+            <index>1</index>
+            <phrase>ඒක හොඳයි. පොසොනුත් වැඳලාම ඇතුළට යන්නකෝ සදහටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

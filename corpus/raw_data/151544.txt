@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>151544</articleId>
+    <title>තෙලඹු</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 ජූලි මස 15 17:10:43</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2013-07-18 00:05:57</date>
+            <index>0</index>
+            <phrase>තෙලඹු කියන්නෙත් නා ගසටමද? නා ගසේ ගෙඩිත් පහන් දැල්වීමට යොදාගනී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතූ</author>
+            <date>2013-07-18 13:56:08</date>
+            <index>1</index>
+            <phrase>සේනානායක ලංකාවේ නෙමෙයිද තෙලඹුයි නා ගහයි අදුනන‍්නේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-07-21 18:39:15</date>
+            <index>2</index>
+            <phrase>අපි කුඩාකාලයේ අපේ අම්මලා පහන් දැල්වීමට ගත්තේ නාවා ගසේ ගෙඩියේ ලෙල්ල. ඉදුණු විට රතුම රතු පාටයි. දෙකට මැදින් පැලෙනවා.එක ගෙඩියකින් පහන් 2 ක් දල්වන්න පුළුවන්.වෙසක්,පොසොන් කාලයට ගෙඩි ඉදිලා ලස්සනේ බැහැ.කඳ උසට වැඩෙනවා.කඳේ පට්ටා ගලවා ,මඩේ දමා පදම් වූ පසු ගොවියා ,කොල ලනු,විය ලනු අඹරා ගන්නවා.තෙලඹු සහ උඩරට නාවා ගස කියන්නේ එකම ගසටද යන්න මට නම් අපැහැදිලියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

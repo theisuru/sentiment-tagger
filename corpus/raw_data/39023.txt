@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39023</articleId>
+    <title>ඉතාලි නිදහස් දිනේට කැවුම් කොකිස්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 26 12:25:32</date>
+    <body>ඉතාලි නිදහස් දිනය නමිත්තෙන් පාදෝවා නගර සභාව වෙළෙඳ ප්‍රදර්ශනයක් සංවිධානය කළේය. ප්‍රදර්ශනය නරඹන්නට පැමිණි විශාල පිරිසකට කොණ්ඩ කැවුම්, කොකිස් වැනි ශ්‍රී ලාංකික රසකැවිලි නොමිලේ බුක්ති විදීමට ද අවස්ථාව උදාවී තිබුණි. පාදෝවා නගර සභාවේ ශ්‍රී ලාංකික නියෝජිතයන් දෙදෙනාගෙන් අයෙකු වන සජිත් ප්‍රනාන්දු මහතා එම සංග්‍රහය සංවිධානය කළේය. නගර සභික ශේහාන් සිල්වා මහතාද මේ අවස්ථාවට එක්වීය. ශ්‍රී ලාංකික දැරියෝ කිහිපදෙනෙක් එහිදී නැටුම් හා ගීත ඉදිරිපත් කළහ.</body>
+    <comments>
+        <comment>
+            <author>තිලක් ගමගේ</author>
+            <date>2012-04-26 14:33:22</date>
+            <index>0</index>
+            <phrase>සජිත්, ඔබගේ මෙම ක්‍රියාව හරිම අපූරුයි. මගේ උනුසුම් සුභ පෑතුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-04-26 14:46:18</date>
+            <index>1</index>
+            <phrase>ශ්‍රී ලාංකිකයො වශයෙන් මෙය අගය කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2012-04-26 15:29:10</date>
+            <index>2</index>
+            <phrase>මගේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-04-26 15:52:02</date>
+            <index>3</index>
+            <phrase>සජිත් නියම වැඩක්. මම හිතනවා ඉතාලියේ තියෙන්නේ හොඳ වටපිටාක්. ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

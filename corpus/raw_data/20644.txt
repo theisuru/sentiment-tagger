@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20644</articleId>
+    <title>මීදුම් සළුවකින් නුවරඑළිය වැසේ.</title>
+    <author>ඉන්දික සෙනෙවිරත්න</author>
+    <date>2012 ජනවාරි මස 05 17:26:28</date>
+    <body>නුවරඑළිය නගරය අද දහවල් සිට මීදුමෙන්   වැසී ඇති හෙයින්  පරෙස්සිමෙන් රිය පදවන්නැයි මහ දිසාපති ඞී.පී.ජී. කුමාරසිරි මහතා කියයි.
+නුවරඑළිය උෂ්ණත්වය සෙල්සියස් අංශක 6.5 දක්වා අඩුවී ඇති අතර  මල් තුහිනද පතිත විය.</body>
+    <comments>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-01-05 20:26:58</date>
+            <index>0</index>
+            <phrase>කාලගුණයේ හැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසා</author>
+            <date>2012-01-05 22:13:29</date>
+            <index>1</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

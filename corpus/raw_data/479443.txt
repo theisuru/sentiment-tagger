@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>479443</articleId>
+    <title>පෙරටුගාමී විරෝධතාවට අවුරුද්දයි</title>
+    <author></author>
+    <date>2016 නොවැම්බර් මස 13 12:51:12</date>
+    <body>කුමාර් ගුණරත්නම් ගේ දේශපාලන අයිතිය හා ප්‍රරවැසිභාවය නැවත ලබා දෙන ලෙස ඉල්ලමින් කොළඹ කොටුව දුම්රියපල ඉදිරිපිට පෙරටුගාමී සමාජවාදී පක්ෂය  පවත්වාගෙන යන අඛණ්ඩ නිහඬ උද්ඝෝෂණයට වසරක් සම්පූර්ණ වන බව එම පක්ෂය පවසයි.
+මෙය දේශපාලන පක්ෂයක් විසින් ලංකාවේ අඛණ්ඩව ගෙනගිය දීර්ඝතම උද්ඝෝෂණය බවත් කියයි. 
+පෙරටුගාමී සමාජවාදී පක්ෂයේ ප්‍රචාරක ලේකම් පුබුදු ජාගොඩ ඇතුළු පිරිසක්ද අද සත්‍යග්‍රයට සහභාගී වී සිටිති.
+ </body>
+    <comments>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-11-13 14:36:27</date>
+            <index>0</index>
+            <phrase>උසාවිය නිහඬයි. යුක්තිය ප්‍රමාදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල් රත්ගම</author>
+            <date>2016-11-14 07:24:12</date>
+            <index>1</index>
+            <phrase>ලංකාවේ උපන් මිනිහෙකුට ලංකාවේ දේශපාලනය කිරීමේ ඉඩ කඩ ලබා දිය යුතුයි. කුමාර් ගුණරත්නම් ගේ දේශපාලන අයිතිය හා ප්‍රරවැසිභාවය ලබා දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල්</author>
+            <date>2016-11-15 02:34:23</date>
+            <index>2</index>
+            <phrase>කුමාර් ගුණරත්නම්, මර්වින් වගේ අය එක්ක ලංකාවේ ගොඩක් අය ඊර්ෂ්‍යායි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

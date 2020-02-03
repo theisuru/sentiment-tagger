@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>269324</articleId>
+    <title>ග්‍රේරුගේ  තිරු ලිපි  ෆේස් බුක් යයි</title>
+    <author></author>
+    <date>2014 ඔක්තෝබර් මස 15 15:08:28</date>
+    <body>අධ්‍යාපන නියෝජ්‍ය අමාත්‍ය මොහාන් ලාල් ග්‍රේරු මහතා වසර හතක් පුරා ලංකාදීපයට ලියු “ඉස්කෝල හංදිය” තීරු ලිිපි  www.facebook.com/Iskolahandiya ඔස්සේ ෆේස් බුක් පිටුවට එක් කර ඇත.
+
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සරත් පියසේන</author>
+            <date>2014-12-26 05:51:24</date>
+            <index>0</index>
+            <phrase>උගත් බුද්ධිමත් ලිපි පෙළක් ලංකාදීපට ගොඩක් ස්තුති කරනවා. මොහාන් ලාල් මහත්තයා, රටට ආදර්ශයක් ජයවේවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජනී</author>
+            <date>2014-12-27 09:16:47</date>
+            <index>1</index>
+            <phrase>මුලින්ම අපි ලංකාදීප පත්තරයට ස්තුති කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

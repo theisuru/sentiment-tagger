@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47017</articleId>
+    <title>චීන-ලංකා වෙළෙඳ සබඳතා තවත් තරවේ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 08 10:56:30</date>
+    <body>චීනය තවදුරටත් ශ්‍රී ලංකාව හා වෙළෙඳ සබඳතා ශක්තිමත් කර ගැනීමට ක‍්‍රියාකරන බව ශ්‍රී ලංකා - චීන වෙළෙඳ උපදේශක වැන්ග් යින් කුයි, මහා භාණ්ඩාගාරයේ දි පැවති ශ්‍රී ලංකා - චීන ආර්ථික කමිටු හමුවකදී පැවසීය.
+සාකච්ඡා සභාපති ප‍්‍රභාෂ් හර්ෂකුමාර් මහතාද කරුණු සඳහන් කරමින් කලාපීය බලවතකු වන චීනය සමග වෙළෙඳ ආයෝජන සම්බන්ධතා ඇතිකර ගැනීමේ අවශ්‍යතාවය පෙන්වා දුන්නේය.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-08 13:21:21</date>
+            <index>0</index>
+            <phrase>අපි ඔයාලට වැඩිය දඩ ගහන්නෙ නෑ.....සම්බන්ධකම් තියාගන්න එපැයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-06-08 14:05:08</date>
+            <index>1</index>
+            <phrase>චීන බඩු වැහි වැහැල ලා‍‍බෙට තියේවී‍‍..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-08 15:36:13</date>
+            <index>2</index>
+            <phrase>චීන බඩු ලස්සන උනාට බාල ඒවා.. ඉන්දියාවේ බඩු හොඳයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවිනි</author>
+            <date>2012-06-08 15:42:19</date>
+            <index>3</index>
+            <phrase>අපි සම්බන්ධකම දැක්කා ...චීන කෙල්ලන්ට දඩ රු.10 යි...ලංකාවේ කට්ටියට 5000 සහ හිරේ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවෙයිට්</author>
+            <date>2012-06-09 01:37:41</date>
+            <index>4</index>
+            <phrase>චීන නිශ්පාදන අවතක්සේරු කරන්නම අමාරූයි.මන්ද ගුණාත්මක/කල්පවතින/හොද තත්වයේ ප්‍රමිතින්ට අනුව කරන බොහෝමයක් ඔවුන් විසින් නිශ්පාදන කරනවා.‍ආනයනය කරන අපි දැන ගතයුතුයි ගුනාත්මක දේචල් ආනයනය කරන්න.ලාබ චූ පලියට ගෙන්වන්නේ නැතිච.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවෙයිට්</author>
+            <date>2012-06-09 02:17:34</date>
+            <index>5</index>
+            <phrase>චීන නිශ්පාදන අවතක්සේරුකරන්නම අමාරූයි.මන්ද ගුණාත්මක/කල්පවතින/හොද තත්වයේ ප්‍රමිතින්ට අනුව කරන බොහෝමයක් ඔවුන් විසින් නිශ්පාදන කරනවා.‍ආනයන කරන අපි දැනගතයුතුයි ගුණාත්මක දේචල් ආනයන කරන්න.ලාබ චූ පලියට ගෙන්වන්නේ නැතිච.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසී</author>
+            <date>2012-06-10 13:51:47</date>
+            <index>6</index>
+            <phrase>ඔවු චීනේ එන්න එන්න තර වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

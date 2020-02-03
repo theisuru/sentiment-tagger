@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475030</articleId>
+    <title>“යටත් වෙන්න බැරිනම් මැරෙන්න“</title>
+    <author>නිලුක සඳුන් බණ්ඩාරනායක</author>
+    <date>2016 නොවැම්බර් මස 01 13:20:18</date>
+    <body>මෝසුල් නගරයේ සිටින සියලුම අයි එස් ත්‍රස්තවාදීන් ට යටත් වෙන ලෙස ඉරාක අගමැති හයිඩර් අල්-අබාධි අනතුරු අඟවයි.
+“ඔවුන්ට වෙන විකල්පයක් නැහැ.තියෙන්නේ විකල්ප දෙකයි.යටත් වෙන්න නැත්නම් මැරෙන්න“යැයි මාධ්‍ය හමුවකදී ඔහු කීය. මේ අවස්ථාවට ඔහු හමුදා ඇ﻿ඳුමින් පැමිණ සිටියේය. ඔහු එරට හමුදාවේ අණ දෙන නිලධාරියා ලෙසද කටයුතු කරයි.
+ඉරාක රජයේ හමුදා මොසුල් හී ත්‍රස්ත කඳවුරට කිලෝමීටරයක් පමණ දුරින් ප්‍රහාර එල්ල කිරීමට සුදානමින් සිටින බවත් නගරයට නැගෙනහිර දෙසින් සහ දකුණු දෙසින් හමුදා ඇතුළු වීමට නියමිත බවත් හමුදාව කියයි.</body>
+    <comments>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-11-01 11:07:52</date>
+            <index>0</index>
+            <phrase>අන්න නියම කෙළින් වැඩකරන මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2016-11-02 03:10:29</date>
+            <index>1</index>
+            <phrase>අපේ ජනාදිපති තුමා වගේ කෙලින් වැඩ කරන එඩිතර කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2016-11-02 06:28:59</date>
+            <index>2</index>
+            <phrase>අපේ රටේ කෙළින්ද වැඩ කෙරෙන්නේ සිරිල්? මොකට කියනවද එ් ගැන නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සල්ගාදු</author>
+            <date>2016-11-02 17:40:24</date>
+            <index>3</index>
+            <phrase>මට අපේ රටේ යුද්ධය නිමාකළ ආකාරය මතක්වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපි</author>
+            <date>2016-11-03 06:22:36</date>
+            <index>4</index>
+            <phrase>ජය වේවා .....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>453320</articleId>
+    <title>600 ක් කොල්ලෑ පීසී ඩබල හිරේ : පන්දහසක දඩත් කාලා</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2016 සැප්තැම්බර් මස 01 17:24:11</date>
+    <body>ඉන්ධන අලවිකරන්නේකුගෙන් රුපියල්  600 ක් බලයෙන් ලබාගත් පොලිස් කොස්තාපල්වරුන් වන  ජගත් සුමුදු  හා පුෂ්පකුමාරට අනුරාධපුර මහාධිකරණ විනිසුරු ධම්මික ගනේපොළ මහතා  අද (1) වසර තුනක සිරදඩුවම් ද රුපියල් පහන්දහස බැගින් දඩ  ද  නියම කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-09-01 12:39:04</date>
+            <index>0</index>
+            <phrase>මදැයි කරගත් දේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-01 14:26:24</date>
+            <index>1</index>
+            <phrase>මට පකිස්ථානේ කරච්චි මතක් වුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමනායක</author>
+            <date>2016-09-01 15:08:02</date>
+            <index>2</index>
+            <phrase>දුන්න දඬුවම හොඳටම මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-09-01 23:34:09</date>
+            <index>3</index>
+            <phrase>කෝටි ගණන් ගහපු අය එළියේ. රු. 600 ට වසර 3ක් හිරේ. රු.600 වුණත් වැඩේ නම් වැරදියි. එ්ත් මොකක්ද මේ ලංකාවේ නීතිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2016-09-02 03:25:25</date>
+            <index>4</index>
+            <phrase>කෝටි ගාණක් ගැහුවා කියන අයට ඒ සල්ලි වියදම් කරලා දක්ෂ නීතිඥයින් අල්ලන්නත් පුළුවන්නේ. ඉතින් එළියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2016-09-02 05:24:49</date>
+            <index>5</index>
+            <phrase>නන්දන මහත්තයෝ, කියක් ගැහැව්වත් ගැහිල්ලක් තමා, මේ ගැහිල්ල නැති කරන්නම නම්, ප්‍රමාණය බලන්නේ නැතුව දඬුවම් දෙන්න ඕන, දන්න්න්වද, ඕක සමාජ පිළිකාවක්, ඔබ දන්නවා නම් ලොකු ගැහිලි කාරයෝ ගැන තොරතුරු ලබා දෙන්න ඒ ආයතන වලට, එක සමාජ සේවාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

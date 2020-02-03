@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14838</articleId>
+    <title>කටුගේ අ‘පුරට ඕනෑලු</title>
+    <author>රඹෑව මනුල වික‍්‍රම</author>
+    <date>2011 නොවැම්බර් මස 28 09:58:27</date>
+    <body>කොළඹ ජාතික කෞතුකාගාරය අනුරාධපුරයට ගෙන යන්නැයි අනුරාධපුර මහා නගර සභාව ඒකමතිකව යෝජනාවක් සම්මත කෙළේය. ශ්‍රී ලංකාවේ අගනුවර අනුරාධපුරයට ගෙන යන්නැයි කියැවෙන යෝජනාවක් දයා වලගම්බාහු මන්ත්‍රී ජේ.ආර්. ජයවර්ධන ජනපති සමයේ පාර්ලිමේන්තුවට පෞද්ගලික මන්ත්‍රී යෝජනාවක් ඉදිරිපත් කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>රංග</author>
+            <date>2011-11-28 10:30:47</date>
+            <index>0</index>
+            <phrase>කටුගෙය අනුරාධපුරයට ගෙයාම පුරාවස්තුවලට ඇති ආරක්ෂාවට තර්ජනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2011-11-28 11:49:22</date>
+            <index>1</index>
+            <phrase>මියුසියම් එක තියන ඉඩමත් ගොඩක් වටිනවා නේද? කාගේ උවමනාවටද දන්නෙ නෑ මේක වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2011-11-28 13:16:24</date>
+            <index>2</index>
+            <phrase>ඒක නම් හොද අදහසක්. කටුගෙදර අරන් යන එක නම් හොදයි. නමුත් අගනගරය කරන එක ගැන නම් තව හිතන්න වෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනිල්</author>
+            <date>2011-11-28 15:18:51</date>
+            <index>3</index>
+            <phrase>තව මොනවද දන්නෙ නෑ ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sltk2004</author>
+            <date>2011-11-28 17:02:23</date>
+            <index>4</index>
+            <phrase>වරායත් අනුරාධපුරයට ගෙනියමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීජේකේ විජේකෝන්</author>
+            <date>2011-11-28 18:01:41</date>
+            <index>5</index>
+            <phrase>පාර්ලිමේන්තුවෙ රණ්ඩුවෙන අයවත් යවන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2011-11-28 23:43:34</date>
+            <index>6</index>
+            <phrase>නරකද හම්බන්තොටට ගෙනිච්චොත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී රත්නායක</author>
+            <date>2011-11-28 23:47:45</date>
+            <index>7</index>
+            <phrase>වෙන වැඩ නැතිවට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මන්</author>
+            <date>2011-11-29 01:13:09</date>
+            <index>8</index>
+            <phrase>තව මොනවද ඕනෑ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධපුර</author>
+            <date>2011-11-29 01:41:44</date>
+            <index>9</index>
+            <phrase>කොළඹ කටුගෙදර තියෙන්නේ වැඩිපුරම අනුරාධපුරයෙන් ගෙනියපු දේවල් තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝධයා</author>
+            <date>2011-11-29 09:32:32</date>
+            <index>10</index>
+            <phrase>කොහේ නවතීද දන්නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2011-11-29 09:35:05</date>
+            <index>11</index>
+            <phrase>මොන කටුගෙවල්ද එහාට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල සංජය</author>
+            <date>2011-11-29 11:57:00</date>
+            <index>12</index>
+            <phrase>ආසනික්වලද ප්‍රතිඵලද කොහෙද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

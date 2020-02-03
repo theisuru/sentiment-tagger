@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>13888</articleId>
+    <title>ඔරංඋටන්ට පිරිත් නූල් බඳී</title>
+    <author>දෙහිවල එච්එම් ධර්මපාල</author>
+    <date>2011 නොවැම්බර් මස 20 17:44:12</date>
+    <body>දෙහිවල සතුන් වත්තේ තිස් හය හැවිරිදි ”බුලූ” නම් ඔර උටං අසනීප වි සිටියි. එහි ගිය අහංගම ආනන්ද හිමියෝ සෙත් පිරිත් කියා එම සතාට පිරිත් නූලක් බැන්දාහ. සතුන් වත්තේ අධ්‍යක්ෂ භාෂ්වර සේනාංක ගුණරත්න හා පශු වෛධ්‍ය ජගත් ජයසේකර මහත්වරුද බුලූගේ රෝගී තත්ත්වය ගැන නිරතුරුව සෙවිල්ලේ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2011-11-20 21:09:20</date>
+            <index>0</index>
+            <phrase>ඔබ මාව නොහදුනන මුත් මා ඔබ හොදින් හදුනමි මන්ද මා සත්වෞද්යානය නෑරබීමට පෑමිනි හැම අවස්තාවකම ඔබදෙස පෑය ගනන් ආසවෙන් බලා සිටි නිසාය....... ඔබට ඉක්මන් සුවය පතමි.....................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධ්ක</author>
+            <date>2011-11-21 02:07:02</date>
+            <index>1</index>
+            <phrase>පශු වෛද්‍ය මහත්වරු නිවාඩු ගිහින් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරාජ්</author>
+            <date>2011-11-21 02:28:39</date>
+            <index>2</index>
+            <phrase>උපන්දිනේටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2011-11-21 08:09:54</date>
+            <index>3</index>
+            <phrase>පවු අහිංසකයා... මිනිසුන්ට වඩා උන්ගේ ගුණ යහපත් කම් තියෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසාංග</author>
+            <date>2011-11-21 08:55:30</date>
+            <index>4</index>
+            <phrase>කැලේ සතුන්ට කැලේ ඉන්න දෙන්න පිං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2011-11-21 18:07:20</date>
+            <index>5</index>
+            <phrase>අනේ පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Chinthaka</author>
+            <date>2011-11-22 15:02:10</date>
+            <index>6</index>
+            <phrase>මෝඩ චූන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2011-11-22 15:53:34</date>
+            <index>7</index>
+            <phrase>බූලු සහ මනුෂ්‍ය ජීන්ස් අතර 80% ත් වඩා සම්බන්ධයක් තිබේ. පශු වෛධ්‍යවරු එය හොඳින් දනී. අපට පිරිත් නූලකින් සුවයක් ලැබේනම් බූලුටද එසේම සුවයක් ලැබෙන්නට පුලුවන්ය. බූලුට ඉක්මණින් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂණ</author>
+            <date>2011-11-22 18:04:19</date>
+            <index>8</index>
+            <phrase>අනේ බව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

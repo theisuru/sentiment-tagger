@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24005</articleId>
+    <title>සිවිල් ආරක්ෂක බළකාය වගා යුද්දෙනුත් දිනයි</title>
+    <author>කුමාර සී ලියනආරච්චි</author>
+    <date>2012 ජනවාරි මස 28 12:40:56</date>
+    <body>යුද්ධයෙන් පසු පුළුල් ලෙස වගාව ඇරැඹූ සිවිල් ආරක්ෂක බළකාය මහඔය බෝගමුයාය ඇතුළු ගෙවිපොළවල 27ක අක්කර 980 පුරා වී හා බඩ ඉරිඟු සාර්ථක ලෙස වගා කෙළේය.
+එහි අධ්‍යක්ෂ රියද් අද්මිරාල් ආනන්ද පීරිස් අද සුභ මොහොතින්  බඩ ඉරිඟු අස්වැන්න නෙළිම ආරම්භ කෙළේය. ඉන්පසු සිවිල් ආරක්ෂක බළකායේ සෙබළු බඩ ඉරිඟු නෙළුහ.
+ </body>
+    <comments>
+        <comment>
+            <author>basti</author>
+            <date>2012-01-28 14:30:44</date>
+            <index>0</index>
+            <phrase>ආරක්ෂක සෙබළු වගා කරන ලෝකෙ එකම රට ලන්කාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Madhawa</author>
+            <date>2012-01-28 15:56:41</date>
+            <index>1</index>
+            <phrase>මේක ඉතා විශිෂ්ඨයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nishantha</author>
+            <date>2012-01-28 17:54:30</date>
+            <index>2</index>
+            <phrase>හොඳ වැඩක් අගේ කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ishara</author>
+            <date>2012-01-28 19:22:05</date>
+            <index>3</index>
+            <phrase>ජයවේවා ශ්‍රී ලංකා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>rihan</author>
+            <date>2012-01-28 20:08:32</date>
+            <index>4</index>
+            <phrase>හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>prasad</author>
+            <date>2012-01-28 20:09:25</date>
+            <index>5</index>
+            <phrase>විශිෂ්ඨයි අගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sara</author>
+            <date>2012-01-28 20:22:28</date>
+            <index>6</index>
+            <phrase>අපිට මොනාද බැරි. සුභ පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2012-01-28 20:42:53</date>
+            <index>7</index>
+            <phrase>අති විශිෂ්ටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නතාලි</author>
+            <date>2012-01-28 23:31:54</date>
+            <index>8</index>
+            <phrase>යුද්දෙන් රට බේරුවා වගේ, බඩගින්නෙනුත් රට බේරගනින් පුතේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාග්‍ය</author>
+            <date>2012-01-29 01:02:54</date>
+            <index>9</index>
+            <phrase>රණවිරුවනි...රට වෙනුවෙන් ඔබ හෙලූ ලේ දහදිය මුතු කැට මෙන් වටින්නේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-01-29 06:49:23</date>
+            <index>10</index>
+            <phrase>ඉතා විශිෂ්ඨයි .. සුභ පතමි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද රාජපක්ෂ</author>
+            <date>2012-01-30 09:56:08</date>
+            <index>11</index>
+            <phrase>අපේ ආමි කොල්ලො ගැන පුදුම ආඩම්බරයක් දැනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිතාන් මලර්</author>
+            <date>2012-01-30 16:03:31</date>
+            <index>12</index>
+            <phrase>බඩ ඉරිගු ටිකක් පැහිලා වගේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

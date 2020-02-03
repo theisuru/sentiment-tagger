@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>114426</articleId>
+    <title>සිරියා අගමැති නූලෙන් බේරෙයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2013 අපේ‍්‍රල් මස 29 14:25:13</date>
+    <body>සිරියාවේ බටහිර මැසේ දිස්ත්‍රික්කයේදී සිරියා අගමැති වයෙල් අල් හලාකි මරාගෙන මැරෙන කාර් බෝම්බයකින් ඝාතනය කිරීමට ගත් තැත අසාර්ථක විය.
+හලාකිගේ ආරක්ෂකයන් මිය ගිය නමුත් හලාකි පණ බේරා ගත්තේය.
+රජයේ පාලන ප්‍රදේශයකදී මේ බෝම්බ ප්‍රහාරය සිදු විය.
+මිය ගිය ගණන කෙතෙක් දැයි රාජ්‍ය රූපවාහිනිය නොකියයි.</body>
+    <comments>
+        <comment>
+            <author>මධූ</author>
+            <date>2013-04-29 15:21:51</date>
+            <index>0</index>
+            <phrase>අපරාදේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්</author>
+            <date>2013-04-29 18:58:00</date>
+            <index>1</index>
+            <phrase>අපරාදේ නැත්නම් මදූට ඔය අගමැතිගේ මස්ටිකක් කන්ඩ තිබුනනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2013-04-29 20:45:17</date>
+            <index>2</index>
+            <phrase>තව ටික දවසකින් සිරියාවක් හොයන්නත් බැරි වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-04-30 00:09:36</date>
+            <index>3</index>
+            <phrase>නිසාර්, මදු කරපු දෙයක් නොවෙයි . ඔයාලාගේ ම අය තමා කන්නත් ඕනි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2013-04-30 00:10:26</date>
+            <index>4</index>
+            <phrase>මදු හරි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2013-04-30 00:13:54</date>
+            <index>5</index>
+            <phrase>ඇත්තටම ලොකු අපරාදයක් බේරුණු එක. මදු මම එකගයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2013-04-30 08:20:50</date>
+            <index>6</index>
+            <phrase>ඒකාධිපති පාලනයක් නේද තියෙන්නේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැතුම් මිහිරංග</author>
+            <date>2013-04-30 14:07:06</date>
+            <index>7</index>
+            <phrase>දිවි බේරාගැනීමට ලැබීම ගැන සතුටුයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමත්</author>
+            <date>2013-04-30 21:17:03</date>
+            <index>8</index>
+            <phrase>අපරාදේ කාර් එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

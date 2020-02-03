@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61525</articleId>
+    <title>පැසිෆික් සාගරයේ භූමිකම්පාවක්</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  වොෂින්ටන් නුවරදීය</author>
+    <date>2012 අගෝස්තු මස 29 10:13:42</date>
+    <body>එල් සැල්වදෝරයට ඔබ්බෙන් පැසිෆික් සාගර පතුළේ පෙරේදා (27) රික්ටර් මාපකයේ ප‍්‍රබලත්වය ඒකක 7.4 ක් සටහන් කළ භූමි කම්පාවක් හට ගැණින.
+භූමි කම්පාව හට ගත්තේ කිලෝ මීටර් 111 ක් ගැඹුරු සාගර පතුළේ යැයි ද වාර්තා වේ. කෙසේ නමුත් භූමි කම්පාවෙන් පසු සුනාමි අනතුරු ඇඟවීමක් නිකුත් නොකෙරුණි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-29 10:50:30</date>
+            <index>0</index>
+            <phrase>2012 ලෝක විනාසයේ පෙරනිමිති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-08-29 13:10:55</date>
+            <index>1</index>
+            <phrase>අනේ මම දන්න විදියට නම් මුහුදේ ගැඹුරුම තැන මරියානා ආගාධයයි.එහි ගැඹුරත් කිලෝ මීටර 11.88 යි....ඒත් කිලෝ මීටර 111 ?????? හරිද ?? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙනත් ඇමෙරිකාවේ සිට</author>
+            <date>2012-08-29 23:43:39</date>
+            <index>2</index>
+            <phrase>ගොඩනැගිල්ලක වුණත් සැලසුමේ යම් නිශ්චිත ස්ථාන වලින් ගොඩනැගිල්ල කොටස් වලට වෙන්කරනවා, බලපෑම් හා හානි අවම වීමට. ගොඩනැගිලි සැකිල්ල ලීයෙන් හෝ යකඩින් නිම කළයුතුයි. එවිට දෝලනයට ඔරොත්තු දෙනවා. සමහර විශාල ගොඩනැගිලි වල පාදම පොලොව සමග ලිස්සා දෝලනය වන්නට සැළසුම් කරනවා. මේ ක්‍රමවේදයන් නිසා ඒවා ඉතා විද්‍යානුකූලව කරන නිසා වෙනත් රටක ඇතිවෙන රික්ටර් 5.0 ක කම්පනයකින් මිනිසුන් සිය දහස් ගණන් මැරෙනකොට ඇමෙරිකාවේ එය ඉතා සුළු හානියකින් වළක්වා ගන්න හැකි වෙලා තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-29 23:59:33</date>
+            <index>3</index>
+            <phrase>සාගර පතුළේ නෙමෙයි, කිලෝ මීටර් 111ක් පොළොව යට. දැන් හරිද සජී?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-08-30 10:23:28</date>
+            <index>4</index>
+            <phrase>ලංකා නිවැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රපාල</author>
+            <date>2012-09-01 12:46:20</date>
+            <index>5</index>
+            <phrase>අපි කවුරුත් පරිස්සමෙන් ජීවත් වෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රපාල</author>
+            <date>2012-09-01 12:53:18</date>
+            <index>6</index>
+            <phrase>2012 ඉවර වෙන්නනේ යන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

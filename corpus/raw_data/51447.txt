@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51447</articleId>
+    <title>අකුරැස්ස ප්‍රා.සභාපති අත්අඩංගුවට ගනී</title>
+    <author>ජනත් ද සිල්වා  ක්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජූලි මස 04 04:23:10</date>
+    <body>බාල වහස්කාර දැරියක කෙළෙසීයැයි කියන අකුරැස්ස ප්‍රාදේශීය සභාවේ සභාපති එස් එල් සුනිල් මින් මද වේලාවකට කලින් මාතර පොලීසියේ ළමා හා කාන්තා කාර්යංශය විසින් සැකපිට අත්අඩංගුවට ගනු ලැබීය.
+දැරියගේ ප්‍රකාශයක් අනුව ඔහු අත්අඩංගුවට ගත් බව පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-07-04 04:34:41</date>
+            <index>0</index>
+            <phrase>මේ වගේ අල්ල ගත්ත කිසිකෙනෙක් වරදට හරියන දඬුවමක් ලබල නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමා</author>
+            <date>2012-07-04 05:12:52</date>
+            <index>1</index>
+            <phrase>දැන්නම් අවසානයට කිට්ටුයි වගේ.එන්න එන්නම විනය පිරිහෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2012-07-04 05:39:36</date>
+            <index>2</index>
+            <phrase>ජනාධිපතිතුමනි, ආණ්ඩුව විනාශ කරන්නේ මෙවැනි පුද්ගලයින් විසින් තමයි. එම නිසා දැන්වත් විනය සම්බන්ධයෙන් දැඩි ක්‍රියාමාර්ගයක් ගන්න ඕනි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>V. D.</author>
+            <date>2012-07-04 05:46:29</date>
+            <index>3</index>
+            <phrase>රජ කල දන්ඩන තමයි ඔවුන්ට නියම.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-07-04 06:31:21</date>
+            <index>4</index>
+            <phrase>උපරිම දඩුවම් දෙන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-07-04 06:41:02</date>
+            <index>5</index>
+            <phrase>වෙඩි තියලා දාන්නයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-04 07:00:34</date>
+            <index>6</index>
+            <phrase>පාදඩ මනාප දේශපාලනයට ශාප වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2012-07-04 07:13:18</date>
+            <index>7</index>
+            <phrase>මෙයාලට නිසි දඩුවම් නොදෙන තාක්කල් මේවා නතර වෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2012-07-04 06:46:33</date>
+            <index>8</index>
+            <phrase>එල්ලලා මරන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දරුවෝ</author>
+            <date>2012-07-04 07:38:39</date>
+            <index>9</index>
+            <phrase>අනේ ඔහොම අන්කල්ලට සැර දඩුවමක් දුන්නොත් අනික් අන්කල්ලා අපිට ඔහොම කරන එක නවතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-07-04 07:42:28</date>
+            <index>10</index>
+            <phrase>මෙයාව ජීවිතාන්තය දක්වා හිරේ දාන්න පුලුවන් අනික් අපරාධ ටිකත් ඇල්ලුවොත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-04 07:16:48</date>
+            <index>11</index>
+            <phrase>භය වෙන්න දෙයක් නෑනේ. ආණ්ඩු පක්ෂේ කෙනෙක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-04 08:00:44</date>
+            <index>12</index>
+            <phrase>ඇයි එල්ලුම් ගහ ක්‍රියාත්මතක නොකරන්නේ? අපි කවුරුත් මානුෂිකයි කිය කියා මොකටද මේ වගේ මිනිස්සු තවත් පණ පිටින් තියා ගෙන ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොම්පේ මල්ලි</author>
+            <date>2012-07-04 07:32:15</date>
+            <index>13</index>
+            <phrase>මීළග ඡන්දෙදි අපේ කට්ටිය මෙයාව ආයෙත් සභාපති කරනවා.මොනවද ඔට්ටු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2012-07-04 08:17:08</date>
+            <index>14</index>
+            <phrase>දිය යුත්තේ එකම එක දඩුවමයි. එය තමයි ඔහුගේ ලිංගේන්ද්‍රිය කපා දැමීම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2012-07-04 07:57:38</date>
+            <index>15</index>
+            <phrase>ප්‍රාදේශීය සභාවට පස්සේ අපි මේ අයට යවන්නේ පාර්ලිමේන්තුවට.එදාට රටේ අනාගතය ගැන දැන්ම ඉදලම හිතා ගන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-07-04 08:50:39</date>
+            <index>16</index>
+            <phrase>පොලිසියේ අය දන්නවනේ දඩුවම.ලාච්චුවේ දැම්මනම් තමයි හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-07-04 08:12:12</date>
+            <index>17</index>
+            <phrase>උසාවිය හමුවේ දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-07-04 08:52:55</date>
+            <index>18</index>
+            <phrase>ලිංගේන්ද්‍රිය කපන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-07-04 08:54:19</date>
+            <index>19</index>
+            <phrase>දිය යුතු දඩුවම දියේ ගිල්වා මැරීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ප්‍රියන්ත</author>
+            <date>2012-07-04 08:56:59</date>
+            <index>20</index>
+            <phrase>ජනපති තුමනි මේවා පෙනෙන්නේ නැද්ද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොවුනා</author>
+            <date>2012-07-04 09:03:43</date>
+            <index>21</index>
+            <phrase>කවදා හරි ඇමති කෙනෙකුගේ ළමෙක්ව දූෂණය කරපු දාට අලුත් නීතිය එයි. එහෙම නේද ජනතාවනි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2012-07-04 08:41:01</date>
+            <index>22</index>
+            <phrase>ප්‍රාදේශීය සභාවලට පුද්ගලයින් ඇතුළත් කර ගැනීමේදී මීට වඩා සැළකිළිමත් විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොනා</author>
+            <date>2012-07-04 08:42:46</date>
+            <index>23</index>
+            <phrase>අපිටත් අනිත් රටවල් වගේ පාරට බහින දවස ලගයි වගේ. මේ දේශපාලනේ හරියන්නැනැනැනැනැනැනැනැනැනැනැනැනැනැනැනැනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්කල්</author>
+            <date>2012-07-04 09:25:28</date>
+            <index>24</index>
+            <phrase>අන්තිමට ඇපයක් දීලා එළියට දාවි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.ජී.</author>
+            <date>2012-07-04 08:48:29</date>
+            <index>25</index>
+            <phrase>අපිටත් ළගදිම පාරට බහින්න වෙනවා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තත්සර</author>
+            <date>2012-07-04 09:27:38</date>
+            <index>26</index>
+            <phrase>ඕවා කියලා වැඩක් නෑ මෙයා පාලකයෙක්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බකමූණා</author>
+            <date>2012-07-04 09:28:59</date>
+            <index>27</index>
+            <phrase>කියන්න වචන නෑ....රටේ පාලකයෝ නේ මේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-07-04 09:31:33</date>
+            <index>28</index>
+            <phrase>හැබැයි දැන්නම් නීතියට පොඩ්ඩක් විතර පණ ඇවිත් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-04 08:57:57</date>
+            <index>29</index>
+            <phrase>අපේ අරයත් ඔයවගේ හාදයෙක් තමයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-07-04 09:43:52</date>
+            <index>30</index>
+            <phrase>මේ වගේ අපරාධ කරුවන් වැසිකිලි හෝදන්න දාන්න ඕනි...අවයවය කපා දැම්මනම් හරි. කවුද මෙයාලට ඡන්දේ දුන්නේ ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-07-04 09:10:48</date>
+            <index>31</index>
+            <phrase>ආශ්චර්ය කරා යන ගමනේ යහපත් මන්සලකුනුයි මේ පෙනෙන්නේ .සුභම සුභ අනාගතයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2012-07-04 09:14:25</date>
+            <index>32</index>
+            <phrase>කොක්කෙක්ගේ දැරියකට මේවගේ දෙයක් සිදු උනොත් තමයි පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝහමෙඩ් රිස්වාන් සෞදි අරාබිය</author>
+            <date>2012-07-04 10:00:06</date>
+            <index>33</index>
+            <phrase>ඔක්කොම වෙන්නේ දකුණේ . තංගල්ල ප්‍ර. සභා සභාපතිට දුන් දඬුවම මෙයටත් හම්බවේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දකුණ අරහං</author>
+            <date>2012-07-04 10:10:30</date>
+            <index>34</index>
+            <phrase>දකුණු පැත්ත බලාගෙන බත් කන්නවත් එපා කියන්නේ ඕකනේ !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහරජ</author>
+            <date>2012-07-04 09:35:17</date>
+            <index>35</index>
+            <phrase>හා හා කට පරිස්සමින් මේ මගේ කෙනෙක් ...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැන්ඩි බෝයි</author>
+            <date>2012-07-04 09:35:30</date>
+            <index>36</index>
+            <phrase>දකුණෙ ඔක්කොම එකයි වාගෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආසිරි</author>
+            <date>2012-07-04 10:14:45</date>
+            <index>37</index>
+            <phrase>ආයේ මේ වගේ දේ කරන්න බැරා වෙන්න අදාල අවයව කපාදමන එක තමයි තියම දඩුවම....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-07-04 09:38:08</date>
+            <index>38</index>
+            <phrase>එකෙක් දෙන්නෙක් පිස්සෝ හිටියට ආන්ඩුව මක් කරන්න්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනු</author>
+            <date>2012-07-04 09:52:30</date>
+            <index>39</index>
+            <phrase>මේ රටෙ නිතිය පිළිබද මට නම් කිසිම විශ්වසයක් නැහැ. මේ රට පාළනය කරන ගොඩක් අය තනිකරම දුෂිත අය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෞෂාඩ්</author>
+            <date>2012-07-04 09:54:15</date>
+            <index>40</index>
+            <phrase>අවරුදු 10 කට දාන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-07-04 09:54:59</date>
+            <index>41</index>
+            <phrase>ජනාධිපති තුමනි ඔබතුමාගේ ආණ්ඩුවේ අවසාන කාලය ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-07-04 10:02:35</date>
+            <index>42</index>
+            <phrase>මෙයාට දෙන දඩුවම ගැන තමයි මුළු රටම බලන් ඉන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-07-04 10:41:27</date>
+            <index>43</index>
+            <phrase>මෙයාට දෙන දඩුවම ගැන මුළු රටම බලාගෙන ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිනා</author>
+            <date>2012-07-04 10:43:55</date>
+            <index>44</index>
+            <phrase>මේ අදහස් දක්වන අය දන්නේ නැත්ද දේශපාලනේ කරන්න තියන සුදුසුකම් මොනවද කියල . මේකත් එකෙන් එකක් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේශපාලුව</author>
+            <date>2012-07-04 10:12:49</date>
+            <index>45</index>
+            <phrase>මම මේ පාර්ලිමේන්තුවට එන්න සුදුසුකම් හදාගන්නවා . කෑනොගහ හිටපල්ලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලනී</author>
+            <date>2012-07-04 10:14:58</date>
+            <index>46</index>
+            <phrase>පසුගිය දවස්වල පිරිමි කීපදෙනෙකුට දඬුවම් දුන් හක්මන ගෑනුකෙනා මතකද, අන්න එයාට කියවලා මෙයාටත් ඒ දඬුවමම දෙවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.එස්</author>
+            <date>2012-07-04 10:55:13</date>
+            <index>47</index>
+            <phrase>මෙන්න ළඟ එන පළාත්සභා චන්දෙට නියම මිනිහෙක්. ඉක්මනට ලොක්කව හම්බවෙන්න. ඕකත් යට ගහල දෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sandaruwan</author>
+            <date>2012-07-04 10:56:08</date>
+            <index>48</index>
+            <phrase>මෙයා දැන් ටික කාලෙකට කලින් කෙල්ලෝ 1000 ක් එක්ක හිටිය කියල පාටි එකක් දීල තිබුන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා ඉරන්ගනී</author>
+            <date>2012-07-04 10:57:34</date>
+            <index>49</index>
+            <phrase>දදුවම සමග එම දැරියට විසාල වන්දියක් ලබා දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-04 10:59:25</date>
+            <index>50</index>
+            <phrase>අකුරෙස්සේ මිනිස්සුන්ගෙන් ඇහුවනම් කියයි මෙයාගේ විස්තරේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2012-07-04 10:20:59</date>
+            <index>51</index>
+            <phrase>මේවට කියන්න වචන නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-04 10:31:48</date>
+            <index>52</index>
+            <phrase>මේකේ ඔක්කොම එක වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2012-07-04 10:46:55</date>
+            <index>53</index>
+            <phrase>සෞදි නීතිය තියේනම් මේ වගේ දේවල් වෙන්නේ හරි අඩුවෙන්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-07-04 10:47:20</date>
+            <index>54</index>
+            <phrase>මේ වගේ අයගේ අදාල අවයව සැත්කමක් මගින් ඉවත්කල යුතුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සබාපති</author>
+            <date>2012-07-04 11:26:14</date>
+            <index>55</index>
+            <phrase>ඔයාල මොනවා කිවුවත් වැඩක් නැහැ, මම ඉන්නේ රට කරවන පැත්තේ, මම තාම සැක කාරයෙක් විතරයි, තවටික දවසකින් එලියට ඇවිල්ල, ප්‍රාදේශීය සභාවේ රැස්වීමටත් එනවා.. මොනවද ඔට්ටු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේම්</author>
+            <date>2012-07-04 10:48:01</date>
+            <index>56</index>
+            <phrase>මේ වගේ අපරාධ කරන අය ඇයි එල්ලන්න බැරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය වසන්ත ලියනගේ</author>
+            <date>2012-07-04 10:59:14</date>
+            <index>57</index>
+            <phrase>මම දකුණේ, ගාල්ලේ පුරවැසියෙක්. ඒත් ලංකාවේ බොහෝ පළාත්වල සේවය කර තිබෙනවා. දැනටත් මම ඉන්නේ ‍මධ්‍යම පළාතේ. මෙවැනි වැරදි වැඩ කරන අය දකුණේ පමණක් නොවෙයි ලංකාවේ හැම තැනම ඉන්නවා. උදාහරණ ඕනේ තරම් දෙන්න පුළුවන්. ඒ වගේම දකුණේ ඉන්න හැමෝම වැරදි කරන අය නෙමෙයි. ඉතින් ඇයි මෙතන අදහස් දක්වන අය දකුණේ අයට දොස් නගන්නේ. ජාති, ආගම්, කුල, පන්ති, භූගෝලීය හෝ දේශපාලන බෙදීම්වලින් තොරව නරක දේ නරකයි කියමු. හොඳ දේ හොඳයි කියමු. විවේචනය ඵලදායී වෙන්නේ එතකොටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුන්ච</author>
+            <date>2012-07-04 12:25:20</date>
+            <index>58</index>
+            <phrase>ලංකාවේ ඉන්න මිනිස්සු එක එක්කෙනා ඇවිත් අල්පෙනිත්තෙන් අනින්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුනේ</author>
+            <date>2012-07-04 11:49:58</date>
+            <index>59</index>
+            <phrase>පුරුෂ ලිංගය පුච්චන්න ඕන මදුරු කොයිල් එකෙන් ටික ටික තිරිසන්නු.... </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමා</author>
+            <date>2012-07-04 12:46:13</date>
+            <index>60</index>
+            <phrase>මෙවැනි වැරදි කරුවන්ගේ පුරුෂ ලිංගය පුච්චන්න ඕන .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත්</author>
+            <date>2012-07-04 12:09:55</date>
+            <index>61</index>
+            <phrase>ආචාර්ය වසන්ත ලියනගේ මම ඔබට එක දෙයක් කියන්න කැමතියි . අපිට මේ වගේ දේවල් 10 ක් අහන්න ලැබුනොත් 7 ක්ම දකුණෙන් තමා . මම වැරදිනම් කවුරුහරි නිවැරදි කරන්න . අපි දකුණේ කියල සමහරු මහා උජාරුවෙන් කිව්වට මේ රටට විනාසකරේ දකුණෙන් ආපු හොරුම තමා . අපි බෙන්තර ගඟෙන් එහා කියල කියන්නේ මහා ලොකු කමක් වගේ . මම ඔහොම කියන අයට හැමදාමත් කියන්නේ " කට්ටඩියෝයි තක්කඩියෝයි ඔක්කොම දකුණේ " කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හොඳ පුතා</author>
+            <date>2012-07-04 13:00:57</date>
+            <index>62</index>
+            <phrase>මේවාට වග කියන්න ඕනි මේ වගේ අයට නාම යෝජනා දෙන අයයි. ළාබාල තමන්ගේ දුවක් වැනි ළමයෙකු කෙළෙසන්න තරම් මානසික තත්වයක් තියන කෙනෙක් ප්‍රාදේශීය සභාවක් පාලනය කරන්නේ කොහොමද? අධ්‍යාපන සුදුසුකමක් නැතිඅය දේශපාලනය කරන්න දුන්නම මේවා වෙනවා. යෝජනාවක් වශයෙන් මේක කරන්නම්. පාර්ලිමේන්තු මන්ත්‍රී කෙනෙක් වීමට : අවම වශයෙන් උපාධියක් තිබීම. සහජ දක්ෂතා මත උසස් පෙළ සමත් පළාත් සභාවලට තේරුන අඩුම ගණනේ අවුරුදු 5 වත් අත්දැකීම් ඇති කෙනෙක් වීම. පළාත් සභා/ප්‍රාදේශීය සභා මන්ත්‍රී කෙනෙක් වීමට : උපාදියක් හෝ උසස් පෙළ සමත් වීම අයදුම් පරීක්ෂණයේදී පොලිස්, ග්‍රාමසේවක, විදුහල්පති, ගමේ පන්සලේ හාමුදුරුවන්, ගමේ තැපැල් කාර්යාලයේ තැපැල් මහතා වැනි අයගේ සහතික විශ්ලේෂණය කර බලා සුදුසු අයට නාම යෝජනා දීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-07-04 13:15:34</date>
+            <index>63</index>
+            <phrase>කවුද ඒ පොලීසියේ oic?? හොයන් ගිහින් තෑගි දෙන්න වටිනවා..අන්න නියම පොලිස් නිලධාරීන්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-07-04 12:38:17</date>
+            <index>64</index>
+            <phrase>දෙන්න ඕනේ ආරාබියේ දෙන දඩුවම්‍..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-07-04 12:39:16</date>
+            <index>65</index>
+            <phrase>මේ දවස්වල පොලීසිය දේශපාලුවෝ අල්ලනවා...මොකක්ද දන්නෑ අලුත් ගේම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තත්සර</author>
+            <date>2012-07-04 13:11:24</date>
+            <index>66</index>
+            <phrase>මේ මොනව කිව්වත් වැඩක් නෑ. ලයිසන් තියෙනවානේ.............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2012-07-04 13:22:28</date>
+            <index>67</index>
+            <phrase>මෙහෙම බයක් සැකක් නැතුව මේ වගේ අපරාද කරන්නේ රටේ නිතිය නිසි ලෙස ක්‍රියාත්මක නොවන නිසා බව පැහැදිලි ව පෙනෙනවා නේ හැමකෙනෙකුම වගේ වැරදි කාරයන්ට දඩුවම් දෙන්න කියල ජනතාව මෙහෙම ලියනකොට මේවා බලධාරින් නොබලන්නේ මන්ද ? ජනාධිපති කෙනෙකු අපිට ඉන්නකොට ඇයි දඩුවම් ක්‍රියාත්මක නොකරන්නේ ....ජනාධිපති තුමනි මෙහෙම අපරාද ...කරන අයටවත් මරණිය දණ්ඩනය ක්‍රියාත්මක කරන්න . එකෙන් රටට හොදක් මිස අයහපතක් නොවේ ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසා</author>
+            <date>2012-07-04 14:15:36</date>
+            <index>68</index>
+            <phrase>තව වැරදි තියනවද කියලා හොයලා ඒ ටිකත් අල්ලන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොළඹ කෙල්ල</author>
+            <date>2012-07-04 14:04:11</date>
+            <index>69</index>
+            <phrase>දකුණට කිරි, අපිට කැකිරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර කොල්ලා</author>
+            <date>2012-07-04 14:23:56</date>
+            <index>70</index>
+            <phrase>වරදක් දැක දැකත් ඇස් කං වසා සිටී මැරයන් රජුන් වන සැටි අපි බලා සිටී අවලම් සුනඛයන් හැම තැන උඩු බුරතී ගොලූ වූ සිංහයන් තැන තැන හූල්ලතී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර කොල්ලා</author>
+            <date>2012-07-04 14:24:08</date>
+            <index>71</index>
+            <phrase>දුටු තැන වරද එක පෙළකට පෙළ ගැහෙමු අමරේට වගේම සුනිලයටත් වැඩේ දෙමු කුල මල පාට පක්ෂය පැත්ත දමමු ගේ දොරකොඩට එන්නට පෙර කැති ගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මම</author>
+            <date>2012-07-04 14:29:18</date>
+            <index>72</index>
+            <phrase>දෙන්න ඕනි අරාබියෙ දෙන දඩුවම්. ප්‍රසිද්ධියෙ ලිංගේන්ද්‍රිය ඉවත් කරන්න ඕනි. ඔච්චර ඕනි නම් අර හැමතැනම කට්ටිය ඉන්නෙ, පොඩි අහිංසක ළමයි අල්ල ගන්නෙ නැතුව. මොවුන්ට ගල්ගහල මරන්න ඕනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමකුමාර</author>
+            <date>2012-07-04 16:35:02</date>
+            <index>73</index>
+            <phrase>මේකට නියම බෙහෙත තමයි අර පොලිසියෙන් ඉස්සර දුන්න ලාච්චු කෝස් එක. දුන්නනම් ඔය අසනීප ඔක්කොම් එක දවසෙන් හොඳ වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දාස</author>
+            <date>2012-07-04 16:42:02</date>
+            <index>74</index>
+            <phrase>ඔය වගේ කෙලින් වැඩ කරන පොලිස් නිලදාරීන් තමයි මේ රටට ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජ්ජා</author>
+            <date>2012-07-04 17:22:31</date>
+            <index>75</index>
+            <phrase>මම වයඹ පුරවැසියෙක්මි. දකුණේ පමණක් නොව, වයඹ සහ උතුරුමැද, මෙවැනි සිදුවීම් අනන්තවත් දිනපතා අසන්නට දකින්නට ලැබේ. පොලිසියට යන්නෙ ඉතාමත් අඩු ප්‍රතිශතයකි. අවුරුදු 14ක 15ක ගෑණු ළමයෙක් සමග සහවාසයේ යෙදීම බොහෝ දෙනෙකුට සාමාන්‍ය දෙයක් වන හෙයිනි. පුවත්පත් දිහා බැලුවොත්, අපිට වැඩිපුරම අපරාධ හා සිද්ධීන් වාර්තා වන්නෙත් ඔය දෙපළාතෙන් බව මොනවට පැහැදිලි වේ. කෙසේ වුවත්, දේශපාලනඥයන්ට එරෙහිව, ඔවුන්ටම විශේෂිත වූ දැඩි නීති රීති ගෙනා යුතුයි. මක් නිසාද යත්, පළමුව ඔවුන් වරදක් කරයි; දෙවනුව, ඔවුන් කෙරෙහි විශ්වාසය තබා ඔවුන්ව මහජන නියෝජිතයින් ලෙස තෝරා යවන ජනතාවට නිග්‍රහ කරන හෙයිනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-04 22:28:51</date>
+            <index>76</index>
+            <phrase>සීෂෙල් අයිලන්ඩ් වල වගේ සියයට අනූවක ලුනු රෙදි පාන්කඩයක් අදාල අවයවයේ ඔතා විනාඩි තිහක් තබන්න ඔනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2012-07-05 12:32:40</date>
+            <index>77</index>
+            <phrase>ශ්‍රී ලංකාවේ මිනිස්සුන්ගේ වැඩ ඔහොම තමයි..නමුත් මේවට පියවරක් ගතයුතුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

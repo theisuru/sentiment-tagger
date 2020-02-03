@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19426</articleId>
+    <title>පස්සට දැමූ සිසුහු ඉදිරියට</title>
+    <author>ටීඅයි ජයවර්ධන</author>
+    <date>2011 දෙසැම්බර් මස 26 22:09:18</date>
+    <body>අපොස උසස් පෙළ විභාගයේ දිස්ත්‍රික් කුසලතා විභාග දෙපාර්තමේන්තුව යළිත් අද රාත්‍රියේ  අන්තර් ජාලයට එක් කෙළේය. කලින් නිකුත් කළ ලකුණු අනුව පහළට ගොස් සිටි බොහෝ දෙනෙක් ඉදිරියට පැමිණ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>අසංක</author>
+            <date>2011-12-26 22:39:06</date>
+            <index>0</index>
+            <phrase>ප්‍රතිඵල තාමත් නිවැරදි නොවේ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල</author>
+            <date>2011-12-27 07:16:57</date>
+            <index>1</index>
+            <phrase>‘මේ රටේ මිනිස්සු.. .නිකර කරන්නේ පිස්සූ..‘</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>gamaeti</author>
+            <date>2011-12-27 07:43:20</date>
+            <index>2</index>
+            <phrase>ප්‍රස්නයක් තියනබව දැනගෙනම පරීක්ෂා නොකොට ප්‍රතිඵල නිකුත් කිරීම වගකීම් සුලුවෙන් තැකීමකි.දැනට නිකුත් කොට ඇති ප්‍රතිඵල ගැනද විස්වාසය පලුදීවී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුඹ්ක</author>
+            <date>2011-12-27 14:30:29</date>
+            <index>3</index>
+            <phrase>අධ්‍යාප සියලු දෙනා ඉල්ලා අස් විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත වීරසිංහ</author>
+            <date>2011-12-28 05:45:23</date>
+            <index>4</index>
+            <phrase>මේක වඩා වැදගත් ප්‍රවෘත්තිය වෙන්නේ ඉස්සරහ හිටපු අය පිටුපස්සට ගිය එකයි. එහෙම අය තමයි අනාගතේදි කැරළි ගහන අය වෙන්නේ. මොකද එයාල හිතන්නේ එයලට අසාධාරණයක් වුණා කියලයි.. මුලින් හිටපු සතුටු මානසිකත්වය සම්පූර්ණයෙන්ම නැතිව යනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

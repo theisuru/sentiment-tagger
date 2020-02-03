@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53097</articleId>
+    <title>පී සි පොලිසියටම පිළිමය විකුණන්න හදලා</title>
+    <author>කාංචන කුමාර ආරියදාස  මහේෂ් කීර්තිරත්න</author>
+    <date>2012 ජූලි මස 13 13:32:14</date>
+    <body>ඉපැරැණි බුදු පිළිමයක් රුපියල් ලක්ෂ හතාමාරකට විකිණිමට ගිය බව කියන  කොස්තාපල් වරයෙක්  මාතලේ මහවෙල කිරි ඔරුවේදි  මාතලේ කොට්ඨාශ අපරාධ  විමර්ශන අංශය විසින්  අත්අඩංගුවට ගනු ලැබුහ.
+කිලෝ 11 පමණ බර සෙන්ටිමීටර 22 ක් පමණ උසැති  මෙම පිළිම වහන්සේ වික්ණිමට තැත් කර ඇත්තේ වෙස් වළාගෙන ගිය පොලිසියටය. මීට සම්බන්ධ හිමි නමක් ද අත් අඩංගුවට ගැනීමට සොයයි.</body>
+    <comments>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-07-13 14:24:58</date>
+            <index>0</index>
+            <phrase>තවත් පොලිස් වාර්ථාවක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2012-07-13 13:51:41</date>
+            <index>1</index>
+            <phrase>දැන් පොලිසියේ හොරා පොලිස් කට්ටිය ගොඩක් අහු වෙනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-13 14:01:50</date>
+            <index>2</index>
+            <phrase>හොරු අල්ලන්නෙත් පොලිසියෙන්. හොරු ඇති කරන්නෙත් පොලිසියෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-07-13 14:18:21</date>
+            <index>3</index>
+            <phrase>දැන් සෑම අපරාධයක් පිටුපසම ඉන්නේ හිමිවරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්බට්</author>
+            <date>2012-07-13 16:49:08</date>
+            <index>4</index>
+            <phrase>හොර අල්ලන්න ඉන්න පොලිසියයි, ආගම රකින්න ඉන්න සාදුලයි මේවා කරනවා නම් තව මොන කතාද? මේවට හිරේ යවලා දඩ ගහලා වැඩක් නැහැ. කෙලින්ම මරලම දාන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-13 17:30:20</date>
+            <index>5</index>
+            <phrase>පන්සල් වලින් සිවුරු හොරුන් පන්නමු.මීට දායකත්වය දුන් පොලිස් මහතුන්ට ස්තූතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දායකයා</author>
+            <date>2012-07-13 17:11:46</date>
+            <index>6</index>
+            <phrase>දැන් බලද්දි හාමුදුරු කෙනෙක්, ප්‍රාදේශීය සභාවේ කෙනෙක් නොගෑවුණු අපරාධයක් නැති තරම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-07-13 18:44:28</date>
+            <index>7</index>
+            <phrase>[කොස්තාපල් වරයෙක්...; හිමි නමක්...] වැටයි නියරයි දෙකම ගජරාමෙට ගොයම් කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-13 18:59:43</date>
+            <index>8</index>
+            <phrase>පොලිස් හොරා පොලිස්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොස් පොළොස්</author>
+            <date>2012-07-13 23:00:00</date>
+            <index>9</index>
+            <phrase>එතකොට කව්ද හොරා? කව්ද පොලිස්? අනේ මම දන්නේ නැතිනිසයි ඇහුවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහියංගන</author>
+            <date>2012-07-13 23:49:14</date>
+            <index>10</index>
+            <phrase>...හොරා පොලිස් ....!!! .....පොලිස් හොරා ....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එලකොල්ල</author>
+            <date>2012-07-14 05:10:09</date>
+            <index>11</index>
+            <phrase>හිමිවරු හොරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ්</author>
+            <date>2012-07-14 09:30:21</date>
+            <index>12</index>
+            <phrase>පොලිසිය අවංකව හිතට එකගව වැඩ කරන බවට හොද සළකුණක්.නැත්නම් ඒ අයගේ එක් කෙනෙක් කියලා නිකන් ඉන්න තිබුණනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-14 11:54:38</date>
+            <index>13</index>
+            <phrase>මම නම් දකින්නේ ලොකු තැන්වල අය ලොකු ලොකු දේවල් හොරකම් කරද්දි පොඩි තැනක කෙනෙක් මෙහෙම දෙයක් ගන්න එකේ ඇති වැරැද්දක් නැහැ කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-07-14 15:22:13</date>
+            <index>14</index>
+            <phrase>පොලිසියත් හොදයි හමුදුරුවත් හොදයි මුන් 2 හොරු නිසා දඩුවම් දන්නා ඕනේ නැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2012-07-14 21:02:58</date>
+            <index>15</index>
+            <phrase>වර්තමානයේ පොලිස් නිලධාරීන් තමන් අතරෙ ඉන්න වැරදිකාරයොටත් එක සේ නීතිය ක්‍රියාත්මක කරනව දකින්න ලැබීම ගැන හරි සතුටුයි. දිගටම මෙහෙම කළොත් අනාගත පරපුරු ගනනාවකටම යහපතක් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2012-07-14 21:55:15</date>
+            <index>16</index>
+            <phrase>මේ රටේ බහුතරයක් හාමුදුරුවරු ඇත්තටම ගුණ යහපත්. නමුත් ඒ අය එච්චර ප්‍රසිද්ද නෑ. අප්ප්‍රසිද්දව ගම්මාන වලට වෙලා ජනතාවට නිවන් මග දේශනා කරනවා. පොලිසියත් එච්චරම තමයි. හොඳ මහත්වරු ඕන තරම් ඉන්නවා අප්ප්‍රසිද්දව. ඒත් හැම වෙලේම වැරදි කරන අයට විතරක් මාධ්‍ය ප්‍රචාරය ලැබෙන නිසා ජනතාව ඒ අය ගැන වැරදි චිත්‍රයක් මවාගෙනයි ඉන්නෙ. බොරු නම් නිකම් හිතලා බලන්න ඔබ පෞද්ගලිකව අදහන සිල්වත් ස්වාමීන් වහන්සේ නමක් ගැන... ඔබට කරදරයක් වෙච්ච අවස්තාවකදි හයියක් වෙච්ච රාළහාමි කෙනෙක් ගැන... එක පැත්තක් දිහා විතරක් බලලා තමන්ගෙ ආගම දහම විවේචනය කරන එක සාදාරනද????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-07-14 21:30:50</date>
+            <index>17</index>
+            <phrase>සෙනෙවි මහත්මයාගෙ කතාව හරි. ඇත්තටම අපේ රටේ හුඟාක් ගුන යහපත් හාමුදුරුවරු, පොලිස් නිලදාරීන් ඉන්නවා. ඒත් ඒ අය ගැන කවදාවත් ප්‍රවෘති පල වෙන්නෙ නැති එකයි කනගාටුව. ඒකෙන් වෙන්නෙ මිනිස්සු ඔය දෙගොල්ලො ගැනම නිකරුනේ කලකිරෙන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජොහන්</author>
+            <date>2012-07-14 22:11:14</date>
+            <index>18</index>
+            <phrase>පොලිස්සිය පොලිස්සියෙන්ම අල්ලයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීටින්</author>
+            <date>2012-07-14 21:38:44</date>
+            <index>19</index>
+            <phrase>අනේ පව් දුප්පත් කමටනෙ කරන්න ඇත්තෙ... පරන පිලිම ව්කුනන එක ඇත්තටම වැරැද්දක් ද? මම නම් දැනුයි දන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

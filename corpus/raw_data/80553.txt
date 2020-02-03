@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>80553</articleId>
+    <title>ඇන කොන්ඩා හරකා වමාරයි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 නොවැම්බර් මස 28 12:57:34</date>
+    <body>බ‍්‍රසීලයේ කැලෑවකදී දැවැන්ත ඇනකොන්ඩාවෙක් එළ හරකකු වැමෑරීය. එම සතා එළ හරකකු බව වීඩියෝ ශිල්පීන් කියතත් වීඩියෝව  දුටු වැඩි දෙනා කියන්නේ සර්පයා වමාරන්නේ බ‍්‍රසීල වනාන්තරවල සුලභව ජීවත් වන හරකකුට මදක් කුඩා දැවැන්ත රට හාවකු බවයි. ජලය ආශ‍්‍රිතව ජීවත් වන ඇනකොන්ඩා විසකුරු සර්පයෙක් නොවේ.</body>
+    <comments>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-12-04 00:26:22</date>
+            <index>0</index>
+            <phrase>හාවයි, හරකයි අඳුරගන්න බැරිද එහේ අයට .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-04 11:05:02</date>
+            <index>1</index>
+            <phrase>හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-12-06 07:15:51</date>
+            <index>2</index>
+            <phrase>රට හාවෝ හරක් වගේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2012-12-06 07:17:56</date>
+            <index>3</index>
+            <phrase>ගොඩක් හො﻿ඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2012-12-06 13:32:30</date>
+            <index>4</index>
+            <phrase>හාවෙක් නෙමෙයි මෙ ගවයෙක් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-12-06 15:31:56</date>
+            <index>5</index>
+            <phrase>ගවයෙක්නම් තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-12-07 18:04:42</date>
+            <index>6</index>
+            <phrase>හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජන</author>
+            <date>2012-12-07 19:45:48</date>
+            <index>7</index>
+            <phrase>කෝ එතකොට හරකාගේ වලිගය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-12-11 20:52:33</date>
+            <index>8</index>
+            <phrase>මේ සතා හාවෙක් වගෙයි මට නම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2012-12-12 14:00:29</date>
+            <index>9</index>
+            <phrase>බලන්න ටිකක් අමාරුයි නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-12-12 23:41:59</date>
+            <index>10</index>
+            <phrase>ඉතා හොද ප්‍රවෘත්තියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනුක</author>
+            <date>2012-12-13 08:45:51</date>
+            <index>11</index>
+            <phrase>හරක් හාවෝ වගේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරු</author>
+            <date>2012-12-15 17:40:48</date>
+            <index>12</index>
+            <phrase>දිරවනන් ඔච්චර අමාරු නම් ගිලගත්තේ කොහොමද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසලා</author>
+            <date>2012-12-16 12:08:38</date>
+            <index>13</index>
+            <phrase>හරක් වගේ හාවොත් ඉන්නවද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමීෂා</author>
+            <date>2012-12-17 08:22:38</date>
+            <index>14</index>
+            <phrase>හිතාගන්නවත් බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2012-12-17 09:29:23</date>
+            <index>15</index>
+            <phrase>මෙම දර්ශනය වීඩියෝ කරගැනීම කොතරම් අපහසු වෙන්න ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනන</author>
+            <date>2012-12-17 11:28:26</date>
+            <index>16</index>
+            <phrase>ඇත්තටම හරිම පුදුමයි. ඒත් ‍හොද විඩියෝ එකක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පන්ඩුක</author>
+            <date>2012-12-17 20:47:28</date>
+            <index>17</index>
+            <phrase>ඕක හදපු එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මින්ද හිමි</author>
+            <date>2012-12-18 12:11:22</date>
+            <index>18</index>
+            <phrase>ඔය හැම දෙයක්ම අනිත්‍යයි නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-12-21 03:44:15</date>
+            <index>19</index>
+            <phrase>මට නම් පෙනෙන්නේ හාවෙක් වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59884</articleId>
+    <title>මහවැලි මෝයෙන් කරදිය ගඟ ඉහළට</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අගෝස්තු මස 20 11:40:50</date>
+    <body>දැඩි නියඟයත් සමග මුහුදු ජලය වෙරුගල් ආරු මෝයකට ඔස්සේ කිලෝමීටර් හතරක් පමණ දුරට මහවැලි ගඟට මුසු වී ඇතැයි වේරුගල් ප්‍රාදේශීය ලේකම් පී. ධනේෂ්වරන් මහතා කීය. මීට පිළියම් වශයෙන් වරින්වර වේරුගල් අමුණේ ගේට්ටු ඇර මුහුදු ජලය ඉවත් කිරීමට සිදු වී ඇතැයි කලාපය බාර වාරි මාර්ග අධ්‍යක්ෂ එච්.බී. ජුනයිඩ් මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-08-20 12:41:32</date>
+            <index>0</index>
+            <phrase>මිරිදියට කරදිය මුසුවෙලා ගොඩක් කල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ</author>
+            <date>2012-08-20 12:51:13</date>
+            <index>1</index>
+            <phrase>ඉක්මණට මොනවා හරි කරන්න. අපේ කුඹුරු වලට කරදිය ඇතුලු වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2012-08-20 14:23:38</date>
+            <index>2</index>
+            <phrase>ජල හිඟයට හොඳ විසඳුමක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-08-20 14:29:02</date>
+            <index>3</index>
+            <phrase>අපි හම්බන්තොට වගේ වරායක් හදනවා කරදිය තියෙන හරියේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂි</author>
+            <date>2012-08-20 15:43:58</date>
+            <index>4</index>
+            <phrase>දේශපාලනයෙන් හැම ප්‍රශ්නයක්ම විසදන්න බැහැ කියලා දැන් තේරෙනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-08-20 20:51:19</date>
+            <index>5</index>
+            <phrase>කරදිය ගැන කලබල වෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-20 22:52:00</date>
+            <index>6</index>
+            <phrase>වැඩිකල් නොගොස් කරදිය පිරිසිදු කර කදුකරයට එන ගමනක පෙරමග ළකුණු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-21 08:15:58</date>
+            <index>7</index>
+            <phrase>බලාගෙන මෝරු එහෙමත් එයි තව ටික කාලෙකින්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2012-08-21 12:59:59</date>
+            <index>8</index>
+            <phrase>චැං ඉතිං තියෙන්නේ කරදිය මිරිදිය කරගන්න උපායක් හොයන එක.. මොනවා උනත් වතුරනේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

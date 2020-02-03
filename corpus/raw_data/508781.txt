@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508781</articleId>
+    <title>අතුරුදන්වූ සිව්දෙනාගෙන් අයකුගේ සිරුර හමුවෙයි</title>
+    <author>තුසිත ද සිල්වා</author>
+    <date>2017 පෙබරවාරි මස 22 09:32:10</date>
+    <body>බේරුවල බෝට්ටු අනතුරින් අතුරුදන්වූ සිව් දෙනාගෙන් අයකුගේ සිරුර අද (22) පෙරවරුවේ බේරුවල මරදානේ ධීවර පිරිසකට හමුවී ඇත.
+අතුරුදන්වූ හෙට්ටිතන්ත්‍රිගේ ධනුෂ්ක ඩිල්ෂාන් (24) තරුණයාගේ සිරුර එසේ ධීවර කටයුතුවල නිරතව සිටි තිදෙනකුට හමුවී ඇත.</body>
+    <comments>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2017-02-22 06:01:46</date>
+            <index>0</index>
+            <phrase>ඔය බෝට්ටු රාජසන්තක කරන්න. මුදේ යනවනම් ලයිෆ් ජැකට් අනිවාර්ය නිතිය අකුරටම පිළිපද්දවන්න. අපේ රටේ මිනිස්සු හරි අමුතු ජාතියක්නේ. හෙල්මෙට් දන්නේ පොලිසියෙන් බේරෙන්න මිසක් ඔලුව බේරගන්න නෙවේ. මිනිස්සු ගෙනියනවානම් රක්ෂණය අනිවාර්ය කරන්න. පොලිසියත් අමුතු වැඩනේ කරන්නේ. </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2017-02-22 09:08:46</date>
+            <index>1</index>
+            <phrase>ඔය බෝට්ටු සේරම මාළු අල්ලන බෝට්ටු මිස මඟීන් ගෙන යන ඒවා නෙමෙයි. ඕක දැන් කාලයක් එක්ක කළ දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2017-02-22 19:22:28</date>
+            <index>2</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

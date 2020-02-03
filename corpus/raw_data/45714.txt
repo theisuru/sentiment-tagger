@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45714</articleId>
+    <title>ඇඹිලිපිටියේ වෙඩිතැබීමකින් දෙන්නෙක් රෝහලේ</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2012 මැයි මස 31 10:03:12</date>
+    <body>ඇඹිලිපිටිය නගරයේ බැංකුවක් අසල වෙඩි තැබීමකින් තුවාල ලැබූ දෙදෙනෙක් රෝහල්ගත කරනු ලැබූහ. ඔවුන් පැමිණි බව කියන මෝටර් රියක් ද ඒ අසල නවතා ඇත.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-31 12:03:50</date>
+            <index>0</index>
+            <phrase>ජීවිත හානියක් නොවුන එක ලොකු දෙයක් ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රත්නායක</author>
+            <date>2012-05-31 15:04:52</date>
+            <index>1</index>
+            <phrase>හරි ශෝක් දැන් ලංකාව චිකාගෝ වගේ ..ඔහොම තමයි දියුණු වෙනකොට..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-31 15:24:44</date>
+            <index>2</index>
+            <phrase>මෙහි වගකීම භාර ගත යුත්තේ එල්ලුම් ගස පරක්කු කරන අයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්</author>
+            <date>2012-05-31 17:21:32</date>
+            <index>3</index>
+            <phrase>මොකද මේ වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>341561</articleId>
+    <title>එජාපයට 106 යි : සන්ධානයට 95යි</title>
+    <author>තරිඳු ජයවර්ධන  ග්‍රැෆික් නිමල් ජයශාන්ත</author>
+    <date>2015 අගෝස්තු මස 18 19:30:06</date>
+    <body>අගෝස්තු 17 වැනි දා පැවැති මහ මැතිවරණයෙන් ආසන 93ක් දිනා ගත් එක්සත් ජාතික පක්ෂයට ජාතික ලැයිස්තුවෙන් ආසන 13ක් ලැබිණි. ඒ අනුව එජාපය ලබා ගත් ආසන සංඛ්‍යාව 106කි.
+ආසන 83ක් දිනා ගත් එක්සත් ජනතා නිදහස් සන්ධානයට ජාතික ලැයිස්තු ආසන 12ක් ලැබිණි. ඒ අනුව සන්ධානයේ ආසන සංඛ්‍යාව 95කි.
+ජනතා විමුක්ති පෙරමුණ ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකක් ද සමග ආසන හයක් ද, ජාතික ලැයිස්තු ආසන දෙකක් ද සමග ඉලංකෙයි තමිල් අරුසු කච්චි පක්ෂය ආසන 16ක් ද, මුස්ලිම් කොංග්‍රසය හා ඊපීඩීපී පක්ෂය එක් ආසනය බැගින් ද දිනා ගත්තේය.
+(ග්‍රැෆික් නිමල් ජයශාන්ත)</body>
+    <comments>
+        <comment>
+            <author>අමිත</author>
+            <date>2015-08-18 14:13:09</date>
+            <index>0</index>
+            <phrase>කරට කර වගේ තමා. අපි බලමු දැන් ආණ්ඩුව හැදෙන්නෙ කොහොමද කියලා. ජයගත් සැමට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දාස</author>
+            <date>2015-08-18 14:15:58</date>
+            <index>1</index>
+            <phrase>තව පහක් ඕනෑ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මල</author>
+            <date>2015-08-18 14:19:00</date>
+            <index>2</index>
+            <phrase>අපේ සැබෑම අගමැති!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන්</author>
+            <date>2015-08-18 14:31:22</date>
+            <index>3</index>
+            <phrase>අපේ සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

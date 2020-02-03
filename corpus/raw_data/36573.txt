@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36573</articleId>
+    <title>හවායි මූදේ අපූරු යාළුවෝ</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 15 11:31:51</date>
+    <body>ඇමෙරිකාවේ හවායි දූපත් අවට මුහුදේ මිත්‍රත්වයෙන් වෙළුණ අරුම පුදුම මුහුදු යාළුවෝ දෙදෙනෙක් සිටිති. විශාල තල්මසෙක් හා ඩොල්ෆින් මාළුවෙක් මේ මිතුරෝය. වසර ගණනාවක පටන් හවායි දූපත් අවට මුහුදේ සැරිසරති. පසුගියදා මාචුයි දූපත ආසන්න මුහුදේ දී මෙම මිත්‍රයින් දෙදෙනා කෙළිලොලින් කල් ගෙවනා අයුරු සංචාරකයන් පරිසිකට දැකගැනීමට හැකි විය.</body>
+    <comments>
+        <comment>
+            <author>පාලිත කුමාර</author>
+            <date>2012-04-15 11:40:44</date>
+            <index>0</index>
+            <phrase>ඡායාරූපය ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-04-15 12:08:27</date>
+            <index>1</index>
+            <phrase>ඇමෙරිකාවට පාඩම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

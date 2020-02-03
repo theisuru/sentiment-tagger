@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52041</articleId>
+    <title>සියඹලාණ්ඩුව මානාභරණ රජ මහා විහාරයේ ගරා වැටුණු සෑයේ කැණීම් වලදී පොලොන්නරුයුගයට අයත් යැයි සැළකෙන්  පුරාවස්තු රැසක් සොයා ගැනීමට හැකි වූ බව  මහාචාර්ය රාජ් සෝමදේව කියයි.</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2012 ජූලි මස 07 12:50:18</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>පුලස්ති</author>
+            <date>2012-07-13 10:16:17</date>
+            <index>0</index>
+            <phrase>අපට ආරන්චි විදියට නම් පුරාව‍ස්තු ඔක්කොම හොරු ටික මීට කලින් හොයාගෙන අරගෙනත් ඉවරයි‍‍‍......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය සම්පත්</author>
+            <date>2012-07-25 09:39:04</date>
+            <index>1</index>
+            <phrase>ආණ්ඩුවේ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-07-26 13:02:35</date>
+            <index>2</index>
+            <phrase>මීට වඩා වටින දෑ තිබුනාද කියලා කවුරුත් දන්නේ නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

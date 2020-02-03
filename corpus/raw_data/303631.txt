@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>303631</articleId>
+    <title>හැරී ගුවන අතහරී</title>
+    <author>ජීඩබ්ලිව්කේප්‍රේමතිලක ද සිල්වා</author>
+    <date>2015 මාර්තු මස 18 22:58:57</date>
+    <body>බ්‍රිතාන්‍යයේ හැරී කුමරු සිය ජුනි මාසයේ දී හමුදා සේවයෙන් සමුගන්නා බව නිවේදනයක් නිකුත් කරමින් කියා සිටියි.
+හැරී කුමරු එම නිවේදනයෙන් පවසා ඇත්තේ හමුදා ජීවිතය තුල ලැබු අත් දැකීම් සිය ජීවිතයේ ඉතිරි කාලයේදී ද සිය ජීවිතය සමග බද්ධව පවතින බවයි. හමුදා දිවිය හේතුවෙන් අභියෝගයන්ට මුහුණ දීමට පුරුදු වූවා මෙන්ම අපූර්ව පුද්ගලයින් ඇසුරට පත්වු බවද හෙතෙම කියා තිබේ.
+හැරී කුමරු හමුදා හෙලිකොප්ටර් නියමුවෙක් ලෙස 2012 සැප්තැම්බර් 7 වෙනිදා ඇෆ්ගනිස්ථානයේ සේවය සඳහාද යෙදවීය. ඔහු හමුදා රාජකාරි භාරගත්තේ 2005 වසරේ සැන්ඩ්හස්ට් හමුදා ඇකඩමියට බැඳීමෙනි. හැරී කුමරු බ්‍රිතාන්‍යයේ ඔටුන්න හිමි චාල්ස් කුමරුගේ සහ ඩයනා කුමරියගේ බාල පුතණුවන්ය. 2011 දී හමුදාවේ ඉහළ නිලයක් වන කපිතාන් තනතුරට පත්විය. පසුව ගුවන් යානා අණදෙන්නෙක් ලෙස සුදුසුකම් සපුරා ගන්නා ලදී.
+හමුදා ජීවිතයෙන් ඉවත්ව සාමාන්‍ය දිවියට පත්වීමට පෙර හැරී කුමරුට තවත් වගකීම් කිපයක් තිබේ. ඇමෙරිකාවේ දී ද ගුවන් යානා පුහුණුව ලැබූ හෙතෙම  මාස දෙකක කාලය තුලදී ඔස්ට්‍රේලියානු ආරක්ෂක බලකායේ ක්‍රියාන්විත සේවයේ නිරත විය.</body>
+    <comments>
+        <comment>
+            <author>විකුම්</author>
+            <date>2015-03-18 23:11:53</date>
+            <index>0</index>
+            <phrase>හැරී කුමරුවනි, දීප්තිමත් අනාගතයකට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2015-03-19 00:41:23</date>
+            <index>1</index>
+            <phrase>අපේ සමහර කුමාරයන්ට වගේ චීන රොකට්ටුවෙන් හඳට යන්න අදහසක් තිබිලා නැහැ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල</author>
+            <date>2015-03-19 01:59:03</date>
+            <index>2</index>
+            <phrase>හැරී කුමාරය, චාල්ස් කුමාරයාගේ ආරක්ෂකයෙක් වෙන්න ඉල්ලීමක් කරලා නැද්ද මන්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2015-03-19 05:24:32</date>
+            <index>3</index>
+            <phrase>සමන්ත , අපේ කුමාරවරු කොහෙද යුද්දෙට ගියේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-03-19 06:32:28</date>
+            <index>4</index>
+            <phrase>විපුල අමතකද රගර් පිටිවල යුද්ධ කළා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-03-19 08:10:17</date>
+            <index>5</index>
+            <phrase>චමිල, වැඩක් නැහැ ආපසු මුලස්ථානයට ගනීවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකී</author>
+            <date>2015-03-19 21:45:49</date>
+            <index>6</index>
+            <phrase>අපරාදේ! අපේ අර කුමාරයාගේ 'චාන්ස්' එක 'මිස්' වුණානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපී</author>
+            <date>2015-03-20 03:10:07</date>
+            <index>7</index>
+            <phrase>තමුන්ගේ අම්මට බොහෝ ආදරය කල මේ පුතාට අපගේ සුබ පැතුම් ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

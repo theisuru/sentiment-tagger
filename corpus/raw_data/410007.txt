@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>410007</articleId>
+    <title>දෙමටගොඩ මෝටර් රථයක් ගිනිගනී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ  ඡායාරූප - මතුගම සුධර්මන්</author>
+    <date>2016 අපේ‍්‍රල් මස 28 18:45:43</date>
+    <body>දෙමටගොඩ සමන්තා සිනමා ශාලාව අසල මහ පාරේ මෝටර් රථයක් ගිනිගනිමින් පවතින බව පොලිසිය කියයි.
+ගින්න නිවීම සඳහා ග්‍රෑන්ඩ්පාස් හා මරදාන ගිනි නිවීම් ඒකක එහි ළඟාවෙමින් සිටින බව කියති. මාර්ග තදබදය හේතුවෙන් ගිනි නිවන රථවලට එහි ළඟාවීම අපහසුව ඇතැයි වාර්තාවේ.
+අනතුර හේතුවෙන් ඒ අවට මාර්ග සියල්ල තදබදයකට ලක්ව ඇති බවත් විකල්ප මාර්ග භාවිතා කරන ලෙස රියදුරන්ගෙන් ඉල්ලා සිටින බවත් පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>බද්‍රජිත්</author>
+            <date>2016-04-28 16:33:51</date>
+            <index>0</index>
+            <phrase>හයිබ්‍රිඩ් රථ අලුත්වැඩියාවෙන් පසු මෙහෙම දේවල් සිදුවන්න පුළුවන් .ලාභය නොබලා ඔරිජිනල් අමතර කොටස්, බැටරි පමණක් යෙදීමෙන් මේ තත්වය අවම කරගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2016-04-28 18:21:39</date>
+            <index>1</index>
+            <phrase>ඉන්දියන් වාහනයක් නේද ගිනි ගන්නේ ....ඒ වගේ තමයි අපිටත් ගිනි දෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-04-29 16:42:44</date>
+            <index>2</index>
+            <phrase>ඉන්දියන් වාහන මිල අඩුයි ගිනි ගන්නා සුළුයි පරිස්සමින් ඒ වගේම අනතුරු වලදී අලාබහානිත් වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-05-01 14:36:41</date>
+            <index>3</index>
+            <phrase>හා හා! පසුගිය රජයේ වැඩක්ද දන්නෙ නැහැ. අර තාජුඩීන් සිද්ධිය මට මතක්වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

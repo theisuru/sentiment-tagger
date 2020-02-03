@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56375</articleId>
+    <title>බොර වතුරත් අපි දෙන්නට අමාවකි</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2012 ජූලි මස 31 14:48:43</date>
+    <body>පස් මාසයක් තිස්සේ වවුනියා දිසාවට වැසි නැතිවීම නිසා කුඩා වැව් 93ක් සිඳී යයි. මිනිසුන්ට පමණක් නොව සතුනට ද ජලය ප‍්‍රශ්නයක් වී ඇත.</body>
+    <comments>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-07-31 15:24:01</date>
+            <index>0</index>
+            <phrase>ඡිවිතය යනු මිනිසාටද සත්වයාටද කළකදි දුකක්ය......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2012-07-31 15:38:55</date>
+            <index>1</index>
+            <phrase>ආණ්ඩුව ධාර්මික නොවන විටදී ස්වාභාවධර්මය මහජනතාව පෙළීමට පටන්ගනී....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහමඩියා</author>
+            <date>2012-07-31 16:00:47</date>
+            <index>2</index>
+            <phrase>නියඟයක් ආවම ආණඩුවට බැනල වැඩක් නෑ. ඒක මෝඩ ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-31 16:21:10</date>
+            <index>3</index>
+            <phrase>අහමදිය, කකාවනම් ඇත්ත.. දේශපාලකයොත් හොදම නෙමෙයිනේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිමාල්</author>
+            <date>2012-07-31 17:00:30</date>
+            <index>4</index>
+            <phrase>රජු ධාර්මික වේවා - කලට වැසි වසීවා බුදුන් දෙසුවේ එහෙමයි මේවා බොරැද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමරා</author>
+            <date>2012-07-31 17:16:46</date>
+            <index>5</index>
+            <phrase>මේ සොබාව ධර්මයේ හැටිය. ඒවාට පිළියම් අප විසින්ම සකසා ගත යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-07-31 20:52:35</date>
+            <index>6</index>
+            <phrase>අපි නම් කොහොම හරි වතුර හොයා ගත්තයි කියමුකෝ. ඒත් අසරණ සත්තුන්ට කාගේ පිහිටක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත් පතිරණ</author>
+            <date>2012-07-31 23:38:13</date>
+            <index>7</index>
+            <phrase>ජීවිතේ හැමදාම සතුටම බලාපොරොත්තුවීමත් බුදුන් දෙසු දහමෙ නෑ උන්වහන්සේම දේශනා කලා අටලෝ දහම දුක සැප සමබරව විඳින්න වන බව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

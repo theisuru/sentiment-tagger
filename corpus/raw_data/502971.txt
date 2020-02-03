@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502971</articleId>
+    <title>නාමල් ඇතුළු 5කගේ ගිණුම් පරීක්ෂාවට අවසර</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2017 ජනවාරි මස 31 13:17:45</date>
+    <body>මන්ත්‍රී නාමල් රාජපක්ෂ මහතා ඇතුළු පස් දෙනකුට එරෙහි පොලිස් මූල්‍ය අපරාධ කොට්ඨාසයේ විමර්ශන සඳහා බැංකු 9ක ගිණුම් 15කට ආසන්න ප්‍රමාණයක් වැඩිදුර පරීක්ෂා කිරීමට කොළඹ අතිරේක මහේස්ත්‍රාත් අරුණ බුද්ධදාස මහතා අද (31) අවසර දුන්නේය. අයථා ලෙස උපයාගත් බව කියන මුදල් වලින් රුපියල් මිලියන 100ක් වියදම් කර හෙලෝකෝප් සමාගම මිලදී ගැනීමේ ගනුදෙනුව සම්බන්ධයෙන් පොලිස් මූල්‍ය අපරාධ කොට්ඨාසය විමර්ශන සිදුකරගෙන යයි. </body>
+    <comments>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2017-01-31 10:37:52</date>
+            <index>0</index>
+            <phrase>පව් හිටපු ජනපතිගේ පුතුන් එහෙම නැහැ. ඔවුන් උපතින්ම කෝටිපතියන්. මෙයාලට වැරදිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ඉලන්කොන්</author>
+            <date>2017-01-31 11:21:29</date>
+            <index>1</index>
+            <phrase>සිරිසේන කෝටි පතියෝ තමයි හොරකම් කරන්නේ. විශේෂයෙන්ම දේශපාලකයෝ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2017-01-31 14:27:38</date>
+            <index>2</index>
+            <phrase>ඒ ගිණුම් වල සල්ලි තියෙනවද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

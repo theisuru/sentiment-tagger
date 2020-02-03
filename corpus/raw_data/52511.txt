@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52511</articleId>
+    <title>සුපිරි මගේදී වෑන් රියක් ගිනි ගෙන දැවේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජූලි මස 10 08:32:30</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ බණ්ඩාරගම බද්දේගොඩදී වෑන් රියක් ගිනි ගෙන මුළුමනින්ම වාගේ දැවී ගිය බව අධිවේගී මාර්ග පොලීසිය කියයි.
+පුද්ගලික සමාගමක සේවකයකු වන රියදුරු වාහනයෙන් පැණ ජිවිතය බේරා ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>හායි</author>
+            <date>2012-07-10 09:23:28</date>
+            <index>0</index>
+            <phrase>වාහනෙත් හොඳයි, රියදුරා ඊටත් හොඳයි, රියදුරා හපනෙක් .......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-07-10 09:25:07</date>
+            <index>1</index>
+            <phrase>සුදු වෑන් එකක්ද ? එහෙනම් කමක් නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-10 09:00:26</date>
+            <index>2</index>
+            <phrase>ආව්...නිකන් හොලිවුඩ් චිත්‍රපටියක් වගේ තියෙන්න ඇති‍‍‍.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් පෙරේරා</author>
+            <date>2012-07-10 09:52:31</date>
+            <index>3</index>
+            <phrase>අධිවේගී මගේ මෙවැනි දේ බලාපොරොත්තු විය යුතුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-07-10 09:53:30</date>
+            <index>4</index>
+            <phrase>වාහනයේ දෝෂයක් තියෙන්න ඇති . ජීවිතය බේරගත් එක ලොකු දෙයක් !!!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන් කොඩිකාර</author>
+            <date>2012-07-10 09:15:57</date>
+            <index>5</index>
+            <phrase>වන්දිය ගන්න කර වැඩක්ද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-07-10 10:08:45</date>
+            <index>6</index>
+            <phrase>ෆුල් ඉන්ෂූරන්ස් ඇති..කොහොමත් රියදුරාට හානියක් නෑ නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභීලාශිනී</author>
+            <date>2012-07-10 13:36:09</date>
+            <index>7</index>
+            <phrase>ලස්සන ෆොටෝ එක..ලංකාව දැන් ගොඩක් දියුණුයි නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආ</author>
+            <date>2012-07-10 13:47:06</date>
+            <index>8</index>
+            <phrase>ගිනි පොලියට ණයට ගත්ත වාහනයක් වෙන්න ඇති....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>shenny</author>
+            <date>2012-07-10 14:20:22</date>
+            <index>9</index>
+            <phrase>ඉක්මන් කොටයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත</author>
+            <date>2012-07-10 14:20:53</date>
+            <index>10</index>
+            <phrase>අධිවේගය විනාශයට මුලය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටොම්</author>
+            <date>2012-07-10 15:15:47</date>
+            <index>11</index>
+            <phrase>cct කැමරාවලින් දාන්නකො බලන්න වීඩියෝ එකක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

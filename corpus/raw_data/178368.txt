@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>178368</articleId>
+    <title>මහ වැස්සේ ගල් කුට්ටි මහ පාරේ</title>
+    <author>පාලිත ආරියවංශ</author>
+    <date>2013 ඔක්තෝබර් මස 20 11:18:22</date>
+    <body>ඇල්ල වැල්ලවාය මාර්ගයේ රාවණා දිය ඇල්ල අසල කිලෝ මීටර් 23-25 අතර මහ පාරට මහ ගල් කඩා වැටීමේ අවදානමක් ඇතැයි පොලීසිය කියයි.
+ මහ වැසි සමඟ දැවැන්ත ගල් කුට්ටි අද උදේත් පාරට වැටී තිබිණි.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-10-20 12:31:15</date>
+            <index>0</index>
+            <phrase>හාපෝ! වාහන වලට වැදුනොත් නම් ඉවරයි අනේ පෙත්තෝ ගිහින් ඔය ගල් ටික අයින් කරලා දාන්න කෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්සේතං</author>
+            <date>2013-10-20 21:02:32</date>
+            <index>1</index>
+            <phrase>චන්දි, ඔයත් එනවා නම් මමත් එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

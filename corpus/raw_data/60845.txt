@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60845</articleId>
+    <title>පිහිණුම් පුහුණුවට ගිය සෙබළා මරුට</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2012 අගෝස්තු මස 25 20:01:41</date>
+    <body>බෙන්තර ගඟේ අතුගංගාවක පිහිනීමේ පුහුණුවකට ගිය ආධුනික සෙබළකු (21) දියේ ගිලි මියගොස් ඇතැයි මීගහතැන්න පොලීසිය කියයි.
+දොඹගොඩ පුහුණු පාසලේ ආධුනික සෙබළුන් 124ක් පුහුණුව සඳහා යගිරල කැළයට ගොස් ඇත.
+බෙන්තර ගඟේ අතු ගංගාවක් හරයා පීනා යද්දී එකවරම සෙබළා නොපෙනී ගොස් ඇති බව ද පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-25 21:54:51</date>
+            <index>0</index>
+            <phrase>බෙරගන්නම බැරි උනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-08-25 22:10:34</date>
+            <index>1</index>
+            <phrase>බෙන්තර ගගේ කිඹුලන් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Dio</author>
+            <date>2012-08-26 07:22:27</date>
+            <index>2</index>
+            <phrase>මේගොල්ලන්ටත් පුහුණුකරුවෙක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-26 08:37:48</date>
+            <index>3</index>
+            <phrase>පුහුණූවේදී දහඩිය හළන්නා යුද්ධයේදී ලේ හොළවන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-27 07:39:43</date>
+            <index>4</index>
+            <phrase>ඇයි ආරක්ෂක කබා ආදිය පළදින්නේ නැද්ද, මේ පුහුණු වලදී?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

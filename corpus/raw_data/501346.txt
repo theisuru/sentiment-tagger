@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501346</articleId>
+    <title>70 වසරක සබඳතා සැමරේ</title>
+    <author>ඉෂාන් සංජීව</author>
+    <date>2017 ජනවාරි මස 26 10:36:06</date>
+    <body>ඕස්ට්‍රේලියාව සහ ශ්‍රී ලංකාව අතර ද්විපාර්ශවික සබඳතාවයට වසර 70ක් පිරීම නිමිත්තෙන් ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ සහභාගිත්වයෙන් ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු මහ කොමසාරිස් මහතාගේ නිල නිවසේදි සුහද හමුවක් පැවැත්විණි.
+එහිදි ජනාධිපති මෛත්‍රීපාල සිරිසේන, ශ්‍රී ලංකාවේ ඕස්ට්‍රේලියානු තනාපති බ්‍රයිස් හචේසන් සහ විද්‍යා, තාක්ෂණ හා පර්යේෂණ අමාත්‍ය සුසිල් ප්‍රේමජයන්ත යන මහත්වරු සංවත්සර සැමරුම් කේක් ගෙඩියක් කපා එම අවස්ථාව සැමරූහ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2017-01-26 06:56:24</date>
+            <index>0</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2017-01-26 13:38:06</date>
+            <index>1</index>
+            <phrase>හොඳයි හොඳයි. ඔහොම යමුකෝ අපි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

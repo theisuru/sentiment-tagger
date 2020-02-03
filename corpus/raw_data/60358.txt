@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60358</articleId>
+    <title>කුඩුකාරයෝ පළි ගනිති</title>
+    <author>රේඛා තරංගනී පොන්සේකා</author>
+    <date>2012 අගෝස්තු මස 23 07:27:05</date>
+    <body>රත්මලානේ වෙළෙන්දකු නාඳුනන පිරිසක් විසින් අද අලුයම කපා කොටා මරා දමා ඔහුගේ බිරියටද බරපතළ තුවාල සිදුකර ඇතැයි කලුබෝවිල රෝහල් ආරංචි මාර්ග කියයි.
+මත්කුඩු ජාවාරම්කරුවන් මේ අපරාධය පිටුපස සිටිතියි පොලීසිය සැක කරයි.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-23 07:39:05</date>
+            <index>0</index>
+            <phrase>කුඩු ගෙන්වන අය එළියේ තියාගෙන හුරතල් කර කර, කුඩු ගහන අය විතරක් අල්ලලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-23 08:11:20</date>
+            <index>1</index>
+            <phrase>මුදල් ලැබෙන මාර්ග අවහිර වනවිට ඕනම දෙයක් කරන්න පසුබට වෙන්නේ නැහැ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්කල්</author>
+            <date>2012-08-23 08:27:37</date>
+            <index>2</index>
+            <phrase>කුඩු කාරයෝ කුඩු කරන්න කාලේ හරි .නැත්නම් අනාගත පරපුර කුඩු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-08-23 08:48:07</date>
+            <index>3</index>
+            <phrase>දැන් හොරා ව‍ගේ සමහරු දන්නෙ නැහැ කියනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවිනි</author>
+            <date>2012-08-23 09:02:26</date>
+            <index>4</index>
+            <phrase>කුඩු ගෙන්වා බෙදා හරින අය කවුද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහීහාර්</author>
+            <date>2012-08-23 09:16:25</date>
+            <index>5</index>
+            <phrase>ආරක්ෂක ලේකම් තුමාගේ අවධානය යොමු වේවා .......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-08-23 09:28:14</date>
+            <index>6</index>
+            <phrase>ජනපතිතුමනි පාතාලය නැති කරා වගේ කුඩු නැති කරන්නත් පියවර ගන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනා</author>
+            <date>2012-08-23 09:45:35</date>
+            <index>7</index>
+            <phrase>කුඩු , බඩු, කඩු, මස් මඩු , නඩු ....තව මොනවද අඩු .......?? අපේ මුළු රටම කුඩේ කුඩු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-23 10:01:27</date>
+            <index>8</index>
+            <phrase>මුදලාලිත් මේ කුඩු ජාලයේ ‍කොහේ හරි කොනක ඉන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-08-23 10:41:13</date>
+            <index>9</index>
+            <phrase>මට මතක නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-23 11:27:04</date>
+            <index>10</index>
+            <phrase>මටනම් මතක නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2012-08-23 11:44:45</date>
+            <index>11</index>
+            <phrase>ඔන්න සාමය ඉතිරෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2012-08-23 13:33:04</date>
+            <index>12</index>
+            <phrase>මොහමඩ්, ඇත්තටම පාතාලය නැති වෙලාද? කුඩු කියන්නෙ පාතාලයේ හොඳම හරියනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-08-23 14:40:24</date>
+            <index>13</index>
+            <phrase>පාතාලය නැති කරන්න නම් දේශපාලන හොරු ටික නැති කරන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-23 15:58:17</date>
+            <index>14</index>
+            <phrase>බොන්න බොන්න තව බොන්න. කුඩු නැති ලෝකයක් වැඩක් නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුජීෆ්</author>
+            <date>2012-08-23 23:58:18</date>
+            <index>15</index>
+            <phrase>එල්ලුම් ගස් යවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-24 04:09:38</date>
+            <index>16</index>
+            <phrase>ආසියාවේ ආශ්චර්යය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමි</author>
+            <date>2012-08-24 08:29:52</date>
+            <index>17</index>
+            <phrase>කුඩු නිසා තමයි ‍ලොකු ලොකු අය ජීවත් වෙන්නේ. පොඩි පොඩි අයයි අමාරුවේ වැටෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

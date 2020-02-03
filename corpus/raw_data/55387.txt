@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55387</articleId>
+    <title>බැංකු කළමනාකරු රිමාන්ඞ්</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 ජූලි මස 25 19:15:38</date>
+    <body>රුපියල් විසි දෙදාහකට උගස් කළ රන් අභරණ කිහිපයක් අස්ථාන ගත කළැයි ත‍්‍රිකුණාමලය මහජන බැංකුවේ පාලඋත්තු උගස් මධ්‍යස්ථානයේ කළමනාකාරිණිය සුසී පසදීපන් ත‍්‍රිකුණාමල ප‍්‍රධාන මහේස්ත‍්‍රාත් යූ.එල්.ඒ. අස්හාර් මහතා විසින් ලබන අට වැනිදා තෙක් රිමාන්ඞ් කරනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-07-25 20:06:05</date>
+            <index>0</index>
+            <phrase>මෙතුමා ගැනත් හොදට හොයලා බලන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-07-25 20:18:52</date>
+            <index>1</index>
+            <phrase>මෙතුමත් ලියකියවිලි විනාශ කරලද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-25 21:24:33</date>
+            <index>2</index>
+            <phrase>අනේ මේ මොකද වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-07-25 22:20:33</date>
+            <index>3</index>
+            <phrase>වැඩි ආරක්ෂාවටද දන්නේ නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-26 00:29:24</date>
+            <index>4</index>
+            <phrase>අස්ථානගත වුණූ කොපමණ දේවල් අපේ රටේ තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-26 07:32:16</date>
+            <index>5</index>
+            <phrase>හෙට දින එළිය කරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිරි</author>
+            <date>2012-07-26 14:07:03</date>
+            <index>6</index>
+            <phrase>ජන හද හදුණන කළමනාකරුවෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-26 14:10:35</date>
+            <index>7</index>
+            <phrase>මේක සරලයි. හරියට හෙරොයින් සමහර පොලිසි ඇතුළෙදි දුඹුරු සීනි බවට වෙනස් වෙනවා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරිස්</author>
+            <date>2012-07-26 16:05:14</date>
+            <index>8</index>
+            <phrase>අයියෝ සල්ලි නිසා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

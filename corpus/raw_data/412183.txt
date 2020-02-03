@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>412183</articleId>
+    <title>මොරටු ගින්න අකුණකින් ?</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා බිමල් ශ්‍යාමන් ජයසිංහ පින්සිරි ආරියරත්න</author>
+    <date>2016 මැයි මස 04 20:06:59</date>
+    <body>මොරටු සරසවියේ විද්‍යාගාරයේ ඇත් වූ ගින්නක් හටගෙන ඇති බවත් ගින්න නිවීමට ගිනි නිවීමේ රථ හතරක් ගොස් ඇති බවත් මොරටු සරසවි ආරංචි කියයි.
+ගින්නට හේතුව මෙතෙක් හොයාගෙන නැතත් ගින්න හටගත් අවස්ථාවේ තද වැසි සමඟ බරපතල ලෙස අකුණු පැවති බව සරසවි ආරංචි කියයි.
+ගින්න දැනය මැඩ පවත්වා ඇති නමුත් තැන තැන ගිනි ඇවිලෙන බව කියති.
+
+ඡායාරූප - රේඛා තරංගනී ෆොන්සේකා
+
+ඡායාරූප - පින්සිරි ආරියරත්න</body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-05-04 15:25:06</date>
+            <index>0</index>
+            <phrase>විද්‍යාගාර ටික ආරක්ෂා වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-05-04 17:49:07</date>
+            <index>1</index>
+            <phrase>අකුණු සන්නායකයක් සවිකරලා නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2016-05-04 19:58:00</date>
+            <index>2</index>
+            <phrase>ලංකාවේ බොහොමයක් නඩු වල තාක්ෂණික සහයෝගයත් මේ විද්‍යාගාර වලින් කෙරෙනවා නේද? සරසවිය පරිස්සමින්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-05-05 04:13:30</date>
+            <index>3</index>
+            <phrase>ලංකාවේ වැඩක් කරන එකම කැම්පස් ලැබ් එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-05-05 04:18:40</date>
+            <index>4</index>
+            <phrase>දුකයි රටේ සම්පත් මේ විදිහට විනාශ වෙද්දී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-05-05 04:40:34</date>
+            <index>5</index>
+            <phrase>බොරුවට අරක මේක අලුතෙන් හැදුවා කියලා ලෝකේ පරණ දේවල් ලංකාවේ මිනිස්සුන්ට මැජික් වගේ පෙන්නන එකනේ මේ විද්‍යාගාර වල කෙරෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසෝදා</author>
+            <date>2016-05-05 04:46:53</date>
+            <index>6</index>
+            <phrase>ඒ වෙලාවේ ගින්න පැතිරුන විදියට නම් පරිගණක වල කෑල්ලක් වත් ඇති කියල හිතන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2016-05-05 04:49:33</date>
+            <index>7</index>
+            <phrase>මේ අකුණ විද්‍යාගාරයටම වැදුනේ කොහොමද? මේ ගොඩනැගිලි ඉදිකිරීමේදී ආරක්ෂක ක්‍රම අනුගමනය කර නැතිද ? මේ විනාශ වෙන්නේ අපේ රටේ අනාගතය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463111</articleId>
+    <title>කුරුණෑගල අනතුරකින් දෙන්නෙක් මරුට</title>
+    <author>ඩබ්ලිව්එස්ප්‍රදීප්</author>
+    <date>2016 සැප්තැම්බර් මස 30 14:09:49</date>
+    <body>කුරුණෑගල - කොළඹ මාර්ගයේ වඳුරාගල දී ත්‍රී රෝද රථයක් හා බස් රථයක් ගැටී ත්‍රී රෝද රියේ ගමන්ගත් දෙදෙනකු මිය ගොස් අයකු තුවාල ලබා ඇතැයි පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>වි. ජයපාල</author>
+            <date>2016-09-30 12:14:25</date>
+            <index>0</index>
+            <phrase>ඔය වගේ අනාරක්ෂිත කසිකබල් මෙරටට ගේන එක තහනම් කරන්න දැනටමත් පරක්කුයි. ත්‍රීවීල්කරු මට්ටමේ සුදුසුකම් තියෙන අයට මේ රටේ ඕනේ තරම් රස්සා තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-10-01 04:23:24</date>
+            <index>1</index>
+            <phrase>මේ වාහන ධාවනය කරන රියදුරන්ගේ විනයක් නොමැතිකමත්, පොලිසිය ඒවා දැක මුදලට යටවී නොදැක්කා සේ සිටීමත් මීට හේතු වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

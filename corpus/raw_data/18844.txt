@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18844</articleId>
+    <title>රුහුණු සිසුවිය ජාතික රෝහලට</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2011 දෙසැම්බර් මස 22 16:44:15</date>
+    <body>රුහුණු සරසවියේදී නවක වදයට ලක්වූ කුමුදුනි ද සිල්වා (21) සිසුවිය මාතර සිට අද කොළඹ ජාතික රෝහලට මාරු කරනු ලැබිය.
+උසස් අධ්‍යාපන ඇමැති එස්.බී. දිසානායක මහතා විශේෂ ගිලන් රියක් මාතරට යවා තිබිණ.
+මීට සම්බන්ධ කිසිවකුට සමාවක් නොලැබෙන බව ඇමැති කීවේය. නියෝජ්‍ය උප කුලපති මහාචාර්ය ගාමිණී සේනානායක පැවසුවේ නවක වදය දුන් බව කියන කිහිප දෙනකුගේ තොරතුරු ලැබී ඇති බවයි.</body>
+    <comments>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2011-12-22 16:54:01</date>
+            <index>0</index>
+            <phrase>මේ වගේ අය නිසා අසරණ දෙමාපියනුත් බැනුම් අහනවා. මේ ඔක්කොම කරන්නේ අන්තරේ තමයි. කිසිම සමාවක් දෙන්න එපා. මේ අය තමයි රටට කොඩිවිනයක් වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත් සිල්වා</author>
+            <date>2011-12-23 05:03:43</date>
+            <index>1</index>
+            <phrase>මේ වගේ අයට කළයුත්තේ අහිංසක ළමයින්ට මේ කරන වදය ඔවුන්ටත් ප්‍රසිද්ධියේ ලබාදීමයි. තමනුත් රස දැනගන්න එපැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2011-12-23 06:49:06</date>
+            <index>2</index>
+            <phrase>පිරිහිණු විනය සමාජ ගැටලුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2011-12-23 11:07:23</date>
+            <index>3</index>
+            <phrase>බුද්ධිමත් කමින් ඉහළ උවද හැගීම් නොදන්නා අය සේ හැසිරෙන පිරිසක් සරසවියේ ඉන්නවා.මේ අය ඉන්නේ තමන්ගේ බුද්ධිය වැඩිදියුණු කරගන්න නෙමෙයි.තමන්ගේ ගොන්කම ප්‍රදර්ශනය කරන්න. දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2011-12-23 15:53:43</date>
+            <index>4</index>
+            <phrase>හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෛත්‍රී</author>
+            <date>2011-12-23 16:17:01</date>
+            <index>5</index>
+            <phrase>ගරු ඇමැතිතුමනි මෙම පිල්ලිය සදහටම ඉවත් කළොත් අධ්‍යාපනයට කළ ලොකුම සේවය වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

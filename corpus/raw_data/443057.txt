@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443057</articleId>
+    <title>මෛත්‍රී අපහාස නඩුව නිතිපති උපදෙස් පතයි</title>
+    <author>නිරංගි අබේවික්‍රම</author>
+    <date>2016 අගෝස්තු මස 01 15:04:02</date>
+    <body>පසුගිය ජනපතිවරණ සමයේ  මෛත්‍රිපාල සිරිසේන ජනපති අපේක්ෂකට  අපහාස වන ආකාරයෙන් අයිටීඑන් රූපවාහිනියෙන් දැන්විමක් ප්‍රචාරය කළැයි කියන නඩුව සම්බන්ධයෙන් නිතිපති උපදෙස් ලබා ගැනිමට යයි. ඊට ඉඩ සලසමින් කොළඹ අතිරේක මහේස්ත්‍රාත් අරුණි ආටිගල මහත්මිය ලබන 26 තෙක් නඩුව කල් තැබුවාය.
+ස්වාධින රූපවාහිනියේ හිටපු ප්‍රවෘත්ති අධ්‍යක්ෂ සුදර්මන් රදලියගොඩ ඇතුළු 11 දෙනෙක් එහි වගඋත්තරකරුවෝ වෙති.
+දෙවැනි සැකකරු නීතිඥ සේපාල රත්නායක අධිකරණයට නොපැමිණි හෙයින් අත්අඩංගුවට ගන්නා ලෙස වරෙන්තු නිකුත් කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-08-01 09:55:08</date>
+            <index>0</index>
+            <phrase>පෙන්වා නේද නීතිඥයෙක් වෙලත් නිතිය කඩකරන හැටි රටට ආදර්ශයක් දෙන්න ඕනේ උදවිය නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංජන්</author>
+            <date>2016-08-01 11:52:17</date>
+            <index>1</index>
+            <phrase>කාටත් අපහස සිදු වෙනවා. ඒවා ගණන් ගන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-08-01 11:52:19</date>
+            <index>2</index>
+            <phrase>නීතිපතිගේ උපදෙස් ලබපු එක හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-08-01 12:18:25</date>
+            <index>3</index>
+            <phrase>එතකොට කේපී මහතාගේ ෆොටෝ එකට ඔලුව මාරුකරපු එකට මොකුත් නැද්ද? ඒක අපහාසයක් නෙමෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-08-01 14:27:04</date>
+            <index>4</index>
+            <phrase>අර යකඩ මළකඩ කාවිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-08-01 14:58:54</date>
+            <index>5</index>
+            <phrase>මේවා ගැන උසාවි ගියොත් නැති කතන්දර ඇදිලා ඒවි. ඒකෙන් වෙන අපහාසවලට මොකද කරන්නේ එතකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

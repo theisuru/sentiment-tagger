@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55044</articleId>
+    <title>ඇසළ පෙරහර ඇරඹේ</title>
+    <author>ෂේන් සෙනෙවිරත්න  ලලිත් වලිසුන්දර</author>
+    <date>2012 ජූලි මස 23 20:25:17</date>
+    <body>මහනුවර ඇසළ පෙරහරේ පළමු කුඹල් පෙරහර අද සවස වීථි සංචාරය කෙළේය. ඉන්දිරාජා සධාතුක කරඬුව රැගෙන ගමන් ගත්තේය.</body>
+    <comments>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-07-23 20:43:38</date>
+            <index>0</index>
+            <phrase>~~~~~~~ සැමට දළදා සමිදු පිහිටයි ~~~~~~~</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-23 20:49:19</date>
+            <index>1</index>
+            <phrase>සියළු දෙනාට දළදා සමිදු පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චනා</author>
+            <date>2012-07-23 21:14:13</date>
+            <index>2</index>
+            <phrase>සාදු සාදු සාදු !!!!!!!!!!!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-07-23 21:30:51</date>
+            <index>3</index>
+            <phrase>නිලමේතුමා ...????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2012-07-23 21:32:44</date>
+            <index>4</index>
+            <phrase>මේ පාරවත් ගිණුම බලන්න හොදේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ.</author>
+            <date>2012-07-23 23:26:14</date>
+            <index>5</index>
+            <phrase>සාධු...... සාධු......... සාධු.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2012-07-24 00:22:16</date>
+            <index>6</index>
+            <phrase>දළදා සමිදුට මාගේ නමස්කාරය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-07-24 00:58:42</date>
+            <index>7</index>
+            <phrase>වේලුපිල්ලේ ප්‍රභාකරන් මහනුවර ඇසළ මහා පෙරහැර බල බලා කරපු මෝඩකම් සිතමින් හැඩු කලුලෙන් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැන්ඩි</author>
+            <date>2012-07-24 01:40:29</date>
+            <index>8</index>
+            <phrase>මගේ රටට දළදා හිමි සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-07-24 02:02:24</date>
+            <index>9</index>
+            <phrase>කරඩුව රත්තරංද? මම මේ දන්නේ නැති නිසයි අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමරාල</author>
+            <date>2012-07-24 05:45:58</date>
+            <index>10</index>
+            <phrase>වනයේ සිටිය යුතු අලින්ව විලංගු ලා මෙලෙස බලහත්කාරයෙන් ආගමික කටයුතු සදහා යොදා ගැනීමත් , හෙණ්ඩුවෙන් ඇනීමත් සත්ව හිංසාවක් නෙමෙයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටොම්</author>
+            <date>2012-07-24 09:01:20</date>
+            <index>11</index>
+            <phrase>ඇත්තටම කරඬුවද වඩම්මන්නේ..........???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියලත්</author>
+            <date>2012-07-24 09:09:25</date>
+            <index>12</index>
+            <phrase>----දළඳා සමිදු පිහිටයි.....!!!!!!!!!!!!!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-24 09:10:09</date>
+            <index>13</index>
+            <phrase>ගමරාළ, දෙයක් ලබා ගන්න දෙයක් කැප කරන්නම වෙනවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-07-24 09:22:50</date>
+            <index>14</index>
+            <phrase>අනේ දළඳා හාමුදුරුවනේ රටේ හැමතැනම හොරුනේ‍.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-07-24 10:10:36</date>
+            <index>15</index>
+            <phrase>රොහාන්, ඕවා ඔහොම තමයි. ප්‍රභාකරන් නැතිවුණා. කරුණා සහ පිල්ලෙයාන් රජ වුණා. එස්.එෆ්. හිරේ ගියා. දළදා සමිදු පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-24 11:49:36</date>
+            <index>16</index>
+            <phrase>මගේ මව් රට රැකදෙන්න දළදා හිමියනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-07-27 11:16:31</date>
+            <index>17</index>
+            <phrase>ලක්වැසි සැමට දළදා සමිදු පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

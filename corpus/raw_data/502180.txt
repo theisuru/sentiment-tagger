@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502180</articleId>
+    <title>නි.පොලිස්පති රියැදුරු ඝාතකයා අල්ලයි</title>
+    <author>කග කරුණාරත්න</author>
+    <date>2017 ජනවාරි මස 28 15:33:29</date>
+    <body>ජනාධිපති ආරක්ෂක අංශයේ ප්‍රධානී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති එස්.එම්. වික්‍රමසිංහ මහතාගේ නිල රියැදුරකු වූ පොලිස් සැරයන් ටී.ජී. විජේනායක මහතා ඝාතනය කිරීම සම්බන්ධයෙන් තරුණයකු සැකපිට අත්අඩංගුවට ගත් බව පොලිස් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.</body>
+    <comments>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-01-28 14:18:08</date>
+            <index>0</index>
+            <phrase>අපි ඉවසීමෙන් බලමුකෝ වෙන්නේ මොකක්ද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-29 04:24:33</date>
+            <index>1</index>
+            <phrase>හරියටම හරි එක්කෙනාද ඔය? නොදන්නා නිසයි අහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

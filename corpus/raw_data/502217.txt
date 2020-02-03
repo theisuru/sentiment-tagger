@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502217</articleId>
+    <title>මහා පරිමාන දැව ජාවාරමක් අල්ලයි</title>
+    <author>අමල් වික්‍රමරත්න</author>
+    <date>2017 ජනවාරි මස 28 21:18:32</date>
+    <body>ජංගම දැව ඉරුම් යන්ත්‍ර තුනක් භාවිතා කරමින් මහා පරිමාණ දැව ජාවාරමක නිරත වූ හත් දෙනකු දැව තොගයත් සමග අත්අඩංගුවට ගැනීමට  පොලිස් විශේෂ කාර්ය බලකායේ ගාල්ල හියාරේ කඳවුරු නිලධාරීහු සමත් වූහ.
+ගාල්ල ඉමදූව හල්පේ පැඟිරිහේන ප්‍රදේහයේ මෙම ඡාවාරම කලක සිට කරගෙන ගොස් ඇතැයිද කොස්, මැහෝගනී, නැදුන්, බුරුත, හල්මිල්ල ඇතුළු දැව තොගයක් පොලිස් බාරයට ගෙන ඇතැයි පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරීහු කියති</body>
+    <comments>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2017-01-28 16:30:29</date>
+            <index>0</index>
+            <phrase>දේශපාලන ආශිර්වදයකින් තොරව මෙවැනි වටිනා ගස් කපමින් කාලාන්තරයක් තිස්සේ මෙවැනි ජාවාරම් කළ නොහැකිය. දේශපාලුවෝ මේ රට නැති කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2017-01-28 20:20:20</date>
+            <index>1</index>
+            <phrase>මෙයට සම්බන්ධ දේශපාලන බලවතා ගැන අපිට අනුමානයෙන් සිතාගන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-29 00:17:34</date>
+            <index>2</index>
+            <phrase>ඒ කියන්නේ ප්‍රදේශයේ පොලිසිය මෙලෝදෙයක් දැනගෙන ඉඳලා නැහැ. හැමතැනම වැටලීමක් කළොත් එක්කෝ විශේෂ කාර්ය බලකාය, නැත්නම් දුෂණ මර්ධන ඒකකය. සාමාන්‍ය පොලිසිය ඉන්නේ සැලියුට් ගහන්න විතරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2017-01-29 06:37:48</date>
+            <index>3</index>
+            <phrase>වෙසක්, පොසොන්, ඇසළ මාස වල තොරණ් ඉදිකිරීම සඳහා පුවක් ගස් යොදා ගැනීම වෙනුවට වෙනත් ක්‍රමයක් යෙදුවොත් පුවක් අපනයන අාදායමත්, පසේ සෝදාපාළුව වැළැක්වීමත් දෙකටම රුකුලක් වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2017-01-29 19:08:15</date>
+            <index>4</index>
+            <phrase>රට නැතිකරන්න දෙයක් ඉතුරු වෙලා නැහැ. රට නැතිකරලා අවසානයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2017-01-29 23:26:20</date>
+            <index>5</index>
+            <phrase>වනාන්තර ආරක්ෂා කරන්න හමුදාවට දෙන එක තමා හොඳ. රජයේ නිලධාරීන් කරන්නේ පගාගන්න එක විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

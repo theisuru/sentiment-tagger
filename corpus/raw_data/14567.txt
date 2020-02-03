@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14567</articleId>
+    <title>දැවැන්තයා බිම</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 නොවැම්බර් මස 25 14:13:41</date>
+    <body>සැඩ සුළගත් සමග ගාල්ල අකුරුස්ස මාර්ගයේ  බෝගහගොඩ හන්දියේ දැවැන්ත නුග ගසක් කඩාවැටුනේය
+ </body>
+    <comments>
+        <comment>
+            <author>ජානු</author>
+            <date>2011-11-25 15:50:33</date>
+            <index>0</index>
+            <phrase>හරි පුදුමයි.. බුදුපිලිමයට මුකුත් වෙලා නෑ වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2011-11-25 16:51:31</date>
+            <index>1</index>
+            <phrase>බුදුපිළිමයට හානි වෙලා නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2011-11-25 20:00:08</date>
+            <index>2</index>
+            <phrase>නියම පුවත්නම් ලංකාදීප තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2011-11-26 11:07:49</date>
+            <index>3</index>
+            <phrase>අපේ ගමේ ලොකුම ගහ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

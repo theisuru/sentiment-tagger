@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50032</articleId>
+    <title>සූකී කැමරන් සමඟ</title>
+    <author>ඡායාරූපය  රොයිටර්</author>
+    <date>2012 ජූනි මස 25 10:49:05</date>
+    <body>බි‍්‍රතාන්‍යයේ සංචාරයක යෙදෙන මියන්මාර විපක්ෂ නායිකා අවුන් සාන් සූ කී පෙරේදා (23) බකින්හැම්ෂයර්හි පිහිටි බි‍්‍රතාන්‍ය අගමැති ඬේවිඞ් කැමරන්ගේ බංගලාවේ සංචාරයක යෙදුණාය.එම අවස්ථාවේදී බංගලාවේ රෝස උයන සූ කීට පෙන්වීමට ද අගමැති කැමරන් අමතක නොකළේය.</body>
+    <comments>
+        <comment>
+            <author>නිසා</author>
+            <date>2012-06-25 13:26:44</date>
+            <index>0</index>
+            <phrase>අනේ කුඩේ කැඩිලානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදියේ සිට</author>
+            <date>2012-06-25 13:16:48</date>
+            <index>1</index>
+            <phrase>අක්කයි...මල්ලියි වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂ්‍යාම්</author>
+            <date>2012-06-25 13:19:21</date>
+            <index>2</index>
+            <phrase>කුඩේ දිහා බලන්න හොදට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2012-06-25 15:22:47</date>
+            <index>3</index>
+            <phrase>කැමරන් ගේ කුඩේ කැඩිලා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-25 15:32:31</date>
+            <index>4</index>
+            <phrase>සුකීටත් හරි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමාසා</author>
+            <date>2012-06-25 15:16:12</date>
+            <index>5</index>
+            <phrase>හිරැ නොබසින අධිරාජ්‍යයේ අගමැති කෙතරමි නිහතමානීද අව්‍යාජද? අනේ දෙයියනේ අපේ රටට වෙලා තියෙන වින්නැහිය බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුරුම බබා</author>
+            <date>2012-06-25 21:13:07</date>
+            <index>6</index>
+            <phrase>බුරුමයේ විනාශය = සුකී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-06-25 23:35:50</date>
+            <index>7</index>
+            <phrase>ජන හද දිනු නායිකාවට ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරිමාලි</author>
+            <date>2012-06-26 02:21:12</date>
+            <index>8</index>
+            <phrase>කැමරන්ගේ කුඩෙත් හරියට බ්‍රිතාන්‍ය ආර්ථිකය වගේ ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

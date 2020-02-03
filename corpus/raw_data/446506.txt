@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446506</articleId>
+    <title>ජොන්ස්ටන්ට  රට යන්න අවසර</title>
+    <author>ෆාරුක් තාජුඩීන් ෂෙහාන් චාමික සිල්වා</author>
+    <date>2016 අගෝස්තු මස 11 11:03:00</date>
+    <body>හිටපු  වෙළඳ ඇමැති  ජොන්ස්ටන් ප්‍රනාන්දුට එතෙර යෑමට පනවා තිබු තහනම සැප්තැම්බර් 06 වැනි දා තෙක් ලිහිල් කළ බව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ගිහාන් පිලපිටිය මහතා අද (11) නියෝග කළේය.
+තම බිරිය සමඟ සිංගප්පුරුවට යැමට  ඔහු අධිකරණයෙන් අවසර  ඉල්ලා තිබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>තාබෘෘ සිල්වා</author>
+            <date>2016-08-11 08:01:31</date>
+            <index>0</index>
+            <phrase>මොන බිරිදද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිනු</author>
+            <date>2016-08-11 10:53:33</date>
+            <index>1</index>
+            <phrase>හොර සල්ලි හංගන්න යන ගමනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2016-08-11 12:02:49</date>
+            <index>2</index>
+            <phrase>මේකද යහපාලනේ කියලා තමා අහන්න වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-08-12 14:20:22</date>
+            <index>3</index>
+            <phrase>යුග ගී කියන්න යනවද?කා එක්කද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

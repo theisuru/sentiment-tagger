@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41409</articleId>
+    <title>පරීක්ෂණ පමා කළැයි වැඩ තහනම්</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 මැයි මස 09 12:12:00</date>
+    <body>ළමා අපචාරයකට සම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම පමා කළැයි තඹුත්තේගම පොලිසියේ පරීක්ෂක, උප පරීක්ෂක හා කොස්තාපල්වරයකුගේ වැඩ පොලිස්පති අණින් තහනම් කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ලෙස්ලි හර්බට් විජේසිංහ</author>
+            <date>2012-05-09 13:24:34</date>
+            <index>0</index>
+            <phrase>වැඩ පොලිස්පති අණින් තහනම් කැර ඇත. මොකද මේ තහනම තව දවස් කීපයකින් මේ ගොල්ලෝ ආපසු වැඩ. මේක නිවාඩුවක් දීමක්ද? තහනම් කරලා මදි දඩුවම් දෙන්න. තනතුර පහත කරන්න. අන්තිම අවවාදය දෙන්න. ආපසු සුළු වරදක් හරි කළොත් ගෙදරම යවන්න. නැතුව පොලිසිය හදන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් - මෙල්බර්න්</author>
+            <date>2012-05-09 14:12:08</date>
+            <index>1</index>
+            <phrase>බොරුවට මිනිස්සු රවට්ටනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-09 16:49:52</date>
+            <index>2</index>
+            <phrase>ප්‍රොමෝෂන් එකක් අත ළග වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනෝලි</author>
+            <date>2012-05-09 18:20:29</date>
+            <index>3</index>
+            <phrase>අල්ලලා කූඩුවට දාන්න තමයි ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජුන්ඩා</author>
+            <date>2012-05-09 22:15:03</date>
+            <index>4</index>
+            <phrase>අර කෝටිපති ව්‍යාපාරිකයෙකුගේ පුතෙක් කරපු අපචාර වැඩේ යට ගහන්න හදපු පොලිසියේ අයටත් දැන් මෙහෙම කරනවද පොලිස්පති තුමනි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීක</author>
+            <date>2012-05-09 22:23:23</date>
+            <index>5</index>
+            <phrase>ඕවා කට කහන කතා. තව්ස් හතෙන් උසස්වීම් ලැබේයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.ආර්.</author>
+            <date>2012-05-10 03:02:24</date>
+            <index>6</index>
+            <phrase>ඇයි මේ අහිංසක පොලිස් නිලධාරීන්ට මෙහෙම කළේ? නියම අපරාධකාරයෝ තවමත් නිදැල්ලේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජුවානිස්</author>
+            <date>2012-05-10 15:28:22</date>
+            <index>7</index>
+            <phrase>පොලිසියේ නම ගෑවිච්ච එක් කෙනෙක් ගැනවත් දැන් නම් විශෟවාස කරන්න බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

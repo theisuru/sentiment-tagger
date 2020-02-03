@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16200</articleId>
+    <title>කොටහේනේ උද්ඝෝෂණ</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 06 16:19:52</date>
+    <body>කොටහේනේ ජම්පටා වීදියේ ක‍්‍රිස්ටෝපර් ප‍්‍රනාන්දු නම් අයකු නාදුනන පිරිසක් විසින් පැහැර ගනු ලැබීමට විරෝධය දක්වමින් එම ප‍්‍රදේශවාසීහු දහසක් පමණ කොච්චිකඩේ ශාන්ත අන්තෝනි දේවස්ථානය ඉදිරිපිට රැස්ව මහ මග ටයර් පුළුස්සමින් රථ වාහනවලට බාධා කරමින් විරෝධය පළ කළහ.
+ </body>
+    <comments>
+        <comment>
+            <author>සොමිදු</author>
+            <date>2011-12-06 16:57:16</date>
+            <index>0</index>
+            <phrase>පැහැර ගත්ත එක වැරදි. හැමතැනම ඕකනෙ වෙන්නේ. ඒත් ඔය කරන වැඩෙන් පාර අවහිර වෙලා කී දෙනෙක් අමාරුවෙ වැටෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>haru</author>
+            <date>2011-12-06 16:58:14</date>
+            <index>1</index>
+            <phrase>පාතාලයට සම්බන්ධවුණා යිකයන්නේ මරණය තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

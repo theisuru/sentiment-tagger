@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484352</articleId>
+    <title>ලොහාන්ගේ බිරියටයි දුවටයි සුළු තුවාල</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 නොවැම්බර් මස 27 17:57:17</date>
+    <body>පාර්ලිමේන්තු මන්ත්‍රි ලොහාන් රත්වත්තේ මහතාගේ බිරිය හා දියණිය  දක්ෂිණ අධිවේගි මගේ පින්නදූව ලග්ගලදී සිදු වූ රිය අනතුරකින්  තුවාල ලබා කරාපිටිය රෝහලට ඇතුලත් කල බව පොලිසිය කියයි
+ගාල්ලේ සිට කොළඹ බලා දක්ෂිණ අධිවේගීි මගේ එමින් සිටි මෙම කාර් රියේ කාන්තාවන් පස්දෙනෙකු ගමන් කරමින් සිට ඇති බවද පොලිසිය කියයි</body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-11-27 14:55:10</date>
+            <index>0</index>
+            <phrase>හයි වේ වල යන්න ලංකාවේ දක්ෂ රියදුරන් ඉතාම අඩුයි. වාහනයක් කරකවන්න ඉගෙනගත්තට මදි. රියදුරු පාසල් වලත් එම ක්‍රම කියලා දෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2016-11-27 23:59:29</date>
+            <index>1</index>
+            <phrase>අනතුරට හේතුව මොකක්ද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2016-11-28 00:18:54</date>
+            <index>2</index>
+            <phrase>ලක්වැසියන්ට අධිවේගී මාර්ග තවම පුරුදු නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-11-28 01:05:29</date>
+            <index>3</index>
+            <phrase>ඔය කට්ටිය යන්න ඇත්තේ උඩින්ද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනතා අනුර</author>
+            <date>2016-11-28 03:36:02</date>
+            <index>4</index>
+            <phrase>වම් පසින් ඉස්සර කිරීම අනතුරට හේතුවයි මේ සඳහා දඩ මුදල 50,000 කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

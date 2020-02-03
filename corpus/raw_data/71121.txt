@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>71121</articleId>
+    <title>සූර්යයන් හතරක් ඇති ග‍්‍රහලොවක් හමුවෙයි</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  වොෂින්ටන් නුවරදීය</author>
+    <date>2012 ඔක්තෝබර් මස 17 09:57:29</date>
+    <body>පෘථිවියේ සිට ආලෝක වර්ෂ 5,000 ක් ඈතින් පිහිටා ඇති සූර්යයන් හතර දෙනකුගෙන් වට වුණු ග‍්‍රහලොවක් සොයා ගැනීමට ඇමෙරිකානු තාරකා විද්‍යාඥයෝ පිරිසක් සමත්ව සිටිති.
+පී.එව්. 1 යනුවෙන් නම් කර ඇති මෙම ග‍්‍රහලොව සොයා ගැනීමට හැකිවී ඇත්තේ ඇමෙරිකාවේ යේල් සරසවියේ තාරකා විද්‍යාඥයන් පිරිසකටය.
+එම ග‍්‍රහලොව වායුවලින් පිරුණු යෝධ ග‍්‍රහයකු වන අතර පෘථිවිය මෙන් 6 ගුණයක් විශාල යැයි ද වාර්තා වේ.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-10-17 10:55:39</date>
+            <index>0</index>
+            <phrase>එහෙ තමයි එහෙනම් "හතර දෙනාම සූරයෝ" ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා, සෞදි</author>
+            <date>2012-10-17 10:54:33</date>
+            <index>1</index>
+            <phrase>එහෙනම් ඉතින් අපිටත් බයක් නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූජ්‍ය පන්නසේකර හිමි</author>
+            <date>2012-10-17 11:50:13</date>
+            <index>2</index>
+            <phrase>දැන් තමා බුදු දහම එළියට එන්නේ.බුදුහාමුදුරුවො දේශනා කරල තියෙනවා සත්ත සූර්යෝද්ගමනය සූත්‍රය.ඒකෙ කියලා තියෙන්නේ ලෝකය විනාශ වෙන කොට එක ඉර, ඉරවල් හතක් දක්වා හට ගෙන මේ අපි ඉන්න ලෝකය දවසක විනාශ වෙනවා කියලා.ඉතින් මේක හොඳ උදාහරණයක්.ඉරවල් හතක් තියෙන ග්‍රහලෝකයක්. දැන්වත් ටිකක් සත්ත සුර්යෝද්ගමනය සූත්‍රය ගැන වැඩි අවධානයක් යොමු කරන්න. (ස) dan tama budu bana eliyata enne. buduhamuduruwo desana karala tiyena satta suriyodgamana sutraya. eke kiyanne lokaya vinasa wenakota eke eka irawal 7 k dakwa hatagena me api inna likaya dawasaka vinasa venawa kiyala. itin meka hoda udaharanayak. irawal hatarak tiyena grahalikayak. danwat tikak satta suriyodgamana sutra gana wadi awadanayak yoku karanda.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-10-17 13:19:08</date>
+            <index>3</index>
+            <phrase>පුදුමයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදකතුල්ලා ඇහැලියගොඩ</author>
+            <date>2012-10-17 13:49:22</date>
+            <index>4</index>
+            <phrase>සූර්යයන් හතක් ඇති බව කුරානයේ සදහන් වෙනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-10-17 19:58:01</date>
+            <index>5</index>
+            <phrase>ඔය කියන ග්‍රහ ලෝකය දැන් විනාශ වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

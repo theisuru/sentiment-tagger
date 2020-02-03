@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16527</articleId>
+    <title>ටෙලර් යන්ත්‍රකඩා ලක්ෂ පනහක් අරන් ?</title>
+    <author>කේඞී විජේපාල</author>
+    <date>2011 දෙසැම්බර් මස 09 10:12:13</date>
+    <body>කන්තලේ බැංකුවක ස්වයංක්‍රීය ටෙලර් යන්ත්‍රයක පෙරදින රාත්‍රියේ කඩා අඩුගණනේ රුපියල ලක්ෂ පනහක් පමණ සොරාගන්නට ඇතැයි පොලිසිය අනුමාන කරයි.</body>
+    <comments>
+        <comment>
+            <author>සොමිදු</author>
+            <date>2011-12-09 10:34:43</date>
+            <index>0</index>
+            <phrase>පොලිසියනෙ කියන්නේ. බැංකුව නෙමේනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජන මැක්ස්</author>
+            <date>2011-12-09 11:08:18</date>
+            <index>1</index>
+            <phrase>දැන් හොරු අළුත් වැඩක් පුරුදු වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2011-12-09 13:33:43</date>
+            <index>2</index>
+            <phrase>ඉක්මනටම එයාලව අහුවේවි. ටෙලර් යන්ත්‍ර වල හොරු ගැන බොහෝ දත්ත සටහන් වෙනවා. නොදන්නා අය තමයි මෙහෙම වැඩ කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

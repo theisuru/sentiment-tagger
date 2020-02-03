@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495312</articleId>
+    <title>‘සාගරිකා‘ පීලි පනී</title>
+    <author>දීපාල් ද සිල්වා</author>
+    <date>2017 ජනවාරි මස 02 20:34:36</date>
+    <body>කොළඹ සිට මාතර බලා ධාවනය වූ සාගරිකා දුම්රිය ගාල්ල දුම්රිය ස්ථානය ආසන්නයේ දී පීලි පැන ඇතැයි දුම්රිය ආරංචි පවසයි.
+මේ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ගමන් අම්බලන්ගොඩ දක්වා පමණක් සීමා වී ඇතැයි දුම්රිය පාලන අධිකාරිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-01-02 18:41:37</date>
+            <index>0</index>
+            <phrase>මේවා ඉතින් මේ රටේ සාමාන්‍ය සිදුවීම් වෙලානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2017-01-03 02:55:54</date>
+            <index>1</index>
+            <phrase>දකුණට යන ඒවා කොහොමත් ඔහොම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

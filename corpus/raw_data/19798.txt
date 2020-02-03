@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19798</articleId>
+    <title>අධිවේගී ධාවනයට ලංගමත් එයි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2011 දෙසැම්බර් මස 29 14:24:43</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ ශ්‍රි ලංගම බස් ධාවනය ජනවාරි 3 වැනි දා සිට ආරම්භ කරන බව ශ්‍රී ලංගම සභාපති එම්.ඩී. චන්ද්‍රසේන මහතා පැවැසීය. ඒ සඳහා අධිසුඛෝපභෝගී බස් දෙකක් යොදවන බවත් එය ගාල්ල - මහරගම අතර ධාවනයට යොදවන බවත් සභාපතිවරයා කියයි. එක් ගමන් වාරයකට රුපියල් 400කි.</body>
+    <comments>
+        <comment>
+            <author>ගාල්ලේ සමන්</author>
+            <date>2011-12-29 15:19:14</date>
+            <index>0</index>
+            <phrase>ඒ කියන්නේ කොළඹ මහරගමට ගේනවා කියන එක ද? යන්න ඕන කරන්නේ කොළඹට නම් එතැන සිට තවත් පැයක් රුපියල් 35.00 දීල යන්න ඕන ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්මි</author>
+            <date>2011-12-29 17:17:49</date>
+            <index>1</index>
+            <phrase>මේ අයට හරියට සැලැස්මක් නෑ. මහරගමද කොලඹද අගනුවර?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2011-12-29 18:24:07</date>
+            <index>2</index>
+            <phrase>හැමෝම එන්නේ පිටකොටුවෙ යන්න නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් විජේවර්ධන -ලන්ඩන්</author>
+            <date>2011-12-29 21:31:58</date>
+            <index>3</index>
+            <phrase>සමන් - 100%ක්‌ හරි.. පැයක්‌ නෙමේ school time 1කට නුගේගොඩ පාස්‌ කරල කොළඹ යන්න පැය 2කක්‌ වත් යනවාමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහරගම සමන්</author>
+            <date>2011-12-29 21:55:10</date>
+            <index>4</index>
+            <phrase>කොළඹ මහරගමට ගේන්න පුළුවන් නම් කොච්චර හොඳද? කියන්න දෙයක් නැතුවට කියන කතා ඕව. මහරගම ඉඳං කොළඹට රු. 26/=යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Ash</author>
+            <date>2011-12-29 23:31:54</date>
+            <index>5</index>
+            <phrase>එහෙම කැමති නැති කෙනෙක් ඉන්නව නම් ගාලු පාර දිගේ වෙනදා විදියටම යන්න පුලුවන් පැයෙන් යන එක පැය 3 ක් 4 ක් අරගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2011-12-29 23:37:23</date>
+            <index>6</index>
+            <phrase>ඒක හොදයි. ඒත් පෞද්ගලික බස් සේවයට නම් දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>KKW</author>
+            <date>2011-12-30 08:01:47</date>
+            <index>7</index>
+            <phrase>මේව දැම්මා වගෙ නෙමෙයි ඔය ලංගම රියදුරු මහත්තුරු ටික පාරෙ නයා ගියා වගෙ යයිද දන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිරංග සේනාරත්න</author>
+            <date>2011-12-30 08:29:56</date>
+            <index>8</index>
+            <phrase>ඒක හරියනේ නෑ. බස් එකට නගින්න අපි මහරගමට එන්න ඕනෙද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මගියා</author>
+            <date>2011-12-30 08:51:05</date>
+            <index>9</index>
+            <phrase>ගාන නම් හොදටම වැඩියි. වාහනේකයි, මගියෙකුගෙයි ගාන එකක් වෙන්නෙ කොහොමද? සාමාන්‍ය ගාන වගේ හතර ගුණයක් දීලා පැයෙන් යන්න තරම් අයත් ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමීර</author>
+            <date>2011-12-30 08:57:37</date>
+            <index>10</index>
+            <phrase>ඒක හොද අදහසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2011-12-30 09:11:19</date>
+            <index>11</index>
+            <phrase>ඒක නම් හොඳ වැඩක්... කොළඹටම දානවනම් තවත් හොඳයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2011-12-30 10:06:48</date>
+            <index>12</index>
+            <phrase>ගාල්ලේ සිට කොට්ටාවට එන්න එක පැයයි. එතන සිට මහරගමට යන්න තවත් පැයක් ගතවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ssp</author>
+            <date>2011-12-30 15:08:48</date>
+            <index>13</index>
+            <phrase>ගාලු යන හැමෝම කොළඹ කොටුවෙ සෙනගද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2011-12-30 16:20:42</date>
+            <index>14</index>
+            <phrase>හොඳ අදහසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>trishan</author>
+            <date>2011-12-31 10:41:20</date>
+            <index>15</index>
+            <phrase>ගාල්ලෙ සිට කොළඹ පාර මහරගම දක්කාව වැඩ නිම උනා සේ කොළඹ සිට කටුනායක දක්වා පරට සම්බන්ධ වී 2014 දී වැඩ නිම වී රටට ආසිරිය ගෙනේවී. ඊර්ෂිය කරන්න එපා උපෙක්ෂාවෙන් බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරල්ගම</author>
+            <date>2011-12-31 21:09:30</date>
+            <index>16</index>
+            <phrase>මහරගමට යන්න පැයක් යනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

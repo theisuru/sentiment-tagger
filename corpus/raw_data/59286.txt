@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59286</articleId>
+    <title>තව 59 කගේ ඉසුරු සිඳේ</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අගෝස්තු මස 17 10:46:32</date>
+    <body>බෝට්ටුවකින්  ඕස්ටේ‍්‍රලියාවට හොරෙන් යන්නට ගිය 59 දෙනකු මුලතිව් අලම්පිල් මුහුදේ දී අත්අඩංගුවට ගත් නාවික හමුදාව ඔවුන් අද අලූයම ති‍්‍රකුණාමලයේ නාවික ජැටියට රැගෙන ආවේය. එහි සිටි සිංහලයන් 39 දෙනා ති‍්‍රකුණාමලයේ පුල්මුඬේ ධීවර වරාය පෙදෙසින් බෝට්ටුවට නැග ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2012-08-17 11:15:53</date>
+            <index>0</index>
+            <phrase>ඔය මිනිස්සු යන්නේ ඉසුරු සොයාගෙන නෙමෙයි..මෙහෙ ඉන්න බැරුවයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-08-17 14:16:44</date>
+            <index>1</index>
+            <phrase>ඉසුරු සිඳේ කියල මේ සිද්ධිය හාස්‍යය ජනකව සිතන්න එපා..මෙහේ ඉන්න බැරි නිසානේ දිවි පරදුවට තබල යන්නේ...පව් අසරණ මිනිස්සු...පාලකයෝ විතරක් ස්වයං පෝෂිත වෙලා වැඩක් නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-08-17 14:42:18</date>
+            <index>2</index>
+            <phrase>ඊළග වතාවේ වෙන පාරකින් යන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-08-17 15:47:46</date>
+            <index>3</index>
+            <phrase>ඇයි එයාලව අල්ලන්නේ, යන්න දෙන්නේ නැතුව? එයාලා එහෙම ගියහම අපේ රටේ රැකියා ප්‍රශ්නත් ඉබේම විසදෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

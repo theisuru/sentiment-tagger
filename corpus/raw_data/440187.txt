@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>440187</articleId>
+    <title>කාබුල් නුවරට ප්‍රහාරයක් : 80ක් මරුට</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජූලි මස 24 09:35:14</date>
+    <body>ඇෆ්ගනිස්තානයේ කාබුල් අගනුවරට එල්ලවූ මරාගෙන මැරෙන ප්‍රහාරයකින් 80 දෙනකු මිය ගොස් 230කට අධික පිරිසක් තුවාල ලබා ඇතැයි විදෙස් මාධ්‍ය වාර්තා පවසයි.
+එම ප්‍රහාරයේ වගකීම අයිඑස් සංවිධානය බාරගෙන ඇතැයි කියති.
+කාබුල් අගනුවර ආසන්නයේ පැවැති විරෝධතා පෙළපාළියකට මරාගෙන මැරෙන ප්‍රහාරය එල්ල විය.</body>
+    <comments>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-07-24 08:00:18</date>
+            <index>0</index>
+            <phrase>මේකෙන් පෙන්නේ මේ අධම අය ලෝකෙම විනාශ මුඛයට යවන බවයි ...කොහොම වුනත් අපේ අවිහින්සාවාදී බුදුපියාණන්ගේ බාමියන් බුදු පිළිම කඩපු උන්ට නම් හොඳක් වෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2016-07-24 23:09:01</date>
+            <index>1</index>
+            <phrase>ටිකිරි සමඟ මමත් එකඟයි. විශ්වය විසින් බුදුදහමේ පැවත්මට නිගාදෙන අයට ක්‍රමවත්ව දඬුවම් දෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-07-25 00:39:47</date>
+            <index>2</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2016-07-25 07:41:33</date>
+            <index>3</index>
+            <phrase>නූගත් මිනිස්සු හින්දා මුළු ලෝකයම දිනෙන් දින අගාධයට යනවා. අන්ධ භක්තියෙන් ඇස් නොපෙනී ගොස් ඇති බැවින් සහ බුද්ධියක් නොමැති බැවින් මේ අය ඕනෑම දෙයක් කරන්න පෙලඹෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

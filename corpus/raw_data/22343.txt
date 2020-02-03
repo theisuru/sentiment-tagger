@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22343</articleId>
+    <title>වැරැදි වැඩෙන් නොමැරී බේරෙයි</title>
+    <author>කග කරුණාරත්න</author>
+    <date>2012 ජනවාරි මස 17 13:44:30</date>
+    <body>වැලිකන්ද සිංහපුර යුද හමුදා වෙඩි පිටියේ යකඩ කෑලි ඇහිලීමට අනවසරයෙන් ඇතුළු වූ තරුණයන් දෙදෙනකු එහි තිබූ බෝම්බක් පිපිරි තුවාල ලබා රෝහල්ගත කළ බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>මංජු</author>
+            <date>2012-01-17 15:18:54</date>
+            <index>0</index>
+            <phrase>හොරකමේ ගියාට හොඳ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

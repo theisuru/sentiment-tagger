@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>293555</articleId>
+    <title>මෙහෙම සැපක් නැත චෝගම් ජංගම සැප වාගේ</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2015 ජනවාරි මස 30 15:08:58</date>
+    <body>2013 පොදු රාජ්‍ය මණ්ඩලීය නායක සමුළුවට ගෙනා බස් දෙකක් විදේශ අමාත්‍යංශයේදී අද (30) මාධ්‍යවේදීන්ට දැකගත හැකිවිය.
+සියලු පහසුකම්වලින් යුත් මෙම බස් තරු 5 හෝටලයක් වැනිය. නිදන කාමර, ශීතකරණ, සැප පහසු ආසනවලින්ද සමන්විතය.
+මෙම බස් ප්‍රභූවරයකුගේ පුත්‍රයකුගේ පාවිච්චියට ගන්නට ඇතැයි කියති.
+බසයක වටිනාකම අඩු ගණනේ රුපියල් කෝටි 2 ඉක්මවතියි දැනගන්නට ඇත.
+
+
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සකුවි</author>
+            <date>2015-01-30 11:20:02</date>
+            <index>0</index>
+            <phrase>මේවා ඉතින් ළිදේ ඉන්න මැඩියන්ට මැජික් උනාට, රටේ ලෝකේ ගැන දන්න අයට මැජික් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත හීනටිගල</author>
+            <date>2015-01-30 13:30:38</date>
+            <index>1</index>
+            <phrase>අප රටේ දනය විශාල ලෙස කාබාසිනියා කරලා. මේවා ජාතික අපරාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2015-01-30 13:32:18</date>
+            <index>2</index>
+            <phrase>විදේශයෙන් ආ රාජ්‍ය නායකයන් ටිකට ගොන් කරත්ත ටිකක් සුදානම් කරලා තිබුනේ නැති එකේ විපාක තමයි මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2015-01-30 15:02:48</date>
+            <index>3</index>
+            <phrase>එකත් ඉන්දියන් වාහනයක්., ලංකාවට මේ ප්‍රමිතියක් නැති ඉන්දියන් වාහන ගෙන්නන එක අඩු කරන්න, බැරිද මයික්‍රේා් ආයතනය මේ වාහන හදන එක දියුණු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කෝදාගොඩ</author>
+            <date>2015-01-31 08:50:53</date>
+            <index>4</index>
+            <phrase>මේ ඉන්දියන් වාහනයක් නොවෙයි, ලංකා අශෝක ලේලන්ඩ් කියලා නම පටන් ගන්නේ ඉන්දීය වාහනද ? මේ ලංකාවේ නිෂ්පාදිත වාහනය දැක්කහම අපේ අයගේ නිෂ්පාදන හැකියාවන් ගැන සතුටකුත් ඇතිවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන් සඳරුවන්</author>
+            <date>2015-02-01 01:43:46</date>
+            <index>5</index>
+            <phrase>පොදු රාජ්‍ය මණ්ඩලයේ නායකයා වෙලා ලෝක නායකයා වෙන්න හිතාගෙන නේද හිටියේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2015-02-05 05:34:08</date>
+            <index>6</index>
+            <phrase>මේක සරල දෙයක්. අපි දැන් ඉන්නේ ආසියාවේ හොඳ රටක. අපේ රටේ අය මේ තාක්ෂණය ලබාගත්තහම මොකද වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

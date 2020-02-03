@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502084</articleId>
+    <title>රට සහල් බදු රු10කින් බහී</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 27 19:52:55</date>
+    <body>ආනයනික සහල් සඳහා කිලෝග්‍රෑමයට රුපියල් 15ට පැවැති  විශේෂ වෙළෙඳ භාණ්ඩ බද්ද රුපියල් පහ දක්වා අඩු කළ බව මුදල් අමාත්‍යංශය කියයි.
+අද මධ්‍යම රාතියේ සිට මෙය ක්‍රියාත්මක වේ.</body>
+    <comments>
+        <comment>
+            <author>සිසිර පැරිස්</author>
+            <date>2017-01-27 15:30:58</date>
+            <index>0</index>
+            <phrase>ඇයි බදු නැතිව හාල් ගෙන්නුවත් මොකද වෙන්නේ නියගයත් රජයට ලබාදෙනවා මෙහෙමත් ගාසා කෑමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලාන්</author>
+            <date>2017-01-27 16:08:08</date>
+            <index>1</index>
+            <phrase>රටේ බත් කන ජනතාවක් සිටින බව කල්ගතවී හෝ තේරුම් ගත් ආණ්ඩුවට මාගේ හද පිරි ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ</author>
+            <date>2017-01-27 16:41:08</date>
+            <index>2</index>
+            <phrase>රටේ කෘෂිකර්මාන්තය නිසියාකාරව නඟාසිටුවවන්න නම් පිටින් සහල් ගෙන්න ඕනෑ නැහැනේ. කිසිම රජයකින් මේ ගැන සැළකිලිමත් වුණේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-27 20:28:40</date>
+            <index>3</index>
+            <phrase>ලංකාවේ වගේ රෑට නින්දට ගිහින් උදේට නැගිටිනකොට බදු වෙනස් වෙන රටක් මේ තුන් ලෝකෙම නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-28 02:49:44</date>
+            <index>4</index>
+            <phrase>ඕකේ නියම වාසිය මහජනතාවට ලැබෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2017-01-28 07:51:57</date>
+            <index>5</index>
+            <phrase>මෙම සහල් ගෙන්වන්න තිබුනේ අඩුම තරමේ මාස 2 කට පෙර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2017-01-28 17:32:49</date>
+            <index>6</index>
+            <phrase>විපක්ෂයේ රැලියේ ප්‍රගතියක් තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

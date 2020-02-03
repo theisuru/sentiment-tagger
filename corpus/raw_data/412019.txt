@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>412019</articleId>
+    <title>පාරවල් ගැන දැනගන්න 1968ට කතා කරන්න</title>
+    <author></author>
+    <date>2016 මැයි මස 04 14:49:57</date>
+    <body>මාර්ග සංවර්ධන අධිකාරියේ තොරතුරු මධ්‍යස්ථානය හා 1968 ක්ෂණික දුරකතන ඇමතුම් සේවාව ඇමැති ලක්ෂ්මන් කිරිඇල්ල මහතා අතින් විවෘත කැරිණි.
+1968 අංකයෙන් මාර්ග සංවර්ධන අධිකාරිය සහ මහාමාර්ග අමාත්‍යංශය පිළිබඳ ඕනෑම තොරතුරක් ක්ෂණිකව ලබා ගැනීමේ හැකියාව ඇතැයි එම අමාත්‍යංශය කියයි.
+මාර්ග සංවර්ධන අධිකාරිය යටතේ ඇති පාලම්, මහාමාර්ග, අධිවේගීමාර්, ව්‍යාපෘති, මාර්ග පද්ධතිය ගැන අධ්‍යාපන තොරතුරු, විවිධ ප්‍රදේශවලට ඇති දුර හා ගතවන කාලය පිළිබඳ තොරතුරු ආදි එම අංකයෙන් දැන ගත හැකි බවත්, ව්‍යාපෘතිවල සිදුවන අක්‍රමිකතා පිළිබඳ දැනුම් දිය හැකි බවත් අමාත්‍යංශය සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>විදානේ</author>
+            <date>2016-05-05 00:48:46</date>
+            <index>0</index>
+            <phrase>බොහොම හොඳ වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-05-05 00:48:46</date>
+            <index>1</index>
+            <phrase>මේ සේවාව අඛණ්ඩවම එකලෙස ක්‍රියාත්මක වුණොත් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනිත</author>
+            <date>2016-05-05 02:33:21</date>
+            <index>2</index>
+            <phrase>ඉතා හොඳ ආරම්භයක්. දැනුම්දීම් සඳහා ඉක්මන් ක්‍රියාමාර්ග සහ ප්‍රතිචාර තිබීම ඉතා වැදගත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2016-05-06 02:20:05</date>
+            <index>3</index>
+            <phrase>පාරවල් ගැන අහගන්න මේ අංකයට කතා කරන්න අවශ්‍යමද? ලංකාවේ හැමෝම ලංකාවේ පාරවල් ගැන හොඳටම දන්නවා ඇතිනේ. විදේශිකයෝ නොවන සියල්ලෝම ලංකාවේ පාරවල්වල ගමන් බිමන් ගිය උදවිය නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-05-06 02:29:27</date>
+            <index>4</index>
+            <phrase>බොහොම හොඳ වැඩක්. එහෙනම් කතා කරලම බලන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-05-06 02:40:46</date>
+            <index>5</index>
+            <phrase>බොහොම හොඳ වැඩක්. නමුත් කතා කරලාම බලන්නකෝ. මගේ පළමු උත්සාහය මිනිත්තු 18යි. දෙවන උත්සාහය මිනිත්තු 23යි. අත්හැරලාම දැම්මා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2016-05-06 15:48:01</date>
+            <index>6</index>
+            <phrase>දැන් ඕනෑ කෙනෙකුට 1918 අමතා අදාළ ඕනෑ තොරතුරක් දැනගන්න පුළුවන්නේ එහෙනම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

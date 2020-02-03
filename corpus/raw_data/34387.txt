@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34387</articleId>
+    <title>රූ රැසේ අඳිනා ලෙසේ අත් ළෙල දිදී විදුලිය පබා</title>
+    <author>නුවරඑළිය ෂෙල්ටන් හෙට්ටිආරච්චි</author>
+    <date>2012 අපේ‍්‍රල් මස 01 16:45:22</date>
+    <body>නුවරඑළියේ වසන්ත සැනකෙළිය පාසල් සිසුන්ගේ තූර්ය වාදන සංදර්ශනයකින් අද ඇරැඹිණි. තූර්ය වාදන කණ්ඩායම් 49 ක සිසුහු 1500 ක් ඊට එක් වූහ. ඇමැති නවින් දිසානායක, මහ දිසාපති ඞී.පී.ඞී.කුමාරසිරි, නගරාධිපති මහින්ද දොඩම්පේගම මහත්වරු ආරාධිතයෝ වූහ.</body>
+    <comments>
+        <comment>
+            <author>නුවර එළියේ කමල්</author>
+            <date>2012-04-01 16:56:17</date>
+            <index>0</index>
+            <phrase>මුන් එදා දුන් රග දුටොත් මැති ඇමතින් මුන් ලග දෙපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-04-01 17:44:40</date>
+            <index>1</index>
+            <phrase>නැහැ නැහැ මැති ඇමති නෙමේ පලාත් සභා බළාත් සබා පළාත් සභා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චූලරත්න</author>
+            <date>2012-04-01 18:19:23</date>
+            <index>2</index>
+            <phrase>බලන්න ලංකාවේ නැටුම් බලන්න ආසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගා ශානි.</author>
+            <date>2012-04-01 19:10:59</date>
+            <index>3</index>
+            <phrase>දුකයි. ලංකාවට යන්න විදියක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසිදු</author>
+            <date>2012-04-01 19:38:37</date>
+            <index>4</index>
+            <phrase>කමල් අයියේ ඔබගේ කටේ මසුරන් දැමුවත් මදිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනේෂ්</author>
+            <date>2012-04-01 21:43:27</date>
+            <index>5</index>
+            <phrase>අර මොකෝ යනන බැරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

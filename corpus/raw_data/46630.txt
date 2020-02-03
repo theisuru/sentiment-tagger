@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46630</articleId>
+    <title>ඉමදූව පොලිසියේ 16ක් මාරු</title>
+    <author>ප්‍රේමතිලක ද සිල්වා</author>
+    <date>2012 ජූනි මස 05 15:37:51</date>
+    <body>ඉමදූව පොලිසියේ ස්ථානාධිපති ඇතුළු 16 දෙනෙක් සේවයේ අවශ්‍යතා මත වහාම මාරුකරනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2012-06-05 15:51:50</date>
+            <index>0</index>
+            <phrase>පව්,,,,,අවන්ක, නිහතමානී , ගුණ ගරුක , බුද්ධිමත් නිලධාරීන් ,,,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-05 15:55:43</date>
+            <index>1</index>
+            <phrase>එහෙනම් මෙයාලත් මාරුවෙලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-06-05 17:30:55</date>
+            <index>2</index>
+            <phrase>16 දෙනෙක් එකවර මාරැකරන්න සේවය ‍හොදට කරන්න ඇති....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍ෆිරෝ</author>
+            <date>2012-06-05 18:32:56</date>
+            <index>3</index>
+            <phrase>නැතුව නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්රොක්ස්....</author>
+            <date>2012-06-05 18:00:55</date>
+            <index>4</index>
+            <phrase>මම හිතන්නේ උසස්වීමක් දෙන්න ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-05 19:52:01</date>
+            <index>5</index>
+            <phrase>හපෝයියියි සමහර අය පාරවල්වලින් මාරැවෙනවා. සමහර අය විදේශිය රටවලට මාරැවෙනවා. සමහරඅය දේශපාලනයෙන් මාරැවෙනවා. මෙ අයත්මාරැවෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මංජුල</author>
+            <date>2012-06-05 20:32:07</date>
+            <index>6</index>
+            <phrase>අරන් මාරැද කාල මාරැද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහිංසක</author>
+            <date>2012-06-05 21:37:40</date>
+            <index>7</index>
+            <phrase>සේවා අවශ්‍යතා මතද, වෙන කාගෙහරි අවශ්‍යතා මතද..???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරේන්ද්‍ර</author>
+            <date>2012-06-06 00:15:13</date>
+            <index>8</index>
+            <phrase>හොඳ වැඩේ. කවුරු කලත් පින් ලැබෙන්න ඔනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්.</author>
+            <date>2012-06-06 10:52:37</date>
+            <index>9</index>
+            <phrase>ලංකාවේ මම දැකපු නරකම පොලිසිය ඕක තමා, මගෙනුත් පගාව අරන් තියනවා බොරුවට ඔය පොලිසිය ඉස්සරදීම, හොද වැඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2012-06-06 14:47:17</date>
+            <index>10</index>
+            <phrase>නීතිය කලත් වැරදියි...නොකලත් වැරදියි...කාගෙද වරද ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

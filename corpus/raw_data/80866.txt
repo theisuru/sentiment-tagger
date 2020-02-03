@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>80866</articleId>
+    <title>වඩිනාගල අදත් හෙල්ලේ</title>
+    <author>වසන්ත චන්ද්‍රපාල</author>
+    <date>2012 නොවැම්බර් මස 30 09:33:18</date>
+    <body>අම්පාර වඬිනාගල අද අලුයම දෙවරක්ම පොළොව හෙල්ලුම් කෑ බව එහි වැසියෝ කියති. වඬිනාගල ඇතුළු ගම්මාන කිහිපයකට මෙම තත්ත්වය දැනී ඇත. පෙරදින ද තෙවරක්ම හෙල්ලුම් කෑවේය.
+
+
+වඩිනාගල හෙල්ලෙයි
+වඩිනාගල යළි හෙල්ලේ
+චලන සොයන්න ගල් පුපුරුවයි
+වඩිනාගල පිපිරීම් භූ විද්‍යාඥයන්ට ප්‍රශ්නයක්
+දමන කම්පන හේතුව අබිරහසක්
+වඩිනාගල අදත් හෙල්ලේ
+වඩිනාගල යළි හෙල්ලේ
+දමන ගම් හතරක් හෙල්ලේ</body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-30 10:34:14</date>
+            <index>0</index>
+            <phrase>මැරෙන්න බය වෙන්න එපා . නමුත් ධාර්මිකව ජීවත් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-11-30 10:59:16</date>
+            <index>1</index>
+            <phrase>සුභ නැහැ මේ වෙන වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-11-30 13:01:51</date>
+            <index>2</index>
+            <phrase>ලෝක විනාසේ...ලෝක විනාසේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-11-30 15:31:08</date>
+            <index>3</index>
+            <phrase>මේ වෙන වැඩේ ලේසි පහසු වැඩක් නොවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-11-30 18:50:09</date>
+            <index>4</index>
+            <phrase>මේ දේ දැන් පුරුද්දට ගිහිල්ලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනූ</author>
+            <date>2012-11-30 19:29:57</date>
+            <index>5</index>
+            <phrase>හොඳ ආරම්භයක් සහ අවංකවම සතුටු වූ දවසක් ! තව දුරටත් මෙවන් පුණ්‍යකර්ම කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-11-30 21:40:14</date>
+            <index>6</index>
+            <phrase>දිනෙන් දින වැඩිවන අපරාධ ගැන පොළවත් කැළඹිලා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාල්</author>
+            <date>2012-11-30 22:07:36</date>
+            <index>7</index>
+            <phrase>ලෝක විනාසේ ලෝක බොරුවක්, පොළව හෙලවෙන්නේ භූමි කම්පාවකට ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

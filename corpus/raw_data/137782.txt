@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>137782</articleId>
+    <title>ඉන්දුනීසියාවේ භූමි කම්පාවක්</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  ජකර්තා නුවරදීය</author>
+    <date>2013 ජූනි මස 15 00:00:56</date>
+    <body>ඉන්දුනීසියාවේ ජාවා දිවයිනට ඔබ්බෙන් මුහුදු පතුළ පෙරේදා (13) රික්ටර් පරිමාණයේ ඒකක 6.7 ක් සටහන් කළ භූමි කම්පාවකින් දෙදරා ගියේය. භූමි කම්පාවේ ප‍්‍රබලත්වය කිලෝ මීටර් 400 ක් දුරින් පිහිටි ජකර්තා නුවරට දැනුණු බව ද පැවැසෙයි. භූමි කම්පාවෙන් ජීවිත හෝ දේපොළ හානි හෝ සිදු නොවුණු අතර සුනාමි අනතුරු ඇඟවීම් ද නිකුත් නොකෙරුණි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2013-06-15 08:23:30</date>
+            <index>0</index>
+            <phrase>අනේ ඉක්මනටම ලංකාවේ අපේ කාලගුණ දෙපාර්තමේන්තුවත් දැනුවත් කළා නම් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-06-16 10:19:06</date>
+            <index>1</index>
+            <phrase>කොහෙද අල්ලාහ් ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

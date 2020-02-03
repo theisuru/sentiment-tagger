@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>346321</articleId>
+    <title>පාණ්ඩ්‍ය කාලේ බුදු රුවක් මතුවෙයි</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2015 සැප්තැම්බර් මස 08 15:24:02</date>
+    <body>නෙළා නිම නොකළ බුදු රුවක් තමිල්නාඩුවේ ආඬිපත්ති රෝසල්පත්ති ගමෙන් සොයාගත් බව පාණ්ඩ්‍යනාඩු පර්යේෂණ මධ්‍යස්ථානය කියයි.
+මෙම බුද්ධ රූපයේ මූර්ති ශිල්පීන් ජෛන ආගමට සම්බන්ධ බව පෙනේ යැයිද, පාණ්ඩ්‍ය අධිරාජ්‍යයට යටත්ව තිබූ පෙදෙසකින් එවැනි පිළිරුවක් සොයාගැනීම ඉතා දුර්ලබ දෙයක් බවද මෙම පිළිමවහන්සේ දසවැනි සියවසට අයත් බව පෙනේ යැයිද පුරාවිද්‍යාඥයෝ කියති.
+එරමිණියා ගෙතූ පද්මාසන ස්වරූපයෙන් පිළිමවහන්සේ නෙළා ඇති බවත් සිරස සම්පූර්ණ කර නැති බවත්  පිළිමවහන්සේ නිරීක්ෂණය කළ විද්වත්හු කියති.
+ගරා වැටුණු ශිව දේවාලයක තිබී එම ප්‍රතිමාව සොයාගෙන ඇත.
+(හින්දු පුවත්පත ඇසුරෙනි)</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියංක</author>
+            <date>2015-09-08 11:53:37</date>
+            <index>0</index>
+            <phrase>බුදු රුවක් ජෛන ආගමේ තියෙනවද? මොකක්ද මේ කියල තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙස්මන්</author>
+            <date>2015-09-08 12:24:49</date>
+            <index>1</index>
+            <phrase>පරික්ෂණ වලින් ඉදිරියේදී වැදගත් ‍තොරතුරු රැසක් හෙළිවේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉලේපෙරුම</author>
+            <date>2015-09-08 15:15:53</date>
+            <index>2</index>
+            <phrase>මේක ජෛන මුනි මහාවීර තුමාගේ පිළිරුවක්. මහාවීර තුමාගේ පිළිම හා බුදු පිළිම බොහෝ සෙයින් එකිනෙකට සමානයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2015-09-09 04:17:10</date>
+            <index>3</index>
+            <phrase>සාදු සාදු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෝසන්</author>
+            <date>2015-09-09 04:35:49</date>
+            <index>4</index>
+            <phrase>පුදුමයි ඉතිරිවුණ එක මේ පිළිම බේරුවට දෙවිදුන්ට ඉතුති වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉනෝකා</author>
+            <date>2015-09-09 08:12:17</date>
+            <index>5</index>
+            <phrase>මා ජීවත්වෙන රටේ,වරෙක මෙතුමන් වැඩහිඳිනා මන්දීරයට පිය නඟද්දී මුලින් මා සිතුවේ අප දැක පුරුදු බුදු හිමියන්ගේ පිළිරුවක් බවයි.නමුත් පසුව දැනගැනීමට ලැබුනේ ජෛයින මුනි මහාවීර මුණිතුමන්ගේ පිළිරුවක් බව.ඉන්දියාවේ බිහාර් ප්‍රාන්තයේ උපත ලද මෙතුමන්ගේ පිළිරුව බුදු සමිඳුගේ පිළිරුවට බොහෝ සේ සමානයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිරපාල</author>
+            <date>2015-09-09 11:43:21</date>
+            <index>6</index>
+            <phrase>හොඳ සොයාගැනීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චම්පා වෛද්‍යතිලක</author>
+            <date>2015-09-12 02:09:43</date>
+            <index>7</index>
+            <phrase>මේ ප්‍රතිමාව ජෛන මහාවීරතුමාගේ යැයි සිතමි. මන්ද එය ශිව දේවාලයකින් හොයාගැනීම. ඒ නිසා අරුමයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

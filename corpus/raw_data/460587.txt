@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460587</articleId>
+    <title>ක්‍රිකට් ක්‍රීඩකයා මරුට : ගුරුවරයෙක් සැකපිට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 23 11:24:00</date>
+    <body>ක්‍රිඩා සමාජ ක්‍රිකට් ක්‍රීඩකයකු බොරලැස්ගමුව රත්තනපිටියේ දී ජිප් රියකට යට වී මිය ගිය බවත් රිය පැදවු  ගුරුවරයකු  අත්අඩංගුවට ගත් බව පොලිසිය කියයි. </body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-09-23 07:05:20</date>
+            <index>0</index>
+            <phrase>අපේ ක්‍රිකට් ක්‍රීඩකයින්ට අපලයි වගේ මේ කාලේ. ඔහුට නිවන් සුව ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකුන්තලා</author>
+            <date>2016-09-23 07:20:06</date>
+            <index>1</index>
+            <phrase>ඉස්සර ගුරුවරයෙක් කිව්වහම ගෞරවයක් සමාජය වෙතින් ලබාගත් පුද්ගලයෙකු ලෙසයි සැළකුනේ. එහෙත් අද වනවිට ගුරුවරයෙකු කී විට මැවී පෙනෙනුයේ එහෙම පුද්ගලයෙකු නොවේ. හැමෝම එහෙම නොවුණාට සමාජ කතිකාවත ඒ ආකාරයට ඇතිවෙලා තිබෙනව බව නම් නොකිවයුතුමනාය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත</author>
+            <date>2016-09-23 08:19:30</date>
+            <index>2</index>
+            <phrase>ක්‍රිකට් ක්‍රීඩකයින්ට හරිම අපල කාලයක් අනතුරු වලින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත පතිරණ</author>
+            <date>2016-09-23 08:36:20</date>
+            <index>3</index>
+            <phrase>මේ දවස්වල ක්‍රිකට් ක්‍රීඩකයන්ට වාහන වලින් ටිකක් අපලයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-09-23 08:51:35</date>
+            <index>4</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාම්</author>
+            <date>2016-09-23 21:27:44</date>
+            <index>5</index>
+            <phrase>මගේ කණගාටුව සහෝදරයා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>477955</articleId>
+    <title>ජපානයේ මාර්යක් ගිලා බසී</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2016 නොවැම්බර් මස 08 22:40:37</date>
+    <body>ජපානයේ කියුෂු දූපතේ ෆුකුඕකා නගර මධ්‍යයේ මංතීරු පහකින් යුත් ප්‍රධාන මාර්ගයක විශාල කොටසක් ගිලා බැස ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි. මේ නිසා මාර්ගයේ මීටර් 30ක පමණ වටප්‍රමාණයකින් යුත් වලක් සෑදී ඇත.
+කිසිවෙකුටත් අනතුරු සිදු වී නොමැති නමුත් විදුලි, ජලය සහ ගෑස් සම්බන්ධතා බිඳවැටී ඇතැයි නගරයේ බලධාරීන් පවසයි. ඔවුන් පවසන්නේ ආසන්නයේ ඉදිකරන උමං දුම්රිය මාර්ගයක් මෙම හදිසි ගිලා බැස්මට හේතු වන්නට ඇතැයි විශ්වාස කරන බවයි.</body>
+    <comments>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-11-09 00:37:58</date>
+            <index>0</index>
+            <phrase>ගණන් ගන්න එපා. මෙහෙ නම් බැහැලා මම හිතන්නේ දැන් අවුරුද්දකටත් වැඩියි. තාම හදනවා. ඒ තරමට කාර්යක්ෂමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-11-09 01:39:13</date>
+            <index>1</index>
+            <phrase>පේනවානේද මොනතරම් මායාවක් උඩද අපි ජීවත්වෙන්නේ කියලා? උඩින් හරිම ලස්සනයි, අැතුළ හිස්. ඇත්තටම කිවුවොත් අපේ ජීවිත ගමනත් මේ වගේ තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමණි</author>
+            <date>2016-11-09 07:52:19</date>
+            <index>2</index>
+            <phrase>බන්දුල, ඔබේ කීමට මමත් එකඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-11-09 12:04:38</date>
+            <index>3</index>
+            <phrase>බන්දුල, හැම මිනිහගේම ජිවිත වටිනාකම් වලින් පිරිලා. ඔයාගේ අඩුපාඩු අනිත් අයට පෙන්නන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි-ජපානය</author>
+            <date>2016-11-10 14:00:53</date>
+            <index>4</index>
+            <phrase>අපේ ජීවිත නම් හිස් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

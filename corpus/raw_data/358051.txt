@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>358051</articleId>
+    <title>පූජිත්/ගාමිණී පොලිස් කොමිසමට එති</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2015 නොවැම්බර් මස 02 09:59:43</date>
+    <body>වැඩබලන පොලිස්පති පූජිත් ජයසුන්දර සහ බස්නාහිර පළාත් බාර නියෝජ්‍ය පොලිස්පති ගාමිණී මතුරට ඇතුළු පිරිස අද පෙරවරු 9ට කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලා පරිශ්‍රයේ ඇති පොලිස් කොමිසමට පැමිණියහ.
+පසුගිය බ්‍රහස්පතින්දා එච්එන්ඩීඒ සිසුන් කොළඹ වෝඩ් පෙදෙසේ විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිසම ඉදිරිපිටදී පැවැත්වූ උද්ඝෝෂණයට පොලිස් ප්‍රහාර එල්ලකිරීම සම්බන්ධයෙන් පොලිස් කොමිසම පවත්වන පරීක්ෂණය සඳහා මොවුන් දෙදෙනා කොමිසමට කැඳවා ඇත.</body>
+    <comments>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2015-11-02 06:08:41</date>
+            <index>0</index>
+            <phrase>බොහොම හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2015-11-02 06:36:28</date>
+            <index>1</index>
+            <phrase>හොඳයි හොඳයි. ඔහොම යමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2015-11-04 12:03:39</date>
+            <index>2</index>
+            <phrase>සාධාරණයක් ඉටුවේවා කියා පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2015-11-13 16:56:30</date>
+            <index>3</index>
+            <phrase>ගුරුවරයෙක් ළමයෙකුට දඬුවම් කළොත් නඩු දානවා, වැඩ තහනම් කරනවා. මේ වගේ ප්‍රශ්න වලට මොකද්ද දෙන උත්තරය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>122652</articleId>
+    <title>උදැල්ලේ මී වදයක් බැඳලා</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2013 මැයි මස 16 10:04:17</date>
+    <body>ගල්ගමුව නාන්නොරුවේ කපුරු බණ්ඩා ගොවි මහතාගේ පුංචි සිල්ලර කඩේ උදැල්ලේ මී වදයක් බැඳ තිබේ.
+මාස දෙකහමාරක් පමණ වන මේ මීයේ පැණිද ඇති බව ඔහු කියයි.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-16 10:08:03</date>
+            <index>0</index>
+            <phrase>ගොවියාගේ වාසනාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-05-16 10:11:50</date>
+            <index>1</index>
+            <phrase>දැන් මේක බලන්න කට්ටිය සූ ගාලා රොක් වේවි. ටීවී එකෙත් විශේස පුවතක් දායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරකුමාර</author>
+            <date>2013-05-16 10:15:17</date>
+            <index>2</index>
+            <phrase>මී වදය සහිත උදැල්ල සිල්ලර කඩය ඉදිරිපිටට ගෙනාවද? නැත්නම් කපුරුබණ්ඩා කඩකාරයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-05-16 10:22:50</date>
+            <index>3</index>
+            <phrase>මෙය අපේ රටේ වර්තමාන කෘෂිකර්මාන්තයේ තත්වය පිළිබද හොද උදාහරණයක්! විශේෂයෙන් ගල්ගමුව වගේ ප්‍රදේශයක තත්වයත් මෙහෙම නම්, අනිත් ප්‍රදේශ ගැන කවර කතාද? අනේ අපේ ස්වයංපෝෂිත කෘෂි ආර්ථිකයකට ගිය කල!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ක</author>
+            <date>2013-05-16 10:25:42</date>
+            <index>4</index>
+            <phrase>වාසනාවන්ත සිදුවීමක්. ගොවි මහතා හොද කෙනෙක් වෙන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2013-05-16 10:30:40</date>
+            <index>5</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාෆික්</author>
+            <date>2013-05-16 10:31:38</date>
+            <index>6</index>
+            <phrase>පුදුමයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-05-16 10:31:55</date>
+            <index>7</index>
+            <phrase>මී වද බදින්නේ ආවරණය වුනු කළුවර ස්ථානවල. මේක මී වදයක්මද? දඩොල් මැස්සො නම් මේ විදිහට වද බදිනවා. මේක මීයක් නම් අල්ලලා පෙට්ටියකට දාගන්න. පේන හැටියට මීයක් නම් බොහොම සරු එකක්. මැස්සෝ ගොඩක් ඉන්නවා. මී මැස්සෝ මෙහෙම දීර්ඝ කාලයක් ඉන්නේ නැහැ. තාවකාලිකව තමයි ඉන්නේ ඔය විදිහට. ඒ නිසා ඉක්මනට අල්ලලා පෙට්ටියකට දාගෙන ගාඩ් එකක් දාන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2013-05-16 10:49:02</date>
+            <index>8</index>
+            <phrase>තව ටික කාලෙකින් උදලු වල තුඹසකුත් බෑදල කියලා අහන්න ලෑබෙයි. ඈයි දෑන් වගා කරන එක නවත්තල හින්දා උදෑල්ල තියෙන්න නිකම්මනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-05-16 10:53:19</date>
+            <index>9</index>
+            <phrase>අබුද්දස්ස කාලෙට සිදුවන දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2013-05-16 11:01:31</date>
+            <index>10</index>
+            <phrase>අනේ කපුරු බණ්ඩා ගොවි මහත්තයෝ, කරන දෙයක් පරිස්සමින් දන්නවනේ ගමේ කොල්ලෝ කුරුට්ටෝන්ගේ වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-05-16 11:08:51</date>
+            <index>11</index>
+            <phrase>ඇතැම් වදේ බැදුනම හිස රදේ මී වදේ බැදුනම හිත පිරේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර ලක්ෂිත</author>
+            <date>2013-05-16 11:28:21</date>
+            <index>12</index>
+            <phrase>මී වදය පරිස්සමට කඩන්න‍‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත් නිකවෙරටිය</author>
+            <date>2013-05-16 11:39:28</date>
+            <index>13</index>
+            <phrase>මීවදයක් කඩන්නේ අත්ල ලේවකන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-05-16 11:43:46</date>
+            <index>14</index>
+            <phrase>මටනම් පෙන්නේ බදාම අනන්න ගත්ත උදෙල්ලක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2013-05-16 11:46:33</date>
+            <index>15</index>
+            <phrase>කඩපු මීයක කිරි වදයක් එල්ලලා තිබ්බොත් මේවගේ මස්ස්සෝ වහනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2013-05-16 12:06:48</date>
+            <index>16</index>
+            <phrase>මී වදයකි ජීවිතේ මී පැණි පිරීලා ඇතේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2013-05-16 12:23:59</date>
+            <index>17</index>
+            <phrase>මේක මී වදයක් නෙමෙයි මම හිතන්නේ. මේක දඩුවෙල් බෑ (දඩොල් මැස්සො) එකක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-05-16 12:52:08</date>
+            <index>18</index>
+            <phrase>මහතාණෙනි, ඔබ වසනාවන්ත කෙනෙකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2013-05-16 13:07:35</date>
+            <index>19</index>
+            <phrase>අනිවාර්යෙන් ම ලන්ලෝ උදැල්ලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝහමෙඩ්</author>
+            <date>2013-05-16 13:13:48</date>
+            <index>20</index>
+            <phrase>නිව්ස් ෆස්ට්, බ්රේකින් නිව්ස් එකකට ‍හොදයි මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-05-16 13:24:25</date>
+            <index>21</index>
+            <phrase>රැජින අල්ලලා උදලු මිට ඇතුලේ හිර කරලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙර</author>
+            <date>2013-05-16 13:34:58</date>
+            <index>22</index>
+            <phrase>උදැල්ලේ මීවද බැඳි අතර එල්ලුම්ගහේ මකුළුදැල් බැඳී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-16 13:49:20</date>
+            <index>23</index>
+            <phrase>කවුරුවත් වරද පටවන්නේ නැද්ද බොදු බල සේනාවට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-05-16 14:05:02</date>
+            <index>24</index>
+            <phrase>වාසනාව ඉක්මනට ලොතරැයියක් ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අලහාකෝන්</author>
+            <date>2013-05-16 14:06:28</date>
+            <index>25</index>
+            <phrase>මෙයාලා උදැල්ලත් අරගෙනම ඉගිලේවිද කියලා බලන්න මුදලාලි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී - සිරි</author>
+            <date>2013-05-16 14:23:01</date>
+            <index>26</index>
+            <phrase>නගුලේ හෝ විය ගහේ මීයක් බැදිම රජකම පවා ලැබිය හැකි පෙර නිමිත්තක්ලු! මේ කතව කුඩාකාලයේ අහපු එකක් බැවින් දන්නා කෙනෙක් නිවැරදි කළොත් ‍සතුටුයි. උදැල්ලේ මීයක් බැදීමත් කපුරු බණ්ඩා මහතාට රජකම කෙසේ වෙතත්, ලොතරැයි ටිකක්වත් රැගෙන වාසනාව උරගා බලන්න කොයි එකටත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම් පැරිස්</author>
+            <date>2013-05-16 14:36:53</date>
+            <index>27</index>
+            <phrase>මුදලාලිගේ වාසනාවන්ත කාලය ඇවිත්. උදලු මිටෙත් මි වදයක් බැන්දේ එක තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-05-16 14:48:22</date>
+            <index>28</index>
+            <phrase>‍නැ මෙක කිඹුලා උදැල්ලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2013-05-16 14:53:17</date>
+            <index>29</index>
+            <phrase>පොට්ටද මන්දා මේ පාඨකයෝ? 'ලංකා ලෝහ' කියලා යසට තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2013-05-16 15:03:47</date>
+            <index>30</index>
+            <phrase>අමුඩ ලේන්සුවක් හෝදලා වැනුවා නම් තමයි හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ඇන්ටන්</author>
+            <date>2013-05-16 15:08:28</date>
+            <index>31</index>
+            <phrase>හසන්තට කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-05-16 15:28:14</date>
+            <index>32</index>
+            <phrase>රජකාලෙ මෙය සිදුවුනා නම් ගොවියා මාලිගයට ගෙන්නලා හරසර දක්වලා ඇතෙක් බරට වස්තුවත් ගම්වරත් ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2013-05-16 15:34:48</date>
+            <index>33</index>
+            <phrase>ගොවි මහතාගේ කෙරුවාව උදැල්ලෙන්ම පෙනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද ආර්</author>
+            <date>2013-05-16 16:19:03</date>
+            <index>34</index>
+            <phrase>කපුරු බණ්ඩා මහතාණනි, දන්නා කෙනෙකුගෙන් උපදෙස් අරගෙන ඔය මීමැසි කණ්ඩායම මීමැසි පෙට්ටියකට දමා ගන්න. ඔබ ගොවි මහතෙක්නේ. මීමැසි පාලනයත් හොඳ කෘෂි කර්මාන්ත්යක්නේ. ගෙදරටම ආපු වාසනාව අත හරින්න එපා. පිරිසිදු මී පැණිවල අගය මම කියන්න ඕනේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූකා</author>
+            <date>2013-05-16 16:44:50</date>
+            <index>35</index>
+            <phrase>ගොවි මහතාගේ වාසනාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ.</author>
+            <date>2013-05-16 17:40:00</date>
+            <index>36</index>
+            <phrase>සුභ දසුනක්.සුභ ලකුණක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-05-16 17:55:33</date>
+            <index>37</index>
+            <phrase>උදැල්ල පෙරළුනොත් ඔක්කොම ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ</author>
+            <date>2013-05-16 18:57:18</date>
+            <index>38</index>
+            <phrase>අට පට්ටමෙන් ආවේ නැද්ද කපුරු බණ්ඩා අයියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ</author>
+            <date>2013-05-16 19:11:22</date>
+            <index>39</index>
+            <phrase>අනේ! කපුරු බණ්ඩා අයියේ, පැණි කන්න බලාගෙන ඉඳලා,උදැල්ලත් නැති වෙයිද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2013-05-16 21:57:55</date>
+            <index>40</index>
+            <phrase>කපුරු බණ්ඩා මහත්තයා අවිවාහක නම් දැන් රජ පවුලකින් හිරයක් ගන්ට ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.උපුල්</author>
+            <date>2013-05-16 23:58:13</date>
+            <index>41</index>
+            <phrase>මී මැස්සන්ටත් යන එන මං නැතිවුනා එහෙනම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2013-05-17 12:56:42</date>
+            <index>42</index>
+            <phrase>මිනිස්සුන්ට ගිය කාලයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2013-05-17 12:56:42</date>
+            <index>43</index>
+            <phrase>අන්න හොදල් හොයා ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මික</author>
+            <date>2013-05-17 12:56:18</date>
+            <index>44</index>
+            <phrase>විශ්වාස කරනා එනවා වාසය රන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජිව</author>
+            <date>2013-05-17 12:56:42</date>
+            <index>45</index>
+            <phrase>හිතා ගන්නත් බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2013-05-17 12:56:21</date>
+            <index>46</index>
+            <phrase>බැලුවේ න්බග්ග</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2013-05-17 19:15:36</date>
+            <index>47</index>
+            <phrase>අමුඩ ලේන්සුවෙන් පෙරලා මී පැණි බොන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2013-06-05 22:47:35</date>
+            <index>48</index>
+            <phrase>ගොයියෝ, උඹ ඇත්තටම ගොයියෙක් නොවෙයිනේ? ගොයියකුගේඋදැල්ලේ වද බදින්නේ කොහොමද? ගොයිකම නොදන්නා කොම්පියුටර් ගොයියලා මොනා කීවත් මම දන්නවා ඒක වෙන්න බැරි බව. ඇයි බං ගොයියෝ උඹ උදැල්ලෙන් වැඩ නොකරන ගොයියෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලන</author>
+            <date>2014-02-07 19:08:11</date>
+            <index>49</index>
+            <phrase>උදල්ල පාවිච්චි කරන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

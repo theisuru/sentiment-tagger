@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>222814</articleId>
+    <title>අලුත් අවුරුදු උදාව සහ පැරණි සිරිත්... ( මහින්ද කුමාර දලුපොත මහතා විග්‍රහ කරයි)</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 අපේ‍්‍රල් මස 03 16:04:21</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සංජි</author>
+            <date>2014-04-04 12:27:43</date>
+            <index>0</index>
+            <phrase>ඉතා වටිනා පැහැදිලි කිරීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චේ.</author>
+            <date>2014-04-06 17:41:18</date>
+            <index>1</index>
+            <phrase>නියම හඬක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චේතනා</author>
+            <date>2014-04-06 17:41:19</date>
+            <index>2</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>271873</articleId>
+    <title>අපි දෙන්නට ලොකු ගමනක්</title>
+    <author>ජයමාල් චන්ද්‍රසිරි</author>
+    <date>2014 ඔක්තෝබර් මස 28 18:49:43</date>
+    <body>එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ හා නියෝජ්‍ය නායක සජීත් ප්‍රේමදාස මහත්වරු කොළඹ හයිට් පිටියේ අද ඉදිරි මැතිරවණ ගැන පක්ෂ සංවිධායකවරුන් හා සාකච්ඡාවක් පැවැත් වූහ. කරු ජයසූරිය තිස්ස අත්තනායක ඇතුළු මන්ත්‍රීවරුද පැමිණ සිටියහ.
+ </body>
+    <comments>
+        <comment>
+            <author>සුරන්ජිත් ලාල්</author>
+            <date>2014-10-28 13:31:42</date>
+            <index>0</index>
+            <phrase>ඔය සමගිය සැමදාම තියාගන්න එකිනෙකට මඩ ගහ ගන්න හා හිත රිදවන කතා කීමෙන් හා කිරීමෙන් වලකින්න . මුළු රටම ඔබලා දිහා හා ඔබලාගේ හැසිරීම් හා කතා දිහා බලා සිටිනවා ඒ නිසා සැමට ආදර්ශයක් වෙන විදියට වැඩ කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවිරත්න</author>
+            <date>2014-10-28 13:45:42</date>
+            <index>1</index>
+            <phrase>එක්සත් ජාතික පක්ෂ ආණ්ඩුවක් පිහිටවන්න කාලය දැන් එලඹි ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2014-10-28 13:48:09</date>
+            <index>2</index>
+            <phrase>රනිල් අවංක නායකයෙක් දැන් රටට වුවමනා මෙවන් අය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාතිලක</author>
+            <date>2014-10-28 13:56:30</date>
+            <index>3</index>
+            <phrase>ලෝකෙට ණයවී මුක්කු ගසා ඇති ශ්‍රී ලංකාව බේරා ගත හැක්කේ රනිල්ට පමණයි දැන් හොරකමින් වංචාවෙන් දුෂණයෙන් දුසිරිතෙන් රට අගාදයකට පත්වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයෝමි</author>
+            <date>2014-10-28 13:59:02</date>
+            <index>4</index>
+            <phrase>දැන් අපිට ඕනි යූ ඇම් පි ආණ්ඩුවක් ජයවේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2014-10-28 14:00:39</date>
+            <index>5</index>
+            <phrase>හොරුන්ව දුෂිතයන්ව ගෙදර යවන්න මෙතනින් පටන්ගන්න. සැමට ජය.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2014-10-28 14:05:41</date>
+            <index>6</index>
+            <phrase>මට ඉර හඳ වගේ විස්වාසයක් තියෙනවා, සමගිය තියාගෙන ,සුදුසාට සුදුසු තැන දුන්නොත් පක්ෂය ගොඩ. ඉර හඬ වගේ විස්වාසයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-10-28 14:12:54</date>
+            <index>7</index>
+            <phrase>රටේ ආර්ථිකය හදන්න පුළුවන් රනිල්ට විතරයි ලෝකේ පිළිගත් එකම නායකයා හොරකම් නැහැ වංචා නැහැ දුෂන නැහැ බුද්ධිමත් සරල උතුම් නායකයෙක් රනිල් අපි ඔබ සමගයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-10-28 14:19:50</date>
+            <index>8</index>
+            <phrase>රනිල් ඔබයි අපේ නායකයා යහපාලනයක් රටට උද කරන්න ඔබට පුළුවන් ජනතාවට සහන දෙන්න ඔබට පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2014-10-28 14:37:18</date>
+            <index>9</index>
+            <phrase>පරම්පරාගත එක්සත් ජාතික පක්‍ෂ මුහුණුවරවල් ටිකක් මිස තරුණ පරපුරේ නියෝජිතයෙක්නම් පෙනෙන්න නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්දීර</author>
+            <date>2014-10-28 14:52:14</date>
+            <index>10</index>
+            <phrase>හැමෝටම කොළ පට ඇදුම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2014-10-28 15:00:33</date>
+            <index>11</index>
+            <phrase>රනිල්ගේ දක්ෂතා රටේ ජනතාව තාම තේරුම් ගත්තේ නැහැ එතුමා සංදර්ශන තිතිය තිය වැඩකරන්නේ නැහැ අපිට හෙටක් හදන්න පුළුවන් එකම නායකයා රනිල් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2014-10-28 15:02:26</date>
+            <index>12</index>
+            <phrase>රනිල් සජිත් එකතුව රටට ලොකු හයියක්!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2014-10-28 15:11:35</date>
+            <index>13</index>
+            <phrase>වංචාවට දුෂනය හොරකමට තිත තියන්න පුළුවන් රනිල්ට විතරයි !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2014-10-28 15:17:46</date>
+            <index>14</index>
+            <phrase>එක්සත් ජාතික පක්ෂ අනුවක් පිහිටුවන්න පුළුවන් ලබන වසරේ ජනතාව බුද්දිමත් වෙන්න ඔබේ හිස මත තබා ඇති සියලු බර නිදහස් කර හැක්කේ රනිල්ට විතරයි අධ්‍යාපනයට 6% එතුමා වෙන්කරනවා එක කොයි තරම් දෙයක්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හංසි</author>
+            <date>2014-10-28 15:56:39</date>
+            <index>15</index>
+            <phrase>මේ දෙදෙනා මීට අවුරුදු දෙකකට විතර කලින් මේ වගේ සමගි වෙලා ඉදිරියට ආවනම් මෙලහට වෙනකොට අඩු තරමින් පළාත් සභා දෙකකත් නගර සභා, ප්‍රාදේශීය සභා ගණනාවකත් බලය තහවුරු කර ගන්න තිබුණ. එහෙම උනානම් මෙවර ජනපතිවරණයේදී නිසැකවම රනිල් අරලියගහ මන්දිරයට -</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි ලෝව්</author>
+            <date>2014-10-28 16:22:48</date>
+            <index>16</index>
+            <phrase>ඔබ ඉතා හොඳ නායකයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමේෂ</author>
+            <date>2014-10-28 16:31:02</date>
+            <index>17</index>
+            <phrase>අපෙන් උණුසුම් සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිපෙ</author>
+            <date>2014-10-28 16:33:02</date>
+            <index>18</index>
+            <phrase>කොහොමහරි බලය ලබාගන්න බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2014-10-28 16:36:31</date>
+            <index>19</index>
+            <phrase>අපේ හදවතින්ම සුබ පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2014-10-28 16:36:56</date>
+            <index>20</index>
+            <phrase>රනිල් රටේ අනාගතයයි. සියලුම දෙනාට දළදා සමිඳු රැකවරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජමාල්</author>
+            <date>2014-10-28 16:49:56</date>
+            <index>21</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-10-28 17:03:01</date>
+            <index>22</index>
+            <phrase>රට හරිමඟට ගන්න ඔබට පුළුවන්. සදාචරසම්පන්න සමාජයක් බිහිකිරීම ඔබගේ වගකීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වනිගතුංග</author>
+            <date>2014-10-28 17:06:04</date>
+            <index>23</index>
+            <phrase>ජය වේවා! ඔබ සැමදා දිනේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-10-28 17:10:01</date>
+            <index>24</index>
+            <phrase>සියලු ශ්‍රී ලාංකිකයන් එකතු වී වංචාවට එරෙහි වෙන්න. සාධාරන සමාජයක් ගොඩනැඟීමට අත්වැල් බැඳගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිපුන</author>
+            <date>2014-10-28 17:14:14</date>
+            <index>25</index>
+            <phrase>රනිල්, ඔබට ජය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2014-10-28 17:16:12</date>
+            <index>26</index>
+            <phrase>රටට ඕනෑ ලොකු වෙනසක්. එය ඔබට කළ හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-28 17:20:08</date>
+            <index>27</index>
+            <phrase>එක්සත් ජාතික පක්ෂයේ පරාජයට හේතුව මේ දෙන්නාගේ අසමගිය කියලා හිතනවා නම් එය හිතළුවක් පමණයි. යුද්ධය වෙලාවේ අවංකව රජයට සහය දුන්නා නම් විවේචන වලින් වැළකුනා නම් මේ යුද ජයග්‍රහණයේ කොටස්කරුවෙක් වුණා නම්, මේ රටේ බහුතරය සිංහලයින් බවත් ඔවුන්ගෙන් බහුතරය බොදුනුවන් බවත් අවබෝධ කරගත්තා නම්, ඔවුන්ගේ අවිශ්වාස දුරලා ඔවුන්ට ආමන්ත්‍රණය කරන්න වැඩ පිළිවෙලක් සකස්කර ගත්තා නම් අද සමහරවිට රාජ්‍ය බලය නැති වුණත් පළාත් සභා කීපයක බලය හිමි, පාර්ලිමේන්තුවේ රජයට අභියෝග කළ හැකි මන්ත්‍රීධූරයන්ගෙන් යුතු ශක්තිමත් විපක්ෂයක් බවට එක්සත් ජාතික පක්ෂය පත්වෙන්න බොහෝ ඉඩකඩ තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මික</author>
+            <date>2014-10-28 17:38:12</date>
+            <index>28</index>
+            <phrase>රනිල් මහත්තයාට ජය වේවා !! රට ගොඩදාන්න පුළුවන් ඔබට පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2014-10-28 17:41:24</date>
+            <index>29</index>
+            <phrase>අපේ දරුවන් අනාගත ණයබරින් නිදහස් කර ගැනීමට රනිල් වික්‍රමසිංහ මැතිතුමා අනාගත ජනපති කරගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමලා</author>
+            <date>2014-10-28 17:51:22</date>
+            <index>30</index>
+            <phrase>හොඳ තරඟයකට සූදානම් වගේ.සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් විතා‍නගේ</author>
+            <date>2014-10-28 17:52:28</date>
+            <index>31</index>
+            <phrase>හයිඩ් පිටිය පිරෙන්නම සෙනඟ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි මනිමේන්ද්‍ර</author>
+            <date>2014-10-28 17:52:33</date>
+            <index>32</index>
+            <phrase>ඔය සමගිය ඔහොම තියාගන්න පුලුවන් නම් තව ඉදිරියටත් ඉන්න පුළුවන්. සමගිය අද හෙටම නැති කරගත්තොත් විරුද්ධ පක්ෂයත් නැතිවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වර්ණවීර</author>
+            <date>2014-10-28 18:10:17</date>
+            <index>33</index>
+            <phrase>ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2014-10-28 18:24:56</date>
+            <index>34</index>
+            <phrase>වසන්තට දේශාපලන හතළිස් ඇඳිරිය වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි මාකාවිට</author>
+            <date>2014-10-28 18:31:47</date>
+            <index>35</index>
+            <phrase>ලොකු සටනක් මැදින් ලොකු ගමනක් යන්න තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යහම්පත්</author>
+            <date>2014-10-28 18:33:41</date>
+            <index>36</index>
+            <phrase>සජිත්ගේ පියාගේ කාලයත් අපිට මතකය. රනිල් අගමැති වූ දෙවසරත් අපිට මතකය. ඒ අතීතය නැවත මතක් කිරීමත්, ආපසු ගැනීමත් ගැන නැවත වරක් සිතාබැලීම වටී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරක්කොඩි</author>
+            <date>2014-10-28 18:40:53</date>
+            <index>37</index>
+            <phrase>මෙවර නම් ජයග්‍රහණය ස්ථිරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2014-10-28 18:57:31</date>
+            <index>38</index>
+            <phrase>හදවතින්ම සුබපැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් දයාදර පැරිස්</author>
+            <date>2014-10-28 18:59:13</date>
+            <index>39</index>
+            <phrase>රනිල් සජිත් සමගිය,එක්සත් ජාතික පක්ෂයේ සමගියයි, රටේ සමගියයි. ජයවේවා, ජයවේවා, ජයවේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බවර් පැරිස්</author>
+            <date>2014-10-28 19:03:48</date>
+            <index>40</index>
+            <phrase>බුදු අම්මෝ! පුදුම සෙනඟක්නේ! මේ අය මෙච්චරකල් කොහෙද හිටියේ? ඉදිරි මැතිවරණ නම් විපක්ෂයට ජය නියතයි වගේ. ජයවේවා, ජයවේවා, ජයවේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ්</author>
+            <date>2014-10-28 19:03:46</date>
+            <index>41</index>
+            <phrase>සුබ ගමන්! ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත ‍</author>
+            <date>2014-10-28 19:50:35</date>
+            <index>42</index>
+            <phrase>කොහොම වුණත් රනිල් මහත්තයෝ, ප්‍රවේශමෙන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2014-10-28 19:55:19</date>
+            <index>43</index>
+            <phrase>බලමුකෝ මොකක්ද වෙන්නේ කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් ඩුබායි</author>
+            <date>2014-10-28 19:59:02</date>
+            <index>44</index>
+            <phrase>බන්දුල පෙරේරාට මොනවා හිතෙනවද දන්නෙ නැහැ මේවා දැක්කහම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2014-10-28 20:01:33</date>
+            <index>45</index>
+            <phrase>නියමයි. ඕක තමයි අපිටත් ඕනෑ. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මසිරි</author>
+            <date>2014-10-28 21:04:20</date>
+            <index>46</index>
+            <phrase>ජයග්‍රහණය ඒකාන්තයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්මසිරි</author>
+            <date>2014-10-28 21:04:20</date>
+            <index>47</index>
+            <phrase>සමගිය ජයග්‍රහණයේ මාවතයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2014-10-28 21:06:52</date>
+            <index>48</index>
+            <phrase>එක්සත් ජාතික පක්ෂයට ජය සිකුරුයි. රනිල්ට රට බාරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-10-28 21:20:48</date>
+            <index>49</index>
+            <phrase>අපේ රට තුන්වැනි ලෝකයේ සිට, සංවර්ධිත රටක් ලෙස ලෝකයට ගෙනයන්න පුළුවන් එකම නායකයා රනිල්. රනිල් කියන්නේ ලංකාව වගේ රටකට ගැළපෙන දේශපාලඥයෙක් නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසනා</author>
+            <date>2014-10-28 21:44:10</date>
+            <index>50</index>
+            <phrase>එක්සත් ජාතික පක්ෂයට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆර්නා</author>
+            <date>2014-10-28 23:22:42</date>
+            <index>51</index>
+            <phrase>අතීතයේ විපක්ෂය කියූ කෙරූ දෑ දෙස බැලූවිට එයාලා ලොකු පරාජයක් ලබා තිබෙන බව පෙනෙනවා මේ වනවිට. නමුත් දැනට රට ලොකු අවදානමක බවයි මට හැ‍ඟෙන්නේ. ජනතාව හොඳින් කල්පනාවෙන් රට පාවානොදී ක්‍රියාකළොත් මේ රට විනාශයෙන් බේරාගත හැක ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2014-10-28 23:33:34</date>
+            <index>52</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෆාස්</author>
+            <date>2014-10-29 00:55:47</date>
+            <index>53</index>
+            <phrase>රනිල්-සජිත් දෙපළට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2014-10-29 01:06:48</date>
+            <index>54</index>
+            <phrase>ඉදිරියටම යන්න සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිස් රත්නායක</author>
+            <date>2014-10-29 01:16:53</date>
+            <index>55</index>
+            <phrase>බොරු නොකියන රට හදන රනිල්... ජනතාව ඇත්ත තේරුම් ගන්න කාලය හරි!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොරිස්</author>
+            <date>2014-10-29 01:23:07</date>
+            <index>56</index>
+            <phrase>මොකද මේ හිටිහැටියේ නැඟිටලා වගේ රනිල්වම එජාපෙ අපේක්ෂකයා වෙන්න ඕනෑ කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමන්දා</author>
+            <date>2014-10-29 01:40:34</date>
+            <index>57</index>
+            <phrase>රනිල් සජිත් සහ සියලුම එජාප සඟයිනි, රට බේරා දී අනාගතය සුරක්ෂිත කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2014-10-29 02:05:57</date>
+            <index>58</index>
+            <phrase>තරහ වෙන්න එපා මෙහෙම ඇසුවාට. එතකොට අර ත්‍රස්තවාදී කාලේ රට ගොඩගන්න බැරි වුණේ ඇයි? අමාරු කාලයෙන් කවුරුවත් ගොඩදාපු රට පාලනය කරන්න ඕනෑම කෙනෙකුට පුළුවන්, එහෙම නේ? රනිල් මහතා හොඳ වුණාට වටේ ඉන්න අය ගැන මට විශ්වාසයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-29 02:27:18</date>
+            <index>59</index>
+            <phrase>කිසිම ආණ්ඩුවකට අවුරුදු 5 කට වඩා බලයේ ඉන්න දෙන්න හොඳ නැහැ. ඕනෑම ආණ්ඩුවක් පළවැනි අවුරුදු 2 හොඳින් සේවය කරනවා. ඊළඟ අවුරුදු දෙකේ හොරාකන්න පුරුදු වෙනවා. ඊළඟට දිනුවොත් හැමදාටම රජවුණා කියලා හිතනවා. නිරන්තරයෙන් මොන ආණ්ඩුව හරි කමක් නැහැ, වෙනස් කරන්න ජනතාව බුද්ධිමත් වියයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුමේෂ්</author>
+            <date>2014-10-29 02:29:33</date>
+            <index>60</index>
+            <phrase>බමුණු ආරච්චි මහත්මයා, රනිල් මහතාට රට පාලනය කරන්න ලැබුනේ අවුරුදු 2ක් විතරයි. ඒ ත්‍රස්තවාදී කාලේ. ඒ අවුරුදු 2 ට එතුමා සෑහෙන සේවයක් රට වෙනුවෙන් කළා. එතුමා ගත් ක්‍රියාමාර්ග හා විදේශයන් සමඟ ගොඩනඟාගත් සම්බන්ධතා නිසා තමයි ඊටපසු ආ ආණ්ඩුවට යුද්ධය අවසන් කරන්න හොඳ පසුබිමක් ලැබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2014-10-29 02:38:35</date>
+            <index>61</index>
+            <phrase>බන්දුල මහත්තයෝ, යුද ජයග්‍රහණයේ සමහර කොටස්කරුවන්ට මොකද වුණේ? දැන් ලංකාවට ඕනෑ එජාප ආණ්ඩුවක්. හැමෝම හිතලා බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2014-10-29 02:48:27</date>
+            <index>62</index>
+            <phrase>රනිල් මැතිඳුනි, ඔබට විරුද්ධව අදහස් 02 යි තිබෙන්නේ. ඉදිරියේදී යු.එන්.පී ජය ස්ථිරයි. මගේ සහයෝගයත් යු. එන්. පී. යටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-29 03:38:34</date>
+            <index>63</index>
+            <phrase>රුමේෂ් මහත්තයෝ, ඒ අවුරුදු දෙකේ කළ සේවයට තමයි තාමත් අපි රටක් වශයෙන් සමහර දේ වලින් විඳවන්නේ. ඒ කළ සේවය දිගටම ගෙනයන්න දුන්නා නම් සමහරවිට අද තිබෙන්නේ රටවල් දෙකක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා තිලක්</author>
+            <date>2014-10-29 03:41:59</date>
+            <index>64</index>
+            <phrase>නිල්මිණි නංගි, රනිල් මහත්තයා තිත තිබ්බට වැඩක් නැහැ. වටේ ඉන්න සමහරු ඒවාට කප් ගහපු අය. අනේ යන්න නිල්මිණි යන්න. අපි නොදන්න කට්ටිය! ඔයා දන්නේ නැත්නම් දන්න කෙනෙක්ගෙන් හරියටම අහගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-29 03:46:20</date>
+            <index>65</index>
+            <phrase>අජිත් මහත්තයා, අපේ අදහස් දක්වන්නන්ගෙන්ද ඉදිරිය තීරණය කරන්න හදන්නේ? හරි හරි ඔහොම යමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා තිලක්</author>
+            <date>2014-10-29 03:50:10</date>
+            <index>66</index>
+            <phrase>කට්ටිය මේ දෙන්නා මෙච්චර දවසක් කොහෙද හිටියේ අහනවා.මෙයාලා හිටියා. ඒත් එයාලා වටේ මිනිස්සු නොහිටිය එකයි වුණේ.සංවිධායකයෝ හිටියට වැඩක් තියෙනවද සංවිධානය කරන්න මිනිස්සු නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්රාජ්</author>
+            <date>2014-10-29 03:56:33</date>
+            <index>67</index>
+            <phrase>රටට ඕනෑ ලොකු වෙනසක්. එය ඔබට කළ හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා තිලක්</author>
+            <date>2014-10-29 03:57:07</date>
+            <index>68</index>
+            <phrase>මම කිව්වේ මේ හයිඩ් පිටියේ ඉන්න කට්ටිය ගැනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2014-10-29 04:24:50</date>
+            <index>69</index>
+            <phrase>රටේ ජනතාව අතරට ගිහින් බැලුවහමත් ඔය ප්‍රතිශතයම තමයි බන්දුල මහත්මයා තියෙන්නේ.ඒත් අද පවතින මැතිවරණ ක්‍රියාවලියේ විශ්වාසය සහ සාධාරණය ගැන ඔබට අමුතුවෙන් කියන්න ඕනෑ නැහැ කියලයි මම හිතන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2014-10-29 04:24:55</date>
+            <index>70</index>
+            <phrase>මේකේ ප්‍රතිචාර දැක්කම හිතෙනවා යූඑන්පී ආණ්ඩුවක් කවදාවත් ලංකාවේ බලයට පත්වෙලා රට සංවර්ධනය කරන්න අවස්ථාව ලැබිලම නැහැ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල රාමනායක</author>
+            <date>2014-10-29 04:27:53</date>
+            <index>71</index>
+            <phrase>ටීෂර්ට් වලට සෑහෙන වියදමක් යන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2014-10-29 05:08:05</date>
+            <index>72</index>
+            <phrase>ඔබගේ අවංකත්වය රටම දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2014-10-29 05:15:08</date>
+            <index>73</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි මනිමේන්ද්‍ර</author>
+            <date>2014-10-29 05:15:08</date>
+            <index>74</index>
+            <phrase>අජිත් කරුණාරත්න මහතාණෙනි, ඔබට ලොකු වැරදීමක් වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-29 05:18:56</date>
+            <index>75</index>
+            <phrase>ඉස්සෙල්ල කියන්න අජිත් මහත්තය ඉන්න රට.. මෙහෙ මැතිවරණයකට ඇවිත් තමන්ගේ චන්දෙ පාවිච්චි කරලා බලන්න කි දෙනෙක් ඔබ තුමාගේ චන්දෙ දිහා ඇහැ ගහගෙන ඉන්නවද කියල ඒක පෙට්ටියට වැටෙනකම්.. එතනින් පස්සේ චන්ද ගණන් කරනතුරුත් ප්‍රතිපල දෙන තුරුත් ඒවා ඍජුවම සෑම දේශපාලන පක්ෂයකම නියෝජිතයින්ගේ අධික්ෂණයේ පවතිනවා.. ඕව බැරිකම වහ ගන්න කියන බොරු බයිලා මහත්තයෝ.. මිනිස්සු මේ රජයට කැමති නැත්නම් මේක ගෙදර යවල වෙන වෙන රජයක් පත් කරවන එක වලක්වන්න මොකාටවත් මොන බලයටවත් බැහැ.. වෙලා තියෙන්නේ එහෙම අවශ්‍යතාවක් මිනිස්සුන්ට නැති එක.. ඒක ඔබ තුමාල කෘතිමව හදන්න හැදුවට වැඩක් නැහැ.. ඒකෙන් කරන්න පුළුවන් sms ජනාධිපතිලා හදන්න විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි මනිමේන්ද්‍ර</author>
+            <date>2014-10-29 05:25:23</date>
+            <index>76</index>
+            <phrase>සුදත්, යුද ජයග්ග්‍රහණයේ කොටස් කරුවන්ට මොකද උනේ ? මොකුත් උනේ නැහැ. අනුන්ගේ ලනු කාල එතුමා ඉල්ලන් කෑව. එයට වගකිය යුතු අය ඔය වේදිකාවේම ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිරි මනිමේන්ද්‍ර</author>
+            <date>2014-10-29 05:34:03</date>
+            <index>77</index>
+            <phrase>අමන්ද කාගෙන්ද රට බේරා ගන්න ඕන? කාටද මේ කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් අගුණවර්ධන</author>
+            <date>2014-10-29 06:31:44</date>
+            <index>78</index>
+            <phrase>පක්ෂයේ එකමුතුව,සමගිය,ජයග්‍රහණයට අනිවාර්යෙන්ම ඕන,දැන්වත් එකට එකතුව ගමන ගියොත් ජය නියති! ජයවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුබුදු</author>
+            <date>2014-10-29 07:06:38</date>
+            <index>79</index>
+            <phrase>ඔහොම යමු ඉදිරියටම. හැබැයි දින්නට පස්සේ මේ රටවල් වල ඉන්න උදවිය ගැනත් හොඳටම බලන්න ඕනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් ජේ. විතාන</author>
+            <date>2014-10-29 07:37:01</date>
+            <index>80</index>
+            <phrase>77 - 94 කාලයේ මිහිරි මතකයන් තාම ගිලිහිලා නෑ. විශ්ව විද්‍යාල ශිෂයෝ හැටියට අපිට අපේම ශිෂ්‍යයෝ කී දෙනෙකුගේ මළ ගෙවල්වල යන්න වාසනාව ලැබුනද? කහ බලල්ලුන්ට, කොළ බලල්ලුන්ට පින්සිද්ද වෙන්න සරසවි සිසුන්ගේ පවුල් පිටින් ඝාතනය උන මලගෙවල් වලත් යන්න ලැබුනා. 2002 - 2004 පාවාදීම් එහෙමත් මතකනේ. අපි අායෙත් එවැනි යුගයකට යමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි මාකවිට</author>
+            <date>2014-10-29 11:12:34</date>
+            <index>81</index>
+            <phrase>නොකෙරන වේද කමට කෝඳුරු තෙල් හත් පට්ටයකුත් තවත් පොඩ්ඩක් ඕනේ කිව්වලු , ඒවාගේම තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-10-29 11:29:00</date>
+            <index>82</index>
+            <phrase>"යුද ජයග්‍රහණයේ සමහර කොටස් කරුවන්ට මොකද වුණේ" යුද්දය ජයගන්න පුරුදු අය දේශපාලනයත් ජයගන්න බැලුවා. ඉතින් බැරි දේවල් කොරන්න ගිහිල්ල බිම අනාගත්තා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-10-29 11:33:41</date>
+            <index>83</index>
+            <phrase>"රනිල් සජිත් එකතුව රටට ලොකු හයියක්!" සජිත් ගැන ඔපමණ කතා කරන්නේ එයා රටට මොනවා කරලද? දන්නා කෙනෙක් මට කියන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2014-10-29 11:58:05</date>
+            <index>84</index>
+            <phrase>"වෙලා තියෙන්නේ එහෙම අවශ්‍යතාවක් මිනිස්සුන්ට නැති එක. රටේ උගත් බුද්ධිමත් මිනිසුන්ට තිබෙනවා. නමුත් වැඩිපුර ඉන්නේ මැට්ටෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිමා</author>
+            <date>2014-10-29 12:14:58</date>
+            <index>85</index>
+            <phrase>මේ කාටවත් යූඇන්පී යට වෙලා තියෙන ගැටලුව තේරිලා නැහැ. රනිල් මහත්තයට ජනාධිපතිවරනය දිනන්න අමාරුයි. පක්ෂෙන් වෙන කෙනක් ඉල්ලලා දිනුවොතින් ඊලඟට ඔහු පක්ෂ නායකයා බවටත් පත්වෙනවා. ඕනෑම පක්ෂයකින් ඡන්දය ඉල්ලලා විධායක ජනපති වෙන පුද්ගලයාට එම පක්ෂයේ නායක කම පවර ගන්න එක ඉතා ම පහසු දෙයක්. මග හිටියොත් තෝ නසී ගෙදර ගියොත් අඹු නසී වගේ වැඩක් මෙතන වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-29 12:31:37</date>
+            <index>86</index>
+            <phrase>අපි මේ දේශපාලනයක් වෙනුවෙන් ගහ මරා ගන්නවා. බලන්න අද වෙලා තියෙන විපත. එතැනදී කාගේවත් ජාතිය ආගම දේශපාලනය කිසි දෙයක් ස්වභාව ධර්මයාට වැදගත් වෙලා නැහැ. ක්ෂනිකව මුළු ගමක්ම පස් යට. මේ හැම දේම විහිළුවක් මහත්තුරුනේ. හෙට ඒ විපත අපිව හොයාගෙන එන්න පුළුවන්. එතැනදී අපි කාටවත් එකිනෙකාගේ පාට කන්නාඩි වලින් දකිනා මේ දැක්ම පලක් වෙන එකක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-10-29 14:51:00</date>
+            <index>87</index>
+            <phrase>අපි මේ දේශපාලනයක් වෙනුවෙන් ගහ මරා ගන්නවා.. බලන්න අද වෙලා තියෙන විපත. එතැනදී කාගේවත් ජාතිය ආගම දේශපාලනය කිසි දෙයක් ස්වභාව ධර්මයාට වැදගත් වෙලා නැහැ. ක්ෂනිකව මුළු ගමක්ම පස් යට. මේ හැම දේම විහිළුවක් මහත්වරුනේ... හෙට ඒ විපත වෙන මුහුණුවරකින් අපිව හොයාගෙන එන්න පුළුවන්. එතැනදී අපි කාටවත් එකිනෙකාගේ පාට කන්නාඩි වලින් දකිනා මේ දැක්ම පලක් වෙන එකක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2014-11-11 06:05:52</date>
+            <index>88</index>
+            <phrase>රටට වැඩක් කරනවා නම් ඒ කවුරු වුනත් අපට කමක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

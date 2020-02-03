@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20474</articleId>
+    <title>ආබාධිත කපිතාන් රිමාන්ඩ්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 04 14:00:18</date>
+    <body>හොලිවුඞ් නිළියක වන ජිලාන් ඇන්ඩර්සන් (37) මුදල් රුපියල් එක්කෝටි හැත්තෑ අට ලක්ෂයක් වංචා කළැයි සැකපිට ආබාධිත කපිතාන්වරකු වන අනුර රත්න බණ්ඩාර ලබන 18 වැනිදා තෙක් රිමාන්ඩ් කරන ලෙස කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා අද නියෝග කෙළේය.
+නිට්ටඹුව පස්යාලේ හොලිවුඩ් නිළිය සතු දේපොළක් පාලනය කිරීම බාරගත් ඔහු එම වත්තට විදුලිය ගැනීම සඳහා දුන් රුපියල් ලක්ෂ 68ක් ද, රුපියල් 275000ක් වටිනා රූපවාහිනියක් ද වංචා කර ඇතැයි රහස් පොලිසිය අධිකරණයට වාර්තා කළේය.</body>
+    <comments>
+        <comment>
+            <author>ගමරාළ</author>
+            <date>2012-01-04 14:34:34</date>
+            <index>0</index>
+            <phrase>රටේ නම විනාශ කරන මෙවැනි අයට වෙඩි තියන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.ඩී.එස්. රංජිත්</author>
+            <date>2012-01-04 16:22:37</date>
+            <index>1</index>
+            <phrase>රට කනව. නිසි දඩුවම් දෙන්න ඕනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>rm</author>
+            <date>2012-01-05 16:33:28</date>
+            <index>2</index>
+            <phrase>නිසි දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් බී</author>
+            <date>2012-01-05 17:02:58</date>
+            <index>3</index>
+            <phrase>ආරක්ෂක ලේකම් තුමනි, මෙන්න මේවට හරියටම විසදුම් දෙන්න. මින් පස්සෙ තවත් අයට මේ වගේ වැඩ නොකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

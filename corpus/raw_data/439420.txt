@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>439420</articleId>
+    <title>හිටපු සතොස ලොක්කා රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා ජායාරූප හා වීඩියෝ ලහිරු හර්ෂණ</author>
+    <date>2016 ජූලි මස 21 14:24:09</date>
+    <body>ලක් සතොස සභාපති නලින් ප්‍රනාන්දු ලබන 28 දක්වා රිමාන්ඩ් කිරීමට කොළඹ කොටුව මහේස්ත්‍රාත් ලංකා ජයරත්න මෙනවිය අද(21) නියෝග කළාය.
+පසුගිය ජනපතිවරණ සමයේ සතොස වාහන ඡන්ද වැඩට ගත්තැයි හිටපු සභාපතිට එරෙහිව පැමිණිලි ලැබී ඇතැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>පිරිස්</author>
+            <date>2016-07-21 09:21:33</date>
+            <index>0</index>
+            <phrase>කලින් සතොස විනාශ කළ ඉන්න මුදල් ඇමත්ව හිරේට ගන්න කල්පනාවක් නෙද්ද තාම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-07-21 09:17:21</date>
+            <index>1</index>
+            <phrase>නාට්ටිය තාම ඉවර නැහැ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2016-07-21 10:44:14</date>
+            <index>2</index>
+            <phrase>රජයේ බස් අරන් ගිහින් විද්වතුන්ගේ සහ භික්ෂුන් වහන්සේලාගේ ඔළු පලපු අයට ඊට කලින් දඩුවම් දීලා ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිලාල්</author>
+            <date>2016-07-21 12:24:37</date>
+            <index>3</index>
+            <phrase>සතොස කිහිප වතාවක්ම විනාශ කල තවත් අය ඉන්නවා.කවුරුත් දන්නවා. නමුත් යහතින් වැජඹෙනවා !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-07-21 13:56:44</date>
+            <index>4</index>
+            <phrase>මේ අය අත්අඩංගුවට ගන්නවා උසාවි දානවා ආයේ ඇප දෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2016-07-21 17:00:32</date>
+            <index>5</index>
+            <phrase>වැරදි කළා නම් දඬුවම් ලැබෙන්න ඕනෑ. ඒත් එක්කම ඇමති කෙනෙක් වහලම දාපු සතොස ඇලෙවිසැල් ගණන 300 කරලා අද සතොසක් තියනවා කියලා හරි මතක්වෙන්න වැඩ කරපු සභාපති කවුද කියලත් අපි හිතන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

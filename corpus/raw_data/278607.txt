@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>278607</articleId>
+    <title>මගුල් පරක්කුව ගැන දන්නවාද</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 නොවැම්බර් මස 28 13:37:26</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අනුපමා</author>
+            <date>2015-01-07 08:13:55</date>
+            <index>0</index>
+            <phrase>විවාහයකදී මගල් ගෙදර කැම පරක්කු අවස්ථාවක දී පැරැන්නන් විසින් යොදන ලද උපක්‍රම ක්‍රිඩාවකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටානියා</author>
+            <date>2015-01-16 03:18:20</date>
+            <index>1</index>
+            <phrase>ආශාවෙන් නැරඹුවා මම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2015-01-19 04:09:21</date>
+            <index>2</index>
+            <phrase>හරිම ලස්සනයි. පොඩි දුකක් වගේත් ආවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාරා</author>
+            <date>2015-01-23 13:57:06</date>
+            <index>3</index>
+            <phrase>ඕක අපි කලේ දැනට අවුරුදු 25 කට කලින්. සෞදියේදී ලංකාවේ වඩ්ඩෙක් ඕක හදල පෙන්නුවා. පැත්තෙන් ගන්න ඕනා. ඕක මගුල් පරක්කුව කිව්ව ට කෑම විතරක් නොවෙයි මොලේ කොහොමද කියලත් බලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මපානි</author>
+            <date>2015-02-07 21:35:40</date>
+            <index>4</index>
+            <phrase>මේ වගේ පැරණි දේවල් අගය කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

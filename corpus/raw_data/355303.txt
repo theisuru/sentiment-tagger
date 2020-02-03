@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>355303</articleId>
+    <title>මාළු ලොරිය කොහොඹ ගහේ හැපේ : තිදෙනෙක් මරුට</title>
+    <author>නිමල් ජයරත්නකගකරුණාරත්න</author>
+    <date>2015 ඔක්තෝබර් මස 20 08:20:10</date>
+    <body>තංගල්ලේ සිට පොළොන්නරුව පොළෙට මාළු ප්‍රවාහනය කරමින් තිබූ ලොරිියක් දිඹුලාගල වංගුවකදී අද (20) අලුයම කොහොඹ ගසක හැපී රියදුරා ඇතුළු තිදෙනකු මිය ගිය බව පොලිසිය කියයි.
+ගහේ වැදි හිරවී තිබූ ලොරිය ඇද ගැනීමට පාරේ ගිය කන්ටේනර ලොරියක සහාය ගැනීමටද සිදුවිය.
+ </body>
+    <comments>
+        <comment>
+            <author>නිර්මල</author>
+            <date>2015-10-20 02:05:51</date>
+            <index>0</index>
+            <phrase>අනේ දෙවියනේ, මෙහෙමත් අපරාධයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභයවංශ</author>
+            <date>2015-10-20 02:07:58</date>
+            <index>1</index>
+            <phrase>මොවුන්ට නින්දගියා වෙන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2015-10-20 02:34:38</date>
+            <index>2</index>
+            <phrase>අනේ දෙවියනේ උදේ පාන්දරම අහන්න ලැබුණ ප්‍රවෘත්තියක හැටි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධර්ම ජයවික්‍රම</author>
+            <date>2015-10-20 02:36:49</date>
+            <index>3</index>
+            <phrase>සුළු ප්‍රමාදයක් සිදුකළ ඛේදනීය විපතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2015-10-20 12:15:39</date>
+            <index>4</index>
+            <phrase>අපරාදේ වටිනා ජීවිත!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2015-10-20 23:44:50</date>
+            <index>5</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගල්කුඹුර</author>
+            <date>2015-10-22 05:03:43</date>
+            <index>6</index>
+            <phrase>නොසැලකිල්ලක මහත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2015-10-25 10:28:12</date>
+            <index>7</index>
+            <phrase>වාහන එලවිමේදී සුළු වශයෙන් නිදි මත දැනුනත් වහනය නවතා නිදාගෙන ඉන්පසු ගමන අරම්ඹ කල යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

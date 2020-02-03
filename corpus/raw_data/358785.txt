@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>358785</articleId>
+    <title>දකුණු සුඩානයේදීත් ගුවන් යානයක් විනාශයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 නොවැම්බර් මස 04 16:47:59</date>
+    <body>දකුණු සුඩානයේ ජූබා අගනගරයේ ජාත්‍යන්තර ගුවන්තොටුපළ ආසන්නයේදී කාගෝ ගුවන් යානයක් කඩා වැටීමෙන් 40 දෙනකු ජීවිතක්ෂයට පත්ව ඇතැයි විදෙස් පුවත් සේවා කියයි.
+යානයේ ගමන් කළ මගීන්ගේ සංඛ්‍යාව මෙතෙක් අනාවරණය වී නැතැයිද මියගිය සංඛ්‍යාව තවත් ඉහළ යා හැකි බවද නිල නොවන ආරංචි පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සනත් ගුණවර්ධන ස්විස්</author>
+            <date>2015-11-04 14:00:04</date>
+            <index>0</index>
+            <phrase>මේ අවුරුද්ද ගුවන් යානා අනතුරු වැඩියෙන්ම සිදුවූ වසර ලෙස නම් කරන්න පුළුවන් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2015-11-05 00:38:10</date>
+            <index>1</index>
+            <phrase>ගිය අවුරුද්දෙත් මෙහෙම තමා සනත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

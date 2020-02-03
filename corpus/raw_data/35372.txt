@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35372</articleId>
+    <title>කරුමය උඩින් එයි</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 අපේ‍්‍රල් මස 08 12:15:18</date>
+    <body>ගල්කුලම ගල් වඩුවාගම ගල් වැඩපොළක බෝර දමද්දී විසිවු ගල් කැබැල්ලක් හිසේ වැදි අසළ ගල් වැඩපොළක සේවකයෙක් තුවාල ලැබීය
+45 හැවිරිදි ඔහු අනුරාධපුර රෝහලට ඇතුඵ කළ පසු සැත්කමකට ලක් කැරිණි</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-08 13:28:09</date>
+            <index>0</index>
+            <phrase>කවුරු වුනත් දුප්පත් මනුෂ්‍යයෙක්. එදාවේ සොයාගන්න කරන රැකියාවක්. ඉක්මන් සුවය ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග, දෝහා</author>
+            <date>2012-04-08 16:00:35</date>
+            <index>1</index>
+            <phrase>මොනවා කරන්නද ? ඔය රස්සාවේ හැටි ඔහුම තමයි. සියලු තුවාල ඉක්මනින් සුව වේවායි පතමි. (දුප්පත් කමත් වලිගය වැනි ගොනා වැනි)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

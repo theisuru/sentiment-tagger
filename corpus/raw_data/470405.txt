@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>470405</articleId>
+    <title>තහනම් දැලේ විරෝධය මහ පාරටත්</title>
+    <author>පත්මා කුමාරි කංකානම්ගේ</author>
+    <date>2016 ඔක්තෝබර් මස 21 11:28:58</date>
+    <body>කල්පිටිය, කන්දකුලියේ මාළු ව්‍යාපාරිකයකුගේ මාළු ලොරියක් රාත්‍රියේ පැහැර ගත් පිරිසක්  රුපියල් එකළොස් ලක්ෂයක මාළු වලින් කිලෝ 4000 ක් පමණ පාරට  දමා ඇතැයි කල්පිටිය පොලිසිය කියයි.
+තහනම් දැලට  විරෝධය පාමින් මෙම ලොරිය පැහැර ගත් බවත් කියති. මේ අතර  තහනම් දැල්ට  විරෝධය පෑම අද දෙවැනි දිනටත්  කල්පිටිය - පුත්තලම ප්‍රධාන මාර්ගය අවහිර  කරමින් ධීවරයෝ උද්ඝෝෂණය කරන්නට  වුහ. </body>
+    <comments>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-10-21 07:25:57</date>
+            <index>0</index>
+            <phrase>අසරණ පවුල් කියක් අසරණ වෙනවද?අසාධාරණයට විරුද්ධ වෙන්න අයිතියක් තියෙනවා .ඉස්සරනම් එහෙම අසාදරණයට විරුද්ද වෙන අයට වුනේ වෙඩි කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2016-10-21 08:30:00</date>
+            <index>1</index>
+            <phrase>පාරවල් අවහිරකර මහජනතාවට කරන මේ හිරිහැර නවත්වන්න නීතියට බැරිද? මේක දැන් විලාසිතාවක් වෙලා. බෝවෙන රෝගයක් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත ගලපිටිය</author>
+            <date>2016-10-21 09:10:19</date>
+            <index>2</index>
+            <phrase>අපේ ධීවර ඇමැති තුමා කොහෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-10-21 10:17:15</date>
+            <index>3</index>
+            <phrase>දැන්වත් මේකට නිසි විසඳුමක් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-10-21 10:58:35</date>
+            <index>4</index>
+            <phrase>මෙම විරෝධතාවය සදාචාරාත්මකයි. ලෝභය ලෝකය විකෘති කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපසේන</author>
+            <date>2016-10-21 11:17:38</date>
+            <index>5</index>
+            <phrase>අනේ මන්දා හැමතැනම විරෝධතා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල</author>
+            <date>2016-10-21 11:17:38</date>
+            <index>6</index>
+            <phrase>ඇයි මේවා මෙහෙම දුරදිග යන්න දෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

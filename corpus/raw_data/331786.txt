@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>331786</articleId>
+    <title>නඬේගුරා යකාවෙලා</title>
+    <author>කලවාන උපේන්ද්‍ර පි‍්‍රයංකර ජාතුංගම</author>
+    <date>2015 ජූලි මස 13 09:55:00</date>
+    <body>කලවාන ප‍්‍රදේශයේ කනත්තක් අසලදී එකිනෙකාට බයවී දුව යමින් මහා ගාලගෝට්ටියක් ඉකුත්දා ඇතිවිය. 
+සිද්ධිය මෙසේය.
+වන්දනාවේ යාමට සිටි පිරිසක් අතර එක් පුද්ගලයකු බස්රථය ප‍්‍රමාදවීමත් නිසා නඬේගුරා එම පුද්ගලයා සොයාගොස් ඇත. ප‍්‍රමාද වූ පුද්ගලයාගේ නිවෙස පිහිටා ඇත්තේ කනත්තක් අසල ඇති පාරකය. නඬේ ගුරු සුදු ඇඳුමින් සැරසී යමින් සිටියේ කනත්ත පිළිබඳ සිතේ දෙඩියාවෙනි.
+ඉක්මන් ගමනින් බසය දෙසට පැමිණ ඇත. කන්ත අසලදී දෙදෙනා ඇෙඟ් හැපී ඇත්තේ ඒ අවට ඇති කළුවර නිසාය. ”බුදු අම්මෝ කියමින්” දෙදෙනා දෙපැත්තට දිවයගිය අතර නඬේ ගුරා දිවගොස් බසයේ සිටි පිරිසට සිද්ධිය කියා හනිකට සිද්ධිය වූ ස්ථානයට දිවගොස් ඇත.
+අනෙක් පුද්ගලයා ගෙදරට දිවගොස් අහල පහළ අය සමඟ එතනට පැමිණ ඇත. සිදුවීම් සියල්ලන්ටම තේරුම් ගියේ එවිටය. බසය පැයක් ප‍්‍රමාදවී වන්දනා ගමන ගිය අතර ආපසු එනතුරු දෙදෙනාටම සියල්ලම සිනාසුනහ.</body>
+    <comments>
+        <comment>
+            <author>කාරියවසම්</author>
+            <date>2015-07-13 05:08:05</date>
+            <index>0</index>
+            <phrase>අනේ පවු කියලා හිතුණා. අහිංසක විදියට දෙන්නම රැටවිලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්දාස</author>
+            <date>2015-07-13 07:07:55</date>
+            <index>1</index>
+            <phrase>හිනා යන්නේ නැහැ නේ.. කිති කවා ගෙන හරි හිනා වෙන්නම්...ස්තූතියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉල්බා</author>
+            <date>2015-07-13 07:28:38</date>
+            <index>2</index>
+            <phrase>නිකන් බොලද කතා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-07-13 07:39:56</date>
+            <index>3</index>
+            <phrase>ලක්දාසගේ කියමනටනම් මගේ ඉල පැන්නා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිවන්තක</author>
+            <date>2015-07-13 08:15:58</date>
+            <index>4</index>
+            <phrase>නියම කතාව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපවති</author>
+            <date>2015-07-13 13:23:01</date>
+            <index>5</index>
+            <phrase>සුද්දෝ හොල්මන් වලට බය නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යහම්පත්</author>
+            <date>2015-07-14 17:44:57</date>
+            <index>6</index>
+            <phrase>යක්ෂයන්, පෙරේතයන්, මන්ත්‍ර විශ්වාස කරන අයට නිතර සිදුවන දේවල් මේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2015-07-14 23:50:33</date>
+            <index>7</index>
+            <phrase>රූපා අක්කේ, මට මතක්වුණා " ඇම්ඩන්ගේ මැක්කාගේ කතාව"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

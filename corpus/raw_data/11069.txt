@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>11069</articleId>
+    <title>පාදයක් නැතත් දස්කමේ අඩුවක් නෑ</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2011 ඔක්තෝබර් මස 30 11:47:44</date>
+    <body>ලෝක ආබාධිත වෙරළ වොලිබෝල් තරඟාගවලියේ දක්ෂතම ක‍්‍රීඩකයා ලෙස ශ්‍රී ලංකා පාබල හමුදාවේ කේ එම් ඒ කේ පි‍්‍රයංකර මලයාසියාවේ ක්වාලාලම්පූර් නුවරදී රටවල් හයක් පරදවා ජය වාර්තා කළේය.
+2008දි වැලි ඔය බෝම්බ ප‍්‍රහාරයකින් ඔහුගේ කකුලක් ඉවත් කෙරීණි.
+යුද සමයේ කකුල් අහිමිවූ එස් නවේදන් විලි මලර් හා මේරි අනීටා මල් දම් රුගෙන ඔහු පිළිගැනිමට පැමිණ සිටියහ ඔවුහු පුනරුත්ථාපනයට පත් වූවෝ වෙති
+ </body>
+    <comments>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2011-10-31 09:15:59</date>
+            <index>0</index>
+            <phrase>උත්සහවන්තයා ජය ගනී මගේ උණුසුම් සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>rasanga</author>
+            <date>2011-10-31 10:52:40</date>
+            <index>1</index>
+            <phrase>මගේ උණුසුම් සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

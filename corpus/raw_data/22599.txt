@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22599</articleId>
+    <title>කඳුකරේ නව ජලාශය</title>
+    <author>තලවාකැළේ ශාන්ත චන්ද්‍රසිරි</author>
+    <date>2012 ජනවාරි මස 19 13:40:15</date>
+    <body>ශාන්ත ක්ලෙයාර් දිය ඇල්ල පාමුල ඉහළ කොත්මලා ඔය නව ජලාශය දැන් පිරෙයි. ජල මට්ටම ඉහළ යන හෙයින් දැඩි සෝදිසියෙන් සිටින්නැයි නුවරඑළිය දිසාපති ඞී.පී.ජී. කුමාරසිරි මහතා කොත්මලාඔය දෙපස පදිංචිකරුවනට අවවාද කරයි.</body>
+    <comments>
+        <comment>
+            <author>Dias , Qatar</author>
+            <date>2012-01-19 15:13:56</date>
+            <index>0</index>
+            <phrase>රටට ලොකු අඬම්බරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුපුල්</author>
+            <date>2012-01-20 16:28:26</date>
+            <index>1</index>
+            <phrase>ඉස්සර රජවරු නොදන්නා කම නිසාද කඳුකරයේ වේලි නොබැන්දෙ, නැත්නම් අපට වැරදිලාවත්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>7313</articleId>
+    <title>මනාපෙන් හයක් රෝහලට</title>
+    <author>ආනන්ද ඉ ජයකොඩි</author>
+    <date>2011 ඔක්තෝබර් මස 05 10:27:42</date>
+    <body>එක්සත් ජනතා නිදහස් සංධානයෙන් ගම්පහ මහා නගර සභාවට තරග කරන අපෙක්ෂකයන් දෙදෙනකුගේ ආධාරකරුවන් බව කියන දෙපිරිසක් අතර අලූත්ගම මොරැන්නේ දී ඇති වූ ගැටුමකින් හය දෙනකු තුවාල ලබා ජිප්රියකට ද හානි සිදු වී ඇතැයි වීරඟුල පොලිසිය කියයි මනාප පොරය මේ ගැටුමට හේතුව බව කියති.</body>
+    <comments>
+        <comment>
+            <author>farzan</author>
+            <date>2011-10-05 12:42:09</date>
+            <index>0</index>
+            <phrase>කාටද ආඩම්බර!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

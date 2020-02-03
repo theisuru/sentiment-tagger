@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484299</articleId>
+    <title>සතුන්ට දෙන පරිප්පු වෙළෙඳ පොළට</title>
+    <author></author>
+    <date>2016 නොවැම්බර් මස 27 15:31:04</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-27 17:22:54</date>
+            <index>0</index>
+            <phrase>දැන් කාටවත් පරිප්පු කන්න ලැබෙන එකක් නැහැ. ඔය මුද්‍රාව කැඩුව ගමන් පරිප්පු යන්නේ කොහාටද කියලා විමසිල්ලෙන් ඉන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2016-11-27 23:48:42</date>
+            <index>1</index>
+            <phrase>මේ යහපාලන ආණ්ඩුව මිනිසුන්ට සළකන්නේ හරියට සතුන්ට සළකනවා වගේ කියලා ක්‍රියාවටම නඟලාම පෙන්නන්න යනවා වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-11-28 00:53:28</date>
+            <index>2</index>
+            <phrase>අපි දන්නෙ නැතුව මේ වගේ කොච්චර කාලා ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබයසේන</author>
+            <date>2016-11-28 00:53:44</date>
+            <index>3</index>
+            <phrase>කොහොමත් මේ බඩු මිලේ හැටියට අපිට ඉස්සරහට ඕවා තමයි කන්න වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-28 00:54:27</date>
+            <index>4</index>
+            <phrase>මේ ව්‍යාපාරිකයා විසින් කර ඇත්තේ මිනිසුන් හැටියට හිටි සත්ව කොටසක් බල්ලෝ බළල්ලු ඌරන් හා හරකුන් ලෙසට පරිවර්තනය කළ දේශපාලකයාගේ භූමිකාවට අත්වැලක් සැපයීමයි. නැත්නම් දුෂණ රුදුරු චක්‍රයේ සදාකාලිකවම කරකැවෙමින් ඉන්න පුළුවන් විදියට මන්ත්‍රීවරුන්ව නැවත තෝරා පත්කර යවන්න කටයුතු කරන්නෙත් "මේ සත්තු" ටික විසින්ම හැර වෙන කවුරුන් විසින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

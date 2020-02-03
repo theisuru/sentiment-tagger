@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>402012</articleId>
+    <title>පැරෂුට්කරුගේ පිම්ම වැරදී රෝහලේ</title>
+    <author>තරිඳු ජයවර්ධන  බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අපේ‍්‍රල් මස 03 19:05:32</date>
+    <body>කොටුවේ ලෝක වෙළෙඳ මධ්‍යස්ථානයේ උඩ මහළේ සිට පැරෂුටයකින් බිමට බැසීමට ගිය විදේශිකයෙක් අසල හිල්ටන්   රථගාලට වැටී තුවාල ලබා රෝහල් ගත කළ බව පොලිසිය කියයි.
+හුළඟ නිසා ඔහුගේ ඉලක්කය වරදින්නට ඇතැයි කියති.
+තුවාලකරු ග්‍රේ නම් 47 හැවිරිදි ඕස්ට්‍රේලියා ජාතිකයෙකි.</body>
+    <comments>
+        <comment>
+            <author>ඉයන්</author>
+            <date>2016-04-03 14:54:28</date>
+            <index>0</index>
+            <phrase>හිත හොඳ මනුස්සයෙක් වෙන්න ඇති. ඉක්මනින්ම සුවවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-04-03 15:48:03</date>
+            <index>1</index>
+            <phrase>අපේ ඡන්දෙන් පාර්ලිමේන්තුවට ගිහින් පැරිෂුට් පනින අයටත් ඔහොම වෙනවා නම්? පවු මේ අහිංසකයා සංචාරෙකට ඇවිල්ලා, රටතොට බලලා, අඹු දරුවන්ටත් තෑගිබෝග අරගෙන යන්නේ නැතුව කරගත් දේ? අපේ පාර්ලිමේන්තු පැරිෂුට්කාරයෙක් ලණුවක්වත් දුන්නාවද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශික</author>
+            <date>2016-04-03 16:09:05</date>
+            <index>2</index>
+            <phrase>අපේ රටේ සංචාරක ප්‍රවර්ධනයට මේ වගේ අයගෙන් ලොකු මෙහෙයක් සිදුවෙනවා. ඔහුට ඉක්මන් සුව...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-04-03 16:11:14</date>
+            <index>3</index>
+            <phrase>ඔහුට ඉක්මන් සුවය පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් දයාදර</author>
+            <date>2016-04-03 16:27:57</date>
+            <index>4</index>
+            <phrase>අනේ පවු අහිංසක මනුස්සයා! තුන්සරණේ පිහිටෙන් ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2016-04-04 03:46:31</date>
+            <index>5</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිද්ධික්</author>
+            <date>2016-04-04 04:56:59</date>
+            <index>6</index>
+            <phrase>ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-04-04 07:01:48</date>
+            <index>7</index>
+            <phrase>ඕස්ට්‍රේලියානු ජාතිකයෝ වැඩි දෙනෙක් නිර්භීතයි වගේම යහපත් ගති ගුණ වලින් පිරුණු උදවිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-04-04 09:30:47</date>
+            <index>8</index>
+            <phrase>ඒක වෙලාව තමයි.පුදුමයි ජීවත් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිරා</author>
+            <date>2016-04-04 09:56:49</date>
+            <index>9</index>
+            <phrase>ඔය පැරිෂුට් එක අපේ අධිකරණ ඇමතිට ගිහින් දුන්නනම් උත්සහකර බලන්න .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද උදයසිරි රත්නායක</author>
+            <date>2016-04-04 11:47:44</date>
+            <index>10</index>
+            <phrase>තුන්සරණේ පිහිටෙන් ඉක්මන් සුවය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

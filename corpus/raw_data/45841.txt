@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>45841</articleId>
+    <title>අයි.  ඕ. සී. ඞීසල් ලීටරය දෙකකින් නඟී</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2012 මැයි මස 31 18:58:02</date>
+    <body>අද මැදියම් රැයේ සිට ඞීසල් ලීටරය රුපියල් දෙකකින්ද හා එක්ස්ට‍්‍රාමයිල් ඞීසල් ලීටරයක මිල රුපියලකින්ද වැඩිකරන බව ඉන්දීය තෙල් සමාගම කියයි.
+මේ අනුව ඞීසල් ලීටරය රුපියල් 117 ක්ද එක්ස්ට‍්‍රා මයිල් ලීටරය රුපියල් 119ක්ද වෙයි.</body>
+    <comments>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2012-05-31 19:51:55</date>
+            <index>0</index>
+            <phrase>බොර තෙල් මිල අඩුවෙද්දී අයි.ඕ.සී. මිල වැඩිවෙනවා. ?????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-05-31 19:54:08</date>
+            <index>1</index>
+            <phrase>ලෝකයේ තෙල් මිල පහත බැස තිබෙනවිට ලංකාවේ මිල වැඩිවේ. මේකද ආශ්චර්යය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේ.</author>
+            <date>2012-05-31 20:02:59</date>
+            <index>2</index>
+            <phrase>තෙල් සංස්ථාව වැඩි නොකළොත් අයි.ඕ.සී එකට ලොකු හානියක් වනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2012-05-31 20:06:27</date>
+            <index>3</index>
+            <phrase>අපි අසරණ වෙලා වගේ හිතට දැනෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-05-31 20:38:49</date>
+            <index>4</index>
+            <phrase>ලෝක වෙළඳ පොළේ තෙල් මිල අඩු වෙන කොට ඉන්දියන් ඔයිල් කොම්පැනිය වැඩි කරනවා. මෙයාලට මෙච්චර දෙයක් අපේ රටේ කරන්න ඉඩ දුන්නු එකයි වරද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-05-31 20:44:43</date>
+            <index>5</index>
+            <phrase>හෙනම ගහවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-05-31 22:33:10</date>
+            <index>6</index>
+            <phrase>ආසියාවේ ආශ්චර්යය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

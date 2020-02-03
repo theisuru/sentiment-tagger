@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>481813</articleId>
+    <title>රෙදිපිළි වෙළඳසලක් ගිනි ගනියි</title>
+    <author>රේඛා තරංගනී ෆොන්සේකාබිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 19 21:45:32</date>
+    <body>පැපිලියාන ප්‍රදේශයේ රෙදිපිළි වෙළඳසැලක් ගිනි ගනිමින් තිබෙන බවත් ගින්න‍ෙ හේතුව මෙතෙක් අනාවරණය වී නොමැති බවත් පොලිසිය කියයි.
+දෙහිවල ගල්කිස්ස මහ නගරසභා ගිනි නිවන රථ එහි පිටත්ව ගිය බවද පොලිසිය කියයි 
+ඡායාරූප රේඛා තරංගනී ෆොන්සේකා </body>
+    <comments>
+        <comment>
+            <author>රිෂාන්</author>
+            <date>2016-11-19 17:40:48</date>
+            <index>0</index>
+            <phrase>පහුගිය ටිකේ ගිනිගැනීම් ටිකක් අඩුවෙලා තිබුනා. ආයෙත් පටන් අරන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2016-11-20 01:40:54</date>
+            <index>1</index>
+            <phrase>අයියෝ! මේ මොන අපරාධයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-11-20 04:12:45</date>
+            <index>2</index>
+            <phrase>අපරාදේ! මේ පිච්චෙන්නේ සල්ලි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2016-11-20 04:47:33</date>
+            <index>3</index>
+            <phrase>පුදුමාකාර වෙනසක්. රටේ හැමතැනම ගිනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රත්නායක</author>
+            <date>2016-11-20 05:21:02</date>
+            <index>4</index>
+            <phrase>ගියපාර වගේම තමන්ම ගිනි තියලා අනුන්ට වරද පටවන තැතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2016-11-20 06:08:53</date>
+            <index>5</index>
+            <phrase>මේ ගිනිගැනීම්වලට බොහෝ වෙලාවට හේතුව තමයි විදුලිය කාන්දුවීම, බොහෝ අය ඒ වෙලේට ලැබෙන ලාබය ගැන සිතලා නිසි පුහුණුවක් නැති පුද්ගලයන් ලවා තමන්ගේ නිවසේ කාර්යාලයේ ව්‍යාපාරික ස්ථානයේ විදුලි රැහැන් ඇදීම කරගන්නවා සමහර තැන්වල වඩුකාර්මිකයන් සහ පෙදදෙරුවන් පවා විදුලි රැහැන් ඇදීම කරන අවස්ථා තිබෙනවා ඒවයේ අවසාන ප්‍රතිඵලය තමයි මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-11-20 07:59:43</date>
+            <index>6</index>
+            <phrase>කුමක් සිදු වන්න ඇත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බටුගෙදර</author>
+            <date>2016-11-20 08:30:40</date>
+            <index>7</index>
+            <phrase>දැන් ටිකක් තරහ නිවිලා ඇති සමහර අයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-11-20 14:01:23</date>
+            <index>8</index>
+            <phrase>කාර්මික දෝෂයක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-11-20 15:52:36</date>
+            <index>9</index>
+            <phrase>ලොකු පාඩුවක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

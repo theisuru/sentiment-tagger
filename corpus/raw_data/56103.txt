@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56103</articleId>
+    <title>ගාලු හිරගෙදර ඡංගම දුරකතන පැටව් ගහයි</title>
+    <author>නිමල් අල්ගෙවත්ත</author>
+    <date>2012 ජූලි මස 29 18:51:02</date>
+    <body>ගාල්ල හිරගෙදර අද සන්ධ්‍යාවේ හදිසි සෝදිසියක දී සිරකරුවන් ළඟ ගංජා හා මත් කුඩු ද ජංගම දුරකතන 14ක් ද සිම් කාඩ් 14ක් ද සොයාගත් බව ගාල්ල පොලිසිය කියයි. මීට සති කිහිපයකට පෙර ද එහි තිබී ජංගම දුරකතන රැසක් සොයා ගැනිණි.</body>
+    <comments>
+        <comment>
+            <author>හිර්සාන්</author>
+            <date>2012-07-29 19:14:44</date>
+            <index>0</index>
+            <phrase>ෆෝන් කඩයක් දාන්න පුළුවන් එහෙනම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චනා</author>
+            <date>2012-07-29 19:26:59</date>
+            <index>1</index>
+            <phrase>කට්ටිය බෙදාගනීවිද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී කුවේට්</author>
+            <date>2012-07-29 20:07:57</date>
+            <index>2</index>
+            <phrase>රටේ මෙවැනි ආයතන තුල දූෂිත නිලධාරීන් සිටිනතාක්කල් මෙවැනි දූෂන වළක්වන්න අමාරුයි.දැන්වත් අති නවීන තාක්ෂණයෙන් යුතු ආරක්ෂණ උපකරන හිරගෙවල්වල සවිකලයුතු අතර ආරක්ෂක අමාත්‍යංශය සමග සහයෝගයෙන් හදිසිවැටලීම් නොකඩවා දිනකට දෙතුන් වතාවක් වත් කලයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-07-29 21:47:36</date>
+            <index>3</index>
+            <phrase>ගාමිණි ඔබගේ අදහසම තමා මාත් දරන්නෙ. ඒහි සේවය කල නිලධාරින්ට උසස් විමක් දෙන්න තියෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-29 23:40:42</date>
+            <index>4</index>
+            <phrase>ඇතුලේ ඉදන් අයියලා වැඩ ටික කර ගන්නත් එපැයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-07-30 09:38:37</date>
+            <index>5</index>
+            <phrase>දැන් ඉස්සර සෙල්ලම් බෑ හොදේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-07-30 09:58:05</date>
+            <index>6</index>
+            <phrase>කවුද අම්මයි තාත්තයි? අනේ මටත් පැටියෙක් දෙන්න‍ බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-07-30 11:16:27</date>
+            <index>7</index>
+            <phrase>පළමුව මේවා ඇතුළේ ඉන්න දූෂිත නිලධාරීන් ටික අල්ලා සිටිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ්</author>
+            <date>2012-07-30 14:20:16</date>
+            <index>8</index>
+            <phrase>දූෂිත නිලධාරීන් ඉන්නා තාක්කල් මීටත් වඩා භයානක දේවල් සිර ගෙවල් තුළට යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-30 15:16:25</date>
+            <index>9</index>
+            <phrase>ෆෝන් තියෙනවනම් උලත් එකයි, පිලත් එකයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-30 22:04:05</date>
+            <index>10</index>
+            <phrase>දැන් හිර ගෙවල් තමයි හොරුන්ගේ තිඹිරි ගෙවල්‍‍‍....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-07-30 22:05:25</date>
+            <index>11</index>
+            <phrase>දැන් හිර ගෙවල් තමයි අපරාධකරුවන්ගේ තිඹිරි ගෙවල්........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

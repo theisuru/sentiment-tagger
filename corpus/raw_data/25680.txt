@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25680</articleId>
+    <title>සහායක රදගුරු දෙදෙනෙක් අබිසෙස් ලබති</title>
+    <author>රුක්මාල් සිල්වා</author>
+    <date>2012 පෙබරවාරි මස 08 18:52:40</date>
+    <body>නව සහායක රදගුරුවරු දෙදෙනකු මැල්කම් කාදිනල් රංජිත් කොළඹ අගරදගුරු තුමන් හා වතිකාන නියෝජිත ජෝසප්ස් ස්ප‍්‍රීමෙරි රදගුරුතුමන් ඉදිරිපිටදී ලබන 11 වැනිදා කොටහේන ශාන්ත ලූසියා දෙව්මැදුරේදී අබිසෙස් ලබති.
+ලයනල් එම්මැනුවෙල් ප‍්‍රනාන්දු හා මැක්ස්වල් ග‍්‍රැන්විල් සිල්වා නව සහායක රදගුරුවරුන් ලෙස පත් කැර ඇත්තේ 16 වැනි බෙනඩික්ට් පාප්තුමන් විසිනි.</body>
+    <comments>
+        <comment>
+            <author>jeff</author>
+            <date>2012-02-08 21:37:22</date>
+            <index>0</index>
+            <phrase>ජේසු පිහිටයි. ශ්‍රී ලංකා වාසී සැමගේම සුභපැතුම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජීව් වික්ටර්</author>
+            <date>2012-02-08 22:50:13</date>
+            <index>1</index>
+            <phrase>නව රද ගුරුවරුන් දෙදෙනාට මගෙන් සුභපැතුම්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-02-09 09:24:14</date>
+            <index>2</index>
+            <phrase>ඔබ දෙපළ අපට වාසනාවක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

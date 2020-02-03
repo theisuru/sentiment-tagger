@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22644</articleId>
+    <title>තුන් වසරකට පසු කොටියා එළියේ</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 19 16:45:33</date>
+    <body>කොළඹ කොටුවේ සම්බුද්ධාලෝක විහාරය ඉදිරිපිට දී පොලිස් කැරැලි මර්දන බස් හතරක් ඉලක්ක කැරගෙන තුන් වසරකට පෙර මරාගෙන මැරෙන බෝම්බයක් පුපුරුවා ගැනීමට කොටියකුට ආධාර හා අනුබල දුන්නැයි කියන ජයබාලනී ජනර්ථන් කොළඹ කොටුව මහේස්ත්‍රාත් කනිෂ්ක විජේරත්න මහතා විසින් මුදා හැරිණි. ඔහුට එරෙහිව නීතිමය ක්‍රියා අවසන් බව නීතිපති අධිකරණයට දැන්වීය. එම ප්‍රහාරයෙන් පොලිස් සාමාජිකයන් ඇතුළු 14  දෙනෙක් මරුමුවට පත් වූහ. අනු දෙනෙක් තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>නදීකා</author>
+            <date>2012-01-19 23:59:50</date>
+            <index>0</index>
+            <phrase>සරත් ෆොන්සේකා තාම හිරේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>SURANGA</author>
+            <date>2012-01-21 10:45:23</date>
+            <index>1</index>
+            <phrase>මේක තමයි යුක්තිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

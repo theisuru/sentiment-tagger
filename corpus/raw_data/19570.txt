@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19570</articleId>
+    <title>කොරියා උසාවියක් ලාංකිකයාගේ ඇඟ බදී</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2011 දෙසැම්බර් මස 27 18:31:58</date>
+    <body>දකුණු කොරියාවේ ක්වැන්ජු නගරයේ සංගීත ප්‍රසංගයක් නැරැඹීමට ගිය ශ්‍රී ලාංකික තරුණයෙක් 13 හැවිරිදි කොරියා දැරියක් බලහත්කාරයෙන් ස්පර්ශ කිරීමට ගොස් පොලිස් අත්අඩංගුවට පත්විය.  දැරියකගේ හිරිඔතප් බිදීමේ වරදට රුපියල් ලක්ෂ තුනහමාරක දඩයක් ගෙවන ලෙස එහි අධිකරණය නියෝග කැර ඔහුගේ ඇඟ බැන්දේය.  ශ්‍රී ලාංකිකයා එම වයසේ දියණියකගේ පියෙකි. මෙයට පෙර ද සංගීත ප්‍රසංග වැනි ස්ථානවලදී කාන්තාවනට හිරිහැර කළ ශ්‍රී ලාංකිකයන් කිහිපදෙනකුටම අධිකරණය දඬුවම් නියම කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>නුවන් ගුණවර්ධන</author>
+            <date>2011-12-27 18:44:27</date>
+            <index>0</index>
+            <phrase>සමාවෙන්න ඕක ජන්ම ගතිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2011-12-27 21:02:27</date>
+            <index>1</index>
+            <phrase>ලජ්ජා නැති අය. පිටරටකට ගිහිල්ලවත් තමන්න්ගේ රටේ නම රකින්න දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2011-12-27 21:59:41</date>
+            <index>2</index>
+            <phrase>මේ යන විදියට කොරියා රස්සා ටිකත් නැති වෙයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2011-12-28 04:54:20</date>
+            <index>3</index>
+            <phrase>කොටියා කැලේ මාරු කළාට පුල්ලි මාරු වෙන්නෙ නැතිලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරුවින්</author>
+            <date>2011-12-28 09:21:21</date>
+            <index>4</index>
+            <phrase>කොරියාවට රස්සාවට යන අයට භාෂාව විතරක් නෙවෙයි හැදියාවත් කියල දෙන්න වෙලා. මේවා කියවන කොටත් ලැජ්ජයි. මේ අය ලංකාවේ නමත් කැත කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>gamaeti</author>
+            <date>2011-12-28 12:42:45</date>
+            <index>5</index>
+            <phrase>අපේ රට පිටරට ගිහිල්ලත් කනවා . මොවුන්ට ඉන්ජේක්සන් විදලා රට යැවිය යුතුයි.දැන්නම් රට භයානක තත්ත්වයකට පත්වෙමින් තියනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

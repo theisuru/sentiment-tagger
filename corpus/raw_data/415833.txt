@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>415833</articleId>
+    <title>කතරගම පාලමක් වතුරේ</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2016 මැයි මස 15 17:46:12</date>
+    <body>බුත්තල කතරගම පාරේ ගෝනගමංආරේ තාවකාලික පාලම කැඩී ජල පහරට ගසාගෙන යාම නිසා වාහන ගමනාගමනය නතර විය.
+වසර තුනක් පුරා අබලන්ව තිබූ මෙම බෝක්කු පාලමේ එක් මන්තීරුවක පමණක් වාහන ධාවනය විය.
+මෙම පාලම කඩාගෙන යාම නිසා අම්පාර වැල්ලවාය, බදුල්ල, බුත්තල, බණ්ඩාරවෙල බලා යන වාහන තණමල්විල ඔස්සේ ගමන් කළ යුතු බව පොලිසිය කියයි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-05-15 22:33:45</date>
+            <index>0</index>
+            <phrase>ලංකාව කියන්නේ විපත් දිහා බල බලා දුක්විය යුතු රටක් නොවේ. රාජා භවතු ධම්මිකෝ වගේම දේවෝ වස්සතු කාලේන ගැනත් අපි අසා තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩෘ</author>
+            <date>2016-05-16 02:54:28</date>
+            <index>1</index>
+            <phrase>ප්‍රමිතියේ තරම හිතාගන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2016-05-16 03:19:53</date>
+            <index>2</index>
+            <phrase>සත්‍යා, රාජා භවතු ධම්මිකෝ කියලා ඔයාලට කියන්න තිබුණේ උගන්ඩාවෙ ගිය ඒකාධිපතියො රට පාලනය කරද්දී. ස්වභාවික විපත් කොහෙත් සිදුවෙනවා. ඒකට සමස්ත මිනිස් වර්ගයාම වගකියන්න ඕනෑ. ඔබත් ඇතුළුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2016-05-16 04:43:46</date>
+            <index>3</index>
+            <phrase>නැත, මෙහි ඉදිකිරීම් කරන ආයතනය තාවකාලික පාලම නිසි ලෙස නඩත්තු කළ යුතුය. එය ඔවුන්ගේ කොන්ත්‍රාත්තුවේ කොටසක්. ඔවුන් තම වගකීම ඉටුකර නැති බවය් මගේ හැගීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-05-16 06:06:16</date>
+            <index>4</index>
+            <phrase>ලංකාවේ ඉන්නේ අන්ධභූත ජාතකයේ සෙනඟක්. පහුගිය කාලේ නයා කට ඇරියා වගේ පායනකොට රටේ නැති පුජා කන්නලවූ කර කර දැඟලුවා. දැන් ඒපාර සාමාන්‍ය මෝසම් වැසි ටිකක් සැරට වැස්සාම රටේ නායකයන්ට අවලාද නඟනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-05-16 09:09:07</date>
+            <index>5</index>
+            <phrase>සත්‍යා ඔබ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-05-16 21:57:42</date>
+            <index>6</index>
+            <phrase>ඔබ පරණ එකාධිපතියගේ වැරදි අද දකින කොට අපි එයාව එලෙව්වේ ඊයේ. අපි කවදාවත් කාටවත් කඩේ නොයන නිසා අපි ඒ කාලෙත් "රාජ භවතු ධම්මිකෝ" කතාව කිව්වා. නමුත් පක්ෂග්‍රාහී මිනිසුන්ට අපේ හඬ ඇහුනේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

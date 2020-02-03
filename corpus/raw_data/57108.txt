@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57108</articleId>
+    <title>මන්නාරම විරෝධය දිගටම?</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 අගෝස්තු මස 05 18:00:10</date>
+    <body>මන්නාරම මහේස්ත‍්‍රාත් උසාවියට පහරදුන් පිරිස අත් අඩංගුවට ගන්නා තුරු තම රාජකාරිවලින් වැලකී දිගමට උත්ඝෝෂණ කරන බව එහි නීතිඥ සංගමයේ සභාපති අයි.සී. ප‍්‍රනාන්දු මහතා කියයි.
+උසාවියට ගල්මුල් ගැසූ තිස් දෙදෙනකුගේ නම් පොලිසියට දුන් නමුත් ඔවුන් අත් අඩංගුවට නොගත්තැයි ඔහු පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ඇරිස්</author>
+            <date>2012-08-05 18:57:17</date>
+            <index>0</index>
+            <phrase>හොද අදහසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-05 19:02:29</date>
+            <index>1</index>
+            <phrase>ඔතනට ඔහොම නම් අපට කොහොම තියෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂර්ෆාස්</author>
+            <date>2012-08-05 21:44:38</date>
+            <index>2</index>
+            <phrase>ඉතිං කාටද පාඩු? නීතිඥවරුන්ටද? මහජනතාවටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-05 22:00:53</date>
+            <index>3</index>
+            <phrase>හොදටම විශ්වාසද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත රත්නායක</author>
+            <date>2012-08-05 22:38:03</date>
+            <index>4</index>
+            <phrase>මෙයාලව අත්අඩංගුවට ගන්නා තුරු එෆ් බී එකෙන් කෑ ගහමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-05 22:45:55</date>
+            <index>5</index>
+            <phrase>එතන දෙතුන් සියයක් විතර හිටියනේ. ඇයි තිහකගේ නම් විතරක් දෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-08-05 22:46:09</date>
+            <index>6</index>
+            <phrase>කවුරුහරි පුද්ගලයකුගේ නමක් කී පමණින් ඔහු වැරදිකරුවකු වෙන්නේ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2012-08-06 05:40:52</date>
+            <index>7</index>
+            <phrase>අනේ රටට ගිය කලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-06 06:13:59</date>
+            <index>8</index>
+            <phrase>මුස්ලිම්‍ අය නිසා අත්අඩංගුවට ගන්න අමාරු ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උමාෂ්</author>
+            <date>2012-08-06 13:18:29</date>
+            <index>9</index>
+            <phrase>දැන් අපිත් හිතාගෙන ඉන්නේ නිවාඩුවක් ඕනෑ වුණහම වැඩ වර්ජනයක් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-08-06 13:20:12</date>
+            <index>10</index>
+            <phrase>හැමෝම කරන්නේ පොඩ්ඩ ඇත්නම් වර්ජනය කරන එක. අන්තිමට තැලෙන්නේ පොඩි මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇල්බට්</author>
+            <date>2012-08-06 15:06:44</date>
+            <index>11</index>
+            <phrase>නීතීඥ සර්, මං මේ දන්නැති නිසයි අහන්නෙ, නම දුන් පමණින් කෙනෙක්ව අතඩන්ගුවට ගන්න පුලුවන්ද ? එයා ඇත්තටම සම්බන්ධයි කියල සාක්කියක් නැති උනත්????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-06 16:18:02</date>
+            <index>12</index>
+            <phrase>@ඇල්බට් සාක්කි නැතුව බෑ. එකයි 18ක් විතරක් අරන් තියෙන්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

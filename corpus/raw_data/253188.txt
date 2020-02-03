@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>253188</articleId>
+    <title>රාවනා ඇල්ල රක්ෂිතයේ මහ ගින්නක්</title>
+    <author>පාලිත ආරියවංශ</author>
+    <date>2014 ජූලි මස 30 10:07:10</date>
+    <body>ඇල්ල රාවනා ඇල්ල රක්ෂිතයේ අක්කර 800ක් පමණ ගිනි ගෙන ඇත.
+රක්ෂිතයේ මුළු භූමි ප්‍රමානය අක්කර 4800කට ආසන්නය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>පහන්</author>
+            <date>2014-07-30 05:21:35</date>
+            <index>0</index>
+            <phrase>අහිංසක සත්තු පව්.ගොඩක් මැරිලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තේජාන්විත</author>
+            <date>2014-07-30 05:39:12</date>
+            <index>1</index>
+            <phrase>රාවන රජ්ජුරුවෝ නින්දෙන් නැගිටලා ගිනි තිබ්බද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හැරිසන්</author>
+            <date>2014-07-30 06:26:42</date>
+            <index>2</index>
+            <phrase>මේවා කවුරු කළත් බොහොම පහත් වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2014-07-30 06:35:49</date>
+            <index>3</index>
+            <phrase>කිසිම දේශපාලකයෙක් මේ එක දිගටම සිදුවන වන ගිනි තැබීම් ගැන කතා නොකරති . ඒවා මැඩ පැවැත්වීම සඳහා උත්සහ ගන්නා බවක්ද නොපෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2014-07-30 11:19:43</date>
+            <index>4</index>
+            <phrase>මේ ඉබේ හටගන්නා ගිනි නෙමෙයි කියලයි මට හිතෙන්නේ. දැන් විල්පත්තුවේ වගේ ජනපද හදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉඳුනිල්</author>
+            <date>2014-07-31 08:28:38</date>
+            <index>5</index>
+            <phrase>මේකේ ඇතුලට එහෙම රින්ගන්න දෙන්න බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල ප්‍රසන්න</author>
+            <date>2014-08-05 19:29:15</date>
+            <index>6</index>
+            <phrase>මේ පිළිබඳව විධිමත් පරීක්ෂණයක් පවත්වලා වැරදිකරුවන්ට උපරිම දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

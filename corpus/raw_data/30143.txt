@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30143</articleId>
+    <title>වගුරු බිමේ දැරියත් මරුට</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 මාර්තු මස 06 19:08:45</date>
+    <body>ඇමෙරිකාවේ ඉන්දියානා, කෙන්ටාකි හා ඔහියෝ  පළාත් හි ඇති වූ දරුණු සුළි කුණාටුවෙන් 39 දෙනෙක් මරුමුවට පත්වූහ. තිස් නම වැනියා ලෙසින් පැය 48කට පසුව මියගියේ එන්ජල් බබ්කුක් (මාස 15) දැරියයි. ඉන්දියානා පළාතේ ඇය සිටි නිවස සුළි කුණාටුවෙන් බිමට සමතලා විය. එහිදී ඇයගේ මව පියා සහෝදරයින් දෙදෙනා එතැනම මිය ගියහ. එන්ජල් බිලිඳිය හමු වූයේ  නිවසේ සිට කිලෝ මීටර් 16ක් ඈත වගුරු බිමකිනි. බරපතල තත්ත්වයේ සිටි ඇගේ ජීවිතය බේරා ගැනීමට වෛද්‍යවරුන් ගත් උත්සහාය අසාර්ථක විය. දැරියගේ මොළයට බරපතල හානි සිදුවීම නිසා ඇය බේරාගත නොහැකි වූ බව වෛද්‍යවරු කියති.</body>
+    <comments>
+        <comment>
+            <author>mama hodi</author>
+            <date>2012-03-06 20:33:08</date>
+            <index>0</index>
+            <phrase>අනිත් රටවලට කරන වැඩ නිසා තමයි ඔහොම වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමරාල</author>
+            <date>2012-03-06 21:56:09</date>
+            <index>1</index>
+            <phrase>හරිම කණගාටුයි මේ වෙන දේවල්වලට. ඒවගේම ඇමෙරිකාව අනිකුත් රටවල්වලට කරන අපරාධවලට වන්දි ගෙවන්නේ අහිංසක මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus</author>
+            <date>2012-03-06 22:24:26</date>
+            <index>2</index>
+            <phrase>තමන්ගේ රටේ සිද්ද වන දේවල් බලල හරි ඇමරිකාව හැදුනනම් හරි.අනුන්ගේ දේවල් වලට අත දාන්නේ නැතුව.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-03-07 03:23:01</date>
+            <index>3</index>
+            <phrase>දෙවියන්ගේ කෝපය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුරංග විතානගේ</author>
+            <date>2012-03-07 08:52:10</date>
+            <index>4</index>
+            <phrase>ලෝක විනාශය අතලග.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-03-07 11:47:20</date>
+            <index>5</index>
+            <phrase>හරිම කණගාටුදායක ආරංචියක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-03-07 11:47:55</date>
+            <index>6</index>
+            <phrase>හරිම කණගාටුදායක සිදුවීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලින්ද</author>
+            <date>2012-03-07 14:06:27</date>
+            <index>7</index>
+            <phrase>මේ මිනිස්සු පව්.ඈමෙරිකාවට සොබාදහම දඩුවම් දෙනව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

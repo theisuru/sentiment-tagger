@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>220478</articleId>
+    <title>ඡන්ද පෙට්ටි බෙදා හැරීම අරඹයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2014 මාර්තු මස 27 12:26:51</date>
+    <body>බස්නාහිර හා දකුණු පළාත් සභා ඡන්දයේ ඡන්ද පෙට්ටි සිකුරාදා සිට ඡන්ද පොළවලට රැගෙන යෑමට සියල්ල සූදානම් කර ඇත.
+කළුතර දිස්ත්‍රික්කයේ ඡන්ද පොළ 613කට ඡන්ද පෙට්ටි බෙදා හැරීමට සියල්ල සූදානම් කර තිබිණි. මෙම ඡන්ද පෙට්ටි බෙදා හැරීමේ මධ්‍යස්ථානය වන කළුතර තිස්ස විදුහලට හා පස්දුන් විද්‍යාපීටයට කළුතර දිසාපති කාර්යාලයයේ සිට අද රැගෙන යෑම අද ඇරඹිණි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අචිනි</author>
+            <date>2014-03-27 15:53:03</date>
+            <index>0</index>
+            <phrase>රටේ දු දරුවන්ගේ අනාගතය ගැන හිතලා කටයුතු කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2014-03-27 20:48:38</date>
+            <index>1</index>
+            <phrase>සාධාරණ මැතිවරණයකට අපේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලාන්</author>
+            <date>2014-03-28 01:16:11</date>
+            <index>2</index>
+            <phrase>මේක මට නම් හරිම සුන්දර දසුනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2014-03-28 01:16:11</date>
+            <index>3</index>
+            <phrase>අනේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩ්</author>
+            <date>2014-03-28 01:16:11</date>
+            <index>4</index>
+            <phrase>කිසිම වංචා දුෂණයක් නැතිව චන්දය පවත්වන්න ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාලහාමි</author>
+            <date>2014-03-28 08:54:12</date>
+            <index>5</index>
+            <phrase>කලින් දාපු ඡන්ද පෙට්ටි ඇතුලේ නැහැ නේද? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-03-28 10:37:26</date>
+            <index>6</index>
+            <phrase>අවංක සාධාරණ මැතිවරණයක් පැවැත්වෙනවානම් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2014-03-28 15:19:21</date>
+            <index>7</index>
+            <phrase>ඔව් ඔව් රටේ දු දරුවන්ට තමයි ඔය ඡන්දය තියන්නේ. හොරුන්ට ඡන්දෙ දාන්නේ හොරුන්ම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විධුෂක</author>
+            <date>2014-03-28 17:48:18</date>
+            <index>8</index>
+            <phrase>ප්‍රජාතන්ත්‍රවාදයට, සාමයට, යහපාලනයට, සහජීවනයට, මුලික මිනිස් අයිතිවාසිකම් වලට අවශ්‍ය සියල්ල රැ‍ඳෙනු ඇත්තේ මෙම "පෙට්ටිය" තුළයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

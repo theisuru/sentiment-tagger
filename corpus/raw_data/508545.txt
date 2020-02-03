@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508545</articleId>
+    <title>කීත් නොයාර් සිද්ධියේ හමුදාවේ පස් දෙනාගේ වැඩ තහනම්</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2017 පෙබරවාරි මස 20 17:10:46</date>
+    <body>මාධ්‍යවේදී කීත් නොයාර් මහතා පැහැරගෙන ගොස් පහර දී වධ හිංසා කළැයි සැකපිට අත්අඩංගුවට ගත් යුද හමුදා නිලධාරීන්ගේ වැඩ තහනම් කළ බව හමුදා ප්‍රකාශක බ්‍රිගේඩියර් රොෂාන් සෙනවිරත්න මහතා කියයි.
+එම පිරිස අතර මේජර් වරයෙක්ද සිටියි.ඔවුහු යුද හමුදා බුද්ධි අංශයේ ට්‍රිපෝලි කඳවුරේ බුද්ධි ඒකකයට අනුයුක්තව සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>දිලීත</author>
+            <date>2017-02-20 12:38:59</date>
+            <index>0</index>
+            <phrase>වැඩ තහනම් නොකර බේරාගන්න බැරිවුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2017-02-20 17:29:15</date>
+            <index>1</index>
+            <phrase>මේ කට්ටිය කරලා තිබෙන්නේ බරපතල වරදක් බව පැහැදිලියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පරාක්‍රම</author>
+            <date>2017-02-20 19:29:03</date>
+            <index>2</index>
+            <phrase>පව් අනේ! මේ වගේ කීර්තිමත් රණවිරුවන්ගෙන් පළිගන්නේ ඇයි? මේගොල්ලෝ කරලා තියෙන්නේ අපට කටට හුරු නැති නොයාර්ලගෙන්, බටහිර අධිරාජ්‍යවාදී කුමන්ත්‍රණකාරී බලවේගයන්ගෙන් රට ජාතිය බේරාගන්න උදාර මෙහෙවරක්නේ අනේ ? චින්තනයට අනුකූලයිනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2017-02-21 02:04:51</date>
+            <index>3</index>
+            <phrase>එතකොට අර මහා දවල්, අච්චර ප්‍රසිද්ධියේ මාධ්‍යවේදියාට තඩි බෑ නාවික හමුදාවේ ලොක්කව ඉන්ටඩික් නොකරන්නේ ඒ පැත්තට නීතිය නමලා හින්දද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2017-02-21 02:46:49</date>
+            <index>4</index>
+            <phrase>මාධ්‍යවේදින්ව ඝාතනය කළේ කොටින්ගෙන් රට බේර ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2017-02-21 03:38:44</date>
+            <index>5</index>
+            <phrase>මේ මිනිස්සු නෙවෙයි , හරිනම් මේවට අණ දුන්න ලොක්කෝ හොයලා අයටයි දඬුවම් කරන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2017-02-21 06:24:41</date>
+            <index>6</index>
+            <phrase>මේ වගේ වැඩ කරන හමුදාවේ අය නිසා තම අන් අයගේ කීර්ති නාමයට හානි වෙන්නේ. ලොක්කෝ දෙසපලුවන්ගේ අතකුලු වෙලා පොඩි අයට අනදෙනවා ඕන කැත වැඩක් කරන්න. රස්සාව නැති උනාම බේරගන්න කව්රුත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල් වික්‍රම</author>
+            <date>2017-02-21 11:14:24</date>
+            <index>7</index>
+            <phrase>හැම රණවිරුවම හොඳ අය නෙවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිශ්චන්ද්‍ර</author>
+            <date>2017-02-21 19:03:11</date>
+            <index>8</index>
+            <phrase>අනේ මන්දා මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

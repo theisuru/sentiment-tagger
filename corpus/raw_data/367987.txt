@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>367987</articleId>
+    <title>සබ්මැරීනයෙනුත් සිරියාවට මිසයිල</title>
+    <author>සිරංගිකා ලොකුකරවිට</author>
+    <date>2015 දෙසැම්බර් මස 10 11:22:24</date>
+    <body>සිරියාවේ රකා නගරයේ පිහිටි අයිඑස්අයිඑස් ත්‍ර‍ස්තවාදීන්ගේ කඳවුරු වෙත සබ්මැරිනයකින් දිග දුර විහිදුම් මිසයිල එල්ල කළ බව රුසියාවේ ආරක්ෂක අමාත්‍ය සෙර්ගෙයි ශෝයිගු පවසයි.
+පසුගිය සැප්තැම්බරයේ දී රුසියා ප්‍ර‍හාරක යානා සිරියාවේ මෙහෙයුම් ආරම්භ කළ ද රුසියාව ප්‍ර‍හාර සඳහා සබ්මැරිනයක් යොදා ගත් පළමු අවස්ථාව මෙයයි.
+රුසියාව පවසන්නේ සිරියානු ජනාධිපති බෂර් අල් අසාද්ගේ ඉල්ලීම මත තමන් මෙහෙයුම් ආරම්භ කළ බවයි.</body>
+    <comments>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2015-12-10 06:41:46</date>
+            <index>0</index>
+            <phrase>ගහන ගැහිල්ලේ විදියට දැන් සිරියාවේ කැල්ලක් වත් ඉතිරිවෙලා තියෙන්න විදියක් නෑ රටවල් කියකින් ගහනවද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2015-12-10 09:41:09</date>
+            <index>1</index>
+            <phrase>කොච්චර ගැහුවත් වැඩක් නැහැ. තාම මේක ඉවර කරගන්න බැරි වුනානේ කාටවත්.මෙච්චර හොද යුද උපකරණ තිබිලත්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2015-12-10 19:35:21</date>
+            <index>2</index>
+            <phrase>රුසියාව මැදිහත්වීම නිසා ඇමරිකාව සහ යුරෝපයේ ලෝක හොරුන්ගෙන් සිරියාව බේරීමට ඉඩ ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2015-12-11 00:18:05</date>
+            <index>3</index>
+            <phrase>මෙහෙයුම සාර්ථකද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2015-12-11 02:26:48</date>
+            <index>4</index>
+            <phrase>ඉවර නැහැ. තාම පටන්ගත්තා විතරයි. බලා ඉන්නකෝ කට්ටිය, රුසියාවට මොකද වෙන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2015-12-11 03:24:20</date>
+            <index>5</index>
+            <phrase>නිදාසිටි කොටි අවදිකර ගත්තහම මෙහෙම වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරුද්ධ</author>
+            <date>2015-12-11 06:54:11</date>
+            <index>6</index>
+            <phrase>ඕක දෙන්න අපේ හමුදාවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩා</author>
+            <date>2015-12-11 10:33:18</date>
+            <index>7</index>
+            <phrase>ගයාන්, මේ ගොල්ල ළඟ හොද ආයුධ තියෙනවා එකක් ගිහින් දැම්මානම් සිරියාව තිබුන තැන හොයාගන්නත් බෑ. අහිංසක මිනිස්සු ඉන්න නිසා එහෙම දෙයක් කරන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2015-12-12 09:50:16</date>
+            <index>8</index>
+            <phrase>හැබැයි පුටින් කියලා තිබුනා න්‍යෂ්ටික යුධ අවි උවමනා වෙන එකක් නැහැ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

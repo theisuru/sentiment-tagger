@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56597</articleId>
+    <title>හොර අයිඩී කන්තෝරුවක් අල්ලයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 අගෝස්තු මස 01 16:55:58</date>
+    <body>රුපියල් 25000 ක ගාස්තුවකට පැයකදී ජාතික හැඳුනුම්පත ද රියැදුරු බලපත‍්‍රයද හොරට හදාදෙන තැනක් මරදානේ මහල් නිවසකින් අල්ලාගත් බව නොවිසැඳුනු අපරාධ පිළිබඳ පොලිසිය (නුගේගොඩ) කියයි.
+රුපියල් 13000 ක මාසික කුලියකට එහි කාමරයක් කුලියට ගෙන සිටි දෙදෙනෙක් ද අත්අඩංගුවට ගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ඉන්දික ගුණවර්ධන</author>
+            <date>2012-08-01 17:15:42</date>
+            <index>0</index>
+            <phrase>වැඩක් කෙරුවොත් මිරිහානේ කොල්ලො තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-01 17:38:15</date>
+            <index>1</index>
+            <phrase>මරදානේ ඔය වගේ ඒවා හරියට තියෙනවා. ආණ්ඩුවට තියෙන්නෛ් මේවා හොයලා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-01 20:59:00</date>
+            <index>2</index>
+            <phrase>පූස් පාට් දාන් සල්ලි හොයන්න තියෙන අදහස් තමා මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆිරෝ</author>
+            <date>2012-08-01 21:39:37</date>
+            <index>3</index>
+            <phrase>වලංගු හැදුනුම්පත් නම් 25000ක් දීලා ගත්තත් කමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉක්රාම්</author>
+            <date>2012-08-01 23:17:12</date>
+            <index>4</index>
+            <phrase>මේක දේශද්‍රෝභී වැඩක්. සමාව දෙන්න නුසුදුසුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-02 11:33:20</date>
+            <index>5</index>
+            <phrase>වගකිවයුතු තැන්වලත් හොර වැඩ වෙද්දී මේවා මොනවද? ඉල්ලුමට සැපයුමනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-02 11:51:34</date>
+            <index>6</index>
+            <phrase>සුවර් එකටම දේශපාලඥයෙකුත් සම්බන්ධ ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හන්සික</author>
+            <date>2012-08-02 13:17:12</date>
+            <index>7</index>
+            <phrase>පූස් පාට් දාන් සල්ලි හොයන්න තියෙන අදහස් තමා මේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-08-02 16:12:41</date>
+            <index>8</index>
+            <phrase>(වලංගු හැදුනුම්පත් නම් 25000ක් දීලා ගත්තත් කමක් නැහැ) මේ ප්‍රතිචාරය පළ කළේ කුමන අරමුණකින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුවාන් රිල්වාන්</author>
+            <date>2012-08-02 16:37:51</date>
+            <index>9</index>
+            <phrase>අපරාදෙ දන්නවානම් මමත් හදනවා එකක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-03 09:52:03</date>
+            <index>10</index>
+            <phrase>සුපිරි මොල .හිරේ දාල වැඩක් නෑ ..මේ අයගේ හැකියාවෙන් නිසි ප්‍රයෝජනයක් ගැනීමට වැඩපිළිවලක් සැකසිය යුතුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

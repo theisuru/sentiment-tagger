@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>170500</articleId>
+    <title>රත්තරනින් තෑගි දිනා</title>
+    <author>දීපාල් සිල්වා</author>
+    <date>2013 සැප්තැම්බර් මස 20 12:58:47</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-09-21 18:07:23</date>
+            <index>0</index>
+            <phrase>රත්‍රන් නම් හොඳයි. බැංකුවේ තියන්න පුළුවන්, සල්ලි නැති වෙනකොට පොලී ගෙවන්න වෙන්නේ අවුරුද්දකට සැරයයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

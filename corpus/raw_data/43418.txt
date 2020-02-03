@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43418</articleId>
+    <title>ෆොන්සේකා නවලෝකෙන් බන්ධනාගාරයට</title>
+    <author>බිඟුන් මේනක ගමගේ</author>
+    <date>2012 මැයි මස 21 09:49:22</date>
+    <body>මහින්ද රාජපක්ෂ ජනපතිගේ නියෝගය අනුව සිරෙන් නිදහස් කිරීමට නියමිත හිටපු යුද හමුදාපති සරත් ෆොන්සේකා අද පෙරවරු 10.00 ට පමණ නවලෝක රෝහලේ සිට වැලිකඩ බන්ධනාගාරයට රැගෙනයාමට නියමිතය.
+ෆොන්සේකාගේ බිරිය අනෝමා ෆොන්සේකා හා දියණියෝ දෙදෙනා අදත් නවලෝක රෝහලට පැමිණ සිටියහ. ෆොන්සේකා මහත්මිය පැවසුවේ තම සැමියා බන්ධනාගාරයට රැගෙනයාමට නියමිත බවයි. ෆොන්සේකා එහිතී නිදහස් කිරීමට බොහෝ දුරට ඉඩ ඇත. රෝහලෙන් පිටවී යාමට තරම් දැන් ඔහු සුවයක් ලබා ඇතැයි ඔහුගේ පෙනහලු ආසාදනයට ප්‍රතිකාර කරන විශේෂඥ වෛද්‍ය වජිර තෙන්නකෝන් මහතා නිර්දේශ කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජීවන් හර්ෂ</author>
+            <date>2012-05-21 10:06:21</date>
+            <index>0</index>
+            <phrase>අද අපිට හරිම සතුටු දවසක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-05-21 10:07:08</date>
+            <index>1</index>
+            <phrase>ජනාධිපති තුමනි ඔබට ජය වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ්</author>
+            <date>2012-05-21 10:28:23</date>
+            <index>2</index>
+            <phrase>රට ඔබට භාරයි..............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-05-21 10:30:10</date>
+            <index>3</index>
+            <phrase>අපිත් හරිම සතුටුයි ජෙනරාල් තුමා නිදහස් කරනවාට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් කොතලාවල</author>
+            <date>2012-05-21 10:30:26</date>
+            <index>4</index>
+            <phrase>ඉතාම සතුටුයි. නමුත් මේ උත්තමයා හිරේ දාන්න සම්බන්ධ වුණු සෑම දෙනෙක්ම වැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රුමේ</author>
+            <date>2012-05-21 10:48:13</date>
+            <index>5</index>
+            <phrase>දැන්වත් අනුන්ගේ ලණු කන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-05-21 10:50:49</date>
+            <index>6</index>
+            <phrase>ගුරු මාරුව ෆොන්සේකා මහත්තයාගේ ග්‍රහ අපල ඉවර කරලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යාඵවා</author>
+            <date>2012-05-21 10:56:06</date>
+            <index>7</index>
+            <phrase>ජෙනරාල් තුමණි ආයෙත් දේශපාලන මඩ ගොහොරුවට බහින්න එපා. වීරයා වීරයෙක් විදියට ඉන්න. ඔබතුමාට දේශපාලනයට එන්න උඩ ගෙඩි දීපු අය ඉන්නේ අහක බලාගෙන. මොළය පාවිච්චි කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2012-05-21 10:59:59</date>
+            <index>8</index>
+            <phrase>ඔබ තුමාට නිදුක් නීරෝගී සුවස ලැබේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අන්සරි</author>
+            <date>2012-05-21 11:02:08</date>
+            <index>9</index>
+            <phrase>ඇමරිකාවේ සිටින අපට හරි සතුටු දවසක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්ත</author>
+            <date>2012-05-21 11:16:08</date>
+            <index>10</index>
+            <phrase>නව ලෝකයෙන් .............බන්ධනාගාරයට, බන්ධනාගාරයෙන්.....................පැරණි ලෝකය‍ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-05-21 11:19:49</date>
+            <index>11</index>
+            <phrase>ඉතාම සතුටුයි. නමුත් මේ උත්තමයා හිරේ දාන්න සම්බන්ධ වුණු සෑම දෙනෙක්ම වැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභා</author>
+            <date>2012-05-21 11:33:51</date>
+            <index>12</index>
+            <phrase>අපේ ජය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් සවුදි</author>
+            <date>2012-05-21 11:33:02</date>
+            <index>13</index>
+            <phrase>ඔබ දැන්වත් අවස්තාවාදීන්ගෙන් මිදෙන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉදුනිල්</author>
+            <date>2012-05-21 11:51:28</date>
+            <index>14</index>
+            <phrase>සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-21 12:51:04</date>
+            <index>15</index>
+            <phrase>සියලු පවිවලින් මිදෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවෝද</author>
+            <date>2012-05-21 13:12:28</date>
+            <index>16</index>
+            <phrase>රට ඔබට භාරයි..............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

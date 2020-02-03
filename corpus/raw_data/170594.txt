@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>170594</articleId>
+    <title>සීනි සංවිධානයේ 87 වැනි සාමාජිකත්වය ලංකාවට</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2013 සැප්තැම්බර් මස 20 16:48:55</date>
+    <body>අන්තර්ජාතික සීනි සංවිධානයේ අසූ හත් වැනි සාමාජිකයා ලෙස ශ්‍රී ලංකාව එක් වෙයි.
+ශ්‍රී ලංකාව ප්‍රධාන පෙලේ සීනි ආනයන කරුවෙකි.
+වසරකට සාමාන්‍යයෙන් ටොන් 605000ක් ආනයනය කරයි.
+ඉන් වැඩි ප්‍රමාණයක් සුදු සීනිය.
+2012 දී ශ්‍රී ලංකාව සුදු සීනි අපනයනයෙන් ලොව හය වැනි අපනයන කරුවා විය.
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-09-20 21:33:42</date>
+            <index>0</index>
+            <phrase>සීනි සහ දියවැඩියාව අතර තිබෙන සම්බන්ධය කුමක් ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහිංසක</author>
+            <date>2013-09-20 22:59:58</date>
+            <index>1</index>
+            <phrase>ලංකාව සිනි ආනයන කරුද අපනයන කරුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටා මාමා</author>
+            <date>2013-09-21 02:38:04</date>
+            <index>2</index>
+            <phrase>සිනි රසවත් දෙයකි, ප්‍රති අපනයනයත් නරක නැහැ . වෙන මොනා කියන්නද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ් හර්ෂන</author>
+            <date>2013-09-21 06:23:39</date>
+            <index>3</index>
+            <phrase>ඒක හොදයි. නමුත් මුදල් කෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2013-09-21 08:11:54</date>
+            <index>4</index>
+            <phrase>මොකද්ද මේකෙන් අපට ලැබෙන වාසිය. අපි කරන්නේ ආනයනය පමණක් නම්, අපට ඩිස්කවුන්ට් එකක්වත් ලැබෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක ආරච්චිගේ</author>
+            <date>2013-09-21 10:02:30</date>
+            <index>5</index>
+            <phrase>අන්න හරි. මේකටත් අන්තර්ජාතික සීනි ඇමති කියලා කෙනෙක් ඉක්මනින්ම පත් කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-09-21 11:00:26</date>
+            <index>6</index>
+            <phrase>අරක්කු මිල වැඩිකිරීමට සාපේක්ෂව සීනි අවශ්‍යතාවය ඉහළ යනවා. මොකද දන්නවද? අර සුදුවා පෙරන්න සීනි වුවමනාම නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2013-09-21 16:19:35</date>
+            <index>7</index>
+            <phrase>සීනි ඇමතිතුමාගේ තවත් නිහඩ සේවයක්ද මේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෙමා</author>
+            <date>2013-09-21 17:56:29</date>
+            <index>8</index>
+            <phrase>බිව්වම ගඳයි, ශරීරයට අගුණයි, මොනවට බොනවද, මතට තිත හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-09-21 20:38:57</date>
+            <index>9</index>
+            <phrase>පුවත පැහැදිලි මදි. ලංකාව අපනයනයෙන් 6 ස්ථානය නම් මොකටද ආනයනය කරන්නේ.කාටද පිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-09-22 15:16:45</date>
+            <index>10</index>
+            <phrase>සීනි ඇමැති නිසා ළගදීම ආනායනය නැතිවී අපනයනය වැඩි වෙනවා, එය නැවැත්වීමට යෙදු අධිරාජ්‍යවාදී කුමණ්ත්‍රණයක ප්‍රතිඵලයක් ද මේ. එහෙම නොවේ නම් අනිවාර්යයෙන් අපි සීනි කනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2013-09-23 13:34:43</date>
+            <index>11</index>
+            <phrase>මේ නිසා වෙන්න ඇති සීනි ෆැක්ටරි ඇගේම තියෙන දියවැඩියා කාරයෝ මේ රටේ බහුලව ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-09-24 02:12:00</date>
+            <index>12</index>
+            <phrase>දියවැඩියාකාරයෝ,ඔල්මොරොන්දම්කාරයෝ,පන්දම්කාරයන්ගේ ස්ථානයෙනුත් අංක 1 ලංකාවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද</author>
+            <date>2013-09-24 09:56:25</date>
+            <index>13</index>
+            <phrase>මුළු ලෝකෙන්ම සිනි ඇමති කෙනෙක් ඉන්න එකම රට ලංකාව, මොන තරම් ආඩම්බරද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-09-24 21:14:23</date>
+            <index>14</index>
+            <phrase>සීනි කියන්නේ මිනිසා විහින් සාදාගත් වස වර්ගයකි. මිනිහා එයට ඇබ්බැහි වේ. දිනකට උපරිමය ග්‍රෑම් 30 කි. ඒ නිසා පාවිච්චිය අඩුකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-09-24 22:10:28</date>
+            <index>15</index>
+            <phrase>සිනි විතරක් නෙවෙයි ලුණු වලිනුත් 75% වැනි ප්‍රමාණයක් අපි ආනයනය ක ර න වා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපුමල්</author>
+            <date>2013-09-25 01:40:23</date>
+            <index>16</index>
+            <phrase>සීනිනම් දැන් දැන් මගේ ලේ වලත් වැඩියි..සීනි වැඩියෙන්ම බොන රටක් ලංකාව, දියවැඩියාව ට කියාපු මග.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-09-26 12:28:22</date>
+            <index>17</index>
+            <phrase>ආනයනකරුද? අපනයනකරුද?මොකක්ද අපි කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර කුවේට්</author>
+            <date>2013-09-26 12:40:44</date>
+            <index>18</index>
+            <phrase>මමනම් අසා නැහැ ලංකාව සීනි අපනයනයකරනබව මම වැරදි පාසලකට වත් ගියද ? අනේ මන්ද, මම අනුරපුරේ මාමා ගමේ දුප්පත් ඉස්කෝලේ තමයි අකුරුකෙරුවේ ආයුබෝවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මට පිසුවගේ</author>
+            <date>2013-09-26 13:01:19</date>
+            <index>19</index>
+            <phrase>මට තේරුන විදියට 2012 අපනයන යෙන් හයවෙනි තැන දැන් ශ්‍රී ලංකාව ප්‍රධාන පෙලේ සීනි ආනයන කරුවෙකි කොහොමද වැඩ ජයවේව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-09-26 19:02:22</date>
+            <index>20</index>
+            <phrase>කැරට් සංවිධානයේ ලංකාව කී වෙනි තැනද ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-09-28 21:12:52</date>
+            <index>21</index>
+            <phrase>කිතුල් , පොල්, තල් හකුරු , පැණි... දේශීය වශයෙන් නිෂ්පාදනයට අත නොදී , ඇඟේ සීනි වැඩිකර විදේශ විනිමය වැය කරමින් රෝගීන් කරන ලෝකයේ 87 වෙනියා වීම ලොකු ආඩම්බරයක්.ඔය කියන උපදේශක වරුන්ගේ යෝජනා රට වෙනුවෙන් යොමු කරන්නේ නැත්තේ ...ඇයි ?.... අහෝ..දුකකි...අනිච්චා වත .සංඛාරා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2013-09-30 06:44:52</date>
+            <index>22</index>
+            <phrase>බුදු අම්මෝ !... සීනි සීනි බලාගෙන ඇමති තුමා ,දියවැඩියාව ...පව් ඇමති තුමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2013-09-30 16:31:21</date>
+            <index>23</index>
+            <phrase>ලංකාවේ සීනි කර්මාන්තයට අවුරුදු 53 යි. එහෙත් තවම මෙහෙ හදන්නේ 5% ක් විතරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශේන්</author>
+            <date>2013-10-01 04:39:54</date>
+            <index>24</index>
+            <phrase>සාදු සාදු ....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල - කටාර්</author>
+            <date>2013-10-02 11:30:33</date>
+            <index>25</index>
+            <phrase>දැන් කාටද පිස්සු. අපනයනය කරන්න සීනි තියනවා නම් මොන එහෙකටද පිටරට වලින් ආනයනය කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-10-03 09:09:03</date>
+            <index>26</index>
+            <phrase>මෙතරම් වතුර තියන රටක අපිට සීනි ටිකක් හදාගන්න බැහැනේ. කෝ මේ සීනි ඇමති ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2013-10-05 14:33:24</date>
+            <index>27</index>
+            <phrase>මොනවා කිව්වත් සීනි එපා සීනි කියන්නේ මාර කේස් ගොඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-10-08 01:24:35</date>
+            <index>28</index>
+            <phrase>මොන වාර්තා තිබ්බත් අපි තවම එක තැන්නේ. කවදාද නැගිටින්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයත්</author>
+            <date>2013-10-08 11:56:23</date>
+            <index>29</index>
+            <phrase>ඇත්තටම ආනයනකරුද? අපනයනකරුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෙපනිස්</author>
+            <date>2013-10-10 14:37:30</date>
+            <index>30</index>
+            <phrase>මොනවද මේ ලියල තියෙන්නේ අනයනයලු අපනයනයලු මේක ලියන්න කලින් හොදට හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-10-10 22:23:22</date>
+            <index>31</index>
+            <phrase>කෝ සිනී උප ඇමතියෙක් නැතිදෝ අමතක උනාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2013-10-12 07:38:48</date>
+            <index>32</index>
+            <phrase>දියවැඩියා සංවිධානයේ තැනත් ළගදීම බලාපොරොත්තු වන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2013-10-14 11:59:49</date>
+            <index>33</index>
+            <phrase>සමහර අය සරල දේ සංකීර්ණව හිතනවා.සංකිර්ණව තියන දේ සරලව මග අරිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2013-10-18 14:46:15</date>
+            <index>34</index>
+            <phrase>සීනි ඇමතිතුමාට මේ ටිකේ හරියට කූඹින්ගෙන් කරදර ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාරත්න</author>
+            <date>2013-10-18 20:07:35</date>
+            <index>35</index>
+            <phrase>දැන් අලුත් වරායට සීනි රැගෙන විශාල නැව්වලට පැමිණිය හැකිය.හදිසි අවස්ථා වලදී ගුවන් මගින් මත්තලට ගෙන්විය හැකිය.මෙම නිසා රටේ සීනි නිශ්පාදනය කිරීමට අවශ්‍යතාවයක් නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අස්මිත්</author>
+            <date>2013-10-20 11:03:39</date>
+            <index>36</index>
+            <phrase>2012 දී අපනයනයේ 6 වන ස්ථානයේ හිටියා නම් මොකටද වසරකට ටොන් 60,5000 ක් ආනයනය කරන්නේ?ලංකාවේ දැනට සීනි කම්හල් කීයක් තිබෙනවද? සීනිවලට ඇමති කෙනෙක් ඉන්නවා වගේම උක් ගස්වලටත් ඇමති කෙනෙක් දැම්මා නම් හොදයි. ඊට පස්සේ පුළුවන් දියවැඩියාවට කෙනෙක්ව පත් කරන්නත්. අන්තිමට පත් කරමු ලැජ්ජාවට අයිති අමත්‍යංශයකුත් ඇමති කෙනෙකුත්. ඇයි ලංකාවේ දේශපාලකයෝ කරන දේවල් ආරංචි වෙනකොට විදේශිකයන් බලනකොට අපිට ලජ්ජා වෙන්න වෙලාවක් නැහැ. අයිතියකුත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2013-10-21 10:59:31</date>
+            <index>37</index>
+            <phrase>ලංකාවේ දියවැඩියා ප්‍රතිශතය ද අනුරූපව වැඩි වී ඇත්ද කියා බලන්න.එසේ වැඩි වී ඇත්නම් අපේම මුත්‍ර වලින් සීනි නිස්සාරණය කර නැවත භාවිතා කල හැක.මෙමඟින් දියවැඩියා රෝගීන්ට අමතර ආදායමක් ද සැලසිය හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජ මෑන්</author>
+            <date>2013-10-25 20:20:59</date>
+            <index>38</index>
+            <phrase>ඒ අනුව 2012 දී ලංකාව 6 වැනි අපනයනකරුවාය. දැන් ප්‍රධාන ආනයනකරුවෙකි. ඒ අපේ රටේ ආශ්චර්යයි. අනාගතයේදී දියවැඩියාව අතිනුත් අපට ලෝකයේ උසස් තැනක් ලැබේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පප්පා</author>
+            <date>2013-10-25 21:41:30</date>
+            <index>39</index>
+            <phrase>රට වටකර මහා මුහුදයි. එහි සම්පත් ආකරයයි. ලුණු - ටින් මාළු රටින් ගේනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් කැන්ඩි</author>
+            <date>2013-10-27 11:56:38</date>
+            <index>40</index>
+            <phrase>කුමාරගේ ප්‍රශ්නේ මටත් තියෙනවා අපනයන ආනයන පිස්සුද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-10-27 13:37:38</date>
+            <index>41</index>
+            <phrase>අරාබි රටවල් වල තෙල් තියනවා එනිසා එම රටවල තෙල් ගණන් අඩුයි.ලංකාවේ ගොඩක් දේවල් තියෙනවා නමුත් හැම එකකම ගණන් වැඩි .මොකද ''පප්පා'' ඒ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-10-30 22:43:47</date>
+            <index>42</index>
+            <phrase>වැඩි අළෙවිය මොන පැත්තෙන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දරුශ</author>
+            <date>2013-10-31 02:42:08</date>
+            <index>43</index>
+            <phrase>අහෝ අපේ රටේ සීනි මෙච්චර සීන ක්ඩද? නෑ හලෝ පෙරන්න. පෙරලා බීලා ප්‍රශ්න අමතක කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2013-11-04 17:20:13</date>
+            <index>44</index>
+            <phrase>අනේ කුහුඹියන්නේ තොපටත් රජෙක් ඉන්නේ. අපට නම් අැමතියෙකුත් ඉන්නේ. කරදර නම් නොකරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

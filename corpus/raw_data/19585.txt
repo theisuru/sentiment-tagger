@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19585</articleId>
+    <title>සුද්දා කනක් සපා කයි</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2011 දෙසැම්බර් මස 27 19:12:42</date>
+    <body>කොළඹ තරු හෝටලයදී ශ්‍රී ලාංකිකයකුගේ දකුණු කන සපා කෑල්ලක් කඩා ගත්තැයි සැකපිට අත්අඩංගුවට ගත් බ්‍රිතාන්‍ය ජාතිකයෙක් කොළඹ කොටුව මහේස්ත්‍රාත් විසින් ඇප මත මුදා හරිනු ලැබීය. විදේශ කතක සමග නටද්දී විදේශිකයා කන කෑ බව කොටුව පොලිසියට කළ පැමිණිල්ලේ සඳහන් වේ.</body>
+    <comments>
+        <comment>
+            <author>කැමිලස් පෙරේරා</author>
+            <date>2011-12-27 20:05:58</date>
+            <index>0</index>
+            <phrase>මයික් ටයිසන්ද ඵ් හෝටලයේ හිටියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර මුණසිංහ</author>
+            <date>2011-12-27 22:00:05</date>
+            <index>1</index>
+            <phrase>ඔහු 'මයික් ටයිසන්ගේ' නෑදෑයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලු සිංහලයා</author>
+            <date>2011-12-27 22:04:47</date>
+            <index>2</index>
+            <phrase>හොද වෑඩේ සුද්දො අස්සෙ යනවට. ඒ මිනිස්සු එන්නෙ නිදහසේ නිවඩුව ගතකරන්න අපේ මිනිස්සු මොකටද ඒ අයට කරදර කරන්න යන්නෙ. බලන්න තංගල්ලෙ වෙච්ච දේ. අපේ අය කරන වෑඩවලින් රටේ නමත් ඉවරයි. ආර්ථිකයත් වලපල්ලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලොකු බණ්ඩි</author>
+            <date>2011-12-28 09:16:55</date>
+            <index>3</index>
+            <phrase>අනුන්ගේ ගෑනුත් එක්ක නටන්න ගිහිල්ල කනත් නැති කරගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී. කාරියකරවන</author>
+            <date>2011-12-28 10:45:37</date>
+            <index>4</index>
+            <phrase>සුද්දා කන කයි අපේ අය පන කයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන්</author>
+            <date>2011-12-28 13:43:28</date>
+            <index>5</index>
+            <phrase>'මයික් ටයිසන්' මතක් වෙලාද කොහෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2011-12-30 02:25:13</date>
+            <index>6</index>
+            <phrase>කන සපා කෑම චාර්ල්ස් ඩාර්වින්ගේ පරිනාම වාදය අනුව මිනිසා වඳුරන්ගෙන් පැවත ආ බව සනාථ කිරීමකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වනසිංහ</author>
+            <date>2011-12-31 08:14:01</date>
+            <index>7</index>
+            <phrase>කන් දෙකම කන්න තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණානායක</author>
+            <date>2012-01-02 20:01:03</date>
+            <index>8</index>
+            <phrase>තමන්ගෙ වැඩක් බලන් සිටියානම් ‍ගොඩාක් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

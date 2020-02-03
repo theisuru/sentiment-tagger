@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>102772</articleId>
+    <title>චිත‍්‍රපටයක් රූගත කරන්න ස්පීල්බර්ග් ඉන්දියාවට</title>
+    <author>ඡායාරූපය  ඒඑෆ්පී</author>
+    <date>2013 මාර්තු මස 15 09:55:22</date>
+    <body>ඉන්දු පාකිස්තාන දේශසීමාවේ චිත‍්‍රපටයක් රූගත කිරීමට සූදානමින් සිටින සුප‍්‍රකට ඇමෙරිකා සිනමා අධ්‍යක්ෂ ස්ටීවන් ස්පීල්බර්ග් (මැද) පසුගියදා ඉන්දියවේ මුම්බායි නුවරට පැමිණි අතර ‘රිලයන්ස් බිග් එන්ටර්ටේන්මන්ට්’ සමාගම වෙනුවෙන් එහි සභාපති අන්ල් අම්බානී (දකුණේ) මෙන්ම බොලිවුඞ් නළු අමිතාබ් භච්චන් ද හමුවූයේය. </body>
+    <comments>
+        <comment>
+            <author>වීරමුණි</author>
+            <date>2013-03-15 11:04:33</date>
+            <index>0</index>
+            <phrase>ස්පීල්බර්ග් මහත්තයා නියම චිත්‍රපටියක් හදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ</author>
+            <date>2013-03-15 11:06:20</date>
+            <index>1</index>
+            <phrase>මේ මහත්තයාගේ චිත්‍රපටි බලලා තියෙන්නේ කවුද? නියමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-03-15 11:06:03</date>
+            <index>2</index>
+            <phrase>ඉන්දියාවේ ඉතිහාසයත් විකෘති කර චිත්‍රපටි හැදූ අයට මෙතුමා නියම නිර්මාණයක් කරලා පෙන්වයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුලේ</author>
+            <date>2013-03-15 11:08:25</date>
+            <index>3</index>
+            <phrase>ලෝකයේ යතාර්ථවාදී සිනමාවට අති දක්ෂම අධ්‍යක්ෂතුමා මොහුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවනෙක</author>
+            <date>2013-03-15 11:10:15</date>
+            <index>4</index>
+            <phrase>මෙතුමාගේ චිත්‍රපටි හැමඑකක්ම ලෝක ප්‍රසිද්ධ වුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-03-15 11:16:27</date>
+            <index>5</index>
+            <phrase>ඇයි අපිටත් ආවේ චැනල් 4.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443506</articleId>
+    <title>ලංගම ආදායම කෝටියකින් නඟී</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 අගෝස්තු මස 02 16:07:04</date>
+    <body>බස් ගාස්තුව 6%කින් වැඩිවීම නිසා ශ්‍රීලංගම ආදායම රුපියල් ලක්ෂ 790 දක්වා ඉහළ ගොස් ඇතැයි ලංගම නියෝජ්‍ය සාමාන්‍යාධිකාරී රාජා ගුණතිලක මහතා කියයි.
+මෙතෙක් දිනක ආදායම වූයේ රුපියල් ලක්ෂ 680කි. ලංගම සේවකයෝ 23,000ක් සිටිති. බස් ගණන 5500කි. දිනකට ලක්ෂ 22 මගීහු ලංගමයෙන් ගමන් කරති. </body>
+    <comments>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2016-08-02 13:42:49</date>
+            <index>0</index>
+            <phrase>ඕක කියන්න දෙයක් ද බස් ගාස්තු 100% වැඩිකලා නම් බිලියන් ගානක් සොයා ගන්න තිබුන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරේෂ්</author>
+            <date>2016-08-02 14:23:11</date>
+            <index>1</index>
+            <phrase>බොහොම හොද ආරංචියක්. පොදු ප්‍රවාහන සේවය හරියට දියුණු කරනවානම් රටේ මාර්ග තදබදය ගොඩක් දුරට අඩු කරගන්න පුළුවන්. රටේ නායකයෝ මේවා ගැන හරියට හොයල බලල දියුණු කරනවානම් වඩා හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-08-02 15:41:49</date>
+            <index>2</index>
+            <phrase>තව තවත් දියුණු වෙන්න ඕනේ. ලංගම බස් සේවාව පමණයි විශ්වාසයක් තබන්න පුළුවන් එකම ප්‍රවාහන සේවාව. පෞද්ගලික බස් එකක් හොයාගන්නත් නෑ ගොඩක් වෙලාවට රෑ 07:30න් පස්සේ. එත් ලංගම බස් එක ෂුවර්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර්. වික්‍රම</author>
+            <date>2016-08-03 01:39:54</date>
+            <index>3</index>
+            <phrase>මේ සොයාගැනීම ගිනස් පොතට යවන්න වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2016-08-03 02:45:52</date>
+            <index>4</index>
+            <phrase>එහෙනම් දැන් වඩාත් ඵලදායී සේවයක් ලැබෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-03 02:45:53</date>
+            <index>5</index>
+            <phrase>මේකෙන් කියවෙන තවත් දෙයක් තියෙනවා. පුද්ගලික බස් ආදායමේ වැඩිවීම එකතුවෙන්නේ ලාබ වැඩිවීමක් ලෙස නේද? ඒ වගේම කොට කොටා යන ගමන නවත්වන්න දැන්වත් හිතෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-08-03 04:10:14</date>
+            <index>6</index>
+            <phrase>එහෙනම් ඔය හිග වැටුප් ගෙවලා සේවක අර්ථසාදක හරියට ගෙවලා පරිතොසික දීමනාව හරියට ගෙවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-08-03 05:49:24</date>
+            <index>7</index>
+            <phrase>සෑම විටම බස් ගාස්තු වැඩිකරන්න ඉල්ලන්නේ පෞද්ගලික බස් සංගමයයි. මෙහෙම ඉල්ලනකොට අදාල ඇමති මුලින් මාධ්‍යට කියනවා වැඩි කරන්න දෙන්නේ නැහැ කියලා. නමුත් අවසානේ බස් ගාස්තු වැඩි වෙනවා. නමුත් රජයෙන් කලින් තිබු ගාස්තුවට ජනතාවට දෙන සහනයක් විදිහට ලංගමයේ බස් ගාස්තු වැඩි නොකිරීම කල යුතු වුවත් එයත් වැඩි කිරීම සදාචාර විරෝධීබව මගේ හැගීමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

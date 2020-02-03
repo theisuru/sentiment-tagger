@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23463</articleId>
+    <title>තව ගොඩනැගිල්ලක් ගිනි ගනී</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජනවාරි මස 24 14:20:33</date>
+    <body>බොරැල්ල මැගසින් හිරගෙදර ගැටුම් පාලනය කිරීම සඳහා මින් මඳවේලාකට කලින් කඳුළු ගෑස් ගැසීය. සිරකරුවන් එහි තෙවැනි ගොඩනැගිල්ලට ගිනි තැබීමෙන් පසුව මේ පියවර ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>ලාල්</author>
+            <date>2012-01-24 14:50:27</date>
+            <index>0</index>
+            <phrase>හොයල බලන්න ෆොන්සේකා මහත්තයට මොකද වුණේ කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-24 16:43:02</date>
+            <index>1</index>
+            <phrase>ජනරාල් හොදින් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මිණ</author>
+            <date>2012-01-24 17:50:48</date>
+            <index>2</index>
+            <phrase>ජෙනරාල් ෆොන්සේකට මොනව හරි වුණොත් බලාගමු..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Esala</author>
+            <date>2012-01-24 18:07:59</date>
+            <index>3</index>
+            <phrase>මේවට වග කියන්න ඕන හිරගෙදර නිලධාරීන්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල සල්වා</author>
+            <date>2012-01-24 19:14:50</date>
+            <index>4</index>
+            <phrase>මොකක්ද මේ ලංකාවට වෙලා තියෙන්නේ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-01-24 20:48:39</date>
+            <index>5</index>
+            <phrase>ජෙනරාල්තුමාව බේරගන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2012-01-25 00:01:16</date>
+            <index>6</index>
+            <phrase>ජනරාල් හොදින් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනයා</author>
+            <date>2012-01-25 07:00:33</date>
+            <index>7</index>
+            <phrase>මමත් හිතුවේ ජනරාල්ට.......? එතැනත් අනාරකෂිත ප්‍රදේශයක් වෙලා තියෙන්නේ.වහාම ඔහුව අරකෂිත ස්ථානයකට මාරැ කරන්න.ඔහුට යමක් සිදු වුවහොත් එහි සම්පූර්ණ වගකීම රජය භාර ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරියා</author>
+            <date>2012-01-25 08:36:35</date>
+            <index>8</index>
+            <phrase>මොන පිස්සොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පී.ඩී. නිශාන්ත</author>
+            <date>2012-01-25 11:15:21</date>
+            <index>9</index>
+            <phrase>පෙනෙනවා නේද අපේ හිර ගෙවල්වල වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kavin</author>
+            <date>2012-01-25 13:22:30</date>
+            <index>10</index>
+            <phrase>ඇයි පොන්සේකා හිරකාරයෙක් නෙවේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මල්ෂාන්</author>
+            <date>2012-01-25 14:40:26</date>
+            <index>11</index>
+            <phrase>‍‍‍‍ෙංවරාල් අයියාට මොනාහරි උනොත් වගකියන්න වෙයි හැමොටම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-25 20:19:25</date>
+            <index>12</index>
+            <phrase>අපරාධකරුවන්ට සමාව දෙන්න එපා. දඩුවම් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

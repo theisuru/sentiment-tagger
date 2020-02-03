@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14280</articleId>
+    <title>අ‘පුර ගයිඩ්ලා නීතිය අතට ගනිති</title>
+    <author>අංජුල මහික වීරරත්න</author>
+    <date>2011 නොවැම්බර් මස 23 17:28:16</date>
+    <body>නවසීලන්ත කතකට මිහින්තලේ ආරාධනා ගල පාමුලදී අතවර කළැයි කියන සංචාරක මඟපෙන්වන්නන් දෙදෙනාගේ මිතුරන් බව කියන පිරිසක් ලංකාදීප හා මවුබිම මාධ්‍යවේදීනට ද මිහින්තලේ හිමිනමකට ද මරණීය තර්ජනය කළැයි අනුරාධපුර පෙලිසියට පැමිණිලි කැර ඇත. ලක්බිම බුද්ධික මහේෂ් විජේසූරිය, ලංකාදීපයේ උපාලි ආනන්ද මහත්වරුනට ද මහේස්ත්‍රාත් උසාවිය අසල දී තර්ජනය කළ බවත් නවසීලන්ත කතට අතවර  කරන්නට හැදූ සිද්ධිය පොලිසියට දැන්වූ මිහින්තලේ පොඩි හමුදුඑරුවන් වෙඩි තබා මරා දැමිය යුතු බවත් ඔවුන් කී බව ද පොලිස් පැමිණිල්ලේ සඳහන්වේ. නවසීලන්ත කතට අතවර කරන්නට තැත් කළැයි චන්දන වීරරත්න හා රුවන් කුමාර යන අය යළි රිමාන්ඩ් කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2011-11-23 18:22:28</date>
+            <index>0</index>
+            <phrase>තර්ජනය කරන්නෙ බයටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සන්ක</author>
+            <date>2011-11-23 18:55:54</date>
+            <index>1</index>
+            <phrase>මෙහෙම ගියොත් ලංකාවට කවුරුත් එන්නෙ නැතිව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2011-11-23 23:04:56</date>
+            <index>2</index>
+            <phrase>අපේ මිනිසුන්ට මොනවද වෙලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පා</author>
+            <date>2011-11-24 10:24:40</date>
+            <index>3</index>
+            <phrase>කාටවත් නීතිය අතට ගන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2011-11-24 13:40:52</date>
+            <index>4</index>
+            <phrase>සංචාරක ව්‍යාපාරය දියුණු කරනවානම් මෙවැනි අයට තදින් සිටිය යුතුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

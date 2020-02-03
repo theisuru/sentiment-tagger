@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41511</articleId>
+    <title>තමාරා කුනනායගම් කියුබා යන්න බෑ කියයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 මැයි මස 09 20:17:49</date>
+    <body>කියුබාවේ නව ශ්‍රී ලංකා තානාපති වශයෙන් වැඩ බාර ගැනීම ජිනීවා හි එක්සත් ජාතීන්ගේ ශ්‍රී ලංකා නිත්‍ය නියෝජිත තමාරා කුනනායගම් මහත්මිය ප්‍රතික්ෂේප කොට ඇතැයි තානාපති ආරංචි කියයි. තමාට වෙනිසියුලාවේ කාරකස් හි අලුතින් ඇරැඹෙන නව ශ්‍රී ලංකා දූත මණ්ඩලයේ තානාපතිධූරය දෙන ලෙසට ඇය රජයෙන් ඉල්ලා ඇතත් එය ප්‍රතික්ෂේප කැර ඇතැයි දැනගන්නට තිබේ.</body>
+    <comments>
+        <comment>
+            <author>සමන් පෙරෙරා</author>
+            <date>2012-05-09 23:42:07</date>
+            <index>0</index>
+            <phrase>එහෙට වැඩිය මෙහෙ හොද ඇති. එකයි යන්න අකමැති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-05-10 00:22:16</date>
+            <index>1</index>
+            <phrase>මොනව වුණත් ඔබතුමිය රට වෙනුවෙන් ලොකු සේවයක් කළා. එයට අපේ තුතිමල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-05-10 08:12:56</date>
+            <index>2</index>
+            <phrase>රජයේ සේවයින්ට තමන්ට ඕනි හැටියට රැකියා කරන්න බෑ.ඒක තීරණය කරන්නේ අමාත්‍යංශය.ඒකට ඒ අය බැදිලා ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනෝලි</author>
+            <date>2012-05-10 10:55:53</date>
+            <index>3</index>
+            <phrase>තමන් ප්‍රතිපත්ති ගරුක කෙනෙක් නම් තමන්ගේ සේවය ඕනම රටකදී නිවැරදිව කරන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැක්ස්</author>
+            <date>2012-05-10 15:24:57</date>
+            <index>4</index>
+            <phrase>අනේ ඔයාට බැරිනම් මම යන්නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහබාහු</author>
+            <date>2012-05-10 15:33:11</date>
+            <index>5</index>
+            <phrase>ජිනීවා යැව්වේ ලංකාවේ දමිළ නියෝජිතයෝත් ලොකු තැන්වල ඉන්නවා කියල පෙන්නන්න නේද. එහෙව් එකේ එයාව එක පාරට එලියට ඇදල දැම්මහම තරහ යන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2012-05-10 15:48:38</date>
+            <index>6</index>
+            <phrase>මෙතුමිය රට වෙනුවෙන් ලොකු සේවයක් කරපු කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-05-10 15:57:24</date>
+            <index>7</index>
+            <phrase>ඔබ තුමිය කරපු සේවය අපිට තව කාලයක් අගය කරන්න අවශ්‍ය නම් ඔය වගේ දේවල් කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-05-10 16:19:26</date>
+            <index>8</index>
+            <phrase>බැරි නම් වද නොදී ඉන්නකෝ අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක පුෂ්පකුමාර</author>
+            <date>2012-05-10 21:04:20</date>
+            <index>9</index>
+            <phrase>ඇය රට වෙනුවෙන් කළ සේවයට ගරු කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

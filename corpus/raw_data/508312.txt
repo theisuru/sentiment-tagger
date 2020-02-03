@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508312</articleId>
+    <title>ජනපතිගෙන් ක්‍රිකට් පිලට දුරකතන ඇමතුමක්</title>
+    <author></author>
+    <date>2017 පෙබරවාරි මස 19 20:39:40</date>
+    <body>ඕස්ට්‍රේලියාව සමග පැවැති පන්දුවාර 20-20 දෙවැනි ක්‍රිකට් තරගයෙන් විශිෂ්ට ජයග්‍රහණයක් ලබාගත් ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට දුරකතන ඇමතුමක් දුන් ජනපති මෛත්‍රිපාල සිරිසේන මහතා කණ්ඩායමට සුබ පැතුම් පිරිනැමුවේය. ශ්‍රී ලංකා කණ්ඩායමට දුරකථන ඇමතුමක් දුන් ජනපති සිරිසේන මහතා මෙම ජයග්‍රහණය ශ්‍රී ලංකාවට මහත් කීර්තියක් ගෙනදෙන බවද ප්‍රකාශ කළේය. තරගයේ විශිෂ්ට දක්ෂතා දැක්වූ අසේල ගුණරත්නටද ජනාධිපති සිරිසේන මහතා සිය විශේෂ සුබ පැතුම් පිරිනැමීය. </body>
+    <comments>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2017-02-19 17:04:57</date>
+            <index>0</index>
+            <phrase>අපෙනුත් සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2017-02-19 22:54:34</date>
+            <index>1</index>
+            <phrase>ගුණරත්න නැත්නම් රටටම අගුණේ තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-02-20 01:42:30</date>
+            <index>2</index>
+            <phrase>ගන්නකෝ කෝල් එකක් රටේ දුප්පත් මිනිස්සු කාලද බීලද ඉන්නේ කියලා අහලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2017-02-20 02:54:02</date>
+            <index>3</index>
+            <phrase>නියමයි. අපෙනුත් සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-20 03:16:14</date>
+            <index>4</index>
+            <phrase>ජයග්‍රහණයට පියවරුන් දහසකි . පරාජයට පියෙක් නොමැත .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ් -රියාද්</author>
+            <date>2017-02-20 03:32:34</date>
+            <index>5</index>
+            <phrase>අනිවාර්යයෙන්ම කවුරුත් සුභ පතන්නොන ඉනිමක්. වෙල්ඩන් අසේල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2017-02-20 06:01:17</date>
+            <index>6</index>
+            <phrase>අපේ ශ්‍රී ලංකික ක්‍රිකට් ක්‍රීඩකයන්ට අපගෙනුත් සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක්ලොස් ඇන්ජලිස්</author>
+            <date>2017-02-20 06:15:09</date>
+            <index>7</index>
+            <phrase>බලන්න හුසේන් මොහොමෙඩ් සුබපතල තිබෙන විදිය ඔහු ජාතිවාදී නම් එහෙම කරයිද ? සිංහල ද්‍රවිඩ මුස්ලිම් මැළේ ලංකාව තුල ජීවත් වන සියලු ජාතීන් සහෝදරයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2017-02-20 06:18:36</date>
+            <index>8</index>
+            <phrase>සතුටුයි කාලෙකට පස්සේ අපේ ක්‍රීඩකයෝ සෙල්ලම් කරන විදිය දැක්කම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩ්</author>
+            <date>2017-02-20 07:34:05</date>
+            <index>9</index>
+            <phrase>උත්සාහය තියෙනවානම් ජය තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමා</author>
+            <date>2017-02-20 09:29:22</date>
+            <index>10</index>
+            <phrase>අධිෂ්ඨානය ජයග්‍රහණය නම් හැකියාව විස්මිත විය යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

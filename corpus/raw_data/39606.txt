@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39606</articleId>
+    <title>වැලේ ගෙඩි  මේ වැලට බර නැත</title>
+    <author>හසලක වාර්තාකරු</author>
+    <date>2012 අපේ‍්‍රල් මස 30 10:30:45</date>
+    <body>විල්ගමුවේ විසිනව හැවිරිදි මවක වන රම්‍යා දමයන්ති  දෙවැනි වරටත් තුන් නිවුන් දරුවන් බිහි කළාය. ඊට පෙර ඇය දරුවන් සිවුදෙනකු බිහිකළ නමුත් ඒ දරුවෙක් මරුමුවට පත්විය. ඇය මුලින්ම බිහිකළ දියණියගේ වයස අවුරුදු 10 කි. දැන් ඇයට දියණියක ද පිරිමි දරුවෝ හය දෙනෙක් ද වෙති.</body>
+    <comments>
+        <comment>
+            <author>සංගා</author>
+            <date>2012-04-30 10:35:03</date>
+            <index>0</index>
+            <phrase>උණුසුම් සුබ පැතුම්. ළමයින්ව තැන තැන දාලා යන රටේ මේ මව සැබැවින්ම මව්වරුන්ට ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර ඉරාකයේ සිට</author>
+            <date>2012-04-30 10:37:47</date>
+            <index>1</index>
+            <phrase>අක්කේ ඔයාගේ දරුවෝ ටික දැක්කම හරිම සතුටුයි. අනාගතය ජයවේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික රුෂාන්ත</author>
+            <date>2012-04-30 10:44:03</date>
+            <index>2</index>
+            <phrase>මවටත් පුංචි දරුවන්ටත් සියලු දෙවියන්ගේ පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2012-04-30 10:46:15</date>
+            <index>3</index>
+            <phrase>ඔබ පිං කදකි. එහි වටිනාකම ඔබම ෙත්රුම් ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2012-04-30 10:47:42</date>
+            <index>4</index>
+            <phrase>මේ අම්මට අපි උදවු කළොත් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියම සිංහලයා</author>
+            <date>2012-04-30 10:49:04</date>
+            <index>5</index>
+            <phrase>තව තවත් සිංහල දරුවන් දැයට දායාද කිරීමට ශක්තිය හා ධෛර්යය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණු</author>
+            <date>2012-04-30 11:19:24</date>
+            <index>6</index>
+            <phrase>එක ළමයෙකුත් වැඩිවෙලා අත ඇරලා දාන කාලේ මේ අම්මා නම් උතුම් චරිතයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-04-30 11:24:23</date>
+            <index>7</index>
+            <phrase>දිරිය මාතාවක්.ඔබට ජයෙන් ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුයීනා</author>
+            <date>2012-04-30 11:28:11</date>
+            <index>8</index>
+            <phrase>සුභ පැතුම්! වාසනාවන්ත අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේෂ්</author>
+            <date>2012-04-30 11:31:58</date>
+            <index>9</index>
+            <phrase>සිංහල අපිට ලොකු අඩම්බරයක්. ඔබට සහ ඔබ පවුලේ සියලුම දෙනාට සුභ අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-04-30 11:34:10</date>
+            <index>10</index>
+            <phrase>රටට වැඩ දායක දරුවන් තිදෙනෙක් හැදීමට මගේ උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබ්දුල්</author>
+            <date>2012-04-30 11:36:02</date>
+            <index>11</index>
+            <phrase>ලස්සන දරුවන් ටිකක්.මගේ උණුසුම් සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ති</author>
+            <date>2012-04-30 11:37:29</date>
+            <index>12</index>
+            <phrase>ඔබ සියළු දෙනාටම තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-04-30 11:47:20</date>
+            <index>13</index>
+            <phrase>සිංහල ජාතිය වද වී යන මෙවන් යුගයක මෙවැනි මවුවරු හට ආර්ථික සවියක් සපයමින් ඔවුන්ට අප ශත්කියක් විය යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්-saudi</author>
+            <date>2012-04-30 11:50:06</date>
+            <index>14</index>
+            <phrase>ඉපදුනු දරුවන් තැන තැන දාලා යන මෙවන් සමාජයක ඔබ වැනි මවක් රටටම ආදර්ශයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදමාලි</author>
+            <date>2012-04-30 15:02:06</date>
+            <index>15</index>
+            <phrase>ඔබ රටට ආදර්ශවත් මවක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෝතයා</author>
+            <date>2012-04-30 15:07:04</date>
+            <index>16</index>
+            <phrase>සුභ පැතුම් පමණක් ප්‍රමාණවත් නොවේ. මෙම පවුලේ සුභ සිද්ධිය වෙනුවෙන් යමක් කළ යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2012-04-30 15:35:31</date>
+            <index>17</index>
+            <phrase>මටනම් හිතා ගන්න බෑ මේ අම්මා මේ දරුවන්ව බලා ගන්න කරන්න වෙන කැපවීම ගැන. හැමෝටම බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැලුම්</author>
+            <date>2012-04-30 16:07:08</date>
+            <index>18</index>
+            <phrase>ඔබ සැමට වාසනාවන්ත අනාගතයක් වේවා කියා මම මුළු හදින්ම පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හන්සි</author>
+            <date>2012-04-30 16:43:07</date>
+            <index>19</index>
+            <phrase>දරුවන් සැම දෙනාටම සුභම සුභ අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-04-30 17:43:23</date>
+            <index>20</index>
+            <phrase>ඔබ සැමට අති උතුම් රත්නත්තරේ පිහිටත් උතුම් දේවාශිර්වාදයත් ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2012-04-30 18:39:22</date>
+            <index>21</index>
+            <phrase>මෙම පවුලටම දෙවියන්ගේ ආශිර්වාදය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-04-30 20:05:33</date>
+            <index>22</index>
+            <phrase>මෙම පවුලටම දෙවියන්ගේ ආශිර්වාදය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනවතී</author>
+            <date>2012-04-30 21:20:14</date>
+            <index>23</index>
+            <phrase>දරු පවුලටම තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-04-30 22:46:54</date>
+            <index>24</index>
+            <phrase>මෙවැනි අම්මාවරු රටටම ආදර්ශයක්. ඔබට තෙරුවන් සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් [.male]</author>
+            <date>2012-04-30 23:28:24</date>
+            <index>25</index>
+            <phrase>මගේ උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපා</author>
+            <date>2012-05-01 01:39:19</date>
+            <index>26</index>
+            <phrase>මෙවන් වාසනාවක් ලැබීමට තරම් ඔබ පෙර සසරේදී කළ පින කුමක්ද කියා අපටත් පවසන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදු</author>
+            <date>2012-05-01 03:51:58</date>
+            <index>27</index>
+            <phrase>මේ අම්මා රත්තරං අම්මා කෙනෙක්. ජනාධිපති අරමුදලින් මේ වගේ අම්මලාට සළකන්න ක්‍රමයක් හදන්න පුළුවන් නම් හොදයි. නැතුව සුභ පැතුම් විතරක් වැඩක් වෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-05-01 06:29:16</date>
+            <index>28</index>
+            <phrase>මගේ සුභ පැතුම්! දරුවන් 7ක් යනු ලොකු වගකීමක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාවින්ග</author>
+            <date>2012-05-01 07:20:02</date>
+            <index>29</index>
+            <phrase>වාසනාවන්ත මාතාවක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්රුක්ෂි</author>
+            <date>2012-05-01 08:34:17</date>
+            <index>30</index>
+            <phrase>අපේ සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත-dubai</author>
+            <date>2012-05-01 08:56:43</date>
+            <index>31</index>
+            <phrase>ඔබ වැනි මවක් අනෙක් මවුවරුන්ටද ආදර්ශයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලානි</author>
+            <date>2012-05-01 09:02:34</date>
+            <index>32</index>
+            <phrase>ඔබ සියළු දෙනාට දෙවියන්ගේම පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-05-01 11:07:06</date>
+            <index>33</index>
+            <phrase>උණුසුම් සුබ පැතුම්.... තව තවත් සිංහල දරුවන් දැයට දායාද කිරීමට ශක්තිය හා ධෛර්යය ලැබේවා!!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-05-01 11:09:56</date>
+            <index>34</index>
+            <phrase>ඹයා නම් හරිම වාසනාවන්ත අම්මා කෙනෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2012-05-01 15:57:05</date>
+            <index>35</index>
+            <phrase>අප ඔබට සුභපතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරකෝන්</author>
+            <date>2012-05-01 21:41:27</date>
+            <index>36</index>
+            <phrase>මුළු පවුලටම දළදා සමිදු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්</author>
+            <date>2012-05-05 16:04:01</date>
+            <index>37</index>
+            <phrase>දෙවි පිහිටයි !! සුභ පැතුම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

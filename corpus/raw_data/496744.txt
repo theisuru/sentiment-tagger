@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>496744</articleId>
+    <title>සෙල්ලම් බඩුවෙන් දැරියගේ දිවි බේරෙයි</title>
+    <author>දිපාල් ද සිල්වා</author>
+    <date>2017 ජනවාරි මස 06 12:10:06</date>
+    <body>අම්බලන්ගොඩ මීගොඩ දිඹුල්දුවේ දී දැරියක දර කැඩීමට  ගොස්  අහුලා ගත් සෙල්ලම් බඩුවක් රට බෝම්බයක් බව අම්බලන්ගොඩ පොලිසිය කියයි. දැරියගේ මවගේ ස්ථානෝචිත ප්‍රඥාව නිසා සිදුවන්නට  තිබු විපත මඟ හැරුණු බව කියති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අකිල</author>
+            <date>2017-01-06 07:47:29</date>
+            <index>0</index>
+            <phrase>සෞදි අරාබියාවෙන් අපේ කටියකට දීපු තෑග්ගක් ද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2017-01-06 13:06:04</date>
+            <index>1</index>
+            <phrase>මෙය මෙතනට ගෙනවිත් දැමුවේ කවුරුද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2017-01-06 18:02:02</date>
+            <index>2</index>
+            <phrase>එම දැරිය සැබෑම වාසනාවන්තියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-01-08 02:09:50</date>
+            <index>3</index>
+            <phrase>මේක කොහොමද මෙතනට ආවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451616</articleId>
+    <title>ත්‍රිරෝද රියදුරා මරාදාලා</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 අගෝස්තු මස 28 06:31:36</date>
+    <body>විසිහය හැවිරිදි  ත්‍රීරෝද රථ රියදුරෙකු මහරගම නීලම්මහර ක්‍රීඩාංගනයක් අසලදී කපා කොටා මරාදමා ඇතැයි පොලිසිය කියයි.
+උපන්දින සාදයක දී මෙම මිනී මැරුම සිදු වී ඇති බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-28 01:57:04</date>
+            <index>0</index>
+            <phrase>රට යන හැටි හොඳ නැහැ. මේවා මර්දනයක් කරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-08-28 05:17:24</date>
+            <index>1</index>
+            <phrase>මොනවාද මේ රටේ වෙන්නේ .මිනිස්සු අමනුස්සයෝ වෙලා (බ) .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-28 05:59:53</date>
+            <index>2</index>
+            <phrase>අනේ මන්දා අපේ රටට මේ මොනවා වෙලාද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක-ඉතාලිය</author>
+            <date>2016-08-28 08:12:26</date>
+            <index>3</index>
+            <phrase>රටේ මේ යහපාලුවො ඉන්නකම් අපරාධ සංස්කෘතිය ඉවරවෙන්නෙ නැහැ. නිතිය වල්වැදිලා,දුප්පත් මනුෂ්‍යයින්ට තමන්ගේ දෛනික ජිවිතය ගතකරන්නත් අමාරුයි. මෙය තවත් අපරාධයක මුල වෙන්නත් පුළුවන්,නැත්නම් එදා වේල හම්බකරගෙන ජිවත්වෙන සාමාන්‍ය මනුෂ්‍යයෙක් වෙන්න පුළුවන්,මෙි තිරිසන් අමනයින් අහිංසක ජිවිත බිලිගන්නා එක නැවැත්වීමට යහාපාලකයන් වහාම මැදිහත් විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-08-28 10:40:53</date>
+            <index>4</index>
+            <phrase>ඒ වුනාට කයිය ගහනවා දැන් සුදු වැන් නැ කියල. මිනිස්සු හැමදාම බල්ලෝ බළල්ලු ගණනට මරා දමනවා. මේ ආණ්ඩුව බලයට එනවත් එක්කම පිටරට හිටපු පාතාලයෝ ලංකාවට එන්න පටන්ගත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

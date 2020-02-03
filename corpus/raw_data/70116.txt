@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>70116</articleId>
+    <title>2012 රසායන විද්‍යා නොබෙල්  තෑග්ග ඇමෙරිකා විද්‍යාඥයන්ට</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  ස්ටොක්හෝල්ම් නුවරදීය</author>
+    <date>2012 ඔක්තෝබර් මස 12 09:38:44</date>
+    <body>මෙම වසරේ රසායන විද්‍යා නොබෙල් ත්‍යාගය රොබට් ලෙෆ්කොවිට්ස් සහ බ‍්‍රයන් කොබිල්කා යන ඇමෙරිකානු විද්‍යාඥයන් දෙදෙනාට පිරිනැමෙන බව නොබෙල් කමිටුව පවසයි.
+මිනිස් සිරුරේ සෛල පිටස්තර සංඥාවලට ප‍්‍රතිචාර දැක්වීමට ආධාර වන ප්‍රෝටීන ග‍්‍රාහකයන් පිළිබඳව මෙම විද්‍යාඥයන් දෙදෙනා විසින් සිදු කරන ලද අධ්‍යනයන් වෙනුවෙන් නොබෙල් ත්‍යාගය ඔවුන් දෙදෙනාට පිරිනැමීමට තීරණය කළ බව නොබෙල් කමිටුව කියා සිටී.
+රොබට් ලෙෆ්කොවිට්ස් සහ බ‍්‍රයන් කොබිල්කා කළ නව සොයා ගැනීම් හේතුවෙන් දියවැඩියාව, පිළිකා සහ ආතතිය වැනි රෝගවලට ප‍්‍රතිකාර සෙවීමට වෛද්‍යවරුන්ට මහත් පිටුවහලක් වී ඇතැයි ද නොබෙල් කමිටුව වැඩි දුරටත් කියා සිටී.
+
+රොබට් ලෙෆ්කොවිට්ස් සහ බ‍්‍රයන් කොබිල්කා</body>
+    <comments>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-10-12 12:50:57</date>
+            <index>0</index>
+            <phrase>වෙනත් රටවලින් පැමිණි අයද දන්නේ නැහැ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2012-10-12 15:10:51</date>
+            <index>1</index>
+            <phrase>අපගේ සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාපාවල</author>
+            <date>2012-10-13 14:11:34</date>
+            <index>2</index>
+            <phrase>අනිවාර්යයෙන්ම වෙන කාගෙහරි දැනුම සොරකම් කරලා .නැතිනම් දැනුම මුදලට අරන් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-10-13 16:21:38</date>
+            <index>3</index>
+            <phrase>ගොඩක් සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2012-10-13 20:22:49</date>
+            <index>4</index>
+            <phrase>ලංකාවෙ ගොඩක් අයට දැං හැදෙන ආතතියට මේක වටිනා සොයාගැනීමක්.. ඡන්ද කොමසාරිස්ට හමුදා මේජර්ලට බය වෙන්න දෙයක් නැහැ දැං..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ මාණිපුර</author>
+            <date>2012-10-14 00:57:20</date>
+            <index>5</index>
+            <phrase>නාපාවල: ඇයි මෙවැනි ප්‍රතිචාර දක්වන්නේ? තව අයකුගේ ජයග්‍රහණය අගය කිරීමේ පුරුද්දක් ඇත්තේම නැද්ද? ඉතාම කණගාටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

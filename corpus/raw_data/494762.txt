@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494762</articleId>
+    <title>මාලිගාතැන්නේ චාමරගේ මල්ලි සැකපිට</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 දෙසැම්බර් මස 31 19:11:47</date>
+    <body>පසුගිය 24 වැනි දා වේයන්ගොඩදී උදම්මිට සමරේට වෙඩි තබා ඝාතනය කළ තුවක්කුකරුවකු රැගෙන ගිය බව කියන කාරය පැදවූ පුද්ගලයෙකු පෑලියගොඩ පොලිස් කොට්ඨාස අපරාධ විමර්ෂණ ඒකකය විසින් අත්අඩංගුවට ගනු ලැබූ බවත් ඔහු මාලිගාතැන්නේ වාමරගේ මල්ලී බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-12-31 16:37:15</date>
+            <index>0</index>
+            <phrase>ඔය ‘චණ්ඩි‘ කියමින් රටේ පුද්ගලයන් බෝවෙන්නේ නීතියේ දුර්වලතාවය හේතුවෙනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-01 04:58:50</date>
+            <index>1</index>
+            <phrase>චණ්ඩින්ට දේශපාලකයින්ගේ රැකවරණය තිබෙනාතාක් මේවා මෙහෙමම තමයි. මෙවැනි සිද්ධීන් නොමැති ශ්‍රී ලංකාවක් ගැන හිතන්න නම් ජේවීපිය දේශනා කරන විදියේ රජයක් බිහිවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2017-01-01 06:14:23</date>
+            <index>2</index>
+            <phrase>වැරදි කර කිසිදා සැඟවී සිටිය නොහැක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2017-01-01 09:22:46</date>
+            <index>3</index>
+            <phrase>ඒවානම් හරි ඉක්මනටම අල්ලන්න උත්සාහ කරනවා. එ්ත් කම්බා හොරු තවමත් නිදැල්ලේ. ලැජ්ජයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

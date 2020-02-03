@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43408</articleId>
+    <title>ප්‍රා. සභා මන්ත්‍රිනී පැහැරගනී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 මැයි මස 21 08:02:08</date>
+    <body>බුලත්සිංහල ප්‍රා‍දේශීය සභා මන්ත්‍රිනී ලක්මිණී පණ්ඩිතරත්න(29) තෙබුවන වරකාගොඩදී ඉරිදා රාත්‍රී පැහැරගෙන ගොස් ඇතැයි ද අද උදේ වනතුරු ඇය සොයාගැනීමට නැතැයි ද බුලත්සිංහල හා තෙබුවන පොලීසි ඒකාබද්ධ සෝදිසියක් අරඹා ඇතැයි ද පොලිස් මාධ්‍ය ප්‍රකාශක  පොලිස් අධිකාරී අජිත් රෝහණ මහතා කියයි. කාරයකින් ආ නාදුනන පිරිසක් ඇය කවර කාරණයක් සඳහා පැහැර ගත්තේ දැයි පැහැදිලි නැත.</body>
+    <comments>
+        <comment>
+            <author>ජනක ජයසිංහ</author>
+            <date>2012-05-21 08:12:53</date>
+            <index>0</index>
+            <phrase>පෙම්වතා එක්ක පැනල ගිහින්ද ?????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි.</author>
+            <date>2012-05-21 08:14:28</date>
+            <index>1</index>
+            <phrase>තරුණ ළමයෙක්නේ...පැහැරගෙන ගියේ ආදර ප්‍රශ්නයක් නිසාද දන්නෑ...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-05-21 08:32:51</date>
+            <index>2</index>
+            <phrase>ළඟදිම ආරන්චිවෙයි............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබු</author>
+            <date>2012-05-21 08:54:36</date>
+            <index>3</index>
+            <phrase>මෙයා මොන පක්ෂෙද? ඇයි පැහැරගෙන තියෙන්නේ? පුද්ගලික ප්‍රශ්නයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-05-21 09:29:13</date>
+            <index>4</index>
+            <phrase>ජනතාවට සේවය කරල මහන්සියට පොඩි විවේකයක් ගන්න ඇති......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇපල්</author>
+            <date>2012-05-21 10:14:03</date>
+            <index>5</index>
+            <phrase>අනේ අපොයි මන්ත්‍රි තුමිය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිනී</author>
+            <date>2012-05-21 10:44:52</date>
+            <index>6</index>
+            <phrase>මතුගම පාතාලේ මල්ලි කෙනෙක්ගෙන් අහල බලන්න.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිමල්</author>
+            <date>2012-05-21 11:03:03</date>
+            <index>7</index>
+            <phrase>කරුණාකරල මන්ත්‍රීතුමිය නිදහස් කරන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-05-21 11:13:15</date>
+            <index>8</index>
+            <phrase>එක රැයෙන් ප්‍රසිද්ධ වීමේ ක්‍රමය මෙයයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-05-21 11:55:43</date>
+            <index>9</index>
+            <phrase>අහ්!අනූපමා අක්කේ............මෙකද උනේ.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍ජොලි බෝයි</author>
+            <date>2012-05-21 12:04:26</date>
+            <index>10</index>
+            <phrase>ඕක සුඵ දෙයක් හෙට අන්ද්ද වෙනකොට ගෙදර එයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-21 12:44:31</date>
+            <index>11</index>
+            <phrase>කොහොමත් නිදහස්වෙලා ඒවි. නමුත් නිදහස්වෙලා එනකොට මොනවයින් මොනව වෙලා තියෙයිද දන්නෑ? මගෙ අප්පේ මතක්වෙනකොටත් ඇගේ හිරිගඩු පිපෙනවා.මෙ දවස්වල මිනිස්සු පනපිටින් නිවන්දකින දේවල් කොරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර</author>
+            <date>2012-05-21 13:15:15</date>
+            <index>12</index>
+            <phrase>මම හිතන්නේ ඒ අය අපායට අරගෙන ගිහින්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-21 14:17:55</date>
+            <index>13</index>
+            <phrase>කෙසේ වෙතත් ඔබතුමා ගැන සුභදායක දෙයක් දැනගන්න ලැබේවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

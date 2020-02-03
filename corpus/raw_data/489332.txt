@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>489332</articleId>
+    <title>පළතුරු මුදලාලි දෙවැනි වර නොබේරේ</title>
+    <author>ජනත් ද සිල්වාදීපාල් ද සිල්වා</author>
+    <date>2016 දෙසැම්බර් මස 12 11:49:39</date>
+    <body>මීටියාගොඩ පළතුරු වෙළෙන්දකු(45) ඔහුගේ කඩයේදීම අද(12) වෙඩි තබා ඝාතනය කර ඇතැයි පොලිසිය කියයි.මීට පෙරද ඔහුට වෙඩි තබා ඇතත් ඔහු ඉන් බේරී ඇත.ඔහු තුන් දරු පියෙකි.</body>
+    <comments>
+        <comment>
+            <author>කුමාර් මෙන්ඩිස්</author>
+            <date>2016-12-12 06:41:20</date>
+            <index>0</index>
+            <phrase>දැන්නම් චිකාගෝ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-12-12 07:16:40</date>
+            <index>1</index>
+            <phrase>අම්බලගොඩ මෑතක සිට නැගිට සිටින මැර කණ්ඩායම් ඉන්නේ කාගේ සෙවනේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-12-12 07:52:06</date>
+            <index>2</index>
+            <phrase>අම්බලන්ගොඩ පාතලේ දැන් වැඩිවෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-12-12 10:52:13</date>
+            <index>3</index>
+            <phrase>දැන් එදා තිබුනා කියන සුදුවෑන් හොඳයි කියලා හිතෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-12-12 13:26:22</date>
+            <index>4</index>
+            <phrase>අම්බලන්ගොඩ මිනීමැරුම් විශාල වශයෙන් පහු ගිය කලේ ඇහෙන්න ලැබුණා. එවටවත් නීතිය ක්‍රියාත්මක වුන්නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-12-12 15:45:05</date>
+            <index>5</index>
+            <phrase>ඔය මැරිච්ච හුග දෙනෙක් ඕවගේ දේවල් තමා කරලා තියෙන්නේ. අවි ගත්තෝ අවියෙන්ම නැසෙති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

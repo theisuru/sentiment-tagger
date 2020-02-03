@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>462446</articleId>
+    <title>‘විවියන් ගුණවර්ධන කාන්තා අරගලවලට නායකත්වය දුන්නා‘</title>
+    <author>ශාන්ත රත්නායක</author>
+    <date>2016 සැප්තැම්බර් මස 28 20:52:25</date>
+    <body>විවියන් ගුණවර්ධන මහත්මිය කාන්තා අරගලවලදී විශාල සේවයක් රටට කළ බව හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය අද කොළඹ මහවැලි කේන්ද්‍රයේදී පැවසුවාය.
+හිටපු ජනපතිනිය එලෙස කීවේ විවියන් ගුණවර්ධන මහත්මියගේ ගුණසමරු උත්සවයකට සහභාගී වෙමිනි.
+‘ඉතා නිර්භීත, සටන් කාමී, තමා විශ්වාස කරන දේ ගැන අවංකවම කටයුතු කරන එවැනි කාන්තාවන් කීදෙනෙක් අද දේශපාලනයේ ඉන්නවාද දන්නේ නෑ. කාන්තා සටන ඔබ නංවන්න ලොකු වැඩ කොටසක් කළා. ඇය නිදහස් සටනට එක් වෙලා ලංකා සම සමාජ පක්ෂයේ නායකත්වය අරගෙන විශාල සේවයක් කළා.‘</body>
+    <comments>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2016-09-28 20:46:57</date>
+            <index>0</index>
+            <phrase>එතුමියගේ එඩිතර නිර්භීතකම, එතුමියත් සමඟ මියැදුනාදෝ කියා හිතෙනවා. ඔබතුමියටත් සමහර දේ අමතකද කියා සිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-09-28 20:56:14</date>
+            <index>1</index>
+            <phrase>කවුරු කවුරුත් අතීතය අමතක කරන්නේ නැතුව හිටියා නම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2016-09-28 22:32:49</date>
+            <index>2</index>
+            <phrase>ගොඩක් ලොකු මෙහෙවරක් එතුමිය රටට කළා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-09-28 22:52:51</date>
+            <index>3</index>
+            <phrase>ඇය සියළු කාන්තාවන්ට ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලයනල්</author>
+            <date>2016-09-29 01:34:31</date>
+            <index>4</index>
+            <phrase>මේ රටේ මිනිසුන්ට දැන් මතක නැහැ මේ දිරිය ගැහැණියගේ අතිතය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-09-29 01:38:06</date>
+            <index>5</index>
+            <phrase>නියම සමසමාජ ප්‍රතිපත්ති තියෙන්නේ ජයම්පති මහත්තයලා ළඟ කියලයි මම නම් හිතන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-29 04:27:29</date>
+            <index>6</index>
+            <phrase>ඒකනේ ඔබතුමියත් යුද්දේ ඉවර කරලා රටට කොච්චර ලොකු සේවයක් ද කළේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් කුරුවිට</author>
+            <date>2016-09-29 04:32:52</date>
+            <index>7</index>
+            <phrase>අද දේශපාලයේ සිටින කාන්තාවන් ඇයව ආදර්ශයට ගත යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රණසිංහ පැරිස්</author>
+            <date>2016-09-29 08:39:53</date>
+            <index>8</index>
+            <phrase>රටට ජාතියට මේ නෝනා කොරපු සේවයක් දෙකක් කියන්න නොදන්නා හින්දා අහන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

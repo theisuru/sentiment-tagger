@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>474201</articleId>
+    <title>ට්‍රැෆික් දෙදෙනා අනතුරින් මරුට</title>
+    <author>ටෝනි කරුණානායක</author>
+    <date>2016 ඔක්තෝබර් මස 29 22:13:01</date>
+    <body>මීගමුව පොලිසියේ රථවාහන අංශයේ කොස්තාපල්වරු දෙදෙනෙකු ගමන් කල යතුරුපැදිය පිටිපනදී කාරයක හැපී සිදු වු අනතුරෙන් ඔවුන් දෙදෙනාම මියගිය බව රෝහල් සහ පොලිස් ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-10-29 18:43:10</date>
+            <index>0</index>
+            <phrase>කණගාටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-29 20:44:48</date>
+            <index>1</index>
+            <phrase>පොලිස් කොමිසම දැම්මත් හරි පොලිසියට නරක කාලයක් උදාවෙලා වගේ. පොලිසියේ වහළය හිසට කඩාගෙන වැටෙනවා. නැත්නම් මහමගදී ගහලා පැනලා යනවා. ආණ්ඩුවත් පොලිසියටම දොස් පවරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-10-30 02:08:06</date>
+            <index>2</index>
+            <phrase>හරිම අවාසනාවන්ත සිදුවීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

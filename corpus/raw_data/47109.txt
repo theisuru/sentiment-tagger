@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47109</articleId>
+    <title>ජීවන බරට එරෙහිව වීදි බසී</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජූනි මස 08 15:01:01</date>
+    <body>දිනෙන් දින ඉහළ යන ජීවන වියදමට මුහුණ දීම සඳහා වහාම වැටුප් වර්ධකයක් ලබා දෙන ලෙස රජයට බල කරමින්    විශ්ව විද්‍යාල අනධ්‍යයන සේවකයෝ කොළඹ වෝර්ඩ් පෙදෙසේ විශ්ව විද්‍යාල ප්‍රතිපාදන කොමිෂන් කාර්යාලයය ඉදිරිපට දී අද උද්ඝෝෂණයක් පැවැත්වූහ. වැටුප් ගිවිසුම වහා ක්‍රියාත්මක කිරීම, සියයට විසි පහක දීමනාවක් වහා ලබාගැනීම ඇතුළු ඉල්ලීම් කීපයක් ඔවුහු ඉල්ලති. විශ්ව විද්‍යාල වෘත්තිය සමිති ඒකාබද්ධ කමිටුව මගින් මෙය සංවිධානය කළ අතර උද්ඝෝෂණකරුවන්ගෙන් වෝර්ඩ් පෙදෙස සම්පූර්ණයෙන්ම අවහිරවීම නිසා දැඩි රථවාහන තබදබදයක් ඇතිවුණි.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-08 15:22:35</date>
+            <index>0</index>
+            <phrase>පිස්සුනම් කියන්න එපා ළමයිනේ ,2500ක් හොඳටම ඇති ජීවත් වෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-06-08 16:05:58</date>
+            <index>1</index>
+            <phrase>මේක ජාත්‍යන්තර කුමන්ත්‍රණයක් අපේ රටේ ඉන්නේ හෙඳට කාල බීල විනෝදයෙන් ඉන්න ජනතාවක්. අපේ ආර්ථික සංවර්දනය සියයට 8යි. කොහේ රට ඉන්න මිනිස්සුනට ප්‍රශ්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-06-08 16:47:20</date>
+            <index>2</index>
+            <phrase>දැන්නම් බඩු මිල බහීවි !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sisira</author>
+            <date>2012-06-08 16:09:49</date>
+            <index>3</index>
+            <phrase>අපිත් ජිවත් වෙන්නේ අමාරුවෙන්. ඒත් අනේ ඔය වැඩෙන් අපි රස්තියාදු වුනාණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-06-08 16:56:30</date>
+            <index>4</index>
+            <phrase>අනේ මට මේකටත් හිනා...හී..........හී.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-06-08 17:01:46</date>
+            <index>5</index>
+            <phrase>බලාගෙන ඉස්කෝලේ නොගිය කට්ටියත් නිල ඇදුමින් ඉන්නවා..හරිද...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-08 19:01:13</date>
+            <index>6</index>
+            <phrase>මෙ ජීවනබර ගැන මතක්වුනහම මට තවලොකු බරක් ඇතිවුනා ළමයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2012-06-09 08:14:16</date>
+            <index>7</index>
+            <phrase>සමන්ට මම යෝජනා කරනවා දේශපාලනය කරන්න කියලා. මොකද දේශපාලක්ඥයෙක් හැරෙන්න ජීවන බර දැනෙන සාමාන්‍ය අපි වගේ කෙනෙකුට නම් කටක් ඇරලා ඔහොම කියන්න බැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-06-09 11:55:04</date>
+            <index>8</index>
+            <phrase>අපේ රටේ මහජන ප්‍රශ්න නොදැනෙන්නේ ඇමතිලාට සහ මන්ත්‍රීලාට විතරයි.රටේ මෙච්චර ප්‍රශ්න තියෙද්දි අනව්‍ශ්‍ය දේට කෝටි ගණන් වියදම් කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නංගි</author>
+            <date>2012-06-09 19:32:57</date>
+            <index>9</index>
+            <phrase>ඔයාට මේව ලස්සනයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

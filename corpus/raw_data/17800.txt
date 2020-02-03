@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17800</articleId>
+    <title>අටසීයෙ අමුමිරිස් දෙසීයට බහී</title>
+    <author>විජිත කුමාරසිරි</author>
+    <date>2011 දෙසැම්බර් මස 16 13:33:05</date>
+    <body>එළවළු රැගත් ලොරි දෙසිය පනහක් පමණ අද කොළඹ මැනිං වෙළෙඳ පොළට පැමිණි බව, එහි පොදු වෙළෙඳ සංගමය කියයි. මේ එළවළුවලින් සියයට 95 ක්ම ගෙන ආවේ ගෝනි වලිනි.
+දින කිහිපයකට පෙර රුපියල් 800ට අලෙවි වූ අමු මිරිස් කිලෝව රුපියල් 200ක් දක්වාද රුපියල් 250 ක් වූ කැරට් කිලෝව රුපියල් 80 දක්වා ද අඩු වී ඇති බවත් සංගමය කියයි. බෝංචි කිලෝව 40ට ද, මාළු මිරිස් රුපියල් 100 කට ද ගෝවා රුපියල් 50කට ද, ලීක්ස් රුපියල් 80 කට ද, වම්බටු රුපියල් 25 කට ද අද අළෙවි වූ බව ද සංගමය සදහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>Yoonus Alavi</author>
+            <date>2011-12-16 14:09:03</date>
+            <index>0</index>
+            <phrase>තොග අවසන් වන තුරු පමණයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්/south Africa</author>
+            <date>2011-12-16 15:41:35</date>
+            <index>1</index>
+            <phrase>අතරමැදියා තමයි ලොකුම ලාබය ගන්නේ. ගොවියත්, පාරිභෝගිකයාත් හැමදාම අමාරුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

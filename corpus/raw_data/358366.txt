@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>358366</articleId>
+    <title>සරසවි සිසු පාගමන ජපුරෙන් ඇරඹෙයි</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2015 නොවැම්බර් මස 03 13:29:48</date>
+    <body>ශ්‍රී ලංකාවේ සියලුම සරසවි නියෝජනය කරමින් සරසවි සිසුහු දහස් ගණනක් අද පස්වරු 1.30ට පමණ ගංගොඩවිල ශ්‍රී ජයවර්ධනපුර සරසවියේ සිට විරෝධතා පාගමනක් ඇරඹූහ.
+පසුගිය බ්‍රහස්පතින්දා පෙළපාළි ගිය එච්එන්ඩීඒ සිසුන්ට කොළඹ වෝඩ් පෙදෙසේදී පොලිසිය එල්ල කළ ප්‍රහාරය හෙළා දකිමින් මේ පාගමන ඇරඹිණි.
+
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>සමීර</author>
+            <date>2015-11-03 08:15:21</date>
+            <index>0</index>
+            <phrase>ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමර</author>
+            <date>2015-11-03 08:21:57</date>
+            <index>1</index>
+            <phrase>ගෙනෙන ලියුම බාර අරගෙන පරිස්සමට ගෙදර යවන්න. පොලිසිය ගැහැව්වේ නැතිනම් මෙයාලට අනාගතයක් නැහැ. පෙරටුගාමියෝ !!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුම</author>
+            <date>2015-11-03 08:22:40</date>
+            <index>2</index>
+            <phrase>ජය වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2015-11-03 09:42:55</date>
+            <index>3</index>
+            <phrase>මෙයාල පාගමන යන්නේ එදා පොලිසියෙන් ගැහුවා එකට විරුද්ධවනම් මාලබේ සයිටම් එක වහන්න කියලා බැනර් අරගෙන යන්නේ මොකටද? එක එක වහන්න පෙළපාලි යනෙකට වැඩිය හොඳනැද්ද A/L පාස් වෙන හැමෝටම රජයේ සරසවි වරම් දෙන්න කියලා සටන් කලානම්? එහෙම කලානම් කාටවත් මාලබේ යන්න ඕනේ නැහැනේ. පුද්ගලික විශ්වවිද්‍යාල වල හරි ඉගෙනේගන්නේ නැත්නම් අනිත් ළමයිට මෙයාල මොනවද කරන්න කියන්නේ.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2015-11-03 10:48:24</date>
+            <index>4</index>
+            <phrase>මේවා දකින අපි තමා බදු ගෙවන කරුමක්කාරයෝ . දෙවියනේ කියලා හරියට ඉගෙනීමේ වැඩේ කළා නම් අපේ දුක් මහන්සියෙන් හම්බ කල බදුසල්ලි අපතේ ගියේ නැහැ කියලා සතුටු වෙන්න තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2015-11-06 03:34:45</date>
+            <index>5</index>
+            <phrase>විවෘත මනසකින් සරසවි සිසුන් දෙස බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463900</articleId>
+    <title>‘නව පක්ෂය පටන්ගන්නේ ගමෙන්‘</title>
+    <author>අමිල ප්‍රියංකර</author>
+    <date>2016 ඔක්තෝබර් මස 03 14:02:28</date>
+    <body>ඒකාබද්ධ විපක්ෂයේ නව දේශපාලන පක්ෂය පිහිටුවීමට අවශ්‍ය බිම් මට්ටමේ ජනතාව පෙළ ගැස්වීම ලබන 8 වැනිදා පවත්වන රත්නපුර රැලියෙන් සිදුවන බව බස්නාහිර පළාත් සභා මන්ත්‍රී ජගත් කුමාර මහතා අද (3) බත්තරමුල්ලේ දී ප්‍රකාශ කළේය.
+ඒකාබද්ධ විපක්ෂය පවත්වන රත්නපුර රැලියට සමස්ත පළාත් සභා මන්ත්‍රීවරුන් 300න් 200ක් සහභාගී වන බවද ඔහු පැවසීය.
+බත්තරමුල්ල නෙළුම් මාවතේ පිහිටි මහින්ද රාජපක්ෂ සම්බන්ධීකරණ කාර්යාලයයේ දී ඔහු එසේ කීවේය.</body>
+    <comments>
+        <comment>
+            <author>ලලන්ත</author>
+            <date>2016-10-03 09:32:12</date>
+            <index>0</index>
+            <phrase>මොකද මේ 95% ක් ඉන්නවා කියපු කට්ටිය දැන් 65% බැහැලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-10-03 11:00:17</date>
+            <index>1</index>
+            <phrase>බිම් මට්ටමෙන්ම පටන් ගන්න එක හොඳයි ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අර්ජුන</author>
+            <date>2016-10-03 15:48:25</date>
+            <index>2</index>
+            <phrase>ගම්මට්ටමින් පටන්ගෙන ගමේම වළ දාල, පාංශකුලයත් දීලම එන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-10-03 16:30:55</date>
+            <index>3</index>
+            <phrase>යන එන තැන් නැතිවෙලා මේගොල්ලන්ටවත් එයාලගේ පෙළ හදාගන්න බැරුව ඉඳිද්දී කොහොමද ජනතාව පෙළ ගස්සවන්න යන්නේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

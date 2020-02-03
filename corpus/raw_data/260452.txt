@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>260452</articleId>
+    <title>යාලට වතුරයි පළතුරුයි ඕනෑ තරම්</title>
+    <author>ජනත් ද සිල්වා</author>
+    <date>2014 සැප්තැම්බර් මස 03 15:19:59</date>
+    <body>යාල වනෝද්‍යානයයේ  වැව් අමුණු සිඳී යාමෙන්  හා ගහ කොළ වේලී යාමෙන් වන සතුනට  වු අහේනිය  පිටු දැකීම සඳහා  පරිත්‍යාගශීලින් කෑම බීම ලොරි ගණනින් ගෙන එති.
+වැව් අමුණු  පිරවීම සඳහා ජල බවුසරද පළතුරුද සිතුල්පව්වට ලැබෙන බව සිතුල්පව්ව රජමහා විහාරාධිපති මැටරඹ හේමරතන හිමියෝ පවසති.
+වන සතුනට කෑම රැගෙන එන අයට පන්සලෙන් කෑම බීම පිරිනැමේ.
+ගාල්ලේ ව්‍යාපාරික චන්දිමාල් අබේගුණවර්ධන මහතා කියනුයේ ඉදිරියට කොපමණ කලක් නියඟය පැවතියද සතුන්ට තමාගේ වියදමින් ආහාර පාන ලබා දීමට සුදානම් බවයි.
+
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>නිශාන්ත ඩබ්ලිව්.ජි</author>
+            <date>2014-09-03 10:01:41</date>
+            <index>0</index>
+            <phrase>මේ සතුන්ට උන්ගෙ දුක කියන්න උද්ඝෝෂණ කරන්න බැහැනෙ.මේ පරිත්‍යාග කරන මිනිසුන්ට ඒ කුසල කර්මය ජාතිජාතිත් ඵල දේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරුපා පෙරේරා</author>
+            <date>2014-09-03 10:05:20</date>
+            <index>1</index>
+            <phrase>සාධු සාධු ....! හැමෝටම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුනායක</author>
+            <date>2014-09-03 10:08:33</date>
+            <index>2</index>
+            <phrase>අපේ මිනිසුන්ගේ කරුණාවන්තකම ලෝකයම දකිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු මෙල්බර්න්</author>
+            <date>2014-09-03 10:20:46</date>
+            <index>3</index>
+            <phrase>හිත කළකිරෙන පුවත් අතර මේ වගේ ඇහැට කඳුළු එන පුවත් පළකරනවට සහ ලබාදෙන ප්‍රචාරයට ලංකාදීපයට බොහොම පින්! මේ සද්කාර්යයට සහභාගි වෙන හැමදෙනාට බොහොම පින්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු මෙල්බර්න්</author>
+            <date>2014-09-03 10:24:06</date>
+            <index>4</index>
+            <phrase>නියඟයක් එනතුරු සත්තු මරාගෙන කන්න බලාගෙන ඉන්න, දල දෙක කපාගන්න අහිංසක ඇතුන්ට වෙඩි තියන මිනිස්සු ඉන්න රටක දෙවිවරුන් වගේ මිනිස්සුත් ඉන්න බව ඔබ ඔප්පු කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලිනි</author>
+            <date>2014-09-03 10:27:59</date>
+            <index>5</index>
+            <phrase>උදවු කරන හැමෝටම බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2014-09-03 10:30:49</date>
+            <index>6</index>
+            <phrase>මේවා ඉතා උතුම් පුණ්‍යකර්ම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-09-03 10:33:51</date>
+            <index>7</index>
+            <phrase>මේ කරන දෙය නම් අතිවිශාල පිනක්. මේ අයට මගේ ආචාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනායක</author>
+            <date>2014-09-03 10:35:24</date>
+            <index>8</index>
+            <phrase>අසරණ සතුන්ට පිහිට වෙන ඔබ සැමට පින් සිදුවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-09-03 10:46:00</date>
+            <index>9</index>
+            <phrase>ඔන්න අපේ නියම මිනිස්සු. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2014-09-03 10:51:00</date>
+            <index>10</index>
+            <phrase>මේ තමයි ශ්‍රී ලාංකිකයින්ගේ නියම ස්වරූපය. මේවා වෙන රටවල දකින්න නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-09-03 11:21:29</date>
+            <index>11</index>
+            <phrase>වල් ඌරොත් මේ ඇවිල්ලා ඉන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2014-09-03 11:24:35</date>
+            <index>12</index>
+            <phrase>මහා සත්ගුණවත් වැඩක්. සැමට පින්සිදු වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාන්</author>
+            <date>2014-09-03 11:27:05</date>
+            <index>13</index>
+            <phrase>මේවා නම් නියම පින් අතේ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තමර</author>
+            <date>2014-09-03 11:40:05</date>
+            <index>14</index>
+            <phrase>ඉතා උතුම් සද්කාර්යයක්. ජනපතිතුමනි, මේ දෙය හැමවිටම කරන්න බැරි දෙයක් නිසා පිළියමක් යොදන්න මේ සඳහා. ජලය අතිරික්ත ප්‍රදේශ වලින් ජලය නල මාර්ගයෙන් හෝ ඇලි මාර්ගයෙන් හෝ වෙනත් ක්‍රියාදාමයකින් මුහුදට ඔහේ ගලාගෙන යන්න නොදී ඒවා බෙදාහැරීමට කටයුතු කරනවානම් අගය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2014-09-03 11:50:50</date>
+            <index>15</index>
+            <phrase>මේ පිනම ඇති අබේගුණවර්ධන මහත්තයාට සහ අනෙක් ඇත්තන්ට නිවන් දකින්න. අහිංසක සතුන් මරණ පාපතරයන් ඉන්න රටේ මෙහෙමත් දෙවිවරු ඉන්න එක අපිට ලොකු සැනසීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2014-09-03 11:51:54</date>
+            <index>16</index>
+            <phrase>මේ පින්බිමේ කොයිතරම් සානුකම්පික පුද්ගලයින් ඉන්නවද කියලා දැකලා සතුටු කඳුලක් නැඟුනා. අබේගුණවර්ධන මහතාට මම පින් දෙනවා මේ විදියට හිතන එක ගැන. මටත් මේ ඉන්න රටේ ඉඳලා ඉගිලිලා එන්න පුළුවන් නම් එනවා මේ කාර්යයට කැපවීමට. යම්කිසි ගිණුමකට මුදලක් හෝ බැර කරන්න අපිට පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-09-03 12:11:26</date>
+            <index>17</index>
+            <phrase>අනේ! අර සතුන් ටික ප්‍රවේශම් කරගන්න අපේ කකුල් දෙකේ සත්තුන්ගෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනේෂ්</author>
+            <date>2014-09-03 12:18:30</date>
+            <index>18</index>
+            <phrase>පින් සිදුවෙනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-09-03 12:44:36</date>
+            <index>19</index>
+            <phrase>පින්සිද්ධ වෙනවා මිනිසුනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2014-09-03 12:58:52</date>
+            <index>20</index>
+            <phrase>සාදු සාදු සාදු!! පින් සිදුවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2014-09-03 13:01:46</date>
+            <index>21</index>
+            <phrase>ලක්ෂ කෝටි වාරයක් පින්සිද්ධ වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2014-09-03 13:13:40</date>
+            <index>22</index>
+            <phrase>කලින් පළකළ පුවත නිසා බොහෝ දෙනෙකුට මෙවැනි කුසලයක් කිරීමට සිත් පහළ වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙළුම්</author>
+            <date>2014-09-03 13:19:10</date>
+            <index>23</index>
+            <phrase>මේ පිනම ඇති සසර පුරා ප්‍රනීත ආහාරපාන වලින් අඩුවක් නොවන්නට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්</author>
+            <date>2014-09-03 13:34:11</date>
+            <index>24</index>
+            <phrase>දළදා සමිඳු පිහිටෙන් ජයසිරිමා සමිදු බෙලෙන් ඉක්මනින්ම නියඟය අවසන් වී වැස්ස ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2014-09-03 13:45:14</date>
+            <index>25</index>
+            <phrase>තැඹිලි ගෙඩි එවපු මෝඩයා මොකාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්-සාජා</author>
+            <date>2014-09-03 13:55:57</date>
+            <index>26</index>
+            <phrase>වැස්ස වලා හක දෙවියනි දිවස් හෙලනු මැන.වල් ඌරො පිරිසිදුවට ඉන්නවා දැකල බන්දුල පෙරේරාට ආස හිතිලා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2014-09-03 14:24:44</date>
+            <index>27</index>
+            <phrase>දුරදර්ශිව ක්‍රියා කරන උගත් නිහතමානී ස්වාමින් වහෙන්සේගේ මඟ පෙන්වීම අගයමි. සැමට බොහෝ පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරාන් පීරිස්</author>
+            <date>2014-09-03 14:50:15</date>
+            <index>28</index>
+            <phrase>පටන් ගත්තු මෙන්ම උදව් කරන සියල්ලටම ලොකු පිනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2014-09-03 14:58:03</date>
+            <index>29</index>
+            <phrase>පද්මිණි මේකට කවුරුත් බැනල නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුනි</author>
+            <date>2014-09-03 15:13:57</date>
+            <index>30</index>
+            <phrase>ඔබ සැම කර ඇත්තේ මහා පින්කමකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-09-03 15:37:15</date>
+            <index>31</index>
+            <phrase>මේකට සහභාගිවන හැමෝටම බොහෝ පින් .සාදු සාදු සාදු .සම්බුදු සරණයි .දෙවි රැකවරනයි .මගේ රටට සම්බුදු සරණින් කලට වැසි ලැබේවා.කිරියෙන් පැණියෙන් ඉතිරේවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද කේ ගොඩගේ සී ෂෙල්ස්</author>
+            <date>2014-09-03 15:36:21</date>
+            <index>32</index>
+            <phrase>වල්... ඌරොත් කල එලි බැහැල ඉන්නේ ..අපේ හූරෝ වින කටින්නේ නැතිවෙයි නේද ? මේ සත්කාරයට උරදෙන සැමට... ලැබේවා...කඳසුරිඳු පිහිට...අතිගරු ජනපති තුමනි,මිනිසුන්ට සේම සතුන්ටද ..යහපත සලසන්නට ඔබතුමා දරන ප්‍රයත්නයට ලොව වටා අවිහින්සාවාදීන්ගේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක ද සොයිස සිරිවර්ධන</author>
+            <date>2014-09-03 15:38:31</date>
+            <index>33</index>
+            <phrase>මේ තමයි අපේ රටේ ඉන්න මින්ස්සුන්ගේ පිරිසිඳු හදවත්. මේ ලෝකේ කොහෙවත් මේ වගේ උණුවෙන හදවත් නැතුව ඇති. අපේ වගේ මිනිස්සු මේ මුළු ලෝකයේම මනුෂ්‍ය සංහතියට ආදර්ශයක්. ඒ වගේ අහිංසකම රත්තරන් වගේ මිනිස්සුන්ගේ දේ හොරකම් කරකර කුඩු ගංජා කසිප්පු, ගණිකා මිනීමැරුම්, මංකොල්ල කාල අධ්‍යාත්මය විනාශ කරන රස්තිදුකාරයන් රටේ කරුමයට පහල වෙලා. මුන්ට යන්න අආයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-09-03 15:48:49</date>
+            <index>34</index>
+            <phrase>ගොඩක් පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී සිරිවර්දන</author>
+            <date>2014-09-03 16:12:00</date>
+            <index>35</index>
+            <phrase>කතරගම දේවාලයේ පලතුරුත් මේ ගොඩටම දමන වානම් කඳ සුරිදුන්ටද කරන ලොකු උපහාරයක් !යාල අභය භුමිය හා කාර්යමණ්ඩලය නායක හාමුදුරුවන්ට පැවරීම වහාම කල යුත්තක් !රජයට වගකීමක් ඉටු කරන්න බැරි නම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-09-03 16:29:35</date>
+            <index>36</index>
+            <phrase>සිතුල්පව්ව නායක හිමියනි ඔබ වහන්සේට මේ පිනම ඇති බුදුන් දකින්න. වන සතුන්ට ආදරය කරන මිනිසුනේ මේ කටයුතු වලට නායක හිමියන්ගේ උපදෙස් මත එකතු වෙන්න. ලංකාදීප මෙවැනි පුවත් අපිට තව තවත් දකින්න දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නැනී</author>
+            <date>2014-09-03 16:43:44</date>
+            <index>37</index>
+            <phrase>ලෝකයේ කිසිම රටකින් මේ වගේ දෙයක් ගැන මම අහල නැහැ. බෑන්කි මූන් ලට කඩේ යන රටක් මේක කලා නම් එක්සත් ජාතීන්ගේ සංවිධානයත් පැනල දෙයි ප්‍රසිද්ධිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රෝහණ</author>
+            <date>2014-09-03 16:56:32</date>
+            <index>38</index>
+            <phrase>දඹුල්ලේ කුණු ගොඩට යන එළවලු ටික යාලට යවන්න පිලිවෙලක් හැදුවානම් නේද හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-09-03 17:21:48</date>
+            <index>39</index>
+            <phrase>සම්මා සම්බුදු සරණයි මේ අහිංසකයන්ට උපකාර කරන පින්වතුන්ට! ඉක්මනටම වැස්ස වළාහක දෙවියන් බලත්වා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාරසී</author>
+            <date>2014-09-03 17:42:05</date>
+            <index>40</index>
+            <phrase>පුදුම සතුටක් දැනුනේ. සොබාදහම රැකගන්න දරුවනේ. ලෝකයට, ජීවිතේට කරන්න පුළුවන් ලොකුම මෙහෙවර තමා ඔය. ඔබ සැමට සැමදා සතුටින් ජීවත්වෙන්න ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිංස්ලි පෙරේරා බහරේන්</author>
+            <date>2014-09-03 19:04:49</date>
+            <index>41</index>
+            <phrase>කොහොම වුණත් ලොකු පින්කමක්. උදව් කරන හැමදෙනාටම බුදු සරණයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2014-09-03 20:12:52</date>
+            <index>42</index>
+            <phrase>ගොඩක් පින් සිද්ධවෙන වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදෙල්මි</author>
+            <date>2014-09-03 20:56:04</date>
+            <index>43</index>
+            <phrase>මේ උතුම් වැඩේ මේ කරන අයටම කරගෙන යන්න කියමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත් බණ්ඩාර</author>
+            <date>2014-09-03 21:32:44</date>
+            <index>44</index>
+            <phrase>මෙන්න මේ ලෝකයේ මිනිසුන් නොදකින ලංකාවේ මනුස්සකම. වසර කිහිපයකට පෙර සුනාමිය ආ වෙලාවේ කවුරුවත් බඩගින්නේ සිටියේ නැහැ. එහෙම තමයි ලංකාවේ මිනිස්සු. මමත් සේනක මහත්මයාගේ අදහස් එක්ක එකඟ වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2014-09-03 22:57:08</date>
+            <index>45</index>
+            <phrase>ලෝකයේ කිසිම රටක නොවෙන දෙයක්. මේ තමයි ශ්‍රී ලාංකිකයාගේ විශේෂත්වය.අපේ මිනිසුන් කරන මේ දෙය කරුණාව නිසාම බැවින් ලෝකයටම කියන්නට මුහුණු පොතට ඇතුළත් කරන්නටත් වෙනත් ලෝකයේ විද්‍යුත් මාධ්‍ය වලට දෙන්නටත් කවුරුන් හෝ කටයුතු කරනු ඇතැයි සිතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෙහාන්</author>
+            <date>2014-09-04 01:14:38</date>
+            <index>46</index>
+            <phrase>බන්දුල , අපිට නම් මේ පින් අතේ වැඩේ දැක්කත් සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-09-04 01:58:28</date>
+            <index>47</index>
+            <phrase>පරිසරය, වන සතුන් පිළිබඳ පුවත් වාර්තාකරණයෙන් කළ සේවය අනුව රියලිටි සුපර් ස්ටාර් සම්මාන පදක්කම් හිමිවිය යුත්තේ ලංකාදීපයට නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2014-09-04 02:37:28</date>
+            <index>48</index>
+            <phrase>තිරිසන් දේශපාලකයෝ ඉන්න රටේ,සිත් පිත් වලින් පිරිපුන් මිනිස්සුත් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2014-09-04 02:38:32</date>
+            <index>49</index>
+            <phrase>මෙවන් විපත් වෙන්නේ කාගේ වරදින්ද කියලා සියලු දේශපාලකයන් හා ඔවුන්ගේ ගෝලබාලයන් සිතට ගත්තොත් හොඳයි නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත් අධිකාරි</author>
+            <date>2014-09-04 03:42:47</date>
+            <index>50</index>
+            <phrase>මෙලොව පරලොව දෙකෙහිම සියලු සැප සම්පත් ලැබෙන සත් ක්‍රියාවක් තමයි ගාල්ලේ ව්‍යාපාරික චන්දිමාල් අබේගුණවර්ධන මහතා සහ අනෙකුත් සියලු දෙනාම කරන්නෙ. නමුත් මෙම එලවලු පලතුරු සියල්ලක්ම පාහේ යාල මායිම් ගම්වල හේන් ගොවියා වගා කරනවා. මේවට රහ වැටෙන සතුන්, විශේෂයෙන් අලි ඇතුන් ගම් වැදිල ගම්මුන්ට කරදර කරයිද? කෑමට ගහ කොළ ඇති තරම් තියෙන නිසා, ජලය පමණක් පුලුවන් තරම් දුන්නොත් හොදයි නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2014-09-04 04:00:24</date>
+            <index>51</index>
+            <phrase>උතුම් සත් කාරයයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2014-09-04 03:59:37</date>
+            <index>52</index>
+            <phrase>තිරිසන් දේශපාලකයෝ ඉන්න රටේ,සිත් පිත් වලින් පිරිපුන් මිනිස්සුත් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර දිනේෂ්</author>
+            <date>2014-09-04 04:30:32</date>
+            <index>53</index>
+            <phrase>මෙවන් අදහසක් පහල වු සියළුම මහත්මා ගති ඇති මනුශ්‍යයන් සියළු දෙනාට මාගේ හද පිරි සුභාසිංසනය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර දිනේෂ්</author>
+            <date>2014-09-04 04:32:47</date>
+            <index>54</index>
+            <phrase>මහත්මා ගතියට හිස නමා ආචාර කරමී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන් සෞදි</author>
+            <date>2014-09-04 05:12:08</date>
+            <index>55</index>
+            <phrase>ගොඩක් අගේ කරනවා. රූපවති දන්නෙම නැතිව පැන්නා නේද ලෝබකම එලියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුපුල්</author>
+            <date>2014-09-04 05:27:09</date>
+            <index>56</index>
+            <phrase>මෙම අතිශය දුර්ලබ පින්කමට වචනයකින් හෝ දායක වූ සත්පුරුෂ සියලු දෙනා තිසරණ සරණින් දෙව්රකවරනින් නිදුක් වේවා නිරෝග වේවා සියලු සැපත උදා වේවා ......... සාදු.....සාදු ...අනුමෝදාමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ප්‍රදීප්</author>
+            <date>2014-09-04 05:30:31</date>
+            <index>57</index>
+            <phrase>මහා පින්කමකි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2014-09-04 06:27:38</date>
+            <index>58</index>
+            <phrase>මේක උතුම් පින්කමක්, එ්ත් සත්තු කොහොමද තැඹිලි කපා ගන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2014-09-04 06:36:36</date>
+            <index>59</index>
+            <phrase>මේ ඇතා පලතුරු නොකා බලා ඉන්නේ එම පලතුරු වස විස සහිතද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුක්ෂි</author>
+            <date>2014-09-04 09:23:08</date>
+            <index>60</index>
+            <phrase>හිත කළකිරෙන පුවත් අතර මේ වගේ ඇහැට කඳුළු එන පුවත් පළකරනවට සහ ලබාදෙන ප්‍රචාරයට ලංකාදීපයට බොහොම පින්. මේ සද්කාර්යයට සහභාගි වෙන හැමදෙනාට බොහොම පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2014-09-04 12:21:03</date>
+            <index>61</index>
+            <phrase>ඔබතුමාට ගොඩක් පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ති</author>
+            <date>2014-09-04 13:34:05</date>
+            <index>62</index>
+            <phrase>මේ සත් කාර්යයට සහබාගිවෙන සියලුම දෙනාට ගොඩක් පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව සිරිවර්ධන</author>
+            <date>2014-09-04 15:48:22</date>
+            <index>63</index>
+            <phrase>සිතුල්පව්ව විහාරයේ ඒ කාලයේ හිටි මුවා වගේම ගෝනා පැටියාත් මම සුරතල් කර තියෙනවා.ඒ මතකයත් එක්ක මේ දසුන් මගේ නෙත් කෙවෙනි අඟට කඳුලක් අරගෙන ආවා. මේ වගේ පපුව පුරා මනුස්සකම තැවරුන මිනිසුන් මේ ධරණීය තලය පුරාවටම හිටියා නම් ලෝකය මොනතරම් සුන්දර තැනක් වේවිද? ඔවුන් සියල්ලටම මගේ ආචාරය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2014-09-04 18:09:01</date>
+            <index>64</index>
+            <phrase>ඔබ සියලුම දෙනාට ජාති ජාතිත් දුකක් කරදරයක් නොවෙනවාම ඇති මේ පින් බලෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2014-09-04 18:11:48</date>
+            <index>65</index>
+            <phrase>බොහොම පින්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-09-04 19:05:00</date>
+            <index>66</index>
+            <phrase>මෙන්න මිනිස්සු! සතෙකුගේ වුණත් බඩගින්න අඳුනන නියම මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-09-04 19:09:02</date>
+            <index>67</index>
+            <phrase>සාදු සාදු !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නැනී</author>
+            <date>2014-09-05 03:28:14</date>
+            <index>68</index>
+            <phrase>අපි ලෝකයේ කොහේ සිටියත් අපිව මේ වගේ සුන්දර පණිවිඩ වලින් දවස ප්‍රබෝදයට පත් කරන ,දවස පුරා ශ්‍රී ලංකාවේ අලුත්ම ආරංචි අප්ඩේට් කරමින් අපිට දී අපිව අපේ රටත් සමග සුන්දර සිතිවිලිවලින් බැඳ තබන ලංකාදීප කතු තුමා ඇතුළු සියලුම මාද්‍ය වේදීන්ට අපි ආදරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්ද්‍ර</author>
+            <date>2014-09-05 06:18:33</date>
+            <index>69</index>
+            <phrase>ඔබ සැමට පින් සිදු වේවා! වන සතුන් මරණයෙන් මුදවා ගනිමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-09-05 06:49:35</date>
+            <index>70</index>
+            <phrase>උදව් කළ හැමදෙනාටම තෙරුවන් සරණින් දීර්ඝායුෂ ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2014-09-06 04:09:13</date>
+            <index>71</index>
+            <phrase>මේ පුණ්‍යකර්මයට සහබාගිඋනු සියලුම දෙනාටම සියළුම දෙවියන්ගේ පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

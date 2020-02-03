@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42123</articleId>
+    <title>ඇස් ආබාධිතයාට ‘පෙනීම‘ දෙන්න ගිහින් පොලීසියේ</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 මැයි මස 13 17:42:14</date>
+    <body>රියදුරු බලපත්‍රයක් ඉල්ලුම් කළ ඇස් ආබාධිතයෙක් හා ඔහුගේ සගයා පේරාදෙණිය ජාතික ප්‍රවාහන වෛද්‍ය මධ්‍යස්ථානයේදී පේරාදෙණිය පොලීසිය විසින් සැකපිට අත්අඩංගුවට ගනු ලැබූහ. ඇස් ආබාධිත පුද්ගලයා ඔහුගේ සගයා එහි රැගෙන ආවේ ඔහු වෙනුවට ඇස් පරීක්ෂාවට ලක්කිරීම සදහාය. වෛද්‍යවරයා එම වංචනික ක්‍රියාව දැනගත් වහාම පොලීසිය කැදවීය.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-13 19:51:07</date>
+            <index>0</index>
+            <phrase>මේකට තමයි කියන්නේ පනපිටින් ඇස් දං දීම කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2012-05-13 19:51:46</date>
+            <index>1</index>
+            <phrase>කොහොම හරි රියදුරු බලපත්‍රයක් අරගෙන දීලා මිනිස්සු මරන්න පුලුවන්නේ. ඇස් පෙනෙන්නේ නැත්තම් කන්නඩි කුට්ටමක් මිසක් රියදුරු බලපත්‍රයක් මොකටද? අනේ මෙහෙමත් මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-05-13 20:09:19</date>
+            <index>2</index>
+            <phrase>මේක හරියට නංගිව පෙන්නලා අක්කව දුන්නා වගේ කතාවක්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැටිරික්</author>
+            <date>2012-05-13 20:38:53</date>
+            <index>3</index>
+            <phrase>තව මොනවා පෙන්නුවද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-13 22:09:36</date>
+            <index>4</index>
+            <phrase>මට දුක වැටුණු වල ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලී</author>
+            <date>2012-05-13 22:38:21</date>
+            <index>5</index>
+            <phrase>අනුන්ගේ සීනි කිරන්න ගිහින් වුන දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-13 22:40:57</date>
+            <index>6</index>
+            <phrase>වාහන එලවන අයත් අන්ධයෝ වගේ යනකොට ඕව මොනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානිස්</author>
+            <date>2012-05-14 08:49:48</date>
+            <index>7</index>
+            <phrase>නියමයි ඩොක්ටර්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශෆ්නි</author>
+            <date>2012-05-14 12:32:52</date>
+            <index>8</index>
+            <phrase>පව් උදව් කරන්න ගියේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ</author>
+            <date>2012-05-14 14:57:42</date>
+            <index>9</index>
+            <phrase>ඇස් පේනව අඩු අයට හිනා වෙන්න එපා. අපිට ඔහොම වුණොත් අපිත් ඔය දේම කරයි. හැබැයි හැමෝගෙම ජීවිත අනතුරේ නොදා හිටියොත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 14:19:44</date>
+            <index>10</index>
+            <phrase>දෘෂ්‍යාබාධිතයෙකුට පෙනීම දෙන එකනම් හොඳයි. හැබැයි මෙතනදී පෙනීම දෙන්න ගිය ක්‍රමය වැරදියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

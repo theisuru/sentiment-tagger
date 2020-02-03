@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40170</articleId>
+    <title>ලෙඩුන් බේරා ගන්න දොස්තර ලේ දෙයි</title>
+    <author>පි‍්‍රයානි මංගලිකා</author>
+    <date>2012 මැයි මස 03 10:35:52</date>
+    <body>නිකවැරටිය රෝහලේ ලේ හිඟයක් ඇති වුයේය වෛද්‍යවරු ද හෙදියෝ ද ලේ දන් දන් දුන්හ .
+විශෙෂඥ වෛද්‍ය උදය ගුණසේකර මහාතා ද ලේ දන් දුන්නේය</body>
+    <comments>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-05-03 10:38:46</date>
+            <index>0</index>
+            <phrase>උතුම් ආදර්ශවත් වැඩක්. චිරන් ජයතු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ් - සෞදි</author>
+            <date>2012-05-03 10:41:36</date>
+            <index>1</index>
+            <phrase>ඔබ වැනි වෛද්‍යවරුන් මේ මුළු ලෝකෙටම මහත් ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ක</author>
+            <date>2012-05-03 10:43:17</date>
+            <index>2</index>
+            <phrase>මුළු සමාජයටම හොද ආදර්ශයක්. මනුස්සකම යදුනන මහත්මා ගති ඇති ශ්‍රේෂ්ඨ අය ඉන්න බවට දැනෙන අනගි අවස්ථාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත රණවක</author>
+            <date>2012-05-03 11:12:52</date>
+            <index>3</index>
+            <phrase>මේ වෙසක් සමයේ උතුම් පින්කමක් කරපු දොස්තර මහතාට සහ හෙදියන්ට තෙරුවන් සරණයි. නිදුක් නිරෝගී බව අත්වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික ජයසූරිය - ඩුබායි</author>
+            <date>2012-05-03 11:18:18</date>
+            <index>4</index>
+            <phrase>මේවගේ හොඳ දේවල් කරන්නට ඔබ සියලු දෙනාටම ශක්තිය ධෛර්ය තවත් ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-05-03 11:19:15</date>
+            <index>5</index>
+            <phrase>අති විශිෂ්ටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ</author>
+            <date>2012-05-03 11:30:07</date>
+            <index>6</index>
+            <phrase>මෙවන් දොස්තරලා ‍අනෙක් දොස්තරලාටත් ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංඡුල බිරැටි</author>
+            <date>2012-05-03 11:33:25</date>
+            <index>7</index>
+            <phrase>බොහොම දුර්ලබ අවස්ථාවක් වගෙම මේ වෙසක් සතියේ කාගෙත් අවදානය යොමුවිය යතු කරුණක්. ඔබ සැමට පිං .අප දුර රටක සිටින නිසා මෙවැනි දෙයට සහභාගි විමට නොහකිවිම කණගාටුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්-Dubai</author>
+            <date>2012-05-03 11:57:32</date>
+            <index>8</index>
+            <phrase>ඇමති වරුන්, පාර්ලිමේන්තු මන්ත්‍රීවරුන්, ප්‍රාදේහීය සභා, පළාත් සභා මන්ත්‍රීවරුන්ගෙන් ලේ ගන්න වැඩ පිළිවෙළක් හදන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2012-05-03 12:00:01</date>
+            <index>9</index>
+            <phrase>හරිම හොද පින්වත් ක්‍රියාවක්. ඔබට තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-05-03 12:00:15</date>
+            <index>10</index>
+            <phrase>වන සිවුපාවුන් වැනි මිනිසුන් මැද දෙවි දේවතාවුන් වැනි මිනිසුන් ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-05-03 12:03:25</date>
+            <index>11</index>
+            <phrase>ජීවිතය අවසානයේදී ගෙනියන්න වටින දානයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසිත</author>
+            <date>2012-05-03 12:18:53</date>
+            <index>12</index>
+            <phrase>නිකවැරටිය ගමේ හේරත් හාමී බෙහෙත් ගන්න ඉස්පිරිතාලෙට ආමී ලේ මදි වෙලා දෙන්නට හේරත් හාමී දොස්තර දෙවියා ඇයගේ පිහිටට ආමී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-05-03 12:29:30</date>
+            <index>13</index>
+            <phrase>මෙන්න මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියදර්ශන</author>
+            <date>2012-05-03 12:47:11</date>
+            <index>14</index>
+            <phrase>ලොකු ලොක්කන්ට හොද ආදර්ශයක් ගන්න පුළුවන් වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂි</author>
+            <date>2012-05-03 12:52:27</date>
+            <index>15</index>
+            <phrase>නියම වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-05-03 13:01:31</date>
+            <index>16</index>
+            <phrase>මෙවැනි උතුම් මිනිසුන් තව තවත් බිහිවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර- Iraq</author>
+            <date>2012-05-03 13:10:25</date>
+            <index>17</index>
+            <phrase>ඔබ ගැන හරිම සතුටුයි. අවංකවම අපිටත් පුළුවන්නම් එනවා ලේ දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-03 13:21:04</date>
+            <index>18</index>
+            <phrase>මෙම සත්කාරයට සහභාගිවු විශෙෂඥ වෛද්‍ය උදය ගුණසේකර මහතා ඇතුලු සියලු වෛද්‍යවරුන්ටත් හෙද හෙදියන්ටත් අපගේ ප්‍රණාමය. යහපත්කම වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරිකා හංසනි</author>
+            <date>2012-05-03 13:25:00</date>
+            <index>19</index>
+            <phrase>ඔබ සියළු දෙනාටම මෙවැනි පුණ්‍ය ක්‍රියා වැඩි වැඩියෙන් කිරිමට ශක්තිය ධෛර්ය වාසනාව ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2012-05-03 13:34:32</date>
+            <index>20</index>
+            <phrase>මහත්මා ගති ගුණ තියෙන අය තවමත් ඉන්නවා කියන එක දැන ගන්න ලැබීමත් සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මැක්ස්</author>
+            <date>2012-05-03 14:50:23</date>
+            <index>21</index>
+            <phrase>දේශපාලකයො නැත්නම් අපේ රට කොච්චර සුන්දරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-05-03 15:04:07</date>
+            <index>22</index>
+            <phrase>වන සිවුපාවුන් වැනි දොස්තර මුදලාලිලා මැද මෙවන් දෙවි දේවතාවුන් වැනි දොස්තරවරුන්ද ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2012-05-03 15:20:19</date>
+            <index>23</index>
+            <phrase>මේව ගේ කෙනෙක් ලෝකෙටම ඉන්නේ අපේ රටේ වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේකේ</author>
+            <date>2012-05-03 15:49:36</date>
+            <index>24</index>
+            <phrase>උතුම් මිනිසුන් තවමත් ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානුක</author>
+            <date>2012-05-03 16:34:53</date>
+            <index>25</index>
+            <phrase>නිදුක් නිරෝගී බව අත්වේවා. දොස්තර මහතාට සහ හෙදියන්ට තෙරුවන් සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-05-03 17:59:17</date>
+            <index>26</index>
+            <phrase>වැඩුනු පුද්ගලයෙකුට මාස 03 කට වරක්‌ ලේ මි.ලි.450 ක්‌ කිසි කරදරයකින් තොරව දිය හැකිය.එසේ දෙන විට ඔහුට හෝ ඇයට පිරිසිදු ලේ නැවත නැවත ශරීරය තුල නිපදවන බැවින්,දීර්ඝායුෂ ලැබේ.සමාජගත රෝග නැති සියලු දෙනා තමන්ටද වැඩ දායක, අනුන්ටද වැඩදායක මෙම ක්‍රියාවට නිරතුරු සම්බන්ධ වන්න. නිකවැරටියේ රෝහලේ එම කාර්ය අගය කල යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශා</author>
+            <date>2012-05-03 19:14:14</date>
+            <index>27</index>
+            <phrase>ලේ උරා බොන දොස්තරලට හොඳ පාඩමක්....රටටම ආදර්ශයක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ග</author>
+            <date>2012-05-03 20:08:08</date>
+            <index>28</index>
+            <phrase>මේ වගේ රෝහල් වලට අපි හැමෝගෙම පිහිට අවශ්‍යයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-05-03 20:25:29</date>
+            <index>29</index>
+            <phrase>වන සිවුපාවුන් වැනි දොස්තර මුදලාලිලා මැද මෙවන් දෙවි දේවතාවුන් වැනි දොස්තරවරුන්ද ඇත.නිදුක් නිරෝගී බව අත්වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුවත් විපරමා</author>
+            <date>2012-05-03 21:19:16</date>
+            <index>30</index>
+            <phrase>අද ලොකු,පොඩි, විශේෂඥ වෛද්‍යවරු වැඩිදෙනෙක් කරන්නේ රෝගීන්ගේ ලේ උරා බොන එකයි. එවැනි වකවානුවක මෙවැනි ක්‍රියාවක් සිදුකිරීම අදහාගන්නවත් බැරි දෙයක්. අන් අයටත් මේක ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවීර</author>
+            <date>2012-05-03 21:21:35</date>
+            <index>31</index>
+            <phrase>දැන් ගොඩක් හෙදියනුත් ලේ දෙනවා...මේ රෝහලේ වගේම අනිත් රෝහල් වලත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනුස්සයා</author>
+            <date>2012-05-03 21:39:21</date>
+            <index>32</index>
+            <phrase>චිරන් ජයතු මෙවන් දේවතාවුන් වැනි දොස්තරලා ‍ආදර්ශයක් හෙදියන්ටත් අපගේ ප්‍රණාමය. ශ්‍රේෂ්ඨ අය ඉන්න බවට දැනෙන අනගි අවස්ථාවක්.අති විශිෂ්ඨයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියන්</author>
+            <date>2012-05-03 23:00:44</date>
+            <index>33</index>
+            <phrase>රටට ආදර්ශයක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2012-05-04 00:36:41</date>
+            <index>34</index>
+            <phrase>රෝගීන්ට ඔබලා දෙවියන් වැනිය..මාගේ ප්‍රණාමය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2012-05-04 00:38:00</date>
+            <index>35</index>
+            <phrase>රෝගීන්ට ඔබලා දෙවි දේවතාවුන් වැනිය....මගේ ප්‍රණාමය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොරීන්</author>
+            <date>2012-05-04 00:50:19</date>
+            <index>36</index>
+            <phrase>උතුම් මිනිස් ක්‍රියාවක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභා</author>
+            <date>2012-05-04 06:21:24</date>
+            <index>37</index>
+            <phrase>විටෙක ලෙඩ්ඩු මැරුනත් නොබලයි , විටෙක මෙවැනි දේ කරයි, අබුද්දස්ස කාලේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2012-05-04 08:41:03</date>
+            <index>38</index>
+            <phrase>උතුම් ආදර්ශවත් වැඩක්.මහත්මා ගති ගුණ තියෙන අය තවමත් ඉන්නවා කියන එක දැන ගන්න ලැබීමත් සතුටුයි.. චිරන් ජයතු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරන්දන</author>
+            <date>2012-05-04 10:07:49</date>
+            <index>39</index>
+            <phrase>ඇත්තටම වටිනා දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-05-04 10:55:08</date>
+            <index>40</index>
+            <phrase>ඉතා උතුම් ක්‍රයාචක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2012-05-04 11:09:52</date>
+            <index>41</index>
+            <phrase>නියම වෛද්‍ය වරයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගනේශ්</author>
+            <date>2012-05-04 11:13:42</date>
+            <index>42</index>
+            <phrase>විශිෂ්ඨ මනුස්ස ක්‍රියාවක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීප්ති</author>
+            <date>2012-05-04 11:39:56</date>
+            <index>43</index>
+            <phrase>ආයු රක්ඛන්තු ආවඩා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-05-04 11:48:46</date>
+            <index>44</index>
+            <phrase>හොඳ වැඩක්, යහපතක් වේවා...බුදු සරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2012-05-04 14:21:04</date>
+            <index>45</index>
+            <phrase>මිනිසුන් නොමිනිසුන් වෙලා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජූඩි</author>
+            <date>2012-05-04 14:46:31</date>
+            <index>46</index>
+            <phrase>ඔබ තුමා හොඳ ආදර්ශමත් උතුම් පුද්ගලයෙක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලාන්</author>
+            <date>2012-05-04 15:00:38</date>
+            <index>47</index>
+            <phrase>මුදල් පසුපස යන ලංකාවේ සමහර දොස්තරලට ඔබ හොද ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

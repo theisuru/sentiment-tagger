@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55480</articleId>
+    <title>සිසුහු සාධාරණය පතති</title>
+    <author>සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 ජූලි මස 26 17:04:44</date>
+    <body>සරසවි පිවිසුම සඳහා වන ඉසෙඩ් ස්කෝර් කඩඉම් ලකුණු ගණනය අසාධාරණ බව කියමින් අන්තර් විශ්ව විද්‍යාල ශිෂ්‍ය බල මණ්ඩලය කොටුව දුම්රියපොළ ඉදිරිපිට දී උද්ඝෝෂණයක්  කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-27 07:33:40</date>
+            <index>0</index>
+            <phrase>කෝ මේ දවස් වල අර පුද්ගලික වෛද්‍ය විද්‍යාල ගැන කතා නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-07-27 11:07:47</date>
+            <index>1</index>
+            <phrase>එතකොට මුලින් අසාධාරණයට ලක්වෙලා හිටපු නව නිර්දේශයේ සිසුන් පිළිබදව කාටවත් කියන්න දෙයක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂි</author>
+            <date>2012-07-27 13:41:23</date>
+            <index>2</index>
+            <phrase>චින්තක, දැන් ඉතිං නව නිර්දේශයේ ළමයින්ට මොනවා වුණත් එයාලට කමක් නැහැ. ඒ අයට අවශ්‍ය දේ දැන් වෙලා ඉවරයි. ඒකෙන් විදවන්නේ අපි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

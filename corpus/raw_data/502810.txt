@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502810</articleId>
+    <title>මෑන්පවර් සේවකයෝ අමාත්‍යංශය වට කරති</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2017 ජනවාරි මස 30 17:45:29</date>
+    <body>කොළඹ කොටුවේ උපවාසයේ නිරත වී සිටි මෑන් පවර් සේවකයෝ පිරිසක් මීට ටික වේලාවකට පෙර කොල්ලුපිටියේ විදුලි සංදේශ හා ඩිජිටල් යටිතල පහසුකම් අමාත්‍යංශය වටකළහ.
+තම ඉල්ලීම් ලබා දෙන තුරු එම ස්ථානයේ නොයන බව ඔවුහු පිරිසක් කියති.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2017-01-30 12:43:12</date>
+            <index>0</index>
+            <phrase>හැමතැනම ජනතාව අසරණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-30 14:12:36</date>
+            <index>1</index>
+            <phrase>මෙමෙ සේවකයන් ශ්‍රීලංකා ටෙලිකොම් ආයතනයේ සේවය කරන ඉහළ සුදුසුකම් ඇති මෑන්පවර් සේවකයන් පිරිසකි දින 37 අඛණ්ඩ අරගලයක යෙදීසිටින ඔවුන් ටෙලිකොම් ආයතනයට වසර 10 17 07 වැනි සේවා කාලයක් සපුරා ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා පෙරේරා</author>
+            <date>2017-01-30 14:46:09</date>
+            <index>2</index>
+            <phrase>මේගොල්ල එනකොට එන්නේ ටෙම්පරි කියලා..දැන් ඕනා ලු ස්ථිර වෙන්න...ගිවිසුම අත්සන් කරන කොට දැක්කේ නැද්ද මේවා....නැතිනම් ශේප් ආණ්ඩුවක් හම්බු වුනාම වල ඉහ ගන්න බලනවා වත් ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2017-01-30 16:54:43</date>
+            <index>3</index>
+            <phrase>මොවුන් අඩු සුදුසුකම් සහිත පිරිසකි. රාජපක්ෂ යුගයේ අඩු සුදුසුකම් ඇතුව බඳවාගත් මොවුන් ටෙලිකොම් ආයතනයට කෙටි පාරවල් සොයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-30 17:29:23</date>
+            <index>4</index>
+            <phrase>ලංකා, ඔබේ දරුවනුත් මෙලෙස මෑන් පවර් සේවකයෝ වුණොත් ඔබටත් තේරෙයි මිනිසුන්ගේ දුක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2017-01-31 00:30:15</date>
+            <index>5</index>
+            <phrase>මේ ගොල්ලෝ ඉදිරිපත්වූ සමාගමට ස්ථිර කිරීම පිළිබඳව අයිතියක් නැද්ද? කපාගත් මුදල් පිළිබඳ ගැටළුවක් නැද්ද? පසුගිය රජය කාලේ ස්ථිර කිරීම නොකළ ගැටළුවක් නොතිබුනේ අැයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2017-01-31 04:06:16</date>
+            <index>6</index>
+            <phrase>මේ මිනිස්සු මේ උත්සහ කරන්නේ ඡන්ද කාලේදී දේශපාලකයෝ දීපු පොරොන්දු අනුව.චන්ද ටික ගන්නකල් පස්සෙන් හිටපු දේශපාලකයෝ දැන් ආයෙත් මතුවෙලා තව ඡන්දයක් පේන මානයේ එන නිසා. පවු මේ මිනිස්සු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>97973</articleId>
+    <title>කන්තලේ ජල සේලය යළි දිග හැරේ</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2013 පෙබරවාරි මස 13 10:49:46</date>
+    <body>මාස තුනක් ඇතුළතදී කන්තලේ වැවේ වාන් දොරටු අද පස්වැනි වරටත් විවෘත විය. එහි මුළු ධාරිතාව අක්කර අඩි එක්ලක්‍ෂ දාහතර දාහකි. අද උදේ වන විට අක්කර අඩි එක්ලක්‍ෂ දොලොස්දාස් පන්සියයක් වී යැයි ද, ආරක්‍ෂක පියවරක් ලෙස වාන්දොරටු විවෘත කළ බවද වාරි ඉංජිනේරු ඩබ්ලිව්.එම්. නිපුණ බුද්ධික මහතා කීය.</body>
+    <comments>
+        <comment>
+            <author>ශාලිත</author>
+            <date>2013-02-13 11:14:38</date>
+            <index>0</index>
+            <phrase>මගෙ ලක් මෑණියන්දෑ හරි පින්කාරී.... වාසනාවන්ත ම‍ගේ රට....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-02-13 11:33:24</date>
+            <index>1</index>
+            <phrase>ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2013-02-13 11:54:30</date>
+            <index>2</index>
+            <phrase>අනේ පවු! අසරණ වෙන්නේ අහිංසක ගොවි ජනතාවයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2013-02-13 13:42:13</date>
+            <index>3</index>
+            <phrase>නිතරම ගංවතුරට යට වෙන ඉඩම්වල ජනතාවට විකල්ප ඉඩම් ලබා දෙන්න. හැම වසරකම ගංවතුර ආධාර දෙන්න ගියොත් කුමන රජයකටවත් ඔරොත්තු දෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්ත</author>
+            <date>2013-02-13 22:03:55</date>
+            <index>4</index>
+            <phrase>සමහර අයට ලස්සනයි.ඒත් මේකෙන් අනාථ වෙන පිරිසකුත් ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-02-14 11:57:52</date>
+            <index>5</index>
+            <phrase>පොළොන්නරුවේ මිනිස්සු කබලෙන් ළිපට වැටෙන්නද යන්නේ දෙවියනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

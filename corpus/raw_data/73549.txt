@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>73549</articleId>
+    <title>වෑන් රිය බසයට අඩ තියයි.</title>
+    <author>ජවුපර් ඛාන්</author>
+    <date>2012 ඔක්තෝබර් මස 29 14:03:12</date>
+    <body>මඩකලපුව වාලච්චේන මාර්ගයේ ඌරනියේදී බසයක් පෙරැලෙන්නට ගොස් පාරේ ගිය වෑන් රියක් මතට ඇලවී නතර විය. බසයේ සිටි මගීන් තුන් හතර දෙනාත් වෑන් රියේ සිටි දෙදෙනාත් තුවාල නොලබා බේරුණහ. වාහන දෙකට දැඩි හානි සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>ඩියුක්</author>
+            <date>2012-10-29 14:30:30</date>
+            <index>0</index>
+            <phrase>බේරුණු කට්ටිය මාර පිනක් කරලා ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ</author>
+            <date>2012-10-29 16:11:27</date>
+            <index>1</index>
+            <phrase>පින්තූර දැක්කම අනේ දෙවියනේ කියවුණත් .කියවල බැලුවම දැඩි සතුටක් ආව ජීවිතේ බේරුණ එක ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-10-29 16:27:30</date>
+            <index>2</index>
+            <phrase>මෙම වාහන පදවන අයගේ රියදුරු බලපත්‍ර වහාම අවලංගු කළ යුතු කාලය පැමිණ ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චූලක</author>
+            <date>2012-10-29 16:47:03</date>
+            <index>3</index>
+            <phrase>බසය වෑන්රියක් සිපගනී....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-10-29 18:58:05</date>
+            <index>4</index>
+            <phrase>වෑන් එකේ ශක්තිය නිසා හොදට ගියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-10-29 19:51:08</date>
+            <index>5</index>
+            <phrase>කවදාවත් දකින්න නොලැබෙන අන්දමේ රිය අනතුරක් දකින්න ලැබුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2012-10-29 22:22:55</date>
+            <index>6</index>
+            <phrase>කෝ අර හැමදේකටම ස්ට්‍රයික් කරන එක්කෙනා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-10-29 23:25:35</date>
+            <index>7</index>
+            <phrase>21වැනි හොදම රියැදුරා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2012-10-30 10:10:34</date>
+            <index>8</index>
+            <phrase>ලොකු පිනක් කරලා තියෙන්නේ කට්ටියම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-10-30 11:39:56</date>
+            <index>9</index>
+            <phrase>බස් එකේ පව් වෑන් එක පිටින් ගිහින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙට්ටිආරච්චි</author>
+            <date>2012-10-30 11:57:14</date>
+            <index>10</index>
+            <phrase>බුදු අම්මෝ! ඇති ඔයින් ගියා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනූක</author>
+            <date>2012-10-30 15:55:47</date>
+            <index>11</index>
+            <phrase>අනේ මෙහෙමත් බස්, වෑන්... කාටවත් පාඩුවේ ඉන්න දෙන්නේ නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-10-31 21:30:20</date>
+            <index>12</index>
+            <phrase>මගුල් ගෙදරක යන කොයි රියදුරාද නොකා නොබී බස් එකට ගොඩවෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52547</articleId>
+    <title>සැඩ සුළං කොළඹ ගසුත් කඩයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 ජූලි මස 10 11:56:09</date>
+    <body>කොළඹ නගරය ඇතුළු තදාසන්න පෙදෙස්වලට අද අලූයම කාලයේ සිට ඇද හැලූණු වාර්ෂාව හා තද සුළං හේතුවෙන් විශාල ගස් කඩා වැටී මාර්ග අවහිරතා ඇතිවිය. කොළඹ නිදහස් චතුරස‍්‍රයේ නිදහස් මාවතේ තිබූ මහා ගසක් කඩා වැටීම නිසා මාර්ගයෙන් අඩකටත් වඩා අවහිරවීම නිසා මාර්ග තදබදයක්ද ඇතිවිය. කොළඹ මහ නගර සභා සේවකයෝ වහා පැමිණ එය ඉවත්කර නිදහස් මාවත ඉක්මනින් සුද්ධ පවිත‍්‍ර කර යථා තත්ත්වයට පත් කළහ.</body>
+    <comments>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-10 12:44:45</date>
+            <index>0</index>
+            <phrase>කොළඹ කවියා පරිස්සමින් හො‍ඳේ..සුළඟට ගහගෙන යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-10 17:24:51</date>
+            <index>1</index>
+            <phrase>අපෝ සැඩ සුළං කියන්නෙ හරි පරණ චිත්‍රපටයක්නෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

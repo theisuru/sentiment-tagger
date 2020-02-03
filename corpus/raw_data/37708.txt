@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>37708</articleId>
+    <title>දැන් අපි හරි යාලුයි</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2012 අපේ‍්‍රල් මස 19 19:06:26</date>
+    <body>පුනරුත්ථාපනය වූ කොටි සාමාජිකයන් හා ඔවුන්ගේ පවුල්වල සාමාජිකයන් ද හමුදා සාමාජිකයන් ද අතර අවුරුදු උත්වසවයක් වවුනියා නගර සභාපිටියේ දී අද පැවැත්විණි. හමුදා සෙබළුන් ද හිටපු කොටි ද කොට්ටා පොර ඇතුළු තරග රැසකට එක් වූහ. වවුනියාව හා පොළොන්නරුව කඳවුරුවල හිටපු කොටි සාමාජිකයන් හත්සිය දෙනෙක් පමණ ඊට එක් වූහ.
+ </body>
+    <comments>
+        <comment>
+            <author>ලංකේශ්වර</author>
+            <date>2012-04-19 19:18:58</date>
+            <index>0</index>
+            <phrase>හමුදාවේ මහ්තවරුන්ට නිල ඇදුම් වෙනුවට සාමාන්‍ය ඇදුමකින් සැරසුනානම් වැඩේ පංකාදුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-19 19:26:15</date>
+            <index>1</index>
+            <phrase>මෙහෙම තමයි ඉන්න ඔිනා. මෙන්න ප්‍රේමය, සාමය, මෛත්‍රීය, කරැණාව, දයාව, වර්ථමානයට මෙය අලුත්දෙයක් වුනාට අතීතයේ අපි මෙහෙම තමයි හිටියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගා ශානි</author>
+            <date>2012-04-19 19:57:33</date>
+            <index>2</index>
+            <phrase>මුළු ලෝකයටම ආදර්ශයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

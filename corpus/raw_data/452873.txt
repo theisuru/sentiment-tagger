@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452873</articleId>
+    <title>හිටපු ලුතිනන්ට වසර දෙකක අත්හිටවූ සිර දඬුවම්</title>
+    <author>ෆාරුක් තාජුඞීන්</author>
+    <date>2016 අගෝස්තු මස 31 15:29:27</date>
+    <body>පේදුරුතුඩුව හමුදා කඳවුරේ සිටි රැඳවියකු ඝාතනය සම්බන්ධයෙන් විශ්‍රාමික හමුදා ලුතිනන් බිමල් වික්‍රමගේට වසර දහයකට අත්හිටවූ දෙවසරක සිර දඬුවම් නියම කිරීමට අද (31) කොළඹ මහාධිකරණ විනිසුරු කුසලා සරෝජිනී වීරවර්ධන මහත්මිය නියෝග කළාය.
+ඊට අමතරව ඝාතනයට ලක්වූ තැනැත්තාගේ පවුලේ අය වෙනුවෙන් රුපියල් ලක්ෂ 20ක වන්දියක් ද උසාවියට රුපියල් දස දහසක දඩයක්ද ගෙවන ලෙස ඔහුට නියම කැරිණි.
+එම දඩය නොගෙවන්නේනම් මාස තුනක සිර දඬුවමක්ද හිටපු ලුතිනන්වරයාට නියම විණි.
+එම ඝාතනය 1998 ජූලි 20 වැනිදා සිදුකැර තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-08-31 14:45:59</date>
+            <index>0</index>
+            <phrase>රණවිරු දඩයමක් නොවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපසේන</author>
+            <date>2016-08-31 23:13:57</date>
+            <index>1</index>
+            <phrase>මෙය මිනීමැරුම් චෝදනාවක් නේද? නමුත් අත්හිටවූ හිරදඬුවම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-09-01 01:03:32</date>
+            <index>2</index>
+            <phrase>මම නම් හිතන්නේ ලක්ෂ 20 ක් ගෙවනවාට වැඩිය මාස තුනක් හිරේ යන එක හොඳයි. මේවට මොනවා කියන්නද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-09-01 03:11:09</date>
+            <index>3</index>
+            <phrase>සම්පත්, මේ රණවිරු ලේබල් එක හමුදාවේ පුද්ගලයන්ට සදාකාලිකවම දෙනවද? නීතියට ඔවුන් යටත් වන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමන්ත</author>
+            <date>2016-09-01 05:12:24</date>
+            <index>4</index>
+            <phrase>රොකී, අපිට නුඹලාගේ රණවිරු ලේබල් ඕනෑ නැහැ. අපි කළේ අපේ යුතුකම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2016-09-01 06:32:38</date>
+            <index>5</index>
+            <phrase>වැරැද්දක් කළා නම් දඬුවම් විඳින්නම ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලුම්</author>
+            <date>2016-09-01 06:26:22</date>
+            <index>6</index>
+            <phrase>රොකි, ඔයාලගේ රණවිරු ලේබල් අපිට අවශ්‍ය නැහැ. යුද්ධය තිබුන කාලේ ඔය කටයි චණ්ඩිකමයි තිබුනා නම්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-09-01 14:59:14</date>
+            <index>7</index>
+            <phrase>අපි අපරාධකරුවන්ට රණවිරු ලේබල් ගහන්න අපි නුඹලා වගේ මෝඩයෝ නොවේ අමන්ත. හිතාගෙන ඉන්නේ මි‍නීමරණ එක යුතුකමක් කියලද? හමුදාවට ගිය කවුරුත් කොයි රටේ වුණත් ඔවුන්ගේ කාරිය ඉටුකළ යුතුයි. මම ඇහුවේ ඔවුන් නීතියට යටත් නැද්ද කියන එකයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොක්සි</author>
+            <date>2016-09-01 15:05:28</date>
+            <index>8</index>
+            <phrase>දිලුම්, ඔහෙටයි අමන්තටයි නරකද රණවිරුවන්ගේ ලැයිස්තුවක් හදලා, මේගොල්ලන් නීතිවිරෝධී මොනවා කළත් දඬුවම් කරන්න එපා කියලා නීතිපතිට නියෝග කරන්න. නිකන් තමන්ගේ මෝඩකම ප්‍රදර්ශනය කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

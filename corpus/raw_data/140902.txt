@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>140902</articleId>
+    <title>අතුරුදන්වූ රන් වළලූ දෙක මෙහෙකාරියගේ යට ඇඳුමේ</title>
+    <author>කළුතර සුනිල් එස් තන්ති‍්‍රආරච්චි</author>
+    <date>2013 ජූනි මස 21 10:41:19</date>
+    <body>මහා දවාලේ නිවෙසකින් අතුරුදන්වූ රුපියල් 1,10,000ක් වටිනා රන් වළලූ දෙකක් එම නිවසේම සේවය කරන මෙහෙකාරියගේ යට ඇඳුම තුළ සඟවාගෙන සිටියදී සොයාගත් බව උතුරු කළුතර පොලීසිය කියයි. මෙම සොරකමට නිවසේ සිටින මෙහෙයකාරිය සැක බවට නිවෙස් හිමිකාරිය පොලීසියට කළ ප‍්‍රකාශය අනුව සැරයන්වරියන් වන මධුවන්ති (8677) හා පි‍්‍රයන්ති (8631) යන මහත්මීන් විසින් සැකකාරිය ඇඳසිටි යට ඇඳුම් පරීක්‍ෂා  කර රන් වළලූ දෙක සොයාගෙන තිබිණි. මින් පෙර ද මැය මෙවැනි සොරකම් කර ඇත්දැයි සොයාගැනීමට පොලීසිය පරීක්‍ෂණ ආරම්භ කොට තිබේ. උතුරු කළුතර පොලිස් ස්ථානාධිපති පොලිස් පරීක්‍ෂක ප‍්‍රශාන් ද සිල්වා සහ අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති උප පොලිස් පරීක්‍ෂක පද්මසිරි කුලතුංග යන මහත්වරු මේ පිළිබඳව වැඩිදුර පරීක්‍ෂණ පවත්වති.</body>
+    <comments>
+        <comment>
+            <author>කිරිහාමි</author>
+            <date>2013-06-21 10:46:42</date>
+            <index>0</index>
+            <phrase>දැන් ඒ වළලු කොහොමද දාන්නේ ? ඊයා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙනුර</author>
+            <date>2013-06-21 11:05:15</date>
+            <index>1</index>
+            <phrase>අපරාදේ වළලු දෙක. දැන් ඉතින් නිකන්වත් දෙන්න බැහැනේ. ගද ඇති, එපා වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-06-21 11:12:46</date>
+            <index>2</index>
+            <phrase>අනේ මට ඒ වළලු දෙක අරගන්න විදිහක් නැද්ද? කී්‍යක් ගියත් කමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2013-06-21 11:35:15</date>
+            <index>3</index>
+            <phrase>මෙහෙකාරිය ලංකාවේ කෙනෙක් නිසා අහුවුනා. පිටරට වල නම් ඔය තැන්වල සිදුරු විදලා ඇත්තටම වළලු දාගෙන ඉන්න කට්ටිය ඉන්නවා. හැබැයි ඉතින් ඔච්චර ලොකු වළලු නම් නෙමෙයි තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-06-21 11:35:02</date>
+            <index>4</index>
+            <phrase>එයා වළලු දමන්නේ ඒ හරියට වෙන්න ඇති නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-06-21 12:10:53</date>
+            <index>5</index>
+            <phrase>දැකලා තියෙන්නේ ගෙදර මහත්තයාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2013-06-21 12:11:50</date>
+            <index>6</index>
+            <phrase>උපාලි කොහොමද ඕව ගැන ඔච්චර විස්තර දන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-06-21 12:50:43</date>
+            <index>7</index>
+            <phrase>අනේ ආයුබෝවන් තව ඩිංගක් හොයල බලනවද මගේ අතත් ඒ වළලු තිබුන කිට්ටුව තියේද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-06-21 12:54:40</date>
+            <index>8</index>
+            <phrase>මෝඩ මෙහෙකාර නංගී ,හිතලා තියෙන්නේ ගුවන් තොටුපොල කියලා වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පෙරේරා සෞදි</author>
+            <date>2013-06-21 13:16:28</date>
+            <index>9</index>
+            <phrase>මේකත් අලුත් තාලේ අබරණ පැලඳවිල්ලක්ද, දැන් හැමෝටම ආස වෙලා කරන්න පටන් ගනීවි, රන් අබරණ ගෙදර තියාගන්නවට වඩා යට ඇදුමේ තියාගන්න එක ආරක්ෂාවට වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලන්කපුත්‍ර</author>
+            <date>2013-06-21 13:50:16</date>
+            <index>10</index>
+            <phrase>සමන්, ලංකාවේ වෙන ස්ත්‍රී දුෂණ ගානේ හැටියට හොරකම් වෙනවා අඩුයි, එක නිසා එහෙම හංගගෙන වැඩක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර්</author>
+            <date>2013-06-21 13:51:34</date>
+            <index>11</index>
+            <phrase>උපාලි, මෙහෙකාරිය මැදපෙරදිග වැඩ කරපු නරක කෙනෙක් නම් ගෙදර කාරෙක පරෙස්සම් කරගන්න එක හොදයි. ලෝකයේ සතර සිනා අත්දකින වැඩිම කාන්තාවන් සිටින රට ශ්‍රී ලංකාවය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2013-06-21 14:08:29</date>
+            <index>12</index>
+            <phrase>එයාගේ ආරක්ෂාවට තියෙන එකම තැන එතන විතර වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව-ගාල්ල</author>
+            <date>2013-06-21 14:11:45</date>
+            <index>13</index>
+            <phrase>මෙහෙකාරියගේ වයසවත් දාල නැහැ. ඒත් වළලු දෙක කීය ගියත් දීලා ගන්න කට්ටිය ඉන්නවා. සමන් දන්නවද මෙහෙකාරියගේ වයස 68 යි. සමන් වගේ අය තමයි අර කොටකෙතනේ පහුගිය කාලේ හිටියෙත්. නිතර පත්තර කියෙව්වට හරි මෝඩයි නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂණ පෙරේරා</author>
+            <date>2013-06-21 14:43:13</date>
+            <index>14</index>
+            <phrase>කොහොමද ඒක ගත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2013-06-21 15:02:17</date>
+            <index>15</index>
+            <phrase>උපාලි ඒ ගැන විශේෂඥයෙක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2013-06-21 15:03:28</date>
+            <index>16</index>
+            <phrase>අනේ සමන්. තමුන්ට පුදුම අමරුවක්නේ තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුහුනු</author>
+            <date>2013-06-21 15:05:12</date>
+            <index>17</index>
+            <phrase>වළලු නිසා හොඳයි මුද්දක් උනානම් එහෙම හොයාගන්න අමාරුවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-06-21 15:15:15</date>
+            <index>18</index>
+            <phrase>රත්තරන් ඕනේම දේකට ඔරොත්තු දෙන ලෝහයක්! එක නිසා ප්‍රශ්නයක් වෙන එකක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2013-06-21 15:23:43</date>
+            <index>19</index>
+            <phrase>සමන් වගේ අයට කියන්නේ අසහන කාරයෝ කියලා. අසහනය තියෙනවා මදිවට ප්‍රදර්ශනය කරන හැටි. සහෝදරියෝ තියා අම්මවත් පේන්නේ නැහැ සමන් වගේ අයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2013-06-21 15:28:24</date>
+            <index>20</index>
+            <phrase>ඔය සමන්ට මඩු වලිගෙන් තලන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-06-21 15:53:04</date>
+            <index>21</index>
+            <phrase>ගොඩක් දවසකින් හිනාවෙවී අදහස් ටිකක් බැලුවා. හේරත්, ඔයාගේ අත එතනට ගියේ කවදද කියනවද ?එහෙම නැත්නම් වළලු ටික එතන හැංගුවේ ඔයාද?උපාලි, ඔයා කොහොමද ඒ ගැන හරියටම දන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2013-06-21 15:57:07</date>
+            <index>22</index>
+            <phrase>සංජීව , සමන් විතරක් නෙමේ හේරතුත් ලෙඩෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-06-21 16:57:32</date>
+            <index>23</index>
+            <phrase>වළලු දෙක අයින් කරලා සමනුයි හේරතුයි එතන ටික වෙලාවක් හංගලා තිබ්බා නම් ඕක හරියයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2013-06-21 17:06:31</date>
+            <index>24</index>
+            <phrase>ඕක යට ඇදුමේ තියා ගන්නේ නැතුව අර කුඩු ගේනවා වගේ ක්‍රමවේදයක් අනුගමනය කළා නම් ඉවරනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-06-21 17:12:37</date>
+            <index>25</index>
+            <phrase>යට ඇදුමේ ඇයි ඖවා හැංගුවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2013-06-21 18:43:09</date>
+            <index>26</index>
+            <phrase>මේක සාමාන්‍ය සිද්ධියක්. අපේ සමහරක් කාන්තාවන් මැද පෙරදිගදී මීට වඩා තැන්වල රත්රන් සගවනවා. දැන් අහන්න එපා මම කොහොමද දන්නේ කියලා.මම මැද පෙරදිග කාන්තාවන් ප්‍රවාහනය කළ බස් රියදුරෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-06-21 18:48:33</date>
+            <index>27</index>
+            <phrase>මෙම දැනීම නිසා අපේ ගෙදර නැතිවූ මාලයත් ,මගේ බිරිඳ සොයා ගත්තේ මෙහෙකාරිය කාමරයකට දමා පරීක්ෂා කිරීමෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2013-06-21 19:24:48</date>
+            <index>28</index>
+            <phrase>මෙයාගේ නම සමන් කියලා දාලා තියෙන්නේ වැරදිලා වෙන්න ඇති. මෙයාගේ නම අමන් කියලායි දාන්න තිබුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-06-21 20:34:08</date>
+            <index>29</index>
+            <phrase>හොදට හෝදන්න වෙයි වළලු දෙක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2013-06-21 20:47:38</date>
+            <index>30</index>
+            <phrase>වළලු ඔක්කොම හරියට තිබිලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-06-21 21:41:04</date>
+            <index>31</index>
+            <phrase>අනේ චන්දී ඔයාටත් හරි ඉක්මනින් අමතක වුනා නේ. වළල්ලට හෙන ගැහුවත් උහුලන්නම්. ඔයාට ඔහොම අමතක වෙන එක දරා ගන්න බෑ ම‍ට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයානි</author>
+            <date>2013-06-21 22:07:31</date>
+            <index>32</index>
+            <phrase>රත්‍රන් ආභරණ කනේ කරේ පළඳින්න ගියාම හොරු කඩා ගන්න නිසා කාන්තාවන්ට තව ඉස්සරහට ඔය හරියේ තමා පළඳින්න වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2013-06-21 22:15:30</date>
+            <index>33</index>
+            <phrase>අනේ මට තේරෙන්නේ නැහැ, අපේ රටේ මිනිස්සුන්ට මෙච්චර අසහනයක් තියෙනවද කියලා, දැක්ක ප්‍රතිචාර දැක්කම මට නම් අපේ අය ගැන දුක හිතෙනවා. ඔහොම බැලුවහම රටේ ස්ත්‍රී දුෂණ වෙන එක අහන්න දෙයක්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-06-22 00:26:10</date>
+            <index>34</index>
+            <phrase>නිමල් ලලිත,ඔය කියන විදිහට කාන්තාවකට හංගගන්න තිබෙන ඔයිට වඩා වටිනා තැන මොකක්ද කියලා කියන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2013-06-22 01:20:51</date>
+            <index>35</index>
+            <phrase>මොන ලෝකේ හංගලා තිබුනත් මොනතරම් ගඳ ගැහුවත් රන් වළලු දෙකේ වටිනාකම නම් අඩු වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-06-22 05:31:30</date>
+            <index>36</index>
+            <phrase>වළලු දෙකෙන් හමන්නේ මොන වගේ ගන්ධයක්ද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණා</author>
+            <date>2013-06-22 06:45:38</date>
+            <index>37</index>
+            <phrase>ඔය වැඩෙන් වෙන්නේ මීට පසුව හොරබඩු හොයන්න පොලීසිය යට ඇඳුම් අස්සේත් අත දාන්න පටන් ගන්න එකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2013-06-22 07:53:01</date>
+            <index>38</index>
+            <phrase>ඇයි ඉතින් ඕක බැංකුවේ හැංගුවේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2013-06-22 09:14:22</date>
+            <index>39</index>
+            <phrase>මොනා උනත් වැඩේ වැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2013-06-22 09:13:08</date>
+            <index>40</index>
+            <phrase>මොනා උනත් වැඩේ වරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අලහාකෝන්</author>
+            <date>2013-06-22 10:38:34</date>
+            <index>41</index>
+            <phrase>කොහේ සැඟවූවත් රත්තරන් රත්තරන්මයි. මිලෙහි අඩුවක් වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2013-06-22 12:52:41</date>
+            <index>42</index>
+            <phrase>මේ අපේ අයගේ අදහස් දිහා බැලුවාම...? මට මගේ අදහසවත් ලියන්න කැතේබැහැ ...? මනසවල් හැමෝගෙම හරිම විකුර්තිය් නේද.....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-06-22 13:52:44</date>
+            <index>43</index>
+            <phrase>සරත් මහත්තයෝ අපි දෙන්නා මුණ ගැහෙන්නේ නැහැනේ. එක නිසා ඔබ දන්නා කියන කාන්තවකගෙන්ම අහල බලන්න. හැබැයි මම කිව්වේ තමන්ගේ ගරුත්වය රැකගෙන මැද පෙරදිග සේවය කරන අය ගැන නෙවෙයි. මුළු රටේම නම කන සමහර අය කරන දේවල් ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2013-06-22 21:37:53</date>
+            <index>44</index>
+            <phrase>එහෙම අපහස කරන්න එපා .එහෙම හිතුවොත් මිනිස්සු ඉපදෙනත් බැහැ කියයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2013-06-22 22:28:46</date>
+            <index>45</index>
+            <phrase>දැන් වළලු දමන්නේ යට ඇදුමටද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි සිල්වා</author>
+            <date>2013-06-23 03:19:52</date>
+            <index>46</index>
+            <phrase>රන් වළලු නිසා ඔහොම යට ඇඳුමේ සඟවා ගෙන ගියා. බිත්ති ඔරලෝසුවක් වගේ වුනා නම් කොහේ සඟවා ගනීද දන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2013-06-23 03:24:54</date>
+            <index>47</index>
+            <phrase>නිමල් ලලිත මහත්තයෝ, ඔබ මැද පෙරදිග කාන්තාවන් එහේ ප්‍රවාහනය කරන විට ඔවුන් පෙන්නුවද ඔබ‍ට රත්රන් බඩු ගෙනියන තැන? ඔබගේ බිරිඳ හරි සහෝදරියන් හරි දැන් එම ආරක්ෂක ක්‍රමය ඔබගෙන් අසා ක්‍රියාත්මක කරනවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-06-23 10:34:41</date>
+            <index>48</index>
+            <phrase>මෝහමෙඩ් මහත්තයෝ, ඉන්දු ලංකා ගිවිසුමට විරුද්ධව,වර්තමාන පාලක පක්ෂයේද මුලිකත්වයෙන් එදා පැවතී රජයට විරුද්ධව වැඩකළ නිසා මට දෙගමනක්ම මැද පෙරදිග යාමට සිදු උනා.රැකියාව පමණක් නෙවි විශ්‍රාම වැටුපද අහිමි උනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2013-06-23 11:33:20</date>
+            <index>49</index>
+            <phrase>නිමල් ඔයත් අදිනවා වගේ කියවන්න එපා කඩේ වහලා වැඩේ කරගෙන යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවීර</author>
+            <date>2013-06-23 12:15:42</date>
+            <index>50</index>
+            <phrase>තව ගැඹුරට පරීක්ෂා කළා නම් තවත් බඩු හොයා ගන්න තිබුනනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2013-06-23 13:58:48</date>
+            <index>51</index>
+            <phrase>ඔය තැනත් බැංකුවකට දෙවැනි නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරෂ්</author>
+            <date>2013-06-23 15:24:44</date>
+            <index>52</index>
+            <phrase>කරුණාකරලා අදහස් ලියද්දි සදාචාරාත්මකව ලියන්න. මොකද ඔබේ අදහස් ඔබගේම අම්මා හෝ සහෝදරියක් බලාගෙනයි ඉන්නේ.උඩ බලාගෙන කෙල ගහන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2013-06-23 15:53:58</date>
+            <index>53</index>
+            <phrase>මේකේ අදහස් දාන අයගෙන් බහුතරයක් හොරකම ගැනවත් වළලු ගැනවත් මෙහෙකාරිය ගැනවත් නෙමෙයි හිතන්නේ. යට ඇඳුම සහ ඒකේ අන්තර්ගතය ගැන. ගුගල් එකේ සෙක්ස් ගැන වැඩියෙන් සර්ච් කරපු රට වෙන්නෙත්,ලිංගික අතවර බහුල වෙන්නෙත් මේ මානසික තත්ව නිසා තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2013-06-23 19:48:36</date>
+            <index>54</index>
+            <phrase>ලංකාවෙ මිනිස්සුන්ගෙ මානසිකත්වය මේකෙ පලකරල තියෙන අදහස් වලින්ම හිතාගන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම් පැරිසිය</author>
+            <date>2013-06-23 23:35:49</date>
+            <index>55</index>
+            <phrase>මෙහෙකාරිය ඉක්මනින් පොහොසත් වෙන්න බලන්න ඇති . වළලු ආරක්ෂාවට යට ඇඳුමේ ගසන්න ඇති . අද කාලයේ හෙම තැනම හොරු කියල . හොරුන්ගෙත් හොරු කම්බා හොරු කිව්වලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණූආරච්චි</author>
+            <date>2013-06-24 06:47:25</date>
+            <index>56</index>
+            <phrase>නාලක , ටිකක් හිතන්න ඕක හොයන්න වෙන මහන්සිය... හොයන කොට ඇතිවන ප්‍රශ්න. ඕක හෙව්වේ ප්‍රසිද්ධියේ නම් කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-06-24 09:10:22</date>
+            <index>57</index>
+            <phrase>රුපවති, ඔය නොලියා ඉන්න. නැත්නම් අපටත් ලියන්න වෙනවනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2013-06-24 10:06:18</date>
+            <index>58</index>
+            <phrase>සරත් , මම නොලියා හිටියොත් අනික් අපේ එසැන යාලුවන්ට ඔයා ගැන දැනගන්න විදියක් නැහැනේ. ඔයා වැව් ගානේ ලිං අයිනේ අස්සේ හැංගිලා, නාන්න එන ගැහැණු ළමයි දිහා බලනවා නේද? අපිටවත් වැවකට යන්න නැහැ සරත් මල්ලි නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-06-24 11:30:10</date>
+            <index>59</index>
+            <phrase>රූපවති අක්කේ, ඇත්තටම වැව් වල නාන්න නම් ආසයි. ඒත් වෙලාවක් නැහැනේ මේ වැඩ නිසා. ඒක නිසා ඔයා නාගන්න හොදේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-06-24 13:37:28</date>
+            <index>60</index>
+            <phrase>ඇත්තමයි රූපවතී අක්කේ, මම හැමදාම බලාගෙන ඉන්නවා අළුත් ‍කෙනෙත් නාන්න එයිද කියලා. කෝ, හැමදාම එන්නේ රූපවතී,රන්දි,චන්දිම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමායා</author>
+            <date>2013-06-24 18:18:34</date>
+            <index>61</index>
+            <phrase>ලංකාවේ අයගේ මානසිකත්වය මේ අදහස් වලින් හොදට පේනවා. මොකද්ද මේ වගේ මානසිකත්වයක් ඇති වෙන්න හේතුව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-06-24 18:31:36</date>
+            <index>62</index>
+            <phrase>හෙට අනිද්දා එළිවෙන ජාමෙට හොද හොද සෙල්ලම් එලි වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකිත්</author>
+            <date>2013-06-25 07:10:51</date>
+            <index>63</index>
+            <phrase>හැබෑටම, මාසේ මොන වගේ දවසකද දන්නේ නැහැ මේ සොරකම කලේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දි</author>
+            <date>2013-06-25 10:43:16</date>
+            <index>64</index>
+            <phrase>සරත් මල්ලි, අර වෙලේ ලිදට ගිහින් කොහිල වගාවට වෙලා හැංගිලා ඉන්නකෝ. අත්තම්මලා සේරමලා නාන්න එනවා උදේට හැබයි ඔයාගේ කැඩිච්ච මෝටර් බයිසිකලය මාරගහ යටින් නවත්තලා යන්න. මම ඔයාගේ නෝනට කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2013-06-25 19:18:31</date>
+            <index>65</index>
+            <phrase>වලලු දෙක හොදටම සුවද ඇති, වටිනාකම අඩු ඇති. අනේ පරිස්සම් කරගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතුම්</author>
+            <date>2013-06-25 21:39:13</date>
+            <index>66</index>
+            <phrase>හරිම හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔරිලේ</author>
+            <date>2013-07-04 15:37:55</date>
+            <index>67</index>
+            <phrase>හදිස්සියට මතක් උන නිසා හංග ගන්ට ඇතිෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

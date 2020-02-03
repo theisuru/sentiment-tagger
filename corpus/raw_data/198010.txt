@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>198010</articleId>
+    <title>මෙහෙනිවරු සඟමිත් ගමන සිහිකරති</title>
+    <author>කමල් ශ්‍රී ලියනගේ</author>
+    <date>2013 දෙසැම්බර් මස 28 23:09:51</date>
+    <body>දිස්ත්‍රික් පහළොවකින් ඌරගස්මංහන්දියට පැමිණි පිරිස් අද සංඝමිත්තා පෙරහැර පැවැත්වූහ. ධම්මදින්නා මෙහෙණින් වහන්සේ ඇතුළු සිල්මෑණිවරු ද ඊට එක්වූහ. ඌරගස්මංහන්දියේ සිට යටගල දක්වා මේ පෙරහැර පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>කරීන්</author>
+            <date>2013-12-29 03:02:45</date>
+            <index>0</index>
+            <phrase>බලන්න ලස්සනයි.මේ වගේ දේවල් වලට රජයන ආදර ලබෙනවා නම් තව කරන්න පතනව .අනාගත පරම්පරාවට ආදර්ශයක්. මිනිස්සුම ජයටම යහමගට යොමුකිරීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2013-12-29 04:01:41</date>
+            <index>1</index>
+            <phrase>ආසයි දකින්නට, නෙතු සුව දෙන මෙවැනි දසුන්,..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මීසා</author>
+            <date>2013-12-29 11:30:33</date>
+            <index>2</index>
+            <phrase>බලන්න ලස්සනයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂමන් ජයවර්ධන</author>
+            <date>2013-12-29 12:01:44</date>
+            <index>3</index>
+            <phrase>සාදු..සාදු..සාදු.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත මහින්ද ඉතාලියේ මිලානෝ නගරයේ සිට</author>
+            <date>2013-12-29 14:12:17</date>
+            <index>4</index>
+            <phrase>සාදු..සාදු..සාදු...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ.</author>
+            <date>2013-12-29 17:17:16</date>
+            <index>5</index>
+            <phrase>උතුම් කටයුත්තක්.ශ්‍රී සම්බුදු සසුන ලොව දසදෙස බැබලේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

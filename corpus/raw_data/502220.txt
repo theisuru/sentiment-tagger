@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502220</articleId>
+    <title>ශ්‍රී ලංකා යොවුන් පිල තුන්කොන්  ශූරතාව දිනයි</title>
+    <author>ඡායාරූප දකුණු අප්‍රිකානු ක්‍රිකට් ආයතනය අනුග්‍රහයෙනි</author>
+    <date>2017 ජනවාරි මස 28 21:57:08</date>
+    <body>ශ්‍රී ලංකාව, දකුණු අප්‍රිකාව සහ සිම්බාබ්වේ අතර දකුණු අප්‍රිකාවේදී පැවැති තුන්කොන් යොවුන් එක්දින තරගාවලියේ ශූරතාව දිනාගැනීමට ශ්‍රී ලංකා ක්‍රීඩකයෝ සමත් වූහ. අද (28 වැනිදා) පැවැති අවසන් මහ තරගයේදී ලකුණු 77 කින් දකුණු අප්‍රිකාව පරාජය කරමින් ශ්‍රී ලංකාව තරගාවලියේ ශූරතාවට හිමිකම් කීවේය. අම්බන්ගොඩ පී. ද එස්. කුලරත්න විදුහලේ නිපුන් රංසික අවසන් මහ තරගයේ වීරයා සහ තරගාවලියේ වීරයා යන සම්මාන දෙකම තමන් සතුකර ගත්තේය. තරගයේ විස්තර වාර්තාව සඳහා http://tinyurl.com/gl5bw2x  වෙත පිවිසෙන්න</body>
+    <comments>
+        <comment>
+            <author>ශ්‍රීලාල්</author>
+            <date>2017-01-28 20:38:30</date>
+            <index>0</index>
+            <phrase>උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරීන්දීන්</author>
+            <date>2017-01-29 07:38:27</date>
+            <index>1</index>
+            <phrase>නියමයි කොල්ලනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2017-01-29 08:47:17</date>
+            <index>2</index>
+            <phrase>යොවුන් ක්‍රීඩකයෝ රැක බලාගත යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2017-01-29 12:47:34</date>
+            <index>3</index>
+            <phrase>ලොකු අයියලගේ පරාජයේ ඇති වුණු ලැජ්ජාව යම් තරමකට වසා ගන්න මේ පුංචි වීරයන්ගේ දක්ෂතා තුලින් පුළුවන්. ඔබ සියලු දෙනාට ඉතාම හොද හෙට දවසක් ප්‍රාර්ථනය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

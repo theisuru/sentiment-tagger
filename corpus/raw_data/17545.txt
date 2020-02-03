@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17545</articleId>
+    <title>කූඩ නීතිය මසකින් අත්හිටුවයි</title>
+    <author>අජන්ත කුමාර අගලකඩ</author>
+    <date>2011 දෙසැම්බර් මස 14 21:16:10</date>
+    <body>එළවළු ප‍්‍රවාහනයේදී ප්ලාස්ටික් කූඩ නීතිය මාසයකට අත්හිටැවීමට මහින්ද රාජපක්ෂ ජනපති තීරණය කරයි.
+ගොවීන් සමග අරලිය ගහ මැදුරේදී පැවැති සාකච්ඡුාවේදී මේ තීරණය ගත් බවත් මිරිස්, වම්බටු හා ගෝවා අනිවාර්ය ලැයිස්තුවෙන් ඉවත් කළ බවත් සමුපකාර හා අභ්‍යන්තර වෙළෙඳ ඇමැති ජොන්ස්ටන් ප‍්‍රනාන්දු මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>මහජනයා</author>
+            <date>2011-12-14 21:30:54</date>
+            <index>0</index>
+            <phrase>පනින්නට පෙර සිතා බැලිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් අමරවීර</author>
+            <date>2011-12-14 23:31:33</date>
+            <index>1</index>
+            <phrase>අන්තිමට ජනපති, තීන්දුව අපේ රජ. අපිට හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලූෂන්</author>
+            <date>2011-12-14 23:34:30</date>
+            <index>2</index>
+            <phrase>අපරාදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2011-12-15 01:03:50</date>
+            <index>3</index>
+            <phrase>අපේ ලංකාවේ මිනිස්සුන්ට හොද දෙයක් උගන්වන්නම බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>PostHarvest Man</author>
+            <date>2011-12-15 01:29:09</date>
+            <index>4</index>
+            <phrase>මුලින්ම කරන්න තිබුණේ ඉක්මණින්ම නරක්වෙන හා තැලෙන පලතුරු සහ එළවලු වලට මෙම නීතිය දාල බලන්න ඊට පසු ටිකින් ටික අනෙක් නිපැයුම්වලට එය හදුන්වා දෙන්නයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.ඒ.ඒ. කාදර්</author>
+            <date>2011-12-15 03:55:23</date>
+            <index>5</index>
+            <phrase>ගරු ජනාධිපතිතුමාගෙන් ඉල්ලා සිටින්නේ දිළිදු දුප්පත් ගොවීන්ට සහනයක් ලෙස ඒ කී කූඩ සහනදායි මිලකට ආණ්ඩුවෙන් ලබා දෙනමෙන් බැගෑපත්ව ඉල්ලා සිටිමි. එතෙර සේවය කරන අපි ඔබතුමාට සුබ පතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැලුම් රාජපක්ෂ</author>
+            <date>2011-12-15 07:30:14</date>
+            <index>6</index>
+            <phrase>මේක වෙන්නෙ නැති වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් ද සිල්වා</author>
+            <date>2011-12-15 08:11:10</date>
+            <index>7</index>
+            <phrase>කෑම මේසේ එළවලු නැතිවුණාම බඩට දැනෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2011-12-15 13:13:05</date>
+            <index>8</index>
+            <phrase>මේ දේවල් පුරුදු කරන්න තිබුණේ අද ඊයේ නෙමෙයි. අනවශ්‍ය ලෙස ගොවින්ගේ ශ්‍රමය, මුදල් වගේම රජයේ මුදලුත් අ‍පතේ යනවා. මේවා කවුරු කොහොම කිව්වත් කළ යුතුමයි. ගොවි මහත්වරුන් ටිකක් මේ ගැන සිතිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>R.STANISLAWS</author>
+            <date>2011-12-16 08:37:39</date>
+            <index>9</index>
+            <phrase>අන්තිමට ඇමැතිතුමාට පරාජය බාර ගන්න සිදුවුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

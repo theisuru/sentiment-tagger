@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15450</articleId>
+    <title>සිසුන් 5ක්  පොලිසියේ 11ක් රෝහලේ.</title>
+    <author>අංජුල මහික වීරරත්න</author>
+    <date>2011 නොවැම්බර් මස 30 21:28:40</date>
+    <body>කොළඹ කොටුවේ පෙළපාළියේදී සමාජවාදී ශිෂ්‍ය සංගමයේ  පස් දෙනකුත් පොලිසිියේ 11 දෙනකුත් තුවාල ලබා ඇතැයි  කොළඹ ජාතික රෝහලේ හදිසි අනතුරු අංශය කියයි.
+පොලිසියට පොලූ පහර වැදුණු බව පොලිස් මාධ්‍ය ප‍්‍රකාශක පොලිස් අධිකාරි අජිත් රෝහණ මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2011-12-01 10:58:57</date>
+            <index>0</index>
+            <phrase>පෙළපාලි, කදුලු ගෑස්, පොලු ප්‍රහාරවල් දැන් අපේ රටට පොඩි දේවල් වෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තලක්</author>
+            <date>2011-12-01 18:04:08</date>
+            <index>1</index>
+            <phrase>දැන් ඉන්න ළමයිට ඉගෙනගන්න අවශ්‍ය නැහැ. පවු අහංසක දෙමව්පියො</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

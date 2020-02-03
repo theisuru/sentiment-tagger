@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452471</articleId>
+    <title>හිටපු රේගු අධිකාරිට වත්කම් නඩු</title>
+    <author>නිරංගි අබේවික්‍රම</author>
+    <date>2016 අගෝස්තු මස 30 14:27:26</date>
+    <body>වර්ෂ 2007 මාර්තු 30 සිට  ජුනි 30 දක්වා වත්කම් බැරකම් ප්‍රකාශ  ඉදිරිපත්  නොකළැයි  හිටපු  රේගු අධිකාරි  රන්ජන් කනකසබේට  සැප්තැම්බර්  22 වැනි දා  අධිකරණයේ පෙනී  සිටින ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ගිහාන් පිලපිටිය මහතා  අද (30) නොතීසි නිකුත් කළේය.</body>
+    <comments>
+        <comment>
+            <author>උද්දික</author>
+            <date>2016-08-30 23:22:10</date>
+            <index>0</index>
+            <phrase>ඉතාම හොඳයි. රජයේ ලොකු ලොක්කන්ගේ වතක්ම් බැරකම් හොයලත් බලන්න. නෝනාගේ, දරුවන්ගේ සහ යාළුවන්ගේ නම් වලින් බැංකු වල තැන්පත් කරපුවා, ගත් ඉඩම් ගෙවල් ආදියත් හොයන්න. රජයට ප්‍රකෝටි ගණන් අයකර ගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශාඛා</author>
+            <date>2016-08-30 23:17:05</date>
+            <index>1</index>
+            <phrase>ආයතන/කාර්යාංශ වල පසුගිය හිටපු වැරදි කළ ලොක්කෝ දැන්නම් බයවෙලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරිකා</author>
+            <date>2016-08-31 02:58:38</date>
+            <index>2</index>
+            <phrase>හරි ක්‍රමයට සල්ලි හෙව්වා නමි වත්කම් බැරකම් දෙන්න බය වෙන්නේ මොකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51410</articleId>
+    <title>පරණ සිමෙන්ති තොගයක් බණ්ඩාරගමින් යළි අල්ලයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජූලි මස 03 16:14:30</date>
+    <body>බණ්ඩාරගම කඩකාමර දෙකක තුබූ කල් ඉකුත් වූ සිමෙන්ති මලු දහසකට පමණ පරිභෝගික අධිකාරියේ හදිසි වැටලීම් අංශය අද සිල් තැබූ බව එහි ප්‍රධානී ඒ.ඒ. ජසූර් මහතා කියයි. මීට  දින 15කට පෙර එතැන දීම මෙවැනිම සිමෙන්ති තොගයක් සැකපිට අත්අඩංගුවට ගත් බව පොලිසිය කියයි. පරණ සිමෙන්ති එම ගබඩාවෙන් පිට කැර අලුතින් සිමෙන්ති එහි ගබඩා කිරීමට උත්සහා ගත් බව පෙනේ යැයි පාරිභෝගික අධිකාරිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-07-03 17:16:13</date>
+            <index>0</index>
+            <phrase>ලැබිය යුතු දේවල් හරියට ඒ ඒ තැන්වලට ලැබිල නැති වගයි පේන්නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කල්පනී</author>
+            <date>2012-07-04 17:32:39</date>
+            <index>1</index>
+            <phrase>මොකක්ද මේ සිමෙන්ති වල වෙළද නාමය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

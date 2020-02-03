@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>308684</articleId>
+    <title>පුතා දෙදිනක් රඳවා ගන්න උසාවියෙන් අවසර</title>
+    <author>ලසන්ත නිරෝෂණ පෙරේරා</author>
+    <date>2015 අපේ‍්‍රල් මස 10 17:08:24</date>
+    <body>කොටකෙතන 30 හැවිරිදි තිදරු මවගේ ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ඇගේ දෙවැනි පුතා දෙදිනක් රඳවාගෙන ප්‍රශ්න කිරීමට පැල්මඬුල්ල මහේස්ත්‍රාත් ඉමේෂ් ලක්මාල් පෙරේරා මහතා අද (20) කොළඹ අපරාධ කොට්ඨාසයට අවසර දුන්නේය.
+18 හැවිරිදි සැකකරු මහේස්ත්‍රාත්වරයා ඉදිරියේ ප්‍රකාශයක් දීමට ද නියමිතව සිටියේය.
+සැකකරුගේ පෙම්වතියට අලුත් අවුරුද්දට තෑග්ගක් දීමට මවගෙන් ඉල්ලූ රුපියල් 1500 නොදීම නිසා ඇය සමඟ උරණ වී මෙම ඝාතනය කළේදැයි සැකයක් පවතින බව පොලිසිය අධිකරණයට දැන්වීය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2015-04-10 12:43:04</date>
+            <index>0</index>
+            <phrase>මෙන් අයට ප්‍රසිද්ධියේ දඬුවම් දෙන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2015-04-10 13:11:01</date>
+            <index>1</index>
+            <phrase>මෙවන් පුවතක් යළි අසන්නට නොලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2015-04-11 03:52:13</date>
+            <index>2</index>
+            <phrase>උපරිම දඬුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

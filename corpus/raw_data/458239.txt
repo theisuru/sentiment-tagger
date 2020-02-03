@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458239</articleId>
+    <title>නව අභියාචනාධිකරණ විනිසුරුවරයෙක් දිවුරුම් දෙයි</title>
+    <author></author>
+    <date>2016 සැප්තැම්බර් මස 15 15:18:25</date>
+    <body>හිටපු අතිරේක සොලිස්ටර් ජනරාල්, ජනාධිපති නීතිඥ සිධම්බරන් පිල්ලෙයි තුරෙයිරාජා මහතා නව අභියාචනාධිකරණ විනිසුරුවරයකු ලෙස අද (15) ජනාධිපති මෛත්‍රීපාල සිරිසේන මැතිතුමා ඉදිරියේ දිවුරුම් දුන්නේ ය.
+ජනාධිපති ලේකම් පී.බී. අබේකෝන් මහතා ද එම අවස්ථාවට සහභාගී විය.</body>
+    <comments>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-09-15 10:08:32</date>
+            <index>0</index>
+            <phrase>යහපත් අනාගතයකට ආසිරි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගලී</author>
+            <date>2016-09-15 11:25:48</date>
+            <index>1</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-09-15 15:30:36</date>
+            <index>2</index>
+            <phrase>ඔබතුමාට අපගේ සුබ පැතුම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

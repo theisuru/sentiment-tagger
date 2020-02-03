@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52210</articleId>
+    <title>සබරගමු මුල් පුටුවට  සන්ධානයෙන් තව නමක්?</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2012 ජූලි මස 08 15:14:54</date>
+    <body>සබරගමු පළාත් සභාවේ මහ ඇමැති පදවියට හිටපු ආණ්ඩුකාර හා පාර්ලිමේන්තු මන්ත‍්‍රී ජානක ප‍්‍රියන්ත බණ්ඩාර මහතාගේ නම ද ඉදිරිපත් වී ඇතැයි දේශපාලන ආරංචි කියයි. හිටපු මහ ඇමැති මහීපාල හේරත් කෑගලූ දිසාව නියෝජනය කරන නිසා රත්නපුර දිසාවට මෙවර මහ ඇමැති පදවිය දෙන ලෙස ඉල්ලීමක් කැරේ.
+වසර 24ක් කෑගල්ලට මහ ඇමැතිවරු හිමිවිය. රත්නපුරට මහ ඇමැතිකම හිමිවී ඇත්තේ වසර හතකට පමණි.</body>
+    <comments>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-07-09 00:37:42</date>
+            <index>0</index>
+            <phrase>කවුරු ආවත් අපේ පැත්තේ ගැටලු විසදෙන්නෑ.අපිට නම් පළාත් සභා එපා වෙලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සතුට</author>
+            <date>2012-07-09 05:38:51</date>
+            <index>1</index>
+            <phrase>කවුරු ආවත් වෙන්නේ මෙච්චරම තමයි ඉතිං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ</author>
+            <date>2012-07-09 08:57:55</date>
+            <index>2</index>
+            <phrase>ඉතා හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-09 10:26:40</date>
+            <index>3</index>
+            <phrase>සමහරු ගොඩ, මහජනතාව අන්ගොඩ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවෝද</author>
+            <date>2012-07-09 10:42:40</date>
+            <index>4</index>
+            <phrase>අපරාදේ මහජනතාවගේ සල්ලි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-09 11:19:12</date>
+            <index>5</index>
+            <phrase>අනේ කාලේ වනේ වාසේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-07-09 15:50:08</date>
+            <index>6</index>
+            <phrase>කව්රු කොහෙට ආවත් අපිට හුලන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්මි</author>
+            <date>2012-07-09 16:29:54</date>
+            <index>7</index>
+            <phrase>බන්ඩාරගමට මොකද වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

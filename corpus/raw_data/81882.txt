@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>81882</articleId>
+    <title>‘පෙට්ටිය කලින්ම ඇනැවුම් කරන්න‘</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2012 දෙසැම්බර් මස 04 10:04:01</date>
+    <body>යුක්රේනියා ජාතික මිනී පෙට්ටි සාදන්නෙකු මෙතෙක් නොඇසූ විරූ ව්‍යාපාරයකට අතගසා ඇත.
+ඒ කෙදිනක හෝ තමන්ට හිමි වන මිනී පෙට්ටියක සැතපී සිටින්නට ගනුදෙනුකරුවන්ට අවස්ථාව ලබා දීමයි. මේ නවතම වෙළද උපක්‍රමය ඔහු හදුන්වාදී ඇත්තේ ‘මිනී පෙට්ටි චිකිත්සාව‘ යනුවෙන්ය.
+ගනුදෙනුකරුවන්ට පියන වසා හෝ පියන විවෘත කර හෝ මිනී පෙට්ටියේ සැතැපී සිටිය හැකි බව ඔහු කියයි.
+ජීවතුන් අතර සිටියදීම ‘සාමදානයේ සැතැපීමට‘ කැමැත්තෙන් තමන් සොයා බොහෝ අය එතියි ඔහු පවසනුයේ ආඩම්බරයෙනි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>විජය</author>
+            <date>2012-12-04 16:11:18</date>
+            <index>0</index>
+            <phrase>මොනවාද අනේ මේ මුසල වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-12-04 18:09:00</date>
+            <index>1</index>
+            <phrase>කොහොමත් මරණයට සූදානම් වෙන එක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සද්ධාතිස්ස</author>
+            <date>2012-12-04 18:11:34</date>
+            <index>2</index>
+            <phrase>හිත හොඳ මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2012-12-05 08:07:57</date>
+            <index>3</index>
+            <phrase>අද කාලේ මිනිස්සුන්ට මැරෙනව කියල දැනගෙන ජීවත් වෙන්න මේක හොඳයි. නොමැරෙන අය වගේ තමයි සමහර දෙනා කටයුතු කරන්නේ. මේක එක්තරා විදියක මරණානුස්සති භාවනාව වැඩීමක් වෙනවා. කවුරු හරි හම්බ කරගන්න කරන වැඩක් උනත් හොඳ පැත්තක් තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-12-05 08:14:50</date>
+            <index>4</index>
+            <phrase>ජීවත් වෙන ටිකේ හොඳ දේ කරලා යහපත්ව ජීවත් වෙන්න .මිණී පෙට්ටි ගැන හිතන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-12-05 08:20:58</date>
+            <index>5</index>
+            <phrase>මැරුණාට පස්සේ මොකටද පෙට්ටි විකාර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

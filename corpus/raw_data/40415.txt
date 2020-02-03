@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40415</articleId>
+    <title>ගෑස් 350 කින් නගී</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 මැයි මස 04 12:46:02</date>
+    <body>අද මැදියම් රැයේ සිට කිලෝ 12.5 ගෑස් සිලින්ඩරයක මිල රුපියල් 350කින් වැඩි කිරීමට යයි. ගෑස් සිලින්ඩරයක දැන් මිල රුපියල් 2045 කි.</body>
+    <comments>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-05-04 12:56:35</date>
+            <index>0</index>
+            <phrase>තව මදි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාදව ද මෙල්</author>
+            <date>2012-05-04 12:58:16</date>
+            <index>1</index>
+            <phrase>සක්කරයාගේ පුතා වෛමා මොකද දන්නේ නෑ කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්ග</author>
+            <date>2012-05-04 13:00:41</date>
+            <index>2</index>
+            <phrase>මොකක්ද ලංකාවේ ආර්ථික තත්වය ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-05-04 13:02:11</date>
+            <index>3</index>
+            <phrase>මේවා මහ ජරා වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-05-04 13:09:03</date>
+            <index>4</index>
+            <phrase>350 මොකක්ද? ඕක මිනිස්සුන්ට දැනෙන්නේ වත් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනා</author>
+            <date>2012-05-04 13:23:53</date>
+            <index>5</index>
+            <phrase>ගෑස් වලට 2045ක් ගියාම එතකොට මාසේ වියදමට 2500න් ඉතුරු වෙන්නේ තව රුපියල් 5යි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනු</author>
+            <date>2012-05-04 13:23:01</date>
+            <index>6</index>
+            <phrase>අපිට ගෑස් පෙන්වන්න අරං වගේ. දුප්පත් අපටමයි හැම දේම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-05-04 13:38:20</date>
+            <index>7</index>
+            <phrase>ගොඩාක් පින්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියදාස</author>
+            <date>2012-05-04 13:40:37</date>
+            <index>8</index>
+            <phrase>එල ...එල....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-05-04 13:49:15</date>
+            <index>9</index>
+            <phrase>ලංකාවේ ගෑස් තියෙනවා. ඒවා ලැබුණහම ගෑස් සිලින්ඩරය 350 ට දෙන්න තමයි මේ වැඩි කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-04 13:55:45</date>
+            <index>10</index>
+            <phrase>ගෑස් ගෑස් අනේ ගෑස්. ඇයි ඔයා මෙචිචර ගෑස්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-05-04 13:57:27</date>
+            <index>11</index>
+            <phrase>මිණී මස්කනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සක්කරයා</author>
+            <date>2012-05-04 13:56:55</date>
+            <index>12</index>
+            <phrase>මේ වගේ මිළ වෑඩිකරන රටක් ලෝකේ කොහෙවත් නෑතුව ඇති. අනේ පන ඈති විපක්ෂයක් හිටියානම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-05-04 13:59:32</date>
+            <index>13</index>
+            <phrase>ආසියාවේ ආශ්චර්‍ය....මට හරි ආඩම්බරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-05-04 13:59:24</date>
+            <index>14</index>
+            <phrase>පවුලක නව ජීවන වියදම=රු. 7500 යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-05-04 14:00:20</date>
+            <index>15</index>
+            <phrase>මේවා හොඳ පිඩම්........... අපිට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමින්ද</author>
+            <date>2012-05-04 14:01:40</date>
+            <index>16</index>
+            <phrase>ලොක්කොන්ගේ දෙමාපියන් මතක්වෙන්නේ මේ වෙලාවට තමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-05-04 14:03:27</date>
+            <index>17</index>
+            <phrase>අයියෝ ඕවා මොනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2012-05-04 14:04:15</date>
+            <index>18</index>
+            <phrase>තව යන් පෙලපාලි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-05-04 14:05:44</date>
+            <index>19</index>
+            <phrase>තව වැඩි උනාට කමක් නැහැ.... මොකද ලන්කාවෙ වැඩිපුර ඉන්නෙ රුපියල් 7500/= ජීවත් වෙන කට්ටියනෙ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-04 14:05:46</date>
+            <index>20</index>
+            <phrase>ආසියාවේ ආශ්චර්‍ය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුසිරු</author>
+            <date>2012-05-04 14:09:08</date>
+            <index>21</index>
+            <phrase>හොද වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජපක්ෂ</author>
+            <date>2012-05-04 14:08:53</date>
+            <index>22</index>
+            <phrase>තව මදි.අඩුම තරමේ 4000ක් වත් වෙන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2012-05-04 14:15:52</date>
+            <index>23</index>
+            <phrase>මෙහෙම ගියොත් අපිට බඩගින්නේ ඉන්නයි වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-04 14:24:38</date>
+            <index>24</index>
+            <phrase>ලංකාවේ විතරක් නෙමෙයි මුළු ලෝකෙම ගෑස් මිල වැඩි වෙලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නානයක්කාර</author>
+            <date>2012-05-04 14:39:30</date>
+            <index>25</index>
+            <phrase>2500/=????????????????????????????? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-04 14:42:56</date>
+            <index>26</index>
+            <phrase>අපිට සුභ අනාගතයක් ගොඩනගනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-04 14:45:05</date>
+            <index>27</index>
+            <phrase>ආහාර අමුවෙන් කන එක තමයි කරන්න තියෙන හොඳහ දේ . අනාග‍තේ හො﻿ඳයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදරුවන්</author>
+            <date>2012-05-04 14:49:58</date>
+            <index>28</index>
+            <phrase>ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාවල</author>
+            <date>2012-05-04 14:50:52</date>
+            <index>29</index>
+            <phrase>හරිම සන්තෝෂයි.ඔහොම යන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-05-04 14:55:28</date>
+            <index>30</index>
+            <phrase>බන්දු ඔයා කොහෙද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-05-04 15:00:51</date>
+            <index>31</index>
+            <phrase>මම පටන් ගන්නවා දර බිස්නස් එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-05-04 15:07:55</date>
+            <index>32</index>
+            <phrase>අපි ආයෙමත් ඔයාලටම ජන්දේ දෙනවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2012-05-04 15:12:15</date>
+            <index>33</index>
+            <phrase>තව මදි.තව වැඩි උනාට කමක් නැහැ.පටි තදකරගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ග්‍රේෂන්</author>
+            <date>2012-05-04 15:11:14</date>
+            <index>34</index>
+            <phrase>තවත් ඉදිරි පියවරක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-05-04 15:23:46</date>
+            <index>35</index>
+            <phrase>ආසියාවේ ආශ්චර්‍ය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-05-04 15:24:43</date>
+            <index>36</index>
+            <phrase>පොඩි මිනිහට තමයි ඉතිං...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-04 15:29:54</date>
+            <index>37</index>
+            <phrase>මේකද ආසියාවේ ආශ්චර්‍යය ?????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේබන්දු</author>
+            <date>2012-05-04 15:50:54</date>
+            <index>38</index>
+            <phrase>තව 2500 කින් වත් වැඩි වෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-05-04 15:53:33</date>
+            <index>39</index>
+            <phrase>අයියෝ 350 මොකක්ද? මදි මේ හොදටම මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෛමා</author>
+            <date>2012-05-04 15:58:44</date>
+            <index>40</index>
+            <phrase>තව මදි? තව වැඩි උනාට කමක් නැහැ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-04 16:08:22</date>
+            <index>41</index>
+            <phrase>වැඩිහිටි අපිත් ළදරු කිරිපිටි බොන්න ගන්න ඕනි. ඒවා ගාණ වැඩි කරලා නෑනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-04 16:11:54</date>
+            <index>42</index>
+            <phrase>බහුතර ජනතාවක් නිසා සුළුතර ජනයාත් පීඩා විදින එක නම් වැරදියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-04 16:16:37</date>
+            <index>43</index>
+            <phrase>අපි දේශප්‍රේමී ජනතාවනේ.කමක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-05-04 16:15:19</date>
+            <index>44</index>
+            <phrase>මෙහෙම වෙලා මදි.තම වෙන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.එම්.එස්</author>
+            <date>2012-05-04 16:18:48</date>
+            <index>45</index>
+            <phrase>තව මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්- riyadh</author>
+            <date>2012-05-04 16:29:59</date>
+            <index>46</index>
+            <phrase>වෙසක් මාසෙට නව සංශෝධනයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමේෂ්</author>
+            <date>2012-05-04 16:41:08</date>
+            <index>47</index>
+            <phrase>තවත් ආශ්චර්යයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-05-04 17:28:00</date>
+            <index>48</index>
+            <phrase>හරි සුභයි. සන්තෝෂයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනුසලවි</author>
+            <date>2012-05-04 17:31:37</date>
+            <index>49</index>
+            <phrase>කිරි පිටි වල මිළ වැඩි කළේ ආනයන අධෛර්යමත් කරන්න. එතකොට ගෑස්? සිමෙන්ති? හැම දෙයක්ද වැඩි කරන්න ප්‍රශ්නයක් නෑ. නමුත් ආදයම් වැඩි කරගන්නා මාර්ගයන් විවර කරල දෙන්න පුළුවන් නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හස්ත</author>
+            <date>2012-05-04 17:41:58</date>
+            <index>50</index>
+            <phrase>ඇයි අර හොයා ගත්ත ගෑස් ළිද කෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසේකර</author>
+            <date>2012-05-04 18:20:03</date>
+            <index>51</index>
+            <phrase>ඔහොම යන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2012-05-04 18:37:52</date>
+            <index>52</index>
+            <phrase>අනේ මන්දා, ඊළග පාර කවුරු ගැන හිතනවද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-05-04 20:30:44</date>
+            <index>53</index>
+            <phrase>සියළු රටවැසියන්ට හොද අනාගතයක්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන්</author>
+            <date>2012-05-04 20:46:43</date>
+            <index>54</index>
+            <phrase>ඔහොම වෙලා මදි තව වැඩි වෙන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබා</author>
+            <date>2012-05-04 21:04:02</date>
+            <index>55</index>
+            <phrase>මගේ රට - මගේ මිල අපි දේශප්‍රේමය කාල අධිරාජ්‍ය වාදය ‍බොමු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරොෂන්</author>
+            <date>2012-05-04 21:15:46</date>
+            <index>56</index>
+            <phrase>ඔය තමයි ආශ්චර්‍ය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුවනෙක</author>
+            <date>2012-05-04 21:33:12</date>
+            <index>57</index>
+            <phrase>මොකද මේ බොරු සද්ද? දහස් සංඛයාත ජනතාවක් උඩ පැන පැන ඉල්ලුවේ මේවා නෙවෙයිද? අනෙක කෑම බීම ගණන් ගියාට මොකද මෙච්චර කලබල? ඇති වෙන්න තණ කොළ තියෙන රටේ. නැතිනම් ජාති ආලේ පවුලේ අයටත් ටික ටික දීලා කන්න... ඒකත් බඩගින්නට සෝයී..... !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-05-04 23:40:49</date>
+            <index>58</index>
+            <phrase>2500 න් ජීවත් වෙන්න පුළුවන් කිව්වනේ, ගෑස් එකක් ගත්තම රුපියල් 5 යි ඉතිරි වෙන්නේ ..ඇද්ද මාසයක් ජීවත් වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල්</author>
+            <date>2012-05-04 23:59:35</date>
+            <index>59</index>
+            <phrase>2500 මෝඩ කතාව කෝ දැන් ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරෝෂ්</author>
+            <date>2012-05-05 00:13:19</date>
+            <index>60</index>
+            <phrase>මෙහෙම ගියොත් අපිට ඉතුරු වෙන්නේ බඩේ ගෑස් විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2012-05-05 00:44:23</date>
+            <index>61</index>
+            <phrase>වෙසක් මාසෙට නව සංශෝධනයක්.තවත් ආශ්චර්‍යයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුශාර</author>
+            <date>2012-05-05 03:53:42</date>
+            <index>62</index>
+            <phrase>තව මදි 5000 උනා .............නම්........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2012-05-05 05:02:48</date>
+            <index>63</index>
+            <phrase>තව මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝක</author>
+            <date>2012-05-05 06:16:53</date>
+            <index>64</index>
+            <phrase>අනේ මම ගමට යනවා, ගමේ දරලිප් තාම තියෙනවා......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-05 07:11:50</date>
+            <index>65</index>
+            <phrase>දැන් ඉවසුව ඇති...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2012-05-05 08:12:46</date>
+            <index>66</index>
+            <phrase>මසෙට 7500 ජිවත් වෙන අය උයන්නේ නෝනගේ ගෑස් වලින්ද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේෂාන්</author>
+            <date>2012-05-05 08:39:53</date>
+            <index>67</index>
+            <phrase>ලෝක ආරථිකය එක්ක වෙන වැඩි වීම්. අපේ රටේ සීමා කරන්න බෑ ඔය කවුරු කෑ ගැහුවත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-05 11:45:45</date>
+            <index>68</index>
+            <phrase>අයියෝ දෙයියනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකලංක</author>
+            <date>2012-05-05 12:28:20</date>
+            <index>69</index>
+            <phrase>මේවා හම්බවෙන්නේ ආශ්චර්‍යයට....ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ</author>
+            <date>2012-05-05 13:38:17</date>
+            <index>70</index>
+            <phrase>සාධු සාධු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේශ්</author>
+            <date>2012-05-05 15:29:11</date>
+            <index>71</index>
+            <phrase>අනේ අපේ රටට මොකද මේ වෙන්නේ...දුප්පතාට මොකද වෙන්නේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය විජේනායක</author>
+            <date>2012-05-05 16:18:00</date>
+            <index>72</index>
+            <phrase>යුද්දෙ තිබ්බනම් මීට වඩා හොදයි කියලා හිතෙන්නේ මෙහෙම බඩු ගනන් යනකොට තමයි. ඒ කාලේ මේ තරම් බඩු ගනන් ගියේ නැහැනේ.....මොකද ලංකාවට වෙන්නේ දෙවියනේ... මිනිස්සු කොහොමද ජීවත්වෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ලා</author>
+            <date>2012-05-05 16:55:07</date>
+            <index>73</index>
+            <phrase>පොඩි මිනිහා කොහොමද දන්නේ නෑ ජීවත් වෙන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-05 20:49:58</date>
+            <index>74</index>
+            <phrase>අපි කටඇරගෙන තොරම් බලනකොට දන්නෙම නෑ අපේ පර්ස්වලට විදලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-05-06 11:57:24</date>
+            <index>75</index>
+            <phrase>ආශ්චර්‍ය අත ළඟ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

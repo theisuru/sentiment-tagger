@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55531</articleId>
+    <title>ගම්පහ ප්‍රශ්නපත්‍ර කලින් පිටවෙලා</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 ජූලි මස 26 19:59:11</date>
+    <body>ගම්පහ කලාප අධ්‍යාපන කාර්යාලයේ දෙවෙනි වාර අවසාන විභාග ප්‍රශ්න පත්‍ර කලින් පිටවී ඇති බවට ලැබී ඇති පැමිණිලි ගැන පරීක්ෂණයක් පවත්වන බව කලාප අධ්‍යාපන අධ්‍යක්ෂ එස් කේ මල්ලවාරච්චි මහතා කියයි.
+පාසල්වලට ලැබීමට පෙර මේ ප්‍රශ්නපත්‍ර පිටවී ඇති බවට තොරතරු ඇතැයිද, මේ ගැන අවසන් තීරණය ලබ සඳුදා ගන්නා බවද ඒ මහතා පවසයි.
+සිකුරාදාට නියමිත විද්‍යා ප්‍රශ්නපත්‍රයට සමාන ප්‍රශ්නපත්‍රයක් ද ඊට පෙර දින සිසුන් අතර පත්ව ඇතැයි තොරතුරු ලැබී තිබේ.
+ </body>
+    <comments>
+        <comment>
+            <author>එම් එස්</author>
+            <date>2012-07-26 20:34:33</date>
+            <index>0</index>
+            <phrase>වහාම පරීක්ෂණ්‍යක් පවත්වල ළමයින්ට සාධාරණයක් ඉටුකරන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන් සෞදි</author>
+            <date>2012-07-26 20:36:30</date>
+            <index>1</index>
+            <phrase>ප්‍රාදේශීය සභා සතිය ඉවරයි.. පොලිස් සතිය ඉවරයි.. දැං අධ්‍යාපන සතිය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-07-26 22:01:39</date>
+            <index>2</index>
+            <phrase>අහන්න දෙයක් නෑ, පගාවක් අරන් පිටපතක් නිකුත් කරලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී -කුවේට්</author>
+            <date>2012-07-26 23:34:02</date>
+            <index>3</index>
+            <phrase>අපේ රට කොහොමත් දියුණුයිනේ.අනිද්දා පත්තරේ අද කියවන්න පුලුවන් නම් ප්‍රශ්න පත්තරේ මහ දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මදූ</author>
+            <date>2012-07-27 01:48:22</date>
+            <index>4</index>
+            <phrase>ලංකාවෙ හැද දෙයක්ම විනාශ වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-07-27 01:49:03</date>
+            <index>5</index>
+            <phrase>ලංකාවේ හැම දෙයක්ම විනාශ වෙලා ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-07-27 06:45:22</date>
+            <index>6</index>
+            <phrase>නෑ නෑ. මෙහෙම ප්‍රශ්න පත්තර පිට වීමක් වෙලා නැහැ. මම නම් පිළිගන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-27 07:36:37</date>
+            <index>7</index>
+            <phrase>කොච්චර පරීක්ෂණ තිබුණත් අන්තිමට වන්දි ගෙවන්නේ අහිංසක දුප්පත් දරුවෝ. රටේ දරුවන්ගේ මානසිකත්වය වෙනස් කරලා ලේසියෙන් මේ ‍රට ආසියාවේ ආශ්චර්යය කරන්න පුලුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-27 08:15:38</date>
+            <index>8</index>
+            <phrase>මේවා මේ රජයෙන් වැටුප් ගන්න නිලධාරීන් කරන වැඩ මිසක් රජයෙන් කරන වැඩ නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් ගමරාළගේ</author>
+            <date>2012-07-27 09:00:36</date>
+            <index>9</index>
+            <phrase>පොඩි විභාගවලට මෙහෙමනම් ලොකු ලොකු විභාග ගැන කවර කතාද ?..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-27 09:56:00</date>
+            <index>10</index>
+            <phrase>මේ ප්‍රවණතාවය වහා නතර කිරීමට නිසි පියවර ගනු මැනවි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-27 10:19:58</date>
+            <index>11</index>
+            <phrase>විභාග ප‍්‍රතිඵල අවුලෙන් යලි සනාථ කෙරී ඇත්තේ අධ්‍යාපනය පරිහානි ගත වීම හා අනෙකුත් කප්පාදු වැඩ පිළිවෙළවල් සම්බන්ධයෙන් විසඳුමක් කවර හෝ පුද්ගල කොටසකින් ලබා ගත නොහැකි බවයි. යූඇන්පීය, ජවිපෙ හා වෘත්තීය සමිති ඉල්ලා සිටින පරිදි ඇමති පුටු වෙනස් කිරීමෙන් ද ඊට විසඳුම් ලබා ගත නොහැකි ය. ඒ වෙනුවට, නිදහස් අධ්‍යාපනය ඇතුලු අයිතීන් ආරක්ෂා කල හැක්කේ සමාජවාදී වැඩපිළිවෙළ කි‍්‍රයාවට දමන කම්කරුවන්ගේ හා ගොවීන්ගේ ආන්ඩුවක් බලයට ගෙන ඒමෙන් පමණක් ම ය. ධනපති ක‍්‍රමය තුල විසඳුම් සොයා ගත හැකියැයි පවසමින් එතුල සිර කරන ධනපති පක්ෂවලින් හා වෘත්තීය සමිති සංවිධානවලින් බිඳී සමාජවාදී ව්‍යාපාරයක් ගොඩ නැගීමට සිසුන්, ගුරුවරුන් සහ කම්කරුවන් පෙළ ගැසෙන ලෙස සමාජවාදී සමානතා පක්ෂය සහ සමාජ සමානතාව සඳහා ජාත්‍යන්තර ශිෂ්‍යයන් ඉල්ලා සිටින්නේ මේ කි‍්‍රයාමාර්ගය සඳහා සටන් කිරීමට ය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩීන්</author>
+            <date>2012-07-27 16:09:03</date>
+            <index>12</index>
+            <phrase>අනේ මන්දා, මේ කරන හැම දේකින්ම අන්තිමට තැලෙන්නේ අපි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩීන්</author>
+            <date>2012-07-27 16:09:03</date>
+            <index>13</index>
+            <phrase>කරන කිසිම වැඩක් හරියට කරන්න බැරි මොකද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ස්ලික්</author>
+            <date>2012-07-27 17:07:15</date>
+            <index>14</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ, ඔබතුමා කියන සමහර කරුණු මට නම් ටිකක් ගැඹුරු වැඩියි. ඔබතුමා කියන්නේ ප්‍රශ්න පත්‍ර හොරකම ධනපති ක්‍රමයේ වැරැද්දක් කියලද ? එතකොට ධනවාදී බටහිර රටවලත් මෙහෙම ප්‍රශ්න පත්‍ර හොරකම් කරනවා ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-07-28 10:28:01</date>
+            <index>15</index>
+            <phrase>කරුණාකර දාස් කැපිටාල් කියවන්න..ඒහි ඔබට ඔකට උත්තර තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

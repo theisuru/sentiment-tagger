@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493008</articleId>
+    <title>පවුල් දෙකක් නඩත්තු කරන්න ගිහින් කූඩුවට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 දෙසැම්බර් මස 25 17:12:56</date>
+    <body>නුගේගොඩ පොලිස් වසම් හතක නිවාස බිඳුම් 17කට සම්බන්ධ බව කියන දිවයිනේ ලියාපදිංචි අපරාධකරුවකු රුපියල් ලක්ෂ 20ක භාණ්ඩ සමග අත්අඩංගුවට ගත් බව මිරිහාන පොලිසිය පවසයි.
+බන්ධනාගාරගතව සිට නිදහස්ව පැමිණ ඇතැයි කියන මොහුට බිරියන් දෙදෙනකු සිටින බවත් ඔවුන්ගේ නඩත්තුව සඳහා මෙසේ හොරකම් කර ඇති බවත් කියති.</body>
+    <comments>
+        <comment>
+            <author>සුලෝචන</author>
+            <date>2016-12-25 13:54:47</date>
+            <index>0</index>
+            <phrase>මේ වගේම තවත් හොරෙක් නුගේගොඩ පැත්තෙ ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-12-26 06:42:32</date>
+            <index>1</index>
+            <phrase>මොනවා ....? ලංකාවේ හොරුන්ට ලියාපදිංචි වෙන්නත් පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2016-12-26 07:03:38</date>
+            <index>2</index>
+            <phrase>ලංකාවේ හොරකම් කර සල්ලි හම්බකරගත් පුද්ගලයාට තිබෙන්නේ පුදුම ගෞරවයක් හා පිළිගැනීමක්. මෙම ක්‍රියා අනුමත කරන පිරිසකුත් රටේ සිටීම අභාග්‍යක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2016-12-26 15:47:41</date>
+            <index>3</index>
+            <phrase>කෝ මේ හොරා මාංචු පෙන්ව පෙන්වා සුපර් ස්ටර්ලා වගේ ගිහින් බස් එකට නගින දර්ශන නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2016-12-26 16:23:03</date>
+            <index>4</index>
+            <phrase>මම මේ දන්නේ නැති නිසා අහන්නේ. ලියාපදිංචි අපරාධකාරයෝ කියන්නේ කවුද. දන්නා කෙනෙක් ඉන්නවා නම් පොඩ්ඩක් පැහැදිලි කරලා දෙන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

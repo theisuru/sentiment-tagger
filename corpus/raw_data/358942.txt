@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>358942</articleId>
+    <title>පොත් නැවේ දවසක්</title>
+    <author>අකිල බද්දෙවිතාන  වීඩියෝ - ශාන්ත රත්නායක</author>
+    <date>2015 නොවැම්බර් මස 05 12:35:09</date>
+    <body>ලෝගෝස් හෝප් ලොව පුරා සංචාරය කරන පොත් නැව මේ දිනවල ලංකාවට පැමිණ ඇත. නොවැම්බර් 12 වැනිදා දක්වා එය කොළඹ වරායේ නැංගුරම් ලා ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ශාන්ති ගීගනගේ</author>
+            <date>2015-12-02 11:32:18</date>
+            <index>0</index>
+            <phrase>මෙම වැඩ සටහන ඉතාමත් ම කාලෝචිතයි. පොත් අපේ නෙත් වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

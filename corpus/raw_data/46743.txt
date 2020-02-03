@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46743</articleId>
+    <title>මැණිකට කටුනායකින් කාර්යාලයක්</title>
+    <author></author>
+    <date>2012 ජූනි මස 06 10:46:18</date>
+    <body>රන් හා මැණික් ආනයන, අපනයනකරුවන්ගේ පහසුව සඳහා විශේෂ කාර්යාලයක් මෙම සතියේ කටුනායක බණ්ඩාරනායක ගුවන් තොටුපළේදී විවෘත වීමට නියමිතය.
+ශ්‍රී ලංකා රේගුව හා ජාතික මැණික් හා ස්වර්ණාභරණ අධිකාරියේ සහයෝගීත්වයෙන් මෙහි කටයුතු සිදුකෙරෙනු ඇත.
+මැණික් හා ස්වර්ණාභරණ ආනයන, අපනයනයේදී වෙළඳුන් මුහුණපාන ගැටලු, ඉක්මණින් නිරාකරණය කරදී ඔවුන් තවදුරටත් දිරි ගැන්වීම මෙම කාර්යාලය ඇති කිරීමේ අරමුණ වේ.</body>
+    <comments>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2012-06-06 13:05:24</date>
+            <index>0</index>
+            <phrase>අයකිරීම් එහෙම කොහොමද ?ලබාදෙන සේවාවට සමහරවිට මැණික් වලටත් වඩා වැඩි වෙන්න ඉඩ තියෙනවා. මොකද මේක සකලසිරින් පිරි සිරිලන්කාවනේ. හැම එකටම බදු ගෙවන්න වෙලානේ දැන් තියෙන්නේ අනිත් අයට සැප ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-06 15:15:30</date>
+            <index>1</index>
+            <phrase>අනේ මැණික ඔයාට නෙමෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-06-06 19:25:49</date>
+            <index>2</index>
+            <phrase>කාගේත් දැන ගැනීම සදහා මැණික් වර්ගකීපයක නමි මෙසේ සදහන් කරමි කිරිංචි, කහට පඩියන්, සුදුනිල, සර්කන්, තිරුවාණ, තෝරමල්ලි, පඩියන්, පසින්ගලය, පචිචපඩියන්, පද්මරාගය, වෛයිරෝඩිය, රතු ආර්නුල්, රතුකැටය, නිල් ආර්නුල්, ගෝමෙිද, පුනක්කමි, පුෂ්පරාගය, නිල්මැණික, සෙවිවන්දිය නොහොත් අඔතේස්,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසී</author>
+            <date>2012-06-07 09:14:19</date>
+            <index>3</index>
+            <phrase>අලි බබා මැණික් ගැරුවද ?නම් ටික දැනගත්ත එක ගොඩක් වටිනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමාටින්</author>
+            <date>2012-06-07 11:04:36</date>
+            <index>4</index>
+            <phrase>අලියෝ ...කොයි මැණකටද මේ කාර්යාලය....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-01-12 12:13:41</date>
+            <index>5</index>
+            <phrase>කොයි මැණිකත් පරිස්සමින්. ජාත්‍යන්තර හොරු බහුල කාලයක් මේක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

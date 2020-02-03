@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42630</articleId>
+    <title>බෝම්බකරු යළි රිමාන්ඞ්</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මැයි මස 16 18:38:52</date>
+    <body>මරාගෙන මැරෙන බෝම්බයකින 2006 දී හිටපු යුදහමුදාපති සරත් ෆොන්සේකා මරා දැමීමට තැත් කළැයි සැකපිට රිමාන්ඞ්  බාරයේ සිටි ෂන්මුගලිංගම්  සුරියකුමාර්  ලබන 30 වැනිදා තෙක් යළි රිමාන්ඞ් කරන ලෙස කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා නියෝග කෙළේය.
+හය වසරක් පුරා  රිමාන්ඞ් භාරයේ සිටින මේ සැකකරුට එරෙහිව ගත යුතු පියවර ගැන කිහිපවරක්ම නීතිපති උපදෙස්  ගෙන ඇතැයි රහස් පොලීසිය අධිකරණයට දැන්වීය.
+කොළඹ යුදහමුදා මුලස්ථානයේදී එල්ලවූ මේ ප‍්‍රහාරයෙන් ෆොන්සේකා බරපතල තුවාල ලැබීය. 11 දෙනෙක් මරුමුවට පත්වූහ.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-16 18:47:49</date>
+            <index>0</index>
+            <phrase>සර්පයන්ට කිරි පොවලා ඇති දැඩි කරන්නේ මක්කටැයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-16 21:04:26</date>
+            <index>1</index>
+            <phrase>වියදම් උනේ කාගේ සල්ලිද බොලේ.............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-16 21:34:38</date>
+            <index>2</index>
+            <phrase>දෙන්නම එක හිර ගෙදර ,ඔන්න එක්කෙනෙක්ට සාධාරණයක් කරන්න යනවා...........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.ඩී.</author>
+            <date>2012-05-17 03:00:01</date>
+            <index>3</index>
+            <phrase>අනේ.....පව්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනූෂි</author>
+            <date>2012-05-17 06:58:29</date>
+            <index>4</index>
+            <phrase>පුදුමයි නිදහස් නොකරන එක....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2012-05-17 09:37:10</date>
+            <index>5</index>
+            <phrase>නියමයි,එළ කිරි....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

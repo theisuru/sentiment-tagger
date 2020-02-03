@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41266</articleId>
+    <title>පන් ලක්ෂයක් සිරිපාදේ වඳිති</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 මැයි මස 08 17:12:59</date>
+    <body>හය මාසයක් පුරා පන් ලක්ෂයකට අධික වනාදනාකරුවන්ගේ පූජෝපහාරයෙන් පසු ශ්‍රී පාද අවාරය අද අරැඹීමත් සමග සමන් දේව ප්‍රතිමා, සධාතුක කරඬුව හා දේවාභරණ අද පස්වරු එක්ට යෙදුණු නැකතින් යළි පැල්මඩුල්ල ගල්පොත්තානවල රජමහා විහාරයට වැඩම කැරැවීම ඉපැරැණි චාරිත්‍රාණුකූලව සිදුවිය. හැටන් නල්ලතන්නිය ඔස්සේ පෙරහර ගමන් ආරම්භ කෙළේය. නල්ලතන්නිය බෞද්ධ මධ්‍යස්ථානයේ අද රෑ පරිත්‍රාණ ධර්ම
+දේශනය ශ්‍රී පාදස්ථානාධිපති පැල්මඩුල්ල රජමහාවිහාරාධිපති බෙංගමුවේ ධම්මදින්න හිමියන්ගේ ප්‍රධානත්වයෙන් පැවැත්වීමෙන් අනතුරුව පෙරහර බදාදා පැල්මඩුල්ලට ළඟාවීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2012-05-08 17:31:07</date>
+            <index>0</index>
+            <phrase>මුනිදු සිරිපා කරමු පිනිපා...........!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශා</author>
+            <date>2012-05-08 17:44:44</date>
+            <index>1</index>
+            <phrase>සාදූ...සාදූ...සාදූ....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර, ඉරාකයේ සිට</author>
+            <date>2012-05-08 18:43:05</date>
+            <index>2</index>
+            <phrase>අහන්නත් ආසයි, ලබන සැරේ අපිත් ලංකාවට ඇවිත් යනවා. සාදූ...සාදූ...සාදූ....!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-08 20:40:59</date>
+            <index>3</index>
+            <phrase>කරුණාවයි.... කරුණාවයි... සමන් දෙවිදු කරුණාවයි......!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-05-08 22:28:38</date>
+            <index>4</index>
+            <phrase>මුනිඳු සිරිපා වඳිමු සැමදා........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාලටි(මාලදිවයින)</author>
+            <date>2012-05-08 23:49:10</date>
+            <index>5</index>
+            <phrase>සාදු....සාදු.....සාදු....අපිත් වදිමු මුණි සිරිපා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-05-09 03:44:57</date>
+            <index>6</index>
+            <phrase>සාදු සාදු ලබන සැරේ අපිත් යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනොජ්</author>
+            <date>2012-05-09 08:56:50</date>
+            <index>7</index>
+            <phrase>සාදූ...සාදූ...සාදූ....! මුනිදු සිරිපා කරමු පිනිපා...........!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍සංජීව</author>
+            <date>2012-05-09 09:32:37</date>
+            <index>8</index>
+            <phrase>හා හා පුරා කියලා කෝඩු ගමනේ පන් ලක්ෂයෙන් එක්කෙනෙක් වීමට ලැබීම වාසනාවක් භාග්‍යයක්.. කරුණාවයි කරුණාවයි සමන් දෙවිදු කරුණාවයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දියසෙන් කුමාර</author>
+            <date>2012-05-09 11:30:53</date>
+            <index>9</index>
+            <phrase>අවාරෙට සමනොළ අඩවිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

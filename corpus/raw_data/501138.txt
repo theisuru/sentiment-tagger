@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>501138</articleId>
+    <title>ශ්‍රී ලාංකිකයකුට එතෙරදී ස්ත්‍රී දූෂණ චෝදනා</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2017 ජනවාරි මස 25 20:18:16</date>
+    <body>පැපුවා නිව්ගිනියාවට අයත් මානුස් දූපත් හි තරුණ කාන්තාවක් දූෂණය කළේ යැයි චෝදනා මත එම දූපත් සමූහයේ සරණාගත කඳවුරු රැඳවුම් භාරයේ සිටින ශ්‍රී ලාංකිකයෙකුට එරෙහිව නඩු පවරනු ලැබ ඇතැයි ‘‘ ද ගාඩියන් ’’ පුවත්පත වාර්තා කරයි. මෙලෙස චෝදනා ලැබ ඇත්තේ රජීව් රාජේන්ද්‍රන් නැමැති ලාංකික දෙමළ ජාතිකයෙකි.මොහු අතින් දූෂණයට ලක්වූවා යැයි පැවසෙන්නේ මානුස් දූපත් සමූහයේ වෙසෙන 18 හැවිරිදි තරුණියකි. සැකකාර ශ්‍රී ලාංකිකයා ඉකුත් 17 වැනිදා මානුස් දූපත් හි ලොරෙන්ගාව් ප‍්‍රදේශයේදී අදාළ කාන්තාව මුණ ගැසී ඇය සමඟ මිතුරු වී  තිබේ. පසුව ඇයව හෝටලයක් වෙත රැගෙන ගොස් ඇයට පහර දී දූෂණය කර ඇත. </body>
+    <comments>
+        <comment>
+            <author>මෝහමෙඩ් ෆාරුක්</author>
+            <date>2017-01-25 19:08:27</date>
+            <index>0</index>
+            <phrase>ශ්‍රී ලාංකික දක්ෂතා විදෙස් රටවලත් ප්‍රචලිත කිරීමක්. අප ලාංකිකයන් බහුතරයක් ස්ත්‍රී දුෂණ වලට බොහෝ දක්ෂයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2017-01-25 22:25:42</date>
+            <index>1</index>
+            <phrase>ආ! ඔය තියලා තියෙන්නේ ලංකාවේ නම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-26 01:35:38</date>
+            <index>2</index>
+            <phrase>සරණාගත කඳවුරු රැඳවුම් භාරයේ සිටින අයට තියෙන සීමිත නිදහසවත් පාවිච්චි කරන්න දන්නේ නැති අය හිරකරලාමයි තියන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2017-01-26 02:54:23</date>
+            <index>3</index>
+            <phrase>මේ ඔක්කොම හොරෙන් රට පනින්න හදපු අය. ඇහුවොත් කියන්නේ ඊළාම් රාජ්‍යයෙන් කියලා. වැරදි වැඩ කළොත් කියන්නේ ලංකාවේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-26 02:57:16</date>
+            <index>4</index>
+            <phrase>ඉන්නේ කොයි රටේද කියන එකයි, දැන් යුද්ධය ඉවරයි කියන එකයි අමතක වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2017-01-26 03:07:08</date>
+            <index>5</index>
+            <phrase>ලංකාවේ කිසිවෙකුටත් පිටරට සරණාගත කඳවුරු වලට යන්න ඕනෑකමක් නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2017-01-26 04:55:22</date>
+            <index>6</index>
+            <phrase>හොටෙල් එකට අරන් ගියේ කොහොමද දන්නේ නැහැ. හොටෙල් එකට යන්නේ බත් කන්න කියලද ඒ ළමයා හිතලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගාර</author>
+            <date>2017-01-26 05:11:46</date>
+            <index>7</index>
+            <phrase>අපේ හමුදාවට ස්ත්‍රී දුශකයො කියල අපහාස කරපු අය ඕනෙ තරම් හිටිය,අද සෑබෑ ස්ත්‍රී දූශකයො ඔප්පු කරපු අවස්ථා ගොඩක් තිබෙනව.කෑලේ මාරු වුනාට පුල්ලි මාරු වෙන්නෙ නෑහෑලුනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2017-01-26 06:37:48</date>
+            <index>8</index>
+            <phrase>මූව අහුවෙලා සරණාගත කඳවුරේ ඉඳලත් මෙහෙමනම් පනින්න ගිය රටට රිංගාගත්තානම් කොහොම හිටීවිද? හොඳ වේලාවට ඕස්ට්‍රේලියාවල ගැණූ ටික බේරුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2017-01-26 07:30:44</date>
+            <index>9</index>
+            <phrase>අපිට හමුදාවෙන් ගැහුවා කියලා බොරු කියලා සරණාගත විසා ගන්න බලන කට්ටිය ගැන අපි දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිවර්ධන</author>
+            <date>2017-01-26 07:38:25</date>
+            <index>10</index>
+            <phrase>අනෙකුත් සියලු දේවල වලදී තමාගේ වර්ගය පෙරට දමා ශ්‍රී ලංකන් කියන අය මේ වගේ දේවලදීත් එයම කර කුමන වර්ගයේදැයි පැහැදිලිව කියන්න. එසේ නැත්නම් මුළු ලංකාවේම ඉන්නේ මෙවැනි අය යැයි වැරදි වැටහීම් ඇති වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිමල්</author>
+            <date>2017-01-26 08:51:24</date>
+            <index>11</index>
+            <phrase>මේ සරණාගත ලේබල් ගහගත් බහුතරයක් ලංකාව ගැන බොරු කියලා රජයේ දීමනා අරගෙන බාර් ගානේ බිලා ඇවිදිනවා. සමහරු කිසිම රැකියාවක් කරන්නේ නැහැ. තමන්ගේ ලේසියට. ඉතින් අන්තිමට මෙහෙම නොහොබිනා වැඩ කරලා මෙහෙ ඉන්න අනෙකුත් ලංකාවෙන් ආ මිනිසුන්ගෙත් පටිරෝල් කරනවා. මොවුන්ගේ වැඩ නිසා තමයි අනෙක් මිනිසුන්ටත් පාරේ බැහැලා යන්න බැරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝනාර</author>
+            <date>2017-01-26 15:55:55</date>
+            <index>12</index>
+            <phrase>අපේ අය කොතැන ගියත් නම තියලනේ් එන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

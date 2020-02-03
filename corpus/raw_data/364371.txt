@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>364371</articleId>
+    <title>සනිධප සංගිතයෙන් සිසිලිය සිසිල් වේ</title>
+    <author>සජීක ජයසිංහ</author>
+    <date>2015 නොවැම්බර් මස 26 14:36:44</date>
+    <body>ඉතාලියේ සිසිලි දුපතේ කතානියා නගරයේ ශ‍්‍රී ලාංකිකයන් වෙනුවෙන් සංගීත රාත‍්‍රියක් කුස් කම්පොහීදි පැවැත්විණි. ශ‍්‍රී ලංකාවේ සනිධප සංගිත කණ්ඩායම සංගීතවත් කළ මෙම ප‍්‍රසංගයට ජනප‍්‍රිය ගායක චාමර වීරසිංහ ද සහභාගි විය. සනිධප සංගීත කණ්ඩායමේ යුරෝපා සංචාරයේ අවසන් ප‍්‍රසංගය ද මෙය වේ.</body>
+    <comments>
+        <comment>
+            <author>දිනේෂ් ප්‍රනාන්දු</author>
+            <date>2015-11-26 17:58:30</date>
+            <index>0</index>
+            <phrase>ගින්දර ශෝව් එක මමත් සින්දු කිව්ව මගේ බෑන්ඩ් එකේ මල්ලි කෙනෙක් ඩ්‍රම්ස් ගැහුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොඩ්ඩා</author>
+            <date>2015-11-26 20:08:09</date>
+            <index>1</index>
+            <phrase>අවසන් ප්‍රසංගය ලස්සනට කලා. ඔයාටත් ගොඩක් ස්තුතියි සජීක ජයසිංහ අයියේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකලංක</author>
+            <date>2015-11-26 20:09:54</date>
+            <index>2</index>
+            <phrase>ලස්සනට වැඩේ කෙරුනා මාර්කෝ පොඩ්ඩා ස්තුතියි ඔයාට සහ ලංකාදීප ඔයාලටත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2015-11-26 20:57:44</date>
+            <index>3</index>
+            <phrase>සිසිලියේ ශ්‍රී ලාංකිකයන් යනු ලොව සන්තෝෂයෙන්ම ඉන්නා ජන කොටසයි. කවුරුත් එහි ගිහින් බලන්න. ආපසු එන්න හිතෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

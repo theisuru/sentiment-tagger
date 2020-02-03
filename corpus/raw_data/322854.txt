@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>322854</articleId>
+    <title>ප්‍රසිද්ධ තැන්වල දුම් බීම තහනම්ලු</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2015 ජූනි මස 07 11:36:18</date>
+    <body>ලෝක දුම්වැටි නිවාරන දිනය මැයි 31 වැනි දාට යෙදී තිබූ අතර මේ ගෙවී යන්නේ දුම්වැටි නිවාරණ සතියයි.
+මෙරට නීතියේ රන් දෙවොල යැයි සැලකෙන අලුත්කඩේ උපරිමාධිකරණ සංකීර්ණය ඉදිරිපස දොරටුව අභියස දී නීතිය වඩා හොඳින් උගත් නීතීඥ මහතකු උම්වැටියක් උරන අයුරු ලංකාදීප කැමරාවේ සටහන් විය.
+ප්‍රසිද්ධ ස්ථානවල දුම්පානය තහනම් කිරීමෙන් පසු එම නීතිය කැඩූ සෑහෙන පිරිසකට උසාවියෙන් දඩ ගසා ඇත.</body>
+    <comments>
+        <comment>
+            <author>තිලක්</author>
+            <date>2015-06-07 06:56:00</date>
+            <index>0</index>
+            <phrase>ඔක්කොම නීති පුංචි මිනිස්සුන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදුන්</author>
+            <date>2015-06-07 07:13:43</date>
+            <index>1</index>
+            <phrase>නීතියට ගිය කලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චනිල්</author>
+            <date>2015-06-07 07:44:28</date>
+            <index>2</index>
+            <phrase>මම උඩ ඉන්න දෙයියන්ට කියන්නේ මේ පින්තුර ටික ජනාධිපති තුමාගේම ඇස් දෙකට පෙන්වන්න කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉඳුනිල් විජේරත්න</author>
+            <date>2015-06-07 08:57:18</date>
+            <index>3</index>
+            <phrase>මේ අය හදන නීති මේ රටේ වලංගු වෙන්නේ නැහැ. මොකද ඔක්කොම ඉන්නේ තමුන් ගැන විතරක් බලා ගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2015-06-07 09:01:47</date>
+            <index>4</index>
+            <phrase>මට අර සිංදුව මතක් උනා. මහ කකුළුවෝ පොඩි එවුන්ට කෙලින් යන්න කියලා දෙනවා. උන් ඔක්කොම හරහට යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2015-06-09 07:14:33</date>
+            <index>5</index>
+            <phrase>ආ! එයාලා එහෙම කළාට ප්‍රශ්නයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2015-06-09 07:13:34</date>
+            <index>6</index>
+            <phrase>මෙයාලාට මේ රටේ නීතිය වලංගු වන්නේ නැතුව ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

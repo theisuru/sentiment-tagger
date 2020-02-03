@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508173</articleId>
+    <title>දේශීය සහල් මිල නගිද්දී රට හාල් අඩු මිලට</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2017 පෙබරවාරි මස 17 21:53:55</date>
+    <body>දේශීය සහ ආනයනික සම්බා, නාඩු සහ කැකුලු සහල් සඳහා වෙන වෙනම උපරිම සිල්ලර මිලක් නියම කරමින් පාරිභෝගික සේවා අධිකාරිය අද මධ්‍යම රාත්‍රියේ අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කිරීමට නියමිතය.
+දේශීය සම්බා කිලෝවක් සඳහා රුපියල් 90ක ද, නාඩු සහල් කිලෝවක් සඳහා රුපියල් 80ක ද, කැකුළු සහල් කිලෝවක් සඳහා රුපියල් 78 ක ද උපරිම සිල්ලර මිලක් නියම කිරීමට නියමිතය.
+ආනයනික සම්බා සහල් කිලෝවක් සදහා රුපියල් 80 ද, නාඩු කිලෝවක් සඳහා රුපියල් 72 ක් ද, ආනයනික කැකුළු සහල් කිලෝවක් සඳහා රුපියල් 70 ක් ද උපරිම මිලක් නියම කෙරෙනු ඇත. </body>
+    <comments>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-17 19:12:38</date>
+            <index>0</index>
+            <phrase>මට නම් සිකුරටම එකක් කිවහැකියි. විදේශීය සහල් දේශීය සහල් සමඟ කලවම් කර දේශීය නමින් වෙළඳ පොළට එවයි. සහල් මාෆියාව එතරම් දරුණුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-02-17 21:39:24</date>
+            <index>1</index>
+            <phrase>ආනයනික සහල් ඇතිවෙන්න ගන්න තියෙනවා නම්, දේශීය සහල් වැඩිමිලට දීගන්න වෙළෙන්දන්ට ලේසි වෙන එකක් නැහැ. හැබැයි, සතොසයි, සමුපකාරෙයි පෞද්ගලික වෙළඳුන්ට හොඳ තරඟයක් දෙන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2017-02-17 23:45:50</date>
+            <index>2</index>
+            <phrase>දැන් ඔය දෙක අපි වෙන වෙනම හොයන්නේ කොහොමද? විදේශීය ඒවත් දේශීය කියලා විකුණයි අපේ කට්ටිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2017-02-18 01:30:16</date>
+            <index>3</index>
+            <phrase>දැන් වෙළඳපොළේ දේශීය කියලා පොළොන්නරුවෙන් එන්නේ සේරම විදේශීය සහල් කියලා කවුරුත් දන්නවා. මුලික හේතුව ආනයනය කළේ පොළොන්නරුවේ හාල් මාෆියාකාරයෝම නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2017-02-18 04:05:53</date>
+            <index>4</index>
+            <phrase>හාල් වලට පාලන මිල දෙකක් දාලා අවසානෙට රට හාලුත් දේශීය මිලටම දීලා අහිංසක මිනිසුන් අමාරුවේ දායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2017-02-18 04:11:04</date>
+            <index>5</index>
+            <phrase>රටේ කෘෂිකර්මාන්තයේ ඵලදායිතාවය සහල් නිෂ්පාදන මිලෙන් සොයන්න පුළුවන්. ඵලදායිතාවය වැඩි නිසා කවදාවත් අපට සහල් අපනයනය කරන්න නම් වෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2017-02-18 04:58:35</date>
+            <index>6</index>
+            <phrase>අපි මේ දෙකම ගනියි වැඩි මිලට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2017-02-18 05:43:06</date>
+            <index>7</index>
+            <phrase>මිනිසුන්ගේ බත්පතට මේ දේවල් කරන අයට නම් කිසිදාක හොඳක් වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2017-02-18 06:33:54</date>
+            <index>8</index>
+            <phrase>කොහොමත් ලංකාවේ නිපදවනවට වඩා රටින් ගෙන්වන හාල් ලාබයි. මොකද ලංකාවේ තවමත් වී වගාව නව තාක්ෂණයෙන් පිහිට ගන්නෙ අඩුවෙන්. හැබැයි වස විස නැති පැරණි හාල් වලට ඒ කියන්නේ කුරුළු තුඩ, ඇල්හාල්, සුවඳැල්, කළු හීනටි වගේ ඒවාට නම් හොඳ වෙළෙඳපොලක් තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2017-02-18 08:27:47</date>
+            <index>9</index>
+            <phrase>විදේශීය ගොවියා ලාබයකුත් තියාගෙන හාල් විකුණලා, විදේශීය හාල් ඒජන්ත හරහා නැව් කුලී ගෙවලා ලංකාවට එවලා, දේශීය ඒජන්ත රේගු ගාස්තු ගෙවලා, ඒවා ලාබයක් තියාගෙන ප්‍රවාහනය කරලා තොග වෙළෙන්ඳන්ට විකුණලා, තොග වෙළෙන්දා තවත් ලාබයක් තියාගෙන වෙළෙඳ සිල්ලර කඩේට දීලා කඩකාරයත් ලාබයක් තියාගෙන සම්බා කිලෝව අපිට රු 80 ට දෙනවා නම් මොකටද ලංකාවේ ගොවියා මෙච්චර මැරීගෙන උද්ඝෝෂණය කරගෙන, වහ බීගෙන, ආධාර ලබාගෙන, අන්තිමට විකුණගන්න බැරුව වී වගාකරන්නෙ? වෙන මොනවාහරි වගාවක් කළා නම් හොඳයිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුලෝචන</author>
+            <date>2017-02-18 09:39:21</date>
+            <index>10</index>
+            <phrase>ඔය හාල් වල වෙනස දැනගන්නේ කෑවට පස්සෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙක්ටර්</author>
+            <date>2017-02-18 14:48:54</date>
+            <index>11</index>
+            <phrase>ලෝකල් බදු ගණන්, රට බඩු ලාබයි. හැම හාල් ඇටයකම ලෝකල්ද ඉම්පෝටඩ්ද කියලා මුද්‍රණය කළයුතුයි. එහෙම නැතුව තෝරාගන්න අමාරුයි. මුදලාලිලා රට බඩු ලෝකල් කියලා ගාන කපනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් රාජපක්ෂ</author>
+            <date>2017-02-18 20:55:52</date>
+            <index>12</index>
+            <phrase>අනේ පැරකුම්බා රජතුමා අද හිටියා නම් කෘෂිකර්මාන්තයට වෙලා තියන ශෝචනීය තත්වය දැකලා සියදිවි හානි කරගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2017-02-19 01:50:23</date>
+            <index>13</index>
+            <phrase>කොහොමද මේ දෙක වෙන්කරලා හඳුනාගන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරච්චිගේ</author>
+            <date>2017-02-19 06:27:28</date>
+            <index>14</index>
+            <phrase>අඩු මිලට ලැබෙනවා නම් ඕනෑ ජරාවක් කයි අපේ අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

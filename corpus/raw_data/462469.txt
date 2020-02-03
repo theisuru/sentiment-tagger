@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>462469</articleId>
+    <title>අම්බලන්ගොඩ ඝාතනයේ සුලමුල හෙළිවෙයි</title>
+    <author>දීපාල්ද සිල්වා හේමන්තද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 29 08:18:04</date>
+    <body>මාසයකට පමණ පෙර අම්බලන්ගොඩදී ධනවත් ව්‍යාපාරිකයන් දෙදෙනෙකු වෙඩි තබා මරාදැමූ බව කියන සැකකරුවන් දෙදෙනකු අත්අඩංගුවට ගත්බව අම්බලන්ගොඩ පොලිසිය කියයි.
+එක් අයෙකු ගාලු කොටුවේදී අත්අඩංගුවට ගෙන ඇති අතර  ඝාතනයට යොදාගත් ටී 56 ගිනි අවියද සොයාගත් බව පොලිසිය කියයි.
+
+
+වීඩියෝ - දීපාල් සිල්වා</body>
+    <comments>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-09-29 03:01:50</date>
+            <index>0</index>
+            <phrase>අපේ රටේ පොලිසියත් හරි දක්ෂයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-09-29 03:32:07</date>
+            <index>1</index>
+            <phrase>මොනවා කියනවද අනිකුත් රටවල පොලෝසි වලට සාපෙක්සවකව , අපරාදයක් කරලා බේරෙනවා බොරු අපේ පොලෝසි එක්ක දේශපාලකයෝ අත නොදැම්මොත් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත පතිරණ</author>
+            <date>2016-09-29 05:51:49</date>
+            <index>2</index>
+            <phrase>දැන් නීතිය ස්වාධීනයි. ඔව්, අපිට වෙනස සැපයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2016-09-29 07:09:55</date>
+            <index>3</index>
+            <phrase>අපේ පොලිසියට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් අභයරත්න</author>
+            <date>2016-09-29 07:14:49</date>
+            <index>4</index>
+            <phrase>අපේ පොලිසිය හරි දක්ෂයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංගොඩ ලාල්</author>
+            <date>2016-09-29 07:42:40</date>
+            <index>5</index>
+            <phrase>දේශපාලකයෝ ඇඟිලි ගහන්නේ නැත්නම් අපේ පොලිසිය ඉතාම දක්ෂයි. වෙනත් රටවල් හා සංසන්දනය කරලා බලනකොට ඔවුන්ට තියෙන්නේ සීමිත පහසුකම් සහ සීමිත තාක්ෂණයක් වුණත් අපරාධකරුවන් හඳුනාගෙන ඔවුන් කොටුකර ගැනීමේදී ශ්‍රී ලංකා පොලිසිය ඉතාම හොඳ තැනක ඉන්න බව කිවයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-09-29 08:58:11</date>
+            <index>6</index>
+            <phrase>මේ දකුණේ ඉන්න සිංහල හරක් අතොරක් නැතිව තමන්ගේ සිංහල අයවම මරල දානවා ඔවුන්වම නසා ගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

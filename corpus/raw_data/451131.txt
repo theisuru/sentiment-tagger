@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451131</articleId>
+    <title>බණ්ඩිරිප්පුව වැවේ මළ සිරුරක්</title>
+    <author>චන්දන ප්‍රනාන්දු</author>
+    <date>2016 අගෝස්තු මස 26 12:10:42</date>
+    <body>බණ්ඩිරිප්පුව වැවේ පාවෙමින් තිබු පිරිමි මළ සිරුරක් අද ^26&amp; උදැසන සොයාගත් බව වෙන්නප්පුව පොලිසිය පවසයි                                                   
+වයස අවුරුදු 30 ත් 40 ත් අතර වයසක පෙනුමක් මළ සිරුරෙන් දිස්වන බවත් ලේ ගලා ගිය තුවාලයක් අතක ඇති බවත් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ප්‍රියන්ත</author>
+            <date>2016-08-26 07:04:44</date>
+            <index>0</index>
+            <phrase>යහපාලනයේ දොරට වැඩුම. දවසින් දවස ඝාතන රැල්ල. මාත් යහපාලනයට කඩේ ගියා ඡන්දෙ දුන්නා. දැන්නම් තිත්ත වෙලා. ගෝඨාභය මහතාගේ අගේ දැන් තේරෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-08-26 07:10:43</date>
+            <index>1</index>
+            <phrase>දැන් සුදු වෑන් නෑනේ. ඒ වෙනුවට දැන් පාවෙන සහ තැනින් තැන දමා ගිය මළසිරුරු ද දන්නේ නෑ දකින්න තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-26 07:21:26</date>
+            <index>2</index>
+            <phrase>ආයිත් රට පුරා මළ සිරුරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-08-26 08:23:59</date>
+            <index>3</index>
+            <phrase>ලාල් මහතා ඇත්ත ඇති විදියට දකින්නත් වැරැද්ද කවුරු කළත් එරෙහි වෙන්නත් කොන්දක් තියාගන්න පුරුදු වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු පැරිස්</author>
+            <date>2016-08-26 09:03:08</date>
+            <index>4</index>
+            <phrase>පරණ සංස්කෘතින් ටික ටික එලි දැක්වෙමින් ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-08-26 09:25:56</date>
+            <index>5</index>
+            <phrase>රටකට ඕනැ අපමණ අගයක්..එකට ඕනේ මෛත්‍රී යුගයක්..මට හීනෙන් වගේ මතකයි ඔය වගේ දෙයක් එක කාලෙකදී එකමත් එක රටකදී කට්ටියක් කියනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-08-26 12:54:05</date>
+            <index>6</index>
+            <phrase>දේශපාලන පළිගැනීම් කරන්න තරම් පහුගිය සමයේ වෙන්නප්පුව ප්‍රදේශයේ භීෂණයක් තිබුනේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-08-26 14:06:46</date>
+            <index>7</index>
+            <phrase>නීතිය දිනෙන් දිනම අගාධයට යන බව නම් පැහැදිලිවම පෙනෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

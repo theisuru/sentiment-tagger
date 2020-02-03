@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56653</articleId>
+    <title>මැණික් ගඟේ දිය කපයි</title>
+    <author>කේඩී දේවප්‍රිය  /එම්කේ නන්දසේන</author>
+    <date>2012 අගෝස්තු මස 02 10:47:17</date>
+    <body>මැණික් ගඟේ ජිව මාලී තොටුපොළේ දිය කැපීමෙන් ඓතිහාසික රුහුණු කතරගම දේවාලයේ ඇසළ උළෙල අද (2) අවසන් විය. දිය කැපීම බැලීමට දසදහසක් පමණ ගඟට බැස සිටියහ. දිය කැපූ සැනින් ශුද්ධ ජලය රැගත් වන්දනාකරුවෝ ගම්බම් බලා යන්නට වූහ.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-02 11:19:09</date>
+            <index>0</index>
+            <phrase>දකුණේ අපරාධකරුවන්වත් මෙහෙම දෙයක් හරි කරලා යහමගට ගන්න පුළුවන් නම් කොච්චර හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2012-08-02 11:39:17</date>
+            <index>1</index>
+            <phrase>බොරු වැඩක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-02 11:43:20</date>
+            <index>2</index>
+            <phrase>ඇයි මේ රාළහාමිලා වතුරේ බැහැලා ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-08-02 11:59:50</date>
+            <index>3</index>
+            <phrase>වැස්ස වළාහක දෙවියනි, දැන්වත් දිවැස් හෙළනු මැන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-02 12:01:43</date>
+            <index>4</index>
+            <phrase>කොයිතරම් ලස්සනද? කතරගම දෙවි පිහිටයි සියල්ලන්ටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-02 12:07:31</date>
+            <index>5</index>
+            <phrase>නාන්න නාන්න ඔය රාළහාමිලවත් නාවන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කතරගම ප්‍රියලත්</author>
+            <date>2012-08-02 12:40:54</date>
+            <index>6</index>
+            <phrase>සැමට කද සුරිදු පිහිටයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශණ</author>
+            <date>2012-08-02 13:02:50</date>
+            <index>7</index>
+            <phrase>විශිෂ්ඨයි!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-02 15:07:58</date>
+            <index>8</index>
+            <phrase>ගැට කපන්නනුත් මේ අතර ඉන්න බැරි නැහැ. බැතිමතුන් ප්‍රවේශම් ‍වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉක්‍රම්</author>
+            <date>2012-08-02 15:44:20</date>
+            <index>9</index>
+            <phrase>අද සිටවත් සැබෑ මනුෂ්‍ය ජීවිතයක් ගත කරන්න සාදු සාදු සාදු...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2012-08-03 10:15:43</date>
+            <index>10</index>
+            <phrase>හිතලා මතලා පවු කරන අය, පවු බේරා ගන්න කැළණි පන්සල් ගියාට වැඩක් නැහැ. දෙවියන්, බුදුන් බලන්නෙත් ස්වභාවිකව ජීවත් වෙන අයට ස්වභාවිකව කරදරයක් වුණොත් පමණයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>57087</articleId>
+    <title>ත‍්‍රීමලේ කඩයක් ගිනිගනී</title>
+    <author>අමදෝරු අමරජීව</author>
+    <date>2012 අගෝස්තු මස 05 17:45:23</date>
+    <body>ත‍්‍රීකුණාමල නගරයේ රසායන ද්‍රව්‍ය වෙළෙඳ සලක ගින්නක් නිවාදැමීමට ගත් උත්සාහයේ දී අසල නිවාස හා කඩ කිහිපයක වහළට ද අලාභ හානි සිදුවිය.
+තෙමහල් ගොඩනැගිල්ල ගින්න නිවීමට නායික හා ගුවන් හමුදා ගිනිනිවන ඒකකය පොලිසිය හා නගර සභාවද පැය තුනක සටනක් කළේය.</body>
+    <comments>
+        <comment>
+            <author>ඇරිස්</author>
+            <date>2012-08-05 19:30:19</date>
+            <index>0</index>
+            <phrase>මින් ඉදිරියට රක්ෂණය අනිවාර්යය කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-08-05 19:54:59</date>
+            <index>1</index>
+            <phrase>ජීවිත හානි නැති එකත් ලොකු දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-08-06 08:21:16</date>
+            <index>2</index>
+            <phrase>සුදු ලෝගුවක් දාලා ඉන්නේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-08-06 09:47:06</date>
+            <index>3</index>
+            <phrase>විජය, පෙනෙන විදියට නම් කලු පටියක් තියෙනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-07 12:07:59</date>
+            <index>4</index>
+            <phrase>හැබැයි ජූලි මාසය නම් ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

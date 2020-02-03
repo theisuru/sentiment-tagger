@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>290604</articleId>
+    <title>ආර්ථික අමාත්‍යංශ සැප රියක් මදුරන්කුලියේ</title>
+    <author>හිරාන් ප්‍රියංකරඡායාරූප රොවන් පෙරේරා</author>
+    <date>2015 ජනවාරි මස 16 13:12:14</date>
+    <body>වයඹ පළාත් සභා හිටපු මන්ත්‍රී මදුරන්කුලිය ප්‍රාදේශීය සභා මන්ත්‍රීවරයකුගේ නිවසේ තිබූ පෙජරෝ  රියක් අද මූන්දලම පොලිසියට රැගෙන ගිය බව දැනගන්නට ඇත. එම රථය ආර්ථික කටයුතු අමාත්‍යංශයට අයත් බවට තොරතුරු ලැබී තිබිණි.
+
+ 
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>බටගල</author>
+            <date>2015-01-16 05:01:31</date>
+            <index>0</index>
+            <phrase>ආර්ථික කටයුතු වලට අනාගතයේ යන කලදසාව අපි නම් කලින්ම දැනගත්තා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල</author>
+            <date>2015-01-16 05:28:16</date>
+            <index>1</index>
+            <phrase>අනේ ඇත්තට මෙහෙමත් වැඩ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සල්ගාදු ප්‍රංශය</author>
+            <date>2015-01-16 07:19:40</date>
+            <index>2</index>
+            <phrase>රජයේ අමාත්‍යංශ වල වාහනත් ප්‍රාදේශීය සභා ලොක්කෝ ගාව. ආසියාවේ ඓස්චර්ය කිව්වේ ඕක තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2015-01-16 08:07:59</date>
+            <index>3</index>
+            <phrase>මේ හාදයන්ට මග හලලා යන්න තරම් වාහන තිබිලා. එ්කට අපිට හවසට වැඩ ඇරිලා ගෙදර යන්න බස් නැතිව පැය ගණන් රස්තියාදු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් බී අඹන්වල</author>
+            <date>2015-01-17 11:31:57</date>
+            <index>4</index>
+            <phrase>අමාතයංශවල වාහනවල සියලුම වාහන විස්තර ඒ ඒ ආයතනවල ප්‍රවාහන නිලධාරීන් සතුව තිබෙනවා. ඉක්මනින්ම නැවත ලබා ගැනීම හා ඒ පිලිබඳ විස්තර කටයුතුකරන අංශ වෙත යොමුකිරීම ඔවුන්ගේ රාජකාරියේ කොටසක් බවද අමතක නොකල යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2015-01-19 07:16:22</date>
+            <index>5</index>
+            <phrase>මුන්ට රජකාලේ දඬුවම් දීපල්ලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

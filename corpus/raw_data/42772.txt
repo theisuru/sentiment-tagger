@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42772</articleId>
+    <title>ඕස්ටේ‍්‍රලියා රස්සා දෙන්න ගිහින් රිමාන්ඞ්.</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 මැයි මස 17 19:04:34</date>
+    <body>ඕස්ටේ‍්‍රලියාවේ රැුකියා දෙන බව කියා පෞද්ගලික ආයතනයක විධායකයන් සිව් දෙනකුගෙන් රුපියල් ලක්‍ෂ 15ක් පමණ වංචා කලැයි කියා තලවතුගොඩ අස්වින් රාජකරුණා නැමැත්තෙක් කොළඹ කොටුව මහේස්ත‍්‍රාත් කණිෂ්ක විජේරත්න මහතා විසින් ලබන  23 වැනිදා තෙක් රිමාන්ඞ් කරනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2012-05-17 19:19:18</date>
+            <index>0</index>
+            <phrase>ඔය වංචාකාරයින්ට විතරක් නෙමෙයි හොරා මාර්ගයෙන් රට යන්න හදපු අයටත් දඩුවම් කරන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2012-05-17 19:21:24</date>
+            <index>1</index>
+            <phrase>ඕවත් වැඩද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-17 21:52:39</date>
+            <index>2</index>
+            <phrase>ලක්ෂ 15ක් අතේ තියෙනවානමි ලංකාවේ ජීවත්වෙන්න බැරිද? පිටරටවල ගොහින් කානු හෝදනවට වඩා දාපල්ලකො බලන්න පොඩි පෙටිටි කඩයක්. හමිබුකොරන්න බැරිද බලන්න.බෑ බෑ බෑ බෑ බැරි එකාට බෑ තමයි. රට ඊනීයාව කියන්නේ මේවාට තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-18 03:46:02</date>
+            <index>3</index>
+            <phrase>රිමාන්ඩි කියන්නේ සිතූ පැතූ සම්පත් දෙන සුර පුරයක් නිසා මිනිස්සු දැන් ඒකට යන්න ආසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-05-18 04:35:18</date>
+            <index>4</index>
+            <phrase>ව්‍යවස්ථාදායකෙත් ඕවට අහු වෙද්දී විධායකය ගැන මොන කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත් මංජුල, ඉතාලි සිට</author>
+            <date>2012-05-18 13:23:51</date>
+            <index>5</index>
+            <phrase>අලි බබෝ දැන් ලංකාවේ තියන තත්වෙ හැටියට පෙට්ටි කඩයක් දාල පෙට්ටියකුයි, ලණුවකුයි ළඟ තියාගන්න වෙනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2012-05-18 16:16:58</date>
+            <index>6</index>
+            <phrase>ලංකාවේ අවුරුදු දහයට වඩා පලපුරුද්ද ඇති දොස්‌තරලා මෙහේ හැම තැනම ඉන්නවා. ලංකාවේ වෛද්‍යවරු තව ටික කලකින් ලංකවේ හොයන්න බැරි වෙයි මේ යන විදියට. හුගක්‌ අය පීජී කරන්න කියලා තමයි ඇවිත් ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත-germany</author>
+            <date>2012-05-18 16:25:17</date>
+            <index>7</index>
+            <phrase>අලි බබෝ, ලක්ෂ 15 කියන්නේ කීප දෙනෙක් දුන්න ඒවාවල එකතුව.දඩුවම් දෙන්න ඕනේ ඉහළින්ම මින්ස්සුන්ව රවට්ටන්න හදනවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

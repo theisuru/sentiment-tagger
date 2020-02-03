@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>463682</articleId>
+    <title>හොරොව්පතානේ මී ගවයන් 70ක් සොරා ගෙන</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 ඔක්තෝබර් මස 02 19:15:04</date>
+    <body>හොරොව්පොතාන වාගොල්ලාකඩ ගව හිමියෙකුගේ මි ගවයන් 70 දෙනකු කිසියම්   පිරිසක් සොරා ගෙන ගොස් ඇති බව හොරොව්පොතාන පොසිය කියයි.
+මෙම ගව හිමියා විසින් තණ කැම සදහා මෙම මි ගවයන් වාගොල්ලාකඩ වැව් පිටියට මුදාහැරි අවස්ථාවේදි කණ්ඩායමක් පැමිණ ගවයන් රොටවැව ප්‍රදේශයට දක්කා ගෙන ගොස් ඇති බව  පොලිසිය වෙත තොරතුරු ලැබි තිබේ.
+සොරාගත් මි ගවයන් අතර ගැබ්බර මි දෙනුන් විසි දෙකක්,කිරි ලබාගන්නා මි දෙනුන් සහ කුඩා පැටවුන්ද සිටින බව පොලිසිය කියයි.
+සොරාගත් මෙම මි ගවයන්ගේ වටිනාකම රුපියල් ලක්ෂ හැත්තැවක් පමන වෙතැයි ගව හිමියා විසින් කළ පැමිණිල්ලේ සදහන්වේ.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-10-02 14:55:21</date>
+            <index>0</index>
+            <phrase>70ක්? මෙතරම් සංඛ්‍යාවක් දාගෙන ඉගිලුනාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-10-02 22:45:16</date>
+            <index>1</index>
+            <phrase>වහාම සියලුම ලොරි රථ සමඟ බර වාහන පරික්ෂා කළයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකුන්තලා</author>
+            <date>2016-10-03 02:43:26</date>
+            <index>2</index>
+            <phrase>තව ටික දිනකින් ගෝන මස් ලෙස මෙම අහිංසක සතුන්ගේ මස් අළෙවිවීමේ හැකියාව වැඩියි. කැලෑවල ෆොටෝ ගන්න යන, කැලයට අධික ලෙස පෙම් බඳින අය මෙලෙස මී හරක් මස් දඩ මස් (ගෝන මස්) ලෙස කනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රියාල්</author>
+            <date>2016-10-03 02:55:52</date>
+            <index>3</index>
+            <phrase>හරක් ටික ගෙනියනකන් මෙයා නිදාගෙනද හිටියේ. අනේ පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-10-03 02:58:13</date>
+            <index>4</index>
+            <phrase>පොළොන්නරුවේ අර හෝටලේට තොග පිටින් ගෝන මස් සපයන්නේ ඔය ක්‍රමයට වෙන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2016-10-03 06:07:12</date>
+            <index>5</index>
+            <phrase>දැන් එතකොට කිරි ගොවියා දුප්පත් කියන්නේ කොහොමද ? එයාගේ වත්කම ලක්ෂ 70ක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2016-10-03 06:18:33</date>
+            <index>6</index>
+            <phrase>වෙන්න ඕනේ හරිය වෙලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-10-03 07:10:48</date>
+            <index>7</index>
+            <phrase>අනේ මේ මනුස්සයාගේ මුළු සේසතම නේද මේ හොරු ගෙනිහින් තියෙන්නේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40923</articleId>
+    <title>මහයියාවේ බැල්කනියක් කඩාවැටේ</title>
+    <author>ඉන්දික සෙනෙවිරත්න</author>
+    <date>2012 මැයි මස 06 16:41:45</date>
+    <body>මහනුවර මහයියාවේ කෝවිල අසල බැල්කනියක් කඩා වැටී ඇතැයි ප‍්‍රදේශවාසීහු කියති. ගිලන් රිය විස්සක් පමණ ඒ දෙසට ගිය බව කියති.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-06 18:50:20</date>
+            <index>0</index>
+            <phrase>ලොකු විපත්තියක් වෙලා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බාලා</author>
+            <date>2012-05-07 11:54:07</date>
+            <index>1</index>
+            <phrase>ඒ තරමටම බරපතලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බාලා</author>
+            <date>2012-05-07 11:55:04</date>
+            <index>2</index>
+            <phrase>ඒතරම් බරපතලද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

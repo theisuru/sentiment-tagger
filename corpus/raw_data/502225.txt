@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502225</articleId>
+    <title>රුසියානු කාන්තාවකට හදි කළ දෙදෙනකු අත්අඩංගුවට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 ජනවාරි මස 29 09:53:08</date>
+    <body>ගල්කිස්ස මුුහුදේ දිය නාමින් සිටි රුසියන් ජාතික කාන්තාවක් දූෂණය කළැයි කියන ඇමැති ආරක්ෂක අංශයේ රියැදුරකු ඇතුළු දෙදෙනකු අත් අඩංගුවට ගත් බව පොලිසිය කියයි. සිද්ධියට මුහුණ දුන් එම කාන්තාව වෙරළාරක්ෂක අංශයට පැමිණිලි කිරීමෙන් පසු සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත. </body>
+    <comments>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-01-29 05:53:17</date>
+            <index>0</index>
+            <phrase>මොන කැත වැඩේ කළත් එ් මනුස්සයා දේශපාලුවෙකුට සම්බන්ධයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙලනි</author>
+            <date>2017-01-29 06:16:09</date>
+            <index>1</index>
+            <phrase>දැන් ඉතින් සමහර ශුද්ධවන්තයන් කියාවි නාන ඇඳුමින් සැරසිලා අර අහිංසක පිරිමියාව අවුස්සපු කාන්තාව හිරේට යවන්න කියලා. කරුණාකර මේ සැකකරුගේ චෝදනා ඔප්පු වුණොත් අදාළ ඇමතිතුමා කවුද කියලාත් ප්‍රසිද්ධ කරන්න. ස්ත්‍රී දුෂකයන් ළඟ තබාගෙන රාජකාරි කරන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2017-01-29 06:16:46</date>
+            <index>2</index>
+            <phrase>කාන්තාවකටවත් ඉන්න බැරි රටක් වෙලා මේක දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2017-01-29 07:05:01</date>
+            <index>3</index>
+            <phrase>ස්වභාව ධර්මයෙන්ම දඬුවම් ලැබියන් දෙවියනේ! නීතිය ක්‍රියාත්මක වෙනකන් හිටියොත් හැරමිටියෙන් තමයි අර කාන්තාවට උසාවි එන්න වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2017-01-29 07:20:05</date>
+            <index>4</index>
+            <phrase>ඉතින් කොහොමද සංචාරක කර්මාන්තය දියුණුවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-29 07:43:08</date>
+            <index>5</index>
+            <phrase>ගෝලයෝ ඉදිරිපත්වෙලා මහ ලොකු වීරකමක්නේ කරලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆ්‍රෑන්ක්</author>
+            <date>2017-01-29 09:48:34</date>
+            <index>6</index>
+            <phrase>මෙවැනි දේවල් සිදුවීම වහාම නතර නොකළොත් තව ඉස්සරහට විදේශිකයින් පැමිණෙන රඟ බලාගන්නත් පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුලෝචන</author>
+            <date>2017-01-29 11:30:40</date>
+            <index>7</index>
+            <phrase>දැන් රට යන හැටියට අපේ ශ්‍රේෂ්ඨ පුරවැසියන්ගෙන් වෙන මොනවා බලාපොරොත්තු වෙන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල් මාපලගම</author>
+            <date>2017-01-29 14:17:44</date>
+            <index>8</index>
+            <phrase>මේ වගේ තිරිසනුන් නිසා ලංකාවට එන සංචාරකයන් අඩුවනවා පමණක් නොව රටට ලැබෙන විදේශ විනිමය පවා නොලැබී යනවා. මෙම කතුන් තම රටට ගියාම පවසන්නේ ලංකාව සංචාරකයන්ට ඔබිනා රටක් නොව ලංකාවේ ඉන්නේ තිරිසන් කාමාතුරයන් කියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2017-01-29 16:48:23</date>
+            <index>9</index>
+            <phrase>වැටයි නියරයි ගොයම් කාලාද? නමුත් අවනඩුවක් නම් විභාගවෙන බව පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2017-01-29 22:49:51</date>
+            <index>10</index>
+            <phrase>කවුද එතකොට මේ අදාළ ඇමති?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

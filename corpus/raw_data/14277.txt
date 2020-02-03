@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14277</articleId>
+    <title>මිහින්තලේ සිසුහු ගහ ගනිති</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 නොවැම්බර් මස 23 16:57:38</date>
+    <body>මිහින්තලේ මහා විදුහලේ පන්ති දෙකක සිසුන් අතර ඇති වූ ගැටුමකින් තුවාල ලත් සිවු දෙනෙක් රෝහල්ගත කරනු ලැබූහ. සිවු දෙනෙක් සැකපිට අත්අඩංගුවට ගනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2011-11-24 12:32:49</date>
+            <index>0</index>
+            <phrase>මෙයාලා ගාවත් අයවැය තිබුණද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂ්</author>
+            <date>2011-11-24 14:12:22</date>
+            <index>1</index>
+            <phrase>කැම්පස් යන්න දැන්මම පුරුදු වෙනවද කොහෙද..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

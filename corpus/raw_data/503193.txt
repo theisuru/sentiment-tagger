@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>503193</articleId>
+    <title>මුහුණු පොතට කවි ලියූ ගුරුවරයා ගැන විමසයි</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2017 ජනවාරි මස 31 18:34:51</date>
+    <body>විනෝදාංශයක් ලෙස කවි ලියා තම ෆේස්බුක් පිටුවේ පළ කරන කුලියාපිටිය මධ්‍ය මහා විද්‍යාලයයේ තරුණ ගුරුවරයකුට ( 29) එරෙහිව විමර්ශනයක් අරඹා ඇතැයි අධ්‍යාපන අමාත්‍යංශ ආරංචි මාර්ග කියයි.
+පාසල් පරිපාලනය විවේචනය වන ආකාරයේ කවි ලියනා බවට සහ ඒවා සිය ෆේස්බුක් පිටුවේ පළ කරන බවට ලද පැමිණිල්ලක් අනුව එම විමර්ශනය ආරම්භ කර තිබෙන බව ද අධ්‍යාපන අමාත්‍යංශයේ ආරංචි මාර්ග පවසයි.</body>
+    <comments>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-01-31 16:38:07</date>
+            <index>0</index>
+            <phrase>අනේ මන්දා ප්‍රශ්න නැතුවට ප්‍රශ්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේකර</author>
+            <date>2017-01-31 16:48:09</date>
+            <index>1</index>
+            <phrase>එතකොට භාෂණයේ සහ ලේඛනයේ නිදහස කෝ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-31 18:28:59</date>
+            <index>2</index>
+            <phrase>කවි වල එළිසමය වැරදියි කියලද ව්‍යාකරණ වැරදියි කියලද දන්නේ නැහැ පරීක්ෂණය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විශ්ව</author>
+            <date>2017-01-31 23:10:10</date>
+            <index>3</index>
+            <phrase>කෝ භාෂණයේ නිදහස.....?? අදහස් ප්‍රකාශ කිරීමේ නිදහස......?? ජීවත්වීමේ නිදහස...???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2017-01-31 23:36:24</date>
+            <index>4</index>
+            <phrase>මේ බොරු නවතා හොරු අල්ලනු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-02-01 00:04:00</date>
+            <index>5</index>
+            <phrase>බලාගෙන ගියාම ට්‍රම්ප් තව හොඳයිනේ? ට්‍රම්පට 70 යි. මෙයාට 67 යි. වැඩි වෙනසක් බලාපොරොත්තු වෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2017-02-01 02:11:33</date>
+            <index>6</index>
+            <phrase>පරිපාලනය විවේචනය කරන්න දැන් මේ රටේ නිදහසක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල සිරිසේන</author>
+            <date>2017-02-01 02:30:27</date>
+            <index>7</index>
+            <phrase>කවි වල අනුප්‍රාසය හෝ එලි සමය තියා හතර පදේ ගැට ගහ ගන්න බැරි වියත්තු තමයි ඔය කවි ගැන විමර්ශනය කරන්නේ. හැමදේම විමර්ශනය කිරීම නම් ඒ තරම් හොඳ දෙයක් නෙවේ. විමර්ශනය කළයුතු දේ හෝ නොකළ යුතු දේ වටහා ගෙන විමර්ශන කළොත් හොඳයි. නැත්නම් ඕවා ජනතාව ගණන් නොගෙන ඉඳීවි.පස්සේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් ලියනගේ</author>
+            <date>2017-02-01 02:41:37</date>
+            <index>8</index>
+            <phrase>යහ පාලනය නිසා මේවට මොනවත් කියලත් බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-02-01 02:42:29</date>
+            <index>9</index>
+            <phrase>එක හොඳයි දැන්ම මුන්ගේ කටවල් වහැවුවේ නැතිනම් ඇමති තුමාගේ තරුණ කාලේ පැටිකිරියත් මුණු පොතට දාන්න ඉඩ තියෙනවා කවියෙන්ම ලියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-01 03:42:50</date>
+            <index>10</index>
+            <phrase>මොන එහෙකටද අනුන්ගේ මුහුණු පොත් බලන්න යන්නේ. ඔහොම වුනොත් පත්තරේකටවත් මොකුත් ලියන්න බැරිව යනවා. කෙනෙකුගේ අදහස් තව කෙනෙක් ඇගට ගන්න හොද නැහැ නම ගම නැත් නම්. හරියට වැඩ කරනවානම් ඒකම ඇති. තොප්පි දා ගත්තට කරන්න දෙයක් නැහැ. ඔය ගිය විදිහට ගියොත් ගජමන් නෝනටත් විරුද්ධව කටයුතු කරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2017-02-01 03:44:19</date>
+            <index>11</index>
+            <phrase>වෙනස මාරයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා පෙරේරා</author>
+            <date>2017-02-01 05:22:07</date>
+            <index>12</index>
+            <phrase>රාජ්‍ය සේවය විවේචනය කරන්න සේවකයින්ට බැහැ...ඒක ආයතන සංග්‍රහයේ පැහැදිලිව තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජි</author>
+            <date>2017-02-01 05:46:26</date>
+            <index>13</index>
+            <phrase>මේකත් අන්තිමට අර රාවණාගේ දුන්න කැඩුවෙ කවුද කියල පාසල් පරීක්ෂක ළමයින්ගෙන් අහල අධ්‍යාපන අමාත්‍යංශයෙන් වැඩිදුර පරීක්ෂණ සදහා දුන්නේ කෑලි ටික එවන්න කිව්වා වගේ වැඩක් වෙයි ද දන්නේ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ් -රියාද්</author>
+            <date>2017-02-01 07:01:38</date>
+            <index>14</index>
+            <phrase>රටේ ජනපතිවරයා සහ අගමැතිවරයා විවේචනය කරන්න පුලුවන්නම්, මේක මොකක්ද ...? සමහරවිට, ඔය කියන ගුරුවරයාට තියෙන තරම්වත් හැකියාවක් අධ්‍යාපනේ මහා පුටුවල ඉන්න උන්ටවත් නැති නිසා කොක්ක දානවා වෙන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා - කුලියාපිටිය</author>
+            <date>2017-02-01 08:48:10</date>
+            <index>15</index>
+            <phrase>ගුරුවරු ළමයින්ට ආදර්ශයක් වෙන විදියට කටයුතු කළ යුතුයි.ළමයි ගුරුවරුන්ව දෙවියන් විදියට දකින්නේ.තමන්ගේ රැකියාව ම හෙළා දකින කොට ගෝලයෝ අනාගතයේදී මොනවා කරයිද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-02-01 08:49:49</date>
+            <index>16</index>
+            <phrase>හරිනම් ඔහුට සම්මානයක් දෙන්ඩ වටිනවා. මේ කාලෙ කවි නෙවෙයි රචනාවක් වත් ගලපගන්ඩ බැරි උගත්තු තමා වැඩිපුර ඉන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-02-01 09:22:36</date>
+            <index>17</index>
+            <phrase>හුසේන් මොහමඩ්-රියාද්, ලංකා පෙරේරාගේ සටහන බලන්න. මහජනයාට පුළුවන් ජනාධිපතිව වුනත් විවේචනය කරන්න. නමුත් රජයේ සේවකයන්ට රජය විවේචනය කරන්න තහනම්. (වෘත්තීය සමිතිවලට එක්තරා නිදහසක් තියෙනවා). ඔබ වැඩකරන තැන හාම්පුතාව හෝ සමාගම විවේචනය කරන්න ඔබට පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

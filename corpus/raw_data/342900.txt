@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>342900</articleId>
+    <title>සුපිරි මගේ අනතුරින් දොස්තරට තුවාල</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ  ජනත් ද සිල්වා</author>
+    <date>2015 අගෝස්තු මස 25 08:39:26</date>
+    <body>දක්ෂිණ අධිවේගී මාර්ගයේ ගැලණිගමදී මෝටර් රථයක් ආරක්ෂක වැටද කඩාගෙන පාරෙන් ඉවතට පැන ඇතැයි පොලීසිය කියයි. කරාපිටිය රෝහලේ වෛද්‍යවරයෙක් අනතුරින් තුවාල ලබා රෝහල් ගත කර ඇත. 
+මෙම මාර්ගයේ තැන, තැන වතුර වලවල් තිබීමත් පාරේ අඳුර වැඩිවීමත් අනතුරු බහුල වෙතැයි රියදුරෝ කියති.
+
+ 
+
+ඡායාරූප හා වීඩියෝ - බිමල් ශ්‍යාමන් ජයසිංහ</body>
+    <comments>
+        <comment>
+            <author>ගයානාත්</author>
+            <date>2015-08-25 03:49:04</date>
+            <index>0</index>
+            <phrase>පාරට දොස් කියනවට වඩා පරිස්සමින් පදවනවා නම් අනතුරු අඩුවෙනවා. මමත් නිතර මේ පාරේ යනවා. තද වැස්සේත් යනවා. හැබැයි එහෙම අනතුරක් තවම වෙලා නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-08-25 04:23:59</date>
+            <index>1</index>
+            <phrase>නිතරම රියදුරන් විමසිල්ලෙන් රිය පැදවීම අනතුරු අවම කරගැනීමට පිටුවහලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදුර</author>
+            <date>2015-08-25 04:24:14</date>
+            <index>2</index>
+            <phrase>නටන්න බැරි වුනාම පොළොව ඇදයි කියනවා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2015-08-25 04:35:30</date>
+            <index>3</index>
+            <phrase>නව රජය එකලසක් වෙලා නැවත නඩත්තු කටයුතු පිළිවෙලක් වෙනතුරු ඔයවගේ අනතුරු සිදුවේවි. එතෙක් ජීවිතය බේරාගෙන රිය පදවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කනිශ‍්ක</author>
+            <date>2015-08-25 04:49:04</date>
+            <index>4</index>
+            <phrase>නටන්න බැරි අයට පොලොව ඇදයිලු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

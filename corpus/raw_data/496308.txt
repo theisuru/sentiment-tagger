@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>496308</articleId>
+    <title>ඉන්දීය ධීවරයෝ 10 ක් ඩෙල්ෆ් මුහුදේදී කොටුවෙති</title>
+    <author>රොමේෂ් මධූෂංඛ</author>
+    <date>2017 ජනවාරි මස 05 13:19:21</date>
+    <body>නීතිවිරෝධී ලෙස මසුන් අල්ලමින් සිටි බව කියන ඉන්දීය ධීවරයින් 10 දෙනෙකු යාපනය ඩෙල්ෆ් මුහුදේදී නාවික හමුදාවේ සහාය ඇතිව අත්අඩංගුවට ගත් බව වෙරළාරක්ෂක අධිකාරිය කියයි.
+ධීවර යාත්‍රා දෙකක්ද අත්අඩංගුවට ගෙන ඇති අතර පරික්ෂණ සඳහා ඔවුන් යාපනයේ ධීවර පරික්ෂක කාර්යාලය වෙත භාර දී ඇත.  </body>
+    <comments>
+        <comment>
+            <author>කුසල්</author>
+            <date>2017-01-05 08:31:27</date>
+            <index>0</index>
+            <phrase>ඔය ඔක්කොටම හෙට අනිද්දා එන ඉන්දියානු නිදහස් දිනයට ගෙදර....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිර්මාල්</author>
+            <date>2017-01-05 11:22:43</date>
+            <index>1</index>
+            <phrase>දිනෙන් දින මේ ප්‍රශ්නය උග්‍ර වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508713</articleId>
+    <title>උතුරු මැද - නැගෙනහිර වෛද්‍යවරු බ්‍රහස්පතින්දා වරුවක් වර්ජනයක</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2017 පෙබරවාරි මස 21 17:46:23</date>
+    <body>සයිටම් පෞද්ගලික වෛද්‍ය විද්‍යාලයට විරෝධය දැක්වීම සඳහා උතුරු මැද සහ නැගෙනහිර පළාත්හි රජයේ රෝහල්වල වෛද්‍යවරු බ්‍රහස්පතින්දා (23) පෙරවරු 8 සිට දහවල් 12 දක්වා වැඩ වර්ජනයක නිරත වන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රීති</author>
+            <date>2017-02-21 12:47:23</date>
+            <index>0</index>
+            <phrase>අපෝ ඕක මොකක්ද? අපි දන්නා විදිහට ලංකාවේ දොස්තරලා හවස් වරුවේ හැමදාම ස්ට්‍රයික්නේ. ඔය මෝඩ ලෙඩ්ඩු කෑ ගැහුවට ගණන් ගන්න එපා අපි සුපුරුදු විදිහට හවසට චැනල් සෙන්ටර් එකේදී හමුවෙමු!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාඩා</author>
+            <date>2017-02-21 13:05:11</date>
+            <index>1</index>
+            <phrase>මේ වගේ කුහක වර්ජන වලට මුහුණ දියහැකි ලී කුවාන් යූ වගේ නායකයෙක් අවශ්‍යයි දැන්. පෞද්ගලික වෛද්‍ය විද්‍යාල තවතවත් ඇතිකළ යුතුමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීල්</author>
+            <date>2017-02-22 02:20:13</date>
+            <index>2</index>
+            <phrase>සයිටම් දොස්තරලා නිසා රෝගීන් අමාරුවේ වැටෙනවාලු. නමුත් මේ අය නිසා අමාරුවේ වැටෙන්නේ කාවද දන්නේ නැහැ. පවු නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-02-22 02:29:40</date>
+            <index>3</index>
+            <phrase>සයිටම් ආයතනය වසනවා නම් ලක්ෂ 120 වියදම් කර පිටරට ගොස් වෛද්‍යවරු වීමට රජය පහසුකම් සළස්වන්න. එයාලත් මෙරටේ ළමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2017-02-22 04:10:17</date>
+            <index>4</index>
+            <phrase>නිදහස් අධ්‍යාපනය ලබපු දොස්තරලට පුද්ගලික දිස්පෙන්සරි පවත්වාගෙන යාම තහනම් කළ යුතුයි . ඉස්පිරිතාලේ ලෙඩ්ඩු මැරෙනවා , රෝහල්වල බෙහෙත් අරගෙන ගිහින් පුද්ගලික ලෙඩුන්ට බෙහෙත් කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2017-02-22 06:12:14</date>
+            <index>5</index>
+            <phrase>දවල්ට නෙමෙයි රෑට වර්ජනය කරන්න, අර සල්ලි අරන් බේත් දෙන වෙලාවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-22 07:55:41</date>
+            <index>6</index>
+            <phrase>උතුරුමැද සහ නැගෙනහිර පීඨ වල ඔය කියන ප්‍රමිතිය තියෙනවද ? නැගෙනහිර සිසුන් අනෙක් සරසවි වලට යන්න ඕනේ කියල උද්ගෝෂණය කළා නේද ගිය අවුරුද්දේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

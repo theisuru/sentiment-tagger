@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>170322</articleId>
+    <title>රිටිගල ගොයම් රැඟුම්</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 සැප්තැම්බර් මස 20 09:40:49</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2013-09-21 17:31:35</date>
+            <index>0</index>
+            <phrase>මේ නැටුම නම් රිටිගල අය වෙන්න බෑ, කොළඹින් ගිහින් ගොයම් නැටුම් නටනවා වගේ. ඇඳුමත් අරාජික වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

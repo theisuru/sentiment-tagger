@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33685</articleId>
+    <title>පුංචි එංගලන්තෙ තැපැල් හලේ නිවාඩු නිකේතනයක්</title>
+    <author>ෂෙල්ටන් හෙට්ටිආරච්චි</author>
+    <date>2012 මාර්තු මස 27 14:25:06</date>
+    <body>නුවරඑළියේ ප‍්‍රධාන සළකුණක් සේ සැලැකෙන වසර 116ක් පැරැණි තැපැල් හලේ ඉහළ මාලය ලබන මාසයේ සිට ප‍්‍රභූ සංචාරක නිවාඩු නිකේතනයක් කිරීමට යයි. ශ්‍රී ලංකාවේ දර්ශනියම තැපැල් හල මෙයයි. එහි ඉපැරැණි ඔරලෝසුව දැන් කැඩී ඇත.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-03-27 14:34:40</date>
+            <index>0</index>
+            <phrase>වටිනා තැන් ඇයි ඇත්තට විනාශ කරන තීරණ ගන්නේ,ලංකාවේ ප්‍රභු යනු මොලය අඩු කොටසකින් සැදුම් ලත් කණ්ඩායමක්‌ නේ.අනේ මේවා සංර්ක්‍ෂණය කර රැක ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-03-27 14:42:49</date>
+            <index>1</index>
+            <phrase>ඒකත් කන්නයි යන්නේ. කෟතුකාගාරයෙන් බඩු හොකරන් කරපු අයගේ ....... මේක වෙනස් කකරලා නිවාඩු නිකේතනයක් කරපු අයගෙයි වෙනස මොකක්ද ? දවල් හොරු සහ ? රෑ හොරු ........ එහෙම නේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාංචන</author>
+            <date>2012-03-27 14:55:42</date>
+            <index>2</index>
+            <phrase>හොදයි හැබැයි ඉතින් අවුරුදු 116 ක් පරණයි නුවර එළියට වස්තුවක්. බදු ගොඩනැගිල්ලට මෙයින් කිසිම හානියක් සිදු නොවෙනු ඇතැයි සිතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක කොට්ටාව</author>
+            <date>2012-03-27 15:13:01</date>
+            <index>3</index>
+            <phrase>ඒකත් ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලසන්ත පෙරේරා</author>
+            <date>2012-03-27 17:05:15</date>
+            <index>4</index>
+            <phrase>ප්‍රභූ පන්තියට විතරද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

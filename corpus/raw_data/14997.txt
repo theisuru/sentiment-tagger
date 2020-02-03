@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14997</articleId>
+    <title>කෝටි 35ක් වන්දි ලැබේ</title>
+    <author>දුෂ්‍යන්ත සමරසේන</author>
+    <date>2011 නොවැම්බර් මස 28 18:58:15</date>
+    <body>ඕස්ට්‍රේලියාවේ පර්ත් ඉංජිනියරින් සමාගමට වසර 30ක් සඳහා පැවැරුණු ඇඹිලිපිටිය කඩදසි කම්හලෙන්  ඉවත් කළ සේවිකයන් 170 දෙනකු වෙනුවෙන් රුපියල් කෝටි 35ක් වන්දි ලබන බදාදා (30) ගෙවන බව රාජ්‍ය සම්පත් හා ව්‍යවසාය සංවර්ධන ඇමැති දයාශ්‍රීත තිසේරා මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>Dumingu</author>
+            <date>2011-11-29 09:24:24</date>
+            <index>0</index>
+            <phrase>මේක රජය කරන ලොකු පින්කමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2011-11-29 11:28:54</date>
+            <index>1</index>
+            <phrase>කෝටි 60කට විකුණල, කෝටි 35 ක් වන්දි ගෙනාවා. විකිණීමෙන් ලද ආදායම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

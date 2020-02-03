@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44652</articleId>
+    <title>ලොව ධනවත්ම කාන්තාව  ඕස්ටේ‍්‍රලියාවේ</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  කැන්බරා නුවරදීය</author>
+    <date>2012 මැයි මස 25 11:31:51</date>
+    <body>ලෝකයේ ධනවත්ම කාන්තාව  ඕස්ටේ‍්‍රලියාවේ යපස් පතල් හිමිකාරියක වන ජීනා රයින්හාට් බව ‘බිස්නස් රිවීව් වීක්ලි’ සඟරාව පළ කළ දර්ශකයකින් හෙලි වී ඇත.
+මේ අනුව ලෝකයේ ධනවත්ම කාන්තාව ලෙස නම් දරා සිටි කි‍්‍රස්ටි වොල්ටන් අභිබවා යෑමට රයින්හාට්ට හැකියාව ලැබී තිබේ. 58 හැවිරිදි රයින්හාට් සතු වත්කම ඇමෙරිකන් ඩොලර් බිලියන 28.48 කි.</body>
+    <comments>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2012-05-26 14:07:31</date>
+            <index>0</index>
+            <phrase>මැරි කරන්න බැරි වෙයිද දන්නේ නෑ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-05-31 13:10:11</date>
+            <index>1</index>
+            <phrase>මේක එදිනෙදා ජීවිතයට ඉතා වැදගත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

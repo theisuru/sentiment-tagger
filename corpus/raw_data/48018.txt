@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48018</articleId>
+    <title>සුරාබදු නියාමක විහින් වළ කපාගනී</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 ජූනි මස 13 18:02:09</date>
+    <body>ගංජා තොගයක් ළඟ තබාගත් පුද්ගලයකු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් නොකර සිටීම සඳහා රුපියල් 50000ක අල්ලසක් ලබාගත් බව කියන සුරාබදු නියාමක රුවන් ඉන්ද්‍රජිත් කොළඹ ප‍්‍රධාන මහේස්ත‍්‍රාත් රශ්මි සිංගප්පුලි මහතා විසින් ලබන 26 වැනිදා තෙක් රිමාන්ඞ් කරනු ලැබීය.
+පෑලියගොඩ ව්‍යාපාරිකයකු අල්ලස් කොමිසමට කළ පැමිණිල්ලක් අනුව ඞී.ආර්. විජයවර්ධන මාවතේ සුරාබදු දෙපාර්තමේන්තුව ඉදිරිපිටදී සැකකරු අත්අඩංගුවට ගෙන තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>සන්ජු-hong kong</author>
+            <date>2012-06-13 21:52:25</date>
+            <index>0</index>
+            <phrase>ඔය වගේ මිනිස්සු රාජ්‍ය සේවයෙන් එළවන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-13 23:01:42</date>
+            <index>1</index>
+            <phrase>වැරදි කරුවන්හට දඩුවම් ලබා දීමට සිටින පුද්ගලයින් ආදර්ශමත් නොවීමේ ඵල විපාක මින් මනාව පැහැදිලිවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-14 07:21:26</date>
+            <index>2</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ 2012-06-13 23:01:42 වැරදි කරුවන්හට දඩුවම් ලබා දීමට සිටින පුද්ගලයින් ආදර්ශමත් නොවීමේ ඵල විපාක මින් මනාව පැහැදිලිවේ. විලිලැජ්ජා නැතුව තාමත් ආචාර්යතුමා එල්ලිලා ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-06-14 09:46:06</date>
+            <index>3</index>
+            <phrase>ඕවා මොනවද?කුඩු අල්ලපු ලොක්කව ගෙදර යවලා කුඩු මුදලාලිව තියා ගත්ත රටක් මේක.යකඩ ගෝනියටත් ගුල්ලෝ ගැහුවනම් කවර කතාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රීනා</author>
+            <date>2012-06-14 12:30:27</date>
+            <index>4</index>
+            <phrase>තෝර මාලු කෑවානම් දුක් විදපිය බළලෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ති</author>
+            <date>2012-06-14 13:52:38</date>
+            <index>5</index>
+            <phrase>‍තෝරමාළු කෑවනම් විදවපං බළලෝ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-14 16:52:03</date>
+            <index>6</index>
+            <phrase>"ප්‍රීනා 2012-06-14 12:30:27 තෝර මාලු කෑවානම් දුක් විදපිය බළලෝ ප්‍රියන්ති 2012-06-14 13:52:38 ‍තෝරමාළු කෑවනම් විදවපං බළලෝ.." අපිනම් අහලා තියෙන්නේ "කුණුකරවල කෑවානම්" කියලා. කෝරමාලු කන්න තියෙයි නම් මොන සැපද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

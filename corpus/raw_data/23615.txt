@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23615</articleId>
+    <title>කැලණි සරසවියෙත් විරෝධතා</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2012 ජනවාරි මස 25 16:56:20</date>
+    <body>කැලණි සරසවි පාලනය අත්තනෝමතික යැයි කියමින් එහි මහා ශිෂ්‍ය සංගමය අද උද්ඝෝෂණයක් කෙළේය. පන්ති තහනමට ලක් කළ සිසුන් 4 දෙනකුගේ දඬුවම් ඉවත් කරන්නැයි ඔවුහු කියති.</body>
+    <comments>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2012-01-26 09:30:01</date>
+            <index>0</index>
+            <phrase>මේක දැන් විලාසිතාවක් වෙලා. අනේ අපේ හාමුදුරුවනේ මෙහෙම ගිහින් කවද නිවන් මගට යන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2012-01-26 11:01:16</date>
+            <index>1</index>
+            <phrase>මෙහෙම ගියොත් සරසවි සිසුන්ට ඉගෙනීම අවසන් කර උපාධිය ලබාගන්න වසර 10 ක් වත් යයි. සරසවි සිසුන්ගෙ කාර්යය පරිපාලනය වෙනස් කිරීම නෙවෙයි ඉගෙනීමයි. සරසවි සිසුන් මෙය සිතට ගත්තොත් ඔවුන්ගෙ අනාගතය සර්වප්‍රකාරයෙන්ම සාර්ථක වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර සෞදිඅරාබි</author>
+            <date>2012-01-26 16:00:04</date>
+            <index>2</index>
+            <phrase>මේගොල්ලන්ට මොලේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

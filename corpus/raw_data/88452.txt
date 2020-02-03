@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>88452</articleId>
+    <title>පැය අටෙන් කිලෝමීටර 2200ක් යයි</title>
+    <author>කෝවිද ගුණසේකර චමින්ද මඩවල</author>
+    <date>2012 දෙසැම්බර් මස 27 11:48:57</date>
+    <body>ලොව දිගම අධිවේගී දුම්රිය මාර්ගය පසුගියදා චීනයේදී විවෘත විය.
+චීනයේ බීජිං හා ගුඇන්සු නගර යා කරන මේ නව දුම්රිය මාර්ගය කිලෝමීටර 2298 ක් පුරා විහිදේ. සාමාන්‍ය දුම්රියකින් පැය 20 ක් පමණ ගතවන මේ ගමනට අධිවේගී දුම්රියේ පිහිටෙන් දැන් ගතවන්නේ පැය 8 ක් පමණි.
+නව දුම්රිය මාර්යේ ධාවනයට යොදවා ඇති දුම්රිය විදුලි බලයෙන් ජව ගැන්වේ. පැයට කිලෝමීටර 300 ක උපරිම වේගයකින් ගමන් කිරීමේ හැකියාවද ඇත.චීනයේ දුම්රිය ප්‍රධාන ප්‍රවාහන මාධ්‍යයක් වන අතර දැනට කිලෝමීටර 9300 කට ආසන්න දුරක් පුරා දිවෙන දුම්රිය මාර්ග පද්ධතියක් එහි ඇත.</body>
+    <comments>
+        <comment>
+            <author>ජා ඇල සුසන්ත</author>
+            <date>2012-12-27 14:10:06</date>
+            <index>0</index>
+            <phrase>ලංකාවටත් මේ වගේ දුම්රිය ‍සේවයක් ගේන්නකෝ... අපට ඉක්මනට ගෙදර යන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2012-12-27 14:42:27</date>
+            <index>1</index>
+            <phrase>ලංකාවේ නම් ඕවාට සින්දුවක් හදලා තමා දුම්රිය පටන් ගන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුනරු</author>
+            <date>2012-12-27 18:45:11</date>
+            <index>2</index>
+            <phrase>මේ තරම් දේවල් ලංකාවට එපා.. දැං තියෙන දුම්රිය ටික වෙලාවට යාගන්න වෙලාවට එනවානම් හොදටම ඇති..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-28 03:39:58</date>
+            <index>3</index>
+            <phrase>මෙම තීරුවට ලියන සමහරු චීනුන් ගැන හරිහැටි නොදැන, බටහිරයන්ට විතරක් හැම දෙයම පුලුවන් යැයි සිතන අයයි. එවන් අයට මෙය හොද ආදර්ශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-28 04:06:03</date>
+            <index>4</index>
+            <phrase>අපේ ඇමතිවරු චීනයට ගොස් ඇණවුම් කරන්නෙත් හද්දා පරණ මොඩලයේ එන්ජින් සහ මැදිරියි. චීනා අපේ ඇණවුමටයි නිපදවන්නේ.  එමනිසා තමයි මෙතරම් සැහැල්ලු මැදිරි තිබියදී ටොන් ගණන් බර මැදිරි ලංකාවට ආවේ. ඒ මැදිරි  එකක් හදන මුදල් වලින්  මැදිරි දෙකක් (සැහැල්ලු) හැදිය හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-12-28 05:49:42</date>
+            <index>5</index>
+            <phrase>මේක පැය 8න් යන්න නම් පැයට කිලෝමීටර් 300ක වේගයකින් යන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2012-12-28 12:31:31</date>
+            <index>6</index>
+            <phrase>හරිම ලස්සනයි, දකින්නත් ආසයි.ඒත් අධික වේගය තමයි බය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-12-29 07:28:18</date>
+            <index>7</index>
+            <phrase>අපේ රටෙත් දුම්රිය ක්ෂේත්‍රයේ යම් දියුණුවක් වේවායි පතනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාන්</author>
+            <date>2012-12-30 17:50:00</date>
+            <index>8</index>
+            <phrase>නියම කෝච්චියක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

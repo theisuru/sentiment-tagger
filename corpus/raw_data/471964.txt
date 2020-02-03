@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>471964</articleId>
+    <title>‘රාජ්‍ය ආයතන විකුණනු එපා‘</title>
+    <author>ලහිරු හර්ෂණ</author>
+    <date>2016 ඔක්තෝබර් මස 24 12:16:42</date>
+    <body>රාජ්‍ය ආයතන විකිණීම වහා නවත්වන ලෙස රජයට බලකරමින් ජාතික භික්ෂු පෙරමුණ අද (24) කොළඹ කොටුව බෝධිය ඉදිරිපිට දී විරෝධතා පෙත්සමක් අත්සන් කිරීම ඇරඹිණි.</body>
+    <comments>
+        <comment>
+            <author>තිවංක</author>
+            <date>2016-10-24 08:20:28</date>
+            <index>0</index>
+            <phrase>මේක හරි මෝඩ වැඩක්. පාඩු ලබන කාර්යක්ෂමතාවයෙන් අඩු ආයතන රජය යටතේ තියාගෙන සිටීමෙන් පලක් නැහැ. එකේ බර අන්තිමේ මහජනතාවටමයි පැටවෙන්නේ. විකුනන්න පුළුවන් ඒවා විකුනන්න ඕනේ. නැත්තන් කෙටි කාලයකට හරි පුද්ගලික අංශයේ කළමනාකාරිත්වයකට යටත් කරන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-10-24 08:35:13</date>
+            <index>1</index>
+            <phrase>මහජනතාවට බරක්වෙලා අධික පාඩු ලබන ආයතන ටික මේ හාමුදුරුවන්ට බාර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2016-10-24 09:15:56</date>
+            <index>2</index>
+            <phrase>කිසිම සේවයක් නැති , ආචාර ධර්ම දන්නේ නැති පාඩු ලබන ආණ්ඩුවේ ආයතන වලට බැණ බැණ මේ මිනිස්සු පෙත්සම් වලට අත්සන් කරනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-10-24 11:29:01</date>
+            <index>3</index>
+            <phrase>සෞඛ්‍ය සේවය, වාරිමාර්ග, ජලසම්පාදන, විදුලිය, අධ්‍යාපනය සපයන රාජ්‍ය ආයතන විකිණුවට පස්සේ තේරෙයි ඔය ඒකට සහයෝගය දෙන අයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2016-10-24 12:45:04</date>
+            <index>4</index>
+            <phrase>අපේ හාමුදුරුවනේ, විකුණන්න එපා කියලා නෙමෙයි මේවා කරන්න ඕනෑ, හොරාකන්න එපා කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

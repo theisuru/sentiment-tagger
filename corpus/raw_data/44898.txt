@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44898</articleId>
+    <title>පාදෝවා අවුරුදු උළෙල ඉරිදා</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 මැයි මස 26 14:19:17</date>
+    <body>පාදෝවා ශ්‍රී ලංකා සංවිධානය මෙහෙය වන අවුරුදු  උත්සවය ඉරිදා (27) පාදෝවා බ්‍රෙන්ටෙල්ලේ ක්‍රිඩාංගනයේ දී පැවැත්වීමට නියමිතය. පසුගිය අප්‍රේල් 27 වැනි දා මෙම උත්සවය පැවැත්වීමට සූදානම් කැර තිබුණත් සාමාජිකයකුගේ අභාවය නිසා කල් දැමීමට සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-26 17:58:29</date>
+            <index>0</index>
+            <phrase>පාදෝවා නගරයේ ශුද්ධවරඔබා. පුදමු මේ ගී ගයා.. මුදුනේ මල්තබා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-26 20:45:59</date>
+            <index>1</index>
+            <phrase>සල්ලි තියනවා නම් හැමදාම අවුරුදු තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනනන්ද</author>
+            <date>2012-05-27 03:26:33</date>
+            <index>2</index>
+            <phrase>මොකද්ද අනේ පාදෝවා කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

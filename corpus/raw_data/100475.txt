@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>100475</articleId>
+    <title>වෙදයි සෙබළයි මාළු වෙළෙන්දයි රිමාන්ඩ්</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2013 මාර්තු මස 01 14:28:05</date>
+    <body>උතුරු මැද ආයුර්වේද කොමසාරිස් කුමාර අල්විස් මහතාට ඇසිඩ් ගැසීයැයි සැකපිට ආයුර්වේද වෛද්‍ය සුසිර කුමාර වික්‍රමසිංහ,  හමුදා සෙබළ නුවන් කුමාර හා මාළු වෙළෙන්ඳකු වන ඩබ්ලිව්. ඒ. පෝසිත ලබන 15 වැනි දා තෙක් රිමාන්ඩ් කරන ලෙස අනුරාධපුර අතිරේක මහේස්ත්‍රාත් චන්දිම එදිරිමාන්න මහතා නියෝග කෙළේය.
+නුවන් කුමාර හා පෝසිත හඳුනාගැනීමේ පෙරට්ටුවකට ද ඉදිරිපත් කිරීමට ද නියමිතය. ඇසිඩ් සාම්පල රජයේ රසපරීකෂ වෙත යැවීමට නියම කළ මහේස්ත්‍රාත්  සැකකරුවන්ගේ බැංකු ගිණුම් විස්තර පොලිසියට සපයන ලෙස බැංකුවලට නියෝග කෙළේය.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-01 15:09:40</date>
+            <index>0</index>
+            <phrase>එල්ලා මරන්න නියම කරන්න කාගේ උනත් ජීවිතයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-03-01 15:12:01</date>
+            <index>1</index>
+            <phrase>මිනී මැරීමට තැත් කිරීම එල්ලුම් ගහ හිමිවන වරදක්... වැරදි කරුවනට දඬුවම් ලැබේවා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිලානෝ</author>
+            <date>2013-03-01 16:16:24</date>
+            <index>2</index>
+            <phrase>සිතට දුකක් දැනුනු විට එය නිවාගැනීමට යහපත් මාර්ගයක් තෝරාගන්න. බුද්ධ ධර්මයේ පිහිට පතන්න.. අයහපත් මාර්ගවලින් විසඳීමට ගියවිට සැමදෙනා දුකට පත්වේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2013-03-01 16:23:50</date>
+            <index>3</index>
+            <phrase>මේ වැඩේට උපරිම දඩුවම් දෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2013-03-01 17:13:14</date>
+            <index>4</index>
+            <phrase>හිතක් පපුවක් නැති මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2013-03-01 17:21:26</date>
+            <index>5</index>
+            <phrase>ඉතා හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2013-03-01 17:29:53</date>
+            <index>6</index>
+            <phrase>මේ වරදටනම් උපරිම දඩුවම් දෙන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2013-03-01 18:20:27</date>
+            <index>7</index>
+            <phrase>මේ පුද්ගලයා වෙදකමට කොහෙත්ම සුදුසු නැහැ. ිනයම වෛද්‍යවරයා බෝසත් ගුණවලින් පිරිපුන් කෙනෙක් විය යුතු නිදා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-01 18:24:19</date>
+            <index>8</index>
+            <phrase>අනේ මන්දා මෙහෙමත් අජාසත්තලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2013-03-01 18:39:29</date>
+            <index>9</index>
+            <phrase>ඇයි මිනිස්සු දැන දැන වැරදි කරන්නේ ? කවදා හරි ඇත්ත එළිවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරජානු</author>
+            <date>2013-03-01 19:16:09</date>
+            <index>10</index>
+            <phrase>මේ වගේ දේවල් කරන අයගේ රෙදි ගලවලා උසාවි යවන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් අරුණ</author>
+            <date>2013-03-01 19:26:51</date>
+            <index>11</index>
+            <phrase>මේ අපේ රටේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්තුෂාන්ත මනම්පේරි</author>
+            <date>2013-03-01 19:36:07</date>
+            <index>12</index>
+            <phrase>මේවට උපරිම දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතිස්ස</author>
+            <date>2013-03-01 19:48:02</date>
+            <index>13</index>
+            <phrase>වෛරයෙන් වෛරය නොසන්සිදේ. වැරදි කරුවන්ට නිසි දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෙහිවල චමි</author>
+            <date>2013-03-01 20:23:43</date>
+            <index>14</index>
+            <phrase>දැන් ලංකාව බෞද්ද රටක් කියල හැම කෙනෙන්ක්ටම ඕනෑම දෙයක් කරලා අවරුදු 5 විතර හිරේ දාල නිදහස් කරනවා . මමනම් කියන්නේ මේවගේ වැරදිවලට මේ තුන්දෙනාවත් බස්සන ඕනෙ ඇසිඩ් බැරල් එකකකට පණපිටින්. බොරුවට මුන්ව හිරේ දාල අපේ අදායම් බදු වලින් මුන්ට කන්න දෙන්න හොද නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත් බහරේන්</author>
+            <date>2013-03-01 20:46:06</date>
+            <index>15</index>
+            <phrase>මෙයාට නීතියෙන් නැතත් ජනතාවගෙන් දඩුවම් ලැබේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර කුවේට්</author>
+            <date>2013-03-01 20:51:46</date>
+            <index>16</index>
+            <phrase>මේ අයට උපරිමයෙන් දඬුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2013-03-01 20:55:39</date>
+            <index>17</index>
+            <phrase>ඇසිඩ් වලින්ම මරණයට පත්කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2013-03-01 22:25:09</date>
+            <index>18</index>
+            <phrase>බලන්න ලංකාවේ තියෙන සමානාත්මතාවය වෙන කොහේවත් තියෙනවද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලමුල්ල</author>
+            <date>2013-03-01 22:57:35</date>
+            <index>19</index>
+            <phrase>කරන කලට පවු මිහිරිය මී සේ- විදින කලට දුක් දැඩිවෙයි ගිනි සේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-03-01 23:30:29</date>
+            <index>20</index>
+            <phrase>අයෙක් නසා තම දියුණුව පැතූ මොවුන්ට නීතියෙන් කෙසේවෙතත් ඇතුළේ අයගෙන් නම් නිසි දඩුවම් ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2013-03-01 23:58:15</date>
+            <index>21</index>
+            <phrase>මේ මිනිසුන් මෙවැනි දේවල් කරලා අන්තිමේ මොනවද ලබන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-03-02 00:23:12</date>
+            <index>22</index>
+            <phrase>අපි මේක සෞදියට භාරදෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාර්ක්</author>
+            <date>2013-03-02 00:56:33</date>
+            <index>23</index>
+            <phrase>මෙයාලට උපරිම දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2013-03-02 01:15:21</date>
+            <index>24</index>
+            <phrase>කෝ බොදු බල සේනාව?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝට්ටගේ</author>
+            <date>2013-03-02 01:13:51</date>
+            <index>25</index>
+            <phrase>බුරුලක් දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පවිත්‍රා</author>
+            <date>2013-03-02 04:44:17</date>
+            <index>26</index>
+            <phrase>දැන් ලංකාවේ බටහිර වෛද්‍යවරුන්ට වඩා ආයුර්වේද වෛද්‍යවරුන් පිරිහිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2013-03-02 09:47:06</date>
+            <index>27</index>
+            <phrase>අනික් අයටත් දැන ගන්න උපරිම දඬුවම් දෙන්න ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2013-03-02 09:53:49</date>
+            <index>28</index>
+            <phrase>මෙන්න ලංකාව උතුම් යැයි මොරදෙන්නන්ට හොද කණේ පහරක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-02 09:55:08</date>
+            <index>29</index>
+            <phrase>අන් අය දිහා වැරදි විදියට බලන්න ප්‍රථම තමන්ගේ වැරදි හදුනාගන්න මිනිසුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2013-03-02 10:11:55</date>
+            <index>30</index>
+            <phrase>බය නැතිව කරනවානේ මේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිසා</author>
+            <date>2013-03-02 11:05:47</date>
+            <index>31</index>
+            <phrase>බුරුලක් දෙන්නම එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2013-03-02 11:46:09</date>
+            <index>32</index>
+            <phrase>සුදු වෑන් එකක් එන්න ඕන 3 දෙනාවම අරන් යන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2013-03-02 12:51:02</date>
+            <index>33</index>
+            <phrase>දැඩි දඩුවම් දෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2013-03-02 14:58:15</date>
+            <index>34</index>
+            <phrase>අපේ රටේ කරුමෙට ඉතින් අපිට නැති වෙන්නේ , ශ්‍රේෂ්ට උතුම් මෙලොව සැබෑ දෙවිවරු වන මනෝ වෛද්‍ය හරිස්චන්ද්‍ර වෛද්‍යතුමා වැනි අය තමයි. ඒකටත් එක්ක මේ වගේ අය තාමත් මේ රටේ ඉන්නවනේ? මේ වගේ අය අර වෛද්‍යතුමා වගේ අයටත් කැළලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

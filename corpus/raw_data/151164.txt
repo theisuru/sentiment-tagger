@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>151164</articleId>
+    <title>ඉන්දියාවේ සිට ගෙන ආ... කේරල ගංජා තොගයක් පොලිස් අත්අඩංගුවේ</title>
+    <author>එච්සී චන්දන</author>
+    <date>2013 ජූලි මස 14 16:16:35</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>කරීම්</author>
+            <date>2013-07-17 16:25:50</date>
+            <index>0</index>
+            <phrase>පොලිසියට හදිසි අවරුදු. මුළු තොගයම උසාවි ඉදිරිපත් කලොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

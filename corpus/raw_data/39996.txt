@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39996</articleId>
+    <title>වමේ පක්ෂ පෙරටුගාමී රැලියේ</title>
+    <author>රංජන් කස්තුරි  ඡායාරූප සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 මැයි මස 01 21:14:16</date>
+    <body>පෙරටුගාමී සමාජවාදී පක්ෂය ඇතුළු වමේ දේශපාලන පක්ෂ හා සංවිධාන කිහිපයක එකතුවෙන් ‘වමේ මැයි රැලිය‘  කෙළඹ ප්‍රයිස් පිටියේදී පැවැත්විය. පෙරටුගාමී  සමාජවාදී පක්ෂය, නව සම සමාජ පක්ෂය, එක්සත් සමාජවාදී පකෂය, ලංකාවේ කොමියනිස්ට් පක්ෂය,(මාඕවාදී) සමාජවාදී පක්ෂය, පීපල්ස් මාර්ච් සංවිධානය, ප්‍රැක්සිස් සාමුහිකය, ලංකා සම සමාජ පක්ෂයේ විකල්ප කණ්ඩායම, එක්සත් කම්කරු සම්මේලනය, ඇතුළු වාමාංශික දේශපාලන පක්ෂ හා සංවිධාන එම රැලියට එක්ව සිටියහ. පෙරටුගාමි සමාජවාදී පක්ෂය පෙළපාළියක් නොපැවැත් වූ අතර අනෙක් පක්ෂ හා සංවිධාන කොළඹ නගරයේ විවිධ ස්ථානවල සිට පෙළපළියෙන් පිටියට පැමිණියේය.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-01 21:52:47</date>
+            <index>0</index>
+            <phrase>හපෝ කෝ සෙනග?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-05-01 23:19:26</date>
+            <index>1</index>
+            <phrase>නායකයො විතරද? ජනතාව නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-05-01 23:54:15</date>
+            <index>2</index>
+            <phrase>89 මේ මහත්වරු කොහෙ හිටියද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩේමියන්</author>
+            <date>2012-05-02 05:27:30</date>
+            <index>3</index>
+            <phrase>මේක විහිළුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මකරා &gt;&gt;&gt;</author>
+            <date>2012-05-02 08:53:42</date>
+            <index>4</index>
+            <phrase>මේ පක්සයේ නායකයා නොයෙක් නම් වලින් පෙනි සිටියා එය හරි වැඩක්ද පක්ෂය "කුරුටුගාමි " කරගත්තා මුල ඉඳලම හොරකම වැරදි දේශපාලනය හරිමගට යොමු කිරීමට ගිය ගමනක්දමේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්-saudi</author>
+            <date>2012-05-02 10:28:56</date>
+            <index>5</index>
+            <phrase>පවු නේද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

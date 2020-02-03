@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16197</articleId>
+    <title>බණ්ඩාරනායකලාට මුල අමතක වෙලාලූ</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 06 15:27:41</date>
+    <body>චන්ද්‍රිකා කුමාරතුංග හිටපු ජනපතිනියට තමා ද්‍රෝහී නොවන නමුත් ඇය මහින්ද රාජපක්‍ෂ ජනපතිට ද්‍රෝහී වන විට වෙන මොනවා කරන්නදැයි මහජන සබඳතා ඇමැති මර්වින් සිල්වා මහතා අත්තනගල්ලේ ජනහවුල  ජංගම සේවය අරඹමින් කීවේය. රාජපක්‍ෂ වරුන්  බණ්ඩාරනායකවරුනට එදා හුඟක් උදව් කළත් බණ්ඩාරනායකවරුන් රාජපක්‍ෂවරුනට උදව් නොකරතියි ඇමැති කීය. ඔහු මෙසේද කීවේය
+එක්සත් ජාතික පක්‍ෂය අද නන්නත්තාර වෙලා - කණ්ඩායම් දෙකකට බෙදිලා. මේ බූරු වහන්සේලාට රට බාර දුන්නොත් කොහොම හිටීද?</body>
+    <comments>
+        <comment>
+            <author>Chris</author>
+            <date>2011-12-06 15:45:13</date>
+            <index>0</index>
+            <phrase>හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Joan</author>
+            <date>2011-12-06 15:59:35</date>
+            <index>1</index>
+            <phrase>ඔබතුමාලේ වගේමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

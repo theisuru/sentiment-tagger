@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>509760</articleId>
+    <title>ලක්ෂ 24 ක රත්තරන් කැබලි 32 ක් අල්ලයි</title>
+    <author>ටීකේජිකපිල</author>
+    <date>2017 පෙබරවාරි මස 24 10:58:01</date>
+    <body>රුපියල් ලක්ෂ 24 ක් වටිනා රත්රන් කැබලි  32 ක් ඉන්දියාවේ බැංගලෝර් වෙත රැගෙන යාමට  ආ පුද්ගලයකු අත්අඩංගුවට  ගත් බව ගුවන් තොටුපල ආරංචි මාර්ග පවසයි. රත්රන් කැබැලි  රාජසන්තක කර ඔහුට  රුපියල් 50,000 ක දඩ මුදලක් නියම කෙරිණ. </body>
+    <comments>
+        <comment>
+            <author>රුවන්</author>
+            <date>2017-02-24 07:01:01</date>
+            <index>0</index>
+            <phrase>මේ අල්ලන රන්බඩු වලට මොකද වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2017-02-26 03:05:09</date>
+            <index>1</index>
+            <phrase>පසුගිය කාලෙ අල්ලපු රන් භාණ්ඩ වලට මොකද උනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

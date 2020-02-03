@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>106987</articleId>
+    <title>තට්ටෙනම් බලාගෙන</title>
+    <author>අශේන් සාවින්ද</author>
+    <date>2013 අපේ‍්‍රල් මස 05 19:27:43</date>
+    <body>හිස කෙස් නොමැති පිරිමින්ට කිරීට හදවත් රෝගය වැළැදීමේ  අවදානමක් ඇතැයිජපාන පරීක්ෂකයෝ කියති.
+මෙම රෝගය වැළදුණු පුද්ගලයන් 37,000ක් පරීක්ෂණයට ලක්කර ඇත. තට්ටය පෑදුනු 32% දෙනෙකුට රෝගය වැළදීමේ අවදානම වැඩි බවට ඔවුන් නිගමනය කරති.
+ඇළෙන සුළු ද්‍රව්‍යක් කිරීට ධමනියේ සෑදී වර්ධනය වීම කිරීට හදවත් රෝගයට හේතුවයි.</body>
+    <comments>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-04-05 22:32:39</date>
+            <index>0</index>
+            <phrase>ශීත කාලයේදී උණුවතුර නාන ජපනුන්ගේ ඇතැම් අයට තරමක් තට්ටය පෑදෙනවා. වස විෂ නොකන නිසා 90% ම නිරෝගී වැඩි ආයුෂ රකින අය බව කීවොත් නිවැරදියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-04-06 13:03:27</date>
+            <index>1</index>
+            <phrase>පුදුමයි. ලෝකේ මෙච්චර දියුණු වෙලත් තම තට්ටේ පෑදෙන එක වලක්වන බෙහෙතක් හොයාගෙන නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2013-04-06 15:27:58</date>
+            <index>2</index>
+            <phrase>පිරිමින්ගේ පමණක් මේ විදිහට තට්ටය පෑදීමට රහස කුමක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2013-04-07 10:22:02</date>
+            <index>3</index>
+            <phrase>මල කෙලියයි, මගෙත් තට්ටේ එනවා . හෙටම යන්න ඕනේ දොස්තර කෙනෙක් හම්බවෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2013-04-07 19:17:41</date>
+            <index>4</index>
+            <phrase>පිස්සු හැදෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන්</author>
+            <date>2013-04-07 22:58:55</date>
+            <index>5</index>
+            <phrase>ඉවරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

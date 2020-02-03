@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16682</articleId>
+    <title>අ‘පුර රදගුරුත් කාදිනල් මඟ යයි</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 09 16:41:52</date>
+    <body>මොරටුව රාවතාවත්තේ ප්‍රේම් ළමා නිවාසයේ වැටලීම සම්බන්ධයෙන් සාධාරණය ඉටුවනතුරු අනුරාධපුර  ශාන්ත ජෝෂප් ආසන දෙව්මැදුරේදී මෙවර රාජ්‍ය නත්තල් උළෙලින් තමා බැහැර වන බව නෝබට් අන්ද්‍රදි අනුරාධපුර රදගුරුතුමෝ පවසති. මේ බව එතුමෝ ක්‍රිස්තියානි කටයුතු දෙපාර්තමේන්තුවට ද දැන්වුහ. කොළඹ අගරදගුරු මල්කම් රංජිත් කාදිනල් තුමෝ එවැනි තීරණයක් මීට කලින් ගත්හ.</body>
+    <comments>
+        <comment>
+            <author>ලාල් රත්නායක</author>
+            <date>2011-12-10 07:58:53</date>
+            <index>0</index>
+            <phrase>තවත් විහිළුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2011-12-10 09:00:03</date>
+            <index>1</index>
+            <phrase>ලොකු දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශරන්ත</author>
+            <date>2011-12-10 09:53:02</date>
+            <index>2</index>
+            <phrase>ජේසු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආර් දිසානායක</author>
+            <date>2011-12-10 12:08:05</date>
+            <index>3</index>
+            <phrase>රදගුරුතුමනි හොද තීරණයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2011-12-10 19:12:32</date>
+            <index>4</index>
+            <phrase>ගනන් නොගෙන ඉන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ්</author>
+            <date>2011-12-10 21:11:31</date>
+            <index>5</index>
+            <phrase>ඒවුණාට වැඩේ කෙරෙණවානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Dil</author>
+            <date>2011-12-10 22:19:47</date>
+            <index>6</index>
+            <phrase>ඔබේ එඩිතර බවට අපි ඔබට ස්තුති කරන්නෙමු, අනෙකුත් රදගුරුතුමන්ලද ඔබේ ආදර්ශය අනුගමනය කරනු ඇති බව සිතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>praadeep janaka</author>
+            <date>2011-12-12 11:49:06</date>
+            <index>7</index>
+            <phrase>තුන් ලෝකයට ම සාමය පැතිරූ භගවත් බුදුරජු සිහි වේවා උඳුවප් මාසේ සීතල සුළඟට බුදු සුවඳ ම මුසු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

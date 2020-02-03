@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>33633</articleId>
+    <title>මංජුසාවත් නෑ සල්ලිත් නෑ</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 මාර්තු මස 27 11:05:06</date>
+    <body>නිදානයකින් ගත් බව කියන කිරිගරුඬ මංජුසාවක් රුපියල් ලක්‍ෂ පහකට මහනුවර ව්‍යාපාරිකයකුට විකිණීමට ගිය පුද්ගලයෙක් සීගිරිය පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
+මංජුසාවේ මැණික් ඇතැයි කියමින් එය අලෙවි කිරීමට ගිය තව පිරිසක් සොයන බව ද පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>රාගල්කන්ද</author>
+            <date>2012-03-27 12:57:30</date>
+            <index>0</index>
+            <phrase>මංජුසාව දැන් කොහොද දන්නෙ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයකාන්ත , ඇෆ්ගනිස්ථානයේ සිට</author>
+            <date>2012-03-27 12:59:51</date>
+            <index>1</index>
+            <phrase>මේක ඇතුලෙත් මන්ත්‍රී කෙනෙක් හෝ ඇමති කෙනෙක් ගෑවිලා ඉන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.එම්.උඩුකුඹුර</author>
+            <date>2012-03-27 13:13:30</date>
+            <index>2</index>
+            <phrase>උදයකාන්තගේ ප්‍රකාශය 100% හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.ප්‍රේමලාල් පෙරේරා</author>
+            <date>2012-03-27 18:45:06</date>
+            <index>3</index>
+            <phrase>මංජුනම් ඇති. සාව කොහේ වෙතත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පසිරි</author>
+            <date>2012-03-28 04:53:34</date>
+            <index>4</index>
+            <phrase>ගෙදර තියෙන මංජුසාව බලන්නේ නැතුව අහක තියෙන මංජුසා හොයන එක දැන් රටාවක් වෙලා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>506795</articleId>
+    <title>ඉන්දීය ධීවරයෝ 31 දෙනෙක් උපවාසයක් අරඹති</title>
+    <author>එම්පරමේෂ්වරන්</author>
+    <date>2017 පෙබරවාරි මස 13 18:04:08</date>
+    <body>මෙරට මුහුදු සීමාවට අනවසරෙන් ඇතුළු වීමේ චෝදනාව මත අත්අඩංගුවට ගෙන යාපනය බන්ධනාගාරයේ රඳවා සිටින ඉන්දීය ධීවරයෝ 31 දෙනෙක් තමන් නිදහස් කරන්නැයි බලකරමින් උපවාසයක් ආරම්භ කළහ.
+මාස ගණනාවක් තිස්සේ තමන් රිමාන්ඩ් කර සිටින බවත් තමන්ව හා තමන්ගේ ධීවර යාත්‍රා නිදහස් කරන ලෙසත් ඔවුහු ඉල්ලති. උතුරු මුහුදට අනවසරෙන් ඇතුළු වී මසුන් මැරීමේ චෝදනාව මත එම ධීවරයින් නාවික හමුදාව විසින් අත්අඩංගුවට ගනු ලැබ ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-02-13 19:58:01</date>
+            <index>0</index>
+            <phrase>මෙයාලගේ ඉල්ලීම් ඉක්මනිම ඉටුවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2017-02-14 02:10:48</date>
+            <index>1</index>
+            <phrase>මෙයාලා ඉතින් කොහොමහරි තමන්ගේ ඉල්ලීම් ලබාගනියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

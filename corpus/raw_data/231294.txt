@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>231294</articleId>
+    <title>රිය අනතුරට මුවාවී අනියම් බිරියට වන්දි ගෙවීම මග හැරලා</title>
+    <author>තිහගොඩ උපසේන ලියනගම</author>
+    <date>2014 මැයි මස 07 09:59:50</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ලලිත් - එස්එල්</author>
+            <date>2014-05-07 15:53:01</date>
+            <index>0</index>
+            <phrase>දන්නේ නැති නිසා අහන්නේ අනියම් බිරිඳටත් වන්දි ගෙවන්න ඕනද ?? මීට කලින් අහල නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2014-05-07 17:05:44</date>
+            <index>1</index>
+            <phrase>එහෙත් දරුවට ගෙවන්න වෙනවා.මොකද බිරිදත් වරදක් කරලා තියෙනවනේ අනියම් සබඳතාවක් තියාගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතාන</author>
+            <date>2014-05-07 17:11:05</date>
+            <index>2</index>
+            <phrase>නියම උත්තරය දීලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-05-07 17:11:09</date>
+            <index>3</index>
+            <phrase>ඒ මනුස්සයා බලාඉන්න ඇත්තේ කොහොමද ගැළවෙන්නේ කියලා.අනතුර මුවාවෙන් දාලා ඇඟ බේරා ගන්න හැදුවට යස දඩුවම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පේලොග්</author>
+            <date>2014-05-07 19:17:55</date>
+            <index>4</index>
+            <phrase>අන්තර්ජාලයෙන් මුදල් සොයන වැඩක් පටන් ගත්තා නම් හරිනේ ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන් රොෂාන් දී සොයිසා</author>
+            <date>2014-05-08 00:27:38</date>
+            <index>5</index>
+            <phrase>මොහුගේ පිංතුරයවත් ලංකාදීපය වැනි වටිනා පුවත් පතක දැමීම සුදුසු නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-05-08 13:25:54</date>
+            <index>6</index>
+            <phrase>අනියම් බිරිදට වන්දි ගෙවනවනම් කොහොමද ඒ මනුස්සයා අනියම් වෙන්නේ. පැහැදිලි මදි මටනම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-05-08 18:16:40</date>
+            <index>7</index>
+            <phrase>සොයිසා,කොහෙන්ද දැක්කේ මේ මනුස්සයාගේ පින්තූර හැබෑටම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-05-09 21:31:09</date>
+            <index>8</index>
+            <phrase>මරුනානම් වන්දි ඕන නැහැ. නොමරුනා නම් ගෙවන්න ඕන. එතකොට මැරුණා නම් හොඳයිද? නොමරුනා නම් ....නෑ! නෑ!! නොමරුන එක හොඳයි!. මාරයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

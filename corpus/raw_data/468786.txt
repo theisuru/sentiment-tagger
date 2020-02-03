@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>468786</articleId>
+    <title>මරුවා තාප්පයෙන් එයි.</title>
+    <author>රේඛා තරංගනී ෆොන්සේකා</author>
+    <date>2016 ඔක්තෝබර් මස 17 12:10:54</date>
+    <body>වැල්ලවත්ත තිස්හත්වෙනි පටුමගේ වැඩ බිමක තාප්පයක් ඇඟමතට කඩා වැටී බරපතල තුවාල ලැබූ පුද්ගලයෙකු දකුණු කොළඹ ශික්ෂණ රෝහලට රැගෙන යමින් සිටියදී මියගිය බව පොලිසිය කියයි. 
+මෙසේ මියගොස් ඇත්තේ ජා ඇල පදිංචිකරුවෙක් වන(28) වරාගොඩගේ චන්දන නම් පුද්ගලයෙකු බවද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-18 02:45:22</date>
+            <index>0</index>
+            <phrase>මට අර කැකිල්ලේ නඩු තීන්දුව මතක්වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2016-10-18 03:05:36</date>
+            <index>1</index>
+            <phrase>මෙවැනි අසරණයන්ට රක්ෂණ ක්‍රමයක් කොන්ත්‍රාත්කරුවන් සළසනවා නම් හොඳ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

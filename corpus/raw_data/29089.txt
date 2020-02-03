@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29089</articleId>
+    <title>වැලිවේරියේ කඩ පෙළක් ගිනි ගනී</title>
+    <author>ආනන්ද ඉ ජයකොඩි</author>
+    <date>2012 පෙබරවාරි මස 27 21:55:12</date>
+    <body>වැලිවේරිය හේනේගම කඩ පෙළක් ගින්නකට හසුවී කඩ කිහිපයක් දැවී ඇතැයි පොලීසිය කියයි. ගම්පහ නගර සභා ගිනි නිවන ඒකකය ගින්න නිවීම සඳහා එම ස්ථානයට ගොස් ඇත.</body>
+    <comments>
+        <comment>
+            <author>පුෂ්පෙ</author>
+            <date>2012-02-28 00:40:32</date>
+            <index>0</index>
+            <phrase>මේක උනේ රාත්‍රී 8:40ත් 9ත් අතරදි වගේ තමයි. ගිනි නිවන ඒකකය එනකොට ගිනි අරගෙන ඉවරයි. ගම්පහ ඉඳන් හේනෙගමට යන්ඩ විනාඩි 20ක් මෝටර් රථයේ ගියත් ඒයිට කලින් හෝ වෙලාවට යන්ඩ පුළුවනි. අනේ මන්ද ඒක ආවෙනම් ගොඩක් පරක්කු වෙලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවනි</author>
+            <date>2012-02-28 08:58:30</date>
+            <index>1</index>
+            <phrase>අපරාදෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

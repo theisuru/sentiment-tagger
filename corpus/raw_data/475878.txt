@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475878</articleId>
+    <title>සන්ධ්‍යා එක්නැලිගොඩට මහ උසාවියෙන් අවසරයක්</title>
+    <author>තිලිණි ද සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 03 18:52:57</date>
+    <body>මාධ්‍යවේදී ප්‍රගීත් එක්නැලිගොඩ අතුරුදන් කළැයි සැකපිට අත්අඩංගුවට ගත් යුද හමුදා බුද්ධි අංශ සාමාජිකයන්ගේ බිරියන් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමට මැදිහත් පාර්ශ්වයක් ලෙස සහභාගී වීමට ශ්‍රේෂ්ඨාධිකරණය අද එක්නැලිගොඩ බිරිය සන්ධ්‍යා එක්නැලිගොඩට අවසර දුන්නේය.
+ප්‍රියසාත් ඩෙප්, උපාලි අබේරත්න සහ නලීන් පෙරේරා යන විනිසුරු මඩුල්ලක් හමුවේ නඩුව කැඳැවිණි.</body>
+    <comments>
+        <comment>
+            <author>ලාලිත</author>
+            <date>2016-11-04 01:58:46</date>
+            <index>0</index>
+            <phrase>හොඳයි බලමුකෝ ඉදිරියට වෙන දේත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩෘෘ</author>
+            <date>2016-11-04 02:49:41</date>
+            <index>1</index>
+            <phrase>ඉවසීමෙන් බලාසිටිමු සිදුවන දෙය දෙස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙදගේ</author>
+            <date>2016-11-04 04:06:53</date>
+            <index>2</index>
+            <phrase>ස්වභාව ධර්මය විසින් හොඳ නරක බේරා යුක්තිය පසිඳලනු ඇත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණසේන</author>
+            <date>2016-11-04 06:06:25</date>
+            <index>3</index>
+            <phrase>නාහීවෙරෙන වේරානි ,,,, බුදුන් වහන්සේ මෙසේ වදාල සේක , බොහෝ අය මෙය නොදනී . බිරින්දෑ වරුන්ට සැනසීම ලබාදෙන්න .එක්නැළි බිරිදට නුවන පහල වේවා ./</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-11-04 09:25:48</date>
+            <index>4</index>
+            <phrase>එක්නැලිගොඩගේ මිනීමරුවන්ට දඩුවම් නොකර බිරින්දෑ වරුන්ට සැනසීම දිය යුතුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

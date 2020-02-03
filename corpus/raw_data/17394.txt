@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17394</articleId>
+    <title>දොස්තර වැරැදි තැන් අල්ලලා</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2011 දෙසැම්බර් මස 13 17:56:50</date>
+    <body>අතේ අමාරුවකට බෙහෙත් ගැනීමට කොල්ලුපිටියේ  පෞද්ගලික රෝහලකට ගිය විට එහි දොස්තර හෙදියක් ද නොමැතිව නුසුදුසු විදියට තමා අතපත ගෑ බවත් දොස්තර එසේ කෙළේ ඇයි දැයි තේරුම් ගත නොහැකි බවත් කොළඹ ඇමෙරිකා තානාපති කාර්යාලයයේ සේවිකාවක කොළඹ කොටුව මහේස්ත්‍රාත් ලංකා ජයරත්න මෙනෙවිය හමුවේ කියා සිටියාය. දොස්තරගේ කටඋත්තර තවම ලියා නොගත් බව පොලිසිය කීවේය. පැමිණිල්ල ලබන පෙබරවාරි හය වැනි දා කල් තැබූ මහේස්ත්‍රාත්වරිය පරීක්ෂණ වාර්තාව ඉදිරිපත් කරන ලෙස නියෝග කළාය.</body>
+    <comments>
+        <comment>
+            <author>කුමුදුනී රණවීර</author>
+            <date>2011-12-13 18:56:46</date>
+            <index>0</index>
+            <phrase>පුදුම දොස්තරලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2011-12-13 18:29:50</date>
+            <index>1</index>
+            <phrase>දොස්තරට අසහනයක් ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහ වෙදනා</author>
+            <date>2011-12-14 00:46:23</date>
+            <index>2</index>
+            <phrase>හැබැයි මේ පාර වැරදි නිලේ අල්ලලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2011-12-14 01:33:06</date>
+            <index>3</index>
+            <phrase>කොට්ටෝරුව ගහෙන් හගට කොට කොට යනවා කෙහෙල් ගහට කොටපු දාට හොට පැටළෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලොක්කා</author>
+            <date>2011-12-14 11:05:13</date>
+            <index>4</index>
+            <phrase>දොස්තරට පෙනීමේ දුර්වලතාවක් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හොද පුතා</author>
+            <date>2011-12-14 14:41:57</date>
+            <index>5</index>
+            <phrase>ලංකාදීප පුවත් පත රටට කරන මෙහෙවර අපි අගය කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒජී ජයසිංහ</author>
+            <date>2011-12-14 16:45:22</date>
+            <index>6</index>
+            <phrase>කොන් දොස්තර කෙනෙක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලිණි</author>
+            <date>2011-12-16 09:57:16</date>
+            <index>7</index>
+            <phrase>ඔය නම් අම්මල, අක්කල, නංගිලා කවුරුත් නැති දොස්තර කෙනෙක්ද කොහිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>unknown_AAA</author>
+            <date>2011-12-16 17:33:59</date>
+            <index>8</index>
+            <phrase>ගිහිල්ල තියෙන්නේ වැරැදි දොස්තර ලගට වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

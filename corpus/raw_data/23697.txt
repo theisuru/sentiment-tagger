@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>23697</articleId>
+    <title>ඉතාලි පොලිස් බල්ලෙක් ලාංකිකයා අල්ලයි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 ජනවාරි මස 26 11:58:30</date>
+    <body>වසර විස්සක් පුරා ඉතාලියේ ජීවත්වන ශ්‍රී ලාංකිකකු (40) යුරෝ හාර ලක්ෂ විසිහතර දහසක් හෙවත් රුපියල් හය කෝටියකට ආසන්න මුදලක් සමග මිලානෝ ගුවන් තොටුපෙළේ දී  අත්අඩංගුවට ගැනීමට ඉතාලියේ විනිමය හා දූෂණ මර්oන පොලිසිය සමත්විය. මුදල් සොයා ගැනීම සඳහා පුරුදු කළ ටැන්ගෝ නම් බල්ලා මේ මුදල් අසුරා තුබූ බෑගය ඉව කළේය.
+මෙතරම් මුදල් ප‍්‍රමාණයක් ඔහුට ලැබුණේ කෙසේදැයි මිලානෝ ගුවන්තොට පොලිසිය සොයයි. ඉතාලියේ සේවය කරන ශ්‍රී ලාංකිකයකුට නීත්‍යානුකූලව අතේ රැගෙන යා හැක්කේ උපරිම යුරෝ දසදහසකි. ඊට වඩා වැඩි මුදලක් වෙතොත් ඉතාලි රජය පිළිගත් බැංකු හා මුදල් හුවමාරු මධ්‍යස්ථානයක් මගින් ශ්‍රී ලංකාවේ ගිණුමකට බැරකළ හැකියි.
+
+ </body>
+    <comments>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-01-26 13:28:22</date>
+            <index>0</index>
+            <phrase>ධනපති බල්ලෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල් දංකොටුව</author>
+            <date>2012-01-26 13:33:22</date>
+            <index>1</index>
+            <phrase>ඉතාලියෙත් අපේ වැඩකාරයො ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2012-01-26 14:48:12</date>
+            <index>2</index>
+            <phrase>අනේ මෙහෙමත් මෝඩ වැඩ. අවුරුදු 24ක් ඉතාලියේ ජීවත්වී උපයාගත් මුදල් මෙසේ නැතිකර ගන්නේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-01-26 17:50:35</date>
+            <index>3</index>
+            <phrase>පැවසීමට කිසිම දෙයක් නැත.ඇයි මෙයා මෙච්චර මෝඩ,.....? මේක ඉතාලියට නම් වාසියක් වේවි.මොකද මේවා රාජසන්තක වෙනවානේ.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා</author>
+            <date>2012-01-26 18:28:37</date>
+            <index>4</index>
+            <phrase>ඔය වගේ හොරු හින්ද රටේ නමත් කැතවෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>illanka</author>
+            <date>2012-01-27 01:27:42</date>
+            <index>5</index>
+            <phrase>තණ්හාව ජයතී සෝකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයන්</author>
+            <date>2012-01-27 10:48:45</date>
+            <index>6</index>
+            <phrase>මෝඩයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2012-01-27 20:32:39</date>
+            <index>7</index>
+            <phrase>ඉතාලි ඉඩකඩම් විකුණපු සල්ලි වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

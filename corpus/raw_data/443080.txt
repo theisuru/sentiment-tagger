@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443080</articleId>
+    <title>බෝතල් 905යි = ලක්ෂ 50යි</title>
+    <author>නිරංගි අබේවික්‍රම</author>
+    <date>2016 අගෝස්තු මස 01 15:54:45</date>
+    <body>රුපියල් ලක්ෂ 50ක පමණ රට මත්පැන් බෝතල් 905ක් දෙමටගොඩින් අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකාය කියයි.
+නීති විරෝධී මත්පැන් වැටලීම සඳහා පිහිටවුණු මෙම ඒකකය මුදල් අමාත්‍යංශය යටතේ ක්‍රියාත්මක වෙයි.
+මිල අධික රට මත්පැන් ළඟ තබාගත් බව කියන සැකකරුවකු ද උසාවියට ඉදිරිපත් කිරීමට යයි.</body>
+    <comments>
+        <comment>
+            <author>අබරන්</author>
+            <date>2016-08-01 10:48:10</date>
+            <index>0</index>
+            <phrase>මම හිතන්නේ බෝතල් විතරයි රට. ඇතුලේ පුරවපුවයි ලේබලුයි ඔක්කොම මෙරට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිදු</author>
+            <date>2016-08-01 11:37:12</date>
+            <index>1</index>
+            <phrase>මුදල් අමාත්‍යංශය සෑහෙන වැටලීම් කරනවා දැන්.සීනි වල තිබිලා කොකේන් එහෙම අහු වුනේ නැද්ද දන්නේ නෑ ළගදි.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-08-02 05:36:58</date>
+            <index>2</index>
+            <phrase>දැන් ඉතිරි බෝතල් ටිකට මොකද කරන්නේ කියලත් හොයන්නත් ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

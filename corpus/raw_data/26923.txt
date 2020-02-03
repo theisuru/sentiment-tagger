@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26923</articleId>
+    <title>මෙහෙමත් ගැරිල්ලක්</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 පෙබරවාරි මස 15 11:45:08</date>
+    <body>කතරගම ලූණුගම්වෙහෙර පාරට ගෙන ආ බොරළුවල නිල් මැණික් ඇතැයි පතළවීමත් සමග පාර කපා මැණික් ගැරීමට හා බොරළු රැුගෙන ගිය පිරිස් අතර ප‍්‍රදේශයේ පොලිසියකටද ඉල්ලම් පස් රැුගත් වාහන කිහිපයක් ගිය බව එහි සිටි පිරිස් කියති.
+ප‍්‍රබල දේශපාලඥයකුගේ අනුගාමිකයන් පිරිසක්ද මැණික් ගැරීමට එහි පැමිණ ඇතැයි කියති. මැණික් සොයන වැඩි දෙනා දුප්පතුන් නොව පිට පළාත්වලින් පැමිණි බල පුළුවන්කාරයන් හා මැණික් ව්‍යාපාරිකයන්ගේ සහචරයන් බව ගැමියෝ  කියති.</body>
+    <comments>
+        <comment>
+            <author>sltk2004</author>
+            <date>2012-02-15 11:47:01</date>
+            <index>0</index>
+            <phrase>මේක මහ පුදුම වැඩක්නේ. පාරය වෙන හානියට මොකද කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදී</author>
+            <date>2012-02-15 12:22:40</date>
+            <index>1</index>
+            <phrase>අසරණ මිනිස්සුන්ට දෙවියො බලනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දි</author>
+            <date>2012-02-15 12:25:40</date>
+            <index>2</index>
+            <phrase>මිනිස්සුන්ට මෙහෙම හරි ගොඩ යන්න ඉඩ දෙන්න ඕනෑ...මොකද ජිවන වියදම හරිම වැඩිනෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-02-15 12:42:00</date>
+            <index>3</index>
+            <phrase>අනේ මෙහෙම තන්හාවක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>nifraz</author>
+            <date>2012-02-15 13:25:58</date>
+            <index>4</index>
+            <phrase>මමත් යනව අදම මැණික් ගරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2012-02-15 13:28:15</date>
+            <index>5</index>
+            <phrase>තන්හාය ජායතී සොකෝ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-02-15 16:54:50</date>
+            <index>6</index>
+            <phrase>මැණික් සහ නිදන් ගොඩගැනිමට මෙරට වැසියන් කැමත්තක් දක්වති. මෙරට ගොඩනගන්නට යහපත් වැඩක් කරන්නට රටක පාරක හදන්නට මේ අයුරින් එකතු විමක් දක්නට නැත. මෙරට ඉඩම් ඇත, ජලය ඇත, ශ්‍රමය ඇත, නමුත් කම්මැලිකම මුල් වී තිබේ. මේ අයුරින් නිකන් ලැබෙන දෙයක් සහනාදාරයක්, ගන්නට බලය පවිච්චි කරමින් කුලල් කා ගනිමින් තන්හාවෙන් පොර කන්නට ලංකාවාසින් පුරුදු වී තිබේ. නිකන් ඉදන් කන්න නිකන් දෙන දේ ගන්න පුරුදු කරපු දෙශපාලනය මේ මැනික් ඉල්ලමක් නොව කම්මැලියන්ගේ සංකේතයක් බව වටහා ගන්නේ නම් කොයි ප්‍රතිපත්තියෙනුත් රට හැදිය හැකිය. වැඩකරණ ජනතාව යන්න පොතට පතට සිමා විම ශ්‍රි ලංකිකතවය බවත් මේ කතාව තුල ගැබ්ව ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේෂාන් චතුරංග</author>
+            <date>2012-02-16 08:20:43</date>
+            <index>7</index>
+            <phrase>මේක පුදුම රටක්...පාරෙත් මැණික්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-02-16 15:28:24</date>
+            <index>8</index>
+            <phrase>පාර හදන්න මොද වැඩක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

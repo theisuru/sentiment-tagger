@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>47977</articleId>
+    <title>කුඩු නඩුවේ වීඩියෝ පරස්සම් කරනු</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජූනි මස 13 16:54:06</date>
+    <body>ජනප්‍රිය නිළියක වන ඇන්ජලා සෙනෙවිරත්නගේ  පැරැණි ලිපියකට පොත් අස්සේ සඟවා ඉන්දියාවේ සිට කොළඹ මධ්‍යම තැපැල් හුවමාරුවට එවූ හෂිස් මත් කුඩු රැගෙන යන්නට ආ බ්‍රිතාන්‍ය ජාතිකයන්ගේ රූප රාමු ඇතුළත් වීඩියෝ පට සුරක්ෂිතව තබා ගන්නැයි කොළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා ශ්‍රී ලංකා රූපවාහිනියට හා තැපැල් අධිකාරිට නියෝග කෙළේය. බ්‍රටන් සාවුල් පිලික්ස් හා ජොෂ් කර් විල්ටන් හා උදේෂ් හෙට්ටිආරච්චි සැකකරුවෝය. කොළඹ මත්ද්‍රව්‍ය කාර්යංශය උසාවියට පැවැසුයේ රජයේ රස පරීක්ෂණ වාර්තාව නොලැබූණු බවයි.</body>
+    <comments>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-06-13 17:09:35</date>
+            <index>0</index>
+            <phrase>මත්කුඩු පාන්පිටි කරන අයගෙන් පරිස්සම් කර ගත්තොත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැට්රික්</author>
+            <date>2012-06-13 18:46:17</date>
+            <index>1</index>
+            <phrase>විෂ ඝෝර සර්පයා.දැක නෑර මෝඩයා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-14 07:24:38</date>
+            <index>2</index>
+            <phrase>ඒක දාලා ෆිල්ම් එකක් ගහමු කුඩු සුදා නොහොත් සුදු කුඩා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලින්ද</author>
+            <date>2012-06-14 08:29:29</date>
+            <index>3</index>
+            <phrase>එල්ලලයි මරන්න ඕනි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

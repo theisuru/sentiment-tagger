@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>50099</articleId>
+    <title>වාහනයෙන් වැටුණත් නැත සීරීමක්වත්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 ජූනි මස 25 13:28:48</date>
+    <body>ඇමරිකාවේ ටෙක්සාස් හි ලුබොක් නගරයේ දි  පොලිස් අණ නොතකා  ධාවනය වු  මෝටර් රථයක අධික වේගය නිසා  රථය පාලනය කර ගැනිමට  කොහැකිව  පෙරැළී  මෝටර් රථය  මෝටර් රථය කිහිප විටක් කැරකී යයි.  කැරකෙන මොටර් රථයේ කවුළුවකින්  පිටතට වැටෙණුයේ මාස 18 වියැති කුඩා දරුවෙකි.
+දරුවාට සීරිම් තුවාලයක්වත් සිදු නොවු මෙම විශ්මිත අනතුර  පොලිස් මෝටර් රථයේ ආරක්ෂිත කැමරාවේ
+රූප රාමු බලා රථයේ සිටියවුන්  අත් අඩංගුවට ගත් බව ටෙක්සාස් පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ගාලු කොලුවා</author>
+            <date>2012-06-25 13:41:48</date>
+            <index>0</index>
+            <phrase>පොඩි දරුවන්ට අතපානව කියන්නේ ඕක තමයි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා,saudi</author>
+            <date>2012-06-25 13:57:01</date>
+            <index>1</index>
+            <phrase>ලංකාවේ වුණා නම් සේරම මැරිලා කෑලිවත් හොයා ගන්න බැරිවෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසිංහ</author>
+            <date>2012-06-25 15:03:49</date>
+            <index>2</index>
+            <phrase>මේ පෙර යහපත් කර්ම ශක්තියේ බලය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-25 15:37:49</date>
+            <index>3</index>
+            <phrase>වාසනාවන්ත දරු පැටියෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාලු කොලුවා</author>
+            <date>2012-06-25 16:49:35</date>
+            <index>4</index>
+            <phrase>පොඩි දරුවන්ට දෙයියෝ අතපානවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංජලී</author>
+            <date>2012-06-25 19:35:28</date>
+            <index>5</index>
+            <phrase>චූටි පැටියා ගොඩක් පින්වන්තයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාෂිණි</author>
+            <date>2012-06-26 08:56:11</date>
+            <index>6</index>
+            <phrase>වාසනාවන්ත දරු පැටියෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-06-29 12:41:26</date>
+            <index>7</index>
+            <phrase>වැඩිහිටියෝ කරන වැරදි වලට දරුවෝ පලී නැති නිසා දරු පැටියා බේරුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-05 20:19:35</date>
+            <index>8</index>
+            <phrase>දෛවය හා වාසනාවයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-05 20:19:35</date>
+            <index>9</index>
+            <phrase>දෛවය හා වාසනාව නිසා බේරැණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>298624</articleId>
+    <title>සිංගප්පූරු ඇමැති ලංකාවේ</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2015 පෙබරවාරි මස 23 11:23:57</date>
+    <body>සිංගප්පූරු විදේශ කටයුතු හා නීතිය පිළිබද අමාත්‍ය කේ.ෂන්මුගම් මහතා අද (23) දිවයිනට පැමිණෙන බව විදේශ කටයුතු අමාත්‍යංශය කියයි.
+දිවයිනට පැමිණි පසු සිංගප්පූරු විදේශ අමාත්‍යවරයා ජනපති මෛත්‍රීපාල සිරිසේන මහතාවද අගමැති රනිල් වික්‍රමසිංහ මහතාවද හමුවීමට නියමිතය.
+ශ්‍රී ලංකා විදේශ අමාත්‍ය මංගල සමරවීර මහතා හා විශේෂ හමුවකටත් ඔහු සහභාගීවනු ඇත.
+ෂන්මුගම් මහතා සමග සිංගප්පූරුවේ කර්මාන්ත, අධ්‍යාපන හා ව්‍යාපාරික ක්ෂේත්‍ර නියෝජනය කරන දූත පිරිසක්ද පැමිණෙන බව සඳහන්වේ.</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-02-24 03:05:13</date>
+            <index>0</index>
+            <phrase>අලුත් රටට අලුත් පාඩමක් කියාදෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් -ඩුබායි</author>
+            <date>2015-02-25 17:13:20</date>
+            <index>1</index>
+            <phrase>ඔන්න දැනුයි ලෝකයේ ව්‍යාපාරික වශයෙන් වැදගත් කියන රටවල නායකයන් ලංකාවට එන්න යන්න පටන් අරන් තියෙන්නේ. ඉස්සර එහෙමද උගන්ඩාවේ, ස්වසිලන්තයේ, කෙන්යාවේ,සෝමාලියාවේ,ඉතියෝපියාවේ කට්ටියනේ ලංකාවට අාවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් -ඩුබායි</author>
+            <date>2015-02-25 17:13:30</date>
+            <index>2</index>
+            <phrase>ඔන්න දැනුයි ලෝකයේ ව්‍යාපාරික වශයෙන් වැදගත් කියන රටවල නායකයන් ලංකාවට එන්න යන්න පටන් අරගෙන තියෙන්නේ. ඉස්සර එහෙමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිත</author>
+            <date>2015-02-26 06:32:51</date>
+            <index>3</index>
+            <phrase>ඊතා කෙටි කාලයකදී දියුණු වූ රටේ විදේශ නායකයෙක් සමග කතා කිරීමට හැකිවීමත් සතුටු විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පසිදු</author>
+            <date>2015-02-26 06:32:56</date>
+            <index>4</index>
+            <phrase>ඒ රටෙන් අපිට ඉගෙන ගන්න ගොඩක් දේවල් තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2015-02-26 06:39:06</date>
+            <index>5</index>
+            <phrase>අනිත් රටවල් සමග අත්වැල් බැදගෙන ඉදිරියට අප යා යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් පෙරේරා</author>
+            <date>2015-02-27 21:42:08</date>
+            <index>6</index>
+            <phrase>ඉතා පරිස්සමෙන් කටයුතු කරන්න. සින්ගපොරේ මෙහෙට එන්නේ අපිට හොදකට නම් වෙන්න බැහැ. ඉන්දියාව සින්ගපොරේ එක්ක කටයුතු කරන ආකාරය කල්පනා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2015-03-04 07:11:26</date>
+            <index>7</index>
+            <phrase>හරියට ම හරි ලලිත්. බොහෝම පරිස්සමෙන්. සල්ලි වලට යටවුන රටවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

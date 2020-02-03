@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>105239</articleId>
+    <title>උස අඩි 15 යි. සතියට කිලෝ හයයි</title>
+    <author>සංජීව රත්නායක</author>
+    <date>2013 මාර්තු මස 28 14:02:12</date>
+    <body>අඩි පහළොවක් පමණ උසැති තක්කාලි ගසක් මොරගොල්ලාගම  තලාවේ නිවෙසක ඇත. සතියකට එම ගසෙන් කිලෝ පහක්  හයක් නෙළා ගැනේ.
+
+
+ 
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2013-03-28 14:30:00</date>
+            <index>0</index>
+            <phrase>හොදයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-03-28 14:39:28</date>
+            <index>1</index>
+            <phrase>දැක්කම පුදුමයි. මේ තක්කලිද? ගොරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2013-03-28 14:46:54</date>
+            <index>2</index>
+            <phrase>ගහට මොනවා හරි වෙයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-03-28 14:45:26</date>
+            <index>3</index>
+            <phrase>ගහ වගේම තමයි ආච්චි අම්මගේ උසත්. පරිස්සමින් නෙලන්නේ පුටුව උඩ ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනකා</author>
+            <date>2013-03-28 14:55:08</date>
+            <index>4</index>
+            <phrase>මෙවැනි ගෙවතු වගා සදහා දිරි දීමක් කරනවා නම් හැම ගෙවත්තම සාරවත් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2013-03-28 14:56:38</date>
+            <index>5</index>
+            <phrase>පුදුමයි! ඒත් ඇත්තයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරානි</author>
+            <date>2013-03-28 15:05:41</date>
+            <index>6</index>
+            <phrase>තිබ්බටු ගස්වලට තක්කාලි ගස් බට් කරන්න පුලුවන් ඒ විදිහට බටි කරපු ගහක්ද මේ. තිබ්බටු ගස්වලට රිකිලි බද්ධය කළාම වම්බටු වගේ ගස් බොහොම විශාලයටත් ගෙඩිත් ගොඩක් හැදෙනවා. මේකත් එහෙම බට් කරපු එකක්ද කියල අහල බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2013-03-28 16:27:02</date>
+            <index>7</index>
+            <phrase>මේක ලොවි ගහකට බට් කරපු තක්කලි පැලයක්ලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2013-03-28 18:44:22</date>
+            <index>8</index>
+            <phrase>බඩු මිල අහස උසට ගොස් තිබෙන මේ කාලේ තක්කාලි ගස අහස උසට ගොස් පිං ඇති ඔබට පිහිට වෙනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජා</author>
+            <date>2013-03-28 21:12:45</date>
+            <index>9</index>
+            <phrase>අඩි පහළොවක් පමණ උසැති තක්කාලි ගසක් නමි පිංතූරය දිහා බලන විට ඒ අමිමත් අඩි 10 ක් විතර උස ඇති .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංක</author>
+            <date>2013-04-07 19:28:08</date>
+            <index>10</index>
+            <phrase>පින්තුර දෙකේ වෙනස සොයා තැපැල් පතක් යොමු කිරීමෙන් වටිනා ත්‍යාගයක් දිනාගත හැක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

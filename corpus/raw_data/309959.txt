@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>309959</articleId>
+    <title>‘සරුබිම ගොවියාගේ මඩ සෝදයි‘</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2015 අපේ‍්‍රල් මස 19 15:31:12</date>
+    <body>කාගිල්ස් සමාගම විසින් සංවිධානය කළ ‘සරු බිම 2015‘ ගොවි පුරවැසි සම්මාන සහ නැණ ප්‍රණාම ශිෂ්‍යත්ව ප්‍රදාන උළෙල ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී අද (19) පැවැත්විණි.
+එළවළු සහ කිරි ගොවියෝ 18 දෙනෙක් සම්මාන ලදහ. තෝරාගත් ගොවි පවුල්වල අසස් අධ්‍යාපනය හදාරන සිසුන් 200 දෙනකුට ශිෂ්‍යත්ව සමග ලැප්ටොප් පරිගණකද පිරිනැමුණි.
+කෘෂිකර්ම අමාත්‍ය දුමින්ද දිසානායක, වැවිලි කර්මාන්ත නියෝජ්‍ය අමාත්‍ය ජගත් පුෂ්පකුමාර, කාගිල්ස් සමාගමේ සභාපති ලුවී පේජ්, නියෝජ්‍ය සභාපති රංජිත් පේජ් මහත්වරුද එම අවස්ථාවට එක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-04-20 08:18:04</date>
+            <index>0</index>
+            <phrase>අපේ ගොවියාගේ මඩ සෝදා අවසන්වන්නේ කවදාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2015-04-20 08:20:44</date>
+            <index>1</index>
+            <phrase>ඉතාම වටිනා උත්සවයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාදාස</author>
+            <date>2015-04-23 13:00:19</date>
+            <index>2</index>
+            <phrase>ඉතාම සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-04-23 13:00:51</date>
+            <index>3</index>
+            <phrase>මේවා හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

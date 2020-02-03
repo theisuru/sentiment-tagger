@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40641</articleId>
+    <title>ජපන් උප අගමැති එයි</title>
+    <author>දීපා අධිකාරී</author>
+    <date>2012 මැයි මස 05 06:57:17</date>
+    <body>ජපන් උප අගමැති කටිසුයා ඔකාඩා  මහතා ඇතුලු දූත පිරිසක් දෙදින නිල සංචාරයක් සඳහා  මිහින් ලංකා  ගුවන්යානයකින් කටුනායක ගුවත් තොටින් ලංකාවට පැමිණියේය.
+ආර්ථික සංවර්ධන අමැති බැසිල්  රාජපක්ෂ,  සිවිල් ගුවන් සේවා ඇමැති ප‍්‍රියංකර ජයරත්න සහ විදේශ කටයුතු නියෝජ්‍ය ඇමැති  නියෝමාල් පෙරේරා  යන මහත්වරුන් විසින්  ජපාන  උප අගමැති  පිළිගැණිනි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2012-05-05 07:21:18</date>
+            <index>0</index>
+            <phrase>අනේ හොදයි. තව ආධාර ටිකක් දීලා යන්ට මෙයාලට සැප විදින්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-05 09:04:14</date>
+            <index>1</index>
+            <phrase>ගත හැකි සරල ආදර්ශය නම් ගුවන් ගමන් වියදම් අඩු කිරීමයි. අපේ අය යන විට ගුවන් යානා චාටර් කරන් යයි. ඇමතිවරු ව්‍යාපාරික පන්තියේ මහජන මුදලින් යයි. රටවල් දියුණු වුවත් බොරු සෝබන නැත. අපේ එක ප්‍රභූවරයෙකුට හෝ මෙය දැකීමෙන් මොළය පෑදී පැහැදේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දළු බණ්ඩා</author>
+            <date>2012-05-05 10:07:58</date>
+            <index>2</index>
+            <phrase>එයා ආවේ මිහින්ලංකා ගුවන් යානයකින් කියන්නේ ආවේ අපේ සල්ලි වලින්. ආව නෙවෙයි ගෙන්නගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනුස් අලවි.</author>
+            <date>2012-05-05 10:26:27</date>
+            <index>3</index>
+            <phrase>ජපානයට වඩා අපි දියුණුයි ජගත්.ඒක නේ අපි කොරියා චාරිකාව පවා සැප සේ ගිහිල්ලා ‍ආවේ......එම ගිය යානය ගිය දා පටන් නැවත එන තුරැ ....කොපමණ වියදමක්ද? ජපානයේ අය ඇවිල්ලා ඇත්තේ අපෙන් කීයක් හරි ආධාර ලබා ගෙන යන්න. ඒක නේ මිහින් ලංකා එකේ ඇවිල්ලා තියෙන්නේ....මේවැනි ආදර්ශ අපේ ඇමතිලා අරන් තිබුනා නම් මේ වේලාවේ අපේ ලංකාව දියුණුවෙලා හුගක් කල්.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර, ඉරාකයේ සිට</author>
+            <date>2012-05-05 10:27:11</date>
+            <index>4</index>
+            <phrase>අගමැති තුමනි, ඔයාටත් වෙසක් බලන්න පුළුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොන්</author>
+            <date>2012-05-05 10:48:38</date>
+            <index>5</index>
+            <phrase>ධම්ම සහ ජගත් ඔබල දෙදෙනාම ලියල තියන දේ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-05-05 11:19:03</date>
+            <index>6</index>
+            <phrase>මෙහි ලියලා තියෙන දේවල් කිසිම හරයක් නැති නූගත් අයගේ ඔවදන්. මේ වගේ අය ලංකාවේ ඉන්න තුරු රට හදන්නනම් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මව්රට</author>
+            <date>2012-05-05 11:20:35</date>
+            <index>7</index>
+            <phrase>වෙළ‍ද ඇමති මුළු රටටම වෙසක් පෙන්නුවා. දැන් ජපන් අගමැතිටත් පෙන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2012-05-05 15:13:41</date>
+            <index>8</index>
+            <phrase>සල්ලි අරගෙන තව ටිකක් කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

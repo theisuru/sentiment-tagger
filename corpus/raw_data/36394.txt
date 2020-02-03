@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36394</articleId>
+    <title>නව වසර උදාවෙයි</title>
+    <author>අරුණ ශාන්ත කුමාර  අතුල බණ්ඩාර</author>
+    <date>2012 අපේ‍්‍රල් මස 13 20:59:29</date>
+    <body>නව වසර උදාවීමෙන් පසු අද (13) පස්වරු 7.42 යෙදී තිබූ සුභ මොහොතින් ලිප ගිනි මොලවා සෑම නිවෙසකම ගිනි මෙලවිණි.</body>
+    <comments>
+        <comment>
+            <author>රොෂාන් කොඩිකාර</author>
+            <date>2012-04-14 09:16:59</date>
+            <index>0</index>
+            <phrase>සෑම නිවසකම කිරි ඉතිරෙව්වේ නැහැ. මුස්ලිම් ක්‍රිස්තියානි ගෙවල් වල ඒව කරන්නේ නැහැ. සිංහල බෟද්ධ සහ දෙමළ හින්දු අය විතරයි ඒක කළේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-04-14 11:18:38</date>
+            <index>1</index>
+            <phrase>ජනාධිපතිතුමාට, සියලු රට වැසියාටම, ලංකාදීප කාර්ය මණ්ඩලයට සුබම සුබ නව වසරක් වේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත ඩුබායි</author>
+            <date>2012-04-14 16:21:54</date>
+            <index>2</index>
+            <phrase>ශ්‍රී ලංකාවාදී සෑම සියලු දෙනාටම සියලුම යහපත් සිතුම් පැතුම් ඒ ආකාරයෙන්ම ඉටුවන නිදුක් නිරෝගී සුභ නව වසරක් වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-14 23:17:20</date>
+            <index>3</index>
+            <phrase>නව වසරට සුභපතනවා තමයි. ඒ වුනාට 2500 මතක්වෙනකොට හිතට හරි දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

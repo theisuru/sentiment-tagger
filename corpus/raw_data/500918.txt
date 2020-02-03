@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500918</articleId>
+    <title>බසයේ රාක්කයෙන් වැටුණූ බෑගය ජනේලයෙන් ඉවතට</title>
+    <author>ගලහ ඩබ්ලිව්ඒ අසේල</author>
+    <date>2017 ජනවාරි මස 25 10:58:49</date>
+    <body>බසයේ රාක්කයේ තිබූ බෑගය තමාගේ ඇඟට වැටීමෙන් කේන්ති ගිය පුද්ගලයෙකු එම බෑගය එක්වරම ජනේලයෙන් ඉවතට විසිකිරීමේ පුවතක් මහනුවරින් වාර්තා විය.
+පසුගිය දිනක මහනුවර සිට පේරාදෙණිය බලා ධාවනය වන පෞද්ගලික බස් රථයක සෙනග පිරී සිටි බැවින් බසයට නැගි මගියෙකු තම කාර්යාල බෑගය ඉඳගෙන සිටි කිසිවෙකු නොගත් නිසා බස් රථයේ රාක්කයට දමා ඇත. මුල්ගම්පල ප්‍රදේශයේදී එක්වරම බෑගය රාක්කයෙන් වැටී ඇති අතර එය එතැන අසුණේ සිටි තරුණයෙකුගේ ඔඩොක්කුවට වැටී ඇත. අසුනේ සිටි තරුණයාට කේන්ති ගොස් එක්වරම බෑගය ධාවනය වන බස්රියෙන් ඉවතට විසිකොට ඇත.
+මෙය දුටු අයිතිකරුට කරකියාගත දෙයක් නොමැතිව එක්වරම බසයේ සීනුව නාදකර බසයෙන් බැසගොස් ඇත. අවට සිටි පුද්ගලයින් අදාළ තරුණයාට දොස් පවරා ඇති අතර තරුණයා පවසා ඇත්තේ තමන්ට පහසුවෙන් බස් රථයේ ගමන් කිරීම අවශ්‍ය බවත් එම සිද්ධිය අනෙක් අයට අදාළ නොමැති බවත්ය.
+(ගලහ ඩබ්ලිව්.ඒ. අසේල) ​</body>
+    <comments>
+        <comment>
+            <author>අහමඩ්</author>
+            <date>2017-01-25 08:09:55</date>
+            <index>0</index>
+            <phrase>පිස්සෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලා</author>
+            <date>2017-01-25 08:35:32</date>
+            <index>1</index>
+            <phrase>මම නම් අදහස් කරන්නේ කරපු වැඩේ වැරදියි .කාර්යාලයට යන මහත්මයා බෑග් එක් රාක්කයේ තැබුවේ අතින් අරගෙන යන්න තරමේ අපහසු තත්වයක් බසය තුළ තිබුණු නිසා වෙන්න ඇති. ඒක විසි කරන්න තරම් ඉක්මන් නොවී හිටියානම් තමයි මහත්මා බව තියෙන්නේ.පහසුවෙන් බසයක යන්න ඕනි කියන මානසික තත්වය ඇතිව ලංකාවේ බසයක යන්න පුළුවනිද කියල හිතුවානම් කවදාවත් මේවගේ වැඩක් බෑගය විසිකරපු මහත්තයා නොකරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරූ</author>
+            <date>2017-01-25 12:47:29</date>
+            <index>2</index>
+            <phrase>මම නම් හිතන්නේ මේ පුද්ගලයා තිරිසනෙක් කියායි. කාර්යාල බෑග්වල කොතරම් වටිනදේවල් රැගෙන යනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරණපාල</author>
+            <date>2017-01-25 13:36:21</date>
+            <index>3</index>
+            <phrase>අපේ රට බෞද්ධ රටක්නේ තරහ යන්නේ නැහැ ඔය වග අසමජ්ජාති වැඩ කරන්නේ නැහැ. මේක කාගේ හරි බොරුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-01-25 16:33:33</date>
+            <index>4</index>
+            <phrase>අන්න හරි මහත්තයා... නියමයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2017-01-25 17:33:04</date>
+            <index>5</index>
+            <phrase>තව ටිකක් ඉවසන්න තිබුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-25 19:59:34</date>
+            <index>6</index>
+            <phrase>සරණපාල, මේක බෞද්ධ රටක් වුණාට සරණපාලලා වගේ අබෞද්ධයොත් ඉන්නවනේ. අන්න ඒකයි අවුල....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරූ-කලුතර</author>
+            <date>2017-01-25 20:18:18</date>
+            <index>7</index>
+            <phrase>අනේ අම්මපා සරණපාල කියන කතා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජු ශ්‍රී</author>
+            <date>2017-01-25 22:09:13</date>
+            <index>8</index>
+            <phrase>මටත් මේ වගේ දෙයක් පාසල් යන කාලයේ වුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-25 23:16:08</date>
+            <index>9</index>
+            <phrase>පහසුවෙන් යන්න ඕනෑ නම් තමන්ගේ පුද්ගලික වාහනයක ගියාම ඉවරනේ. මෙය හදිසියේ සිදුවූවක් නිසා අමාරුවෙන් හරි මනුස්සකමට ඉවසා ගන්න තිබුනා. පොදු වාහනවල යනකොට මීටවඩා අකරතැබ්බ වෙනවා. සමහරවිට තම ඇඳුම් අපිරිසිදු වෙනවා මම දැකලා තියනවා. ඇත්තෙන්ම ඒ මඟියා හරි ඉවසිලිවන්තයි. හරි කෙනෙකුට ඕක කළා නම් අත පයවලට බේත් ගන්න කැඩුම් බිඳුම් වෙදෙක් ගාවට ඔහුට යන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දියෝනිස්</author>
+            <date>2017-01-26 01:12:05</date>
+            <index>10</index>
+            <phrase>සරණපාල මහත්තයම වෙන්න ඇති වැඩේ දෙන්න ඇත්තේ. දැන් සුදනා වෙන්න හදනවා. වැඩේ හරි නැහැනේ මහත්තයෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2017-01-26 02:53:50</date>
+            <index>11</index>
+            <phrase>රාක්කයේ තබන දෙය බිම නොවැටෙන ලෙස තැබීමට තබන්න වගබලා ගතයුතුයි. වාඩිවී බසයේ යන මගීන්ට අනතුරුදායක ලෙස භාණ්ඩ රාක්කයේ නොතැබිය යුතුයි. දවසක් මම රත්නපුර සිට කලවාන දක්වා ගමන් කරන බසයක වාඩිවී සිටියදී එක තරුණියක් රාක්කයේ තැබූ බර යමක් සහිත බෑගය මගේ හිසමතට වැටී මා පැළඳ සිටි වටිනා උපැස් යුවල කැඩී ගියා. මටත් අර තරුණයාට මෙන්ම තරහ ඇතිවුණ නමුත් අන්තිමට කණ්ණාඩියේ කැබලි ටික අනික් මගීන්ගේද සහයෙන් එකතු කරගෙන ගියා. බෑග් එක තැබූ තරුණිය අඩුතරමින් සිදුවූ දෙය ගැන කණගාටුවවත් පළකළේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2017-01-26 03:05:42</date>
+            <index>12</index>
+            <phrase>දියුණු රටවල පොදු ප්‍රවාහන සේවයේ කාටවත් කරදර කරන්න බැහැ. එ් මනුස්සයා සල්ලි ගෙවල ටිකට් අරන් යන්නේ ඇඟට බඩු වැටෙන්න නෙමෙයිනේ. ලංකාව කියන්නේත් දියුණු රටක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2017-01-26 03:27:02</date>
+            <index>13</index>
+            <phrase>දවසක් මමත් ඔය වගේ බෑගයක් තියලා වාඩි වුණා. ඒක හදිසියේම ඉස්සරහ සීට් එකේ හිටපු කෙනෙක්ගේ හිසට වැ‍ටුණා. ඒත් මම සිහිකල්පනාවෙන් හිටි නිසා ඔලුවට දශමයක් තියා මම බෑගය අල්ලාගත්තා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිතික්</author>
+            <date>2017-01-26 04:46:39</date>
+            <index>14</index>
+            <phrase>මම නම් සෙනඟ පිරුණු බස් වල කවදාවත් යන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශිකා</author>
+            <date>2017-01-26 04:50:20</date>
+            <index>15</index>
+            <phrase>පිටිගල, ඔයා පාවිච්චි කරන කණ්ණාඩිය වටිනා එකක් කියලා කිවුවා නම් ඉවරනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2017-01-26 05:44:31</date>
+            <index>16</index>
+            <phrase>ලංකාවේ බහුතරයක් ඔය වගේ මොළේ අමාරුකාරයෝ. නැත්නම් පහසුවට යන්න බස් එකකට නගීද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2017-01-26 06:05:26</date>
+            <index>17</index>
+            <phrase>කලවාන-රත්නපුර බස් වල යන අය නම් ඔහොමම තමයි පිටිගල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්දික රොෂාන්</author>
+            <date>2017-01-26 06:48:18</date>
+            <index>18</index>
+            <phrase>මම නම් අනිවාර්යයෙන් ගහනවා ඒ වගේ කැත වැඩ වලට. පහසුවෙන් යන්න ඕනෑ නම් කාර් එකක් ගන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිනරමලී</author>
+            <date>2017-01-26 09:34:53</date>
+            <index>19</index>
+            <phrase>අපේ රටේ බස්රථ පදවන රියදුරන්ගේ වංගු ගැනිල්ලට, බස් එක ඇතුලේ ඉන්න මිනිස්සුත් එලියට විසිවෙන එකේ, බෑගයක් බිමට වැටෙන එකත් අහන්න දෙයක්ද.?පිටිගල,,බෑග් එක දන්නේ නැහැනේ ඔයාගේ උපැස් යුවල වටිනා එකක් කියලා...හා..හා.....?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2017-01-26 12:15:21</date>
+            <index>20</index>
+            <phrase>හවසට බොන්න ගත්ත ඕල්ඩ් අරක්කු බෝතලය බිඳී තිබුන නිසා මේ තරුණයා කණගාටු වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෑම්</author>
+            <date>2017-01-26 20:26:56</date>
+            <index>21</index>
+            <phrase>අපි මෙහේ බස්වල කට්ට කන අතරේ මැති ඇමතිවරු කාර් වල විඳින සැප?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-27 02:04:06</date>
+            <index>22</index>
+            <phrase>මොනවා කිවුවත් අපේ මනුස්සකම කියන එක කොහෙද මන්දා. මම රැකියාව කරන කාලේ කොළඹ මරදානේ ඉඳලා බෑග් දෙකත් අතින් එල්ලන් බදුල්ලට යනකම් ලංගම බසයේ හිටගෙන ගියා. මම කාටවත් කරදර කළෙත් නැහැ, මට කවුරුවත් උදවු කළෙත් නැහැ. ඒ ගැන මගේ අහිතකුත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් ලියනගේ</author>
+            <date>2017-01-27 06:41:34</date>
+            <index>23</index>
+            <phrase>පොදු ප්‍රවාහන සේවා භාවිතා කරන්නේ බොහෝවිට තමන්ගේ කියා වාහන නැති අය. ඉතිං අපි හැමෝම ඒකිනෙකා ගැන හිතන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2017-01-28 02:46:25</date>
+            <index>24</index>
+            <phrase>ඉවසීමක් නැති මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

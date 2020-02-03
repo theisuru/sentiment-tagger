@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46024</articleId>
+    <title>කරු ජයසූරිය රිය අනතුරක</title>
+    <author>සනත් ගමගේ  ජීරත්නායක</author>
+    <date>2012 ජූනි මස 01 16:35:29</date>
+    <body>එක්සත් ජාතික පක්ෂ ගම්පහ දිස්ත්‍රික් මන්ත්‍රී කරු ජයසූරිය මහතා සිය කාරයෙන් කතරගම යමින් සිටියදී මිරිජ්ජවිලදී අනතුරකට ලක්වී හම්බන්තොට රෝහලට ඇතුළු කරනු ලැබ සිටී. ඔහුට අද සවස් වන විට රෝහලෙන් පිටවිට හැකි බව වෛද්‍යවරු කියති. ජයසූරිය මහතාගේ බිරිය ද සීරීම් තුවාල ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>පොතේගුරු</author>
+            <date>2012-06-01 17:33:54</date>
+            <index>0</index>
+            <phrase>මැතිඳුනි ඔබට ඉක්මන් සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිචෙල්</author>
+            <date>2012-06-01 17:00:52</date>
+            <index>1</index>
+            <phrase>කීදෙනෙක් යටඋනාද දන්නෙ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසල</author>
+            <date>2012-06-01 19:29:22</date>
+            <index>2</index>
+            <phrase>ඉක්මන් ප්‍රතිඵල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-06-01 19:38:16</date>
+            <index>3</index>
+            <phrase>කතරගම දෙවියොන්ටත් එපාවෙලා වගේ මේ ගොල්ලන්ගේ යැදීම...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-06-01 19:47:47</date>
+            <index>4</index>
+            <phrase>කතරගමට යන පාර හරියට හදලා නෑ.. මේකට වගකියන්න ඕන ආණ්ඩුව.තත අපි මේ වෙනුවෙන් කොටුවෙ දුම්රියපොල ලග හවස 5න්පස්සෙ විරෝධතාවක් කරනවා.. ගොඩක් සෙනග පාරේ ඉන්නවනේ ඒ වෙලාවට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-06-01 19:59:01</date>
+            <index>5</index>
+            <phrase>සහරු හිතනව ඇති මැරුනනම් කියලා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසංග</author>
+            <date>2012-06-01 20:21:54</date>
+            <index>6</index>
+            <phrase>මට තේරෙන්නෑ මොකක්ද මේ වෙන්නේ කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරසේකර</author>
+            <date>2012-06-01 21:14:56</date>
+            <index>7</index>
+            <phrase>මෙයා හොදයි කිව්වට හීන් නූලෙන් වැඩ... දැන්වත් පාක්ෂිකයන්ට ද්‍රෝහිකම් නොකර ඉන්න.. පාක්ෂිකයෝ සාප කරනවා. ඒකයි මෙහෙම වෙන්නෙ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග පතිරණගේ</author>
+            <date>2012-06-01 22:27:26</date>
+            <index>8</index>
+            <phrase>ඔබට ඉක්මන් සුව පතනවා! බුදු සරණයි!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුප්රා</author>
+            <date>2012-06-01 22:40:02</date>
+            <index>9</index>
+            <phrase>අනේ පවු, රටේ වාසනාවටයි ඔබ තුමා බේරැණේ..!! හි හි හී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසෝජ්</author>
+            <date>2012-06-01 22:08:15</date>
+            <index>10</index>
+            <phrase>පරණ පිනක් වැඩකරල වගේ ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී</author>
+            <date>2012-06-01 23:42:12</date>
+            <index>11</index>
+            <phrase>වැඩ බැරි දාසට .............ඉක්මන් සුවය.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-06-01 23:56:50</date>
+            <index>12</index>
+            <phrase>මැතිතුමනි, මෙහෙම පාරෙ ගමන් කරන්න මොකද හදිස්සිය...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරැණ</author>
+            <date>2012-06-01 23:35:14</date>
+            <index>13</index>
+            <phrase>ඔබට ඉක්මන් සුවය ලැබේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකලබුජං</author>
+            <date>2012-06-02 00:25:59</date>
+            <index>14</index>
+            <phrase>නේ කරැ ඔයා හම්බන්තොටටම ආවද ඉස්පිරිතාලයක් හොයාගෙන.. ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-06-02 00:40:24</date>
+            <index>15</index>
+            <phrase>ඉක්මන් සුවය ලැබේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරනායක.</author>
+            <date>2012-06-02 01:47:38</date>
+            <index>16</index>
+            <phrase>අනේ පව් අපේ ගමේදී අනතුරක් උනාට මගේ කණගාටුව , අපේ ගමේ අරුණ ශාන්ත අයිය ඇතුළු අනිත් පිරිස ෆොටෝ එකෙන් දැකගන්න ලැබුණු එක ලොකු දෙයක්,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම් සිල්වා</author>
+            <date>2012-06-02 04:11:57</date>
+            <index>17</index>
+            <phrase>කකුල හෝදගන්නවත් වෙලාවක් නෑ.. වැඩ අධික මන්ත්‍රීව‍රයෙක් ඉක්මන් සුවය ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටීත</author>
+            <date>2012-06-02 06:03:12</date>
+            <index>18</index>
+            <phrase>අඩේ, එයා යන්නේ ටාටා ඉන්ඩිකා එකකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2012-06-02 06:37:38</date>
+            <index>19</index>
+            <phrase>අනතුරේ ස්වාභවය අනුව මීට වඩා බරපතල වෙන්න ඕන.. හෙද මනුෂ්වයෙක් හිංද සුළු තුවාල ලබල තියෙන්න. ඉක්මන් සුව ලැබේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂාන්</author>
+            <date>2012-06-02 07:53:59</date>
+            <index>20</index>
+            <phrase>ඉන්දියන් වාහන ගත්තම ඔහොම තමා. ඔබට ඉක්මන් සුවය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවී</author>
+            <date>2012-06-02 07:23:46</date>
+            <index>21</index>
+            <phrase>කරු මන්ත්‍රී තුමාගේ කාර් එක ටාටා ඉන්ඩිකාද? පුදුමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-06-02 10:29:36</date>
+            <index>22</index>
+            <phrase>අර ප්‍රාඩෝ එකද ලක්ෂාන් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-06-02 10:33:11</date>
+            <index>23</index>
+            <phrase>ඔබට ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකල බුජං</author>
+            <date>2012-06-02 11:33:27</date>
+            <index>24</index>
+            <phrase>වැරදි බාරයක් ඔප්පු වෙලා වගේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහෝ</author>
+            <date>2012-06-02 13:03:25</date>
+            <index>25</index>
+            <phrase>අයියෝ ....... අපේ සල්ලි..,වාහන 2 කෝටි කීයක්ද.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජන්තු</author>
+            <date>2012-06-02 13:02:10</date>
+            <index>26</index>
+            <phrase>ආ.. මරු අලි හොරු ඇයි බොරු යන්න කරූ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-02 13:08:52</date>
+            <index>27</index>
+            <phrase>ආවත් කරූ පායයි හිරූ පෙරලුනත් කරූ පැරදුනා මරූ ඉක්මන් සුවය පතමි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජීව</author>
+            <date>2012-06-02 14:13:30</date>
+            <index>28</index>
+            <phrase>වාහන 2ම පෙරලුනේ කොහොමද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍‍කෝර‍ලේ මහත්තයා</author>
+            <date>2012-06-02 14:50:11</date>
+            <index>29</index>
+            <phrase>දැන ගියොත් කතරගම නොදැන ගියොත් අතරමග .....කියල කථාවක් තිනෙවා ඕන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-02 15:20:05</date>
+            <index>30</index>
+            <phrase>අප හිතවත් කරු ජයසූරිය මැතිතුමා හට ඉක්මන් සුවය ප්‍රාර්ථනා කරමි.. තෙරුවන් සරණයි..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2012-06-02 15:30:46</date>
+            <index>31</index>
+            <phrase>මොනව උනත් හොඳ මනුස්සය..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්</author>
+            <date>2012-06-03 02:27:11</date>
+            <index>32</index>
+            <phrase>හිටියත් මෙලෝ වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිත්</author>
+            <date>2012-06-04 18:59:47</date>
+            <index>33</index>
+            <phrase>ඉක්මන් සුවය පතමි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-06-05 12:05:58</date>
+            <index>34</index>
+            <phrase>මෙවැනි රිය අනතුරු දැන් සාමාන්‍ය දේවල් වෙලා ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් බීපී</author>
+            <date>2012-06-05 14:32:24</date>
+            <index>35</index>
+            <phrase>මෙයා කඩේ යන විදියට ‍ඔයින් බේරැණා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-06-06 20:18:43</date>
+            <index>36</index>
+            <phrase>මැති ඇමතිතුමන්ලා කවුරු කවුරුත් තම තමන්ගේ වේග සීමා දැන ගත්තොත් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

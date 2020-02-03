@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17285</articleId>
+    <title>දඹුලූ උද්ඝෝෂණය උණුසුම් වෙයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2011 දෙසැම්බර් මස 13 12:57:58</date>
+    <body>එළවළු ප‍්‍රවාහනයෙන් ප්ලාස්ටික් කූඩ ඉවත් කිරීමේ තීරණය අද පස්වරු දෙක වන විට නොලැබුණහොත් සමරසිංහ නම් ගොවියකු ගිනි තබා ගන්නා බව එහි රැස්ව සිටි  ගොවියෙක් වෙළෙඳුන් හා මාධ්‍යවේදීන් අමතා කීවේය.
+එක් ගොවියෙක් විදුලි කණුවක නැග සිටියි. අමුඩයක් ගසාගත් තවත් ගොවියෙක් ඔරලෝසු කණුවේ නැග සිටියි.</body>
+    <comments>
+        <comment>
+            <author>මංජුල</author>
+            <date>2011-12-13 13:11:02</date>
+            <index>0</index>
+            <phrase>මේකට සාධාරණ විසඳුමක් ලබා දුන්නොත් නේද හොද?නැතිනම් මෙය ගොවියන්ට විශාල ගැටළුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2011-12-13 14:46:18</date>
+            <index>1</index>
+            <phrase>ගොවියො හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Yoonus</author>
+            <date>2011-12-13 14:50:56</date>
+            <index>2</index>
+            <phrase>මිනිසුනට අදහස් ප්‍රකාශකිරීමට පවා ශක්තියක් නෑ..ඇයි එළවලු නැතුව කෑමක් වත් නෑනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුධීර- වෙනිසිය</author>
+            <date>2011-12-13 14:54:40</date>
+            <index>3</index>
+            <phrase>අපේ මිනිස්සුන්ට හොඳ අලුත් දෙයක් ගන්න මේ තරම් අමාරු ඇයි ? නමුත් කූඩ වලට පොඩි විකල්පයක් ඒ කියන්නේ රජයෙන් පොඩි සහනාධාරයක් දුන්නනම් හොඳයි වගේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2011-12-13 15:54:53</date>
+            <index>4</index>
+            <phrase>රජය ගත්තු හොද තීරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

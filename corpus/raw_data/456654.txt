@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>456654</articleId>
+    <title>උලේ ඇනී තරුණයා මරුට</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 සැප්තැම්බර් මස 12 11:09:47</date>
+    <body>කිරුලපන බල පොකුණ පාරේ තෙමහල් ගොඩනැගිල්ලක උඩතට්ටුවකට  අද (12) අලුයම් කාලයේ නැඟුණු බව කියන නාඳුනන තරුණයකු (21) පහළට  වැටී තාප්පක උල්වල ඇනී මිය ගොස් සිටි බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-09-12 06:31:56</date>
+            <index>0</index>
+            <phrase>නිවසට හොරෙන් රිංගන්නවත් ගියාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී‍</author>
+            <date>2016-09-12 06:46:58</date>
+            <index>1</index>
+            <phrase>ඉස්සර අපේ දේශපාලුවෙකුත් ඔය විදිහට කාමරයකට රිංගන්න ගිහින් බිමට වැටිලා කකුල කඩාගත්තලු නේද. එයා නම් එ්කෙනුත් ලොකු ලාභයක් ලබාගත්තා කියලයි කියන්නේ. කොහොම බැලුවත් උන්නැහේලා දිනුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේල</author>
+            <date>2016-09-12 09:07:40</date>
+            <index>2</index>
+            <phrase>ඔය වගේ දේවල් කාටවත් සිද්ධ වෙන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපවතී</author>
+            <date>2016-09-12 12:51:26</date>
+            <index>3</index>
+            <phrase>පව් මේ අසරණ ජීවිතේ .. කොහොම මොකක් උනාද ? අපි දැක්කේ නැහැ. කෙසේ වෙතත් අසරණ ජීවිතයක් ... නිවන්සුව ලැබේවා ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2016-09-12 13:59:05</date>
+            <index>4</index>
+            <phrase>ගේ ඇතුලට පැනලා මිනිස්සුන්ට මොනා හරි කරානම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

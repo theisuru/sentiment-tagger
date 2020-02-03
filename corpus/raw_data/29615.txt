@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29615</articleId>
+    <title>බවුසර්කරුගෙන් ‘නව නිර්මාණයක්‘</title>
+    <author>පැත්දා කුමාරි</author>
+    <date>2012 මාර්තු මස 02 17:38:09</date>
+    <body>කොළඹීන් කල්පිටියට ඉන්ධන රැගෙන ගිය බවුසරයකින් එහි ධීවර වරායේ ටැංකියට තෙල් පුරවද්දී බවුසරයේ හොර ටැංකියකට ද තෙල් පිරවෙන සූත්‍රයක් අල්ලා ගැනීමට හැකි වූ බව කල්පිටිය පොලීසිය කියයි.
+ලාම්පුතෙල් රැගෙන ගිය බවුසරයකින් ලාම්පුතෙල් ගඳ දැනීම නිසා මේ හොරය හසු විය. බවුසරයේ හොර ටැංකියට තෙල් ඇදගන්නා නලයට සවිකර ඇති වෑල්වය වසා නොතැබීම නිසා මේ ගඳ දැනී තිබේ.
+ඩීසල් බවුසර් වලිනුත් මේ ක්‍රමයටම තෙල් හොරෙන් අදින බව සොයාගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>dr</author>
+            <date>2012-03-02 18:24:23</date>
+            <index>0</index>
+            <phrase>මේවා මෙහේ අයට සුළු දේවල්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයකාන්ත-ඇෆ්ගනිස්තාන්</author>
+            <date>2012-03-02 23:45:52</date>
+            <index>1</index>
+            <phrase>හොර වැඩ වලට ගණදෙවි නුවන පහළ වෙනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල්</author>
+            <date>2012-03-03 03:52:41</date>
+            <index>2</index>
+            <phrase>නියමයි. නව සොයාගැනීමට අනිත් බවුසරවලිනුත් උදව් දෙයිද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>508738</articleId>
+    <title>පොලිස්ථානාධිපති පහරදී සැරයන් රෝහලේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 පෙබරවාරි මස 21 19:33:02</date>
+    <body>යටියන්තොට පොලිසියේ ස්ථානාධිපතිවරයා පහර දුන්නැයි පොලිස් සැරයන්වරයකු අවිස්සාවේල්ල රෝහලට ඇතුළත් වී ඇත.
+මෙම පහරදීම සම්බන්ධයෙන් පැමිණිල්ලක් ලැබුණු බවත් ඒ ගැන පරීක්ෂණ කිරීමට සහකාර පොලිස් අධිකාරිවරයකු පත් කර ඇති බවත් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත ජයකොඩි මහතා පවසයි.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>චුට්ටේ</author>
+            <date>2017-02-21 17:36:53</date>
+            <index>0</index>
+            <phrase>අම්මෝ! සැරයන්ට ගැහුව නිසා රෝහලට යන්න පුළුවන් වුණා. අපිට ගැහුවා නම් කනත්ත තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2017-02-22 00:29:40</date>
+            <index>1</index>
+            <phrase>සමහර පොලිස් ලොක්කෝ හිතනවා මීට අවුරුදු හැට හැත්තෑවකට පෙර තිබුන පොලිසිය කියලා තවමත් තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-02-22 02:07:31</date>
+            <index>2</index>
+            <phrase>දැන් සැරයන් දන්නවා ඇති පහර කනවිට තිබෙන අමාරුව. ඒ වගේම හිතෙනවා කෙනෙකුට පහරදීමට තව කෙනෙකුට අයිතියක් නැතිබව. ඒ එක්කම සිතෙනවා ඇති එයටත් ආපසු ගැසීමේ අයිතියක් තිබෙන බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක ලොස් ඇන්ජලිස්</author>
+            <date>2017-02-22 05:34:16</date>
+            <index>3</index>
+            <phrase>බලු වලිගය උණ පුරුකේ දැම්මත් බැහැ ඇද අරින්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-22 06:47:26</date>
+            <index>4</index>
+            <phrase>කවුරු හරි දන්නවද සැරයන් කෙනෙක් පහර දීල ස්ථානාධිපතිවරයෙක් රෝහල් ගත වුනා කියල එහෙම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

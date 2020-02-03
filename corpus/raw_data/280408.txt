@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>280408</articleId>
+    <title>උපන් දා සිට කරපු පව් නැත වරක් වැන්දොත් කැළණියේ</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2014 දෙසැම්බර් මස 06 15:10:17</date>
+    <body>උඳුවප් පෝදා ඓතිහාසික කැළණිය රජ මහා විහාරයට මහ පිරිසක් ඇදී ආහ.
+දන්, සිල්, බණ, භාවනා වැඩසටහන් රැසක් එහි විය.</body>
+    <comments>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2014-12-06 09:49:50</date>
+            <index>0</index>
+            <phrase>මොනතරම් හොද දෙයක්ද,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසිලින්</author>
+            <date>2014-12-06 10:15:36</date>
+            <index>1</index>
+            <phrase>සැම හිතක් ම තෙරුවන් බලෙන් සුවපත් වේවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-12-06 11:10:07</date>
+            <index>2</index>
+            <phrase>බුදුදහමේ පෙන්නා දෙන විදියට අප හැම දෙනාම ජීවත් වෙනවා නම් කොපමණ දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-12-06 13:19:08</date>
+            <index>3</index>
+            <phrase>සාදු...සාදු....සාදු...!මමත් සිතෙන් කැළණි වැන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේ</author>
+            <date>2014-12-06 13:45:31</date>
+            <index>4</index>
+            <phrase>මම ඇත්තටම නොදන්නා නිසා අහන්නේ. වරක් කියලා කියන්නේ ඇත්තටම එක සැරයක්ද එහෙම නැත්නම් වාර කීයක්ද. දන්නා කෙනෙක් කියන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගජදීර</author>
+            <date>2014-12-06 15:35:19</date>
+            <index>5</index>
+            <phrase>එහෙම නම් සියළුම දෙසපාලකයෝ වඩිත්වා!!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-12-06 16:50:55</date>
+            <index>6</index>
+            <phrase>"උපන් දා සිට කරපු පව් නැත වරක් වැන්දොත් කැළණියේ" මේ වගේ දේ වලින් මුලාවෙලා ලංකාවේ බෞධයෝ හැමදාම පාපයේ තමා ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලී ෆොන්සේක</author>
+            <date>2014-12-06 20:55:36</date>
+            <index>7</index>
+            <phrase>කුමාර් පව් පින් ගැන අපි දන්නවා හොදේ ඔයා කියන්න ඕනි නැ.තමන් කරන දේවල් කොයි වෙලේ හරි පඩිසන් දෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2014-12-06 21:49:18</date>
+            <index>8</index>
+            <phrase>ඔව් , ගිහින් වැඳ වැඳ ඇවිත් පව් කොරපල්ලා. ඊට පස්සේ ගිහින් වැඳ පල්ලා, මිනි මරපල්ලා, දුෂණය කොරපල්ලා, මංකොල්ල කාපල්ලා, ළමයි සහ ගෑනු දුෂණය කොරපල්ලා, ඊට පස්සේ ආපහු ගිහින් වැඳ පල්ලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2014-12-06 21:51:23</date>
+            <index>9</index>
+            <phrase>හරි නම් තියෙන්න ඕන "උපන් දා සිට කරපු පව් නැත වරක් වැන්දොත් කැළණියේ, ආපහු කැලණියට නොයෙන්නට පව් නොකරව් මින් මතුවට"</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් පෙරේරා</author>
+            <date>2014-12-06 21:51:45</date>
+            <index>10</index>
+            <phrase>ඔව්, ඇත්තටම එක වරක් හරියට වඳින්න උත්සහ කරන්න. බුදු දහමේ තියන ගැඹුරු තත්වය ඔබට තේරේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බංඩාර</author>
+            <date>2014-12-06 21:58:30</date>
+            <index>11</index>
+            <phrase>වරක් කියල කියන්නේ එක වාරයක් කියන එක නෙමේ. එ්ක හරියට එක ආත්මයක් එක දිගට වගේ අර්ථයක් තියෙන්නේ. කුමාර් බෞද්ධ අපි නම් පව් කලොත් ඊට නිසි දඩුවම් ලැබෙන බව දැනගෙනයි ජීවත් වෙන්නේ. බෞද්ධ රටක තියෙන නිදහස නිසා තමයි ඔහොම කොමෙන්ට් උනත් දාන්න පුළුවන්. මොකෝ මෙහෙ අර ආගමික පොලීසි නැහැනේ. මේවා විහිලුවට ගන්න එකත් පාපයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනෙෂ්</author>
+            <date>2014-12-06 23:53:10</date>
+            <index>12</index>
+            <phrase>ගජදීර, ඒ නිසා තමයි අර එක්කෙනෙක් ඔහේටම වෙලා ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2014-12-06 23:59:20</date>
+            <index>13</index>
+            <phrase>බුදු දහමේ පන්සලකට වැදලා පව් නැති කරගන්න පුළුවන් කියල කියල නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2014-12-07 01:04:57</date>
+            <index>14</index>
+            <phrase>වරක් වැන්දොත් කියලා කියන්නේ ජනතා වහරින් පැවතෙන්නක්. මෙයින් අත්වන්නේ චිත්ත ප්‍රීතියක් පමණයි. ආමිස පුජාවට වඩා ප්‍රතිපත්ති පූජාව උතුම්ය. දැන් දැන් ප්‍රතිපත්ති ගැන සිතන්නෙම නැත. සාමාන්‍යයෙන් ආමිස පුජාව තියෙන්නේ බුද්ධිය අඩු, සිතීමට නොහැකි අයට සිත සන්සුන්ව තබාගැනීමට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබු ඩාබි පොඩී</author>
+            <date>2014-12-07 04:12:34</date>
+            <index>15</index>
+            <phrase>විජේ සහෝදරයා වරක් කියන්නේ නොකඩවා වසරක් කියනඑක ....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2014-12-07 05:09:42</date>
+            <index>16</index>
+            <phrase>පව් සමා කළහැකි ක්‍රමයක් බෞදයන්ගේ නැත පාපයක් කලොත් එක ගෙවන්නම ඕන නමුත් මෙහි කියවෙන්නේ පවට සමව දෙන බව නෙවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-12-07 05:32:00</date>
+            <index>17</index>
+            <phrase>මර්වින් මෙතනට හැමදාමත් ගිහින් කරගෙන තියෙන තරමක් කරගෙන තියෙන්නේ පව්! උපන්දා සිට කතාව අදාළ පිරිසිඳු වෙන්න අවංකවම උත්සහ කරන අයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2014-12-07 05:49:43</date>
+            <index>18</index>
+            <phrase>විජේ,වරක් කියන්නේ එක වරක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2014-12-07 05:57:11</date>
+            <index>19</index>
+            <phrase>ඔන්න ඔන්න කුමාර් මහත්මයා ආපහු පරණ තත්වයට වැටෙන්න හදනවා.ඔබ තුමාගේ ආගම මොකද්ද කියලා මම දන්නවා. ඔබතුමාට මීට කලිනුත් මම කියලා ඇති. මත්භේදාක්මක ආගමික අදහස් පළකිරීමෙන් කරුණාකර වලකින්න. එය බුදුදහමටත් හොද නැහැ ඔබතුමා අදහන ආගමටත් හොද නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

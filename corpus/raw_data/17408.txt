@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17408</articleId>
+    <title>මෝදෙනා පංසල  සෝම හිමි සමරයි</title>
+    <author>සමන්ත විජෙසිරි</author>
+    <date>2011 දෙසැම්බර් මස 13 20:26:21</date>
+    <body>ශ‍්‍රී ලාංකික බෞද්ධ ජනතාවගේ නැණ පහන දල්වාලමින් බෞද්ධ පුනරුදයක් ඇති කිරීමට කැප වූ ගංගොඩවිල සෝම හිමියන් දැයට අහිමිවී අට වසර 8ක් ගතවීම සමරමින් ගුණා අනුස්මරණ පිංකමක් ඉතාලියේ මෝදෙනා මෛතී‍්‍ර විහාරස්ථානයේ දී විහාරාධිපති මෙදේරිපිටියේ විමලරතන හිමියන්ගේ මෙහෙයවීමෙන් පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2011-12-13 21:13:06</date>
+            <index>0</index>
+            <phrase>අපේ අවාසනාවට උන් වහන්සේ අපට නැති වුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශසිකලා</author>
+            <date>2011-12-14 13:25:13</date>
+            <index>1</index>
+            <phrase>පින්වන්ත ‍වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

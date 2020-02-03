@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59397</articleId>
+    <title>කුඩු අදින්න උදව් දීලා හිරබත් කති</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 අගෝස්තු මස 17 16:22:15</date>
+    <body>ඉන්දියාවේ සිට ශ්‍රී ලංකාවට මත් ද්‍රව්‍ය රැගෙන ආ පිරිසකට ආධාර දුන් ශ්‍රී ලංකිකයකුට වසර 20ක් ද තවත් ලාංකිකයන් දෙදෙනකුට වසර 10 බැඟින් සිර දඬුවම් ඉන්දියාවේ චෙන්නායි අධිකරණයකින් නියම විය. ශ්‍රී ස්කන්ධරාජා (38) නැමති ලාංකිකයාට රංගනාදන් ප්‍රභාකරන් සහ එන්. කන්දීපන් ඔවුහුය.</body>
+    <comments>
+        <comment>
+            <author>බමුණුගම</author>
+            <date>2012-08-17 20:54:45</date>
+            <index>0</index>
+            <phrase>නිහමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-17 20:56:09</date>
+            <index>1</index>
+            <phrase>රට කන තවත් ප්‍රභාකරන් කෙනෙක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුවීන්</author>
+            <date>2012-08-17 21:55:08</date>
+            <index>2</index>
+            <phrase>ඔහේම තියාගන්න ..ලංකාවට එවන්න එපා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂන</author>
+            <date>2012-08-18 00:12:04</date>
+            <index>3</index>
+            <phrase>20 ක් මදි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-18 07:57:19</date>
+            <index>4</index>
+            <phrase>බලාගෙන අරයට තරහයයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-08-18 10:08:09</date>
+            <index>5</index>
+            <phrase>එයාල මෙහෙ අය නෙවෙයිනේ ඔහොම තියාගන්න...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත - ඉබ්බාගමුව</author>
+            <date>2012-08-18 10:22:07</date>
+            <index>6</index>
+            <phrase>ඉන්දියාවත් ලංකාවත් දෙකම ගත්තහම සමහර වෙලාවට නීතිය ක්‍රියාත්මක වෙන්නේ මන්දගාමී සහ එක පාර්ෂවයකට පක්ෂපාතිවයි. පොලීසිය පවා නිදියන් සිටිනවා දකිනුයේ මෙවන් අවස්ථා වලදියි. ලංකාවේ සිටින දැවැන්ත කුඩු ව්‍යාපාරිකයන්ට නීතිය දිග හැරෙන්නේ නැහැ. පොඩි අයට නම් නිසි දඩුවම් ලැබෙනවා. නමුත් අපි විශේෂයන් පහර දෙන්න ඕනෑ ඒ විශ බීජය වපුරන මුදුන් මුලටයි.කොහොම වුණත් ලංකාවේ දී නොවුනත් ඉන්දියාවෙන් හරි ලැබුණ මේ තීණ්දුවට අපි සතුටු විය යුතුයි. නැතිනම් මේ කුඩු තොගය එන්නේ ලංකාවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

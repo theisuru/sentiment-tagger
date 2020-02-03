@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36500</articleId>
+    <title>ලන්ඩන් ජීවිතේ බල්ලට ගිහින්</title>
+    <author>තිස්ස මඩවල</author>
+    <date>2012 අපේ‍්‍රල් මස 14 21:11:08</date>
+    <body>මහා බ්‍රිතාන්‍යයේ සෑම ගෙදරකම වාගේ බල්ලකු හෝ බළලකු බොහෝ දුරට ඇති කරන නමුත් ඇස් නොපෙනෙන මිනිසුන්නට මග පෙන්වන බල්ලන් සමග මුස්ලිම් අවන්හල්වලට හෝ මුස්ලිම් ජනයා යන එන බස්වලට හෝ ඇතුළුවීමට ඉඩ නොලැබේ.
+මෑතකදී කෙන්හි අවන්හලකට තම බල්ලා සමග ගිය අන්ධයකුට එහි ඇතුළුවීමට මුස්ලිම් හිමිකරු ඉඩ දුන්නේ නැත. වෙනත් අවස්ථාවකදි අඳකතක් සිය බල්ලා සමග බසයකට නැගීමට සිටි විට රියදුරා බසය නැවැත්වූ නමුත් එහි මුස්ලිම් කාන්තාවක් ගමන් කරන නිසා බල්ලාටත් කාන්තාවටත් නගින්නට ඉඩ නොලැබිණි. ඊළඟට ආ බසයේ රියදුරා මුස්ලිම් ජාතිකයකු නිසා ඇයට ඒ බසයේද දොර වැසිණි.
+ලන්ඩන් ප්‍රවාහන සේවය සිය සේවකයනට උපදෙස් දී ඇත්තේ මුස්ලිම්වරුන්ගේ මේ සංස්කෘතික විශ්වාසය පළුදු නොකරන ලෙසයි.
+මුස්ලිම් දේවස්ථාන හා ගෙවල් බිමේදී බල්ලන්ගේ පාදවලට හම් සපත්තු විශේෂයක් පැළැඳැවෙයි.</body>
+    <comments>
+        <comment>
+            <author>chef123</author>
+            <date>2012-04-15 03:16:30</date>
+            <index>0</index>
+            <phrase>බල්ලා ලග තියන මනුස්සකම මිනිසුන් ගාව නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑ</author>
+            <date>2012-04-15 05:33:33</date>
+            <index>1</index>
+            <phrase>ඒ කියන්නේ ලන්ඩන් ජීවිතෙත් වෙන කාටද ගිහින් ද .......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-04-15 06:11:51</date>
+            <index>2</index>
+            <phrase>මිනිසාගේ හොදම යාළුවාට මෙහෙමද සලකන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාලිංග</author>
+            <date>2012-04-15 07:06:21</date>
+            <index>3</index>
+            <phrase>ඒකනම් වැරදි වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2012-04-15 08:08:04</date>
+            <index>4</index>
+            <phrase>දන්න තරමින් ආරාබි රටවලවත් එහෙම නීතියක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩ</author>
+            <date>2012-04-15 10:25:59</date>
+            <index>5</index>
+            <phrase>ඕකට තමයි මානව හිමිකම් කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලයා</author>
+            <date>2013-06-27 07:48:50</date>
+            <index>6</index>
+            <phrase>ආගමෙත් ප්‍රශ්න නිසා බල්ලන්ට කැමති නැතුව ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

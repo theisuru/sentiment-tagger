@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>469539</articleId>
+    <title>මාස හතකට පසු දිඹුලාගලට/වැලිකන්දටත් වැසි</title>
+    <author>නිමල් ජයරත්න</author>
+    <date>2016 ඔක්තෝබර් මස 18 17:28:01</date>
+    <body>මාස හතකට පමණ පසු පොළොන්නරුව දිඹුලාගලට සහ වැලිකන්දට ද අද මහ වැසි ඇද හැලෙන්නට විය.
+ජලය නොමැතිව වැලිකන්දේ තිස් දහසක් පමණ වීඩාවට පත්වී සිටියහ.
+ජලය සොයා ඇදෙන ඇලි ඇතුන් නිසා වැලිකන්දේ බොහෝ දෙනෙක් දැඩි අසීරුතාවට පත්වූහ.</body>
+    <comments>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-10-18 12:52:14</date>
+            <index>0</index>
+            <phrase>මහජනයාගේ සහ දේශපාලකයන්ගේ වැරදි ක්‍රියාකාරකම් නිසා තම නියඟය මෙතරම් කාලයක් තිබුණෙ වැසි දෙවියන්ට පින්සිදවෙව දැන්වත් හැමෝම පරිසරය රකින්න අඩුම ගැනේ එක පැලයක් හිටවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-10-18 15:25:13</date>
+            <index>1</index>
+            <phrase>දේවෝ වස්සතු කාලෙන-රජා භවතු දම්මිකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-10-18 16:10:49</date>
+            <index>2</index>
+            <phrase>අනේ වාසනාවන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත කටාර්</author>
+            <date>2016-10-18 16:32:40</date>
+            <index>3</index>
+            <phrase>කල් වැසි වසීවා! කෙත් වතු සාර වේවා! සත් සිත් නිවේවා! රජය දැහැමිව ලෝවැඩ වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසධ</author>
+            <date>2016-10-18 17:40:55</date>
+            <index>4</index>
+            <phrase>සතුටුදායක පුවතක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2016-10-19 08:42:50</date>
+            <index>5</index>
+            <phrase>අනේ වාසනාවන් තව වැහි වසීවා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

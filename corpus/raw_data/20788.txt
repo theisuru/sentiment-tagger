@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20788</articleId>
+    <title>රුදුරුයි ඒත් හරි ලස්සනයි</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2012 ජනවාරි මස 06 18:07:53</date>
+    <body>ඉතාලියේ ඵඩිනා ගිනි කන්ද දෙසැමිබර් 31 වැනිදා මධ්‍යම රාත‍්‍රියේ පටන් පිපිරෙන්නට විය. උසින් මිටර් 3200ක් වන ඵය යුරෝපයේ වීශාලතම ගිනි කන්දයි. පසුගිය වසරෙ 18 වතාවක් සක‍්‍රිය වීය. ඉතාලියේ සිසිලියේ කටානියා නගර සිමාවෙහි ඵඩිනා පිහිටයේය. සිසිලියේ ස්ට්‍රෝමිබොලි හා ජපානයේ සකූරා ජිමා ගිනිකදූ දෙක ද ජනවාරි පළමුවැනි දා උදෑසන සිට සක‍්‍රිය වීය.
+සිසිලියේ ස්ට්‍රෝමිබොලි ගිනි කන්ද
+
+
+
+සකූරා ජිමා ගිනි කන්ද
+
+
+
+ඵඩිනා ගිනි කන්ද</body>
+    <comments>
+        <comment>
+            <author>කුමා</author>
+            <date>2012-01-06 23:44:12</date>
+            <index>0</index>
+            <phrase>විශිෂ්ඨ පින්තූර. ස්තුතියි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-01-08 02:02:17</date>
+            <index>1</index>
+            <phrase>නියමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2012-01-09 16:26:21</date>
+            <index>2</index>
+            <phrase>හොඳ පින්තූර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-01-16 10:10:42</date>
+            <index>3</index>
+            <phrase>සොබා දහමේ අපූරු චමත්කාරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

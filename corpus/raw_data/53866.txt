@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>53866</articleId>
+    <title>එජාප දොස්තර දේපොළ වැනසුවාට පහකට නඩු?</title>
+    <author>උපාලි ආනන්ද</author>
+    <date>2012 ජූලි මස 17 12:42:57</date>
+    <body>හිටපු තානාපතිවරයකු හා එක්සත් ජාතික පක්‍ෂ කළමනාකාරවරයකු වූ දොස්තර රාජා ජොන් පුල්ලේගේ වෛද්‍ය මධ්‍යස්ථානයට ගිනිතබා රුපියල් කෝටි පහක අලාභහානි කළැයි සැකපිට අධිචෝදනා ලැබූ ප‍්‍රාදේශීය සභා මන්ත‍්‍රීවරයකු ඇතුළු පස්දෙනාට අගෝස්තු 24 වැනිදා පෙනී සිටින ලෙස අනුරාධපුර මහාධිකරණ විනිසුරු සුනන්ද කුමාර රත්නායක මහතා නියෝග කළේය.
+මිහින්තලේ ප‍්‍රාදේශීය සභා මන්ත‍්‍රී අනිල් පුෂ්පානන්ද, ප‍්‍රසන්න කුමාර බස්නායක, ජේ.එච්. කමල් ගාමිණී ජයසූරිය, ටිරාන් පෙරේරා, ටී.එම්. ඒකනායක ඔවුහුය.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-17 13:16:41</date>
+            <index>0</index>
+            <phrase>ඇප දෙන්න හොඳ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත මන්ජුල</author>
+            <date>2012-07-17 15:08:00</date>
+            <index>1</index>
+            <phrase>ලංකාව ලිබියාවක් වෙනවා ඒකාන්තයෙන්ම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරිදේ</author>
+            <date>2012-07-17 16:37:18</date>
+            <index>2</index>
+            <phrase>මිහින්තලේ ප‍්‍රාදේශීය සභා මන්ත‍්‍රී අනිල් පුෂ්පානන්ද ගැන අපි දන්නවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියතපාල</author>
+            <date>2012-07-17 17:43:50</date>
+            <index>3</index>
+            <phrase>එජාපය වැනසූ අයට නඩු දාන්නේ කවදාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග සඳරුවන්</author>
+            <date>2012-07-17 22:09:16</date>
+            <index>4</index>
+            <phrase>රාජා ජෝන් පුල්ලේ මහත්තයා මැරිලා මේ ඔක්තෝම්බර් 6 වෙනිදාට අවුරුදු 4 වෙනවා. තාම වැරදිකාරයා හොයාගෙන නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>UNP</author>
+            <date>2012-07-18 12:43:25</date>
+            <index>5</index>
+            <phrase>මේ නියතපාල, ඔහේ කියන්න ඕනේ නෑ නඩු දාන්න.පුලුවන් නම් මෙලහකටත් දාලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

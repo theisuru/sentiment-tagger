@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>11148</articleId>
+    <title>කැකිරා ඇතා අන්ධයෙක්</title>
+    <author>දඹුල්ල කාංචන කුමාර ආරියදාස</author>
+    <date>2011 ඔක්තෝබර් මස 30 14:22:20</date>
+    <body>කැකිරාවේදී වාහන පනහකට පහරදී අලාභ හානි කළ ඇතාගේ ඇස් දෙකම අන්ධ බව
+වන ජීවී පශු වෛද්‍ය චන්දන ජයසිංහ කියයි
+ඇතා දඹුල්ලේ සිට කිලෝ මීටර 35 ක මග ගෙවා කලාවැව තාවුල්ලට ගොස් සිටින බවත්
+වෙඩි වැදුණු තුවාල නිසා ඇතාට ප‍්‍රතිකාර කිරීමට හෝ වෙනත් දෙයකට රුගෙන යාම සදහා
+නිර්වින්දනය කළ නොහැකි බවත් ඔහු පවසයි</body>
+    <comments>
+        <comment>
+            <author>Dhilaan</author>
+            <date>2011-10-30 19:26:57</date>
+            <index>0</index>
+            <phrase>මෙම සතාව මරන්න දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බොනී</author>
+            <date>2011-10-31 09:15:23</date>
+            <index>1</index>
+            <phrase>අනේ මරවන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

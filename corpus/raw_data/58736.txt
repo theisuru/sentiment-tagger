@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58736</articleId>
+    <title>අම්සා බෙල්ජියමට - රවිනාථ ජීනීවා නුවරට</title>
+    <author>තිස්ස මඩවල  තිලිණි ද සිල්වා</author>
+    <date>2012 අගෝස්තු මස 14 11:45:31</date>
+    <body>මහා බි‍්‍රතාන්‍යයේ හිටපු නියෝජ්‍ය මහා කොමසාරිස් පී.එම්. අම්සා මහතා බෙල්ජියමේ ශ්‍රී ලංකා තානාපති ලෙස පත් කරනු ලැබීය.
+බෞද්ධ හින්ද, ක‍්‍රිස්තියානි හා ඉස්ලාම් ආගමික වතාවත් පවත්වා ඔහු වැඩ බාරගත්තේය.
+මේ අතර බ‍්‍රසල්හි ශ්‍රී ලංකා තානාපති රවිනාථ ආරියසිංහ මහතා එක්සත් ජාතින්ගේ ස්විට්සර්ලන්තයේ ජිනීවා නුවර නියෝජිතයා ලෙස පත් කරනු ලැබ සිටී.</body>
+    <comments>
+        <comment>
+            <author>සම්පත් බණ්ඩාර</author>
+            <date>2012-08-14 13:54:00</date>
+            <index>0</index>
+            <phrase>අපේ සුභ පැතුම්! අම්සා මහත්මා දක්ෂ නිලධාරියෙක්. එතුමාට තානාපතිකමක් ලැබීම ගැන ඉතාම සතුටුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-08-14 14:07:03</date>
+            <index>1</index>
+            <phrase>සිංහලයටනම් කිසිම වෑඩක් වෙන එකක් නැහැ කොහොමත්. මොකද ඔය එක තානාපති කාර‍යාලයකින්වත් සිංහල මිනිස්සුන්ට වෙන වෑඩක් නැහැ. බොරුනම් හොයලා බලන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-14 20:13:47</date>
+            <index>2</index>
+            <phrase>මොවුන් රට වෙනුවෙන් යම්කිසි සේවයක් කිරීමට හැකි උගත්, වටිනා මිනිසුන්ය. නමුත් එම සේවය හරියාකාරව ඉටු වේද යන්න නම් අපට ඇති ප්‍රශ්නයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-08-14 21:07:48</date>
+            <index>3</index>
+            <phrase>මොකද මෙහෙම තැනින් තැනට මාරු කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-08-15 07:18:32</date>
+            <index>4</index>
+            <phrase>ඔබගේ අදහසත් ඇතුළත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වැඩපියා</author>
+            <date>2012-08-15 16:06:45</date>
+            <index>5</index>
+            <phrase>චරිත්, සංජීව මම මෙ දෙන්නාවම හොඳට දන්නවා එකට වැඩකරලත් තියෙනවා. රට වෙනුවෙන් වැඩ කරන ෆුල් වැඩකාරයො. කරැනාකරල නොදන්න දේවල් ලියන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

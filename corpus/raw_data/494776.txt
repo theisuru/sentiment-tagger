@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494776</articleId>
+    <title>සුබ නව වසරක් වේවා !</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 01 00:02:34</date>
+    <body>ලැබුවා වූ 2017 වසර සුබ නව වසරක් වේවා... !
+
+ </body>
+    <comments>
+        <comment>
+            <author>ගුණසිරි</author>
+            <date>2016-12-31 19:45:35</date>
+            <index>0</index>
+            <phrase>2017 ඔබ සැමට යහපතක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ක්‍රිස්</author>
+            <date>2016-12-31 19:52:26</date>
+            <index>1</index>
+            <phrase>ලංකාවාසී සියලු දෙනාටත්, ලංකාදීප කතෘ මණ්ඩලය ඇතුළු සියලුම දෙනාටත්, එසැණ පාඨක ඔබ සැමටත් ලැබුවාවූ නව වසර දුකෙන් තොර වූ වාසනාවන්ත නව වසරක් වේවා..!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-12-31 20:23:28</date>
+            <index>2</index>
+            <phrase>ලැබුවා වූ නව වසරේ ජය සතුට පැතිරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2016-12-31 20:22:08</date>
+            <index>3</index>
+            <phrase>එසේම වේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2017-01-01 00:06:53</date>
+            <index>4</index>
+            <phrase>ලංකාදීපය, ඔබටත් කාර්ය මණ්ඩලයටත් ජයෙන් ජයම වන වාසනාවන්ත නව වසරක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2017-01-01 02:01:06</date>
+            <index>5</index>
+            <phrase>ලංකාදීපයටත් එසේම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2017-01-01 02:03:14</date>
+            <index>6</index>
+            <phrase>ඔබ සැමටත් සුභ නව වසරක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2017-01-01 03:29:18</date>
+            <index>7</index>
+            <phrase>2017 වසර ලංකාදීප පුවත්පතේ සමස්ත කාර්ය මණ්ඩලයටත් ශ්‍රී ලංකාවාසී ලෝකවාසී සැමදෙනාටත් සාමය සතුට සම්පත පිරි නිරෝගිමත් නව වසරක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2017-01-01 04:01:39</date>
+            <index>8</index>
+            <phrase>ලංකාදීප පුවත්පතෙහි සියලුම දෙනාටත් මෙහි අදහස් දැක්වූ නොදැක්වූ සියලුම දෙනාට සහ ලක්වාසි සැමට වාසනාවන්ත 2017 සුබ නව වසරක් වේවායි ඉත සිතින්ම පතමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණුක</author>
+            <date>2017-01-01 04:11:58</date>
+            <index>9</index>
+            <phrase>උදාවූ 2017 නව වසර ලංකාදීප පුවත්පතේ කතු සිරි රණසිංහ (මගේ ගුරු) තුමා, එසැණ පුවත් සංස්කාරකවරු ඇතුළු සමස්ත කාර්ය මණ්ඩලයටත්, එසැණ පුවත් සමඟ නිරතුරු අදහස් - උදහස් හුවමාරු කරගන්නා සොයුරු, සොයුරියන්ටත් ශ්‍රී ලංකාවාසී, ලෝකවාසී සැමදෙනාටත් ආයු,වර්ණ, සැප, බල, ප්‍රඥා සහ නිබඳවම මනුෂ්‍යත්වය පිරී පවතින්නාවූ නව වසරක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුත්තලම එච්. චන්දන</author>
+            <date>2017-01-01 04:24:37</date>
+            <index>10</index>
+            <phrase>එසැණ කාර්ය මණ්ඩලයටත්, ලංකාදීප සියළු හිතවත් සේවක මහතුන් සැමටත් වාසනාවන්ත නිරෝගිමත් සුභ අළුත් අවුරුද්දක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2017-01-01 04:45:58</date>
+            <index>11</index>
+            <phrase>ප්‍රාර්ථනාවම පමණක් ප්‍රමාණවත් වන්නේ නැහැ. පැතුම් ලබන අයත් ඊට ගැළපෙන අයුරින් කටයුතුකළ යුතුයි. ඔබසැමට ඒ අයුරින් කටයුතු කිරීමට හැකිවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

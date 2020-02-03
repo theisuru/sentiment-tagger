@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41135</articleId>
+    <title>දෙන්නෙක් දුම්රියේ වැදී මරුට</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 මැයි මස 08 06:52:05</date>
+    <body>යතුරු පැදියකින් ගමන්කළ දෙදෙනකු බේරුවල දී රුහුණු කුමාරී දුම්රියේ වැදී මියගිය බව පොලීසිය කියයි. දුම්රිය සදුදා සවස මාතර බලා යමින් සිටියදී මේ අනතුර සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>පැට්‍රික්</author>
+            <date>2012-05-08 09:44:12</date>
+            <index>0</index>
+            <phrase>රියදුරන් එදා වැඩවර්ජනයක් කළා නම් මෙහෙම වෙන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජීව</author>
+            <date>2012-05-08 11:14:16</date>
+            <index>1</index>
+            <phrase>අනාරක්ෂිත සෑම දුම්රිය මගකටම ගේට්ටු අවශ්‍යයි. මේ වගකිවයුත්තන්ගේ අවධානය පිනිසයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-08 12:50:44</date>
+            <index>2</index>
+            <phrase>දෙන්නෙක්ද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.එම්.එස්.</author>
+            <date>2012-05-08 13:03:17</date>
+            <index>3</index>
+            <phrase>මෙයට පිළියම් වශයෙන් රියදුරන්ට නිසි පුහුණුවක් ලබා දීම සහ සෑම මාර්ගයකටම යම් වේග සීමාවක් පැනවීම කළ යුතුය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

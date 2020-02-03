@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500866</articleId>
+    <title>අත්අඩංගුවට ගැනීමට එරෙහිව ආබාධිත රණවිරුවෝ උද්ඝෝෂණයක</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 25 11:50:22</date>
+    <body>තමන් අත්අඩංගුවට ගැනීමේ සූදානමක් පවතින බව කියමින් ඊට විරුද්ධ ආබාධිත රණවිරුවන් පිරිසක් ගෙන ගිය උද්ඝෝෂණයක් හේතුවෙන් කොළඹ ලෝටස් වටරවුමේ සිට ගාලුමුවදොරට පිවිසෙන මාර්ගය වසා දමා ඇතැයි පොලිසිය පවසයි.
+එහි ආරක්ෂාවට පොලිස් භට පිරිස් යොදා ඇත. උද්ඝෝෂකයෝ ජනාධිපති ලේකම් කාර්යාලය දක්වා ගමන් කිරීමට උත්සාහ දැරූහ.</body>
+    <comments>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2017-01-25 07:15:38</date>
+            <index>0</index>
+            <phrase>සරත් ෆොන්සේකා මහතාව අත්අඩංගුවට ගැනීමේදී මේ අයට ප්‍රජාතන්ත්‍රවාදී නිදහස නොතිබුණේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා පෙරේරා</author>
+            <date>2017-01-25 14:32:48</date>
+            <index>1</index>
+            <phrase>වැඩේ වෙන්න ඉස්සෙල්ලා ම උද්ඝෝෂණය කරලා දැම්මා ම හොදයි වගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2017-01-25 17:17:24</date>
+            <index>2</index>
+            <phrase>වින්සන්ට් මහතා පිස්සුවෙන් කියවනවද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දියෝනිස්</author>
+            <date>2017-01-26 01:06:57</date>
+            <index>3</index>
+            <phrase>මේ විදිහට නම් මේගොල්ලෝ මොන අපරාධ කරලා තිබුනත්, ඉදිරියට මොන අපරාධ කෙරුවත් අත්‍අඩංගුවට ගැනීම වැරදියිනේ. අනේ අපොයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2017-01-26 02:42:07</date>
+            <index>4</index>
+            <phrase>උද්ඝෝෂණ කළා කියලා වැරැද්ද නිවැරදි වෙන්නේ නැහැ. අත්අඩංගුවට ගතයුත්තෝ අත්අඩංගුවට ගතයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-26 03:12:53</date>
+            <index>5</index>
+            <phrase>අත්අඩංගුවට ගන්නවට, රිමාන්ඩ් කරනවට බය නම් 'අපේක්ෂිත ඇප' කියලා දෙයක් උසාවියෙන් ඉල්ලනවා මිසක් විරෝධතා දැක්වීම නම් නීතිපොතේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

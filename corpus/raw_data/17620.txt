@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17620</articleId>
+    <title>ඇමැති ආරක්ෂකයා කොන්ත්‍රාත්තුවට මිනී මරලා</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 15 14:06:32</date>
+    <body>ගල්කිරියාගම කරවිල ගලවැටි බැම්ම මත දී යතුරු පැදි කරුවකු රුපියල් ලක්ෂයක කොන්ත්‍රාත්තුවක් මත වෙඩි තබා මරා යතුරු පැදිය පැහැරගත් බව කියන පොලිස් ඝාතකයා හය මාසයකට පසුව අත්අඩංගුවට ගත් බව ගල්කිරියාගම පොලිසිය කියයි. ඇමැති ආරක්ෂක අංශයේ කොස්තාපල්වරයකු වන නාරම්මල පදිංචි මොහු අසු වී ඇත්තේ මියගිය පුද්ගලයාගේ යතුරු පැදියේ අංකය වෙනස් කැර මිතුරකුට දී තිබිය දී යැයි පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>චින්තක</author>
+            <date>2011-12-15 14:16:11</date>
+            <index>0</index>
+            <phrase>බයක් නැද්ද මන්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>manchanayake. DOHA QATAR.</author>
+            <date>2011-12-15 14:23:07</date>
+            <index>1</index>
+            <phrase>යුක්තිය සාධාරණය ඉටු වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2011-12-15 14:52:47</date>
+            <index>2</index>
+            <phrase>අළුගෝසුවෙකු ඇමැති ආරක්ෂක අංශයට තෝරාගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Karu Abu Dhabi</author>
+            <date>2011-12-15 14:56:46</date>
+            <index>3</index>
+            <phrase>මෙවැනි අයට මරණ දඬුවම නියමකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2011-12-15 15:29:31</date>
+            <index>4</index>
+            <phrase>මරණ දඩුවම තමා ‍හොද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒ ඒ සංජීව</author>
+            <date>2011-12-15 16:13:40</date>
+            <index>5</index>
+            <phrase>තරාතිරම නොබලා නිසි දඩුවම් දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2011-12-15 17:47:56</date>
+            <index>6</index>
+            <phrase>මෙහෙම අයද ආරක්ෂාවට ඉන්නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙල්ටන්</author>
+            <date>2011-12-15 18:47:07</date>
+            <index>7</index>
+            <phrase>මරණ දඩුවම දෙන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2011-12-15 21:02:08</date>
+            <index>8</index>
+            <phrase>නිලඇදුමට මුවා වෙලා වැරදි කරනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kalu</author>
+            <date>2011-12-16 03:26:29</date>
+            <index>9</index>
+            <phrase>ඇමතිතුමෝ බලාගෙන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙල්ල</author>
+            <date>2011-12-16 10:02:39</date>
+            <index>10</index>
+            <phrase>ජීවිතයේ වටිනාකම ලක්ෂේට බැහැල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝම</author>
+            <date>2011-12-16 13:56:09</date>
+            <index>11</index>
+            <phrase>අලුගෝසු තනතුරට හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51918</articleId>
+    <title>මහ ඇමැති ආරක්‍ෂකයෙක් තුවාල ලබති</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 ජූලි මස 06 13:13:11</date>
+    <body>ඌව මහා ඇමැති ශෂින්ද්‍ර රාජපක්‍ෂ මහතාගේ ආරක්‍ෂක නිලධාරියෙක් ගමන් කළ ජීප් රියක් ලූණුගම්වෙහෙර ජාතික වනෝද්‍යානයේදී පෙරැළී පොලිස් විශේෂ කාර්ය බළකා සැරයන් වරයෙක් හා කොන්සාපල්වරු දෙදෙනෙක් තුවාල ලදහ.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-06 13:18:28</date>
+            <index>0</index>
+            <phrase>මොනවා කරන්න ගිහින්ද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමු</author>
+            <date>2012-07-06 14:34:36</date>
+            <index>1</index>
+            <phrase>අනේ අපේ STF කොල්ලන්ට වෙච්ච දෙයක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-06 13:58:48</date>
+            <index>2</index>
+            <phrase>"චේතනාහං භික්ඛවේ කම්මං වදාමි" මොනවටද ගියේ? හා... හා.... හොරේ අහුවුණා.කමක් නෑ.මොනවා කරන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරක්‍ෂක</author>
+            <date>2012-07-06 14:02:34</date>
+            <index>3</index>
+            <phrase>දේශපාලුවෝ ඉන්න තරමට රටේ ජනග්‍රහනයෙන් භාගයක් විතර ආරක්ෂකයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2012-07-06 14:23:19</date>
+            <index>4</index>
+            <phrase>බීමත්ව සිටියද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-06 15:06:17</date>
+            <index>5</index>
+            <phrase>මේ කට්ටිය හිතන්නේ සුක්කානම අතට ලැබුණම ඔක්කොම එයාලගේ කියලා.මේ වගේ ප්‍රවෘත්ති දාන්නත් එපා.අපරාදේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂා.</author>
+            <date>2012-07-06 15:00:28</date>
+            <index>6</index>
+            <phrase>ඉක්මන් සුවය පතමි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමානි</author>
+            <date>2012-07-06 15:01:22</date>
+            <index>7</index>
+            <phrase>අයියෝ...........පව් වැඩේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-06 15:06:32</date>
+            <index>8</index>
+            <phrase>මහඇමතිතුමා ඉන්නේ වනෝද්‍යානයේ ඇතුළෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොනා</author>
+            <date>2012-07-06 16:38:30</date>
+            <index>9</index>
+            <phrase>කතරගම දෙවියෝම මේ කට්ටිය ගැන බලා ගනිත්වා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනා</author>
+            <date>2012-07-06 17:06:33</date>
+            <index>10</index>
+            <phrase>පව් කොල්ලෝ ටික. කොල්ලන්ගේ වෙලාවට ඇමතිතුමාට තුවාල නොවුණේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපිනෝ</author>
+            <date>2012-07-06 23:53:23</date>
+            <index>11</index>
+            <phrase>පව් අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාන්ද දිසා</author>
+            <date>2012-07-07 02:06:59</date>
+            <index>12</index>
+            <phrase>නිදන් හොයන්න ගියද මල්ලිලා ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා-PARIS</author>
+            <date>2012-07-07 02:58:48</date>
+            <index>13</index>
+            <phrase>මහ ඇමැති ආරක්‍ෂකයෙක් තුවාල ලැබුවම දෙන ප්‍රසිද්ධිය ඇයි පොඩි මිනිහෙක්ට නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔරංඔටං පැරිස්</author>
+            <date>2012-07-08 04:38:52</date>
+            <index>14</index>
+            <phrase>නියමයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා ,සෞදි</author>
+            <date>2012-07-08 10:21:38</date>
+            <index>15</index>
+            <phrase>කාල බීල ඔනනෙති ගමනක් යන්න ඇති . මහා ඇමතිවත් දන්නේ නෙතිව ඇති . දැන් රනින් චර්ට් එක හදල ඇති රාජකාරි ගමනක් විදියට . එහෙම නොකලොත් පොලිසිය ඇත්තන්ට වග උත්තර දෙන්නට වෙනවනේ .එහෙම නේද අප්පුහාමි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

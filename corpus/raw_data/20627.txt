@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20627</articleId>
+    <title>භික්ෂුව රිමාන්ඞ්</title>
+    <author>ඔගස්ටින් ප‍්‍රනාන්දු</author>
+    <date>2012 ජනවාරි මස 05 16:05:59</date>
+    <body>අත් බෝම්බයක් අතැතිව හලාවත මහේස්ත‍්‍රාත් හමුවීමට යන්නට ආ බව කියන සිංහාරේ ගුණරතන නම් භික්ෂුව ලබන 17 වැනි දා තෙක් රිමාන්ඞ් කරන ලෙස හලාවත මහේස්ත‍්‍රාත් ජගත් ඒ කහඳගම මහතා නියෝග කළේය. සාමනේර හිමි නමක ද සමග එක්ව කොක්කාවිල පන්සලක භාණ්ඩ තොගයක් සොරා ගත්තැයි කියන සිද්ධියක් සම්බන්ධයෙන් ඇපදීමෙන් පසුව ඔහු යළි අත්අඩංගුවට ගැනුණේ අත් බෝම්බයක් අඳන කඩයෙන් එළියට ගැනීම නිසාය.</body>
+    <comments>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2012-01-05 16:28:28</date>
+            <index>0</index>
+            <phrase>අනේ අපොයි බුදු දහමට ගිය කළක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2012-01-05 17:05:20</date>
+            <index>1</index>
+            <phrase>අහෝ බුදු දහම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-01-05 22:11:54</date>
+            <index>2</index>
+            <phrase>බෝම්බයක් වෙන්න බැහැ. හක් ගොඩියක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-01-06 11:46:17</date>
+            <index>3</index>
+            <phrase>අනේ අපේ බුද්ධ ශාසනය විනාශ කරන අය තව කොච්චර ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් ෆස්ලි</author>
+            <date>2012-01-06 12:58:13</date>
+            <index>4</index>
+            <phrase>මොනව කියන්නද මේ සේරම වෙන්නෙ රටේ වැරැද්දට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පැරකුම්</author>
+            <date>2012-01-06 16:11:32</date>
+            <index>5</index>
+            <phrase>මේ අයට චීවරධාරීන් කියනවා නම් තමයි හොඳ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

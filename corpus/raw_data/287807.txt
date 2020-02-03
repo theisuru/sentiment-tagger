@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>287807</articleId>
+    <title>පුංචි තොණ්ඩා අල්ලනු</title>
+    <author>පාලිත ආරියවංශ</author>
+    <date>2015 ජනවාරි මස 06 13:43:52</date>
+    <body>ඇල්ල තැපැල් සේවකයකුට පහර දුන්නැයි චෝදනා ලැබූ ඌව පළාත් මාර්ග සංවර්ධන, නිවාස හා වතු යටිතල පහසුකම් අමාත්‍ය සෙන්දිල් තොණ්ඩමාන් මහතා අත් අඩංගුවට ගන්නැයි පොලිසියට බල කරමින් බදුල්ල තැපැල් කාර්යාලය ඉදිරිපිට සේවක පිරිසක් උද්ඝෝෂණය කළහ.
+
+ 
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>රහූම්</author>
+            <date>2015-01-06 15:20:23</date>
+            <index>0</index>
+            <phrase>8 වෙනිදාට පස්සේ එයා අල්ලන්න පුලුවන් වෙයි සමහරවිට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිදු</author>
+            <date>2015-01-07 18:07:23</date>
+            <index>1</index>
+            <phrase>පොඩි මිනිසුන්ට ඉක්මණින්ම තැනක් එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

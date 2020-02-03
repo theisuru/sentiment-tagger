@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19873</articleId>
+    <title>කොළඹ - ලංකාපටුන අලුත් බස්සේවයක්</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2011 දෙසැම්බර් මස 30 11:00:29</date>
+    <body>කොළඹ සිට ලංකාපටුන දක්වා නව බස් සේවාවක් ජනවාරි පළමු වැනි දා සිට ආරම්භ කරන බව අංගොඩ ඩිපෝ කළමනාකාර සංජීව සුබනආරච්චි මහතා පැවසීය.
+කොළඹ පිටකොටුව බස් නැවැතුම්පොළෙන් දිනපතා පස්වරු 1.00ට මෙම බස් රථය ලංකාපටුන බලා පිටත්වේ. ලංකාපටුනෙන් අලූයම 4.00ට කොළඹට පිටත්වේ.
+කල්අඩියේ පාෂාණ පබ්බත විහාරාධිකාරී රත්නපුරේ දේවානන්‍ද හිමියෝ මෙම බස්සේවය අරඹන්නැයි ඉල්ලා සිටියහ.</body>
+    <comments>
+        <comment>
+            <author>කනිෂ්ක මීගස්මුල්ල</author>
+            <date>2011-12-30 11:11:43</date>
+            <index>0</index>
+            <phrase>ඇත්තටම හොද වැඩක්. සතුටුයි ඒ ගැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2011-12-30 11:53:38</date>
+            <index>1</index>
+            <phrase>ශ්‍රී ලංකාවට ඉදිරියටම යන්න ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසාංගා</author>
+            <date>2011-12-30 12:15:13</date>
+            <index>2</index>
+            <phrase>ආසියාවේ ආඩම්බරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2011-12-30 12:21:21</date>
+            <index>3</index>
+            <phrase>හරිම හොද වැඩක්. ලංකාවේ ලස්සනම වෙරළ තීරය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජන් ස්ටැනිස්ලෝව්ස්</author>
+            <date>2011-12-30 12:44:14</date>
+            <index>4</index>
+            <phrase>සන්තෝෂයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2011-12-30 16:53:24</date>
+            <index>5</index>
+            <phrase>ලංකා පටුන තියෙන්නේ කොහෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2011-12-30 18:39:48</date>
+            <index>6</index>
+            <phrase>ලංගම මේ වගේ වැඩ නිසා දියුණු වෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2011-12-30 18:47:51</date>
+            <index>7</index>
+            <phrase>බොහොම සන්තෝෂයි. ලංගම තව තවත් දියුණු වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>srinath dayananda</author>
+            <date>2011-12-31 11:18:09</date>
+            <index>8</index>
+            <phrase>හොදයි.. හොදයි.. අසියාවේ වේගවත් සංවර්ධනයක් ඇති රටෙ පුරවැසියෙක් වීම හරිම ආඩම්බරයක්. ජයවේ ශ්‍රී ලංකා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>thushara</author>
+            <date>2011-12-31 14:45:09</date>
+            <index>9</index>
+            <phrase>ශ්‍රී ලංකා මවුනි ජයවේවා!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

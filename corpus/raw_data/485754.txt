@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>485754</articleId>
+    <title>බසයක් ඉබ්බාගමුවේදී කරණමක් ගසයි</title>
+    <author>මොහොමඩ් බුහාර්දීන්</author>
+    <date>2016 දෙසැම්බර් මස 01 11:36:06</date>
+    <body>කොළඹ - අනුරාධපුර ප්‍රධාන මාර්ගයේ ඉබ්බාගමුවේදී  අද (1) උදැසන පෞද්ගලික බස් රියක් මාර්ගයෙන් ඉවතට පෙරළී යාමෙන් 20දෙනකු තුවාල ලබා රෝහල ගත කරනු ලැබ ඇතැයි ගොකරැල්ල පොලිසිය පවසයි. </body>
+    <comments>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-12-01 06:45:16</date>
+            <index>0</index>
+            <phrase>මේවා යන විදිහට ඔහොම පෙරළිලා හිටියා ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමාලි</author>
+            <date>2016-12-01 06:47:59</date>
+            <index>1</index>
+            <phrase>අර නීතිය ක්‍රියාත්මකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-12-01 06:55:06</date>
+            <index>2</index>
+            <phrase>අනේ පව්. මේගොල්ලන්ට තව දඩත් ගහන්න හදනවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2016-12-01 06:55:48</date>
+            <index>3</index>
+            <phrase>දඩය 25.000 නොවේ, 35.000 කරන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංක</author>
+            <date>2016-12-01 07:03:09</date>
+            <index>4</index>
+            <phrase>2013 මම ගිය මාර්ග අංක 15 අනුරාධපුර බසයකුත් පෙරලුනා. හේතුව රියැදුරු සින්දු දාන්න ගිහින් රේඩියෝවේ. අවදානම් ගමනක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-12-01 07:22:17</date>
+            <index>5</index>
+            <phrase>මේ වාහන වල යකඩ සේරම දිරලා. බොඩිය කුඩු හැලෙන තරමට. පේන්ට් එක නැත්නම් බසයේ ඇතුළේ ඉන්න මිනිසුන් පිටතට පෙනෙන තරමට දිරලා. මේ වාහන වල ප්‍රමිතිය කෙසේවෙතත් ලංකාවේ වසර 15 - 20 ක් පරණ වාහන සියල්ල ධාවනයෙන් ඉවත් කළොත් මිනිසුන්ට ටිකක් සැනසීමේ ගමනක් ගිහින් ගෙදරට ආහැකියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-12-01 07:33:15</date>
+            <index>6</index>
+            <phrase>දඩ වැඩි කළොත් අපි වර්ජනයේ...හරිද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරහැන්නැදිගේ</author>
+            <date>2016-12-01 07:36:45</date>
+            <index>7</index>
+            <phrase>දඩය රුපියල් ලක්ෂයක් කරන්න ඕනෑ. අහිංසක මිනිසුන්ගේ ජිවිත එක්ක සෙල්ලම් කරන්න කවුද මෙයාලට ලයිසන් දුන්නේ. සල්ලි නෙමෙයි මිනිසුන්ගේ ජීවිතයි වටින්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරුමාල්</author>
+            <date>2016-12-01 08:13:28</date>
+            <index>8</index>
+            <phrase>හොඳ වෙලාවට හෙට ඉඳලා ස්ට්‍රයික් හින්දා කමක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2016-12-01 08:45:03</date>
+            <index>9</index>
+            <phrase>මේ මිනිස්සු දඩ ගෙවන්නේ කොහොමද කියල නිකමට හිතුවද? ලංකාවේ මේ රියදුරන්ගේ මාසික අදායම කොපමණ වෙනවද කියල නිකමට හිතල බැලුවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2016-12-01 08:56:04</date>
+            <index>10</index>
+            <phrase>මේ රේස් ගිහින් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2016-12-01 08:56:42</date>
+            <index>11</index>
+            <phrase>හරියට වෙච්ච දේ මොකක්ද දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහීස්</author>
+            <date>2016-12-01 09:01:02</date>
+            <index>12</index>
+            <phrase>25,000 මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-12-01 09:01:42</date>
+            <index>13</index>
+            <phrase>දඩ කියන එක ප්‍රයිවටි බස් වලට විතරක් කියලා හිතන්න එපා ඔයාලා බයික් එකෙන් යද්දි මෙි වැරැද්දට හසු වුනොත් බයික් එක පොලිසියට දිලා එන්න තමයි වෙන්නේ ඒක හින්දා කවුරැත් එකම ක්‍රියාමාර්ගයකට හවුල් වෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-12-01 10:49:39</date>
+            <index>14</index>
+            <phrase>ඉතින් 25000 එපා කියල වර්ජනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-12-01 10:48:50</date>
+            <index>15</index>
+            <phrase>ඉතින් 25000 එපා කියල වර්ජනේ ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්වින්ටස් පෙරේරා</author>
+            <date>2016-12-01 10:58:44</date>
+            <index>16</index>
+            <phrase>රේස් දිනන්නට පුද්ගලයකුට වූ දේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලින</author>
+            <date>2016-12-01 11:36:11</date>
+            <index>17</index>
+            <phrase>කවුරු මොනවා කිව්වත් ඔය පාරේ මිනිස්සු රස්තියාදු නොකර හැම තැනම කොට කොටා ඉන්නේ නැතුව යන්නේ ඔය ඩීඇස්ජී බස් ටිකයි සම්පත් බස් ටිකයි විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2016-12-01 19:04:46</date>
+            <index>18</index>
+            <phrase>මේ බස් බහුතරයක් යන්නේ උඩින්. ඔය බස්වල යන අයගේ ජීවිත හරිම අවදානම්. දන්න අය මේ බස් වල නගින්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-12-03 02:56:57</date>
+            <index>19</index>
+            <phrase>මමනම් කියන්නේ දඩය 100000ක් විතර කරානම් ඕක හරියනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

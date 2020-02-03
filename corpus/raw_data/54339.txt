@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54339</articleId>
+    <title>මහනුවර මහ උළෙලට මුල පුරයි</title>
+    <author>ලලිත් වලිසුන්දර</author>
+    <date>2012 ජූලි මස 19 18:30:24</date>
+    <body>ලබන 23 සිට 2 දක්වා පැවැත්වෙන මහනුවර ඇසල පෙරහර වෙනුවෙන් විෂ්ණු, නාථ, කතරගම හා පත්තිනි සිව් දේවාලයන්හි කප් අද සිටැවිනි.
+තෙවරක් ප‍්‍රදක්ෂිණා කැර පහන් දල්වා සුවඳ දුම් ඇල්ලීමෙන් පසු දේවාලයේ ප‍්‍රධාන කපුරාල කප සිටුවයි.</body>
+    <comments>
+        <comment>
+            <author>බුද්දික</author>
+            <date>2012-07-19 23:08:40</date>
+            <index>0</index>
+            <phrase>පෙරහැර වගේම අපේ බෞද්ධ ප්‍රදර්ශණය වෙන අන්දමට බොදු ප්‍රතිපත්ති අප රැකිය යුතුයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-20 00:18:54</date>
+            <index>1</index>
+            <phrase>රටේ සියලුම ජනයට,ජනාධිපති තුමාට, ත්‍රිවිද හමුදාවට යහපතක්ම වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසංසල</author>
+            <date>2012-07-20 05:03:24</date>
+            <index>2</index>
+            <phrase>අපේ කම රැකිලා තියෙන්නේ මේ වගේ දේවල් නිසා .සාධු ....සාධු ....සාධු ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසංසල</author>
+            <date>2012-07-20 05:04:26</date>
+            <index>3</index>
+            <phrase>සාධු ....සාධු ....සාධු ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-20 08:32:51</date>
+            <index>4</index>
+            <phrase>මේ තේවාවන් හරියටම කරන්න ඕන.....නැත්නම් වස් වදිනවා .රටටම කරදර වෙන්න පුළුවන්..එම නිසා සියළු කටයුතු සාරථකව නිම කිරීමට ශක්තිය ධෛර්‍යය ලැබේවා .!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-20 10:02:23</date>
+            <index>5</index>
+            <phrase>අපිට ඉතුරු වෙච්ච වටිනාම දේවල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කස්තුරි</author>
+            <date>2012-07-20 12:11:14</date>
+            <index>6</index>
+            <phrase>දැන් මේ හැමදේම මුදලට යටවෙලා.සාමාන්‍ය මිනිස්සුන්ට බලන්න ඉඩ ඉතුරු වෙලා තියෙන්නේ ඉතාමත් අඩු ප්‍රමාණයක්.පෙරහර බලන්න තැනක් වෙන් කර ගන්න වෙලා තියෙන්නේ ලොකු මුදලක් දීලා.අනේ මන්දා.දළදා හාමුදුරුවන්ට මේවා පෙනෙන්නේ නැද්ද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-07-20 12:28:18</date>
+            <index>7</index>
+            <phrase>දන්ත ධාතූන් වහන්සේත් ලංකාවේ තියාගෙන අපේ බෞද්ධයෝ කරන මේ වැඩ වලට දඩුවම් දෙන්න කෙනෙක් නැද්ද දෙයියනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-07-20 13:34:58</date>
+            <index>8</index>
+            <phrase>සියලු කටයුතු සර්වප්‍රකාරයෙන් සාර්ථක වේවා..! බුදු සසුන චිරාත් කාලයක් පවතීවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

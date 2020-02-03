@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>27995</articleId>
+    <title>හලාවත ධීවරයෝ අදත් ගොඩ</title>
+    <author>ප්‍රදීප් ප්‍රනාන්දු</author>
+    <date>2012 පෙබරවාරි මස 21 10:20:50</date>
+    <body>හලාවත ධීවරයෝ අද අටවැනි දිනටත් මුහුදු රස්සාවට නොගියහ. රුපියල් 25ක තෙල් සහනාධාරය නොපිළිගන්නා බව කියති.
+හලාවත මාළු වෙළෙඳ පොළ ද පාළුවී ඇති නමුත් පිටපළාත් ධීවරයන් විසින් ගෙන එනු ලබන මාළු විකිණීමට මුහුදු නොයන දීවරයෝ පුරුදු වී සිටිති.
+
+
+ලොරියේ මාළු විකුණමින්</body>
+    <comments>
+        <comment>
+            <author>අසිල්</author>
+            <date>2012-02-21 11:12:33</date>
+            <index>0</index>
+            <phrase>අතේ සතේ නැති වෙනකොට මුහුදු යයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-02-21 11:51:55</date>
+            <index>1</index>
+            <phrase>මේ අය ඉපදෙන්න තිබ්බේ බංගලාදේශය වගේ රටක.. එතකොට තේරෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-02-21 13:31:20</date>
+            <index>2</index>
+            <phrase>ඔව්. මෙහෙ දිහා බලද්දි බන්ගලාදේශ සැපැයි තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

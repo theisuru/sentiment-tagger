@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>467959</articleId>
+    <title>වතු අධිකාරීටත් 10,000ක් දඩ</title>
+    <author>අප්සරා යෝෂිත් විජේසූරිය අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2016 ඔක්තෝබර් මස 13 17:09:36</date>
+    <body>හෙරොයින් මිලිග්‍රෑම් 230ක් සන්තකයේ තබා ගත් රත්නපුර ලෙල්ලුපිටියේ වතු අධිකාරීවරයකුට සහ තවත් පුද්ගලයකුට රත්නපුර මහේස්ත්‍රාත් සාලිය චන්න අභයරත්න මහතා අද රුපියල් දස දහස බැගින් දඩ නියම කළේය.
+මෙසේ දඩ නියම වූයේ  හෙරොයින් මිලි ග්‍රෑම් 110ක් ළඟ තබාගත් බව කියන ලෙල්ලොපිටිය  ගෝණකුඹුර වතු අධිකාරීවරයෙක් වන හරේන්දු අපොන්සුට සහ හෙරොයින් මිලි ග්‍රෑම් 120ක් ළඟ තබා ගත් බව කියන සමන් රෝහිත නම් පුද්ගලයකුටය.
+රත්නපුර දිසා වැටලීම් විෂ මත්ද්‍රව්‍ය ඒකකය වැටලීම සිදු කළේය.</body>
+    <comments>
+        <comment>
+            <author>අජින්ත රත්නායක</author>
+            <date>2016-10-13 14:15:54</date>
+            <index>0</index>
+            <phrase>හෙරොයින් මිලිග්‍රැම් 10 වඩා වැඩිනම් ජීවිතාන්තය දක්වා හිරේ නේද දන්න කෙනෙක් කියන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2016-10-13 17:24:05</date>
+            <index>1</index>
+            <phrase>වරදක් කළත් සිතකින් නොවේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියරත්න</author>
+            <date>2016-10-13 18:35:20</date>
+            <index>2</index>
+            <phrase>අනේ මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-10-13 20:36:45</date>
+            <index>3</index>
+            <phrase>ඒ වුණාට අජින්ත නිලයෙන් උසස් අයට නීතියේ වුණත් පොඩි පොඩි වෙනස්කම් කිහිපයක් තියෙනවානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-10-13 21:49:54</date>
+            <index>4</index>
+            <phrase>ගෝණකුඹුර වතු අධිකාරීයි, හරේන්ද්‍ර අපොන්සුයි හරිම වාසනාවන්තයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2016-10-14 01:52:43</date>
+            <index>5</index>
+            <phrase>අජිත්, මරණ දඬුවම හිමිවෙන්නෙ ශූද්ධ හෙරෝයින් ග්‍රෑම් 2කට වඩා ළඟ තබාගත්විටයි. ග්‍රෑම් 1ට අඩු ප්‍රමාණ වලට මහේස්ත්‍රාත්වරයාට අැප හෝ දඩ නියම කළහැකියි. 1ත් 2ත් අතර මහාධිකරණය මඟින් අැප හෝ දඩ 2ට වැඩි නඩු විභාගයෙන් පසුව මරණ දඬුවම හෝ ජීවිතාන්තය දක්වා සිරගත කළහැකියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2016-10-14 02:33:52</date>
+            <index>6</index>
+            <phrase>එක එක අයට වෙන වෙන විදිහට දඬුවම් දෙන්නේ මොකද. දුප්පත් මිනිහට විතරද දැඩි දඬුවම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

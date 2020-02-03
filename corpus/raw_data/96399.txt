@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>96399</articleId>
+    <title>සීයේදී එලොව ගිහින් මෙලොව එයි</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 පෙබරවාරි මස 04 12:29:35</date>
+    <body>මළේයැයි සැළැකුණු චීන ජාතික කාන්තාවකට අවසාන මොහොතේදී ‘‘පණ‘‘ලැබුණු පුවතක් චීනයෙන් වාර්තා වේ.
+පෙන්ග් ෂියුහා (101) ජීවත් වූයේ සිය දියණියන් දෙදෙන සමගය. දිනක් පෙන්ග් සිහිසුන්ව ඇද වැටෙන්නේ නිවසේ වැඩ කරමින් සිටිනාතුරදීය.
+දියණියන් දෙදෙන කොතෙක් උත්සාහ කළද පෙන්ග්ට සිහිය ලැඛෙන පාටක් නම් නොවුණි.ඇයගේ නාඩි වැටීම පවා හදුනාගත නොහැකි තත්ත්වයේ පැවැතුණු බැවින් දියණියන් දෙදෙන අවසානයේ තීරණය කර තිඛෙන්නේ සිය මව මියගොස් ඇති බවයි.
+ඥාතිමිත්‍රාදීන් කැදවා අවසන් කටයුතු සිදු කිරීමේ අපේක්ෂාවෙන් පෙන්ග් මිනී පෙට්ටියට දැමිමට සැරසෙන අවස්ථාවේ ‘‘පියවි‘‘ලෝකයට පැමිණ ඇති පෙන් විමසා ඇත්තේ සිය නිවසේ මෙතරම් සෙනගක් රැස්ව සිටින්නේ ඇයිද කියාය.
+බියපත් වුවද පෙන් හොද සුවයෙන් සිටිනු දුටු දියණියන් දෙදෙන හා ඥාතීන් සිදුවුණු දේ පැහැදිලි කළ පසු සිනාසුණු පෙන් ‘‘මම හරිම වාසනාවන්තකෙනෙක්.පණ පිටින් වැළලෙන්න ඉස්සෙල්ලා මට සිහියත් ආවා ඒ වගේම මම ගැන හිතන අය මෙච්චර ඉන්නවයි කියලත් මම අද දැනගත්තා‘‘යනුවෙන් පවසා ඇත.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සාලිය</author>
+            <date>2013-02-04 21:03:51</date>
+            <index>0</index>
+            <phrase>පරණ කතාවක් තමයි මට මතකෙට ආවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2013-02-04 21:40:59</date>
+            <index>1</index>
+            <phrase>අතීත කතාවක් මතක් උනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිප්</author>
+            <date>2013-02-04 22:56:43</date>
+            <index>2</index>
+            <phrase>දෙයියෝ සාක්කි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2013-02-05 03:53:34</date>
+            <index>3</index>
+            <phrase>ලංකාවෙ කේස් එකක් නෙමෙයි නිසා හොදයි. මරණ පරීක්ෂණයක් කළා නම් තත්ත්වය වෙනස් වෙන්නත් තිබුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-02-05 06:10:33</date>
+            <index>4</index>
+            <phrase>මාර වාසනාවක්නේ තියෙන්නේ. ඇත්තටම හොද පුවතක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-02-05 06:11:58</date>
+            <index>5</index>
+            <phrase>අම්මෝ! එහෙම වෙනවා නම් නියමයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරංගි</author>
+            <date>2013-02-05 16:08:10</date>
+            <index>6</index>
+            <phrase>කව්රුත් ඔහොම තමයි. නින්ද ගියාම ම මැරුනා වගේ තමයි. මට නම් හිතෙන්නේ මේ ආච්චි උවමනාවටම කරපු වැඩක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2013-02-05 16:10:01</date>
+            <index>7</index>
+            <phrase>කොහොමත් ඔය වයසෙදි නාඩි වැටෙන්නෙ නෑ තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-02-05 20:04:53</date>
+            <index>8</index>
+            <phrase>ලංකාවෙ නම් මොනවා වෙලාද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාලි</author>
+            <date>2013-02-05 22:44:55</date>
+            <index>9</index>
+            <phrase>ජිවත්වෙන්න පින තිබෙනවා නම් ගලේ ගැහුවත් මැරෙන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2013-02-06 11:36:56</date>
+            <index>10</index>
+            <phrase>එතකොට මෙහේ වගේ එම්බාම් කරන්නේ නැද්ද ඒ රටේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-02-06 11:38:42</date>
+            <index>11</index>
+            <phrase>තවත් ජීවත් වෙන්න ඔබ වාසනාවන්තියෙකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

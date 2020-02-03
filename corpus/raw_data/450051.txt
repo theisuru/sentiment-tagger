@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450051</articleId>
+    <title>‘රටේ ප්‍රශ්න විසඳන්න සල්ලි ඕනෑ‘</title>
+    <author>ගයාන් අමරසේකර</author>
+    <date>2016 අගෝස්තු මස 22 20:34:11</date>
+    <body>ඉදිරියට යන්න හිතන අයගේ පක්ෂය එක්සත් ජාතික පක්ෂය බවත් මෙරට තරුණ තරුණියන්ට, දරුවන්ට හොඳ අනාගතයක් ලබා දීමට එක්සත් ජාතික පක්ෂයට  සහයෝගය දෙන ලෙසත් එහි සාමාජිකත්වය ලබාගන්නා ලෙසත් අගමැති රනිල් වික්‍රමසිංහ මහතා අද (22) මොරටුව පැවැති ප්‍රවර්ධන වැඩසටහනකදී පැවසීය.
+‘අපි පොඩි රටක් අපේ ජනගහනය මිලියන 20යි. අපේ රටේ ප්‍රශ්න විසඳන්න ආණ්ඩුවට සල්ලි තියෙන්න ඕන. ජනතාවට සල්ලි තියෙන්න ඕන. අපිට දැන් තියෙන්නේ රාජපක්ෂ රෙජීමයේ ණය විතරයි‘ යැයි ද අගමැති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-08-22 15:24:54</date>
+            <index>0</index>
+            <phrase>ඡන්දෙට ඉස්සෙල්ල ඕව කිව්වේ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-08-22 15:31:06</date>
+            <index>1</index>
+            <phrase>තියෙන සල්ලි ටික කට්ටියට, වාහන, ටෙලිෆෝන් විදෙස් සංචාර වලට වියදම්කරලා ඡන්දෙ දීපු ජනතාවගේ බෙල්ල මිරිකමු. එතකොට හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාදේව</author>
+            <date>2016-08-22 15:49:15</date>
+            <index>2</index>
+            <phrase>ඔබතුමා පෙරට වඩා හොඳයි දැන්, දැන් ඉස්සෙල්ලවගේ කුඹුරේ මඩගාගත් ගොවියාගේ කටට චුයිංගම්, අතට බේස්ලේට් දානවා වගේ කතා කියන්නේ නැති නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2016-08-22 16:04:12</date>
+            <index>3</index>
+            <phrase>සල්ලි ඕන නම් සල්ලි ඉතුරු කරන්න. වාහන ගන්න , ඇමති කාර්යාල ගන්න කෝටි ගණන් වියදම් කරන්නේ ඇයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණතුංග</author>
+            <date>2016-08-22 16:11:18</date>
+            <index>4</index>
+            <phrase>අගමැති තුමා, ගහමු වැට් 20% ක් වත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-08-22 16:15:22</date>
+            <index>5</index>
+            <phrase>විදෙස් සංචාර ටික ගිහිල්ලා ඇමති වරුන්ට කවුරුත් පස්ස තියපු නැති අලුත්ම අලුත් ප්‍රාඩෝ අරං දීලා අගමැතියා වාහන 15ක විතරයි පොලිස් බයික් 10ක විතරයි ආරක්ෂාවෙන් මොරටුවේ යනවා මම දැක්කා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-08-22 16:56:44</date>
+            <index>6</index>
+            <phrase>එතකොට ඔහේගේ ආරක්ෂාවටයි කියලා යන වාහන 20 ක් විතර මුහුදේ ලුණු වතුරෙන් දුවන නිසා හොදයි නේද.. . කිලෝමීටරයක් යන වියදමෙන් පිලිකා රෝගියෙකුට දවසක බෙහෙත් අරං දෙන්න පුලුවන්...නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-08-22 17:04:19</date>
+            <index>7</index>
+            <phrase>දිමුත්.ඔබ හරි.විපක්ෂයේ ඉන්න මන්ත්‍රිලත් ගෙන්වන්නේ රුපියල් කෝටි 4.5 අධි සුකොපබෝගී කාර්.ඉතින් රටට ජනතාවට දෙවියන්ගේම පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-08-22 17:06:37</date>
+            <index>8</index>
+            <phrase>කොන්ද කෙලින් තියන් නිර්බිතව කට්ටිය එකතුවෙලා ගසා කාපු දනස්කන්දය නැවත ජනතා සතු කරන්න.ලෝකයේ බැංකු වල තිබෙන දනස්කන්දය ජනතා සතු කරන්න.ඒ මුදල් හොදටෝම ඇති තව අවුරුදු 100 කට අසරණ මිනිසුන්ට සහන සලසන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-08-22 17:15:38</date>
+            <index>9</index>
+            <phrase>ඇමතිවරු එකසිය ගානක් ඉන්නවා එත් රටට අදායම ගෙන්වා ගන්න හිතන්න කෙනෙක් නැහැ.මැදපෙරදිගට ගෘහ සේවිකාවන් 6 දෙනෙක් එවන එකේ එක සාත්තු සේවිකාවක්/අයකැමි/ප්‍රථමික ගුරුවරියක් යවනවානම් ඒ මුදල රටට ලැබෙනවා.පිලිපීනය පවා දැන් ඒ වෙනුවෙන් පුළුල් ව්‍යාපෘති පුහුණු මධ්‍යස්ඨාන පිහිටවල මැදපෙරදිගට යවල විශාල විදේශ විනිමයක් ලබා ගනිද්දී අපේ රට රටේම ඉන්න ගැහැණු වහල් සේවයට පටවල සුළු මුදලක් උපයා ගන්නවා.කාට කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-08-22 17:18:04</date>
+            <index>10</index>
+            <phrase>මගේ ඔලුවේ රටට විදේශ විනිමය ගෙන්වන මාර්ග කිහිපයක්ම තිබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-08-22 17:23:50</date>
+            <index>11</index>
+            <phrase>රටට වැඩ කරන්න පුළුවන් තරුණ ජව ත්‍රිවිලරයක් තියාගෙන පාරේ චාර්ටර් වෙනවා. සුදුසු වෘතිය පුහුණුවක් දීල මැදපෙරදිගට යවනවා නම් මොන තරම් විදේශ විනිමයක් රටට ලැබෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-08-22 17:28:16</date>
+            <index>12</index>
+            <phrase>ත්‍රස්තවාදයක් නැති රටේ 4 වෙනි ෆොටෝ එකේ රටේ අගමැති ආරක්ෂාවට වළලු කියක් තියාගෙන ඉන්නවද? ඇමරිකාවේ බැරැක් ඔබාමාටවත් මේ තරම් ආරක්ෂාවක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-08-22 17:59:52</date>
+            <index>13</index>
+            <phrase>රටේ දුප්පත්කම තුරන් කරන්න,අපේ රටට ජනතාවට ආදරේ කරන නායකයෙක් තවම අපිට ලැබිල නැහැ කියලයි මටනම් හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවේන්ද්‍ර</author>
+            <date>2016-08-22 18:05:27</date>
+            <index>14</index>
+            <phrase>සල්ලි අවශ්‍ය රටේ ප්‍රශ්න විසඳන්නද නැතිනම් මැති ඇමතිවරුන්ට මන්ත්‍රීවරුන්ට කෝටි ගණන් වටිනා කාර් ගේන්නද? පසුගිය රජයෙන් බෙන්ස් කාර් 100 ක් ගේනවා. ඒවා කවුද දැන් පාවිච්චි කරන්නේ? රටේ දුප්පත්කම නැති කරන්න නම් පොහොසතුන්ව තවත් පොහොසත් නොකර දුප්පතුන්ව පොහොසත් කරන වැඩ පිළිවෙලක් ආරම්භ කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේවේන්ද්‍ර</author>
+            <date>2016-08-22 19:01:58</date>
+            <index>15</index>
+            <phrase>කියනකොට එහෙමයි, කොරනකොට මෙහෙමයි කියල කියන්නේ ඕවට තමා. ගිය ආණ්ඩුවේ හොරුන්ගේ සල්ලි කෝටි ගණන් පිටරට තියෙනවා කිව්ව ඒවා අරගෙන එන්න. ඔබතුමාලට බැරි වුනොත් ආය කාටද පුළුවන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිංහ</author>
+            <date>2016-08-22 19:50:57</date>
+            <index>16</index>
+            <phrase>තමන්ගේ කාර් එකට ලක්ෂ 6000 වියදම් කරලා ...දැන් කියනවා සල්ලි නෑලු ....මෙහමත් පාලකයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිසේන</author>
+            <date>2016-08-22 20:41:23</date>
+            <index>17</index>
+            <phrase>තව තව ගැත්තන්ට වරදාන දීපුවාම ඔය කියන නය බර නැතිවෙයි, දැන් දැන් මෙයාගේ කතා හරියන්නේ කොන්ඩේ බදින චීන්නුන්ටයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂාන්</author>
+            <date>2016-08-22 21:16:40</date>
+            <index>18</index>
+            <phrase>ඇමතිවරුන්ට වාහන ගෙන්නන්න කෝටි ගණන් ඕන. එතකොට මන්ත්‍රී වෛද්‍ය රක්ෂනයත් හොඳටම වැඩි කරන්න එංගලන්තයේ රක්ෂණ සමාගමකට කොන්ත්‍රාත්තුවක් දෙන්න යනවා කියලා පුවත්පත්වල පල වෙනවා. ඔබලාට තව මොනවාටද සල්ලි ඕනෑ? අපි විදෙස් රටවලට ගිහින් ඩොලර් උපයලා අපේ රටට සල්ලි එවනවා අපේ මවුපියන් වයසක කාලේ සැපෙන් සතුටින් තියන්න. ඒ එවන මුදල් මවුපියන් සහ සහෝදරයන් හරහා රටේ අනිකුත් අයටත් ලැබෙනවා. මෙය මට විතරක් නෙවෙයි, පිටරටවල ජීවත්වෙන ගොඩක් ලාංකිකයන්ට පොදු සත්‍යයක්. අපි ඒ වැඩ නවත්වලා ඇමතිලාට ගිලින්න සල්ලි එවන්නම්. එතකොට ඔක්කොම හරිනේ. අපේ මවුපියන්, සහෝදරයන් සහ අසල්වැසි ජනතාවට වඩා ලොකුයිනේ මේ රංචුව සැපෙන් තියන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක</author>
+            <date>2016-08-22 22:58:09</date>
+            <index>19</index>
+            <phrase>කොහොනද ඡන්දෙට කලින් කිවුවේ. දැන් ඔක්කොම කණපිට. මේ මිනිස්සු කවුරුත් කරන්නේ රටේ ජනතාවට කොකබ්පෙන්නන එක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2016-08-22 23:47:08</date>
+            <index>20</index>
+            <phrase>ඇහෙනකොටත් ලැජ්ජයි. එන්න ඉස්සර නම් කිව්වේ 'හැම පවුලක්ම රජ පවුලක්' කරන බවයි. ඒවා දැන් මතකත් නැ නේද හලෝ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-08-23 01:19:09</date>
+            <index>21</index>
+            <phrase>රාජපක්ෂ නම නැත්නම් කිසිම කතාවක් කරගන්න බැහැ. අර මහ බැංකු ප්‍රශ්නයට මොකද වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2016-08-23 01:54:01</date>
+            <index>22</index>
+            <phrase>සල්ලි ඕනෑ නම් දිගුකාලීන සැළසුම් සකස් කරගන්න. ග්‍රාමීය මට්ටමේ තියෙන කුඩා කර්මාන්ත වලට සහය දෙන්න. රට ඇතුළත දියුණු කරලා පිටත බලන්න. අපේ රටේ ජාතික ප්‍රතිපත්තියක් නැතිකමේ අඩුවයි මේ දැනෙන්නේ. ඕවා පාලකයන්ට තේරෙන්නෙත් නැහැ. ජනතාවට තේරෙන්නෙත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-08-23 02:29:46</date>
+            <index>23</index>
+            <phrase>මෙතන අදහස් වලින් තේරෙනවා තාමත් අනුවණයින් ඉන්නවා කියලා. ඒ නිසා අර ආරක්ෂාව ගැන කියපු එක කියන්නම්. ට්‍රිලියන ගණන් හොරකම් කරපුවා තමන්ගේ ගිණුම් වලට දාගත්තහම කොහෙන්ද සල්ලි. ඉවසන්න. තාම අවුරුද්දයි. පහුගිය ආණ්ඩුවකින් අවුරුදු 10කට රටට වුණ හානිය වහන්න බැහැ එහෙම ඉක්මණට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2016-08-23 02:42:26</date>
+            <index>24</index>
+            <phrase>තිලක්-ඩුබායි නම් මානසික වෛද්‍යවරයෙක් හමුවෙන එක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-08-23 02:55:55</date>
+            <index>25</index>
+            <phrase>අමල්, මමත් එකඟයි ඔයාට. තවම කියවනවා විතරයි හොරකම් ගැන. එකක්වත් ඇල්ලුවේ නැහැ. ඡන්ද කාලේ කියපු බොරු වලට මිනිස්සු රැවටෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව රාජපක්ෂ</author>
+            <date>2016-08-23 03:04:41</date>
+            <index>26</index>
+            <phrase>දැන් බැලුවහම පටි තද කරගන්නෑ ඕනෑ දුප්පත් අපි විතරමද? හැමෝම එක එක්කෙනාට බැන බැන තමන්ගේ මඩිය තර කර ගන්නවා. ඡන්දයක් කිට්ටු වෙලා භාණ්ඩ දෙක තුනක මිළ අඩු කළාම අපේ අයට සේරම අමතකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-08-23 03:21:04</date>
+            <index>27</index>
+            <phrase>අනේ අපිට නම් මේ කතා අහලා එපාවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2016-08-23 03:26:05</date>
+            <index>28</index>
+            <phrase>සල්ලි ඕනෑ නම් සුදුසු ක්‍රමයකින් සොයාගන්නවා හැර මහජනතාව මත එම බරත් පටවා හරියනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-23 03:29:31</date>
+            <index>29</index>
+            <phrase>කාලය අවසන් වනතුරුම රාජපක්ෂලාට බැන බැන ඉන්නද හදන්නේ. තමන් කරන දේ කළානම් ඉවරයිනේ. මොකක්ද ඔයතරම් වෛයිරය. "නහි වේරානි වේරානි" කියලනේ බුදුන් වහන්සේ දේශනා කළේ. දැන් අවුරුදු 2 ක් වෙන්න ආවා. බැනීම නවතා වැඩ පටන්ගත්තොත් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-23 03:34:27</date>
+            <index>30</index>
+            <phrase>තිලක් ඩුබායි වගේ පිටරට ඉඳලා කයිවාරු ගහන මිනිස්සු නිසා වැඩ බැරි ටාසන්ලා වීරයෝ වෙනවා. මම යෝජනාවක් කරනවා, හැම ගෙදරකින්ම මාසයකට රුපියල් 100 ක් එකතු කරලා රටේ ප්‍රශ්න විසඳන්න යහපාලන ආණ්ඩුවට දෙමු. එවිට විශාල අාදායමක් රජයට ලැබෙනවා. තවද මන්ත්‍රී වැටුම කපාහරිමු. අවම වශයෙන් මුලික උපාධියක් තියෙන උගත් මිනිසුන් පාර්ලිමේන්තුවට පත්කරමු. එවිට රට සහ අනාගතය සුරක්ෂිත වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-23 03:45:20</date>
+            <index>31</index>
+            <phrase>අද වෙනකන් මොනවද කළේ? අහිංසක මිනිසුන් පාරට බස්සන එක විතරයි., දැන් කියනවා සල්ලි නැහැලු. මේකේද ඔබ ගෙනා වෙනස?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2016-08-23 03:48:08</date>
+            <index>32</index>
+            <phrase>ඔබතුමාට ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-08-23 04:58:59</date>
+            <index>33</index>
+            <phrase>රටේ ප්‍රශ්න විසඳන්න සල්ලි වලින් පුලුවන්නම් මේ අරගෙන තියෙන ණය කන්දරාවේ හැටියට සියලු ප්‍රශ්න විසඳිලා තියෙන්න ඕනෑ. රටේ ප්‍රශ්න විසඳන්න සල්ලි ඕනෑ කියන එක බොරුවක්. අවශ්‍ය වෙන්නේ අවංක දේශපාලන නායකත්වයක්. පෞද්ගලික පටු උවමනාවන් දේශපාලන බලය උපයෝගී කරගෙන ඉටුකරගන්න දේශපාලනයක් රටේ තියෙනකන් ප්‍රශ්න විසඳන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-23 05:12:34</date>
+            <index>34</index>
+            <phrase>බණ්ඩාර, ඊටවැඩිය හොඳ නැද්ද සියලුම රටවැසියෝ එක දිනක් නිරාහාරව සිට ඒ සඳහා යන වියදම රජයට දුන්නොත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2016-08-23 06:07:52</date>
+            <index>35</index>
+            <phrase>අමල් කියන කතාවට මමත් එකඟයි. තිලක් ඩුබායි, මානසික වෛද්‍යවරයෙක් හමුවෙන එක හොඳයි තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිළිණ</author>
+            <date>2016-08-23 06:14:00</date>
+            <index>36</index>
+            <phrase>තාමත් හිතේ අමාරුවට කඩේ යන තිලක් ඩුබායි වගේ අය ඉන්නවා.‍ මහින්ද කයිවාරු ගැහුවේ නැහැ. වැඩ කළා. මේ අය අරන් තියෙන ණය කන්දරාව කොහොමද පහුගිය කාලේ ගත්ත ණය වලට වැඩිය වැඩි වුණේ? එහෙනම් අපි දැන් ණය වලින් නිදහස් වෙන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිවර්ධන</author>
+            <date>2016-08-23 06:55:03</date>
+            <index>37</index>
+            <phrase>මේක තමයි ඇත්ත තත්වය. ඡන්දෙට කලින් අරක කරනවා මේක කරනවා කිව්වට අපේ රට ඉතාම දුප්පත් රටක් බව අපේ බොහෝ මිනිසුන්ට තේරෙන්නේ නැහැ. ඒ නිසා බදු වලට විරුද්ධ වීම, නොමිලේ අධ්‍යාපනය, සෞඛ්‍ය පමණක් නොව පර්මිට් නැති කාර් ඉල්ලීම් වගේ දේවල් කරන්නේ කිසිම අවබෝධයක් නැතුව. නමුත් දේශපාලකයන් මේවා දෙන බවට ඡන්ද පොරොන්දු දෙන්නේ ඡන්ද ලබා ගැනීමට පමණි. මේවා ඉටුකිරීමට කිසිම අාණ්ඩුවකට නොහැක. රටේ නිෂ්පාදනයක්, අපනයනය කිරීමක්, විදේශ විනිමයක් නැතුව රට ගෙනයන්නේ කෙසේද යන්න පිළිබඳ ජනතාවට තේරුමක් නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2016-08-23 07:56:56</date>
+            <index>38</index>
+            <phrase>ටෙෂාන්, හොරකම් කළා නම් ඔප්පු කරලා ගන්නකො.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සචිත්</author>
+            <date>2016-08-23 09:34:52</date>
+            <index>39</index>
+            <phrase>මට නම් හිතෙන්නේ එනපොට හොඳ නැහැ වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-08-23 11:05:45</date>
+            <index>40</index>
+            <phrase>ඇමති මණ්ඩලය 35 යි. දින 100න් ජනාධිපති ක්‍රමය  අහෝසියි. රැකියා ලක්ෂ 10යි. වොක්ස්වැගන් කම්හලයි. උපරිම මාධ්‍ය නිදහස. ජනතාව තවත් රවටනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලංග</author>
+            <date>2016-08-23 11:23:26</date>
+            <index>41</index>
+            <phrase>මොරටුවේ ඊයේ සිටිය පොලිසියේ ප්‍රමාණය මෙම වැඩසටහනට සහභාගි වෙච්ච් ගන්නට වැඩිය වැඩි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-23 11:23:48</date>
+            <index>42</index>
+            <phrase>සල්ලි ඕනයි කියල තමන්ගේ ඇමතිවරුන්ට අසීමිත උපදේශකවරුන් පත් කරන්න ඉඩ දීල, මහජන මුදල් නාස්තිකරලා හරියනවයි. කලින් තමන් ආදර්ශමත්වෙන්න ඕන. මැති ඇමතිවරුන්ගේ අනවශ්‍ය වියදම් ආඩු කරන්න. ඇමති ෆොන්සේකාගේ අමාත්‍යංශයේ ගොඩනැගිල්ලේ මාසික කුලිය විතරක් කියද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2016-08-23 11:43:52</date>
+            <index>43</index>
+            <phrase>පෙර වැරදි නැතුව ඉදිරියට යාම තමයි හොඳ. අරයා මෙයා නිසා මේක කරන්න බැහැ කියන එක හොඳ ලක්ෂණයක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2016-08-23 12:25:32</date>
+            <index>44</index>
+            <phrase>මන්ත්‍රිලගේ දීමනාව හා වාහන ගන්න එහෙම සල්ලි තියනවා නේ? ඊලග ඡන්දෙදි බලාගන්නකෝ ඔහෙලට මොකද වෙන්නේ කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-08-23 15:52:36</date>
+            <index>45</index>
+            <phrase>ඔය ඇමති මණ්ඩලේට රිංගලා ඉන්න ඡන්දෙන් පැරදිච්ච පරපෝෂිතයන්ව ආපහු ගෙදර ඇරිය නම් සල්ලි ඉතුරු වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2016-08-23 19:43:57</date>
+            <index>46</index>
+            <phrase>ශ්‍රී ලාංකිකයන්ට දැන් ඉතින් බත් කෑමට නැත්නම් පස් කන්න කියලයි කියන්න වෙන්නේ රට හදනතුරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දපාල</author>
+            <date>2016-08-23 23:47:26</date>
+            <index>47</index>
+            <phrase>මහින්දත් පාරේ ගියා. මේ වාගේ බොඩිගාඩ්ලා හිටියේ නැහැ. බොරු සෝබන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්‍</author>
+            <date>2016-08-24 02:25:52</date>
+            <index>48</index>
+            <phrase>සල්ලි විතරද දැන් ඕනෑ? කටින් බතල කොල හිටවන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-08-24 02:31:18</date>
+            <index>49</index>
+            <phrase>රටට වෙන හරිය නම් කාටත් පේනවා දැන් දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්ද්‍ර</author>
+            <date>2016-08-24 02:46:42</date>
+            <index>50</index>
+            <phrase>සල්ලි අපෙන්ද ඉල්ලන්නේ එතකොට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2016-08-24 04:58:09</date>
+            <index>51</index>
+            <phrase>මේ හැම එකාටම ගහල එලවන්න ඕනේ ..? මොවුන්ට පුළුවන් අර මහින්දලාගේ කරපුවා කියකියා ...පිටරට සංචාරේ යන්නයි ....හොරාකන්න තව කල්ලියකට අපෙන් බලය ඉල්ලගන්න හදන්නේ ..? අපිට ඉන්න තියෙන තැනත් ඉන්දියාවට ලියල දෙන්න කරන උප්පර වැට්ටියක් ..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2016-08-25 01:05:43</date>
+            <index>52</index>
+            <phrase>දේශය ආරක්ෂා කරගැනීමට නොදත් අපි හරි උගතුන් යැයි සිතාගෙන සිටින ශ්‍රී ලාංකිකයෝ ගැන ලැජ්ජයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

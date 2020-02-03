@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60070</articleId>
+    <title>කැකිරාව ඩිපෝව අරී</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 අගෝස්තු මස 21 12:01:58</date>
+    <body>දින අටකට පෙර වසා දැමූ කැකිරාව ලංගම ඩිපෝව අද විවෘත විය. ප‍්‍රවාහන නියෝජ්‍ය ඇමති රෝහන දිසානායක මහතා එහි ගොස් සේවකයන් සමග සාකච්ඡා කළේය. දෙමාසයක හිඟ වැටුප් වලින් මාසයක වැටුප් අද ගෙවීමට නියමිතය.
+පොලොන්නරුව අනුරාධපුර ඩිපෝ වෙත යැවූ බස් යළි ගෙනඑන බවද, ඒවායේ ඇතැම් කොටස් ගලවාගෙන ඇති බවද සේවකයෝ කියති.
+ඇතැම් බස්වල හොඳ සීට් ගලවා කබල් සීට් සවිකර ඇතැයිද ඔවුහු පවසති.</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-21 12:52:14</date>
+            <index>0</index>
+            <phrase>ඉල්ලන් කාලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-21 12:54:14</date>
+            <index>1</index>
+            <phrase>සේප්පුවෙ තිබුණ සල්ලිවලින් එක මාසෙක විතරද පඩි ගෙවන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් රිස්වාන්, සෞදි</author>
+            <date>2012-08-21 14:04:38</date>
+            <index>2</index>
+            <phrase>සේප්පුවේ මාස 2ක පඩි තියෙනවා කිව්වනේ ඇයි එක මාසෙක පඩිය ගෙව්වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් මැනිලා</author>
+            <date>2012-08-21 14:23:12</date>
+            <index>3</index>
+            <phrase>කෑලි අඩුනම් අදාල ඩිපෝවේ අධිකාරිවරුන්ට විරුද්ධව නඩු දාන්න.. ඕවා ලේසියෙන් අතහරින්න නරකයි.. උද්ඝෝෂණය කළත් අසරණ ජනතාව අමාරුවෙ.. ඒ මදිවට දැං කෑලිත් ගලෝලා...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔපාත</author>
+            <date>2012-08-21 14:44:15</date>
+            <index>4</index>
+            <phrase>කෑලි ගලවන්න ද ඇරියේ.. හොදයි අනිත් පඩියත් ඡන්දෙට කලින් ගෙවන්න..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-21 15:40:21</date>
+            <index>5</index>
+            <phrase>තවත් වීර ක්‍රියාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-21 22:03:56</date>
+            <index>6</index>
+            <phrase>අන්තිමට පාඩු විදින්නේ දුප්පත් අපිම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

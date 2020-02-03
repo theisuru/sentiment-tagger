@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>86385</articleId>
+    <title>පොලීසිය ජීවිත 50ක් බේරයි</title>
+    <author>ප්‍රදීප් ප්‍රනාන්දු</author>
+    <date>2012 දෙසැම්බර් මස 19 17:44:46</date>
+    <body>කිලිනොච්චියේ සිට කොළඹ කොටුව බලා ගමන් කළ මගීන් 50 දෙනකු රැගත් පෞද්ගලික බස්රථයක් හලාවත පුත්තලම මාර්ගයේ ලුණුවිල පාලම අසලදී සැඩ පහරට හසුව ගසා ගෙන යද්දී දොඹකරයක් ආදාරයෙන් සියලු මගීන් බේරා ගැනීමට පොලීසිය සමත් විය.</body>
+    <comments>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-12-19 17:56:24</date>
+            <index>0</index>
+            <phrase>හොද වැඩ කරද්දී අපි ඔක්කොම එකතුවෙලා පොලිසියේ මහත්වරුන්ට ස්තූති කරමු නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සභා</author>
+            <date>2012-12-19 18:07:21</date>
+            <index>1</index>
+            <phrase>රියදුරු මෙතරම් මෝඩද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා-සවුදි</author>
+            <date>2012-12-19 18:13:31</date>
+            <index>2</index>
+            <phrase>අනේ මේ නහින දෙහින කාලේ, ගෙදරට වෙලා නිදහසේ නිදාගෙන ඉන්නවත් අපිට නිදහසක් නැති හැටි? කොයිවෙලේ ගංවතුරක් එයිද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාවංශ</author>
+            <date>2012-12-19 18:31:20</date>
+            <index>3</index>
+            <phrase>මේ දුෂ්කර අවස්ථාවේ පොලොසියේ, ත්‍රිවිධ හමුදා කෑපවීම් ඉතා අගය කළයුතුව ඇත. නමුත් රජයේ හෝ විපක්ශයේ මන්ත්‍රීවරයෙක් ආපදා ස්ථානයක දකින්න නොලෑබීම කණගාටුවට කරුණකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්‍යා</author>
+            <date>2012-12-19 18:33:32</date>
+            <index>4</index>
+            <phrase>හරියටම සුනාමි වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-12-19 18:41:24</date>
+            <index>5</index>
+            <phrase>පොලීසිය ඇත්තටම බොහොම හොදයි. පොලීසියට නරක නම ගෑවිලා තියෙන්නේ උඩ ඉදන් පහළට ඉන්න දේශපාලකයන් හින්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-19 18:37:37</date>
+            <index>6</index>
+            <phrase>කාලෙකට පස්සේ පොලිසියෙන් හොද වැඩක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිසේරා</author>
+            <date>2012-12-19 18:38:31</date>
+            <index>7</index>
+            <phrase>සල්ලිම සොයන්න ජීවිත කීයක් බීලී දෙන්නද හැදුවේ රාළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සැම්සුන්</author>
+            <date>2012-12-19 18:49:09</date>
+            <index>8</index>
+            <phrase>මන්ත්‍රීලා සේරම පිටරට...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-12-19 18:51:19</date>
+            <index>9</index>
+            <phrase>සමස්ථයක් වශයෙන් ගත් කල මෙම රියැදුරන් උගත් කොට්ඨාශයක් නොවේ. මොවුන් සමග පාරේ ගමන් කිරීම බොහෝම අමාරු වැඩක්. ගමනාගමන අංශය රජයට පවරා ගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-12-19 18:58:06</date>
+            <index>10</index>
+            <phrase>රජයේ මැති ඇමතිවරුන් ඔය වගේ තැන්වලට නොයන එකමයි හොද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-12-19 18:57:25</date>
+            <index>11</index>
+            <phrase>ඔබට යෝධ බල යෝධ ශක්තිය ලැබේවා මහත්වරුනි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-19 19:18:35</date>
+            <index>12</index>
+            <phrase>රටේ හැමතැනම ගංවතුර, ගිනි... සුවදුක් විමසන්න එක ඇමති‍කෙනෙක්වත් යනවා මම නම් දැක්කේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2012-12-19 19:24:58</date>
+            <index>13</index>
+            <phrase>මෙයා බස් එක බෝට්ටුවක් හරි නැවක් හරි කියලා හිතුවද දන්නේ නැහැ. නොසැළකිල්ලක මහත. නැවත කරත්තයක්වත් දක්කන්න දෙන්න හොද නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-12-19 19:20:11</date>
+            <index>14</index>
+            <phrase>හමුදාවට, පොලිසියට බැනලා වැඩක් නැහැ. දේශපාලනය නිසයි එයාලා බැණුම් අහන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයාස්</author>
+            <date>2012-12-19 19:43:44</date>
+            <index>15</index>
+            <phrase>අපේ පොලිසියේ ඉන්නේ වැඩකාරයෝ. පොළවත් එකයි. වතුරත් එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-12-19 19:44:40</date>
+            <index>16</index>
+            <phrase>කොයි තරම් වටිනා වැඩක්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුසන්ත යග්ගහවිට</author>
+            <date>2012-12-19 19:50:57</date>
+            <index>17</index>
+            <phrase>රටත් ඡනතාවත් බේරාගන්න හැමදාමත් බෙරට ඒන්නේ රණවිරුවන්ය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-12-19 20:00:42</date>
+            <index>18</index>
+            <phrase>හමුදාවට සහ පොලිසියට පින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-12-19 21:41:54</date>
+            <index>19</index>
+            <phrase>පොලිසිය කවදත් ‍හොදයි, දේශපාලනය නොගෑවුණොත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත මහින්ද ඉතාලියේ මිලානෝ නගරයේ සිට</author>
+            <date>2012-12-19 21:43:20</date>
+            <index>20</index>
+            <phrase>මිල කළ නොහැකි අති උතූම් වූ වීර ක්‍රියාවක්. මේ කෑපවීම් අගය කළ යුතුමයි. පොලීසියේ සියලුම නිළධාරීන්ට සහ දායක වු සැමටම බෙහෙවින්ම ස්තූතියි....!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-19 21:45:23</date>
+            <index>21</index>
+            <phrase>ලංකාවේ සදාචාරයේ පිරිහීමට බලපාන ප්‍රධාන හේතු තුනකි. 1. පුද්ගලික බස් 2. ත්‍රී රෝද රථ 3. හමුදාවෙන් පැන ආ සෙබලුන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-12-19 22:06:01</date>
+            <index>22</index>
+            <phrase>ඔබ ඇති විශිෂ්ටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කළු</author>
+            <date>2012-12-19 22:55:31</date>
+            <index>23</index>
+            <phrase>ඒව හොද වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-12-19 23:01:31</date>
+            <index>24</index>
+            <phrase>මෙවැනි සැඩපහරක් තුල බස් රථ පැදවීමත් මෝඩකමක්, බස් රථවලට නැගීමත් මෝඩ කමක් නමුත් වතුරෙන් බේරෙන්න කොහොම හරි එන්නත් ඒපායැ, මෙවැනි අපාදා අවස්ථාවලට අවශ්‍යයවන පරිදි වගකිව යුත්තන් බෝටිටු සේවයක් ආරම්භ කලානම් මෙවැනි විපත් සිදුවන්නේ නෑ මෙවැනි අවස්ථාවල ආණ්ඩුවේ හෝ විපක්ෂයේ හෝ මැති ඇමතිවරු නොදැකීම ඇත්තටම කණගාටුවට කරුණක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2012-12-19 23:03:48</date>
+            <index>25</index>
+            <phrase>පොලීසියේ ඉන්නෙත් අපි අතරින් ගිය හදවත් උණුවෙන මිනිස්සු කොට්ඨාශයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-12-19 23:13:23</date>
+            <index>26</index>
+            <phrase>හොද වඩාත් කරනවා නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහිංසා</author>
+            <date>2012-12-19 23:31:27</date>
+            <index>27</index>
+            <phrase>සතුටුයි. ශ්‍රී ලංකා පොලීසියටත් මේ වගේ අය ඉන්න එක ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-12-20 04:30:27</date>
+            <index>28</index>
+            <phrase>මෙම ක්‍රියාවේ වගකීම අනිවාර්යයෙන් රියැදුරු විසින් භාරගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-12-20 06:56:45</date>
+            <index>29</index>
+            <phrase>රියැදුරා මෝඩ වැඩක් කළේය. පොලිසීය හොඳ වැඩක් කළේය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමික</author>
+            <date>2012-12-20 08:40:29</date>
+            <index>30</index>
+            <phrase>විශිෂ්ට ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-12-20 08:53:19</date>
+            <index>31</index>
+            <phrase>ජීවිත රැසක් ඇත රියදුරු දෑතේ ...... කියලා ඇයි ඔබ දන්නේ නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ් ප්‍රීනා</author>
+            <date>2012-12-20 09:19:05</date>
+            <index>32</index>
+            <phrase>මොවුන්ට මුලුමහත් ජාතියේම ප්‍රණාමය හිමිවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2012-12-20 09:23:51</date>
+            <index>33</index>
+            <phrase>කොහොමත් සමහර පුද්ගලික බස් රථ හිමියන් සල්ලි විතරයි හොයන්න හදන්නේ. ජීවිත ගැන වැඩක් නැහැ. බස් එකේ පා පුවරුවේ යන හැටි පේනවනේ. බස් එක නවත්වනකොට 1ක් 2ක් එළියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-12-20 09:35:37</date>
+            <index>34</index>
+            <phrase>මම හිතන්නේ මෙතනත් රඟපෑමක් තියෙනවා කියලයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජි</author>
+            <date>2012-12-20 09:45:56</date>
+            <index>35</index>
+            <phrase>ඉස්සර පොලිසිය කොච්චර හොදද? දේශපාලනය පොලිසියට අත දාපු දවසෙ ඉදලා තමයි පොලිසිය නරක් වුණේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-20 09:54:56</date>
+            <index>36</index>
+            <phrase>රියදුරාට දොස් කීම වැරදියි , බස් එකේ 50 ක් හිටියනේ . පොලීසියේ අය උතුම් ක්‍රියාවක් කරලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-12-20 09:56:21</date>
+            <index>37</index>
+            <phrase>ඉතාම හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-20 09:51:26</date>
+            <index>38</index>
+            <phrase>කියන දේ නාහපු ඔය රියැදුරාව බස්‌ එකේම තියලා එන්නයි තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-20 10:19:06</date>
+            <index>39</index>
+            <phrase>ශාන් ඔයා ලංකාවෙද ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-12-20 10:22:28</date>
+            <index>40</index>
+            <phrase>ශාන් ලා වගේ මිනිස්සු ලංකාවේ ඉන්නකන් අපිට ජයගන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනල්</author>
+            <date>2012-12-20 12:13:00</date>
+            <index>41</index>
+            <phrase>ශාන් මේක අපේ පළපුරුද්ද? මෙයා ලංකාවෙ නෙමෙයි වගේ... මිනිසුන්ගේ ජීවිතවල වටිනාකමක් නැහැ.. හලාවත පොලිසියේ උතුම් වැඩක්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධික</author>
+            <date>2012-12-20 13:57:02</date>
+            <index>42</index>
+            <phrase>මහඟු පිනක් ඒ වැඩේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-12-20 14:29:55</date>
+            <index>43</index>
+            <phrase>පොලීසියේ සියලුම නිළධාරීන්ට සහ දායක වු සැමටම බෙහෙවින්ම ස්තූතියි.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසාල්</author>
+            <date>2012-12-20 16:34:42</date>
+            <index>44</index>
+            <phrase>අනෙක් දේවල් වලින් වැඩක් නැහැ. කරන වැඩේ අගය කරන්න පුරුදු වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-12-20 18:22:30</date>
+            <index>45</index>
+            <phrase>ශාන් මොනවගේ කෙනෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-12-20 19:45:25</date>
+            <index>46</index>
+            <phrase>ගොඩාක් පින් සිද්ද වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උචිත</author>
+            <date>2012-12-20 22:53:59</date>
+            <index>47</index>
+            <phrase>නියමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපාන්ත</author>
+            <date>2012-12-21 09:54:10</date>
+            <index>48</index>
+            <phrase>ගෞරවණීය පොලිස් නිලධාරීන්ට මගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-21 15:43:13</date>
+            <index>49</index>
+            <phrase>වෙච්ච දේ දැන් වෙලා ඉවරයි. දැන් කාටවත් ‍දොස් කියලා වැඩක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරේශ්</author>
+            <date>2012-12-21 16:55:34</date>
+            <index>50</index>
+            <phrase>විශිෂ්ට ක්‍රියාවක්. පොලිස් නිලධාරීන්ට මගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-12-21 17:09:43</date>
+            <index>51</index>
+            <phrase>නියම වැඩක් මේ. ඒත් ලැබෙන සමහර ප්‍රතිචාර ගැන දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-12-23 09:35:49</date>
+            <index>52</index>
+            <phrase>අගයන්න ඕන වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-12-23 09:42:22</date>
+            <index>53</index>
+            <phrase>සතුටුයි. ශ්‍රී ලංකා පොලීසියටත් මේ වගේ අය ඉන්න එක ගැන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-12-23 14:47:45</date>
+            <index>54</index>
+            <phrase>විශිෂ්ටයි පොලිස් මහත්වරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-12-23 14:47:07</date>
+            <index>55</index>
+            <phrase>මෙවන් දූෂණ, වංචා පිරි රටේ ඔබ වැනි විරුවන් සදා අමරණීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2012-12-23 17:43:21</date>
+            <index>56</index>
+            <phrase>ඇත්තටම මේ වැඩ අගය කලයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-12-24 12:16:57</date>
+            <index>57</index>
+            <phrase>නියමයිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-04-17 22:54:56</date>
+            <index>58</index>
+            <phrase>ලංකාවේ පොලිසිය කොච්චර හොදයිද කියලා තේරෙන්න අප්‍රිකානු රටකට ඇවිත් බලන්න. ලංකාවේ පොලිසියට මගේ ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරත්</author>
+            <date>2015-05-29 18:02:13</date>
+            <index>59</index>
+            <phrase>මොඩ ඩයිවරය හින්දා තව පොඩ්ඩෙන් ජිවිත ගණනක් අනතුරේ!!!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන් සමීර</author>
+            <date>2015-06-01 06:07:08</date>
+            <index>60</index>
+            <phrase>හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

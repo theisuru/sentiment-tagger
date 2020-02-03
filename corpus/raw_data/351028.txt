@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>351028</articleId>
+    <title>වෑන් රිය ගසක හැපී දෙකට නැමේ</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2015 සැප්තැම්බර් මස 29 07:55:01</date>
+    <body>බංඩාරගම ගල්තුඩේදී අද උදේ වෑන් රියක් පාරේ ගිය කතකගේ ඇඟේ හැපීමෙන් පසු ගසක වැදී ගෙයකද හැපී වෑන් රියේ ගමන් කළ දෙදෙනෙක් තුවාල ලදහ.
+පාරේදී හැපුණු මගියා මිය ගිය බව පොලීසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>සාලිය</author>
+            <date>2015-09-29 03:57:41</date>
+            <index>0</index>
+            <phrase>අද කාලේ කිසිම කෙනෙක් සිහි බුද්ධිය ඇතිව වාහන එලවන්නේ නැතිකම තමයි මේකට හේතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2015-09-29 05:21:12</date>
+            <index>1</index>
+            <phrase>ශක්තිමත් ගසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල් ජයසිංහ</author>
+            <date>2015-09-29 11:57:48</date>
+            <index>2</index>
+            <phrase>බට් කරපු වාහනයක් විය හැකියි. නැති නම් ඔය ක්‍රමයට නැමෙන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

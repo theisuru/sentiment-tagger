@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19978</articleId>
+    <title>දුම්රිය ජිවිත දෙකක් බිළිගනී</title>
+    <author>අලූත්ගම වාර්තාකරු  ජේ ඉන්දුරුවගේ</author>
+    <date>2011 දෙසැම්බර් මස 30 23:47:32</date>
+    <body>අලුත්ගම ඩිපෝ පාරේ අනාරක්ෂිත දුම්රිය හරස් මාර්ගයේ දී සාගරිකා දුම්රියේ ගැටුණු සබන් ලොරියක  ගමන් ගත් දෙදෙනෙක් මරුමුවට පත්වූහ. දුම්රියේ ගැටුණු ලොරිය මීටර් තුන්සියයක් පමණ දුරට ඇදී ගොස් තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>Mohamed riswan</author>
+            <date>2011-12-31 14:36:40</date>
+            <index>0</index>
+            <phrase>ළඟ හිටිය අය සබන් එකතු කරලලු. මෙහෙමත් මිනිස්සු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2011-12-31 16:21:06</date>
+            <index>1</index>
+            <phrase>ඒකත් අපේ අය ආණ්ඩුවට දායි ද දන්නේ නැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

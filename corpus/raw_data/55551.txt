@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55551</articleId>
+    <title>උතුරු කොරියානු නායකයාට මංගල සීනු</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි  සෝල් නුවරදීය</author>
+    <date>2012 ජූලි මස 27 09:39:24</date>
+    <body>උතුරු කොරියානු නායක කිම් ජොං උන් විවාහ වූ බවත් ඔහුගේ අත ගත්තේ එරට ජනපි‍්‍රය ගායිකාවක වන රී සොල් ජූ බවත් විදෙස් පුවත් සේවා අනාවරණය කරයි.
+පසුගිය වසරේ තම පියා වූ කිම් ජොං ඉල්ගේ අභාවයෙන් පසු උතුරු කොරියාවේ නායකයා බවට පත් වූ උන් පසුගිය මාස කිහිපය තිස්සේ ඡුායාරූපවලට පෙනී සිටියේ සුරූපී තරුණියක ද
+සමඟය. ඇය ඔහුගේ බිරිය බවත් කිම් ජොං උන් විවාහ වී ඇති බවත් පසුව හෙළිදරවු විය.
+ඔහුට රී සොල් ජූ හමුවී ඇත්තේ ඇයගේ සංගීත ප‍්‍රසංගයක් නැරැඹීමට ගිය අවස්ථාවේදී බවත් දුටු පළමු දිනම දෙදෙනා අතරේ ආදරයනක් හටගත් බවත් මාධ්‍ය වාර්තා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-27 14:24:27</date>
+            <index>0</index>
+            <phrase>හනේ හනේ හොරා..... කියන්නෙත් නැතුව බැන්දා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-07-27 16:16:27</date>
+            <index>1</index>
+            <phrase>වාසනාවන්ත ගායිකාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2012-07-27 18:55:54</date>
+            <index>2</index>
+            <phrase>බොහොම හොදයි. දකුණු ආසියාවේ නායකයන්ටත් ආදර්ශයක් දෙන්න. පුලුවන්නම් ආසියාවේ ආශ්වර්යය වෙන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත් ප්‍රියන්ත</author>
+            <date>2012-07-29 10:23:34</date>
+            <index>3</index>
+            <phrase>සුබ මංගලම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-07-30 01:28:25</date>
+            <index>4</index>
+            <phrase>ඕකට තමයි කියන්නේ ගෑණුන්ගේ පින කුණු මුල්ලේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

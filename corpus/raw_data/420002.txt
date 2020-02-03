@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>420002</articleId>
+    <title>ජවිපෙ නයුවෝ ගෙවල් පිරිසිදු කරති</title>
+    <author>බිඟුන් මේනක ගමගේ</author>
+    <date>2016 මැයි මස 26 16:57:35</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-05-26 11:57:00</date>
+            <index>0</index>
+            <phrase>මොනවා වුණත් හොද දේට හොදයි කියමු. අපේ රට අපේ මිනිස්සු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ් කුමාර</author>
+            <date>2016-05-26 11:57:47</date>
+            <index>1</index>
+            <phrase>අපේ උපහාරය !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-05-26 11:58:41</date>
+            <index>2</index>
+            <phrase>ඇත්තටම මේ කරන දේ ගොඩක් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2016-05-26 12:22:56</date>
+            <index>3</index>
+            <phrase>අවවාදයට වඩා ආදර්ශය උතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාබෘෘ සිල්වා</author>
+            <date>2016-05-26 12:27:31</date>
+            <index>4</index>
+            <phrase>ජනතා පෙරමුණේ සහෝදරවරුන් ජනතාවගේ හිත දිනාගෙන මොනතරම් වැඩ කළත් ඡන්දයකදී ජනතාව දුරස් වෙන එක තමයි මට තිබෙන ප්‍රශ්නය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දොන්</author>
+            <date>2016-05-26 12:33:20</date>
+            <index>5</index>
+            <phrase>මෙන්න නියම නායකයෝ. අපේ අචාරය ඔබලා සැමට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර ලියනගේ</author>
+            <date>2016-05-26 13:00:22</date>
+            <index>6</index>
+            <phrase>අපේ ආදාරය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-05-26 13:48:27</date>
+            <index>7</index>
+            <phrase>මෙන්න මෙහෙමයි නායකයෝ ඉන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජය</author>
+            <date>2016-05-26 14:18:31</date>
+            <index>8</index>
+            <phrase>ජේවිපී එක ඉස්සර වැරදි ඇති, දැන් ඔවුන් හරි මාර්ගයට ඇවිත් තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොමේෂ්</author>
+            <date>2016-05-26 14:24:03</date>
+            <index>9</index>
+            <phrase>ජනතාවගේ ගෙවල් පිරිසිඳු කරනවා වගේම ජනතාවගේ හිතත් පිරිසිඳු කරන්න. අපේ ගොඩක් අයගේ මොලේ පිරිසිදු නිසා හොඳට තේරෙනවා කරන්න ඕන මොකක්ද කියන එක. නමුත් ජවිපෙට තියෙන කැමැත්ත චන්දයක් බවට පත්වෙන්නේ නැත්තේ අවසාන මොහොතේදී හිතට වහල්වෙලා පරණ පුරුදු විදිහටම චන්දෙ දීල එන නිසා. මෙගොලන්ටත් අවස්ථාවක් ලැබෙනවානම් තමයි හොඳ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-05-26 14:54:56</date>
+            <index>10</index>
+            <phrase>සුනාමි ඇවිත් විනාශ වෙච්ච බස්නැවතුම්, කෝච්චි පාරවල්, ගෙවල් දොරවල් පවා ජේවීපී එකෙන් ඉතා ඉක්මනින් යථා තත්වයට පත්කරලා දුන්නා. ඉතාම හොඳ කර්තව්‍යයක්. දේශපාලනික වශයෙන් ජේවීපී එකට අකමැති වුනත්, මෙයාලා හොඳ දේවල් කරල තියෙනවා රට විපතට පත්වුණු හැම වෙලාවෙම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්දපාල</author>
+            <date>2016-05-26 15:01:31</date>
+            <index>11</index>
+            <phrase>ඉතාම සද්භාවයෙන් මේ කාර්ය ඉටුකරන්නේ ඔබලා පමණයි. ඉහත සදහන්වුනා ඡන්දයකදී ඡන්ද නෑ කියලා සුනාමියෙන් විනාශවු දුම්රිය මාර්ගය හා ගාල්ල බස්නැවතුම්පොළ වැනි දෑ කළෙත් මොවුන්ම තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමන්</author>
+            <date>2016-05-26 15:02:06</date>
+            <index>12</index>
+            <phrase>ලංකාවේ අයට ඕව හරියන් නෑ බොරුව තමා ඕනේ.. බොරුවට ඡන්ද වැඩිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-05-26 15:04:56</date>
+            <index>13</index>
+            <phrase>මේවා ඉතාම හොඳ වැඩ, අගය කරන්න ඕන.ඉස්සර අපේ සහෝදරවරුන් කාලේ මේවා තමයි. දැන් කරන්නේ මොනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-05-26 15:24:30</date>
+            <index>14</index>
+            <phrase>71 ට 89 ට යන්නේ නැතිව ඔහොම ඉදිරියට යනවානම් කොච්චර හොඳද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-05-26 15:40:12</date>
+            <index>15</index>
+            <phrase>මේ රට පාලනය කරන නායකයෝ මන් දැක්කා සෙල්පි ගහ ගහ ජපන් යනවා,එ්ත් අනුර කුමාර මහතා මුළු ලංකාවටම ආදර්ශයක් දුන්නා,,එය හරියටම සින්ගප්පූරුවේ ලී කුආන් යූ වගේ ආදර්ශමත් දෙයක්,,මෙය බලන හැමදෙනාටම ම කියන්නේ ලබන ජනාධිපතිවරණයේ අපි මොවුන්ට අවස්ථාවක් දී බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-26 16:04:03</date>
+            <index>16</index>
+            <phrase>ජවිපෙ මහින්දට නිර්දය ලෙස පහර දෙනවිට හුරේ තිබ්බේ යූ එන් පී කාරයෝ. ජවිපෙ හිතුවේ එයාලටයි හුරේ තිබ්බේ කියලා. ඡන්ද ප්‍රතිපලය එය මනාව පෙන්නුම් කළා. ජවිපෙ කොච්චර හොඳ වුනත් ඡන්ද ගන්න දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2016-05-26 16:37:18</date>
+            <index>17</index>
+            <phrase>අනිත් අය වගේ බොරු නොකියන නිසා මොවුන්ට ඡන්දය දෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2016-05-26 17:20:33</date>
+            <index>18</index>
+            <phrase>ජේ.වී.පී. දේශපාලන මතවාදය ගැන එකඟවීම ප්‍රශ්නාර්ථයක් වුවද ඔවුනගේ මේ ප්‍රජා සත්කාරක ව්‍යාපෘති තුළින් ඔවුන් සමාජයට දෙන උතුම් ආදර්ශය නොපැකිළවම අගය කරමි. පසුගිය මැයි පෙළපාලි උත්සවය අවසන් වී රැස්වීම් භූමිය ශුද්ධ පවිත්‍ර කිරීමේ ආදර්ශයත් මේ අවස්ථාවේදී නිතැතින්ම මගේ මතකයට එනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2016-05-26 17:43:23</date>
+            <index>19</index>
+            <phrase>අනේ ධම්ම, මේවා ඡන්ද ගන්න කරන වැඩ නොවේ. කතිර ඡන්දෙ නැතුවට ජනතාවගේ හදවතේ ඔවුන් ඉන්නේ ඉහළම තැන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2016-05-26 17:57:55</date>
+            <index>20</index>
+            <phrase>ධම්ම, සිල්වා, ලංකාවේ මිනිසුන්ට ඕනෑ වහල්ලු වගේ ජීවත්වෙන්න. රටක සංවර්ධනයක් කරන්නේ ජනතාවගේ බදු මුදල් වලින්. එ්ත් අපිට දුක මිනිස්සු හිතාගෙන ඉන්නේ සමහර නායකයෝ ගෙදරින් ගෙනවිත් හැදුවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2016-05-26 18:10:31</date>
+            <index>21</index>
+            <phrase>ජවිපෙ නායකයනි, මොනතරම් වේදිකාවල කැගහුවත් ඒවායින් වාසි ලබන්නේ ප්‍රධාන පක්ෂ දෙකේ අය. ඔවුන් කවදාවත් ජවිපෙට ඡන්දෙ දෙන්නේ නැහැ. හොඳම දෙය තමයි අලුතෙන් එකතුවෙන ඡන්ද ලබා ගැනීමට තාක්ෂණය යොදාගෙන උපායශීලී අලුත් වැඩපිළිවෙලක් සකසන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-05-26 19:11:37</date>
+            <index>22</index>
+            <phrase>අගය කළයුතු වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන් දයාදර පැරිස්</author>
+            <date>2016-05-26 19:28:07</date>
+            <index>23</index>
+            <phrase>කවදත් ජ.වි.පෙ. ජනහිතකාමී පක්ෂයක් බව රටම දනී. කෝ බෙරිහන් දෙන අනික් උදවිය? කටින් බතල කොළ තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2016-05-26 19:38:01</date>
+            <index>24</index>
+            <phrase>මෙන්න වැඩ. කෝ කයිවාරුකාරයෝ? හොයාගන්නත් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2016-05-26 19:47:24</date>
+            <index>25</index>
+            <phrase>මහින්දලාගේ අර ඒකාබද්ධ විපක්ෂයක්ද මොකද්ද තිබුණනේ. එ්ක කෝ මේ වෙලාවේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔලිවර්</author>
+            <date>2016-05-26 19:46:39</date>
+            <index>26</index>
+            <phrase>ජේ.වී.පි.යට ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-05-26 20:11:33</date>
+            <index>27</index>
+            <phrase>ඔබට අපේ උපහාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-05-26 21:22:20</date>
+            <index>28</index>
+            <phrase>අනේ ටිකිරි ඔයා දන්නා ලී කුආන් යු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සචිත්</author>
+            <date>2016-05-26 21:50:52</date>
+            <index>29</index>
+            <phrase>බලන්න වැඩ කරන අයගේ අත් දිහා. මේ වගේ වෙලාවක වැදගත්ම වෙන්නේ සෞඛ්‍යාරක්ෂිත වීම. එ්ක ගැනත් මෙයාලා වැදගත් පණිවිඩයක් දීලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-05-26 21:56:09</date>
+            <index>30</index>
+            <phrase>හොඳ වැඩක්. ජවිපෙ ගැන මිනිස්සු හිතාගෙන ඉන්න විදිහ වෙනස්. දන්නෝ දනිති. මේගොල්ලන්ට අඩුම තරමේ එක පළාතක් දීලා බලන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-05-26 22:11:39</date>
+            <index>31</index>
+            <phrase>ධම්ම, දේශපාලන පක්ෂයක හොඳ නරක නිර්ණය කරන්නේ ඒ පක්ෂයට ලැබෙන ඡන්ද ප්‍රමාණය අනුව නෙමෙයි. ජවිපෙ මෙච්චර අවුරුදු ගානක් බලයක් හම්බ ‍නොවුණත් මේ ව්‍යාපාරයේ ඉන්න එකට ගෞරව ක‍රන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර රාමනායක</author>
+            <date>2016-05-26 22:13:54</date>
+            <index>32</index>
+            <phrase>ජවිපෙ ඡන්ද ගන්න දන්නෙ  නැහැ නොවෙයි, මිනිස්සු ඡන්දෙ දෙන්න දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2016-05-26 22:50:35</date>
+            <index>33</index>
+            <phrase>මේවට රැවටිලා මොවුන්ට ඡන්දෙ දෙන්න නම් එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංජිත්</author>
+            <date>2016-05-27 01:50:50</date>
+            <index>34</index>
+            <phrase>කවදත් ඔබ සැම ජනතාව සමඟ ඉන්නවා. මට දුක අැයි ජනතාව ඔබ සමඟ නොඑන්නේ? හැබැයි මම අද තීරණය කළා මම වෙනස් වෙන්න. අනිවාර්යෙන්ම ඔබට සහය දෙන්න. මන්දයත් හොරකම, වංචාව, බොරුව, රැවටීම රජයන මේ රටේ දේශපාලනය වෙනස් කරන්න ඔබ දරන වෑයම වචනයෙන් කිව නොහැකි නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-05-27 02:16:14</date>
+            <index>35</index>
+            <phrase>මේ ලංකාවේ සුමුදු වගේ හැමදේටම කුහක විදියට බලන අයත් ඉන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-05-27 02:15:21</date>
+            <index>36</index>
+            <phrase>සුසන්ත, ඔවුන්ගේ මහින්ද විවේචනයේ රිද්මය/ස්වරය සුළු වෙනසක් කළා නම් අද ප්‍රධාන විරුද්ධ පක්ෂය ජවිපෙ වනවාට කිසිදු සැකයක් නැහැ. ජවිපෙට රතු අලි කියන තරමට ඔවුන් යූඑන්පියේ බළල් අතක් ලෙස මැදිහත් ජනතාවට පෙනුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2016-05-27 02:24:52</date>
+            <index>37</index>
+            <phrase>අගය කිරීමට වටිනා දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්. ජයසිරි</author>
+            <date>2016-05-27 02:24:21</date>
+            <index>38</index>
+            <phrase>අනේ අනේ සුමුදුගෙ කුහකකම!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2016-05-27 02:47:57</date>
+            <index>39</index>
+            <phrase>අවවාදයට වඩා ආදර්ශය උතුම්. ඇත්තටම මේ කරන දේ ගොඩක් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගන්ධ</author>
+            <date>2016-05-27 02:56:58</date>
+            <index>40</index>
+            <phrase>මේ අය තමා මොනවාහරි දෙයක් කරන්නේ. අනික් අය එන්නේ සෝබනේට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2016-05-27 03:06:36</date>
+            <index>41</index>
+            <phrase>එක පාරක් හොඳට මිනිස්සු ඡන්දය දීලා ගත්ත ඇමතිකම් හරියට කරලා පෙන්නුවේ නැති නිසා, නැවත වතාවක් මිනිස්සු මෝඩ වැඩ කරන්නේ නැහැ. මේ ගොල්ලන්ගේ නායකයෝ කතාව විතරයි. ලොක්කෝ කියන විදියට පහළ සාමාජිකයෝ පෝස්ටර් ගහනවා නැත්නම් වැඩ කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-05-27 03:05:21</date>
+            <index>42</index>
+            <phrase>සුමුදු, ඔබ ඉල්ලන්නේ රටේ මහජන ධනය හොරා කන පල් හොරුන්ද? ජවිපෙවත් නොතිබුනොත් හොරුන්ට ලංකාව නියම තෝතැන්නක් වෙයි හොරා කන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරනිමල</author>
+            <date>2016-05-27 03:12:09</date>
+            <index>43</index>
+            <phrase>සුනාමියෙන් පසුවද දකුණු දුම්රිය මාර්ගය පිළිසකර කිරීමට අවුරුදු ගණන් යන බව පණ්ඩිතයන් ප්‍රකාශ කළද ජවීපෙ මාස තුන හතරකින් එම දුම්රිය මාර්ග පිළිසකර කර දුන් බව කෘතවේදීව සිහිකරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙහාන්</author>
+            <date>2016-05-27 03:23:32</date>
+            <index>44</index>
+            <phrase>බලය ගන්න ඕනෑ ජරා වැඩක් කරන දේශපාලුවෝ අතරේ ඔබලා බලය ලබාගැනීමට යොදා ගන්න මෙම උපක්‍රම ඉහළින් අගය කරමි. නමුත් මැතිවරණයකදී ජනතාව ඔබලාගෙන් දුරස්වීමට හේතු සොයා බලා ඒවාට පිළියම් යොදා නව ප්‍රතිසංස්කරණ හරහා අඩුපාඩු හදාගෙන ඉදිරියට ආවොත් මීට වඩා ප්‍රතිපල ලබාගත හැකි වේවි. මගේ අදහස නම් පහුගිය කාලයේ ජවිපෙ තෝරාගත්ත දේශපාලන උපක්‍රම නිවැරදි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගගන</author>
+            <date>2016-05-27 03:55:47</date>
+            <index>45</index>
+            <phrase>ගෙදර නම් කොස්සක්වත් අල්ලන්නේ නැතුව ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2016-05-27 04:08:47</date>
+            <index>46</index>
+            <phrase>අඩුම තරමේ ඊළඟ ප්‍රාදේශීය සභා ටික ජේවීපී එකට දෙන්නකෝ. එයාලා අවුරුදු 2න් ගම හදලා දෙයි. ඊටපස්සේවත් රටේ පාලනය දෙන්න. අඩුම තරමේ ඔයාලගේ දරුවන්ට රටක් ඉතිරිවේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීන්</author>
+            <date>2016-05-27 04:11:48</date>
+            <index>47</index>
+            <phrase>මේ ලංකාවේ සුමුදු වගේ හැමදේටම කුහක විදියට බලන අයත් ඉන්නවා. නමුත්, අගය කළයුතු වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විතානගේ</author>
+            <date>2016-05-27 04:11:54</date>
+            <index>48</index>
+            <phrase>මගේ ඡන්දෙත් ඉදිරි මැතිවරණයේදී ඔබේ පක්ෂයට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂි</author>
+            <date>2016-05-27 04:24:05</date>
+            <index>49</index>
+            <phrase>ඉතා විශිෂ්ටයි. කවදත් මෙයාලා මේ දේවල් කළා. නමුත් අපේ මිනිසුන්ට පක්ෂ බදාගෙන ඉන්නවා මිසක් හොඳදේකට කවදාවත් හොඳයි කියන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-05-27 04:29:29</date>
+            <index>50</index>
+            <phrase>වැඩ කළාට වැඩක් නැහැ. මොකද මෙයාලා ප්‍රතිපත්තියක් නැති මිනිස්සු. කාලෙන් කාලෙට එක එක දේවල් කියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කස්තුරි</author>
+            <date>2016-05-27 04:34:50</date>
+            <index>51</index>
+            <phrase>සුමුදු සුවඳක් වෙන්නේ කොහොමද... ලගින ඔය කුණු ගොඩේ සිට, එන්න මාවත විවර කරගෙන... ජීවයක අසිරිය විඳින්නට, මිනිස් හදවත් වෙත නුඹත්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2016-05-27 05:12:06</date>
+            <index>52</index>
+            <phrase>මේ වෙලාවේ ඡන්දයක් අහලකවත් නැහැ. ඡන්දෙ ගන්න නම් මේවා කරන්න උවමනා නැහැ. මේවා මනුස්සකම්. මනුස්සකම තියන නායකයින්ට කළයුතු දේ තේරෙනවා. මේ වැඩේ ඉහළින්ම අගය කළයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-05-27 05:34:02</date>
+            <index>53</index>
+            <phrase>මම ධම්ම කී දේ ගොඩක් දුරකට පිළිගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2016-05-27 05:53:03</date>
+            <index>54</index>
+            <phrase>සුමුදු වගේ අය ඉන්නකම් මේ රට හදන්න බෑ. ජ.වි.පේ කවදාවක් කාවවත් රවටපු පක්ෂයන් නොවෙයි. ඒ අයට බලය නොලැබෙන්නේ අපේ පවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-05-27 06:47:31</date>
+            <index>55</index>
+            <phrase>නියමයි. ජයවේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්</author>
+            <date>2016-05-27 06:59:38</date>
+            <index>56</index>
+            <phrase>උගත් බුද්ධිමත් ජනතාවගෙ ප්‍රසාදයත් ඡන්දයත් ලැබෙන එක කිසිම කෙනෙකුට නවත්තන්න බැහැ. මාගේ හද පතුලෙන්ම ප්‍රණාමය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-05-27 07:04:03</date>
+            <index>57</index>
+            <phrase>හෙට රටට ඇවැසි ඔබයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිල්</author>
+            <date>2016-05-27 07:23:25</date>
+            <index>58</index>
+            <phrase>ඕවා හොඳ වැඩ සද්භාවයෙන් කරනවා නම්. කොහොම වුණත් ඡන්දෙ නම් ලැබෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-05-27 07:29:41</date>
+            <index>59</index>
+            <phrase>මේ නවතම රඟදැක්මක්. කාලෙන් කාලෙට වෙනස් වේවි එනවා. කොහොම ආවත් මිනිසුන් හොඳට හඳුනන නිසා වටිනා ඡන්දෙ දෙන්න තරම් මෝඩ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-05-27 08:50:52</date>
+            <index>60</index>
+            <phrase>ලොක්කො ටික අත්මේස් දාගෙන. අහිංසක සොයුරන් නිකම්ම වැඩ කරනවා. ජවිපෙ කළත් යූඇන්පී හා නිදහස් පක්ෂය කළත් එකම දේ තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්පොළගෙදර</author>
+            <date>2016-05-27 09:00:04</date>
+            <index>61</index>
+            <phrase>ධම්ම, බුදුදහම කොච්චර හොඳද? එ්ත් කී දෙනාද එ් මඟ යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගම්පොළගෙදර</author>
+            <date>2016-05-27 09:03:19</date>
+            <index>62</index>
+            <phrase>යුද බිමකට සරිලන සෙනෙවියානෝ... රජෙකැයි අපට නොසිතෙන මහා රජානෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2016-05-27 09:07:30</date>
+            <index>63</index>
+            <phrase>දුම්රිය පාර සාදාදුන්නේ නුඹයි පුතේ... වැව් දස දහසක් අලුත් කළේ නුඹයි පුතේ... පාලම් බෝක්කු සැදුවේ නුඹයි පුතේ... පැදුරේ මෙදා නිදියන්නේ නුඹයි පුතේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2016-05-27 09:17:01</date>
+            <index>64</index>
+            <phrase>බලාගෙනයි! වටිනා කියන දේවල් පරිස්සම් කරගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැප්පෙටිපොළ</author>
+            <date>2016-05-27 12:25:08</date>
+            <index>65</index>
+            <phrase>මේගොල්ලෝ මෑතකදී තම සාමාජිකයන්ට අමුඩ ගස්සලා මහා පාරේ අරන් ගියා. හැබැයි නායකයෝ ටික හොඳට කලිසම් ඇඳලා අහිංසක අමුඩකාරයින්ව ගෙනගියා. බොරු මාක්ස්වාදය කරේ තියාගෙන තරුණ පරපුර විනාශ කරන, කිසිම ප්‍රතිපත්තියක් නැති මොවුන්ට ජනතාව ඡන්දෙ දෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත් ශ්‍රී බණ්ඩාර</author>
+            <date>2016-05-27 20:10:18</date>
+            <index>66</index>
+            <phrase>ජවිපෙ ට ඡන්ද නොලැබෙන්නේ එයාලගේ වැරැද්දකට නොවෙයි. අපේ රටේ ජනතාවට පුරුදු කරලා තියෙන්නේ තාවකාලිකව ලැබෙන වාසි වලට සහ බඩගෝස්තරය වෙනුවෙන් ඡන්දෙ දෙන්න. ඉතින් එ්ක එයාලා කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත් ශ්‍රී බණ්ඩාර</author>
+            <date>2016-05-27 20:17:25</date>
+            <index>67</index>
+            <phrase>ධම්ම, සුසන්ත දෙන්නම ඒකාබද්ධ විපක්ෂයේ බළල් අත් දෙකක් කියලයි හිතෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජය</author>
+            <date>2016-05-28 05:54:43</date>
+            <index>68</index>
+            <phrase>මිනිසුන් රවටන්න එපා මහත්තයෝ. ඕවා හොඳ වැඩ. නමුත් රඟපාලා රවටන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-05-28 05:56:13</date>
+            <index>69</index>
+            <phrase>දම්ම,සුසන්ත, ඔබලා හරි. බණ්ඩාරලා තවමත් කඩේ යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2016-05-28 07:01:05</date>
+            <index>70</index>
+            <phrase>අපේ රටේ මිනිසුන්ගේ දේශපාලන චින්තනය තවම ජවිපෙ මට්ටමට පැමිණ නැත. දේශපාලන වහල්භාවය විසින් අපේ මිනිසුන්ගේ බුද්ධිය හීන කර ඇත. එය ජවිපෙ වරදක් නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2016-05-28 09:41:51</date>
+            <index>71</index>
+            <phrase>මේවා මාධ්‍ය සංදර්ශනය නෙමෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

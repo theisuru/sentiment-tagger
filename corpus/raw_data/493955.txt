@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493955</articleId>
+    <title>නත්තලට බලු සංදර්ශනයක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2016 දෙසැම්බර් මස 28 15:32:51</date>
+    <body>නත්තල නිමිත්තෙන් ඇමරිකාවේ රියලිටි වැඩසටහනකදී අපූරු බලු සංදර්ශනයක් දක්නට ලැබිණි.
+ </body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-02 07:26:35</date>
+            <index>0</index>
+            <phrase>ඇමරිකාවට වඩා බලු සංදර්ශන තියෙන්නේ ලංකාවෙනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

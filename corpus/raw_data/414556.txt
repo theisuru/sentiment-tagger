@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>414556</articleId>
+    <title>කන්ටේනරයෙන් මරුවා එයි:  17 ක් රෝහලේ</title>
+    <author>අජිත්ලාල් ශාන්තඋදය තුෂාර හෙට්ටිආරච්චි</author>
+    <date>2016 මැයි මස 12 09:58:07</date>
+    <body>රතනපුර ඇඹිලිපිටිය මාර්ගයේ මාදම්පේ දී අද (12) අලුයම බස් රථයක් හා කන්ටේනරයක් ගැටීමෙන් අයෙක් මිය ගොස් දාහත්දෙනෙක් තුවාල ලබා ඇතැයි රක්වාන පොලිසිය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-05-12 05:12:51</date>
+            <index>0</index>
+            <phrase>බර වාහන රියදුරන් මීටවඩා වගකීමෙන් රිය පැදවිය යුතුයි. අහිංසක මිනිස් ජිවිත!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2016-05-12 05:24:00</date>
+            <index>1</index>
+            <phrase>හරිම බිහිසුණු අනතුරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-05-12 07:28:36</date>
+            <index>2</index>
+            <phrase>විශේෂයෙන් මාර්ග සංඥා පිලිබඳ නිසි අවබෝධයක් වැඩි පිරිසකට නැති කම මිට ප්‍රධාන හේතුව.අපේ රටට ගැලපෙන නිසි වේග රටාවක් සියලු අධිවේගී මාර්ගයන් තුල සලකුණු කලයුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2016-05-12 08:52:45</date>
+            <index>3</index>
+            <phrase>බොහොම වේදනාකාරී දසුනක්. සුපුරුදු පරිදි මළවුන්ට නිවන් සැප හා තුවාලකරුවන්ට ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2016-05-13 06:15:51</date>
+            <index>4</index>
+            <phrase>මෙච්චර වාහන අනතුරු වෙන්නෙ නැහැ රියදුරන්ට බලපත්‍ර දෙන ක්‍රියවලිය හරියට කළා නම්. ලනර්ස් එකේ ඉඳලා ලයිසන් කන්තෝරුවේ පරීක්ෂකවරු වෙනතුරු හැමෝම කරන්නෙ වංචාව. ඊටපස්සෙ වැරදිකරන රියදුරන්ව අල්ලන පොලිසියත් කරන්නෙ රුපියල් 500ට 200ට ඔවුන්ව නිදහස්කරන එක. ඔවුන් ආපහු පාරට බැහැලා කරන්නෙ ඒ වැරදිමයි. හැබැයි ඔය අනතුරු වලින් මැරෙන හැම අහිංසකයෙක්මයි, ඒ මැරුන අයගෙ පවුල් අනාථවෙන පව් වලට ඔය හැමදෙනාටම වන්දි ගෙවන්න වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

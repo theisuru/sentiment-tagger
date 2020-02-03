@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>319483</articleId>
+    <title>අධික උණුසුමෙන් ඉන්දියාවේ 400ක් මරුට</title>
+    <author>හර්ෂණ තුෂාර සිල්වා</author>
+    <date>2015 මැයි මස 24 20:54:23</date>
+    <body>ඉන්දියාව පුරා පැතිර යන අධික  උණුසුමෙන්   මියගිය ගණන මේ වනවිට 400 තෙක් ඉහළ ගොස් ඉන්දියා මාධ්‍ය වාර්තා කරයි.
+මරණ වැඩි සංඛ්‍යාවක් වාර්තා වී ඇත්තේ තෙලන්ගානා හා ආන්ද්‍රා ප්‍රාන්තවලිනි. එම ප්‍රාන්ත දෙකේම මියගිය ගණන 368ක් යැයි වාර්තා වේ.
+දිල්ලියේ වාර්තාගත ලෙස උෂ්ණත්වය සෙල්සියස් අංශක 44.5ක් ලෙස වාර්තා වූ අතර මෙම තත්ත්වය ඉදිරි දින කිහිපයේදී ද පවතිනු ඇතැයි ඉන්දියා කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+(නවදිල්ලියේදීය (එන්.ඩීටීවී))
+ </body>
+    <comments>
+        <comment>
+            <author>යාපා</author>
+            <date>2015-05-24 17:53:53</date>
+            <index>0</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෆ්රින් සෞදි</author>
+            <date>2015-05-25 04:57:29</date>
+            <index>1</index>
+            <phrase>සෞදි අරාබියේ උෂ්ණත්වය සෙල්සියස් අංශක 55 දක්වා ඉහල යනවා. අපේ මිනිස්සු ඒවත් ඉවසගෙන තමා රට ඇවිල්ල කීයක් හරි හොයාගන්නේ. රට ඇවිල්ලම තමා බලන්න ඕන සල්ලි හොයන්න අපේ මිනිස්සු විදින දුක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2015-05-25 07:06:16</date>
+            <index>2</index>
+            <phrase>ඩුබායි රටෙත් 45-48 දක්වා ඉහළයනවා.නමුත් පොඩි සේවකයාට පවා නැවතුම්පළේ වායුසමීකරණ තියනවා.ගොඩක් බස් නැවතුම් පළවල් වලත් වායුසමීකරණ තියනවා.හැම බස් එකේම,කෝච්චියේත් තියනවා.ඒ කාලෙට එළියේ වැඩකරන අයට දවල් 12 ඉඳලා සවස 3 වෙනතුරු වැඩ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීකා</author>
+            <date>2015-05-25 08:32:02</date>
+            <index>3</index>
+            <phrase>ඒ මිනිස්සු මොනතරම් නම් දුකක් විඳිනවා ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල් වීරසිංහ</author>
+            <date>2015-05-25 12:23:20</date>
+            <index>4</index>
+            <phrase>ඒ අතින් බලනකොට ලංකාව මොනතරම් වාසනාවන්ත රටක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

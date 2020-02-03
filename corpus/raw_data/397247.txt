@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>397247</articleId>
+    <title>නිව්යෝක් පන්සලේ හිමියන්ට උපහාර</title>
+    <author>ජනක පිටිගල නිව්යෝක් නුවර සිට</author>
+    <date>2016 මාර්තු මස 21 21:44:09</date>
+    <body>ඇමරිකා එක්සත් ජනපදයේ නිව්යෝක් නුවර කුයින්ස් බෞද්ධ විහාරයේ නායක කුරුණෑගොඩ පියතිස්ස හිමියන්ගේ ශාසනික මෙහෙවර වෙනුවෙන් එම විහාරයේ දහම් පාසලේ අනුබද්ධ තරුණ බෞද්ධ සංගමය විශේෂ බෝධි පූජා පිංකමක් පැවැත්විය.
+උන්වහන්සේට උපහාර පිදිමක්ද, දීර්ඝායුෂ පතා සෙත් පැතීමක්ද සිදු කැරිණි.
+පිංකම සඳහා නිව්ජර්සි, බොස්ටන් ඇතුළු ප්‍රදේශ රැසක විහාරස්ථානවල භික්ෂුන්ද, එක්සත් ජාතීන්ගේ මහා මණ්ඩලයේ නිත්‍ය නියෝජිත තානාපති කාර්යාලයේ කාර්ය මණ්ඩල සාමාජිකයින් ඇතුළු පිරිසක් ද ලක්වාසීන්ද බෞද්ධ පිරිසක්ද පිංකමට එක්වූහ.</body>
+    <comments>
+        <comment>
+            <author>පද්මිණි</author>
+            <date>2016-03-21 19:29:06</date>
+            <index>0</index>
+            <phrase>ඔබවහන්සේට ත්‍රිවිධ රත්නයේ සරණයි! දීර්ඝායුෂ ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේවර්ධන</author>
+            <date>2016-03-21 19:29:31</date>
+            <index>1</index>
+            <phrase>ඔබවහන්සේට බුදු සරණයි හිමියනි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-03-22 01:25:48</date>
+            <index>2</index>
+            <phrase>ඔබ වහන්සේට දීර්ඝායුෂ ලැබේවා. කළ සේවය අපි සදහටම අගය කරන්නෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2016-03-22 02:26:51</date>
+            <index>3</index>
+            <phrase>වචනයේ පරිසමාර්ථ අර්ථයෙන්ම ගුණවත් සිල්වත් සංඝ පිතෘ වහන්සේ නමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්ද</author>
+            <date>2016-03-23 10:19:26</date>
+            <index>4</index>
+            <phrase>ඉතාමත් සිල්වත්, උගත් ඒ සියල්ලටම වඩා ගුණවත් නායක හිමි නමක් ලෙස අපේ පියතිස්ස නාහිමිගේ නාමය ඉතිහාස ගතවෙනවා. මෙවන් සත්පුරුෂ යතිවරුන් ඉතාම දුලබයි. අපේ පියතිස්ස නාහිමිපාණන්ට දිගාසිරි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

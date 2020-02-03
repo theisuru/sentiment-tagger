@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>376076</articleId>
+    <title>පොප් ගායක බෝවි නිහඬ වෙයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ජනවාරි මස 11 15:06:38</date>
+    <body>ජනප්‍රිය පොප් ගායක ඩේවිඩ් බෝවි මියගිය බව බීබීසී පුවත් සේවය පවසයි.
+පිළිකා රෝගී තත්ත්වයෙන් පීඩා විඳි බෝවි මියයන විට 69 වැනි වියේ පසුවිය. ඔහුගේ පුත් සිනමා අධ්‍යක්ෂක ඩන්කන් ජෝන්ස් සිය සමාජ ජාල ඔස්සේ පණිවිඩයක් නිකුත් කරමින් පියාගේ අභාවය සම්බන්ධයෙන් කළ දැනුම්දීම අද තහවුරු කර ඇතැයි කියති.
+මාස 18ක පමණ කාලයක් පිළිකාවත් සමග සටන් වැදුණු බෝවි සමාදානයේ සැතපුණු බව ඔහු සඳහන් කරයි.
+‘ලෙට්ස් ඩාන්ස්, ස්පේස් ඔඩිටි, ස්ටාර්මෑන්, මොඩර්න් ලව්, හීරෝස්, අන්ඩර් ප්‍රෙසර්, රිබෙල්, රිබෙල් ඇන්ඩ් ලයිෆ් ඔන් මාර්ස්‘ වැනි ගීත ජනප්‍රියත්වයට පත්ව තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-01-11 10:48:13</date>
+            <index>0</index>
+            <phrase>රූපය අනිත්‍යයයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔස්කාර්</author>
+            <date>2016-01-11 19:06:03</date>
+            <index>1</index>
+            <phrase>සැබෑ දක්ෂයෙකුගේ නික්මයාමක්. ඔබට නිවන් සුව ප්‍රාර්ථනා කරමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලාන්</author>
+            <date>2016-01-12 02:35:58</date>
+            <index>2</index>
+            <phrase>සදා හදවතේ රැඳෙන ගායකයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495210</articleId>
+    <title>සීමා නිර්ණය කමිටු වාර්තාව ඇමැති ප්‍රතික්ෂේප කරයි</title>
+    <author></author>
+    <date>2017 ජනවාරි මස 02 16:34:06</date>
+    <body>සීමා නිර්ණය කමිටුව විසින් සකස් කරනු ලැබූ වාර්තාව එහි සභාපති අශෝක පීරිස් මහතා අද පළාත් පාලන ඇමැති ෆයිසර් මුස්තාපා මහතාට බාර දුන් අතර එහි කමිටු සාමාජිකයන් දෙදෙනකුගේ අත්සන් නොමැති වීම හේතුවෙන් ඇමැතිවරයා එය ප්‍රතික්ෂේප කර ඇතැයි වාර්තාවේ.
+එක්සත් ජනතා නිදහස් සන්ධානයෙන් කමිටුවට පත් කළ සාමාජික සාලිය මැතිව් හා එක්සත් ජාතික පක්ෂයේ සාමාජික නීතිඥ එස්.මිස්බා එම අවසන් වාර්තාවට අත්සන් තබා නැති බව කියති.
+කමිටු සභාපති අශෝක පීරිස්, ජනතා විමුක්ති පෙරමුණෙන් පත්කළ සාමාජික නීතිඥ උපුල් කුමාරප්පෙරුම, දෙමළ සන්ධානයේ කමිටු සාමාජික මහාචාර්ය බාලසුන්දරම් පිල්ලෙයි යන සෙසු සාමාජිකයෝ අවසන් වාර්තාවට අත්සන් තබා ඇත.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-02 12:47:09</date>
+            <index>0</index>
+            <phrase>අය්යෝ පළාත් පාලන ඡන්දෙට බයේ දඟලන දැඟලිල්ල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2017-01-02 15:10:55</date>
+            <index>1</index>
+            <phrase>යහපාලනයෙන් දකින්නෙ ඔයවගේ දේවල්ම තමයි. කවද හරි ඡන්දෙකටඑයිනෙ. එදාට දෙන්නම් ජම්බු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2017-01-02 21:57:09</date>
+            <index>2</index>
+            <phrase>කෙසේවෙතත් බහුතරයක් අත්සන් කරලානේ තියෙන්නේ. මේවට තමා කියන්නේ "කන්න ඕනෑවුණාම කබරගොයත් තලගොයා වෙනවා" කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2017-01-03 01:45:54</date>
+            <index>3</index>
+            <phrase>යහපාලන සන්දර්ශනයේ තවත් විනිවිද ලක්ෂණයක්. අතිවිශිෂ්ටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2017-01-03 01:49:55</date>
+            <index>4</index>
+            <phrase>වාර්තාවට අත්සන් කරන්න බැරි සාමාජිකයන් මොකට පත්කළාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2017-01-03 02:15:08</date>
+            <index>5</index>
+            <phrase>පසුව හිමින්සීරුවේ අත්සන් කරන්න හිතන්න ඇති සමහරවිට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2017-01-03 03:27:35</date>
+            <index>6</index>
+            <phrase>යහපාලුවනි, ඔයාලා ඡන්දෙ තියන්නකෝ මොකද වෙන්නේ බලන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

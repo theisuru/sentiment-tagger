@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493339</articleId>
+    <title>දකුණටත් සංවර්ධන පනත එපාවෙයි</title>
+    <author>ඩීජීසුගතපාල</author>
+    <date>2016 දෙසැම්බර් මස 27 10:35:13</date>
+    <body>සංවර්ධන විශේෂ විධි විධාන පනත දකුණු පළාත් සභාවට ඉදිරිපත් කර ඡන්දය විමසීමෙන් පසු වැඩි ඡන්ද 19කින් අද (27) පරාජයට පත්විය.
+දකුණු පළාත් මහ ඇමැති ශාන් විජයලාල් ද සිල්වා මහතා අද පනත සභාවට ඉදිරිපත් කළ අතර මන්ත්‍රීවරුන් කිහිප දෙනකුගේ අදහස් දැක්වීමෙන් පසු ඡන්දය විමසීම ආරම්භ කැරිණි.
+පනතට විපක්ෂව ඡන්ද 33ක් හා පක්ෂව ඡන්ද 14ක් හිමිවූ අතර එක්සත් ජනතා නිදහස් සන්ධානයේ හා ජනතා විමුක්ති පෙරමුණේ මන්ත්‍රීවරු ඊට විරුද්ධව ඡන්දය ලබා දුන්හ. එක්සත් ජාතික පක්ෂයේ මන්ත්‍රීවරු 14 දෙනා පමණක් ඊට පක්ෂව ඡන්දය දුන්හ.</body>
+    <comments>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-12-27 07:11:05</date>
+            <index>0</index>
+            <phrase>අපිට නම් හැමදේම එපාවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2016-12-27 07:13:48</date>
+            <index>1</index>
+            <phrase>මෙහෙම කොහොමද රටක් ගෙනියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2016-12-27 07:14:39</date>
+            <index>2</index>
+            <phrase>අපිට නම් කමක් නැහැ මේවට මොනවා වුණත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-12-27 07:14:49</date>
+            <index>3</index>
+            <phrase>මේ අර සුපිරි ඇමති පනත නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2016-12-27 08:38:29</date>
+            <index>4</index>
+            <phrase>ඔය සභා වල බලයේ ඉන්නේ යූඇන්පිය නෙමෙයිනේ. ඉතින් පුදුමයක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2016-12-27 09:33:37</date>
+            <index>5</index>
+            <phrase>විධායක ජනපති ක්‍රමය අහෝසි කරන්න කතාකරපු උදවිය මොනවටද විධායක ඇමති තනතුරකට ඡන්දය ඉල්ලන්න පනත් ගේන්නේ? පරදවපු එක ඉතාම හොඳ වැඩක්. ඇතුලත්මුදලි මහත්තයා රටට වැඩකළේ සුපිරි බලතල තිබිලද? වැඩකාරයට බොරු බැහැ වගේම බොරුකාරයන්ට වැඩත් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

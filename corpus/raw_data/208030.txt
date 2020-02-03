@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>208030</articleId>
+    <title>66 වැනි නිදහස සමරන ලක් මවගේ උදාර පුත්තු</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 පෙබරවාරි මස 04 14:39:55</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>නාලක</author>
+            <date>2014-02-08 21:51:21</date>
+            <index>0</index>
+            <phrase>වටිනා වීඩියෝවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යා</author>
+            <date>2014-02-16 09:20:33</date>
+            <index>1</index>
+            <phrase>ලක් මවට උදාර පුත්තු හිටියේ එදා! වර්තමානයේ උදාර පුත්තු එක්කෝ යුද්ධයදී මියගියා නැත්නම් දරුණු ලෙස තුවාල ලැබුවා. ඔවුන්ට සමරන්න තරම් නිදහසක් පශ්චාත් කාලීන දේශපාලකයෝ ඉඩ තිබ්බේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

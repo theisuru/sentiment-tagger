@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>472407</articleId>
+    <title>යශෝධ රංගේබණ්ඩාර අද උසාවියට</title>
+    <author>හිරාන් ප්‍රියංකර බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 25 10:56:56</date>
+    <body>ආණමඩුවේ ගාමිණී වන්නිනායක (42) වෙළඳ සේවකයකු රිය අනතුරකින් මරණයට පත්වීමෙන් පසුව පළාගිය බව කියන යශෝධ රංගේ බණ්ඩාර හා තවත් තිදෙනකු පළුගස්වැව පොලිස් මාර්ග බාධකයේ දී අත්අඩංගුවට ගත් බවත් ඔවුන් අද (25) අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බවත් පොලිසිය කියයි.
+රංගේ බණ්ඩාර විසින් පදවන ලදැයි කියන ලෑන්ඩ්රෝවර් ජිප් රියක් ද පොලිස් භාරයට ගෙන ඇත.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-10-25 06:04:36</date>
+            <index>0</index>
+            <phrase>දැන් තමයි නියම යහපාලනය බලන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මසේන</author>
+            <date>2016-10-25 06:31:32</date>
+            <index>1</index>
+            <phrase>අදනේ අපි මෙයා ගැන දැනගත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2016-10-25 06:39:09</date>
+            <index>2</index>
+            <phrase>මෙයාලා ගැන නම් අපි කතාකරන්නවත් කැමති නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගගන</author>
+            <date>2016-10-25 07:26:30</date>
+            <index>3</index>
+            <phrase>පළායන අයට වෙඩිතියන්නත් බැහැ දැන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-10-25 09:01:50</date>
+            <index>4</index>
+            <phrase>මුන් සේරටම අප්පලට අම්මල බලය ලැබුණු ගමන් රථ ගාය ණය බරින් පිරුණු රටක ණයට කන රටක මුන්ට ලැජ්ජාවක් නැති හැටි මේවගේ පහත් විදිහට හැසිරෙන්න මුන් දෙගොල්ලම ජනතාවගේ හතුරෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-10-25 10:23:33</date>
+            <index>5</index>
+            <phrase>තාත්තලාට හම්බවෙන අසීමිත බලය, බදුරහිත වාහන බලපත් හා මුදල් නිසා ඔලුව ඉදිමීමේ රෝගයට ගොදුරුවෙන පුතාලගෙන් අහිංසක ජනතාවට හැමවිටම අනතුරු සිදුවෙනවා. පොඩි මිනිහා තැලෙනවා. එළාර රජ්ජුරුවෝ තම පුතාට දඬුවම් කළා වගේ තාත්තා කෙනෙක් නම් අදකාලේ හොයාගන්න හම්බවෙන්නේ නැහැ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක් ලොස් ඇන්ජලිස්</author>
+            <date>2016-10-25 13:54:35</date>
+            <index>6</index>
+            <phrase>වාහන අනතුරක් කර පලා යෑම ඉතා බරපතල වරදක්... ලංකාවේ ප්‍රබලයාට නීතිය ඕන ඕන විදියට නවන්න හැකියාව උරුම වී ඇති නිසා මරණකරු චූදිතයා කර වරදකරු නිදොස් කර හරිනවා... නීතිගරුක රටවල මෙවැනි අනතුරක් කර පලා ගොස් අසුවුනොත් ඔහුට හෝ ඇයට දෙවියන්ගේම පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

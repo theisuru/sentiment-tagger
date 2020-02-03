@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>453802</articleId>
+    <title>යාපන සරසවි ගැටුමේ 7කට නඩු</title>
+    <author>සිරාජ් හසීම්</author>
+    <date>2016 සැප්තැම්බර් මස 02 16:42:13</date>
+    <body>යාපනයේ විශ්ව විද්‍යාලයේ දෙපිරිසක් අතර ඇති වූ ගැටුම සම්බන්ධයෙන් සිසුන් 4 දෙනෙකුට එරෙහි නඩුව ලබන 22 වැනිදා  දක්වා කල් දැමීමට යාපනය මහේස්ත්‍රාත් එස්. සදීෂ්වරන් මහතා නියෝග කළේය.
+පසුගිය දා යාපනය විශ්ව විද්‍යාලයේ නවක සිසුන් පිළිගැනීමේ උත්සවයක දී නර්තනාංගයක් සම්බන්ධව ඇති වූ ගැටුමක් නිසා කෝපායි පොලිසිය විසින් සිසුන් 7 දෙනෙකුට  එරෙහිව යාපනය මහේස්ත්‍රාත් අධිකරණයේ නඩු පවරන ලදී.</body>
+    <comments>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2016-09-02 12:42:58</date>
+            <index>0</index>
+            <phrase>පහුගිය කාලේ ජාතිවාදීන් ටික ප්‍රකාශ කළේ උතුරේ එක නීතියක් දකුණේ අයට තව නීතියක් කියලනේ. දැන් ඉතින් නින්ද යන එකක් නැහැ අලුත් මාතෘකාවක් හොයාගන්නාතුරු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එඩ්වඩ්</author>
+            <date>2016-09-02 17:44:54</date>
+            <index>1</index>
+            <phrase>මේ ප්‍රශ්න දුරදිග යන්න දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම වල්පිට</author>
+            <date>2016-09-03 04:14:58</date>
+            <index>2</index>
+            <phrase>රොෂාන් මහත්තයා, කරුණාකර මට කියනවද \"ජාතිවාදය \" යන්නෙහි අරුත...? එහි අරුත නොදන්නවානම් , කරුණාකර නොදන්නා වචන බාවිතයෙන් වලකින්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිකෝල් පැරිස්</author>
+            <date>2016-09-03 19:12:06</date>
+            <index>3</index>
+            <phrase>නියෙපොත්තෙන් කඩන්න තියෙන එක්ක පොරෙවෙන් කපන්න තියන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

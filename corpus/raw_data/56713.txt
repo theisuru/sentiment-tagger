@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56713</articleId>
+    <title>හිමිනම පාරේ බීලා  වොල්වෝරියත් සමග පොලිසියේ</title>
+    <author>රේඛා තරංගනී පොන්සේකා</author>
+    <date>2012 අගෝස්තු මස 02 14:23:46</date>
+    <body>වොල්වෝ රියකින් පැමිණ ලූනාව කළපුව අසළ තරුණයන් සිවු දෙනකු සමග මත්පැන් බොමින් පොලිසියට තර්ජනය කළ හිමිනමක් එම තරුණයන්ද සමග සැකපිට අත්අඩංගුවට ගත් බව පොලිසිය කියයි. මේ හිමියනට එරෙහිව කළුතර උසාවියේ වරෙන්තුවක්ද නිකුත් කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-02 14:30:45</date>
+            <index>0</index>
+            <phrase>කෝ මේ බොදු බල සේනාව...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-02 14:31:20</date>
+            <index>1</index>
+            <phrase>ධර්ම රාජ්‍යයනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-08-02 14:35:04</date>
+            <index>2</index>
+            <phrase>පින්තූර නැද්ද ? මෙහෙවු කට්ටියටනේ දණ ගහලා අපි වදින්නේ. ධර්ම සංගායනාවකට යන්න වෙලාව හරි වගේ නේද? බුද්ධාගම රැක ගන්න නීති හදන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-02 14:38:22</date>
+            <index>3</index>
+            <phrase>කියන්න නම් දේවල් තියෙනවා. කියාපු හැටියේ ආගම වෙනුවෙන් 'අන්තර්ජාලයෙන්' දිවි පුදන්න සැරසෙන අපේ අයියලා තොප්පිය දමාගෙන එනවනේ. හොඳයි හොඳයි. අපි 'අන්‍ය ලබ්ධිකයින්ගෙන්' විතරක් බුද්ධ සාසනේ ගෞරවය රැක ගනිමුකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-08-02 14:48:11</date>
+            <index>4</index>
+            <phrase>යදමින් බැද විලංගු ලා – අනේ මාව රැගෙන යන්න ඉදිකටු ඇන ඇගිලි තලා – දෙතිස් වදය පමුණුවන්න අළුත් ලොවක් ගැන සිතීම – දඩුවම් දෙන වරදක් නම් කුමට එරට අධිකරණය නිතිය සහ විනිසුරුවන්……</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් - කටාර්</author>
+            <date>2012-08-02 14:48:10</date>
+            <index>5</index>
+            <phrase>පිරිසිදු බුදු දහමට නිගා කරන මෙවැන්නන් ගැන දෙවරක් සිතා බැලීම අනව්‍යයි. දියයුතු උපරිම දඩුවම් දිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-08-02 14:50:26</date>
+            <index>6</index>
+            <phrase>අනේ සාධු! ධර්ම රාජ්‍යයකටනේ යන්නේ.ඉතිං ඔහොම යමුකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-08-02 14:57:34</date>
+            <index>7</index>
+            <phrase>ගිලන් පසට වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-02 14:58:36</date>
+            <index>8</index>
+            <phrase>මේක අන්‍ය ආගමික කුමන්ත්‍රණයක්. මේ හාමුදුරුවෝ බොහොම සිල්වත් කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-08-02 15:00:21</date>
+            <index>9</index>
+            <phrase>අනේ මෙහෙමත් කළත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්</author>
+            <date>2012-08-02 15:02:15</date>
+            <index>10</index>
+            <phrase>එහෙන් එක් කෙනෙක් මහා පුරුෂ ලක්ෂණ ගැන කියවනවා , සමහරුන් බීලා වාහන එළවනවා, තව අය අධිවේගී එකේ කුණුහරුප කියනවා, එතකොට තව කෙනක් බුදුහාමුදුරුවන් ලංකාවේ ඉපදුණා කියනවා, ඔය අතරේ තව අයට මන්ත්‍රී පිස්සුව. අනේ කාලේ වනේ වාසේ. මේ සේරම අල්ලලා සිවුර ගලවලා තට්ටේ තාර ගාන්න ඕනෑ. කෝ අර බොදු බල සේනා, සිංහලයා.කොම්, සිහලරාවය , සොරි.කොම් අය??? මේවා දිහා බැලුවනම් හරිනේ අනිත් ආගම්වලට ඊර්ෂ්‍යා කරකර ඉන්න වෙලාවේ. නැත්නම් "සුරමෙරේ මජ්ජ පමා " කියන පදය අයින් කරන්න වෙයි ඉක්මණටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-08-02 15:04:00</date>
+            <index>11</index>
+            <phrase>මෙය කුමන්ත්‍රණයක් විය හැකිය.. ලංකාව තෙවරක් බුදුන් වැඩම කළ දේශයකි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-08-02 15:05:06</date>
+            <index>12</index>
+            <phrase>මමත් මේ කිට්ටුව ඉන්නෙ, මගෙ දරුවො අරගෙන ඔය කලපුව කෙරවලේ තියන ලමා උයනට යනව සෙල්ලම් කරන්න. නමුත් මේ ලඟදි ඉඳල, කලපුව අයිනෙ දිගෙ තියන පාරේ, ත්‍රීවිල් වලින්, බයිසිකල් වලින්, වෑන් වලින් ඇවිත් මිනිස්සු මත්පැන්. ඔච්චර බොන්න තැන් තියෙද්දි මෙතන ඇවිත් වනසන එකට යම් ක්‍රියා මර්ගයක් පොලිසිය ගන්න ඕනෙ. මෙච්චර කල් කිසි කරදරයක් නැතුව ඔතන යන්න පුලුවම් කම තිබ්බ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-02 15:20:11</date>
+            <index>13</index>
+            <phrase>මෙයාලටනෙ අපිත් ගිහින් වදින්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-08-02 15:21:36</date>
+            <index>14</index>
+            <phrase>වහාම මහා නායක හිමිවරුන් ක්‍රියාත්මක විය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කටුවන</author>
+            <date>2012-08-02 15:21:39</date>
+            <index>15</index>
+            <phrase>මත්පැන් බැරිනම් කුඩු ගැහුවත් අපට නම් කමක් නැහැ. හැබැයි සිවුර ගලවලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉර්ෆාස්</author>
+            <date>2012-08-02 15:24:07</date>
+            <index>16</index>
+            <phrase>අනේ දෙවුදත් නොදිටි මොක්පුර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-08-02 15:26:35</date>
+            <index>17</index>
+            <phrase>මෙවන් පුද්ගලයින් විසින් බුදු දහම විනාශ කෙරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම් පෙරේරා</author>
+            <date>2012-08-02 15:40:10</date>
+            <index>18</index>
+            <phrase>ඇයි මෙහෙම ප්‍රසිද්දියේ කරන්නේ?? අනික මොරටුව කියන්නේ කතෝලික,ක්‍රිස්තියානු බහුතරයක් සිටින ප්‍රදේශයක්...... දැන දැන මඩ ගසාගන්නේ ඇයි? මෙයට ලොකු හේතුවක් තිබිය යුතුයි.... මොහු අන්‍යාගමික පුද්ගලයෙක් විය යුතුයි... මොහුගේ සුලමුල වහාම සොයාබලන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2012-08-02 15:48:07</date>
+            <index>19</index>
+            <phrase>මේවා අන්‍යාගමික මෙහෙයවීම්වල කුමන්ත්‍රණ.. සිව්රක් අන්දලා එවන්න ඇති ඔක්කොමට පේන්න බොන්න කියලා.. මේවා දකින අය සංඝ ශාසනය ගැන කළකිරෙනවානේ...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ. රුවන්</author>
+            <date>2012-08-02 15:55:33</date>
+            <index>20</index>
+            <phrase>වැඩේ කැතයි...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-08-02 16:02:47</date>
+            <index>21</index>
+            <phrase>මේකෙ අදහස් දාන අය හිටිය බුදු දහම අද කාලෙට ගැලපෙන්නේ නෑ කියල මේ සිවුරු පොරවගත් මිනිසාත් ඒ මතය දරන අයගෙ නියෝජිතයෙක් වෙන්න ඇති මේ අයට දඬුවම් ලැබෙන විට ශාසනයට වන අවමානය සිදු වී හමාරයි එයට වග කියන්නේ කවුද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-08-02 16:10:50</date>
+            <index>22</index>
+            <phrase>බුද්ධාගම විනාශ කරන්න කරපු කුමන්ත්‍රණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩැනී</author>
+            <date>2012-08-02 16:12:01</date>
+            <index>23</index>
+            <phrase>බුදුන් තෙවරක් වැඩිය එකටවත් අඩුම ගාණේ ගරු කරන්න වටිනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-02 16:12:20</date>
+            <index>24</index>
+            <phrase>අපේ රටේ මොන හාමුදුරුවෝ ‍වැරැද්දක් කළත් හැමෝම කියන්නේ ඒක 'කුමන්ත්‍රණයක්' කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යමාල්</author>
+            <date>2012-08-02 16:15:21</date>
+            <index>25</index>
+            <phrase>ඊයෙ පසළොස්වක පෝය නිසා 'ෆන් එකට සෙට් වෙන්න ඇති'.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-02 16:18:12</date>
+            <index>26</index>
+            <phrase>මේකේ කිසිම පුදුම වෙන්න දෙයක් නැහැ. හාමුදුරුවරු රක්ෂාවල් කරනවා; මන්ත්‍රීලා වෙලා ඉන්නවා; බිස්නස් කරනවා; සාස්තර කියනවා; තව කොයිතරම් දේවල් ප්‍රසිද්ධියේ කරනවද? ඉතින් ඇයි මේකට විතරක් විරුද්ධ වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-08-02 16:30:08</date>
+            <index>27</index>
+            <phrase>මොහු අන්‍යාගමික පුද්ගලයෙක්....සිවුරු පොරවගත් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2012-08-02 16:32:34</date>
+            <index>28</index>
+            <phrase>දැන දැන මෙහෙම කරන්නේ , මේකේ කුමන්ත්‍රණයක් තිබිය යුතුමයි. වහාම මේ සිවුරු දරාගත් පුද්ගලයා ගැන සොයා බලා දැඩි දුවම් ක්‍රියාත්මක කල යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොශාන් ඇන්තනී</author>
+            <date>2012-08-02 16:37:30</date>
+            <index>29</index>
+            <phrase>හාමුදුරුවොත් විශ්වාස කරන්න බැරි කාලයක්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-02 16:45:46</date>
+            <index>30</index>
+            <phrase>මෙතන කුමන්ත්‍රණයක් තියෙනවානම් පොලිසියට තර්ජනය කරන්නෙ නැතිව ලිස්සලා යන්න බලනවා.. මොහු ගැන විස්තර හෙළිකරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමචන්ද්‍ර</author>
+            <date>2012-08-02 17:00:56</date>
+            <index>31</index>
+            <phrase>නිර්මල බුදු දහමට නිගා කරන අයෙක් වගෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිනාත්</author>
+            <date>2012-08-02 17:04:26</date>
+            <index>32</index>
+            <phrase>හැම එකටම දැන් ගේන සූත්තරේ තමයි කුමන්ත්‍රණේ.තමන්ගෙ ආගමේ ඉන්න පූජකයො දූෂණය වෙලා කියල පිළිගන්න හුඟ දෙනෙක් කැමති නැහැ.මේ ලියන මම අන්‍යාගමිකයෙක් හෙම නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇරිස්</author>
+            <date>2012-08-02 17:22:59</date>
+            <index>33</index>
+            <phrase>ඉස්සර තපසට ගිය මහණුන් මීවිත පානය කළා කියනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2012-08-02 17:42:08</date>
+            <index>34</index>
+            <phrase>ශාශනේට මොනව වුණත් කමක් නැහැ වගේනේ අපේ මහ නායක හිමිවරු සහ අනුනායක හිමිවරු ඉන්නේ. ඒ නිසා මේ වගේ සිද්ධි අද රටේ සාමාන්‍ය දේවල් වෙලා. උන්වහන්සේලාත් මේ තත්වයන්‍ට වගකියන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෆ්රාස්</author>
+            <date>2012-08-02 17:51:13</date>
+            <index>35</index>
+            <phrase>හිමිනමට පැවිදි ජීවිතය එපා වෙලා ඒ දුකට බිවුවද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2012-08-02 18:09:31</date>
+            <index>36</index>
+            <phrase>හොඳයි හොඳයි කෝකටත් මෙයා ගැන හොයල බලන එක....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2012-08-02 18:21:27</date>
+            <index>37</index>
+            <phrase>මොහු අන්‍යාගමික හෝ හිමිනමක්ම වෙන්නත් පුළුවං හැබැයි වැඩේ කැතයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-08-02 18:31:25</date>
+            <index>38</index>
+            <phrase>දකුණෙද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ</author>
+            <date>2012-08-02 18:33:17</date>
+            <index>39</index>
+            <phrase>නිස්සංක එන්.ජී.ඕ කියන්නෙ අන්‍ය ආගම් නෙමෙයිනේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-08-02 19:11:36</date>
+            <index>40</index>
+            <phrase>ගිලන් පස වෙන්න ඈති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම් පෙරේරා</author>
+            <date>2012-08-02 19:43:29</date>
+            <index>41</index>
+            <phrase>ඔය රොශාන්ලා වගේ අය තමා මිනිස්සුන්ට සිවුරු අන්දවලා; වැරදියට හැසිරෙන්න උගන්වලා එවන්නෙත්; ඉන්පසු සංඝ රත්නයට අපහාස කරන්නෙත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරන්ජන්</author>
+            <date>2012-08-02 19:57:04</date>
+            <index>42</index>
+            <phrase>මෙතන කුමන්ත්‍රණයක් තියෙනවානම් පොලිසියට තර්ජනය කරන්නෙ නැහැ මග හැරල යනවා මිසක් සිවුරෙ බලෙ හැම තැනටම හරි යන්නෙ නෑ වැරදි කරුවන්ට සුදු හුණු ගාන්නඵපා ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-08-02 20:11:44</date>
+            <index>43</index>
+            <phrase>මෙහෙම ගොඩක් තැන්වල සිදු වෙලා තියෙනවා. බුදු දහම විනාශ කරන්න පැමිණි අයයි මේ. මෙයාලව ප්‍රසිද්ධියෙ හෙළිදරවු කරන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-02 20:30:26</date>
+            <index>44</index>
+            <phrase>ෂුවර් එකටම විශ්ව විද්‍යාලේ ගිහින් සිවුරු හරින්න අමතක වුණු හාමුදුරු කෙනෙක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-02 20:48:54</date>
+            <index>45</index>
+            <phrase>ගිලන්පස වෙන්න ඇති. පොලිසියට වැරදිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2012-08-02 21:18:16</date>
+            <index>46</index>
+            <phrase>හිමි නමක්ද, චීවර ධාරියෙක්ද යන්න පළමුව නිවැරදිව වටහා ගත යුතුයි. මේවා සංඝ ශාශනයට නිගරු වෙන වැඩ වෙන්නත් බැරි නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-08-02 21:42:11</date>
+            <index>47</index>
+            <phrase>මේ වගේ හාමුදුරුවොන්ට අපි වදින්නේ කොහොමද ??? අනේ බුදු දහමට ගිය කලක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-08-02 21:50:17</date>
+            <index>48</index>
+            <phrase>හිමි නම කියලා කිවුවේ කහ සිවුරටද ? ඔය විදියට හැසිරෙනවා නම් හිමි නමක් වෙන්න බැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-02 22:12:26</date>
+            <index>49</index>
+            <phrase>වරෙන්තුවත් අන්‍ය ආගමික කුමන්ත්‍රණයක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-02 22:17:09</date>
+            <index>50</index>
+            <phrase>ශාශනයට ඇතුළු කර ගනිද්දී පවුල් පසුබිම උපරිමයෙන් බැලිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-08-02 22:37:32</date>
+            <index>51</index>
+            <phrase>සිල්වත් හාමුදුරුවරුන් අතළොස්සයි දැන් ඉන්නෙ. තව ටික කාලෙකින් ඒ අයත් නැහැ. ඊට පස්සෙ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-08-02 23:02:16</date>
+            <index>52</index>
+            <phrase>මෙතන කිසිම කුමන්ත්‍රණයක් නැහැ. ඇත්තටම මේක තමයි නියම යථාර්තය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩේවුඩ්</author>
+            <date>2012-08-02 23:19:28</date>
+            <index>53</index>
+            <phrase>මේකත් බටහිර කුමන්ත්‍රණයක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-02 23:21:54</date>
+            <index>54</index>
+            <phrase>කවුරු මොනවා කළත් අප සිවුරට නිසි ගෞරවය ලබා දිය යුතුයි; වැඳිය යුතුයි; එම හිමි නම වහා නිදහස් කළ යුතුයි. හිමි නමක් අත් අඩංගුවට ගන්නට පෙර මහානාහිමිවරුන් දැනුවත් කල යුතුයි. බොරු චෝදනාවක් උඩ හිමි නමක් මෙලෙස අත්අඩංගුවට ගනිමින් පොලිසිය බෞද්ධයන්ගේ අයිතිවාසිකම් වලට හානි කර ඇත. බෞද්ධයින් වහාම ක්‍රියා කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත් චන්දන</author>
+            <date>2012-08-02 23:42:43</date>
+            <index>55</index>
+            <phrase>වැරදිකරුවන් බේරා ගැනීම සඳහා කට්ටිය මතුරන 'කුමන්ත්‍රණ මන්තරේ' ජනතාවටත් බෝ වෙලා වගේ. බුද්ධාගම නැති කරන්නේ අන්‍යා ආගමිකයන් නෙමෙයි. හාමුදුරුවරුන්මයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2012-08-02 23:43:16</date>
+            <index>56</index>
+            <phrase>මෙච්චර කල් කිසි කරදරයක් නැතුව ඔතන බොන්න පුලුවන්කම තිබුණා. සිවුරු නැතිව බොන්න යන්න පුළුවන්. පොලිසිය විශ්වාස කරන්න බැරි කාලයක්. වැඩේ කැතයි හොදේ. පොලිසියට මග හැරලා, ලිස්සලා යන්න පුලුවන් කමක් තිබුණේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබිදුල් රහ්මාන්</author>
+            <date>2012-08-03 01:42:10</date>
+            <index>57</index>
+            <phrase>සිවුරු පොරවා ගෙන වැරදි වැඩ කළාට අන්‍යආගමිකයන්ට ඇගිල්ල දික්කරන්න එපා. ඒක තවත් වැරැද්දක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී -කුවේට්</author>
+            <date>2012-08-03 01:53:33</date>
+            <index>58</index>
+            <phrase>මම ගිහියෙක් වුණාට මටත් පුළුවන් සිවුරක් ඇඳගෙන යන්න. ඒකට කිසි තහනමක් නැහැ.එහෙම ගිහින් මෙවැනි අසික්කිත වැඩක් කරන්නත් පුළුවන්.අද මුදලට සියල්ල යටවෙලා.සමහර විට මෙය යම්කිසි සංවිධානාත්මක කල්ලියක වැඩක් නම්,මෙම සිද්ධිය ප්‍රසිද්ධ වුණාට පස්සෙ කොහොමහරි පොලීසියෙන් බේරගෙන යනවා ඇති. මොකද පොලීසියත් ඔයවගේ වැඩවලට අහු වෙළානෙ තියෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන්</author>
+            <date>2012-08-03 04:11:53</date>
+            <index>59</index>
+            <phrase>මේක ටිකක් බොන්න ඕනම කාරණාවක්නේ. ඔය අය පොඩ්ඩක් සොයලා බැලුවෙ නැද්ද, ඔතන හොලිවුඩ් චිත්‍රපටියක් එහෙම චිත්‍රපටිගත කළාද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2012-08-03 05:40:26</date>
+            <index>60</index>
+            <phrase>ඡායාරුපයක් පළ කරන්න බැරිනම් අඩුගාණේ මෙයාගේ නමවත් දාන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාවංස හාමුදුරුවෝ</author>
+            <date>2012-08-03 06:34:52</date>
+            <index>61</index>
+            <phrase>භික්ෂු සමාජයේ කඩා වැටීමක් මමත් දකිනවා.ඒත් මේක කුමන්ත්‍රණයක් විය හැකියි.භික්ෂුවට නිගරු කිරීමේ අන්තර්ජාතික වැඩ පිළිවෙලක් ක්‍රියාත්මක වෙනවා.ඒ සදහා පුළුල් ප්‍රචාරයක් ලැබෙනවා.නමුත් වරදේදී පුද්ගල තත්ත්වය නොසළකා දඩුවම් කළයුතුයි.මහනායක හිමිවරු මැදිහත් විය යුත්තේ මෙවැනි ප්‍රශ්න වලට බව සිහි කළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-03 07:46:53</date>
+            <index>62</index>
+            <phrase>සෙල්ලම් වයසට ඉන්නේ කොහොමද කියන්න පොඩි හාමුදුරුවනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2012-08-03 08:00:36</date>
+            <index>63</index>
+            <phrase>අනේ ජනපතිතුමනි, ඕනෙම ආගමක ඕනෙම පූජකවරයෙකු යම් වරදක් කළේ නම් ඔහුව අත්අඩංගුවට අරගෙන දඬුවම් දෙන එක සාධාරණයි. නමුත් තම ආගම ගැන නොසිතන පූජකයන් තමා ඔය වැරදි කරන්නේ. එහෙම එකේ එවන් අපරාධකරුවන් අත්අඩංගුවට ගන්නා අවස්ථාවේදීම ආගමික සබඳතාවය බිඳලන්න පනතක් ගේන්න කටයතු කරන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2012-08-03 08:52:31</date>
+            <index>64</index>
+            <phrase>නිකන් බොරුවට අනෙක් ආගම් වලට බණින්නේ නැතුව තමන්ගේ ආගමේ පූජ්‍ය පක්ෂය හදා ගන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චරිත්</author>
+            <date>2012-08-03 08:59:45</date>
+            <index>65</index>
+            <phrase>ප්‍රසාද්..... මමත් ඉන්නේ මොරටුවේ . හෑමදාම රෑට ඔක්කොම බොතල් අරන් බොන්නේ, ඒවා විසික් කරන්නේ පාරෙ. පොලිසිය පෑත්ත පලාතකවත් පේන්න නෑ. අන්න ඒකයි මෙතන ගැටළුව. ඉතින් මිනිස්සු බය නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්</author>
+            <date>2012-08-03 09:11:27</date>
+            <index>66</index>
+            <phrase>එහෙනම් සිවුර සතකුට අන්දලා වදින්න බැරියෑ. අනේ මොනවද මේ දොඩවන මෝඩ කතා? සිවුරට නම් වදින්නේ සිවුර හාමුදුරුවෝ වැලේ දාලා තියෙන වෙලාවට ගිහින් උඩ පැන පැන වදිමු . නිකන් බොරු දොඩවනවා ලැජ්ජාව වහ ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-03 09:19:14</date>
+            <index>67</index>
+            <phrase>කෝ දැන් මේ හාමුදුරුවො මොන පන්සලේද? ඇයි විස්තරේ නැත්තේ? බොරු සාදු කෙනෙක් වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යටියන ගුණේ</author>
+            <date>2012-08-03 09:29:05</date>
+            <index>68</index>
+            <phrase>මෙයාට හිමිනමක් කියන එක වැරදියි මොකද සිවුර ඇන්ද පමණින් කෙනෙක් හිමි නමක් වෙන්නෙ නැහැ. මොහු විලි වසා ගැනීම සඳහා පමනක් සිවුරු අඳින පුද්ගලයෙක් ගමේ මිනිස්සු මෙයාට පන්සල් වල ඉන්න දෙන්න හොඳ නැහැ දායක සභාවෙන් තීරන අරගෙන එලවල දාන්න ඕන. එහෙම නැත්නම් දානය දීමෙන් වැලකී සිටින්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-08-03 09:46:04</date>
+            <index>69</index>
+            <phrase>ජගත් ඔබ හරි. ඔබ නියම සිංහලෙක්. ඇත්ත කිව්වා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-03 10:53:42</date>
+            <index>70</index>
+            <phrase>පාරේ බොන්න ඇත්තේ බාර් එකට යන්න බැරි නිසා වෙන්නඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2012-08-03 10:59:46</date>
+            <index>71</index>
+            <phrase>කරුණාකර අනෙක් ආගම් වලට නිගා කරන එක නවත්වන්න. සියළු නරක ක්‍රියාවන් සිදු වන්නේ බුදු දහම තුළ බව පැහැදිලි සත්‍යයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුක්ෂාන්</author>
+            <date>2012-08-03 11:37:05</date>
+            <index>72</index>
+            <phrase>දැන් මේක හරි වැඩක් හාමුදුරුවෝ වැරදි වැඩක් කොලොත් අන්‍යාගමික මිනිසුන්ගේ වැඩක්ලු. මම අබියෝග කරන්නව ඒක එහෙමයි කියල ඔප්පු කරන්න කියල. මෙතෙක් මෙහෙම වැරදි කරලා අහුවෙන්න අය ගැන පොලිසිය හොයන් නැතුව නෙමේනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකුන්</author>
+            <date>2012-08-03 12:20:10</date>
+            <index>73</index>
+            <phrase>තවමත් “ හිමි නමක් “ කියල ආමණ්ත්‍රණ කරන එකේ තේරුමක් නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්-ලක්සම්බර්ග්</author>
+            <date>2012-08-03 13:14:20</date>
+            <index>74</index>
+            <phrase>යාලුවනේ ප්‍රතිචාරයක් දැක්වීමට පෙර දෙවරක් නොව තුන්වරක් වත් කියවා බලන්න.මෙහි සදහන් වරදකරු භික්ෂුවක් නොවන්නේ නම් වරද ඇත්තේ ලියා ඇති භාෂාවේ හෝ විස්තර ලබාදුන් පොලිස් නිළදරුවන් අතය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරාවිට</author>
+            <date>2012-08-03 14:00:23</date>
+            <index>75</index>
+            <phrase>නිරන්ජන්, මට පෙනෙන විදියට ඔයත් බුදු දහමට නිගා කරන කෙනෙක් වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-03 15:16:03</date>
+            <index>76</index>
+            <phrase>ජගත් ඔබට අපෙත් උපහාරය! .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mohd Ramees</author>
+            <date>2012-08-03 16:13:35</date>
+            <index>77</index>
+            <phrase>අසංක මොකද කියන්නේ..මේවා කුමන්ත්‍රණ....අනික්වා ඇත්ත....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-08-03 16:56:05</date>
+            <index>78</index>
+            <phrase>මෙම පුද්ගලයාව වහාම සිවුරෙන් ඉවත් කරන ලෙස මම ඉල්ලා සිටිමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්</author>
+            <date>2012-08-03 17:02:38</date>
+            <index>79</index>
+            <phrase>මොනවා කළත් අන්තිමට පළි ක්‍රිස්තියානුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-08-03 17:31:19</date>
+            <index>80</index>
+            <phrase>මටත් හිතෙන විදියට නම්‍ කුමන්ත්‍රණයක්ම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2012-08-03 17:37:48</date>
+            <index>81</index>
+            <phrase>මේ නම් හාමුදුරු කෙනෙක් වෙන්න බැහැ. වහාම ඔහු සිටින පන්සල පිළිබදව සොයා බැලිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-08-03 19:30:36</date>
+            <index>82</index>
+            <phrase>කඩවත පැත්තේ කෙනෙක් වෙන්න ඇති ෂුවර් එකටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත ඩුබායි</author>
+            <date>2012-08-03 23:34:17</date>
+            <index>83</index>
+            <phrase>ඔය වගේ බේබදු හාමුදුරැවෙක් කොච්චිකඩේ පැත්තේ ඉන්නවා. බොරැනම් ඔප්පුකරලා පෙන්වන්වන්න පුලුවන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2012-08-04 08:20:36</date>
+            <index>84</index>
+            <phrase>ජගත් ඔබ සියයට සියයක් හරි. ඔබට අපගේ ස්තුතිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-04 09:38:03</date>
+            <index>85</index>
+            <phrase>ඇත්තටම ලංකාදීප කියන්නේ ගොඩක් ඇත්ත හෙළිකරන පත්තරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2012-08-04 14:29:37</date>
+            <index>86</index>
+            <phrase>බුද්ධාගම රැක ගන්න ඕනේ අන්‍යාගමිකයින්ගෙන් විතරයි ලු නේද?. බෞද්ධයෝ කිසිදෙයක් කරන්නෙ නෑ වගේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2012-08-04 14:30:48</date>
+            <index>87</index>
+            <phrase>බෞද්ධයන් මේක අන්‍යාගමික ගිණුමට දාන එක ගැන පුදුම වෙන්න දෙයක් නැහැ. භික්ෂුවක් විනය විරෝධී වැඩක් කළහම එයාව බෞතීස්ම නොකරම ක්‍රිස්තියානි කරන්න අපේ අයට පුළුවන්. මේක අන්‍යාගමික කුමන්ත්‍රණයක් කියලා කියන අය ටිකක් හිතල බලන්න මෙයා බොරු කාරයෙක් නම් බය නැතුව පොලිසියට තර්ජනය කරන්න ගියේ ඇයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2012-08-04 14:35:00</date>
+            <index>88</index>
+            <phrase>ඇත්තටම අන්‍යාගමික කුමන්ත්‍රණයක්ද දන්නේ නෑ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂණ</author>
+            <date>2012-08-04 17:19:23</date>
+            <index>89</index>
+            <phrase>චිවරධාරි දුස්සීලයන් දැන් රටපුරා අකටයුතුකම් කරනවා. මේ අය ඉන්න ප්‍රදේශවල විහාරස්ථාන,බෞද්ධ සමිති,දායක සභා වලට ඇයි මේවා සොයා බලන්න බැරිද? ගමේ පන්සලේ වරදක් වෙනවනම් මේ අයට දානය සපයනවා වගේම වරදට කතා කරන්නත් පුලුවන් නේද? සිවුරක් දාගෙන හිටියා කියල හිමිනමක් කියා-කියා ආගමට නිග්‍රහ වෙන විදියට මේ වගේ දේවල් ප්‍රචාරය නොකර හරියට සොයා බලා, උපසම්පදා ලබා භික්ෂු භාවය ලබාපු අයෙක් නම්, වැරදිකරුවකු නිසා තිබුණු ගෞරව නම ඉවත්කර චිවරධාරියෙක් කියා ඇමතිය යුතුය. සිවුර දාගෙන ගෙවල් වල ජීවත් වන අය ඉන්නවා. මේ ගම්වල මිනිස්සු ඇයි මේවට විරුද්ධ නොවෙන්නේ? ආගම සාසනය බේරා ගන්නනම් මේවා දැක්කම මුලින්ම ගමෙන් ඕන විරුද්ධ වෙන්න. ආයෙත් සිවුර ඇදන් වැරදි නොකරන්න ගමෙන් සළකලා ඕන නීතියට බාර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2012-08-05 07:05:22</date>
+            <index>90</index>
+            <phrase>සිංහල බෞද්ධ අපේ සංඝයා වහන්සේලා ‍ධර්ම ප්‍රචාරයට පිටරට වැඩිය විට, ඒ වඩින රටේ හාෂාව, අපේ සිංහල බෞද්ධ සංඝයා වහන්සේලා ඒ රටේදීම ඉගෙන ගන්න. කිසිම අවශ්‍යතාවයක් නැතුව, අනුන්ගේ භාෂාවන් ඉගෙන ගැනීමෙන් වළකින්න. පිටරට ජාතීන්ට, ඒ ඒ රටවලට ගොස් ඒ ජාතික හාෂාවෙන්ම බුද්ධ ධර්මය කියා දෙන්න, සංඝයා වහන්සේලාට ඉඩහරින්න. අ‍පේ සිංහල ජාතියට, අපේ රටේ ඕනෑ තරම් බුද්ධ ධර්මය ඉගෙන ගැනීමට ඉඩ පහසුකම් තියනවනේ. ඇයි පිටරට වඩින සංඝයා වහන්සේලාව පිටරටදී අපේ මිනිස්සු වටකරගෙන, මොකද්ද මේ කරන විකාරය? සිංහල බෞද්ධ අපේ සංඝයා වහන්සේලාට ඒ ඒ රටරටවල මනුෂ්‍යයන් මුණ ගැසෙන්නට ඉඩහරින්න.අපි හිමින් හිමින් ලෝකයට යමක් කියලා දෙමු. උදවු කරමු. අපේ අම්මයි තාත්තයි කළේ, පිට වැරදි හදන්න කලින් අපේ ගෙදර වැරදි හදන එක. ඒ අපේ අම්මයි තාත්තයි අපට දුන්න ආදර්ශය. ඒ අනුව හිමින් හිමින් අපේ වැරදි අපි හදා ගනිමු. අපිට හදිසියට කොරහෙත් අත දාගන්න බැරි බව ඔය කවුරු කවුරුත් හොදින් මතක තබා ගන්න.මේ කරන පුණ්‍ය ක්‍රියාවට ඔබ සියලු දෙනාටම ස්තුතියි. ශ්‍රී ලංකාවේ සිංහල ජාතියට ලෝකයේ විවිධ ජාතීන් වෙනුවෙන් කරන්නට විශාල වැඩ කොටසක් ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හරීන්</author>
+            <date>2012-08-06 10:06:30</date>
+            <index>91</index>
+            <phrase>අනේ සාධු! පොලීසියට බැරිවුණාද දන්නේ නැහැ මෙයාට බැටන් පොල්ලෙන් සළකලා සිහිය ගන්න?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2012-08-06 17:51:35</date>
+            <index>92</index>
+            <phrase>සාධු! සාධු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්දුපම</author>
+            <date>2012-08-08 10:42:04</date>
+            <index>93</index>
+            <phrase>අනේ බුදුහාමුදුරුවනේ ආයෙත් මෙලකට වඩින්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2012-08-08 20:34:18</date>
+            <index>94</index>
+            <phrase>හාමුදුරුවරුන්ට ආවඩන කට්ටිය දැන් බොහොම වැඩියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩීන්</author>
+            <date>2014-07-07 11:39:34</date>
+            <index>95</index>
+            <phrase>සංජීව- මේක අන්‍ය ආගමික කුමන්ත්‍රණයක්. මේ හාමුදුරුවෝ බොහොම සිල්වත් කෙනෙක්. ඇයි ඔබ පන්සලේ ඇබිත්තියා නේද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර ගමගේ</author>
+            <date>2014-07-07 14:19:00</date>
+            <index>96</index>
+            <phrase>බටහිර රටවල බුදුදහම වේගයෙන් පැතිරෙනවා. ඒවා ඉවසා ගන්න බැරි, මිෂනාරි කාරයෝ, එන්.ජී.ඕ කාරයෝ , චීවරදාරින් කුලියට අරන්, බුදු දහමේ ප්‍රතිරූපය හානි කරනවා. අපේ අයත් ඩොලර් කුට්ටි ලැබෙනවා නම්. ඕන දෙයක් කරාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

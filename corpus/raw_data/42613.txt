@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42613</articleId>
+    <title>ජයලලිතාගේ හදවත උණුවේ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 මැයි මස 16 17:53:37</date>
+    <body>ඉන්දියාවේ තමිල්නාඩු ප‍්‍රාන්තයේ කඳවුරු වල වෙසෙන ශ්‍රී ලාංකික සරණාගතයින් සඳහා වන සුබ සාධන පහසුකම් ඉහළ නැංවීමට තමිල්නාඩුව සැරසෙයි.
+අස්වාභාවික හේතු මත මියයන ලාංකික සරණාගතයකු වෙනුවෙන්  ලබාදුන් වන්දිය ඉන්දිය රුපියල් 15,000 සිට 25,000 දක්වා ඉහළ නැංවීමට මහා ඇමැතිනි ජයලලිතා ජයරාම් අණින් පියවර ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>prasanna</author>
+            <date>2012-05-16 19:14:56</date>
+            <index>0</index>
+            <phrase>හඳවත උණුවෙලාම යනවනම් හොඳයි............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>sheriff</author>
+            <date>2012-05-16 20:07:48</date>
+            <index>1</index>
+            <phrase>ශ්‍රි ලාංකික සරණාගතයන් නොවේ ශ්‍රි ලාංකික කොටි සරණාගතයන් වෙනුවෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-16 21:09:04</date>
+            <index>2</index>
+            <phrase>අහන්න දෙයක් නෑ..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-05-16 21:19:38</date>
+            <index>3</index>
+            <phrase>ෂෙරීෆ්ගෙ මතය හරි.ඊළඟ ඡන්දෙට ලෑස්තිවෙනව....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-05-17 01:39:13</date>
+            <index>4</index>
+            <phrase>ඉස්සරනම් කිඹුල් කඳුඵ ...තමිල්නාඩු දේශපාලනයට දැන් කොටිකඳුඵත් එකතු වෙලා.......අනේ පව් .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂාන්</author>
+            <date>2012-05-17 08:40:32</date>
+            <index>5</index>
+            <phrase>ලංකාවෙ හොඳ වතාවරනයක් තියෙද්දි කො‍ටි නෙමෙයිනම් පැනල යන්නෙ ඇයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>mathurchan</author>
+            <date>2012-05-17 09:11:42</date>
+            <index>6</index>
+            <phrase>ඕ. මගේ දෙයියනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-17 10:58:07</date>
+            <index>7</index>
+            <phrase>අනේ මගේ කට.. හදවත උණු වෙන්නේ ඉතින් කොටි ගැනම විතරයිනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

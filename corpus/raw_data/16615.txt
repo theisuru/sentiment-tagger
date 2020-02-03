@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16615</articleId>
+    <title>ඉතාලියට නත්තල් කලින්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2011 දෙසැම්බර් මස 09 13:14:30</date>
+    <body>ඉතාලියේ පාදෝවා නගරයේ කිතුනු බැතිමතුන්ගේ නත්තල් උළෙල සන්කාර්ලෝ දේවස්ථාන ශාලාවේදී පැවැත්විණි. නැටුම්, ගැයුම් හා කෙටි නාට්‍ය ඇතුළත් නත්තල් උළෙල දැකබලා ගැනීමට ආගම් බේදයකින් තොර විශාල පිරිසක් එක්වූහ. වසර හතකට ප්‍රථම ආරම්භවූ සාම මිහිර ජයන්ත පෙරේරා පියතුමාගේ අදහසකි. මෙවර සංවිධායක ජෝන් ලින්ටන් ප්‍රනාන්දු පියතුමාය. හත්වැනි සාම මිහිර ලෙස මේ උළෙල හැ‍ඳින්වේ.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රගීත් ශාන් ෆනෑන්ඩු</author>
+            <date>2011-12-09 13:39:13</date>
+            <index>0</index>
+            <phrase>හොදයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදීර - වැනීසිය</author>
+            <date>2011-12-09 14:36:15</date>
+            <index>1</index>
+            <phrase>සුභපැතුම්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

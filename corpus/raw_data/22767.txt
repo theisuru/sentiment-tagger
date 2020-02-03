@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22767</articleId>
+    <title>හොරසල්ලි ගොඩක් අල්ලයි</title>
+    <author>සුනිල් එස් තන්ත‍්‍රිආරච්චි</author>
+    <date>2012 ජනවාරි මස 20 12:56:42</date>
+    <body>රුපියල් 59300ක් වටිනා හොර නෝට්ටු සමග අත්අඩංගුවට ගත් පි‍්‍රයන්ත ගුණතිලක නමැත්තෙක් කළුතර මහේස්ත‍්‍රාත් අරුණ අලූත්ගේ මහතා විසින් රිමාන්ඞ් කරනු ලැබීය.
+රුපියල් සියයේ හොර නෝට්ටු සමග දකුණු කළුතර පොලිසිය ඔහු අත්අඩංගුවට ගෙන ඇත්තේ බසයකදීය.
+ </body>
+    <comments>
+        <comment>
+            <author>සුමේධා</author>
+            <date>2012-01-20 16:19:18</date>
+            <index>0</index>
+            <phrase>බඩු මිල ඉහළ යද්දි රාජ්‍ය අංශයටනම් පඩි වැඩි වෙනවා. පුද්ගලික අංශය ගැන කවුද බලන්නෙ? ඒකයි මේවගේ දේවල් සිදු වෙන්නේ. මේක රටේ වරදක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Nirmala</author>
+            <date>2012-01-21 11:18:31</date>
+            <index>1</index>
+            <phrase>. වැඩේ වැරදී. ඒත් මම සුමේධාගේ අදහස් සමග එකඟයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

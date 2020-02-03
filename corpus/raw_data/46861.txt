@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46861</articleId>
+    <title>‘ආර්ථිකය අස්ථාවර කිරීමේ මෙහෙයුමක්‘</title>
+    <author></author>
+    <date>2012 ජූනි මස 07 10:11:36</date>
+    <body>සේවක අර්ථසාධක අරමුදලින් ලබාගත් මුදල්, කොටස් වෙළඳපොල දූෂිත ගනුදෙනුවලට යොදවා ඇතැයි එක්සත් ජාතික පක්ෂ පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා කරන චෝදනා පදනම් විරහිත බව මහ බැංකුව ප්‍රකාශ කරයි.
+බොරු චෝදනාවලට නිවේදන නිකුත් කිරීමේ කිසිදු අවශ්‍යතාවක් නොමැති වුවත්, මෙම චෝදනා පිටුපස රටේ ආර්ථිකය අස්ථාවර කිරීමේ මෙහෙයුමක් ක්‍රියාත්මක වන බැවින් මෙසේ කරුණු ඉදිරිපත් කරන බව මහ බැංකුව කියයි.</body>
+    <comments>
+        <comment>
+            <author>ස්ටොක්</author>
+            <date>2012-06-07 11:05:42</date>
+            <index>0</index>
+            <phrase>මේ චෝදනා පදනම් විරහිතයි කියන අයෙගේ මොළේ හොද නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සපුමල්</author>
+            <date>2012-06-07 13:56:35</date>
+            <index>1</index>
+            <phrase>අනේ ඉතින් අපි නොදන්න මහ බැංකුව ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.එල්.ටී.කේ.2004</author>
+            <date>2012-06-07 15:59:35</date>
+            <index>2</index>
+            <phrase>අද මට බඩේ අමාරුවක් වගේ, මාව අස්ථාවර කරන මෙහෙයුමක් ද දන්නේ නැහැ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-07 17:02:44</date>
+            <index>3</index>
+            <phrase>රැපියල් 7500/- මාසයක් කන්න පුළුවන් කියපු කට්ටිය මේකෙ ඇතුලෙ ඉන්නෙ... මහබැංකුව ලංකාවෙ විහිළු සපයන දෙවැනි තැනට පත්වෙලා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාසල දයාරත්න</author>
+            <date>2012-06-07 17:32:37</date>
+            <index>4</index>
+            <phrase>ඔහොම ගියොත් මහ බැංකුවෙ අයයි දියවන්නාවෙ අයයි අතර වෙනසක් නැති වෙයි.. අපි ඇතිවෙන්න කතා අහල තියෙනවා වැඩයි ඕන....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රටේ අනාථයා</author>
+            <date>2012-06-07 18:26:44</date>
+            <index>5</index>
+            <phrase>අස්ථාවර කරන්න ස්ථිර ආර්ථිකයක් තියෙනවාද??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-06-07 18:43:21</date>
+            <index>6</index>
+            <phrase>මහ බැංකුවත් පා කරමු...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>goldquest</author>
+            <date>2012-06-07 19:43:48</date>
+            <index>7</index>
+            <phrase>හෙජිං ගිවිසුමට උපදෙස් දුන්නේත්, කොටස් වෙලදපොල කෑවෙත් මහ බැංකුවම තමයි... කාට කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2012-06-07 22:12:18</date>
+            <index>8</index>
+            <phrase>ඒ විකාර කතා අපිට වැඩක් නැහැ. අපිට උත්තර ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>SK</author>
+            <date>2012-06-08 08:26:39</date>
+            <index>9</index>
+            <phrase>සංවර්ධන ඉලක්ක සපුරා ගැනීම පොතේ ඉලක්කම් වලට විතරයි.හරියට අලියා ගිලපු දිවුල් ගෙඩිය වගේ.මේ ගොල්ලෝ හිතන් ඉන්නේ අපි මෝඩයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-06-08 10:18:41</date>
+            <index>10</index>
+            <phrase>කබ්රාල් මහත්තයෝ කොහේද ඉකෝන් ක්ලාස් ගි‍යේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමින්</author>
+            <date>2012-06-08 12:14:22</date>
+            <index>11</index>
+            <phrase>එහෙම දුප්පත් දේවල් වලට යොදවලා නැහැ කියලා ඔප්පු කරන්න පුළුවන් ඇතිනේ. එහෙමනම් ඔය කියන කෙනාට විරුද්ධව නීතිමය ක්‍රියාමාර්ගයක් ගන්නකෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවෙයිට්</author>
+            <date>2012-06-09 02:50:19</date>
+            <index>12</index>
+            <phrase>විපක්සෙ උදවියත් අපේ රට පාලනය කලානේ කීප වතාවක්.රට සිංගපූරුවක් කරනවයි කීවා නැති අය ඇති අය කරනවා කිවා. දැන් බයිලා ගහනවා පත්තරවල නම දමාගන්නයි නායකතුමාගෙන් ලකුනු දමාගන්නයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැන්ස් බෝයි</author>
+            <date>2012-06-09 04:23:56</date>
+            <index>13</index>
+            <phrase>රට වනසනවා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-10 14:40:10</date>
+            <index>14</index>
+            <phrase>econ ක්ලාස් ගියේ අපේ ඇමතිතුමා ළගටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

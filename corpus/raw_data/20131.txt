@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>20131</articleId>
+    <title>තිස් දෙදෙනෙක් උපදිති</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජනවාරි මස 01 18:18:08</date>
+    <body>නව වසරේදී කොළඹ කාසල්, පානදුරේ කේතුමතී හා කළුබෝවිල රෝහල්හි ”බිළිඳු දරුවෝ” තිස් දෙනෙක් ඉපැදුණාහ. ඉන් 12 දෙනෙක් ගැහැණු දරුවෝය.</body>
+    <comments>
+        <comment>
+            <author>uditha</author>
+            <date>2012-01-02 09:41:50</date>
+            <index>0</index>
+            <phrase>අනේ පැටවුනේ .... උඹල දන්නවනම් උඹල ඉපදිච්ච රටේ තරම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Inesh</author>
+            <date>2012-01-02 10:02:40</date>
+            <index>1</index>
+            <phrase>රට ගෑන දෙස් දෙවොල් තියන එක නතර කරලා,අනිත් අය ගෑන විවේචනය නතර කරල තනි තනිවම තමන්ව විවේචනය කරගන්න.රට ලස්සන වෙවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24028</articleId>
+    <title>සොදුරු අදුරු රිමාන්ඩ්</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජනවාරි මස 28 20:30:22</date>
+    <body>පිලියන්දල රෝහලේ කාර්ය මණ්ඩලයට තර්ජනය කළැයි කියන සෞන්දර්ය විශ්ව විද්‍යාලයයේ කථිකාචාර්යවරයකු සැකපිට ප්‍රශ්න කිරීම සඳහා අත්අඩංගුවට ගත් බව පිලියන්දල පොලිසිය කියයි. ප්‍රහාරයකට ලක්වූ ඔහුගේ පුතා රෝහලට ගෙන ඒමෙන් පසු ඇති වූ සිදුවීමක් නිසා වෛද්‍යවරුන් ඇතුළු කාර්ය මණ්ඩලය වැඩ වැරූ බවත් කථිකාචාර්යවරයා අත්අඩංගුවට ගැනීමෙන් පසු ඔවුන් වැඩ වර්ජනය අත්හල බවත් දැන ගන්නට ඇත.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-01-29 09:08:30</date>
+            <index>0</index>
+            <phrase>ඈදුරා පාතාලෙද?????????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Hemal</author>
+            <date>2012-01-31 09:19:10</date>
+            <index>1</index>
+            <phrase>කථිකාචාර්ය සෞන්දර්යන් තර්ජනය කළැයි???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

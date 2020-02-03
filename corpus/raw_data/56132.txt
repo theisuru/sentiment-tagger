@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56132</articleId>
+    <title>නාගරික මන්ත‍්‍රී උසාවියට</title>
+    <author>විමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 ජූලි මස 30 09:36:46</date>
+    <body>බීමත්ව රිය පැදවූ බව කියන මොරටු නාගරික මන්ත‍්‍රී වරයකු අද උසාවියට ඉදිරිපත් කිරීමට නියමිත බව පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-07-30 09:49:29</date>
+            <index>0</index>
+            <phrase>අපි කිව්වනේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-07-30 10:18:28</date>
+            <index>1</index>
+            <phrase>අනේ මන්දා... මට තේරෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2012-07-30 10:20:52</date>
+            <index>2</index>
+            <phrase>තමන් ඉන්නේ බීලා කියලා අමතක වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-07-30 10:22:29</date>
+            <index>3</index>
+            <phrase>අනේ,අපේ රජයට තව අවුරුදු 500ක් වත් මේ සිරි ලක් දෙරණේ රජ කරන්න ලැබිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චූලා</author>
+            <date>2012-07-30 10:25:37</date>
+            <index>4</index>
+            <phrase>නමත් පළ කළානම් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2012-07-30 10:34:04</date>
+            <index>5</index>
+            <phrase>අනේ, ඔහුට රුපියල් 10ක් දඩ ගහලා නිදහස් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-30 11:03:02</date>
+            <index>6</index>
+            <phrase>මොනවා උනත් තිතට මත ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්මලේගෙදර</author>
+            <date>2012-07-30 11:30:20</date>
+            <index>7</index>
+            <phrase>කීයක්හරි අරගෙන යන්න දුන්නනම් ඉවරයි නේද ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාල්ල‍ගේ</author>
+            <date>2012-07-30 11:31:15</date>
+            <index>8</index>
+            <phrase>ලංකාවේ පොලිසියට බැන්නට නීතිය ක්‍රියාත්මක කරන නිලධාරිනුත් ඉන්නවා නේ.ප්‍රණාමය ඒ අයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුපවති</author>
+            <date>2012-07-30 12:04:54</date>
+            <index>9</index>
+            <phrase>හොද වැඩේ රු:20 ක් දඩ ගහයිද ? හා ..හා ..හා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2012-07-30 12:04:28</date>
+            <index>10</index>
+            <phrase>ඒ ගමන නගර සභා සහ ප්‍රාදේශීය සභා මන්ත්‍රීවරු දූෂණ වැඩ නවත්වලා බොන්න පටන් අරන් වගේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-07-30 12:15:59</date>
+            <index>11</index>
+            <phrase>මේ දවස්වල මෙයාල හරි ප්‍රසිද්ධයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-07-30 12:35:01</date>
+            <index>12</index>
+            <phrase>මේවා හොඳ වැඩ , තරාතිරම බලන්න හොඳ නෑ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කල්ප</author>
+            <date>2012-07-30 15:00:31</date>
+            <index>13</index>
+            <phrase>මීලග සභාව පොලිසියේදී . ඔක්කොම එකම තැනනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-07-30 15:04:32</date>
+            <index>14</index>
+            <phrase>සන්තෝසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-07-30 15:09:15</date>
+            <index>15</index>
+            <phrase>නීතිය අතට අරන් ව‍ගේ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔසද</author>
+            <date>2012-07-30 16:39:15</date>
+            <index>16</index>
+            <phrase>ඔන්න මම නම් නෙවෙයි හොදේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-07-30 23:57:17</date>
+            <index>17</index>
+            <phrase>ඔක්කොම කුඩු වලනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේ.හේවාවිතාරණ</author>
+            <date>2012-08-01 03:11:38</date>
+            <index>18</index>
+            <phrase>මෙන්න තවත් ඡන්ද ප්‍රතිඵලයක්..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-08-01 03:11:11</date>
+            <index>19</index>
+            <phrase>අනේ අනේ බොන්නෙ නැතිව ගෙදරටවත් එන්න දන්නෙ නැති අයද නාගරික මන්ත්‍රීලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙනත්</author>
+            <date>2012-08-01 04:25:52</date>
+            <index>20</index>
+            <phrase>නියමයි. තරාතිරම නොබලා පොලිසිය මෙහෙම ක්‍රියාත්මක වෙනවා නම් , ලංකාව බලාගෙන ඉදිද්දි දියුණු වෙයි. අපේ ගොඩක් අය හිතන්නේ අදුරන අය අල්ලන්න, ගොඩින් බේරා ගන්න, ගාණක් දීල බේරා ගන්න. මේ ඔක්කොගෙන්ම වෙන්නේ නීතිය වල් වැදිලා නීතිය ගැන ජනතාවට ඇති ගෞරවය විශ්වාශය නැති වෙන ඒක. ඒකේ ප්‍රතිපලය ජනතාව නීතිගරුක නොවීම හා නීතිය අතට ගැනීම. ලංකාවේ දැන් මේක සිදුවෙො ඉවරයි. ඒකනේ මොනවා හරි වුණ ගමන් ජනතාව සන්විධානාත්මකව පොලිසියට උසාවියට ගහලා, සැකකරුවන්ගේ ගෙවල් ගිනි තියලා දාන්න පටන් අරන් තියෙන්නේ. නීතිය වල් වැදිලා අකල් නීතිය රජයනවා. නීතිය එදාට වඩා අද හොදින් ක්‍රියාත්මක වෙන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

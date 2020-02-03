@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>382955</articleId>
+    <title>'කාලගුණයේ වෙනසක් නෑ'</title>
+    <author>අරුණ ශාන්ත කුමාර</author>
+    <date>2016 පෙබරවාරි මස 04 22:48:46</date>
+    <body>නැගෙනහිර සහ ඌව පළාත්වලට සුළු වර්ෂාවක් ඇද හැළුනත් සෙසු ප්‍රදේශවලට වියළි කාලගුණයක් පවතිනු ඇතැයි කාලගුණ විද්‍ය දෙපාර්තමේන්තුව පවසයි. මධ්‍යම කදුකරයේ නැගෙනහිර බෑවුමට හා ඊසාන දිග මෝසම් සුළං වේගය පැයට කිලෝ මිටර් 50 පමණ වේ.</body>
+    <comments>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-02-04 17:29:02</date>
+            <index>0</index>
+            <phrase>දැන්නම් වහින්නම ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

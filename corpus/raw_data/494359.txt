@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494359</articleId>
+    <title>ගැහැණියක් එළවළු කඩයක් වහයි</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2016 දෙසැම්බර් මස 29 16:09:00</date>
+    <body>දඹූල්ල ආර්ථික වෙළඳ මධ්‍යස්ථානයේ කඩයක සේවකයින් බව කියන පිරිසක් ගැහැණියක සම්බන්ධයෙන් ගැටුමක් ඇති කරගැනීමෙන් පසු එම කඩයට මුද්‍රා තැබූ බව ආර්ථික වෙළඳ මධ්‍යස්ථානයේ කළමණාකරු ක්‍රිස්ටි විජේරත්න මහතා කියයි.
+ගැහැණියක් ඇතුළු තිදෙනෙක් මේ සිද්ධියට සම්බන්ධව දඹුල්ල පොලිසිය විසින් අත්අඩංගුවට ගනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-12-29 12:58:25</date>
+            <index>0</index>
+            <phrase>ඕනම ආරවුලකට ගැහැනියක් මැදිහත් වෙලා ඇති. බ්‍රහ්මය මොකට ගැහැණිය මැව්වද කියා හිතෙනවා වෙලාවකට. හැබැයි හැම වෙලාවේම නොවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-12-29 13:48:16</date>
+            <index>1</index>
+            <phrase>ගැහැණිය මුල් කරගෙන රට රටවල් අතර යුද්ධ පවා ඇතිවෙලා තියෙන එකේ ඔය කඩ කෑල්ල මොකක්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-12-29 15:07:28</date>
+            <index>2</index>
+            <phrase>අපෝ ලංකාවේ ගෑණු පරමාණු බෝම්බ පරාදයි. ඕපාදුප මලු. ඉර්ශ්‍යාවේ උපත. ඒ වගේම වාචාල කම නිසා සන්ඩු කරගන්නවා නිතරම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීතා ලියන්වෙල-මිලානෝ</author>
+            <date>2016-12-29 21:50:13</date>
+            <index>3</index>
+            <phrase>පිටිගල මිලානෝලා ගැන නම් ඉතින් මොනවා කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-12-30 00:06:05</date>
+            <index>4</index>
+            <phrase>අනේ දෙවියනේ මේ රටට ගිය කල!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යෝනක</author>
+            <date>2016-12-30 00:37:27</date>
+            <index>5</index>
+            <phrase>අනේ මන්දා මේවට මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-12-30 05:15:23</date>
+            <index>6</index>
+            <phrase>සීතා ලියන්වෙල පිටිගල මිලානෝලා ඕපපාතිකයි කියල මට හිතෙනවා නැතිනම් අම්මව අමතක වේවිද නේද අනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බෙනට්</author>
+            <date>2016-12-30 07:28:15</date>
+            <index>7</index>
+            <phrase>කොහොමත් ඉතින් මේක සකල සිරින් පිරි සිරි ලංකාවනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-12-30 07:28:58</date>
+            <index>8</index>
+            <phrase>පිටිගල, රණ්ඩුකරලා තියෙන්නේ ගැහැණු අය වෙන්න අැති නේද එතකොට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-12-30 08:15:07</date>
+            <index>9</index>
+            <phrase>මේ ඒ ගැහැණියගේ වරද නෙමෙයි. අපේ මිනිසුන්ගේ වරද, අසහනය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

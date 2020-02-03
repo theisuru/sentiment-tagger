@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17319</articleId>
+    <title>තඹුත්තේගම විරෝධය අදත්</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 13 14:59:25</date>
+    <body>එළවළු හා පළතුරු ඇසුරුම් නීතියට එරෙහිව තඹුත්තේගම ගොවීහු අද දෙවැනි දිනටත් විරෝධය පළ කළහ.
+එහි ආර්ථික මධ්‍යස්ථානයේ කඩ සියල්ල වසා තිබිණි. ගොවියෝ ප්ලාස්ටික් ඇසුරුම්වලට ද ගිනි තැබූහ.</body>
+    <comments>
+        <comment>
+            <author>සංජු</author>
+            <date>2011-12-14 13:19:32</date>
+            <index>0</index>
+            <phrase>ප්ලාස්ටික් එපාග පරිසරය දූෂණය වෙනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

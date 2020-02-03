@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475202</articleId>
+    <title>මඩ පත්‍රිකා තොගයක් නාවලින් අල්ලයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 නොවැම්බර් මස 01 17:34:44</date>
+    <body>කෝප් කමිටු සාමාජික නියෝජ්‍ය ඇමැතිවරුන් දෙදෙනකුට සහ රාජ්‍ය ඇමැතිවරයකුට එරෙහිව මඩ ගැසීමට මුද්‍රණය කර තිබූ බව කියන අත්පත්‍රිකා තොගයක්  නාවලින්  සොයා ගත් බව වැලිකඩ පොලිසිය කියයි.
+නියෝජ්‍ය ඇමැති හර්ෂ ද සිල්වා මහතා කළ පැමිණිල්ලක් ගැන විමර්ශනය කරද්දී මෙම අත්පත්‍රිකා හමු වූ බව පොලිසිය සඳහන් කරයි.</body>
+    <comments>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-11-01 14:28:23</date>
+            <index>0</index>
+            <phrase>කොහොමද හරියටම මඩ කියන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-01 18:07:50</date>
+            <index>1</index>
+            <phrase>කොහොමද දැනගත්තේ? සෙල්ෆ් සර්විස් වෙන්න බැරිද? කිරි ගහට ඇන්නා වගේ ඔත්තුව දීලා තියනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-11-02 02:26:17</date>
+            <index>2</index>
+            <phrase>මඩ වලට බය කිසිම පුද්ගලයෙක් දේශපාලනයට එන්න නරකයි. ඔය කවුරු කවුරුත් මුලින් මඩකරි තමයි. පසුව තමයි මඩ කාගෙන උඩට ආ සුදෝසුදු නෙලුම් වගේ පවිත්‍රතා ගැන කතාකරන්නේ. මේ බලා ඉන්න අපි සදාකාලික මඩේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලලිත</author>
+            <date>2016-11-02 02:31:58</date>
+            <index>3</index>
+            <phrase>සිදුවූ අැත්තක මුල්ම චුදිතය බේරාගැනීමට උත්සාහ කරමින් ඡන්දය දුන් ජනතාවට මඩ කැවීමට උත්සාහ කරන්නවුන්ට මඩ ගැසීමට උත්සාහ කිරීමේ වරදක් තිබේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

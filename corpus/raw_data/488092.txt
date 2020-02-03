@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>488092</articleId>
+    <title>දුම් දමන වාහන අල්ලයි : නඩු නොදායි</title>
+    <author>ගයාන් අමරසේකර</author>
+    <date>2016 දෙසැම්බර් මස 07 13:34:41</date>
+    <body>මෝටර් රථ ප්‍රවාහන දෙපාර්තුමේන්තුව සහ වාහන වායු විමෝචන වැඩසටහන එක්ව ශ්‍රි ලංකා පොලිසියේ රථවාහන අංශයේ සහයෝගය ඇතිව අධික දුම් සහිතව මාර්ගයේ ධාවනය කරන වාහන පරික්ෂා කිරීමේ හදීසි සෝදිසියක් අද (07) පෙරවරුවේ කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාව අසල පැවැත්විය.
+එහිදි පරික්ෂණයෙන් අසමත් වාහන වලට කිසිදු දඩ ගැසීමක් සිදු නොකරන අතර ආදායම් බලපත්‍රය රදවා ගනී. දුම්පාරික්ෂණය සමත් වූ විට ආදායම් බලපත්‍රය මුදා හැරේ.
+
+ </body>
+    <comments>
+        <comment>
+            <author>දසුන්</author>
+            <date>2016-12-07 09:39:35</date>
+            <index>0</index>
+            <phrase>රජයේ වාහන වලත් දුම් පරික්ෂාව කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2016-12-07 09:51:20</date>
+            <index>1</index>
+            <phrase>හැමතැනම කලානම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගල වේලාරත්න</author>
+            <date>2016-12-07 12:28:45</date>
+            <index>2</index>
+            <phrase>දඩ කොලයට වඩා ඒ වැඩය හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2016-12-07 13:41:28</date>
+            <index>3</index>
+            <phrase>ඉතාම සාධාරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-12-07 13:57:54</date>
+            <index>4</index>
+            <phrase>මේක තමයි ලොකුම පරිසර දූෂණය. ලොකු දඩයකුත් ගහන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2016-12-07 14:47:15</date>
+            <index>5</index>
+            <phrase>ඉතාමත් විශිෂ්ට වැඩක්. දඩ නොගැසීමත් පිනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2016-12-07 15:28:41</date>
+            <index>6</index>
+            <phrase>ආණ්ඩුවේ වාහන වලින් පිටවෙන දුම් ජනතාවගේ ශරීරයට හොඳ ඇති. ඒවා අල්ලන්නේ නැත්තේ ඒකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙවි</author>
+            <date>2016-12-07 17:04:12</date>
+            <index>7</index>
+            <phrase>නොරොච්චෝලෙ ගල් අඟුරු බලාගාරයටත් ඔය පරීක්ෂණය තිබ්බා නම් නරකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ත්‍රී සිංහ</author>
+            <date>2016-12-08 01:11:53</date>
+            <index>8</index>
+            <phrase>ඔය ගමන්ම පොලීසියේ වාහනත් පරීක්ෂා කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

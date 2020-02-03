@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>446104</articleId>
+    <title>අමතර  කොටස්  අස්සෙන් ජිප් රියක් මතුවෙයි</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2016 අගෝස්තු මස 10 14:03:17</date>
+    <body>යන්ත්‍රෝපකරණ හා වාහන අමතර  කොටස්  ජපානයේ සිට  ගෙන්වන ලද රුපියල්  කෝටියක් පවණ  වටිනා  අති සුඛෝපභෝගී  ලෑන්ඩ් කෘෂර් ප්‍රාඩෝ ජිප්  රථයක්  හා සුසුකී හා  නිශාන්  වෑන් තුනක්  කොළඹ තොටළඟ ග්‍රේ ලයින්  රේගු අංගනයේ දී අත්අඩංගුවට  ගත් බව රේගුව කියයි.
+කුරුණෑගල වාහන අමතර  කොටස්  ගෙන්වන්නකු  මේවා  ගෙන්වා  ඇතැයි  රේගු මාධ්‍ය  ප්‍රකාශක හා  අධ්‍යක්ෂ ධර්මසේන කහදව මහතා පැවසීය.</body>
+    <comments>
+        <comment>
+            <author>සරත් කුමාර</author>
+            <date>2016-08-10 08:56:15</date>
+            <index>0</index>
+            <phrase>වාද්දුවෙත් ඉන්නවා ඔය වැඩේ කරන කෙනෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-08-10 09:35:29</date>
+            <index>1</index>
+            <phrase>මේවා ඉතින් පුරුදු වෙන්න කරන වැඩ නෙවෙයි මම හිතන්නේ , කාලෙක ඉඳල දේශපාලන උපකාර ඇතුවම කරපුව , දඬුවම් කරනකොට අතීතයට බලපාන විදියටම දඬුවම් කරන්න තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-08-10 10:54:17</date>
+            <index>2</index>
+            <phrase>මේ වගේ දේවල් තව කොපමණ වෙනවා ඇත්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුෂාර</author>
+            <date>2016-08-10 12:09:42</date>
+            <index>3</index>
+            <phrase>කවුද දෙසපාලකයන්ද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2016-08-10 13:34:29</date>
+            <index>4</index>
+            <phrase>ජපානෙන් අමතර කොටස් ලංකාවට ගෙන්නන ඔක්කොම කරන්නේ ඔය වැඩේ තමයි . ඕක නොකර අමතර කොටස් ගෙනල්ල විකුණලා සල්ලි කාරයෝ වෙන්න හිතන්නවත් බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-10 14:11:43</date>
+            <index>5</index>
+            <phrase>මෙතනත් අපේ අයට ඉඩදෙන්න අනෙක් අය හිරකිරීමේ න්‍යාය වගේ. කරුණාකර දෙගොල්ලොම අල්ලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකි</author>
+            <date>2016-08-10 14:57:43</date>
+            <index>6</index>
+            <phrase>මේක " නොදැනුවත්කම නිසා සිදු වූ වැරදීමක්" වෙන්න පුළුවනි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකි</author>
+            <date>2016-08-10 15:06:08</date>
+            <index>7</index>
+            <phrase>පිටබැද්දර ජයා, අර ජල්බරියට හැබැටම මොකද කර ගත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>200682</articleId>
+    <title>මහ පාර මැද මහ පැටලිල්ලක්</title>
+    <author>සිරි මහබෙල්ලන</author>
+    <date>2014 ජනවාරි මස 06 17:35:15</date>
+    <body>පානදුර හොරණ පාරේ රඹුක්කන හංදියේ දී මොටර්සයිකල් දෙකක් ගැටුණේය.
+යතුරුපැදිවල සිටි තිදෙනෙක් සුළු තුවාල ලදහ.
+එහෙත් ප්‍රශ්නය වූයේ එකට ඇමිණී පැටලී තිබූ යතුරු පැදි දෙක වෙන් කර ගැනීමයි.
+ඒ සඳහා මහත් වෙහෙසක් දැරීමට සිදු විය.</body>
+    <comments>
+        <comment>
+            <author>නිහාල් හෙට්ටිආරච්චි</author>
+            <date>2014-01-06 18:47:51</date>
+            <index>0</index>
+            <phrase>හොඳ උදාහරණයක් පෙන්නුම් කරලා තියෙන්නේ. මේ වගේ අපිටත් ඉන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2014-01-06 19:26:16</date>
+            <index>1</index>
+            <phrase>ගිය ආත්මේ මේ ජෝඩුව නිවුන්නෝ වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2014-01-06 21:29:19</date>
+            <index>2</index>
+            <phrase>සංසාරේ අපි එකට ඉමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීම්</author>
+            <date>2014-01-06 21:53:33</date>
+            <index>3</index>
+            <phrase>ආණ්ඩුවත් පැටලිලා, විපක්ෂයත් පැටලිලා ඒ මදිවට වාහනත් පටලාගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමා</author>
+            <date>2014-01-07 00:23:41</date>
+            <index>4</index>
+            <phrase>ඉන්දියන් බයිසිකල් පැටලුනොත් ඔහොමමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2014-01-07 00:56:13</date>
+            <index>5</index>
+            <phrase>ලංකාවත් ජාත්‍යන්තරෙත් එක්ක පටලවාගෙන තියෙන්නේ ඔය වගේ තමයි . ගැලවිල්ලක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2014-01-07 01:25:54</date>
+            <index>6</index>
+            <phrase>ඕක සාමාන්‍ය දෙයක්නේ ඕනා තරම් ඔය වගේ දේවල් දකිනවා පාරේදී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අල්විස්</author>
+            <date>2014-01-07 04:34:57</date>
+            <index>7</index>
+            <phrase>පරණ ආදරයක් වගේ වෙන් කරන්නම අමාරුයි කොහොම උනත් බේරුනා ඇති ජීවිත අනතුරක් නොවී</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2014-01-07 07:12:44</date>
+            <index>8</index>
+            <phrase>මෝටර් සයිකල් දෙක පෙනෙන හැටියට එකම ජාතියේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2014-01-07 08:01:42</date>
+            <index>9</index>
+            <phrase>මේක සාමානය දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දාන්</author>
+            <date>2014-01-07 08:40:04</date>
+            <index>10</index>
+            <phrase>පෙරේරාගේ වයර් පැටලිලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමංගල-ඇල්පිටිය</author>
+            <date>2014-01-07 10:15:50</date>
+            <index>11</index>
+            <phrase>හප්පලා ,මාරුවෙන්න හැදුවනම් ඉවරයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2014-01-08 08:26:30</date>
+            <index>12</index>
+            <phrase>ලොවේ කරන කල ඔහොම තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

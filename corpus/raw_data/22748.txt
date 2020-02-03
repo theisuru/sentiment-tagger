@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>22748</articleId>
+    <title>හයිකෝප් තීන්දුවක් කල්යයි</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 ජනවාරි මස 20 11:25:44</date>
+    <body>හිටපු යුදහමුදාපති සරත් පොන්සේකාට එකම චෝදනාව  සම්බන්ධයෙන් නඩු දෙකක් පවත්වාගෙන යා හැකිද නැද්ද යන්න  ගැන තීන්දුව පෙබරවාරි  28 වැනිදා ප‍්‍රකාශයට පත් කරන  බව කොළඹ මහාධිකරණ විනිසුරු සුනිල් රාජපක්‍ෂ මහතා අද ප‍්‍රකාශ කළේය.
+”හයිකෝප් ”නම් සමාගමෙන් යුදහමුදාවට  උපකරණ මිලට ගැනීමට පොන්සේකා වැරදිකරු  කැර සිර දඩුවම් නියම කෙළේය. එවැනිම නඩුවක් මහාධිකරණය හමුවේදි විභාග  වෙයි.
+පොන්සේකා අද උසාවි පැමිණියේය.</body>
+    <comments>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-20 17:59:41</date>
+            <index>0</index>
+            <phrase>හිටපු යුද හමුදාපතිතුමනි ඔබ තුමා තවම රටට ලැදි බව අපි දන්නවා. ඔබතුමාට ලගදීම ජය වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Jayantha - Ibbagamuwa</author>
+            <date>2012-01-21 11:08:52</date>
+            <index>1</index>
+            <phrase>ඔබ ජයලබනවා යනු ලක්වාසීන්ම ජය ගැනීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

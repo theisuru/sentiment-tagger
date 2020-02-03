@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>140528</articleId>
+    <title>මහ බලවතාට  නිරුවත් විරෝධයක්</title>
+    <author>චමින්ද මඩවල</author>
+    <date>2013 ජූනි මස 20 13:14:51</date>
+    <body>ජි අට සමුළුවට සහභාගි විම සදහා ජර්මනියට පෑමිණ සිටින ඇමරිකානු ජනාධිපති බරැක් ඔබාමා බර්ලින් නුවර හරහා ගමන් කරද්දී ලේ ෆේමෙන් කාන්තා සංවිධානයේ තරුණියෝ දෙදෙනෙක් උඩුකය නිරුවත්  කැර විරෝධය පෑහ. ජර්මන් පොලිසිය ඔවුන් ඉවත් කළේය.</body>
+    <comments>
+        <comment>
+            <author>දයා අළහකෝන්</author>
+            <date>2013-06-20 13:56:35</date>
+            <index>0</index>
+            <phrase>ඔහුගේ හිත දිනාගන්න කරපු වැඩක්වද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2013-06-20 14:12:36</date>
+            <index>1</index>
+            <phrase>මම දන්නා ආකාරයට ජි 8 සමුළුව පැවැත්වුයේ ජර්මනියේ නොවේ .2013 වසරේ එය පැවැත්වුයේ උතුරු අයර්ලන්තයේ . එයින් පසුව බරක් ඔබාමා ගියා ජර්මනියට... මියගිය ජනාදිපති කෙනඩි බර්ලින් තාප්පය ගාව පළමු කතාව කල තැනට . එහිදී ඇතිවූ සිද්දියක් මේක මම හිතන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2013-06-20 15:30:33</date>
+            <index>2</index>
+            <phrase>හරියට දැක්කානම් ඇමරිකන් ජනපති පුටුව හිස්වෙනවා. මිචෙල් ඔබමා කන්වැන්දුම් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික බහ්රින් සිට</author>
+            <date>2013-06-20 15:41:34</date>
+            <index>3</index>
+            <phrase>ඔබමා මහත්තයා මාර සතුටක් ලබන්න ඇති නේද? ඒ වගේම ඔබමා මහත්තයෝ, ලෝක බලවතා වුනාට දැන් දැන් හැම පැත්තෙන්ම විරෝධය වැඩි වේගෙනයි එන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-06-20 16:17:09</date>
+            <index>4</index>
+            <phrase>දෙවන සහ 4 පොටෝවල ඉන්න රාළහාමි අස්සෙන් ඇත ගෙන වැරදී වෙඩක් කරන්න වගේ යන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2013-06-20 16:24:28</date>
+            <index>5</index>
+            <phrase>බටහිර යුරෝපයට අනුව කහින කාන්තා නඩ, ඕ පුල්වන්නම් දාන්න වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2013-06-20 16:41:27</date>
+            <index>6</index>
+            <phrase>මහබලවතාගේත් රෙදි ගැලවෙයි ළඟදීම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-06-20 19:20:09</date>
+            <index>7</index>
+            <phrase>චඃ ලංකාවෙත් පටන් ගනිමු. මමත් පොලෝසියට බැදෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2013-06-20 21:29:11</date>
+            <index>8</index>
+            <phrase>ආදී කාලේ ලංකාවෙත් මුලාදෑනියෙක් ගම රට බලන්න එද්දී ඔයවගේ පහසුකම් ලබා දෙනවා ඒවා වලක්වන්න පොලිසියට අයිතියක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-06-21 08:50:00</date>
+            <index>9</index>
+            <phrase>ජර්මන් පොලිසියට බැඳෙන්න ආසාවක් එනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2013-06-21 10:59:53</date>
+            <index>10</index>
+            <phrase>තව ටිකක් දියුණු වුණා නම් උඹලගේ වැඩේ සාර්ථක වෙනවා නංගියේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-06-21 11:00:49</date>
+            <index>11</index>
+            <phrase>ජර්මනියෙනේ ඉන්න තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

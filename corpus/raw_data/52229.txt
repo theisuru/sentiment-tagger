@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52229</articleId>
+    <title>රතුගල උපවාසේ ඉවරයි</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2012 ජූලි මස 08 15:52:34</date>
+    <body>සඳුදා පැවැත්වෙන සාකච්ඡුාවකින් පසුව විසඳුමක්  දෙන බවට පොලිසියේ උසස් නිලධාරියකු  පැවසූ නිසා උපවාසය  තාවකාලිකව අවසන් කළ බව රතුගල ආදිවාසි නායක සුදා වන්නියලැත්තෝ කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-07-08 16:40:15</date>
+            <index>0</index>
+            <phrase>නායක තුමනි නායකත්වයේ බලය පෙන්වන්න. අතාරින්න එපා. අපේ මහනායක හාමුදුරුවන්ටත් ආදර්ශයක් වෙන්න. අපේ කාදිනල්තුමා කීවා, කළා වගේ.පොලිස් හූරෝ, බොරු එපා. සාකච්චා පොජ්ජ කොරල වැඩේ කොර දෙන්න වෙනවා. මොකද මහහූරගේ ගෙදර පොජ්ජට යන්න පුළුවන් කෙනෙක් ඔය හොදේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-09 04:08:30</date>
+            <index>1</index>
+            <phrase>ඒ මනුස්සයට උපවාසය අත්හැරිය කියල වෙනසක් නැහැ!!?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

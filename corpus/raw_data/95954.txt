@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>95954</articleId>
+    <title>යට යන්නට තිබූ අනතුරු දෙකක් පොලිසිය හෙළි කරයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2013 පෙබරවාරි මස 01 16:46:54</date>
+    <body>යට යන්නට තිබූ අනතුරු දෙකක් පුත්තලම හා මුන්දලම පොලිසිය හෙළි කර ගත්තේයග රන් ආභරණ සහ ගිනි අවි සොරකම්වලට සම්බන්ධ අයද අත්අඩංගුවට ගැනීමට හැකි විය. </body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-02-02 10:34:44</date>
+            <index>0</index>
+            <phrase>අනතුරු යට යවන්න හොඳ නෑ ?අනතුරුවලට හිස ඔසවන්න දෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක ආරච්චිගේ</author>
+            <date>2013-02-02 11:12:10</date>
+            <index>1</index>
+            <phrase>මේ වැගේ හැම තැනම සුද්ද කරන්න ඕන.,!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

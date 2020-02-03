@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>462518</articleId>
+    <title>පුනරුත්තාපනය වූ කොටි හතරක් නිදහස ලබති</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2016 සැප්තැම්බර් මස 29 12:14:48</date>
+    <body>පුනරුත්තාපනයට ලක් වූ කොටි සිව්දෙනෙක් පුන්තෝට්ටම් හි පුනරුත්තාපන කඳවුරේදී නිදහස ලබා පිටව ගියහ.
+කොටි සාමාජිකයන් 12000ක් පුනරුත්ථාපනය කිරීමෙන් පසු  අවසන් අදියරේ සිව්දෙනකු එසේ නිදහස ලැබූ අතර තවත් ඉතිරිව ඇත්තේ කොටි සාමාජිකයින් 15 දෙනකු පමණි.</body>
+    <comments>
+        <comment>
+            <author>බස්නායක</author>
+            <date>2016-09-29 07:08:07</date>
+            <index>0</index>
+            <phrase>ඉතා හොඳයි. මෙන්න වෙනස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-09-29 08:17:06</date>
+            <index>1</index>
+            <phrase>මොකක්ද දන්නේ නැහැ කියන සින්දුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරාන්</author>
+            <date>2016-09-29 09:09:41</date>
+            <index>2</index>
+            <phrase>නටලා, ගයලා තමයි ගේම දෙන්න ප්ලැන් කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් ලාලිත</author>
+            <date>2016-09-29 09:34:34</date>
+            <index>3</index>
+            <phrase>මෙහි සිටින යුද නිලදරුවන් බිම බලාගෙන සිටිනුයේ ඔවුන්ට ඔවුන් ගැන ඇතිවූ ආත්මානුකම්පාව නිසාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-09-29 09:35:56</date>
+            <index>4</index>
+            <phrase>කැලේ මාරු උනාට කොටියාගේ පුල්ලි මාරු නොවේ. දැන් යාපනේ තියෙන තත්වෙන් ඕක තේරෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-09-29 10:09:53</date>
+            <index>5</index>
+            <phrase>දැන් මේ කට්ටිය බාර ගන්නේ විග්නේෂ්වරම්ද... ආපහු මොලේ කචල් වෙනවා. පළමුව පුනරුත්පනය කරන්න නැවත ජාතිවාදය අවුස්සන අයව ඒ අතර සිංහල කොටි ඉන්නවා. සුදුරෙදි පොරවාගෙන මේ අයවත් කුදලාගෙන අරන් ගිහින් පුනරුත්තපනය කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2016-09-29 10:43:32</date>
+            <index>6</index>
+            <phrase>ලංකාවට මඩගහන බටහිර රටවලට හා එජස අයට මේවා හොඳින් පෙන්විය යුතුයි වෙන රටක නම් මේ ඔක්කොම වළ පල්ලට ගිහිල්ල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-09-29 13:50:19</date>
+            <index>7</index>
+            <phrase>හිර කරපු අපේ සෙබලුවත් එලියට දාන්න.සන්හිඳියාව කොටින්ට විතරද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් පාසිල්</author>
+            <date>2016-09-30 06:10:07</date>
+            <index>8</index>
+            <phrase>මේවා හොඳ ක්‍රියාමාර්ග. ත්‍රස්තවාදි හෝ ක්‍රියාන්විතයේ හිටි කෙනෙක් කෙළින්ම සාමජගත කරන්න බැහැ. පුනරුත්තාපනය කරන්නම ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-09-30 09:52:22</date>
+            <index>9</index>
+            <phrase>ඔවුන් කොටින් නොවේ තම ජාතික අයතිවාසිකම් වෙනුවෙන් සටන් කල එම අරමුණ සඳහා අපරාද වලටද යොමු වුණ යොමු කළ පිරිසක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-09-30 23:40:53</date>
+            <index>10</index>
+            <phrase>අරුණ, එතකොට කොටි ත්‍රස්තවාදීන් කියන්නේ කාටද. මෙතනත් ඉන්නවා වගේ කොටින්ට සුදුහුණු ගාන අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-01 07:47:00</date>
+            <index>11</index>
+            <phrase>ඔහොම යමු! මගේ එකම පැතුම සිංහල පණක් ජාතික භාෂාව වෙන එකයි. අනෙකුත් ඕනෑම භාෂාවක් කතා කරන්න, එයින් ප්‍රතිලාභ ලබාගත්තට කමක් නැහැ. සිංහල භාෂාව සහ සංස්කෘතිය පෝෂණය යන පදනම යටතේ. ලංකාවේ ජනතාවගේ මානසිකත්වය ඉංග්‍රීසි කතා කළොත් ඕනෑම දෙයක් කරගන්න පුළුවන් කියා. එම මානසිකත්වය නැති කළයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

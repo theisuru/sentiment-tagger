@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>445437</articleId>
+    <title>ඇමරිකා රාජ්‍ය නිලධරයෙක් ලංකාවට</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 අගෝස්තු මස 08 17:47:46</date>
+    <body>ශ්‍රී ලංකාවේ දෙදින නිල සංචාරයක් සඳහා ඇමෙරිකා රාජ්‍ය දෙපාර්තමේන්තුවේ ආර්ථික හා ව්‍යාපාරික කටයුතු පිළිබඳ සහකාර රාජ්‍ය ලේකම් චාල්ස් එච්.රිව්කින් බදාදා (11) දිවයිනට පැමිණෙන බව ශ්‍රී ලංකාවේ ඇමෙරිකා තානාපති කාර්යාලය සඳහන් කරයි.
+ලංකාව හා ඇමෙරිකාව අතර වෙළඳ හා ආයෝජන කටයුතු ඉහළ නංවා ගැනීමේ අරමුණෙන් මෙම සහකාර රාජ්‍ය ලේකම්වරයා දිවයිනට පැමිණෙන බව සඳහන්වේ.
+ඔහු සිය සංචාරයේදී ජනාධිපති මෛත‍්‍රිපාල සිරිසේන , අග‍්‍රාමාත්‍ය රනිල් වික්‍රමසිංහ ඇතුළු රජයේ නායකයින් රැසක් හමුවීමට යයි.
+රිව්කින් මෙරට ප‍්‍රමුඛ පෙළේ ව්‍යාපාරිකයින්, ආයෝජකයින් සහ ව්‍යවසායකයින් හමුවී සාකච්ඡා පැවැත්වීමට ද නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-08 14:39:25</date>
+            <index>0</index>
+            <phrase>සාදරයෙන් පිළිගනිමු! වෙන මොනවා කියන්නද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-08-08 15:22:34</date>
+            <index>1</index>
+            <phrase>මෙය ඉතා හොඳ දෙයක් මොකද තනිවෙලා පැරණි පාලයෙන් මිදුන ලංකාවට දැන් තමයි ලෝකයට දොර ඇරිලා තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-08-08 15:34:08</date>
+            <index>2</index>
+            <phrase>මොකටද දන්නේ නෑ කුරුමානන් අල්ලන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-08-08 17:35:05</date>
+            <index>3</index>
+            <phrase>අපේ ශ්‍රමය හූරාකන්න මිසක අපට ලාභයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩිලාන්</author>
+            <date>2016-08-08 21:44:06</date>
+            <index>4</index>
+            <phrase>මේ ඔයාලගේ රට. අපිට ලැබුනේ ඔයාලගෙන්නේ. ඉතින් ඔබට අවශ්‍ය විදියට මේ රට හදන්න පුළුවන්. අපේ උත්තමාචාරය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවින්ද</author>
+            <date>2016-08-09 07:58:31</date>
+            <index>5</index>
+            <phrase>අනේ මන්දා මේවට මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2016-08-09 08:03:53</date>
+            <index>6</index>
+            <phrase>අපි ඉන්දියාවයි චිනෙයි එක්ක කරන ගනුදෙනු වලින් අවාසි ලබනකොට යුරෝපා සංගමයයි ඇමරිකාවයි එක්ක කරන ගනුදෙනු වලින් වාසි ලබනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

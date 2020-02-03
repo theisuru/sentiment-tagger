@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24165</articleId>
+    <title>ඔය ගැලූවොත් ගමට යන්න බෑ</title>
+    <author>නිෂාන්ත කුමාර</author>
+    <date>2012 ජනවාරි මස 29 15:49:16</date>
+    <body>බදුලූ දිස්ත‍්‍රික්කයේ මාලියද්දේ නාරන්ගස්තැන්න අති දුෂ්කර ගමකි. කන්ද කැටියේ සිට කිලෝ මීටර් 15 ක් ඈතින් පිහිටි මේ ගමට කුඩා ඔය තරණය කැර කිලෝමීටර පහක් කඳු නැඟ යා යුතුය. කඩවර දේවාලය ඇතුළු දේවාල තුනකුත් පුංචි කඩ තුනක් ඇති මේ ගමේ ගෙවල් 60 කි. අඳේට කුඹුරු වැඩ හා හේන් ගොවිතැන් ප‍්‍රධාන ජීවන මාර්ගයයි. පාසලක් හෝ පන්සලක් ද නැත.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2012-01-29 19:18:49</date>
+            <index>0</index>
+            <phrase>හම්බන්තොට උඩින් යන රේල් පාර හදනවාට වඩා මේ ගමට පාලමක් සහ හොද පාරක් හදල දුන්ණොත් එය වටිනවා ඔය උඩින් යන දුම්රිය පාරට වඩා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2012-01-29 20:27:09</date>
+            <index>1</index>
+            <phrase>ඔය ජනතා නියෝජිතයන්ගෙ අවධානය මේ අහිංසක මිනිස්සුන් දෙසට ඉක්මණින්ම යොමූවුණොත් හොදයි. නෑත්නම් ආසියාවේ ආශ්චර්ය බොරුවෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-01-30 02:01:07</date>
+            <index>2</index>
+            <phrase>බලධාරීන් කෝ මේ අයට පිහිට වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලකී</author>
+            <date>2012-01-30 05:15:34</date>
+            <index>3</index>
+            <phrase>ඔක්කොම කරන්නෙ දකුණට, රත්නපුරය, බදුල්ල දිස්ත්‍රික්කවල අයත් ඔබ තුමාට ඡන්ද දුන්නනෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-01-30 05:30:05</date>
+            <index>4</index>
+            <phrase>හේන් ගොවිතැන් ප‍්‍රධාන ජීවන මාර්ගයයි මේ ගමට පාසලක් හෝ පන්සලක් ද නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නශා</author>
+            <date>2012-01-30 09:17:24</date>
+            <index>5</index>
+            <phrase>කරුණාකර වහාම ක්‍රියත්මක වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2012-01-30 10:25:36</date>
+            <index>6</index>
+            <phrase>කිසිවක් නැතත් මෙහෙ තිබෙන සුන්දරත්වය කොච්චරද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

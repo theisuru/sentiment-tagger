@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>458529</articleId>
+    <title>පොහොයදා එළු මස් කන්න බැරිවෙයි</title>
+    <author>රවීන්ද්‍ර ලියනගේ</author>
+    <date>2016 සැප්තැම්බර් මස 16 17:01:40</date>
+    <body>මාළු ප්‍රවාහනය කරන මුවාවෙන් මිහින්තලේ සිට මිගමුව ප්‍රදේහයට   එළුමස් කිලෝ 300 ක්  ප්‍රවාහනය කරමින් තිබු අධි ශිතකරණ සහිත ලොරියක් අද පෝය දා මහවැව නගරයේදි අත් අඩංගුවට ගත් බව මාරවිල පොලිසිය කියයි.
+ලොරි රථයේ රියදුරා සහ සහායකවරයා සැකිපට අත් අඩංගුවට ගෙන ඇත.
+එළුමස් තොගය මිගමුව ප්‍රදේශයේ සංචාරක හෝටලයක් වෙත ගෙන යමින් තිබු බව පොලිසිය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-09-16 12:05:06</date>
+            <index>0</index>
+            <phrase>පෝයදාට මාළු කෑවාට කමක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-09-16 12:25:05</date>
+            <index>1</index>
+            <phrase>මේ වගේ මිනිස්සු කොහොමද දන්නේ අද පෝය කියලා, පන්සල පළාතේ යන්නේ නැතුව. ඒ තියා සමහරක් මිනිස්සු දන්නෙත් නැහැ තැබෑරුම වහලා තියෙනකොට හොයලා බලනවා අැයි මේ වහලා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2016-09-16 12:58:20</date>
+            <index>2</index>
+            <phrase>සංචාරක හෝටලයක් වෙත එළුමස් ප්‍රවාහනය කිරීම නීතිවිරෝධී වෙන්නේ පොහොය දිනය නිසාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2016-09-16 16:04:55</date>
+            <index>3</index>
+            <phrase>අනේ මෙහෙමත් පව්කාරයෝ? මරණින් පස්සේ කොයි ලෝකේ යන්නද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරපන</author>
+            <date>2016-09-16 16:15:39</date>
+            <index>4</index>
+            <phrase>පුදුම තර්කයක්...! එළුවෝ බැහැ, මාළු පුළුවන්? රාත්තල් එකසිය පනහට එළු පන එකයි මාළු පනවල් කීයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-09-16 18:17:45</date>
+            <index>5</index>
+            <phrase>ඔච්චර දවස් සිට අදම මරන්න තරම් මේ මිනිස්සු කුරිරුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-09-17 00:03:41</date>
+            <index>6</index>
+            <phrase>පොහොයටවත් අසරණ සතෙකුට නිදහසේ ඉන්න නොදෙන මෙවැනි පුද්ගලයන්ට උපරිම දඬුවම් ලබාදිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-17 04:14:43</date>
+            <index>7</index>
+            <phrase>මිනිසාට කිසිම අයිතියක් නැහැ කිසිම සතෙකුගේ ජීවිත නැතිකරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසන්ත</author>
+            <date>2016-09-17 09:02:41</date>
+            <index>8</index>
+            <phrase>එළුවන් මැරීම ප්‍රාණඝතයකුත් මාළුන් මැරීම ප්‍රාණඝාතයකුත් නොවන පුදුම බෞද්ධ සමාජයක් මේක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඔෂාන්</author>
+            <date>2016-09-17 09:34:37</date>
+            <index>9</index>
+            <phrase>නොකනවා නම් ඕනෑම දවසක නොකා ඉන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-09-17 13:47:33</date>
+            <index>10</index>
+            <phrase>මස් කෑම හැමදාටම නතර කරන්න පුලුවන් නම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2016-09-17 13:54:49</date>
+            <index>11</index>
+            <phrase>මමත් කඩේ ගියා බිත්තරයක් ගන්න. මුදලාලි මගෙන් ඇහුවා පෝයට කොහෙද බිත්තර කියලා. මමත් ඇහුවා "ඇයි පෝයට කිකිළි බිත්තර දාන්නේ නැද්ද“ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වර්නන්</author>
+            <date>2016-09-17 15:25:09</date>
+            <index>12</index>
+            <phrase>යම්කිසි දෙයක් වැරදි දෙයක් නම්, එය සැමදාම වැරදි වියයුතුය. පෝය දිනට පමණක් මස් කඩ සහ සුරාසල් වසාතැබීම රජය විසින් කරන බොරු රඟපෑමක් පමණි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-09-18 00:46:19</date>
+            <index>13</index>
+            <phrase>ප්‍රසන්න, අපි කොහොමද දන්නේ කවදා මරපුවද කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීරරත්න</author>
+            <date>2016-09-18 03:01:40</date>
+            <index>14</index>
+            <phrase>රාධා, කවදා මැරුවත් මේක පෝය දවසක්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-09-19 08:26:11</date>
+            <index>15</index>
+            <phrase>අපි කරන්නේ අපිවම රවටන එක. සතා මරණ එක කොහොමත් පාපයක්. එක ලොකුද පොඩිද? හරකද, මලුවද, කුකුලද කියලා නැහැ. අනික සංචාරක හෝටල්වල පෝයට මස්මාලු උයන්න තහනම්ද? ප්‍රවාහනය තහනම්ද? මස් මලු නොකාවට කිසිම අඩුපාඩුවක් වෙන්නෙත් නැහැ.එත් හැමදෙනාටම ඕනේ මස් මලු කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

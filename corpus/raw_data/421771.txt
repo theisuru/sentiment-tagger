@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>421771</articleId>
+    <title>තායි ලක් ව්‍යාපාරිකයා  කැපී පෙනෙයි</title>
+    <author>පුෂ්පකුමාර ජයරත්න</author>
+    <date>2016 ජූනි මස 01 11:45:08</date>
+    <body>ශ්‍රි  ලංකා  සංචාරයට  වසර  50 ක්  සපිරිම නිමිති කොටගෙන එය උත්කර්ශවත්  ආකාරයෙන්  සැමරිම සඳහා  සංවිධානය කරන ලද “ සංචාරක උදාව” ප්‍රදර්ශන පසුගිය සතියේ දී  කොළඹ බණ්ඩාරනායක ජාත්‍යන්තර  සම්මන්ත්‍රණ ශාලාවේ දී  පැවැත්විණි.
+ශ්‍රී  ලාංකිය ව්‍යාපාරිකයකු  වන තායිලන්ත ‘සවාරි සංචාරික සමාගමේ ’ කළමණාකරු  අධ්‍යක්ෂක නාලක නිරෝෂන්  මහතා මෙම ප්‍රදර්ශනයේ දී  විදේශිය රටක්  කේන්ද්‍ර කරගනිමින්  සංචාරක ප්‍රවර්ධන කුටියක්  ඉදිරිපත්  කළ එකම  ව්‍යාපාරිකයා ද විය.</body>
+    <comments>
+        <comment>
+            <author>ආසිරි</author>
+            <date>2016-06-01 09:00:43</date>
+            <index>0</index>
+            <phrase>නාලක නිරෝෂන් මහතාට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2016-06-02 13:12:48</date>
+            <index>1</index>
+            <phrase>ඔබට ජය. දීර්ගායු පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-06-02 13:12:48</date>
+            <index>2</index>
+            <phrase>ඔබ ශ්‍රී ලංකාවට මහත් ආඩම්බරයක්. ඔබට ජය. දීර්ඝායු පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-06-02 13:10:21</date>
+            <index>3</index>
+            <phrase>ඔබ ශ්‍රී ලංකාවට මහත් ආඩම්බරයක්. ඔබට ජය. දීර්ගායු පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග චන්දන</author>
+            <date>2016-06-03 09:15:55</date>
+            <index>4</index>
+            <phrase>සුබ පැතුම් නාලක අයියා. ඔබගේ සියලු උත්සාහයන් සාර්ථක වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-06-03 09:26:44</date>
+            <index>5</index>
+            <phrase>ඔබට සුබ පැතුම් ඔබේ ව්‍යාපාර කටයුතු සාර්ථික වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-06-07 04:20:00</date>
+            <index>6</index>
+            <phrase>මේ ආයතනයේ දුරකථන අංකය සදහන් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක නිරෝෂණ ගොඩැල්ලගේ</author>
+            <date>2016-06-07 05:41:45</date>
+            <index>7</index>
+            <phrase>ශ්‍රී ලංකාවේ 0114878705 හෝ 0767878705 හෝ තායිලන්තයේ 0066805878705</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොඩිකාර</author>
+            <date>2016-06-09 06:52:30</date>
+            <index>8</index>
+            <phrase>ඔබට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

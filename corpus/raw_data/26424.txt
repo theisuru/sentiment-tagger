@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>26424</articleId>
+    <title>බස්වලට ගැසූ අටක් සැකපිට</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 පෙබරවාරි මස 13 09:47:42</date>
+    <body>වර්ජනයට හවුල් නොවූ පෞද්ගලික බස් හතරකට පහරදුන් බව කියන අට දෙනෙක් මාතරදී අත්අඩංගුවට ගනු ලැබූහ. ධාවනය කිරීමට සැරැසුණු තවත් බසයකට අවහිර කළැයි ද වාර්තා විය. මාතර මහා බස්පොළට යුද හමුදා ආරක්ෂාව සලසා ඇත.</body>
+    <comments>
+        <comment>
+            <author>තිලිණ මංගල</author>
+            <date>2012-02-13 10:50:43</date>
+            <index>0</index>
+            <phrase>එතැන සිටි පිරිසට පහර දෙනු මම දුටුවෙමි.. එසේ සිදුවූයේ හමුදා නිලධාරියකුගේ දුරකතනයට ඇමතුමක් ලැබීමෙන් පසුවය. එම ක්‍රියාව හෙලා දකිමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>banda</author>
+            <date>2012-02-13 10:54:23</date>
+            <index>1</index>
+            <phrase>මෙයාලට දඩුවම් දෙන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>‍රෝහණ මීගහපොල</author>
+            <date>2012-02-13 11:32:52</date>
+            <index>2</index>
+            <phrase>දැඩි දඩුවම් ‍දෙන්නම ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-02-13 11:53:25</date>
+            <index>3</index>
+            <phrase>මෙච්චර වැඩි ගානකින් වැඩි කළාම බස් කොහොමද දුවන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2012-02-13 12:04:20</date>
+            <index>4</index>
+            <phrase>ලංගමට අත තිබ්බොත් පුද්ගලික බස් පාරෙ දුවල ඉවරයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්</author>
+            <date>2012-02-13 12:09:26</date>
+            <index>5</index>
+            <phrase>දුවන්න බැරිනම් බස් ගෙදරතියාගෙන බලපත්‍ර පුළුවන් අයට දෙන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර ගුණසේකර</author>
+            <date>2012-02-13 12:39:47</date>
+            <index>6</index>
+            <phrase>ආණඩුව අස්ථාවර කරන්න හදය අයට දඩුවම් කළ යුතුයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>no name</author>
+            <date>2012-02-13 13:01:58</date>
+            <index>7</index>
+            <phrase>ඇයි දන්නෙ නැද්ද ඩිසල් වැඩි කරල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

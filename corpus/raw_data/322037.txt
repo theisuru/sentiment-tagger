@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>322037</articleId>
+    <title>පැස්ටයි බ්‍රැන්ඩියි ඔරුගොඩවත්තේදී ඉහිරේ</title>
+    <author>මහින්ද නිශ්ශංක ඉෂංක සුනිමල් ඡායාරූප හා වීඩියෝ- ඉෂංක සුනිමල්</author>
+    <date>2015 ජූනි මස 03 17:05:11</date>
+    <body>පෞද්ගලික බඩු බාහිරාදිය බව ප්‍රකාශ කොට ඉතාලියේ සිට “පැස්ටා” කිලෝ 5000ක්, විස්කි හා බ්‍රැන්ඩි බෝතල් 115ක් හා කඩු දෙකක් සමග ඔරුගොඩවත්ත ආර්.සී.ටී.රේගු අංගනයේදී පස් දෙනෙක් සමඟ අද (3) අත්අඩංගුවට ගනු ලැබුහ.
+හලාවත පදිංචි එම පිරිසගේ ක්‍රියාවෙන් රජයට අහිමිවන තීරුබදු ප්‍රමාණය රුපියල් ලක්ෂ 11 ක් පමණ වෙතැයි රේගු මාධ්‍ය ප්‍රකාශක ලෙස්ලි ගාමිණි මහතා පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2015-06-03 12:15:30</date>
+            <index>0</index>
+            <phrase>කඩු දෙක ගැන විශේෂ පරීක්ෂණයක් කරනවානම් හොදයි මම ඉන්න රටෙත් කඩු ගෙන්නල්ල අහු උනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජයබාහු</author>
+            <date>2015-06-03 12:18:06</date>
+            <index>1</index>
+            <phrase>කරුංක තිබ්බ නම් නිකන්ම නිදහස් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාගලී ෆොන්සේකා</author>
+            <date>2015-06-03 12:19:55</date>
+            <index>2</index>
+            <phrase>අපි නොදන්නා රටට ආදරේ කරන රේගුවේ මහත්තරු ටික... (ර) .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2015-06-03 21:25:04</date>
+            <index>3</index>
+            <phrase>දැන් මේ බෝතල් ටිකට මොකද කරන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියුම්</author>
+            <date>2015-06-04 07:05:57</date>
+            <index>4</index>
+            <phrase>කන්න බොන්න වෙන්න ඇතිනෙ ගෙනත් තියෙන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙරන්ස්</author>
+            <date>2015-06-04 22:40:47</date>
+            <index>5</index>
+            <phrase>අපරාදේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

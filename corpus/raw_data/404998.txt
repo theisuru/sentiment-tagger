@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>404998</articleId>
+    <title>සුබ අලුත් අවුරුද්දක් වේවා</title>
+    <author>ග්‍රැෆික් - නිමල් ජයශාන්ත</author>
+    <date>2016 අපේ‍්‍රල් මස 13 00:01:52</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-04-13 04:09:48</date>
+            <index>0</index>
+            <phrase>ඔබ සැමට සුබ අලුත් අවුරුද්දක් වේවායි පතමි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරණපාල</author>
+            <date>2016-04-13 06:01:53</date>
+            <index>1</index>
+            <phrase>ලබන නව වසර ලංකාදීප කතෘ මණ්ඩලයටත් ලංකාවාසී සියලුම දනටත්, ප්‍රතිචාර දක්වන අයටත් කිරියෙන් පැණියෙන් ඉතිරේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත්</author>
+            <date>2016-04-13 08:45:44</date>
+            <index>2</index>
+            <phrase>ලංකාදීප කතෘ මණ්ඩලයේ සියලු දෙනාටත්,පොදුවේ ලෝකවාසී සියලු දෙනාටමත් මේ ලැබුවා වූ සිංහල හා හින්දු නව වසර සතුට,සැනසුම, නිරෝගී සුවය හා ඔබ සිතන පතන හැම දෙයක්ම ලැබෙන, වාසනාවන්ත වසරක් වේවායි ඉතසිතින්ම ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෞදි සරත්</author>
+            <date>2016-04-13 10:51:16</date>
+            <index>3</index>
+            <phrase>විදෙස්ගත සියලුම මගේ ශ්‍රී ලාංකික යාළුවන්ට සුබ නව වසරක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විදානේ</author>
+            <date>2016-04-13 10:52:31</date>
+            <index>4</index>
+            <phrase>ලංකාදීප කතෘ මණ්ඩලයේ සියලු දෙනාට වාසනාවන්ත වසරක් වේවායි ඉතසිතින්ම ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාරංග</author>
+            <date>2016-04-13 17:12:11</date>
+            <index>5</index>
+            <phrase>අදහස් දමන සියළුම එසැණ සාමාජිකයින්ට සුබ අලුත් අවුරුද්ද් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොපී</author>
+            <date>2016-04-13 17:12:11</date>
+            <index>6</index>
+            <phrase>ලංකාදීපයේ සැමටත් සුබ අලුත් අවුරුද්දක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරා</author>
+            <date>2016-04-14 04:16:58</date>
+            <index>7</index>
+            <phrase>ඔබ සියලු දෙනාටම ලැබුවා වූ මේ නව වසර සාමයෙන් සතුටින් පිරුන සෞභාග්‍යමත් වසරක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගොඩ්ෆ්‍රී</author>
+            <date>2016-04-14 09:13:09</date>
+            <index>8</index>
+            <phrase>ලංකාදීප කතෘ මණ්ඩලයේ සියලු දෙනාටත්, ලංකාදීපයට පුවත් සපයය සියලු දෙනාටත්, අනන්ත බාධා මැද පුවත් සපයන සියලුම පුවත්පත් වාර්තාකරුවන්ටත්, ලෝකවාසී සියලු දෙනාටමත්, එසැණ සාමාජිකයින්ටත් සුබ අලුත් අවුරුද්ද් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉනෝකා</author>
+            <date>2016-04-14 09:40:03</date>
+            <index>9</index>
+            <phrase>ඔබ සැමට සුබ අලුත් අවුරුද්දක් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

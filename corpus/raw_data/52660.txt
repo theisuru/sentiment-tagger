@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>52660</articleId>
+    <title>සරසවි ඇදුරු වර්ජනය දිගටම</title>
+    <author>ආර්එස් කීරියවත්ත</author>
+    <date>2012 ජූලි මස 10 17:58:07</date>
+    <body>සාධාරණ විසැඳුමක් ලැබෙන තුරු තම වර්ජනය අත්නොහරින බව පේරාදෙණිය සරසවියේ ආචාර සංගමය කියයි. පේරාදෙණියේ දී අද පුවත්පත් සාකච්ඡාවක් පවත්වමින් එම සංගමය කියා සිටියේ තම ක්‍රියාමාර්ගය හුදෙක් වැටුප් වැඩි කර ගැනීමේ ඉල්ලීමක් නොවන බවයි. සංගමය සමග සාකච්ඡා කර විසැඳුමකට එන්නැයි සංගම රජයට කියයි. වර්ජනයේ හත් වැනි දිනය අදයි.</body>
+    <comments>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-10 19:06:21</date>
+            <index>0</index>
+            <phrase>ඔය වර්ජනයෙන් අපිට පාඩුවක් නෑ... .අනික කැම්පස් ළමයින්ටත් ඒ හැටි පාඩුවක් නෑ මගේ හිතේ.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුරුවරයෙක්</author>
+            <date>2012-07-10 20:25:38</date>
+            <index>1</index>
+            <phrase>සරසවි අචාර්ය වරුන්ගේ ප්‍රශ්නය විසදීමට උවමනාවක්‌ නෑ, සිසුන්ට සිදූවන පාඩුව ගැන තැකිමක් නෑ. රාජ්‍ය බලධරයෝ නිදි ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-10 21:38:57</date>
+            <index>2</index>
+            <phrase>නිදි නැහැ .ඇම්ඩන්ලට උවමනාවක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේකේ.</author>
+            <date>2012-07-10 22:08:24</date>
+            <index>3</index>
+            <phrase>ඒ උනාට තව කීයක් හරි වැඩි කරපු ගමන් ඕක අතහරිනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැම්පස් කොල්ලා</author>
+            <date>2012-07-11 00:00:05</date>
+            <index>4</index>
+            <phrase>මේ සරසවි ටික පෞද්ගලිකකරණය කරන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැම්පස් කොල්ලා</author>
+            <date>2012-07-10 23:21:44</date>
+            <index>5</index>
+            <phrase>සරසවි ටික පෞද්ගලීකරණය කරන්න කාට කාටත් වුවමනා වුණත් අපේ ආචාර්යවරුයි, කොල්ලෝ ටිකයි ඒකට කවදාවත් ඉඩ දෙන්නේ නැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-11 01:59:40</date>
+            <index>6</index>
+            <phrase>හැමෝටම ජීවත්වෙන්න අමාරැ ආර්ථිකයකක් අද ලංකාවෙ තියෙන්නෙ.. ඔබලාට ජයවේවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-07-11 07:34:28</date>
+            <index>7</index>
+            <phrase>මම හිතන්නේ අද විශ්ව විද්‍යාල වල ඉන්න ආචාර්ය තුමන්ලා කරන පර්යේෂණ වැඩ හරිම මදි. එතුමන්ලා තව ටිකක් ඒ වැඩ වලටත් උනන්දු වෙලා ඔය ඉල්ලීම් කරා නම් නේද හොඳ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලා</author>
+            <date>2012-07-11 08:11:23</date>
+            <index>8</index>
+            <phrase>දැන් උසස් අධ්‍යාපනයට වෙන් කරන මුදලෙන් කැම්පස් වල ලයිට් බිල් ගෙවන්නවත් බැ. එහෙම තියෙද්දී කොහොමද පර්යේෂණ කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-07-11 08:37:13</date>
+            <index>9</index>
+            <phrase>අනේ අපි නොදන්න කැම්පස් කොල්ලෝ... අනේ නිකන් යනවා හලෝ යන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-07-11 08:50:25</date>
+            <index>10</index>
+            <phrase>පර්යේෂණ කරන්න හැම තිස්සෙම සල්ලි ඕන නැහැ. පර්යේෂණ කරන එක ජොබ් එකේ කොටසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2012-07-11 08:54:23</date>
+            <index>11</index>
+            <phrase>වැඩවර්ජන කොතෙක් කළත් මේ බලධාරීන්ට ඒවා දැනෙන්නේ නැති එකනේ පුදුමේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නයනා</author>
+            <date>2012-07-11 09:05:21</date>
+            <index>12</index>
+            <phrase>නිදහස් අධ්‍යාපනය රැක ගන්න මුලික වීම ගෙන ඔබලාට පින් සිද්ධ වෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අභිලාෂිණි</author>
+            <date>2012-07-11 09:49:19</date>
+            <index>13</index>
+            <phrase>අනේ ඔයාලගේ වර්ජන නිසා අපිට රස්සාවකටවත් යන්න වෙන්නේ නෑ.අපි අන්තිම විභාගෙට ලියලා දැන් සෑහෙන්න කල්.තාම ප්‍රතිඵල නෑ.මේවා කාට කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිෂාඩ්</author>
+            <date>2012-07-11 10:37:00</date>
+            <index>14</index>
+            <phrase>වර්ජන, තර්ජන සහ ගර්ජන අපේ සාමකාමී ජීවිතයට මහත් හිසරදයක් වෙලා.ඇත්තටම අපිට බැරිද මේවා වෙනස් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාවේ කැම්පස් කොල්ලා</author>
+            <date>2012-07-11 13:02:11</date>
+            <index>15</index>
+            <phrase>ඔය කියන පර්යේෂණ තවමත් කැම්පස් වල කරනවා අපිත් ඒවාට සහභාගී වෙලා තියනවා.ඒවා කරන්න ගියාම තියන ප්‍රශ්න දන්නේ ඒවා කරන මිනිස්සු තමයි. මොකක් හරි ටෙස්ට් එකක් කරන්න විද්‍යාගාර වලට ගියාම ඕනි උපකරණ නෑ. අවශ්‍ය දේවල් නැ ඒවා අපි අපේ සල්ලි වලින් ගන්න ඕනි . කොහේ හරි යන්න ගියාම වාහන නැ .. කෙනෙක්ට කියන්න නම් ලේසියි . කරන්න ගියාම තමයි අමාරුව දැනෙන්නේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ranjan</author>
+            <date>2012-07-11 14:02:14</date>
+            <index>16</index>
+            <phrase>විශ්ව විද්‍යාලයකින් කරන්න ඕනේ දැනුම නිපදවීම. එක කරන්නේ කීයෙන් කීය ද. අනිත් ඒවා මහා විද්‍යෙල වගේ උගන්වන එක විතරයි. පර්යේෂණ ටිකක් කරල රට දැනුවත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනූ</author>
+            <date>2012-07-11 15:01:26</date>
+            <index>17</index>
+            <phrase>ලුම්බිණි, නොදන්නවානම් කට වහගෙන ඉන්න. කැම්පස් වල පර්යේෂණ කරන්න සල්ලි තියෙන්න ඕන. මොකද මම පර්යේෂණ සහකාර විදිහට වැඩ කරලා තියෙන නිසා දන්නවා . අපේ කැම්පස් වල තියෙන්නේ හරි අඩු පහසුකම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනා</author>
+            <date>2012-07-11 15:59:02</date>
+            <index>18</index>
+            <phrase>අනේ කැම්පස් කොල්ලෝ, ඔයාගේ ළමයා කැම්පස් ගිය දවසට තමයි පුද්ගලික සරසවි වල අගේ තේරෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-07-11 20:59:31</date>
+            <index>19</index>
+            <phrase>ඔන්න ඕක අතඇරලා චන්දෙ ඉල්ලන්න සිතු පතු සම්පත දෙන කප්රුකනේ ඒක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42115</articleId>
+    <title>ජී.ඇල්.හිලරි හමුව සිකුරාදා</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 මැයි මස 13 17:29:24</date>
+    <body>ඇමරිකා රාජ්‍ය ලේකම් හිලරි ක්ලින්ටන් හා විදේශ අමාත්‍ය මහාචාර්ය ජී.ඇල්.පීරිස් වොෂින්ටන් නුවරදී ලබන සිකුරාදා (18) හමුවීමට නියමිතය.
+මහාචාර්ය ජී.ඇල්.පීරිස් සමග පරිසර අමාත්‍ය අනුර ප්‍රියදර්ශන යාපා, ජනාධිපති ලේකම් ලලිත් වීරතුංග, පාර්ලිමේන්තු මන්ත්‍රී සහ විදේශ කටයුතු අමාත්‍යාංශයේ අධීක්ෂණ මන්ත්‍රී සජින් වාස් ගුණවර්ධන මහත්වරුන් ද මේ හමුවට සහභාගී වීමට නියමිතය</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-13 19:15:17</date>
+            <index>0</index>
+            <phrase>ඔය මොන හමුවීමි පැවැත්වුවත් කමක්නෑ. මිනිසුන් අමාරුවේ දාන ගිනි ගෙඩි විතරක් ගේන්න එපා. මෙතරමි කලක් හමුවිමි පවත්වනවා, නමුත් රටේ ජනතාවට වුන සුගතියක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-05-13 21:08:14</date>
+            <index>1</index>
+            <phrase>රෙදි ඇදගෙනද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-13 22:12:55</date>
+            <index>2</index>
+            <phrase>ආච්චියේ බොලන්නේ පාත් වෙලා වරෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-13 22:52:14</date>
+            <index>3</index>
+            <phrase>වැඩක් නෑනේ.ජිනීවා වලදි වැඩේ වැරදුනානේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් පෙරේරා. (වෙරොනා)</author>
+            <date>2012-05-14 00:21:26</date>
+            <index>4</index>
+            <phrase>හමුවුනාට නමි කමක් නැහැ හැබැයි. නැමෙන්න යන්න එපා.මොකද මැයි 19යෙ වටිනාකම නැති‍වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-05-14 01:20:41</date>
+            <index>5</index>
+            <phrase>බලාගෙන ගියාම අපේ කට්ටිය මොළේ නැති රූකඩ වගේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-05-14 02:14:18</date>
+            <index>6</index>
+            <phrase>මම දන්න තරමට මේ දෙන්නා ඔක්ස්පර්ඩ් එකේ හොද යාළුවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමත්</author>
+            <date>2012-05-14 03:20:50</date>
+            <index>7</index>
+            <phrase>බලනකොට unp එක හොදනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2012-05-14 06:55:53</date>
+            <index>8</index>
+            <phrase>මේ කවුද මේ? අනේ අපේ රටට ගිය කල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිරිගෝරිස් අප්පුහාමී</author>
+            <date>2012-05-14 09:33:36</date>
+            <index>9</index>
+            <phrase>පරණ නිබන්ධන වගයක් ඉල්ලගන්නලු ගියේ .වැරදියට හිතන්න එපා හොඳඳ.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 16:04:19</date>
+            <index>10</index>
+            <phrase>මේ ගොල්ලෝ ලංකාවට වෙලා ඇමෙරිකාවට පලු පැලෙන්න බැන්නට හොරෙන් හොරෙන් ඇමෙරිකාව එක්කත් සම්බන්ධකම් පවත්වනවා. එහෙම තියෙද්දී නිකම් ගැලරිය පිනවන්න ඇයි ලොකු ටෝක් දෙන්නේ.. කියනකොට එහෙමයි කරනකොට මෙහෙමයි කියන්නේ මේ වගේ වැඩවලට තමයි.. කටේ නරිවාදම් රෙද්ද පල්ලෙන් වැක්කෙරෙනවා කියලත් කියනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

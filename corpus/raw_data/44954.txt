@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44954</articleId>
+    <title>පදියතලාව යලිත් හෙල්ලෙයි</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2012 මැයි මස 26 22:42:05</date>
+    <body>අද රාත්‍රී 9.50ට පමණ පදියතලාවට සුළු භූචලනයක් වූ බව පදියතලාව පොලීසිය කියයි.
+ශබ්දයක් සමග පොලොව හෙල්ලී ගිය බවත්, තත්ත්පර 30කට අඩු කාලයකින් සෙලවීම නැතිවූ බවත් රජයේ නිලධරයෝ කීප දෙනෙක් කීය.</body>
+    <comments>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-05-26 22:49:04</date>
+            <index>0</index>
+            <phrase>අපිවත් හෙල්ලුනා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-26 22:53:16</date>
+            <index>1</index>
+            <phrase>ඉදිරියටත් මේ වගේ දේවල් වෙන්න පුලුවන් සූදාම ඇගට ගුණයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-27 01:36:30</date>
+            <index>2</index>
+            <phrase>මිනිසුනේ පවි වලින් මිදෙන්න. පවි වලින් නිදහස්වෙන්න. මරණය සිහිකරන්න. සියල්ල අනිත්‍යයයි. අනිත්‍යයදේ පැමිණෙන කළ නිත්‍යය දේවන මරණය සිහිපත් කරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-27 07:56:43</date>
+            <index>3</index>
+            <phrase>අපේ රටට මොකද මේ වෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-05-27 14:54:10</date>
+            <index>4</index>
+            <phrase>මොකක්වත් දැනුනේ නෑ මට නම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

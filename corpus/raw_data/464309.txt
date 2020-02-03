@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464309</articleId>
+    <title>සිගරට් මිල ඉහළට</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2016 ඔක්තෝබර් මස 04 12:36:26</date>
+    <body>අද (4) මැදියම් රෑයේ සිටි සිගරට්  මිල රුපියල් 7 කින්  වැඩි වන බව මුදල් අමාත්‍යාංශය කියයි.</body>
+    <comments>
+        <comment>
+            <author>පුබුදු ප්‍රසන්න</author>
+            <date>2016-10-04 07:28:07</date>
+            <index>0</index>
+            <phrase>මෙය තව වැඩිවිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2016-10-04 07:40:06</date>
+            <index>1</index>
+            <phrase>අපි මේවාට උත්තර දෙන්නම් ඡන්දෙයක් ආපු දවසට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-10-04 07:45:16</date>
+            <index>2</index>
+            <phrase>කියන දේ කරන කරපු දේ කියන අපේම රජයකින් අප බලාපොරොත්තු වෙන්නේ මෙපමණයි. අපි කිසිවකු මෙයට විරුද්ධ නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2016-10-04 08:26:04</date>
+            <index>3</index>
+            <phrase>හරක් මරණ එක නවත්වන්න ඇයි ආණ්ඩුව උනන්දු නැත්තේ සිගරට් බොන්නේ බුද්දීමත්ම සත්වයා සිය කැමැත්තෙන් බුද්දීමත්ම සත්වයා තිරිසන් සතුන්ව මරන්නේ උගේ කැමැත්තෙන්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2016-10-04 09:18:20</date>
+            <index>4</index>
+            <phrase>දැන් කීයද සිගරට් එකක මිල ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නදීර</author>
+            <date>2016-10-04 09:25:33</date>
+            <index>5</index>
+            <phrase>මාර වැඩේ තමයි වුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාන්</author>
+            <date>2016-10-04 09:26:18</date>
+            <index>6</index>
+            <phrase>මේ කරපු දේ නම් ගොඩක් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන් ප්‍රියංක</author>
+            <date>2016-10-04 09:39:28</date>
+            <index>7</index>
+            <phrase>කී දෙනෙක් මේ දේට දොස් කියයිද දැන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේෂ් ඩුබායි</author>
+            <date>2016-10-04 09:50:33</date>
+            <index>8</index>
+            <phrase>දුම් වැටියටත් අපමණ අගයක් දුන්න එහෙනම්.... ඔබට සතුටුයිද දැන්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-10-04 09:57:18</date>
+            <index>9</index>
+            <phrase>ඇයි මේක තව වැඩිකරන්න බැරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා</author>
+            <date>2016-10-04 10:26:46</date>
+            <index>10</index>
+            <phrase>සිගරට්  මිල රුපියල් 7 කින්  වැඩි කරේ පැකට් එකකටද , නැත්නම් සිගරට්ටුවකටද ?\</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිනි</author>
+            <date>2016-10-04 11:00:41</date>
+            <index>11</index>
+            <phrase>ඕක වැඩි කලා කියලා බොන මිනිසා නොබී ඉන්නේ නැහැ හරිනම් සිගරට් එක රුපියල් 05 කට දෙන්න ඕනේ ඕක හදන්න යන්නේ රුපියල් 02 කයි මිනිසාගේ අවෂ්‍ය තාවයට සහනයක් දෙන එක රජයේ වගකීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

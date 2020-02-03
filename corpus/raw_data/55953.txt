@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55953</articleId>
+    <title>ලංකාව පාකිස්තානයේ හොඳම මිතුරෙක්</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූලි මස 29 12:36:22</date>
+    <body>ශ්‍රී ලංකාවට පාකිස්තානයෙන් සහය දිගටම ලැබෙනු ඇති බවට පාකිස්තානු අගමැති රාජා පර්වේස් අෂ්රෆ් මහතා පැවසීය. අනාදිමත් කාලයක සිට ශ්‍රී ලංකාව පාකිස්තානය හොඳ මිතුරන් යයි ඔහු කීවේය.
+ඔහු මේ බව කියා ඇත්තේ ශ්‍රී ලංකා පාකිස්තාන මහකොමසාරිස් ජයලත් වීරක්කොඩි මහතා සමග ඉස්ලාමාබාද් නුවරදී පැවැති හමුවකදීය.
+ශ්‍රී ලංකාව හා පාකිිස්තානය අතර වෙළෙඳ සබඳතා තවදුරටත් වැඩිදියුණු කර ගැනීමට අවකාශ ඇති බව ද ඔහු කියා තිබේ.
+දෙරටේ රජයයන් හා විවිධ ආයතන අතර ද්විපාර්ශවික සබඳතා තවත් පුළුල් කැර ගැනීමේ අවශ්‍යතාව ද ඔහු පෙන්වා දී ඇත.</body>
+    <comments>
+        <comment>
+            <author>රමන්</author>
+            <date>2012-07-29 17:16:30</date>
+            <index>0</index>
+            <phrase>අනේ කවුරුත් නැද්දෝ පකිද්තාන් අයට මුකුත් කියන්න..???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-07-30 12:04:20</date>
+            <index>1</index>
+            <phrase>ක්‍රිකට් ගහනකොටද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-07-30 14:52:16</date>
+            <index>2</index>
+            <phrase>ඉන්දියාව අපිත් එක්ක එච්චර හොද නැහැනේ ඒකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණරත්න</author>
+            <date>2012-07-30 20:53:56</date>
+            <index>3</index>
+            <phrase>ඔව් ඔබ අපට යුද්දෙදි හොඳින් උදව් කළා එයට ස්තුතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවීර</author>
+            <date>2012-07-30 23:23:46</date>
+            <index>4</index>
+            <phrase>අපේ රටට උදවු කළාට ස්තූතියි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයකොඩි</author>
+            <date>2012-08-01 18:31:48</date>
+            <index>5</index>
+            <phrase>ඉන්දියානු ආත්මාර්තකාමින්ට වඩා මෙයාලා හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-08-02 11:29:17</date>
+            <index>6</index>
+            <phrase>යුද්දෙදි ඉන්දියාව නිතරම අකුල් හෙලිවත් පකිස්ථානය චීනය චෙක් රාජ්‍යය චෙකොස්ලෝවැකියාව ඊශ්‍රයල් කියන රටවල් අපට නිතරම උදව් කළා. ඔබ සියල්ලන්ටම ස්තුතියි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිත්‍යා</author>
+            <date>2013-01-12 11:55:18</date>
+            <index>7</index>
+            <phrase>කොයි ඇයි හොඳයියත් වාසියට විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

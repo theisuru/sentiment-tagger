@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464566</articleId>
+    <title>ආනන්ද සමරසේකර නිවාඩු ගිහින්</title>
+    <author>රංජන් කස්තුරි</author>
+    <date>2016 ඔක්තෝබර් මස 04 17:53:29</date>
+    <body>තාජුදීන්ගේ ඇටකටු අනවසරයෙන් මාලබේ නෙවිල් ප්‍රනාන්දු පෞද්ගලික වෛද්‍ය විද්‍යාලයට ගෙන ගියැයි කියන කොළඹ හිටපු ප්‍රධාන අධිකරණ වෛද්‍ය නිලධාරී හා සයිටම් උප කුලපති ආනන්ද සමරසේකර නිවාඩු ලබා ගොස් ඇති බවත්, එම තනතුරේ වැඩ බැලීමට මාහාචාර්ය දීපාල වීරසේකර මහතා පත් කර ඇති බවත් එම ආයතනය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-10-04 15:53:25</date>
+            <index>0</index>
+            <phrase>අර ඉස්සර කාලේ වුණා වගේ පෙදරේරුවා තාප්පය ඇදට බැන්ඳාට වැරදිකාරයා හොයලා අන්තිමට පුරෝහිතයාව උල තියයිද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2016-10-04 17:10:21</date>
+            <index>1</index>
+            <phrase>අසනීප වෙන්න ඇති සමහරවිට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙෂාන්</author>
+            <date>2016-10-04 20:47:52</date>
+            <index>2</index>
+            <phrase>නිවාඩු ගියා කියලා වැරදි වලින් බේරෙන්න බැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල් රාජපක්ෂ</author>
+            <date>2016-10-04 20:48:14</date>
+            <index>3</index>
+            <phrase>දැන්ම නිවාඩු යන එක හොඳයි. මොකද ඉදිරියේදී චෝදනා වලට උත්තර දෙන්න බලාගෙන ඉන්න. මින්පස්සෙවත් ඔවැනි වැඩ කරන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයාත්</author>
+            <date>2016-10-05 00:51:00</date>
+            <index>4</index>
+            <phrase>ඇයි බයවුණාද? බයවෙන්න එපා සර්, තමන් නිවැරදි නම් මොකටද බයවෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසේන</author>
+            <date>2016-10-05 02:17:13</date>
+            <index>5</index>
+            <phrase>ඇයි එයාට නිවාඩු යන්න තහනමක් තිබෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-10-05 02:21:43</date>
+            <index>6</index>
+            <phrase>බය නැතුව නිවාඩු යන්න මහත්තයෝ. මේගොල්ලෝ හිතාගෙන ඉන්නේ පොලිසියෙන් ප්‍රශ්න කළ පමණින්ම වැරදිකාරයා කියලා. වැරදිකාරයා වෙන්න හෝ නොවෙන්න තව කොපමණ දේවල් වෙන්න තිබෙනවද. මේ නඩුවත් ඉවර වෙන්න තව අවුරුදු 10 ක්වත් යාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අංගොඩ ලාල්</author>
+            <date>2016-10-05 05:21:06</date>
+            <index>7</index>
+            <phrase>බමුණු ආරච්චිට වැරදිලා. දඬුවම් දෙන්න නඩුවක් අවශ්‍ය නැහැ. ඔහු රාජ්‍ය නිලධාරියෙක් හැටියට කරපු වැරදි වලට දඬුවම් කරන්න අදාළ ආයතන සංග්‍රහය අනුව පුළුවන්. ඔහුට එතනින් එහාට දඬුවම්දීමක් අවශ්‍ය නම් නඩු දාන්න පුළුවන්. මේවාගේ නඩුවලට ඉඩම් නඩු වගේ අවුරුදු දහයක් යන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝනාර</author>
+            <date>2016-10-05 06:31:10</date>
+            <index>8</index>
+            <phrase>අනේ ඔව්. බයවෙන්න කිසිම දෙයක් නැහැ. සාමාන්‍ය ජනයාගේ නඩු අහන විධියට ඇහුවොතින් නම් කොහොමත් තව වසර 10-15 ක් යාවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2016-10-05 06:32:15</date>
+            <index>9</index>
+            <phrase>නිඩාඩු යාමෙන්ම තේරෙනවා මුහුන දෙන්න බැරි තැනක් ඇති බව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

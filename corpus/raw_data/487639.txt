@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>487639</articleId>
+    <title>තමිල්නාඩුවට දින 7ක ශෝක කාලයක්</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 දෙසැම්බර් මස 06 10:27:31</date>
+    <body>තමිල්නාඩු මහ ඇමැතිනී ජයලලිතා ජයරාම්ගේ අභාවය හේතුවෙන් තමිල්නාඩු රජය දින හතක ශෝක කාලයක් ප්‍රකාශයට පත්කර ඇතැයි ඉන්දීය මාධ්‍ය වාර්තා කරයි.
+එම කාලයේ සියලු රජයේ ස්ථානවල ජාතික ධජය අඩකුඹු කොට තබන ලෙසත් කිසිදු විනෝදාත්මක වැඩසටහනක් නොපවත්වන ලෙසත් ප්‍රධාන ලේකම් පී.රාම මෝහන රාඕ නිවේදනයකින් සඳහන් කරයි.
+සියලු අධ්‍යාපන ආයතන සඳහා දින තුනක නිවාඩු කාලයක් ලබාදීමටද තමිල්නාඩු රජය පියවර ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2016-12-06 12:40:37</date>
+            <index>0</index>
+            <phrase>තමිල්නාඩුවේ පමණද ශෝක කාලය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබය</author>
+            <date>2016-12-07 07:16:28</date>
+            <index>1</index>
+            <phrase>දවස් හතෙන් නැවතුනා ඇති.... ඉන්දියන්කාරයෝ කොච්චර මෝඩද කියනවා නම් දේව චරිත රඟපාන නළු නිලියෝ ඇත්තටම දේවත්වයෙන් සළකනවා. පාරේදී දැක්කහම දිගාවෙලා වඳිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණුසිංහ</author>
+            <date>2016-12-08 05:36:05</date>
+            <index>2</index>
+            <phrase>අනේ මෙහෙම රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

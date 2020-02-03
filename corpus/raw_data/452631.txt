@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452631</articleId>
+    <title>දරුවන් 23 කට මරු කැඳවු විදුහල්පති වසර 17ක් සිපිරිගෙට</title>
+    <author>අරුණ ශාන්ත කුමාර</author>
+    <date>2016 අගෝස්තු මස 30 20:35:36</date>
+    <body>ඉන්දියාවේ නැගෙහිර බිහාර් ප්‍රාන්තයේ පාසලක දරුවන් 23 දෙනකු ආහාර විෂ වී මරණයට පත්වීම සම්බන්ධයෙන් එම පාසලේ විදුහල්පති වරයාට වසර 17ක සිට දඬුවමක් එරට අධිකරණය නියෝග කර ඇත. විෂ සහිත තෙල්වලින් ආහාර පිළියෙළ කිරීම සහ සාපරාධී මිනිමරීම විදුහල්පතිට එල්ල වූ චෝදනා වේ.  2013 මෙම මරණය සිදු වී ඇත.ධර්මසාති ගම්මානයේ එම දරුවන් පාසලේ දී සෝයා බෝංචි පරිභෝජනයෙන් පසු රෝගාතුර වී දින ගණනකට  පසුව මියගොස් ඇත.</body>
+    <comments>
+        <comment>
+            <author>රුචිර</author>
+            <date>2016-08-30 17:44:08</date>
+            <index>0</index>
+            <phrase>ඔය තෙල් ලංකාවට ගෙන්නාගන්න ක්‍රමයක් නැද්ද? ඕවා දෙන්න සුදුසු කට්ටියක් අපේ හිතේ ඉන්නවා. රටටම ඔවුන් ශාපයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කල්ප</author>
+            <date>2016-09-01 03:37:43</date>
+            <index>1</index>
+            <phrase>මෙහෙම මිනිසුන් අපි අතරත් ඉන්නවනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාරත්න</author>
+            <date>2016-09-01 03:31:25</date>
+            <index>2</index>
+            <phrase>මොන හිතකින් මෙහෙම අපරාධයක් කළාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>31252</articleId>
+    <title>‘රට වෙනුවෙන් අපි‘</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2012 මාර්තු මස 13 14:58:19</date>
+    <body>‘‘ජිනීවා කුමන්ත්‍රණ පරදවමු, රට වෙනුවෙන් එක්වෙමු‘‘ යන තේමා මුල් කරගනිමින් සමස්ත ලංකා සමෘද්ධි සංවර්ධන හා කෘෂිකර්ම පර්යේෂණ නිෂ්පාදන  සහාකාර නිලධාරී සංගමය කොළඹ ලිප්ටන් වටරවුමේ දී අද පැවැත්වීය.</body>
+    <comments>
+        <comment>
+            <author>godaya</author>
+            <date>2012-03-13 16:37:51</date>
+            <index>0</index>
+            <phrase>බොරු වැඩ. උගත් පාඩම් වාර්තාව ක්‍රියාත්මක කළා නම් ඉවරයිනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසාංග ලක්ෂිත</author>
+            <date>2012-03-13 20:33:38</date>
+            <index>1</index>
+            <phrase>මම මගේ රටට ආදරෙයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිල් කුමාර</author>
+            <date>2012-03-13 21:02:38</date>
+            <index>2</index>
+            <phrase>මෙයාල කරන්නේ රට වෙනුවෙන් අපි නෙවෙයි. එහෙම කරනවනම් අපිටත් පුළුවන් පෙරමුණ ගන්න. මේ කරන්නේ එක්තරා පිරිසක් රැකීම..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ෂංඛ</author>
+            <date>2012-03-13 21:09:23</date>
+            <index>3</index>
+            <phrase>මේවා ලංකාවෙ කරලා වැඩක් නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

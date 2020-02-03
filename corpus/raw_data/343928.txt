@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>343928</articleId>
+    <title>මට උඹ බරක් නොවේ</title>
+    <author>තිලකරත්න දසනායක</author>
+    <date>2015 අගෝස්තු මස 29 14:03:18</date>
+    <body>ඇසළ මංගල්‍ය ආරම්භ වීමත් සමග අලින්ට ඇතින්ට ඇත්තේ දැඩි අවිවේකි බවකි. ශ්‍රී ලංකාවේ විවිධ ප්‍රදේශවල පවත්වනු ලබන පෙරහර සඳහා ඔවුනට ගමන් කිරීමට සිදුව තිබේ. මේ දිනවල පැවැත්වෙන මහනුවර දළදා පෙරහැරේ ගමන් ගත් හස්තියකු ලැබුණු සුළු  විවේකයෙන් උපරිම ප්‍රයොජනය ගන්නේ තමා බලාගන්නා ඇත් ගොව්වාට ද තම සිරුර සැප යහනක් කර දෙමිනි.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2015-08-29 10:47:37</date>
+            <index>0</index>
+            <phrase>අලියාගේ ඇඟ උඩ නැඟගෙන උෟට රිදවනවට මේ පින්තුරය දකින සමහරුන්ට කේන්ති යන්නත් ඉඩ තියෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.එම්.පී.අබේරත්න</author>
+            <date>2015-08-30 07:58:39</date>
+            <index>1</index>
+            <phrase>නදී එහෙමනම් අලියාගේ පිටේ යන්න බැරි වෙයි ඌට රිදෙන නිසා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

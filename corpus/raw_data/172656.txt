@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>172656</articleId>
+    <title>ගරා යක් නැටුම</title>
+    <author>දීපාල් සිල්වා</author>
+    <date>2013 සැප්තැම්බර් මස 27 13:43:29</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ශාන්ත</author>
+            <date>2013-09-29 09:21:19</date>
+            <index>0</index>
+            <phrase>පැරණි සංස්කෘතිය රැකගැනීම බොහොම වටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

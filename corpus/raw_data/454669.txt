@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454669</articleId>
+    <title>චේගිරි පව්වටත් ගල් බෝර</title>
+    <author>චමිල් රූපසිංහ සෙනරත් බණ්ඩාර</author>
+    <date>2016 සැප්තැම්බර් මස 05 17:42:54</date>
+    <body>මහනුවර චේගිරි කන්දේ ඓතිහාසික ගල් ගුහාවක් ගල් වෙඩි කරුවන්ගේත්, නිධන් හාරන්නන්ගේත් තෝ තැන්නක් වී ඇතැයි පොලිසිය කියයි.
+ගල් පර්වත එසවීම සඳහා චේන් බ්ලෝකද ගෙනවුත් නිධන් හාරමින් සිටි පිරිසක් අත්අඩංගුවට ගත් බව දවුලගල පොලිසිය කියයි.
+හිටපු පුරාවිද්‍යා කොමසාරිස් ආචාර්ය සෙනරත් පරණවිතාන පවසා ඇත්තේ මෙම ස්ථානයේ බ්‍රහ්මි අක්ෂර ගල්වල කොටා ඇති බවයි.
+කටාරම් කොටු ගල්ද එම පෙදෙස රක්ෂිතයක් කර එහි ඇතුළු වීම සීමා කරන ලෙස ඔහු එදා පවසා ඇත.
+
+(ඡායාරූප චමිල් රූපසිංහ)</body>
+    <comments>
+        <comment>
+            <author>අනුල</author>
+            <date>2016-09-06 00:04:11</date>
+            <index>0</index>
+            <phrase>මෙන්න මේ අයයි පෝරකයට යවන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-09-06 02:40:22</date>
+            <index>1</index>
+            <phrase>ඉතුරුවෙලා තිබෙන සීමිත වටිනා ස්ථාන ටිකත් විනාශවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2016-09-06 03:00:07</date>
+            <index>2</index>
+            <phrase>මේවා පිටුපස වෙනත් කවුරුන් හෝ සිටීද? නැත්නම් මේ මිනිසුන්ගේ මෝඩකමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-09-06 03:42:07</date>
+            <index>3</index>
+            <phrase>මේ උදවියට දිය යුතු දඩුවම අනාගත පරපුර වෙනුවෙන් දිය යුතුමය. ජීවිතාන්තය දක්වා සිර දඩුවම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-09-06 04:04:53</date>
+            <index>4</index>
+            <phrase>මේව හොයනවට වඩා ලැම්බොගිනි පස්සෙ පන්නන්න තියෙනවනෙ අපේ අයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන් ඉන්ද්‍රසිරි</author>
+            <date>2016-09-06 04:49:28</date>
+            <index>5</index>
+            <phrase>මේ කරන්නේ අපේ ප්‍රෞඩ ඉතිහාසයක් මකා දමා වෙනත් ඉතිහාසයක් මේ දෙරණේ තිබූ බව අනාගතයට පෙන්වීමටයි. මේවා ගැන සිංහලයන් සිතිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-09-06 07:05:01</date>
+            <index>6</index>
+            <phrase>අද රටේ සිංහලයන් නැත .පාවාදෙන්නන් ඇත.අපේ පාර්ලිමේන්තුව පමණක් දවසක ඉතිහාසයට එක්වේවි ලොව වැඩිම මන්ත්‍රී වරු හිටපු එක හැටියට.රටේ ඉතිහාසය නැති වුනත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

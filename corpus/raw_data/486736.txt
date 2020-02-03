@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486736</articleId>
+    <title>'දුප්පත්කමත් වලිගය නැති ගොනා වැනි'</title>
+    <author>එම්ඩබ්ලිව් සෝමරත්න</author>
+    <date>2016 දෙසැම්බර් මස 02 15:32:59</date>
+    <body>හාම්පුතා සමග ආ බාලවයස්කාර පිරිමි දරුවකු බඩු මල්ලද සමග කාරයේ බඩු දමන කොටසට දැමූ සැටි මාතලේ ඔරලෝසු කණුව අසලදී අද උදේ දැකගත හැකි විය.
+බාල වයස්කරුවන් මෙහෙකාර සේවයට යොදාගැනීම හා තුන්වැනි පන්තියේ සැලකිලි දැක්වීම ගැන හාම්පුතා වගකිව යුතුයැයි මේ සිද්ධිය දුටු බොහෝ දෙනෙක් කීහ.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-12-02 10:17:03</date>
+            <index>0</index>
+            <phrase>සත්තු වගේ මිනිස්සු මොනතරම් නම් ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-12-02 10:26:56</date>
+            <index>1</index>
+            <phrase>මේක කාටවත් පොලිසියට කියන්න බැරිවුණාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2016-12-02 10:37:01</date>
+            <index>2</index>
+            <phrase>පව් දෙයියනේ මේ දරුවා.! බාලවයස්කාර දරුවන් මෙහෙකාරකමට තබා ගැනීම නීතියෙන් තහනම් නැද්ද ලංකාවේ? පාසල් අධ්‍යාපනය ලබන වයසක පසුවෙන මේ දරුවාව මෙහෙකාරකමින් මුදවා සුදුසු පියවරක් ගන්න පුළුවන් කෙනෙක් වේ නම් බොහෝ පින් සිදුවෙන පුණ්‍යකර්මයක් වෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-12-02 10:37:26</date>
+            <index>3</index>
+            <phrase>වහාම මොහුව නීතිය හමුවට ගෙනෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් රණසිංහ පැරිස්</author>
+            <date>2016-12-02 10:44:50</date>
+            <index>4</index>
+            <phrase>මේ අපේ ස්වර්ණ භූමියයි. සසර වසනතුරු නිවන් දකිනතුරු පින් කෙත හෙළ රන් දෙරණේ යළි උපදින්නට හේතු වාසනා වේවා හේතු වාසනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-12-02 10:46:44</date>
+            <index>5</index>
+            <phrase>අර අහිංසක ළමයව කාරෙකේ ඉන්ඳවාගෙන ගියා නම් මොනවා වෙනවද? මේ වගේ අයට දැඩි දඬුවම් දෙන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-12-02 10:49:31</date>
+            <index>6</index>
+            <phrase>බාලවයස්කාර දරුවන් මෙහෙකාර සේවයේ තබාගැනීම නීතිමය වශයෙන් වරදකි. නමුත් මිනිසත් බව ලබා මෙවැනි කුඩා දරුවන්ගෙන් වැඩ ගැනීම කෙසේ කරන්නේදැයි හිතාගන්නටවත් බැරිය. තමන්ගේ පුතෙක් නම් ඔහු මෙසේ කරයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-12-02 10:55:39</date>
+            <index>7</index>
+            <phrase>මේ හාම්පුතවත් ඔය කිට්ටුව තියෙන පොලිස් ජීප් එකේ පිටිපස්සට ඔබන්නනේ තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-12-02 11:02:25</date>
+            <index>8</index>
+            <phrase>අමනුස්සයෙක්. නැතිබැරිකම් තිබුනට මේ පොඩි එකාව සීට් එකට නග්ගන්ඩ බැරි මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරාම්</author>
+            <date>2016-12-02 11:10:30</date>
+            <index>9</index>
+            <phrase>මේක අධිකරණ ක්‍රියාමාර්ගයක් ගත හැකි වැරද්දක් බලධාරියෝ නිහඬයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුබසිංහ</author>
+            <date>2016-12-02 11:15:42</date>
+            <index>10</index>
+            <phrase>ඉගෙන ගත්තත්, කොපමණ පොහොසත් උනත් කිසිම වැඩක් නැත. තවත් මිනිසෙකුට සලකන විදිය දැක්කම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-12-02 11:23:09</date>
+            <index>11</index>
+            <phrase>මේ නෙව්ස් එක 2492 ක් බැලුවත් එක කොම්මෙන්ට් එකක්වත් දානන හිතිලා නෑ. මේ වගේ දෙකට නීතිමය පියවර ගන්න බයද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2016-12-02 11:27:08</date>
+            <index>12</index>
+            <phrase>මේ දරුවාට නීතියේ සරණක් ලැබේවායි පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2016-12-02 11:31:02</date>
+            <index>13</index>
+            <phrase>මෙම ක්‍රියාව කිසිසේත්ම අනුමත කල නොහැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආශා</author>
+            <date>2016-12-02 11:34:07</date>
+            <index>14</index>
+            <phrase>කාර් එකේ නොම්මරය තිබුනානම් සිද්දීයේ වටිනාකම වැඩියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් චන්දන</author>
+            <date>2016-12-02 11:49:40</date>
+            <index>15</index>
+            <phrase>මේවගේ ඔලුව ඉදිමුන සල්ලිකාරයෝ කොච්චරනම් ඉන්නවද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2016-12-02 12:04:35</date>
+            <index>16</index>
+            <phrase>අංක තහඩුවත් එක්ක තමයි දාන්න තිබුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-12-02 12:08:45</date>
+            <index>17</index>
+            <phrase>අනුමත කල නොහැකි කැත වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-12-02 12:19:19</date>
+            <index>18</index>
+            <phrase>සුබසිංහ , ඉගෙනගන්නවා කියන්නේ පොතෙන් විතරක්ම නෙමෙයි. අද අපේ අධ්‍යාපන ක්‍රමය කරන්නේ අනාගත පරපුරම පොතේ උගතුන් විතරක් කරන එක. සමාජයට ඒ අයගෙන් ප්‍රජෝයනයක් වෙයිද කියල සැකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2016-12-02 12:25:59</date>
+            <index>19</index>
+            <phrase>ඇයි මේ වැඩේ කරපු කෙනාගේ මුහුණ නැත්තෙ. අනිවාර්යෙන්ම මේ වගෙ වැරදි වලට දඩුවම් ලබාදිය යුතුමයි. ළමා මෙහෙකාර සේවය නැවත්විය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-12-02 12:45:37</date>
+            <index>20</index>
+            <phrase>මගේ පුතාත් පොඩිකාලේ බොහෝවිට ඔතැන යන්න ආසයි. මේ ගැන තව ටිකක් සොයා බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2016-12-02 13:24:54</date>
+            <index>21</index>
+            <phrase>මේ මනුස්සයගෙ මුහුණ දැම්මා නම් තමයි හොඳ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුෂ්පකුමාර</author>
+            <date>2016-12-02 13:36:07</date>
+            <index>22</index>
+            <phrase>අනේ මේකට නම් බලු කූඩුවේ දමන්නම ඕනෑ. හාම්පුතාගේ බඩ නම් ලොකුයි මොළය කුඩායි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2016-12-02 13:52:50</date>
+            <index>23</index>
+            <phrase>අපේ ගෙදර ළමයිනුත් සමහරවෙලාවට ඩිකියේ යනවා. ලොකුම වැරැද්ද නෝ පාකින් තැනක පාර්ක් කරපු එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංසි</author>
+            <date>2016-12-02 14:17:22</date>
+            <index>24</index>
+            <phrase>මෙයට ගත් පියවර කුමක්ද? ළමා ආරක්ෂණ අධිකාරියට දැනුම්දීමට උත්සාහ කළයුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙන්ඩිස්</author>
+            <date>2016-12-02 14:44:13</date>
+            <index>25</index>
+            <phrase>මේක ලංකාවේ නැතිකරන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉද්ද</author>
+            <date>2016-12-02 15:26:22</date>
+            <index>26</index>
+            <phrase>ලංකාවේ මිනිසුන්ගේ තිරිසන් ආකල්ප හොඳට පැහැදිලියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-12-02 15:31:34</date>
+            <index>27</index>
+            <phrase>මම හිතන්නේ මේ මනුස්සයාව පුංචි කාලේදී දහම් පාසලකට යවන්න නැතුව ඇති. එ්කයි තිරිසන් ගති පැවතුම් වලින් පොහොසත් වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-12-02 15:51:10</date>
+            <index>28</index>
+            <phrase>කතාකළොත් බුදුබණ, ජාතිය, ආගම. එහෙත් ක්‍රියාව අන්ත තිරිසන්. සතුන්ටත් අන්තයි. මේ පාහර ක්‍රමයම අතුගාලා දානතුරු මේවා ඔහොම තමා. ඔය බොහෝ අය හිතා ඉන්නේ දුප්පත් වුණාම නිදාගන්න ඕනෑ බිම, ඉඳගන්න ඕනෑ බිම, වැසිකිළි යන්න ඕනෑ එළියේ තියෙන පොදු ඒවට... දන්නේ නැහැ මනුස්සයෝ කියන්නේ කවුරුත් එකයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීම්</author>
+            <date>2016-12-02 16:11:39</date>
+            <index>29</index>
+            <phrase>වැඩේ වැරදියි. නමුත් මෙවැනි අහිංසක දරුවන් කොතෙක් නම් අදහස් දක්වන අයගේ පෙදෙස්වල ඇද්ද? ඒවා තමන්ට පෙනෙන්නේ නැත. එදාවේල කන්න නැති දරුවන් මොනදේ කරලා හරි කුසගින්න නිවාගන්න බලන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2016-12-02 16:16:10</date>
+            <index>30</index>
+            <phrase>උගතුන් තරම් කුහකයෝ වෙන කොයින්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2016-12-02 20:09:49</date>
+            <index>31</index>
+            <phrase>මෙහෙමත් කැත මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත් ගුණවර්ධන ස්විස්</author>
+            <date>2016-12-02 20:21:20</date>
+            <index>32</index>
+            <phrase>හාම්පුතා නම් තිරිසන් අමනුස්සයෙක්. දියුණු බටහිර රටක මෙය වුණා නම් හාම්පුතා කූඩුවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංගන</author>
+            <date>2016-12-02 22:23:05</date>
+            <index>33</index>
+            <phrase>සල්ලිකාර මෝඩයෝ කියන්නේ මොවුන්ට. මනුස්සකමක් නැති මිනිස්සු. හරක් කියන එක හරකුන්ටත් කරන නිගාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන් ප්‍රියන්ත</author>
+            <date>2016-12-03 04:53:01</date>
+            <index>34</index>
+            <phrase>අනිවාර්යයෙන්ම මෙවන් මිනිස්සුන්ට දඩුවම් දෙන්න ඕන . ළමා හා කාන්තා අමාත්යංශය මේ ගැන සොයා බැලිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-12-04 13:32:04</date>
+            <index>35</index>
+            <phrase>මේ අය නීතියෙන් දැඩි දඩුවම් දෙන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

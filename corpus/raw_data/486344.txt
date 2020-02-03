@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>486344</articleId>
+    <title>කතළුව දුම්රිය උප ස්ථානාධිපතිට මැර ප්‍රහාරයක්</title>
+    <author>අමිල මධුශංක සිරංගිකා ලොකුකරවිටජායාරූප ක්‍රිෂාන් ජිවක ජයරුක්</author>
+    <date>2016 දෙසැම්බර් මස 02 07:46:00</date>
+    <body>මැර පිරිසක් කතළුව දුම්රිය පොළේ උප ස්ථානාධිපතිට පහර දී ඇතැයි පොලිසිය කියයි. මගීන් පිරිසක් ද පළවා හැර ඇති බවත් පොලිසිය සඳහන් කරයි. ප්‍රහාරයෙන් පසුව උප ස්ථානාධිපති දුම්රිය පොළ වසා රෝහල්ගත වී ඇතැයි ද දුම්රිය ආරංචි කියයි.
+
+
+ජායාරූප - ක්‍රිෂාන් ජිවක ජයරුක්</body>
+    <comments>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-12-02 03:55:02</date>
+            <index>0</index>
+            <phrase>නීතිමගින් කටයුතු කරන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2016-12-02 04:25:47</date>
+            <index>1</index>
+            <phrase>රණ්ඩු සරුවල් වලින් අපිට වැඩක් නැහැ ඉතාම සුන්දර දසුනක් අපි මෙහෙ ඉදන් රස විදිනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2016-12-02 05:24:47</date>
+            <index>2</index>
+            <phrase>වැරදි ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරුණාජිව</author>
+            <date>2016-12-02 06:25:37</date>
+            <index>3</index>
+            <phrase>පුද්ගලික බස් වර්ජනයට සම්ම්බන්ධ කට්ටිය තමයි ඕව කරන්නේ ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මික</author>
+            <date>2016-12-02 07:31:11</date>
+            <index>4</index>
+            <phrase>කෙලින්ම අත්අඩංගුවට ගන්න.කවදාවත් අහිංසක මිනිස්සු වෙනුවෙන් වැඩවර්ජන කරන්නේ නැහැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2016-12-02 07:44:16</date>
+            <index>5</index>
+            <phrase>මොනවද මේ මිනිසුන්ට වෙලා තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

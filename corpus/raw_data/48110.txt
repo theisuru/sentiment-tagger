@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48110</articleId>
+    <title>දික්වැල්ල ගින්න වහා නිවයි</title>
+    <author>එස් ගලප්පත්ති</author>
+    <date>2012 ජූනි මස 14 11:16:16</date>
+    <body>දික්වැල්ල ප්‍රාදේශීය ලේකම් කර්යාලයයේ විදුලි කාන්දුවකින් ඇතිවූ ගින්නක් ක්ෂණිකව නිවා ලොකු හානියක් වළක්වා ගැනීමට එහි නිලධරයෝ සමත් වූහ.
+ලිපි ලේඛන වලට හෝ කාර්යාලයට හෝ හානි සිදුව නැතැයි දැන ගන්නට ඇත.</body>
+    <comments>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-06-14 11:23:48</date>
+            <index>0</index>
+            <phrase>තම තමන්ගේ ගිනි නිවාගන්න දික්වැල්ලේ මිනිසුන්ට පුළුවන් නම් අනෙක් අය හැම දේටම රජයට බනින එක තමයි තේරුම් ගන්න අපහසු. තම තමන් ස්වේච්චාවෙන් දේවල් කර ගන්නවනම් තමා හොඳ රජයට බනින්නේ නැතිව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-06-14 12:32:59</date>
+            <index>1</index>
+            <phrase>ඕන දේකට තමන්ගේ දැන උගත්කම පෙන්නන්න හදචන එක හීන මානයක් ආචාර්යතුමෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සකලබුජං</author>
+            <date>2012-06-14 11:58:52</date>
+            <index>2</index>
+            <phrase>අනේ මගේ සුරුට්ටුව පත්තුකරගන්න බැරි උනෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-14 13:28:15</date>
+            <index>3</index>
+            <phrase>ගින්නක් ඇති උනාම කවුද බල බල ඉන්නෙ.. පුළුවන් තරම් වෙර වීරිය යොදා එහ්ක නිවන්න බලනවා මිස...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇටිකිච්චා</author>
+            <date>2012-06-14 17:56:01</date>
+            <index>4</index>
+            <phrase>ආචාර්ය සුජිත් නිශාන්ත හේවගේ 2012-06-14 11:23:48 "තම තමන් ස්වේච්චාවෙන් දේවල් කර ගන්නවනම් තමා හොඳ රජයට බනින්නේ නැතිව." හරියට තමන් ස්වේච්ඡාවෙන් ආචාර්යකමක් දා ගත්තා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසීර්</author>
+            <date>2012-06-14 20:49:43</date>
+            <index>5</index>
+            <phrase>මරැ ආචාර්යතුමා යන්නෙ කොහෙද මල්ලෙ පොල්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

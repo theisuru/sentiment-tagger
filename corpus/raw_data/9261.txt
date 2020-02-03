@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>9261</articleId>
+    <title>මුහුදු රකුසා කල්මුණේට පනී</title>
+    <author>අම්පාර වාර්තාකරු</author>
+    <date>2011 ඔක්තෝබර් මස 16 14:20:14</date>
+    <body>කල්මුනේ මුහුදු  කෑම දරුණු වී තිබේ. දැනට පොල්ගස් 40ක් පමණ මුහුදට සේදී ගොසිනි. ගොඩබිම තිබූ ළිං කිහිපයක් ද දැන් මුහුදේය.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2011-10-17 08:21:06</date>
+            <index>0</index>
+            <phrase>රටේ සිදු වෙන දෙවල් වලට සොභාදහමෙන් බැබෙන ප්‍රතිචාර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>495116</articleId>
+    <title>සරත් කුමාර ගුණරත්න රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා නිරංගි අබේවික්‍රම ඡායාරූප හා වීඩියෝ - ලහිරු හර්ෂණ</author>
+    <date>2017 ජනවාරි මස 02 14:43:50</date>
+    <body>මීගමු කලපු සංවර්ධනයට වෙන් කළ රුපියල් ලක්ෂ 120ක් සාවද්‍ය පරිහරණය කළැයි රහස් පොලිසියෙන් අත්අඩංගුවට ගත් හිටපු ඇමැති සරත් කුමාර ගුණරත්න  ලබන නව වැනිදා තෙක් රිමාන්ඩ් කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ලාල් බණ්ඩාර මහතා අද නියෝග කළේය.
+සැකකරු අසනීපයෙන් සිටින බැවින් ඇප ලබා දෙන ලෙස ඔහුගේ නීතීඥයන් කළ ඉල්ලීම ලබන අට වැනි දා සලකා බලන බව මහේස්ත්‍රාත්වරයා කීවේය.
+රහස් පොලිසිය ඔහු අත්අඩංගුවට ගත්තේ අද උදෑසනය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>නාමල්</author>
+            <date>2017-01-02 09:41:40</date>
+            <index>0</index>
+            <phrase>වස්තියක්වත් දීලා බලමුද? මෙයාලට හැදෙන්නේ හොයාගන්න බැරි ලෙඩනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන් මොහමඩ් -රියාද්</author>
+            <date>2017-01-02 10:05:41</date>
+            <index>1</index>
+            <phrase>තෝරු මෝරු බැරි නම් හාල්මැස්සෙක්වත් අරන් ජාමෙ බේරගන්න එපායැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2017-01-02 10:36:49</date>
+            <index>2</index>
+            <phrase>මෙයත් "වැලිකඩ බණ්ධනාගාර හෝටලයේ" ඇඳක් කලින්ම බුක් කරලා වගේ. මේ රටට ඕනෑ අර පිලිපීන ජනාධිපති වගේ නායකයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2017-01-02 23:27:31</date>
+            <index>3</index>
+            <phrase>තාජුඩීන් මරපු අය ගන්නේ කවදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

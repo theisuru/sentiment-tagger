@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>271412</articleId>
+    <title>වැවත් පිරේ හිතත් පිරේ</title>
+    <author>රොමේෂ් මධුසංක</author>
+    <date>2014 ඔක්තෝබර් මස 26 14:30:22</date>
+    <body>ගිය වසරේ දෙසැම්බරයෙන් පසු වන්නි දිස්ත්‍රික්කයට සැලකිය යුතු වැස්සක් ලැබුණේ දස මාසයකට පසුවය. සිඳී ගිය වැව් අමුණුද වේලී අඩපණවී ගිය ගොවියෝද එයින් අස්වැසිල්ලක් ලැබූහ. වැව් පිරීමත් සමඟ අඩාලවී ගිය ගොවිතැන් යළිත් ඇරඹීමට හැකිවෙතියි ගොවියෝ සතුටින් සිටිති. දීපාවලී උත්සවයෙන් පසු ඊළඟ කන්නයට වැස්ස වළාහක දෙවියන්ගේ ආශීර්වාදය ලැබී ඇතැයි ගොවියෝ කියති.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-10-26 10:53:52</date>
+            <index>0</index>
+            <phrase>සැමදා නියං එකදා වැහි වලාවේ කියන්නේ ඕකට තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක - බදුල්ල</author>
+            <date>2014-10-26 11:39:05</date>
+            <index>1</index>
+            <phrase>මනුෂ්‍යයා ස්වාභ ධර්මයාට යුතුකම් ඉටු කරන ආකාරයටම ස්වාභව ධර්මයා මනුෂ්‍යයාට යුතුකම් ඉටු කරනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශ්ශංක</author>
+            <date>2014-10-26 15:51:32</date>
+            <index>2</index>
+            <phrase>මනුෂ්‍යයා ස්වභාව ධර්මයාට යුතුකම් ඉටුකරන ආකාරයටම ස්වභාව ධර්මයා මනුෂ්‍යයාට යුතුකම් ඉටුකරනු ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>504091</articleId>
+    <title>හෘදයාබාදයට රු 120,000 ක බෙහෙතක් ගෙන්වයි</title>
+    <author></author>
+    <date>2017 පෙබරවාරි මස 05 11:11:58</date>
+    <body>හසිදි හෘදයාබාදයක් ඇති වුවහොත් පැය තුනක් ඇතුළත ප්‍රතිකාර කර රෝගියා බේරාගත හැකි ඖෂධයක් විදේශීය රටකින් ආනයනය කිරීමට සැරසෙන බව සෞඛ්‍ය අමාත්‍යංශය කියයි.
+විශේෂඥ වෛද්‍යවරුන් පිරිසක් මෙම ඖෂධය ගැන සෞඛ්‍ය ඇමැතිවරයාගේ අවධානයට යොමු කර තිබේ.
+මෙම ඖෂධය දැනට රුපියල් 120000කට අලෙවි වන බවත්, එය අඩු මිලට ආනයනය කිරීමට සාකච්ඡා කරන බවත් සෞඛ්‍ය අමාත්‍යංශය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-02-05 08:04:34</date>
+            <index>0</index>
+            <phrase>මවුන්ට් එලිසබත් යන්න වෙලාව තිබුනොත් හොඳටම ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2017-02-05 09:31:23</date>
+            <index>1</index>
+            <phrase>අපේ ඇමතිතුමාලත් එකක් අරන් තියාගනීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2017-02-05 10:25:30</date>
+            <index>2</index>
+            <phrase>කාට හරි කියන්න පුලුවන්ද මේ බෙහෙතේ නම මොකක්ද කියලා. ගොඩක් ස්තුතියි ඔබට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ජය</author>
+            <date>2017-02-05 10:30:30</date>
+            <index>3</index>
+            <phrase>ජීවිතයක් බේරාගැනීමට 120000 ප්‍රශ්නයක් නොවේ. පිහි පාරින් කඩුවෙන් කොටා හෝ වෙඩි පහරින් මිනිස් ඝාතන බහුලව සිදුවන රටක එවැනි ජීවිත රැකදීමට තරම් බලවත් ආරක්ෂාවක් නොමැතිකම හමුවේ රටවැසියන් අසරණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2017-02-05 10:55:00</date>
+            <index>4</index>
+            <phrase>මේවා ඇහුවට පස්සෙනේ නැති හෘදයාබාධ හැදෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාසිරි</author>
+            <date>2017-02-05 11:13:13</date>
+            <index>5</index>
+            <phrase>මෙයින් පෙති දෙක ගානේ එක ලෙඩෙකුට දෙන්න වෙනවා. එක පෙත්තක් හෘදයාබාධය වැළඳෙනවිට සහ ඊළඟ පෙත්ත මේකේ මිල ගැන අහලා හැදෙන හෘදයාබාධය සඳහා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න බුවනක</author>
+            <date>2017-02-05 14:47:58</date>
+            <index>6</index>
+            <phrase>ගණන අැහුවම නැති හෘදයාබාධත් හැදෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18686</articleId>
+    <title>නායකයාට අතදී විපක්ෂය ගොඩ ගන්න</title>
+    <author>ආරියරත්න රණබාහු</author>
+    <date>2011 දෙසැම්බර් මස 21 16:46:19</date>
+    <body>මහින්ද රාජපක්ෂ ජනපති අය වැය පිළිතුරු කතාව කිරීමට අද පස්වරු 4.30ට පාර්ලිමේන්තුවට ආයේය. පක්ෂයේ ව්‍යාවස්ථානුකුලව තෝරාගත් නායකයා පිළිගෙන ශාක්තිමත්  විපක්ෂයක් ඇති කැර ගන්නැයි ජනපති කීවේය. විපක්ෂය දැන් ශක්තිමත් නැතැයි ද ජනපති සඳහන් කෙළේය. මාධ්‍යවේදීනට සහන මිලට වාහන මිලට ගැනීම සඳහා වන අවුරුදු 25 කාලසීමාව අවුරුද18 දක්වා අඩුකරන බව ජනපති කීවේය.</body>
+    <comments>
+        <comment>
+            <author>නුවන්</author>
+            <date>2011-12-21 16:52:39</date>
+            <index>0</index>
+            <phrase>හො</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්මිකා හෙට්ටිආරච්චි - කුවේට්</author>
+            <date>2011-12-21 17:28:32</date>
+            <index>1</index>
+            <phrase>වැටුන වලෙන් ගොඩ ගන්න. ඔබට පින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

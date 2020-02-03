@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>359931</articleId>
+    <title>සෝභිත හිමිට පින් පතා පහන් පූජාවක් පැරිසියේ</title>
+    <author>පැරිසියේ සුනිල් ආනන්ද</author>
+    <date>2015 නොවැම්බර් මස 09 20:56:35</date>
+    <body>අපවත්වී වදාළ මාදුළුවාවේ සෝභිත හිමියන්ට  පිං අනුමෝදන් කිරීමේ පහන් පූජාවක් පැරීසියේ රිපබ්ලික් හීදී ප‍්‍රංශයේ ජාතික නිවාඩු දිනයක් වූ නොවැම්බර් මස 11 වෙනි බදාාදා සවස 04ට පැවැත්වේ. පැරිස් එකමුතුව විසින් සංවිධානය කරන මෙම පිංකමට සුදුවතින් සැරසි සහභාගි වන මෙන් පැරීසියේ ශ්‍රී ලාංකිකයනට දන්වා සිටියි.
+ </body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්ක</author>
+            <date>2015-11-09 17:53:03</date>
+            <index>0</index>
+            <phrase>අපවත් වී වදාළ සෝභිත නාහිමිට අමාමහ නිවන් සුවය පතමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ කුමාර් මෙන්ඩිස්</author>
+            <date>2015-11-10 06:50:51</date>
+            <index>1</index>
+            <phrase>මාදුළුවාවේ සෝභිත ස්වාමින් වහන්සේට, උන්වහන්සේ ප්‍රාර්ථනා කළා වූ බෝධියකින් උතුම් වූ නිර්වාණ සුවය අත් වේවා යි ප්‍රාර්ථනය කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2015-11-10 07:20:59</date>
+            <index>2</index>
+            <phrase>ඔබ වහන්සේ අපේ රට බේරා ගැනීමට කරන ලද මෙහෙය නිසා රටේ ඇතිවීමට තිබු මහා රුධිර ගංගාවක් නැවතුණි. එම පුන්‍යකර්මයෙන්ම ඔබවහන්සේට නිවන්මගේ දොරටුව විවරවෙවා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකි</author>
+            <date>2015-11-10 10:10:33</date>
+            <index>3</index>
+            <phrase>ප්‍රංශයේ වෙසෙන ශ්‍රි ලාංකිකයනි ඔබට මාගේ ස්තුතිය මේ මහඟු පිංකමට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2015-11-10 14:25:45</date>
+            <index>4</index>
+            <phrase>ඔබ වහන්සේට නිවන්සුව පතමු .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2015-11-10 14:29:02</date>
+            <index>5</index>
+            <phrase>සාදු...සාදු ....සාදු ..නිවන්සුව ලැබෙවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දික</author>
+            <date>2015-11-10 14:35:46</date>
+            <index>6</index>
+            <phrase>මැත ඉතිහාසයේ මෙලොව පහල වු වීර යතිවර යා ඔබයි සමිඳුනේ ඔබට‍ නිවන්සුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2015-11-10 14:38:01</date>
+            <index>7</index>
+            <phrase>සෝබිත හිමියනි ඔබට නිවන්සුව හිමිවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2015-11-10 22:35:43</date>
+            <index>8</index>
+            <phrase>පැරිස් මිතුරන්ට ස්තූතියි. ඔබවහන්සේට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2015-11-11 18:28:53</date>
+            <index>9</index>
+            <phrase>සෝභිත හිමියනි,ඔබට නිවන් සුව අත්වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

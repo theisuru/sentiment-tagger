@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>36325</articleId>
+    <title>සියවස් දෙකක මාතර පෙරහැර</title>
+    <author>ක‍්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 අපේ‍්‍රල් මස 13 14:57:53</date>
+    <body>197 වැනි අවුරුදු පෙරහැර මාතරදී අද වීධි සංචාරය කළේය. බ්‍රිතාන්‍ය යුගයේ සිට අඛණ්ඩව පැවැත්වෙන එකම අවුරුදු පෙරහැර මෙයයි.
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-04-13 16:03:48</date>
+            <index>0</index>
+            <phrase>මම අද තමයි මෙහෙම පෙරහැරක් ගැන දන්නේ. ලංකාදීපයට ගොඩක් පින්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එච් ඒ ඩී නිරෝෂණ</author>
+            <date>2012-04-14 09:49:29</date>
+            <index>1</index>
+            <phrase>අපේ දේවල් ඉදිරියට රැකගෙන, මේ වගේ උත්සව කිරීම ගැන සතුටු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිස්සංක</author>
+            <date>2012-04-14 12:43:50</date>
+            <index>2</index>
+            <phrase>මාතර ජනතාව හොඳයි. මෙය තරුණ පරම්පරාව සමග ඉදරියට කරගෙන යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

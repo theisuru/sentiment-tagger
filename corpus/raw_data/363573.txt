@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>363573</articleId>
+    <title>ජම්මුකාශ්මීර දෙවොලට ගිය හෙලිකොප්ටරය කඩා වැටේ</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 නොවැම්බර් මස 23 19:07:47</date>
+    <body>ඉන්දියා රජයේ පාලනය යටතේ පවතින කාශ්මීරයේ හින්දු දෙවොලකට වන්දනාකරුවන් රැගෙන යමින් සිටි හෙලිකොප්ටරයක් කඩා වැටී වන්දනාකරුවන් 7 දෙනකු මිය ගිය බව පොලිසිය කියයි.
+හෙලිකොප්ටරය බිමට බස්වද්දී ගිනිගත් බවත් සහන සේවකයන් වන්දනාකරුවන් 6 දෙනකුගේ හා නියමුවාගේ සිරුර සොයාගත් බවත් පොලිසිය පවසයි.
+මහා ලක්ෂ්මී දෙවඟන වෙනුවෙන් කැපවූ මේ දෙවොලට වසරකදී කෝටියක් වන්දනාකරුවන් යන බව ඉන්දියාව කියයි. දෙවොල අඩි 5360 ක් උසැති හිමාලයේ ගුහාවක ඇති බවත් එම ප්‍රදේශය ජම්මුකාශ්මීර ප්‍රාන්තයේ උතුරු ජම්මු ප්‍රදේශයේ සිට කිලෝමීටර් 50 ක් ඈතින් පිහිටි බවත් කියති.</body>
+    <comments>
+        <comment>
+            <author>සහන්</author>
+            <date>2015-11-24 01:23:49</date>
+            <index>0</index>
+            <phrase>අනේ දෙවියනේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2015-11-24 03:22:15</date>
+            <index>1</index>
+            <phrase>යාන්ත්‍රික දෝෂ කාටවත් වළක්වන්න බැහැ කියන එක තමයි මේ දේවල් වලින් පෙන්නුම් කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවති</author>
+            <date>2015-11-24 07:12:23</date>
+            <index>2</index>
+            <phrase>මේ හෙලිකොප්ටරය ගෙදර හදපු එකක් වගේ ..ඉතින් කාර්මික දෝෂ ඇතිවෙනවා තමා..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝරි</author>
+            <date>2015-11-24 10:53:02</date>
+            <index>3</index>
+            <phrase>පකිස්තාන සිමාවෙනේ තියෙන්නේ ඉතින් වෙඩි තිබ්බද දන්නේ නැනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

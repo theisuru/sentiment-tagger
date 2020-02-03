@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15015</articleId>
+    <title>මාතර වෛද්‍යවරුත් වර්ජනයේ</title>
+    <author>මාතර ක‍්‍රිෂාන් ජිවක ජයරුක්</author>
+    <date>2011 නොවැම්බර් මස 29 09:33:21</date>
+    <body>මාතර මහ රෝහලේ වෛද්‍ය ජානකී බන්දුසේන මහත්මියගේ මරණයට වගකිවයුතු පෞද්ගලික බස් රියදුරා අත් අඩංගුවට ගන්නැයි කියමින් එහි වෛද්‍යවරුද වෘත්තිය සමිති 14ක නියෝජිතයෝද අද සංකේත වර්ජනයක් ඇරැඹූහ.
+සෝමාවතී මාතර පෞද්ගලික බසයක් මාතර තල්අරඹේදී ඉකුත් 24දා ටිපර් රියක ගැටීමෙන් වෛද්‍යවරිය මියගියාය.</body>
+    <comments>
+        <comment>
+            <author>රුවන් පෙරේරා</author>
+            <date>2011-11-29 10:17:49</date>
+            <index>0</index>
+            <phrase>අපේ රටේ ඉන්න සමහර දොස්තරවරු විහිළු කරන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනපාල</author>
+            <date>2011-11-29 11:47:31</date>
+            <index>1</index>
+            <phrase>වෙන විකල්ප දැන් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2011-11-29 12:33:10</date>
+            <index>2</index>
+            <phrase>ලංකවෙ වෛදවරු ඕස්‌ට්‍රෙලියවේ වැහි වහල. මෙහාට අවට පස්‌සේ ඕනැම දුශ්කර ප්‍රෙද්ශයක උනත් කිසිම ප්‍රශ්නයක්‌ නැතිව වැඩ කරනවා. ලංකවේ නිදහස්‌ අධ්‍යාපනය රටේ අභිවෘද්දියට කියලා මට ප්‍රශ්ණයක්‌ නැගෙනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>301534</articleId>
+    <title>අපේ බලේ - අමුඩෙ බලේ</title>
+    <author>ඉෂාන් සංජීව</author>
+    <date>2015 මාර්තු මස 09 17:42:57</date>
+    <body>සමස්ත ලංකා ගොවිජන සම්මේලනය වී සඳහා සහතික මිලක් ඉල්ලමින් අද (9 )කොටුව දුම්රියපොළ ඉදිරිපිටදී උද්ඝෝෂණයක නිරත විය.
+මාළිගාවත්ත වී.ඩී. සිරිසේන ක්‍රීඩාංගණය අසල සිට කොටුව දක්වා පා ගමනින් පැමිණි විරෝධතා පුවරු රැගත් ගොවීහු අමුඩ ගසා උද්ඝෝෂණයට එක්වූහ.
+
+
+වීඩියෝ හා ඡායාරූප - ඉෂාන් සංජීව</body>
+    <comments>
+        <comment>
+            <author>ලතා</author>
+            <date>2015-03-09 16:55:14</date>
+            <index>0</index>
+            <phrase>ගොවි මහතුන් ගාව එකම තැනින් ප්‍රින්ට් කරපු බැනර්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමා</author>
+            <date>2015-03-09 17:21:01</date>
+            <index>1</index>
+            <phrase>අපරාදේ පොලොන්නරුවේ අරලිය මුදලලිගේ ගේ ඉස්සරහා ඕක කරන්න තිබුනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිවිතුරු</author>
+            <date>2015-03-10 01:09:37</date>
+            <index>2</index>
+            <phrase>ඔතන ඉන්න අය කුඹුරකට බැහැපු, උදැල්ලක් අල්ලපු අයද කියලයි මට නම් සැක. දැන් කවුද අමුඩය ගහගෙන කුඹුරකට බහින්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

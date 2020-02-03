@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15020</articleId>
+    <title>නොරොච්චෝලේ ගින්නක්</title>
+    <author>පද්මා කුමාරි</author>
+    <date>2011 නොවැම්බර් මස 29 09:55:29</date>
+    <body>අද අලූයම ඇතිවූ ගින්නකින් පසු කල්පිටිය නොරොච්චෝලේ බලාගාරයේ විදුලි සැපයුම තාවකාලිකව නතර කැරිණි. ලොකු හානියක් නොවූ බවත් පැය කිහිපයකින් ජාතික විදුලිබල පද්ධතියට විදුලිය සැපැයිය හැකි බව විදුලිබල මණ්ඩලය කියයි.
+ </body>
+    <comments>
+        <comment>
+            <author>තරිදු</author>
+            <date>2011-11-29 11:49:12</date>
+            <index>0</index>
+            <phrase>මීට කලිනුත් මොනව හරි වුණා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

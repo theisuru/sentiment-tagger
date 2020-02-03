@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>464145</articleId>
+    <title>න්‍යාය පුස්තකයෙන් පනත් දෙකක් හැළේ</title>
+    <author></author>
+    <date>2016 ඔක්තෝබර් මස 03 17:41:47</date>
+    <body>අඟහරුවාදා පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව තිබූ විහාර හා දේවලගම් පනත (සංශෝධිත) සහ ථෙරවාදී භික්ෂු කථිකාවත් ලියාපදිංචි කිරීමේ පනත පාර්ලිමේන්තු න්‍යාය පුස්තකයෙන් ඉවත් කිරීමට රජය තීරණය කර ඇතැයි බුද්ධ ශාසන අමාත්‍යංශය කියයි.</body>
+    <comments>
+        <comment>
+            <author>කුමාර මහර</author>
+            <date>2016-10-03 17:09:49</date>
+            <index>0</index>
+            <phrase>හොඳ තීරණයක්. පාරම්පරිකව පවතින දේවල් අවුරුදු 4ට 5ට බලයට එන අයට ඕනෑ විදියට වෙනස් නොකළ යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නීලා</author>
+            <date>2016-10-04 00:36:19</date>
+            <index>1</index>
+            <phrase>මුලින්ම බෙල්ල ළඟට කඩුව ළං කරනවා. මිනිහා කෑගහනවා මරන්න එපා කියලා. බෙල්ල කපන්නෙ නැතුව අත් දෙක කපනවා. මිනිහා කියනවා කොච්චර හොඳයිද බෙල්ල කැපුවේ නැහැනෙ කියලා. මේ වගේ තමයි මේ යහපාලන ආණ්ඩුවේ වැඩත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පුහාමි</author>
+            <date>2016-10-04 02:36:12</date>
+            <index>2</index>
+            <phrase>යහපාලනේ හොඳ නිසා තමා කට්ටියට සාකච්ඡා කරලා ඕවා වෙනස් කරගන්න පුළුවන්. එහෙම නොවෙන්න ඔයවගේ පනත් සම්මත වෙලා ඉවර වුණාම තමා කට්ටිය දන්නේ පනතේ මොනවද තිබ්බේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-10-04 02:45:14</date>
+            <index>3</index>
+            <phrase>බුද්ධාගම ගැන ගිහියන් තීරණ ගැනීමට අපේ ඇත්තේ අකමැත්තකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-10-05 01:20:51</date>
+            <index>4</index>
+            <phrase>නීලා කියන දේ තමයි ඇත්තටම වෙන්නෙ. රජයේ නිලධාරින්ට දුන් වාහන බලපත්‍රය බලන්න. ඉස්සර බදු සහනය 70%. දැන් 50%. වාහන මිලත් වැඩි කරලා. නමුත් නැතිකරලා ආපහු දුන්නම කට්ටිය හුරේ දැම්මා. මේ විදියටම ඊළම දෙන්න පනතක් ගෙනවිත් ෆෙඩරල් දීලා දායි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502843</articleId>
+    <title>ව්‍යාජ ලිපිය නුදුන්නාට ස්ථාන මාරුවක්</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2017 ජනවාරි මස 30 20:17:40</date>
+    <body>පළාත් දේශපාලනඥයකුගේ මැදිහත්වීමෙන් ඉදි කරන ලද තාප්පයක් සඳහා ව්‍යාජ ලිපියක්  දීම ප්‍රතික්ෂේප කළ බව කියන කඩවත මධ්‍ය මහා විද්‍යාලයයේ විදුහල්පතිනියට ස්ථාන මාරුවක් දී   ඇතැයි පළාත් අධ්‍යාපන අමාත්‍යංශ ආරංචි මාර්ග කියයි.
+ක්‍රීඩා අමාත්‍යංශයෙන් මහර ප්‍රාදේශීය ලේකම් කාර්යාලයය හරහා ලැබුණු ආධාරයක් මත පිටස්තරයන් පිරිසකට කොන්ත්‍රාත් ලබා දී මෙම තාප්පය ඉදි කර තිබේ.  </body>
+    <comments>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2017-01-30 17:12:39</date>
+            <index>0</index>
+            <phrase>කවුරුත් දන්නවා කවුද පළාත් මන්ත්‍රී කියලා. එයත් ඔය පාසලෙන්මයි ඉගෙනගත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2017-01-30 20:13:49</date>
+            <index>1</index>
+            <phrase>ඇති ඔය තරමින් බේරුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවීන්</author>
+            <date>2017-01-30 21:52:58</date>
+            <index>2</index>
+            <phrase>දේශපලුවා ඉල්ලන්නේ මොනවගේ ලියුමක්ද කියලා හොයලා බැලුවොත් තමා වඩාත්ම හොඳ. මොකද දේශපාලුවෝ වියදම් කරන්නේ පරම්පරාගත දේපල වලින් ලැබුණු මුදලනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

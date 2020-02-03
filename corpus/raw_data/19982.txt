@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19982</articleId>
+    <title>‘තේන්‘ සැර බාලවේ</title>
+    <author>මාණ්ඩලික වාර්තාකරුවකු විසිනි</author>
+    <date>2011 දෙසැම්බර් මස 31 10:52:29</date>
+    <body>‘තේන්‘ සුළි කුණාටුව උතුරෙන් ඉවත් වී දකුණු ඉන්දියාව දෙසට හමා යන හෙයින් උතුරේ ධීවරයිනට මුහුදු යෑමට ඉඩ ඇතැයි කාලකුණ විද්‍යා දෙපාර්තමේන්තුව කියයි. එම කුනාටුවෙන් ශ්‍රී ලංකාවේ මුහුද රළුවීමක හැරුණු විට වෙනත් හානියක් සිදු නොවීය.</body>
+    <comments>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2011-12-31 16:21:21</date>
+            <index>0</index>
+            <phrase>ඇවිත් ගියාට පස්සේ තමයි කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

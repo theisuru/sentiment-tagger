@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25692</articleId>
+    <title>දිවි පැටවු වෛරසයට දිවි දෙති</title>
+    <author>එම්එස් පෙරේරා</author>
+    <date>2012 පෙබරවාරි මස 09 10:43:43</date>
+    <body>ගිය වසරේ ජූනි මාසයේදී තම්බෝවෙන් හමුවූ දිවි පැටවුන් තිදෙනාගෙන් දෙදෙනෙක් අබිරහස් රෝගයකින් මරුමුවට පත්වූහ. ඉතිරිව සිටින දිවි පැටවා බේරා ගැනීමට පශු වෛද්‍යවරු වෙහෙසෙති.
+හඳුනා නොගත් වෛරසයකින් ඇති වූ බඩයෑමෙන් මේ සතුන් දෙදෙනා මියගිය බව පේරාදෙණිය සරසවියේ පශු වෛද්‍ය අංශය වාර්තා කරයි.</body>
+    <comments>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2012-02-09 11:48:49</date>
+            <index>0</index>
+            <phrase>හරිම කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී එස් කරුවලගස්වැව</author>
+            <date>2012-02-09 16:24:38</date>
+            <index>1</index>
+            <phrase>අපගේ ස්වභාවික සම්පත් මෙසේ අහිමි වී යාම කණගාටුවට කරුණකි. තබ්බෝව වාසීන් වන අපගේ බලවත් කණගාටුව !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

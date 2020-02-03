@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>292707</articleId>
+    <title>නාමල් වලස්මුල්ලේ කඩයකින් තේ බොයි</title>
+    <author></author>
+    <date>2015 ජනවාරි මස 27 11:56:45</date>
+    <body>නාමල් රාජපක්ෂ මන්ත්‍රීවරයා තනිවම ගොස් වලස්මුල්ලේ තේ කඩයකින් තේ බොන ආකාරය දැක්වෙන ඡායාරූපයක් ඔහුගේ ට්විරේ ගිණුම හරහා ප්‍රචාරය කර ඇත.</body>
+    <comments>
+        <comment>
+            <author>යසංග</author>
+            <date>2015-01-27 06:43:58</date>
+            <index>0</index>
+            <phrase>මොකක්ද දන්නෙ නැහැ මේකෙන් බලාපොරොත්තු ‍වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2015-01-27 08:11:06</date>
+            <index>1</index>
+            <phrase>මේ ගැන නම් මට ඇතිවෙන්නේ සැකයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිවංක</author>
+            <date>2015-01-27 08:46:57</date>
+            <index>2</index>
+            <phrase>දැන් ඉන්න මිනිස්සු හරිම බුද්ධිමත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2015-01-27 16:50:47</date>
+            <index>3</index>
+            <phrase>උලත් එකයි පිලත් එකයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගවුස්</author>
+            <date>2015-01-31 04:13:50</date>
+            <index>4</index>
+            <phrase>තනිවම ගියා නම් කැමරාකරුව රැගෙන ගියේ කවුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

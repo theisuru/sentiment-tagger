@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>451327</articleId>
+    <title>ජගත් මහ ලේකම් ලංකාවට</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 අගෝස්තු මස 26 16:13:47</date>
+    <body>තෙදින නිල සංචාරයක් සඳහා එක්සත් ජාතීන්ගේ සංවිධානයේ මහ ලේක්ම් බැන් කී මූන් මහතා අගෝස්තු 31 වැනි දා දිවයිනට පැමිණීමට නියමිතය.
+ජනාධිපති මෛත‍්‍රීපාල සිරිසේන , අග‍්‍රාමාත්‍ය රනිල් වික‍්‍රමසිංහ ,විපක්ෂ නායක ආර්.සම්පන්දන් යන මහත්වරුන් ඇතුළු රජයේ හා විපක්ෂයේ පාර්ලිමේන්තු මන්ත‍්‍රීන් හමුවීමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-08-26 10:56:51</date>
+            <index>0</index>
+            <phrase>අනිවාර්යෙන්ම උතුරු රටේ නායකයින් හමුවෙන්න උතුරටත් යයිනේ. ඇයි එයාලගේ නම් මේ ලිස්ට් එකේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2016-08-26 11:39:37</date>
+            <index>1</index>
+            <phrase>මෙයාලට අපේ දුකසැප නොබලා ඉන්නම බැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2016-08-26 12:33:47</date>
+            <index>2</index>
+            <phrase>අනේ අම්මෝ! අර ඕස්ට්‍රේලියාවේ පොලිසියෙන් අපි ගැන හොයන එක ගැන විතරක් අහන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2016-08-26 13:30:20</date>
+            <index>3</index>
+            <phrase>මේ උතුමන් ඇමරිකාවට සහ බටහිර රටවලට කඩේ යනවා. අපි වගේ පොඩි රටවලට තර්ජනය කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරසිංහ</author>
+            <date>2016-08-26 13:31:24</date>
+            <index>4</index>
+            <phrase>ඇවිත් යාපනේ ගිහින් ලංකාවට විරුද්ධව මොනවා හරි කියන්න හදනවා ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාදේව</author>
+            <date>2016-08-26 13:39:10</date>
+            <index>5</index>
+            <phrase>අපි යෝජනා කරනවා අපේ ජනාධිපති තුමාට, මෙතුමාව \'කැබිතිගොල්ලාවටයි\' \'අරන්තලාවටයි\' වත් අඩුගානේ එක්කයන්න කියල. මෙතුමා උතුරටත් යනබව දැනගන්න ලැබුන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2016-08-26 13:33:27</date>
+            <index>6</index>
+            <phrase>අලුත් ව්‍යවස්ථාවක් කියල ලංකාවේ ඒකීය භාවයට හානි කරන්නද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරන්ද</author>
+            <date>2016-08-26 13:37:20</date>
+            <index>7</index>
+            <phrase>මෙයාට කියලවත් රජයට කියමුද පළාත් පාලන සභා චන්දය පවත්වන්න කියලා. දෙමළ සන්දානය එතුමා තුලින් වැඩ කරගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දේව</author>
+            <date>2016-08-26 13:49:03</date>
+            <index>8</index>
+            <phrase>මෙතුමා අපේ රටටත් සමහරවිට කැමති ඇති. ඒත් හරියටම තත්ත්වය දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෆීල්</author>
+            <date>2016-08-26 20:25:39</date>
+            <index>9</index>
+            <phrase>ඔන්න අපේ දේශප්‍රේමීන්ට මාරාන්තික උපවාසයක නිරතවෙන්න හොඳ අවස්ථාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-26 20:41:00</date>
+            <index>10</index>
+            <phrase>මෙයාව මහ ඉහළින් පිළිගනීද මන්දා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමණි</author>
+            <date>2016-08-27 03:14:43</date>
+            <index>11</index>
+            <phrase>මහාදේව, කැබිතිගොල්ලෑව, අරන්තලාව කියන්නේ තහනම් වචනනේ. ඒ තියා පිටකොටුවේ සහ මහා බැංකුවේ බෝම්බ පුපුරවලා මිනීමරපු දේවලුත් දැන් අමතකයිනෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතූ</author>
+            <date>2016-08-27 03:30:12</date>
+            <index>12</index>
+            <phrase>අපේ රට අමතක කරන්නම බැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදලිගේ</author>
+            <date>2016-08-27 03:30:12</date>
+            <index>13</index>
+            <phrase>මෙයාලා මේ එන්නේ අපිට ආදරේකට නම් වෙන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-27 03:24:07</date>
+            <index>14</index>
+            <phrase>ඇවිත් ගියාට පස්සේ තේරෙයි ආවේ මොකටද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පීරිස්</author>
+            <date>2016-08-27 05:38:30</date>
+            <index>15</index>
+            <phrase>බෑන් කී මූන් විශ්‍රාම යන්න කලින් අපිව බලලා කියලා, උතුරට ඕනෑකරන ඒවා ඉල්ලලා දීලා, ටටා කියලා යන්න එනවා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

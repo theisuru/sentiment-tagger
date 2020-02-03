@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>504069</articleId>
+    <title>කිතුනු බැතිමතුන්ගෙන් භික්ෂූන්ට පිරිකර</title>
+    <author>ලාල් එස් කුමාර</author>
+    <date>2017 පෙබරවාරි මස 04 19:51:35</date>
+    <body>69 වැනි නිදහස් දිනය නිමිත්තෙන් කැලණිය බරණැස්කන්ද විහාරස්ථාධිපති කහටවිලවත්තේ පාලිත හිමියෝ ප්‍රමුඛ මහා සංඝරත්නය අද පිණ්ඩපාත චාරිකවක වැඩම කළහ.   එම භික්ෂූන් වහන්සේ පිලපිටිය සිංහාරමුල්ල  ප්‍රදේශයෙන් වැඩමකරද්දි කලණිය මීසම් පාලක ජෝශප් ඉන්දික පියතුමෝ ඇතුළු කිතුණු භක්තිකයෝ භික්ෂූන් වහන්සේට පිරිකර පූජා කළහ.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-04 22:59:59</date>
+            <index>0</index>
+            <phrase>අපේ ජාතික හැඟීම හා ආගමික එකඟතාවයේ වටිනාකම් කොපමණද කියලා කියන්න බැහැ මෙවැනි සද්කාර්යයන් අපි ඉතාමත්ම අගය කරන අතර ඒ ගැන කෘතඥ වෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2017-02-05 01:48:07</date>
+            <index>1</index>
+            <phrase>ඉතාමත්ම අගය කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2017-02-05 05:09:52</date>
+            <index>2</index>
+            <phrase>සිංහලයාගේ එකමුතු කම පෙන්වන කටයුත්තක් සතුටුයි බොහොම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2017-02-05 09:43:48</date>
+            <index>3</index>
+            <phrase>මෙය සංදර්ශනයක් නොව අහම්බයෙන් සිදුවූවක් බව හොඳින් පෙනෙනවා. මොනවා වුණත් වැඩේ හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2017-02-05 23:58:42</date>
+            <index>4</index>
+            <phrase>මෙවැනි දේද ලංකාවේ සිදුවේ. පූජකයින් විසින් සමාජයට පෙන්විය යුතුව ඇත්තේ මෙවැනි දෙයයි. එසේ නැතුව වෛරය වැපිරවීම නොවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2017-02-06 00:58:33</date>
+            <index>5</index>
+            <phrase>ඒ වගේම භික්ෂුන් වහන්සේලා තමන්ගේ ගෞරවය ආරක්ෂා කරගත යුතුයි. ගිහියන්ගේ ඕනෑ එකටයි එපා එකටයි උද්ඝෝෂණ කරන්න පාරට බැහැලා සිවුර කරට අරන් පිස්සු නටනේ නැතුව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2017-02-06 10:08:48</date>
+            <index>6</index>
+            <phrase>අර සේනාවට ටිකක් කිචි කිචි වගේ ඇති මේ වගේ දේවල් දකිනකොට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

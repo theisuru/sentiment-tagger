@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>29196</articleId>
+    <title>පොලිස් දෙන්නාට ඇප</title>
+    <author>ලක්මාල් සුරියගොඩ</author>
+    <date>2012 පෙබරවාරි මස 28 18:15:16</date>
+    <body>මාලිගාවත්තේ දෙදරු පියකු කොළඹ මත්ද්‍රව්‍ය නාශක කාර්යංශයේ දී මරණයට පත්වීම සම්බන්ධයෙන් සැකපිට රිමාන්ඩ් බාරයේ සිටි උප පරීක්ෂක රුවන් කුමාර හා කොස්තාපල් මනෝජ් නෑහින්න ඇප මත මුදා හරින ලෙස කෙළඹ කොටුව මහේස්ත්‍රාත් කණිෂ්ක විජේරත්න මහතා නියෝග කෙළේය. තෙවැනි සැකකරුවන පොලිස් නිළධරයා වන ඩී. රනිල් මැදපෙරදිග ගොස් සිටිතියි උසාවියේ දී කියැවිණි.</body>
+    <comments>
+        <comment>
+            <author>චමත්</author>
+            <date>2012-02-28 20:38:30</date>
+            <index>0</index>
+            <phrase>පොලීසියෙ අයගෙ වැරදි හොයන්න වෙනම දෙපාර්තමේන්තුවක් දාන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමත්</author>
+            <date>2012-02-28 20:40:02</date>
+            <index>1</index>
+            <phrase>ඇයි පොලීසියට විරුද්ධව කතා කරන්නේ නැත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල් විජේරත්න</author>
+            <date>2012-02-29 12:32:35</date>
+            <index>2</index>
+            <phrase>පොලීසියෙ අයට ඇප දෙන්න හොද නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>31884</articleId>
+    <title>කටුගෙයින් කඩු 7කුත් නැතිවේ</title>
+    <author>ශ්‍රීනාත් ප්‍රසන්න ජයසූරිය</author>
+    <date>2012 මාර්තු මස 17 12:31:06</date>
+    <body>16 සහ 17 වැනි සියවස්වලට අයත් කඩු හතක්, රන්බඩු, ඉපැරැණි කාසි තොගයක් කොළඹ කෞතුකාගාරයෙන් සොරාගෙන ගොස් ඇතැයි පොලිසිය කියයි. කෞතුකාගාරය ඇතුළේ සහායක් නොමැතිව එහි ඇතුල් වීමට ඇති ඉඩ කඩ ගැන පොලිසිය සැකකරයි.</body>
+    <comments>
+        <comment>
+            <author>සම්පත් විජේරත්න</author>
+            <date>2012-03-17 12:44:35</date>
+            <index>0</index>
+            <phrase>මෙච්චර ලස්සන රටකට ගිය කලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේමලාල්</author>
+            <date>2012-03-17 12:51:15</date>
+            <index>1</index>
+            <phrase>හොරු කටුගේ ඇතුලෙම ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-03-17 12:58:07</date>
+            <index>2</index>
+            <phrase>ඇමති කෙනෙකුත් සම්බන්ධද දන්නේ නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-03-17 13:08:17</date>
+            <index>3</index>
+            <phrase>අපේ ඉතිහාසය විනාශ කරනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

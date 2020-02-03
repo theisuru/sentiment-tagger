@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>114942</articleId>
+    <title>මුද්‍රණ සම්මානයක් මීරිගමට</title>
+    <author></author>
+    <date>2013 අපේ‍්‍රල් මස 30 15:47:51</date>
+    <body>ප්‍රාදේශීය මුද්‍රණ ශිල්පීන්ගේ කුසලතා ඇගැයීම සදහා ශී‍්‍ර ලංකා මුද්‍රණ ශිල්පීන්ගේ සංගමය මගින් ප්‍රථම වරට සංවිධානය කළ සම්මාන ප්‍රදානෝත්සවය  කොළඹ බණ්ඩාරණායක අනුස්මරණ සම්මන්ත‍්‍රණශාලාවේදී පැවැත් විණි.
+කුඩා ප‍්‍රමාණයේ නිර්මාණශීලී ග‍්‍රන්ථ උදෙසා පිළිවෙලින් සිව්වන සහ දෙවැනි ස්ථාන හිමිකරගත් මීරිගම ආශිර්වාද ප‍්‍රකාශන සමාගමේ කළමණාකාර අධ්‍යක්ෂ චාමින් විජේරත්න මහතා සම්මානය අතැතිව  සිය කාර්ය මණ්ඩලය සමග ඡායාරූපයේ දැක්වේ.</body>
+    <comments>
+        <comment>
+            <author>රංජනී</author>
+            <date>2013-05-02 04:07:36</date>
+            <index>0</index>
+            <phrase>හරිම සතුටක් අපේ ගමට (මිරීගමට)මේ වගේ සම්මානයක් ලැබුනට. ඔබලාට සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමිල</author>
+            <date>2013-05-04 14:17:26</date>
+            <index>1</index>
+            <phrase>මීරිගමට මේ වගේ සම්මානයක් ලැබුණට උණුසුම් සුබ පැතුම්. ! .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂ්</author>
+            <date>2013-05-04 14:28:58</date>
+            <index>2</index>
+            <phrase>මෙවැනි තවත් සම්මාන දිනාගන්න හොඳ නිර්මාණ ම කරන්න. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉනේට් ග්‍රැපික්ස්</author>
+            <date>2013-05-09 01:03:31</date>
+            <index>3</index>
+            <phrase>උණුසූම් සුබ පැතුම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර</author>
+            <date>2013-05-09 06:55:50</date>
+            <index>4</index>
+            <phrase>මමත් මීරිගම හකුරුකුඹුර ගමෙන් විවාහ වෙලා තියෙන්නේ. මමත් නියම පොත් කාරයෙක් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජනී</author>
+            <date>2013-05-12 05:05:30</date>
+            <index>5</index>
+            <phrase>මමත් හකුරුකුඹුරේ දැනනම් ඉන්නේ එංගලන්තේ.මාත් හොදට පොත් කියවන්න දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

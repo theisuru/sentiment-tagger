@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>27176</articleId>
+    <title>ඉල්ලම් පැත්ත රකින්න හමුදාව</title>
+    <author>කේඩී දේවප්‍රිය  ඡායාරූප කතරගම එම්කේ නන්දසේන</author>
+    <date>2012 පෙබරවාරි මස 16 15:47:31</date>
+    <body>නිල් මැණික් ඉල්ලමකින් සොයාගත් ලුණුගම්වෙහෙර පාරක් අධිආරක්ෂක කළාපයක් ලෙස නම් කළැයි කතරගම පොලීසිය කියයි. එම පෙදෙස තහනම් කළාපයක් කැර යුදහමුදාව කැඳවා ඇත. යුද හමුදා ඇඳුමට සමාන ඇඳුම් ඇඳගත් පිරිසක් ගම්වාසීන්ටද, වාහන කිහිපයකටද පහර දී ඇතැයි වාර්තා වේ.</body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-02-16 17:21:53</date>
+            <index>0</index>
+            <phrase>තවත් පුද්ගල ඝාතනයක පෙර නිමිත්තක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාන් තිලින කුමාර - හලාවත</author>
+            <date>2012-02-16 22:38:27</date>
+            <index>1</index>
+            <phrase>කෝකටත් තෙල හමුදාවද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>350316</articleId>
+    <title>‘සඳැස් විදා මොණරු රඟති නීල වළා පාවේ‘</title>
+    <author>එච්චන්දන</author>
+    <date>2015 සැප්තැම්බර් මස 25 13:40:25</date>
+    <body>මොණර යුවළකගේ අනග රැඟුමක් රිටිගල ආසන්නයේ කැලෑ රොදකදී එසැණ කැමරාවේ සටහන් විය.
+සෙබඩ වශීකරගැනීමට මොණරා පිල්විදහා නටයි.
+අව්ව තපිමින් මොණරා ගල් තලාවේ ඒ මේ අත සැරිසරමින් නටත්දී සෙබඩද ඒ අසලට වී සිටියාය.</body>
+    <comments>
+        <comment>
+            <author>චන්දිම සිරිවර්ධන</author>
+            <date>2015-09-26 17:17:11</date>
+            <index>0</index>
+            <phrase>මේ නම් ඉන්නේ මොණරුන් දෙදෙනෙකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

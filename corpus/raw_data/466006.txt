@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466006</articleId>
+    <title>පෙදරේරුවාගේ සිරුර උඩු මහලෙන් බිමට වැටිලා?</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 08 13:09:26</date>
+    <body>කහතුඩුව පොල්ගස් ඕවිට කරගෙන යන දෙමහල් නිවාස වැඩබිමක සිය ගෝලයන් සමග මත්පැන් බිව් බව කියන පෙදරේරුවෙකුගේ සිරුර අද උදේ බිම තිබී හමු වූ බව පොලිසිය කියයි.
+පෙදරේරුවා බිමට වැටුනාද එසේ නැතිනම් කිසිවෙකු විසින් තල්ලු කලේද යන්න පොලිසිය සොයා බලයි.
+මාතර කිරින්ද පදිංචි ඔහුගේ වයස අවුරුදු (54) බවද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>පිටිගල මිලානෝ</author>
+            <date>2016-10-08 13:39:21</date>
+            <index>0</index>
+            <phrase>අපරාදේ! වියදම් කරලා හදපු ගෙදර දැන් හැමදාම බාස් උන්නැහේ ඇවිදිනවා පෙනෙයි. තව ගානක් යයි එයාව එළවන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි</author>
+            <date>2016-10-08 15:33:42</date>
+            <index>1</index>
+            <phrase>අවාසනාවන්ත මරණයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත කටාර්</author>
+            <date>2016-10-08 15:48:22</date>
+            <index>2</index>
+            <phrase>දැන් ඉතින් නිවෙස් අයිතිකරු බලි තොවිල්, යාග හෝම පටන්ගන්න එපා. එ්කෙන් වෙන්නෙත් කීයක්හරි නැතිවෙන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2016-10-08 22:41:39</date>
+            <index>3</index>
+            <phrase>තල්ලු කළත් වැටුනා කියලා තීන්දුව දේවිද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2016-10-09 00:35:31</date>
+            <index>4</index>
+            <phrase>පොලිසියේ කවුරුවත් මත්පැන් ඉල්ලාගෙන අාවේ එහෙම නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

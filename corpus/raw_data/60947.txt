@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60947</articleId>
+    <title>හෙදියට චීස් අජීරණ වෙයි</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2012 අගෝස්තු මස 26 13:52:32</date>
+    <body>නීති කථිකාචාර්යවරියකගේ ක්‍රෙඩිට් කාඩ්පතකින් රුපියල් 37000ක කෑම බීම කොළඹ සුපිරි වෙළෙඳසැලපික් හොරට ගත් පෞද්ගලික රෝහල් හෙදියක පිළියන්දල මාකන්දලින් අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+එම ක්‍රෙඩිට් කාඩ්පත මගදී සොයාගත් බව හෙදිය කියා ඇත.
+හෙදිය චීස් ඇතුළු කෑම්බීම්ද විදුලිපංකා ඇතුළු නොයෙකුත් බඩුද ගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>Cooray Nawalage Jude Yohan</author>
+            <date>2012-08-26 14:07:34</date>
+            <index>0</index>
+            <phrase>බලාගෙන මෙයාලව අත්අඩංගුවට ගන්නෙ.. පුද්ගලික අංශයේ හෙදියොත් වර්ජනය කරයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එස්.කුරේ</author>
+            <date>2012-08-26 14:09:05</date>
+            <index>1</index>
+            <phrase>මාකන්දන මම හිතන්නේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-26 14:15:37</date>
+            <index>2</index>
+            <phrase>අපිට නම් ණයට බඩු ගන්න එක හිතට හරි නැහැ.. දැං ඒක ලොකු පැලැන්තියේ මෝස්තරයක් වෙලා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-08-26 14:29:35</date>
+            <index>3</index>
+            <phrase>අයිතිකාරයට තිබුණෙ එවෙලෙම කාඩ් මධ්‍යස්ථානය අමතලා ඒක අක්‍රිය කරන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජිව මල්ලි</author>
+            <date>2012-08-26 14:33:56</date>
+            <index>4</index>
+            <phrase>නොදැනුවත්කමින් වෙන්න බැහැ.. ඔයවගේ දෙයක් ලැබුණාම ඕවාවලින් වැරදිවැඩ නොකර ඕක ආරක්ෂක මූලස්ථානයකට හරි බැංකුවකට හරි දෙන්න තිබුණා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා සෞදි</author>
+            <date>2012-08-26 14:45:26</date>
+            <index>5</index>
+            <phrase>පව්.. සතුට දෝරෙ ගියා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-26 14:59:01</date>
+            <index>6</index>
+            <phrase>හැම කෙනෙක්ම අහු වුණොත් හොරකම් කරන්නමයි බලාගෙන ඉන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-08-26 15:16:08</date>
+            <index>7</index>
+            <phrase>හෙදියක් කරන දේවල්ද මේ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානානයක</author>
+            <date>2012-08-26 15:36:20</date>
+            <index>8</index>
+            <phrase>දෙන දෙවියෝ ගෙට ගෙනැවිත් දෙනවා.. හෙදියට දවසක පින පෑදෙනවා.. පුංචිපහේ ඉල්ලමකුත් පෑදිලා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරිස්</author>
+            <date>2012-08-26 15:56:45</date>
+            <index>9</index>
+            <phrase>රහස් අංකය දන්නේ කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රේණු</author>
+            <date>2012-08-26 15:58:18</date>
+            <index>10</index>
+            <phrase>මේ වගේ එව්වා ප්‍රසිද්ද කරන්න එපා. මෙතන හෙදියගේ වරදක් නැහැ. නීති වරියට තමාගේ කාර්ඩ් එක පරිස්සම් කරන්න බැරිනම්, නැතිවෙලා කියල දැනගෙන බැංකුවට ඉක්මනට කිව්වෙත් නැත්නම් කරන්න දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝරි පීරිස්</author>
+            <date>2012-08-26 17:01:44</date>
+            <index>11</index>
+            <phrase>කණකැස්බෑවා වියසිදුරෙන් අහස බලවා වගේ කලාතුරකින් හමුවෙන බෝධිසත්වයෙක් මිස වෙන කවුරුත් අධිෂ්ඨානය බලවත් යන දේ හරියමට පිළිපදිනේන නැහැ.. පෘත:ජන හැම කෙනෙක්ම කළදුටුකළ වළ ඉහ ගන්නවා..ඒක ලෝක ස්වාභාවය.. ඒනිසා තමන්ගේ ආරක්ෂාව තමා සපයාගැනීම තමයි වඩා හොද...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2012-08-26 17:06:32</date>
+            <index>12</index>
+            <phrase>අනුන්ගේ ක්‍රෙඩිට් කාර්ඩ් පතකින් යමක් මිලදී ගැනීම වංචාවක් කියල හෙදියක් වගේ කෙනෙක් නොදැන ඉන්න විදියක් නැහැ... නැතිවෙච්ච එක්කෙනාට එක පරිස්සම් කරන්න කියල දෙන එක හොඳයි.. නමුත් තමන්ගේ කාර්ඩ් එක නැති කරගන්න එක නීති විරෝධී ක්‍රියාවක් නෙමෙයි.. අහුලපු කාර්ඩ් එකකින් හොරෙන් බදු ගැනීම නීති විරෝධී වැඩක්... රේණු වගේ හිතුවොත් එහෙම මේ සමාජය බල්ලෝ බළල්ලු වගේ වෙයි... කවුරු හරි රේණුව හරි රේණුගේ දුවෙක්ව හරි දුෂණය කලොත් එදාට ඔය හෙදිය කියාවි... තමන් හරි ළමයාගේ හැටි අහවල් එක පරිස්සම් කරගන්න දැනගන්න.. දුෂණය කරපු කෙනාට බැනල වැඩක් නැහැ කියල.. මොකද රේණු කියන්නේ එතකොට?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විකුම් අබුඩාබි</author>
+            <date>2012-08-26 19:18:00</date>
+            <index>13</index>
+            <phrase>හොරු ටික ඔක්කොම පිළියන්දලින් තමයි අහුවෙන්නෙ.. කෞතුකාගාරයේ හොරකමවගේ.. !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-08-26 19:28:59</date>
+            <index>14</index>
+            <phrase>මුදල් නම් ගන්න බැරි වෙන්න ඇති.. බඩු ගන්න පුළුවං නෙ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-26 21:57:04</date>
+            <index>15</index>
+            <phrase>මාතෘකාව දැක්කහම මම හිතුවේ හෙට වර්ජනයක් ඇති කියලා. ඒත් මේක වෙලා තියෙන්නේ පෞද්ගලික අංශයේ. ඇති යාන්තම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සීමා</author>
+            <date>2012-08-26 22:48:50</date>
+            <index>16</index>
+            <phrase>සාමාන්‍යයෙන් හෙදයෝ නරක නැහැ. එක්කෙනෙක් දෙන්නෙක් තමයි නරක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-08-27 05:24:51</date>
+            <index>17</index>
+            <phrase>තමන්ගේ උතුම් රැකියාව පරදුවට තියලා කරපු මෝඩ වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-27 07:34:30</date>
+            <index>18</index>
+            <phrase>මෙයා වෘත්තීය සුදුසුකම් ඇති හෙදියක් නෙමෙයි වගේ. වෘත්තියටත් නින්දාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩියෝ</author>
+            <date>2012-08-27 08:02:00</date>
+            <index>19</index>
+            <phrase>හොරකම කියන්නේ මොකක්ද කියලාවත් දන්නේ නැති හැඩයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාඩ් පෙරේරා</author>
+            <date>2012-08-27 14:29:08</date>
+            <index>20</index>
+            <phrase>මේ දෙන්නා වාට්ටුවල ඉන්න ‍ලෙඩ්ඩුන්ගේ ඒවත් හොරකම් කරනවද දන්නේ නෑ ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

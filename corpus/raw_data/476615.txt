@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>476615</articleId>
+    <title>ජනපති නවදිල්ලි යයි</title>
+    <author>ටි කේ ජි කපිල</author>
+    <date>2016 නොවැම්බර් මස 06 14:13:52</date>
+    <body>දුම්කොළ පාලනය පිළිබඳව වැඩසටහනක් සකසා ගැනීම සඳහා ලෝක සෞඛ්‍ය සංවිධානයේ මෙහෙයවීමෙන් පැවැත්වෙන අන්තර් ජාතික සමුළුවක ප්‍රධාන දේශනය පැවැත්වීම සඳහා ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (06) පස්වරු 2.15ට ඉන්දියාවේ නවදිල්ලි නුවර බලා පිටත්ව ගියේය.
+උත්තර ප්‍රදේශයේ ගෞතම් බුද් නගර් දිස්ත්‍රික්කයේ නොයිඩා නගරයේ මෙම සමුළුව පැවැත්වේ.
+සිරිසේන මහතා නවදිල්ලි රාස්ඨ්‍රපති නුවරදී ඉන්දිය ජනපති ප්‍රනා මුකර්ජී අද (06) හමුවීමට නියමිතය‍
+සඳුදා සවස ජනපති යළි ශ්‍රී ලංකාවට පැමිණිමට නියමිතය.
+ජනපති සමඟ 12 දෙනෙක්ද ගියහ.
+ </body>
+    <comments>
+        <comment>
+            <author>ජගත් ලියනගේ</author>
+            <date>2016-11-06 10:24:05</date>
+            <index>0</index>
+            <phrase>මේ අවුරුද්දට කී පාරක් රට ගියාද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-11-06 10:28:44</date>
+            <index>1</index>
+            <phrase>එයා එනකොට මෙයා යනවා. මෙයා එනකොට එයා යනවා. රටට හොඳ කලක් යයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-11-06 16:48:39</date>
+            <index>2</index>
+            <phrase>අපි බදු ගෙවනවා, ඔවුන් රට සවාරි ගහනවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-11-06 17:17:14</date>
+            <index>3</index>
+            <phrase>දැන් මේ ගමන් අපි ගමේ යනවා වගේනේ. කමක් නැහැ කවදා ආවත්, ප්‍රධාන වැඩ තියෙන්නේ රටින් පිට නිසා ඒවාට ප්‍රමුඛත්වය දුන්නට කවුරුත් මොකුත් කියන එකක් නැහැ. මේවා අපිට ආඩම්බර වෙන්න පුළුවන් දේවල්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිල්</author>
+            <date>2016-11-07 01:06:01</date>
+            <index>4</index>
+            <phrase>අගමැති කොහෙවත් යන්නෙ නැද්ද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2016-11-07 01:29:38</date>
+            <index>5</index>
+            <phrase>මෙතුමා අගමැතිතුමා එක්ක තරඟයකට බැහැලා වගෙයි. බලමු කවුද දිනන්නේ කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙහාන්</author>
+            <date>2016-11-07 02:20:10</date>
+            <index>6</index>
+            <phrase>අනේ මන්දා ඉතින්, මේවට මුදල් වැයවෙන්නෙ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

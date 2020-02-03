@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>507357</articleId>
+    <title>අසාධාරණකම්වලට විසඳුම් ඉල්ලා සමෘද්ධි නිලධාරීහු උද්ඝෝෂණයක</title>
+    <author>තිලකරත්න දිසානායක</author>
+    <date>2017 පෙබරවාරි මස 15 11:46:06</date>
+    <body>සමෘද්ධි නිලධාරීන්ට සහ සමෘද්ධි ලාභීන්ට සිදුව ඇති අසාධාරණකම් සහ බලපා ඇති ගැටලු තුනකට විසදුම් ලබා දෙන ලෙස ඉල්ලමින් අද (16) ගම්පහ දුම්රිය ස්ථානය ඉදිරිපිටදී උද්ඝෝෂණ ව්‍යාපාරයක් පැවැත්වුහ.
+සමෘද්ධි ලාභීන්ට පසුගිය රජයෙන් නිවාස අළුත් වැඩියා කර ගැනීම සඳහා ලබා දුන් රුපියල් 2500 ක ආධාර මුදල යළි අයකර ගැනීම නතර කිරීම   සියයට 10 බැගින් වර්ෂ 2020 දක්වා සහනාධාර කප්පාදුව නතර කිරීම සහ සමෘද්ධි නිලධාරීන්ගේ ස්ථිර පත්වීම් ලබාදීම යන ඉල්ලීම් මුල්කර ගනිමින් උද්ඝෝෂණය පැවැත්විණි.</body>
+    <comments>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-02-15 06:41:14</date>
+            <index>0</index>
+            <phrase>මේ කරලා තියන වැඩ දේශපාලන පළිගැනීම් නොවෙයි කියලා කියන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-02-15 07:02:22</date>
+            <index>1</index>
+            <phrase>ජනහිත කියන්නේ ගිය ආණ්ඩුව සමෘද්ධි දීලා තියෙන්නේ ශ්‍රී ලංකා අයට පමණි කියලද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජිත</author>
+            <date>2017-02-15 07:27:11</date>
+            <index>2</index>
+            <phrase>අනේ මන්දා මේවට මොනවා කියන්නද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2017-02-15 07:53:07</date>
+            <index>3</index>
+            <phrase>රටට බරක් වෙච්ච දෙගොල්ලක්! සමෘද්ධි නිලධාරීන් කියන්නේ රටේ බදු මුදල් වලින් පඩි අරගෙන දේශපාලන පෝස්ටර් ගහන ටිකක්. එස්බී ඇමතිම ඒ කාලේ කියපු හැටියට ශ්‍රී ලංකා එකට ඡන්ද කරන්න හදපු මැෂිම. සමෘද්ධි ලැබෙන අය ගැන නම් ඉතින් කතාකරලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2017-02-15 08:23:23</date>
+            <index>4</index>
+            <phrase>සහන් ඔයාගේ මතය හරි. බලහත්කාරයෙන් දේශපාලන වැඩවලට යොදාගත්තා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2017-02-15 12:20:13</date>
+            <index>5</index>
+            <phrase>සමෘද්ධි නිලධාරීන් රටට කරන සමෘද්ධියක් නම් නෑ. මේ ගොල්ලෝ කරන්නේ තාප්පවල පෝස්ටර් අලවන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

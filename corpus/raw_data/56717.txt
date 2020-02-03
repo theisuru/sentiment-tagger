@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>56717</articleId>
+    <title>ණය ගෙවන්න කළ සුත්තරේ අතේ පත්තුවේ</title>
+    <author>සුනිල් එස් තන්ත‍්‍රිආරච්චි</author>
+    <date>2012 අගෝස්තු මස 02 15:31:38</date>
+    <body>රුපියල් පන් ලක්‍ෂයක් නොදුනහොත් හය හැවිරිදි දියණිය මරා දමන බව දැරියගේ පියාට දුරකථන ඇමතුමක් දුන් බව කියන දෙදෙනෙක් කළුතර කොට්ඨාශ විශේෂ විමර්ශන ඒකකය  විසින් සැකපිට අත්අඩංගුවට ගනු ලැබූහ.
+වාහන ෆිනෑන්ස් හා ණය ගෙවීම සඳහා ඔවුන් මෙම කප්පම් ඉල්ලන්නට ඇතැයි පොලීසිය සැක කරයි.</body>
+    <comments>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-08-02 15:42:14</date>
+            <index>0</index>
+            <phrase>මේගොල්ලන් පොලිසියෙන් උපදෙස් අරං තියෙනවා වගේ නැත්නම් කොහොමද මේකට හේතුව අහන්නෙත් නැතිව පොලිසිය දන්නෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2012-08-02 15:57:21</date>
+            <index>1</index>
+            <phrase>තව ටික කාලෙකින් අපේ රට අපරාධ කරුවන්ගෙන් පිරි අංක එකේ රටක් වෙයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-08-02 16:13:33</date>
+            <index>2</index>
+            <phrase>ෆිනෑන්ස් ගෙවන අලුත් ක්‍රමයක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-08-02 16:23:16</date>
+            <index>3</index>
+            <phrase>මේකටත් පුදුම වෙන්න දෙයක් නැහැ. අපේ රටේ අපරාධ රැල්ලක් නැහැ. මේවා සාමාන්‍ය දෛනික දේවල්. නීතිය සහ සාමය ආරක්ෂා කරලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-02 16:41:37</date>
+            <index>4</index>
+            <phrase>මෙවැනි දේවලට උපරිම දඩුවම් දිය යුතුයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය පෙරේරා</author>
+            <date>2012-08-02 18:35:36</date>
+            <index>5</index>
+            <phrase>ඔබට සාස්තරයක් ඇසීමට නම් එන්න කලුතර පොලිසියට..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ ජූඩ් යොහාන්</author>
+            <date>2012-08-02 18:55:41</date>
+            <index>6</index>
+            <phrase>මේවා දැං සාමාන්‍ය දේවල් මට බය හෙට අනිද්දට මාවත් රැගෙන යයිද කියලා...??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුල වෙරෝනා</author>
+            <date>2012-08-02 19:08:27</date>
+            <index>7</index>
+            <phrase>ලුම්බිණි හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-08-02 21:57:45</date>
+            <index>8</index>
+            <phrase>ෂෙරී‍ෆ්, තව ටික දවසකින් නෙමෙයි, දැන්ම ඉදලම සිද්ධ වෙන්නේ එහෙම දේවල් තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-03 15:19:46</date>
+            <index>9</index>
+            <phrase>පොලීසියෙන් හොඳ වැඩක් ..ඔය කප්පම් කාරයෝ නැතිම කරලා දානවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

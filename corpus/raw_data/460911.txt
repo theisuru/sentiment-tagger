@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>460911</articleId>
+    <title>සිංහා යයි : තරංජිත් සිං එයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 23 18:10:21</date>
+    <body>වයි.කේ.සිංහාට පසු ශ්‍රී ලංකාවේ නව ඉන්දීය මහ කොමසාරිස් ලෙස තරංජිත්  සිං සන්දු පත් කරනු ලැබ සිටියි.
+ඉන්දීය විදේශ සේවයේ වසර 28ක පළපුරුද්දක් ඇති තරංජිත් මහතා වර්ෂ 1988 දී ඉන්දිය විදේශ සේවය හා එක්විය. මෙම නව මහ කොමසාරිස් ධූරයට පත් කිරීමට පෙර ඔහු වොෂින්ටන් හි ඉන්දීය නියෝජ්‍ය තානාපති වශයෙන් කටයුතු කළේය.</body>
+    <comments>
+        <comment>
+            <author>සජී</author>
+            <date>2016-09-24 03:17:48</date>
+            <index>0</index>
+            <phrase>කොහේ ගියත් ඇමරිකාව නැතුව නම් බැහැ වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්ත කාටර්</author>
+            <date>2016-09-24 15:59:16</date>
+            <index>1</index>
+            <phrase>පන්ජාබ් ජාතිකයින් බොහෝ දුරට අපේ රටට සමාන සංස්කෘතියක් තියෙන දක්ෂ ඉන්දියානු කොටසක්. මෙහෙ ඉන්න අපි ඒ ගැන හොදටම දන්නවා , හිත හොඳ මිනිස්සු , සින්ග් මහතාට සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

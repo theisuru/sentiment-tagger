@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>35193</articleId>
+    <title>මඩකලපුවෙදි ගාන්ධිගෙ බෙල්ලත් කඩයි</title>
+    <author>ජවුෆර් ඛාන්</author>
+    <date>2012 අපේ‍්‍රල් මස 06 14:42:21</date>
+    <body>මඩකලපුව නගරයේ පිහිටි මහත්මා ගාන්ධි පිළිරුව හා බාලදක්ෂ නිර්මාතෘ බේඩ්න් පවල් සාමිගේ පිළිරූ කඩා දමා ඇතැයි මඩකලපු පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>නෙල්සන්</author>
+            <date>2012-04-06 15:54:24</date>
+            <index>0</index>
+            <phrase>ඉංදියාවෙන් පළිගන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2012-04-06 16:16:01</date>
+            <index>1</index>
+            <phrase>ආණ්ඩුවේ ලණු කාලා බලු වැඩ කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර, කටාර් සිට</author>
+            <date>2012-04-06 16:43:48</date>
+            <index>2</index>
+            <phrase>ඝන්ධි මාහතා කවර කතාද ??? තිලෝගුරු බුදු පියානන් වහන්සේගේ බුදු පිළිම විනාස කරන පාපතර ඉන්න රටේ ????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනුස් අලවි.</author>
+            <date>2012-04-06 21:42:32</date>
+            <index>3</index>
+            <phrase>ලංකාව කබලෙන් ළිපට වැටෙන්නයි යන්නේ........මෝඩ වැඩ....වාහන බද්දත් වැඩි කලේ පලි ගන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-06 21:49:30</date>
+            <index>4</index>
+            <phrase>ඝාන්ධිතුමාගේ පිළිරෑ කඩන්න පුලුවන්. නමුත් එතුමාගේ චරිතය කවදාකවත් ඝාතනය ‍කොරන්න බැරිබව තේරැමි ගනිත්වා.මලවිකාර එහෙනන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

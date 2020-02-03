@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>129538</articleId>
+    <title>ලාහුගල වනමැද නීලගිරි සෑය</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 මැයි මස 30 13:29:35</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>බෝපිටිය</author>
+            <date>2013-06-03 13:36:39</date>
+            <index>0</index>
+            <phrase>වටිනා ස්ථානයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

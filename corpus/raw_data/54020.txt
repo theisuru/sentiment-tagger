@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>54020</articleId>
+    <title>පස් කන්දට යටවූ හය දෙනෙක් රෝහලේ</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 ජූලි මස 18 11:10:25</date>
+    <body>හැටන් නුවරඑළිය මාර්ගයේ රොසිටා නගරයේ පාර අලූත්වැඩියා කරමින් සිටියදී  පස් කන්දකට යටවූ ඉංජිනේරුවරයකු  ඇතුළු හත්දෙනෙකු බේරා රෝහලට යැවූ බව පොලීසිය හා සහන සේවකයෝ කියති.
+ඉංජිනේරුවරයාගේ හා සේවකයන් දෙදෙනකුගේ තත්ත්වය බරපතල වුයෙන් නාවලපිටිය රෝහලට මාරුකළ බවද වැඩබිමේ සේවකයෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>විජේ</author>
+            <date>2012-07-18 11:57:18</date>
+            <index>0</index>
+            <phrase>මෝඩ වැඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2012-07-18 12:09:36</date>
+            <index>1</index>
+            <phrase>මෝඩ වැඩ නොවෙයි. මෙම ඉතිහාසයේ හැමදාමත් යට උනේ, දුක් වින්දේ, පසට දුහුවිල්ලට යටඋනේ අහිංසකයෝ කම්කරුවෝ. මෙතනත් වෙලා තියෙන්නේ අන්න ඒක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-07-18 12:15:49</date>
+            <index>2</index>
+            <phrase>මොකක්ද විජේ මෝඩ වැඩේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-07-18 11:37:36</date>
+            <index>3</index>
+            <phrase>මොකක්ද විජේ මෝඩ වැඩේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කම්මලේ ගෙදර</author>
+            <date>2012-07-18 12:16:34</date>
+            <index>4</index>
+            <phrase>ආරක්සන ක්‍රම කිසිවක් භාවිතා කරලා නෑ වගේ පෙනෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිමල්</author>
+            <date>2012-07-18 11:56:19</date>
+            <index>5</index>
+            <phrase>මේකේ පරීක්ෂකවරු මොනවා කරනවද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිලිපීනෝ</author>
+            <date>2012-07-18 12:05:51</date>
+            <index>6</index>
+            <phrase>පාර හදද්දි වෙන ඒවා මෝඩ වැඩ. හැබැයි පාර අලුත්වැඩියා නොකර තියෙද්දි කාටහරි අනතුරක් වුණා නම්, අන්න එතකොට රජය පළි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆීසර්</author>
+            <date>2012-07-18 12:08:17</date>
+            <index>7</index>
+            <phrase>ඇති යන්තම් බේරුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-07-18 13:09:08</date>
+            <index>8</index>
+            <phrase>ඉංජිනේරුවෙක් මීට වැඩ වගකීමෙන් වැඩ කල යුතුයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-07-18 12:50:00</date>
+            <index>9</index>
+            <phrase>ඉක්මන් සුවය ලැබේව !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේවක</author>
+            <date>2012-07-18 13:35:26</date>
+            <index>10</index>
+            <phrase>ඒයි විජේ පාරේ ගිහින් අහුවෙන්න එපා හොදද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුංචා</author>
+            <date>2012-07-18 14:37:06</date>
+            <index>11</index>
+            <phrase>ජීවිත හානියක්නම් වෙන්න එපා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පූසා</author>
+            <date>2012-07-18 15:44:14</date>
+            <index>12</index>
+            <phrase>පාර හදන එක මෝඩ වැඩක් වෙන්නෙ කොහොමද විජේ ? අපේ රටේ ඔය වගෙ වැඩ කරන්නේ අඩු ඇස්තමේන්තුවලින්, හැම කෙනාම වගේ ගසා කාල කාල අවසානෙ මුදල් නැහැ වැඩේ කරන්න හරියට, එහෙම උනාම පස් කඩා වැටෙනවට අධාරක ගහන්න මුදල් නැතුව ඇති..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2012-07-19 05:57:14</date>
+            <index>13</index>
+            <phrase>විජේ කියන නමටත් අගෞරවයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

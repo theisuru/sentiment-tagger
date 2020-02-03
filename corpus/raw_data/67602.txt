@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>67602</articleId>
+    <title>උඩරටදි බසයක් ගිනිගනී</title>
+    <author>ප්‍රස්‍න්න පද්මසිරි  ඡායාරූප - ප්‍රසාද් රුක්මාල්</author>
+    <date>2012 සැප්තැම්බර් මස 30 15:09:30</date>
+    <body>බදුල්ල-බණ්ඩාරවෙල මාර්ගයේ ධාවනය වූ පෞද්ගලික බවසයක් උඩුවරදී ගිනි ගත්තේය. මගීහු බසයෙන් පැණ දිවි බේරා ගත්හ.</body>
+    <comments>
+        <comment>
+            <author>සරසි</author>
+            <date>2012-09-30 16:21:18</date>
+            <index>0</index>
+            <phrase>නිදන් හෑරීමට හා මැණික් ගැරීමට රජයට අයිතියක් ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-09-30 18:43:54</date>
+            <index>1</index>
+            <phrase>අපරාදේ කියන්න බැහැ. ගිනිනිවන හමුදාව වෙලාවටම ඇවිල්ලා වගේ. බසය දිහා බැළුවම පේනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනයාක</author>
+            <date>2012-09-30 18:56:28</date>
+            <index>2</index>
+            <phrase>ඉස්සර බෝම්බ කාරයෝ වාෂ්ප වෙද්දි අයිඩී එකට මොනවත් වෙන්නේ නැහැ. ඒක ඉතිරි වෙනවා. මේ බසය ගිනි ගත්තත් අංකය ඉතිරිවෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපවතී</author>
+            <date>2012-09-30 20:38:12</date>
+            <index>3</index>
+            <phrase>බෝම්බයක් තිබුණලු නේද ඇතුලේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුවාන්</author>
+            <date>2012-09-30 22:22:27</date>
+            <index>4</index>
+            <phrase>වටිනා ජීවිතවලට හානියක් නොවීම ගැන සතුටු වෙමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-10-01 01:45:05</date>
+            <index>5</index>
+            <phrase>මේවටනම් රජයට දොස් කියන්න බෑ ..රක්ෂණය කරලනේ ඇත්තේ .....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිඳු</author>
+            <date>2012-10-01 07:32:56</date>
+            <index>6</index>
+            <phrase>ගිණී ගැනීමක්ද ? ගිනි තැබීමක්ද ?? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-10-01 08:17:17</date>
+            <index>7</index>
+            <phrase>ඉන්ෂුවර්න්ස් එකත් එක්ක තියෙන සම්බන්ධය පොඩ්ඩක් හොයලා බැලුවොත් නේද හොද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-10-01 08:24:48</date>
+            <index>8</index>
+            <phrase>කන්දක් අදින විට රත්වී ගිණි ගත්තා දළදා සමිදු පිහිටෙන් සැම දිවි රැක ගත්තා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-10-01 09:39:06</date>
+            <index>9</index>
+            <phrase>දෙයියන්ගෙම පිහිටයි , කිසිම කෙනෙකුට අනතුරක් නැතුව බේරුන එක ගැන සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීතිකා</author>
+            <date>2012-10-01 09:39:46</date>
+            <index>10</index>
+            <phrase>බසය ගිනි ගන්න පටන්ගත්තා විතරයි එතනින්නම් එකොට, පැය භාගයක් විතර බදුල්ල පැත්තට එද්දී බෝගහමඩිත්ත ලගින් යනකොට ගිනි නිවන රථය යනවා. බස් එකේ අලු ‍ගෙන්න වෙන්නැති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

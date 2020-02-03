@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>366276</articleId>
+    <title>තෙල් බවුසරයේ ගින්න අධිවේගී මාර්ගය වසයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2015 දෙසැම්බර් මස 03 12:23:45</date>
+    <body>ඇමෙරිකාවේ කැලිෆෝනියා ප්‍රාන්තයේ අධිවේගී මාර්ගයක ගමන් කරමින් තිබූ තෙල් බවුසරයක් හටගත් ගින්නක් හේතුවෙන් දැඩි වාහන තදබදයක් හටගත් බවත් ගින්න නිවා දැමිමට ගිනි නිවන හමුදාවට දැඩි වෙහෙසක් දැරීමට සිදුවූ බවත් විදෙස් මාධ්‍ය වාර්තා කරයි.
+බවුසරයේ ටයරයක් පුපුරා යාමෙන් වාහනය පෙරළී ගින්න හටගත් බව එරට මාධ්‍යවලට පොලිසිය පවසා ඇත. ගින්න හටගන්නා අවස්ථාවේ බවුසරයේ තෙල් ගැලුම් 8,700ක් තිබූ බව ද පවසයි. බවුසරයේ රියදුරාගේ දිවි බේරි ඇත.
+ </body>
+    <comments>
+        <comment>
+            <author>නිශා</author>
+            <date>2015-12-03 08:05:03</date>
+            <index>0</index>
+            <phrase>අපේ රටේ වුණා නම් තව ජීවිත කීයක් නැති වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2015-12-03 10:05:56</date>
+            <index>1</index>
+            <phrase>මොනවා හිතන් අපේ රටේ උනානම් ජීවිත වැඩියෙන් විනාශවෙයි කියනවද මන්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2015-12-03 17:06:37</date>
+            <index>2</index>
+            <phrase>අපේ රටේ උනා නම් ද ? විනාශ වෙන්න ඔකේ තෙල් ඉතුරු වෙන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2015-12-03 17:30:15</date>
+            <index>3</index>
+            <phrase>ජිවිතහානි නැති එක හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

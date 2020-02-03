@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>21402</articleId>
+    <title>වෙද සිසුහු අපුරට එති</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 ජනවාරි මස 10 16:28:13</date>
+    <body>පොලිසියේ උපදෙස් අනුව සාලියපුර මඩු කඩා ඉවත් කළ රජරට සරසවියේ සාලියපුර වෛද්‍ය පීඨ සිසුහු අද අනුරාධපුර නගරයට පැමිණ උද්ඝෝෂණයක් කළහ. සාලියපුර සිට බස්වලින් නගරයට ආ ඔවුහු නව බස්නැවැතුම්පොළ ඉදිරිපටට වී පුවරු ඔසොවාගෙන ටික වේලාවක් නිහඬව සිට බස්වලි නැඟී ආපසු ගියහ.</body>
+    <comments>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-01-11 09:25:45</date>
+            <index>0</index>
+            <phrase>ඔය කාලේ විතරයි ඔය සෙල්ලම්. ඊට පස්සෙ ඉතින් සල්ලි පස්සෙ තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2012-01-12 09:39:00</date>
+            <index>1</index>
+            <phrase>ඇග පුරාම මොළය ඒකයි මේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

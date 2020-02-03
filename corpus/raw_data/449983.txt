@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>449983</articleId>
+    <title>කතානායක අපිකා අත්සන් කරයි</title>
+    <author>ශිලා ජයසුන්දර</author>
+    <date>2016 අගෝස්තු මස 22 17:20:35</date>
+    <body>අතුරුදන් වුවන් පිළිබඳ කරුණු සෙවීමේ කාර්යාලය පිහිටුවීමේ  පනතට අඟහරුවාදා (23) කතානායක අත්සන් තැබීමට නියමිත බව පාර්ලිමේන්තුවේ නියෝජ්‍ය මහ ලේකම් නීල් ඉද්දවෙල පැවසීය.
+පනතට සංශෝධන එකතු කිරිම මේ වන විට  අවසන්  කර  ඇතැයි ද ඔහු කීය.
+මෙම පනත පසුගිය 11 වැනි දා පාර්ලිමේන්තුවේ ද සංශෝධන සහිතව සම්මත විය.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-22 13:41:08</date>
+            <index>0</index>
+            <phrase>තවත් අසතුටුදායක ප්‍රවෘත්තියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2016-08-23 04:18:49</date>
+            <index>1</index>
+            <phrase>මේ අය රට සංවර්ධනය කරන පනතක් ගේනවා අපි තාම දැක්කෙ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජින්ද</author>
+            <date>2016-08-23 08:52:31</date>
+            <index>2</index>
+            <phrase>හැමෝම උඩ බිම දදා පෙරළන්නේ අපේ රට කියලා දැනෙනකොට පුදුම වෛරයක් ඇතිවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>59125</articleId>
+    <title>මහා දුරක් ආවත්</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 අගෝස්තු මස 16 12:51:46</date>
+    <body>මිහින්තලේ මහාකනදරා වැවේ දිය කඩිතකින් පැන් පවස නිවා ගැනීමට ආ දළ ඇතෙකි. පෙනීමේ දුර්වලතාවයක් ඇතැයි කියන මේ ඇතා ගිය වසරේ අගෝස්තු මාසයෙත් එහි පැමිණ ඇත. ඇතාගේ උඩ අඩි නවයක් පමණ ඇත. දෙදළ අඩි 4ක් පමණ දිගය. පිටුපස කඳුවැටියෙන් පෙනෙනුයේ මහින්තලා වෙහෙරයි. මාස තුන හතරකින් උතුරු මැදට වැසි ලැබී නැත.</body>
+    <comments>
+        <comment>
+            <author>මධු</author>
+            <date>2012-08-16 12:59:29</date>
+            <index>0</index>
+            <phrase>ඇතාට දෙවියන්ගේම පිහිටයි. වැඩි විස්තර අවශ්‍ය නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රමෝද්</author>
+            <date>2012-08-16 13:09:49</date>
+            <index>1</index>
+            <phrase>බුදුන් පාමුල හිසනැමූ නාලාගිරි පරපුරෙන් පැවතඑන ඔබ දැක්ම අපට මහත් සොම්නසකි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2012-08-16 13:12:02</date>
+            <index>2</index>
+            <phrase>දළ දෙකට දෙවියන්ගේ පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-08-16 13:17:25</date>
+            <index>3</index>
+            <phrase>දැන් ඉතින් කට්ටිය ඇතාගේ දළ කපන්න හදයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-08-16 13:19:17</date>
+            <index>4</index>
+            <phrase>මේ ෆොටෝ ටික නොපෙන්නුවානම් තමයි හොඳ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-08-16 13:38:13</date>
+            <index>5</index>
+            <phrase>මේ නියගයෙන් මිනිස්සුයි සත්තුයි හොදටම හෙම්බත් වෙලයි ඉන්නේ. අනේ, වහිනවා නම් තොච්චර දෙයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2012-08-16 13:36:22</date>
+            <index>6</index>
+            <phrase>නියම ඇතෙක්නේ. හැබැයි දළ වල තමයි ප්‍රශ්නය තියෙන්නේ. අනේ පරිස්සමින් ආපහු කැළේටම යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේරි</author>
+            <date>2012-08-16 13:41:10</date>
+            <index>7</index>
+            <phrase>අනේ මේ සතා බේරා ගන්න. නැත්නම් ඌවත් මරා ගනීවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-08-16 13:54:05</date>
+            <index>8</index>
+            <phrase>අප්‍රිකානු පෙනුමක් තියෙන්නෙ.. ඔබට සියළු දෙවි දේවතාවුන්ගේ පිහිටයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමල්</author>
+            <date>2012-08-16 14:01:04</date>
+            <index>9</index>
+            <phrase>බවුසරයක් මාර්ගයෙන් හො ජලය ටිකක් බීමට සපයා දෙන්න පුළුවං නේද? වටිනා සත්වයෙක්නෙ.. අපි ස්වාභාවධර්මය රැක ගනිමු..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-08-16 14:02:09</date>
+            <index>10</index>
+            <phrase>මේ සතාගේ ජීවිතයට අනතුරක් විය හැක..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-16 14:11:27</date>
+            <index>11</index>
+            <phrase>අනේ අපේ රටේ ඇතුන් ටිකට දෙවි පිහිටයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලීසා</author>
+            <date>2012-08-16 14:13:31</date>
+            <index>12</index>
+            <phrase>අනේ අහිංසක සතාට තෙරුවන් සරණයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-16 14:11:33</date>
+            <index>13</index>
+            <phrase>රුදුරු මිනිසුන්ගේ ක්‍රියාකලාපයන් මිනිසුන්ට දැඩි ලෙස බලපා ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2012-08-16 14:15:36</date>
+            <index>14</index>
+            <phrase>ඡායාරූප පළවීම නිසා අහිංසකයාට හිරිහැරයක් වෙන්න පුළුවං..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්චනා</author>
+            <date>2012-08-16 14:18:07</date>
+            <index>15</index>
+            <phrase>දළ ඇතුන්ට මෙහෙමද අපේ රටේ ඉරණම..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-08-16 14:22:42</date>
+            <index>16</index>
+            <phrase>මොකද මේ කණ ඉරාගෙන..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමිත</author>
+            <date>2012-08-16 14:27:10</date>
+            <index>17</index>
+            <phrase>අනේ කොහොම හරි වතුර ලබාදී මේ අහිංසකයන්ගේ ජීවිත බේරාගැනීමට කටයුතු කරන්න...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-16 14:35:47</date>
+            <index>18</index>
+            <phrase>අපේ ඇත් සම්පත සදා අපේ රටේ පවතීවා..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-08-16 14:41:09</date>
+            <index>19</index>
+            <phrase>දාපු විස්තර හොදටම ඇති.. දැං ඉතිං ආයෙ මෙයා දකින්නවත් නැති වෙයි.. ආයෙ මේ වගේ දේවල් පළ කරන්නේ නැත්නම් හොදයි..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංගලා</author>
+            <date>2012-08-16 14:44:03</date>
+            <index>20</index>
+            <phrase>අනේ මේ සතාට ඉක්මනට ආරක්ෂාවක් සළසන්න.. දළ දෙක කපාගන්න දැනටමත් වටේටම බලාගෙන ඇති..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනකා</author>
+            <date>2012-08-16 15:03:34</date>
+            <index>21</index>
+            <phrase>ප්‍රෙමෝධ නාලාගිරි නම් හිටියෙ ඉන්දියාවෙ මෙයා ලංකාවෙ..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-16 15:03:22</date>
+            <index>22</index>
+            <phrase>මේනක ඔයා දැක්කද නාලාගිරිව ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සර්කාම්</author>
+            <date>2012-08-16 15:13:45</date>
+            <index>23</index>
+            <phrase>බවුසර් වලින් වතුර ගෙනත් දෙන්න අවශ්‍යය නැහැ. මෙහෙම පෙනුනට වැවේ වතුර තව ගොඩක් තියෙනවා. අගෝස්තු මාසයට අලි මේ විදිහට වතුර බොන්න වැවට එනවා. ඒක සාමාන්‍යය දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිවිනි</author>
+            <date>2012-08-16 15:15:51</date>
+            <index>24</index>
+            <phrase>මේ වෙන දේවල් වලට වැස්ස වලාහක දෙවියන්ට ලැජ්ජා හිතිලා. ලංකාව දිහා බලන්නේ අකමැත්තෙන්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-08-16 15:12:32</date>
+            <index>25</index>
+            <phrase>මේ රටේ වෙන දේවල් වලට වැහි දෙවියන්ට ලැජ්ජා හිතිලා ලංකාව දිහා බලන්නවත් අකමැතිලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බොතේජු</author>
+            <date>2012-08-16 15:17:02</date>
+            <index>26</index>
+            <phrase>කෝ මෙයාගෙ නැට්ට..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහිත</author>
+            <date>2012-08-16 15:35:45</date>
+            <index>27</index>
+            <phrase>අනේ ලංකාදීප මාමේ, මේ පින්තූර පත්තරේ දාන්න එපා. මේ ඇතාව විනාශ කරලා දායි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-08-16 15:42:02</date>
+            <index>28</index>
+            <phrase>ශය ලංකාවේ පිරිමි කරන වැඩ නිසාලුනේ වහින්නේ නැත්තේ. හැබැයි එල්ලුම් ගහ ක්‍රියාත්මක කරන තුරු වැස්ස වළාහක දෙවියන් වැස්ස දෙන්නේම නැතිවෙයිලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-16 15:45:01</date>
+            <index>29</index>
+            <phrase>පිලිපීනෙටම ඉන්නේ එකම එක අලියයි. ඒ ලංකාවෙන් දුන්න කෙනෙරක්. මුලු රටම ඌට හරිම ආදරෙයි. ඒත් ඌ දැන් වයසයි. මට හිතෙන්නේ තව එකෙක් දුන්නා නම් තමයි හොද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ප්‍රිය</author>
+            <date>2012-08-16 15:50:11</date>
+            <index>30</index>
+            <phrase>කොහොමත් අලීන්ටත් දැන් වතුරත් නෑ තමයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-08-16 16:01:04</date>
+            <index>31</index>
+            <phrase>ලබන අගෝස්තු නෙවෙයි හෙට වෙනකොටම මේ දළ හොයාගන්නත් නැති වේවි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේසනී</author>
+            <date>2012-08-16 17:19:55</date>
+            <index>32</index>
+            <phrase>ෂා... අලි හාමි නළුවෙක්ට වඩා ලස්සනට ෆොටෝ වලට ඉන්නවනේ. අලි හාමි 'ෆොටෝජෙනික්' කෙනෙක්. වටිනා පින්තුරයක්. අපි මේ ලස්සන වටිනා අලි සම්පතත් එක්ක අපේ ඉදිරි පරම්පරා 10 කටවත් බුක්ති විඳින්න පුළුවන් වෙන විදියට තමයි ජිවත් වියයුතු වන්නේ. බලන්න මේ පරිසරයේ ලස්සන. මොන තරම් සරලද , නිදහස්ද? මොන තරම් ගාම්භීරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයලත්</author>
+            <date>2012-08-16 17:25:49</date>
+            <index>33</index>
+            <phrase>අනේ දෙවියනේ මේ අසරණ සතුන්ගැනව්ත හිතලා වැස්ස ලබාදෙන්න.. බුදුන් වැඩිය අපේ මව්බිමට වැස්ස ලබාදෙන්න දළදා මෑණියනේ.. මේ අසරණ සතුන්ගේ ජීවිත ආරක්ෂාකරගන්න වැස්ස ලබාදෙන්න..!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජේසනී</author>
+            <date>2012-08-16 17:26:33</date>
+            <index>34</index>
+            <phrase>අපේ ඇත් රාළහාමිගේ කන් ඉරාගෙන තියෙන්නේ, ඇසුත් පෙනෙන්නේ නැතුව හොරෙන් කෙහෙට හරි පනින්න ගිහිල්ල වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති-ඩුබායි</author>
+            <date>2012-08-16 18:28:54</date>
+            <index>35</index>
+            <phrase>ඇතාට දෙවියන්ගේම පිහිටයි! කෞතුකාගාරයේ රත්තරං කඩු වලට සිද්ධ වුණු දේම තමයි කවදාහරි වෙන්නේ. පවු! අසරණ සතා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනේධ</author>
+            <date>2012-08-16 18:41:49</date>
+            <index>36</index>
+            <phrase>ඇත් රජුනි, විශේෂයෙන්ම ඇමතිවරුන්ගෙන් ප්‍රවේශම් වන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමේධ</author>
+            <date>2012-08-16 18:45:15</date>
+            <index>37</index>
+            <phrase>ඔබට ගණදෙවි පිහිටයි!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගීත්</author>
+            <date>2012-08-16 19:39:33</date>
+            <index>38</index>
+            <phrase>මේ ඇතාව බේරාගැනීමට එස්ටීඑෆ් එකෙන්වත් දාන්න වෙයි...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-08-16 19:36:45</date>
+            <index>39</index>
+            <phrase>තව සති තුනකින් විතර නැවතත් පළ කරන්න පුලුවන් වෙයි මේ ප්‍රවෘත්තිය ඇතාගේ දළ දෙක නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-08-16 19:56:57</date>
+            <index>40</index>
+            <phrase>වතුර නැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-17 03:24:52</date>
+            <index>41</index>
+            <phrase>පරිස්සමෙන්! වතුර බොන්න ආවට කවුද කිව්වේ ෆෝටො වලට ඉන්න කියල...දන්නවනේ මිනිසුන්ගේ හැටි. දැන් අලිය බලන්න කියල කියල කැලෑව පීරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-17 07:40:21</date>
+            <index>42</index>
+            <phrase>බොන්න වතුර හොයාන ඇවිත් වතුර නැති උනාට කමක් නැහැ කලේ ඇතුලෙම ඉන්න අතෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-08-17 10:36:29</date>
+            <index>43</index>
+            <phrase>දැන් ඉතින් ගම් වැසියො ටිකවත් එකතු වෙලා අලියගෙ ජීවිතේ බේරගන්න බැලුවනම් තමයි හොද මේ වැව නැවතිලා කියල පෙන්නුවට සතාව පෙන්නපු එක නම් වැරදියි‍. මේක ලංකාවනේ‍‍‍...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත් බණ්ඩාර (සෞදි)</author>
+            <date>2012-08-17 14:04:34</date>
+            <index>44</index>
+            <phrase>රජරට පලාතේ වෙන අපරාධ බලාගෙන යන්ඩ, පරණ රජවරුන්ගේ පණිවිඩ කාරයෙක් වාගෙයි පෙනෙන්නේ, මොකද රජවරු හදපු වැව් දැන් සිඳිල ගිහිල්ලනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුගත්</author>
+            <date>2012-08-17 14:04:41</date>
+            <index>45</index>
+            <phrase>රජරට පැත්තේ වෙන අපරාධ බලාගෙන යන්න ආපු පණිවිඩ කාරයෙක්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගෝපාල් කුමාර</author>
+            <date>2012-08-18 12:15:52</date>
+            <index>46</index>
+            <phrase>මෙතන ප්‍රතිචාර ලියන කවුරු හරි බවුසර එකෙන් වතුර ඇදල දෙන්න කතා කරනවා. ඊට කලින් ඇස් දෙක බලවා ගත්තොත් හොඳයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

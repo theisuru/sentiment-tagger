@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>280660</articleId>
+    <title>19 දෙනෙක් එති</title>
+    <author></author>
+    <date>2014 දෙසැම්බර් මස 08 10:03:27</date>
+    <body>අද (08) පෙරවරු 10.40 වන විට නාමයෝජනා බාර දීම සඳහා අපේක්ෂකයෝ 19 දෙනාම මැතිවරණ මහ ලේකම් කාර්යාලයයට පැමිණ සිටියහ.
+(ප්‍රධාන අපේක්ෂකයන් දෙදෙනා නාමයෝජනා බාර දීමට අදාල ලියැවිලිවලට අත්සන් කළ අයුරු ඡායාරූපයේ දැක්වේ)</body>
+    <comments>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-12-08 04:56:51</date>
+            <index>0</index>
+            <phrase>මැතිවරණ අපේක්ෂකත්වය මානසික ව්‍යාධියක් බවට පත්වී ඇති සැටියක් පෙනෙන්නේ. ලෙඩවූ දේශයකට ප්‍රතිකර්ම ලෙස ලැබෙන්නේ තවත් දරුණු විෂබීජ. රටට ජනතාවට ආදරය කරන බව වචනයෙන් පමණක් පෙන්වන හොඳම සංකේතමය අවස්ථාවත් මෙයමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-12-08 06:37:14</date>
+            <index>1</index>
+            <phrase>සුබ අනාගතක් මහින්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරසි</author>
+            <date>2014-12-08 06:38:33</date>
+            <index>2</index>
+            <phrase>රටේ යහපත මගේ පැතුමයි. !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිමා</author>
+            <date>2014-12-08 06:40:34</date>
+            <index>3</index>
+            <phrase>අය්යෝ! මේ සුභ වෙලාවේ ඇයි මේ කළු ඇදගෙන ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමින්ද</author>
+            <date>2014-12-08 06:56:08</date>
+            <index>4</index>
+            <phrase>ඔබට ජයවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීනාත් මැක්ෂී</author>
+            <date>2014-12-08 07:29:00</date>
+            <index>5</index>
+            <phrase>ජයෙන් ජයම අත්වේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සසංක</author>
+            <date>2014-12-08 07:37:42</date>
+            <index>6</index>
+            <phrase>හැමෝගෙම මූණු හරි නෑ වගේ. උද්යෝගයක් නෑනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව ඩුබායි</author>
+            <date>2014-12-08 07:38:31</date>
+            <index>7</index>
+            <phrase>කෙසේ වුවත් දෙදෙනාටම ජය පතමි. නමුත් හොරකමින් තොර සංවර්ධනයක් සහ අප රට සැමට එක නීතියක් බිහි කිරීමට හැකි නායකයකු ලැබේවා කියා ප්‍රර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමේධ</author>
+            <date>2014-12-08 07:41:15</date>
+            <index>8</index>
+            <phrase>මහින්ද මහතා පරාජය කිරීමට නොහැකිබව මේ අයට තේරුම් නොගන්න එකයි කණගාටු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙත්මි</author>
+            <date>2014-12-08 07:44:00</date>
+            <index>9</index>
+            <phrase>ජනපති තුමනි ඔබ තුමාගේ ජය නියතයි. ජයවේවා ලස්සන පින්තුරයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් විජේවීර</author>
+            <date>2014-12-08 07:48:25</date>
+            <index>10</index>
+            <phrase>මේ පාරත් ධර්ම රජයටද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ් කිහාම්</author>
+            <date>2014-12-08 07:48:26</date>
+            <index>11</index>
+            <phrase>මහින්ද මහත්තයානම් හිනා මුසු මුහුණින් හැබයි මෛත්‍රි මහත්තයගෙ මුහුණ කනස්සල්ලෙන් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-12-08 07:50:03</date>
+            <index>12</index>
+            <phrase>ජය වේවා මෛත්‍රී ... අපි ඔබ සමගයි..... මීලග ජනපති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශසී</author>
+            <date>2014-12-08 08:10:57</date>
+            <index>13</index>
+            <phrase>හොදට බලන්න දෙන්නම තනි වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2014-12-08 08:11:04</date>
+            <index>14</index>
+            <phrase>සත්‍ය ගේ කතාවට මගේ ආචාරය පිරිනමනවා (නදී),</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොරගල්ල</author>
+            <date>2014-12-08 08:22:07</date>
+            <index>15</index>
+            <phrase>කොහොම කොහොම හරි අන්තිමට තෝරන්න වෙන්නෙ මහින්ද මහත්තයාවම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිෂාන්</author>
+            <date>2014-12-08 08:27:41</date>
+            <index>16</index>
+            <phrase>මුහුණු නම් හොඳ නැහැ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2014-12-08 08:27:08</date>
+            <index>17</index>
+            <phrase>සුමේධට ජිල්-මාට් ක්‍රමය පිළිබඳ පොඩියම් හෝ ඉවක් දැනිලා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තනුජ</author>
+            <date>2014-12-08 08:45:15</date>
+            <index>18</index>
+            <phrase>අහෝ! මේ වෙනතුරු කළ හැම හොඳ වැඩක්ම මේ නිසා නැතිවෙලා ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුෂාන්</author>
+            <date>2014-12-08 08:48:10</date>
+            <index>19</index>
+            <phrase>අපි මහින්ද සමඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2014-12-08 08:49:34</date>
+            <index>20</index>
+            <phrase>තව මාසයක් කරච්චලේ ඉවසන්න වෙන එක ගැන තමා දුක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුනි</author>
+            <date>2014-12-08 08:52:52</date>
+            <index>21</index>
+            <phrase>මහින්ද.....හැමදා ඔබමය අපගේ ජනපති....ජයෙන් ජයම වේවා....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිරු</author>
+            <date>2014-12-08 09:07:05</date>
+            <index>22</index>
+            <phrase>ඇයි දැන දැන කට්ටිය ජනපතිවරණයට ඉල්ලලා පරදින්න හදන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2014-12-08 09:09:50</date>
+            <index>23</index>
+            <phrase>රටට වැඩක් කරන්න පුළුවන්,ජනතාවට සේවයක් කරන්න පුළුවන් කෙනෙක් පත්වේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2014-12-08 09:21:38</date>
+            <index>24</index>
+            <phrase>අපිට නොපෙනෙන වාසියක් තියෙනවා මේ ඉල්ලන අයට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2014-12-08 09:24:06</date>
+            <index>25</index>
+            <phrase>මේ රටේ දේශපාලනය පාදඩ තත්වයට ගෙන ආපු අයට දෙන්න දඬුවමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිරු</author>
+            <date>2014-12-08 09:25:30</date>
+            <index>26</index>
+            <phrase>චන්දෙ කිට්ටුව මෙතන කලක සිට ලියන අයගේ නම් වලින් පැටවූ ගහලා.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප් වසන්ත</author>
+            <date>2014-12-08 09:46:09</date>
+            <index>27</index>
+            <phrase>පළමු පින්තූරය හා දෙවන පින්තූරය අතර ලොකු වෙනසක් දකිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාගල</author>
+            <date>2014-12-08 09:50:23</date>
+            <index>28</index>
+            <phrase>හදහනේ අපල තියෙන හින්දා උවමනාවෙන්ම විපක්ෂ නායකතුමා එක්කෙනෙක් අනිත් පැත්තට යැව්වා කියන කතාව ටිකක් පිළිගන්න අමාරුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2014-12-08 09:56:00</date>
+            <index>29</index>
+            <phrase>ඒවා කියන්න බැහැ සාගල. විපක්ෂනායකතුමා කියන්නේ පුදුම මොලයක්. අපල තියන අය අනිත් පැත්තට ගියහම අපලේ බලපාන්නේ ඒ පැත්තටනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයනාත්</author>
+            <date>2014-12-08 09:55:15</date>
+            <index>30</index>
+            <phrase>ඕන කෙනෙක් පත්උනාවේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ශාන්</author>
+            <date>2014-12-08 10:18:53</date>
+            <index>31</index>
+            <phrase>ප්‍රදීප් වසන්ත,ඔබේ කතාව හරියටම හරි. පලමු පින්තූරේ ඉන්න අය රට පාලනය කරන්නේ පවුලේ අයත් එක්ක. නමුත් දෙවෙනි පින්තූරේ ඉන්න අය,රට වෙනුවෙන් පොදු ගමණක් යන්න හදන්නේ. ඒ නිසා තමයි එයාලා සාමූහිකව. ධර්මයේ ආශිර්වාදය සහිතව මේ වැඩේ කරන්නේ. සැබෑ වෙනසක්. අපි හැමෝම දෙවෙනි පින්තූරේ ඉන්න අයට සුභ පතමු....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසී</author>
+            <date>2014-12-08 10:21:36</date>
+            <index>32</index>
+            <phrase>ඹබ දෙපලගේ මෙවන් සුන්දර ඡායාරුවක් දැකි්ම සතුටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසිරු</author>
+            <date>2014-12-08 10:37:34</date>
+            <index>33</index>
+            <phrase>යන කට්ටිය යවලා වැඩ පටන් ගන්න එක කොහොමටත් හොඳයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් ආරියවංශ</author>
+            <date>2014-12-08 10:42:38</date>
+            <index>34</index>
+            <phrase>බුදු සරණින් ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගිහාන්</author>
+            <date>2014-12-08 11:17:47</date>
+            <index>35</index>
+            <phrase>බයටම වැඳගෙන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසුම්</author>
+            <date>2014-12-08 11:31:13</date>
+            <index>36</index>
+            <phrase>සාගල, කියනවා වගේ හදහනේ අපල තිබුණා කියල අනිත්පැත්තට යැව්වා නම් ඒක අනුමත කරන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෂාන්</author>
+            <date>2014-12-08 11:41:19</date>
+            <index>37</index>
+            <phrase>කව්රු ආවත් ජනතාවට හොඳ සේවයක් අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2014-12-08 12:07:45</date>
+            <index>38</index>
+            <phrase>මහින්ද මහත්තයා නම් හරිම සතුටෙන් වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2014-12-08 12:19:46</date>
+            <index>39</index>
+            <phrase>වැඳගෙන ඉන්න විදියෙන් අපිට ගොඩක් දේවල් හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හුසේන්</author>
+            <date>2014-12-08 12:20:43</date>
+            <index>40</index>
+            <phrase>දිල්ශාන්, බලාගෙන ඉන්න. ඔයා සුබ පතන අයට රට පාලනය ලැබුනු කාලයේ නොකරපුවා දැන් කරයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික විජේසිංහ</author>
+            <date>2014-12-08 12:26:57</date>
+            <index>41</index>
+            <phrase>ලබන සැරේ කොහොම හරි මාත් ජනාධිපතිවරණයට ඉල්ලන්ඩ ඕනී .මේක හරි ජොලි වැඩක්නේ බලාගෙන ගියාම .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2014-12-08 12:30:21</date>
+            <index>42</index>
+            <phrase>මහින්ද මහතා නොහිටින්න මේ රට අද කොටියට බිලිවෙලා ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-12-08 12:43:29</date>
+            <index>43</index>
+            <phrase>ජයවේවා අපේ ජනාධිපතිතුමනි! අපි ඔබ සමඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලින්ද</author>
+            <date>2014-12-08 12:51:26</date>
+            <index>44</index>
+            <phrase>ජය වේවා දෙන්නටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසින්ත</author>
+            <date>2014-12-08 13:17:50</date>
+            <index>45</index>
+            <phrase>ජයවේවා මහින්දට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක වෙල්ලප්පුලි</author>
+            <date>2014-12-08 13:26:42</date>
+            <index>46</index>
+            <phrase>අපිට තියෙන ආදරේටනේ මේ ඔක්කොම ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිඹුලාපිටියේ</author>
+            <date>2014-12-08 13:34:18</date>
+            <index>47</index>
+            <phrase>අපේ රට පුරා ව්‍යාප්තව පවත්නා "කුඩු ජාවාරම්" ඇතුළු අපචාර නිසා රටම විනාශ වෙලා. අලුත්ම සංස්කෘතිය නම් "රූම්ස් " සංස්කෘතිය. මේවා දැක දැක වගකිව යුත්තන් ගොළුවන් බීරන් ලෙස ඉන්නවා. එල්.ටී.ටී එක කලාට වඩා විනාශයක් රටට වෙලා තියෙන්නේ. පොදු අපේක්ෂක තුමා ජය ගෙන මෙම තුප්පහි සංස්කෘතිය නැති කිරීමට හැකිවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙරන්ජ ටි</author>
+            <date>2014-12-08 13:53:36</date>
+            <index>48</index>
+            <phrase>මහින්ද රාජපක්ෂ ජනාදිපති තුමාට ජය ආශිර්වාද පතමි, රට කොටින්ගෙන් බේරාගත්තා වගේ, හොර මැති අමතිලගෙන්, එතනෝල් කාරයන්ගෙන්, කුඩු ජාවාරම් කාරයන්ගෙන් සහ ඒවාට සම්බන්ඳ වෙලා ඉන්න දේශපාලුවන්ගෙන් රට බේරා ගන්න ඉදිරි අවුරුදු 6 ප්‍රමාණවත් වේවි කියා සිතමි. ඔබට සදා ජය පතමි, බුදු සරණයි, දෙවි පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුනි</author>
+            <date>2014-12-08 13:55:39</date>
+            <index>49</index>
+            <phrase>දිල්ශාන්ගේ අදහසට මමත් එකඟයි. රටට ජය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2014-12-08 14:07:29</date>
+            <index>50</index>
+            <phrase>මුනු මාරුවෙන පාලනයක් නෙමේ ජනතාව දිනන රට දිනන ක්‍රමයක් අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩුබායි ලංකා</author>
+            <date>2014-12-08 14:31:32</date>
+            <index>51</index>
+            <phrase>මන් දන්නේ එක දෙයයි.රටේ මිනිස්සු තවත් අසරණ වෙනවා .මහජන මුදල් කීයක් විනාශ වෙනවද ?මේ නැති වෙන්නේ දුප්පත් අපේ සල්ලි ...කෙසේ වුවත් දෙදෙනාටම ජය පතමි. හොඳ දෙයක් වෙනවනම් කවුරු ආවත් සුබ පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමල්</author>
+            <date>2014-12-08 14:36:36</date>
+            <index>52</index>
+            <phrase>ප්‍රධාන අපේක්ෂකයයි, පොදු අපේක්ෂකයි පැරදිලා වෙන අපේක්ෂකයෙක් තරඟ බිම ජය ගනී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුනි</author>
+            <date>2014-12-08 15:11:40</date>
+            <index>53</index>
+            <phrase>ඩිල්ෂාන්ට අතීතය අමතකයි. එදා සිට රටට එරෙහිවූ අද දක්වා ද්‍රෝහිකම් කරන එන්.ජී.ඕ. නඩයේ සහයෝගය කාටද කියා පොඩ්ඩක් ඇස් ඇරලා බලන්න. එතකොට ධර්මයේ තරම තේරේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2014-12-08 16:27:22</date>
+            <index>54</index>
+            <phrase>ජය වේවා රාජපක්ෂ ජනාධිපතිතුමාට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබ්දුල්</author>
+            <date>2014-12-08 17:53:32</date>
+            <index>55</index>
+            <phrase>සජිත් ජනාධිපතිවරණයට ආවොත් ගේමක් නැතිව දිනනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණදාස සපුතන්ත්‍රී</author>
+            <date>2014-12-08 18:07:31</date>
+            <index>56</index>
+            <phrase>ඉතාමත් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2014-12-08 18:52:39</date>
+            <index>57</index>
+            <phrase>මෙවර වෙනසක් කරන්න බැරිවුණොත් ඒක මුළු ජාතියේම අවාසනාව. අන්න ඒක තේරුම් ගන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමීර ගමගේ</author>
+            <date>2014-12-08 20:28:59</date>
+            <index>58</index>
+            <phrase>ජයග්‍රහණය විජයග්‍රහණයක් කරන්න මහින්ද මැතිඳුට සවියක් වෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-12-08 22:47:53</date>
+            <index>59</index>
+            <phrase>දෙවෙනි පින්තුරය දැක්කම මට මතක් වෙන්නේ ගුත්තිලයේ එන කවියක්. ඉඳ ඉඳ එක වෙහෙර, විඳ විඳ දහම් මනහර, සිඳ බිඳ දුක් සසර, අහෝ දෙව්දත් නොදිටි මොක් පුර.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහිර</author>
+            <date>2014-12-09 04:21:57</date>
+            <index>60</index>
+            <phrase>ඔය කව්රු දිනුවත් දුප්පත් මිනිහාගේ අනාගතය සුපුරුදු ලෙසම තමයි. හිතන තරම් සුන්දර ලෝකයක් මේ වනතෙක් උදාකරලා නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-12-09 05:58:57</date>
+            <index>61</index>
+            <phrase>බණ්ඩාර මහත්තය මට ඕන දේ කියල තියෙනවා. 9 වෙනිදා වෙනකම් කට්ටියට පාලු ගෙවල් වල වළං බිදින්න දෙමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර යු ඒ ඊ</author>
+            <date>2014-12-09 07:02:58</date>
+            <index>62</index>
+            <phrase>නෙරංජන්, ඒක කොහොමවත් කරන්න බැහැ එතුමාට. පාරවල්, ගුවන් තොට වරයා වගේ දේවල් ගැන විතරක් කියන්න කරලා දේවි. බුදු සරණ පතනවා ඔබට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසාංග</author>
+            <date>2014-12-09 07:24:08</date>
+            <index>63</index>
+            <phrase>අවසාන තරඟයේදී කවුද ජය ගන්නේ බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර</author>
+            <date>2014-12-09 12:00:19</date>
+            <index>64</index>
+            <phrase>කවුරු මොනවා කිව්වාත් ජනාධිපති තුමා දිනනවමයි.ඔ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2014-12-09 17:30:29</date>
+            <index>65</index>
+            <phrase>මෛත්‍රීපාල සිරිසේන යුගයක් ලබන වසරේ සිට පටන් ගනිමු. මෛත්‍රීපාල සිරිසේන මහතාණනි ඔබතුමාගේ ජය දැන් 100 % තහවුරුවී හමාරයි. ජයමවේවා. අපේ රටට කුඩු වලින් තොර එතනෝල් වලින් තොර හොර කැසිනෝ වලින් තොර සුදු වෑන් භීෂණයෙන් තොර හොර දේශපාලුවන්ගෙන් තොර, පවුල් සංග්‍රහයෙන් තොර චින්නුන්ගෙන් තොර වාසනාවන්ත යුගයක් කරාගෙන යන්නට ඔබට වසනාවේවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

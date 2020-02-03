@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14783</articleId>
+    <title>අයවැය පැරැද්දුවාට  වේවැල අතට ගනී</title>
+    <author>මහින්ද නිශ්ශංක</author>
+    <date>2011 නොවැම්බර් මස 27 14:37:09</date>
+    <body>පෝද්දල හා දොඩංගොඩ ප‍්‍රාදේශීය සභාවල 2012 අයවැය යෝජනා සම්මත කිරීමට එරෙහිව ඡන්දය භාවිතා කළ එක්සත් ජනතා නිදහස් සන්ධානයේ ප‍්‍රාදේශීය සභා මන්ත‍්‍රීවරුන් 6 දෙනකුට විරුද්ධව විනය ක‍්‍රියාමාර්ග ගැනීමට තීරණය කර ඇතැයි එම සන්ධානයේ මහලේකම් අමාත්‍ය සුසිල් පේ‍්‍රමජයන්ත මහතා පැවසීය.
+මින් හතරදෙනකු පෝද්දල ප‍්‍රාදේශීය සභාවේ වන අතර දෙදෙනකු දොඩංගොඩ ප‍්‍රාදේශීය සභාවේය.</body>
+    <comments>
+        <comment>
+            <author>ක්‍රිෂාන්</author>
+            <date>2011-11-27 15:30:31</date>
+            <index>0</index>
+            <phrase>බොහොම කණගාටුයි ඇමතිතුමනි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Honda Putha</author>
+            <date>2011-11-27 17:13:34</date>
+            <index>1</index>
+            <phrase>ඇමතිතුමනි, ඒ අයට විනය ක්‍රියාමාර්ග ගන්න කලින් එතන උනේ මොකක්ද කියල හොයල බැලුවනම් නේද හොඳ. තමන්ගේම පැත්තේ අය අනෙක් පැත්තට චන්දෙ දෙන්න මොකක් හරි ලොකු හේතුවක් ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් කලුබෝවිල</author>
+            <date>2011-11-28 07:23:14</date>
+            <index>2</index>
+            <phrase>හැමදාම කරන්නේ ඕක තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසල්</author>
+            <date>2011-11-28 14:04:13</date>
+            <index>3</index>
+            <phrase>ඔට්ටුයි මොනවත් කරන්න බෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>44356</articleId>
+    <title>හිරගෙදරින් තර්ජනයක් ලු</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2012 මැයි මස 23 15:48:35</date>
+    <body>හොරොයින් නඩු සම්බන්ධයෙන් කොළඹ මැගසින් බන්ධනාගාරයේ රැඳවියන් මරණ බවට තර්ජනය කළ බව කියන නිලධරයකු ගැන විමර්ශනයක් කැර වාර්තාවක් ඉදිරිපත් කරන්නැයි කොළඹ  අතිරේක මෙහේස්ත්‍රාත් පවිත්‍රා එස් පතිරණ මෙනෙවිය බොරැල්ල පොලිසියට නියෝග කළාය.</body>
+    <comments>
+        <comment>
+            <author>රජිත්</author>
+            <date>2012-05-23 16:33:21</date>
+            <index>0</index>
+            <phrase>රටේ සල්ලි නාස්ති කර කුඩු කාරයින්ව ආරක්ෂා කරනවට වැඩිය ඒක හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-23 16:36:50</date>
+            <index>1</index>
+            <phrase>උසස් වීමක් ගන්න සුදුසු කමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක (බහරේන්)</author>
+            <date>2012-05-23 17:29:00</date>
+            <index>2</index>
+            <phrase>රජිත් හරියටම හරි.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2012-05-23 17:45:25</date>
+            <index>3</index>
+            <phrase>ඉතින් උසවියෙන්මනේ හෙරොයින් කාරයන්ට මරණ දඬුවම නියම කරන්නේ. එතුමා කරන්න හදන්නේ ඒ තීන්දුව ක්‍රියාත්මක කරන එක. මොකක්ද වරද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසීර්</author>
+            <date>2012-05-23 21:50:28</date>
+            <index>4</index>
+            <phrase>කුඩුකාරයෝ නැතිකරන එක ලොකු පිනක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉංදු</author>
+            <date>2012-05-24 07:09:32</date>
+            <index>5</index>
+            <phrase>ඒ වගේ රට අගාදයට ගෙනියන අයනම් මොනව හරි කරන්න. ඕනේ රටක විනාසය කුඩු මහජනයගේම මුදල්වලින් තමයි නඩත්තු කරන්න වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරෝලිස්</author>
+            <date>2012-05-24 12:47:42</date>
+            <index>6</index>
+            <phrase>ඒ මහතුන් නම් ටිකක් වෙනස් චරිතයක් වගේ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-05-24 19:31:09</date>
+            <index>7</index>
+            <phrase>බන්ධනාගාරයේ ඉදන් රටේ අපරාධ පාලනය කරන අපරාධකාරයෝ ඉන්න එකම රට අපේ රට වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

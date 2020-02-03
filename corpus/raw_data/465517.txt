@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465517</articleId>
+    <title>රජයේ තෑග්ගක්  ඇමැති ෆවුසි ගෙදර ගෙනිහින්?</title>
+    <author>ෂෙහාන් චාමික සිල්වා නිරංගි අබේවික්‍රම</author>
+    <date>2016 ඔක්තෝබර් මස 07 10:54:36</date>
+    <body>රජයේ වාහනයක් අවභාවිත කරමින් රජයට රුපියල් දස ලක්ෂ හැත්තෑ තුන් දහසක් වංචා කළැයි කියන නඩුවකට   නොවැම්බර 28  වැනි දා අධිකරණයේ පෙනී සිටින ලෙස ආපදා කළමනාකරණ හිටපු ඇමැති සහ වත්මන් රජයේ ජාතික ඒකාබද්ධතා සහ ප්‍රතිසන්ධාන රාජ්‍ය අමාත්‍ය ඒ එච් එම් ෆවුසිට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ගිහාන් පිලපිටිය මහතා නොතීසි නිකුත් කළේය.
+හදිසි ආපදා අවස්ථා සඳහා ප්‍රයෝජනයට ගැනීමට නෙදර්ලන්තයෙන්  ලැබුණු රුපියල් එක්කෝටි අනූ ලක්ෂයක් පමණ වටිනා ජීප් රියක් 2011 සිට 2014 දක්වා තම පෞද්ගලික ප්‍රයෝජනයට ගත්තේයැයි චෝදනා හතරක් යටතේ අල්ලස් කොමිසමෙන් එම නඩුව පවරා තිබේ.</body>
+    <comments>
+        <comment>
+            <author>නිමල් ද සිල්වා</author>
+            <date>2016-10-07 06:29:12</date>
+            <index>0</index>
+            <phrase>අනේ පවුසි පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2016-10-07 06:56:53</date>
+            <index>1</index>
+            <phrase>අනේ මන්ද දුප්පත් මිනිහෙක් පොල් ගෙඩියක් හොරෙන් කැඩුවත් අල්ලලා හිරේ දාන රටේ මේවානම් දෙවියෝම බලාගන්න ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු</author>
+            <date>2016-10-07 06:57:29</date>
+            <index>2</index>
+            <phrase>හරියට හරි නඩු දාන්න, අයකර ගන්න හිරේ දාන්න. ඔය වංචා කාරයෝ එකෙක්වත් හිරේ දැම්මොත් මම නුවර සිටන් කොළඹට බඩගානවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමිඳු</author>
+            <date>2016-10-07 08:56:12</date>
+            <index>3</index>
+            <phrase>එල ෆවුසි !!!.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කවිතා</author>
+            <date>2016-10-07 08:57:58</date>
+            <index>4</index>
+            <phrase>එල පවුසි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වින්සන්ට්</author>
+            <date>2016-10-07 09:13:20</date>
+            <index>5</index>
+            <phrase>බමුණු මහතා නුවර සිට කොළඹට බඩ ගාන දිනය ඉක්මනින්ම පැමිණීමට අපි ප්‍රර්ථනා කරමු. ඒ මහතාගේ ලිපිනයක් සමඟින් ප්‍රකාශය පළ වී නම් මැනවි. නැති නම් අපේ දේශපාලකයන්ගේ පොරොන්දු,ප්‍රකාශ වගේ වෙන්නට පුළුවන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්</author>
+            <date>2016-10-07 09:49:00</date>
+            <index>6</index>
+            <phrase>එක අතකට බමුණුගේ කතාවත් හරි. එයා කියන්නේ ඕවා කෙරෙන වැඩ නොවෙයි කියන එකනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බර්ලින්</author>
+            <date>2016-10-08 16:04:44</date>
+            <index>7</index>
+            <phrase>ෆවුසි කියාවි මම මේ තෑග්ග සාක්කුවේ දමාගෙන ගෙදර අරන් ගියේ නැහැ, ජීප් රථය මාව එ්ක ඇතුළේ දමාගෙන අපේ ගෙදර ගියා. මම නෙමෙයි වැරදිකාරයා, මේ ජීප් රිය තමා වැරදිකාරයා. මේක පිටරටකින් ලැබුන නිසා මේක ජාත්‍යන්තර කුමන්ත්‍රණයක කොටසක් කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බෙර්ලින්</author>
+            <date>2016-10-08 16:08:09</date>
+            <index>8</index>
+            <phrase>බමුණුට බය නැතුව ඔට්ටු අල්ලන්න පුළුවන්. ලංකාවේ උසාවියක් මේ නඩුව අඩුමතරමේ වසර 20-30 වත් අහයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ද සිල්වා බර්ලින්</author>
+            <date>2016-10-08 21:13:52</date>
+            <index>9</index>
+            <phrase>ඒ ඉතින් රජතුමාගේ අැමති මණ්ඩලයේ ඉන්න කාලේනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රමණි</author>
+            <date>2016-10-09 02:19:49</date>
+            <index>10</index>
+            <phrase>නිදහස් පෙරමුණේ මුසම්මිල් ඇතුළට දැම්මෙත් ඔය චෝදනවාටමනේ. දැන් ෆවුසිට මොකද කරන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

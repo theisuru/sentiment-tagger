@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>24014</articleId>
+    <title>රනිල් දළදා වැඳ මහා නාහිමිවරු හමුවෙයි</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 ජනවාරි මස 28 13:44:00</date>
+    <body>එක්සත් ජාතික පක්ෂ නායක හා විපක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා අද මහනුවර දළදා මාලිගාවට ගොස් වැඳ පුදාගෙන තිබ්බටුවාවේ ශ්‍රී සුමංගල මල්වතු පාර්ශවයේ මහා නායක, උඩුගම ශ්‍රී බුද්ධරක්ඛිත අස්ගිරි පාර්ශවයේ මහා නායක හිමිවරුන් බැහැ දුටුවේය. වික්‍රමසිංහ මහතා මල්වතු - අස්ගිරි විහාරවලට යෑමට පෙර මාධ්‍යයට පැවැසුයේ එය පෞද්ගලික කටයුත්තක් නිසා මාධ්‍ය අවශ්‍ය නොවන බවයි.
+ </body>
+    <comments>
+        <comment>
+            <author>නිරේෂ්</author>
+            <date>2012-01-28 14:17:36</date>
+            <index>0</index>
+            <phrase>ගරු හාමුදුරුවරු කියන දේ නොකරන කෙනෙකුට කිසිදු ලැජ්ජාවකින් තොරව නැවත ඔවුන් හමුවීමට යා හැකි නම් එය සැබවින්ම ප්‍රශ්නයකි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2012-01-28 16:01:45</date>
+            <index>1</index>
+            <phrase>බොහොම හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-01-28 19:47:30</date>
+            <index>2</index>
+            <phrase>බුදු දහමට අනුව පව් සමා කිරීමක් නැත..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-01-28 22:13:30</date>
+            <index>3</index>
+            <phrase>ඔබතුමාට සැමදා විපක්ෂනායක ධුරයේ ඉන්න වාසනාව ලැබේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

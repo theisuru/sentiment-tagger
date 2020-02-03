@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>75188</articleId>
+    <title>හාපන් ගොනෝ අපි දෙන්නා පූරුවෙ කළ පවට</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 නොවැම්බර් මස 06 13:12:34</date>
+    <body>වැස්ස ලැබීමත් සමග ලග්ගල ඉමාඩුව හෙල්මැලි කුඹුරු සී සෑම ඇරඹෙයි.
+මාස් කන්නයේ පමණක් අහස් දියෙන් වගා කැරේ. ලග්ගල ගොවියා අති දුෂ්කර ජීවිතයක් ගත කරයි.</body>
+    <comments>
+        <comment>
+            <author>සිල්වා තබුක්</author>
+            <date>2012-11-06 13:38:41</date>
+            <index>0</index>
+            <phrase>බැරි බර කරේ තියං දෙපයට වාරු අරන් මුළු කුඹුරම අපි වපුරනවා.. ගොවියන් නුඹ නාඩන් තව පොඩ්ඩක් ඉදපං.. මම නුබට පොරොන්දු වෙනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලීප</author>
+            <date>2012-11-06 13:54:37</date>
+            <index>1</index>
+            <phrase>අසරණ සත්තු පවු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-11-06 14:32:00</date>
+            <index>2</index>
+            <phrase>මේ ඡයාරූප දකින්නත් ආසයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-11-06 14:46:12</date>
+            <index>3</index>
+            <phrase>මේ රූප දකින්නත් ආසයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2012-11-06 14:34:02</date>
+            <index>4</index>
+            <phrase>අශ්වයන්ට මීට වඩා හොඳට කුඹුරුවල වැඩ කරන්න පුළුවන් මම හිතන්නේ. වෙන අයට ගෙන්නන අතරේ මේ දුප්පත් ගොවියන්ටත් පිටරටින් ගෙනල්ල දුන්න නම් හොඳ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-11-06 14:39:38</date>
+            <index>5</index>
+            <phrase>පින්තූර දැක්කම සිතින් මා අතීතයට ගියා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-11-06 15:10:11</date>
+            <index>6</index>
+            <phrase>කර්ම චක්කරය කියන්නේ මේකට තමයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමීර</author>
+            <date>2012-11-06 15:31:29</date>
+            <index>7</index>
+            <phrase>මඩ සෝදාගත්කල ගොවියා සුදුසු රජකමටයි කිව්වනේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෆික්</author>
+            <date>2012-11-06 15:19:22</date>
+            <index>8</index>
+            <phrase>වැරදි මාර්තුකාවක්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අානන්ද පිටබැද්දර</author>
+            <date>2012-11-06 15:55:04</date>
+            <index>9</index>
+            <phrase>මේ හෙළ බිම සරු කරන්න මුතු දාඩිය ඔබයි දුන්න සැම ෙදවියනි ඔබ රකින්න අසරණයින් ෙගාඩ දමන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-11-06 15:41:09</date>
+            <index>10</index>
+            <phrase>මේ හෙළ බිම සරු කරන්න මුතු දාඩිය ඔබයි දුන්න සැම දෙවියනි ඔබ රකින්න අසරණයින් ගොඩ දමන්න....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා ඩුබායි</author>
+            <date>2012-11-06 16:12:41</date>
+            <index>11</index>
+            <phrase>අසරණ සතාගෙන් වැඩ අරගෙන වයසට ගියාම මසට දෙන්නනම් එපා.. ගොවි මහත්තයෝ පව්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්.එම්.සුගන්ද</author>
+            <date>2012-11-06 17:13:47</date>
+            <index>12</index>
+            <phrase>පවු කළ ගොනෝ ඇදපන් හපුතල් කන්ද පෙර නය ගෙවන්නයි ඔය දුක් විදින්නෙ පවු දැක්කම හරි දුකයි ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-06 18:02:43</date>
+            <index>13</index>
+            <phrase>දැක්කම ලොකු සතුටක් ඇති වෙනවා . අපේ අතීත‍ය ගැන බොහොම ආඩම්බරයි ‍ගොවි මහත්තයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-06 18:06:05</date>
+            <index>14</index>
+            <phrase>සත්ව ලෝකය කියන්නේ තිරිසන් අපායක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-11-06 18:14:29</date>
+            <index>15</index>
+            <phrase>ඇයි මේ අහිංසක සත්තුන්ට වධ දෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-11-06 18:37:37</date>
+            <index>16</index>
+            <phrase>ඒ කියන්නේ ගොවියෙක් වෙන්නේ පෙර කළ පවටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-11-06 19:02:38</date>
+            <index>17</index>
+            <phrase>මේවගේ දර්ශනයක් දැක්කහම අපේ පොඩිකාලේ මතක් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-11-06 19:33:12</date>
+            <index>18</index>
+            <phrase>සතාගෙන් වැඩ ගත්තත් අපේ සැබෑ මිනිස්සු සතාට ආදරෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2012-11-06 20:13:13</date>
+            <index>19</index>
+            <phrase>මේ අයට අවශ්‍ය පොහොර ටික අඩුවට දුන්නා නම් පිටරටින් බඩු ගෙන්වන්න ඕනෑ නැහැනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෂාන්</author>
+            <date>2012-11-06 20:36:27</date>
+            <index>20</index>
+            <phrase>සත්තු කියන්නේ පවු කාර ජාතියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිතුම්</author>
+            <date>2012-11-06 21:07:07</date>
+            <index>21</index>
+            <phrase>ඇයි අලුත් යන්ත්‍ර සූත්‍ර භාවිතා කරන්න බැරි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධු</author>
+            <date>2012-11-06 21:57:36</date>
+            <index>22</index>
+            <phrase>රසිකා, ඔබ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිර්ති</author>
+            <date>2012-11-06 22:25:17</date>
+            <index>23</index>
+            <phrase>අපේ බඩ පුරවන්නනේ මේ සත්තු මැරෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිර්ති</author>
+            <date>2012-11-06 22:47:41</date>
+            <index>24</index>
+            <phrase>අහිංසක සත්තු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීව</author>
+            <date>2012-11-07 00:03:18</date>
+            <index>25</index>
+            <phrase>ජීවිතය කියන්නෙ එහෙම තමයි. මහන්සි වෙන්න ඕනෑ. හී හාන්න ඕනෑ,වපුරන්න ඕනෑ, පල නෙලා ගන්න ඕනෑ.එහෙම නැතුව බත් පිඟානට ඉබේ වැටෙන්නෙ නැහැ. මිනිසුන්ව අධෛර්ය කරන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසන්ක</author>
+            <date>2012-11-07 02:38:17</date>
+            <index>26</index>
+            <phrase>ශෆික් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2012-11-07 02:59:20</date>
+            <index>27</index>
+            <phrase>මොනවා කරන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවා</author>
+            <date>2012-11-07 03:17:28</date>
+            <index>28</index>
+            <phrase>මම නම් හරකට පාරක් ගහන්නවත් කැමති නැහැ. පවු අහිංසක සතා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-11-07 07:36:12</date>
+            <index>29</index>
+            <phrase>මේ රටේ බත් කොපමණ රසද? ඒත් අපි රට හාල්ම කමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටුආන්</author>
+            <date>2012-11-07 08:05:24</date>
+            <index>30</index>
+            <phrase>දැන් මේක දැකලා අර සේනාව කියන කට්ටිය මේකටත් උද්ඝෝෂණ කරයි,හරකට වධ දෙනවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුපුල්</author>
+            <date>2012-11-07 08:22:10</date>
+            <index>31</index>
+            <phrase>හරි විදියට ආණ්ඩුවෙන් පොහොර සහ බීජ සහන මිලකට ගොවියන්ට දුන්නා නම් මේ රට ස්වංපෝෂිත වේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකරත්න</author>
+            <date>2012-11-07 09:01:51</date>
+            <index>32</index>
+            <phrase>මම ආයෙත් හිතින් ගමට ගියා , මේ පින්තුරවලට ස්තූතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂාන්</author>
+            <date>2012-11-07 09:02:40</date>
+            <index>33</index>
+            <phrase>මේ ගොන්නු නෙවෙයි,මී හරක්‌ නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2012-11-07 09:21:10</date>
+            <index>34</index>
+            <phrase>මාතෘකාවනම් කිසිසේත්ම ගැලපෙන්නෑ නේද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිමුතු</author>
+            <date>2012-11-07 09:44:27</date>
+            <index>35</index>
+            <phrase>ටුආන්, ඔබ මෝඩයෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මි</author>
+            <date>2012-11-07 10:33:20</date>
+            <index>36</index>
+            <phrase>කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවගේ</author>
+            <date>2012-11-07 10:48:17</date>
+            <index>37</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2012-11-07 12:24:54</date>
+            <index>38</index>
+            <phrase>ලුම්බිණි , විහිලු කතා කරන්න එපා. අශ්වයෙකගේ වටිනාකමවත් ඔයා දන්නවද ? නිශ්ඵල වචන කියන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-11-07 12:21:08</date>
+            <index>39</index>
+            <phrase>අපේ අතීතය මතක් වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නේත්‍රා</author>
+            <date>2012-11-07 22:38:58</date>
+            <index>40</index>
+            <phrase>ටුආන්ට දුක ඇති තමන්ගේ කට්ටියට හරක් මස් ගාත අඩුවෙන හින්දා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරිදු</author>
+            <date>2012-11-07 22:57:50</date>
+            <index>41</index>
+            <phrase>ටුආන්ලගේ ආගමේ අය අන්තවාදීන් කියලා හැමෝම දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

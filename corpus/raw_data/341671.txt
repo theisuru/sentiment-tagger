@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>341671</articleId>
+    <title>ඉන්දීය ජනපති බිරිය මිය යයි</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2015 අගෝස්තු මස 19 13:17:46</date>
+    <body>ඉන්දීය ජනපති ප්‍රනාබ් මුකර්ජීගේ බිරිය සුව්රා මුකර්ජි 18 අඟහරුවාදා මිය ගිය බව ඉන්දීය පුවත් සේවා කියයි.
+අසනීප තත්ත්වයේ සිටි ජනපති බිරිය ශ්වසන ආබාධ තත්ත්වයකින් පීඩා වින්දාය. අඟහරුවාදා පෙරවරුවේ නව දිල්ලියේදී ඇය මිය ගිය බව ටයිම්ස් ඔෆ් ඉන්දියා පුවත් සේවාව සඳහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>ශානක</author>
+            <date>2015-08-20 16:14:13</date>
+            <index>0</index>
+            <phrase>ඇයගේ ආත්මයට සැනසීම ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටුආන්</author>
+            <date>2015-08-21 04:07:37</date>
+            <index>1</index>
+            <phrase>කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න-ටෝකියෝ</author>
+            <date>2015-08-22 15:31:23</date>
+            <index>2</index>
+            <phrase>ශාන්තියක්ම වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>454160</articleId>
+    <title>අවසන් සටනට පෙර</title>
+    <author>සෙනරත් බණ්ඩාර</author>
+    <date>2016 සැප්තැම්බර් මස 04 14:09:52</date>
+    <body>හතරවෙනි දින මහනුවර පල්ලෙකැලේ පැවැත්වෙන  ඔස්ට්‍රේලියා  ශ්‍රී ලංකා පස්වෙනි එක්දින ක්‍රිකට් තරගයට  පෙර ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම මහනුවර ශ්‍රී දළදා මාලිගාවට  පැමිණ  දළදා වහන්සේ වැදපුදා ගත්තේය.  ක්‍රිකට්  පාලක  මණ්ඩලයේ සභාපති තිලංග සුමතිපාල සහ දියවඩන නිලමේ නිලංග දෑලබණ්ඩාර  ද එහි වූහ.</body>
+    <comments>
+        <comment>
+            <author>උදිත්</author>
+            <date>2016-09-04 09:16:45</date>
+            <index>0</index>
+            <phrase>ඔහොම කරලා හරි බලමු ජාමේ බේරගන්න පුලුවන්ද කියල..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2016-09-04 10:48:03</date>
+            <index>1</index>
+            <phrase>හොඳ වැඩක්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-09-04 11:25:45</date>
+            <index>2</index>
+            <phrase>ශ්‍රී දළදා සමිඳුන්ගේ පිහිටෙන් ජය ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2016-09-04 12:57:03</date>
+            <index>3</index>
+            <phrase>ලස්සනයි. සිම්පල්. පල්ලෙකැලේ කියල දැක්ක ගමන් මට ක්‍රිකට් මල්ලිලා ටික පෙනුනේ හිර කාරයෝ සෙට් එකක් මාලිගාවට ගිහින් වගේ. කොච්චර වෙනස්ද කිවුවොත්, ගොඩක් අය අදුනගන්නත් අමාරුයි.ජයග්‍රහණය ලැබීමට සුභ පැතුම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමරසේකර</author>
+            <date>2016-09-04 13:27:00</date>
+            <index>4</index>
+            <phrase>භක්ති ගීත කියන ගැහැණු ළමයි ටිකක් නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුසල්</author>
+            <date>2016-09-04 16:44:08</date>
+            <index>5</index>
+            <phrase>සෑම සුභ කටයුත්තකටම පෙර තුණුරුවන්ගේ ආශිර්වාදය ලබාගැනීම ඉතා හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-09-05 06:19:39</date>
+            <index>6</index>
+            <phrase>ශ්‍රී දළදා මාලිගාව ඇතුලේ පුටු වල අසුන් ගෙන ඉන්නේ ??? රජ පැටව්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයාරත්න</author>
+            <date>2016-09-05 08:52:49</date>
+            <index>7</index>
+            <phrase>ඔබට ආඩම්බරද දැන් අපි දිනුම් නේද? ඉතුරු මැච් ටිකත් ඔහොමම ගහන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විද්‍යා</author>
+            <date>2016-09-06 18:02:39</date>
+            <index>8</index>
+            <phrase>බලන්න කොපමණ අගෙයිද කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

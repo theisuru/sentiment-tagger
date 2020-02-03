@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>471709</articleId>
+    <title>දුම්වැටි මිල තවත් ඉහළ යන ලකුණු</title>
+    <author>අකිල බද්දෙවිතාන</author>
+    <date>2016 ඔක්තෝබර් මස 23 16:44:33</date>
+    <body>දුම්වැටියක මිල රුපියල් 55 දක්වා අයවැයෙන් වැඩිකිරීමට පියවර ගනු ඇතැයි සෞඛ්‍ය ඇමැති රාජිත සේනාරත්න මහතා පවසයි.
+මෑතදී සිගරට් මිල රුපියල් 7කින් වැඩිවිය.
+එකතු කළ අගය මත බද්ද හෙවත් වැට් බද්ද 15% කිරීම නිසා එසේ මිල වැඩිවන බවත් සුරුට්ටු බීමෙන් ද සෞඛ්‍යයට හානියක් සිදුවන බව ඇමැතිවරයා සඳහන් කළේය.
+එබැවින් සිගරට් මිල වැඩිකළද සුරුට්ටු පානය සඳහා යොමු නොවිය යුතු බව සේනාරත්න මහතා අවධාරණය කළේය.
+සියලුම දුම්කොළ ආශ්‍රිත නිෂ්පාදනවල වැට් බද්ද වැඩි කළ යුතු බවත් සෞඛ්‍ය සේවාවේ සියලු වැට් බදු ඉවත් කළ යුතු බවත් තමා රජයට යෝජනා කළ බව ඇමැතිවරයා ස﻿ඳහන් කළේය.
+ </body>
+    <comments>
+        <comment>
+            <author>බෙලිගම්මන</author>
+            <date>2016-10-25 10:41:58</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්.. තහනම් කළා නම් හොදයි නේද. ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-10-28 08:54:53</date>
+            <index>1</index>
+            <phrase>දුම්වැටියක මිළ රුපියල් 100ක් කළා නම් වඩාත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-10-28 08:55:09</date>
+            <index>2</index>
+            <phrase>දුමි වැටියක මිළ රුපියල් 100ක් කලා නම් වඩාත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිත</author>
+            <date>2016-11-01 12:23:07</date>
+            <index>3</index>
+            <phrase>මමත් සිගරට් බොනවා තමයි එ් වුණත් වැඩේ හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

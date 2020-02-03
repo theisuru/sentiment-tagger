@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>363299</articleId>
+    <title>දරුවා පන්සලේ දමා ගිහින්</title>
+    <author>සනත් ගමගේ දිලිප් රොෂාන්</author>
+    <date>2015 නොවැම්බර් මස 23 10:52:56</date>
+    <body>සූරියවැව විහාරගල අලිඔලු ආර පිරිවෙනට දරුවකු සමඟ පැමිණි කාන්තාවක් දරුවා පන්සලේ දමා ගිය බව පරිවේනාධිපති ගැටමාන්නේ විජිත හිමියෝ පැවැසූහ.
+සූරියවැව පොලිසිය පරීක්ෂණ ආරම්භ කළ නමුත් මව සොයාගත නොහැකි විය. දරුවාගේ ඇඟේ තුවාල තිබෙන බවද පොලිසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2015-11-23 13:32:39</date>
+            <index>0</index>
+            <phrase>මෙච්චර ලොකු මහත් වෙනකම් බලාගත්තු එකත් ලොකු දෙයක් කිසි අනතුරක් නොකර මේ දරුවට.මේ දරුවන්ව අනාතමඩම් වලට ගාල් නොකර පන්සල් පල්ලි වලට යොමුකරනවානම් ලොකුවෙද්දී ආගමට දහමට අනුව හැඩගැසේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝජ්</author>
+            <date>2015-11-24 17:51:29</date>
+            <index>1</index>
+            <phrase>අනේ මෙහෙමත් අම්මලා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුල</author>
+            <date>2016-02-27 07:21:14</date>
+            <index>2</index>
+            <phrase>ඉතින් ඔය වගේම තමයි තවත් පන්සලක "අලි පැටියෙක්" දාලා ගියේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

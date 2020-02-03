@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499778</articleId>
+    <title>අතුරුදන්වූ තරුණිය වසර 26කට පසු ගෙදර එයි</title>
+    <author>සුරංග රාජනායක</author>
+    <date>2017 ජනවාරි මස 19 15:46:15</date>
+    <body>80 දශකයේ මෙරට පැවැති භීෂණ සමයේ දී අතුරුදන් වූ තරුණියක් වසර 26කට පසු යළි ඇගේ නිවස සොයා පැමිණි සිදුවීමක් ගම්පොළ ගිරාඋල්ලෙන් වාර්තාවේ.
+ගිරාඋල්ලේ පදිංචිව සිටි පද්මා කුමාරි (43) නමැති ඇය වයස අවුරුදු 18 දී විවාහ වී කොහොමඩ පදිංචියට ගොස් ඇති අතර විවාහයෙන් මාස තුනකට පසු ඇගේ සැමියා ඝාතනයට ලක්ව ඇත. ඉන්පසු කොළඹ ගිය අවස්ථාවකදී අතුරුදන්ව ඇති ඇය පසුගියදා යළි සිය නිවසට පැමිණ ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>ලංකා</author>
+            <date>2017-01-19 12:22:59</date>
+            <index>0</index>
+            <phrase>මේක පොඩි රටක්, අතුරුදහන් වුණා කියන එක නම් බොරුවක්. එයා පොඩි බබෙක් නෙවෙයිනේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2017-01-19 13:37:36</date>
+            <index>1</index>
+            <phrase>මේ කතාව ගැන නම් මටත් පොඩි සැකයක් මතුවෙනවා. මෙච්චර කාලයක් මේ පුංචි රටේ ඔය විදිහට කෙනෙකුව බලෙන් රඳවා ගෙන ඉන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විමලරත්න</author>
+            <date>2017-01-19 17:21:31</date>
+            <index>2</index>
+            <phrase>මට නම් අදහාගන්නත් බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පහන්</author>
+            <date>2017-01-19 18:54:27</date>
+            <index>3</index>
+            <phrase>තමුන්ම අතුරුදහන් වෙලාද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2017-01-19 19:23:04</date>
+            <index>4</index>
+            <phrase>ඇයට සිදුව ඇති දේ පිළිබඳව ඇත්තේ කුතුහලයකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-01-20 00:48:06</date>
+            <index>5</index>
+            <phrase>මෙතන කියවිලා නැහැ නේද බලෙන් රඳවාගෙන සිටියා කියලා. මෙයා නොවෙයි අනික් අයයි කියන්නේ අතුරුදන්වුණා කියල. සැමියා නැතිනිසා මෙයා කොහෙටහරි වෙලා ජීවත්වෙලා දැන් ගම රට අාවා. ඉන්න හේතුව සහ නැවත එන්න හේතුව එයාගෙන්ම දැනගන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2017-01-20 02:03:54</date>
+            <index>6</index>
+            <phrase>ගෙදර අයට මොනතරම් සතුටක් ඇද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2017-01-20 02:13:49</date>
+            <index>7</index>
+            <phrase>සැබවින්ම ඇය වාසනාවන්තියක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2017-01-20 02:45:38</date>
+            <index>8</index>
+            <phrase>මේ පිළිබඳව රජය දැඩි සැළකිල්ලක් දක්වා සොයා බැලිය යුතුයි. මොකද මේ වැනි සිද්ධීන් තවත් බොහෝ තිබිය හැකියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත්</author>
+            <date>2017-01-20 02:49:04</date>
+            <index>9</index>
+            <phrase>අනේ මන්දා මොනවා වුණාද කියලා හිතාගන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

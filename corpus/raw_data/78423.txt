@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>78423</articleId>
+    <title>බැංකු කඩන පවුලක්ම අල්ලයි</title>
+    <author></author>
+    <date>2012 නොවැම්බර් මස 20 11:15:24</date>
+    <body>එකම පවුලේ පියා (50) පුත්‍රයා (20) හා දියණිය (18) ගෙන් සමන්විත වූ සොර මුලක් අත්අඩංගුවට
+ගැනීමට හැකිවියැයි ඇමරිකාවේ ටෙක්සාස් ප්‍රාන්ත පොලිසිය කියයි.
+ටෙක්සාස් ප‍්‍රාන්තයේ පසුගිය සමයේ සිදුවූ බැංකු බිඳීම්වලට මොවුන් සම්බන්ධ බවට සැක කෙරේ.
+වාර්තා වන අන්දමට බැංකු හතක් බිඳ මුදල් සොරකම් කර ගෙන ගොස් ඇත.
+පියා හා පුතා බැංකු බිඳ මුදල් සොරකම් කිරීම කරන විට දියණිය ඔවුන්ට ආරක්ෂාව සපයා
+ඇත. සොරකමින් පසු පලා යන අවස්ථාවේ රථයේ රියැදුරු ලෙස කටයුතු කරන්නේ ද දියණිය බව අනාවරණයවි ඇත.
+සොර මුල කොටු කර ගැනීමට බලධාරීන් සමත්ව ඇත්තේ ඔවුන් ගේ අවසන් බැංකු කොල්ලයේ දී ඇද සිටි ඇදුම් ආශ්‍රමයෙන් ලැබුණූ හෝඩුවාවක් ආධාරයෙනි. බැංකුව ආශ්‍රිත ප්‍රදේශයේ ඇදුම් වෙළද සල් කිහිපයක ආරක්ෂක කැමරා පට නිරීක්ෂණයට බලධාරීන් යොමු වන්නේ ඒ නිසාය.බැංකුවේ ආරක්ෂක කැමරා වල සටහන්ව තිබූ ආකාරයේ ඇදුම් ඇඳගත් තිදෙනකු අසල වෙළද සලකින් ඇදුම් තෝරා ගන්නා ආකාරය දැක්වෙන රූපරාමු වලින් සෙරුන් අල්ලාගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>මුතු</author>
+            <date>2012-11-20 13:30:13</date>
+            <index>0</index>
+            <phrase>අනෙකුත් රටවල තිබෙන දුෂණ ,මානුෂික අයිතිවාසිකම්, ගැන කථා කරමින් සමිබාධක පනවනවා. තම රටේ පවුල් පිටින් ඒකතුව මහා පරිමාණයෙන් කරන සොරකම් වලක්වගන්න බෑ. ඔය ඒකක් පමණයි තව කොතරම් ඒ රටතුල සිදුවෙනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මඩු</author>
+            <date>2012-11-20 14:04:39</date>
+            <index>1</index>
+            <phrase>පවුලේ රැකියාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-11-20 19:17:33</date>
+            <index>2</index>
+            <phrase>ඇයි ඉතින් අපේ රටේ සමහරු පවුල් පිටින් රට කන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-11-20 23:12:55</date>
+            <index>3</index>
+            <phrase>මේ දරුවගේ අම්මා කෝ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මධූ</author>
+            <date>2012-11-21 13:09:09</date>
+            <index>4</index>
+            <phrase>කමල් හරි, ඔබට ජය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-21 22:25:12</date>
+            <index>5</index>
+            <phrase>කමල් කියන්නේ ඇත්ත. ඔක නවත්වන්න අවුරුදු හත අටක් යාවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-22 00:04:04</date>
+            <index>6</index>
+            <phrase>මධු, ඇයි කමල් ඡන්දේ ඉල්ලනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

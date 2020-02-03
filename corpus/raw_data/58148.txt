@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58148</articleId>
+    <title>අනවසර වෙඩි බේත් තොගයක් අල්ලයි</title>
+    <author>රංජිත් රාජපක්ෂ</author>
+    <date>2012 අගෝස්තු මස 10 17:00:00</date>
+    <body>බලපත‍්‍රයේ සඳහන් ප‍්‍රමාණයට වඩා දෙගුණයක් පුපුරණ ද්‍රව්‍ය හැටන් රුවන්පුර ගබඩාවකින් රැගෙන ගිය දෙදෙනෙක් මස්කෙළිය පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගනු ලැබූහ.
+ඇමෝනියම් කිලෝ 50ක්, පිපුරුම් කුඩු (කළු බේත්) කිලෝ 2, පිපුරුම් කාරක 50ක් මෝටර් ජෙල් කිලෝ පහක් ඇතුළු ද්‍රව්‍ය එහි විය. මේ ද්‍රව්‍ය නිකුත් කරනුයේ කළු ගල් වැඩපොළවලටය.</body>
+    <comments>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-08-10 17:45:09</date>
+            <index>0</index>
+            <phrase>අර ගල කඩන්න වෙන්න ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-10 18:49:51</date>
+            <index>1</index>
+            <phrase>ඕක තමයි වෙන්නේ හොර වැඩ කරන්න ගියහම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-08-10 20:58:27</date>
+            <index>2</index>
+            <phrase>හැටන් පැත්තෙලු !!! .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී -කුවේට්</author>
+            <date>2012-08-11 01:09:32</date>
+            <index>3</index>
+            <phrase>ගබඩාවෙන් නිකුත් කළේ කොහොමද? ඒ උදවියට මෙවැනි දෙයක් නිකුත් කිරීමේදී තිබෙන නීතිරීති ගැන වැටහීමක් නැද්ද?අල්ල ගත්තු දෙදෙනා එක්ක ගබඩාවේ අදාල පුද්ගලයිනුත් අත් අඩංගුවට ගන්න එපායැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

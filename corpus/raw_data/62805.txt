@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>62805</articleId>
+    <title>හොලිවුඩයේ ‘කළු යෝධයා’ දිවියෙන් සමුගනී</title>
+    <author></author>
+    <date>2012 සැප්තැම්බර් මස 05 09:50:09</date>
+    <body>සුප‍්‍රකට ‘ගී‍්‍රන් මයිල්’ චිත‍්‍රපටය හරහා ජනපි‍්‍රය වූ ‘හොලිවුඩයේ කළු යෝධයා’ යනුවෙන්ද සිනමා විචාරකයන්ගේ පැසැසුමට ලක් වූ හොලිවුඞ් නළු මයිකල් ක්ලාක් ඩන්කන් හෘදයාබාධයකට ගොදුරු වීමෙන් පෙරේදා (03) දිවියෙන් සමුගත්තේය. මියයනවිට ඔහුගේ වයස අවුරුදු 54 කි.</body>
+    <comments>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-09-05 13:22:10</date>
+            <index>0</index>
+            <phrase>මතකයෙන් ඈත් නොවෙන මිනිසෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙරත්</author>
+            <date>2012-09-05 16:27:00</date>
+            <index>1</index>
+            <phrase>මෙයා ලංකාවේ විජය වගේ හොඳ නළුවෙක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමි</author>
+            <date>2012-09-05 21:31:56</date>
+            <index>2</index>
+            <phrase>විශිෂ්ට පුද්ගලයෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-09-05 23:16:25</date>
+            <index>3</index>
+            <phrase>ජීවිත රග මඩලේ භූමිකාවට නැවතුමක්. ඔබට සුවබර නින්දක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-09-06 08:12:08</date>
+            <index>4</index>
+            <phrase>මිය ගියද ඔබ හොලිවුඩ් සිනමා රසිකයින් අතර සදා ජනප්‍රියය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>31561</articleId>
+    <title>නව විහාරාධිපති හැරී එති</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2012 මාර්තු මස 15 12:31:34</date>
+    <body>මිහින්තලේ රජමහා විහාරාධිපති ලෙස මල්වතු පාර්ශවයෙන් පත් කැරුණු වලවාහැංගුණු වැවේ ධම්මරතන හිමියනට විහාරාධිපති පදවිය බාරදිය නොහැකි බව හිටපු විහාරාධිපති නාමල්වැවේ රතනසාර හිමි පැවැසීය. මල්වතු මහා නාහිමියන්ගේ ලිපිය ප්‍රතික්ෂේප කළ රතනසාර හිමි පැවැසුයේ බුද්ධ ශාසන කොමසාරිස් තමාට කිසිවක් දැනුම් නොදුන් බවයි. නව විහාරාධිපති හිමි ඇතුළු පිරිස හැරී ආහ.</body>
+    <comments>
+        <comment>
+            <author>ගාල්ලේ සමන්</author>
+            <date>2012-03-15 13:15:43</date>
+            <index>0</index>
+            <phrase>මෙය දේශපාලන බලපෑමක් මත කළ දෙයක් බව පෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල් ගාමිනී</author>
+            <date>2012-03-15 13:27:07</date>
+            <index>1</index>
+            <phrase>බුද්ධ ශාසනය තියන රකට වෙන දේවල්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රමෝද්</author>
+            <date>2012-03-15 14:22:10</date>
+            <index>2</index>
+            <phrase>සබ්බ දුක්ඛ නිස්සරන, නිබ්බාන අච්චි කරනත්තාය, පබ්බජ්ජ ආදී විදියට කියල නේද පැවිදි වුණේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>395133</articleId>
+    <title>එජාප ජන රැලිය හයිඩ් පිටියේ</title>
+    <author>ඡායාරූප හා වීඩියෝ - ජයමාල් චන්ද්‍රසිරි</author>
+    <date>2016 මාර්තු මස 15 18:15:20</date>
+    <body>එක්සත් ජාතික පක්ෂය සංවිධානය කරන ‘අලුත් ලංකාවකට ඉඩදෙමු‘ තේමාවෙන් යුතු ජන රැලිය අද (15) සවස කොළඹ හයිඩ් පිටියෙන් ආරම්භ විය.
+මේ හේතුවෙන් ටවුන් හෝල් නගර සභා අසල මාර්ග එකම හිස් ගොඩක් විය.
+අගමැති රනිල් වික්‍රමසිංහ, ආරක්ෂක රාජ්‍ය ඇමැති රුවන් විජයවර්ධන ඇතුළු මැති අැමැතිවරු රැසක් ද එම අවස්ථාවට එක්ව සිටියහ.
+
+
+ඡායාරූප හා වීඩියෝ - ජයමාල් චන්ද්‍රසිරි
+
+ඡායාරූපය - ඩික්සන් වසන්ත</body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-03-15 10:51:53</date>
+            <index>0</index>
+            <phrase>ජන රැලි පැවැත්වෙන අතරේ ලංකාවේ විදුලිය නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලීත්</author>
+            <date>2016-03-15 11:09:31</date>
+            <index>1</index>
+            <phrase>‘අලුත් ලංකාවකට ඉඩදෙමු‘ තේමාවෙන් යුතු ජන රැලියට. මගෙන් සුබපැතුම්.!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනෙරත්</author>
+            <date>2016-03-15 11:12:15</date>
+            <index>2</index>
+            <phrase>දැන්ද යොමු වෙන්න හදන්නේ අලුත් ලංකාවකට... මම හිතුවේ යොමු වෙලා ගොඩක් කල් කියලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භද්‍රානි</author>
+            <date>2016-03-15 11:28:02</date>
+            <index>3</index>
+            <phrase>අලුත් ලංකාවක් හදන්න මිනිස්සු ඡන්දෙන් දීලා තියන ඉඩ මදි වෙලාද, මිනිස්සුන්ට කරදර කරමින් තවත් ජන රැලි පවත්වන්නේ. කොහොමත් ලංකාවේ ඉන්න මෝඩයින්ට මේවගේ වැඩ වලට හුරේ දානවා හැරෙන්න කරන්න වෙන වැදගත් වැඩකුත් නැහැනේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2016-03-15 11:30:14</date>
+            <index>4</index>
+            <phrase>එකෙන් ගෙදර කලින් යන්නත් බෑ. ට්‍රැෆික් එකට අහුවෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුධ්ධිකා</author>
+            <date>2016-03-15 11:34:25</date>
+            <index>5</index>
+            <phrase>ජන රැළියට මගෙන් හද පිරි සුබ පැතුම් !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-03-15 11:36:11</date>
+            <index>6</index>
+            <phrase>විදුලිය නැති අලුත් රටක් හදමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-03-15 11:30:55</date>
+            <index>7</index>
+            <phrase>හොඳ මිනිසුන් ගේ හොඳ වැඩසටහන් අගය කරමු සැවොම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-03-15 11:36:10</date>
+            <index>8</index>
+            <phrase>අලුත් ලංකාවක් හදන්නනම් ප්‍රායෝගිකව වැඩ කල යුතු වේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෞදි සරත්</author>
+            <date>2016-03-15 11:38:14</date>
+            <index>9</index>
+            <phrase>විදුලිය නැතුව අලුත් රටක් හදන්නට ඉඩ දෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාටලී</author>
+            <date>2016-03-15 11:47:52</date>
+            <index>10</index>
+            <phrase>කුමාර කඩේ යනවා කියල ඔහොම යන්න එපා . රෑට කළුවරේ නේද.?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිල්ෂාන්</author>
+            <date>2016-03-15 11:45:10</date>
+            <index>11</index>
+            <phrase>අපි හැමෝම මේවා අසමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-03-15 11:58:10</date>
+            <index>12</index>
+            <phrase>දැන් මේකට ශ්‍රී ලංකා පක්ෂයේ අය යන එකත් නීතිවිරෝධීද? පක්ෂ තහනම් කරනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂාන්</author>
+            <date>2016-03-15 12:13:53</date>
+            <index>13</index>
+            <phrase>බදු තව ටිකක් වැඩි කරනවා නම් හොඳයි. මොකද යූඑන්පීයට ආවඩන අය තවත් ඉන්නවා. එ් කියන්නේ තවම බඩුමිල එහෙම ඇඟට වැදිලා නැහැ වගේ. ඔහොම යමු තව ටිකක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වෙලගෙදර</author>
+            <date>2016-03-15 12:34:31</date>
+            <index>14</index>
+            <phrase>රටේ ජනතාව දැන් බුද්ධිමත්. රට යන අත හොඳයි කියලා එයාලා තේරුම් අරගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-03-15 12:33:12</date>
+            <index>15</index>
+            <phrase>17 වෙනිදා දවල් සිට 18 උදේ වෙනකල් ලයිට් ඇත්තෙම නැහැ ඔන්න නොකිවුව කියන්න එපා. කොච්චිත් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2016-03-15 13:05:19</date>
+            <index>16</index>
+            <phrase>අනේ අපේ ජනතාව හිතන විදිය;</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩ්‍රි</author>
+            <date>2016-03-15 13:21:19</date>
+            <index>17</index>
+            <phrase>දේශපාලන වහල්ලු කියන්නේ මේවගේ අයට තමයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-03-15 13:19:18</date>
+            <index>18</index>
+            <phrase>අනේ මන්දා! මේ කියන රැකියා දශ ලක්ෂය ඉටිපන්දම් ෆැක්ටරියක දෙන්න හිතාගෙනද දන්නෙ නැහැ මෙච්චර ලයිට් කපන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි</author>
+            <date>2016-03-15 13:21:55</date>
+            <index>19</index>
+            <phrase>මේ ආණ්ඩුව යන විදිය දිහා තමයි අපිත් බලාගෙන ඉන්නේ. එනපොට හොඳ නැත්නම් අපිත් බහිනවා පාරට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-03-15 13:32:34</date>
+            <index>20</index>
+            <phrase>රැකියා දශ ලක්ෂයක් දෙනවලු. කාටද? ඉන්දියානුවන්ටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2016-03-15 13:25:22</date>
+            <index>21</index>
+            <phrase>රැකියා දශ ලක්ෂයක් දෙන්නේ මොනවා කරලද? තියන ටිකත් වහන්නයි වෙන්නේ මේ යන විදියට. ආයෝජකයෝ සල්ලි ආපසු අරගෙන වෙන රටවලට යනවා, රුපියල දිගටම බාල්දු වෙනවා, සංවර්ධනයක් වෙන්නෙත් නැහැ රැකියා හැදෙන්න. ඉතින් කොහෙන්ද රැකියා දෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතුරා</author>
+            <date>2016-03-15 13:35:10</date>
+            <index>22</index>
+            <phrase>ඇසළ කියන්නේ එයාලගේ ආණ්ඩුව තියන කාලයේ කළ දේවල් ගැනද කොහෙද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2016-03-15 13:35:21</date>
+            <index>23</index>
+            <phrase>තවමත් පක්ෂ දේශපාලනය මතම නැහෙන අය ලංකාවේ සිටින එක ගැන කණගාටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2016-03-15 13:30:46</date>
+            <index>24</index>
+            <phrase>හානේ! මෙච්චරද සෙනඟ අාවේ? කිව්වේ නම් කොහොමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-03-15 13:31:30</date>
+            <index>25</index>
+            <phrase>ලංකාවේ දුප්පත් මිනිහට මොනවද දැන් තියෙන්නේ? අඩුගානේ නිදහසේ හුස්මවත් ගන්න පුළුවන් වාතාවරණයක් හදලා නම් මේ වගේ රැස්වීම් තිබුණට කමක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2016-03-15 13:43:20</date>
+            <index>26</index>
+            <phrase>රැකියා දස ලක්ෂය අපිටම නෙමෙයි, ඉන්දියාවෙන් එන්න ඉන්න අයටත් එක්ක වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මංජුල</author>
+            <date>2016-03-15 13:44:44</date>
+            <index>27</index>
+            <phrase>එකපාරටම රටක් ගොඩගන්න බැහැනේ. ඒකට කාලය අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්-ඩුබායි</author>
+            <date>2016-03-15 13:57:42</date>
+            <index>28</index>
+            <phrase>හිටපු අය විසින් සංවිධානය කරන්න නියමිත 17 වෙනිදා රැලියට විරෝධයක් වශයෙන් නම් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-03-15 13:59:45</date>
+            <index>29</index>
+            <phrase>ලක්ෂ 62 කක ජනතාව ඡන්දය දීල තියෙන්නේ කොන්ද කෙලින් තියන් වැඩ කරන්න.බලයට මුවා වෙලා කරපු සියලු දුෂණ ,භීෂන ,වංචාව,හොරකම්,තක්කඩිකම්.... කරපු අවුන්ට දැඩි දඩුවම් දෙන්න සහ එම මුදල් වලින් අසරණ ජනතාවට සහන දෙන්න.ඉතින් තවත් රැලි මොනවටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිකිරි බණ්ඩා-නුගේගොඩ</author>
+            <date>2016-03-15 13:52:48</date>
+            <index>30</index>
+            <phrase>අපරාදේ කියන්න බැහැ රනිල් ප්‍රමුක යූඇන්පියට ඕනෑම වෙලාවක සෙනග ලක්ෂ 2-3 ක් එකට එකතු කරන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරෝෂ්</author>
+            <date>2016-03-15 13:53:00</date>
+            <index>31</index>
+            <phrase>පාටලිත් නොකියා වෙන පැත්තකට කඩේ යනවනේ, කුමාර කියපු කතාවේ වරදක් නැනේ, විදුලිය නැති වුන හේතුව ට්‍රාන්ස්ෆෝමර් විනාශ වුන එක නේ. ඉක්මනටම එකට පිළිවෙලක් කරලා දෙවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-03-15 14:21:45</date>
+            <index>32</index>
+            <phrase>අලුත් රටක් ඉන්දියාවේ නව ප්‍රාන්තයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දහම්</author>
+            <date>2016-03-15 14:16:41</date>
+            <index>33</index>
+            <phrase>බලමු යහපාලානේ 17 රැලියට සලකන්නේ කොහොමද කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද සෞදි</author>
+            <date>2016-03-15 14:23:40</date>
+            <index>34</index>
+            <phrase>පංච මහා බලවේග සියල්ලම අද මහපාරේ සාධාරන ඉල්ලීම් ඉල්ලා,ඒව දුන්න නම් නිකම්ම රට හැදෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-03-15 14:48:10</date>
+            <index>35</index>
+            <phrase>අනේ මොන මෝඩ මිනිස්සුද අපේ රටේ ඉන්නේ. ජනතාව වරම දීල ඉවරනේ. දැන් තියෙන්නේ මේ මළ විකාර කරන්නද? වැඩ කරලා පෙන්නනවා මිසක්. කතාව ඇමෙරිකාවේ වගේ වුනාට වැඩ ලංකාවේ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනෙත්</author>
+            <date>2016-03-15 14:48:32</date>
+            <index>36</index>
+            <phrase>රැකියා දස ලක්ක්ෂය දෙන්නේ ඉන්දියාවටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-03-15 14:50:05</date>
+            <index>37</index>
+            <phrase>මේ අය ගෙනාපු විදියත් පොඩ්ඩක් පෙන්න බැරි ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ක්‍රිස්ටීන්</author>
+            <date>2016-03-15 14:59:02</date>
+            <index>38</index>
+            <phrase>සෙනග ආවද නැත්නම්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-03-15 15:09:08</date>
+            <index>39</index>
+            <phrase>අනේ මන්ද මුහුණු ටිකනම් එතරම් සතුටකින් නැති පාට තාමා පෙන්නේ සෙනග මදි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-03-15 15:05:08</date>
+            <index>40</index>
+            <phrase>වාසනාවන්. වාසනාවන් අපේ ,,දිවි මග වාසනාවේ සුවහසක්. මල් පිපේවා ,පැතුම් කුසුමන් පිපි සුවදින් අපේ ජිවිත පිරේවා,,,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුපුන්</author>
+            <date>2016-03-15 15:30:51</date>
+            <index>41</index>
+            <phrase>අලුත් රටක් හදමු අපි ඔබ සමගයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියා</author>
+            <date>2016-03-15 15:31:08</date>
+            <index>42</index>
+            <phrase>මහින්දත් ඉස්සර අලුත් ශ්‍රී ලංකාවක් කියල හැම වැඩ සටහනකම,හැම දැන්විමකම දැම්ම.මම දන්නේ නැහැ ලකාවේ පාට ගැවද කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2016-03-15 15:28:23</date>
+            <index>43</index>
+            <phrase>කෝ විදුලිය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෆ්රාස්</author>
+            <date>2016-03-15 16:03:55</date>
+            <index>44</index>
+            <phrase>ඡන්දෙ දීල පාලකයෝ මාරු කළාට.. මිනිස්සු වහල් කමින් මුදවන්න විදියක් නැති එක ප්‍රශ්නයක් ...ඔක්කොම එකතු වෙලා ඉදිරියට යන්න කවදා ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමර</author>
+            <date>2016-03-15 15:56:21</date>
+            <index>45</index>
+            <phrase>හා..හා..දැන් ආපු අයට මහන්සි අතිනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-03-15 16:02:11</date>
+            <index>46</index>
+            <phrase>ජන රැලිය දැකලා බයවෙලා සමහරු ලයිට් ගැන කතා කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-03-15 16:04:15</date>
+            <index>47</index>
+            <phrase>හරියටම හරි. ඔහොම යමු. අවුරුදු 20 කටවත් අරගොල්ලන්ට බලය දෙන්න එපා ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජසිංහ</author>
+            <date>2016-03-15 16:23:09</date>
+            <index>48</index>
+            <phrase>මිනිස්සු තීරණය කරයි කුමක්ද සිදුවිය යුත්තේ කියා. අපි බලමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-03-15 16:17:10</date>
+            <index>49</index>
+            <phrase>මොවුන් යන්නේ කවදාද කියා අපි බලාසිටිමු. අපිට දැන් ඇතිවෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෂූඩි</author>
+            <date>2016-03-15 16:33:44</date>
+            <index>50</index>
+            <phrase>ජයවේවා! ඉදිරියටම යන්න වාසනා වේවා! අපි ඔබ සමඟයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රීමාලි</author>
+            <date>2016-03-15 17:09:28</date>
+            <index>51</index>
+            <phrase>ලක්ෂ 62ක ජනතා වරමක් දී තිබෙන නිසා මහජන රැලි අවශ්‍ය නැහැ තමයි. නමුත් පැරදුන අය පැරදුන විදියට ඉන්නේ නැතුව රට කඩාකප්පල් කරනකොට මේ විදියට රැළියක් තියපු එක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂාන්</author>
+            <date>2016-03-15 17:31:27</date>
+            <index>52</index>
+            <phrase>එජාපය වටා සෑහෙන පිරිසක් ඉන්නවා. ඔවුන්ගේ බලාපොරොත්තු ඉටුකිරීම පාලකයන්ගේ වගකීමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජාන්</author>
+            <date>2016-03-15 17:37:15</date>
+            <index>53</index>
+            <phrase>රටේ ධනාත්මක වෙනසක් වෙනවා නම් අපිත් කැමතියි. ඒත් පෙනෙන මානයක එහෙම දෙයක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දා</author>
+            <date>2016-03-15 19:34:27</date>
+            <index>54</index>
+            <phrase>මේ අමුතු තාලේ සටන් පාඨ වලට මුවාවී කරන්න හදන්නේ කුමන වෙනසක්දැයි බලමුකෝ. රිම් එකෙන් දුවන රටකට මොන කාපට් පාරවල්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-03-15 19:30:35</date>
+            <index>55</index>
+            <phrase>මොනවා නැතත් කමක් නැහැ, අපිව රවටන්න නම් එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්කා</author>
+            <date>2016-03-15 19:44:22</date>
+            <index>56</index>
+            <phrase>සෙනඟ ටික දැක්කහමම ඇති. සතුටුයි අපිට!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2016-03-15 20:26:59</date>
+            <index>57</index>
+            <phrase>හෙට අනිද්දා ඉන්දියාවෙන් මිනිස්සු රස්සා වලට මෙහෙ එනකොට ඔය අව්වේ කරවේවි හිටපු අයට තරු පෙනේවි. මේ වගේ අය ඉන්න රටක් ලෝකේ කොහෙවත් නැතුව ඇති. නටන්නකෝ, හැළියේ වතුර රත්වෙනකොට තේරේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-03-15 20:57:32</date>
+            <index>58</index>
+            <phrase>ඔය රැස්වීම ගැන අපි දන්නවා. ඔහොම රැස්වීම් තියන්න කාට බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණවන</author>
+            <date>2016-03-15 21:47:08</date>
+            <index>59</index>
+            <phrase>බැඳුම්කරත් වැඩි පොළියට වෙන්දේසි කළ අයට වැඩිකල් යන්න කලින් ලංකාවත් වෙන්දේසි කරන එක ලොකු වැඩක් නෙමෙයි. කොහොමත් අපේ අය පාවා දෙන්න ශූරයොනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-03-15 22:12:25</date>
+            <index>60</index>
+            <phrase>සේනක, රැකියා නැති සමහරු නම් රැකියා කර ගෙදර එන මිනිසුන්ට බාධා කරනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2016-03-15 22:26:30</date>
+            <index>61</index>
+            <phrase>මහින්දට බිය වී ඇති තරම මෙයින්ම පෙනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොරවක</author>
+            <date>2016-03-15 22:30:22</date>
+            <index>62</index>
+            <phrase>විශාල සෙනඟ කන්දරාවක් දැක්කා ගොඩක් කාලෙකට පස්සේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-03-15 23:47:55</date>
+            <index>63</index>
+            <phrase>කට්ටියට හරියට රිදිලා නේද සෙනඟ දැකලා? ඕකම තමයි අරයටත් තියෙන්නේ. ඊර්ෂ්‍යාව කියන්නේ ඕකටයි. හෙට අනිද්දා එළිවෙයි හොර ඔක්කොම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-03-16 00:03:33</date>
+            <index>64</index>
+            <phrase>අනේ ටිකිරි, බොරු කයිවාරු නොගහා ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2016-03-16 00:22:57</date>
+            <index>65</index>
+            <phrase>එහෙන් මන්ත්‍රීලට මුදල් වෙන්කරගන්න යනවා. රට මුළු ලෝකෙටම ණයයි. මුලින්ම මහජනයාට සේවය කරන්න. මේ පුංචි රටේ දේපළ හොරාකන එක නවත්වන්න. සහනාධාර දීම නවත්තලා මිනිසුන්ට වැඩ කරලා හම්බකරන්න උගන්වන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-03-16 00:20:52</date>
+            <index>66</index>
+            <phrase>විපක්ෂයකට එරෙහිව බලයේ ඇති ආණ්ඩු පක්ෂයක් ලෝකයේ කළ පළමු රැලිය වෙන්න ඇති. මෙයින් හැඟෙන්නේ ආණ්ඩුවට වැඩිය විපක්ෂය ප්‍රබලයි කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-03-16 00:21:40</date>
+            <index>67</index>
+            <phrase>ලංකාවේ සිංහල අය දෙකට බෙදිලා ඇනකොටා ගන්නවා. ඕක තමයි සිරියාවට සහ ඉරාකයට කළෙත්. අපි රටෙන් එළියේ ඉන්න නිසා තමයි තේරෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2016-03-16 00:24:42</date>
+            <index>68</index>
+            <phrase>ලංකාවේ මිනිසුන්ගේ නූගත්කමෙන් දේශපාලකයෝ උපරිම ප්‍රයෝජනය ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-03-16 01:27:07</date>
+            <index>69</index>
+            <phrase>ඔය චතුරි කියන කෙනා, මේ සැබෑ ලෝකේ ඉන්න කෙනෙක්ද? මට තේරෙන්නෙ නැහැ එයාගේ භාෂාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයන්ත</author>
+            <date>2016-03-16 01:33:08</date>
+            <index>70</index>
+            <phrase>ටිකිරි, ඔයා හරියටම හරි. මොන එහෙකටද රැස්වීම් දැන්? ඡන්දය ඉවරයිනේ. අය් මේ ආණ්ඩු පක්ෂයෙන් රැස්වීම් තිය තියා ඉන්නේ. අපි මේගොල්ලෝ බලයට පත්කරලා යැව්වේ රට දියුණු කරන්න වැඩ කරන්නනේ. සංජීවත් හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-03-16 02:00:30</date>
+            <index>71</index>
+            <phrase>මේ රැකියා දෙන්න යන්නේ ඉන්දියානුවන්ටද? ලංකාවේ ගොඩකට, බොරුවට කෑගහන්න මිසක් වැඩ බැහැ. බලය නැති කාලේ බලය ඉල්ලලා උද්ඝෝෂණ... බලය තිබෙනකොට වැඩ බැරි නිසා උද්ඝෝෂණ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2016-03-16 02:57:04</date>
+            <index>72</index>
+            <phrase>විශ්ව විද්‍යාල ළමයින්ට නම් පාර අවහිර කළා කියලා කඳුලු ගෑස්, බැටන් පොලු සංග්‍රහ ලැබුණා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2016-03-16 03:06:29</date>
+            <index>73</index>
+            <phrase>“ඉන්දියාවට රැකියා දශලක්ෂයක් දීමට ඉඩදියව්“ කියලත් තේමා පාඨයක් අරගන යමුද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2016-03-16 03:45:04</date>
+            <index>74</index>
+            <phrase>වැඩ නොකර බොරුවට මේ වගේ දේවල් කරලා වැඩක් නැහැ. පාක්ෂිකයෝ කීපදෙනෙක්ට හැර මේ ආණ්ඩුව බහුතරයකට එපා වෙලා තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2016-03-16 03:48:51</date>
+            <index>75</index>
+            <phrase>තරුණ අපට ඇයි බාධා කියලා හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රකීත්</author>
+            <date>2016-03-16 03:50:24</date>
+            <index>76</index>
+            <phrase>හඳෙන් හාල්, ධර්මිෂ්ට සමාජයක්, නැති බැරි අය ඇති හැකි, ආසියාවේ ආශ්චර්ය සහ රැකියා දසලක්ෂයක් යන දේවල් හුදෙක්ම දේශපාලන සටන් පාඨ පමණි. මැති ඇමතිවරුන්ට පමණක් අලුත් ලංකාවක් උදාවී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2016-03-16 04:36:29</date>
+            <index>77</index>
+            <phrase>සම හරක් ජීවිත කාලෙටම කරුවලේ ඉදලා නෑහෑ හිටපු කිසිම රජයකින් විදුලිය කපලා ඒ පාලන කලෙදී විදුලිය බිදවෑටිලා නෑහෑ අනේ මෙහෙමත් මී හරක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබේරත්න</author>
+            <date>2016-03-16 04:41:27</date>
+            <index>78</index>
+            <phrase>සපුගස්කන්දෙද්දී පාසල් ළමුන්ට බැන්න පොලිස් කාරයත් අගමැතිගේ ළඟට වෙලා ඉන්නේ ලකුණු දාගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-03-16 04:50:17</date>
+            <index>79</index>
+            <phrase>මේකේ කොමෙන්ට්න්ස් දාන සමහර කට්ටිය ක්‍රෝධයි වෛරයි ඉරියාසවයි හිතේ තියාගෙන ඔය කියන්නේ. . කුමන්ත්‍රණ නවත්ටලා රට ගොඩ නගන්න උදව් කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2016-03-16 04:56:04</date>
+            <index>80</index>
+            <phrase>විපක්ෂයට විරුද්ධව උද්ගෝෂණ තියන ලෝකේ එකම රට. මාර වෙනසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2016-03-16 05:20:13</date>
+            <index>81</index>
+            <phrase>අම්ම මුත්තා කාලේවත් අහල තියෙනවද ආණ්ඩුව උද්ඝෝෂණය කරනවා කියල විපක්ෂේ වැඩ කරන්න දෙන්නේ නෑ කියල ... ඇඩෙනවා ඕයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශශික</author>
+            <date>2016-03-16 05:28:22</date>
+            <index>82</index>
+            <phrase>ඉන්දියාවට රැකියා දශලක්ෂයක් දීමට ඉඩදියව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-03-16 05:30:06</date>
+            <index>83</index>
+            <phrase>මේවට එන සෙනග ඔක්කොම පවතින ආණ්ඩුවේ ඍජු උදව් ලබාගැනීමට විනා රටට අදරේකට නෙමෙයි. ඉවරවෙලා ඔක්කොම නවතින්නේ බාර් එකේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2016-03-16 05:33:34</date>
+            <index>84</index>
+            <phrase>සරත් -වෙන රටක ඉඳන් මෝඩ කතා කියන්න එපා. ඉර්සියාවේ වෙව්ලනවද ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුරාධ</author>
+            <date>2016-03-16 05:40:17</date>
+            <index>85</index>
+            <phrase>මට මතකයි ,ගිය වසරේ එජාප සමුළුවකට ශ්‍රීලනිප නායක තුමා ගියා, එතකොට කාගේ පක්ෂ සාමාජිකත්වයද නැති වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ඩි</author>
+            <date>2016-03-16 05:42:45</date>
+            <index>86</index>
+            <phrase>ඉන්දියාවට අපේ මිනිස්සුන්ගේ රැකියාවල් ටික පාවල දෙන්න ගිවිසුම් ගහනවා, ගොවියන්ගේ පොහොර ටිකට විද්ද , පාසල් දරුවන්ගේ ඇදුම් වලට විද්ද , පාසල් අච්චු පොත් වලටත් විදින්න යන්නේ … ඒත් පක්ෂ දේශපාලනය වෙනුවෙන් වහල්ලු වගේ පෙළපාලි යනවා ආණ්ඩුවට නිදහසේ කරන්න දෙන්න කියල … වැරදි පෙන්වල දෙන එක අකුල්හෙලිමක් නෙමෙයි ආණ්ඩුවට උදව් කිරීමක් . ගිය ආණ්ඩුව කරපු වැරදි පෙන්නපු නැති නිසා තමයි ඉක්මනට ගෙදර යන්න වුනේ .. මේ මිනිස්සුන්ට නොතෙර්න්නෙත් එ්කම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිංග්ස්ලි පෙරේරා</author>
+            <date>2016-03-16 05:52:00</date>
+            <index>87</index>
+            <phrase>''අලුත් ලංකාවකට ඉඩ දෙමු'' කියන්නේ එතකොට අපි හිටියේ. අනේ මන්දා මෙහමත් මිනිස්සු ඉන්නවනේ. යුද්දෙන් පස්සේ යුද්දේ ඉවර කරලා යුද්දේ ඉවර කරපු පක්ෂයක් හැටියට මේ සටන් පාටය දැම්මනම් හිත හදා ගන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳරුවන්</author>
+            <date>2016-03-16 05:53:32</date>
+            <index>88</index>
+            <phrase>රැළියෙන් පස්සේ බත් පැකට් හිස් බෝතල් කුණු හැමතැනමලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානක</author>
+            <date>2016-03-16 05:50:14</date>
+            <index>89</index>
+            <phrase>සරත් මහත්තයෝ මේ දාන්නේ ජනතාව මුලා කරන්න ජිල්මාට් නැතුව රටට ආදරේට නෙමෙයි. දැන් රට යන අත හොඳ පැහැදිලියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-03-16 06:33:32</date>
+            <index>90</index>
+            <phrase>අනේ ආපු සෙනග ගෙනාවේ ලංකා ගමනා ගමන මණ්ඩලයට අයත් බස් වලින් නේද ඒවටත් ගෙවීම් කළාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිංග්ස්ලි පෙරේරා</author>
+            <date>2016-03-16 06:38:05</date>
+            <index>91</index>
+            <phrase>දැන් කවුද මේ ගොල්ලන්ට අලුත් රටක් හදන්න ඉඩ නොදෙන්නේ.?මහින්දද. ඒකාබද්ධ විපක්ෂයද. ඒ අයට බයේ මෙහම ජනරැලි පවත්වලා බැගෑපත් වෙනවා නම් අපේ කකකුලෙන් අදින්න එපා කියලා.කොහමද කොටියා හිටියනම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2016-03-16 09:16:44</date>
+            <index>92</index>
+            <phrase>ඒකාබද්ධ විපක්ෂයට මෙච්චර බය මොකද මන්දා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජන්</author>
+            <date>2016-03-16 09:11:40</date>
+            <index>93</index>
+            <phrase>විදුලිය නැත්තේ ආණ්ඩුවේ කළමනාකරණයේ දුර්වලතාවයක් නිසා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2016-03-16 09:32:59</date>
+            <index>94</index>
+            <phrase>මේ රැලි වලට එන්නේ තේරුමක් නැති අය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංක</author>
+            <date>2016-03-16 09:33:30</date>
+            <index>95</index>
+            <phrase>එතකොට මේගොල්ලෝ සෙනග අදින්න ලංගම බස් පාවිච්චි කළාට කමක් නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල් නිරෝෂ්</author>
+            <date>2016-03-17 08:29:54</date>
+            <index>96</index>
+            <phrase>ආණ්ඩුවත් අපිම තමයි, විපක්ෂයත් අපිම තමයි. ටීඇන්ඒ , ජවිපෙ එක්ක ගේමක් නෑ අපිට ඉතින්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

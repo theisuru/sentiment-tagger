@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17921</articleId>
+    <title>ඉසුරු නැතිව එති.</title>
+    <author>ගුවන්තොටුපොළ දීපා අදිකාරි</author>
+    <date>2011 දෙසැම්බර් මස 18 11:29:01</date>
+    <body>කුවේට් හාම්පුතුන්ගේ හිරිහැරයට ලක්වූ  ගෘහසේවිකාවෝ 40 දෙනෙක් කුවේටයේ ශ්‍රී ලංකා තානාපති කාර්යාලයේ පිහිටෙන් අද අලූයම කටුනායකට ආහ. ගිය දෙසතියේ ද එවැනි තාඩන  පීඩන වලට අසුවූ 170 දෙනෙක් ආහ.</body>
+    <comments>
+        <comment>
+            <author>ජානක</author>
+            <date>2011-12-18 12:47:37</date>
+            <index>0</index>
+            <phrase>හරිම පවු අතේ තියන තුට්ටු දෙකත් වියදම් කරන් අන්තිමට හිස් අතින්ම ගෙදර එනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් සේනක</author>
+            <date>2011-12-18 13:02:24</date>
+            <index>1</index>
+            <phrase>පව් අපේ අහිංසක කාන්තාවෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුකම්පා</author>
+            <date>2011-12-18 17:02:25</date>
+            <index>2</index>
+            <phrase>ඒජන්සිවල අයවයි අල්ලගන්ඩ ඕන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍යාමලී</author>
+            <date>2011-12-19 13:59:27</date>
+            <index>3</index>
+            <phrase>මේ සදහා මැදිහත්වීම අවශ්‍යයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

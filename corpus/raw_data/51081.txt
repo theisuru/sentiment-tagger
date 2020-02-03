@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>51081</articleId>
+    <title>මහනුවරට මහ වැසි</title>
+    <author>ජේඒඑල්ජයසිංහ</author>
+    <date>2012 ජූලි මස 01 15:27:46</date>
+    <body>සිවු මාසයක නියඟය අවසන් කරමින් මහනුවරට අද දහවල් 11ට ඇරැඹි මහ වැස්ස පස්වරු තුන වන විටත් පැවැතියේය.</body>
+    <comments>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-07-01 16:05:57</date>
+            <index>0</index>
+            <phrase>මහනුවරට නියගය ඉවර වුනේ මීට සතියකට දෙකකට කලින්..අද තරම තදේට නොවුනට මහනුවරටත් ඒ අවටත් හොදට වැස්සා ගිය සතියෙත්...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-01 17:33:09</date>
+            <index>1</index>
+            <phrase>මගේ රටට දලදා හිමි සරණයි !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-07-01 18:19:20</date>
+            <index>2</index>
+            <phrase>අනේ මේ ගස් කපන ඈයින්ට අරාබි දඬුවම් දෙන නීති හදන්න අපේ රටත් අරාබියක් වෙන්න කලින්, (නීති හදන අය) දැනුත් අප කොපමන පමාදැයි අප නොදනී.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-07-01 17:43:06</date>
+            <index>3</index>
+            <phrase>දැන් අපේ මිනිස්සු වැස්ස නවත්වන්න කියලා පෙළපාලි යයිද දන්නේ නෑ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-07-01 19:07:11</date>
+            <index>4</index>
+            <phrase>කුහක සමාජයකට දෙවියන්ගේ පිහිට නැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2012-07-01 19:14:47</date>
+            <index>5</index>
+            <phrase>දළදා සමිඳුගේ සරණ නිරතුරුවම ලැබෙන නිසා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂා</author>
+            <date>2012-07-01 19:37:15</date>
+            <index>6</index>
+            <phrase>නුවරින් ආරම්බවෙලා මුළු රටේම දුක නිවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2012-07-01 21:32:12</date>
+            <index>7</index>
+            <phrase>දළදා මාලිගාව පැත්තට වැස්සද තියෙන්නේ දුෂණ හොර මගඩි හෙදිල යන්නද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෝලිත</author>
+            <date>2012-07-02 01:02:59</date>
+            <index>8</index>
+            <phrase>හුගක් දෙනා අරාබි නීතිය ගැන කතා කළාට ඒක ආගම් අනුවයි, පුද්ගලයින් අනුවයි වෙනස් වෙන බව ඒ අය දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝනා</author>
+            <date>2012-07-02 02:35:51</date>
+            <index>9</index>
+            <phrase>දළදා හාමුදුරුවන්, බොහෝමත්ම පින්.අනේ අපේ මූණ බලත්වා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයරත්න</author>
+            <date>2012-07-02 06:06:42</date>
+            <index>10</index>
+            <phrase>දළදා මාළිඟාව පැත්තේන් පටන්ගෙන ශ්‍රී මහා බෝධිය පැත්තටත් වැස්ස ලැබේවා ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-07-02 07:53:57</date>
+            <index>11</index>
+            <phrase>අනේ වැස්ස වළාහක දෙවියනේ, පොළොන්නරුවටත් වස්සන සේක්වා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒබී</author>
+            <date>2012-07-02 09:59:35</date>
+            <index>12</index>
+            <phrase>අනේ වරුණ , වැස්ස වළාහක දෙවියන්ට කියලා අනුරපුරේටත් වැස්ස ටිකක් ඉල්ලල දෙන්න ??</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-07-02 11:42:29</date>
+            <index>13</index>
+            <phrase>අනේ ළමයිනේ නිකං බොරු නොකියා ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නන්දන</author>
+            <date>2012-07-02 12:13:16</date>
+            <index>14</index>
+            <phrase>දළදා සමිදු පිහිටෙන් වැස්ස නැති පැති වලට වැස්ස ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිනිසා</author>
+            <date>2012-07-02 15:34:14</date>
+            <index>15</index>
+            <phrase>අනේ මෝඩ මිනිස්සුනේ ............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>178778</articleId>
+    <title>පුත්තලමෙන් අපූරු පුවත් තුනක්</title>
+    <author></author>
+    <date>2013 ඔක්තෝබර් මස 21 13:54:03</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සත්ත</author>
+            <date>2013-10-22 18:37:11</date>
+            <index>0</index>
+            <phrase>පොඩ්ඩක් හොයලා බලන්න, රටේ වෙන දේවල් වල හැටියට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දෙවිඳු</author>
+            <date>2013-10-22 18:48:40</date>
+            <index>1</index>
+            <phrase>වස විස පොළවට දාලා පරිසරය විස කරලා නිසයි මෙහෙම විකෘති ඇති වෙන්නේ. පැරණි ක්‍රම වලට නැවත යන්න ජීවත් වෙන්න ඕනෑ නම්. තල් කොළ වලින් වැටවල් හදන හැටි නැගෙනහිර ඉන්න අයට කියලා දෙන්න. අලි එන්න නැහැ කටු තියෙන තැන් වලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුනිතා</author>
+            <date>2013-10-29 07:17:00</date>
+            <index>2</index>
+            <phrase>පරිසරයට නුසුදුසු රසායනික ද්‍රව්‍යයන් මිහිතලයට එක්වීමෙන් මෙවැනි විපර්යාසයන් ඉදිරියේදීත් අසන්නට ලැබේවි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිකොලොස්</author>
+            <date>2013-11-07 12:10:29</date>
+            <index>3</index>
+            <phrase>නියම ප්‍රවාත්ති තුනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

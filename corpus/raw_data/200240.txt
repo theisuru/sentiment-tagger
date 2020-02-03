@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>200240</articleId>
+    <title>වල්ලාපට්ටා හොරු යගිරලටත් ඇවිත්</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ජනවාරි මස 05 15:09:58</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>අශෝකා</author>
+            <date>2014-01-06 18:18:47</date>
+            <index>0</index>
+            <phrase>මෙය ලංකාවේ වැවෙන වටින ශාඛයක් නිසා ගෙවතු වගාවන්ට සුදුසු නම් ඒවා නිත්‍යානුකූල කර රටට ආදායමක් ලබා ගන්න විදියට වැඩ පිළිවෙලක් සකස් කලොත් හොදයි නේද? එතකොට ශාකයත් රැකෙනවා ආදායමකුත් ලැබෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2014-01-08 06:43:16</date>
+            <index>1</index>
+            <phrase>වටින ශාඛයක් නිසා නිත්‍යානුකූල කර රටට ආදායමක් ලබා ගන්න විදියට සකස් කලොත් හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

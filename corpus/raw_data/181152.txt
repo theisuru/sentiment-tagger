@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>181152</articleId>
+    <title>බදුල්ල වෙලේකඩේ පැරණි වෙළඳ පොළ... බලන්න</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2013 ඔක්තෝබර් මස 29 22:15:13</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ප්‍රසන්න බංඩාර</author>
+            <date>2013-11-03 17:35:15</date>
+            <index>0</index>
+            <phrase>මෙහි ඉස්සර බුකියක් තිබුනා. දැන් කැසිනෝ වලට හරවා බදුල්ල දියුණු කරමු .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

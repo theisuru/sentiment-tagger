@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>86819</articleId>
+    <title>යාචක අලි පුරුද්ද අත නාරිති</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2012 දෙසැම්බර් මස 21 09:30:41</date>
+    <body>කොළඹගේආර උඩවලව හම්බන්තොට මාර්ගයේ දෙවැනි අලි වැට පාරේ සිට මීටර් 100ක් පමණ දුරින් ඉදිකර ඇති නිසා උඩවලව ජාතික වනෝද්‍යානයේ අලි ඇතුන්ට දැන් හිඟමන් ඉල්ලීමට පාර අයිනට පැමිණීමට නොහැකි බව වනජීවී නිලධරයෝ කියති. එහෙත් අලි ඇත්තු ජලාශයෙන් පිහිනා විදුලිවැට කෙළවරින් පාර අයිනට පැමිණ හිඟාකෑමට පුරුදු වී සිටිති. එසේ ආ අලියකුට මිනිසුන්ගෙන් හොඳටම කෑම බීම ලැබිණි.</body>
+    <comments>
+        <comment>
+            <author>ජනක</author>
+            <date>2012-12-21 09:37:42</date>
+            <index>0</index>
+            <phrase>අසරණ සතුන් වුවත් කැමතියි රස කෑම කන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-12-21 09:45:46</date>
+            <index>1</index>
+            <phrase>අපි වගේම අලියත් හිඟාකන තත්වෙට වැටුණා එහෙනම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2012-12-21 10:00:41</date>
+            <index>2</index>
+            <phrase>අලි හිගාකන එක මගේ හිතට නම් ටිකක් විතර හොද නැහැ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනක</author>
+            <date>2012-12-21 10:06:33</date>
+            <index>3</index>
+            <phrase>මෙතනට සංචාරකයින්ගෙන් තියෙන්නේ ලොකු ඉල්ලීමක්, අහල පහල ගම්වල අයටත් කීයක් හරි හම්බකර ගන්න මේක අවස්ථාවක් . හැබැයි වැ‍ඩේ බයානකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-21 10:28:37</date>
+            <index>4</index>
+            <phrase>අනේ පින් සිද්ධ වෙච්චාවේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලින්ද</author>
+            <date>2012-12-21 10:34:39</date>
+            <index>5</index>
+            <phrase>පුරුද්ද විදුලියෙන් න්නවත්වන්න බැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අබා</author>
+            <date>2012-12-21 10:59:34</date>
+            <index>6</index>
+            <phrase>පවු. අපේ අලින්ටත් ගිය කලක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මි</author>
+            <date>2012-12-21 11:05:08</date>
+            <index>7</index>
+            <phrase>පින් සිදුවෙනවා. ඒත් ප්‍රවේශමෙන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසිල්</author>
+            <date>2012-12-21 11:35:26</date>
+            <index>8</index>
+            <phrase>මිනිස්සුන්ටත් දැන් වෙලා තියෙන්නේ හිගාකන්න තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-12-21 11:55:30</date>
+            <index>9</index>
+            <phrase>මේ හැමදේම කරන්නෙ බඩගින්න නිවා ගන්නනෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2012-12-21 12:10:24</date>
+            <index>10</index>
+            <phrase>මේ විදියට ගියොත් අපිටත් හිගාකන්න තමයි වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුශාන්</author>
+            <date>2012-12-21 12:28:39</date>
+            <index>11</index>
+            <phrase>මේ අලියා විදුලි වැට නිසා යන්න බැරිව කොටුවෙලා ඉන්නේ.කෑමක් දුන්නොත් කනවා , පව් අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2012-12-21 12:49:54</date>
+            <index>12</index>
+            <phrase>පව් අප්පා ලංකාවේ අලි ඇතුන්ට ගිය කලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-12-21 12:53:04</date>
+            <index>13</index>
+            <phrase>ඔය සත්තුන්ගේ හැටි ඔහොම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2012-12-21 13:09:27</date>
+            <index>14</index>
+            <phrase>ඇයි එයාට කියන්නේ හිගාකෑමක් කියලා? අපිත් එයාට කන්න දීලා තියෙනවා. පවු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-12-21 13:13:22</date>
+            <index>15</index>
+            <phrase>අපිම තමයි අලින්ට උන් හිටි තැන් අහිමි කරලා, උන්ව යාචකයන්ගේ තත්ත්වයට පත් කළේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-21 14:20:34</date>
+            <index>16</index>
+            <phrase>සරත් කියන්නේ වන අලි ගැන නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-12-21 14:56:09</date>
+            <index>17</index>
+            <phrase>පමණට වඩා මිනිස් ඇසුර හොඳ නෑ අලි ඇතුන්ට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-12-21 15:16:31</date>
+            <index>18</index>
+            <phrase>සතුන්ට කෑම දෙන එක ගොඩක් හොඳ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2012-12-21 16:28:08</date>
+            <index>19</index>
+            <phrase>දහස් ගණන් අවුරුදු සිට ආ පුරුදුයි වන සත්තුත් අලි ඇත්තුත් අපි සමගයි අලිය වුණත් මිනිසුන්ගෙන් ඉගෙන ගනියි කෑම ටිකක් ගන්නට පෙර නෑම හොඳයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-12-21 20:42:34</date>
+            <index>20</index>
+            <phrase>වන්නියේ අලි හිගාකනවා. මෙහේ අලි කුළල් කාගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-12-21 20:42:36</date>
+            <index>21</index>
+            <phrase>වනයේ ඉන්න අලි හිගාකද්දී, එළියේ ඉන්න අලි කුළල්කාගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2012-12-22 09:26:56</date>
+            <index>22</index>
+            <phrase>පුරුද්ද ලොකුයි නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලංක</author>
+            <date>2012-12-22 15:43:11</date>
+            <index>23</index>
+            <phrase>මෙවැනි අලි ඇතුන් පමණක් නොව අනෙකුත් වන සත්වයන්ගේත් අහාර රටාවන් විනාශ වන අයුරින් ස්වභාවික පරිසරය ආත්මාර්ථකාමී ලෙස විනාස කරනු ලබන්නේ මිනිසුන් මිස වන සතුන් නොවෙන අතර සතුන් මෙසේ "සිඟා කනවා " යි පැවැසීමට මිනිසුන් වශයෙන් ලැජ්ජා විය යුතුය. මෙයට වගාකිවයුත්තෝ මිනිසුන්මය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග</author>
+            <date>2012-12-23 10:28:29</date>
+            <index>24</index>
+            <phrase>තිලංක ඔයාගේ කතාව ඇත්ත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

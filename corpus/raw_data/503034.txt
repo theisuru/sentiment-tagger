@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>503034</articleId>
+    <title>අල්ලස් ඉල්ලූ එස්.අයි රිමාන්ඩ්</title>
+    <author>ෂෙහාන් චාමික සිල්වා</author>
+    <date>2017 ජනවාරි මස 31 14:35:48</date>
+    <body>විත්තියට වාසි වන අයුරින් පැමිණිල්ල විභාග කිරීම සඳහා අල්ලසක් ඉල්ලූ බව කියන උප පොලිස් පරීක්ෂවරයකු ලබන 14 වැනි දා තෙක් රිමාන්ඩ් කරන ලෙස කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ලාල් රණසිංහ බණ්ඩාර මහතා අද (31) නියෝග කළේය. 
+එලෙස රිමාන්ඩ් කරනු ලැබුවේ වැලිපැන්න පොලිසියේ විවිධ පැමිණිලි අංශයේ ස්ථානාධිපති සෝමතුංග සිල්වා මහතා ය.
+අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින්  සැකකරු අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරනු ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>දර්ශන</author>
+            <date>2017-01-31 09:52:04</date>
+            <index>0</index>
+            <phrase>අල්ලසක් ඉල්ලීම වැරදියි . එතකොට ඔය රජයේ ගනුදෙනු වලදී කෝටි ගණන් කොමිස් ගහපු අය තවමත් නිදැල්ලේ ඉන්නේ කොහොමද ? ඒවා අල්ලස් නොවේද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2017-01-31 10:14:48</date>
+            <index>1</index>
+            <phrase>දන්නේ නැති නිසා අහන්නේ. අර මහ බැංකු මංකොල්ලයටත් වඩා මේක බරපතලද? මොකද එකේ අය නම් තාම නිදැල්ලේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර් (ගල්ෆ්)</author>
+            <date>2017-01-31 11:05:43</date>
+            <index>2</index>
+            <phrase>දර්ශන, ඒ දේශ පාලුවෝ හා එයාලගේ වන්ධි බට්ටයෝ නේ, එයාලට ඕනා එකක් කරන්න පුළුවන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහී</author>
+            <date>2017-01-31 19:07:24</date>
+            <index>3</index>
+            <phrase>සමන්, ඒක මේතරම් බරපතල නැතිලුනේ. අපි ඔන්න ඔහේ ඒක පිළිඅරගෙන නිකන් ඉමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

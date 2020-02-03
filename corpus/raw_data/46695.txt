@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46695</articleId>
+    <title>කතරගම මහ දෙවොලේ කප් සිටුවීම</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2012 ජූනි මස 06 09:06:00</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>ප්‍රියන්වදා</author>
+            <date>2012-06-07 09:51:59</date>
+            <index>0</index>
+            <phrase>මේ වගේ ආගමික පූජා අපට පෙන්නූ ඔබලාට කඳ සුරිඳු පිහිටයි.......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-06-10 13:11:53</date>
+            <index>1</index>
+            <phrase>ඔබගේ සේවය විශිෂ්ඨයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.ඒ.ප්‍රියගතා</author>
+            <date>2012-06-12 08:27:17</date>
+            <index>2</index>
+            <phrase>කතරගම දෙවියන්ට මතු බුදු බව ලැබේවා !!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තෝනි</author>
+            <date>2012-06-12 08:30:10</date>
+            <index>3</index>
+            <phrase>පෞරාණීක චාරිත්‍ර මේ විදියට පෙන්වීමෙන් ඒවායේ පුරාණ බව නැති වෙන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-06-14 08:35:53</date>
+            <index>4</index>
+            <phrase>සැමට කඳ සුරිඳු පිහිටයි !!......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කතරගම</author>
+            <date>2012-06-21 13:50:01</date>
+            <index>5</index>
+            <phrase>කද සුරිදු පිහිටයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සඳුන්</author>
+            <date>2012-06-22 00:28:41</date>
+            <index>6</index>
+            <phrase>ලංකාදීප කාර්ය මණ්ඩලයට කතරගම දවියන්ග් පිහිටයි. ඔබගේ සේවය සේවය අති විශිෂ්ඨයි. ඔබසැමට මගේ හෘදයාන්ගම සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

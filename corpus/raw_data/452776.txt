@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>452776</articleId>
+    <title>ඇමැති බදියුදීන් අදත් ජනපති කොමිසමේ</title>
+    <author>ඉන්දිකා රාමනායක</author>
+    <date>2016 අගෝස්තු මස 31 13:35:47</date>
+    <body>සහල් අතිරක්තයක් රටේ තිබියදී කැබිනට් අනුමැතියකින් තොරව පොන්නි සම්බා මෙට්‍රික් ටොන් 98,375ක ප්‍රමාණයක් මෙරටට ගෙන්වා රුපියල් බිලියන 5.5ක රජයේ මුදල් අවභාවිත කිරීමේ සිද්ධියක් සම්බන්ධයෙන් සිදුකරන පරීක්ෂණයක් සඳහා ප්‍රකාශයක් ලබාගැනීමට කර්මාන්ත හා වාණිජ කටයුතු ඇමැති රිෂාඩ් බදියුදීන් අද (31) වංචා දූෂණ විමර්ශනය පිළිබඳ ජනාධිපති කොමිසමට කැඳවා තිබිණි.</body>
+    <comments>
+        <comment>
+            <author>කින් බෙනට්</author>
+            <date>2016-08-31 09:55:48</date>
+            <index>0</index>
+            <phrase>අති විශාල මුදල් නාස්තියක් නේ කරලා තියෙන්නේ . මේ වගේ විශාල මුදලක් වියදම් කරන්න කලින් ඕක හොයල බලන්න බැරිවුණා නම් එය ඇමැතිකම් මොකටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-08-31 10:05:29</date>
+            <index>1</index>
+            <phrase>කොට්ටෝරුවා කෙහෙල් ගහට කොටලා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ජලෝ</author>
+            <date>2016-08-31 10:26:15</date>
+            <index>2</index>
+            <phrase>මේ වගේ හොරුන්ව තියාගෙන ආයේ ඡන්දෙට එන්න එපා , කැලේ කපනවට අමතරව රටේ සල්ලිත් හූරා කනවා , මෙයා ඉස්සරහට ලොකු පිළිලයක් වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

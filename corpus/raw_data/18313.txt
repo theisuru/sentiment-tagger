@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>18313</articleId>
+    <title>දයා ගමගේ දිනයි</title>
+    <author>ලංකාදීප කර්තෘ මණ්ඩලය</author>
+    <date>2011 දෙසැම්බර් මස 19 15:53:31</date>
+    <body>එක්සත් ජාතික පක්ෂයේ කෘත්‍යධිකාරී මණ්ඩලය හා පාර්ලිමේන්තු කණ්ඩායම පක්ෂ නායකයා ඇතුලු නිලතල සදහා අපේක්ෂකයන් තෝරා ගැනීමේ ඡන්දය මින් මොහොතකට පෙර අවසන් කළේය. දැන් ඡන්ද ගණන් කරගෙන යයි. ජාතික සංවිධායක ලෙස නැගෙනහිර පළාත් සභාවේ විපක්ෂ නායක දයා ගමගේ මහතා වැඩි ඡන්ද 20 කින් ජාතික සංවිධායකවරයා වශයෙන් තෝරා ගනු ලැබීය.
+ඔහුට ඡන්ද 56 ක්ද, පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාට ඡන්ද 36 ක්ද ලැබිණි. ඡන්දය දීමට සුදුකම් ලැබූ මළු සංඛ්‍යාව 94 කි.</body>
+    <comments>
+        <comment>
+            <author>අරුණ</author>
+            <date>2011-12-19 16:05:12</date>
+            <index>0</index>
+            <phrase>මේවා වැඩක් නෑ 94 දෙනෙකුට ජාතික තීරණ ගතහැකිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2011-12-19 16:10:11</date>
+            <index>1</index>
+            <phrase>අදහස් නැත....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුෂ</author>
+            <date>2011-12-19 16:19:54</date>
+            <index>2</index>
+            <phrase>දයා ගමගේ මැතිදුන්ට අපගේ උපහාරය... නැගෙනහිර පළාත් ජනතාව ඔබට උපහාර කරනු නොවනුමානය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

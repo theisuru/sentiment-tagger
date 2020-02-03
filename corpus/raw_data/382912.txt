@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>382912</articleId>
+    <title>පොහොර සහනය වෙනුවට ගොවීන්ට මුදල්</title>
+    <author>උපුල් තම්මිට</author>
+    <date>2016 පෙබරවාරි මස 04 16:58:02</date>
+    <body>යළ කන්නයේ සිට පොහොර මිටියක මිල රුපියල් 3000ක් පමණ වන බවත් මාර්තු මාසයේ සිට පොහොර සහනාධාර වෙනුවට රජයෙන් සහනාධාරයක් ලබාදීමට කටයුතු කරන බව කෘෂිකර්ම අමාත්‍ය දුමින්ද දිසානායක මහතා අනුරාධපුර ගොවි සමිති නායකයින් හමුවී පැවසීය.
+පොහොර හිඟයක් ඇතැයි ලැබුණු තොරතුරු මත ඇමැතිවරයා එහි ගිය අතර පොහොර මිල වැඩිවීමට නියමිත බැවින් වෙළඳුන් පොහොර සඟවා තබා ගැනීම ඊට හේතුව බව ද කීය.
+ </body>
+    <comments>
+        <comment>
+            <author>නෙළුම්</author>
+            <date>2016-02-04 21:03:15</date>
+            <index>0</index>
+            <phrase>මම නම් මේකට කැමති නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රේම්</author>
+            <date>2016-02-04 21:06:08</date>
+            <index>1</index>
+            <phrase>අනේ එපා. ගොවියා ඉවරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවා</author>
+            <date>2016-02-04 21:17:14</date>
+            <index>2</index>
+            <phrase>අපි එහෙමත් කරලා බලමුකෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍ර බස්නායක</author>
+            <date>2016-02-07 10:21:34</date>
+            <index>3</index>
+            <phrase>මේ ආණ්ඩුව මොනවා කරන්න හදනවද. නොතේරේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍ර බස්නායක</author>
+            <date>2016-02-07 10:22:29</date>
+            <index>4</index>
+            <phrase>ගොවියාට පොහොර දෙන්න බැරි ආණ්ඩුවක්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍රා බස්නායක</author>
+            <date>2016-02-07 10:24:26</date>
+            <index>5</index>
+            <phrase>.ගොවියාට පොහොර දෙන්න බැරි ආණ්ඩුවක්..........................</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත්‍ර බස්නායක</author>
+            <date>2016-02-07 10:24:35</date>
+            <index>6</index>
+            <phrase>ගොවියාට පොහොර දෙන්න බැරි ආණ්ඩුවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බස්නායක</author>
+            <date>2016-02-07 10:27:25</date>
+            <index>7</index>
+            <phrase>වැඩක් නෑ කතා කරලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-02-07 10:20:34</date>
+            <index>8</index>
+            <phrase>ගොවීන් බලාපොරොත්තු වෙන්නේ සහනයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2016-02-07 10:27:31</date>
+            <index>9</index>
+            <phrase>දැනට නම් පොහොර හිඟයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒකනායක</author>
+            <date>2016-02-07 10:27:39</date>
+            <index>10</index>
+            <phrase>රටට බත සපයන පිරිස වෙනුවෙන් සහනයක් ලබා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2016-02-07 10:27:41</date>
+            <index>11</index>
+            <phrase>මේ වැඩෙන් ගොවීන්ට හොඳ ප්‍රතිලාභ ලැබෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එරංග</author>
+            <date>2016-02-07 10:27:43</date>
+            <index>12</index>
+            <phrase>ගොවි ජනතාව වෙනුවෙන් අපි නෑගි සිටිනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මානවී</author>
+            <date>2016-02-07 10:21:02</date>
+            <index>13</index>
+            <phrase>ගොවීන්ට මුදල් ලබා දීමෙන් ප්‍රයෝජනයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒකනායක</author>
+            <date>2016-02-07 10:31:20</date>
+            <index>14</index>
+            <phrase>පොහොර වෙනුවට මුදල් ලබා දී හරියනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-02-07 14:47:57</date>
+            <index>15</index>
+            <phrase>මෙම තීරණය ගොඩක් හොදයි මොකද අතර මැදියන්ට මුදල් ගසා කන්න බැහැ නිසි ක්‍රම වේදයක මෙම කටයුක්ත පිලියල කරනවනම් ගොවි මහතුන්ට යහපතක් වේවි ! බාල පොහොර ගෙන්න කට්ටිය දැන් බැරිවෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිල්වා</author>
+            <date>2016-02-07 14:55:09</date>
+            <index>16</index>
+            <phrase>මෙම තීරණය ගොඩක් හොදයි මොකද අතර මැදියන්ට මුදල් ගසා කන්න බැරි නිසි ක්‍රමවේදයක මෙම කටයුක්ත පිලියල කරනවනම් ගොවි මහතුන්ට යහපතක් වේවි ! බාල පොහොර ගෙන්න කට්ටිය දැන් බැරිවෙනවා(කෞ) .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරෝෂන්</author>
+            <date>2016-02-08 11:04:55</date>
+            <index>17</index>
+            <phrase>මාර වැඩේ තමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2016-02-08 11:11:54</date>
+            <index>18</index>
+            <phrase>මොකක්ද වෙන්නේ කියලා හිතා ගන්න බෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2016-02-08 11:04:59</date>
+            <index>19</index>
+            <phrase>පාසල් නිල ඇඳුම දැන් හරි, අසරණ ගොවියාගේ පොහොර මිටියත් හරි,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2016-02-08 11:12:26</date>
+            <index>20</index>
+            <phrase>පාසල් නිල ඇඳුම දැන් හරි, අසරණ ගොවියාගේ පොහොර මිටියත් හරි, ලබන අවුරුද්දේ කොහොම කොහොම හරි පාසල් පෙළ පොතටත් ඒ ඉරණම ඇත කර දෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල් නිරෝෂා</author>
+            <date>2016-02-08 11:23:51</date>
+            <index>21</index>
+            <phrase>පාසල් නිල ඇඳුම දැන් හරි, අසරණ ගොවියාගේ පොහොර මිටියත් හරි, ලබන අවුරුද්දේ කොහොම කොහොම හරි පාසල් පෙලපොතටත් ඒ ඉරණම ඇ්ත කර දෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-02-08 15:43:46</date>
+            <index>22</index>
+            <phrase>මමනම් කියන්නේ අපේ මිනිස්සුන්ට හොඳ වැඩේ. රජ පවුල සැප විදිනවා බලාගෙන ඉන්න බැරුවනේ ලොකුවට ආණ්ඩුව පෙරලුවේ. අනේ සාදු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-02-08 15:43:57</date>
+            <index>23</index>
+            <phrase>මම නම් කියන්නේ අපේ මිනිස්සුන්ට හොඳ වැඩේ. රජ පවුල සැප විදිනවා බලාගෙන ඉන්න බැරුවනේ ලොකුවට ආණ්ඩුව පෙරලුවේ. අනේ සාදු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2016-02-10 08:39:39</date>
+            <index>24</index>
+            <phrase>පොහොර මිලදී ගැනීමට ප්‍රමාණවත් මුදලක් ලබාදෙනවනම් ඉතා සුදුසු වැඩපිළිවෙලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසික</author>
+            <date>2016-02-10 08:47:12</date>
+            <index>25</index>
+            <phrase>පොහොර මිලදීගැනීමට ප්‍රමාණවත් මුදලක් ලබාදෙනවනම් ඉතා සුදුසු වැඩපිළිවෙලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>61229</articleId>
+    <title>උඩවලවේ අලි වලි</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2012 අගෝස්තු මස 27 11:26:56</date>
+    <body>ඉඩෝරයත් සමග උඩවලවේ ජාතික වනෝද්‍යානයයේ ජලයත් කෑමත් හිඟයකට මුහුණ පා ඇත. මේ අලි දෙන්නා පස් නාගෙන පොර කන්නේ කුමක් නිසා දැයි නොදනී. බෙහෙවින් කෝප වූ අවස්ථාවක හැර අලි රණ්ඩු නොවෙතියි කියති.</body>
+    <comments>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2012-08-27 11:42:19</date>
+            <index>0</index>
+            <phrase>එකත් එකටම මනාප පොරයක් වෙන්න ඕන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මනෝහරන්</author>
+            <date>2012-08-27 11:39:44</date>
+            <index>1</index>
+            <phrase>සමහර පැති වල ඉන්න අලිත් හේතු බලෙන් හදාගෙන පොරකනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2012-08-27 11:46:13</date>
+            <index>2</index>
+            <phrase>මේ අලි දෙන්නා පස් නාගෙන පොර කන්නේ " පක්ෂ නායක කමකට වත්ද "</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර එස් ලියනගේ - මුල්ලෙරියාව</author>
+            <date>2012-08-27 11:49:43</date>
+            <index>3</index>
+            <phrase>අනේ ඔය පොඩි ප්‍රශ්න අමතක කරලා දාලා සාමෙට එන්නකෝ....!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-08-27 11:57:48</date>
+            <index>4</index>
+            <phrase>මනාප පොරයක්..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රනිල්</author>
+            <date>2012-08-27 12:05:08</date>
+            <index>5</index>
+            <phrase>මේ දවස් වල අලි කලබල හැමතැනම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයශ්‍රී</author>
+            <date>2012-08-27 12:29:36</date>
+            <index>6</index>
+            <phrase>සත්තුන්ටත් කෑම, බීම නැතුව ඉන්නවා කියන්නේ ලේ කුපිත වෙන එක සාමාන්‍යයි. කන්න බොන්න නැතිවුනාම මිනිස්සුත් තරහ ගන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-08-27 12:30:27</date>
+            <index>7</index>
+            <phrase>අලි ප්‍රශ්න ඇතිකලේ කවුද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නපාල</author>
+            <date>2012-08-27 12:43:06</date>
+            <index>8</index>
+            <phrase>මේවාට පිළියම් නැද්ද අලි මැරී මැරී යනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද පිටබැද්දර</author>
+            <date>2012-08-27 12:47:09</date>
+            <index>9</index>
+            <phrase>ඇයි පැටවුනේ රන්ඩු කරන්නේ සමගියෙන් ඉන්න බැරිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂ්මන්</author>
+            <date>2012-08-27 13:09:48</date>
+            <index>10</index>
+            <phrase>එකෙක් මැරෙන්න කලින් විසඳුනොත් හොඳයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිගාර</author>
+            <date>2012-08-27 13:18:30</date>
+            <index>11</index>
+            <phrase>අලි දෙන්නා පොරකනවා. අන්තිමේදී වෙනදා වගේම වෙන අය දිනනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2012-08-27 13:14:01</date>
+            <index>12</index>
+            <phrase>ගෑනු ප්‍රශ්නයක් වගේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-08-27 13:24:24</date>
+            <index>13</index>
+            <phrase>සමගි වෙයල්ලා...මේ අතරේ පිටින් එන අය කැලේ වනසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩයස්</author>
+            <date>2012-08-27 14:32:16</date>
+            <index>14</index>
+            <phrase>අපේ අලි මෙහේට වෙලා රණ්ඩු වෙද්දී, වෙන අලි කැළේ රණ්ඩු වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රෝහණ</author>
+            <date>2012-08-27 14:36:25</date>
+            <index>15</index>
+            <phrase>කන්න නැතුව වේලෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-08-27 14:42:19</date>
+            <index>16</index>
+            <phrase>නරකමත් නැහැ ඉතිං. අලිනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරේ නාවලගේ</author>
+            <date>2012-08-27 15:09:24</date>
+            <index>17</index>
+            <phrase>නායකකමේ ප්‍රශ්නයක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-08-27 16:25:46</date>
+            <index>18</index>
+            <phrase>කැලේ අලිත් රණ්ඩු වෙනවා, මෙහේ අලිත් රණ්ඩු වෙනවා. අපි ඉල්ලන් කනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආනන්ද</author>
+            <date>2012-08-27 16:38:21</date>
+            <index>19</index>
+            <phrase>වැරදි අදහසක් අරගෙන වගෙයි පෙනෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-27 17:26:16</date>
+            <index>20</index>
+            <phrase>අලි වෙඩි දාන්න බැරිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2012-08-27 18:38:46</date>
+            <index>21</index>
+            <phrase>කන්න නැතුව වැලපෙන වැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන්</author>
+            <date>2012-08-27 19:08:23</date>
+            <index>22</index>
+            <phrase>මේ ඉන්න අලිය හින්ද තමයි මේ දෙන්න රන්ඩු වෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-27 19:19:52</date>
+            <index>23</index>
+            <phrase>අලි කෙල්ලෙක් හින්දද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-08-27 22:47:26</date>
+            <index>24</index>
+            <phrase>ලක්ෂ්මන් විශිෂ්ටයි. ඔබ දුන්නේ නිවැරදි අදහසක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2012-08-28 07:48:14</date>
+            <index>25</index>
+            <phrase>අයියෝ අලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසේල</author>
+            <date>2012-08-28 09:54:42</date>
+            <index>26</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

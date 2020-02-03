@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15105</articleId>
+    <title>කන්තලේ අයි.පී. රිමාන්ඩ්</title>
+    <author>එච්සී චන්දන</author>
+    <date>2011 නොවැම්බර් මස 29 14:31:17</date>
+    <body>පුත්තලම මන්නාරම පාරේ දී පසුගිය හය වැනි දා රුපියල් 70000ක් කොල්ල කෑම සම්බන්ධයෙන් සැකපිට කන්තලේ පොලිසියේ පරීක්ෂක සුල්පි හාන් පුත්තලම මහේස්ත්‍රාත් හේෂාන්ත ද මැල්  මහතා විසින් බදාදා දක්වා රිමාන්ඩ් කරනු ලැබීය. දැනටම මේ සම්බන්ධයන් හය දෙනෙක් රිමාන්ඩ් කරනු ලැබ සිටිති.</body>
+    <comments>
+        <comment>
+            <author>අමිල සම්පත්</author>
+            <date>2011-11-29 15:59:15</date>
+            <index>0</index>
+            <phrase>දැඩි දඩුවම් දිය යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2011-11-29 16:23:56</date>
+            <index>1</index>
+            <phrase>කවද හදන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

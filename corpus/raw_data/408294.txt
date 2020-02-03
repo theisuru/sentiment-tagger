@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>408294</articleId>
+    <title>දෑවැද්දට වතුර ඉල්ලයි</title>
+    <author>චමින්ද මඩවල මුම්බායි සිට</author>
+    <date>2016 අපේ‍්‍රල් මස 24 15:26:57</date>
+    <body>මේ දිනවල ඉන්දියාවේ මහරාස්ට්‍ර ප්‍රාන්තයේ පවතින දැඩි නියගය හේතුවෙන් බිමට වතුර සොයා යෑමත් ග්‍රාමීය සිදුවන විවහා මංගල උත්සවයක මනාල පාර්ෂවයේ විවහා කොන්දේසියක් බවට පත්ව ඇතැයි ඉන්දීය මාධ්‍ය වාර්ථා කරයි. මහරස්ට්‍ර ප්‍රාන්තයේ ඇතැම් ග්‍රාමීය කාන්තාවන් තම නිවසට වතුර රැගෙන ඒම සදහා කිලෝමිටර් 10කට ආසන්න දුරක් ඇවිද යා යුතුය. නිවී මුම්බායි තානේ ලුතර් දිස්ත්‍රික්කයන්හි දැඩි නියගය හේතුවෙන් පානිය ජල ප්‍රශ්නය උග්‍රව පවතී. පසුගිය සතියේ සිට ඉන්දීය මධ්‍යම රජය දුම්රිය මගින් මහරස්ට්‍රා ප්‍රාන්තයට ජල සැපයුම සිදු කළත් එය ප්‍රමාණවත් නොවන බව ප්‍රාන්ත බලධාරීන් කියයි.
+ලුතර් දිස්ත්‍රික්කයට දිනපතා දුම්රිය ටැංකි 25කින් ජල ලීටර් ලක්ෂ 25ක් රැගෙන ආවත් එක් පුද්ගලයෙකු වෙනුවෙන් ජල සලාකය වශයෙන් ලැබෙනුයේ දිනකට වතුර ලීටරයක් පමණි.</body>
+    <comments>
+        <comment>
+            <author>චමල්කා</author>
+            <date>2016-04-24 17:53:07</date>
+            <index>0</index>
+            <phrase>ජයලලිතා මේ ගැන මොකද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2016-04-24 17:55:20</date>
+            <index>1</index>
+            <phrase>ජයලලිතා තමාගේ මිනිසුන්ට වතුර ටිකක් හොයාගන්න විදියක් බැලුවොත් නරකද, ලංකාවට විනකරන්න හදන්නේ නැතුව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඇසළ</author>
+            <date>2016-04-25 02:35:29</date>
+            <index>2</index>
+            <phrase>දෑවැද්දට වතුරයි, වැසිකිලියකුයි ඉල්ලන ලෝකයේ තියන එකම රට ඉන්දියාව. පහුගිය දිනවල පත්තරේ තිබුනේ මනාලයාගේ ගෙදර වැසිකිලියක් නැති නිසා විවාහය ප්‍රතික්ෂේප කලා කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2016-04-25 08:08:47</date>
+            <index>3</index>
+            <phrase>නියම දෑවැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2016-04-25 10:41:44</date>
+            <index>4</index>
+            <phrase>මෙහෙවූ රටවල් නේ අපිට ආධාර කරන්න ඉන්නේ. පාලම හැදුවනම් අපි නාලත් ඉවරයි , වැසිකිලි ගිහිල්ලත් ඉවරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-04-25 13:04:56</date>
+            <index>5</index>
+            <phrase>මෙහෙම රටක් පස්සෙනේ දුවන්නේ අපේ රට දියුණු කරන්න කියල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර</author>
+            <date>2016-04-26 08:25:07</date>
+            <index>6</index>
+            <phrase>මේහෙම රටක් අල්ලගෙනනේ ලංකාව දීයුණු වෙන්න හදන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

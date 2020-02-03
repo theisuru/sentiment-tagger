@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>465534</articleId>
+    <title>ලක්ෂ 72ක දුම්කොළ තිහාරියෙන් අල්ලයි</title>
+    <author>බිඟුන් මේනක ගමගේ ඉසංක සුනිමල්</author>
+    <date>2016 ඔක්තෝබර් මස 07 11:05:23</date>
+    <body>ගෝනි 500ක අසුරා තිබූ රුපියල් හැත්තෑ දෙලක්ෂයක පමණ දුම්කොළ තොගයක් තිහාරියෙන් අත්අඩංගුවට ගත් බව සුරාබදු අධිකාරියේ බොරැල්ල කාර්යාලයය කියයි.</body>
+    <comments>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-10-07 10:59:42</date>
+            <index>0</index>
+            <phrase>ලංකාවේ දුම්කොළ විකිණීම තහනම් කියලා මම නම් දන්නෙත් අදම තමයි. ඇත්තටම දුම්කොළ විකිණීම තහනම්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

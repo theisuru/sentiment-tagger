@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>369189</articleId>
+    <title>ගල්ලෑල්ල තුන්වැනි පාරටත් යටවේ</title>
+    <author>නිමල් ජයරත්න මොහොමඩ් ආසික්</author>
+    <date>2015 දෙසැම්බර් මස 15 10:15:48</date>
+    <body>මහවැලි ගඟ පිටාර ගැලීමෙන් පොළොන්නරුව මනම්පිටිය පාරේ ගල්ලෑල්ල මේ මාසයේදී තුන්වැනි වරටත් යටවිය.
+බස්, ලොරි හැර රථවාහන ගමනාගමනය නතරවී ඇති අතර ජල මට්ටම ඉහළ නගින බව පෙනේ.
+මේ අතර මහවැලි ගඟේ ශාඛාවක් වන පිඟා ඔය පිටාර ගැලීමෙන් මහනුවර යාපනය මාර්ගයේ අකුරණ ජලයෙන් යටවිය.
+දුනුවිල මාර්ගයේද වාහන ගමනාගමනය නතරවී ඇත.
+  
+(ජායාරූප නිමල් ජයරත්න)
+
+(ජායාරූප - මොහොමඩ් අාසික්)</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2015-12-15 05:50:43</date>
+            <index>0</index>
+            <phrase>මවත් දවසක් ගල්ලල්ලේදී ගංවතුරට අහුවුණා වාහනේ ෆැන් පෙති කැඩිලා වතුරේ සැරට මාර පරිප්පුවක් කෑවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයවීර</author>
+            <date>2015-12-15 07:10:45</date>
+            <index>1</index>
+            <phrase>අකුරණ හැමදාම පොඩි වැස්සටත් යටවෙනවා, එක නවත්වන්න හොඳ විසඳුමකුත් ක්‍රියාත්මක කරන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුර</author>
+            <date>2015-12-15 16:38:14</date>
+            <index>2</index>
+            <phrase>රාජපක්ෂ පාලනයට කෑගහන එක නවත්තලා නරකද මේ ප්‍රශ්න වලට උත්තර හෙව්වා නම්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

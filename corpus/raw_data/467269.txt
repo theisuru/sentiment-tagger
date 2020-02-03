@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>467269</articleId>
+    <title>හොරණ නිවුන්නු පහේ කඩඉම පනිති</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2016 ඔක්තෝබර් මස 12 14:01:46</date>
+    <body>හොරණ ශ්‍රි මේධංකර මහ විදුහලේ නිවුන් දරුවෝ තිදෙනෙක් පහේ ශිෂ්‍යත්වය ඉහළ ලකුණු ලබා සමත් වී ඇති බව ජයන්තා සමරතුංග විදුහල්පතිනිය කියන්නීය.
+සනුකි මෙත්නදී ලකුණූ 175 ක් ද තරුකි නෙතුම්යා ලකුණු 175 ක්ද විමත් පන්සිළු ලකුණු 178 ක් ද බැගින් ලබාගත්හ.
+විදුහලේ සිසුහු 47 දෙනෙක් සමත්ව සිටිති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>අරන්</author>
+            <date>2016-10-12 09:19:01</date>
+            <index>0</index>
+            <phrase>කෙලි පැටව දෙන්නා වෙනස් වෙන්නේ හිටගෙන ඉන්න ආකාරයටයි.... සුබ පැතුම් පැටවුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2016-10-12 09:24:07</date>
+            <index>1</index>
+            <phrase>නියම ජයග්‍රහණයක් මාපිය බලාපොරොතු නියමෙටම ඉටුකළා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ත</author>
+            <date>2016-10-12 09:43:38</date>
+            <index>2</index>
+            <phrase>හරිම සතුටුයි දරුවෝ 03 දෙනාට දෙවියන්ගේ පිහිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුන්දරසේන</author>
+            <date>2016-10-12 11:54:27</date>
+            <index>3</index>
+            <phrase>කාලෙකින් අහපු සතුටුම ප්‍රවෘත්තිය. ඔබ තිදෙනා දිදුලන තාරකා තුනක් වැනිය. ඔබගේ දෙමාපියන් ලොව වාසනාවන්තම දෙමාපිය යුවළකි. ඔබගේ අනාගතය සර්වප්‍රකාරයෙන් සාර්ථක වේවා !!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පතිරණ කපිල</author>
+            <date>2016-10-12 12:18:11</date>
+            <index>4</index>
+            <phrase>තෙරුවන් සරණයි පුතේ ඔයාලට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයිකේඑස් චන්ද්‍රසිරි</author>
+            <date>2016-10-12 14:28:02</date>
+            <index>5</index>
+            <phrase>ජයෙන් ජයම වේවා දරුවනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිත්සිරි</author>
+            <date>2016-10-13 02:14:19</date>
+            <index>6</index>
+            <phrase>සතුටුයි. ගුණ නුවනින් යුතු උසස් පුරවැසියන් වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2016-10-13 03:31:33</date>
+            <index>7</index>
+            <phrase>වසනාවන්ත පුවතක්. ඒ අම්මා තාත්තා කෙතරම් වාසනාවන්තද? පින් කළ පවුලක්. ඔබසැමට බුදුසරනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරිනිමල් පීරිසි</author>
+            <date>2016-10-14 09:38:37</date>
+            <index>8</index>
+            <phrase>විශේෂයෙන් ආඩම්බරයි මගේ බිරිදගේ වැඩිමහල් යෙහෙළියගේ දරුවන් වීම පිලිබදව. සුභ පැතුම් තිදෙනාටම අනාගතය නිවැරදිව යහපත්ව අධිෂ්ඨාන පුර්වකව ජයගෙන ශ්‍රී ලංකාව තුල කැපීපෙනෙන දිදුලන තරු තුනක් වන්නට...!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

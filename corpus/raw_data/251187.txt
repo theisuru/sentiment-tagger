@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>251187</articleId>
+    <title>හපුතලේදී බසයක් ගිනි ගනී</title>
+    <author>සමන් පාලිත නානායක්කාර</author>
+    <date>2014 ජූලි මස 20 09:49:27</date>
+    <body> වැල්ලවායේ  සිට පැමිණි ලංගම බසයක් හපුතලේ උඩ විහාරයේදී ගිනි ගත්තේය.
+බසයේ සිටි මගීන් 48 දෙනා අනතුරකින් තොරව ඉවත් කරගැනීමට රියදුරා සමත් විය.
+පොලීසිය සහ ප්‍රදේශවාසීන්ගේ උත්සාහයෙන්  ගින්න නිමා දැමීය.
+
+
+
+ </body>
+    <comments>
+        <comment>
+            <author>කුමාරි</author>
+            <date>2014-07-20 04:52:03</date>
+            <index>0</index>
+            <phrase>අම්මෝ ලොකු දෙයක් බුද්ධිමත් රියදුරු මාමෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2014-07-20 08:39:46</date>
+            <index>1</index>
+            <phrase>අවුරුද්දකට අඩු වශයෙන් එකක්වත් ගිනිගන්නවාමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාමන්</author>
+            <date>2014-07-20 08:51:29</date>
+            <index>2</index>
+            <phrase>හොඳින් නඩත්තු කටයුතු කරන්න ඕනෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝන්</author>
+            <date>2014-07-20 10:54:32</date>
+            <index>3</index>
+            <phrase>පේනවා නේද අපේ ගමනාගමන මණ්ඩලයේ තරම?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන් ගමගේ (ඕමාන)</author>
+            <date>2014-07-20 12:39:22</date>
+            <index>4</index>
+            <phrase>දැන් වාහන හරියට නඩත්තු කරන්නේ නැති නිසා ඔහොම දේවල් වෙනවා. ගොඩක් අය තියෙන කොටස් විකුණනවා.ඉතින් කොහොමද වාහන හොඳ තත්වයේ තියෙන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2014-07-20 13:17:09</date>
+            <index>5</index>
+            <phrase>අනේ මන්දා! ලංගමටමයි මේවා වෙන්නේ? අපේ දුප්පත් ගමනාගමන සේවය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2014-07-20 14:02:38</date>
+            <index>6</index>
+            <phrase>අපේ රටේ ලංගම බස් රථ නඩත්තුව නම් අන්තිමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩී.උපුල්</author>
+            <date>2014-07-20 14:20:15</date>
+            <index>7</index>
+            <phrase>හපුතලේ කන්ද දැකලා බඩ දනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2014-07-21 02:26:20</date>
+            <index>8</index>
+            <phrase>සීතල වැඩි නිසා වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහමඩ්</author>
+            <date>2014-07-21 04:22:39</date>
+            <index>9</index>
+            <phrase>එහෙම කියන්න එපා. ජීවිත ගළවාගත් එකට අපේ ගෞරවනීය ප්‍රණාමය පුද කරන්න ඕනෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සසංක</author>
+            <date>2014-07-21 05:08:56</date>
+            <index>10</index>
+            <phrase>ඔය බස් එක ඩිපෝ එකට තිබුණ සුපිරිම බස් එකක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2014-07-21 05:27:02</date>
+            <index>11</index>
+            <phrase>ලංගම නිසාද ඔහොම වෙන්නෙ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දසුන්</author>
+            <date>2014-07-22 10:24:51</date>
+            <index>12</index>
+            <phrase>රියදුරාගේ හපන්කම නිසා මඟීන් බේරුනා. සුපිරි මිනිසෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

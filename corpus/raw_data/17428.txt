@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17428</articleId>
+    <title>මිෂෙල් ඔබාමයි නත්තල් සීයයි</title>
+    <author>රොයිටර් පුවත් ඇසුරිනි</author>
+    <date>2011 දෙසැම්බර් මස 14 09:24:37</date>
+    <body>එළැඹෙන නත්තල් උත්සවය නිමිත්තෙන් ඇමෙරිකාවේ වොෂින්ටන් නුවර ‘ජාතික ළමා වෛද්‍ය මධ්‍යස්ථානයේ’ ප‍්‍රතිකාර ගන්නා කුඩා දූ දරුවන් වෙනුවෙන් විශේෂ නත්තල් උත්සවයක් පෙරේදා (12) පැවැත්විණි. එම උත්සවයට නත්තල් සීයා පමණක් නොව ඇමෙරිකා ජනපති ආර්යාව මිෂෙල් ඔබාමා ද සහභාගී වූයේ රැස්ව සිටි සියල්ලන්ම පුදුමයට පත් කරමින්ය.</body>
+    <comments>
+        <comment>
+            <author>ෆ්‍රන්සි</author>
+            <date>2011-12-14 11:53:47</date>
+            <index>0</index>
+            <phrase>ඇමෙරිකාවෙ අය අපිට කරදර නොකර මොනව කර ගත්තත් අපිට මොකද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2011-12-14 13:20:47</date>
+            <index>1</index>
+            <phrase>ෙඅලුත්ම ඇදුම් මෝස්තරයක් පෙන්වන්න යන්න ඇත්තේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

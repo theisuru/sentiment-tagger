@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19895</articleId>
+    <title>රූමස්සල හඳුන් දිවියා මහමඟ අවසන් ගමනේ</title>
+    <author>සජිව විජේවීර</author>
+    <date>2011 දෙසැම්බර් මස 30 11:39:48</date>
+    <body>රූමස්සල සහ කටුගොඩ කඩොලාන අභයභූමිය ආසන්නයෙන් දිවෙන ගාල්ල - මාතර පාරේ දී හඳුන් දිවියකු වාහනයක හැපී මියගොස් සිටියේය. සිරුර වනජිවී සංරක්ෂණ සංගමයට බාර දී ඇත.</body>
+    <comments>
+        <comment>
+            <author>Sir</author>
+            <date>2011-12-30 12:39:18</date>
+            <index>0</index>
+            <phrase>ලංකාවේ බොහෝ රියදුරන් ධාවනය කරන්නේ නොසැලකිලිමත්වයි. ඔවුන්ට ජීවිතයක වටිනාකම තේරෙන්නේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අතපත්තු</author>
+            <date>2011-12-30 14:08:41</date>
+            <index>1</index>
+            <phrase>අපේ රට දියුණු වෙනවා වගේම අපට ආවේනික අපේ සම්පත් රැකගැනීම වගකිවයුත්තන්ගේ වගකීමක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2011-12-30 16:23:52</date>
+            <index>2</index>
+            <phrase>නොසැලකිලිමත් බව වගකිව යුත්තන්ගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී</author>
+            <date>2011-12-30 16:31:17</date>
+            <index>3</index>
+            <phrase>දුර්ලභ වර්ගයේ මෙවැනි සතුන් එකා දෙකා දිනපතා නැතිවී ගොස් අන්තිමේදී මේ සතුන්ගේ නම් පවා අපට අමතක වී යන තැනට කටයුතු යෙදී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල්</author>
+            <date>2011-12-31 10:06:45</date>
+            <index>4</index>
+            <phrase>ඉතාම දුරලභ සතෙක් අපට අහිමි වීම ගැන දුකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2011-12-31 11:14:40</date>
+            <index>5</index>
+            <phrase>ස්වභාවික පරිසර පද්දතියක් දෙකඩ කරලා අදිවේගී පාරක් හැදුවම මේක වෙන බව කලිනුත් කිව, නමුත් අපි සංවර්දනයට අකුල්හෙලන්නෝ කිව, දැන් පෙනවනේද වෙන දේ , පර හදන්න තිබ්බේ කණු උඩ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරවින්ද</author>
+            <date>2011-12-31 11:55:13</date>
+            <index>6</index>
+            <phrase>ජිවිතයක වටිනාකම තේරෙන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kans boy</author>
+            <date>2011-12-31 21:25:08</date>
+            <index>7</index>
+            <phrase>මේ අධිවේගී පාරේ සිද්ධියක් නෙමේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුලී</author>
+            <date>2012-01-01 09:52:38</date>
+            <index>8</index>
+            <phrase>අනේ පව්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

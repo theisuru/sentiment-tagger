@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>244532</articleId>
+    <title>පාලම් 210ක්</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2014 ජූනි මස 23 13:19:21</date>
+    <body>ආර්ථික සංවර්ධන අමාත්‍යංශයේ රට පුරා පාලම් 210 ක් ඉදිකිරීමේ වැඩසටහන යටතේ මොණරාගල දිස්ති‍්‍රක්කයේ ඉදි කැරෙන පාලම් 11 ක වැඩ මේ වන විට අවසන් අදියරේ පවතී.
+පාලම් ඉදිකෙරෙන්නේ මොණරාගල දිස්ති‍්‍රක්කයේ ප‍්‍රාදේශීය ලේකම් කොට්ඨාස 11 කය.මොණරාගල දිස්ති‍්‍රක් ලේකම් ඒ.පද්මනාදන් මහතාට අනුව පාලම් ඉදිකිරීමෙන් ලක්ෂ 3 කට ආසන්න ජනතාවකට සෙත සැළසෙනු ඇත.
+පාලම් 210 වැඩපිළිවෙල දිවයිනේ තවත් දිස්ති‍්‍රක්ක 14 ක කි‍්‍රයාත්මකය.මෙම පාලම් ආරුක්කු නොමැතිව සම්පූර්ණයෙන්ම යකඩයෙන් ඉදිකෙරෙන අතර මෙනිසා ස්වභාවික ආපදා වලින් ඒවාට සිදුවන හානි අවම වනු ඇතැයි සැළකේ.
+ශී‍්‍ර ලංකාවේ ජනතාවගෙන් සියයට 75 ක් ම ජීවත්වන්නේ දුෂ්කර ප‍්‍රදේශවල බැවින් ඔවුන්ව රටේ සංවර්ධනයට දායක කර ගැනීම සදහා නගරයත් ගමත් යා කරවන මෙම පාලම් වැදගත් මෙහෙයක් ඉටු කරනු ඇතැයි ආර්ථික සංවර්ධන අමාත්‍ය බැසිල් රාජපක්ෂ මහතා පෙර අවස්ථාවකදී සදහන් කළේය.</body>
+    <comments>
+        <comment>
+            <author>අමා</author>
+            <date>2014-06-23 16:32:22</date>
+            <index>0</index>
+            <phrase>හොදයි ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්ෂපාන</author>
+            <date>2014-06-24 20:23:24</date>
+            <index>1</index>
+            <phrase>සල්ලි ගොඩාක් වියදම් කරලා ''සෙල්ලන් පාලම්''නම් හදන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හසන්ත</author>
+            <date>2014-06-25 03:59:14</date>
+            <index>2</index>
+            <phrase>බොහොම සතුටුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණි - සිරි</author>
+            <date>2014-06-27 16:22:54</date>
+            <index>3</index>
+            <phrase>පාලම් 11 වගේම පුරාණ වැව් ටිකත් පිළිසකර කර දුන්නා නම් ගොවියාත් ගොඩ හාල් මුදලාලිලාත් ගොඩ. (නදී) !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රශාන්</author>
+            <date>2014-06-29 12:36:49</date>
+            <index>4</index>
+            <phrase>පොල් අතු පලේ ඉගෙන ගන්න ළමයින්ට පාසලක් හැදුවොත් නරකද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල.පෙරේරා</author>
+            <date>2014-06-29 17:29:15</date>
+            <index>5</index>
+            <phrase>අපි ලංකාදිපෙන් දැක්කනේ වැස්ස කාලේ අලුත හදපු පාරවල්වල අපුරුව. මේවට සල්ලි පාස් වෙච්ච අපේ උතුමන්ලාට කිරියෙන් පැණියෙන් ඉතිරේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හනිස්</author>
+            <date>2014-06-29 22:42:37</date>
+            <index>6</index>
+            <phrase>කොයි තරම් හැදුවත් කමක් නැහැ ප්‍රමිතියට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න ලියනගේ</author>
+            <date>2014-07-01 08:49:27</date>
+            <index>7</index>
+            <phrase>කීය ගියත් මාසෙන් මාසේ හරි ඡන්ද තිබ්බට කමක් නැහැ කියල හිතෙනවා මේවා දකිනකොට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

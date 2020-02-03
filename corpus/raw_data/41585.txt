@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>41585</articleId>
+    <title>ඇමැති කුරේ රිය අනතුරක</title>
+    <author>චාමින්ද දිසානායක</author>
+    <date>2012 මැයි මස 10 14:03:10</date>
+    <body>සුළු බෝග අපනයන ඇමැති රෙජිනෝල්ඩ් කුරේ මහතා අද අලුයම බලංගොඩ මොරකැටියේදී රිය අනතුරකට ලක් විය.
+ඔහු ගමන් කළ මෝටර්රථය පාරෙන් ඉවතට පැනීමෙන් සුළු තුවාල ලද ඇමැති හා රියැදුරා බලංගොඩ රෝහලට ඇතුළු කරනු ලැබූහ.</body>
+    <comments>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-05-10 14:42:01</date>
+            <index>0</index>
+            <phrase>ඔබතුමාටත්, ඔබගේ රියදුරැ මහතාටත් ඉක්මන් සුවය ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-05-10 14:55:08</date>
+            <index>1</index>
+            <phrase>හදවතේ තෙතමනයක් ඇති නායකයෙක් .ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-10 14:55:06</date>
+            <index>2</index>
+            <phrase>අපි ඔබට ඉක්මන් සුවය පතනවා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆාරු</author>
+            <date>2012-05-10 14:58:10</date>
+            <index>3</index>
+            <phrase>ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-05-10 15:13:40</date>
+            <index>4</index>
+            <phrase>දේශනාව විතරයි මෙයාගෙත්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීදියගොඩ</author>
+            <date>2012-05-10 15:20:32</date>
+            <index>5</index>
+            <phrase>ඔබට ඉක්මන් සුව ප්‍රාර්ථනා කරමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-05-10 16:04:15</date>
+            <index>6</index>
+            <phrase>තුවාල වෙලා විතරනේ... ඒ නිසා කමක් නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-10 16:27:32</date>
+            <index>7</index>
+            <phrase>ඔබ හොද පුද්ගලයෙකි.ඔබට ඉක්මන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-05-10 16:57:21</date>
+            <index>8</index>
+            <phrase>කුරුදු, ගම්මිරිස්, කරපිංචා වලට නැද්ද ඇමති කෙනෙක්.අනේ මෙහෙමත් රටක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනජය</author>
+            <date>2012-05-10 17:48:19</date>
+            <index>9</index>
+            <phrase>ඉක්මන් සුවය පතමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-05-10 19:11:10</date>
+            <index>10</index>
+            <phrase>මේවා සිද්ධ වුණයි කියලා මොකෝ අපේ පාන් මිළ අඩු වෙනවායැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධව</author>
+            <date>2012-05-10 20:14:27</date>
+            <index>11</index>
+            <phrase>අපි ඔබතුමාට ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දාස්</author>
+            <date>2012-05-10 20:25:21</date>
+            <index>12</index>
+            <phrase>කාට කාටත් අපලයි වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරා</author>
+            <date>2012-05-10 21:19:23</date>
+            <index>13</index>
+            <phrase>තව ටික දෙනෙක් මෙහෙම ගියා නම් පාන් මිළ අඩුවෙනවා.ෂුවර්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේන</author>
+            <date>2012-05-10 22:39:46</date>
+            <index>14</index>
+            <phrase>ලංකාවේ ඇමතිවරයෙක් ඉන්නවා කියලා දන්නේ මේ වගේ දෙයක් උණාමම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දි සිල්වා</author>
+            <date>2012-05-10 23:17:06</date>
+            <index>15</index>
+            <phrase>ඇමැතිවරුන්ට වේග සීමා නැත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාතර මල්ලි</author>
+            <date>2012-05-11 03:05:31</date>
+            <index>16</index>
+            <phrase>ඇමති තුමා සුලු අපනයන බෝග උණාට ගමන නම් මහා පරිමාණෙන් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දු</author>
+            <date>2012-05-11 06:42:57</date>
+            <index>17</index>
+            <phrase>ඔබ හොද ගුරුවරයෙකි.ඔබට ඉක්මන් සුව ප්‍රාර්ථනා කරමු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රගීත්</author>
+            <date>2012-05-11 07:10:27</date>
+            <index>18</index>
+            <phrase>ඇමතිවරුන්ගෙ වාහන යන යෑමෙ හැටියට ඔයින් ගියා ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමින්ද</author>
+            <date>2012-05-11 07:49:10</date>
+            <index>19</index>
+            <phrase>පුදුම ඇමතිලා තොගයක්නේ ඉන්නේ.අනේ උඩ ඉන්න දෙවියොවත් බලන්නේ නෑනේ අපේ රට දිහා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පුසන්න</author>
+            <date>2012-05-11 07:58:27</date>
+            <index>20</index>
+            <phrase>ඇමතිලාගේ සහ මන්ත්‍රීලාගේ වාහන වලට වේගයෙන් යද්දි වදින සයිරන් නලා හයි කරන්න ඕනි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුභාෂිණි</author>
+            <date>2012-05-11 12:58:06</date>
+            <index>21</index>
+            <phrase>නැවත කලාවට ආවා නම් ඒකෙන් ඔයිට වැඩි සේවයක් වෙනවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-11 14:24:41</date>
+            <index>22</index>
+            <phrase>රියදුරුනම් පව්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආචාර්ය සුජිත් නිශාන්ත හේවගේ</author>
+            <date>2012-05-15 23:15:06</date>
+            <index>23</index>
+            <phrase>වේගෙ වැඩියි ඇමතිතුමා පොඩ්ඩක් හිමින් යමුද? සුභාෂීණී ඇමතිතුමා කලාවට නෙවෙයි ආයෙමත් ටියුෂන්වලට ආවා නම් හොඳයි කියලා ඔයාට හිතෙන්නේ නැද්ද..?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>27894</articleId>
+    <title>දේපොළ අරෝවට හෝටල හිමියා මරලා?</title>
+    <author>උපාලි රණවීර</author>
+    <date>2012 පෙබරවාරි මස 20 15:22:58</date>
+    <body>බියගම විලේජ් අයිතිකරු රත්නායක මහතා මරා දමන්නට ඇත්තේ දේපොල ප‍්‍රශ්නයක් නිසා කොන්ත‍්‍රාත්තුවක් මත විය හැකියැයි පොලිසිය සැක කරයි. ප‍්‍රදේශයේ ජනප‍්‍රිය පුද්ගලයකුවූ ඔහුගේ දියණිය බියගම විලේජ් හෝටලය පාලනය කරයි. ඔහුට තරුණ පුතෙක්ද සිටී. ඉතා අමානුෂික අන්දමින් ඔහු මරා දමාතිබිණි. ඝාතනය දුටු තරුණියක පස්සේද හඹාගිය ඝාතකයා ඇයටද තුවාල කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>මර්වින්</author>
+            <date>2012-02-20 16:12:43</date>
+            <index>0</index>
+            <phrase>අපි නම් ඕවට නෑ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්ත</author>
+            <date>2012-02-20 19:07:25</date>
+            <index>1</index>
+            <phrase>රටේ විවිධ අපරාධ සිද්ධ වෙනවා.. අපරාධයක් වීමට කලින් එවැනි දේ මැඩපැවැත්වීමට ක්‍රමයක් නැති බව පෙනේ.. පොලීසියට පමණක් සියල්ල කළ නොහැක. පොලීසිය ද ජනයාගේ විශ්වාසය බිඳගෙන ඇති නිසා නැවත එය තහවුරු කර ගත යුතුය. නීතිය දැඩිව ක්‍රියාත්මක කිරීමට කාලය එළඹ ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වාස්</author>
+            <date>2012-02-21 01:51:14</date>
+            <index>2</index>
+            <phrase>වැඩේ කැතයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග ශානි</author>
+            <date>2012-02-21 06:37:05</date>
+            <index>3</index>
+            <phrase>නෑයොද කියල සැකයි මට.. දේපළවලට ඇණ කොටා ගන්නේ නෑයො විතරයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>162702</articleId>
+    <title>කතරගම දිය කැපීම</title>
+    <author>කේඩී දේවප්‍රිය</author>
+    <date>2013 අගෝස්තු මස 21 11:46:40</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>සමන් රොහාන් රණසිංහ</author>
+            <date>2013-08-22 23:51:03</date>
+            <index>0</index>
+            <phrase>ලාංකිකයෝ කතරගම ගිහින් වදින ලස්සන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අස්ඩ්</author>
+            <date>2013-08-26 19:29:12</date>
+            <index>1</index>
+            <phrase>වතුර කපන්න පුලුවන්ද අයිස් නම් කපත හැකි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශෝක</author>
+            <date>2013-08-27 00:50:29</date>
+            <index>2</index>
+            <phrase>ඇත්තටම හොද දෙයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

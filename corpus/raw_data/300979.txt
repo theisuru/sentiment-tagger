@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>300979</articleId>
+    <title>නිව්යෝර්ක් ආ යානය නූලෙන් බේරෙයි</title>
+    <author>ජනක පිටිගල නිව්යෝක් නුවර සිට</author>
+    <date>2015 මාර්තු මස 06 12:14:30</date>
+    <body>අමෙරිකාවේ නිව්යෝක් නුවර ලගුවාඩියා ජාත්‍යන්තර ගුවන් තොටුපළ වෙත අද (5) උදෑසන 11 ට පමණ ඇත්ලන්ටා නුවර සිට මගීන් 127 දෙනකු පමණ රැගෙන පැමිණ ඩෙල්ටා සමාගමට අයත් අංක 1086 දරණ ගුවන් යානය අනතුරට පත් විය.
+අනතුරට හේතු වූයේ පෙර දිනයේ සිට ඇද හැලෙන අධික හිම පතනයය. අඟල් 7-8 ක් පමණ උසින් හිම වැටී තිබිණි.
+යානය ලිස්සා යාමෙන් මෙම අනතුර සිදුවිය. මගියෙක් පමණක් තුවාල ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>රනිල්</author>
+            <date>2015-03-08 04:40:17</date>
+            <index>0</index>
+            <phrase>හොද වැඩක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් කරුණාරත්න</author>
+            <date>2015-03-09 01:06:58</date>
+            <index>1</index>
+            <phrase>පහුගිය කාලේ අහපු දැකපු දේවල්වල හැටියට මේක මෙහෙම බේරුණු එක වාසනාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2015-03-09 08:16:08</date>
+            <index>2</index>
+            <phrase>සොබාදම් යෝදයා අබියස -අපේ කුරුමිටිකමේ වෙනස</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රවී - ඕමාන්</author>
+            <date>2015-03-09 10:14:07</date>
+            <index>3</index>
+            <phrase>වාසනාව වගේම ගුවන් නියමුවාගේ හැකියාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2015-03-09 21:54:23</date>
+            <index>4</index>
+            <phrase>ඕකනේ මම ඔය නිව්යෝර්ක් යන්නේ නැත්තේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

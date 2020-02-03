@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>376671</articleId>
+    <title>ඉන්ධන නැතිව ගුවන් යානයක් කඩා වැටිලා</title>
+    <author>නිලූක සඳුන් බණ්ඩාරනායක</author>
+    <date>2016 ජනවාරි මස 12 15:08:34</date>
+    <body>පර්යේෂණ චාරිකාවක් සඳහා ගිය ඕස්ට්‍රේලියා ගුවන් යානයක් ඉන්ධන නොමැතිවීම නිසා ඇන්ටාක්ටිකාවේ දී කඩා වැටී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+එම අනතුරෙන් ගුවන් නියමුවා මිය ගොස් තිබේ.
+පරික්ෂණ චාරිකාවක් සදහා ඇන්ටාක්ටිකා කදුකර ප්‍රදේශයට ඉහළින් ගමන් කළ හෙලිකොප්ටරය අයිස් තට්ටු සහිත  ප්‍රදේශයකට කඩා වැටුණු පසු ගිනි ගෙන ඇතැයි විදෙස් මාධ්‍ය කියයි.
+ගුවන් නියමුවා  මිය ගොස් ඇත්තේ රෝහල් ගත කළ පසුවය.</body>
+    <comments>
+        <comment>
+            <author>සිසිර</author>
+            <date>2016-01-13 10:17:32</date>
+            <index>0</index>
+            <phrase>ඉන්ධන නැතිව කඩා වැටුන නම් ගිනි ගත්තේ කොහොමද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද සෞදි</author>
+            <date>2016-01-13 10:47:22</date>
+            <index>1</index>
+            <phrase>ගුවන් නියමුවා ලංකාවේ පුද්ගලික බස් රියදුරෙක්ද.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

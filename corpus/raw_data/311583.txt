@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>311583</articleId>
+    <title>උදයංගගේ ගනුදෙනු  සොයන්න යුක්රේනයට  යයි</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2015 අපේ‍්‍රල් මස 24 11:56:16</date>
+    <body>රුසියාවේ හිටපු ශී‍්‍ර ලංකා තානාපති උදයංග වීරතුංග අවි ජාවාරම්හි යෙදී ඇතැයි නැගී තිබෙන චෝදනා සම්බන්ධයෙන් විමර්ශනය කිරීමට පොලිසියේ විශේෂ කණ්ඩායමක් එළැඹෙන මාසයේදී යුක්රේනය බලා යැවීම සම්බන්ධයෙන් ශී‍්‍ර ලංකා විදේශ අමාත්‍යංශයේ අවධානය යොමුව තිබේ.
+ඉන්දියාවේ යුක්රේන තානාපති හා ශී‍්‍ර ලංකාව සම්බන්ධයෙන් අධීක්ෂණ තානාපතිවරයා ලෙස සේවය කරන ඔලෙස්කාර් ෂෙව්චෙන්කෝ හා විදේශ අමාත්‍ය මංගල සමරවීර අතර පසුගියදා පැවති සාකච්ඡාවලදී මෙම කරුණ ඉස්මතුව ඇත.
+රුසියාවේ සිටිමින් යුක්රේන බෙදුම්වාදීන්ට අවි සැපයීමේ යෙදුණේයැයි හිටපු තානාපති උදයංග වීරතුංගට චෝදනා නැගී තිබේ.ඔහු ආගිය  අතක්  නැතැයි  රජය කියයි.</body>
+    <comments>
+        <comment>
+            <author>පියල්</author>
+            <date>2015-04-24 07:18:30</date>
+            <index>0</index>
+            <phrase>අතුරුදහන්වෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිස්ස</author>
+            <date>2015-04-24 09:07:50</date>
+            <index>1</index>
+            <phrase>කන්ටේනර් එකක් ඇතුලේ ඉන්නවද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්</author>
+            <date>2015-04-25 22:09:20</date>
+            <index>2</index>
+            <phrase>ඔය අය කළ වැඩ අපිත් හොඳට දන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රකාශ්</author>
+            <date>2015-04-27 12:20:54</date>
+            <index>3</index>
+            <phrase>සෝල්හයිම්ලා කොටින්ට දීපු අවි ආයුධ ගැන මේ අය විමසනවාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

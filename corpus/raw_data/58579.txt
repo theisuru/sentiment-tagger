@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>58579</articleId>
+    <title>අද ප්‍රශ්න පත්තරෙත් අවුලක්</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 අගෝස්තු මස 13 13:31:19</date>
+    <body>අද පැවති උසස් පෙළ භෞතික විද්‍යා නව සහ පැරණි ප්‍රශ්නපත්‍ර දෙකේම සංශෝධන දෙක බැගින් හතරක් තිබූ බව සිසුහු හා ගුරු සංගම් පවසති.
+ලංකා ගුරු සංගමයේ ප්‍රධාන ලේකම් ජෝසප් ස්ටාලින් මහතා පැවසුවේ විභාගය ආරම්භ කළ දින සිට මේ දක්වා විෂයන් 4ක ප්‍රශ්නපත්‍ර හයක ගැටලු සහගත තැන් තිබූ බවයි.
+අද භෞතික විද්‍යා සංශෝධන කියවා තේරුම් කළ නොහැකි නිසා කළුලෑලිවල ලියා තිබූ බවත්, කළුලෑල්ලෙන් ඈත සිටි සිසුන්ට ඒවා බලාගැනීමට අපහසු නිසා වාඩිවී සිටි ස්ථානයෙන් නැගිට ගොස් ඒවා බලා ගැනීමට සිදුවූ බවත් ස්ටාලින් මහතා පැවසීය.
+උත්තර පත්‍ර ලිවීමේ කාලය ඒ සඳහා වැය කිරීමට සිදුවූ නිසා කාල කලමනාකරණයට ගැටළු ඇති වූ බව සිසුහු පවසති.</body>
+    <comments>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-08-13 13:56:53</date>
+            <index>0</index>
+            <phrase>ඇයි ඔහොම කරන්නේ, ඔය විභාග ලියන්නේ අහිංසක ළමයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-08-13 13:58:07</date>
+            <index>1</index>
+            <phrase>ශා.... මරුනේ...........නැතිම කරලා දාමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-08-13 13:58:41</date>
+            <index>2</index>
+            <phrase>ගණන් ගන්න එපා. ලංකාවේ ඔහොම තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-13 14:16:19</date>
+            <index>3</index>
+            <phrase>මරු.... මරු....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-08-13 14:18:33</date>
+            <index>4</index>
+            <phrase>අපේ අහිංසක ළමයි නේද මේ දුක් විදෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමර</author>
+            <date>2012-08-13 14:18:42</date>
+            <index>5</index>
+            <phrase>ඔය ප්‍රශ්න පත්‍ර හදපු අය ඔය වගේ විභාගවලට ඉඳල නැද්ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර කුමාර</author>
+            <date>2012-08-13 14:19:46</date>
+            <index>6</index>
+            <phrase>ඒපාර විභාගේ ඉවර කරන්න වගෙයි හදන්නේ ? මේකද ආශ්චර්ය ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමාල්</author>
+            <date>2012-08-13 14:24:58</date>
+            <index>7</index>
+            <phrase>අපි A/L කරපු කලේ මෙහෙම වෙන්න එති , අපිට විශ්වවිද්‍යාලයට එන්න බැරි උනේ , ඒකාලේ මාධ්‍ය ප්‍රබල නැහැ නේ ,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදු පුන්ච</author>
+            <date>2012-08-13 14:30:29</date>
+            <index>8</index>
+            <phrase>අනේ මන්ද මේ හැම දෙකින්ම තැලෙන්නේ අහිංසක ළමයි තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂාර</author>
+            <date>2012-08-13 14:56:10</date>
+            <index>9</index>
+            <phrase>මමත් මේපාර විභාගෙ ලිව්වා.අපිට ඔහොම සංශෝදනයක් ආවෙ නෑනෙ.ඇත්තටම එහෙම එකක් තිබුනද? අපිට කිව්වේ නෑනේ physics මොන ගානෙද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජීව</author>
+            <date>2012-08-13 15:11:15</date>
+            <index>10</index>
+            <phrase>"ආශ්චර්යමත් දේශයක් "</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එල් බී</author>
+            <date>2012-08-13 15:23:43</date>
+            <index>11</index>
+            <phrase>අපේ කාලේ ඔහොම තිබුනේ නැහැ දැන් කොම්පියුටර් වැඩනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝහමෙඩ්</author>
+            <date>2012-08-13 15:21:32</date>
+            <index>12</index>
+            <phrase>මේ පර විභාගෙත් හරි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානක</author>
+            <date>2012-08-13 16:26:23</date>
+            <index>13</index>
+            <phrase>රටේ අධ්‍යාපනය මොකාටද ගිහිල්ලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කිරිමැටියන්</author>
+            <date>2012-08-13 16:28:20</date>
+            <index>14</index>
+            <phrase>විභාගෙ තමයි අපේ අභාගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>Sahehar Dawood</author>
+            <date>2012-08-13 16:43:17</date>
+            <index>15</index>
+            <phrase>අනේ ලොකු තැන්වලට මේවා පේන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-08-13 16:48:28</date>
+            <index>16</index>
+            <phrase>ප්‍රශ්න පත්තරත් අපිම හදාගෙන අපිම උත්තර ලියන්නද ? ඒක හැමෝටම ලේසියි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රූපා</author>
+            <date>2012-08-13 17:33:07</date>
+            <index>17</index>
+            <phrase>මේවා කාටද කියන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-08-13 21:35:10</date>
+            <index>18</index>
+            <phrase>ඔවා අපි කලින්ම කීවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීප්</author>
+            <date>2012-08-13 23:29:26</date>
+            <index>19</index>
+            <phrase>අයියෝ සල්ලි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩෙන්සිල්</author>
+            <date>2012-08-14 03:58:37</date>
+            <index>20</index>
+            <phrase>ඇමතිතුමන්ලාගේ දරුවන් පිටරට වල ඉගෙන ගත්ත නිසාද අපේ අසරණ ළමයින්ට මෙහෙම සළකන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකා</author>
+            <date>2012-08-14 04:45:05</date>
+            <index>21</index>
+            <phrase>ආසියාවේ ආශ්චර්යය කරා දැන්නම් වේගයෙන් ගමන් කරන පාටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2012-08-14 08:39:09</date>
+            <index>22</index>
+            <phrase>මේ වැඩෙන් වෙන්නේ අපේ උසස් පෙළ ගැන තියෙන විශ්වාසය බිදිලා ලන්ඩන් ඒ ලෙවල් වලට යොමුවෙන එකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රවීන් - මැනිලා</author>
+            <date>2012-08-14 10:46:42</date>
+            <index>23</index>
+            <phrase>අනේ ඉක්මණට කමිටුවක් පත් කරලා වාර්තාවක් ගන්න දෙයියෝ. එතකල් මට නින්ද යන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

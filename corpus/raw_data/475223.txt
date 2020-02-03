@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>475223</articleId>
+    <title>යාපනය සිසුහු ජනපති/ අගමැති හමුවෙති</title>
+    <author></author>
+    <date>2016 නොවැම්බර් මස 01 18:18:17</date>
+    <body>යාපන සරසවියේ සිසුන් දෙදෙනාගේ මරණය සම්බන්ධයෙන් යාපනය විශ්ව විද්‍යාල සිසුහු පිරිසක් සහ විශ්ව විද්‍යාල ආචාර්යවරු පිරිසක් අද ජනාධිපති මන්දිරයේ සාකච්ඡාවකට සහභාගී වූහ.
+මෛත්‍රීපාල සිරිසේන ජනපති, රනිල් වික්‍රමසිංහ අගමැති සහ පුනරුත්තාපන හා නැවත පදිංචිකිරීමේ ඇමැති ඩී එම් ස්වාමිනාදන් මහත්වරු එම සාකච්ඡාවට එක්වූහ.
+පශ්චාත් මරණ පරීක්ෂණ වාර්තාව කඩිනමින් ලබා දෙන ලෙස නියෝග කළ ජනාධිපතිවරයා කඩිනමින් සිසු පවුල්වලට වන්දි ලබා දෙන බව ද කීවේය.
+ </body>
+    <comments>
+        <comment>
+            <author>ජගත්</author>
+            <date>2016-11-01 13:38:40</date>
+            <index>0</index>
+            <phrase>මොනවද ඉතින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියරත්න</author>
+            <date>2016-11-01 15:02:37</date>
+            <index>1</index>
+            <phrase>අපිට වුණා නම් අපිටත් මෙහෙම හමුවෙන්න දෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.තිස්ස</author>
+            <date>2016-11-02 01:30:51</date>
+            <index>2</index>
+            <phrase>ප්‍රජාචාර පැවතුම් සම්පුර්ණයෙන් බිඳවැටුණු දිළිඳු ප්‍රජාවක ජවනිකාවක් මෙයින් පෙන්වා දෙනවා. හැමදෙයකටම එක්කෝ ජනපති නැතිනම් අගමැති ඇඟිලි ගැසිය යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියරත්න</author>
+            <date>2016-11-02 02:20:32</date>
+            <index>3</index>
+            <phrase>අනේ අපිට කාගේ පිහිටක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>40283</articleId>
+    <title>සාකච්ඡා ඉල්ලා වීදි බසිති</title>
+    <author>සුමින්ද සුදර්ශන පතිරණ</author>
+    <date>2012 මැයි මස 03 15:37:59</date>
+    <body>වෘත්තීය ගැටලු ගැන කරුණු කීමට සාකච්ඡාවක් ඉල්ලමින් රැකියාලාභී උපාධිධාරීන්ගේ සංගමය රාජ්‍ය පරිපාලන හා ස්වදේශ කටයුතු අමාත්‍යංශය ඉදිරිපිටදී අද උද්ඝෝෂණයක් කළහ.</body>
+    <comments>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-05-03 15:54:56</date>
+            <index>0</index>
+            <phrase>ඇයි දෙයියනේ මැයි පළවෙනිදත් උද්ඝෝෂණය කොළා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2012-05-04 08:53:34</date>
+            <index>1</index>
+            <phrase>ඉල්ලීම් සාධාරණයි .. රජය මෙයාලව සංවර්ධන කටයුතුවලට සම්බන්ධ කර ගත්තොත් හොඳයි . නැත්නම් මේ අය වෙනුවෙන් ආයෝජනය කල මුදල් අපරාදේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

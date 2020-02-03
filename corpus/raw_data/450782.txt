@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>450782</articleId>
+    <title>‘පුදනකොටම කාපි යකා‘</title>
+    <author>ජේඉඳුරුවගේ</author>
+    <date>2016 අගෝස්තු මස 24 20:34:08</date>
+    <body>මාස  අටක කාලයක්  අක්‍රීයව තිබී අලුත් වැඩියා කර  අද(24) හවස යළි වැඩ  ආරම්භ කළ බෙන්තොට ප්‍රාදේශීය සභා ආදාහනාගාරය පළමු දේහය පුළුස්සා අවසන් කිරීමටත් පෙර  යළි අක්‍රීය විය.
+පසුව සේවකයෝ ඉමහත් වෙහෙසක් දරා එම දේහය දවා දැමූ අතර දෙවැනියට දැවීමට ගෙනා දේහය අලුත්ගම ආදාහනාගාරයට ගෙන යාමට  සිදුවිය.</body>
+    <comments>
+        <comment>
+            <author>නන්දලාල් ද සිල්වා - ප්‍රංශය</author>
+            <date>2016-08-24 15:44:48</date>
+            <index>0</index>
+            <phrase>මෙම ආදාහනාගාරය ක්‍රියාත්මක වෙන්නේ විදුලි බලයෙන්ද නැත්නම් ගෑස් බලයෙන්ද ?\nපළමු දේහය දවා දැමූ සේවකයන්ට සියලු දෙනාම, විශේයෙන් පවුලේ අයගේ ස්තුතිය පුද කල යුතු වෙනවා. මේ ආදාහනාගාරය \" රිපෙයාර් \" කරපු සමාගම, බාගයක් දවාගැනීමටවත් බැරිවුන දේහයේ පවුලේ අයට විශාල වන්දියක් ගෙවිය යුතුය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයතු</author>
+            <date>2016-08-24 16:23:42</date>
+            <index>1</index>
+            <phrase>අලුත්වැඩියාව හරියට කරලා නැහැ වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-24 16:32:12</date>
+            <index>2</index>
+            <phrase>මේවා තුළ මහා සංකීර්ණ යන්ත්‍ර නැහැ. කෑලි අමුණා අලුත්වැඩියා කරනවාට වඩා ලාබයි අවශ්‍ය කොටස් අලුතින් සවිකරන එක.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොට්ටි</author>
+            <date>2016-08-24 16:44:01</date>
+            <index>3</index>
+            <phrase>දැන් අර මානව හිමිකම් කරන අය මේවට වගකිවයුත්තන්ට නඩු එහෙම පවරන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරු</author>
+            <date>2016-08-24 18:53:19</date>
+            <index>4</index>
+            <phrase>ඔයවගේ පුංචි අලුත්වැඩියාවක්වත් කරගන්න බැරි මොකද? ගෑස් බටයකින් හරියට යැව්වා නම් ඇවිළෙනවනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලන්ක</author>
+            <date>2016-08-25 02:05:53</date>
+            <index>5</index>
+            <phrase>මෙහෙම සුළු දෙයක්වත් කරගන්න අපේ අයට බැරි හැටි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-25 04:31:25</date>
+            <index>6</index>
+            <phrase>අද කොහෙත් ඕක තමයි වෙන්නේ. ගුණාත්මකබවින් අඩු භාණ්ඩ හා සේවා සඳහා වැඩිපුර කොමිස් ගැහිලි වලට තමයි කාගේ වුණත් ඇස යන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

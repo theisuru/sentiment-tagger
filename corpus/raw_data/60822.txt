@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>60822</articleId>
+    <title>ප්‍රශ්න පත්‍රයේ අවුලක් නෑ</title>
+    <author>ජනත් ද සිල්වා</author>
+    <date>2012 අගෝස්තු මස 25 16:49:42</date>
+    <body>අපොස උසස් පෙළ විභාගයේ සවස දිය යුතු භූගෝල විද්‍යාව දෙවැනි කොටස අඩංගු මුද්‍රතැබූ කවරය වැරදීමකින් කරන්දෙණියේ දී කැඩු බවට කිසිවකු පැමිණිල්ලක් කර නැතැයි  ඇල්පිටිය කලාප අධ්‍යාපන අධ්‍යක්ෂ කේ.පී  ප්‍රේමදාස මහතා කියයි. ඔහු එසේ කියනුයේ එම ප්‍රශ්න පත්‍රය වැරදීමකින් කඩා ඇති බවට මව්පියන් පිරිසක් කළ පැමිණිල්ලක් ගැන විමසූ අවස්ථාවේදීය. කෙසේ වෙතත් එම ප්‍රශ්න පත්‍රය පිටවී නැති බව විභාග ශාලා ආරංචි මාර්ග කියයි.</body>
+    <comments>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-08-25 17:40:52</date>
+            <index>0</index>
+            <phrase>උත්තර වලනේ අව්ල</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිමාල්</author>
+            <date>2012-08-25 19:37:30</date>
+            <index>1</index>
+            <phrase>එහෙනම් කොහෙද අව්ල?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රානි</author>
+            <date>2012-08-25 22:10:05</date>
+            <index>2</index>
+            <phrase>ඇත්ත.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2012-08-26 11:45:12</date>
+            <index>3</index>
+            <phrase>ප්‍රශ්නපත්‍රය නෙවෙයි මුළු විභාගේම අත්හිටුවන්න තරම් ඇබැද්දියක් වුනත් ඒක මේ රටේ විභාග කොමසාරිස්ට වත්, විෂය භාර ඇමැතිවරුන්ටවත්, ඉන් මෙහා කාටවත් ප්‍රශ්නයක් නෙවෙයි. ඒක තමයි වත්මන් ලංකාවේ නිලධාරි දේශපාලක සංස්කෘතිය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

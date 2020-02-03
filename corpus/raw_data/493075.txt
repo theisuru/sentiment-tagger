@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>493075</articleId>
+    <title>ගෙදර පෙනි පෙනී අයෙක් යන්නම යයි</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 දෙසැම්බර් මස 26 11:13:21</date>
+    <body>අනුරාධපුරයේ පවුලේ පිරිසක් මාතලේ ගොස් අද (26) අලුයම එද්දී අනුරාධපුර කවරක්කුලම අසලදී ගසක හැපී අයකු මියගොස් තවත් 7 දෙනෙක් තුවාල ලබා ඇතැයි පොලිසිය කියයි.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>රොකී</author>
+            <date>2016-12-26 13:50:26</date>
+            <index>0</index>
+            <phrase>මේ ගොල්ලෝ ගසක හැපුනේ පයින් එද්දීද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්ද්‍රජිත්</author>
+            <date>2016-12-26 16:20:08</date>
+            <index>1</index>
+            <phrase>මරුහට කිසිදු තැනක් වේලාවක් නොමැත</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

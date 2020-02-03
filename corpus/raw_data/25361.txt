@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>25361</articleId>
+    <title>දිනාගත් සාමය රකින්න ජනපති උතුරට අත දිගු කරයි</title>
+    <author>දුෂ්‍යන්ත සමරසේන</author>
+    <date>2012 පෙබරවාරි මස 06 16:13:30</date>
+    <body>දිනාගත් සාමය රැක ගනිමින් රට නැංවීමට සියලුදෙනා ජාති, ආගම් හා කුල බේද දුරැර එක්විය යුතුයැයි මහින්ද රාජපක්ෂ ජනපති යාපනයේ දී පැවැසීය. එහි ප්‍රගති සමාලෝචන සමුළුව අමතමින් ජනපති කීවේ රජය මුළු ලංකාවටම එකසේ සලකන බවයි. ‘‘අප මැජික් කාරයන් නොවේ. ඒත් උතුරටත් දකුණටත් එකසේ වැඩ කරනවා‘‘ යැයි කීවේය. ඇතැම් මාධ්‍ය බොරු පතුරු වන බවත් මාධ්‍ය එවැනි පහත් මට්ටමට නොවැටිය යුතු බවත් ජනපති පැවැසීය.</body>
+    <comments>
+        <comment>
+            <author>ලාල් ගලබඩ</author>
+            <date>2012-02-06 18:24:41</date>
+            <index>0</index>
+            <phrase>ජනපති කියනදේ ටිකක්‌ පිලිගත හැකිමුත්,අනික්‌ අය කියන දේ අපි පාක්‍ෂිකයන් ව්ශයෙන් පිළි නොගනිමු.එයයි ඇත්ත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්ලිව්.ඩබ්ලිව්.එස්</author>
+            <date>2012-02-06 19:55:27</date>
+            <index>1</index>
+            <phrase>ඇත්ත‍ටම අපේ රටේ හොද සංවර්ධනයක් වන බව අප පිළිගත යුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-02-06 20:53:30</date>
+            <index>2</index>
+            <phrase>ජනපතිතුමා කියන පරිදි, ශ්‍රී ලංකාවට ජනවාර්ගික නිජබිම් සංකල්පයක් තිබිය යුතු නැත. සියළු ජාතීන්ට උතුර දකුණ කියා වෙනසක් නැතිව ජීවත් වීමේ අයිතිය තිබේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිරන් යූඒඊ</author>
+            <date>2012-02-07 01:07:14</date>
+            <index>3</index>
+            <phrase>ජනපතිතුමනි ඔබට සුභපතමි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆනෑන්ඩු</author>
+            <date>2012-02-07 01:29:35</date>
+            <index>4</index>
+            <phrase>කඩේ යන්නෙ නැති මාධ්‍ය සත්‍ය කියනවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිසාර්- කුවේට්</author>
+            <date>2012-02-07 09:17:36</date>
+            <index>5</index>
+            <phrase>අද රට් මිනී මැරුම් ඉතාමත් බයානකයි..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තේනුදී</author>
+            <date>2012-02-07 10:01:30</date>
+            <index>6</index>
+            <phrase>සංවර්ධනය කියන්නේ රට කොන්ක්‍රීට් වනාන්තරයක් කරන එක නෙමෙයි. මනුස්සකම නැති සංවර්ධනය පැවැත්මක නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

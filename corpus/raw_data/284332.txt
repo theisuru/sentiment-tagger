@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>284332</articleId>
+    <title>උතුවන්කන්දේ අනතුරෙන් හයක් රෝහලේ</title>
+    <author>සමන් විජය බණ්ඩාර</author>
+    <date>2014 දෙසැම්බර් මස 22 10:03:42</date>
+    <body>මාවනැල්ල උතුවන්කන්දේදී ලංගම බසයක් මෝටර් රථයක හැපී හය දෙනෙකු තුවාල ලැබූ බව පොලිසිය කියයි.
+තුවාලකරුවන්ගෙන් තිදෙනකු මෝටර් රථයේ ගමන් ගත් අය බව පොලිසියේ සඳහන් කරයි.
+
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>නොඑල්, රොෂාන්, දිනුක</author>
+            <date>2014-12-22 12:29:55</date>
+            <index>0</index>
+            <phrase>තිසුම් ඇතුලු පවුලේ සැමට ඉක්මන් සුවය පතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2014-12-22 13:37:28</date>
+            <index>1</index>
+            <phrase>පිස්සු හැදෙනවා බන් මට නම් හිතා ගන්න බැහැ මෙයා මෙච්චර වේගෙන් ගියා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2014-12-23 01:18:34</date>
+            <index>2</index>
+            <phrase>ඉක්මන් සුවය පතනවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුචිර</author>
+            <date>2014-12-23 06:08:48</date>
+            <index>3</index>
+            <phrase>තිසුම් කියන්නේ මගේ හොඳම යාලුවෝ 6ගෙන් එක්කෙනෙක්. වෙන රටක ඉන්න මට තිසුම්ව බලන්න විදිහක් නැති නිසා මම තිසුම්ට ඉක්මන් සුවය ප්‍රාර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලසිත</author>
+            <date>2014-12-23 14:40:05</date>
+            <index>4</index>
+            <phrase>තිසුම්ට ඉක්මන් සුව ප්‍රාර්ථනා කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක මනේලංග</author>
+            <date>2014-12-24 05:05:27</date>
+            <index>5</index>
+            <phrase>තිසුම් ඇතුලු පවුලේ සැමට ඉක්මන් සුවය පතමු. (ධනුෂ්ක මනේලංග )</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක මනේල්ලංග</author>
+            <date>2014-12-24 05:15:34</date>
+            <index>6</index>
+            <phrase>තිසුම් ඇතුලු පවුලේ සැමට ඉක්මන් සුවය පතමු! මට නම් හිතාගන්න බැහැ මෙයා මෙච්චර වේගයෙන් ගියා කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෙලුම්මලි හලංගොඩ</author>
+            <date>2014-12-24 05:48:43</date>
+            <index>7</index>
+            <phrase>දළදා සමිදු පිහිටෙන් ඔබ සියලු දෙනාට ඉක්මන් සුවය ලැබේවායි ප්‍රාර්ථනා කරමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.සුභාෂිනී පීරිස්</author>
+            <date>2014-12-24 06:44:05</date>
+            <index>8</index>
+            <phrase>දයාබර තිසුම්, ඔබ ඇතුලු පවුලේ සියලු දෙනාට ඉක්මන් සුවය ප්‍රාර්ථනා කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.සුභාෂිනී පීරිස්</author>
+            <date>2014-12-24 06:46:06</date>
+            <index>9</index>
+            <phrase>දයාබර මිතුර තිසුම්, ඔබ ඇතුලු පවුලේ සියලු දෙනාට ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනෝමා</author>
+            <date>2014-12-24 07:03:07</date>
+            <index>10</index>
+            <phrase>අනෝමා, ජානකී, තිළිණි, තිළිණ, ඇතුළු සියලු දෙනා තිසුම් ඇතුළු පවුලේ සැමට ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදාර</author>
+            <date>2014-12-24 07:52:16</date>
+            <index>11</index>
+            <phrase>තුවාල ලැබූ හැමදෙනාම ඉක්මනින් සුවපත් වේවා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>එම්.සුභාෂිණී පීරිස්</author>
+            <date>2014-12-24 08:09:10</date>
+            <index>12</index>
+            <phrase>සදාදාර මිතුර තිසුම් ඔබ ඇතුළු පවුලේ සියලුම දෙනාට ඉක්මන් සුවය ලැබේවා !</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2014-12-24 12:44:08</date>
+            <index>13</index>
+            <phrase>සියලු දෙනාටම ඉක්මන් සුවය පතමි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ්</author>
+            <date>2014-12-25 07:20:36</date>
+            <index>14</index>
+            <phrase>ඉක්මනින් සනීප වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලිනි ඉෂාර</author>
+            <date>2014-12-25 07:24:00</date>
+            <index>15</index>
+            <phrase>ඔබ සියලු දෙනාටම තෙරුවන් බලෙන් ඉක්මන් සුවය ප්‍රර්ථනා කරමි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරාජ් දහනායක</author>
+            <date>2014-12-25 07:28:18</date>
+            <index>16</index>
+            <phrase>ආශා අක්ක සහ පවුලේ හැම දෙනාම ඔයාට ඉක්මන් සුවය පතනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉෂංකා සදමාලී</author>
+            <date>2014-12-29 10:49:21</date>
+            <index>17</index>
+            <phrase>දයාබර මිතුර තිසුම් එස්.ආර්.ආර්.ආයතනයේ සියලුම දෙනා දළදා සමිදු පිහිටෙන් ඔබට ඉක්මන් සුවය ප්‍රර්ථනා කරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලිංග විජේවීර</author>
+            <date>2015-01-04 04:03:42</date>
+            <index>18</index>
+            <phrase>තිසුම්, ඔබට දළදා සමිදු පිහිටෙන් ඉක්මන් සුව ප්‍රර්ථනා කරනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

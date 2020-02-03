@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>256163</articleId>
+    <title>රෝහල් සුළු සේවකයෝ වැඩ වරති</title>
+    <author>හිරාන් ප‍්‍රියන්ත ජයසිංහ</author>
+    <date>2014 අගෝස්තු මස 13 07:11:59</date>
+    <body>රෝහල් කණිෂ්ඨ කාර්ය මණ්ඩල සාමාජිකයෝ 40000ක් පමණ ඉල්ලීම් හයක් මත අද දිවයින පුරා සංකේත වැඩවර්ජනයක් කිරීමට යති.</body>
+    <comments>
+        <comment>
+            <author>සඳරු</author>
+            <date>2014-08-13 02:57:53</date>
+            <index>0</index>
+            <phrase>මාසික වැටුප ගන්නේ මහජනතාවගේ මුදලින්. ඊට පස්සේ ඒ මිනිසුන්වම අපහසුතාවට පත් කරනවා. මීට වඩා වෙන ක්‍රමයක් ඇත්තෙම නැද්ද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2014-08-13 03:39:17</date>
+            <index>1</index>
+            <phrase>හැමදේකින්ම අද අන්ත අසරණ වෙන්නෙ අහිංසක මිනිස්සු.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2014-08-13 04:49:35</date>
+            <index>2</index>
+            <phrase>අනේ ! ඉක්මනට විසඳුමක් ලබාදෙන්න මෙයාලට, ඕක දුරදිග ගෙනයන්නේ නැතුව.අහිංසක ලෙඩ්ඩු අනාථ වෙනවා නැත්තම්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2014-08-13 04:55:43</date>
+            <index>3</index>
+            <phrase>මේ කියන්නේ අත්දැකීමෙන්...රෝහල් වෛද්‍යවරුන් හෙදියන් ඔවුන්ගේ කාර්ය නොපිරිහෙලා ඉටු කරනවා.එහෙත් කණිෂ්ඨ සේවකයන් බොහෝ වෙලාවට නිකරුනේ කාලය ගත කරන බවයි පෙනෙන්න තියෙන්නේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>විපුල</author>
+            <date>2014-08-13 05:50:38</date>
+            <index>4</index>
+            <phrase>කීර්තිගේ කියමන අනුමත කරමි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දයාජ</author>
+            <date>2014-08-13 06:07:59</date>
+            <index>5</index>
+            <phrase>රට බේරාගත් මේ විරුවන් තමයි, හැම දුක් දෝමනස්සයක් ළඟින්ම සිටින්නේ.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2014-08-13 06:22:58</date>
+            <index>6</index>
+            <phrase>බලනකොට හැ‍මෝම එකයි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පිටබැද්දර ජයා</author>
+            <date>2014-08-13 06:23:45</date>
+            <index>7</index>
+            <phrase>කිර්ති, එහෙම කියන්න එපා. මතකනේ බෝම්බ පුපුරද්දී ඔය හැම සේවකයෙක්ම බොහොම වෙහස මහන්සි වුණා.නමුත් ලේඩුන්ව ඇපයට නොගෙන මේක බේරගත්තා නම් තමා හොඳ නේද ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>උමේෂ්</author>
+            <date>2014-08-13 06:35:49</date>
+            <index>8</index>
+            <phrase>සෞඛ්‍යය, ප්‍රවාහනය වගේ සේවාවන් අත්‍යවශ්‍ය සේවාවන් බවට පත්කර නීති දැඩි කරන්න ඕනෑ. කිසිදු හේතුවක් මත සේවයට බාධා වන හෝ මහජනයා අපහසුතාවයට පත් වන සෑම ක්‍රියාමාර්ගයක්ම නීතිවිරෝධී කරන්න ඕනෑ. ඒ වගේ දේවල් කරන අයව පූර්ව දැනුම්දීමකින් තොරව සේවයෙන් පහ කළ හැකි නීති ගෙනෙන්න ඕනෑ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>දුම්මලසූරිය</author>
+            <date>2014-08-13 06:46:27</date>
+            <index>9</index>
+            <phrase>ලෝකෙන් උතුම් රට ලංකාවයි සිරි ලංකාවයි කියලා අපි පුංචි කලේ සින්දු වල කියද්දී අපි හිතුවේ ඒ කියන්නේ ඇත්තම ඇත්තයි කියලයි.දැන් බලන්න එපායැ ඒ උතුම් රටේ මිනිසුන්ගේ වැඩ........</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-08-13 07:10:07</date>
+            <index>10</index>
+            <phrase>උමේෂ්ගේ කියමන හරියටම හරි. මමත් එකහෙළාම අනුමත කරනවා. අත්‍යවශ්‍ය වෙලාවක උදව් කරන වීරෝධාර රණවිරුවන්ගේ කැපවීම ඉතා ඉහළින් අගය කරනවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත ඩබ්ලිව්.ජි</author>
+            <date>2014-08-13 07:14:40</date>
+            <index>11</index>
+            <phrase>හමුදා භටයන්ට පිං සිද්ධ වෙනවා අසරණයන්ට පිහිට වෙනවාට.තම අරමුණු තකා අසරණයන් බිලිදෙන දේශපාළු උන්නැහේලාටත් කුසල අකුසල දෙකෙන් එකක් ලැබේවි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2014-08-13 07:32:59</date>
+            <index>12</index>
+            <phrase>වැඩේ ගොඩින් බේරාගන්න බැලුවොත් නේද වඩා හොඳ?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කාන්ති</author>
+            <date>2014-08-13 07:37:43</date>
+            <index>13</index>
+            <phrase>මිනිසුන් ළඟ මොනවා නැතිවුණත් මනුස්සකම කියන දේ තියෙන්න ඕනෑ. මේ දුකට පත්වන්නේ අහිංසක රෝගීන් නොවේද?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ජෝති</author>
+            <date>2014-08-13 07:46:04</date>
+            <index>14</index>
+            <phrase>හැමදේටම හමුදාවේ මහත්වරු උදවුවට ඉන්න එක ගැන ගොඩක් සන්තෝෂයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>උපාලි</author>
+            <date>2014-08-13 07:46:09</date>
+            <index>15</index>
+            <phrase>ජනතාවට ක්ෂණික රිදවීමක් කරන්න පුළුවන් සේවයන් වන වෛද්‍ය, රෝහල්, විදුලි, ඉන්දන, අධ්‍යාපන, ප්‍රවාහන වල ලොකු පොඩි සේවක කවුරුත් ඉල්ලීම් සාධාරන වුණත් අසාධාරන වුණත් දිනාගන්න ඔය ආයුධය තමයි පාවිච්චි කරන්නේ. දැන් බලන්න එහෙම ජනතාවට එකවර දැනෙන්නේ නැති කොපමණ සේවා ගණනකුත් තියනවද? පර්යේෂණ, සංවර්ධන, නිෂ්පාදන, සංස්කෘතික වගේ. ඒවායේ වැඩ කරන සාධාරන සේවකයින්ට මේ වගේ අසාධාරන වර්ජන කරන්න බැහැ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ටිරෝන්</author>
+            <date>2014-08-13 07:59:29</date>
+            <index>16</index>
+            <phrase>මිනිසුන්ට ජීවත්වෙන්න අමාරුකම් ඇති. එහෙත් මේ වගේ නිවට වැඩවර්ජන නම් අනුමත කළ නොහැකියි. අපේ ශ්‍රේෂ්ඨ හමුදාව ඉන්නකම් අපි කිසි දෙයකට බය නැහැ. ත්‍රිවිද හමුදාවටම දෙවි පිහිටයි!</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර්</author>
+            <date>2014-08-13 08:15:05</date>
+            <index>17</index>
+            <phrase>ජපානයේ වර්ජනය කරනකොට, කළු පටියක් දාගෙන වැඩියෙන් වැඩ කරනවා. මෙහෙ ජනතාව දුක් විඳිනවා. දැන් තියෙන්නේ වර්ජනය කරන හැම ක්ෂේත්‍රයකටම ත්‍රිවිද හමුදාවේ අය පුහුණු කර සුදානම් ලෙස ඉන්න එක.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2014-08-13 08:51:29</date>
+            <index>18</index>
+            <phrase>වගකිවයුත්තන්ගේ අවධානය අහිංසක ජනතාවටත් යොමුවේවා!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2014-08-13 09:13:08</date>
+            <index>19</index>
+            <phrase>රණවිරුවනි, ඔබ සැමට බුදු සරණයි!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේශ්</author>
+            <date>2014-08-13 09:34:46</date>
+            <index>20</index>
+            <phrase>රජයේ ‍සේවකයෝ වන අපි හිතනවා අපි වර්ජනය කළාම කවුරුවත් නැහැ මේවා කරන්න කියලා. එක්කෙ‍නෙක් යන‍ක‍ොට දහස් ගානක් ඉන්නවා එන්න. එ්ක හිතන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>කණිෂ්ක</author>
+            <date>2014-08-13 09:56:39</date>
+            <index>21</index>
+            <phrase>අපේ රටේ තරම් මහජනතාවට රජයේ සේවකයන්ගේ ලොකුකම් බලන්න සිද්ධවෙන තැනක් ලෝකයේ කොහෙවත් නැහැ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමදාස</author>
+            <date>2014-08-13 10:29:24</date>
+            <index>22</index>
+            <phrase>මමත් ලෙඩෙන් බලාගන්න රජයේ රෝහලක සතියක් විතර හිටියා. හෙදියන් වෛද්‍යවරු තමන්ගෙ රාජකාරිය හරියට කෙරුවත් කණිෂ්ඨ සේවකයෙක් දකින්න ලැබුණේ කලාතුරකින්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චමි</author>
+            <date>2014-08-13 10:49:37</date>
+            <index>23</index>
+            <phrase>මේ ඉන්නේ සිවිල් ආරක්‍ෂක බලකායේ මහත්තුරු. හමුදාවේ මහත්තුරු නෙවෙයි.නිල ඇදුම එක වගේ.කවුරු කොහොම උනත් අසරණ රෝගින්ට ඔවුන් ලොකු සේවයක් කරනවා මෙි වෙලාවෙදි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2014-08-13 11:25:02</date>
+            <index>24</index>
+            <phrase>මම නමි කියන්නේ අපේ අාමි එකේ කොල්ලන්ට ටිකට වැඩ බාර දුන්නනමි හරියට කරාවි කට්ටියට ඕනි වර්ජනය කරන්න කියලා</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රනාන්දු</author>
+            <date>2014-08-13 11:31:40</date>
+            <index>25</index>
+            <phrase>රණවිරුවනි, ඔබට පින්!</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල පෙරේරා</author>
+            <date>2014-08-13 11:38:47</date>
+            <index>26</index>
+            <phrase>මමත් හිතන්නේ කට්ටිය ඉන්නකොට ලැබෙන සේවාවට වඩා ඉතා හොඳ සේවාවක් අපේ ආරක්ෂක අංශ මඟින් රෝගීන්ට ලැබෙනවා ඇති.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2014-08-13 11:38:25</date>
+            <index>27</index>
+            <phrase>සමහරු නාවික හමුදාවේ නිල ඇඳුමක් දැකලාම නැහැ වගෙයි කතාව</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සුගුනවති</author>
+            <date>2014-08-13 12:01:22</date>
+            <index>28</index>
+            <phrase>රජයේ වැඩකරන මහත්වරු තමයි හැමදාම වර්ජන.බලන්න පුද්ගලික ආයතන කොහොමද වැඩ කරන්නේ කියලා.එකම පිළිතුර එයාලට ගෙදරම ඉන්න කියලා අලුත් අය ගන්න එකයි</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2014-08-13 12:07:12</date>
+            <index>29</index>
+            <phrase>සුළු සේවකයන් වැඩ කළාට වඩා හොඳ සේවයක් ජනතාවට ස්ථිරවම ලැබෙන්නට ඇති. හමුදාවට ජනතා ප්‍රණාමය! දිගටම මෙසේ කළොත් සේවයට කැමති සේවකයින් පැමිණ වැඩ කරාවි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන</author>
+            <date>2014-08-14 03:53:28</date>
+            <index>30</index>
+            <phrase>හමුදාවේ අය පුුහුණු කරන්න ඔනේ නැහැ. ඒ අය ලඟ හොද පුහුණුවක් තියෙනවා. වෛද්‍ය වරු වගේම හෙද සහ වෛද්‍ය සහායකයන් ඔනැ තරම් ඉන්නවා. පහසුකම් විතරයි නැත්තේ</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>පැරිස් සමන්</author>
+            <date>2014-08-14 05:58:04</date>
+            <index>31</index>
+            <phrase>දන්නෙ නැති නිසයි අහන්නේ. වෘත්තීය අයිතිවාසිකම් වෙනුවෙන් තව කෙනෙකුගේ ජීවිතය ඇපයට ගන්න කාටවත් අයිතියක් තියෙනවද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

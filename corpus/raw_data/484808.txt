@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>484808</articleId>
+    <title>මාළු කෑම වැඩිවෙලා</title>
+    <author>හර්ෂණ තුෂාර සිල්වා</author>
+    <date>2016 නොවැම්බර් මස 28 21:23:16</date>
+    <body>මේ වසරේ ඒක පුද්ගල මත්ස්‍ය පරිභෝජනය ඉහළ ගොස් ඇතැයි ධීවර හා ජලජ සම්පත් සංවර්ධන අමාත්‍යාංශය සඳහන් කරයි.
+පර්යේෂණයකින් එම කරුණු අනාවරණය වූ බවත් ඒ අනුව මේ වසරේ ගත වූ කාලයේදී මෙරට දෛනික ඒක පුද්ගල මත්ස්‍ය පරිභෝජනය ග්‍රෑම් 46.7ක් දක්වා ඉහළ ගොස් ඇතැයි ද එම අමාත්‍යාංශය පවසයි. 
+වසර 2013 දී ඒක පුද්ගල මත්ස්‍ය පරිභෝජනය දිනකට ග්‍රෑම් 41.3ක් හා 2014 වර්ෂයේ දී දිනකට ග්‍රෑම් 42.9 ක් වූ පසුගිය වසරේදී එය අගය දිනකට ග්‍රෑම් 43.2ක් වූ බවත් ධීවර හා ජලජ සම්පත් සංවර්ධන අමාත්‍යාංශය තවදුරටත් කියා සිටියි.
+මෙරට මත්ස්‍ය අස්වැන්න ඉහළ යාම මෙන්ම, බොහෝ පාරිභෝගිකයින් මස් අනුභවයට වඩා මත්ස්‍ය  පරිභෝජනයට නැඹුරු වීම එලෙස මේ වසරේ මත්ස්‍ය පරිභෝජනය ඉහළ යාමට හේතු වූ යැයි ද එම අමාත්‍යාංශය පෙන්වාදෙයි.
+ </body>
+    <comments>
+        <comment>
+            <author>අසෝකා</author>
+            <date>2016-11-29 19:44:03</date>
+            <index>0</index>
+            <phrase>ආණ්ඩුවේ මැති ඇමතිවරු මහජනතාවගේ මාළු කන තරමත් ඕකටම එකතු කළා නම් හරියටම ගණන දැනගන්න තිබුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නෝබර්ට්</author>
+            <date>2016-11-29 21:55:08</date>
+            <index>1</index>
+            <phrase>මිල ඇහුවම ඇඟේ මාළු නටනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2016-11-30 00:50:10</date>
+            <index>2</index>
+            <phrase>මගේ ගෙදරත් මස් වර්ග කෑම නැවැත්තුවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2016-12-01 03:57:35</date>
+            <index>3</index>
+            <phrase>මුහුදු මාළුද ජනතාවගේ මාළුද? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හෙෂාන්</author>
+            <date>2016-12-01 10:32:56</date>
+            <index>4</index>
+            <phrase>මාළු වලට ප්‍රිය කරන ජනතාවත් ඉන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-12-01 10:32:09</date>
+            <index>5</index>
+            <phrase>පව්කාරයෝ, සත්තු මරන් කන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-12-01 10:43:43</date>
+            <index>6</index>
+            <phrase>පව්කාරයෝ, සත්තු මරන් කන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

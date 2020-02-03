@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17490</articleId>
+    <title>‘රන් තැඹිලි ගෙඩිය‘ සමග කපුවා අල්ලයි</title>
+    <author>අතුල බණ්ඩාර</author>
+    <date>2011 දෙසැම්බර් මස 14 12:41:25</date>
+    <body>රන් තැඹිලි ගෙඩියක හැඩය ගත් ලෝහ කුට්ටියක රත්‍රං ගා රුපියල් කෝටි දෙකහමාරකට එප්පාවල ව්‍යාපාරිකයකුට විකිණීමට ගිය කළුතර කපුවකු සැකපිට අද අලුයම කැකිරාව හිරිපිටියේ දී අත්අඩංගුවට ගනු ලැබීය.  සිතූ පැතූ සම්පත් දෙන බව කියන තෙලක් තැඹිලිගෙඩියේ ඇතැයි ද නිධානයකින් එය සොයාගත් බව ද කපුවා කියා ඇත. ඔහු ගමන් කළ රිය හිමිනමකට අයත් බවත් එය ද අත්අඩංගුවට ගත් බව පොලිසිය පවසයි.</body>
+    <comments>
+        <comment>
+            <author>නිවන්ත</author>
+            <date>2011-12-14 13:31:29</date>
+            <index>0</index>
+            <phrase>රජකාලේ දඩුවම් දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන් - තිස්ස</author>
+            <date>2011-12-15 10:01:10</date>
+            <index>1</index>
+            <phrase>මෙවැනි අයට දන්ඩ නීතිය ක්‍රියාත්මක කරන්න ඕනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමන</author>
+            <date>2011-12-15 15:07:33</date>
+            <index>2</index>
+            <phrase>දඬු කඳේ ගැහුවත් මදි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිහාල් ද සිල්වා</author>
+            <date>2011-12-15 19:09:49</date>
+            <index>3</index>
+            <phrase>කපුවා කපෝතියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

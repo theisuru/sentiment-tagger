@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>204340</articleId>
+    <title>මඩේ ලගින තාරවුන්... මතුගම කෙවිටියාගල මහ විදුහලේ අක්වැස්ස පාද නූපා ප්‍රසංගයෙන්..</title>
+    <author>විශ්ව ගැමුණු ප්‍රියංකර</author>
+    <date>2014 ජනවාරි මස 20 13:45:30</date>
+    <body></body>
+    <comments>
+        <comment>
+            <author>පහන්</author>
+            <date>2014-01-22 12:15:10</date>
+            <index>0</index>
+            <phrase>හරිම ලස්සනයි. පහසුකම් අඩු උනාට ගුරුවරුන්ගේ කැපවීම උපරිමයි. දියණිය හැබෑ දක්ෂයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමිත් ධර්මවර්ධන</author>
+            <date>2014-01-25 01:52:06</date>
+            <index>1</index>
+            <phrase>මේ මා අකුරු කළ පාසලයි. හැකියාවන් ඇත්තවුන් රැසක් රටට සහ ලොවට බිහිකළ කේන්ද්‍රස්ථානයයි. මගෙන් මේ අමිල සුබ පැතුම් නවසීලන්තයේ සිටයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2014-01-30 21:03:58</date>
+            <index>2</index>
+            <phrase>මර්සි එදිරිසිංඝ ශිල්පිනියට ඉක්මනින් නිරෝගී සුව ලැබේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනු</author>
+            <date>2014-02-13 21:51:06</date>
+            <index>3</index>
+            <phrase>ඔබවැනි දරුවෙක් රටට සම්පතක්.පාසලටත් ඔබටත් සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

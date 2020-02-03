@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>502573</articleId>
+    <title>බ්‍රයන් ෂැඩික්ගේ ගමන ගැන අධිකරණයෙන් විමසයි</title>
+    <author>ෆාරුක් තාජුඞීන්</author>
+    <date>2017 ජනවාරි මස 30 14:49:56</date>
+    <body>රුපියල් මිලියන 110 ක මුදල් වංචාවක් සම්බන්ධයෙන් පිවිතුරු හෙළ උරුමයේ ලේකම් උදය ගම්මන්පිල මහතාට එරෙහිව සාක්කි දීම සඳහා ඕස්ට්‍රේලියානු ජාතික බ්‍රයන් ෂැඩික් මහතා ශ්‍රී ලංකාවට පැමිණෙන්නේද නැද්ද යන්න පිළිබ‍ඳව අධිකරණයට දන්වන්නැයි කොළඹ මහාධිකරණය නීතිපතිට දැනුම් දුන්නේය.</body>
+    <comments>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2017-01-30 13:31:05</date>
+            <index>0</index>
+            <phrase>බ්‍රයන් ෂැඩික් කියල කෙනෙක් ඉන්නවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලුප</author>
+            <date>2017-01-30 22:37:23</date>
+            <index>1</index>
+            <phrase>ධම්ම, ගම්මන්පිල කියලා කෙනෙක් ඉන්නවා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ති</author>
+            <date>2017-01-31 00:35:55</date>
+            <index>2</index>
+            <phrase>වියදම් කරගෙන එන්නම ඕනෑ නැහැ නේද? "ස්කයිප්" තාක්ෂණය හරහා සාක්ෂි විමසිය හැකියි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>46741</articleId>
+    <title>කොටස් වෙළෙඳපොළ බහී</title>
+    <author></author>
+    <date>2012 ජූනි මස 06 10:44:57</date>
+    <body>නොසන්සුන්තාවයට පත්ව ඇති ආයෝජකයන් ගනුදෙනුවලින් ඉවත්වීම නිසා කොටස් වෙළඳපොළ සමස්ත පිරිවැය සියයට තුනක ප‍්‍රතිශතයකින් හෙවත් රුපියල් කෝටි දෙකකින් පහත වැටී ඇත.
+ස්පාඤ්ඤයේ ණය සම්බන්ධයෙන් යුරෝපා සංගමයේ ඇතිව තිබෙන ගැටලූව මෙන්ම රුපියල අවප‍්‍රමාණය වීමද මෙම තත්ත්වයට හේතු වී ඇත.</body>
+    <comments>
+        <comment>
+            <author>කරෝලිස්</author>
+            <date>2012-06-06 11:32:33</date>
+            <index>0</index>
+            <phrase>අපේ රටේ කොටස් වෙළඳපොල හරියට බූරු පොලක් වගේ. ධම්මික පෙරේරා වගේ කෙනෙකුට කිබුහුමක් ගියත් කොටස් වෙළද පොළ වෙනස් වෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේබන්දු</author>
+            <date>2012-06-06 12:55:18</date>
+            <index>1</index>
+            <phrase>කොටස් වෙළද පොලෙන් නිරූපනය වෙන්නේ රටේ ආර්ථිකයේ යම් පැති කඩක්. නිසි ආර්ථික ප්‍රතිපත්තියක් සහ නිසි පාලනයක් නොමැති කමින් ආයෝජකයින් කොටස් වෙළද පොලෙන් ඉවත් වෙනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-06 13:46:27</date>
+            <index>2</index>
+            <phrase>ආණ්ඩුවේ හැටිද මේකෙන් කියවෙන්නේ....????</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සූරියප්පෙරැම</author>
+            <date>2012-06-06 18:52:47</date>
+            <index>3</index>
+            <phrase>මේක මහ ආශ්චර්යයක් හසන්ත. මගේ මයිල් කෙලින් වෙනව මේව දකිනකොට. අපේ රට හරි පැත්තට යනවා. ආඩම්බරයි නේද හසන්ත? මට දැන් බය නැතුව මැරෙන්න පුලුවන්. මේක නේද අපි ප්‍රාර්ථනා කරපු ආශ්චර්යය හසන්ත?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-07 06:56:09</date>
+            <index>4</index>
+            <phrase>නියමයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සලාස්</author>
+            <date>2012-06-07 16:15:41</date>
+            <index>5</index>
+            <phrase>අපිත් දැන් බහින වයසෙනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2012-06-07 17:39:37</date>
+            <index>6</index>
+            <phrase>මේක ඉතිං හැමදාම බහිනවානෙ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාශ්</author>
+            <date>2012-06-07 21:17:41</date>
+            <index>7</index>
+            <phrase>සූරියපෙරැම මහත්තය හරි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>SK</author>
+            <date>2012-06-08 09:57:45</date>
+            <index>8</index>
+            <phrase>අනේ ඉතිං මේ පෘතග්ජන අපි මේවා කාටද කියන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2012-06-08 11:20:36</date>
+            <index>9</index>
+            <phrase>හසන්ත, මේ ආශ්චර්යය හැම වෙලේම දකින නිසා මගේ ඇගේ මවිල් කෙලින් වෙලයි තියෙන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-කුවෙයිට්</author>
+            <date>2012-06-09 02:30:38</date>
+            <index>10</index>
+            <phrase>හිතාගන්නත් අමාරුයි....දැන් අසූවත් පැනලා මයෙහිතේ......</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author></author>
+            <date>2012-06-09 10:39:46</date>
+            <index>11</index>
+            <phrase>ඔය බැස්සට ..............අයේ නගියි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරංග</author>
+            <date>2012-06-20 20:06:54</date>
+            <index>12</index>
+            <phrase>කොටස් වෙළද පොළේ රුපියල් 300000ක් දැම්මා.දැන් තියෙන්නේ 12000යි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

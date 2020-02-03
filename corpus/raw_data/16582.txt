@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>16582</articleId>
+    <title>ඉන්දියාවේ රෝහලක ගින්නෙන් 100 කට වැඩි පිරිසක් මරුට</title>
+    <author>ඒඑෆ්පී පුවත් ඇසුරිනි</author>
+    <date>2011 දෙසැම්බර් මස 09 17:30:46</date>
+    <body>ඉන්දියාවේ බටහිර බෙංගාලයේ කොල්කටා නුවර රෝහලක අද අලූයම තුනට පමණ හටගත් ගින්නකින් 100 කට වැඩි දෙනකු පිළිස්සී ජීවිතක්ෂයට පත්වූ තව බොහෝ දෙනෙක් තුවාල ලැබූහ.
+ගින්නට හසුවූයේ මහල් පහකින් සමන්විත ‘අම්රි’ රෝහලයි.
+පැය පහකට ආසන්න කාලයක් තිස්සේ ගින්න සමඟ සටන් කිරීමෙන් පසු මුළුමනින්ම පාහේ එය නිවා දැමීමට ගිනි නිවන භටයෝ සමත් වූයේ උදෑසන නවයට පමණි.
+සිද්ධිය සම්බන්ධයෙන් රෝහලේ වෛද්‍යවරු පිරිසක් සැකපිට අත් අඩංගුවට ගෙන ඇත</body>
+    <comments>
+        <comment>
+            <author>කුමාර</author>
+            <date>2011-12-09 16:41:18</date>
+            <index>0</index>
+            <phrase>රෝහල් කාර්ය මණ්ඩලය සැමවිටම රෝහල් පරිසරය පිළිබඳ විමසිලිමත් වියයුතුයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක් සානක</author>
+            <date>2011-12-10 00:56:23</date>
+            <index>1</index>
+            <phrase>ගොඩක් කණගාටුදායකයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සංජු</author>
+            <date>2011-12-10 10:16:43</date>
+            <index>2</index>
+            <phrase>ඉන්දියාවෙ හැම වෙලෝම මෙහෙමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

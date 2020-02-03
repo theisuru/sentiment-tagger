@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>443189</articleId>
+    <title>‘විපක්ෂය ජෝගි නටනවා‘</title>
+    <author>ඉෂංක සුනිමල්</author>
+    <date>2016 අගෝස්තු මස 01 18:16:24</date>
+    <body>‘රටක දියුණුවකට ප්‍රබල විපක්ෂයක් තිබිය යුතුයි. ප්‍රබල විපක්ෂයක් යනු විකට විපක්ෂයක් නොවේ‘ යැයි රන්ජන් රාමනායක නියෝජ්‍ය ඇමැතිවරයා සිරිකොත මාධ්‍ය හමුවකදී කීවේය.
+රජයකට විරුද්ධව පාද යාත්‍රා වැනි ජෝගි නටන බවත් එවැනි නාඩගම් තමන් මීට පෙර දැක නැති බවත් ඔහු කීය.
+
+ </body>
+    <comments>
+        <comment>
+            <author>ජී. නන්දන</author>
+            <date>2016-08-01 13:05:17</date>
+            <index>0</index>
+            <phrase>විපක්ෂය යනු පාර්ලිමේන්තුව තුළ දෙමළ ජාතික සන්ධානය නේද? මේ අය නෙමෙයි. ඔබතුමා එ්කවත් දන්නේ නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2016-08-01 13:11:13</date>
+            <index>1</index>
+            <phrase>අනේ රන්ජන් මහත්තයෝ, හොඳට බැලුවොත් කවුරුත් නටන්නේ ජෝගිම තමා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හලීම්</author>
+            <date>2016-08-01 13:06:53</date>
+            <index>2</index>
+            <phrase>රඟපෑමක් කරගෙන හිටියා නම් මීටවඩා නම්බු නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චතුරි</author>
+            <date>2016-08-01 13:12:55</date>
+            <index>3</index>
+            <phrase>හරි විදියට අධ්‍යාපනය නැතිවුණාම කාටත් ඔයටික වෙනවා. තේරුමක් නැහැ. නායකයා වගේ කකුළුවෝ ටික ඇදේට යනවා. බේබිලා මෙහි බැරෑරුම්කම දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙනිසන්</author>
+            <date>2016-08-01 13:21:28</date>
+            <index>4</index>
+            <phrase>අනේ අපි නොදන්නවයැ කාගෙ කාගෙත් හැටි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිනව</author>
+            <date>2016-08-01 13:22:26</date>
+            <index>5</index>
+            <phrase>තමුන්නාන්සේ ලංකාවේ නෙමෙඉද මෙචර කාලයක් උන්නේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර - කැකිරාව</author>
+            <date>2016-08-01 13:18:12</date>
+            <index>6</index>
+            <phrase>වැඩ බැරි ටාසන්ලා තමයි පහුගිය විපක්ෂේයෙත් හිටියේ ,අපිට තාම මතකයි (2008 කියපු කතා සහ නාටක ඔබලාට අමතකයි රන්ජන්).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2016-08-01 13:40:20</date>
+            <index>7</index>
+            <phrase>ජීවිතයම ජෝගි නටන රන්ජන් නේද මේ?.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියාන්</author>
+            <date>2016-08-01 13:55:47</date>
+            <index>8</index>
+            <phrase>මොකෝ නිකම් අඩන්න වගේ? ඔයා තමා හැමදාම ජෝගි නැටුවේ..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-08-01 14:03:31</date>
+            <index>9</index>
+            <phrase>ජෝගි නටනවා කියලා අපිත් දන්නවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුසිත</author>
+            <date>2016-08-01 14:03:22</date>
+            <index>10</index>
+            <phrase>අපිට හොදට පේනවා රන්ජන් මහත්තයෝ මොකක්ද හරි මොකක්ද වැරදි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2016-08-01 14:15:48</date>
+            <index>11</index>
+            <phrase>අපේ කට්ටිය හිතන් හිටියේ රන්ජන්ට රැවුල නෑ කියලනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාධවී</author>
+            <date>2016-08-01 14:19:50</date>
+            <index>12</index>
+            <phrase>මම දැක්ක හොඳම නාඩගම දැකල තියෙන්නේ රත්නපුර වේවල්වත්තේදී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිම්මි</author>
+            <date>2016-08-01 14:25:17</date>
+            <index>13</index>
+            <phrase>අනේ මෙයාගේ බොරු සෝබන. මෙයාට හොද මෙයාගේ ජෝගි බලන අය විතරයි. අපිටනම් මෙයාගේ ජෝගි තමයි බලන්න අප්පිරියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-01 15:13:57</date>
+            <index>14</index>
+            <phrase>එයාලා නැටුවාවේ ඔබ කලබල නොවී ඉන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනහිත</author>
+            <date>2016-08-01 15:40:48</date>
+            <index>15</index>
+            <phrase>පාර්ලිමේන්තුවට මේ අය යවපු අයට බු වළල්ලෙන් තලන්න ඕන. වන්ෂොට් වීම මන්ත්‍රී වීමට සුදුසුකමක් නොවෙයි. කතා කරන්නෙම බජාර් එකටම තමා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රණසිංහ</author>
+            <date>2016-08-01 16:10:12</date>
+            <index>16</index>
+            <phrase>ලෝකෙටම විහිලු සපයන ජනාධිපති කෙනෙක් ඉද්දි තව ජෝකර්ලා මොකටද නේද මහත්තයෝ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-08-01 20:56:06</date>
+            <index>17</index>
+            <phrase>හොඳම ජෝකර්ලා ඉන්නේ ඔයාලත් එක්කනේ. ඒ විකටයෝ ගැන අපි දන්නවා. මට නම් පෙනෙන්නේ තනතුරකට දඟලනවා වගේ. හැබැයි හැම ගහකටම කොට කොටා ගිහින් කෙසෙල් ගහට කොටපු කොට්ටෝරුවට වෙච්ච දේ ළඟදීම බලාපොරොත්තු වෙලා ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඒකනායක මිලානෝ-</author>
+            <date>2016-08-01 21:53:26</date>
+            <index>18</index>
+            <phrase>රන්ජන් දැන් ඉන්නේ මොකුත් කරලා නැහැ වගේ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දු</author>
+            <date>2016-08-01 22:09:56</date>
+            <index>19</index>
+            <phrase>පාර්ලිමේන්තුවේදීත් විකට චරිත රඟපාන්නේ තමුන්ගේ ලොක්ක කියල දැන් අපි දන්නවානේ. ඉතින් විකට සහ රූකඩ නායකයෝ පත්කරගත් පාපය අපි තවත් ගෙවන්න ඕනද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හර්ෂ</author>
+            <date>2016-08-02 01:09:30</date>
+            <index>20</index>
+            <phrase>වසර දෙකකටත් වඩා අඩු කාලයක් තුළදී පාඨක අදහස් පවා කෙතරම් වෙනස් වෙලාද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුණසිංහ</author>
+            <date>2016-08-02 01:28:52</date>
+            <index>21</index>
+            <phrase>ඔයා රඟපෑම විතරක් තෝරාගන්න. ඔයාලා නිසා යුඑන්පී ඡන්ද දැන් කැඩෙනවා. තමන් නටන්නේ මොනවාද කියා අනෙක් අයගෙන් අහලා දැනගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයසිංහ</author>
+            <date>2016-08-02 02:32:02</date>
+            <index>22</index>
+            <phrase>අනේ! ශක්තිමත් විපක්ෂය අපි දැක්කා අවුරුදු 20ක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්දුල</author>
+            <date>2016-08-02 03:17:46</date>
+            <index>23</index>
+            <phrase>දැන් ඔයාල මිනිසුන්ට විහිළුවක් වෙලා කාර්ටූන් වගේ කාර්ඩ් බෝර්ඩ් වීරයෝ වගේ දගලන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2016-08-02 03:17:51</date>
+            <index>24</index>
+            <phrase>පොඩ්ඩක් ඉවසන්න හොරා කපු මිනිස්සු අල්ලලා අපිත් වැඩ කාරක පෙන්නනම් හදිස්සි වෙන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2016-08-02 03:19:38</date>
+            <index>25</index>
+            <phrase>විපක්ෂය කියන්නේ ආණ්ඩු පක්ෂෙට මුක්කු ගහන එකක් නෙමෙයි. අපිත් කියන්නේ ප්‍රබල විපක්ෂයක් ඕනේ කියල තමයි. ඔය ආණ්ඩු පක්ෂෙට මුක්කු ගහපු අයට කියන්න එ්ක..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි ජයවර්ධන</author>
+            <date>2016-08-02 03:18:06</date>
+            <index>26</index>
+            <phrase>පාද යාත්‍රාව ගියාට උසාවියේ තියෙන නඩු මතක් වෙනකොට බඩ පපුව දානවා ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්‍රම</author>
+            <date>2016-08-02 03:25:25</date>
+            <index>27</index>
+            <phrase>එතකොට මෙච්චර කාලයක් මැයි රැලි වල ඔහොම ජෝගි ඔබතුමා දැකලම නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුදේෂ්</author>
+            <date>2016-08-02 04:00:53</date>
+            <index>28</index>
+            <phrase>විපක්ෂය ජෝගි නටනවා,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංග</author>
+            <date>2016-08-02 05:32:25</date>
+            <index>29</index>
+            <phrase>ඔය ඔක්කොම තාමත් නටන්නේ ජෝගි තමයි. අපි තමයි මෝඩයෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුදිත</author>
+            <date>2016-08-02 07:40:30</date>
+            <index>30</index>
+            <phrase>කට්ටියම බය වෙලා වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධනුෂ්ක</author>
+            <date>2016-08-02 10:34:24</date>
+            <index>31</index>
+            <phrase>සම්බන්ධන් ජෝගි තමයි නටන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2016-08-02 10:56:44</date>
+            <index>32</index>
+            <phrase>ඔබතුමා ඉපදෙන්න තිබුනේ තමිල්නාඩුවේ . එහෙම වුනානම් මහා ඇමති වෙන්න වුනත් තිබුන. මොකද එම් ජී ආර් දෙවියන්ට රගපැවහම එහෙ කට්ටිය හිතුව ඔහු දෙවියෙක් කියල. ලංකාවේ එහෙම නැහැ.සුළු පිරිසක් හැරුණු කොට බහුතරයකට යමක් වටහාගැනීමට බුද්ධියක් තිබෙනවා.( ඔබතුමාලා වගේ අය ඔතනට යවපු විශාරදයෝ හැර)</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

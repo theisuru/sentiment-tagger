@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>466392</articleId>
+    <title>බදුල්ල කුණුගොඩ ගිනි ගනී : විස දුම අවටම බිලි ගනී</title>
+    <author>ප්‍රසාද් රුක්මල්</author>
+    <date>2016 ඔක්තෝබර් මස 10 13:56:35</date>
+    <body>බදුල්ල වින්සන්ට් ඩයස් ක්‍රීඩාංගණය අසල ගොඩගසා ඇති නගර සභාවේ කුණු කන්ද දෙදිනක් පුරා ගිනිගනිමින් පවතින බවත් ගින්නෙන් පැතිර යන මීතේන් මිශ්‍ර විස දුම නගරය පුරා පැතිර යාම හේතුවෙන් අවට පාසල් කිහිපයක සිසුහු පාසල්වලින් ඉවත් කළ බව පොලිසිය පවසයි.
+අක්කර අටක පමණ භූමියක පැතිර ඇති කුණු කන්දේ ගින්නක් හටගෙන ඇති බවත් පවතින වියළි කාලගුණය හේතුවෙන් එය හටගන්නට ඇති බවත් බදුල්ල මහ නගර සභාව පවසයි.
+ගිනි නිවන රථ හා යුද හමුදාවේ ද සහායෙන් ගින්න මැඩ පැවැත්වීමට කටයුතු කරන බව බදුල්ල නාගරික කොමසාරිස් ඩබ්ලිව්. රන්දෙණිය මහතා කියයි. </body>
+    <comments>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-10-10 09:51:36</date>
+            <index>0</index>
+            <phrase>අපේම කුණු තමයි ඔය .. ඕකට වියලි කාලය ගින්නට බැනලා වැඩක් නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-10-10 09:52:29</date>
+            <index>1</index>
+            <phrase>මෙහෙම විපත් යුද්ධ කාලයේවත් තිබුනද? පාලකයින් අධර්මිෂ්ඨ වෙනකොට රටම ගිනි ජාලාවක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2016-10-10 10:29:29</date>
+            <index>2</index>
+            <phrase>දේශපාලන විස දුමත් ලංකාව පුරාම පැතිරෙනවා .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2016-10-10 10:39:40</date>
+            <index>3</index>
+            <phrase>කසල කළමනාකරණය ගැන හිතුවොත් රටට මුදල් ඉතුරුවේවි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෞම්‍ය</author>
+            <date>2016-10-10 11:10:03</date>
+            <index>4</index>
+            <phrase>කවදාවත් නොඅහපු තරම් ගිනිගැනීම් රට පුරාම, ඇයි මේ ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයානි</author>
+            <date>2016-10-10 13:07:05</date>
+            <index>5</index>
+            <phrase>ඔය කුණු කන්ද මහා ප්‍රශ්නයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2016-10-11 02:04:34</date>
+            <index>6</index>
+            <phrase>ප්‍රතිචක්‍රීකරණය කරන වැඩපිළිවෙලක් නැද්ද? ඉන්න තැන පිරිසිදු කරගන්න උගන්නලා දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉමේෂ්</author>
+            <date>2016-10-11 02:18:00</date>
+            <index>7</index>
+            <phrase>අවුරුදු දෙදහස් ගණනක මහලු අතීතයක් තියෙන මහා වීර, අමුතු ලේ තියෙන රටේ මිනිසුන්ට තාම කුණු ප්‍රශ්නේ විසඳගන්න බැරිවුණා. පාරම්බාන්න නම් දන්නවා එ්කටත් එක්ක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සජී</author>
+            <date>2016-10-11 05:23:07</date>
+            <index>8</index>
+            <phrase>ඉමේශ්, ඔහොම කතාකරන්න එපා. සිංහලයා විතරද මේ රටේ ඉන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>48782</articleId>
+    <title>නකල්ස් ගින්න නිවයි</title>
+    <author>ගුරුළුපොත බන්දුල ගොඩකුඹුර  ඡායාරූප- ගුවන් හමුදාව</author>
+    <date>2012 ජූනි මස 17 17:37:45</date>
+    <body>නකල්ස් කඳුයායේ අක්කර 200 ක් පමණ ලැව් ගින්නකින් වැනසි ගිය ඇති බව වන සංරක්ෂණ නිලධාරීන් කියති.
+ගුවන් හමුදාවේ හෙලිකොප්ටර් දෙකක් ද ගින්න නිවීමට දායක විය</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-06-17 18:36:26</date>
+            <index>0</index>
+            <phrase>විදේශීය කුමන්ත්‍රණයක් ,හැමදාම ගින්නක්‍</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය බණ්ඩාර</author>
+            <date>2012-06-17 18:21:56</date>
+            <index>1</index>
+            <phrase>මේ සුන්දර වු භුමියේ ඇති වූ ගින්න නිවීමට‍ දායක වූ සැමට මාගේ ප්‍රණාමය.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පොතේගුරා</author>
+            <date>2012-06-17 18:53:48</date>
+            <index>2</index>
+            <phrase>ගිනි කඳු නැතිවට කඳු ගිනි අරගෙන..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුප්පත්තු</author>
+            <date>2012-06-17 19:08:01</date>
+            <index>3</index>
+            <phrase>දුප්පතුන්ගේ බඩගින්නත් මෙසේ නිවන්නට හැකිනම් ?..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෆයිරෝ</author>
+            <date>2012-06-17 20:19:25</date>
+            <index>4</index>
+            <phrase>අපෝ ලංකාවේ වෙන අපරාධ බලනකොට මේවා සුඵ දේවල් නේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kk</author>
+            <date>2012-06-17 22:35:45</date>
+            <index>5</index>
+            <phrase>ලැවු ගිනි කිව්වට මේවා ස්වාභාවික ගිනි ගැනීම්.නැත්නම් කාගේහරි නොසැළකිලිමත් වැඩක් හරි හිතුවක්කාර වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සොම්දාස</author>
+            <date>2012-06-17 22:49:23</date>
+            <index>6</index>
+            <phrase>අපේ බඩගින්නත් මෙහෙම නිවන්න පුලුවන්ද අනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන තරංග</author>
+            <date>2012-06-18 05:37:55</date>
+            <index>7</index>
+            <phrase>ලොකු අපරාධයක්. ඔයහරියෙ අවුරුදු සිය ගණනක් පරණ ගස් තිබ්බා ...කවුරු හරි මල් හේනක්වත් දාන්න ඇවිලෙව්වද දන්නෑ ...අද කාලෙ රුපියලක් ගන්න මිළ කල නොහැකි දේවල් විනාසකරන අයනෙ ඉන්නෙ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කසුන්</author>
+            <date>2012-06-18 07:57:57</date>
+            <index>8</index>
+            <phrase>හරිම කණගාටුයි.හේතු ගණනාවක් නිසා මිනිස්සු කැළෑ ගිනි තියනවා..මේ අපරාධ කරන අයට දඩුයම් දිය යුතුයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කොල්ලා</author>
+            <date>2012-06-18 09:14:06</date>
+            <index>9</index>
+            <phrase>මටනම් පේන්නේ ගිනි තියල ව‍ගේ . මොකද ඔය පැත්තේ හෝටල් හදන්න ගොඩක්අය බලන් ඉන්නවා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජය</author>
+            <date>2012-06-19 03:07:33</date>
+            <index>10</index>
+            <phrase>වනාරක්ෂක නිලධාරීන්ට වඩා එයාෆෝස් නිලධාරීන් කොච්චර උද්යෝගීද බලන්න...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2012-06-19 03:51:19</date>
+            <index>11</index>
+            <phrase>ගුවන් හමුදාව නොතිබෙන්න නකල්ස් කන්ද සහරා කාන්තාරෙ වෙන්න තිබුණා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

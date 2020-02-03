@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14274</articleId>
+    <title>නාටාමිලාගෙනුත් කප්පම් කාලා</title>
+    <author>දසුන් රාජපක්ෂ</author>
+    <date>2011 නොවැම්බර් මස 23 16:55:25</date>
+    <body>කප්පම් කෑමේ හා මිනීමැරුම් වලට වැරැදිකරු වී හිරබත් කා නිදහස් වී පැමිණ පිටකොටුවේ දිනකට නාට්ටාමිලාගෙන් රුපියල් 1000ක සිට රුපියල් 4000 දක්වා කප්පම් කෑ බව කියන දෙදෙනෙක් දෙසැම්බර් 7 වැනි දින තෙක් රිමාන්ඩ් බාරයේ තැබීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් රශ්මි සිංගප්පුලි මහතා අද නියෝග කෙළේය. වේල්ලවීදියේ මොහොමඩ් අජීම් හා පානදුර, හේනමුල්ල මොහොමඩ් අසීම් එම දෙදෙනාය. ඔවුනට ඇති බිය නිසා කිසිවකු ඔවුනට එරෙහි පැමිණිලි කැර නැත.</body>
+    <comments>
+        <comment>
+            <author>ඉසදීන්</author>
+            <date>2011-11-23 21:39:37</date>
+            <index>0</index>
+            <phrase>දෙන්නටම හිරබත් කන්න වෙයි...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2011-11-24 14:50:20</date>
+            <index>1</index>
+            <phrase>හොද දඩුවමක් දෙන්න ඕන.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

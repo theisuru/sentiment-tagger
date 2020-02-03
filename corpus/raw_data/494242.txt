@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>494242</articleId>
+    <title>අගමැතිගෙන් හිටපු අගමැතිට අවසන් බුහුමන්</title>
+    <author>එම්ඩීපීගුණවර්ධන</author>
+    <date>2016 දෙසැම්බර් මස 29 11:55:06</date>
+    <body>හිටපු අගමැති අභාවප්‍රාප්ත රත්නසිරි වික්‍රමනායක මහතාගේ දේහයට අගමැති රනිල් වික්‍රමසිංහ මහතා අද (29) අවසන් ගෞරව දැක්වීය.
+හොරණ පිහිටි වික්‍රමනායක මහතාගේ නිවසේ දේහය තැන්පත් කර ඇති අතර මහා සංඝරත්නය, පක්ෂ විපක්ෂ දේශපාලනඥයන් ඇතුළු බොහෝ පිරිසක් එහි පැමිණෙති.
+
+ </body>
+    <comments>
+        <comment>
+            <author>සංජීව</author>
+            <date>2016-12-29 07:50:16</date>
+            <index>0</index>
+            <phrase>රටක් වටිනා මහත්මයෙක්. ඔබට නිවන් සැප ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජිත්</author>
+            <date>2016-12-29 08:10:26</date>
+            <index>1</index>
+            <phrase>අවංක දේශපාලකයෙකුගේ සමුගැනීමක්. ඔබට නිවන් සුව!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-12-29 09:14:56</date>
+            <index>2</index>
+            <phrase>කොළඹ වටා තියෙන නගර අතුරින් හොරණ නගරය අගනුවරට යා කරන මහා මාර්ගය තමයි නරකම එක. ඒක හොඳට හදා තිබුනා නම් අපිට අවමඟුල් උත්සවයට ලේසියෙන්ම යන්න තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේපාල</author>
+            <date>2016-12-29 17:17:22</date>
+            <index>3</index>
+            <phrase>කාටත් ඔය ටික තමයි කියලා සිහිතබාගමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ටෙස්ලා</author>
+            <date>2016-12-29 17:57:20</date>
+            <index>4</index>
+            <phrase>රටක් වටිනා පුද්ගලයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2016-12-29 20:16:31</date>
+            <index>5</index>
+            <phrase>ඔබතුමාට නිවන් සුව ලැබේවා!!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසපාල</author>
+            <date>2016-12-29 20:29:22</date>
+            <index>6</index>
+            <phrase>ඔබට නිවන් සුව ලැබේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

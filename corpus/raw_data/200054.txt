@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>200054</articleId>
+    <title>ගෑස් සිලින්ඩරය පරණ පත්තර කඩේ වනසයි</title>
+    <author>අරුණ ශාන්ත කුමාර  සුරංජිත් පෙරේරා ඡායාරූප ගයාන් අමරසේකර</author>
+    <date>2014 ජනවාරි මස 04 23:33:33</date>
+    <body>පෑස්සු යකඩ උණු කිරීමට යොදා ගත් ගෑස් සිලින්ඩරයක් පිපිරීම බත්තරමුල්ල  කොස්වත්ත පරණ පත්තර කඩේ ගින්නට හේතු වී ඇති බවට මූලික පරීක්ෂණ වලින් හෙළිව ඇතැයි පොලිසිය කියයි.
+මෙම ගින්නෙන් එහි එක් සේවකයෙක් සුළු තුවාල ලැබීය.</body>
+    <comments>
+        <comment>
+            <author>අමිල ඩුබායි</author>
+            <date>2014-01-05 00:33:48</date>
+            <index>0</index>
+            <phrase>කාටවත් කරදරයක් නොවී බේරුන එකනම් වඩාත් හොදයි... ගෑස් සමග වැඩ කරද්දී හොද අවදානෙන් සිටිය යුතුයි...යකඩ නිසා වැඩි අලාබයක් නම් නැතුව ඇති....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2014-01-05 02:40:37</date>
+            <index>1</index>
+            <phrase>නොසැලකිල්ල හා නොදැනුවත්කම නිසා ලංකාවේ නොයෙක් තැන්වල මේවගේ දේවල් සිදුවෙනවා. නමුත් කවුරුවත් කවදාවත් පාඩමක් ඉගෙන ගන්නේ නෑ. එක එක්කෙනාට ඕන විදිහට ව්‍යාපාර පටන්ගන්නවා. අදාල ආයතන දේශපාලනය මත මන් මුලාවී ඇති නිසා රටේ යහපත ගැන ක්‍රියාකරන්න හිතන්න යොමුවෙන්නේ නැහැ. කාට කියන්නද මේ වින්නැහිය?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙන්තිල්නාතන්</author>
+            <date>2014-01-05 03:51:32</date>
+            <index>2</index>
+            <phrase>අවට පරිසරයට හොඳක්නේ අනිතිමට වුනේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-01-05 08:50:57</date>
+            <index>3</index>
+            <phrase>පසුගිය මස 2 තුල ගිනිගැනීම් කියක් උනාද?විද්‍යුත් මාධ්‍ය මහජනතාව දැනුවත් කිරීමට මේවා ගැන වඩාත් අවදානය යොමුකොලොත් හොදයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2014-01-05 09:18:27</date>
+            <index>4</index>
+            <phrase>මෙවන් විපත් කිසි කලෙක කාටවත් නොවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාලක</author>
+            <date>2014-01-05 09:20:30</date>
+            <index>5</index>
+            <phrase>හිතට දුකයි ඇත්තටම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසවතී</author>
+            <date>2014-01-06 09:48:22</date>
+            <index>6</index>
+            <phrase>මේ ගින්නට කලින් මෙතන ගිනි නිවිමේ ආරක්ෂක ක්‍රම මෙතන තිබිලා නැහැ නේද? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

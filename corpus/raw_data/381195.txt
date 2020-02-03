@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>381195</articleId>
+    <title>අ:පුර සති පොළේ මිනීපෙට්ටි මල්වඩම්</title>
+    <author>දයාරත්න ඇඹෝගම</author>
+    <date>2016 ජනවාරි මස 31 12:32:15</date>
+    <body>අනුරාධපුර කුම්බිච්චන්කුලම මහජන පොළ ඉදිකර ඇති ස්ථිර කඩ ඉවත් කරන ලෙස ඉල්ලා වෙළදුන් දහසකට අධික පිරිසක් අද (31) උද්ඝෝෂණයක් කිරීම නිසා පොළද දෙපැයක් වැසී ගියේය.
+මිනී පෙට්ටියක් සහ මල් වඩමක් පෙරටු කොට ගෙන මෛත‍්‍රිපාල සේනානායක මාවත ඞී.එස්.සේනානායක වට රවුම අසලට ගොස් නව බස්නැවතුම් පළ දක්වා පැමිණි ඔවුහු  උද්ඝෝෂණය කළේ තමනට කඩ බක්කි අහිමි කළ බව කියමිනි.
+නගර සභාව එහි ස්ථිර කඩ 20 ක් පමණ ඉදිකර තිබේ.ඒ නිසා වෙළදුන් 200 කට අධික පිරිසක් පොල භුමියෙන් ඉවත් කොට ඇතැයි කැයති.
+ස්ථිර ගොඩනැගිලි ඉදි කළේ  මාළු වෙළදුන්ට බව ඔවුන් ඒවා එපැ කී නිසා වෙන්දේසියේ බදු දෙන බව නගරාධිපති එච්.පි.සෝමදාස මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-01-31 08:19:32</date>
+            <index>0</index>
+            <phrase>යහපාලනයේ මළගම! වෙනස සැපද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ආරියසේන</author>
+            <date>2016-01-31 10:49:10</date>
+            <index>1</index>
+            <phrase>හැමතැනම උද්ඝෝෂණ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2016-02-01 10:21:18</date>
+            <index>2</index>
+            <phrase>වෙනස මාරයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>39117</articleId>
+    <title>ෆොන්සේකා ඇප ඉල්ලා ඉහළ උසාවි යයි</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2012 අපේ‍්‍රල් මස 26 17:53:09</date>
+    <body>සුදුකොඩි නඩු විභාගයෙන් වසර තුනක සිරදඬුවම් නියම වී සිටින හිටපු යුද හමුදාපති සරත් ෆොන්සේකා ඇප ඉල්ලා අද (26) ශේෂ්ඨාධිකරණයට පෙත්සමසක් ගොනු කළේය.
+එම පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නීතීපති නම්කැර ඇත. කොළඹ මහාධිකරණයේ විභාග කළ සුදු කොඩි නඩුවෙන් නියම කළ දඬුවමට එරෙහි අභියාචනයක් මේවනවිට ශ්‍රේෂ්ඨාධිකරණයට ඉදිරිපත් කර ඇති හෙයින් එම අභියාචනය විභාග කොට අවසන් තීන්දුවක් ලබාදෙන තුරු තමන් ඇප මත මුදා හරින ලෙස ෆොන්සේකා මහතා ශේෂ්ඨාධිකරණයෙන් ඉල්ලා සිටී.
+තමන් වසර හතලිහක හමුදා සේවයක් සම්පූර්ණ කර ඇති නිලධරයකු බැවින් ඇප ලැබීමෙන් පසුව අධිකරණය මගහැරයාමට කිසිසේත්ම උත්සාහ නොකරන බවද ෆොන්සේකා කියා සිටී.</body>
+    <comments>
+        <comment>
+            <author>නුව්න්</author>
+            <date>2012-04-26 23:28:37</date>
+            <index>0</index>
+            <phrase>ඔබට ජය වේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාරසිරි</author>
+            <date>2012-04-26 23:40:04</date>
+            <index>1</index>
+            <phrase>ඒක හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොසාරියෝ</author>
+            <date>2012-04-27 00:38:15</date>
+            <index>2</index>
+            <phrase>ඇප නොව ඔබතුමාට සම්පූර්ණ නිදහස ලැබේවායි අපි ප්‍රාර්ථනා කරමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වික්ටර්</author>
+            <date>2012-04-27 01:17:34</date>
+            <index>3</index>
+            <phrase>දැන්වත් ඇප දුන්නොත් හොදයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාමල්</author>
+            <date>2012-04-27 08:20:11</date>
+            <index>4</index>
+            <phrase>බලමු මේ පාර තීරණය කොහොම වෙයිද කියලා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

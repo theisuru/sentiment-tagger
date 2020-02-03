@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>462532</articleId>
+    <title>රනිල් නවසීලන්තයට</title>
+    <author>ටීකේජීකපිල තිළිණි ද සිල්වා</author>
+    <date>2016 සැප්තැම්බර් මස 29 12:34:56</date>
+    <body>අගමැති රනිල් වික්‍රමසිංහ මහතා ඇතුළු 10 දෙනකුගෙන් යුත් දූත පිරිස අද (29) දහවල් 12.30ට නවසීලන්තය බලා පිටත්ව ගියහ.
+නවසීලන්ත අගමැති ජෝන් කීගේ ආරාධනයක් අනුව තෙදින නිල සංචාරයක් සඳහා අගමැතිවරයා ඇතුළු දූත පිරිස පිටත්ව ගිය අතර ශ්‍රී ලංකාවේ අගමැතිවරයෙක් ද්විපාර්ශවික සාකච්ඡා සඳහා නවසීලන්තයේ සංචාරය කරන පළමු අවස්ථාව මෙයවේ.</body>
+    <comments>
+        <comment>
+            <author>දිමුත්</author>
+            <date>2016-09-29 07:39:41</date>
+            <index>0</index>
+            <phrase>අනේ ඉතින් පත්වුණ මාස ගානට රටවල් කීයකට කියලා නම් ගියාද? මේ වගේ වැඩ නිසා තමයි අවුරුදු 68ක් අපි එතැනම පල්වෙන්නෙ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොඩ්නි</author>
+            <date>2016-09-29 07:55:52</date>
+            <index>1</index>
+            <phrase>සුබ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණලු</author>
+            <date>2016-09-29 08:09:18</date>
+            <index>2</index>
+            <phrase>මේ ගොල්ලෝ අරවා ගේන්නම් මේවා ගේන්නම් කියලා ලෝකේ පුරාම යනවා. ගෙනාපු කිසිම දෙයකුත් නැහැ, ලැබුන කිසිම දෙයකුත් නැහැ. අපි හැමදාමත් බලාගෙන ඉන්නවා අපිට අද හොඳවෙයි හෙට හොඳවෙයි කියලා. බලද්දී අපි හැමදාමත් මෙතනමයි. එයාලා හැමදාමත් රට.......!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමනි</author>
+            <date>2016-09-29 08:45:34</date>
+            <index>3</index>
+            <phrase>ලංකාවට එන්න කියල මේවා සාකච්ඡා කරන්න අමාරුයිනේ. නැතිනම් මේ කරන්න තියෙන වැඩ දාල යන්නේ හිතකින් නෙමයි කියලයි මට හිතෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජානකී විජේසේකර</author>
+            <date>2016-09-29 08:58:19</date>
+            <index>4</index>
+            <phrase>හොඳම අලුත් අත්දැකීම් දේශපාලන වශයෙන් ලබාගතහැකි.සංචාරයකට ඔබට සුබ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත රණතුංග</author>
+            <date>2016-09-29 10:19:25</date>
+            <index>5</index>
+            <phrase>සාදරයෙන් පිළිගනිමු. මෙහි නවීන කෘෂිකාර්මික හා ජල යෝජනා ක්‍රම ලංකාවේ ක්‍රියාත්මක කරන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2016-09-29 11:51:55</date>
+            <index>6</index>
+            <phrase>දුත පිරිස් නම් ලෝකේ පුර යනවා. තවම වෙච්ච දෙයක් පෙන්න නැහැ. අපිත් අර එළුවා පස්සෙන් ගිය නරිය වගේ පස්සෙන් යනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

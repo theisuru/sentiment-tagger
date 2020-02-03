@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42780</articleId>
+    <title>දෙමළ සමරුවක් 18 වැනිදා</title>
+    <author>අශෝක පීරිස්</author>
+    <date>2012 මැයි මස 17 19:18:12</date>
+    <body>ඕස්ටේ‍්‍රලියාවේ සිටින දෙමළ ජනයා වික්ටෝරියා පුස්තකාලයේදී ‘‘දෙමළ සංහාර සමරුව’’ මැයෙන් සිකුරාදා සමරුවක් පවත්වන බව කියයි. යුද්ධයේදී මියගිය අනාථ වූ හා ආගිය අතක් නැතැයි කියන අයගේ ගණන් හිලවුද ඇතුළත් පෝස්ටර ප‍්‍රසිද්ධ කැර ඇත.</body>
+    <comments>
+        <comment>
+            <author>ෂෙරීෆ්</author>
+            <date>2012-05-17 19:55:15</date>
+            <index>0</index>
+            <phrase>අනුමානයක් නෑ. ඔය සමරන්න හදන්නේ කොටි සමරුවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කේ.කේ.</author>
+            <date>2012-05-17 20:41:36</date>
+            <index>1</index>
+            <phrase>අතුරුදන් ලේඛණයේ ප්‍රභාකරන් නැත්ද දන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රම්සි</author>
+            <date>2012-05-17 23:10:44</date>
+            <index>2</index>
+            <phrase>සමරන්න ඕන ,සමරන්න ඕන උතුරු නැගෙන හිර දෙමළ ජනාතාවට නිදහස ලැබුනේ එදානේ.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද</author>
+            <date>2012-05-18 00:17:07</date>
+            <index>3</index>
+            <phrase>ඕක සමරන්න හදන්නේ ප්‍රභාගේ දානේ දෙන්න වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ranga shani</author>
+            <date>2012-05-18 00:32:41</date>
+            <index>4</index>
+            <phrase>දුක දරාගන්නත් ක්‍රමයක් තියෙන්න ඕනනේ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිකා</author>
+            <date>2012-05-18 03:56:55</date>
+            <index>5</index>
+            <phrase>අපේ ඕස්ට්‍රේලියන් තානාපති කාර්යාලය මීට වඩා සක්‍රිය වෙන්න ඕනි.අපි මේවා නවත්වන්න ඕනි. අපේ තානාපති කාර්යාලය විසින් මීට විරුද්ධ දැනුවත් කිරීමක් කළ යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නවීන්</author>
+            <date>2012-05-18 04:49:17</date>
+            <index>6</index>
+            <phrase>ඔය ගණන් හිලවු කොහොමද දන්නේ නෑ ගත්තේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩබ්ලිව්.එස්.</author>
+            <date>2012-05-18 05:24:44</date>
+            <index>7</index>
+            <phrase>අවුරුදු 30ක් තිස්සේ කොටි මරලා දාපු අහිංසක මිනිස්සුන්ගේ ගාණ දාලා නැද්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුප්රා</author>
+            <date>2012-05-18 06:17:04</date>
+            <index>8</index>
+            <phrase>දෙන්නම් ඉතුරු ටිකත් ඉවර වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-05-18 07:39:34</date>
+            <index>9</index>
+            <phrase>හෝ... හෝ...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

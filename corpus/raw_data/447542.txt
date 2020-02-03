@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447542</articleId>
+    <title>හොර වෙදාගේ ඇස් සායනය නවත්වයි</title>
+    <author>කේඩීදේවප්‍රිය දිලිප් ජයසේකර</author>
+    <date>2016 අගෝස්තු මස 14 12:57:56</date>
+    <body>සුදුසුකම් නැති පුද්ගලයකු දකුණු පළාත් සභාවේ සුබ සාධන අරමුදලින් සූරියවැව දී නොමිලේ ඇස් පිරික්සා කණ්ණාඩි බෙදා දීම ගැන රජයෙන් පරීක්ෂණයක් අරඹයි.
+මෙම සායනය පැවැත්වූ පුද්ගලයාට ඇස් පරීක්ෂා කිරීම සඳහා කිසිදු සුදුසුකමක් නැතැයි සෞඛ්‍ය වෛද්‍ය නිලධරයා ප්‍රකාශ කරයි.
+ඔහු පොලිසිය සමග එහි ගොස් එම සායනය නතර කළේය. මෑතදී දකුණු පළාත් සභා ඇමැතිකමෙන් ඉවත් කළ ඩී.වී.උපුල් ද මෙම සායනය සංවිධානය කළ බව කියති.
+සායනය නතර කරද්දී පිරිසක් හූ කී බවද වාර්තා වේ.
+ </body>
+    <comments>
+        <comment>
+            <author>ඉසුරන්දි</author>
+            <date>2016-08-14 08:05:01</date>
+            <index>0</index>
+            <phrase>සුදුසුකම් ඇති පුද්ගලයන්ට රටේ නිසි තැනක් නැති කොට නුසුදුස්සෝ හැමතැනම තම ආධිපත්‍ය තහහුරුකර ගනිති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ධම්ම</author>
+            <date>2016-08-14 09:03:45</date>
+            <index>1</index>
+            <phrase>හූ කියපු එක හරි නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රජිත් මංජුල</author>
+            <date>2016-08-14 10:26:23</date>
+            <index>2</index>
+            <phrase>ඔලුවක් නැති කෙනකුට ඇස් ගැන මොන දැනිමක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණවර්ධන</author>
+            <date>2016-08-15 06:21:58</date>
+            <index>3</index>
+            <phrase>හූ කියන එක මිනිසුන්ට ලබාදුන්නේ නරි. ඒ කෙසේවෙතත් හූ කියපු එක හරි නැහැ, ධම්ම කියනවා වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

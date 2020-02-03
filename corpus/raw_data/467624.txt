@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>467624</articleId>
+    <title>ත්‍රී‘මලේ උසාවිය ළඟ පොලිස් වෙඩි පත්තුවේ</title>
+    <author></author>
+    <date>2016 ඔක්තෝබර් මස 13 12:01:47</date>
+    <body>ත්‍රිකුණාමල මහේස්ත්‍රාත් උසාවිය ඉදිරිපිට අද (13) උදේ පොලිස් වෙඩි තැබීමකින් තුවාල ලැබූ දෙදෙනෙක් රෝහල්ගත කරනු ලැබූහ.
+උසාවිය අසල වෑන් රියක පිරිසක් මත්පැන් බොමින් සිටි බවත් පොලිසියේ රාජකාරියට බාධා කරමින් ඔවුන් ප්‍රචණ්ඩ ලෙස හැසිරුණු බවත් වෑන් රිය එතැනින් ඉවත් කරගන්නැයි කියූ විට පොලිස් නිලධරයන් යට කිරීමට උත්සාහ කළ බවත් එම අවස්ථාවේ පොලිසිය වෙඩි තැබූ බවත් 26 හැවිරිදි තරුණයකුට වෙඩි වැදුණු බවත් තවත් අයකු ගැටුමකින් තුවාල ලැබූ බවත් පොලිසිය කියයි.
+වෑන් රියදුරා අත්අඩංගුවට ගනු ලැබීය.
+වෑන් රියේ සිටි කණ්ඩායම කලවංචිකුඩියේ සිටි පිරිසක් බව කියති.
+ 
+ </body>
+    <comments>
+        <comment>
+            <author>තිලංක</author>
+            <date>2016-10-13 09:42:29</date>
+            <index>0</index>
+            <phrase>නියමයි....එහෙම තමයි ඉන්න ඕන ....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල්</author>
+            <date>2016-10-13 10:31:50</date>
+            <index>1</index>
+            <phrase>ඔහොම තමයි මුලින් පටන් ගන්නේ...ඔය වගේ අයට කරටිය කැඩෙන්න දෙන්න ඕන...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2016-10-13 12:32:17</date>
+            <index>2</index>
+            <phrase>කොහොමත් දැන් මිනිස්සු බලන්නේ පොලිසිය එක්ක එකට එක කරන්න. හොද වැඩක් කරලා තියෙන්නේ අනිත් අයටත් දැනගන්න එක්ක හොද වැඩක්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරූණාරත්න</author>
+            <date>2016-10-13 12:43:13</date>
+            <index>3</index>
+            <phrase>තිලංක සහ අනිල් එකගයි ඔබලා සමඟ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

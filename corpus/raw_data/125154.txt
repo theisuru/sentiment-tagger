@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>125154</articleId>
+    <title>තනිකඩයින්ට පමණයි</title>
+    <author>කෝවිද ගුණසේකර</author>
+    <date>2013 මැයි මස 21 13:17:27</date>
+    <body>තනිකඩයන්ටම වෙන්වූ දුම්රිය සේවයක් ආරම්භ කිරීමට චෙක් ජනරජයේ දුම්රිය සමාගමක් සැරසේ.
+මේ දුම්රිය සේවයේ අරමුණ වනුයේ තනිකඩයන්ට තමන්ගේ අනාගත සහකරුවා හෝ සහකාරිය සොයාගැනීමට උදවු කිරීමයි.ඒ සදහා හොදම ක‍්‍රමය වනුයේ තනිකඩයන් එකිනෙකා මුණගැස්විම බව නව දුම්රිය සේවය ඇරඹිමට මුල්වූ රෝපිඞ් නම් දුම්රිය සමාගම කියයි.ඉදිරියේදි සමාගමට අයත් අනෙක් දුම්රිය සේවයන්ගේද තනිකඩයන්ටම වෙන්වූ මැදිරි ඇතිකිරීමටත් කටයුතු කරන බව රෝපිඞ් සමාගමේ ප‍්‍රකාශකයෙක් සදහන් කරයි.
+දුම්රියකදී මෝටර් රථයකදී මෙන් නොව වැඩි දෙයක් කළ හැකි බව ප‍්‍රාග් නුවර වැස්සන්ට පෙන්වා දී
+ඔවුන්ව වැඩි වැඩියෙන් දුම්රිය භාවිතයට නැඹුරු කිරීම මේ නව දුම්රිය සේවයේ තවත් අරමුණකි.</body>
+    <comments>
+        <comment>
+            <author>මාලා</author>
+            <date>2013-05-21 13:24:56</date>
+            <index>0</index>
+            <phrase>ඒකට අපේ තරුණ අයට ... යන්න තැනකුත් නැහැ. පාර්ක් විතරයි තියෙන්නේ.පොලිසිය පැනලා එතනිනිනුත් අල්ලගෙන යනවා සල්ලි නැති වුනහම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රිස්වාන්</author>
+            <date>2013-05-21 14:08:12</date>
+            <index>1</index>
+            <phrase>තනිකඩ කියලා කොහොමද අදුන ගන්නේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගාමිණී-සිරි</author>
+            <date>2013-05-21 15:03:11</date>
+            <index>2</index>
+            <phrase>අප්පච්චියේ, අපේ රටට නම් කොහොමටත් ගැලපෙන්නෙම නැහැ. සීසන් එකක් ගනී. දුම්රියෙන් එහාටයි මෙහාටයි යයි. රැකියාවට නොයයි. දෙන්නා රණ්ඩු සරුවල් ඇතිකර ගනී. ඒ කොච්චියටම අන්තිමේ බෙල්ලත් තියයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2013-05-21 15:15:15</date>
+            <index>3</index>
+            <phrase>මේකේ යන්න විවාහ සහතිකේ බලයිද? නැත්නම් හොරට යන අය අල්ලනේ කොහොමද? නැත්නම් චෙක් ජනරජයේ ග්‍රාම සේවකගෙන් ලියුමක් වත් ගෙනියන්න වෙයි නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කපිල</author>
+            <date>2013-05-21 17:08:12</date>
+            <index>4</index>
+            <phrase>අපේ මෙහෙම වුණා නම් හොද නැටුම් ටිකක් බලාගන්න තිබුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුරංග</author>
+            <date>2013-05-21 18:25:04</date>
+            <index>5</index>
+            <phrase>අපේ රටේ නම් දැනටමත් මේ ක්‍රමය ක්‍රියාත්මක වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමාලි සිල්වා</author>
+            <date>2013-05-21 21:54:07</date>
+            <index>6</index>
+            <phrase>දැන් කාලේ බොහෝ වයසට ගිය අයත් ඉන්නවනේ තනිකඩ වෙලා. දැන් මේකේ තනිකඩ ද නැද්ද බලන්න තව නිලදාරියෙක් යනවද? චෙක් රජයත් කරන්නේ මාර වැඩ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-05-22 07:45:07</date>
+            <index>7</index>
+            <phrase>ලංකාවේ නම් වැහි වැහැලා ඉන්නේ විවාහක තනිකඩයෝ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2013-05-22 07:48:17</date>
+            <index>8</index>
+            <phrase>පිස්සු කෝච්චි නම් ඇතිවෙන්නම තියෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>15652</articleId>
+    <title>එලොවින්  මෙලොවට</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 02 17:53:11</date>
+    <body>මාස දෙකකට ආසන්න කාලයක් උතුරු මුහුදේ අතරමංවූ ගාලූ ධීවරයින් පස් දෙනකු සමග ධීවර යාත‍්‍රාවක් සොයාගෙන ඇතැයි ධීවර අමාත්‍යාංශය පවසයි. ඔවුන් කන්කසන්තුරේ වරායට රැගෙන ඒමට නියමිතය.</body>
+    <comments>
+        <comment>
+            <author>ranga shani</author>
+            <date>2011-12-02 18:37:18</date>
+            <index>0</index>
+            <phrase>ජිවිතේ බේරලදුන්නට දෙවියන්ට බොහොම පිං</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2011-12-03 00:35:06</date>
+            <index>1</index>
+            <phrase>ලොකුදෙයක්. මේ මගේ යාළුවෙක්ගෙ බෝට්ටුවක්. ඒ අමල්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත් චන්ද්‍ර</author>
+            <date>2011-12-03 11:46:49</date>
+            <index>2</index>
+            <phrase>දෙවියන්ට ස්තුතිවේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

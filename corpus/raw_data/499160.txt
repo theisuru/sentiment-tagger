@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>499160</articleId>
+    <title>මත්පැන් පන්නන්න හැදූ ගුවන් නිලධරයා අත්අඩංගුවට</title>
+    <author>ප්‍රසාද් මුතුකුඩ</author>
+    <date>2017 ජනවාරි මස 17 14:10:02</date>
+    <body>මිල අධික විදේශ මත්පැන් බෝතල් තොගයක් නීති විරෝධි ලෙස කටුනායක ජාත්‍යන්තර ගුවන්තොටුපළෙන් පිටකිරීමට උත්සාහ කළ බව කියන ගුවන්තොටුපොළ හමුදා (බි අයි ඒ) කඳවුරේ උසස් නිලධාරියකු අත්අඩංගුවට ගත් බව ගුවන්තොටුපළ ආරංචි කියයි.</body>
+    <comments>
+        <comment>
+            <author>ලුම්බිණි</author>
+            <date>2017-01-17 09:01:53</date>
+            <index>0</index>
+            <phrase>එක්තරා කාලයක් තිබුනනේ වී වී අයි පී ලත් එක්ක පිටරට ගිහින් එන අය බලෙන් ඩියුටි ෆ්‍රී එකෙන් මත්පැන් අරගෙන යන. ඒ පුරුද්ද වෙන්න ඇති තවමත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2017-01-17 09:18:28</date>
+            <index>1</index>
+            <phrase>ගුවන් හමුදා භටයෙක් මඩකලපුවේදී වීරයෙක් වෙනකොට නිලධාරියෙක් කටුනායකදී කුජීත වෙලා නේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2017-01-17 09:23:15</date>
+            <index>2</index>
+            <phrase>මතට තිත තියන්න ගිහිල්ලා වැරදි තැනකට තිත තියලා වගේ (බ).</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාධා</author>
+            <date>2017-01-17 13:35:11</date>
+            <index>3</index>
+            <phrase>මේවට දෙන්න උත්තර නැහැ අපිට</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2017-01-17 13:57:31</date>
+            <index>4</index>
+            <phrase>මොහාන්,ඔබව නිවැරදි කිරීමක් කරන්නේ.මොහු ගුවන් හමුදා නිලධාරියෙක් නොවේ.ගුවන් තොටුපල සේවා සමාගමේ(එයාර් පෝට් ඒවියේෂන් සර්විස් ) නිලධාරියෙක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමුදු</author>
+            <date>2017-01-17 16:38:47</date>
+            <index>5</index>
+            <phrase>අනේ හැබෑට මෙහෙමත් මිනිස්සු!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යයා</author>
+            <date>2017-01-17 18:40:42</date>
+            <index>6</index>
+            <phrase>අපි දැනගන්න කැමතියි මෙයා තවමත් උසස් නිලධාරියෙක්ද කියලා. උසස් නිසා වෙන්න ඇති ඔය වැඩේ කරන්න ඇත්තේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂාම්</author>
+            <date>2017-01-19 10:07:10</date>
+            <index>7</index>
+            <phrase>භාතිය ඔයා හොදට කියවලා බලන්න "ගුවන්තොටුපොළ හමුදා (බි අයි ඒ) කඳවුරේ " කියලා තියෙන්නේ. ඒ කියන්නේ "එයාෆොර්ස්. මේක ලොකු පුදුමයක් නෙමේ. පොඩ්ඩක් නෛකන්ද පල්ලමේ තියෙන "එයාෆොර්ස් ක්වාටස් ළගට වෙලා පැයක් දෙකක් බලාගෙන හිටියනම් බෝතල් පන්නන හැටි මරු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

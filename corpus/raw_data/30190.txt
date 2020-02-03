@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>30190</articleId>
+    <title>ඇලහැර ඉල්ලම් මාතලේට පල්ලම් බහී</title>
+    <author>කාංචන කුමාර ආරියදාස</author>
+    <date>2012 මාර්තු මස 07 12:28:53</date>
+    <body>ඇලහැර අක්කරගල්ලෑවේ පොල්අතුවාඩියේ මැණික් පතල් කැපූ 500ක් පමණ උපවාසයක් ඇරැඹූහ.
+තමන්ගේ ඉල්ලම් පස් දේශපාලන බලවතකුගේ ආධාරකරුවන් බලෙන් රැගෙන යතියි ඔවුහු චෝදනා කරති. පොලොන්නරු දිසාවේ බලධරයන් එන්නේ ඇයිදැයි ඔවුහු අසති.
+මේ ප්‍රදේශයේ පුෂ්පරාග, නිල් හා රතු කැට ලැබෙතියි පතල් කරුවෝ කියති.</body>
+    <comments>
+        <comment>
+            <author>බණ්ඩාර සුභසිංහ</author>
+            <date>2012-03-07 15:29:59</date>
+            <index>0</index>
+            <phrase>රටේ සම්පත් සියල්ල අයිති දේශපාලකයන්ටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලීන්</author>
+            <date>2012-03-07 15:49:22</date>
+            <index>1</index>
+            <phrase>ලොකේ උතුම් රට ලන්කාවලු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

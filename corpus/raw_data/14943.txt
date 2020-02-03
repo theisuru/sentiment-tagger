@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>14943</articleId>
+    <title>සියඹලා ගස පිහිටට එයි</title>
+    <author>සරත් මනුල වික‍්‍රම</author>
+    <date>2011 නොවැම්බර් මස 28 16:28:25</date>
+    <body>අනුරාධපුර පුත්තලම පාරේ පහළ තලාවේ වැව පිටාර ගැලීමෙන් පාරකැඩී දිරාගිය සියඹලා ගසක් ද කඩා වැටිණි. දිය පහරින් එගොඩ වීමට පාසල් සිසුන් හා ගැමියනට උදව් වූයේ එම සියඹලා ගසයි.</body>
+    <comments>
+        <comment>
+            <author>ලාල් නන්දසිරි</author>
+            <date>2011-11-28 17:04:28</date>
+            <index>0</index>
+            <phrase>ගසකින් වෙන ජීවිත හානි හරි අඩුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමල්</author>
+            <date>2011-11-28 17:20:34</date>
+            <index>1</index>
+            <phrase>දුක් නොවන්න. අපි තවත් අධිවේගී මාර්ගයක් හදමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2011-11-28 17:25:40</date>
+            <index>2</index>
+            <phrase>"ගසක අගය" වැටුණත් සත්වයාට කරන්නෙ උදව්වක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංග dubai</author>
+            <date>2011-11-28 20:29:52</date>
+            <index>3</index>
+            <phrase>නියමයි පාලම් හදන්න ඕනෙ නෑ දැන්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කලු</author>
+            <date>2011-11-29 05:14:42</date>
+            <index>4</index>
+            <phrase>රුක්ෂ දෙවතාවා මිනිසාට පිහිටවු සථානයක් හැටියට සිතමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සන්ජු</author>
+            <date>2011-11-29 11:22:53</date>
+            <index>5</index>
+            <phrase>ගසක් වැටෙන කොට, ගස් දහසක් සිටුවමු. නැත්නම් ඔහොමවත් එතෙර වෙන්න ගහන් නැති වෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

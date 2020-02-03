@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>34797</articleId>
+    <title>මාතර ගඟේ කිඹුලිය දැරියක් බිලිගනී</title>
+    <author>සුගත් කංකානම්ගේ  ඡයාරූප - ක්‍රිෂාන් ජීවක ජයරුක්</author>
+    <date>2012 අපේ‍්‍රල් මස 04 11:10:59</date>
+    <body>පාසල් යෑම සඳහා මුහුණ සේදීමට ගෙය පිටුපස නිල්වලා ගඟට බට 18 හැවිදිරි දැරියක උතුරු මාලිම්බඩදී කිඹුලකු විසින් ඩැහැගත්තේ යැයි ගැමියෝ කියති. සතියකදී කිඹුලකුට බිලිවූ දෙවැනි ගොදුර මෙය වේ.</body>
+    <comments>
+        <comment>
+            <author>සුදත්</author>
+            <date>2012-04-04 11:21:30</date>
+            <index>0</index>
+            <phrase>කිඹුලෙක්ද දන්නේ නෑ. ටිකක් හොයල බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පියල් පෙරේරා</author>
+            <date>2012-04-04 12:18:24</date>
+            <index>1</index>
+            <phrase>ඇයි එකපාරක් වෙලා තියෙද්දි ආයෙ ඒ දේම කරන් ගියේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජය</author>
+            <date>2012-04-04 12:31:49</date>
+            <index>2</index>
+            <phrase>දරුවන් ගැන මෙයට වඩා හොයලා බලන්න. ටිකක් උස් මහත් වුණාට එයාලට වටපිටාව ගැන අවබෝධයක් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දර්ශන - මිලානෝ</author>
+            <date>2012-04-04 12:40:58</date>
+            <index>3</index>
+            <phrase>කිඹුලා මරා නොදමන්න. මිනිස් ජීවිත බේරා ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලියනගේ</author>
+            <date>2012-04-04 12:53:02</date>
+            <index>4</index>
+            <phrase>ගව ඝාතකාගාරයකින් හෙලන අපද්‍රව්‍ය නිල්වලා ගඟට හෙලීමෙන් පසුව කිඹුලන් මිනිසුන් ගොදුරු කරගැනීමේ ප්‍රවනතාවය වැඩිවී ඇත.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2012-04-04 12:54:28</date>
+            <index>5</index>
+            <phrase>මෙවැනි ගංගාවල නාන තොටුපලවලට ඒ ප්‍රදේශය ආවරණය වන පරිදි යකඩ දැලක්වත් සවිකර ගන්න කියන්නම ඕන..එක් අනතුරක් වුණානම් ඊලගට ගතයුතු පියවර දැනගතයුතු නොවේද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කමල්</author>
+            <date>2012-04-04 13:33:05</date>
+            <index>6</index>
+            <phrase>අනේ පව්. මේ ගැන සොයා බලන්න..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අලිබබා</author>
+            <date>2012-04-04 13:34:14</date>
+            <index>7</index>
+            <phrase>අපේ දරුවන්ගේ අනාගතයට බොහොම කරදර කාලයක් තමයි මෙ ඇවිත් තියෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2012-04-04 13:35:19</date>
+            <index>8</index>
+            <phrase>ඉස්සර නම් මිනී නොකයි මාතර කිඹුලිගෙ පැටියා..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලිම්බඩ අපි</author>
+            <date>2012-04-04 14:47:11</date>
+            <index>9</index>
+            <phrase>ගමේ ඉන්න ඉගෙන ගන්න දක්ෂ දරුවෙක්. මේ අසරණ පවුලට ඔබට පිහිට වෙන්න පුළුවන්නම් ලොකු පිනක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

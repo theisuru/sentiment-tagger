@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>337915</articleId>
+    <title>ඡන්දය ගන්න නොමැරී බේරුණු කාරයත් ගෙනියයි</title>
+    <author>චමිල් රූපසිංහ</author>
+    <date>2015 අගෝස්තු මස 04 16:53:11</date>
+    <body>ප්‍රජාතන්ත්‍රවාදී පක්ෂයේ නායක ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකාගේ මහනුවර රැස්වීමක නවාංගයක්ද එක් කර තිබිණි.
+හමුදා මූලස්ථානයේදී ෆොන්සේකා මහතාට 2006 සැප්තැම්බර් මාසයේදී මරාගෙන මැරෙන කොටි ත්‍රස්තවාදී ප්‍රහාරයක් එල්ලවූ අතර එම ප්‍රහාරයට ලක්වන අවස්ථාවේ ඒ මහතා ගමන් කළ මෝටර් රථය දේශපාලන රැලිවල ප්‍රදර්ශනය සඳහා ලොරියකින් රැගෙන යන ආකාරය දැකිය හැකිය.
+රැස්වීම් 225ක කථා කිරීම හේතුවෙන් සරත් ෆොන්සේකා මහතාට රැස්වීම් ඇමතීමෙන් වැලකී සිටින ලෙස වෛද්‍යවරු උපදෙස් දී ඇතැයිද ඒ හේතුවෙන් මහනුවර රැලියේදීද පටිගත කළ හඬපටයක් විකාශය කළ බව කියති. කුරුණෑගල පැවැති රැලියේදී එය පටිගත කර තිබුණි.</body>
+    <comments>
+        <comment>
+            <author>ඉසුරු</author>
+            <date>2015-08-04 11:34:28</date>
+            <index>0</index>
+            <phrase>එතුමා ජාතික වීරයෙක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිරාන්</author>
+            <date>2015-08-04 11:40:11</date>
+            <index>1</index>
+            <phrase>මෙතුමා පවුල් පාලනය ගැන කතාකරනවා. මෙතුමාගෙ මුළු පරම්පරාවම ඡන්දය ඉල්ලනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමුදුනී</author>
+            <date>2015-08-04 11:47:39</date>
+            <index>2</index>
+            <phrase>මේවා කවුරු කවුරුත් දැකගන්න එක හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියංක</author>
+            <date>2015-08-04 12:02:16</date>
+            <index>3</index>
+            <phrase>මෙතුමා ජාතික වීරයෙක්. ඒක ගැන විවාදයක් නැහැ. ඒත් එතුමාගේ දේශපාලනය නම් අපි අනුමත කරන්නේ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද ආර් කිතුල්ගොඩ සී ෂෙල්ස්</author>
+            <date>2015-08-04 12:04:29</date>
+            <index>4</index>
+            <phrase>අලිමංකඩ තිබෙන හසලක වීරයා දිවිදුන් ඩෝසර් එකත් ගෙනාවා නම් තව ටිකක් වැඩිය මනාප ගන්න තිබුනා කට්ටියට.ඔබතුමාගේ පවුලේ අනිත් සාමාජිකයන්ගේ මනාප සටනට මොනවද ඉදිරිපත් කරන්නේ.... ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2015-08-04 18:33:25</date>
+            <index>5</index>
+            <phrase>රටේ ඉන්න කාටත් දැක බලාගන්න වටිනා දෙයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජේරත්න</author>
+            <date>2015-08-05 04:45:03</date>
+            <index>6</index>
+            <phrase>මෙහෙම වාහන කීයක් බෝම්බ වලට අහුවුණාද? බලමු මිනිස්සු මේවා බලලා මොකක්ද ගන්න පියවර කියලා?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුශ්ක</author>
+            <date>2015-08-05 10:53:31</date>
+            <index>7</index>
+            <phrase>මේවා පෙන්වන එක නම් හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

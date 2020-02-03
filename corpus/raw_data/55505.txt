@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>55505</articleId>
+    <title>සමූපෙන් ලක්ෂ හතරක් කොල්ලකයි</title>
+    <author>උපුල් හේරත්</author>
+    <date>2012 ජූලි මස 26 18:07:19</date>
+    <body>කැකිරාව කාගම සමූපකාර ණය දෙන සමිතියේ රුපියල් ලක්ෂ හතරක පමණ මුදල් ද සේවිකාවන්ගේ රන් ආභරණ ද කොල්ල කෑ තිදෙනකු  යතුරු පැදියකින් පලා ගිය බව පොලීසියට පැමිණිලි කර ඇත</body>
+    <comments>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-07-26 22:07:55</date>
+            <index>0</index>
+            <phrase>ඔන්න තවත් හාරලක්ශේ මංකොල්ලයක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත් පලිපන</author>
+            <date>2012-07-27 09:31:48</date>
+            <index>1</index>
+            <phrase>සමූපකාරෙත් සල්ලි හොරකම් කරන නොමිනිසුන්නේ ඉන්නෙ දැන් කාලේ. පොලිස් මහතුණි, හොරු අහු වුණොත් නඩු දදා ඉන්න කරදර වෙන්න එපා. මොනවහරි පෙන්නන්න එක්කගෙන යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

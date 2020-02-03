@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>229914</articleId>
+    <title>අලි පැටියාට බෙහෙත් විදලා?</title>
+    <author>අජිත්ලාල් ශාන්තඋදය  ජයන්ත නානායක්කාරඡායාරූප රෝහණ සමරවීර ලසන්ත නිරෝෂණ</author>
+    <date>2014 මැයි මස 02 10:13:54</date>
+    <body>උඩවලව ජාතික වනෝද්‍යානයේ ගල්පායේ සිටි අලි පැටියකු හොරෙන් ගෙනයෑමට ආ පිරිසක් ගම්වාසීන්ගේ සහ වනජීවී නිලධාරීන්ගේ විරෝධය නිසා ට්‍රැක්ටරයකින් රැගෙන යමින් සිටි අලි පැටියා අත්හැර දමා විද්‍යුත් මාධ්‍යවේදියෙකු රැගෙන පලායද්දී මහජනතාවගේ විරෝධය නිසා  ඔහුද අත්හැර ගිය බව පල්ලේබැද්දේ වැසියන් පිරිසක්  කියයි.
+සුඛෝපභෝගී වාහන දෙකක් අලි පටවන ලොරියක් සහ ට්‍රැක්ටරයකින් ආ පිරිසක් ප්‍රදේශවාසීන් විසින් අල්ලා  දුන්නත් ඉහළ තැනක නියගයකින් ඔවුන් මුදාහළ ඇතැයි ද  ඔවුහු කියති.
+මග දමා ගිය අලි පැටියා අද (2) උදේ වනවිට ගල්පාය ප්‍රදේශයේ සිටියදී හමුවී ඇති බව වනජීවී නිලධාරීහු කියති. අලි පැටියා සිහිමද ගතියක් පෙන්වන බව කියන ප්‍රදේශවාසීන් කිසියම් ඖෂධයක් එන්නත් කර ඇද්දැයි සැකකළ හැකියැයි ද කියති.
+පොලිසිය පවසන්නේ හරිහැටි තොරතුරු නොදන්නා බවයි.</body>
+    <comments>
+        <comment>
+            <author>සසිත්</author>
+            <date>2014-05-02 09:56:26</date>
+            <index>0</index>
+            <phrase>මේ වගේ දේවල් ගැන නම් පොලිසිය හරි හැටි තොරතුරු දන්නේ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2014-05-02 10:46:17</date>
+            <index>1</index>
+            <phrase>පොලිස් බබාලා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත</author>
+            <date>2014-05-02 10:54:21</date>
+            <index>2</index>
+            <phrase>පොලිසිය කියයිද දන්නෙ නැහැ අලියෙක් නෙමෙයි හාවෙක් කියලා, තව ටිකකින්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජුන්</author>
+            <date>2014-05-02 10:33:02</date>
+            <index>3</index>
+            <phrase>ලංකාවේ පොලිසිය නම් හරිම උදාරයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලක්</author>
+            <date>2014-05-02 10:46:02</date>
+            <index>4</index>
+            <phrase>දැන් ඒ අයගේ සියලුම දේවල් සම්පුර්ණ ඇති. අඩු ඇත්තේ අලි පැටියෙක් පමණි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2014-05-02 10:47:15</date>
+            <index>5</index>
+            <phrase>සෙල්ලම් අලියෙක්ද දන්නෙ නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නේ</author>
+            <date>2014-05-02 11:53:11</date>
+            <index>6</index>
+            <phrase>අනේ පවු අලි පැටියා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-05-02 11:55:48</date>
+            <index>7</index>
+            <phrase>මට හිතෙන විදිහට නම් ඕක කරන්න ඇත්තේ අලින්ට ආදරේ ඇති කට්ටියක් නෙමෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජනක</author>
+            <date>2014-05-02 11:10:45</date>
+            <index>8</index>
+            <phrase>මේ අහවල් කට්ටියගේ වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මානගේ</author>
+            <date>2014-05-02 11:58:58</date>
+            <index>9</index>
+            <phrase>"මෙතන කිසිම නීතිය කඩකිරීමක් සිද්ධ වෙලා නැහැ " මෙය තමයි අවසාන ප්‍රකාශය වෙන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අශාන්</author>
+            <date>2014-05-02 11:16:05</date>
+            <index>10</index>
+            <phrase>අලි පැටියා බේරාගත් සැමට පින්! ලංකාව දැන් තිරිසනුන්ගේ රටක් වෙලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බිහාර</author>
+            <date>2014-05-02 12:18:49</date>
+            <index>11</index>
+            <phrase>අලි පැටියාට කරදරයක් වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2014-05-02 11:32:18</date>
+            <index>12</index>
+            <phrase>අලි පැටවු හොරකම් කරන්නේ කාලයක් තිස්සේ එකම කෙනෙක්.අනේ බොලේ, මේවා කාට කියන්නද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරියලතා කෙන්යා</author>
+            <date>2014-05-02 11:32:39</date>
+            <index>13</index>
+            <phrase>මේවට තමයි කියන්නේ හොරා පොලිස් කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-05-02 11:37:01</date>
+            <index>14</index>
+            <phrase>ලොක්කා දැක්කම බයටම වෙවුලන්න ඇති.කවුද ඔය කට්ටිය නිදහස් කළ ඉහළ එක්කෙනා? ළඟදි සල්ලි දැකපු, වලව්වේ හාමු කෙනෙක් වෙන්න හදන දේශපාලුවෙක් වෙන්න ඇති</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2014-05-02 12:25:52</date>
+            <index>15</index>
+            <phrase>ටික දිනකින් කියාවි මේ අලි පැටවා, තමා විසින්ම පැහැරගෙන ගියා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2014-05-02 12:04:09</date>
+            <index>16</index>
+            <phrase>ට්‍රැක්ටරයේ අංකය කෝ? උපරිම දඩුවම් දෙන්න ඕන ඔක්කොටම.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගුණේ</author>
+            <date>2014-05-02 13:29:32</date>
+            <index>17</index>
+            <phrase>ලංකා පොලිසියේ නිල ඇඳුම වෙනස් කරන්න කාලය හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2014-05-02 12:44:35</date>
+            <index>18</index>
+            <phrase>අර අහවලා දැන් කතා කතා ගොතනවා ඇති කියන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශානි</author>
+            <date>2014-05-02 14:14:52</date>
+            <index>19</index>
+            <phrase>මේ ගැන වැඩිපුර විස්තර පළ කරන්නකො. අලි පැටියාට බෙහෙත් කරන්න වේවි. වයස කීයක් වෙනවද?අලි අම්මව මරල ද දන්නෙත් නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2014-05-02 14:42:01</date>
+            <index>20</index>
+            <phrase>අනේ මේ සෙල්ලම් අලියෙක් කියාවිද දන්නෑ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2014-05-02 14:28:04</date>
+            <index>21</index>
+            <phrase>මේ වගේ වැඩ දුප්පත් අපිට කරන්න පුලුවන්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍ර වීරසිංහ</author>
+            <date>2014-05-02 15:32:06</date>
+            <index>22</index>
+            <phrase>අලි අම්මා මොන තරම් දුකකින් ඇද්ද? ලංකාවේ සිටි ඉංග්‍රීසි ජාතික සුද්දෙක් තමා වැඩියෙන්ම ඇත්තු දඩයම් කරලා තියෙන්නේ. ඔහු අවසානයේදී මිය ගොස් තිබුණේ අකුණක් වැදීමෙන්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වසන්ති</author>
+            <date>2014-05-02 16:54:41</date>
+            <index>23</index>
+            <phrase>සල්ලි තිබුනට අලියෙක් නැත්නම් මිනිස්සු ගණන් ගන්නේ නැහැ. අලුත් හාමු කෙනෙක් වෙන්න ඕනෑ.මින්නේරියෙන් අලි 63 ක් ඇල්ලුවා කියන්නේ ඇත්තක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරම්</author>
+            <date>2014-05-02 16:41:48</date>
+            <index>24</index>
+            <phrase>මතකද සුදු කැස්බෑ සිද්ධිය? පාඩුව විඳිමු, පොලිසි නොයමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විජ්ය</author>
+            <date>2014-05-02 18:13:37</date>
+            <index>25</index>
+            <phrase>මෙහෙම යනකොට මිනිස්සුන්ට හිතේවි ප්‍රබාකරන් මීට වඩා හොදයිද කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් ප්‍රනාන්දු</author>
+            <date>2014-05-02 18:10:46</date>
+            <index>26</index>
+            <phrase>හරිම කණගාටු දායක සිදුවීම් ලංකාවේ සිදුවෙන්නේ. පසුගිය කාලේ අලින්ව ගණන් කරද්දී මම හිතුවා මේ වගේ වැඩකට තමයි කියලා. දල ඇතුන් ටිකත් ඉවරයි අලි පැටවනුත් ඉවරයි. පොලිසිය දන්නේ නැහැ අලි පැටව් කියන්නේ මි පැටව් වගේ කුඩා ජාතියක්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2014-05-02 18:14:46</date>
+            <index>27</index>
+            <phrase>අලියා ගැන කාටත් දුක ඇති. එහෙත් මේ වාර්තාකරු වෙනුවෙන් කවුරුත් නැහැ බලන්නවත්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-05-02 19:06:10</date>
+            <index>28</index>
+            <phrase>විජේ , ප්‍රභාකරන් ත්‍රස්තවාදියෙක් උනාට හොඳ නායකයෙක්. නායකත්ව පුහුණුව අනුව ඔහු ගරිල්ලා වර්ගයේ නායකයෙන්. ඔහු ත්‍රස්තවාදී වැඩ කලාට නපුන්සක වැඩ කලේ නැහැ මම හිතන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසීම්</author>
+            <date>2014-05-02 18:30:45</date>
+            <index>29</index>
+            <phrase>කවුද දන්නෙ නැහැ මේ වැඩේ කළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රසිම්</author>
+            <date>2014-05-02 18:30:49</date>
+            <index>30</index>
+            <phrase>මොනවා වුණත් අලි පරපුර වඳවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජසිංහ</author>
+            <date>2014-05-02 18:30:56</date>
+            <index>31</index>
+            <phrase>අපිට දුක මේ වාර්තා මහතා පිළිබඳවයි. එයා වෙනුවෙන් කවුරුත් නැහැ. පොලිසියත් බොරු කළා. කෝ නිදහස් මාධ්‍යය? අපිට අලියට වැඩිය මේ මනුස්සයා වටිනවා. ලංකාදීප පත්තරේවත් මේ වාර්තාකරු වෙනුවෙන් පෙනී ඉන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනා</author>
+            <date>2014-05-02 19:32:00</date>
+            <index>32</index>
+            <phrase>කෝ,බන්දුල මහත්තයා? කඩේ යන අදහස් දැක්වීමක්වත් දාන්නකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලූ විදානගේ සෞදි අරාබිය</author>
+            <date>2014-05-02 19:35:52</date>
+            <index>33</index>
+            <phrase>අපේ රටේ අලින්ගේ අවාසනාවන්ත කාලේ මේක.කුඩා පැටවු විතරක් නෙමෙයි සත්තු වත්තේ ඉන්න අලින් පවා දැක්කාම ඇස් වලට කදුළු එනවා. උන්ගේ ඇටකටු පෑදිලා.ඉතුරු ටිකට ක්ෂය රෝගේ. කිසිම සාත්තුවක් නැති බව හොදින් පෙනෙනවා. මෙහෙන් අනිත් අය මව මරලා හරි පැටවු හොරකම් කරනවා.කවදාද මේ ගැන බලධාරීන් ඇස් අරින්නේ. පොලිසිය දන්නෙත් නැහැ, දැකලත් නැහැ මේ වගේ සිද්ධි. ජනාධිපතිතුමනි, ඔබවත් මේ ගැන දැන්ම තීරණයක් අරගෙන මේ අපරාධ නතර කරන්න.නැත්නම් අපේ රටින් අලි නැත්තටම නැතිවී යන දවස වැඩි ඇතක නෙමෙයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගමගේ</author>
+            <date>2014-05-02 19:12:47</date>
+            <index>34</index>
+            <phrase>අම්මාටත් කරදරයක් කරලාද දන්නෙ නැහැ මේ තිරිසන් මිනිස්සු?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දීපාල්</author>
+            <date>2014-05-02 19:13:24</date>
+            <index>35</index>
+            <phrase>මේ පැටියාගේ අම්මා කොහෙද දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩීසීඩී</author>
+            <date>2014-05-02 19:38:27</date>
+            <index>36</index>
+            <phrase>පොලිස්යෙ අය දන්න දෙයක් තියෙනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දම්</author>
+            <date>2014-05-02 20:42:43</date>
+            <index>37</index>
+            <phrase>අන්න ඒ නැති තොරතුරු හොයාගන්න තමයි ඔබ ඉන්නේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පෙරේරා</author>
+            <date>2014-05-02 20:43:24</date>
+            <index>38</index>
+            <phrase>මිනිස්සුන්ට අං තියනවා කියලා සමහරු හිතාගෙන ඇති.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන් ප්‍රනාන්දු</author>
+            <date>2014-05-02 20:52:14</date>
+            <index>39</index>
+            <phrase>නිලූ විදානගේ,ඔයා කියන කතාව හරි.නමුත් ඔයා ඔය ඉල්ලීම කරලා තියෙන්නේ වැරදි කෙනාගෙන්.පිටිගල සහ විජය හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙවන්</author>
+            <date>2014-05-02 22:45:16</date>
+            <index>40</index>
+            <phrase>චන්ද්‍ර වීරසිංහ, ඔබගේ අදහසට ඌන පුරණයකට අවසර. ඔය කියන සුද්දගේ නම මේජර් තෝමස් විලියම් රොජර්ස්. 1824 දී ලංකාවට එනකොට වයස අවුරුදු 20 යි. ලංකා රයිෆල් හමුදාවේ දෙවැනි ලුතිතන් ලෙස පත්වී පසුව බදුල්ල සහකාර ආණ්ඩුවේ ඒජන්ත, සහ දිසා විනිසුරු ලෙසද රාජකාරිය කර ඇති මොහු ලංකාවේ අලි ඇතුන් 1400 කටත් අධික සංඛ්‍යාවක් ඝාතනය කර ඇති බව කියැවේ. 1845 ජුනි 07 දින සවස් යාමයේදී හපුතලේ තානායමේ ආලින්දයේ සිටියදී වැසි නැති අකුණක් පත්වී මරණයට පත් වී ඇත. වයස අවු. 41 යි. පසුව නුවර එළියේ ඉංගිරීසි හමුදා කනත්තේ මොහුගේ සොහොන් කොතටද අකුණක් ගසා කොතද කැඩී ඇති බව ඉතිහාස ගතයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍ය</author>
+            <date>2014-05-02 22:57:21</date>
+            <index>41</index>
+            <phrase>මෙයාල රට කාලම ඉවර කරයි වගේ රටට ගිය කලක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2014-05-03 02:38:56</date>
+            <index>42</index>
+            <phrase>මේ ගැන විශේෂ කමිටුවක් පත් කරනවා කියලා ප්‍රකාශයක් කරයි. එච්චර තමයි අන්තිම ප්‍රතිඵලය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2014-05-03 01:55:09</date>
+            <index>43</index>
+            <phrase>පොලීසිය ගැන කතාකරලා වැඩක් නැහැ වගෙයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2014-05-03 02:55:45</date>
+            <index>44</index>
+            <phrase>විජයගේ ප්‍රකාශය මටත් අනුමත කරන්න සිද්ධ වෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2014-05-03 03:53:57</date>
+            <index>45</index>
+            <phrase>ඉස්සර කාලේ ඉඳිකටුවක් හොරකම් කළා වුණත් පොලිසියෙන් අල්ලා ගන්නවා. දැන් මහා සද්දන්ත අලියෙක් හොරකම් කළත් පොලිසියෙන් කියන්නේ අපි ඒ ගැන පරීක්ෂණයක් කරලා යථා කාලයේදී ඔබ වෙත කරුණු හෙළි කරනවා කියලා. අනේ කාලේ වනේ වාසේ කිවුවලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශිරෝ</author>
+            <date>2014-05-03 07:06:40</date>
+            <index>46</index>
+            <phrase>අලි පැටියාට මොනවාහරි අනතුරක් වෙයිද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දයා</author>
+            <date>2014-05-03 06:19:55</date>
+            <index>47</index>
+            <phrase>අනේ, මම මේ දන්නේ නැති හින්දයි අහන්නේ. අලින්ව හොරකම් කරන්නේ මොනවාටද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2014-05-03 06:40:58</date>
+            <index>48</index>
+            <phrase>අන්තිමට ඉතුරු වෙන්නේ පක්ෂය මාරු කරපු අලි ටික විතරක් වෙන්න පුළුවන් බොලේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රානි</author>
+            <date>2014-05-03 06:49:59</date>
+            <index>49</index>
+            <phrase>මේ සිද්ධියට සම්බන්ධ බලවතුන් හෝ කුලවතුන් වීමට දඟලන උදවිය ගැන හෙළි කරන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැනඩා දිසා</author>
+            <date>2014-05-03 07:02:29</date>
+            <index>50</index>
+            <phrase>උදාරයි,උදාරයි... පොලිසියේ ලොක්කා ආශ්චර්යය ඒ ලෙසම ඉටු කිරීම අති ප්‍රශංශනීයයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජගත්</author>
+            <date>2014-05-03 07:13:15</date>
+            <index>51</index>
+            <phrase>ඉහළ කට්ටියගේ සම්බන්ධයක් තියෙනවා මේවට.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චමී</author>
+            <date>2014-05-03 07:44:30</date>
+            <index>52</index>
+            <phrase>පොලිසියට බැනලා වැඩක් නෑ.ඔවුන්ට හරි රාජකාරියක් කරන්න දෙන්නේ නැත්තේ අපිම පත් කර ගත්තු බලධාරින්.කවුද කැමති හරියට රාජකාරි කරලා ලොකු බෑග් එකක් කරේ එල්ලගෙන රට වටේ ස්ථාන මාරුවීම් යන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක ආරච්චිගේ</author>
+            <date>2014-05-03 09:18:46</date>
+            <index>53</index>
+            <phrase>ඔය හම්බන්තොට සිද්ධියයි, උඩවලවේ සිද්ධියටයි අනිවාර්යයෙන්ම කොටි සම්බන්ධ ඇති. අපේ පොලිසියට දොස් කියන්න එපා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් ඒකනායක</author>
+            <date>2014-05-03 09:16:23</date>
+            <index>54</index>
+            <phrase>මමත් උඩවලවේ. මේ සිදුවීම මම දන්නවා. ඇත්තටම පොලිසිය පවු. අසරණයි. රටේ ජනතාව හිතාගන්න කවුද මේක කළේ කියල‍ා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2014-05-03 10:34:58</date>
+            <index>55</index>
+            <phrase>පිටිගල, ප්‍රභාකරන් ගම්මාන වල ජීවත් වුණ අහිංසක දරුවෝ කකුල් වලින් ඇදලා අරන් කපලා මැරුවා. බස් වලට බෝම්බ තියලා පොඩිඋන් මරවපු කෙනෙක් නේද? අලි හොරාට නොබැන ප්‍රභාකරන් පුම්බන්න හදන්න එපා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2014-05-03 11:32:46</date>
+            <index>56</index>
+            <phrase>වල්ලපට්ටා සහ කබර හූනන් අල්ලන පොඩි මිනිස්සු ගැන නම් පොලිසිය හොඳට දන්නවා. හැබැයි අලි ගැන දන්නෙ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2014-05-03 10:59:49</date>
+            <index>57</index>
+            <phrase>මට මතක නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජාග්.</author>
+            <date>2014-05-03 11:13:30</date>
+            <index>58</index>
+            <phrase>හෙණගහලා මැරෙන එක මේ පවුකාරයන්ට හොඳ වැඩියි. අපායේ පැසවනවා කල්ප ගණන්. නිදහස් කළ දේශපාලුවාගේ නම හෙළිකරන්න මේ ජාතියේ නාමයෙන්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නසිරි</author>
+            <date>2014-05-03 12:07:52</date>
+            <index>59</index>
+            <phrase>අපේ රටේ පොලීසියට වැඩ කරන්න වෙලා තියෙන්නේ නීතියට අනුව නොව,ඡන්දයෙන් පත්වන මැරයින්ගේ අණට. සෑම රටකම පොලිසීයට දේශපාලන බලපෑම් නැතුවාම නොවේ. නමුත් ඇත්ත හෙළි කිරීමට මාධ්‍ය නිදහස තිබෙනවා. ලංකාවේ මේ වගේ නීතිවිරෝධී දෙයක් හෙළිකරන්න යන මාධ්‍යකරුවන්ට ගුටි බැට, ජීවිත අවදානම් එමටයි. පොලිසියට පැමිණිල්ලවත් ලියා ගන්න අත පණ නැහැ. මේ විදිහට ගියොත් විනයගරුක පාලකයොත් නැහැ, විනයගරුක පුරවැසියොත් නැහැ. කෙසේ වෙතත් මේ අලි පැටවා බේරා ගන්න සහභාගි වූ සැමට පිං! අලි හොරු වෙනත් දවසක නැවත එනවා. අලි රංචුවම වට වෙලා හොරුන්ට හොඳ පාඩමක් කියා දෙන්න අලින්ටම හැකිවේවා! නුඹලාගේ සතුරා ප්‍රභූ කියන හොරුන්ය. අහිංසක ගම්වැසියන්ට හිරිහැර නොකරන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්කරුණාරත්න ලියනගේ</author>
+            <date>2014-05-03 12:50:38</date>
+            <index>60</index>
+            <phrase>ඕකට නේන්නම් අපේ අප්පලා අලි තෝම්බුව හැන්ගුවේ. ඇමතිතුමා ඒක හැදුවේ මේ වගේ වංචා වළක්වන්නයි. දැන් ඉතින් කොරපල්ලකෝ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශ්‍රද්ධා</author>
+            <date>2014-05-03 12:27:45</date>
+            <index>61</index>
+            <phrase>මේක අලි සෙල්ලම්ද ? නෙතිනම් සෙල්ලම් අලියෙක්ද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත රණසිංහ</author>
+            <date>2014-05-03 12:28:59</date>
+            <index>62</index>
+            <phrase>දැන් නම් අපිටත් දෙයක් හිතන්න වෙයි වගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>විරාජ් ඒකනායක</author>
+            <date>2014-05-03 12:39:00</date>
+            <index>63</index>
+            <phrase>දෙනියායේ සිටින කෙනෙක් නේද අලියා ගෙනියන්න හැදුවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරි</author>
+            <date>2014-05-03 12:43:58</date>
+            <index>64</index>
+            <phrase>"මෙහිදී කිසියම් ආකාරයකින් නීතිය උල්ලංඝනය වීමක් සිදුවී ඇත්දැයි සොයාබලා එයට සම්බන්ධ සියලුම දෙනා අත්අඩංගුවට ගෙන ඇප මත මුදා හැරීමට කටයුතු කර ඇත." කියලා කිවුවේ නැද්ද තවම කවුරුත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුජානි</author>
+            <date>2014-05-03 14:52:08</date>
+            <index>65</index>
+            <phrase>මේක ශ්‍රීලංකාව කියල අමතක උනාද? </phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පිටිගල</author>
+            <date>2014-05-03 17:49:24</date>
+            <index>66</index>
+            <phrase>නිශාන්ත, ප්‍රභාකරන් ත්‍රස්තවාදියෙක්, ඔහු පුම්බන්න මම උත්සහ කලේ නැහැ. සිංහල දන්නේ නැත්නම් ඉගෙන ගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෙවන්</author>
+            <date>2014-05-04 09:29:11</date>
+            <index>67</index>
+            <phrase>විරාජ් ඔබේ තොරතුර හරි නම් අයෙත් අහන්න දෙයක් නැහැ. දැන් බලය සල්ලි සේරම තියන එකේ වලව්වේ හාමු පට්ටමක් විතරක් අඩු පලාතක් තමා ඔය නමින් තියෙන්නේ. අලියෙකුත් ගත්තාම හත්මුතු පරම්පරාවම වලව් කියලා පෙන්නන්න පුළුවන් නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුෂාන්</author>
+            <date>2014-05-05 10:23:00</date>
+            <index>68</index>
+            <phrase>ආසියාවේ ආශ්චර්යවත් තිරිසන් ක්‍රියාවක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

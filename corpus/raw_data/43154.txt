@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>43154</articleId>
+    <title>මිනිත්තුවක් පොළොව හෙල්ලෙයි</title>
+    <author>අරුණ ඩයස්</author>
+    <date>2012 මැයි මස 20 06:52:40</date>
+    <body>අද අළුයම 1.36 සිට විනාඩියක් පමණ වලපනේට සුළු භූකම්පාවක් දැණුනු බවත් ඇඳ, මේස, පුටු, ආදිය සෙලවී ගිය බවත් වැසියෝ කියති. හානි ගැන වාර්තාවී නැත.</body>
+    <comments>
+        <comment>
+            <author>රංගා ශානි.</author>
+            <date>2012-05-20 07:19:40</date>
+            <index>0</index>
+            <phrase>සරත් ෆොන්සේකා මහතා නිදහස් කළ නිසා ද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මේනක</author>
+            <date>2012-05-20 07:21:25</date>
+            <index>1</index>
+            <phrase>නාවලපිටිය ටත් එය ඉතා හොදින් දැනුනා.... මම නින්දෙන් ඇහුරුනා. එතොකොටත් පොලව හෙලවෙනවා...තත්පර 20-30 ත් විතර හෙලවුනා ශබ්ද්දයකුත් සමග</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජීවන්</author>
+            <date>2012-05-20 07:30:20</date>
+            <index>2</index>
+            <phrase>හඟුරන්කෙතටත් දැනුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්ත</author>
+            <date>2012-05-20 07:43:46</date>
+            <index>3</index>
+            <phrase>අපි පේරාදෙණිය මහකෙන්දේ. අපිටත් දැණුනා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-05-20 07:43:56</date>
+            <index>4</index>
+            <phrase>තලවකැලේට හොඳටම දැනුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2012-05-20 07:49:08</date>
+            <index>5</index>
+            <phrase>ඉතාලියත් හෙල්ලෙනවෝ... දැන් වෙලාව 4.20යි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල -බදුල්ල</author>
+            <date>2012-05-20 08:51:11</date>
+            <index>6</index>
+            <phrase>අපිට මේක හොඳටම දැණුනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>භාතිය</author>
+            <date>2012-05-20 09:06:03</date>
+            <index>7</index>
+            <phrase>ඉතාලියේ වෙරෝනා නගරයේ ඇතුළු උතුරු ඉතාලියේ නගර කිහිපයකටත් ලංකා වෙලාවෙන් විසි වෙනි ඉරිදා උදෑසන 4.04ට 5.9ක භූචලනයක් සිදු වුණා. ජීවිත හානි නොමැති බව වාර්තා වෙණවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මාල්</author>
+            <date>2012-05-20 09:06:27</date>
+            <index>8</index>
+            <phrase>පිළිමතලාව ප්‍රදේශයට හොදට දැනුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශබීර්</author>
+            <date>2012-05-20 09:05:40</date>
+            <index>9</index>
+            <phrase>බදුල්ලටත් දැනුණා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අහමඩ්</author>
+            <date>2012-05-20 11:13:28</date>
+            <index>10</index>
+            <phrase>ඩුබායිවලටත් හෙලවෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බන්ඩාර</author>
+            <date>2012-05-20 11:50:19</date>
+            <index>11</index>
+            <phrase>මොණරාගලත් හෙල්ලුනා....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-05-20 12:43:47</date>
+            <index>12</index>
+            <phrase>නාවල හෙල්ලුනා ??????????....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයේෂා</author>
+            <date>2012-05-20 13:22:51</date>
+            <index>13</index>
+            <phrase>කාටවත් විපතක් කරන්න එපා.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සහන්</author>
+            <date>2012-05-21 13:28:44</date>
+            <index>14</index>
+            <phrase>දකුණත් හෙලවෙයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

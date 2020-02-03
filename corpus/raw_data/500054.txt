@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>500054</articleId>
+    <title>අල්ලස් ගත් පීඑච්අයිට වැඩ වරදී</title>
+    <author>බිමල් ශ්‍යාමන් ජයසිංහ</author>
+    <date>2017 ජනවාරි මස 20 14:16:17</date>
+    <body>මහනුවර තැන්නේකුඹුර සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට අනුයුක්ත බෝවල වසමේ මහජන සෞඛ්‍ය පරීක්ෂකවරයකු තැනනේකුඹුර හෝටලයක දී රුපියල් 10000ක අල්ලසක් ගනිද්දී අත්අඩංගුවට ගත් බව අල්ලස් කොමිසමේ අධ්‍යක්ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ප්‍රියන්ත චන්ද්‍රසිරි මහතා කියයි.
+වෙළඳසලට 2017 වසර සඳහා වෙළඳ බලපත්‍රයක් නිකුත් කිරීම සඳහා මොහු අල්ලස ගෙන ඇතැයි කියති.</body>
+    <comments>
+        <comment>
+            <author>සරත්</author>
+            <date>2017-01-20 14:14:50</date>
+            <index>0</index>
+            <phrase>මහනුවර තියෙන හෝටල් පී. එච්.අයි ලා හරියට බලනවා නම් 90% ම වහන්න ඕනෑ. පේරාදෙණිය, කටුගස්තොට, තැන්නේකුඹුර, දිගන නගරවල ඇති බොහොමයක්ම හෝටල් කන්න තියා ළඟින් යන්නවත් හොඳ නැති ඒවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොකී</author>
+            <date>2017-01-20 14:17:56</date>
+            <index>1</index>
+            <phrase>වරද ඔප්පු වුණොත් කිසිම අනුකම්පාවක් නැතුව කෙළින්ම ගෙදර යැවිය යුතුය!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බමුණු ආරච්චි</author>
+            <date>2017-01-20 14:49:22</date>
+            <index>2</index>
+            <phrase>මෙන්න අනිත් පගාමරුවෝ!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2017-01-20 15:50:39</date>
+            <index>3</index>
+            <phrase>අනෙක් අයටත් මේවා හොඳ පාඩම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්හාන්</author>
+            <date>2017-01-20 16:05:12</date>
+            <index>4</index>
+            <phrase>දැන් ලංකාවේ මේක විලාසිතාවක් වෙලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රන්ජිත්</author>
+            <date>2017-01-21 02:53:20</date>
+            <index>5</index>
+            <phrase>රුපියල් 10000 ට දෙන දඬුවම් බලමු. එතකොට රජය කියන අනෙත් කෝටි ගණන් හොරකම් කළා කියන අයට දෙන දඬුවමුත් බලමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2017-01-21 06:10:54</date>
+            <index>6</index>
+            <phrase>ප්‍රාදේශීය සභා ඔක්කොම එකයි. අල්ලස් ගන්නවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

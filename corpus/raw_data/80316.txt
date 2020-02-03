@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>80316</articleId>
+    <title>ලක් චන්ද්‍රිකාව උඩුගුවනට යවයි</title>
+    <author>සජිව විජේවීර</author>
+    <date>2012 නොවැම්බර් මස 27 16:38:20</date>
+    <body>ශ්‍රී ලංකාවේ ප‍්‍රථම සන්නිවේදන චන්ද්‍රිකාව අද පස්වරු 3.43ට චීනයේ  ෂිවෑං අභ්‍යාවකාශ මධ්‍යස්ථානයේ සිට සාර්ථකව උඩුගුවනට යැවූ බව සුප්‍රීම් සැට් සමාගම කියයි.</body>
+    <comments>
+        <comment>
+            <author>පාලිත අචිනි</author>
+            <date>2012-11-27 17:02:02</date>
+            <index>0</index>
+            <phrase>සාධු සාධු රෝහිත පුතා බුදුන් දැක නිවන් දක්න්න ඕන මේ කරන පිං වැඩේට..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-11-27 17:03:40</date>
+            <index>1</index>
+            <phrase>සුබම සුබ අනාගතයක්.. රෝහිත රාජපක්ෂ ඇතුළු සියළු දෙනාටම..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රින්ස්</author>
+            <date>2012-11-27 17:03:54</date>
+            <index>2</index>
+            <phrase>ජය ශ්‍රී...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත් කටාර්</author>
+            <date>2012-11-27 17:18:01</date>
+            <index>3</index>
+            <phrase>ජය වේවා..! අන්තර්ජාලය ඇතුළු දුරකථන බිල් රොකට් වේගයෙන් පහළ බැසේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යූනුස්</author>
+            <date>2012-11-27 17:22:48</date>
+            <index>4</index>
+            <phrase>හුරේ......අපේ බලාපොරොත්තු ඔක්කොම හරි..මේක විතරයි අපිට අඩුවට තිබුනේ....අපේ ළමයින්ට බඩගිණි වේලාවට දැන් ඒ සැටලයිට් ගැන කථාවක් කියන්න පුළුවන්...ඔ‍කට ගිය වියදමත් අපෙන්නේ ගන්නේ...ආපහු ඡන්දයක් තියන්න ඔගොල්ලන්ටම දෙන්නම්....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2012-11-27 17:33:11</date>
+            <index>5</index>
+            <phrase>හොඳයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2012-11-27 17:30:12</date>
+            <index>6</index>
+            <phrase>ශ්‍රී ලංකාව ගැන ආඩම්බරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>යසන්ත</author>
+            <date>2012-11-27 17:43:45</date>
+            <index>7</index>
+            <phrase>ජය ජය ලංකා මාතා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මලිත්</author>
+            <date>2012-11-27 17:44:39</date>
+            <index>8</index>
+            <phrase>ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුමාර</author>
+            <date>2012-11-27 18:10:39</date>
+            <index>9</index>
+            <phrase>අපේ කිවුවට අපේමද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-11-27 18:12:50</date>
+            <index>10</index>
+            <phrase>අපිට මේ ගැන නම් හරිම ආඩම්බරයි. ඒත් ප්‍රශ්නේ තියෙන්නේ බඩු මිළත් මේ රොකට් එක වගේ ඉහළ යයිද කියලයි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මෝරාලසිරි</author>
+            <date>2012-11-27 18:36:50</date>
+            <index>11</index>
+            <phrase>සුභ පැතුම් ලක්මවට..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල කටුනායක</author>
+            <date>2012-11-27 18:33:00</date>
+            <index>12</index>
+            <phrase>ප්‍රමාධය හරියට වැඩ කරන්න රුකුලක් උනා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දනේෂ්</author>
+            <date>2012-11-27 18:55:09</date>
+            <index>13</index>
+            <phrase>මොකද බොහොම හෙමින්.. වැඩි සද්දයක් නැතිවම...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුල්සි</author>
+            <date>2012-11-27 19:02:08</date>
+            <index>14</index>
+            <phrase>"මෙම චන්ද්‍රිකාව සහ ශ්‍රී ලංකා ආණ්ඩුවේ කිසිම සම්බන්ධතාවයක් නැති බවත්, එය පුද්ගලික සමාගමක් විසින් චීන සමාගමක් සමග කරන ගනුදෙනුවක් බවත් ශ්‍රී ලංකා විදුලි සංදේශ නියාමන කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් අනුෂ පැල්පිට මහතා ම ප්‍රකාශ කර තිබේ." "ඒ අනුව ශ්‍රී ලංකා සමාගම සිදුකර ඇත්තේ ‘චයිනාසැට් - 12’ චන්ද්‍රිකාවේ ඉලෙක්ට්‍රොනික පරිපථ ගබඩා කරන ඉඩකඩෙන් කොටසක් බදු ගැනීම පමණකි. රෝහිත රාජපක්ෂ තබා සුප්‍රීම් සැට් (පුද්ගලික) සමාගමවත් මෙම චන්ද්‍රිකාවේ කිසිම ඇණ මුරිච්චියක් තද කර නැති අතර ඔවුන් මෙම ව්‍යාපෘතියට සම්බන්ධ වනවිටත් මෙම චන්ද්‍රිකාව නිපදවා අවසානය." වෙබ් අඩවියක සඳහන්වන ඉහත ප්‍රකාශය ගැන වැඩි විස්තරයක් දන්නා කෙනෙක් අපටත් පැහැදිලිකර දෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සදුන්</author>
+            <date>2012-11-27 19:15:05</date>
+            <index>15</index>
+            <phrase>ඒක තමයි රැවන් ඇමරිකාවෙයි අපෙයි වෙනස..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන් චින්තන</author>
+            <date>2012-11-27 19:15:05</date>
+            <index>16</index>
+            <phrase>ඇමරිකාවෙ මොනවා උනත් පත්තරේ පිටු ගණන් දානවා.. ලංකාවෙ චන්ද්‍රිකාවක් උඩ ඇරියාම වචන දෙක තුනකින් කියලා දානවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරුෂ</author>
+            <date>2012-11-27 19:33:35</date>
+            <index>17</index>
+            <phrase>ජය ජය ශ්‍රී ලන්කා ඔහොම යං ඔහොම යං බල්ලන් බිරුවාට කන්දක් මිටි වේද කිව්වලු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිවිතු</author>
+            <date>2012-11-27 19:37:37</date>
+            <index>18</index>
+            <phrase>හැමදේම පෙන්වන ටීවී චැනල්වලින් මේක පෙන්වන්න බැරිවුනේ ඇයි?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නාරද රාජපක්ෂ</author>
+            <date>2012-11-27 19:44:50</date>
+            <index>19</index>
+            <phrase>මෙහි වීඩියෝ එකක් බලන්න පුළුවංද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2012-11-27 19:49:09</date>
+            <index>20</index>
+            <phrase>සෑම දෙයක්ම අපේ කර ගනිමු.. අපේ නිජ බිමට ජය වේවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-11-27 19:57:58</date>
+            <index>21</index>
+            <phrase>ඕක මොන වේගෙන් ගියත් ලංකාවෙ බඩුමිල නම් අල්ලන්න බැරි වෙනවා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජිත්</author>
+            <date>2012-11-27 20:13:58</date>
+            <index>22</index>
+            <phrase>අපේ රටට යහපතක් වෙනවා නම් අපේ සුභ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජාපක්ෂ</author>
+            <date>2012-11-27 20:45:18</date>
+            <index>23</index>
+            <phrase>කොහෙන්ද මේ සදහා තාක්‍ෂ දැනුම</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2012-11-27 21:00:09</date>
+            <index>24</index>
+            <phrase>ලංකාව සම්බන්ධ නිසාද මන්දා කිසිම තැනක වීඩියෝවක්වත් පොටෝ එකක්වත් දකින්න නැහැ.. පුවත් චැනල වලත් ලංකාව ගැන කිසිම සදහනක් නැහැ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වීලංකා</author>
+            <date>2012-11-27 22:03:33</date>
+            <index>25</index>
+            <phrase>දැංවත් අන්තර්ජාලය වේගවත් උනොත් හොදයි..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඩැරල් ෂිෆා</author>
+            <date>2012-11-27 22:09:37</date>
+            <index>26</index>
+            <phrase>අපේ සුභ පැතුම්..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වජිර</author>
+            <date>2012-11-27 22:37:28</date>
+            <index>27</index>
+            <phrase>ලක් මාතාව දිනේවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජයා</author>
+            <date>2012-11-27 22:36:46</date>
+            <index>28</index>
+            <phrase>අපේ අය දැන් වෙනත් ග්‍රහලෝකවලිනුත් ණය හොයන්න යනවා වාගේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රියන්ත</author>
+            <date>2012-11-27 22:44:42</date>
+            <index>29</index>
+            <phrase>අප රටටත් ජාතියටත් මහත් කිර්තියක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කැටවල</author>
+            <date>2012-11-27 22:53:29</date>
+            <index>30</index>
+            <phrase>මගේ උණුසුම් සුභ පැතුම්!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-11-27 22:58:21</date>
+            <index>31</index>
+            <phrase>ගොඩක් අයට ප්‍රශ්නේ තම මේක සජීවී පෙන්නපු නැති එක,</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-11-27 23:04:18</date>
+            <index>32</index>
+            <phrase>සිරි ලක්මවගේ අනාගතේ රැදී තියෙන්නේ ඔබේ අතේ... අමතක කරලමු පැරණි කතා එක්වෙමු ජාතික දියුණ පතා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේනානායක</author>
+            <date>2012-11-27 23:12:33</date>
+            <index>33</index>
+            <phrase>නව පිම්මක් අපේ සුභ පැතුම්...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රබුද්ද</author>
+            <date>2012-11-27 23:12:55</date>
+            <index>34</index>
+            <phrase>සුබ අනාගතයක්...! ලංකාවෙ ආශ්චර්යය..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2012-11-27 23:54:53</date>
+            <index>35</index>
+            <phrase>අපි ‍කොහොමත් කැමති ඇත්ත දැනගන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ජී.ටී.අප්පුහාමි</author>
+            <date>2012-11-28 00:12:54</date>
+            <index>36</index>
+            <phrase>කාගෙන් හරි කාලා මට අප්පා කියපන් කිව්වලු...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පු</author>
+            <date>2012-11-28 00:17:17</date>
+            <index>37</index>
+            <phrase>මේවා තමයි ආසියාවේ ආශ්චර්යය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මුතුකුඩ</author>
+            <date>2012-11-28 00:38:01</date>
+            <index>38</index>
+            <phrase>තුල්සි කියන කතාවේත් ඇත්තක් තියෙනවා. මොකද ඕවා සම්පුර්ණයෙන්ම අපේ නොවනවිට මේවාට වැඩි ප්‍රසිද්ධියක් දෙන්න බැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බුද්ධි</author>
+            <date>2012-11-28 00:40:31</date>
+            <index>39</index>
+            <phrase>තුල්සි කී කතාව තේරුම් ගන්න පුළුවන් නම් ලංකාවෙ බොහොම ටික දෙනයි ඉන්නෙ.... කෙසේ නමුත් බද්දට හෝ ඡන්ද්‍රිකාවක් ගුවන් ගත කිරීමේ අවශ්‍යතාවයක් තිබෙනවා. චීනෙට හොරා කිසිවක් අපට කළ නොහැකි තත්ත්වයට පත් වෙලා..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>පාලිත මහින්ද ඉතාලියේ මිලානෝ නගරයේ සිට</author>
+            <date>2012-11-28 00:49:13</date>
+            <index>40</index>
+            <phrase>අපේ සුභ පැතුම්...!!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තාරක</author>
+            <date>2012-11-28 00:46:02</date>
+            <index>41</index>
+            <phrase>මෙතනින් වීඩියෝ 1 බලන්න පුළුවන්. http://supremesat.com/</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර වත්තල</author>
+            <date>2012-11-28 01:20:45</date>
+            <index>42</index>
+            <phrase>තුල්සි, ඔයාගේ නමෙන්ම පේනවා ඔය ඉන්දියාට කඩේ යන කෙනෙක් කියලා. අපේ කොඩිය හරි දාලනේ. ජය වේවා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහාන්</author>
+            <date>2012-11-28 01:44:16</date>
+            <index>43</index>
+            <phrase>මේ හැමෝම බලන්න තුල්සි කියන දේ..!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහේන්ද්‍ර</author>
+            <date>2012-11-28 01:54:29</date>
+            <index>44</index>
+            <phrase>තවත් එකක් යවන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රත්නායක</author>
+            <date>2012-11-28 02:18:07</date>
+            <index>45</index>
+            <phrase>චන්ද්‍රිකාව පොඩි උනාට කල වැඩේ පොඩි නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-11-28 02:40:42</date>
+            <index>46</index>
+            <phrase>රෑ දහයෙන් පස්සේ අපේ ගමට යන්න බස් එකක් නැහැ. ඒත් අපි යැවුවනේ රොකට්...?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හිල්ම්</author>
+            <date>2012-11-28 03:14:54</date>
+            <index>47</index>
+            <phrase>මම මනම් හිතුවා ලගදීම මේ දේ වෙයි කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලි</author>
+            <date>2012-11-28 03:36:40</date>
+            <index>48</index>
+            <phrase>මේකෙන් අපට කෑල්ලක්වත් අයිති නැහැ...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාලුක</author>
+            <date>2012-11-28 04:54:45</date>
+            <index>49</index>
+            <phrase>සත්‍ය වටහා ගන්න ( http://www.nasaspaceflight.com/2012/11/chinas-18th-2012-long-march-3b-chinasat-12/ ) .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නුවන්</author>
+            <date>2012-11-28 05:01:03</date>
+            <index>50</index>
+            <phrase>සුභපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිලංක</author>
+            <date>2012-11-28 06:30:17</date>
+            <index>51</index>
+            <phrase>අනේ අපේ ගෙවල් පැත්තට නම් ඕක කඩා වැටෙන්න එපා...!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකරත්න</author>
+            <date>2012-11-28 06:24:51</date>
+            <index>52</index>
+            <phrase>ජයවේ මවුනි ලංකා!</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2012-11-28 07:39:55</date>
+            <index>53</index>
+            <phrase>මම හිතන්නේ ලක්ෂ 4250 ක් වියදම් කරලා අපේ කොඩිය පැත්තකින් ගැහැවා විතරයි. අනිත් සේරම චීනේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උනදූවගේ</author>
+            <date>2012-11-28 07:51:10</date>
+            <index>54</index>
+            <phrase>ඇත්තටම මේක අයිති ලංකාවටද ???</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-11-28 07:56:19</date>
+            <index>55</index>
+            <phrase>සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දිම</author>
+            <date>2012-11-28 08:06:15</date>
+            <index>56</index>
+            <phrase>අනේ මන්දා මේ ලංකාවෙ ඉන්න මිනිස් චන්ද්‍රිකාව නම් කියනවා කෝටි ගනන් වියදම් කරලා යැව්වට ඕක නිකං සිංහ කොඩිය ගහල යවාපු මදේ නැති නිකංම නිකං බැරල් තඩියක් කියල.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2012-11-28 08:17:49</date>
+            <index>57</index>
+            <phrase>අපේ රටේ හැමදාම තිබුණේ ඉරිසියාව සහ කුහක කම විතරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුසන්ත</author>
+            <date>2012-11-28 08:28:58</date>
+            <index>58</index>
+            <phrase>වැඩක් නෑ චයිනීස්නේ . ඕකත් හරියට චයිනීස් ෆොන් එකක් වගේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුක්මන්</author>
+            <date>2012-11-28 08:37:59</date>
+            <index>59</index>
+            <phrase>ජයවේවා ශ්‍රී ලංකා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2012-11-28 08:49:00</date>
+            <index>60</index>
+            <phrase>සිංහ කොඩිය අහසට ගියාමා ලස්සනයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රභාත්</author>
+            <date>2012-11-28 09:16:26</date>
+            <index>61</index>
+            <phrase>මගෙන් සුබ පැතුමු</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-11-28 09:19:01</date>
+            <index>62</index>
+            <phrase>ලංකාවට ඒ තරම් තාක්ෂණයක් තියෙනවාද</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කීර්ති</author>
+            <date>2012-11-28 09:14:12</date>
+            <index>63</index>
+            <phrase>" ශ්‍රී ලංකා සමාගම සිදුකර ඇත්තේ ‘චයිනාසැට් - 12’ චන්ද්‍රිකාවේ ඉලෙක්ට්‍රොනික පරිපථ ගබඩා කරන ඉඩකඩෙන් කොටසක් බදු ගැනීම පමණකි"..</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2012-11-28 09:24:35</date>
+            <index>64</index>
+            <phrase>මේ පිළිබඳ මිනිස්සුන්ගේ දැනුම වැඩි කල යුතුයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-11-28 09:24:00</date>
+            <index>65</index>
+            <phrase>කොහොම උනත් කමක් නැ අපේ රටත් දියුණු වෙනවා නම්.....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-11-28 09:33:50</date>
+            <index>66</index>
+            <phrase>කාටද ආඩම්බර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-11-28 09:27:34</date>
+            <index>67</index>
+            <phrase>ආසියාවේ ආශ්චර්‍යය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උපුල්</author>
+            <date>2012-11-28 09:38:33</date>
+            <index>68</index>
+            <phrase>අපේ රටේ ඉන්න නාස්තිකාරයින්ට බනිනවට වැඩ හොදයි ඉක්මනට වෙන රටකට ගිහින් පාඩුවේ ඉන්න එක. අපිට සතුටින් ඉන්න ඉතිරි වෙලා තියන එකම ක්‍රමය එකයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රිකා</author>
+            <date>2012-11-28 09:56:10</date>
+            <index>69</index>
+            <phrase>අගය කරනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2012-11-28 10:00:53</date>
+            <index>70</index>
+            <phrase>රටවල් පාලනය කරන හැටි සොයා බලනවා නෙමෙයිනේ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මා</author>
+            <date>2012-11-28 09:57:13</date>
+            <index>71</index>
+            <phrase>අනේ ඔයාලා ටිකක් මේ අහන්න. දැන් චීන සමාගමක් ඇවිත් අපේ පාරට බස් එකක් දානවා. බස් එකත් චීන, එල්වන්නෙත් චීනා, ටිකට් කඩන්නෙත් චීනා, පෙට්‍රල් හා සර්විසුත් චීනෙන්. ලාබෙත් චීනෙට. නමුත් නම 'සුදු පුතා ට්‍රැවල්ස් අන්ඩ් ටුවර්ස්'. දැන් මේකෙ අපිට සල්ලි දීලා යන්න පුලුවන්. අපිට ආඩ්ම්බරයක්, පහසුවක් පාරේ බස් එක නිසා. කටවහරට අපි කියන්නෙ අපේ බස් එක කියලා. හා හොඳයි දැන් කියන්න බලන්න මේ බස් එක ඇත්තටම අපේ බස් එකක් ද කියලා? .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශාන්</author>
+            <date>2012-11-28 10:00:58</date>
+            <index>72</index>
+            <phrase>බොරු බයිලාවක්ද දන්නේ නෑ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදය</author>
+            <date>2012-11-28 10:02:23</date>
+            <index>73</index>
+            <phrase>අනේ මන්දා, ලංකාවේ මිනිස්සුන්ට මොනවා වෙලාද කියලා තේරෙන්නෙ නැහැ. හොද දෙයක් කළත් හොදක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සත්‍යපාල</author>
+            <date>2012-11-28 10:05:13</date>
+            <index>74</index>
+            <phrase>වැඩි විස්තර (http://en.wikipedia.org/wiki/Zhongxing_12 )</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සේරිෆ්</author>
+            <date>2012-11-28 10:05:49</date>
+            <index>75</index>
+            <phrase>ලංකාව ලෝකේ අංක එකට ගෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලක්මා</author>
+            <date>2012-11-28 10:07:24</date>
+            <index>76</index>
+            <phrase>ඔයාලා දන්නවනි ලංකාවේ පිහිටීම ඉතාම වැදගත් කියාලා සන්නිවේදන චන්ද්‍රිකාවක් ස්ථාපනය කරන්න. අපිට අයත් අවකාසයේ අපේ අවසරයක් නැතිව අනිත් රටවලට බෑ එයලගේ චන්ද්‍රිකා ගෙනත් පාක් කරන්න. අඩුගානේ අපිට ටොපියක්වත් දෙන්නේ නැතිව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රංජිත්</author>
+            <date>2012-11-28 10:19:39</date>
+            <index>77</index>
+            <phrase>සුප්‍රීම් සැට් (පුද්ගලික) සමාගම සෑහෙන පොහොසත් වගෙයි පේන්නේ. කරුණාකරලා අධ්‍යක්ෂ මණ්ඩලයේ නම් ටික දානවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කරෝලිස්</author>
+            <date>2012-11-28 10:23:29</date>
+            <index>78</index>
+            <phrase>ඇති යන්තම් උඩ ගියා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොෂාන්</author>
+            <date>2012-11-28 10:20:55</date>
+            <index>79</index>
+            <phrase>ජය වේවා ලංකා, හරිම ආඩම්බරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලමාක්</author>
+            <date>2012-11-28 10:37:23</date>
+            <index>80</index>
+            <phrase>ඔන්න අපේ අය ඇරියා රොකට්. දැන් ඉතින් උඩබලලා ගහපල්ලකො අප්පුඩි. රෑට ගෙදර ගොහින් කන්න කිරිහොදියි පානුයි. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-11-28 10:31:38</date>
+            <index>81</index>
+            <phrase>තුල්සි, අපේ රටේ වාහන තියෙන්නේ අපි හදලද? ටීවී, පරිඝනක අපි හදනවද?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලහිරු</author>
+            <date>2012-11-28 10:46:26</date>
+            <index>82</index>
+            <phrase>මෙතන සමහරක් "අපේ කොඩිය හරි දාල නේ " කියලා සතුටු වෙනවා. මට නම් ඇඩෙනවා, මේ වගේ වැඩක් කරන්න වියදම් කළ මුදල දැක්කහම. ලොව ලාබාලම ගගනගාමියා උපාධි ගත්ත විශ්ව විද්‍යාලය ගැන අන්තර්ජාලයේ සෙවුවහම එයා ගැන මෙලෝ දෙයක් සදහන් නැහැ. හරිම හිනා. මේ රට දාලා යන්න වෙන දවස වැඩි ඇතක නොවේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාර්ක්</author>
+            <date>2012-11-28 10:46:49</date>
+            <index>83</index>
+            <phrase>පාලිත, නරකද ඔය චන්ද්‍රිකාව හදපු සමාගමට පින් දුන්නොත්?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2012-11-28 10:51:27</date>
+            <index>84</index>
+            <phrase>අපේ රටේ පාරක් කොන්ක්‍රීට් කළත් රූපවාහිනී නාලිකා වල පෙන්නන එකේ මේ වගේ ඵෙතිහාසික වැඩකට දුන්න ප්‍රසිද්ධිය මදි කියලයි මම නම් හිතන්නේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චානක</author>
+            <date>2012-11-28 10:51:49</date>
+            <index>85</index>
+            <phrase>අනේ මන්දා! අභ්‍යවකාශයත් ඉතුරු කළා නම් තමයි පුදුමේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අචිනි</author>
+            <date>2012-11-28 10:53:20</date>
+            <index>86</index>
+            <phrase>ශ්‍රී ලංකාවේ ජාතික කොඩියට සුබ පැතම් .. තුසල් ඔබ හරි මාත් එකඟයි .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉරේෂ්</author>
+            <date>2012-11-28 11:02:56</date>
+            <index>87</index>
+            <phrase>ජය වේවා , දැන් ඉතින් 2015 අපේ එකක් යවනකම් ඉවසුමක් නෑ .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නලින් ධනුෂ්ක</author>
+            <date>2012-11-28 11:08:18</date>
+            <index>88</index>
+            <phrase>චීන රජය ආඩම්බර විය යුතුයි. අපිට තිබුන එකම ප්‍රශ්නය විසදුවා. ඇති යාන්තං. දැන් ඉතින් ලංකාවත් සංවර්ධිත රටක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මිහීර්</author>
+            <date>2012-11-28 11:15:17</date>
+            <index>89</index>
+            <phrase>තික්ෂණය ළගා කරගත් විශාල ජයග්‍රහණයක්.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මරික්කාර්</author>
+            <date>2012-11-28 11:20:22</date>
+            <index>90</index>
+            <phrase>ශාලුකට ස්තූතියි‍. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සෝමපාල</author>
+            <date>2012-11-28 11:29:27</date>
+            <index>91</index>
+            <phrase>අයියෝ දුප්පත් අපි බදු ගෙවන සල්ලි. මේවා දෙයියෝම බලාගන්න ඕනේ. .</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ෂිෆාස්</author>
+            <date>2012-11-28 11:30:56</date>
+            <index>92</index>
+            <phrase>ආසියාවේ ආශ්චර්යයත් රොකට් එකටම දාලා යැවුවාද දන්නෙ නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2012-11-28 11:55:09</date>
+            <index>93</index>
+            <phrase>මුලින්ම ඇවිදින්න වුණත් කාගේහරි උදවුවක් ඕනෑ. ඒ නිසා මේක ගැන මෙච්චර කෑගහන්න දෙයක් නැහැ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දිනේෂ්</author>
+            <date>2012-11-28 12:03:42</date>
+            <index>94</index>
+            <phrase>හුගදෙනෙක් දන්නෙ නැහැ මෙයින් අපේ රටට ගොඩක් වාසි තිබෙනවා කියලා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ග්‍රිෂාණි</author>
+            <date>2012-11-28 12:04:27</date>
+            <index>95</index>
+            <phrase>මේක ඇත්ත. චන්ද්‍රිකාවක් උඩගියා. ඒක ලංකාව උඩින් තියෙනවා. එකෙන් අපිට සල්ලි දිලා සේවය ගන්න පුලුවන්. නමුත් චන්ද්‍රිකාව අපිට අයිතිද කියන එක ගැටලුවක්. 2015 දි අපේම එකක් යවනවා කියනවානේ. එතකොට හිටියොත් සතුටුවෙමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>උදයංග</author>
+            <date>2012-11-28 13:01:39</date>
+            <index>96</index>
+            <phrase>ලංකාවේ වෙන අපරාධ දිහා බැලුවහම මටත් ඕකෙම එල්ලිලා යන්න තිබුණා නම් කියලා හිතෙනවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>චාමර</author>
+            <date>2012-11-28 13:08:27</date>
+            <index>97</index>
+            <phrase>එල..........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාලා</author>
+            <date>2012-11-28 13:25:24</date>
+            <index>98</index>
+            <phrase>සමහරුන්ගේ සිහිනයක්නේ මේක</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මාරසිංහ</author>
+            <date>2012-11-28 13:26:54</date>
+            <index>99</index>
+            <phrase>කවදා හරි සිංහ කොඩිය හදේ ගහනාවා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිරා</author>
+            <date>2012-11-28 14:30:05</date>
+            <index>100</index>
+            <phrase>ලංකාවේ මිනිස්සු කවදද හොඳ දේ හොඳයි කිව්වේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසින්ත</author>
+            <date>2012-11-28 14:39:32</date>
+            <index>101</index>
+            <phrase>යූනුස්, ඔයාගේ ළමයි ඉඩගින්නේ හිටියොත් ඒ ආණ්ඩුවේ වරද නෙමේ, ඔයාගේ වරද. හොඳ දෙයක් අගේ කරන්න පුරුදු වෙන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දුමින්ද</author>
+            <date>2012-11-28 15:23:58</date>
+            <index>102</index>
+            <phrase>මෙන්න මේ ගැන මඩ ප්‍රචාර දැන්මම පටන් අරගෙන</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අයෙෂ්</author>
+            <date>2012-11-28 15:50:17</date>
+            <index>103</index>
+            <phrase>මේ තාක්ෂනය මුලින්ම හොයාගත්තේ අපේ රාවනා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රාජා</author>
+            <date>2012-11-28 16:18:56</date>
+            <index>104</index>
+            <phrase>ඉපදුන ගමන් ඇවිද්දා කියලා අහලා තියෙනවද? ඒ වගේ හෙමින් හෙමින් ජය කණුව කරා යමු. අපි නොකරන හොද දෙයක් වෙන කෙනෙක් කළහම සතුට ප්‍රකාශ කරන්න, එහි අඩුපාඩු නොසොයා. ලංකාවේ අයට දියුණු වෙන්න බැරි ඔය කැත පුරුද්ද හන්දයි. තේරුම්ගන්න බලන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අජන්ත</author>
+            <date>2012-11-28 16:31:57</date>
+            <index>105</index>
+            <phrase>ඇත්තටම හොද වැඩක්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලංකාපුර</author>
+            <date>2012-11-28 21:23:13</date>
+            <index>106</index>
+            <phrase>අපට දැන් චන්ද්‍රිකාවක් තියෙනාව</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>කාසිම්</author>
+            <date>2012-11-28 22:55:11</date>
+            <index>107</index>
+            <phrase>ලෝකේ රටවල් එක්ක හැප්පෙන්න නම් අපිත් මෙවන් දේවල් කරන්න ඕනේ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>බණ්ඩාර</author>
+            <date>2012-11-29 09:48:17</date>
+            <index>108</index>
+            <phrase>සුභපතනවා මම ලංකාව මෙවන් දෙයක් කරයි කියලා හීනෙකින්වත් හිතුවේ නැහැ</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2012-11-29 15:02:15</date>
+            <index>109</index>
+            <phrase>සුභපැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2012-11-29 15:00:33</date>
+            <index>110</index>
+            <phrase>ආඩම්බරයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තරංග</author>
+            <date>2012-11-30 08:54:51</date>
+            <index>111</index>
+            <phrase>මේකට නාසා ආයතනය සම්බන්ධයිද ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2012-11-30 22:32:04</date>
+            <index>112</index>
+            <phrase>හරි අපි බලමුකෝ මොකද්ද මේකෙන් අනාගතයෙදි අපිට වෙන වාසිය කියලා</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>දමිත්</author>
+            <date>2012-12-01 11:42:22</date>
+            <index>113</index>
+            <phrase>සුබ පතනවා සාර්ථක වෙන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නියාම්ස්</author>
+            <date>2012-12-01 13:34:36</date>
+            <index>114</index>
+            <phrase>මගේ අදහස මේ සියල්ල හරියි කියාය</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2012-12-01 19:56:21</date>
+            <index>115</index>
+            <phrase>ලක් මෑණියනි, ඔබ පින්වන්තයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>නිශාන්ත</author>
+            <date>2012-12-01 22:59:45</date>
+            <index>116</index>
+            <phrase>කොහොමද කාටද ආඩම්බර</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මොහොමඩ්</author>
+            <date>2012-12-02 15:12:48</date>
+            <index>117</index>
+            <phrase>අපෙන් සුභම සුභ පැතුම්</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>රොහාන්</author>
+            <date>2012-12-03 14:13:36</date>
+            <index>118</index>
+            <phrase>රොකට් එක යැව්වේ වැඩිවෙන බඩුමිලට විසඳුමක් ලෙසයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>තුෂාර</author>
+            <date>2012-12-04 11:49:49</date>
+            <index>119</index>
+            <phrase>දැන් ඉතින් ඔක්කොම ඔලුව අල්ලන් ඉන්න ,,,,,,කොයි වෙලේ පාත් වෙයිද දන්නේ නෑ....නිදහසේ නිදාගෙනත් හමාරයි....</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

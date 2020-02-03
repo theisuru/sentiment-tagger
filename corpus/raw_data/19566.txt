@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>19566</articleId>
+    <title>දොස්තර සංගමය වැඩ වැරුමකට සැරැසේ</title>
+    <author>තිළිණි ද සිල්වා</author>
+    <date>2011 දෙසැම්බර් මස 27 18:28:49</date>
+    <body>මාලබේ පෞද්ගලික වෛද්‍ය විද්‍යාලය පිළිබඳ සොයා බැලීම සඳහා සෞඛ්‍ය අමාත්‍ය විසින් පත් කැරුණු විශේෂඥ කමිටු වාර්තාව ලබන 31 වැනි දාට පෙර ඉදිරිපත් නොකළහොත් යළි වර්ජනය කරන බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය අනතුරු අඟවයි. එම කමිටුව මාස  දෙකකින් ඉදිරිපත් කිරීමට ඇමැති පොරොන්දු වූ නමුත් දැන් තුන් මාසයක් ගතවී ඇතැයි සංගමයේ උපලේකම් වෛද්‍ය උපුල් ගුණසේකර මහතා කියයි.</body>
+    <comments>
+        <comment>
+            <author>ජේ. රණවීර</author>
+            <date>2011-12-28 03:23:40</date>
+            <index>0</index>
+            <phrase>වැඩ වර්ජන කරන දොස්තරලා ඉන්නේ ලංකාවේ පමණයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ලූෂන්</author>
+            <date>2011-12-28 09:44:30</date>
+            <index>1</index>
+            <phrase>මේ දොස්තරලගෙ වැඩේ හරිම නරකයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

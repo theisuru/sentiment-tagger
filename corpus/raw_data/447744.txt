@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>447744</articleId>
+    <title>ඉන්දීය නිදහස ලංකාවෙත් සැමරෙයි</title>
+    <author>රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2016 අගෝස්තු මස 15 11:18:13</date>
+    <body>ඉන්දීය ජනරජයේ 70 වැනි නිදහස් සැමරුම අදට යෙදී ඇත. මෙරට ඉන්දියා මහකොමසාරිස් වයි.කේ.සිංහා ගේ ප්‍රධානත්වයෙන් කොළඹ ඉන්දියා මහ කොමසාරිස් නිල නිවසේ දී ඒ වෙනුවෙන් සැමරුම් උත්සවයක් අද (15) පැවැත්විණි.
+ඉන්දීය ජාතික කොඩිය ඔසවා එරට ජාතික ගීය ගායනා කළ එහි සිටි පිරිස හමුවේ ඉන්දීය ජනපති ප්‍රනාබ් මුකර්ජිගේ නිදහස් දින පණිවිඩය ද ඉදිරිපත් කැරිණි.</body>
+    <comments>
+        <comment>
+            <author>නාරද</author>
+            <date>2016-08-15 06:13:47</date>
+            <index>0</index>
+            <phrase>අපිට අඩුවුණේ ඕක තමයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දු</author>
+            <date>2016-08-15 07:30:23</date>
+            <index>1</index>
+            <phrase>අනේ ඉතින් අපිටත් නිදහසක් කියා දෙයක් නැති නිසා එයාලගේ එකවත් සමරමු.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත් පතිරණ</author>
+            <date>2016-08-15 07:38:03</date>
+            <index>2</index>
+            <phrase>ජාතික ගීය සිංහලෙන්ද දන්නෙ නැහැ ගායනාකළේ?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>මහාදේව</author>
+            <date>2016-08-15 09:02:51</date>
+            <index>3</index>
+            <phrase>නෑ සම්පත් පතිරණ මහත්තයෝ, අපේ සිංහල ජාතිය තරම් නිවට, බටහිරට ආවඩන රටක් නෙවෙයි ඉන්දියාව.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

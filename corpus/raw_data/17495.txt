@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>17495</articleId>
+    <title>කූඩ එපා යැයි වැස්සේ පෙළපාළි</title>
+    <author>අජිත්ලාල් ශාන්තඋදය</author>
+    <date>2011 දෙසැම්බර් මස 14 13:30:44</date>
+    <body>ප්ලාස්ටික් කූඩා නීතියට එරෙහිව ඇඹිලිපිටියේ හා බලන්ගොඩදී අද විරෝධතා පෙළපාළි පැවැත්විණි. මහා වැස්සේ එළවළු ද විසි කරමින් පඹයකුද පුළුස්සමින් දහසක් පමණ ගොවීහු නගරයේ පෙළපාළි ගියහ.</body>
+    <comments>
+        <comment>
+            <author>කපිල</author>
+            <date>2011-12-14 14:32:33</date>
+            <index>0</index>
+            <phrase>ප්ලාස්ටික් කූඩ භාවිතා කිරීමෙන් ලැබෙන ප්‍රතිලාභ ගැන හිතන්න</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2011-12-14 14:44:18</date>
+            <index>1</index>
+            <phrase>ප්ලාස්ටික් කූඩ භාවිතයේ තියෙන දුෂ්කරතා ගැනත් හිතන්න.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ශා - කුවේට්</author>
+            <date>2011-12-14 16:56:45</date>
+            <index>2</index>
+            <phrase>ඕනම දේක වාසි අවාසි තියනවා.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2011-12-14 20:30:33</date>
+            <index>3</index>
+            <phrase>මිහින් ලංකා පාඩුවේ ගණනින් මුලු ලංකාවටම කූඩ දෙන්න තිබුණා...</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>m a a cader</author>
+            <date>2011-12-15 04:24:46</date>
+            <index>4</index>
+            <phrase>ගොවීන් සම්බන්ධ කරගෙන මෙම පැනයට විසදුම් සෙවීම හොදයි</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>kubiya</author>
+            <date>2011-12-15 10:52:46</date>
+            <index>5</index>
+            <phrase>ප්‍රසන්න කියන දේ හරි.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

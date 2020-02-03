@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>42768</articleId>
+    <title>නීතිපතිගෙන් මෝසමක්</title>
+    <author>තරිඳු ජයවර්ධන</author>
+    <date>2012 මැයි මස 17 19:03:09</date>
+    <body>අපොස උසස් පෙළ ඉෂෙඞ් ස්කෝර් කඩඉම් ලකුණු ක‍්‍රමය සම්බන්ධයෙන්  සුදුසු ක‍්‍රමවේදයක් සකසා ඉදිරිපත් කිරීම සඳහා විද්වත් කමිටුවක් පත් කරන ලෙසත්  දැනට විභාගවන  නඩුවට උසස් අධ්‍යාපන ඇමැති පාර්ශව කරුවකු කරන ලෙසත් ඉල්ලා නිතිපති ශිරානි බණ්ඩාරනායක අගවිනිසුරුවරිය හමුවේ මෝසමක් ගොනු කරමින් කියා සිටියි.
+2011  අපොස උසස් පෙළ විභාගයට පෙනී සිටි සිසුන් පිරිසක් විසින් ඉදිරිපත් කැරුණු මුලික අයිතිවාසිකම් පෙත්සමේ තීන්දුව දීමට පෙර ලිඛිත  කරුණු දක්වන ලෙස නියෝග කැර තිබියදී මේ මෝසම ඉදිරිපත් කරමින්  නීතිපති පවසනුයේ ඉසෙඞ් ස්කෝර් ලකුණු ක‍්‍රමය ක‍්‍රමවත් කරන ලෙස රටේ බොහෝ තැන්වලින් ජනපතිට උසස් අධ්‍යාපන ඇමැතිටත් කරුණු දක්වා ඇති බවයි.</body>
+    <comments>
+        <comment>
+            <author>රිස්වාන්- Saudi arabia</author>
+            <date>2012-05-17 20:13:12</date>
+            <index>0</index>
+            <phrase>කෝ කට ගහපු ඇමති?</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්ත ධම්මික</author>
+            <date>2012-05-17 23:28:11</date>
+            <index>1</index>
+            <phrase>ඔය ඔය ඉතින් ඒකටත් අර කිරිසප්පය ගාව ගන්නවනේ............</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>සිසිර</author>
+            <date>2012-05-18 12:30:10</date>
+            <index>2</index>
+            <phrase>කෝ මේ ඔක්කොම ප්‍රශ්න අපේ පොඩි..........................ඇමතිතුමා නිසානේ.</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+        <comment>
+            <author>අසංක</author>
+            <date>2012-05-18 15:16:45</date>
+            <index>3</index>
+            <phrase>ඔන්න ඔන්න හඟුරන්කෙත පැත්තෙන් තව මෝසමක් එනවෝ.........</phrase>
+            <sentiment>UNDEFINED</sentiment>
+        </comment>
+    </comments>
+</newsArticle>
