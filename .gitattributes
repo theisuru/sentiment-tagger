@@ -1,3 +1,0 @@
-corpus/analyzed/saved_models/word2vec_model_skipgram_300_10 filter=lfs diff=lfs merge=lfs -text
-corpus/analyzed/saved_models/word2vec_model_skipgram_300_10.trainables.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
-corpus/analyzed/saved_models/word2vec_model_skipgram_300_10.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text

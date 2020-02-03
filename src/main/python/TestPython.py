@@ -2,8 +2,11 @@ import numpy as np
 import pandas as pd
 from gensim.models import word2vec
 from sklearn.model_selection import train_test_split
+import string
 
 word2vec_model_name = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_300"
+comment_file = "../../../corpus/analyzed/comments_all.csv"
+comment_remove_punc_file = "../../../corpus/analyzed/comments_all_remove.csv"
 
 num_features = 300
 max_sentence_length = 100
@@ -14,7 +17,15 @@ numClasses = 2
 iterations = 30000
 
 def main():
-    convert_to_vectors()
+    # convert_to_vectors()
+    remove_punctuations()
+
+
+def remove_punctuations():
+    comments = pd.read_csv(comment_file, delimiter=';')
+    punc_remover = lambda x : str(x).translate(str.maketrans('', '', string.punctuation))
+    comments['comment'] = comments['comment'].apply(punc_remover)
+    comments.to_csv(comment_remove_punc_file, sep=';', index=False)
 
 
 def convert_to_vectors():

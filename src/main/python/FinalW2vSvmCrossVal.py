@@ -23,13 +23,14 @@ def main():
 
 def run_holdout():
     w2v_model_path = "../../../corpus/analyzed/saved_models/"
-    comments = pd.read_csv("../../../corpus/analyzed/comments_tagged_remove.csv", ";")
+    comments = pd.read_csv("../../../corpus/analyzed/comments_tagged.csv", ";")
     train_data, test_data = train_test_split(comments, test_size=0.4, random_state=0)
     print("Processing dataset: " + str(train_data.columns.values))
 
     print("Extracting features with W2V count vectorizer")
-    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
-    fit_models(vectorizer, train_data, test_data)
+    vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300_10", True)
+    # vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_from_unlabeled_comments_all_200", False)
+    fit_models(vectorizer, train_data["comment"], test_data["comment"], train_data["label"], test_data["label"])
 
     return
 
@@ -37,7 +38,7 @@ def run_holdout():
 def run_cross_val():
     all_predictions = []
     w2v_model_path = "../../../corpus/analyzed/saved_models/"
-    comments = pd.read_csv("../../../corpus/analyzed/comments_tagged_remove.csv", ";")
+    comments = pd.read_csv("../../../corpus/analyzed/comments_tagged_remove_all_punc.csv", ";")
     pretty_table = PrettyTable(["Algorithm", "Accuracy", "Precision", "Recall", "F1_Score"])
 
     i = 1
@@ -46,7 +47,8 @@ def run_cross_val():
     for train_index, test_index in kf.split(comments):
         train_data_comments, test_data_comments = comments["comment"][train_index], comments["comment"][test_index]
         train_data_labels, test_data_labels = comments["label"][train_index], comments["label"][test_index]
-        vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
+        # vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_300", False)
+        vectorizer = W2VVectorizer.W2VVectorizer(w2v_model_path + "word2vec_model_skipgram_remove300_10", False)
         predictions = fit_models(vectorizer, train_data_comments, test_data_comments, train_data_labels, test_data_labels)
         all_predictions = all_predictions + predictions.tolist()
 
@@ -112,3 +114,47 @@ main()
 # svm w2v cross val
 # [[2349  171]
 #  [ 496 1994]]
+
+
+
+
+# cbow 200 10 word count
+# [908  97 211 788]
+# [[908  97]
+#  [211 788]]
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# | Algorithm |      Accuracy     |     Precision      |       Recall       |      F1_Score      |
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# |    SVM    | 0.846307385229541 | 0.8903954802259887 | 0.7887887887887888 | 0.8365180467091295 |
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# |    SVM    | 0.8398203592814372 | 0.8834841628959276 | 0.7817817817817818 | 0.8295273499734466 | tf-idf
+
+# cbow 300 10 word count
+# [899 106 202 797]
+# [[899 106]
+#  [202 797]]
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# | Algorithm |      Accuracy     |     Precision      |       Recall       |      F1_Score      |
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# |    SVM    | 0.846307385229541 | 0.8826135105204873 | 0.7977977977977978 | 0.8380651945320715 |
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# |    SVM    | 0.8383233532934131 | 0.8704720087815587 | 0.7937937937937938 | 0.8303664921465969 | tf-idf
+
+# cbow 400 10 word count
+# +-----------+-------------------+-------------------+--------------------+--------------------+
+# | Algorithm |      Accuracy     |     Precision     |       Recall       |      F1_Score      |
+# +-----------+-------------------+-------------------+--------------------+--------------------+
+# |    SVM    | 0.841816367265469 | 0.884009009009009 | 0.7857857857857858 | 0.8320084790673027 |
+# +-----------+-------------------+-------------------+--------------------+--------------------+
+# |    SVM    | 0.8383233532934131 | 0.8770949720670391 | 0.7857857857857858 | 0.828933474128828 | tf-idf
+
+# cbow 1000 10 word count
+# [904 101 213 786]
+# [[904 101]
+#  [213 786]]
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# | Algorithm |      Accuracy     |     Precision      |       Recall       |      F1_Score      |
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# |    SVM    | 0.843313373253493 | 0.8861330326944757 | 0.7867867867867868 | 0.8335100742311771 |
+# +-----------+-------------------+--------------------+--------------------+--------------------+
+# |    SVM    | 0.8378243512974052 | 0.8711453744493393 | 0.7917917917917918 | 0.8295752490823284 | tf-idf

@@ -53,9 +53,10 @@ def plot_articles():
     plt.bar(comment_count["noOfComments"], comment_count["articleCount"])
 
     plt.axis([0, 100, 0, 2000])
+    plt.tick_params(axis='both', which='major', labelsize=16)
     # plt.text(22, 1800, 'article distribution with # of comments')
-    plt.xlabel("Number of comments")
-    plt.ylabel("Number of articles")
+    plt.xlabel("Number of comments", fontsize=20)
+    plt.ylabel("Number of articles", fontsize=20)
     plt.tight_layout()
     plt.savefig(article_fig, format="png")
     plt.show()
@@ -65,12 +66,13 @@ def plot_dates():
     comment_dates = pd.read_csv(commentDatesFile)
     # sns.set_style("whitegrid")
     plt.figure(figsize=(16, 8))
+    plt.tick_params(axis='both', which='major', labelsize=16)
     x = [dt.datetime.strptime(d,'%Y-%m-%d').date() for d in comment_dates["commentDate"]]
     y = comment_dates["commentCount"]
     # plt.text(dt.datetime.strptime('2013-03-06','%Y-%m-%d').date(), 750, 'article distribution with date')
     plt.bar(x,y)
-    plt.xlabel("Year")
-    plt.ylabel("Number of comments")
+    plt.xlabel("Year", fontsize=20)
+    plt.ylabel("Number of comments", fontsize=20)
     plt.tight_layout()
     plt.savefig(date_fig, format="png")
     plt.show()

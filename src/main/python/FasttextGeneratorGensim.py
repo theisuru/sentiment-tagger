@@ -11,13 +11,13 @@ import fasttext
 
 trainData = pd.read_csv("../../../corpus/analyzed/train.csv", ";", quoting=3)
 testData = pd.read_csv("../../../corpus/analyzed/test.csv", ";", quoting=3)
-unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all.csv", header=0, delimiter=";", quoting=3)
+unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all_remove.csv", header=0, delimiter=";", quoting=3)
 print("Read %d labeled train reviews, %d labeled test reviews, %d un-labeled reviews\n" %
       (trainData["comment"].size, testData["comment"].size, unlabeledData["comment"].size))
 
 num_features = 300
 context = 10
-fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_" \
+fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_remove_" \
                  + str(num_features) + "_" + str(context)
 
 
