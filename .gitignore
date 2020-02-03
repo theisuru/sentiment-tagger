@@ -18,8 +18,6 @@ sentiment_analysis_for_Sinhala___TALLIP.pdf
 SentimentAnalysisofSinhalaNewsComments.odt
 result_interpretation.txt
 results.txt
-run.bat
-run.sh
 src/main/python/fasttext/
 src/main/python/resources/
 src/main/python/vectors/
