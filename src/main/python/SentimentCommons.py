@@ -64,62 +64,6 @@ def fit_models(vectorizer, train_data, test_data, multi_class=False):
     return
 
 
-def fit_models_ablation(vectorizer_1, vectorizer_2 , train_data, test_data, multi_class=False):
-    pretty_table = PrettyTable(["Algorithm", "Accuracy", "Precision", "Recall", "F1_Score"])
-
-    vectorized_train_comments_1 = vectorizer_1.fit_transform(train_data["comment"]).toarray()
-    vectorized_train_comments_2 = vectorizer_2.fit_transform(train_data["comment"])
-    vectorized_train_comments = np.concatenate((vectorized_train_comments_1, vectorized_train_comments_2), axis=1)
-
-    vectorized_test_comments_1 = vectorizer_1.transform(test_data["comment"]).toarray()
-    vectorized_test_comments_2 = vectorizer_2.transform(test_data["comment"])
-    vectorized_test_comments = np.concatenate((vectorized_test_comments_1, vectorized_test_comments_2), axis=1)
-
-    # Logistic Regression model
-    model = LogisticRegression(solver='liblinear')
-    # model = LogisticRegression(solver='lbfgs')
-    model = model.fit(vectorized_train_comments, train_data["label"])
-    predictions = model.predict(vectorized_test_comments)
-    evaluation_metrics(test_data["label"], predictions, pretty_table, "Logistic Regression", multi_class)
-    print_confusion_matrix(test_data["label"], predictions)
-
-    # Decision Tree  model
-    model = DecisionTreeClassifier()
-    model = model.fit(vectorized_train_comments, train_data["label"])
-    predictions = model.predict(vectorized_test_comments)
-    evaluation_metrics(test_data["label"], predictions, pretty_table, "Decision Tree", multi_class)
-
-    if isinstance(vectorized_train_comments, csr_matrix):
-        vectorized_train_comments_dense = vectorized_train_comments.toarray()
-        vectorized_test_comments_dense = vectorized_test_comments.toarray()
-    else:
-        vectorized_train_comments_dense = vectorized_train_comments
-        vectorized_test_comments_dense = vectorized_test_comments
-
-    # Naive Bayes  model
-    model = GaussianNB()
-    model = model.fit(vectorized_train_comments_dense, train_data["label"])
-    predictions = model.predict(vectorized_test_comments_dense)
-    evaluation_metrics(test_data["label"], predictions, pretty_table, "Naive Bayes", multi_class)
-
-    # Support Vector Machine  model
-    # model = SVC(probability=True, kernel='rbf')
-    model = SVC(C=1, kernel='linear')
-    model = model.fit(vectorized_train_comments, train_data["label"])
-    predictions = model.predict(vectorized_test_comments)
-    evaluation_metrics(test_data["label"], predictions, pretty_table, "SVM", multi_class)
-
-    # Random forest model
-    model = RandomForestClassifier(n_estimators=100)
-    model = model.fit(vectorized_train_comments, train_data["label"])
-    predictions = model.predict(vectorized_test_comments)
-    evaluation_metrics(test_data["label"], predictions, pretty_table, "Random Forest", multi_class)
-
-    print(pretty_table)
-    print("")
-    return
-
-
 def evaluation_metrics(true_sentiment, predicted_sentiment, pretty_table, algorithm, multi_class):
     label_binarizer = preprocessing.LabelBinarizer()
     if multi_class:

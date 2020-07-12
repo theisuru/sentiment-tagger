@@ -25,20 +25,26 @@ public class KappaCalculator {
     private static final String NEW_LINE = "\n";
     private StringBuilder aggregateComments = new StringBuilder().append("docid;comment;label\n");
 
-    private static List<String> fileNames = Arrays.asList(/*"101446.txt",*/ /*"102878.txt",*/ /*"102999.txt",*/
-            "103166.txt", "103261.txt"/*, "103346.txt"*/, "103448.txt");
+    private static List<String> fileNames = Arrays.asList(
+            "44969.txt", "44974.txt", "44992.txt", "45272.txt", "45483.txt", "45871.txt",
+            "100204.txt", "100475.txt", "101559.txt", "101944.txt", "102756.txt", "103990.txt",
+            "105789.txt", "105812.txt", "107019.txt", "107342.txt", "107507.txt", "108192.txt",
+            "108684.txt", "113922.txt", "114780.txt", "115652.txt", "118450.txt", "121120.txt",
+            "122150.txt", "122704.txt", "123076.txt", "124564.txt", "124680.txt", "125388.txt"
+    );
 
     List<String> commentEntryList = new ArrayList<>();
 
     private static int positivePositive = 0;
     private static int positiveNegative = 0;
-    private static int positiveOther = 0;
+    private static int positiveNeutral = 0;
     private static int negativePositive = 0;
     private static int negativeNegative = 0;
-    private static int negativeOther = 0;
-    private static int otherPositive = 0;
-    private static int otherNegative = 0;
-    private static int otherOther = 0;
+    private static int negativeNeutral = 0;
+    private static int neutralPositive = 0;
+    private static int neutralNegative = 0;
+    private static int neutralNeutral = 0;
+    private static int other = 0;
 
     public static void main(String[] args) {
         String folder1String = "./corpus/kappa/1/";
@@ -57,28 +63,32 @@ public class KappaCalculator {
 
         System.out.println("positivePositive = " + positivePositive);
         System.out.println("positiveNegative = " + positiveNegative);
-        System.out.println("positiveOther = " + positiveOther);
+        System.out.println("positiveNeutral = " + positiveNeutral);
         System.out.println("negativePositive = " + negativePositive);
         System.out.println("negativeNegative = " + negativeNegative);
-        System.out.println("negativeOther = " + negativeOther);
-        System.out.println("otherPositive = " + otherPositive);
-        System.out.println("otherNegative = " + otherNegative);
-        System.out.println("otherOther = " + otherOther);
+        System.out.println("negativeNeutral = " + negativeNeutral);
+        System.out.println("neutralPositive = " + neutralPositive);
+        System.out.println("neutralNegative = " + neutralNegative);
+        System.out.println("neutralNeutral = " + neutralNeutral);
+        System.out.println("other = " + other);
 
-        int agree = positivePositive + negativeNegative + otherOther;
-        int all = positivePositive + positiveNegative + positiveOther +
-                negativePositive + negativeNegative + negativeOther +
-                otherPositive + otherNegative + otherOther;
+        int agree = positivePositive + negativeNegative + neutralNeutral;
+        int all = positivePositive + positiveNegative + positiveNeutral +
+                negativePositive + negativeNegative + negativeNeutral +
+                neutralPositive + neutralNegative + neutralNeutral +
+                other;
 
-        int rater1Positive = positivePositive + positiveNegative + positiveOther;
-        int rater1Negative = negativePositive + negativeNegative + negativeOther;
-        int rater1Other = otherPositive + otherNegative + otherOther;
-        int rater2Positive = positivePositive + negativePositive + otherPositive;
-        int rater2Negative = positiveNegative + negativeNegative + otherNegative;
-        int rater2Other = positiveOther + negativeOther +otherOther;
+        int rater1Positive = positivePositive + positiveNegative + positiveNeutral;
+        int rater1Negative = negativePositive + negativeNegative + negativeNeutral;
+        int rater1Neutral = neutralPositive + neutralNegative + neutralNeutral;
+        int rater2Positive = positivePositive + negativePositive + neutralPositive;
+        int rater2Negative = positiveNegative + negativeNegative + neutralNegative;
+        int rater2Neutral = positiveNeutral + negativeNeutral + neutralNeutral;
+
 
         double po = agree * 1.0 / all;
-        double pe = 1.0 / all /all * (rater1Positive * rater2Positive + rater1Negative * rater2Negative + rater1Other * rater2Other);
+//        double pe = 1.0 / all /all * (rater1Positive * rater2Positive + rater1Negative * rater2Negative + rater1Other * rater2Other);
+        double pe = 1.0 / all /all * (rater1Positive * rater2Positive + rater1Negative * rater2Negative + rater1Neutral * rater2Neutral);
         double kappa = (po - pe) * 1.0 / (1 - pe);
 
         System.out.println("Total comments =  " + all);
@@ -105,25 +115,33 @@ public class KappaCalculator {
                         positivePositive++;
                     } else if (comment2.getSentiment().equals(Sentiment.NEGATIVE)) {
                         positiveNegative++;
+                    }  else if (comment2.getSentiment().equals(Sentiment.NEUTRAL)) {
+                        positiveNeutral++;
                     } else {
-                        positiveOther++;
+                        other++;
                     }
                 } else if (comment1.getSentiment().equals(Sentiment.NEGATIVE)) {
                     if (comment2.getSentiment().equals(Sentiment.POSITIVE)) {
                         negativePositive++;
                     } else if (comment2.getSentiment().equals(Sentiment.NEGATIVE)) {
                         negativeNegative++;
+                    }  else if (comment2.getSentiment().equals(Sentiment.NEUTRAL)) {
+                        negativeNeutral++;
                     } else {
-                        negativeOther++;
+                        other++;
+                    }
+                } else if (comment1.getSentiment().equals(Sentiment.NEUTRAL)) {
+                    if (comment2.getSentiment().equals(Sentiment.POSITIVE)) {
+                        neutralPositive++;
+                    } else if (comment2.getSentiment().equals(Sentiment.NEGATIVE)) {
+                        neutralNegative++;
+                    }  else if (comment2.getSentiment().equals(Sentiment.NEUTRAL)) {
+                        neutralNeutral++;
+                    } else {
+                        other++;
                     }
                 } else {
-                    if (comment2.getSentiment().equals(Sentiment.POSITIVE)) {
-                        otherPositive++;
-                    } else if (comment2.getSentiment().equals(Sentiment.NEGATIVE)) {
-                        otherNegative++;
-                    } else {
-                        otherOther++;
-                    }
+                    other++;
                 }
 
                 String commentEntry = newsArticle1.getArticleId() + "_"
@@ -131,6 +149,7 @@ public class KappaCalculator {
                 commentEntryList.add(commentEntry);
             }
         } catch (Exception e) {
+            e.printStackTrace();
             System.out.println("Failed to JAXB");
         }
 
@@ -146,33 +165,20 @@ public class KappaCalculator {
             e.printStackTrace();
         }
     }
-
-    /*public static void main(String[] args) {
-        String s = "මේවා ආණ්ඩුවේ වැරදි නොව  නිලධාරීන්ගේ නොහොබිනා වැඩ  මෙවන් " +
-                "නිලධාරීන් සෑම  කාර්ය්\u200Dයාලයකම ඉන්නවා මොවුන්  අතයටින් මුදල්  දෙනතුරු මේවායේ වැඩ නොකෙරෙයි";
-
-        String s1 = s.replaceAll("  ", " ");
-
-        StringBuilder s2 = new StringBuilder();
-        s2.append(s.replace(".", " ")
-                .replace(",", " ")
-                .replace(":", " ")
-                .replace("!", " ")
-                .replace(";", " ")
-                .replace("\"", " ")
-                .replace("'", " ")
-                .replaceAll("  ", " ")
-                .replaceAll("  ", " ")
-                .replaceAll("\\s+", " "));
-
-        String s3 = s.replace("\u00A0", " ");
-
-        String s4 = s.replaceAll("(\\h+)"," ");
-
-        System.out.println(s);
-        System.out.println(s1);
-        System.out.println(s2.toString());
-        System.out.println(s3);
-        System.out.println(s4);
-    }*/
 }
+
+
+//positivePositive = 165
+//positiveNegative = 4
+//positiveNeutral = 46
+//negativePositive = 19
+//negativeNegative = 488
+//negativeNeutral = 83
+//neutralPositive = 13
+//neutralNegative = 23
+//neutralNeutral = 138
+//other = 1
+//Total comments =  980
+//Po = 0.8071428571428572, Pe = 0.4088536026655561
+//Agreement percentage = 0.8071428571428572
+//kappa = 0.673757391186412

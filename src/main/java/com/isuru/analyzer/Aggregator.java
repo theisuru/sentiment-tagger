@@ -96,7 +96,7 @@ public class Aggregator {
     }
 
     private void writeToFiles() {
-        String commentFile = "./corpus/analyzed/comments.csv";
+        String commentFile = "./corpus/analyzed/comments_remove_everything.csv";
         String newsFile = "./corpus/analyzed/news.csv";
 
         try (FileWriter fileWriter = new FileWriter(newsFile)) {

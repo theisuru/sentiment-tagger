@@ -14,7 +14,7 @@ class W2VVectorizer:
         self.max_idf_score = 1
         self.tfidf = tfidf
 
-    def fit_transform(self, train_documents):
+    def fit_transform(self, train_documents, y=0):
         if self.tfidf:
             self.idf_dict, self.max_idf_score = self.calculate_idf(train_documents)
         clean_train_comments = []
@@ -22,7 +22,7 @@ class W2VVectorizer:
             clean_train_comments.append(comment.split())
         return self.get_avg_feature_vectors(clean_train_comments)
 
-    def transform(self, test_documents):
+    def transform(self, test_documents, y=0):
         clean_test_comments = []
         for comment in test_documents:
             clean_test_comments.append(comment.split())

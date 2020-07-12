@@ -1,18 +1,18 @@
 # coding: utf-8
+import string
 
 import pandas as pd
 from gensim.models import word2vec
 
-trainData = pd.read_csv("../../../corpus/analyzed/train.csv", ";", quoting=3)
-testData = pd.read_csv("../../../corpus/analyzed/test.csv", ";", quoting=3)
-unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all_remove.csv", header=0, delimiter=";", quoting=3)
-print("Read %d labeled train reviews, %d labeled test reviews, %d un-labeled reviews\n" %
-      (trainData["comment"].size, testData["comment"].size, unlabeledData["comment"].size))
+unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all.csv", header=0, delimiter=";", quoting=3)
+print("Read %d un-labeled reviews\n" % (unlabeledData["comment"].size))
 
 num_features = 300
 context = 10
-word2vec_model = "../../../corpus/analyzed/saved_models/word2vec_model_skipgram_remove" \
-                 + str(num_features) + "_" + str(context)
+model = "skipgram"  # cbow, skipgram
+remove_punctuations = False
+word2vec_model = "../../../corpus/analyzed/saved_models/word2vec_" \
+                 + model + "_" + str(remove_punctuations).lower() + "_" + str(num_features) + "_" + str(context)
 
 
 def main():
@@ -21,20 +21,24 @@ def main():
 
 
 def generate_word2vec_model():
+    if remove_punctuations:
+        punc_remover = lambda x: str(x).translate(str.maketrans('', '', string.punctuation))
+        unlabeledData['comment'] = unlabeledData['comment'].apply(punc_remover)
+
     comments = []
     for comment in unlabeledData["comment"]:
         comments += to_separate_sentences(comment)
 
     print("# of comments taken for building the model: " + str(len(comments)))
 
-    # num_features = 1000  # Word vector dimensionality1
+    # num_features = 1000  # Word vector dimensionality
     # context = 10  # Context window size
     downsampling = 1e-3  # Downsample setting for frequent words
     min_word_count = 1  # Minimum word count - if not occurred this much remove
     num_workers = 4  # Number of threads to run in parallel
 
     model = word2vec.Word2Vec(comments, workers=num_workers, size=num_features, min_count=min_word_count,
-                              window=context, sample=downsampling, sg=1)
+                              window=context, sample=downsampling, sg=0)
     model.init_sims(replace=True)  # If you don't plan to train the model any further
     model.save(word2vec_model)
 

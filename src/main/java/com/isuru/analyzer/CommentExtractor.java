@@ -3,6 +3,7 @@ package com.isuru.analyzer;
 import com.isuru.bean.Comment;
 import com.isuru.bean.NewsArticle;
 import com.isuru.bean.Sentiment;
+import org.apache.poi.poifs.filesystem.NPOIFSStream;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -22,6 +23,10 @@ public class CommentExtractor {
     private static final String NEW_LINE = "\n";
     private StringBuilder aggregateComments = new StringBuilder().append("docid;comment;label\n");
 
+    private static int positive = 0;
+    private static int negative = 0;
+    private static int neutral = 0;
+
     public static void main(String[] args) {
         File folder = new File("./corpus/tagged");
         File[] listOfFiles = folder.listFiles();
@@ -37,6 +42,9 @@ public class CommentExtractor {
             }
         }
         logger.info("Finished processing, writing to file comments_tagged.csv, #comments = " + totalCommentsAdded);
+        logger.info("POSITIVE: " + positive);
+        logger.info("NEGATIVE: " + negative);
+        logger.info("NEUTRAL: " + neutral);
         extractor.writeToFiles();
     }
 
@@ -51,7 +59,8 @@ public class CommentExtractor {
 
             for (Comment comment : newsArticle.getComments()) {
                 if (comment.getSentiment().equals(Sentiment.POSITIVE) ||
-                        comment.getSentiment().equals(Sentiment.NEGATIVE)) {
+                        comment.getSentiment().equals(Sentiment.NEGATIVE) ||
+                                comment.getSentiment().equals(Sentiment.NEUTRAL)) {
                     usefulComments++;
                     aggregateComments
                             .append(fileName)
@@ -59,7 +68,7 @@ public class CommentExtractor {
                             .append(comment.getPhrase()
                                     .replace(SEPARATOR, ",")
                                     .replace(NEW_LINE, ". ")
-//                                    .replaceAll("[\\s*(\\p{Punct})+\\s*]", " ")
+                                    .replaceAll("[\\s*(\\p{Punct})+\\s*]", " ")
                                     .replace(".", " ")
                                     .replace(",", " ")
                                     .replace(":", " ")
@@ -74,14 +83,24 @@ public class CommentExtractor {
                                     .replace("/", " ")
                                     .replace("\"", " ")
                                     .replace("'", " ")
+                                    .replace("'", " ")
                                     .replaceAll("(\\h+)"," ")
                                     .replaceAll("\\s+", " ")
+                                    .replaceAll("\\d+", " ")
                                     .trim())
                             .append(SEPARATOR)
                             .append(comment.getSentiment().toString())
                             .append(NEW_LINE);
                 } else {
                     uselessComments++;
+                }
+
+                if(comment.getSentiment().equals(Sentiment.POSITIVE)) {
+                    positive++;
+                } else if(comment.getSentiment().equals(Sentiment.NEGATIVE)) {
+                    negative++;
+                } else if(comment.getSentiment().equals(Sentiment.NEUTRAL)) {
+                    neutral++;
                 }
             }
         } catch (JAXBException e) {
@@ -93,7 +112,7 @@ public class CommentExtractor {
     }
 
     private void writeToFiles() {
-        String commentFile = "./corpus/analyzed/comments_tagged_remove_all_punc_keep_question.csv";
+        String commentFile = "./corpus/analyzed/comments_tagged_multi.csv";
 
         try (FileWriter fileWriter = new FileWriter(commentFile)) {
             fileWriter.write(aggregateComments.toString());

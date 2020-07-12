@@ -3,18 +3,12 @@
 import time
 
 import pandas as pd
-import numpy as np
-from prettytable import PrettyTable
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split, cross_val_predict
-from sklearn.pipeline import make_pipeline
-from sklearn.svm import SVC
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
 
+import AblationVectorizer
 import SentimentCommons as Commons
 import W2VVectorizer
-import D2VVectorizer
-import AblationVectorizer
 
 
 def main():
@@ -36,19 +30,6 @@ def run_holdout(comments, multi_class):
 
     train_data, test_data = train_test_split(comments, test_size=0.4, random_state=0)
     print("Processing dataset: " + str(train_data.columns.values))
-
-    # print("Extracting features with tfidf vectorizer")
-    # vectorizer = TfidfVectorizer(analyzer="word", tokenizer=lambda text: text.split())
-    # Commons.fit_models(vectorizer, train_data, test_data, multi_class)
-    #
-    # print("Extracting features with FastText count vectorizer")
-    # vectorizer = W2VVectorizer.W2VVectorizer(fasttext_model_name, False)
-    # Commons.fit_models(vectorizer, train_data, test_data, multi_class)
-    #
-    # print("Extracting features with tfidf + FastText count for ablation study")
-    # vectorizer_tfidf = TfidfVectorizer(analyzer="word", tokenizer=lambda text: text.split())
-    # vectorizer_w2vec = W2VVectorizer.W2VVectorizer(fasttext_model_name, False)
-    # Commons.fit_models_ablation(vectorizer_tfidf, vectorizer_w2vec, train_data, test_data, multi_class)
 
     print("Extracting features with tfidf + FastText count for ablation study")
     vectorizer_tfidf = TfidfVectorizer(analyzer="word", tokenizer=lambda text: text.split())

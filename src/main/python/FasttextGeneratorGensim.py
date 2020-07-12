@@ -1,24 +1,22 @@
 # encoding: utf-8
 
 import pandas as pd
-from gensim.models import word2vec
 from gensim.models.fasttext import FastText
-import fasttext
 
 # import sys
 # reload(sys)
 # sys.setdefaultencoding('utf8')
 
-trainData = pd.read_csv("../../../corpus/analyzed/train.csv", ";", quoting=3)
-testData = pd.read_csv("../../../corpus/analyzed/test.csv", ";", quoting=3)
-unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all_remove.csv", header=0, delimiter=";", quoting=3)
-print("Read %d labeled train reviews, %d labeled test reviews, %d un-labeled reviews\n" %
-      (trainData["comment"].size, testData["comment"].size, unlabeledData["comment"].size))
+
+# unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all_remove.csv", header=0, delimiter=";", quoting=3)
+unlabeledData = pd.read_csv("../../../corpus/analyzed/comments_all_everything.csv", header=0, delimiter=";", quoting=3)
+print("Read %d un-labeled reviews\n" % (unlabeledData["comment"].size))
 
 num_features = 300
 context = 10
-fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_remove_" \
-                 + str(num_features) + "_" + str(context)
+# fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_remove_" + str(num_features) + "_" + str(context)
+fasttext_model = "../../../corpus/analyzed/saved_models/x"
+
 
 
 def main():
@@ -44,7 +42,7 @@ def generate_model():
     num_workers = 4  # Number of threads to run in parallel
 
     model = FastText(comments, workers=num_workers, size=num_features, min_count=min_word_count,
-                              window=context, sample=downsampling, sg=1, iter=50)
+                     window=context, sample=downsampling, sg=1, iter=50)
     # model.init_sims(replace=True)  # If you don't plan to train the model any further
     model.save(fasttext_model)
 
@@ -65,5 +63,6 @@ def to_separate_sentences(comment):
 def check_model_qulity(model, word):
     for s in model.most_similar(word):
         print(s[0])
+
 
 main()

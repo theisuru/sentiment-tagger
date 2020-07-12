@@ -9,16 +9,17 @@ import fasttext
 
 num_features = 300
 context = 10
-fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_removed_" \
-                 + str(num_features) + "_" + str(context)
+fasttext_model = "../../../corpus/analyzed/saved_models/fasttext_model_skipgram_remove_" + str(num_features) + "_" + str(context)
 
 
 def main():
     pretty_table = PrettyTable()
 
-    model = load_gensim_fastext()
-    # model = load_homemade_fasttext()
+    # model = load_gensim_fastext()
+    model = load_homemade_fasttext()
     # model = load_pretrained_fasttext()
+    # model = load_w2v()
+
     add_to_table(model, 'නැහැ', pretty_table)
     add_to_table(model, 'ඔබට', pretty_table)
     add_to_table(model, 'වේවා', pretty_table)
@@ -29,12 +30,19 @@ def main():
     return
 
 
+def load_w2v():
+    return word2vec.Word2Vec.load("../../../corpus/analyzed/saved_models/word2vec_model_skipgram_remove300_10")
+
+
 def load_gensim_fastext():
-    return word2vec.Word2Vec.load(fasttext_model)
+    return word2vec.Word2Vec.load("../../../corpus/analyzed/saved_models/x")
+    # return word2vec.Word2Vec.load(fasttext_model)
 
 
 def load_homemade_fasttext():
-    return FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/fasttext_model_skipgram_300.bin")
+    # return FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/fasttext_model_skipgram_300.bin")
+    # return FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/fasttext_model_skipgram_remove300_5.bin")
+    return FastText.load_fasttext_format("../../../corpus/analyzed/saved_models/xxx.bin")
 
 
 def load_pretrained_fasttext():
