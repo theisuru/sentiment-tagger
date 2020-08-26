@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>101559</articleId>
+    <title>සිඟමන් ඉල්ලා ආ කත රුපියල් පන්සීයක් දී සුවඳ විලවුන් අරන්</title>
+    <author>කරුවලගස්වැව ජයන්ත වික‍්‍රමාරච්චි</author>
+    <date>2013 මාර්තු මස 08 09:31:36</date>
+    <body>සිඟමන් ඉල්ලා වෙළඳසලකට ගොඩවැදුණු කාන්තාවන් දෙදෙනකු පසුව එම වෙළෙඳසලෙන්ම ශීතකළ බීම බෝතලයක් සහ වටිනා සුවඳ විලවුන් බෝතලයක් මිලදී ගැනීමේ පුවතක් පසුගියදා සාලියවැව නගරයෙන් වාර්තා විය. වෙළෙඳසලේ අයිතිකරු කී ආකාරයට මෙම කාන්තාවන් දෙදෙනාගෙන් එක් තැනැත්තියක මැදිවියේ පසුවන බවත් අනිත් තැනැත්තිය තරුණ වයසේ පසුවන බවත් පැවසෙන අතර, මොවුන් දෙදෙනා මව සහ දියණිය විය හැකි බවද පැවසේ. වෙළෙඳසලට ගොඩවූ මෙම දෙදෙනාගෙන් මැදිවියේ තැනැත්තිය එම වෙළෙඳසලේ අයිතිකරු අමතා තමන්ට ආධාරයක් කරන්නැයි ඉල්ලා ඇත. එහිදී එම කාන්තාවන් දෙදෙනාගේ හැසිරීම් රටාව ගැන විමසිලිමත්වූ වෙළෙඳසල් හිමියා ඔවුන්ට ආධාර දීම ප‍්‍රතික්ෂේප කොට ඇත. ඒ සමඟ මද වේලාවක් ඒ මේ අත බැලූ කාන්තාව ”එහෙනම් මුදලාලි අපිට කූල් බීම බෝතලයකුයි අර සෝකේස් එකේ තියෙන සෙන්ට් බෝතලයයි දෙන්න” යැයි කියා රුපියල් පන්සියයක මුදල් නෝට්ටුවක් දික්කර ඇත. ඒ අනුව ක‍්‍රියාත්මක වූ මුදලාලි රුපියල් තුන්සිය ගණනක් වටිනා එකී සුවඳ විලවුන් බෝතලයත්, ශීතකළ බීම බෝතලයත් කාන්තාවට දී ඊට ඇය ලබාදුන් රුපියල් පන්සියයේ නෝට්ටුවෙන් නියමිත ගාස්තුව ලබාගෙන ඇත.</body>
+    <comments>
+        <comment>
+            <author>චාමිනී</author>
+            <date>2013-03-08 10:11:12</date>
+            <index>0</index>
+            <phrase>හිඟන්නන්ට මුදල් දීලා අපි හාඟන්නු වෙන එක විතරයි වෙන්නේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-08 10:54:53</date>
+            <index>1</index>
+            <phrase>අපි කෙනෙකුට යමක් දෙන්නේ යහපත් චේතනාවෙන්. ඉන් යහපත් යමක් කිරීම ලබන්නාගේ වගකීමයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රාජු</author>
+            <date>2013-03-08 11:25:56</date>
+            <index>2</index>
+            <phrase>නියමයි , ලෝබ මුදලාලිට හිඟන්නගෙන් පාඩමක්. තමන් හිඟමනේ ගියාට ලෝබ නෑ කියලා නොකියා ගියා</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-03-08 11:45:52</date>
+            <index>3</index>
+            <phrase>අදකාලේ හිගන්නා දුගියෙක් නොවේ. වාහන බැංකු ගිණුම සැප ගෙවල් තියන මුදල් පොලියට දෙන හොඳ දක්ෂ ව්‍යාපාරික කෙනෙකි. මුදල් දෙන මැදපන්තියේ මිනිස්සු හැබෑ හිගන්නෝය. හින්ගන්නන්ගෙන් බදු මුදලක් ගැනීම ළඟදීම සිදුවනු ඇත.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-03-08 13:09:40</date>
+            <index>4</index>
+            <phrase>ඒ අය නෙමෙයි හිගන්නෝ. දැන් මාසේ පඩියට රස්සාව කරන අපියි හිගන්නෝ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුජීව</author>
+            <date>2013-03-08 14:49:47</date>
+            <index>5</index>
+            <phrase>ඉතින් මොකද? හිගන්නෝ කියලා එයාලට ආසාවල් නැද්ද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිලන්ත</author>
+            <date>2013-03-08 14:55:19</date>
+            <index>6</index>
+            <phrase>තව ටික කාලෙකින් අපිට හිඟාන්නන්ගෙන් සල්ලි අපිට ඉල්ල ගන්න වෙයි වගේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චින්තක</author>
+            <date>2013-03-08 15:03:51</date>
+            <index>7</index>
+            <phrase>හිඟාකෑමත් හොඳ රස්සාවක් වෙලා</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අනුර</author>
+            <date>2013-03-08 15:58:41</date>
+            <index>8</index>
+            <phrase>හිඟන්නු කියන්නේ සල්ලිකාරයෝ , අපේ මෝඩ මිනිස්සු සල්ලි දෙන එක තමයි වැරදි</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සෑම්</author>
+            <date>2013-03-08 17:00:40</date>
+            <index>9</index>
+            <phrase>හිගාකන එක එයාගෙ රස්සාව. සෙන්ට් නෙමෙයි ඕනෑ දෙයක් ගාන්න එයාලටත් අයිතිය තිබෙනවා.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිල්මිණි</author>
+            <date>2013-03-08 17:53:02</date>
+            <index>10</index>
+            <phrase>ඇයි ඒ මිනිස්සුන්ට සුවද විලුවන් අකැපද?</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේමන්ත</author>
+            <date>2013-03-08 20:19:22</date>
+            <index>11</index>
+            <phrase>සල්ලි තිබුණත් එයාලා හිගන්නොනේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සපුමල්</author>
+            <date>2013-03-08 20:45:27</date>
+            <index>12</index>
+            <phrase>ඇයි හිගන්නන්ට සල්ලි නැද්ද? අපි තමයි ලොකුම හිගන්නෝ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-03-09 03:22:53</date>
+            <index>13</index>
+            <phrase>අපේ රටේ තියෙන තත්ත්වය අනුව මෙවැනි දේවල් වහාම පොලිසියට දන්වන්න ඕනෑ කියලයි මට හිතෙන්නේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කුප්පිසාමි</author>
+            <date>2013-03-09 10:01:37</date>
+            <index>14</index>
+            <phrase>සල්ලි දීල බැනල වැඩාක් නෑ ,මමනම් දෙන්නෙ බොහොම අහම්බෙන් නොදීම බෑ කියල හිතුනම, ඊට පස්සෙ ඒක අමතක කරනව මිසක් අරූට හිතින් බැන බැන ඉන්නෙ නැහැ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-03-09 10:45:10</date>
+            <index>15</index>
+            <phrase>පුදුම පුදුම වැඩ තමයි දැන් සිද්ද වෙන්නේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සංජය</author>
+            <date>2013-03-09 13:45:28</date>
+            <index>16</index>
+            <phrase>මට නිකන් පිස්සු වේගේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දම්මික</author>
+            <date>2013-03-09 15:02:09</date>
+            <index>17</index>
+            <phrase>සිග්න වෙසින් කවුද ඉන්නේ කියලා කවුද දන්නේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විකසිත</author>
+            <date>2013-03-09 17:35:50</date>
+            <index>18</index>
+            <phrase>දුන්න සල්ලි ඉල්ලා ගන්න තිබ්බේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කුරුවිට</author>
+            <date>2013-03-09 21:27:25</date>
+            <index>19</index>
+            <phrase>මුදලාලි දන්න තරම, මේ තමයි පිරිසිදු හිගන්නෝ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-03-10 00:04:45</date>
+            <index>20</index>
+            <phrase>හිගන්නෝ කියලා ඒ මිනිස්සුන්ට කූල් බීම, සුවද විලවුන් පාවිච්චිය අකැපද?</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සෙනරත්</author>
+            <date>2013-03-10 00:20:53</date>
+            <index>21</index>
+            <phrase>ලෝකයේ හැමතැනම ඉන්න හිගන්නෝ ගොඩක් සල්ලිකාරයෝ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-03-10 01:25:29</date>
+            <index>22</index>
+            <phrase>500 කොළේ ඇත්තම එකක්ද?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>පද්මසිරි</author>
+            <date>2013-03-10 10:03:53</date>
+            <index>23</index>
+            <phrase>යාචකයෝ 99 % ක්ම බොරුව තමයි දන්නේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මහීන්</author>
+            <date>2013-03-10 12:36:06</date>
+            <index>24</index>
+            <phrase>ඉතින් එකේ වැරැද්ද මොකක්ද? සල්ලි හිගාකන්නේ ඒවා වියදම් කරන්නනේ. හිගන්නෝ අපිට වඩා හම්බකරනවා කියන්නේ හූල්ලන්න තරම් දෙයක්ද? එයාලට සල්ලි දෙන්න තරම් හිත හොද මිනිස්සු තාම ඉන්නවා කියලා සතුටු වෙන්න.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නලින්</author>
+            <date>2013-03-10 13:07:24</date>
+            <index>25</index>
+            <phrase>ඔන්න රටකට ගිය කල</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කස්තුරි</author>
+            <date>2013-03-10 13:37:29</date>
+            <index>26</index>
+            <phrase>සුවද විලවුන් ගන්න වෙන්නැති සිගා කෑවේ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-03-11 15:39:45</date>
+            <index>27</index>
+            <phrase>සල්ලි දුන්න අපි නේද පරාද</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුනිල්</author>
+            <date>2013-03-11 22:39:36</date>
+            <index>28</index>
+            <phrase>සරත්ගේ අදහසට මමත් එකගයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සමන්</author>
+            <date>2013-03-12 06:35:06</date>
+            <index>29</index>
+            <phrase>හිගන්නොත් දියුණුවෙලා</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>පිරිස්</author>
+            <date>2013-03-13 17:57:10</date>
+            <index>30</index>
+            <phrase>නවීන පන්නයේ සිගන්නෝ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>121120</articleId>
+    <title>පුතුගෙන් මඟුල් දිනේ අහගන්නැයි  කියා මවුපියෝ නෑයන්ට බුලත්දෙති</title>
+    <author>පුෂ්පකුමාර මල්ලවආරච්චි</author>
+    <date>2013 මැයි මස 13 10:04:14</date>
+    <body>බුලත්දී නැකතට මඟුල් කියා මංගල්ලය පැවැත්වෙන දිනය පුතුගෙන් අසා දැන ගන්නා ලෙස ඥාතීන්ට දැන්වූ මවුපිය යුවළක පිළිබඳ පුවතක් ගම්පහට නුදුරු ගම්මානයකින් වාර්තා විය. දකුණේ ගම්මානයක පදිංචි පවුලකි. දෙටු පුතුගේ මංගල්ලයට දින නියම කෙරිණි. ඒ අනුව නැකතට මගුල් කීමට මේ පවුල තෝරා ගත්තේ ගම්පහ ප‍්‍රදේශයේ පදිංචි ඥාති නිවසකි. ඒ අනුව කලින් දන්වා නියමිත දිනයේ මඟුල් කියන්නට මනාලයාගේ මවත් පියාත් එහි පැමිණියහ. නංගීටත් මල්ලීටත් බුලත්දී පුතුගේ මංගල්ලයට සහභාගි වනලෙස මේ මවුපිිය යුවළ ඉල්ලා සිටියහ. අයියේ මඟුල කෙරෙන්නේ කවදාද නංගී විමසුවාය. සිය බිරියගේ මුහුණ බැලූ සැමියා කල්පනා කළේය.  අනේ නංගි පුතාට කෝල් කරලා දිනේ අහගන්නයි ඉල්ලා සිටිද්දී නංගීගේත් මල්ලීගේත් දරු දෙන්නා සිනාසෙන්නට වූහ. </body>
+    <comments>
+        <comment>
+            <author>ෂෙරිෆ්</author>
+            <date>2013-05-13 10:28:43</date>
+            <index>0</index>
+            <phrase>දකුණේ ගම්මානයක නම් අහන්න දෙයක් නැහැ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-05-13 10:36:45</date>
+            <index>1</index>
+            <phrase>දකුණත්දැන් මතුගම ඕවිටිගල වගේ වෙලා කොහොමද දකුණේ ආස්චාර්යඅ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-05-13 10:47:57</date>
+            <index>2</index>
+            <phrase>දැන් ඉතින් ඔහොම්ම තමයි, සියළු පහසුකම් තියෙනවනේ. ෆේස් බුක් එකෙන් බලාගන්න පුළුවන්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-05-13 11:59:49</date>
+            <index>3</index>
+            <phrase>දකුණේ වැඩ නම් ඔහොමම තමා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>රණවීර</author>
+            <date>2013-05-13 12:22:06</date>
+            <index>4</index>
+            <phrase>වයසක අයට අමතක වෙන එක වෙන්න පුළුවන් . ඒකට හිනා වෙනවනම් නරකයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ඇන්ටන්</author>
+            <date>2013-05-13 13:20:10</date>
+            <index>5</index>
+            <phrase>මෙතන ඇතිවෙලා තියෙන්නේ දෙමව්පියොත් දරුවනුත් අතර සම්බන්ධතාවය දුරස්වීමයි. දරුවෝ දෙමව්පියන්ව ගණන් ගන්නේ නැතිකම</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ඉන්දික</author>
+            <date>2013-05-13 13:27:06</date>
+            <index>6</index>
+            <phrase>දකුණ නෙවෙයි තුම්පනේ වුනත් වයසක අම්මට තාත්තට අමතක වීම වෙන්න පුළුවන්. ඒත් ඒ සිද්ධියෙන් දකුණ විග්‍රහ කරන්න තරමටම මේ ප්‍රතිචාර දාන අය මෝඩ තකතීරුවෝද? දකුණෙ වැඩ්ඩො නිසා තමයි කාටත් කතා කරන්න හරි රටක් තියෙන්නෙ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-05-13 14:07:55</date>
+            <index>7</index>
+            <phrase>ඉන්දික,ඔබ හරි. ඔබේ කතාව ඇත්ත.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විහග</author>
+            <date>2013-05-13 14:20:44</date>
+            <index>8</index>
+            <phrase>ඉන්දික ඔබ හරි. දකුණේ මිනිස්සු නැත්තම් අද රටක් නැහැ</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිමල්</author>
+            <date>2013-05-13 14:24:12</date>
+            <index>9</index>
+            <phrase>මේක දකුණේ වැරැද්ද නෙමෙයි. අද දෙමාපිය සහ දූ දරු සබදතාවය දුරස් වෙලා</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රදීපා</author>
+            <date>2013-05-13 14:43:15</date>
+            <index>10</index>
+            <phrase>උතුර, දකුණ කියලා නැහැ අමතකවීම් වයසක අයට වෙන්න පුළුවන්. ඒකට හිනාවෙන්න හොඳ නැහැ තරුණ අය. පුතා දෙමව්පියෝ දැනුවත් කරලා එවුවා නම් වඩාත් වටිනවා</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ශීලා</author>
+            <date>2013-05-13 15:32:47</date>
+            <index>11</index>
+            <phrase>දකුණේ නියම වැඩකාරයෝ ඉන්නේ බෙන්තර ගග සහ දෙවුන්දර තුඩුවේ අතර විතරයි.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලලිත්</author>
+            <date>2013-05-13 15:52:12</date>
+            <index>12</index>
+            <phrase>එකත් එකටම මනමාලය පුද්ගලික සමාගමක සේවකයෙක් වගේ. නිවාඩු ගන්න එක හරියටම කියන්න බැහැනේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සම්පත්</author>
+            <date>2013-05-13 16:17:24</date>
+            <index>13</index>
+            <phrase>මේක ගම්පහ වෙලා තියෙන්නේ. ඉතින් දකුණට බනින්නේ පිස්සුද?</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ගයාන්</author>
+            <date>2013-05-13 17:31:43</date>
+            <index>14</index>
+            <phrase>ඉන්දික, දකුණ ගැන ඔච්චර කියවන්න එපා.රට වෙනුවෙන් වැඩිම ජීවිත ගානක් පුජා කළේ වයඹ කොල්ලෝ. ඒකත් කුරුණෑගල පළාතෙන්.හැමදේකම අයිතිය දකුණට ගෙනියන්න හදන්න එපා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>කෙවින්</author>
+            <date>2013-05-13 18:13:54</date>
+            <index>15</index>
+            <phrase>ඉන්දික,දකුණේ ඔයාලගේ වැඩකාරයෝ නිසා ලගදීම අපි ඔක්කොටම හිගා කන්න වෙනවා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අකිල</author>
+            <date>2013-05-13 19:44:57</date>
+            <index>16</index>
+            <phrase>ඇයි වදේ දැන් ඔක්කොම දකුණටනේ බනින්නේ? අනේ කාලේ වනේ වාසේ. මෙයාලා ඔක්කොටම පිස්සු. අපිටත් පිස්සු මේවා බලනවට.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නිමන්ත</author>
+            <date>2013-05-13 21:32:40</date>
+            <index>17</index>
+            <phrase>ආ ඔය ඇවිල්ලා තියෙන්නෙ දකුණට බනින්න කට ඇරගෙන බලන් ඉන්න අයට ප්‍රවෘත්තියක්. දැන් ඉතින් ඒ අයට සතුටු ඇති</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>හේරත්</author>
+            <date>2013-05-13 22:01:46</date>
+            <index>18</index>
+            <phrase>ඒ කාලේ මම යාල්පානම් ඉන්නකොට බේකරි කීපයක හිටියේ දකුණේ මුදලාලිලා. උතුරේ වගේම දකුණේත් දකුණේ වගේම උඩරටත් හොඳ වැඩ කාරයෝ හිටියේ දකුණේ අය තමයි. ඔලුව අතගාල බැලුවා නම් උකුනෙක් අහු වුණත් මචෝ ඌ දකුණේ. එන්ඩ එපා වළි දාන්න කියනවා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර _ සල්මියා</author>
+            <date>2013-05-14 00:22:39</date>
+            <index>19</index>
+            <phrase>දිනයට වඩා විනය ගැන සොයා බැලීම හොදයි. විනය අප්සට් නම් විහාහ වුණ දිනය මතක් කරකර පෙනය පුප්පන්න පටන් ගනී. එවිට දිනේ විනේ වෙලා පෙනේ. එනිසා දිනය විනය සහ ධනය ප්‍රවේශම් කරගැනීම සුදුසුය . තවද හොද නැකත්කරුවෙකු හමුවී ජීවිතය දිනන හොද දිනයක් හා හෝරාවක් ලබා ගන්න. විවාහයෙන් පසු පළමු විදුලි බිල ගැන නොසිතා සතුටින් කල් ගෙවන්න</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හසිත</author>
+            <date>2013-05-14 09:23:11</date>
+            <index>20</index>
+            <phrase>ගම්පහ දැන් තියෙන්නේ දකුණේද ආයිබෝවන්. ඉස්සර රජ කාලේ නම් දැදුරු ඔයෙන් පහල කුරුණෑගලත් රුහුණේ තමයි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දි</author>
+            <date>2013-05-14 11:36:43</date>
+            <index>21</index>
+            <phrase>දකුණේ අය‍ට හිනාවෙන්න තරම් දෙයක් මෙතන වෙලා නැහැනේ. මෝඩයා කියන දකුණේ අපේ කොල්ලෝ රට බේරගන්න මොන තරම් වීර ක්‍රියා කෙරුවද? හරියට මෙයාල අදහස් ලියන්නේ මොලේ තියෙන්නේ එයාලට විතරක් වගේනේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-05-14 16:00:00</date>
+            <index>22</index>
+            <phrase>දකුණු පළාතේ ගම්පහ කියලා ගමක් තියෙනවද? මම හරියට දන්නේ නැහැ</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-05-14 16:00:52</date>
+            <index>23</index>
+            <phrase>ඔව් චන්ඩි ඔබ හරි. දකුණේ අයගේ ඔලුව වැඩියි තමයි</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සාගර</author>
+            <date>2013-05-14 17:32:13</date>
+            <index>24</index>
+            <phrase>දකුණේ අය තමයි අද රටයි විපක්ෂයයි දෙකම කන්නෙ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අප්පු</author>
+            <date>2013-05-14 20:21:01</date>
+            <index>25</index>
+            <phrase>මේක පචයක් කියල තේරෙන්නේ නැති උදවිය දකුණට බනිනවා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දකුණේ කෙනෙක්</author>
+            <date>2013-05-14 22:00:48</date>
+            <index>26</index>
+            <phrase>දකුණේ අය නිසා තමයි කවුරුත් තාම ජීවත් වෙන්නේ</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-05-15 10:47:28</date>
+            <index>27</index>
+            <phrase>ඔව් ඒක ඇත්ත. අපි මැරි මැරී හරි ජීවත් වෙනවා දකුණ නිසා. ඇයි එයාලනේ අපිට කන්න දෙන්නේ.ඔහේ කැවැයි?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රන්දිල්</author>
+            <date>2013-05-15 12:09:22</date>
+            <index>28</index>
+            <phrase>හිනා වෙලා රස විදින්න දෙයක් කිවුවත් මෙයාලා කටින් ගහ ගන්නවානේ. අනේ මෙහෙම ලංකාවක්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දොස</author>
+            <date>2013-05-16 20:39:38</date>
+            <index>29</index>
+            <phrase>මේකේ කොහෙද වැරද්දක්? සාමාන්‍යයෙන් දැන් මගුල් කටයුතු කරන්නේ ඒ දෙන්නා. දෙමවුපියන් නෙමෙයි. මොකද දැන් තියෙන්නේ වයිවාරන දේවල් එයාලට තේරෙන්නේ නැහැනේ. චාරිත්‍ර තමයි අම්මලා කරන්නේ. ඉතින් දින නොදන්නාකම මෝඩකමක් වෙන්නේ කොහොමද?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චතූ</author>
+            <date>2013-05-17 10:02:34</date>
+            <index>30</index>
+            <phrase>දකුණේ නම් අනිවාර්යෙන් මොරවක් කෝරළේ සම්භවයක් වෙන්න ඇති.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+    </comments>
+</newsArticle>

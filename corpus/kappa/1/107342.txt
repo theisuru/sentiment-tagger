@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<newsArticle>
+    <articleId>107342</articleId>
+    <title>පිටකොටුවේ හත්මහලක් තව මහලකට හේත්තුවේ</title>
+    <author>තරිඳු ජයවර්ධන  ඡායාරූප රොමේෂ් ධනුෂ්ක සිල්වා</author>
+    <date>2013 අපේ‍්‍රල් මස 07 15:20:24</date>
+    <body>පිටකොටුව මැලිබන් වීදියේ හත් මහල් ගොඩනැගිල්ලක් ඇළවී ඒ අසළ ඇති කුමාර වීදියේ ගොඩනැගිල්ලකට හේත්තු ඇතැයි ද, තුවාලකරුවන් ගැන වාර්තා වී නැතැයි ද පොලීසිය කියයි.</body>
+    <comments>
+        <comment>
+            <author>ගාමිණී</author>
+            <date>2013-04-07 15:35:46</date>
+            <index>0</index>
+            <phrase>පසුගිය දිනවල කඩ කඩන්න ගහපු බැකෝ පහරවල් වලට ගොඩනැගිලි කණු බුරුල්වෙලා වෙන්න ඇති.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රසිරි</author>
+            <date>2013-04-07 16:20:22</date>
+            <index>1</index>
+            <phrase>අත්තිවාරම හරියට දාලා නැතුව ඇති .</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-04-07 16:39:20</date>
+            <index>2</index>
+            <phrase>ගාමිනි, කියන්ඩ දෙයක් නැත්තන් කට වහගෙන ඉන්න ඔහේ කියවන්නේ නැතුව.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>නසාර්</author>
+            <date>2013-04-07 16:45:35</date>
+            <index>3</index>
+            <phrase>අවසාන මොහොත වාගේ ගොඩනැගිලි ඇලවෙයයි නිහතමානේ.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ච්න්දන</author>
+            <date>2013-04-07 16:48:24</date>
+            <index>4</index>
+            <phrase>ගාමිණී වගේ තව කීපදෙනෙක් හිටියොත් ආස්චර්ය පෙන්නන්න තිබුන. කියමනක් තියෙනවනේ කට වහගෙන ඉන්නකන් මෝඩයත් නුවනක්කාරයෙක් කියලා.(නදී) .</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>මහින්ද-ඩුබායි</author>
+            <date>2013-04-07 17:18:00</date>
+            <index>5</index>
+            <phrase>වසර කීයක් පැරණි ගොඩනැගිල්ලක්ද ? අනෙක් ගොඩනැගිල්ල ආරක්ෂා කර ගැනීමට පිළියම් යොදන්න.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>රුවන්</author>
+            <date>2013-04-07 17:30:38</date>
+            <index>6</index>
+            <phrase>මොනවා කරන්ඩද චින්දන කණ්ඩ දුන්නට මොලේ දෙන්ඩ බැනේ. ඔහේ මොනවා හරි කුරුටු ගල පිනට කාලා කොහෙන් හරි ඇහිද ගත්තු වචනයක් දෙකක් කියව කියවා උඩු බුරලනවා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>විහග</author>
+            <date>2013-04-07 17:43:38</date>
+            <index>7</index>
+            <phrase>මේ හරියේ ගොඩක්ම ගොඩනැගිලි පරණයි. මේවා ගෙන හොයල බලන්න වෙයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>ලෙස්ලි</author>
+            <date>2013-04-07 17:40:35</date>
+            <index>8</index>
+            <phrase>අපි මේකට ශ්‍රී ලංකා පීසා කුළුන කියමු.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>යොහාන්</author>
+            <date>2013-04-07 17:56:02</date>
+            <index>9</index>
+            <phrase>ගාමිණී බලන්න ඔලුව පොඩ්ඩක් අතගාල. මේ නිකන් උල් දෙකක් පෑදීගෙන එනවද කියලා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සුමනපාල</author>
+            <date>2013-04-07 17:57:34</date>
+            <index>10</index>
+            <phrase>ඇලවුන කුළුණක් දැන් ශ්‍රී ලංකාවේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසන්න</author>
+            <date>2013-04-07 18:04:16</date>
+            <index>11</index>
+            <phrase>මේක සත් මහල් ද සිව් මහල්ද? අනේ මන්දා?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>හේවාවිතාරණ</author>
+            <date>2013-04-07 18:00:55</date>
+            <index>12</index>
+            <phrase>මහජනයාගේ ආරක්ෂාව පතා පළාතකවත් පොලිස් නිලධාරියෙක් හෝ ගිනි නිවන භටයෙක් පෙනෙන්නවත් නැහැ. ඒකට බටහිර රටවල් වල.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ප්‍රසාද්</author>
+            <date>2013-04-07 18:23:29</date>
+            <index>13</index>
+            <phrase>ගාමිණී ඔයා නම් පුදුම කෙනෙක්. මොලේ කොහෙද තියෙන්නේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ලාල්</author>
+            <date>2013-04-07 18:55:05</date>
+            <index>14</index>
+            <phrase>පෙන්නේ නම් ඇත්තේ මහල් පහක් පමණි හතක්‌ නැත. කෙසේ වෙතත් ගොඩනැගිලි නිසි ප්‍රමිතියකට ගොඩනැගුවේ නැති උනොත් ජීවිත හානි පවා සිදුවෙන්න පුළුවන්. බි .බි .සි යට අනුව ඉන්දියාවේ පසුගියදා එහෙම වෙලා 45 දෙනෙක් මැරිලා, එයින් 15 ක්ම ළමයි ලු.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>අනිල් පෙරේරා</author>
+            <date>2013-04-07 19:27:07</date>
+            <index>15</index>
+            <phrase>ගාමිණි ගම කනවා .</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සජිත්</author>
+            <date>2013-04-07 19:38:06</date>
+            <index>16</index>
+            <phrase>අර කට්ටියගේ සාප්පුවක් නම් ෂුවර් එකට බොදු බල සේනා එකේ වැඩක්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අරුණ</author>
+            <date>2013-04-07 19:33:15</date>
+            <index>17</index>
+            <phrase>මේක ආසියාවේ ඇලවෙන කුළුන කියලා සංචාරකයෝ ටිකක් ගෙන්නා ගන්න පුළුවන්නේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>තිලකගේ</author>
+            <date>2013-04-07 22:47:10</date>
+            <index>18</index>
+            <phrase>පෙනුමෙන් හැගෙන්නේ තවමත් ඉදිවෙමින් පවතින ගොඩනැගිල්ලක් බවයි. මෙවැනි ජනාකීර්ණ තැන්වල ගොඩනැගිලි ඉදිකිරීමේදී ප්‍රමිතිය ගැන සියයට සීයක්ම සහතික විය යුතුයි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>මුබීන්</author>
+            <date>2013-04-08 08:05:33</date>
+            <index>19</index>
+            <phrase>භූමිකම්පාවක්ද දන්නෙ නැහැ. දෙයියෝ සාක්කි.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-08 08:29:10</date>
+            <index>20</index>
+            <phrase>මුලින්ම ගැලවිලා තියෙන නිසා ඔහොමම වෙන තැනකින් උස්සලා තියමු.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>වරුණ</author>
+            <date>2013-04-08 08:30:19</date>
+            <index>21</index>
+            <phrase>අහවල්ලුන්ගේ කොන්ත්‍රාත් කාරයෙක්ද කොහෙද වැඩේට අත ගහලා තියෙන්නේ?ආශ්චර්යය ආශ්චර්යය...</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සරත්</author>
+            <date>2013-04-08 08:41:59</date>
+            <index>22</index>
+            <phrase>ඇල වෙලා තියන ආකාරයට අනුව නම් හිතාගන්න අමාරුයි. මොනවා වුණත් නැවෙන්න කලින් අනෙක් ගොඩනැගිලි ගැන හිතලා තියෙනවා.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>සනත්</author>
+            <date>2013-04-08 11:15:49</date>
+            <index>23</index>
+            <phrase>මේකත් සුද්දන්ට පෙන්නලා කීයක් හරි හොයාගන්න බලමු.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සාලිය</author>
+            <date>2013-04-08 13:54:57</date>
+            <index>24</index>
+            <phrase>ලංකාවට ඇලවෙන කුළුණක් නැති නිසා ඕක පරිස්සම් කරමු.....</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>අමිල</author>
+            <date>2013-04-08 14:45:06</date>
+            <index>25</index>
+            <phrase>ආසියාවේ ආශ්චර්යය තමයි ඉතින්.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>සමීර සාලින්ද</author>
+            <date>2013-04-08 17:35:44</date>
+            <index>26</index>
+            <phrase>ලංකාව තුළට ආශ්චර්යය ළගා වේ.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-04-09 01:23:58</date>
+            <index>27</index>
+            <phrase>අගේට ඇලවෙලා.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>දිසානායක</author>
+            <date>2013-04-09 01:31:36</date>
+            <index>28</index>
+            <phrase>අම්මෝ ඇලවෙලා තියෙන හැටි?</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චන්න</author>
+            <date>2013-04-09 15:03:05</date>
+            <index>29</index>
+            <phrase>ඔය පහුගිය දවස්වල රට ඇතුලට ගෙන ආපු ප්‍රමිතියෙන් අඩු සිමෙන්ති යකඩ වල ප්‍රතිඵල තමයි. තව තව දේවල් ඉස්සරහට බලන්න පුළුවන් වෙයි.</phrase>
+            <sentiment>NEGATIVE</sentiment>
+        </comment>
+        <comment>
+            <author>ජයී තිසර</author>
+            <date>2013-04-09 15:12:58</date>
+            <index>30</index>
+            <phrase>සමහරු ගාමිණී මහතාට මෙහි අපහාස කර ප්‍රතිචාර දැක්වීම ඉතා කණගාටුදායකය. මට වැටහෙන අයුරින් ඔහු කණු යනුවෙන් අදහස් කර ඇත්තේ උස ගොඩනැගිළි තැනීමේදී අත්තිවාරම තැනීමට පෙර පොලව යටට බස්වන කණු "පයිල්" විය යුතුයි. සෙලින්කෝ වැනි උස ගොඩනැගිළි තැනීමේදී ප්‍රමිතියට අනුව මෙය කළ යුතුයි. උස ගොඩනැගිළි අතර සිදුවන විශාල භූමි චලනයන් වලින් ගොඩනැගිළිවල බිත්ති පිපිරී ඉරිතලා යෑම් සිදුවේ. අවට සිදුවන තද කම්පනද උස ගොඩනැගිළි වලට ඉතා අහිතකරයි. මේ ඇලවී ඇති ගොඩනැගිළ්ලේ තට්ටු දෙකක්ද පොලවට ගිලාබැස ඇතිබව පිංතූර‍වලින් පෙනේ. පොලවයට සිදුවී ඇතිදෙය සොයා බලන තුරු ‍මේ ආපදාවට හේතුව දැක්වීම අපහසුය.</phrase>
+            <sentiment>POSITIVE</sentiment>
+        </comment>
+        <comment>
+            <author>චන්ද්‍රා</author>
+            <date>2013-04-10 07:51:52</date>
+            <index>31</index>
+            <phrase>සත් මහලක් තනවන්න බැහැ මට ඔබේ සෙනෙහසට වැඩි මත් අඩියක් දා ගන්න බැහැ මගේ බාර් එක බිමට වඩි</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+        <comment>
+            <author>චන්දන</author>
+            <date>2013-05-19 08:54:22</date>
+            <index>32</index>
+            <phrase>වරද කාගේද කියන එක හොයන්න පෙර විය හැකි අනතුරු වලක්වා ගන්න එක නේද දැන් කරන්න ඕනෑ. සමහර විට කොන්ත්‍රාත්කාරයාගේ වරද වියහැක. සමහර විට ඉන්ජිනේරුවටග් වරද වෙන්නත් පුළුවන්. ස්වාභාවික හේතුවක් වෙන්නත් පුළුවන්.</phrase>
+            <sentiment>NEUTRAL</sentiment>
+        </comment>
+    </comments>
+</newsArticle>
