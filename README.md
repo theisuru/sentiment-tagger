@@ -71,7 +71,11 @@ Generated Word2Vec models can be found under ```/corpus/analyzed/saved_models```
 Dataset used in this project is collected by crawling Sinhala online news sites, mainly www.lankadeepa.lk.
 
 
-#### contact
+### contact
 Please contact us if you need more information.  
 - Surangika Ranathunga <surangika@cse.mrt.ac.lk>
 - Isuru Liyanage <theisuru@gmail.com> 
+
+### cite
+If you use this data, code, or the trained models, please cite this work  
+Ranathunga, S., & Liyanage, I. U. (2021). Sentiment Analysis of Sinhala News Comments. Transactions on Asian and Low-Resource Language Information Processing, 20(4), 1-23.
