@@ -18,7 +18,9 @@ Sentiment classification process involves following steps.
 
 ### Downloading Word2Vec Models
 Since Word2Vec models are larger than 100MB, they can't be stored in git as ordinary files. 
-Therefore they are stored in git-lfs. To download them you need to install [git-lfs](https://git-lfs.github.com/).
+Previously, they were stored using git-lfs. But due to free limits, now you can find these models 
+including code to generate them in [this Google Drive directory](https://drive.google.com/drive/folders/0B2X9V68JgvRCUGNrVXZOWlh6REU?resourcekey=0-GW3r-eg3VTZJSDys54jpTg&usp=sharing). 
+Copy models into `$PROJECT/corpus/analyzed/saved_models/` directory.
 
 ### Directory Structure and Files
 ```
