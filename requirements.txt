@@ -21,7 +21,7 @@ boto3==1.9.106
 botocore==1.12.106
 Bottleneck==1.2.1
 bz2file==0.98
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.2
 chardet==3.0.4
 Click==7.0
